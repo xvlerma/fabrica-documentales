@@ -251,7 +251,7 @@ def render_shot(sh_, out, workdir):
         if not os.path.exists(p): prep_still(R['path'], p)
         rgb = np.asarray(Image.open(p).convert('RGB'))
         if R.get('ai'):
-            rgb = PX.film_treatment(rgb, dark=sp.get('dark', .8), seed=sh_['n'])
+            rgb = PX.film_treatment(rgb, dark=sp.get('dark', .9), soften=.45, seed=sh_['n'])
             pfx = dict(shake=1, flicker=sp.get('fire', 1), focus=sp.get('focus', (.85, .25)), seed=sh_['n'])
         else:
             pfx = dict(shake=sp.get('shake', .35), flicker=sp.get('fire', 0), focus=sp.get('focus'), seed=sh_['n'])
@@ -270,7 +270,7 @@ def render_shot(sh_, out, workdir):
     ov = sp.get('ov', 'dust' if R.get('ai') else None)
     if ov and OVERLAYS.get(ov):
         ins += ['-stream_loop', '-1', '-i', OVERLAYS[ov]]
-        chain += f';[{k}:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},hue=s=0,curves=all=0/0 0.35/0 1/0.9,format=yuv420p[o{k}];[{last}][o{k}]blend=all_mode=screen:all_opacity={sp.get("ov_op", .4)}:shortest=1[b{k}]'
+        chain += f';[{k}:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},hue=s=0,curves=all=0/0 0.35/0 1/0.9,format=gbrp[o{k}];[{last}]format=gbrp[g{k}];[g{k}][o{k}]blend=all_mode=screen:all_opacity={sp.get("ov_op", .4)}:shortest=1,format=yuv420p[b{k}]'
         last = f'b{k}'; k += 1
     if sh_.get('lt'):
         lt = f'{workdir}/lt_{abs(hash(tuple(sh_["lt"])))}.png'

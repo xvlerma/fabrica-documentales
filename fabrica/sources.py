@@ -45,6 +45,7 @@ def pixabay_videos(q, n=30):
 
 def relevant(c, must):
     """True si el candidato menciona alguno de los términos obligatorios (etiquetas, título o página)."""
+    if any(x in str(c.get('tags', '')).lower() for x in ('ai generated', 'ai-generated', 'generative', 'midjourney', 'render', '3d', 'animation', 'cartoon')): return False
     if not must: return True
     txt = ' '.join(str(c.get(k, '')) for k in ('tags', 'title', 'page', 'credit')).lower()
     return any(m.lower() in txt for m in must)

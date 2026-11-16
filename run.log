@@ -1,0 +1,15 @@
+== 1/5 audio: colocando voces, música y efectos
+voz: 2.4 min, 307 palabras narrador, total 3.3 min
+== 2/5 guion visual
+  aviso: plano no real en el primer minuto (t=29s): photo
+  aviso: plano no real en el primer minuto (t=56s): card
+   28 planos
+== 3/5 buscando y descargando material
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/28
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/287 [00:00<?, ?it/s]Loading weights: 100%|██████████| 287/287 [00:00<00:00, 11126.91it/s]
+   plano 20/28
+== 5/5 montaje final
+FIN: jobs/prueba01/out/prueba01.mp4 · 3.4 min · 28 MB

@@ -1,0 +1,563 @@
+{
+ "id": "prueba03",
+ "title": "El faraón asesinado por su harén (prueba v3)",
+ "channel": "Egipto forense",
+ "music": {
+  "tema": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3RQaU8JYt4V0Rz0e07Od/N7hNPVk7AcwnB4pM3XMQ/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=2oxoNE_qJ8l339BHG_9j_9gOfXM=",
+  "tension": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bCO4arigLy5zRkZbas3t/gxzgWLWt3BSmNMxWTPOp/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=CF66WJpge6ALyYiJtGTMXZ8BGV4=",
+  "batalla": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MBRgX3GDnU8vFZUlUnQG/W0HPjumpGwSM8FIjeDTT/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=-PAqKCtMZV0j1DqjChiRBv29rv4="
+ },
+ "beds": {
+  "noche": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/axAQu3fOivX9w8UJCItW/MT6qdI5MJcIxKw0f5LJJ/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=cI4nUUit3Ckv-BKRdg75zsiM9-0="
+ },
+ "intro": [
+  "assets/intro/sideone.mp4"
+ ],
+ "chapters": [
+  {
+   "unit": 6,
+   "title": "La conjura"
+  }
+ ],
+ "seed": 8,
+ "must": [
+  "egypt",
+  "egyptian",
+  "luxor",
+  "karnak",
+  "nile",
+  "cairo",
+  "giza",
+  "aswan",
+  "pharaoh",
+  "hieroglyph",
+  "pyramid",
+  "sphinx",
+  "abu simbel",
+  "valley of the kings",
+  "medinet habu",
+  "thebes"
+ ],
+ "units": [
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ESRbFIbyOLlW0AmVRROP/cbxSSSV9iBbTbhJ1e0Fn/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=NUYesoELw5K7bevr2HcKO8jwpLI=",
+   "text": "[serious] Tebas. Año mil ciento cincuenta y cinco antes de Cristo. [pause] Es la noche de la Bella Fiesta del Valle. Miles de antorchas cruzan el Nilo hacia los templos de los muertos.\n\nEn el palacio de Medinet Habu, el faraón Ramsés Tercero se retira a las estancias de su harén. Lleva treinta y un años en el trono. Ha derrotado a los ejércitos que hundieron imperios enteros.\n\n[softly] Esta noche, sus enemigos no vienen del mar. [pause] Duermen a pocos metros de él.",
+   "shots": [
+    {
+     "photo": "Bonfils Medinet Habu",
+     "src": "commons",
+     "lt": [
+      "Tebas",
+      "Año 1155 a. C."
+     ]
+    },
+    {
+     "ai": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Sz12PZ5g2PHq8l09okqg/A0OHp6wPYdH8qfcZZ92r/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=c3BEfhZRLY9n_hcw8PFDwV8PrFQ=",
+     "sfx": "footsteps stone corridor slow"
+    },
+    {
+     "video": "nile river night"
+    },
+    {
+     "photo": "Description de l'Egypte Thebes",
+     "src": "commons"
+    },
+    {
+     "video": "karnak temple"
+    },
+    {
+     "photo": "Medinet Habu migdol gate",
+     "src": "commons"
+    },
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Medinet Habu · Tebas",
+      "keys": [
+       [
+        -15,
+        0,
+        75,
+        55
+       ],
+       [
+        24,
+        20,
+        38,
+        32
+       ],
+       [
+        31.4,
+        24.9,
+        33.8,
+        26.5
+       ]
+      ],
+      "points": [
+       {
+        "name": "Egipto",
+        "lon": 30.5,
+        "lat": 27,
+        "at": 0.12
+       },
+       {
+        "name": "Tebas",
+        "lon": 32.6,
+        "lat": 25.7,
+        "at": 0.45,
+        "pulse": 1,
+        "big": 1
+       },
+       {
+        "name": "Medinet Habu",
+        "lon": 32.6,
+        "lat": 25.72,
+        "at": 0.75
+       }
+      ]
+     }
+    },
+    {
+     "commons": "Penn Ramsés III 03.JPG",
+     "kw": "Ramsés III",
+     "kw_at": 0.2
+    },
+    {
+     "photo": "Medinet Habu Sea Peoples relief",
+     "src": "commons"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 31,
+      "label": "años en el trono"
+     }
+    },
+    {
+     "video": "luxor temple night"
+    },
+    {
+     "ai": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OFDRL95Wlxp2iszeVT6s/8N1jY0RHj0uzJfieYfCN/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=UiewKksU_Jf9EHIitZ0HNaQs6d0=",
+     "sfx": [
+      "dark drone hit",
+      -30
+     ]
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wDtbqfX0SWRtrjUVD5d6/tXpbSzoOzwTCHDtYm0oW/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=aCHlnLI3EfHSKeB8bApsYp5s854=",
+   "text": "[serious] ¿Murió el faraón aquella noche? [short pause] Durante tres mil años, nadie pudo responder. [short pause] Hasta que una máquina miró debajo de sus vendas.\n\n[dramatically] El faraón asesinado por su propio harén.",
+   "shots": [
+    {
+     "commons": "Ramses III mummy head.png",
+     "kw": "¿Asesinado?"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 3000,
+      "label": "años sin respuesta"
+     }
+    },
+    {
+     "card": {
+      "type": "scan",
+      "commons": "Ramses III mummy head.png",
+      "mark": [
+       0.5,
+       0.9,
+       0.09
+      ],
+      "label": "Lo que ocultaban las vendas",
+      "sublabel": "Tomografía, 2012",
+      "hud": [
+       "TC · CORTE AXIAL",
+       "MOMIA DE RAMSÉS III · EL CAIRO"
+      ]
+     },
+     "sfx": "scanner beep electronic"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": null
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 9,
+   "shots": [
+    {
+     "card": {
+      "type": "title",
+      "title": "El faraón asesinado",
+      "sub": "por su harén"
+     },
+     "tr": "flash"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QG2zjPFIIa4XdYRZb8k2/usw3NxD3ZRv57It7jkiy/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=2FBVNy9l085yIJan_uZHMgmSlZ4=",
+   "text": "[serious] En el ala de las mujeres, una esposa secundaria llamada Tiye lleva meses esperando este momento. Su hijo, el príncipe Pentawer, no es el heredero. El trono está reservado para otro príncipe, el que reinará como Ramsés Cuarto.",
+   "shots": [
+    {
+     "ai": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wZMDSumdZtit1pn4e5ks/fXjDCMXKMozMzz0Z98Cb/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=gevwWVQjkXatvVkGeC48EoxZE3Y=",
+     "sfx": [
+      "fabric rustle",
+      -32
+     ],
+     "tr": "flash"
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Tiye",
+      "role": "Esposa secundaria de Ramsés III"
+     }
+    },
+    {
+     "photo": "Ramesses IV statue",
+     "src": "commons"
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Pentawer",
+      "role": "Su hijo. No era el heredero."
+     }
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/eeO0VrVRhIbdi4owhBQu/yia8HCdp1U3dND0t7VQ1/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=tc7jH5pN2d3Zqd6g1m2JDXqMYEE=",
+   "text": "Mi hijo llevará la doble corona. Lo juro por Amón.",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Mi hijo llevará la doble corona. Lo juro por Amón.",
+      "attrib": "Tiye · reconstrucción dramatizada"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fqdeb1q5yN5kT66j9BKA/bKl5jhOp4SzRq87BZ5x9/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=atC-as-dVOnKu8QeiY75j-gtBUU=",
+   "text": "[serious] Tiye no está sola. A su lado trabaja Pebekkamen, el jefe de la despensa real. Es él quien lleva los mensajes. Quien recluta. Quien convence.",
+   "shots": [
+    {
+     "ai": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qecD4IDNTTXEewj4mRHO/jZY2yBdYPsERGk5lIXcw/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=JpL2J6OTWD2trvf_6pKHH__FUmY=",
+     "sfx": [
+      "paper scroll rustle",
+      -31
+     ]
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Pebekkamen",
+      "role": "Jefe de la despensa real"
+     }
+    },
+    {
+     "photo": "Egyptian scribe statue",
+     "src": "commons"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Nk6o27taEa2STjETQEOH/T9d5kxnr7pICmNlDYRUc/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=G1SU2v-mDVC_KvC96LVc7DHUd-Q=",
+   "text": "Los mayordomos están con nosotros. El escriba también. Y el capitán.",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Los mayordomos están con nosotros. El escriba también. Y el capitán.",
+      "attrib": "Pebekkamen · reconstrucción dramatizada"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7Kk4YoSfAYOTUxHK0OuT/6Qh0d6nJrxglEGGDCmOs/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=S1N2LBhEl4KVdJIg8ngGK8RDTYA=",
+   "text": "[serious] La conjura crece en silencio. Mayordomos que sirven la mesa del rey, escribas del harén, oficiales del ejército. Incluso el supervisor del tesoro real, un hombre llamado Pairy.\n\nPero el harén es una jaula de oro. Nadie entra ni sale sin permiso. Para llegar hasta el rey, necesitan un pase.",
+   "shots": [
+    {
+     "card": {
+      "type": "board",
+      "title": "La conjura",
+      "center": 1,
+      "nodes": [
+       [
+        "Tiye",
+        "esposa secundaria"
+       ],
+       [
+        "Pentawer",
+        "su hijo"
+       ],
+       [
+        "Pebekkamen",
+        "jefe de la despensa"
+       ],
+       [
+        "Mesedsure",
+        "mayordomo"
+       ],
+       [
+        "Binemwaset",
+        "capitán de arqueros"
+       ],
+       [
+        "Pairy",
+        "supervisor del tesoro"
+       ]
+      ],
+      "links": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        2
+       ],
+       [
+        2,
+        3
+       ],
+       [
+        2,
+        4
+       ],
+       [
+        2,
+        5
+       ],
+       [
+        0,
+        5
+       ]
+      ]
+     }
+    },
+    {
+     "ai": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UYhd6QeRZJG2qOVnqnNW/Cu5YSQpkOyQMXm1QEups/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=VXZsII6hM44oKfUwLSbYeUremCs="
+    },
+    {
+     "card": {
+      "type": "doc",
+      "commons": "Turin Judicial Papyrus",
+      "title": "Papiro Judicial de Turín",
+      "lines": [
+       "«Los grandes criminales…»",
+       "«…fueron llevados ante el tribunal.»"
+      ],
+      "source": "Museo Egizio, Turín · actas del juicio"
+     }
+    },
+    {
+     "video": "egypt temple gate"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mrBHxcR4ZfEfLDMrXXVQ/l8J0rGstQlYdxjoQU5yb/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=cFJ_LvZptSJ8fvDfBO9IMxvoZBM=",
+   "text": "Pairy nos dará el pase. Nadie nos detendrá en la puerta.",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Pairy nos dará el pase. Nadie nos detendrá en la puerta.",
+      "attrib": "Pebekkamen · reconstrucción dramatizada"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PxZWZogAaVneeNKm6ppe/yDPB8OmRJY4g8EUcQpQC/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=kjqVL__S5qs3kok5MWCcelIpDOQ=",
+   "text": "[serious] El plan tiene dos partes. Matar al faraón dentro del harén. Y levantar a la gente fuera, para que nadie se oponga al nuevo rey.\n\nLa fiesta es el momento perfecto. Hay música, hay multitudes, y los guardias miran hacia el río.",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Dentro del harén",
+       "lines": [
+        "Matar al faraón"
+       ]
+      },
+      "right": {
+       "title": "Fuera, en Tebas",
+       "lines": [
+        "Levantar a la gente",
+        "para el nuevo rey"
+       ]
+      }
+     }
+    },
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "La revuelta",
+      "keys": [
+       [
+        30.5,
+        23,
+        35,
+        28
+       ],
+       [
+        29,
+        17,
+        36,
+        28
+       ]
+      ],
+      "points": [
+       {
+        "name": "Tebas",
+        "lon": 32.6,
+        "lat": 25.7,
+        "at": 0.05,
+        "pulse": 1
+       },
+       {
+        "name": "Nubia",
+        "lon": 31.5,
+        "lat": 20.5,
+        "at": 0.5
+       }
+      ],
+      "arrows": [
+       {
+        "path": [
+         [
+          32.6,
+          25.7
+         ],
+         [
+          32.9,
+          23.5
+         ],
+         [
+          31.5,
+          20.5
+         ]
+        ],
+        "label": "el mensaje al capitán",
+        "at": 0.6
+       }
+      ]
+     }
+    },
+    {
+     "video": "egypt nile festival",
+     "old": true
+    },
+    {
+     "video": "luxor nile felucca"
+    }
+   ]
+  },
+  {
+   "k": "S",
+   "sfx": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MLTgm2fnlkZL1KmPWvxi/dOtmk6pBU8KqzsFwFNtx/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=9xb97kp8jPef1zbFuCTWj-hSLi4=",
+   "db": -29
+  },
+  {
+   "k": "N",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5YDVlv2wC3QimQqoLcJY/ZB1G65497JuZyy9IIyFR/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=4FbjuvGaJJRGfsfdDdUmThGSRI4=",
+   "text": "[serious] Esa noche, varias figuras cruzan los pasillos de Medinet Habu. [short pause] Llevan cuchillos. [pause] [softly] Y quizá algo más pesado.\n\nLo que ocurrió dentro de aquella habitación quedó envuelto en lino durante treinta siglos.\n\n[serious] Pero ¿cómo llega un dios viviente a morir a manos de los suyos?",
+   "shots": [
+    {
+     "ai": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Cto3hF70TnJjCyo3aIT2/hUNIDONKdKZ60KsByt9j/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=b0yEzRTXZNF2-x7Nel-oZkLlmN4=",
+     "sfx": [
+      "footsteps running stone",
+      -28
+     ],
+     "tr": "black"
+    },
+    {
+     "video": "egypt temple columns",
+     "kw": "Cuchillos",
+     "kw_at": 0.4
+    },
+    {
+     "ai": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OFDRL95Wlxp2iszeVT6s/8N1jY0RHj0uzJfieYfCN/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=UiewKksU_Jf9EHIitZ0HNaQs6d0=",
+     "fire": 1
+    },
+    {
+     "photo": "Medinet Habu harem palace",
+     "src": "commons"
+    },
+    {
+     "commons": "Ramses III mummy head.png",
+     "move": null
+    },
+    {
+     "card": {
+      "type": "quote",
+      "text": "¿Cómo llega un dios viviente a morir a manos de los suyos?",
+      "attrib": ""
+     },
+     "tr": "black"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": null
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 12,
+   "end": true,
+   "shots": [
+    {
+     "card": {
+      "type": "title",
+      "title": "Egipto forense",
+      "sub": "Prueba de la fábrica · versión 3"
+     }
+    }
+   ]
+  }
+ ],
+ "stage": "cast",
+ "cold_secs": 60,
+ "audio": {
+  "bed_db": {
+   "tema": -31,
+   "tension": -35,
+   "batalla": -31,
+   "noche": -37
+  }
+ },
+ "overlays": {
+  "dust": "dust particles black background",
+  "smoke": "smoke black background",
+  "embers": "embers black background"
+ }
+}

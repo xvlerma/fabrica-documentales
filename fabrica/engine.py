@@ -151,7 +151,12 @@ def resolve(spec, need, credits, pick=None):
     if pick:
         if 'spec' in pick: spec = pick['spec']
         else: return use(pick, credits, spec)
-    if 'card' in spec: return dict(kind='card', card=spec['card'])
+    if 'card' in spec:
+        c = dict(spec['card'])
+        if c.get('commons'):
+            m = SRC.commons_file(c['commons']); credits.append(('archivo', m)); c['_path'] = SRC.download(m['url'], '.jpg')
+        elif c.get('image'): c['_path'] = fetch(c['image'], '.jpg')
+        return dict(kind='card', card=c)
     if 'ai' in spec: return dict(kind='image', path=fetch(spec['ai'], '.jpg'), ai=True, move=spec.get('move'))
     if 'image' in spec: return dict(kind='image', path=fetch(spec['image'], '.jpg'), move=spec.get('move'))
     if 'file' in spec: p = fetch(spec['file']); return dict(kind='video' if p.endswith(('.mp4', '.webm', '.mov')) else 'image', path=p)
@@ -176,16 +181,18 @@ def build_edl(job, U, A):
         specs = U[i].get('shots') or [{'card': {'type': 'title', 'title': job.get('channel', ''), 'sub': job.get('title', '')}}]
         n = len(specs)
         rep = [x for x in specs if not ('card' in x or 'ai' in x or 'commons' in x or 'image' in x or 'file' in x)]
-        while d / n > 11 and rep: specs = specs + [dict(x, lt=None) for x in rep[:max(1, len(rep) // 2)]]; n = len(specs)
-        while n > 1 and d / n < 3.2: specs = specs[:-1]; n -= 1
+        while d / n > (3.4 if t < job.get('cold_secs', 60) else 6.0) and rep: specs = specs + [dict(x, lt=None) for x in rep[:max(1, len(rep) // 2)]]; n = len(specs)
+        while n > 1 and d / n < (1.6 if t < job.get('cold_secs', 60) else 2.6): specs = specs[:-1]; n -= 1
         # reparto: tarjetas y vídeo algo más largos que las imágenes IA
         wts = [1.25 if ('card' in s or 'video' in s) else (0.8 if 'ai' in s else 1.0) for s in specs]; ws = sum(wts); acc = t
         for m, (s, w) in enumerate(zip(specs, wts)):
             dd = d * w / ws
-            shots.append(dict(spec=s, t=acc, d=dd, unit=i, k=e['k'], lt=s.get('lt'),
+            shots.append(dict(spec=s, t=acc, d=dd, unit=i, k=e['k'], lt=s.get('lt'), tr_in=s.get('tr'),
                               fadein=.8 if (e['k'] == 'M' and m == 0) else 0, fadeout=1.2 if (e['k'] == 'M' and m == n - 1) else 0))
             acc += dd
     shots[-1]['fadeout'] = 3.0
+    for a_, b_ in zip(shots, shots[1:]):
+        if b_.get('tr_in'): a_['tr_out'] = b_['tr_in']
     for s in shots:
         if s['t'] < job.get('cold_secs', 60) and not ('video' in s['spec'] or 'commons' in s['spec']):
             log(f'  aviso: plano no real en el primer minuto (t={s["t"]:.0f}s): {list(s["spec"])[0]}')
@@ -214,51 +221,79 @@ def prep_still(path, out, BW=2880, BH=1620):
         c.paste(fg, ((BW - fg.width) // 2, (BH - fg.height) // 2))
     c.save(out, quality=94)
 
+OVERLAYS = {}
 def render_shot(sh_, out, workdir):
     if os.path.exists(out): return out
     f0 = round(sh_['t'] * FPS); f1 = round((sh_['t'] + sh_['d']) * FPS); N = max(1, f1 - f0); dur = N / FPS
-    R = sh_['res']; fx = []
-    if sh_.get('fadein'): fx.append(f'fade=t=in:st=0:d={sh_["fadein"]}')
-    if sh_.get('fadeout'): fx.append(f'fade=t=out:st={dur - sh_["fadeout"]:.3f}:d={sh_["fadeout"]}')
+    R = sh_['res']; sp = sh_['spec']; fx = []
+    # transiciones: destello (salto en el tiempo) o negro (cliffhanger); fundidos de entrada/salida
+    if sh_.get('tr_in') == 'flash': fx.append('fade=t=in:st=0:d=0.35:color=white')
+    elif sh_.get('tr_in') == 'black': fx.append('fade=t=in:st=0:d=0.3')
+    elif sh_.get('fadein'): fx.append(f'fade=t=in:st=0:d={sh_["fadein"]}')
+    if sh_.get('tr_out') == 'flash': fx.append(f'fade=t=out:st={dur - .18:.3f}:d=0.18:color=white')
+    elif sh_.get('tr_out') == 'black': fx.append(f'fade=t=out:st={dur - .45:.3f}:d=0.45')
+    elif sh_.get('fadeout'): fx.append(f'fade=t=out:st={dur - sh_["fadeout"]:.3f}:d={sh_["fadeout"]}')
+    gen = None
     if R['kind'] == 'card':
-        CARDS.render_card(R['card'], dur, out, fade_in=sh_.get('fadein') or .25, fade_out=sh_.get('fadeout') or 0); return out
-    if R['kind'] == 'video':
+        tmp = out + '.card.mp4'
+        if not os.path.exists(tmp): CARDS.render_card(R['card'], dur, tmp, fade_in=0, fade_out=0)
+        base = ['-i', tmp]; vf = 'null'
+    elif R['kind'] == 'video':
         L = R.get('dur') or float(sh(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', R['path']]).strip() or 0)
         slow = min(1.6, max(1.0, dur / max(.5, L - 1.5))) if L else 1.0
         start = max(0, min(L - dur / slow - .2, 1.0 + (L - dur / slow) * random.random() * .5)) if L else 0
-        vf = f'setpts={slow:.3f}*PTS,scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS},' + (GRADE if not R.get('old') else 'eq=contrast=1.05') + ''.join(',' + x for x in fx)
-        cmd = ['ffmpeg', '-loglevel', 'error', '-y', '-ss', f'{start:.2f}', '-stream_loop', '-1', '-i', R['path'], '-vf', vf]
+        base = ['-ss', f'{start:.2f}', '-stream_loop', '-1', '-i', R['path']]
+        crop = sp.get('crop')  # recorte de franjas negras de origen: [x, y, w, h] relativos
+        cf = f'crop=iw*{crop[2]}:ih*{crop[3]}:iw*{crop[0]}:ih*{crop[1]},' if crop else 'cropdetect=limit=24:round=2:reset=0,' if False else ''
+        vf = f'setpts={slow:.3f}*PTS,{cf}scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS},' + (GRADE if not R.get('old') else 'eq=contrast=1.05')
     else:
         p = f'{workdir}/prep_{os.path.basename(R["path"])}.jpg'
         if not os.path.exists(p): prep_still(R['path'], p)
+        rgb = np.asarray(Image.open(p).convert('RGB'))
+        if R.get('ai'):
+            rgb = PX.film_treatment(rgb, dark=sp.get('dark', .8), seed=sh_['n'])
+            pfx = dict(shake=1, flicker=sp.get('fire', 1), focus=sp.get('focus', (.85, .25)), seed=sh_['n'])
+        else:
+            pfx = dict(shake=sp.get('shake', .35), flicker=sp.get('fire', 0), focus=sp.get('focus'), seed=sh_['n'])
         if R.get('move') != 'flat' and os.environ.get('FABRICA_25D', '1') == '1':
-            gen = PX.frames(np.asarray(Image.open(p).convert('RGB')), W, H, N, sh_['move'])
-            if gen is not None:
-                cmd = ['ffmpeg', '-loglevel', 'error', '-y', '-f', 'rawvideo', '-pix_fmt', 'bgr24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
-                       '-vf', GRADE + ''.join(',' + x for x in fx)]
-                return _encode_pipe(cmd, sh_, gen, N, out, workdir)
-        z0, z1, x0, x1, y0, y1 = MOVES[sh_['move']]
-        e = f'(0.5-0.5*cos(PI*(on/{max(1, N - 1)})))'
-        vf = (f"zoompan=z='({z0}+({z1}-{z0})*{e})':x='(iw-iw/zoom)*({x0}+({x1}-{x0})*{e})':y='(ih-ih/zoom)*({y0}+({y1}-{y0})*{e})':d={N}:s={W}x{H}:fps={FPS},"
-              + GRADE + ''.join(',' + x for x in fx))
-        cmd = ['ffmpeg', '-loglevel', 'error', '-y', '-loop', '1', '-framerate', str(FPS), '-i', p, '-vf', vf]
-    return _encode_pipe(cmd, sh_, None, N, out, workdir)
-
-def _encode_pipe(cmd, sh_, gen, N, out, workdir):
+            gen = PX.frames(rgb, W, H, N, sh_['move'], FPS, pfx)
+        if gen is not None:
+            base = ['-f', 'rawvideo', '-pix_fmt', 'bgr24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-']; vf = GRADE
+        else:
+            if R.get('ai'): Image.fromarray(rgb).save(p + '.ai.jpg', quality=94); p = p + '.ai.jpg'
+            z0, z1, x0, x1, y0, y1 = MOVES[sh_['move'] % len(MOVES)]
+            e = f'(0.5-0.5*cos(PI*(on/{max(1, N - 1)})))'
+            base = ['-loop', '1', '-framerate', str(FPS), '-i', p]
+            vf = (f"zoompan=z='({z0}+({z1}-{z0})*{e})':x='(iw-iw/zoom)*({x0}+({x1}-{x0})*{e})':y='(ih-ih/zoom)*({y0}+({y1}-{y0})*{e})':d={N}:s={W}x{H}:fps={FPS}," + GRADE)
+    # capas superpuestas: humo/polvo real (pantalla), rótulo inferior, palabra clave
+    ins = []; chain = f'[0:v]{vf},format=yuv420p[b0]'; last = 'b0'; k = 1
+    ov = sp.get('ov', 'dust' if R.get('ai') else None)
+    if ov and OVERLAYS.get(ov):
+        ins += ['-stream_loop', '-1', '-i', OVERLAYS[ov]]
+        chain += f';[{k}:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},format=yuv420p[o{k}];[{last}][o{k}]blend=all_mode=screen:all_opacity={sp.get("ov_op", .55)}:shortest=1[b{k}]'
+        last = f'b{k}'; k += 1
     if sh_.get('lt'):
         lt = f'{workdir}/lt_{abs(hash(tuple(sh_["lt"])))}.png'
         if not os.path.exists(lt): CARDS.lower_third(sh_['lt'][0], sh_['lt'][1] if len(sh_['lt']) > 1 else None, lt)
-        i = cmd.index('-vf'); vf = cmd[i + 1]; del cmd[i:i + 2]
-        cmd += ['-loop', '1', '-framerate', str(FPS), '-i', lt, '-filter_complex',
-                f'[0:v]{vf},format=yuv420p[b];[1:v]format=rgba,fade=t=in:st=0.6:d=0.6:alpha=1,fade=t=out:st=5.2:d=0.6:alpha=1[o];[b][o]overlay=0:0:shortest=1[v]', '-map', '[v]']
-    cmd += ['-frames:v', str(N), '-r', str(FPS), *ENC, out + '.tmp.mp4']
+        ins += ['-loop', '1', '-framerate', str(FPS), '-i', lt]
+        chain += f';[{k}:v]format=rgba,fade=t=in:st=0.5:d=0.5:alpha=1,fade=t=out:st={min(5.2, dur - .6):.2f}:d=0.5:alpha=1[o{k}];[{last}][o{k}]overlay=0:0:shortest=1[b{k}]'
+        last = f'b{k}'; k += 1
+    if sp.get('kw'):
+        kp = f'{workdir}/kw_{abs(hash(sp["kw"]))}.png'
+        if not os.path.exists(kp): CARDS.keyword(sp['kw'], kp)
+        a0 = sp.get('kw_at', .3); a1 = min(dur - .2, a0 + sp.get('kw_dur', 1.8))
+        ins += ['-loop', '1', '-framerate', str(FPS), '-i', kp]
+        chain += f';[{k}:v]format=rgba,fade=t=in:st={a0}:d=0.12:alpha=1,fade=t=out:st={a1 - .3:.2f}:d=0.3:alpha=1[o{k}];[{last}][o{k}]overlay=0:0:shortest=1[b{k}]'
+        last = f'b{k}'; k += 1
+    chain += f';[{last}]' + (','.join(fx) if fx else 'null') + '[v]'
+    cmd = ['ffmpeg', '-loglevel', 'error', '-y', *base, *ins, '-filter_complex', chain, '-map', '[v]', '-frames:v', str(N), '-r', str(FPS), *ENC, out + '.tmp.mp4']
     if gen is None: sh(cmd)
     else:
         pr = subprocess.Popen(cmd, stdin=subprocess.PIPE, stderr=subprocess.PIPE)
         try:
             for fr in gen: pr.stdin.write(fr.tobytes())
         except BrokenPipeError: pass
-        pr.stdin.close(); err = pr.stderr.read().decode(errors='ignore'); 
+        pr.stdin.close(); err = pr.stderr.read().decode(errors='ignore')
         if pr.wait(): raise RuntimeError('ffmpeg 2.5D :: ' + err[-600:])
     os.rename(out + '.tmp.mp4', out); return out
 
@@ -333,6 +368,11 @@ def run(job_dir):
             alt = job.get('fallback') or [{'card': {'type': 'title', 'title': job.get('channel', ''), 'sub': job.get('title', '')}}]
             s['res'] = resolve(alt[n % len(alt)], s['d'], credits)
         mv = random.choice([m for m in range(len(MOVES)) if m != last]); s['move'] = last = mv; s['n'] = n
+    for name, q in job.get('overlays', {}).items():
+        try:
+            c = q if isinstance(q, dict) else candidates({'video': q, 'free': True}, n=1)[0]
+            OVERLAYS[name] = use(c, credits)['path']
+        except Exception as e: log('  aviso capa', name, e)
     # efectos automáticos: golpe de aire al entrar cada tarjeta, impacto en títulos
     extra = []
     auto = job.get('auto_sfx', {'card': 'cinematic whoosh', 'title': 'cinematic boom impact'})
@@ -345,6 +385,18 @@ def run(job_dir):
             q = auto['title'] if s['res']['card']['type'] == 'title' else auto['card']
             try: y = sfx(q, -27 if 'boom' in q else -31); extra.append((int(max(0, s['t'] - 0.25) * SR), fade(y[:, :int(3 * SR)], 0.02, 0.8)))
             except Exception as e: log('  aviso sfx auto:', e)
+    trs = job.get('tr_sfx', {'flash': 'whoosh reverse swell', 'black': 'cinematic hit deep'})
+    for s in shots:
+        q = s['spec'].get('sfx')
+        if q:
+            q, db = (q, -30) if isinstance(q, str) else q
+            try: y = sfx(q, db); extra.append((int(max(0, s['t'] - s['spec'].get('sfx_pre', .4)) * SR), fade(y[:, :int(s['d'] * SR + SR)], .05, .6)))
+            except Exception as e: log('  aviso sfx plano:', e)
+        if s.get('tr_in') in trs:
+            try:
+                y = sfx(trs[s['tr_in']], -28); pre = 0.6 if s['tr_in'] == 'flash' else 0.02
+                extra.append((int(max(0, s['t'] - pre) * SR), fade(y[:, :int(2.5 * SR)], .02, .6)))
+            except Exception as e: log('  aviso sfx transición:', e)
     log('== 4/5 mezcla final de audio'); mix_audio(A, extra, f'{wd}/doc.wav')
     log('== 4/5 renderizando planos')
     with ThreadPoolExecutor(int(os.environ.get('FABRICA_THREADS', '2'))) as ex:

@@ -193,6 +193,203 @@ def f_map(spec, t, D):
 
 KIND = dict(title=f_title, ficha=f_ficha, quote=f_quote, list=f_list, timeline=f_timeline, map=f_map)
 
+# ================= GRAFISMO v3 =================
+CYAN = (120, 220, 235)
+def _lerp(a, b, k): return a + (b - a) * k
+def _img(spec, key='_path'):
+    c = _bgcache.get(('img', spec[key]))
+    if c is None: c = Image.open(spec[key]).convert('RGB'); _bgcache[('img', spec[key])] = c
+    return c
+
+def _draw_land(d, P, view, scale):
+    lon0, lat0, lon1, lat1 = view
+    for f in _geo('ne_50m_land')['features']:
+        g = f['geometry']; polys = g['coordinates'] if g['type'] == 'MultiPolygon' else [g['coordinates']]
+        for poly in polys:
+            ring = poly[0]; xs = [q[0] for q in ring]; ys = [q[1] for q in ring]
+            if max(xs) < lon0 or min(xs) > lon1 or max(ys) < lat0 or min(ys) > lat1: continue
+            step = max(1, int(len(ring) / 4000)) if scale > 40 else 1
+            pts = [P(x, y) for x, y in ring[::step]]
+            if len(pts) > 2: d.polygon(pts, fill=(58, 46, 32, 255), outline=(150, 120, 80, 255))
+    try:
+        for f in _geo('ne_50m_rivers_lake_centerlines')['features']:
+            g = f['geometry']; ls = g['coordinates'] if g['type'] == 'MultiLineString' else [g['coordinates']]
+            for l in ls:
+                if all(not (lon0 <= x <= lon1 and lat0 <= y <= lat1) for x, y in l[::5] + [l[-1]]): continue
+                d.line([P(x, y) for x, y in l], fill=(70, 110, 130, 255), width=3 if scale < 60 else 2)
+    except Exception: pass
+
+def f_mapfly(spec, t, D):
+    """Viaje de cámara sobre el mapa entre varios encuadres (zoom logarítmico), con lugares y rutas."""
+    keys = [fit_bbox(b) for b in spec['keys']]; n = len(keys) - 1
+    T = D * spec.get('travel', 0.65); u = min(n, max(0., t / T * n)) if n else 0
+    i = min(n - 1, int(u)) if n else 0; k = ease(u - i) if n else 0
+    a, b = keys[i], keys[min(n, i + 1)]
+    sa, sb = a[2] - a[0], b[2] - b[0]; span = sa * (sb / sa) ** k
+    cx = _lerp((a[0] + a[2]) / 2, (b[0] + b[2]) / 2, ease(k)); cy = _lerp((a[1] + a[3]) / 2, (b[1] + b[3]) / 2, ease(k))
+    ratio = (a[3] - a[1]) / sa; vs = span * ratio
+    view = [cx - span / 2, cy - vs / 2, cx + span / 2, cy + vs / 2]
+    def P(lon, lat): return ((lon - view[0]) / span * W, (view[3] - lat) / vs * H)
+    im = Image.new('RGBA', (W, H), (14, 20, 26, 255)); d = ImageDraw.Draw(im)
+    _draw_land(d, P, view, span)
+    v = np.asarray(bg(spec.get('seed', 61))).astype(np.float32); arr = np.asarray(im).astype(np.float32)
+    arr[..., :3] = arr[..., :3] * 0.75 + v[..., :3] * 0.35
+    fr = Image.fromarray(np.clip(arr, 0, 255).astype('uint8'), 'RGBA'); d = ImageDraw.Draw(fr)
+    # cuadrícula de coordenadas tenue
+    gstep = 10 ** math.floor(math.log10(span / 3))
+    for g_ in np.arange(math.floor(view[0] / gstep) * gstep, view[2], gstep): x = P(g_, 0)[0]; d.line([(x, 0), (x, H)], fill=(255, 255, 255, 14))
+    for g_ in np.arange(math.floor(view[1] / gstep) * gstep, view[3], gstep): y = P(0, g_)[1]; d.line([(0, y), (W, y)], fill=(255, 255, 255, 14))
+    for p_ in spec.get('points', []):
+        at = p_.get('at', 0) * D; kk = ease((t - at) / .6)
+        if kk <= 0: continue
+        x, y = P(p_['lon'], p_['lat'])
+        if not (-50 < x < W + 50 and -50 < y < H + 50): continue
+        r = (8 + 6 * p_.get('big', 0)) * kk
+        if p_.get('pulse'):
+            rr = r + 18 * ((t * 1.2) % 1); d.ellipse([x - rr, y - rr, x + rr, y + rr], outline=GOLD + (int(200 * (1 - (t * 1.2) % 1)),), width=2)
+        d.ellipse([x - r, y - r, x + r, y + r], fill=GOLD, outline=(20, 15, 10))
+        put(fr, text_layer(p_['name'], font('corm600', 40 + 8 * p_.get('big', 0)), CREAM), x + 18, y, kk, anchor='lm')
+    for j, a_ in enumerate(spec.get('arrows', [])):
+        at = a_.get('at', .7) * D; kk = ease((t - at) / a_.get('dur', 1.6))
+        if kk <= 0: continue
+        path = [P(lon, lat) for lon, lat in a_['path']]
+        L = [math.dist(path[q], path[q + 1]) for q in range(len(path) - 1)]; tot = sum(L); goal = tot * kk; acc = 0; seg = [path[0]]
+        for q, l in enumerate(L):
+            if acc + l >= goal: r_ = (goal - acc) / max(l, 1e-6); seg.append((path[q][0] + (path[q + 1][0] - path[q][0]) * r_, path[q][1] + (path[q + 1][1] - path[q][1]) * r_)); break
+            seg.append(path[q + 1]); acc += l
+        col = tuple(a_.get('color', RED)); d.line(seg, fill=col, width=7, joint='curve')
+        if len(seg) > 1:
+            (xa, ya), (xb, yb) = seg[-2], seg[-1]; ang = math.atan2(yb - ya, xb - xa)
+            d.polygon([(xb + 22 * math.cos(ang), yb + 22 * math.sin(ang)), (xb + 14 * math.cos(ang + 2.4), yb + 14 * math.sin(ang + 2.4)), (xb + 14 * math.cos(ang - 2.4), yb + 14 * math.sin(ang - 2.4))], fill=col)
+        if a_.get('label') and kk > .6:
+            mx, my = path[len(path) // 2]; put(fr, text_layer(a_['label'], font('corm500i', 38), CREAM), mx + 20, my, ease((kk - .6) / .4), anchor='lm')
+    if spec.get('title'):
+        band = Image.new('RGBA', (W, 170), (0, 0, 0, 0)); bd = ImageDraw.Draw(band)
+        for yy in range(170): bd.line([(0, yy), (W, yy)], fill=(8, 8, 10, int(200 * (1 - yy / 170) ** 1.2)))
+        fr.alpha_composite(band, (0, 0)); put(fr, text_layer(spec['title'].upper(), font('cinzel600', 46), GOLD, 0.12), W / 2, 72, ease(t / .8))
+    return fr
+
+def _fit(img, bw, bh):
+    w, h = img.size; s = min(bw / w, bh / h); return img.resize((int(w * s), int(h * s)), Image.LANCZOS)
+
+def f_scan(spec, t, D):
+    """Escáner forense sobre una imagen real: barrido de TAC, rejilla, marca de hallazgo y datos."""
+    src = _img(spec); fr = Image.new('RGBA', (W, H), (4, 8, 12, 255))
+    im = _fit(src, 1000, 940); g = np.asarray(im.convert('L')).astype(np.float32) / 255
+    xr = 1 - g if spec.get('invert', True) else g
+    xr = np.clip((xr - .15) * 1.5, 0, 1) ** 1.2
+    tint = np.stack([xr * 120, xr * 225, xr * 240], -1); orig = np.stack([g * 210, g * 200, g * 185], -1)
+    p = ease(t / (D * .45)); hh = im.height; cut = int(hh * p)
+    out = orig.copy(); out[:cut] = tint[:cut]
+    if 0 < cut < hh: out[max(0, cut - 4):cut + 2] = [200, 255, 255]
+    ox, oy = 180 + (1000 - im.width) // 2, (H - im.height) // 2
+    fr.alpha_composite(Image.fromarray(out.astype('uint8')).convert('RGBA'), (ox, oy)); d = ImageDraw.Draw(fr)
+    for gx in range(ox, ox + im.width, 64): d.line([(gx, oy), (gx, oy + hh)], fill=CYAN + (22,))
+    for gy in range(oy, oy + hh, 64): d.line([(ox, gy), (ox + im.width, gy)], fill=CYAN + (22,))
+    d.rectangle([ox, oy, ox + im.width, oy + hh], outline=CYAN + (90,), width=2)
+    for i, txt in enumerate(spec.get('hud', ['TC · CORTE AXIAL', 'MOMIA C1 · MUSEO EGIPCIO DEL CAIRO'])):
+        put(fr, text_layer(txt, font('cinzel400', 24), CYAN, 0.15), 1290, 90 + i * 36, ease((t - .3) / .6), anchor='lm')
+    if spec.get('mark'):
+        mx, my, mr = spec['mark']; X, Y, R = ox + mx * im.width, oy + my * hh, mr * im.width
+        k = ease((t - D * .5) / .8)
+        if k > 0:
+            ang = 360 * k; d.arc([X - R, Y - R, X + R, Y + R], -90, -90 + ang, fill=(235, 70, 50, 255), width=5)
+            if k >= 1:
+                pulse = R + 14 * ((t * 1.5) % 1); d.ellipse([X - pulse, Y - pulse, X + pulse, Y + pulse], outline=(235, 70, 50, int(160 * (1 - (t * 1.5) % 1))), width=2)
+            lab = text_layer(spec.get('label', '').upper(), font('cinzel600', 36), (245, 120, 90), 0.1)
+            right = ox + im.width + 40 + lab.width + 20 < W; lx = ox + im.width + 40 if right else ox - 40; ka = ease((t - D * .5 - .6) / .6)
+            if ka > 0:
+                d.line([(X + R * (1 if lx > X else -1), Y), (_lerp(X, lx, ka), Y)], fill=(235, 70, 50, 255), width=3)
+                put(fr, lab, lx + (10 if lx > X else -lab.width - 10), Y, ka, anchor='lm')
+                if spec.get('sublabel'):
+                    sl = text_layer(spec['sublabel'], font('corm500i', 36), CREAM); put(fr, sl, lx + (10 if lx > X else -sl.width - 10), Y + 50, ka, anchor='lm')
+    return fr
+
+def f_doc(spec, t, D):
+    """Documento real (papiro, inscripción) con acercamiento al detalle y traducción línea a línea."""
+    src = _img(spec); fr = bg(spec.get('seed', 71))
+    fx, fy, fw, fh = spec.get('focus', [0, 0, 1, 1]); k = ease(t / (D * .5))
+    w0, h0 = src.size; vw = _lerp(1, fw, k) * w0; vh = _lerp(1, fh, k) * h0
+    cx = _lerp(w0 / 2, (fx + fw / 2) * w0, k); cy = _lerp(h0 / 2, (fy + fh / 2) * h0, k)
+    box = [cx - vw / 2, cy - vh / 2, cx + vw / 2, cy + vh / 2]
+    view = src.crop(tuple(int(v) for v in box)); view = _fit(view, 1100, 820)
+    ox, oy = 110, (H - view.height) // 2 - 20; fr.alpha_composite(view.convert('RGBA'), (ox, oy)); d = ImageDraw.Draw(fr)
+    d.rectangle([ox - 2, oy - 2, ox + view.width + 2, oy + view.height + 2], outline=GOLD + (120,), width=2)
+    if spec.get('hl'):
+        hx, hy, hw, hh = spec['hl']; kk = ease((t - D * .5) / .6)
+        if kk > 0:
+            X0, Y0 = ox + hx * view.width, oy + hy * view.height; d.rectangle([X0, Y0, X0 + hw * view.width * kk, Y0 + hh * view.height], outline=(235, 190, 90, 255), width=4)
+    ty = 170
+    for tl_ in wrap(spec.get('title', '').upper(), font('cinzel600', 38), 520):
+        put(fr, text_layer(tl_, font('cinzel600', 38), GOLD, 0.06), 1290, ty, ease(t / .8), anchor='lm'); ty += 52
+    put(fr, rule_layer(260), 1290 + 140, ty + 5, ease((t - .3) / .8))
+    lines = spec.get('lines', []); step = (D * .7) / max(1, len(lines)); y = ty + 70
+    for i, l in enumerate(lines):
+        for j, ww in enumerate(wrap(l, font('corm500i', 42), 520)):
+            put(fr, text_layer(ww, font('corm500i', 42), CREAM), 1290, y, ease((t - .8 - i * step) / .7), anchor='lm'); y += 54
+        y += 26
+    if spec.get('source'): put(fr, text_layer(spec['source'], font('corm500', 28), DIM), 1290, H - 120, ease((t - 1) / .8), anchor='lm')
+    return fr
+
+def f_board(spec, t, D):
+    """Tablero de investigación: fichas de papel unidas por hilo rojo."""
+    fr = bg(spec.get('seed', 81)); d = ImageDraw.Draw(fr); nodes = spec['nodes']; n = len(nodes)
+    pos = spec.get('pos') or [(W / 2 + 620 * math.cos(2 * math.pi * i / n - math.pi / 2) * (0 if (i == 0 and spec.get('center')) else 1),
+                               H / 2 + 50 + 330 * math.sin(2 * math.pi * i / n - math.pi / 2) * (0 if (i == 0 and spec.get('center')) else 1)) for i in range(n)]
+    step = (D * .45) / max(1, n)
+    for i, j in spec.get('links', []):
+        kk = ease((t - .4 - max(i, j) * step - .3) / .7)
+        if kk <= 0: continue
+        (x0, y0), (x1, y1) = pos[i], pos[j]; d.line([(x0, y0), (_lerp(x0, x1, kk), _lerp(y0, y1, kk))], fill=(170, 30, 25, 255), width=4)
+    for i, (name, role) in enumerate(nodes):
+        kk = ease((t - .4 - i * step) / .5)
+        if kk <= 0: continue
+        x, y = pos[i]; cw, ch = 300, 150
+        card = Image.new('RGBA', (cw + 40, ch + 40), (0, 0, 0, 0)); cd = ImageDraw.Draw(card)
+        cd.rectangle([24, 24, cw + 24, ch + 24], fill=(0, 0, 0, 90)); card = card.filter(ImageFilter.GaussianBlur(6)); cd = ImageDraw.Draw(card)
+        cd.rectangle([16, 16, cw + 16, ch + 16], fill=(222, 208, 178, 255))
+        cd.text((cw / 2 + 16, 70), name.upper(), font=font('cinzel600', 34 if len(name) < 14 else 26), fill=(40, 28, 18), anchor='mm')
+        cd.text((cw / 2 + 16, 120), role, font=font('corm500i', 28), fill=(90, 70, 50), anchor='mm')
+        cd.ellipse([cw / 2 + 6, 10, cw / 2 + 26, 30], fill=(170, 30, 25, 255))
+        card = card.rotate(((i * 37) % 9 - 4) * .8, resample=Image.BICUBIC, expand=True)
+        put(fr, card, x, y - 25 * (1 - kk), kk)
+    if spec.get('title'): put(fr, text_layer(spec['title'].upper(), font('cinzel600', 46), GOLD, 0.12), W / 2, 70, ease(t / .8))
+    return fr
+
+def f_counter(spec, t, D):
+    fr = bg(spec.get('seed', 91)); k = ease(t / (D * .55)); v = _lerp(spec.get('from', 0), spec['to'], k)
+    txt = f"{int(round(v)):,}".replace(',', '.')
+    put(fr, text_layer(spec.get('prefix', '') + txt, font('cinzel600', 200), GOLD, 0.04), W / 2, H / 2 - 50, ease(t / .5))
+    put(fr, rule_layer(420), W / 2, H / 2 + 80, ease((t - .4) / .8))
+    put(fr, text_layer(spec.get('label', ''), font('corm500i', 60), CREAM), W / 2, H / 2 + 150, ease((t - .6) / .8))
+    return fr
+
+def f_split(spec, t, D):
+    fr = bg(spec.get('seed', 95)); d = ImageDraw.Draw(fr); k = ease((t - .2) / .8)
+    d.line([(W / 2, H / 2 - 380 * k), (W / 2, H / 2 + 380 * k)], fill=GOLD, width=2)
+    for side, cx, col in (('left', W / 4, DIM), ('right', 3 * W / 4, GOLD)):
+        s_ = spec[side]; at = .4 if side == 'left' else D * .4
+        put(fr, text_layer(s_['title'].upper(), font('cinzel600', 44), col, 0.12), cx, 260, ease((t - at) / .7))
+        y = 360
+        for i, l in enumerate(s_.get('lines', [])):
+            for ww in wrap(l, font('corm500', 44), 700):
+                put(fr, text_layer(ww, font('corm500', 44), CREAM if side == 'right' else (190, 180, 165)), cx, y, ease((t - at - .4 - i * .5) / .6)); y += 58
+            y += 24
+        if side == 'left' and t > D * .4:
+            kk = ease((t - D * .4) / .4)
+            if kk > 0: d.line([(cx - 330, 330), (cx - 330 + 660 * kk, 330 + (y - 360) * kk)], fill=(178, 60, 40, 200), width=5)
+    return fr
+
+KIND.update(mapfly=f_mapfly, scan=f_scan, doc=f_doc, board=f_board, counter=f_counter, split=f_split)
+
+def keyword(word, out):
+    """Palabra clave a pantalla completa (capa transparente) para superponer sobre un plano."""
+    im = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+    g = Image.new('RGBA', (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(g); gd.rectangle([0, H / 2 - 160, W, H / 2 + 160], fill=(0, 0, 0, 120))
+    im.alpha_composite(g.filter(ImageFilter.GaussianBlur(60)))
+    L = text_layer(word.upper(), font('cinzel600', 150), GOLD, 0.18); im.alpha_composite(L, ((W - L.width) // 2, (H - L.height) // 2))
+    im.save(out)
+
 def render_card(spec, dur, out, fade_in=.25, fade_out=.0):
     N = max(1, round(dur * FPS)); fn = KIND[spec['type']]
     vf = []

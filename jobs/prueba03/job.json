@@ -49,8 +49,7 @@
    "text": "[serious] Tebas. Año mil ciento cincuenta y cinco antes de Cristo. [pause] Es la noche de la Bella Fiesta del Valle. Miles de antorchas cruzan el Nilo hacia los templos de los muertos.\n\nEn el palacio de Medinet Habu, el faraón Ramsés Tercero se retira a las estancias de su harén. Lleva treinta y un años en el trono. Ha derrotado a los ejércitos que hundieron imperios enteros.\n\n[softly] Esta noche, sus enemigos no vienen del mar. [pause] Duermen a pocos metros de él.",
    "shots": [
     {
-     "photo": "Bonfils Medinet Habu",
-     "src": "commons",
+     "commons": "Theban region, Medinet Habu, 19th century pictures, F. Bonfils, photo 1 of 51 - Archivio fotografico Museo Egizio, Turin INV25 004.jpg",
      "lt": [
       "Tebas",
       "Año 1155 a. C."
@@ -64,15 +63,13 @@
      "video": "nile river night"
     },
     {
-     "photo": "Description de l'Egypte Thebes",
-     "src": "commons"
+     "commons": "Thèbes. Medynet-Abou (Medinet Habu). Vue intérieure du péristyle du palais (NYPL b14212718-1267944).jpg"
     },
     {
      "video": "karnak temple"
     },
     {
-     "photo": "Medinet Habu migdol gate",
-     "src": "commons"
+     "commons": "Theban region, Medinet Habu, 19th century pictures, photo 5 of 51 - Archivio fotografico Museo Egizio, Turin Album2 037.jpg"
     },
     {
      "card": {
@@ -128,8 +125,7 @@
      "kw_at": 0.2
     },
     {
-     "photo": "Medinet Habu Sea Peoples relief",
-     "src": "commons"
+     "commons": "Thèbes. Medynet-Abou (Medinet Habu). Bas-reliefs sculptés sur les murs du palais (NYPL b14212718-1267938).jpg"
     },
     {
      "card": {
@@ -365,17 +361,31 @@
     {
      "card": {
       "type": "doc",
-      "commons": "Turin Judicial Papyrus",
+      "commons": "Papyrus judicial Turin.jpg",
       "title": "Papiro Judicial de Turín",
       "lines": [
        "«Los grandes criminales…»",
        "«…fueron llevados ante el tribunal.»"
       ],
-      "source": "Museo Egizio, Turín · actas del juicio"
+      "source": "Museo Egizio, Turín · actas del juicio",
+      "focus": [
+       0.3,
+       0.3,
+       0.4,
+       0.4
+      ],
+      "hl": [
+       0.15,
+       0.4,
+       0.7,
+       0.2
+      ]
      }
     },
     {
-     "video": "egypt temple gate"
+     "commons": "Theban region, Medinet Habu, 19th century pictures, F. Bonfils, photo 10 of 51 - Archivio fotografico Museo Egizio, Turin INV23 003.jpg",
+     "kw": "Una jaula de oro",
+     "kw_at": 0.3
     }
    ]
   },
@@ -508,12 +518,10 @@
      "fire": 1
     },
     {
-     "photo": "Medinet Habu harem palace",
-     "src": "commons"
+     "commons": "Theban region, Medinet Habu, 19th century pictures, photo 20 of 51 - Archivio fotografico Museo Egizio, Turin Album2 036.jpg"
     },
     {
-     "commons": "Ramses III mummy head.png",
-     "move": null
+     "commons": "Ramses III mummy.png"
     },
     {
      "card": {

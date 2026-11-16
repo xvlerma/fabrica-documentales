@@ -1,0 +1,44 @@
+name: fabrica
+on:
+  push:
+    paths: ['jobs/*/job.json']
+  workflow_dispatch:
+    inputs:
+      job: { description: 'id del trabajo (carpeta en jobs/)', required: true }
+permissions:
+  contents: write
+concurrency: { group: fabrica-${{ github.ref }}, cancel-in-progress: false }
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - name: dependencias
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q librosa soundfile numpy pillow
+      - name: qué trabajo
+        id: job
+        run: |
+          if [ -n "${{ github.event.inputs.job }}" ]; then J="${{ github.event.inputs.job }}";
+          else J=$(git diff --name-only HEAD~1 HEAD | grep -m1 '^jobs/.*/job.json$' | cut -d/ -f2); fi
+          echo "id=$J" >> $GITHUB_OUTPUT; echo "trabajo: $J"
+      - name: fabricar
+        env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          FREESOUND_API_KEY: ${{ secrets.FREESOUND_API_KEY }}
+          EUROPEANA_API_KEY: ${{ secrets.EUROPEANA_API_KEY }}
+          FABRICA_THREADS: '2'
+        run: python3 fabrica/engine.py jobs/${{ steps.job.outputs.id }} 2>&1 | tee /tmp/run.log; exit ${PIPESTATUS[0]}
+      - name: entregar
+        if: always()
+        run: |
+          J=${{ steps.job.outputs.id }}; O=jobs/$J/out; mkdir -p $O
+          git config --global user.name fabrica; git config --global user.email fabrica@users.noreply.github.com
+          mkdir /tmp/r && cd /tmp/r && git init -q && git checkout -q -b out-$J
+          cp $GITHUB_WORKSPACE/$O/* . 2>/dev/null || true; cp /tmp/run.log . 2>/dev/null || true
+          if [ -f $J.mp4 ]; then split -b 90M -d $J.mp4 $J.mp4.part; rm $J.mp4; fi
+          git add -A; git commit -qm "salida $J"
+          git push -f https://x-access-token:${{ github.token }}@github.com/${{ github.repository }} out-$J

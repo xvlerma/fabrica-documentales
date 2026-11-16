@@ -23,7 +23,9 @@ jobs:
       - name: dependencias
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
-          pip install -q librosa soundfile numpy pillow
+          pip install -q librosa soundfile numpy pillow opencv-python-headless
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q transformers
       - name: qué trabajo
         id: job
         run: |

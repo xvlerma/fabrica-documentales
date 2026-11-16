@@ -118,6 +118,14 @@ def f_timeline(spec, t, D):
     return fr
 
 _land = {}
+def fit_bbox(bbox):
+    """Amplía el encuadre a 16:9 sin deformar (corrección por latitud) y deja aire arriba para el título."""
+    lon0, lat0, lon1, lat1 = bbox; lat1 += (lat1 - lat0) * 0.16
+    k = math.cos(math.radians((lat0 + lat1) / 2)); cx, cy = (lon0 + lon1) / 2, (lat0 + lat1) / 2
+    L, A = lon1 - lon0, lat1 - lat0; need = W * A / (k * H)
+    if need > L: L = need
+    else: A = L * k * H / W
+    return [cx - L / 2, cy - A / 2, cx + L / 2, cy + A / 2]
 def _geo(name):
     if name in _land: return _land[name]
     from sources import download
@@ -127,7 +135,7 @@ def _geo(name):
 def _map_base(bbox, seed):
     key = ('map', tuple(bbox))
     if key in _bgcache: return _bgcache[key].copy()
-    lon0, lat0, lon1, lat1 = bbox
+    lon0, lat0, lon1, lat1 = bbox = fit_bbox(bbox)
     # ajusta el encuadre a 16:9 en proyección equirectangular corregida por latitud
     k = math.cos(math.radians((lat0 + lat1) / 2))
     def P(lon, lat): return ((lon - lon0) / (lon1 - lon0) * W, (lat1 - lat) / (lat1 - lat0) * H)
@@ -149,10 +157,14 @@ def _map_base(bbox, seed):
     return out.copy()
 
 def f_map(spec, t, D):
-    bbox = spec['bbox']; lon0, lat0, lon1, lat1 = bbox
+    bbox = spec['bbox']; lon0, lat0, lon1, lat1 = fit_bbox(bbox)
     def P(lon, lat): return ((lon - lon0) / (lon1 - lon0) * W, (lat1 - lat) / (lat1 - lat0) * H)
     fr = _map_base(bbox, spec.get('seed', 61)); d = ImageDraw.Draw(fr)
-    if spec.get('title'): put(fr, text_layer(spec['title'].upper(), font('cinzel600', 46), GOLD, 0.12), W / 2, 80, ease(t / .8))
+    if spec.get('title'):
+        band = Image.new('RGBA', (W, 170), (0, 0, 0, 0)); bd = ImageDraw.Draw(band)
+        for yy in range(170): bd.line([(0, yy), (W, yy)], fill=(8, 8, 10, int(200 * (1 - yy / 170) ** 1.2)))
+        fr.alpha_composite(band, (0, 0))
+        put(fr, text_layer(spec['title'].upper(), font('cinzel600', 46), GOLD, 0.12), W / 2, 72, ease(t / .8))
     pts = spec.get('points', []); arrows = spec.get('arrows', [])
     for i, p in enumerate(pts):
         k = ease((t - .5 - i * .35) / .6)

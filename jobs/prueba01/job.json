@@ -26,14 +26,14 @@
    "secs": 14,
    "shots": [
     {
-     "video": "luxor temple night",
+     "video": "luxor temple",
      "lt": [
       "Tebas",
       "1155 a. C."
      ]
     },
     {
-     "video": "nile river sunset aerial"
+     "video": "nile egypt aerial"
     }
    ]
   },
@@ -52,17 +52,18 @@
    "text": "[serious] Tebas. Año mil ciento cincuenta y cinco antes de Cristo. [pause] Es la noche de la Bella Fiesta del Valle. Miles de antorchas cruzan el Nilo hacia los templos de los muertos.\n\nEn el palacio de Medinet Habu, el faraón Ramsés Tercero se retira a las estancias de su harén. Lleva treinta y un años en el trono. Ha derrotado a los ejércitos que hundieron imperios enteros.\n\n[softly] Esta noche, sus enemigos no vienen del mar. [pause] Duermen a pocos metros de él.",
    "shots": [
     {
-     "video": "karnak temple columns"
+     "video": "karnak temple"
     },
     {
-     "video": "torch fire flame dark"
+     "video": "torch fire dark",
+     "free": true
     },
     {
      "photo": "Ramesses III",
      "src": "met,cleveland,commons"
     },
     {
-     "video": "egypt hieroglyphs wall"
+     "video": "hieroglyphs egypt"
     },
     {
      "commons": "Ramses III mummy head.png"
@@ -75,7 +76,7 @@
    "text": "[serious] ¿Murió el faraón aquella noche? [short pause] Durante tres mil años, nadie pudo responder. [short pause] Hasta que una máquina miró debajo de sus vendas.\n\n[dramatically] El faraón asesinado por su propio harén.",
    "shots": [
     {
-     "video": "desert night stars timelapse"
+     "video": "egypt desert night"
     },
     {
      "card": {
@@ -124,7 +125,7 @@
      }
     },
     {
-     "video": "egyptian palace ruins"
+     "video": "medinet habu"
     },
     {
      "card": {
@@ -187,7 +188,8 @@
    "text": "[serious] La conjura crece en silencio. Mayordomos que sirven la mesa del rey, escribas del harén, oficiales del ejército. Incluso el supervisor del tesoro real, un hombre llamado Pairy.\n\nPero el harén es una jaula de oro. Nadie entra ni sale sin permiso. Para llegar hasta el rey, necesitan un pase.",
    "shots": [
     {
-     "video": "oil lamp flame dark"
+     "video": "oil lamp flame",
+     "free": true
     },
     {
      "card": {
@@ -301,13 +303,14 @@
    "text": "[serious] Esa noche, varias figuras cruzan los pasillos de Medinet Habu. [short pause] Llevan cuchillos. [pause] [softly] Y quizá algo más pesado.\n\nLo que ocurrió dentro de aquella habitación quedó envuelto en lino durante treinta siglos.\n\n[serious] Pero ¿cómo llega un dios viviente a morir a manos de los suyos?",
    "shots": [
     {
-     "video": "ancient temple corridor columns"
+     "video": "egypt temple columns"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/8e15bb15-9ed7-4f92-85c7-7f4f02f0f5c5.jpg"
     },
     {
-     "video": "candle flame dark wind"
+     "video": "candle flame dark",
+     "free": true
     }
    ]
   },
@@ -325,12 +328,30 @@
      "card": {
       "type": "title",
       "title": "Egipto forense",
-      "sub": "Prueba de la fábrica"
+      "sub": "Prueba de la fábrica · versión 2"
      }
     }
    ]
   }
  ],
  "seed": 8,
- "run": 2
+ "must": [
+  "egypt",
+  "egyptian",
+  "luxor",
+  "karnak",
+  "nile",
+  "cairo",
+  "giza",
+  "aswan",
+  "pharaoh",
+  "hieroglyph",
+  "pyramid",
+  "sphinx",
+  "abu simbel",
+  "valley of the kings",
+  "medinet habu",
+  "thebes"
+ ],
+ "stage": "cast"
 }

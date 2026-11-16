@@ -28,18 +28,26 @@ def download(url, ext=None, headers=None):
     return out
 
 # ---------- vídeo ----------
-def pixabay_videos(q, n=12):
+def pixabay_videos(q, n=30):
     key = os.environ.get('PIXABAY_API_KEY')
     if not key: return []
     j = _json(f'https://pixabay.com/api/videos/?key={key}&q={urllib.parse.quote(q)}&per_page={n}&safesearch=true')
     out = []
     for h in j.get('hits', []):
-        v = h['videos'].get('large') or {}
-        if not v.get('url') or v.get('width', 0) < 1280: v = h['videos'].get('medium') or {}
+        V = h['videos']; v = V.get('large') or {}
+        if not v.get('url') or v.get('width', 0) < 1280: v = V.get('medium') or {}
         if not v.get('url'): continue
-        out.append(dict(kind='video', url=v['url'], w=v.get('width', 0), h=v.get('height', 0), dur=h.get('duration', 0),
+        thumb = next((V[k].get('thumbnail') for k in ('medium', 'large', 'small', 'tiny') if (V.get(k) or {}).get('thumbnail')), None)
+        if not thumb and h.get('picture_id'): thumb = f"https://i.vimeocdn.com/video/{h['picture_id']}_640x360.jpg"
+        out.append(dict(kind='video', url=v['url'], w=v.get('width', 0), h=v.get('height', 0), dur=h.get('duration', 0), thumb=thumb,
                         credit=f"{h.get('user','')} / Pixabay", license='Pixabay Content License', page=h.get('pageURL'), id=f"pxb{h['id']}", tags=h.get('tags', '')))
     return out
+
+def relevant(c, must):
+    """True si el candidato menciona alguno de los términos obligatorios (etiquetas, título o página)."""
+    if not must: return True
+    txt = ' '.join(str(c.get(k, '')) for k in ('tags', 'title', 'page', 'credit')).lower()
+    return any(m.lower() in txt for m in must)
 
 def commons_search(q, video=False, n=10):
     filt = ' filetype:video' if video else ' filetype:bitmap'
@@ -57,8 +65,8 @@ def commons_search(q, video=False, n=10):
             url = ii.get('url'); dur = float(ii.get('duration') or 0)
         else:
             url = ii.get('thumburl') or ii.get('url'); dur = 0
-        out.append(dict(kind='video' if video else 'image', url=url, w=ii.get('width', 0), h=ii.get('height', 0), dur=dur,
-                        credit=art, license=lic, page=ii.get('descriptionurl'), id='wm' + str(p.get('pageid'))))
+        out.append(dict(kind='video' if video else 'image', url=url, w=ii.get('width', 0), h=ii.get('height', 0), dur=dur, title=p.get('title', ''),
+                        thumb=None if video else ii.get('thumburl'), credit=art, license=lic, page=ii.get('descriptionurl'), id='wm' + str(p.get('pageid'))))
     return out
 
 def commons_file(title):
@@ -116,7 +124,7 @@ def cleveland(q, n=10):
         im = ((a.get('images') or {}).get('web') or {})
         if not im.get('url'): continue
         out.append(dict(kind='image', url=im['url'], w=int(im.get('width') or 0), h=int(im.get('height') or 0), dur=0,
-                        credit='Cleveland Museum of Art', license='CC0', page=a.get('url'), id=f"cma{a['id']}", title=a.get('title')))
+                        credit='Cleveland Museum of Art', license='CC0', page=a.get('url'), id=f"cma{a['id']}", title=(a.get('title') or '') + ' ' + (a.get('culture') or [''])[0] if isinstance(a.get('culture'), list) else a.get('title'), thumb=im['url']))
     return out
 
 def met(q, n=8):
@@ -129,7 +137,7 @@ def met(q, n=8):
             o = _json(f'https://collectionapi.metmuseum.org/public/collection/v1/objects/{i}')
             if o.get('isPublicDomain') and o.get('primaryImage'):
                 out.append(dict(kind='image', url=o['primaryImage'], w=0, h=0, dur=0, credit='The Metropolitan Museum of Art', license='CC0',
-                                page=o.get('objectURL'), id=f'met{i}', title=o.get('title')))
+                                page=o.get('objectURL'), id=f'met{i}', title=f"{o.get('title','')} {o.get('culture','')} {o.get('department','')}", thumb=o.get('primaryImageSmall') or o['primaryImage']))
         except Exception: pass
         if len(out) >= n: break
     return out

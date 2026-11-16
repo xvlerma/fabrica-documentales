@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor
 import numpy as np, librosa, soundfile as sf
 from PIL import Image, ImageFilter, ImageEnhance
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import sources as SRC, cards as CARDS
+import sources as SRC, cards as CARDS, parallax as PX
 
 SR, FPS, W, H = 44100, 25, 1920, 1080
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -117,35 +117,52 @@ def mix_audio(A, extra, out):
 
 # ================= MATERIAL VISUAL =================
 USED = set()
-def resolve(spec, need, credits):
+MUST = []
+def candidates(spec, n=8, use_used=True):
+    """Candidatos para un plano de vídeo o foto, filtrados por relevancia (job['must'])."""
+    out = []
+    def add(lst):
+        for c in lst:
+            if (use_used and c['id'] in USED) or any(c['id'] == x['id'] for x in out): continue
+            if SRC.relevant(c, MUST if ('video' in spec and not spec.get('free')) else []): out.append(c)
+    if 'video' in spec:
+        q = spec['video']
+        for fn in (lambda: SRC.pixabay_videos(q), lambda: SRC.pixabay_videos(q.split()[0] + ' egypt') if MUST and not spec.get('free') else [],
+                   lambda: SRC.commons_search(q, video=True), lambda: SRC.archive_videos(q) if spec.get('old') else []):
+            try: add(fn())
+            except Exception as e: log('  aviso fuente:', q, e)
+            if len(out) >= n: break
+    elif 'photo' in spec:
+        q = spec['photo']; order = spec.get('src', 'cleveland,met,commons,europeana').split(',')
+        F = dict(cleveland=lambda: SRC.cleveland(q), met=lambda: SRC.met(q), commons=lambda: SRC.commons_search(q), europeana=lambda: SRC.europeana(q))
+        for s_ in order:
+            try: add(F[s_.strip()]())
+            except Exception as e: log('  aviso fuente:', s_, q, e)
+            if len(out) >= n: break
+    return out[:n]
+
+def use(c, credits, spec=None):
+    USED.add(c['id']); credits.append(('vídeo' if c['kind'] == 'video' else 'archivo', c))
+    if c['kind'] == 'video': return dict(kind='video', path=SRC.download(c['url'], '.mp4'), dur=c.get('dur', 0), old=(spec or {}).get('old'))
+    return dict(kind='image', path=SRC.download(c['url'], '.jpg'), move=(spec or {}).get('move'))
+
+def resolve(spec, need, credits, pick=None):
     """Convierte una especificación de plano en un recurso local: dict(kind, path, credit...)"""
+    if pick:
+        if 'spec' in pick: spec = pick['spec']
+        else: return use(pick, credits, spec)
     if 'card' in spec: return dict(kind='card', card=spec['card'])
-    if 'ai' in spec: return dict(kind='image', path=fetch(spec['ai'], '.jpg'), ai=True)
-    if 'image' in spec: return dict(kind='image', path=fetch(spec['image'], '.jpg'))
+    if 'ai' in spec: return dict(kind='image', path=fetch(spec['ai'], '.jpg'), ai=True, move=spec.get('move'))
+    if 'image' in spec: return dict(kind='image', path=fetch(spec['image'], '.jpg'), move=spec.get('move'))
     if 'file' in spec: p = fetch(spec['file']); return dict(kind='video' if p.endswith(('.mp4', '.webm', '.mov')) else 'image', path=p)
     if 'commons' in spec:
         c = SRC.commons_file(spec['commons']); credits.append(('archivo', c))
-        return dict(kind=c['kind'], path=SRC.download(c['url']), dur=c['dur'])
-    if 'video' in spec:
-        q = spec['video']; cands = []
-        for fn in (lambda: SRC.pixabay_videos(q), lambda: SRC.commons_search(q, video=True), lambda: SRC.archive_videos(q) if spec.get('old') else []):
-            try: cands += [c for c in fn() if c['id'] not in USED]
-            except Exception as e: log('  aviso fuente:', q, e)
-            if len(cands) >= 3: break
-        if not cands: raise LookupError(f'sin vídeo para "{q}"')
-        cands.sort(key=lambda c: (c['dur'] < need, -min(c['w'], 1920), -c['dur']))
-        c = cands[0]; USED.add(c['id']); credits.append(('vídeo', c))
-        return dict(kind='video', path=SRC.download(c['url'], '.mp4'), dur=c['dur'], old=spec.get('old'))
-    if 'photo' in spec:
-        q = spec['photo']; order = spec.get('src', 'cleveland,met,commons,europeana').split(','); cands = []
-        F = dict(cleveland=lambda: SRC.cleveland(q), met=lambda: SRC.met(q), commons=lambda: SRC.commons_search(q), europeana=lambda: SRC.europeana(q))
-        for s in order:
-            try: cands += [c for c in F[s]() if c['id'] not in USED]
-            except Exception as e: log('  aviso fuente:', s, q, e)
-            if cands: break
-        if not cands: raise LookupError(f'sin foto para "{q}"')
-        c = cands[0]; USED.add(c['id']); credits.append(('archivo', c))
-        return dict(kind='image', path=SRC.download(c['url'], '.jpg'))
+        return dict(kind=c['kind'], path=SRC.download(c['url']), dur=c['dur'], move=spec.get('move'))
+    if 'video' in spec or 'photo' in spec:
+        cands = candidates(spec, n=4)
+        if not cands: raise LookupError(f'sin material relevante para "{spec.get("video") or spec.get("photo")}"')
+        if 'video' in spec: cands.sort(key=lambda c: (c['dur'] < need, -min(c['w'], 1920), -c['dur']))
+        return use(cands[0], credits, spec)
     raise ValueError(f'plano no reconocido: {spec}')
 
 # ================= MONTAJE =================
@@ -158,7 +175,8 @@ def build_edl(job, U, A):
         if pend: t, d = pend[0], d + pend[1]; pend = None
         specs = U[i].get('shots') or [{'card': {'type': 'title', 'title': job.get('channel', ''), 'sub': job.get('title', '')}}]
         n = len(specs)
-        while d / n > 11: specs = specs + specs[:max(1, len(specs) // 2)]; n = len(specs)
+        rep = [x for x in specs if not ('card' in x or 'ai' in x or 'commons' in x or 'image' in x or 'file' in x)]
+        while d / n > 11 and rep: specs = specs + [dict(x, lt=None) for x in rep[:max(1, len(rep) // 2)]]; n = len(specs)
         while n > 1 and d / n < 3.2: specs = specs[:-1]; n -= 1
         # reparto: tarjetas y vídeo algo más largos que las imágenes IA
         wts = [1.25 if ('card' in s or 'video' in s) else (0.8 if 'ai' in s else 1.0) for s in specs]; ws = sum(wts); acc = t
@@ -168,6 +186,9 @@ def build_edl(job, U, A):
                               fadein=.8 if (e['k'] == 'M' and m == 0) else 0, fadeout=1.2 if (e['k'] == 'M' and m == n - 1) else 0))
             acc += dd
     shots[-1]['fadeout'] = 3.0
+    for s in shots:
+        if s['t'] < job.get('cold_secs', 60) and not ('video' in s['spec'] or 'commons' in s['spec']):
+            log(f'  aviso: plano no real en el primer minuto (t={s["t"]:.0f}s): {list(s["spec"])[0]}')
     # control de la regla "nunca más de 2 IA seguidas"
     run = 0
     for s in shots:
@@ -210,11 +231,20 @@ def render_shot(sh_, out, workdir):
     else:
         p = f'{workdir}/prep_{os.path.basename(R["path"])}.jpg'
         if not os.path.exists(p): prep_still(R['path'], p)
+        if R.get('move') != 'flat' and os.environ.get('FABRICA_25D', '1') == '1':
+            gen = PX.frames(np.asarray(Image.open(p).convert('RGB')), W, H, N, sh_['move'])
+            if gen is not None:
+                cmd = ['ffmpeg', '-loglevel', 'error', '-y', '-f', 'rawvideo', '-pix_fmt', 'bgr24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
+                       '-vf', GRADE + ''.join(',' + x for x in fx)]
+                return _encode_pipe(cmd, sh_, gen, N, out, workdir)
         z0, z1, x0, x1, y0, y1 = MOVES[sh_['move']]
         e = f'(0.5-0.5*cos(PI*(on/{max(1, N - 1)})))'
         vf = (f"zoompan=z='({z0}+({z1}-{z0})*{e})':x='(iw-iw/zoom)*({x0}+({x1}-{x0})*{e})':y='(ih-ih/zoom)*({y0}+({y1}-{y0})*{e})':d={N}:s={W}x{H}:fps={FPS},"
               + GRADE + ''.join(',' + x for x in fx))
         cmd = ['ffmpeg', '-loglevel', 'error', '-y', '-loop', '1', '-framerate', str(FPS), '-i', p, '-vf', vf]
+    return _encode_pipe(cmd, sh_, None, N, out, workdir)
+
+def _encode_pipe(cmd, sh_, gen, N, out, workdir):
     if sh_.get('lt'):
         lt = f'{workdir}/lt_{abs(hash(tuple(sh_["lt"])))}.png'
         if not os.path.exists(lt): CARDS.lower_third(sh_['lt'][0], sh_['lt'][1] if len(sh_['lt']) > 1 else None, lt)
@@ -222,24 +252,82 @@ def render_shot(sh_, out, workdir):
         cmd += ['-loop', '1', '-framerate', str(FPS), '-i', lt, '-filter_complex',
                 f'[0:v]{vf},format=yuv420p[b];[1:v]format=rgba,fade=t=in:st=0.6:d=0.6:alpha=1,fade=t=out:st=5.2:d=0.6:alpha=1[o];[b][o]overlay=0:0:shortest=1[v]', '-map', '[v]']
     cmd += ['-frames:v', str(N), '-r', str(FPS), *ENC, out + '.tmp.mp4']
-    sh(cmd); os.rename(out + '.tmp.mp4', out); return out
+    if gen is None: sh(cmd)
+    else:
+        pr = subprocess.Popen(cmd, stdin=subprocess.PIPE, stderr=subprocess.PIPE)
+        try:
+            for fr in gen: pr.stdin.write(fr.tobytes())
+        except BrokenPipeError: pass
+        pr.stdin.close(); err = pr.stderr.read().decode(errors='ignore'); 
+        if pr.wait(): raise RuntimeError('ffmpeg 2.5D :: ' + err[-600:])
+    os.rename(out + '.tmp.mp4', out); return out
 
 def srt_time(x):
     h = int(x // 3600); m = int(x % 3600 // 60); s = x % 60; return f'{h:02d}:{m:02d}:{int(s):02d},{int((s % 1) * 1000):03d}'
+
+# ================= CASTING =================
+def _thumb(c, wd):
+    from PIL import ImageOps
+    try:
+        if c.get('thumb'): p = SRC.download(c['thumb'], '.jpg')
+        elif c['kind'] == 'image': p = SRC.download(c['url'], '.jpg')
+        else:
+            p = f"{wd}/th_{c['id']}.jpg"
+            if not os.path.exists(p): sh(['ffmpeg', '-loglevel', 'error', '-y', '-ss', '3', '-i', c['url'], '-frames:v', '1', '-vf', 'scale=640:-1', p])
+        return ImageOps.fit(Image.open(p).convert('RGB'), (384, 216))
+    except Exception as e:
+        log('  aviso miniatura:', c.get('id'), e); return Image.new('RGB', (384, 216), (40, 0, 0))
+
+def cast(job, U, shots, out_dir, wd):
+    """Primera pasada: candidatos por plano en hojas de miniaturas para elegir antes del render."""
+    from PIL import ImageDraw, ImageFont
+    log('== casting: buscando candidatos')
+    F = ImageFont.truetype(os.path.join(os.path.dirname(__file__), 'fonts', 'corm600.ttf'), 22)
+    rows = []; table = {}
+    for n, s in enumerate(shots):
+        sp = s['spec']
+        if not any(k in sp for k in ('video', 'photo', 'commons', 'ai', 'image')): continue
+        if 'commons' in sp:
+            try: c = SRC.commons_file(sp['commons']); c['thumb'] = c['url'] if c['kind'] == 'image' else None; cs = [c]
+            except Exception as e: cs = []; log('  aviso commons:', e)
+        elif 'ai' in sp or 'image' in sp: cs = [dict(kind='image', url=sp.get('ai') or sp.get('image'), id=f'ai{n}', credit='IA')]
+        else: cs = candidates(sp, n=8, use_used=False)
+        table[str(n)] = cs
+        txt = re.sub(r'\[[^\]]*\]', '', U[s['unit']].get('text', '') or '').strip()[:110]
+        rows.append((n, s, cs, txt))
+        log(f'   plano {n} t={s["t"]:.0f}s {list(sp)[0]}="{list(sp.values())[0] if isinstance(list(sp.values())[0], str) else ""}" -> {len(cs)} candidatos')
+    per = 6; k = 0
+    for i in range(0, len(rows), per):
+        chunk = rows[i:i + per]; sheet = Image.new('RGB', (8 * 392 + 8, len(chunk) * 262 + 8), (12, 12, 12)); d = ImageDraw.Draw(sheet)
+        for r, (n, s, cs, txt) in enumerate(chunk):
+            y = 8 + r * 262; sp = s['spec']; q = sp.get('video') or sp.get('photo') or sp.get('commons') or 'IA'
+            d.text((10, y), f'#{n}  {s["t"]:.0f}s  [{q}]  {txt}', font=F, fill=(240, 200, 120))
+            for j, c in enumerate(cs[:8]):
+                x = 8 + j * 392; sheet.paste(_thumb(c, wd), (x, y + 34))
+                d.rectangle([x, y + 34, x + 30, y + 62], fill=(0, 0, 0)); d.text((x + 8, y + 36), str(j), font=F, fill=(255, 255, 255))
+            if not cs: d.text((10, y + 120), 'SIN CANDIDATOS', font=F, fill=(255, 80, 80))
+        sheet.save(f'{out_dir}/cast_{k:02d}.jpg', quality=82); k += 1
+    json.dump(table, open(f'{out_dir}/cast.json', 'w'), ensure_ascii=False, indent=0)
+    json.dump([dict(n=s['n'] if 'n' in s else i, t=round(s['t'], 2), d=round(s['d'], 2), unit=s['unit'], spec=s['spec']) for i, s in enumerate(shots)],
+              open(f'{out_dir}/edl.json', 'w'), ensure_ascii=False, indent=0)
+    log(f'FIN CASTING: {k} hojas, {len(rows)} planos con material')
+    open(f'{out_dir}/informe.txt', 'w').write('\n'.join(LOG) + '\n')
 
 # ================= PRINCIPAL =================
 def run(job_dir):
     job = json.load(open(f'{job_dir}/job.json')); U = job['units']
     out_dir = f'{job_dir}/out'; wd = '/tmp/fabrica_work'; os.makedirs(out_dir, exist_ok=True); os.makedirs(f'{wd}/shots', exist_ok=True)
-    random.seed(job.get('seed', 7)); credits = []
+    random.seed(job.get('seed', 7)); credits = []; MUST[:] = job.get('must', [])
     log('== 1/5 audio: colocando voces, música y efectos')
     A = build_audio(job, U); credits += A['credits']
     log('== 2/5 guion visual'); shots = build_edl(job, U, A)
     log(f'   {len(shots)} planos')
+    if job.get('stage') == 'cast': return cast(job, U, shots, out_dir, wd)
+    picks = job.get('picks', {})
     log('== 3/5 buscando y descargando material')
     last = -1
     for n, s in enumerate(shots):
-        try: s['res'] = resolve(s['spec'], s['d'], credits)
+        try: s['res'] = resolve(s['spec'], s['d'], credits, picks.get(str(n)))
         except Exception as e:
             log(f'  ! plano {n} ({s["spec"]}) -> {e}; uso alternativa')
             alt = job.get('fallback') or [{'card': {'type': 'title', 'title': job.get('channel', ''), 'sub': job.get('title', '')}}]

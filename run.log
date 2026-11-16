@@ -1,0 +1,23 @@
+== 1/5 audio: colocando voces, música y efectos
+voz: 2.4 min, 307 palabras narrador, total 3.0 min
+== 2/5 guion visual
+  aviso: plano no real en el primer minuto (t=3s): ai
+  aviso: plano no real en el primer minuto (t=16s): card
+  aviso: plano no real en el primer minuto (t=24s): card
+  aviso: plano no real en el primer minuto (t=31s): ai
+  aviso: plano no real en el primer minuto (t=37s): card
+  aviso: plano no real en el primer minuto (t=43s): card
+  aviso: plano no real en el primer minuto (t=48s): card
+  aviso: plano no real en el primer minuto (t=57s): ai
+  aviso: plano no real en el primer minuto (t=60s): card
+   42 planos
+== 3/5 buscando y descargando material
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/287 [00:00<?, ?it/s]Loading weights: 100%|██████████| 287/287 [00:00<00:00, 21759.25it/s]
+   plano 0/42
+   plano 20/42
+   plano 40/42
+== 5/5 montaje final
+FIN: jobs/prueba03/out/prueba03.mp4 · 3.1 min · 27 MB

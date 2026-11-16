@@ -4,17 +4,22 @@ on:
     paths: ['jobs/*/job.json']
   workflow_dispatch:
     inputs:
-      job: { description: 'id del trabajo (carpeta en jobs/)', required: true }
+      job:
+        description: 'id del trabajo (carpeta en jobs/)'
+        required: true
 permissions:
   contents: write
-concurrency: { group: fabrica-${{ github.ref }}, cancel-in-progress: false }
+concurrency:
+  group: fabrica-${{ github.ref }}
+  cancel-in-progress: false
 jobs:
   render:
     runs-on: ubuntu-latest
     timeout-minutes: 340
     steps:
       - uses: actions/checkout@v4
-        with: { fetch-depth: 2 }
+        with:
+          fetch-depth: 2
       - name: dependencias
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null

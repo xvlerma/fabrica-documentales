@@ -3,12 +3,12 @@
  "title": "El faraón asesinado por su harén (prueba v3)",
  "channel": "Egipto forense",
  "music": {
-  "tema": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3RQaU8JYt4V0Rz0e07Od/N7hNPVk7AcwnB4pM3XMQ/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=2oxoNE_qJ8l339BHG_9j_9gOfXM=",
-  "tension": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bCO4arigLy5zRkZbas3t/gxzgWLWt3BSmNMxWTPOp/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=CF66WJpge6ALyYiJtGTMXZ8BGV4=",
-  "batalla": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MBRgX3GDnU8vFZUlUnQG/W0HPjumpGwSM8FIjeDTT/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=-PAqKCtMZV0j1DqjChiRBv29rv4="
+  "tema": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3RQaU8JYt4V0Rz0e07Od/N7hNPVk7AcwnB4pM3XMQ/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=SChJMNR6vRUOgtZCJwm20obaDy4=",
+  "tension": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bCO4arigLy5zRkZbas3t/gxzgWLWt3BSmNMxWTPOp/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=MC0cBlpggoO19K4o3g8-4ZhaixA=",
+  "batalla": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MBRgX3GDnU8vFZUlUnQG/W0HPjumpGwSM8FIjeDTT/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=t_GGWCzeeR03EbY-5DNNjNQywwg="
  },
  "beds": {
-  "noche": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/axAQu3fOivX9w8UJCItW/MT6qdI5MJcIxKw0f5LJJ/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=cI4nUUit3Ckv-BKRdg75zsiM9-0="
+  "noche": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/axAQu3fOivX9w8UJCItW/MT6qdI5MJcIxKw0f5LJJ/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=eLx8FHK68wWsJ8nJkhDxHA26ZY8="
  },
  "intro": [
   "assets/intro/sideone.mp4"
@@ -45,7 +45,7 @@
   },
   {
    "k": "N",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ESRbFIbyOLlW0AmVRROP/cbxSSSV9iBbTbhJ1e0Fn/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=NUYesoELw5K7bevr2HcKO8jwpLI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ESRbFIbyOLlW0AmVRROP/cbxSSSV9iBbTbhJ1e0Fn/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=dbs3k6x7uEgwl_MucwY3FPn3lz8=",
    "text": "[serious] Tebas. Año mil ciento cincuenta y cinco antes de Cristo. [pause] Es la noche de la Bella Fiesta del Valle. Miles de antorchas cruzan el Nilo hacia los templos de los muertos.\n\nEn el palacio de Medinet Habu, el faraón Ramsés Tercero se retira a las estancias de su harén. Lleva treinta y un años en el trono. Ha derrotado a los ejércitos que hundieron imperios enteros.\n\n[softly] Esta noche, sus enemigos no vienen del mar. [pause] Duermen a pocos metros de él.",
    "shots": [
     {
@@ -148,7 +148,7 @@
   },
   {
    "k": "N",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wDtbqfX0SWRtrjUVD5d6/tXpbSzoOzwTCHDtYm0oW/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=aCHlnLI3EfHSKeB8bApsYp5s854=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wDtbqfX0SWRtrjUVD5d6/tXpbSzoOzwTCHDtYm0oW/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=y-xefE_ehAsknmaHJVOwsFqC7E0=",
    "text": "[serious] ¿Murió el faraón aquella noche? [short pause] Durante tres mil años, nadie pudo responder. [short pause] Hasta que una máquina miró debajo de sus vendas.\n\n[dramatically] El faraón asesinado por su propio harén.",
    "shots": [
     {
@@ -207,7 +207,7 @@
   },
   {
    "k": "N",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QG2zjPFIIa4XdYRZb8k2/usw3NxD3ZRv57It7jkiy/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=2FBVNy9l085yIJan_uZHMgmSlZ4=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QG2zjPFIIa4XdYRZb8k2/usw3NxD3ZRv57It7jkiy/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=uwNy2xKTPviEszeAiVEEWEx80Eg=",
    "text": "[serious] En el ala de las mujeres, una esposa secundaria llamada Tiye lleva meses esperando este momento. Su hijo, el príncipe Pentawer, no es el heredero. El trono está reservado para otro príncipe, el que reinará como Ramsés Cuarto.",
    "shots": [
     {
@@ -240,7 +240,7 @@
   },
   {
    "k": "R",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/eeO0VrVRhIbdi4owhBQu/yia8HCdp1U3dND0t7VQ1/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=tc7jH5pN2d3Zqd6g1m2JDXqMYEE=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/eeO0VrVRhIbdi4owhBQu/yia8HCdp1U3dND0t7VQ1/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=sBFgB3kJqFbHwymeanTyOXS_gSE=",
    "text": "Mi hijo llevará la doble corona. Lo juro por Amón.",
    "shots": [
     {
@@ -254,7 +254,7 @@
   },
   {
    "k": "N",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fqdeb1q5yN5kT66j9BKA/bKl5jhOp4SzRq87BZ5x9/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=atC-as-dVOnKu8QeiY75j-gtBUU=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fqdeb1q5yN5kT66j9BKA/bKl5jhOp4SzRq87BZ5x9/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=1U8oYekldvk68kYhqpFcbwAs0fE=",
    "text": "[serious] Tiye no está sola. A su lado trabaja Pebekkamen, el jefe de la despensa real. Es él quien lleva los mensajes. Quien recluta. Quien convence.",
    "shots": [
     {
@@ -279,7 +279,7 @@
   },
   {
    "k": "R",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Nk6o27taEa2STjETQEOH/T9d5kxnr7pICmNlDYRUc/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=G1SU2v-mDVC_KvC96LVc7DHUd-Q=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Nk6o27taEa2STjETQEOH/T9d5kxnr7pICmNlDYRUc/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=cl_5OGeHszNaCNQk0rZH1Q7ObnQ=",
    "text": "Los mayordomos están con nosotros. El escriba también. Y el capitán.",
    "shots": [
     {
@@ -293,7 +293,7 @@
   },
   {
    "k": "N",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7Kk4YoSfAYOTUxHK0OuT/6Qh0d6nJrxglEGGDCmOs/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=S1N2LBhEl4KVdJIg8ngGK8RDTYA=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7Kk4YoSfAYOTUxHK0OuT/6Qh0d6nJrxglEGGDCmOs/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=-BkO6ZpB5CMe9oGHKIX3k-dL3a8=",
    "text": "[serious] La conjura crece en silencio. Mayordomos que sirven la mesa del rey, escribas del harén, oficiales del ejército. Incluso el supervisor del tesoro real, un hombre llamado Pairy.\n\nPero el harén es una jaula de oro. Nadie entra ni sale sin permiso. Para llegar hasta el rey, necesitan un pase.",
    "shots": [
     {
@@ -391,7 +391,7 @@
   },
   {
    "k": "R",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mrBHxcR4ZfEfLDMrXXVQ/l8J0rGstQlYdxjoQU5yb/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=cFJ_LvZptSJ8fvDfBO9IMxvoZBM=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mrBHxcR4ZfEfLDMrXXVQ/l8J0rGstQlYdxjoQU5yb/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=zajESw8fyf5JIg6wlT5ghOi9NAM=",
    "text": "Pairy nos dará el pase. Nadie nos detendrá en la puerta.",
    "shots": [
     {
@@ -405,7 +405,7 @@
   },
   {
    "k": "N",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PxZWZogAaVneeNKm6ppe/yDPB8OmRJY4g8EUcQpQC/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=kjqVL__S5qs3kok5MWCcelIpDOQ=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PxZWZogAaVneeNKm6ppe/yDPB8OmRJY4g8EUcQpQC/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=PLvIWDHUzhYoFWpDUN_k2zj9WcU=",
    "text": "[serious] El plan tiene dos partes. Matar al faraón dentro del harén. Y levantar a la gente fuera, para que nadie se oponga al nuevo rey.\n\nLa fiesta es el momento perfecto. Hay música, hay multitudes, y los guardias miran hacia el río.",
    "shots": [
     {
@@ -492,12 +492,12 @@
   },
   {
    "k": "S",
-   "sfx": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MLTgm2fnlkZL1KmPWvxi/dOtmk6pBU8KqzsFwFNtx/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=9xb97kp8jPef1zbFuCTWj-hSLi4=",
+   "sfx": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MLTgm2fnlkZL1KmPWvxi/dOtmk6pBU8KqzsFwFNtx/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=jjBQvI1o1rBtoD47QQA7r2Khje0=",
    "db": -29
   },
   {
    "k": "N",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5YDVlv2wC3QimQqoLcJY/ZB1G65497JuZyy9IIyFR/content.mp3?Expires=1794870000&KeyName=assets-cdn-key-1&Signature=4FbjuvGaJJRGfsfdDdUmThGSRI4=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5YDVlv2wC3QimQqoLcJY/ZB1G65497JuZyy9IIyFR/content.mp3?Expires=1794880800&KeyName=assets-cdn-key-1&Signature=uUEn7N996RY9j8cNl43GgyCui_g=",
    "text": "[serious] Esa noche, varias figuras cruzan los pasillos de Medinet Habu. [short pause] Llevan cuchillos. [pause] [softly] Y quizá algo más pesado.\n\nLo que ocurrió dentro de aquella habitación quedó envuelto en lino durante treinta siglos.\n\n[serious] Pero ¿cómo llega un dios viviente a morir a manos de los suyos?",
    "shots": [
     {

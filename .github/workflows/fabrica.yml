@@ -20,6 +20,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 2
+      - name: caché de material (voz, música, imágenes, stock)
+        uses: actions/cache@v4
+        with:
+          path: /tmp/fabrica_cache
+          key: fabrica-cache-${{ github.run_id }}
+          restore-keys: fabrica-cache-
       - name: dependencias
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null

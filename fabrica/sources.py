@@ -19,7 +19,9 @@ def _get(url, headers=None, tries=3):
 def _json(url, headers=None): return json.loads(_get(url, headers))
 
 def download(url, ext=None, headers=None):
-    h = hashlib.sha1(url.encode()).hexdigest()[:16]
+    import re as _re
+    m = _re.search(r'elevenlabsusercontent\.com/.*/content_generation/[A-Za-z0-9]+/([A-Za-z0-9]+)/', url)
+    h = ('el_' + m.group(1)) if m else hashlib.sha1(url.split('?')[0].encode() if 'figma.com' in url else url.encode()).hexdigest()[:16]
     ext = ext or os.path.splitext(urllib.parse.urlparse(url).path)[1] or '.bin'
     out = f'{CACHE}/{h}{ext}'
     if not os.path.exists(out) or os.path.getsize(out) < 1000:

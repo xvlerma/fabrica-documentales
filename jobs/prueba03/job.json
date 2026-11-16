@@ -553,7 +553,7 @@
    ]
   }
  ],
- "stage": "cast",
+ "stage": "render",
  "cold_secs": 60,
  "audio": {
   "bed_db": {
@@ -567,5 +567,94 @@
   "dust": "dust particles black background",
   "smoke": "smoke black background",
   "embers": "embers black background"
+ },
+ "picks": {
+  "2": {
+   "kind": "video",
+   "url": "https://cdn.pixabay.com/video/2024/07/28/223546_medium.mp4",
+   "w": 720,
+   "h": 1280,
+   "dur": 33,
+   "thumb": "https://cdn.pixabay.com/video/2024/07/28/223546_medium.jpg",
+   "credit": "Peggy_Marco / Pixabay",
+   "license": "Pixabay Content License",
+   "page": "https://pixabay.com/videos/id-223546/",
+   "id": "pxb223546",
+   "tags": "nile, flow, sunset, sun, egypt, cairo, travel"
+  },
+  "4": {
+   "kind": "video",
+   "url": "https://cdn.pixabay.com/video/2020/05/03/37997-415950683_large.mp4",
+   "w": 3840,
+   "h": 2160,
+   "dur": 6,
+   "thumb": "https://cdn.pixabay.com/video/2020/05/03/37997-415950683_medium.jpg",
+   "credit": "P_Wagenmakers / Pixabay",
+   "license": "Pixabay Content License",
+   "page": "https://pixabay.com/videos/id-37997/",
+   "id": "pxb37997",
+   "tags": "archaeology, old, hieroglyphics, historical, pharaoh, glyph, landmark, travel, temple, symbol, egypt, history, architecture"
+  },
+  "18": {
+   "kind": "image",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Statue_of_Ramesses_IV%2C_nomen_and_prenomen_cartouches_on_shoulders%2C_currently_housed_in_the_British_Museum.jpg/1920px-Statue_of_Ramesses_IV%2C_nomen_and_prenomen_cartouches_on_shoulders%2C_currently_housed_in_the_British_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 6016,
+   "h": 4016,
+   "dur": 0,
+   "title": "File:Statue of Ramesses IV, nomen and prenomen cartouches on shoulders, currently housed in the British Museum.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Statue_of_Ramesses_IV%2C_nomen_and_prenomen_cartouches_on_shoulders%2C_currently_housed_in_the_British_Museum.jpg/1920px-Statue_of_Ramesses_IV%2C_nomen_and_prenomen_cartouches_on_shoulders%2C_currently_housed_in_the_British_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Ramesses_IV,_nomen_and_prenomen_cartouches_on_shoulders,_currently_housed_in_the_British_Museum.jpg",
+   "id": "wm62666341"
+  },
+  "20": {
+   "kind": "image",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ramessesnakht_Theban_Triad_Statue_2012.jpg/1920px-Ramessesnakht_Theban_Triad_Statue_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2304,
+   "h": 3072,
+   "dur": 0,
+   "title": "File:Ramessesnakht Theban Triad Statue 2012.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ramessesnakht_Theban_Triad_Statue_2012.jpg/1920px-Ramessesnakht_Theban_Triad_Statue_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "woodsboy2011",
+   "license": "CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ramessesnakht_Theban_Triad_Statue_2012.jpg",
+   "id": "wm61566605"
+  },
+  "24": {
+   "kind": "image",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Statue_of_a_scribe%2C_Granite%2C_Old_Kingdom%2C_Saqqara.jpg/1920px-Statue_of_a_scribe%2C_Granite%2C_Old_Kingdom%2C_Saqqara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "w": 2992,
+   "h": 4000,
+   "dur": 0,
+   "title": "File:Statue of a scribe, Granite, Old Kingdom, Saqqara.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Statue_of_a_scribe%2C_Granite%2C_Old_Kingdom%2C_Saqqara.jpg/1920px-Statue_of_a_scribe%2C_Granite%2C_Old_Kingdom%2C_Saqqara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Shrook M. Mahboub",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Statue_of_a_scribe,_Granite,_Old_Kingdom,_Saqqara.jpg",
+   "id": "wm164476170"
+  },
+  "10": {
+   "spec": {
+    "commons": "Theban region, Medinet Habu, 19th century pictures, photo 34 of 51 - Archivio fotografico Museo Egizio, Turin Album2 032.jpg"
+   }
+  },
+  "33": {
+   "spec": {
+    "commons": "Theban region, Medinet Habu, 19th century pictures, photo 40 of 51 - Archivio fotografico Museo Egizio, Turin Album2 041.jpg"
+   }
+  },
+  "34": {
+   "spec": {
+    "commons": "Thèbes. Medynet-Abou (Medinet Habu). Plan topographique des ruines et des environs (NYPL b14212718-1267932).tiff"
+   }
+  },
+  "36": {
+   "spec": {
+    "commons": "Theban region, Medinet Habu, 19th century pictures, 1870-1896, photo 17 of 51 - Archivio fotografico Museo Egizio, Turin INV11 011.jpg",
+    "kw": "Cuchillos",
+    "kw_at": 0.4
+   }
+  }
  }
 }

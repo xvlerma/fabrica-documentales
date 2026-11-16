@@ -375,7 +375,7 @@ def f_split(spec, t, D):
             for ww in wrap(l, font('corm500', 44), 700):
                 put(fr, text_layer(ww, font('corm500', 44), CREAM if side == 'right' else (190, 180, 165)), cx, y, ease((t - at - .4 - i * .5) / .6)); y += 58
             y += 24
-        if side == 'left' and t > D * .4:
+        if side == 'left' and spec.get('strike', True) and t > D * .4:
             kk = ease((t - D * .4) / .4)
             if kk > 0: d.line([(cx - 330, 330), (cx - 330 + 660 * kk, 330 + (y - 360) * kk)], fill=(178, 60, 40, 200), width=5)
     return fr

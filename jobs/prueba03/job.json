@@ -57,7 +57,7 @@
     },
     {
      "ai": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Sz12PZ5g2PHq8l09okqg/A0OHp6wPYdH8qfcZZ92r/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=c3BEfhZRLY9n_hcw8PFDwV8PrFQ=",
-     "sfx": "footsteps stone corridor slow"
+     "sfx": "footsteps stone"
     },
     {
      "video": "nile river night"
@@ -423,7 +423,8 @@
         "Levantar a la gente",
         "para el nuevo rey"
        ]
-      }
+      },
+      "strike": false
      }
     },
     {
@@ -564,7 +565,7 @@
   }
  },
  "overlays": {
-  "dust": "dust particles black background",
+  "dust": "dust particles black",
   "smoke": "smoke black background",
   "embers": "embers black background"
  },

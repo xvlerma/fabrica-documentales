@@ -270,7 +270,7 @@ def render_shot(sh_, out, workdir):
     ov = sp.get('ov', 'dust' if R.get('ai') else None)
     if ov and OVERLAYS.get(ov):
         ins += ['-stream_loop', '-1', '-i', OVERLAYS[ov]]
-        chain += f';[{k}:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},format=yuv420p[o{k}];[{last}][o{k}]blend=all_mode=screen:all_opacity={sp.get("ov_op", .55)}:shortest=1[b{k}]'
+        chain += f';[{k}:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},hue=s=0,curves=all=0/0 0.35/0 1/0.9,format=yuv420p[o{k}];[{last}][o{k}]blend=all_mode=screen:all_opacity={sp.get("ov_op", .4)}:shortest=1[b{k}]'
         last = f'b{k}'; k += 1
     if sh_.get('lt'):
         lt = f'{workdir}/lt_{abs(hash(tuple(sh_["lt"])))}.png'

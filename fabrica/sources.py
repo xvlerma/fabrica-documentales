@@ -158,14 +158,90 @@ def freesound(q, min_d=1, max_d=30, n=8):
                         license=s.get('license', ''), page=s.get('url'), id=f"fs{s['id']}", name=s.get('name')))
     return out
 
-def openverse_music(q, n=8):
-    u = (f'https://api.openverse.org/v1/audio/?q={urllib.parse.quote(q)}&license_type=commercial&category=music'
-         f'&page_size={n}&length=medium,long')
+# ---------- música gratuita con licencia comercial ----------
+# Solo dominio público, CC0 y CC BY (sin NC, ND ni SA: la pista se corta, se repite y se mezcla).
+MUSIC_OK = ('publicdomain', 'public domain', 'pdm', 'cc0', '/by/', 'cc by ', 'cc-by ', 'cc by-4', 'attribution')
+def _music_ok(lic):
+    l = (lic or '').lower() + ' '
+    if any(x in l for x in ('nc', '-nd', ' nd', 'sa', 'noderiv', 'sharealike', 'noncommercial')): return False
+    return any(x in l for x in MUSIC_OK) or l.strip() in ('by', 'cc by')
+
+def openverse_music(q, n=10):
+    """Openverse (Wikimedia, Freesound, ccMixter). Jamendo excluido a propósito."""
+    u = (f'https://api.openverse.org/v1/audio/?q={urllib.parse.quote(q)}&license=cc0,pdm,by&category=music'
+         f'&source=wikimedia_audio,freesound,ccmixter&page_size={n}&length=medium,long')
     out = []
     try: res = _json(u).get('results', [])
     except Exception: return []
     for r in res:
-        if not r.get('url'): continue
-        out.append(dict(kind='audio', url=r['url'], dur=(r.get('duration') or 0) / 1000, credit=f"{r.get('creator','')} / {r.get('source','')}",
-                        license=f"CC {r.get('license','').upper()} {r.get('license_version','')}", page=r.get('foreign_landing_url'), id='ov' + r['id']))
+        if not r.get('url') or r.get('source') == 'jamendo': continue
+        out.append(dict(kind='audio', url=r['url'], dur=(r.get('duration') or 0) / 1000, title=r.get('title', ''), credit=f"{r.get('creator','')} / {r.get('source','')}",
+                        license=f"CC {r.get('license','').upper()} {r.get('license_version','')}".strip(), page=r.get('foreign_landing_url'), id='ov' + r['id'],
+                        tags=' '.join(t.get('name', '') for t in (r.get('tags') or [])[:12])))
+    return out
+
+def archive_music(q, n=10):
+    """Internet Archive: grabaciones de dominio público / CC0 / CC BY (Musopen, bandas militares, gramófono, sinfónica)."""
+    lic = '(licenseurl:*publicdomain* OR licenseurl:*zero* OR licenseurl:*licenses/by/*)'
+    u = ('https://archive.org/advancedsearch.php?q=' + urllib.parse.quote(f'({q}) AND mediatype:audio AND {lic}')
+         + f'&fl[]=identifier&fl[]=title&fl[]=creator&fl[]=licenseurl&sort[]=downloads+desc&rows={n}&output=json')
+    try: docs = _json(u)['response']['docs']
+    except Exception: return []
+    out = []
+    for d in docs:
+        if not _music_ok(d.get('licenseurl', '')): continue
+        try:
+            md = _json(f"https://archive.org/metadata/{d['identifier']}")
+            fs = [f for f in md.get('files', []) if f.get('name', '').lower().endswith('.mp3')]
+            def L(f):
+                try: return float(f.get('length', 0))
+                except Exception:
+                    try: m_, s_ = str(f.get('length', '0:0')).split(':')[-2:]; return int(m_) * 60 + float(s_)
+                    except Exception: return 0
+            fs = [f for f in fs if 50 < L(f) < 900] or fs
+            for f in fs[:3]:
+                out.append(dict(kind='audio', url=f"https://archive.org/download/{d['identifier']}/{urllib.parse.quote(f['name'])}", dur=L(f),
+                                title=f"{d.get('title','')} · {f.get('title') or f['name']}", credit=f"{d.get('creator','') if isinstance(d.get('creator'), str) else ', '.join(d.get('creator') or [])} / Internet Archive",
+                                license='Dominio público' if 'publicdomain' in d.get('licenseurl', '') or 'zero' in d.get('licenseurl', '') else 'CC BY',
+                                page=f"https://archive.org/details/{d['identifier']}", id='iam' + d['identifier'] + str(hash(f['name']) % 10000)))
+        except Exception: continue
+        if len(out) >= n: break
+    return out
+
+def commons_music(q, n=10):
+    """Wikimedia Commons: grabaciones libres (muchas de dominio público: orquestas, bandas militares, música antigua)."""
+    u = ('https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6'
+         f'&gsrlimit={n * 2}&gsrsearch={urllib.parse.quote(q + " filetype:audio")}&prop=imageinfo&iiprop=url|extmetadata|mime')
+    try: j = _json(u)
+    except Exception: return []
+    out = []
+    import re
+    for p in (j.get('query', {}).get('pages', {}) or {}).values():
+        ii = (p.get('imageinfo') or [{}])[0]; m = ii.get('extmetadata', {})
+        lic = (m.get('LicenseShortName', {}) or {}).get('value', '')
+        if not _music_ok(lic): continue
+        dur = float(ii.get('duration') or 0)
+        art = re.sub('<[^>]+>', '', (m.get('Artist', {}) or {}).get('value', '')).strip()[:80] or 'Wikimedia Commons'
+        url = ii.get('url')
+        if not url: continue
+        out.append(dict(kind='audio', url=url, dur=dur, title=p.get('title', ''), credit=art, license=lic, page=ii.get('descriptionurl'), id='wma' + str(p.get('pageid'))))
+    return out[:n]
+
+def freesound_music(q, n=10):
+    """Freesound: atmósferas, drones y piezas largas (CC0 / CC BY)."""
+    return [dict(c, title=c.get('name', '')) for c in freesound(q, min_d=45, max_d=900, n=n)]
+
+def incompetech(title):
+    """Kevin MacLeod (incompetech.com), CC BY 4.0: título exacto de la pista."""
+    return dict(kind='audio', url='https://incompetech.com/music/royalty-free/mp3-royaltyfree/' + urllib.parse.quote(title) + '.mp3', dur=0, title=title,
+                credit='Kevin MacLeod (incompetech.com)', license='CC BY 4.0', page='https://incompetech.com/music/royalty-free/', id='inc' + title.replace(' ', '_'))
+
+MUSIC_SRC = dict(archive=archive_music, commons=commons_music, openverse=openverse_music, freesound=freesound_music)
+def music_search(q, src='archive,commons,openverse,freesound', n=8):
+    out = []
+    for s_ in src.split(','):
+        fn = MUSIC_SRC.get(s_.strip())
+        if not fn: continue
+        try: out += [c for c in fn(q, n) if c['id'] not in {x['id'] for x in out}]
+        except Exception as e: print('aviso música', s_, e, flush=True)
     return out

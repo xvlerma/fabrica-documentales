@@ -62,12 +62,37 @@ def sfx_file(q, credits):
     if not c: raise RuntimeError(f'sin efecto para "{q}"')
     c = c[0]; credits.append(('sonido', c)); return SRC.download(c['url'], '.mp3')
 
+MUSIC_PATHS = {}
+def music_file(v, credits, name=''):
+    """Pista de música: URL o ruta, {"url", "credit", "license", "page"}, {"incompetech": "Título"}
+    o {"search": "...", "src": "archive,commons,openverse,freesound", "pick": n}."""
+    if isinstance(v, str): p = fetch(v, '.mp3')
+    elif 'incompetech' in v: c = SRC.incompetech(v['incompetech']); credits.append(('música', c)); p = SRC.download(c['url'], '.mp3')
+    elif 'search' in v:
+        cs = SRC.music_search(v['search'], v.get('src', 'archive,commons,openverse,freesound'), n=8)
+        cs = [c for c in cs if not c.get('dur') or c['dur'] >= v.get('min_secs', 50)] or cs
+        if not cs: raise LookupError(f'sin música libre para "{v["search"]}"')
+        c = cs[min(v.get('pick', 0), len(cs) - 1)]; credits.append(('música', c)); p = SRC.download(c['url'], os.path.splitext(c['url'].split('?')[0])[1] or '.mp3')
+    else:
+        p = fetch(v['url'], '.mp3')
+        if v.get('credit'): credits.append(('música', dict(id=v['url'], credit=v['credit'], license=v.get('license', ''), page=v.get('page', v['url']))))
+    if v.__class__ is dict and v.get('start'):  # recorte de una pieza larga (segundos)
+        q = p + f'.{v["start"]}_{v.get("secs", 0)}.wav'
+        if not os.path.exists(q): sh(['ffmpeg', '-loglevel', 'error', '-y', '-ss', str(v['start']), *(['-t', str(v['secs'])] if v.get('secs') else []), '-i', p, '-ar', str(SR), q])
+        p = q
+    MUSIC_PATHS[name] = p; return p
+
 def build_audio(job, U):
     """Coloca voces, interludios, camas y efectos. Devuelve timeline de unidades y lista de eventos de audio."""
     A = job.get('audio', {}); credits = []
     VOICE = A.get('voice_db', -20); BED = A.get('bed_db', {'tension': -35, 'batalla': -31, 'noche': -37}); INTER = A.get('inter_db', -23)
-    music = {k: load(fetch(v)) for k, v in job['music'].items()}
-    beds = {k: load(fetch(v)) for k, v in job.get('beds', {}).items()}; beds.update({k: v for k, v in music.items() if k not in beds})
+    def ld(k, v):
+        try: return load(music_file(v, credits, k))
+        except Exception as e:
+            if job.get('stage') != 'cast': raise
+            log(f'  aviso música {k}: {e} (silencio en el casting)'); return np.zeros((2, SR * 90), np.float32)
+    music = {k: ld(k, v) for k, v in job['music'].items()}
+    beds = {k: ld(k, v) for k, v in job.get('beds', {}).items()}; beds.update({k: v for k, v in music.items() if k not in beds})
     events, tl, bedspans = [], [], []
     t = 0.0; bed = None; bedstart = 0; used = {}; words = 0; vsec = 0
     for i, u in enumerate(U):
@@ -205,7 +230,14 @@ def build_edl(job, U, A):
 
 MOVES = [(1.00, 1.12, .5, .5, .5, .5), (1.12, 1.00, .5, .5, .5, .5), (1.10, 1.10, 0., 1., .5, .5), (1.10, 1.10, 1., 0., .5, .5),
          (1.04, 1.14, .2, .7, .7, .3), (1.14, 1.04, .8, .3, .3, .6), (1.0, 1.03, .5, .5, .5, .5), (1.06, 1.06, .5, .5, .9, .1)]
-GRADE = 'eq=contrast=1.06:saturation=0.88:gamma=0.97,colorbalance=rs=.04:gs=.01:bs=-.04:rh=.03:bh=-.03,vignette=PI/4.4'
+GRADES = dict(
+    calido='eq=contrast=1.06:saturation=0.88:gamma=0.97,colorbalance=rs=.04:gs=.01:bs=-.04:rh=.03:bh=-.03,vignette=PI/4.4',
+    frio='eq=contrast=1.08:saturation=0.78:gamma=0.97,colorbalance=rs=-.03:gs=0:bs=.04:rh=-.01:bh=.02,vignette=PI/4.4',
+    neutro='eq=contrast=1.05:saturation=0.86:gamma=0.98,vignette=PI/4.6',
+    bn='hue=s=0,eq=contrast=1.14:gamma=0.96,vignette=PI/4.2',
+    sepia='hue=s=0,eq=contrast=1.08:gamma=0.97,colorchannelmixer=.95:.05:0:0:.85:.1:0:0:.7:.1:.05:0,vignette=PI/4.4')
+GRADE = GRADES['calido']
+BRAND = {}
 ENC = ['-c:v', 'libx264', '-preset', 'medium', '-crf', '24', '-maxrate', '1.6M', '-bufsize', '3.2M', '-g', '50', '-pix_fmt', 'yuv420p', '-an']
 
 def prep_still(path, out, BW=2880, BH=1620):
@@ -285,6 +317,9 @@ def render_shot(sh_, out, workdir):
         ins += ['-loop', '1', '-framerate', str(FPS), '-i', kp]
         chain += f';[{k}:v]format=rgba,fade=t=in:st={a0}:d=0.12:alpha=1,fade=t=out:st={a1 - .3:.2f}:d=0.3:alpha=1[o{k}];[{last}][o{k}]overlay=0:0:shortest=1[b{k}]'
         last = f'b{k}'; k += 1
+    if BRAND.get('mosca') and R['kind'] != 'card':
+        ins += ['-loop', '1', '-framerate', str(FPS), '-i', BRAND['mosca']]
+        chain += f';[{last}][{k}:v]overlay=0:0:shortest=1[b{k}]'; last = f'b{k}'; k += 1
     chain += f';[{last}]' + (','.join(fx) if fx else 'null') + '[v]'
     cmd = ['ffmpeg', '-loglevel', 'error', '-y', *base, *ins, '-filter_complex', chain, '-map', '[v]', '-frames:v', str(N), '-r', str(FPS), *ENC, out + '.tmp.mp4']
     if gen is None: sh(cmd)
@@ -296,6 +331,20 @@ def render_shot(sh_, out, workdir):
         pr.stdin.close(); err = pr.stderr.read().decode(errors='ignore')
         if pr.wait(): raise RuntimeError('ffmpeg 2.5D :: ' + err[-600:])
     os.rename(out + '.tmp.mp4', out); return out
+
+def outro(job, shots, wd):
+    """Pantalla final DocuVox (fondo para elementos de YouTube) con la cola de la música del episodio."""
+    secs = job.get('brand', {}).get('outro_secs', 15)
+    bgp = next((s['res']['path'] for s in reversed(shots) if s['res']['kind'] == 'image' and not s['res'].get('ai')), None)
+    png = f'{wd}/outro.png'; CARDS.end_screen(png, bgp)
+    tr = job.get('brand', {}).get('outro_track') or next(iter(job['music']))
+    src = MUSIC_PATHS.get(tr); out = f'{wd}/outro.mp4'
+    a = (['-sseof', f'-{secs + 2}', '-i', src] if src else ['-f', 'lavfi', '-t', str(secs), '-i', 'anullsrc=r=48000:cl=stereo'])
+    sh(['ffmpeg', '-loglevel', 'error', '-y', '-loop', '1', '-framerate', str(FPS), '-i', png, *a, '-t', str(secs),
+        '-vf', f'fade=t=in:st=0:d=0.8,fade=t=out:st={secs - 1.2}:d=1.2,format=yuv420p',
+        '-af', f'loudnorm=I=-24:TP=-3,afade=t=in:st=0:d=1.5,afade=t=out:st={secs - 3}:d=3', '-map', '0:v', '-map', '1:a',
+        '-c:v', 'libx264', '-preset', 'medium', '-crf', '22', '-r', str(FPS), '-c:a', 'aac', '-b:a', '128k', '-ar', '48000', '-ac', '2', out])
+    return out
 
 def srt_time(x):
     h = int(x // 3600); m = int(x % 3600 // 60); s = x % 60; return f'{h:02d}:{m:02d}:{int(s):02d},{int((s % 1) * 1000):03d}'
@@ -345,14 +394,52 @@ def cast(job, U, shots, out_dir, wd):
     json.dump(table, open(f'{out_dir}/cast.json', 'w'), ensure_ascii=False, indent=0)
     json.dump([dict(n=s['n'] if 'n' in s else i, t=round(s['t'], 2), d=round(s['d'], 2), unit=s['unit'], spec=s['spec']) for i, s in enumerate(shots)],
               open(f'{out_dir}/edl.json', 'w'), ensure_ascii=False, indent=0)
+    cast_music(job, out_dir, F)
     log(f'FIN CASTING: {k} hojas, {len(rows)} planos con material')
     open(f'{out_dir}/informe.txt', 'w').write('\n'.join(LOG) + '\n')
+
+def cast_music(job, out_dir, F):
+    """Candidatos de música libre por pista con búsqueda: espectrograma + energía para elegir "pick" a ojo."""
+    from PIL import ImageDraw
+    tab = {}; rows = []
+    for name, v in list(job.get('music', {}).items()) + list(job.get('beds', {}).items()):
+        if not (isinstance(v, dict) and 'search' in v): continue
+        cs = SRC.music_search(v['search'], v.get('src', 'archive,commons,openverse,freesound'), n=8)
+        cs = [c for c in cs if not c.get('dur') or c['dur'] >= v.get('min_secs', 50)] or cs
+        tab[name] = cs[:12]
+        for j, c in enumerate(cs[:12]):
+            try:
+                pth = SRC.download(c['url'], os.path.splitext(c['url'].split('?')[0])[1] or '.mp3')
+                y, sr_ = librosa.load(pth, sr=22050, mono=True, duration=150)
+                S = librosa.amplitude_to_db(np.abs(librosa.stft(y, n_fft=1024, hop_length=512)), ref=np.max)
+                im = Image.fromarray((np.clip((S[:300][::-1] + 80) / 80, 0, 1) * 255).astype('uint8')).resize((900, 110))
+                rms = librosa.feature.rms(y=y)[0]; c['dur'] = c.get('dur') or len(y) / sr_
+                c['energia'] = [round(float(x), 3) for x in np.interp(np.linspace(0, len(rms) - 1, 30), np.arange(len(rms)), rms)]
+                c['tempo'] = float(np.atleast_1d(librosa.beat.beat_track(y=y, sr=sr_)[0])[0])
+                rows.append((name, j, c, im))
+            except Exception as e: log('  aviso música candidata', c.get('id'), e)
+    if not tab: return
+    json.dump(tab, open(f'{out_dir}/musica.json', 'w'), ensure_ascii=False, indent=0)
+    sheet = Image.new('RGB', (1400, 40 + 150 * len(rows)), (12, 12, 12)); d = ImageDraw.Draw(sheet)
+    for i, (name, j, c, im) in enumerate(rows):
+        y0 = 20 + i * 150
+        d.text((10, y0), f'{name} · pick {j} · {c.get("dur", 0):.0f}s · ~{c.get("tempo", 0):.0f} bpm · {c.get("license","")}', font=F, fill=(240, 200, 120))
+        d.text((10, y0 + 26), f'{c.get("title","")[:90]} — {c.get("credit","")[:40]}', font=F, fill=(200, 200, 200))
+        sheet.paste(im.convert('RGB'), (10, y0 + 52))
+        e = c.get('energia', []); mx = max(e or [1]) or 1
+        for q in range(len(e) - 1): d.line([(930 + q * 15, y0 + 150 - 90 * e[q] / mx), (930 + (q + 1) * 15, y0 + 150 - 90 * e[q + 1] / mx)], fill=(120, 220, 235), width=2)
+    sheet.save(f'{out_dir}/musica.jpg', quality=82); log(f'   música: {len(rows)} candidatas en musica.jpg / musica.json')
 
 # ================= PRINCIPAL =================
 def run(job_dir):
     job = json.load(open(f'{job_dir}/job.json')); U = job['units']
     out_dir = f'{job_dir}/out'; wd = '/tmp/fabrica_work'; os.makedirs(out_dir, exist_ok=True); os.makedirs(f'{wd}/shots', exist_ok=True)
     random.seed(job.get('seed', 7)); credits = []; MUST[:] = job.get('must', [])
+    global GRADE
+    th = CARDS.set_theme(job.get('theme', 'antiguo')); g = th.get('grade', 'calido'); GRADE = GRADES.get(g, g)
+    log(f'== piel: {th.get("uso", job.get("theme"))} · etalonaje {g}')
+    br = job.get('brand', {}); BRAND.clear()
+    if br.get('mosca', True): BRAND['mosca'] = os.path.join(ROOT, 'assets/brand/DocuVox_Mosca_1920x1080_alfa.png')
     log('== 1/5 audio: colocando voces, música y efectos')
     A = build_audio(job, U); credits += A['credits']
     log('== 2/5 guion visual'); shots = build_edl(job, U, A)
@@ -411,7 +498,7 @@ def run(job_dir):
     for ins in inserts:
         e = next(x for x in A['tl'] if x['i'] == ins['after_unit']); cuts.append((e['t'] + e['d'], fetch(ins['file'])))
     bounds = [0] + [c[0] for c in cuts] + [A['end'] + 3]
-    pieces = [fetch(p) for p in job.get('intro', [])]
+    pieces = [fetch(p) for p in job.get('intro', ['assets/intro/docuvox.mp4'])]
     for k in range(len(bounds) - 1):
         a, b = bounds[k], bounds[k + 1]; fa, fb = round(a * FPS), round(b * FPS)
         lst = f'{wd}/part{k}.txt'
@@ -421,6 +508,9 @@ def run(job_dir):
             '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '128k', '-ar', '48000', '-ac', '2', '-shortest', f'{wd}/m{k}.mp4'])
         pieces.append(f'{wd}/m{k}.mp4')
         if k < len(cuts): pieces.append(cuts[k][1])
+    if job.get('brand', {}).get('outro', True):
+        try: pieces.append(outro(job, shots, wd))
+        except Exception as e: log('  aviso pantalla final:', e)
     norm = []
     for k, p in enumerate(pieces):  # piezas externas: mismas características que el doc
         if p.startswith(wd): norm.append(p); continue
@@ -432,7 +522,7 @@ def run(job_dir):
     sh(['ffmpeg', '-loglevel', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', f'{wd}/final.txt', '-c', 'copy', '-movflags', '+faststart', final])
     # desplazamientos de tiempo por intro e inserciones (para subtítulos y capítulos)
     def dur(p): return float(sh(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', p]).strip())
-    intro_d = sum(dur(fetch(p)) for p in job.get('intro', [])); ins_d = [dur(c[1]) for c in cuts]
+    intro_d = sum(dur(fetch(p)) for p in job.get('intro', ['assets/intro/docuvox.mp4'])); ins_d = [dur(c[1]) for c in cuts]
     def T(x): return x + intro_d + sum(d for (c, _), d in zip(cuts, ins_d) if x >= c)
     # subtítulos
     srt = []; n = 1

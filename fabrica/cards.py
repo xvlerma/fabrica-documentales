@@ -5,9 +5,63 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 W, H, FPS = 1920, 1080, 25
 HERE = os.path.dirname(os.path.abspath(__file__))
 GOLD = (214, 178, 112); CREAM = (236, 224, 200); DIM = (170, 150, 120); RED = (178, 60, 40)
+BG0 = (18, 14, 10); BG1 = (58, 44, 28); SEA = (14, 20, 26); LAND = (58, 46, 32); COAST = (150, 120, 80); RIVER = (70, 110, 130)
+PAPER = (222, 208, 178); INK = (40, 28, 18); STRING = (170, 30, 25)
+BRAND_DOT = (242, 255, 0)  # amarillo DocuVox: solo como punto mínimo en los rótulos
+THEME = {}
 _bgcache = {}
+_fcache = {}
+ROLE = {'cinzel600': 'display', 'cinzel400': 'display_light', 'corm500': 'body', 'corm500i': 'italic', 'corm600': 'body_bold'}
 
-def font(name, size): return ImageFont.truetype(f'{HERE}/fonts/{name}.ttf', size)
+def set_theme(spec):
+    """Aplica la piel del episodio: preset de themes.json o dict con 'base' + cambios."""
+    global GOLD, CREAM, DIM, RED, BG0, BG1, SEA, LAND, COAST, RIVER, PAPER, INK, STRING
+    presets = json.load(open(f'{HERE}/themes.json', encoding='utf-8'))
+    if isinstance(spec, str): spec = {'base': spec}
+    spec = spec or {}
+    t = dict(presets.get(spec.get('base', 'antiguo'), presets['antiguo']))
+    for k, v in spec.items():
+        if k == 'fonts': t['fonts'] = {**t['fonts'], **v}
+        elif k != 'base': t[k] = v
+    THEME.clear(); THEME.update(t); _bgcache.clear(); _fcache.clear()
+    c = lambda k: tuple(int(x) for x in t[k])
+    GOLD, CREAM, DIM, RED = c('accent'), c('text'), c('dim'), c('alert')
+    BG0, BG1, SEA, LAND, COAST, RIVER = c('bg0'), c('bg1'), c('sea'), c('land'), c('coast'), c('river')
+    PAPER, INK, STRING = c('paper'), c('ink'), c('string')
+    return THEME
+
+def _font_file(ref):
+    if not ref.startswith('gf:'): return f'{HERE}/fonts/{ref}.ttf', None
+    path, _, w = ref[3:].partition('@')
+    from sources import download
+    import urllib.parse
+    f = download('https://raw.githubusercontent.com/google/fonts/main/' + urllib.parse.quote(path), '.ttf')
+    return f, (int(w) if w else None)
+
+def font(name, size):
+    ref = (THEME.get('fonts') or {}).get(ROLE.get(name, name), name)
+    key = (ref, size)
+    if key in _fcache: return _fcache[key]
+    try:
+        path, wght = _font_file(ref); f = ImageFont.truetype(path, size)
+        try:
+            axes = f.get_variation_axes(); vals = []
+            for a in axes:
+                nm = (a.get('name') or b'')
+                nm = nm.decode() if isinstance(nm, bytes) else str(nm)
+                if 'eight' in nm and wght: vals.append(max(a['minimum'], min(a['maximum'], wght)))
+                elif 'ptical' in nm: vals.append(max(a['minimum'], min(a['maximum'], size * 0.5)))
+                else: vals.append(a.get('default', a['minimum']))
+            if vals: f.set_variation_by_axes(vals)
+        except Exception: pass
+    except Exception as e:
+        print('aviso fuente', ref, e, flush=True); f = ImageFont.truetype(f'{HERE}/fonts/{name if name in ROLE else "corm500"}.ttf', size)
+    _fcache[key] = f; return f
+
+def CASE(s):
+    m = THEME.get('case', 'upper'); return s.upper() if m == 'upper' else s
+
+def TR(x): return x * THEME.get('tracking', 1.0)
 
 def bg(seed=1):
     if seed in _bgcache: return _bgcache[seed].copy()
@@ -15,8 +69,9 @@ def bg(seed=1):
     n = rng.normal(0, 1, (H // 8, W // 8))
     img = Image.fromarray(((n - n.min()) / (n.max() - n.min()) * 255).astype('uint8')).resize((W, H), Image.BICUBIC).filter(ImageFilter.GaussianBlur(18))
     a = np.asarray(img, dtype=np.float32) / 255
-    base = np.array([18, 14, 10], np.float32); hi = np.array([58, 44, 28], np.float32)
+    base = np.array(BG0, np.float32); hi = np.array(BG1, np.float32)
     rgb = base + (hi - base) * a[..., None] ** 1.6
+    rgb += rng.normal(0, 3.2, (H, W, 1)).astype(np.float32)  # grano fino de película
     yy, xx = np.mgrid[0:H, 0:W]
     v = 1 - 0.55 * (((xx - W / 2) / (W / 2)) ** 2 + ((yy - H / 2) / (H / 2)) ** 2)
     rgb = np.clip(rgb * np.clip(v, 0.25, 1)[..., None], 0, 255)
@@ -39,6 +94,15 @@ def text_layer(text, f, fill, spacing=0.0):
     else: d.text((2, th / 2), text, font=f, fill=fill, anchor='lm')
     return im
 
+def fit(name, size, text, maxw, spacing=0.0):
+    """Reduce el cuerpo hasta que el texto quepa en maxw (títulos largos)."""
+    while size > 24:
+        f = font(name, size); d0 = ImageDraw.Draw(Image.new('RGBA', (1, 1)))
+        w = d0.textlength(text, font=f) + f.size * spacing * max(0, len(text) - 1)
+        if w <= maxw: return f
+        size = int(size * 0.94)
+    return font(name, size)
+
 def put(frame, layer, cx, cy, a, anchor='mm', dy=0):
     if a <= 0: return
     x = int(cx - layer.width / 2) if anchor == 'mm' else int(cx); y = int(cy - layer.height / 2 + dy)
@@ -55,15 +119,17 @@ def wrap(text, f, maxw):
     lines.append(cur); return lines
 
 def rule_layer(w=320):
-    im = Image.new('RGBA', (w + 20, 20), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+    im = Image.new('RGBA', (w + 20, 20), (0, 0, 0, 0)); d = ImageDraw.Draw(im); st = THEME.get('rule', 'diamond')
+    if st == 'bar': d.rectangle([10, 8, w + 10, 12], fill=GOLD); return im
     d.line([(10, 10), (w + 10, 10)], fill=GOLD, width=2); c = w / 2 + 10
-    d.polygon([(c, 3), (c + 7, 10), (c, 17), (c - 7, 10)], fill=GOLD); return im
+    if st == 'diamond': d.polygon([(c, 3), (c + 7, 10), (c, 17), (c - 7, 10)], fill=GOLD)
+    return im
 
 # ---------- tipos ----------
 def f_title(spec, t, D):
     fr = bg(spec.get('seed', 11))
     a = ease(t / 1.2); s = 1 + 0.03 * (t / D)
-    L = text_layer(spec['title'].upper(), font('cinzel600', int(116 * s)), GOLD, 0.10)
+    _t = CASE(spec['title']); L = text_layer(_t, fit('cinzel600', int(116 * s), _t, 1680 * s, TR(0.10)), GOLD, TR(0.10))
     put(fr, L, W / 2, H / 2 - 40, a)
     if spec.get('sub'):
         put(fr, rule_layer(400), W / 2, H / 2 + 45, ease((t - .6) / 1))
@@ -72,7 +138,7 @@ def f_title(spec, t, D):
 
 def f_ficha(spec, t, D):
     fr = bg(spec.get('seed', 13))
-    put(fr, text_layer(spec['name'].upper(), font('cinzel600', 110), GOLD, 0.1), W / 2, H / 2 - 30, ease(t / .8), dy=int(30 * (1 - ease(t / .8))))
+    put(fr, text_layer(CASE(spec['name']), fit('cinzel600', 110, CASE(spec['name']), 1680, TR(0.1)), GOLD, TR(0.1)), W / 2, H / 2 - 30, ease(t / .8), dy=int(30 * (1 - ease(t / .8))))
     put(fr, rule_layer(360), W / 2, H / 2 + 50, ease((t - .5) / .8))
     put(fr, text_layer(spec.get('role', ''), font('corm500i', 54), CREAM), W / 2, H / 2 + 115, ease((t - .8) / .8))
     return fr
@@ -85,12 +151,12 @@ def f_quote(spec, t, D):
         put(fr, text_layer(l, f, CREAM), W / 2, y0 + i * lh, ease((t - .3 - i * step) / .9))
     yb = y0 + len(lines) * lh + 30; ta = .3 + len(lines) * step
     put(fr, rule_layer(300), W / 2, yb, ease((t - ta) / .8))
-    put(fr, text_layer(spec.get('attrib', '').upper(), font('cinzel400', 30), GOLD, 0.15), W / 2, yb + 55, ease((t - ta - .3) / .8))
+    put(fr, text_layer(CASE(spec.get('attrib', '')), font('cinzel400', 30), GOLD, TR(0.15)), W / 2, yb + 55, ease((t - ta - .3) / .8))
     return fr
 
 def f_list(spec, t, D):
     fr = bg(spec.get('seed', 41)); items = spec['items']; n = len(items)
-    put(fr, text_layer(spec['header'].upper(), font('cinzel600', 58), GOLD, 0.12), W / 2, 190, ease(t / .8))
+    put(fr, text_layer(CASE(spec['header']), font('cinzel600', 58), GOLD, TR(0.12)), W / 2, 190, ease(t / .8))
     put(fr, rule_layer(360), W / 2, 250, ease((t - .3) / .8))
     step = min(1.4, (D * 0.65) / max(1, n)); gap = min(120, 640 / n)
     for i, it in enumerate(items):
@@ -103,7 +169,7 @@ def f_list(spec, t, D):
 def f_timeline(spec, t, D):
     fr = bg(spec.get('seed', 51)); ev = spec['events']; n = len(ev)
     y = H / 2 + 20; x0, x1 = 220, W - 220
-    if spec.get('header'): put(fr, text_layer(spec['header'].upper(), font('cinzel600', 50), GOLD, 0.12), W / 2, 150, ease(t / .8))
+    if spec.get('header'): put(fr, text_layer(CASE(spec['header']), font('cinzel600', 50), GOLD, TR(0.12)), W / 2, 150, ease(t / .8))
     p = ease((t - .3) / (D * 0.6)); d = ImageDraw.Draw(fr)
     d.line([(x0, y), (x0 + (x1 - x0) * p, y)], fill=GOLD, width=3)
     for i, (yr, txt) in enumerate(ev):
@@ -113,7 +179,8 @@ def f_timeline(spec, t, D):
         r = 11 * k; d.ellipse([x - r, y - r, x + r, y + r], fill=GOLD)
         up = i % 2 == 0
         put(fr, text_layer(yr, font('cinzel600', 44), GOLD), x, y - 70 if up else y + 70, k)
-        for j, l in enumerate(wrap(txt, font('corm500', 38), 380)):
+        ls_ = wrap(txt, font('corm500', 38), 380)
+        for j, l in enumerate(ls_[::-1] if up else ls_):
             put(fr, text_layer(l, font('corm500', 38), CREAM), x, (y - 135 - j * 46) if up else (y + 130 + j * 46), k)
     return fr
 
@@ -139,16 +206,16 @@ def _map_base(bbox, seed):
     # ajusta el encuadre a 16:9 en proyección equirectangular corregida por latitud
     k = math.cos(math.radians((lat0 + lat1) / 2))
     def P(lon, lat): return ((lon - lon0) / (lon1 - lon0) * W, (lat1 - lat) / (lat1 - lat0) * H)
-    im = Image.new('RGBA', (W, H), (14, 20, 26, 255)); d = ImageDraw.Draw(im)
+    im = Image.new('RGBA', (W, H), SEA + (255,)); d = ImageDraw.Draw(im)
     for f in _geo('ne_50m_land')['features']:
         g = f['geometry']; polys = g['coordinates'] if g['type'] == 'MultiPolygon' else [g['coordinates']]
         for poly in polys:
             pts = [P(x, y) for x, y in poly[0]]
-            if len(pts) > 2: d.polygon(pts, fill=(58, 46, 32, 255), outline=(150, 120, 80, 255))
+            if len(pts) > 2: d.polygon(pts, fill=LAND + (255,), outline=COAST + (255,))
     try:
         for f in _geo('ne_50m_rivers_lake_centerlines')['features']:
             g = f['geometry']; ls = g['coordinates'] if g['type'] == 'MultiLineString' else [g['coordinates']]
-            for l in ls: d.line([P(x, y) for x, y in l], fill=(70, 110, 130, 255), width=3)
+            for l in ls: d.line([P(x, y) for x, y in l], fill=RIVER + (255,), width=3)
     except Exception: pass
     im = im.filter(ImageFilter.GaussianBlur(0.6))
     vg = bg(seed); arr = np.asarray(im).astype(np.float32); v = np.asarray(vg).astype(np.float32)
@@ -164,7 +231,7 @@ def f_map(spec, t, D):
         band = Image.new('RGBA', (W, 170), (0, 0, 0, 0)); bd = ImageDraw.Draw(band)
         for yy in range(170): bd.line([(0, yy), (W, yy)], fill=(8, 8, 10, int(200 * (1 - yy / 170) ** 1.2)))
         fr.alpha_composite(band, (0, 0))
-        put(fr, text_layer(spec['title'].upper(), font('cinzel600', 46), GOLD, 0.12), W / 2, 72, ease(t / .8))
+        put(fr, text_layer(CASE(spec['title']), font('cinzel600', 46), GOLD, TR(0.12)), W / 2, 72, ease(t / .8))
     pts = spec.get('points', []); arrows = spec.get('arrows', [])
     for i, p in enumerate(pts):
         k = ease((t - .5 - i * .35) / .6)
@@ -210,13 +277,13 @@ def _draw_land(d, P, view, scale):
             if max(xs) < lon0 or min(xs) > lon1 or max(ys) < lat0 or min(ys) > lat1: continue
             step = max(1, int(len(ring) / 4000)) if scale > 40 else 1
             pts = [P(x, y) for x, y in ring[::step]]
-            if len(pts) > 2: d.polygon(pts, fill=(58, 46, 32, 255), outline=(150, 120, 80, 255))
+            if len(pts) > 2: d.polygon(pts, fill=LAND + (255,), outline=COAST + (255,))
     try:
         for f in _geo('ne_50m_rivers_lake_centerlines')['features']:
             g = f['geometry']; ls = g['coordinates'] if g['type'] == 'MultiLineString' else [g['coordinates']]
             for l in ls:
                 if all(not (lon0 <= x <= lon1 and lat0 <= y <= lat1) for x, y in l[::5] + [l[-1]]): continue
-                d.line([P(x, y) for x, y in l], fill=(70, 110, 130, 255), width=3 if scale < 60 else 2)
+                d.line([P(x, y) for x, y in l], fill=RIVER + (255,), width=3 if scale < 60 else 2)
     except Exception: pass
 
 def f_mapfly(spec, t, D):
@@ -230,7 +297,7 @@ def f_mapfly(spec, t, D):
     ratio = (a[3] - a[1]) / sa; vs = span * ratio
     view = [cx - span / 2, cy - vs / 2, cx + span / 2, cy + vs / 2]
     def P(lon, lat): return ((lon - view[0]) / span * W, (view[3] - lat) / vs * H)
-    im = Image.new('RGBA', (W, H), (14, 20, 26, 255)); d = ImageDraw.Draw(im)
+    im = Image.new('RGBA', (W, H), SEA + (255,)); d = ImageDraw.Draw(im)
     _draw_land(d, P, view, span)
     v = np.asarray(bg(spec.get('seed', 61))).astype(np.float32); arr = np.asarray(im).astype(np.float32)
     arr[..., :3] = arr[..., :3] * 0.75 + v[..., :3] * 0.35
@@ -266,7 +333,7 @@ def f_mapfly(spec, t, D):
     if spec.get('title'):
         band = Image.new('RGBA', (W, 170), (0, 0, 0, 0)); bd = ImageDraw.Draw(band)
         for yy in range(170): bd.line([(0, yy), (W, yy)], fill=(8, 8, 10, int(200 * (1 - yy / 170) ** 1.2)))
-        fr.alpha_composite(band, (0, 0)); put(fr, text_layer(spec['title'].upper(), font('cinzel600', 46), GOLD, 0.12), W / 2, 72, ease(t / .8))
+        fr.alpha_composite(band, (0, 0)); put(fr, text_layer(CASE(spec['title']), font('cinzel600', 46), GOLD, TR(0.12)), W / 2, 72, ease(t / .8))
     return fr
 
 def _fit(img, bw, bh):
@@ -288,7 +355,7 @@ def f_scan(spec, t, D):
     for gy in range(oy, oy + hh, 64): d.line([(ox, gy), (ox + im.width, gy)], fill=CYAN + (22,))
     d.rectangle([ox, oy, ox + im.width, oy + hh], outline=CYAN + (90,), width=2)
     for i, txt in enumerate(spec.get('hud', ['TC · CORTE AXIAL', 'MOMIA C1 · MUSEO EGIPCIO DEL CAIRO'])):
-        put(fr, text_layer(txt, font('cinzel400', 24), CYAN, 0.15), 1290, 90 + i * 36, ease((t - .3) / .6), anchor='lm')
+        put(fr, text_layer(txt, font('cinzel400', 24), CYAN, TR(0.15)), 1290, 90 + i * 36, ease((t - .3) / .6), anchor='lm')
     if spec.get('mark'):
         mx, my, mr = spec['mark']; X, Y, R = ox + mx * im.width, oy + my * hh, mr * im.width
         k = ease((t - D * .5) / .8)
@@ -296,7 +363,7 @@ def f_scan(spec, t, D):
             ang = 360 * k; d.arc([X - R, Y - R, X + R, Y + R], -90, -90 + ang, fill=(235, 70, 50, 255), width=5)
             if k >= 1:
                 pulse = R + 14 * ((t * 1.5) % 1); d.ellipse([X - pulse, Y - pulse, X + pulse, Y + pulse], outline=(235, 70, 50, int(160 * (1 - (t * 1.5) % 1))), width=2)
-            lab = text_layer(spec.get('label', '').upper(), font('cinzel600', 36), (245, 120, 90), 0.1)
+            lab = text_layer(CASE(spec.get('label', '')), font('cinzel600', 36), (245, 120, 90), TR(0.1))
             right = ox + im.width + 40 + lab.width + 20 < W; lx = ox + im.width + 40 if right else ox - 40; ka = ease((t - D * .5 - .6) / .6)
             if ka > 0:
                 d.line([(X + R * (1 if lx > X else -1), Y), (_lerp(X, lx, ka), Y)], fill=(235, 70, 50, 255), width=3)
@@ -318,10 +385,10 @@ def f_doc(spec, t, D):
     if spec.get('hl'):
         hx, hy, hw, hh = spec['hl']; kk = ease((t - D * .5) / .6)
         if kk > 0:
-            X0, Y0 = ox + hx * view.width, oy + hy * view.height; d.rectangle([X0, Y0, X0 + hw * view.width * kk, Y0 + hh * view.height], outline=(235, 190, 90, 255), width=4)
+            X0, Y0 = ox + hx * view.width, oy + hy * view.height; d.rectangle([X0, Y0, X0 + hw * view.width * kk, Y0 + hh * view.height], outline=GOLD + (255,), width=4)
     ty = 170
-    for tl_ in wrap(spec.get('title', '').upper(), font('cinzel600', 38), 520):
-        put(fr, text_layer(tl_, font('cinzel600', 38), GOLD, 0.06), 1290, ty, ease(t / .8), anchor='lm'); ty += 52
+    for tl_ in wrap(CASE(spec.get('title', '')), font('cinzel600', 38), 520):
+        put(fr, text_layer(tl_, font('cinzel600', 38), GOLD, TR(0.06)), 1290, ty, ease(t / .8), anchor='lm'); ty += 52
     put(fr, rule_layer(260), 1290 + 140, ty + 5, ease((t - .3) / .8))
     lines = spec.get('lines', []); step = (D * .7) / max(1, len(lines)); y = ty + 70
     for i, l in enumerate(lines):
@@ -340,26 +407,26 @@ def f_board(spec, t, D):
     for i, j in spec.get('links', []):
         kk = ease((t - .4 - max(i, j) * step - .3) / .7)
         if kk <= 0: continue
-        (x0, y0), (x1, y1) = pos[i], pos[j]; d.line([(x0, y0), (_lerp(x0, x1, kk), _lerp(y0, y1, kk))], fill=(170, 30, 25, 255), width=4)
+        (x0, y0), (x1, y1) = pos[i], pos[j]; d.line([(x0, y0), (_lerp(x0, x1, kk), _lerp(y0, y1, kk))], fill=STRING + (255,), width=4)
     for i, (name, role) in enumerate(nodes):
         kk = ease((t - .4 - i * step) / .5)
         if kk <= 0: continue
         x, y = pos[i]; cw, ch = 300, 150
         card = Image.new('RGBA', (cw + 40, ch + 40), (0, 0, 0, 0)); cd = ImageDraw.Draw(card)
         cd.rectangle([24, 24, cw + 24, ch + 24], fill=(0, 0, 0, 90)); card = card.filter(ImageFilter.GaussianBlur(6)); cd = ImageDraw.Draw(card)
-        cd.rectangle([16, 16, cw + 16, ch + 16], fill=(222, 208, 178, 255))
-        cd.text((cw / 2 + 16, 70), name.upper(), font=font('cinzel600', 34 if len(name) < 14 else 26), fill=(40, 28, 18), anchor='mm')
-        cd.text((cw / 2 + 16, 120), role, font=font('corm500i', 28), fill=(90, 70, 50), anchor='mm')
-        cd.ellipse([cw / 2 + 6, 10, cw / 2 + 26, 30], fill=(170, 30, 25, 255))
+        cd.rectangle([16, 16, cw + 16, ch + 16], fill=PAPER + (255,))
+        cd.text((cw / 2 + 16, 70), name.upper(), font=font('cinzel600', 34 if len(name) < 14 else 26), fill=INK, anchor='mm')
+        cd.text((cw / 2 + 16, 120), role, font=font('corm500i', 28), fill=tuple(int(a * .55 + b * .45) for a, b in zip(INK, PAPER)), anchor='mm')
+        cd.ellipse([cw / 2 + 6, 10, cw / 2 + 26, 30], fill=STRING + (255,))
         card = card.rotate(((i * 37) % 9 - 4) * .8, resample=Image.BICUBIC, expand=True)
         put(fr, card, x, y - 25 * (1 - kk), kk)
-    if spec.get('title'): put(fr, text_layer(spec['title'].upper(), font('cinzel600', 46), GOLD, 0.12), W / 2, 70, ease(t / .8))
+    if spec.get('title'): put(fr, text_layer(CASE(spec['title']), font('cinzel600', 46), GOLD, TR(0.12)), W / 2, 70, ease(t / .8))
     return fr
 
 def f_counter(spec, t, D):
     fr = bg(spec.get('seed', 91)); k = ease(t / (D * .55)); v = _lerp(spec.get('from', 0), spec['to'], k)
     txt = f"{int(round(v)):,}".replace(',', '.')
-    put(fr, text_layer(spec.get('prefix', '') + txt, font('cinzel600', 200), GOLD, 0.04), W / 2, H / 2 - 50, ease(t / .5))
+    put(fr, text_layer(spec.get('prefix', '') + txt, font('cinzel600', 200), GOLD, TR(0.04)), W / 2, H / 2 - 50, ease(t / .5))
     put(fr, rule_layer(420), W / 2, H / 2 + 80, ease((t - .4) / .8))
     put(fr, text_layer(spec.get('label', ''), font('corm500i', 60), CREAM), W / 2, H / 2 + 150, ease((t - .6) / .8))
     return fr
@@ -369,15 +436,15 @@ def f_split(spec, t, D):
     d.line([(W / 2, H / 2 - 380 * k), (W / 2, H / 2 + 380 * k)], fill=GOLD, width=2)
     for side, cx, col in (('left', W / 4, DIM), ('right', 3 * W / 4, GOLD)):
         s_ = spec[side]; at = .4 if side == 'left' else D * .4
-        put(fr, text_layer(s_['title'].upper(), font('cinzel600', 44), col, 0.12), cx, 260, ease((t - at) / .7))
+        put(fr, text_layer(CASE(s_['title']), font('cinzel600', 44), col, TR(0.12)), cx, 260, ease((t - at) / .7))
         y = 360
         for i, l in enumerate(s_.get('lines', [])):
             for ww in wrap(l, font('corm500', 44), 700):
-                put(fr, text_layer(ww, font('corm500', 44), CREAM if side == 'right' else (190, 180, 165)), cx, y, ease((t - at - .4 - i * .5) / .6)); y += 58
+                put(fr, text_layer(ww, font('corm500', 44), CREAM if side == 'right' else DIM), cx, y, ease((t - at - .4 - i * .5) / .6)); y += 58
             y += 24
         if side == 'left' and spec.get('strike', True) and t > D * .4:
             kk = ease((t - D * .4) / .4)
-            if kk > 0: d.line([(cx - 330, 330), (cx - 330 + 660 * kk, 330 + (y - 360) * kk)], fill=(178, 60, 40, 200), width=5)
+            if kk > 0: d.line([(cx - 330, 330), (cx - 330 + 660 * kk, 330 + (y - 360) * kk)], fill=RED + (200,), width=5)
     return fr
 
 KIND.update(mapfly=f_mapfly, scan=f_scan, doc=f_doc, board=f_board, counter=f_counter, split=f_split)
@@ -387,7 +454,7 @@ def keyword(word, out):
     im = Image.new('RGBA', (W, H), (0, 0, 0, 0))
     g = Image.new('RGBA', (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(g); gd.rectangle([0, H / 2 - 160, W, H / 2 + 160], fill=(0, 0, 0, 120))
     im.alpha_composite(g.filter(ImageFilter.GaussianBlur(60)))
-    L = text_layer(word.upper(), font('cinzel600', 150), GOLD, 0.18); im.alpha_composite(L, ((W - L.width) // 2, (H - L.height) // 2))
+    L = text_layer(CASE(word), fit('cinzel600', 150, CASE(word), 1700, TR(0.18)), GOLD, TR(0.18)); im.alpha_composite(L, ((W - L.width) // 2, (H - L.height) // 2))
     im.save(out)
 
 def render_card(spec, dur, out, fade_in=.25, fade_out=.0):
@@ -413,7 +480,34 @@ def lower_third(a, b, out):
     im = Image.new('RGBA', (W, H), (0, 0, 0, 0))
     g = Image.new('RGBA', (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(g)
     gd.rectangle([0, H - 260, 1100, H - 90], fill=(0, 0, 0, 150)); im.alpha_composite(g.filter(ImageFilter.GaussianBlur(40)))
-    d = ImageDraw.Draw(im); d.line([(120, H - 205), (190, H - 205)], fill=GOLD, width=3)
-    im.alpha_composite(text_layer(a.upper(), font('cinzel600', 52), GOLD, 0.10), (118, H - 200))
-    if b: im.alpha_composite(text_layer(b, font('corm500i', 40), CREAM), (120, H - 138))
+    d = ImageDraw.Draw(im); d.line([(144, H - 205), (214, H - 205)], fill=GOLD, width=3)
+    if THEME.get('brand_dot', True): d.ellipse([122, H - 211, 134, H - 199], fill=BRAND_DOT)  # firma DocuVox: el punto
+    im.alpha_composite(text_layer(CASE(a), font('cinzel600', 52), GOLD, TR(0.10)), (142, H - 200))
+    if b: im.alpha_composite(text_layer(b, font('corm500i', 40), CREAM), (144, H - 138))
     im.save(out)
+
+def end_screen(out, bg_path=None, kit=None):
+    """Pantalla final DocuVox (fondo para los elementos de YouTube): imagen del propio episodio en B/N, marca y huecos."""
+    kit = kit or os.path.join(os.path.dirname(HERE), 'assets', 'brand')
+    fr = Image.new('RGB', (W, H), (16, 16, 16))
+    if bg_path and os.path.exists(bg_path):
+        from PIL import ImageOps, ImageEnhance
+        b = ImageOps.fit(Image.open(bg_path).convert('L'), (W, H)).filter(ImageFilter.GaussianBlur(6))
+        fr = ImageEnhance.Brightness(b.convert('RGB')).enhance(0.32)
+    fr = fr.convert('RGBA'); d = ImageDraw.Draw(fr)
+    yy, xx = np.mgrid[0:H, 0:W]; v = np.clip(1 - 0.6 * (((xx - W / 2) / (W / 2)) ** 2 + ((yy - H / 2) / (H / 2)) ** 2), 0.3, 1)
+    arr = np.asarray(fr).astype(np.float32); arr[..., :3] *= v[..., None]; fr = Image.fromarray(arr.clip(0, 255).astype('uint8'), 'RGBA'); d = ImageDraw.Draw(fr)
+    logo = Image.open(f'{kit}/DocuVox_Logo_Horizontal_Amarillo-Blanco.png').convert('RGBA'); logo = logo.resize((300, int(300 * logo.height / logo.width)), Image.LANCZOS)
+    fr.alpha_composite(logo, (96, 64))
+    bf = lambda n, s: ImageFont.truetype(f'{kit}/{n}.ttf', s)
+    d.line([(96 + 320, 72), (96 + 320, 64 + logo.height - 8)], fill=(139, 139, 133), width=2)
+    d.text((96 + 340, 64 + logo.height / 2), 'DOCUMENTALES SONOROS', font=bf('BarlowCondensed-SemiBold', 26), fill=(244, 243, 238), anchor='lm')
+    for x, lab in ((96, 'SIGUE ESCUCHANDO'), (1000, 'RECOMENDADO')):
+        d.text((x, 262), lab, font=bf('BarlowCondensed-ExtraBold', 30), fill=BRAND_DOT, anchor='ls')
+        d.rectangle([x, 280, x + 824, 280 + 463], outline=(139, 139, 133, 140), width=2)
+    d.ellipse([760, 850, 900, 990], outline=(139, 139, 133, 160), width=2)
+    d.text((930, 905), 'SUSCRÍBETE', font=bf('BarlowCondensed-Black', 54), fill=(244, 243, 238), anchor='lm')
+    f2 = bf('BarlowCondensed-Black', 54); x = 930
+    for w_, c_ in (('Y ', (244, 243, 238)), ('ESCUCHA', BRAND_DOT), (' MÁS.', (244, 243, 238))):
+        d.text((x, 962), w_, font=f2, fill=c_, anchor='lm'); x += d.textlength(w_, font=f2)
+    fr.convert('RGB').save(out, quality=95)

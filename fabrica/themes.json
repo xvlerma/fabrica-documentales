@@ -1,0 +1,556 @@
+{
+ "_doc": "Pieles de episodio. En el job: \"theme\": \"nombre\" o {\"base\": \"nombre\", ...campos a cambiar}. Colores RGB. Fuentes: nombre local de fabrica/fonts o gf:<ruta en github.com/google/fonts>@<peso>. grade: calido | frio | neutro | bn | sepia.",
+ "antiguo": {
+  "uso": "Egipto, Mesopotamia, Grecia, Roma, Persia",
+  "accent": [
+   214,
+   178,
+   112
+  ],
+  "text": [
+   236,
+   224,
+   200
+  ],
+  "dim": [
+   170,
+   150,
+   120
+  ],
+  "alert": [
+   178,
+   60,
+   40
+  ],
+  "bg0": [
+   18,
+   14,
+   10
+  ],
+  "bg1": [
+   58,
+   44,
+   28
+  ],
+  "sea": [
+   14,
+   20,
+   26
+  ],
+  "land": [
+   58,
+   46,
+   32
+  ],
+  "coast": [
+   150,
+   120,
+   80
+  ],
+  "river": [
+   70,
+   110,
+   130
+  ],
+  "paper": [
+   222,
+   208,
+   178
+  ],
+  "ink": [
+   40,
+   28,
+   18
+  ],
+  "string": [
+   170,
+   30,
+   25
+  ],
+  "fonts": {
+   "display": "cinzel600",
+   "display_light": "cinzel400",
+   "body": "corm500",
+   "italic": "corm500i",
+   "body_bold": "corm600"
+  },
+  "case": "upper",
+  "tracking": 1.0,
+  "rule": "diamond",
+  "grade": "calido"
+ },
+ "medieval": {
+  "uso": "Bizancio, Edad Media, cruzadas, vikingos, Al-Ándalus, Renacimiento temprano",
+  "accent": [
+   196,
+   158,
+   92
+  ],
+  "text": [
+   232,
+   220,
+   196
+  ],
+  "dim": [
+   160,
+   140,
+   120
+  ],
+  "alert": [
+   150,
+   32,
+   32
+  ],
+  "bg0": [
+   16,
+   10,
+   14
+  ],
+  "bg1": [
+   52,
+   28,
+   40
+  ],
+  "sea": [
+   16,
+   18,
+   26
+  ],
+  "land": [
+   62,
+   50,
+   40
+  ],
+  "coast": [
+   160,
+   130,
+   90
+  ],
+  "river": [
+   70,
+   96,
+   120
+  ],
+  "paper": [
+   226,
+   212,
+   182
+  ],
+  "ink": [
+   52,
+   30,
+   22
+  ],
+  "string": [
+   140,
+   24,
+   24
+  ],
+  "fonts": {
+   "display": "gf:ofl/imfellenglishsc/IMFeENsc28P.ttf",
+   "display_light": "gf:ofl/imfellenglishsc/IMFeENsc28P.ttf",
+   "body": "gf:ofl/imfellenglish/IMFeENrm28P.ttf",
+   "italic": "gf:ofl/imfellenglish/IMFeENit28P.ttf",
+   "body_bold": "gf:ofl/imfellenglish/IMFeENrm28P.ttf"
+  },
+  "case": "upper",
+  "tracking": 0.8,
+  "rule": "diamond",
+  "grade": "calido"
+ },
+ "guerra_moderna": {
+  "uso": "Siglos XIX y XX, guerras mundiales, revoluciones, Guerra Fría",
+  "accent": [
+   226,
+   220,
+   204
+  ],
+  "text": [
+   210,
+   206,
+   194
+  ],
+  "dim": [
+   140,
+   140,
+   132
+  ],
+  "alert": [
+   176,
+   36,
+   30
+  ],
+  "bg0": [
+   14,
+   15,
+   15
+  ],
+  "bg1": [
+   44,
+   46,
+   44
+  ],
+  "sea": [
+   20,
+   24,
+   26
+  ],
+  "land": [
+   70,
+   70,
+   62
+  ],
+  "coast": [
+   150,
+   150,
+   136
+  ],
+  "river": [
+   90,
+   110,
+   120
+  ],
+  "paper": [
+   214,
+   206,
+   186
+  ],
+  "ink": [
+   30,
+   30,
+   28
+  ],
+  "string": [
+   176,
+   36,
+   30
+  ],
+  "fonts": {
+   "display": "gf:ofl/oswald/Oswald[wght].ttf@600",
+   "display_light": "gf:ofl/oswald/Oswald[wght].ttf@400",
+   "body": "gf:ofl/sourceserif4/SourceSerif4[opsz,wght].ttf@400",
+   "italic": "gf:ofl/sourceserif4/SourceSerif4-Italic[opsz,wght].ttf@400",
+   "body_bold": "gf:ofl/sourceserif4/SourceSerif4[opsz,wght].ttf@600"
+  },
+  "case": "upper",
+  "tracking": 0.6,
+  "rule": "bar",
+  "grade": "frio"
+ },
+ "crimen": {
+  "uso": "Crímenes históricos, misterios, conspiraciones, juicios, prensa antigua",
+  "accent": [
+   236,
+   230,
+   218
+  ],
+  "text": [
+   222,
+   216,
+   204
+  ],
+  "dim": [
+   146,
+   140,
+   132
+  ],
+  "alert": [
+   196,
+   38,
+   34
+  ],
+  "bg0": [
+   10,
+   11,
+   13
+  ],
+  "bg1": [
+   36,
+   36,
+   40
+  ],
+  "sea": [
+   16,
+   18,
+   22
+  ],
+  "land": [
+   56,
+   54,
+   52
+  ],
+  "coast": [
+   150,
+   144,
+   136
+  ],
+  "river": [
+   80,
+   96,
+   110
+  ],
+  "paper": [
+   230,
+   224,
+   208
+  ],
+  "ink": [
+   24,
+   22,
+   20
+  ],
+  "string": [
+   196,
+   38,
+   34
+  ],
+  "fonts": {
+   "display": "gf:ofl/playfairdisplay/PlayfairDisplay[wght].ttf@800",
+   "display_light": "gf:ofl/courierprime/CourierPrime-Bold.ttf",
+   "body": "gf:ofl/courierprime/CourierPrime-Regular.ttf",
+   "italic": "gf:ofl/playfairdisplay/PlayfairDisplay-Italic[wght].ttf@400",
+   "body_bold": "gf:ofl/courierprime/CourierPrime-Bold.ttf"
+  },
+  "case": "upper",
+  "tracking": 0.4,
+  "rule": "bar",
+  "grade": "frio"
+ },
+ "ciencia": {
+  "uso": "Ciencia, espacio, exploración polar y oceánica, medicina, inventos",
+  "accent": [
+   140,
+   214,
+   236
+  ],
+  "text": [
+   226,
+   234,
+   240
+  ],
+  "dim": [
+   130,
+   150,
+   166
+  ],
+  "alert": [
+   236,
+   120,
+   60
+  ],
+  "bg0": [
+   6,
+   12,
+   20
+  ],
+  "bg1": [
+   20,
+   40,
+   62
+  ],
+  "sea": [
+   8,
+   18,
+   30
+  ],
+  "land": [
+   40,
+   56,
+   70
+  ],
+  "coast": [
+   120,
+   170,
+   200
+  ],
+  "river": [
+   80,
+   140,
+   180
+  ],
+  "paper": [
+   228,
+   234,
+   238
+  ],
+  "ink": [
+   16,
+   26,
+   36
+  ],
+  "string": [
+   236,
+   120,
+   60
+  ],
+  "fonts": {
+   "display": "gf:ofl/ibmplexsanscondensed/IBMPlexSansCondensed-SemiBold.ttf",
+   "display_light": "gf:ofl/ibmplexsanscondensed/IBMPlexSansCondensed-Regular.ttf",
+   "body": "gf:ofl/ibmplexsanscondensed/IBMPlexSansCondensed-Light.ttf",
+   "italic": "gf:ofl/ibmplexsanscondensed/IBMPlexSansCondensed-Italic.ttf",
+   "body_bold": "gf:ofl/ibmplexsanscondensed/IBMPlexSansCondensed-Medium.ttf"
+  },
+  "case": "upper",
+  "tracking": 1.2,
+  "rule": "bar",
+  "grade": "neutro"
+ },
+ "biografia": {
+  "uso": "Biografías, arte, música, siglos XVIII-XX, corte y aristocracia",
+  "accent": [
+   200,
+   160,
+   104
+  ],
+  "text": [
+   238,
+   232,
+   220
+  ],
+  "dim": [
+   158,
+   150,
+   138
+  ],
+  "alert": [
+   160,
+   50,
+   44
+  ],
+  "bg0": [
+   14,
+   14,
+   14
+  ],
+  "bg1": [
+   44,
+   40,
+   36
+  ],
+  "sea": [
+   18,
+   20,
+   24
+  ],
+  "land": [
+   60,
+   54,
+   46
+  ],
+  "coast": [
+   160,
+   140,
+   110
+  ],
+  "river": [
+   80,
+   104,
+   120
+  ],
+  "paper": [
+   232,
+   224,
+   208
+  ],
+  "ink": [
+   34,
+   30,
+   26
+  ],
+  "string": [
+   160,
+   50,
+   44
+  ],
+  "fonts": {
+   "display": "gf:ofl/dmserifdisplay/DMSerifDisplay-Regular.ttf",
+   "display_light": "gf:ofl/dmserifdisplay/DMSerifDisplay-Regular.ttf",
+   "body": "gf:ofl/lora/Lora[wght].ttf@400",
+   "italic": "gf:ofl/lora/Lora-Italic[wght].ttf@400",
+   "body_bold": "gf:ofl/lora/Lora[wght].ttf@600"
+  },
+  "case": "upper",
+  "tracking": 0.5,
+  "rule": "line",
+  "grade": "neutro"
+ },
+ "oriente": {
+  "uso": "Japón, China, Corea, Mongolia, Ruta de la Seda",
+  "accent": [
+   206,
+   64,
+   44
+  ],
+  "text": [
+   236,
+   228,
+   212
+  ],
+  "dim": [
+   160,
+   150,
+   136
+  ],
+  "alert": [
+   206,
+   64,
+   44
+  ],
+  "bg0": [
+   12,
+   11,
+   10
+  ],
+  "bg1": [
+   40,
+   34,
+   30
+  ],
+  "sea": [
+   16,
+   20,
+   22
+  ],
+  "land": [
+   60,
+   52,
+   44
+  ],
+  "coast": [
+   170,
+   140,
+   110
+  ],
+  "river": [
+   80,
+   110,
+   120
+  ],
+  "paper": [
+   234,
+   224,
+   202
+  ],
+  "ink": [
+   28,
+   24,
+   20
+  ],
+  "string": [
+   206,
+   64,
+   44
+  ],
+  "fonts": {
+   "display": "gf:ofl/shipporiminchob1/ShipporiMinchoB1-Bold.ttf",
+   "display_light": "gf:ofl/shipporiminchob1/ShipporiMinchoB1-Regular.ttf",
+   "body": "gf:ofl/shipporimincho/ShipporiMincho-Regular.ttf",
+   "italic": "gf:ofl/shipporimincho/ShipporiMincho-Regular.ttf",
+   "body_bold": "gf:ofl/shipporimincho/ShipporiMincho-SemiBold.ttf"
+  },
+  "case": "upper",
+  "tracking": 0.5,
+  "rule": "line",
+  "grade": "neutro"
+ }
+}

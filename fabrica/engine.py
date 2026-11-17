@@ -38,11 +38,13 @@ def fade(y, fi, fo):
 def trimv(y):
     _, (s, e) = librosa.effects.trim(y.mean(0), top_db=42)
     return y[:, max(0, s - int(.08 * SR)):min(y.shape[1], e + int(.15 * SR))]
+PAUSE = dict(k=0.65, cap=0.75)
 def stretch_pauses(y):
+    if PAUSE['k'] <= 0: return y
     iv = librosa.effects.split(y.mean(0), top_db=38, frame_length=2048, hop_length=256); parts = []; prev = 0
     for a, b in iv:
         g = (a - prev) / SR; parts.append(y[:, prev:a])
-        if prev > 0 and g >= 0.22: parts.append(np.zeros((2, int(min(0.75, g * 0.65) * SR)), y.dtype))
+        if prev > 0 and g >= 0.22: parts.append(np.zeros((2, int(min(PAUSE['cap'], g * PAUSE['k']) * SR)), y.dtype))
         parts.append(y[:, a:b]); prev = b
     parts.append(y[:, prev:]); return np.concatenate(parts, 1)
 def loop_to(y, n, xf=2.0):
@@ -85,6 +87,7 @@ def music_file(v, credits, name=''):
 def build_audio(job, U):
     """Coloca voces, interludios, camas y efectos. Devuelve timeline de unidades y lista de eventos de audio."""
     A = job.get('audio', {}); credits = []
+    PAUSE.update(k=A.get('pause_stretch', 0.65), cap=A.get('pause_cap', 0.75)); GAP_N = A.get('gap_n', 1.6); GAP_Q = A.get('gap_q', 1.1)
     VOICE = A.get('voice_db', -20); BED = A.get('bed_db', {'tension': -35, 'batalla': -31, 'noche': -37}); INTER = A.get('inter_db', -23)
     def ld(k, v):
         try: return load(music_file(v, credits, k))
@@ -103,7 +106,7 @@ def build_audio(job, U):
             tl.append(dict(i=i, k=k, t=round(t, 3), d=round(d, 3)))
             if k == 'N': words += len(re.sub(r'\[[^\]]*\]', '', u.get('text', '')).split())
             nxt = U[i + 1]['k'] if i + 1 < len(U) else None
-            gap = 1.6 if k == 'N' else 1.1
+            gap = u.get('gap', GAP_N if k == 'N' else GAP_Q)
             if nxt in ('R', 'P'): gap = 0.9
             t += d + gap
         elif k == 'B':
@@ -166,6 +169,8 @@ def candidates(spec, n=8, use_used=True):
             if len(out) >= n: break
     return out[:n]
 
+def qkey(spec): return ('video:' + spec['video']) if 'video' in spec else ('photo:' + spec['photo'])
+
 def use(c, credits, spec=None):
     USED.add(c['id']); credits.append(('vídeo' if c['kind'] == 'video' else 'archivo', c))
     if c['kind'] == 'video': return dict(kind='video', path=SRC.download(c['url'], '.mp4'), dur=c.get('dur', 0), old=(spec or {}).get('old'))
@@ -189,6 +194,11 @@ def resolve(spec, need, credits, pick=None):
         c = SRC.commons_file(spec['commons']); credits.append(('archivo', c))
         return dict(kind=c['kind'], path=SRC.download(c['url']), dur=c['dur'], move=spec.get('move'))
     if 'video' in spec or 'photo' in spec:
+        key = qkey(spec)
+        if QPICKS.get(key):
+            lst = QPICKS[key]; i = QPOS.get(key, 0); QPOS[key] = i + 1; c = lst[i % len(lst)]
+            if c.get('id') in USED and len(lst) > 1 and i < len(lst): pass
+            return use(c, credits, spec)
         cands = candidates(spec, n=4)
         if not cands: raise LookupError(f'sin material relevante para "{spec.get("video") or spec.get("photo")}"')
         if 'video' in spec: cands.sort(key=lambda c: (c['dur'] < need, -min(c['w'], 1920), -c['dur']))
@@ -238,7 +248,10 @@ GRADES = dict(
     sepia='hue=s=0,eq=contrast=1.08:gamma=0.97,colorchannelmixer=.95:.05:0:0:.85:.1:0:0:.7:.1:.05:0,vignette=PI/4.4')
 GRADE = GRADES['calido']
 BRAND = {}
-ENC = ['-c:v', 'libx264', '-preset', 'medium', '-crf', '24', '-maxrate', '1.6M', '-bufsize', '3.2M', '-g', '50', '-pix_fmt', 'yuv420p', '-an']
+ENC_H264 = ['-c:v', 'libx264', '-preset', 'medium', '-crf', '24', '-maxrate', '1.6M', '-bufsize', '3.2M', '-g', '50', '-pix_fmt', 'yuv420p', '-an']
+def enc_hevc(kbps): return ['-c:v', 'libx265', '-preset', 'fast', '-crf', '25', '-x265-params', f'vbv-maxrate={kbps}:vbv-bufsize={kbps * 2}:keyint=50:log-level=error', '-tag:v', 'hvc1', '-pix_fmt', 'yuv420p', '-an']
+ENC = list(ENC_H264); ABR = '128k'
+QPICKS = {}; QPOS = {}
 
 def prep_still(path, out, BW=2880, BH=1620):
     im = Image.open(path).convert('RGB'); w, h = im.size; ar = w / h
@@ -343,7 +356,7 @@ def outro(job, shots, wd):
     sh(['ffmpeg', '-loglevel', 'error', '-y', '-loop', '1', '-framerate', str(FPS), '-i', png, *a, '-t', str(secs),
         '-vf', f'fade=t=in:st=0:d=0.8,fade=t=out:st={secs - 1.2}:d=1.2,format=yuv420p',
         '-af', f'loudnorm=I=-24:TP=-3,afade=t=in:st=0:d=1.5,afade=t=out:st={secs - 3}:d=3', '-map', '0:v', '-map', '1:a',
-        '-c:v', 'libx264', '-preset', 'medium', '-crf', '22', '-r', str(FPS), '-c:a', 'aac', '-b:a', '128k', '-ar', '48000', '-ac', '2', out])
+        *[x for x in ENC if x != '-an'], '-r', str(FPS), '-c:a', 'aac', '-b:a', ABR, '-ar', '48000', '-ac', '2', out])
     return out
 
 def srt_time(x):
@@ -367,7 +380,7 @@ def cast(job, U, shots, out_dir, wd):
     from PIL import ImageDraw, ImageFont
     log('== casting: buscando candidatos')
     F = ImageFont.truetype(os.path.join(os.path.dirname(__file__), 'fonts', 'corm600.ttf'), 22)
-    rows = []; table = {}
+    rows = []; table = {}; seenq = {}; qtab = {}
     for n, s in enumerate(shots):
         sp = s['spec']
         if not any(k in sp for k in ('video', 'photo', 'commons', 'ai', 'image')): continue
@@ -375,7 +388,10 @@ def cast(job, U, shots, out_dir, wd):
             try: c = SRC.commons_file(sp['commons']); c['thumb'] = c['url'] if c['kind'] == 'image' else None; cs = [c]
             except Exception as e: cs = []; log('  aviso commons:', e)
         elif 'ai' in sp or 'image' in sp: cs = [dict(kind='image', url=sp.get('ai') or sp.get('image'), id=f'ai{n}', credit='IA')]
-        else: cs = candidates(sp, n=8, use_used=False)
+        else:
+            key = qkey(sp)
+            if key in seenq: seenq[key] += 1; continue
+            seenq[key] = 1; cs = candidates(sp, n=8, use_used=False); qtab[key] = cs
         table[str(n)] = cs
         txt = re.sub(r'\[[^\]]*\]', '', U[s['unit']].get('text', '') or '').strip()[:110]
         rows.append((n, s, cs, txt))
@@ -385,13 +401,16 @@ def cast(job, U, shots, out_dir, wd):
         chunk = rows[i:i + per]; sheet = Image.new('RGB', (8 * 392 + 8, len(chunk) * 262 + 8), (12, 12, 12)); d = ImageDraw.Draw(sheet)
         for r, (n, s, cs, txt) in enumerate(chunk):
             y = 8 + r * 262; sp = s['spec']; q = sp.get('video') or sp.get('photo') or sp.get('commons') or 'IA'
-            d.text((10, y), f'#{n}  {s["t"]:.0f}s  [{q}]  {txt}', font=F, fill=(240, 200, 120))
+            kq = qkey(sp) if ('video' in sp or 'photo' in sp) else None
+            d.text((10, y), (f'{kq}  ·  usado {seenq.get(kq, 1)} veces' if kq else f'#{n}  {s["t"]:.0f}s  [{q}]  {txt}')[:150], font=F, fill=(240, 200, 120))
             for j, c in enumerate(cs[:8]):
                 x = 8 + j * 392; sheet.paste(_thumb(c, wd), (x, y + 34))
                 d.rectangle([x, y + 34, x + 30, y + 62], fill=(0, 0, 0)); d.text((x + 8, y + 36), str(j), font=F, fill=(255, 255, 255))
             if not cs: d.text((10, y + 120), 'SIN CANDIDATOS', font=F, fill=(255, 80, 80))
         sheet.save(f'{out_dir}/cast_{k:02d}.jpg', quality=82); k += 1
     json.dump(table, open(f'{out_dir}/cast.json', 'w'), ensure_ascii=False, indent=0)
+    json.dump(qtab, open(f'{out_dir}/castq.json', 'w'), ensure_ascii=False, indent=0)
+    open(f'{out_dir}/castq_uso.txt', 'w').write('\n'.join(f'{v}x  {k}' for k, v in seenq.items()))
     json.dump([dict(n=s['n'] if 'n' in s else i, t=round(s['t'], 2), d=round(s['d'], 2), unit=s['unit'], spec=s['spec']) for i, s in enumerate(shots)],
               open(f'{out_dir}/edl.json', 'w'), ensure_ascii=False, indent=0)
     cast_music(job, out_dir, F)
@@ -446,6 +465,13 @@ def run(job_dir):
     log(f'   {len(shots)} planos')
     if job.get('stage') == 'cast': return cast(job, U, shots, out_dir, wd)
     picks = job.get('picks', {})
+    global ENC, ABR
+    if job.get('codec') == 'hevc': ENC = enc_hevc(job.get('max_kbps', 750)); ABR = job.get('audio_kbps', '112k')
+    qp = job.get('qpicks', {}); qsrc = {}
+    if os.path.exists(f'{job_dir}/castq.json'): qsrc = json.load(open(f'{job_dir}/castq.json'))
+    for k_, v_ in qp.items():
+        QPICKS[k_] = [qsrc[k_][x] if isinstance(x, int) else x for x in v_ if not isinstance(x, int) or (k_ in qsrc and x < len(qsrc[k_]))]
+    PART = os.environ.get('FABRICA_PART')
     log('== 3/5 buscando y descargando material')
     last = -1
     for n, s in enumerate(shots):
@@ -484,6 +510,14 @@ def run(job_dir):
                 y = sfx(trs[s['tr_in']], -28); pre = 0.6 if s['tr_in'] == 'flash' else 0.02
                 extra.append((int(max(0, s['t'] - pre) * SR), fade(y[:, :int(2.5 * SR)], .02, .6)))
             except Exception as e: log('  aviso sfx transición:', e)
+    if PART:
+        k_, N_ = map(int, PART.split('/')); mine = [s for s in shots if s['n'] % N_ == k_]
+        log(f'== parte {k_ + 1}/{N_}: {len(mine)} planos')
+        with ThreadPoolExecutor(int(os.environ.get('FABRICA_THREADS', '2'))) as ex:
+            for i_, f in enumerate([ex.submit(render_shot, s, f'{wd}/shots/{s["n"]:04d}.mp4', wd) for s in mine]):
+                f.result()
+                if i_ % 20 == 0: log(f'   plano {i_}/{len(mine)}')
+        log('FIN PARTE'); open(f'{out_dir}/informe_parte{k_}.txt', 'w').write('\n'.join(LOG) + '\n'); return
     log('== 4/5 mezcla final de audio'); mix_audio(A, extra, f'{wd}/doc.wav')
     log('== 4/5 renderizando planos')
     with ThreadPoolExecutor(int(os.environ.get('FABRICA_THREADS', '2'))) as ex:
@@ -505,7 +539,7 @@ def run(job_dir):
         open(lst, 'w').write(''.join(f"file '{wd}/shots/{s['n']:04d}.mp4'\n" for s in shots if fa <= round(s['t'] * FPS) < fb))
         sh(['ffmpeg', '-loglevel', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', lst, '-c', 'copy', f'{wd}/v{k}.mp4'])
         sh(['ffmpeg', '-loglevel', 'error', '-y', '-i', f'{wd}/v{k}.mp4', '-ss', f'{fa / FPS:.3f}', '-t', f'{(fb - fa) / FPS:.3f}', '-i', f'{wd}/doc.wav',
-            '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '128k', '-ar', '48000', '-ac', '2', '-shortest', f'{wd}/m{k}.mp4'])
+            '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', ABR, '-ar', '48000', '-ac', '2', '-shortest', f'{wd}/m{k}.mp4'])
         pieces.append(f'{wd}/m{k}.mp4')
         if k < len(cuts): pieces.append(cuts[k][1])
     if job.get('brand', {}).get('outro', True):
@@ -516,7 +550,7 @@ def run(job_dir):
         if p.startswith(wd): norm.append(p); continue
         q = f'{wd}/ext{k}.mp4'
         sh(['ffmpeg', '-loglevel', 'error', '-y', '-i', p, '-vf', f'scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},format=yuv420p',
-            '-c:v', 'libx264', '-preset', 'medium', '-crf', '22', '-g', '50', '-c:a', 'aac', '-b:a', '128k', '-ar', '48000', '-ac', '2', q]); norm.append(q)
+            *[x for x in ENC if x != '-an'], '-c:a', 'aac', '-b:a', ABR, '-ar', '48000', '-ac', '2', q]); norm.append(q)
     open(f'{wd}/final.txt', 'w').write(''.join(f"file '{p}'\n" for p in norm))
     final = f'{out_dir}/{job["id"]}.mp4'
     sh(['ffmpeg', '-loglevel', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', f'{wd}/final.txt', '-c', 'copy', '-movflags', '+faststart', final])

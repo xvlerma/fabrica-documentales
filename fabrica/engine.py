@@ -101,7 +101,9 @@ def build_audio(job, U):
     for i, u in enumerate(U):
         k = u['k']
         if k in ('N', 'P', 'R'):
-            y = gain_to(stretch_pauses(trimv(load(tempo(fetch(u['url'], '.mp3'), u.get('tempo', job.get('tempo', 0.96)))))), VOICE - (0 if k == 'N' else 1))
+            if not u.get('url'):  # casting sin voz todavía: silencio estimado por longitud del texto
+                y = np.zeros((2, int(SR * max(2, len(re.sub(r'\[[^\]]*\]', '', u.get('text', ''))) / 14.5))), np.float32) + 1e-6
+            else: y = gain_to(stretch_pauses(trimv(load(tempo(fetch(u['url'], '.mp3'), u.get('tempo', job.get('tempo', 0.96)))))), VOICE - (0 if k == 'N' else 1))
             events.append((int(t * SR), y)); d = y.shape[1] / SR; vsec += d
             tl.append(dict(i=i, k=k, t=round(t, 3), d=round(d, 3)))
             if k == 'N': words += len(re.sub(r'\[[^\]]*\]', '', u.get('text', '')).split())

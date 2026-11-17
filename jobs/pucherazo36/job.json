@@ -1,0 +1,2458 @@
+{
+ "id": "pucherazo36",
+ "title": "El pucherazo del 36",
+ "channel": "DocuVox",
+ "theme": {
+  "base": "crimen",
+  "grade": "frio"
+ },
+ "stage": "cast",
+ "parts": 4,
+ "codec": "hevc",
+ "max_kbps": 750,
+ "audio_kbps": "112k",
+ "tempo": 0.94,
+ "cold_secs": 60,
+ "seed": 36,
+ "must": [
+  "spain",
+  "spanish",
+  "españa",
+  "madrid",
+  "coruña",
+  "galicia",
+  "granada",
+  "cuenca",
+  "caceres",
+  "cáceres",
+  "congress",
+  "parliament",
+  "ballot",
+  "vote",
+  "election",
+  "1936",
+  "civil war"
+ ],
+ "audio": {
+  "voice_db": -20,
+  "bed_db": {
+   "tema": -36,
+   "tension": -37,
+   "pulso": -35
+  },
+  "inter_db": -22,
+  "pause_stretch": 0.35,
+  "pause_cap": 0.55,
+  "gap_n": 1.5,
+  "gap_q": 1.0
+ },
+ "music": {
+  "tema": {
+   "search": "Granados piano",
+   "src": "archive,commons,openverse",
+   "min_secs": 90
+  },
+  "tension": {
+   "search": "dark ambient drone tension",
+   "src": "freesound,openverse",
+   "min_secs": 90
+  },
+  "pulso": {
+   "search": "suspense pulse cinematic",
+   "src": "freesound,openverse",
+   "min_secs": 60
+  },
+  "tema_b": {
+   "search": "melancholic piano solo",
+   "src": "openverse,freesound,archive",
+   "min_secs": 90
+  },
+  "tema_c": {
+   "search": "Albeniz",
+   "src": "archive,commons",
+   "min_secs": 90
+  }
+ },
+ "chapters": [
+  {
+   "unit": 5,
+   "title": "La versión oficial"
+  },
+  {
+   "unit": 14,
+   "title": "La campaña"
+  },
+  {
+   "unit": 22,
+   "title": "Tres días de febrero"
+  },
+  {
+   "unit": 33,
+   "title": "El rastro de las actas"
+  },
+  {
+   "unit": 46,
+   "title": "La Comisión de Actas"
+  },
+  {
+   "unit": 62,
+   "title": "El testigo que desapareció"
+  },
+  {
+   "unit": 69,
+   "title": "Siete indicios"
+  },
+  {
+   "unit": 75,
+   "title": "Veredicto"
+  }
+ ],
+ "units": [
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Madrid. Domingo, dieciséis de febrero de mil novecientos treinta y seis. Ocho de la tarde. En el Ministerio de la Gobernación, en la Puerta del Sol, los teléfonos no dejan de sonar. Llegan los primeros datos de toda España. Y el ministro anuncia a la prensa lo que dicen esos números: ventaja para las derechas y el centro.\n\n[short pause] Tres días después, el presidente del Gobierno ha dimitido. El recuento oficial todavía no ha terminado. Y el país ya tiene un nuevo gobierno.\n\n[pause] Cinco meses más tarde, España está en guerra.",
+   "shots": [
+    {
+     "video": "Madrid 1936 street",
+     "old": true
+    },
+    {
+     "photo": "Puerta del Sol Madrid 1930s",
+     "src": "commons,europeana",
+     "lt": [
+      "Madrid",
+      "16 de febrero de 1936"
+     ]
+    },
+    {
+     "photo": "Ministerio de la Gobernación Puerta del Sol",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old telephone vintage",
+     "free": true
+    },
+    {
+     "photo": "Elecciones generales España 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "Spain 1936 newsreel",
+     "old": true,
+     "tr": "black"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Durante noventa años, la versión aceptada ha sido sencilla: el Frente Popular ganó aquellas elecciones. Por poco, pero las ganó.\n\n[pause] Sin embargo, en los archivos de las juntas provinciales, en las actas notariales, en los papeles del propio presidente de la República, robados en mil novecientos treinta y siete y recuperados por la Guardia Civil setenta y un años después, aparece otra historia.\n\n[serious] La pregunta no es quién ganó en las urnas. [short pause] La pregunta es quién contó los votos. Y qué pasó con ellos entre el diecinueve de febrero y el mes de mayo.\n\n[dramatically] Esta es la historia de las elecciones más discutidas de nuestra historia. [pause] El pucherazo del treinta y seis.",
+   "shots": [
+    {
+     "photo": "Niceto Alcalá-Zamora",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "acta electoral 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old documents archive boxes",
+     "free": true
+    },
+    {
+     "photo": "urna electoral Segunda República",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "title",
+      "title": "El pucherazo del 36",
+      "sub": "Las elecciones que nadie terminó de contar"
+     },
+     "tr": "flash"
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 12,
+   "shots": [
+    {
+     "video": "old paper documents desk lamp",
+     "free": true
+    },
+    {
+     "photo": "Congreso de los Diputados 1930s",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Para entender lo que ocurrió aquella semana, hay que volver unos años atrás.\n\nEn abril de mil novecientos treinta y uno, la monarquía cae y nace la Segunda República. Gobiernan primero las izquierdas republicanas y los socialistas, con Manuel Azaña como gran figura. En noviembre de mil novecientos treinta y tres, el péndulo se mueve: las derechas, agrupadas en la CEDA de José María Gil-Robles, ganan las elecciones.\n\n[short pause] Y en octubre de mil novecientos treinta y cuatro, cuando la CEDA entra en el Gobierno, los socialistas y otras fuerzas de izquierda responden con una insurrección. En Asturias se convierte en una revolución armada. Hay más de mil muertos. Miles de detenidos. Entre ellos, buena parte de la dirección socialista.",
+   "shots": [
+    {
+     "photo": "Proclamación Segunda República 1931",
+     "src": "commons,europeana",
+     "lt": [
+      "Madrid",
+      "14 de abril de 1931"
+     ]
+    },
+    {
+     "photo": "Manuel Azaña",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "José María Gil-Robles",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Cinco años de República",
+      "events": [
+       [
+        "1931",
+        "Nace la República"
+       ],
+       [
+        "1933",
+        "Ganan las derechas"
+       ],
+       [
+        "1934",
+        "Revolución de Octubre"
+       ],
+       [
+        "1936",
+        "Elecciones de febrero"
+       ]
+      ]
+     }
+    },
+    {
+     "photo": "Revolución de Asturias 1934",
+     "src": "commons,europeana",
+     "lt": [
+      "Asturias",
+      "octubre de 1934"
+     ]
+    },
+    {
+     "photo": "Oviedo 1934 destrucción",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "En mil novecientos treinta y cinco, los gobiernos de centro-derecha se hunden entre escándalos de corrupción, como el del estraperlo. El presidente de la República, Niceto Alcalá-Zamora, no quiere entregar el Gobierno a Gil-Robles, aunque tiene el grupo más grande de la Cámara. Prefiere a un hombre de su confianza: Manuel Portela Valladares, un centrista sin partido propio.\n\nY Portela recibe un encargo: disolver las Cortes y convocar elecciones. La fecha elegida es el dieciséis de febrero de mil novecientos treinta y seis.\n\n[pause] Frente a frente quedan dos grandes bloques. A la izquierda, el Frente Popular: republicanos de izquierda, socialistas, comunistas, y el voto de muchos anarquistas que esta vez sí van a las urnas. A la derecha, una alianza encabezada por la CEDA. En medio, un centro débil que Portela intenta construir a toda prisa desde el propio Gobierno.",
+   "shots": [
+    {
+     "photo": "Niceto Alcalá-Zamora",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Manuel Portela Valladares",
+      "role": "Presidente del Gobierno · diciembre de 1935"
+     }
+    },
+    {
+     "photo": "Manuel Portela Valladares",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Frente Popular 1936 cartel",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "CEDA cartel elecciones 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "mitin 1936 España",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "El Frente Popular se firma el quince de enero de mil novecientos treinta y seis. Es una coalición extraña, unida sobre todo por lo que rechaza. Los republicanos de Azaña quieren volver a las reformas de mil novecientos treinta y uno, dentro de la ley. Una parte de los socialistas, la que sigue a Francisco Largo Caballero, habla ya abiertamente de revolución. Los comunistas, todavía pequeños, se apuntan a la estrategia que Moscú ha bautizado como frentes populares.\n\n[short pause] Las derechas tampoco son un bloque homogéneo. La CEDA de Gil-Robles acepta la República, pero sin entusiasmo. Los monárquicos de José Calvo Sotelo quieren acabar con ella. Y la Falange de José Antonio Primo de Rivera, que irá sola, apenas sacará unos cuarenta y seis mil votos en toda España.\n\n[pause] Y el presidente Alcalá-Zamora, que convoca las elecciones, deja escrito en su diario el siete de enero cuál es su obligación: hacer la disolución, dice, con imparcialidad.",
+   "shots": [
+    {
+     "photo": "Pacto Frente Popular 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Francisco Largo Caballero",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "José Calvo Sotelo",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "José Antonio Primo de Rivera",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "quote",
+      "text": "Se trata, siendo la disolución inevitable, de hacerla con imparcialidad.",
+      "attrib": "Niceto Alcalá-Zamora · diario, 7 de enero de 1936"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Y aquí aparece la primera pieza que casi nadie explica. La ley electoral.\n\nEn mil novecientos treinta y seis no se votaba a listas cerradas. Cada provincia elegía varios diputados, y cada elector podía votar solo a una parte de ellos. El bloque más votado se llevaba la mayoría de los escaños de la provincia. El segundo, la minoría. Y si nadie alcanzaba el cuarenta por ciento de los votos, había segunda vuelta.\n\n[short pause] El resultado era un sistema muy sensible. Unos pocos miles de votos en una provincia podían mover diez escaños de un lado a otro. [pause] Y eso significa algo muy concreto: no hacía falta cambiar el voto de toda España. Bastaba con cambiar el resultado de unas pocas provincias.",
+   "shots": [
+    {
+     "video": "vintage paper ballot",
+     "free": true
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 473,
+      "label": "diputados en juego"
+     }
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 237,
+      "label": "escaños para la mayoría absoluta"
+     }
+    },
+    {
+     "photo": "papeleta electoral 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "hand writing old pen ink",
+     "free": true
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "La regla del sistema",
+      "items": [
+       [
+        "Mayoría",
+        "el bloque ganador se lleva la mayor parte de la provincia"
+       ],
+       [
+        "Minoría",
+        "el segundo, el resto"
+       ],
+       [
+        "Cuarenta por ciento",
+        "si nadie lo alcanza, segunda vuelta"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "La versión oficial dice que el Frente Popular ganó por un margen estrecho en votos, y que el sistema convirtió esa ventaja en una mayoría holgada de escaños. Es lo que se lee en muchos manuales. Y una parte es cierta.\n\n[pause] Pero en dos mil diecisiete, dos historiadores de la Universidad Rey Juan Carlos, Manuel Álvarez Tardío y Roberto Villa García, publicaron un libro de más de seiscientas páginas tras revisar, provincia por provincia, las actas de escrutinio, los boletines oficiales y la prensa local.\n\n[serious] Su conclusión era incómoda. La votación, dicen, fue en general limpia. Lo que no fue limpio fue el recuento. [short pause] Y para entender por qué, hay que mirar dos momentos que los manuales suelen saltarse. Las cuarenta y ocho horas que siguieron al diecinueve de febrero. [pause] Y lo que pasó después, en una comisión del Congreso.",
+   "shots": [
+    {
+     "photo": "Biblioteca Nacional de España sala",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "library old books archive",
+     "free": true
+    },
+    {
+     "card": {
+      "type": "quote",
+      "text": "Lo que fue una votación, generalmente limpia, se convirtió en un recuento adulterado.",
+      "attrib": "Álvarez Tardío y Villa García · 1936. Fraude y violencia, 2017"
+     }
+    },
+    {
+     "photo": "Boletín Oficial provincia 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "magnifying glass old document",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 14,
+   "shots": [
+    {
+     "video": "clock ticking dark",
+     "free": true
+    },
+    {
+     "photo": "Madrid 1936 calle",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Antes de seguir, una palabra. Pucherazo.\n\nEn España se usa desde el siglo diecinueve, en tiempos de la Restauración, cuando las elecciones se decidían antes de votar. La explicación más extendida es que, en algunos pueblos, las papeletas se guardaban en pucheros de barro, y que en esos pucheros entraban y salían votos según conviniera al cacique local.\n\n[short pause] Con el tiempo, la palabra dejó de referirse al puchero y pasó a designar cualquier manipulación del resultado. No hace falta llenar una urna de papeletas falsas. [pause] Basta con cambiar un acta. Con no contar una mesa. O con anular la de otro.\n\nY esa es, exactamente, la acusación que pesa sobre mil novecientos treinta y seis.",
+   "shots": [
+    {
+     "video": "clay pot old rustic",
+     "free": true
+    },
+    {
+     "photo": "caciquismo elecciones Restauración",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Romero Robledo",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old wooden ballot box",
+     "free": true
+    },
+    {
+     "video": "rubber stamp document",
+     "free": true,
+     "kw": "PUCHERAZO"
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 10,
+   "shots": [
+    {
+     "photo": "elecciones España siglo XIX",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old paper documents desk lamp",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "La campaña empieza en enero. Y desde el primer día se parece poco a una campaña normal.\n\nEn la Puerta del Sol, la CEDA cuelga un cartel gigantesco con el rostro de Gil-Robles. El lema de la campaña es un desafío: [short pause] ¡A por los trescientos! Trescientos diputados. Una mayoría que permitiera reformar la Constitución.\n\nAl otro lado, el Frente Popular promete la amnistía para los presos de octubre del treinta y cuatro, la readmisión de los despedidos y la vuelta a las reformas del primer bienio. La amnistía es su gran bandera. Para miles de familias, votar es la forma de sacar a alguien de la cárcel.",
+   "shots": [
+    {
+     "photo": "Gil Robles cartel Puerta del Sol 1936",
+     "src": "commons,europeana",
+     "lt": [
+      "Puerta del Sol",
+      "enero de 1936"
+     ]
+    },
+    {
+     "photo": "CEDA A por los 300",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "cartel electoral 1936 Frente Popular amnistía",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "presos Asturias 1934 cárcel",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "manifestación Madrid 1936",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Pero el tono de la campaña lo marcan las palabras. Y algunas de ellas pesan como piedras.\n\nEn enero de mil novecientos treinta y seis, en plena campaña, el líder socialista Francisco Largo Caballero lanza una advertencia desde la tribuna de un mitin.",
+   "shots": [
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Francisco Largo Caballero",
+      "role": "Líder del ala revolucionaria del PSOE"
+     }
+    },
+    {
+     "photo": "Francisco Largo Caballero",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "«Si triunfan las derechas, no habrá remisión: tendremos que ir forzosamente a la guerra civil declarada.»",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Si triunfan las derechas, no habrá remisión: tendremos que ir forzosamente a la guerra civil declarada.",
+      "attrib": "Francisco Largo Caballero · mitin, enero de 1936"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] No era una frase aislada. La izquierda revolucionaria hablaba de conquistar el poder, y la derecha monárquica soñaba abiertamente con acabar con la República. Unos y otros se acusaban de preparar un golpe. Y unos y otros tenían motivos para creerlo.\n\nLa violencia acompaña cada acto. Mítines reventados a pedradas, disparos en los pueblos, sedes asaltadas. Los propios Álvarez Tardío y Villa cuentan cuarenta y una muertes durante la campaña. Otros estudios, como el de Eduardo González Calleja, rebajan la cifra a unas treinta hasta la víspera de la votación. Ninguna de las dos cifras es pequeña.\n\n[pause] Y sin embargo, el día de la votación, ocurre algo que casi nadie esperaba.",
+   "shots": [
+    {
+     "photo": "Guardia de Asalto 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "mitin Gil Robles 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 41,
+      "label": "muertos en la campaña · según Álvarez Tardío y Villa"
+     }
+    },
+    {
+     "photo": "Guardia Civil 1930s España",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "broken window glass dark",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Para proteger la votación, el Gobierno de Portela despliega a unos treinta y cuatro mil guardias civiles y diecisiete mil guardias de asalto. [short pause] Nunca una elección española había necesitado tantos uniformes.\n\nY hay un dato que cambia el tablero. Por primera vez, la CNT, el gran sindicato anarquista, no pide la abstención. En mil novecientos treinta y tres, la abstención anarquista había hundido a la izquierda. En mil novecientos treinta y seis, cientos de miles de libertarios van a votar. [pause] La razón es sencilla. Muchos de sus militantes siguen presos desde octubre. Y el Frente Popular promete la amnistía.\n\n[serious] Así llega España al dieciséis de febrero. Con dos bloques que se acusan mutuamente de querer destruir la República. Con un centro casi desaparecido. Y con un Gobierno que no tiene partido detrás.",
+   "shots": [
+    {
+     "photo": "Guardia Civil 1936 elecciones",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 51000,
+      "label": "guardias civiles y de asalto desplegados"
+     }
+    },
+    {
+     "photo": "CNT 1936 cartel",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "anarquistas 1936 manifestación",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Madrid 1936 calle",
+     "src": "commons,europeana",
+     "kw": "16 DE FEBRERO"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "El domingo dieciséis de febrero, los colegios abren a las ocho de la mañana. Más de nueve millones de españoles votan. Una participación cercana al setenta y tres por ciento, la más alta de la República.\n\n[short pause] Y, con incidentes graves en algunos lugares, la jornada transcurre con una normalidad relativa. Ni siquiera los autores que defienden la tesis del fraude dicen que se robara la elección en las urnas.\n\n[pause] Ese es el primer mito que conviene desmontar. [serious] El pucherazo del treinta y seis, si lo hubo, no ocurrió el domingo. [short pause] Ocurrió después.",
+   "shots": [
+    {
+     "photo": "votación elecciones 1936 colegio electoral",
+     "src": "commons,europeana",
+     "lt": [
+      "España",
+      "16 de febrero de 1936"
+     ]
+    },
+    {
+     "photo": "cola votantes 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 73,
+      "label": "por ciento de participación"
+     }
+    },
+    {
+     "photo": "mujeres votando Segunda República",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "ballot box vote",
+     "free": true,
+     "kw": "DESPUÉS"
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 32,
+   "shots": [
+    {
+     "video": "Spain 1936 newsreel",
+     "old": true,
+     "tr": "black"
+    },
+    {
+     "photo": "Madrid 1936 noche",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "night city rain dark street",
+     "free": true
+    },
+    {
+     "photo": "prensa elecciones febrero 1936",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Domingo por la noche. Los resultados llegan a cuentagotas, por telégrafo y por teléfono, desde cada capital de provincia. En Madrid, la capital, el Frente Popular arrasa. En Cataluña también. Pero en el centro y el norte rural, las derechas resisten.\n\nA las ocho de la tarde, el ministro de la Gobernación da ventaja a las derechas y el centro. Horas después, el propio Portela habla por la radio y empieza a reconocer victorias de la izquierda en algunos lugares, como Cataluña.\n\n[pause] Y entonces la calle se adelanta al recuento. En varias ciudades, multitudes del Frente Popular celebran una victoria que todavía nadie ha proclamado. En algunas cárceles, los presos de octubre salen sin esperar la amnistía.",
+   "shots": [
+    {
+     "video": "telegraph old machine",
+     "free": true
+    },
+    {
+     "photo": "Madrid 1936 celebración Frente Popular",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Barcelona 1936 elecciones",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old radio vintage",
+     "free": true
+    },
+    {
+     "photo": "Frente Popular manifestación febrero 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "cárcel Modelo Madrid",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Esa misma madrugada, según el relato que el propio Portela dejó después, dos hombres le piden lo mismo. Primero, José María Gil-Robles, el líder de la derecha. Después, el general Francisco Franco, jefe del Estado Mayor Central. [short pause] Los dos le proponen declarar el estado de guerra. Suspender el proceso. Gobernar con poderes excepcionales.\n\nPortela se niega. [pause] Este dato es esencial, y no siempre aparece en los relatos que defienden la tesis del fraude: mientras unos llenaban la calle, otros, en los despachos, ya pensaban en detener el resultado por la fuerza.\n\nPortela no hace ni una cosa ni la otra. Declara el estado de alarma. Y espera.",
+   "shots": [
+    {
+     "photo": "José María Gil-Robles",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Francisco Franco",
+      "role": "Jefe del Estado Mayor Central · 1936"
+     }
+    },
+    {
+     "photo": "Francisco Franco 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Manuel Portela Valladares",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Ministerio de la Guerra Madrid 1930s",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Lunes diecisiete. Martes dieciocho. Los disturbios crecen. Se queman iglesias y sedes de partidos de derechas. Hay muertos en varias provincias. Muchos gobernadores civiles nombrados por Portela no saben qué hacer, y algunos abandonan sus puestos.\n\n[short pause] Y el miércoles diecinueve de febrero, ocurre lo impensable. Manuel Portela Valladares, el hombre encargado de garantizar el recuento, acude al presidente de la República y presenta su dimisión.\n\n[pause] El recuento oficial no ha terminado. Las juntas provinciales todavía no han proclamado a los diputados. Y quedan segundas vueltas por celebrar.",
+   "shots": [
+    {
+     "photo": "iglesia quemada 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "disturbios Madrid febrero 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "La semana decisiva",
+      "events": [
+       [
+        "16 feb",
+        "Votación"
+       ],
+       [
+        "17 feb",
+        "Estado de alarma"
+       ],
+       [
+        "19 feb",
+        "Dimite Portela"
+       ],
+       [
+        "20 feb",
+        "Escrutinio provincial"
+       ]
+      ]
+     }
+    },
+    {
+     "photo": "Palacio Nacional Madrid 1930s",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "empty office chair dark",
+     "free": true,
+     "tr": "black"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "¿Por qué se va Portela? [short pause] Es una de las grandes preguntas de esta historia.\n\nLa versión de los defensores de la tesis del fraude es que dimitió por miedo. Que la presión de la calle, los asaltos y los rumores de revolución le hicieron abandonar antes de tiempo, y que con él cayó la única autoridad neutral que podía garantizar el recuento.\n\nSus críticos dan la vuelta al argumento. Para ellos, Portela ya conocía el resultado cuando dimitió, y lo que de verdad le asustó no fue la izquierda, sino la presión de los militares y de la derecha para que diera un golpe. [pause] Gil-Robles, en sus memorias, sugirió incluso un posible pacto de Portela con los revolucionarios.\n\n[serious] Tres explicaciones para un mismo gesto. Pero el efecto fue el mismo en las tres. [short pause] El recuento quedó en manos del adversario de una de las partes.",
+   "shots": [
+    {
+     "photo": "Manuel Portela Valladares",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "¿Por qué dimitió Portela?",
+      "items": [
+       [
+        "Miedo a la calle",
+        "tesis de Álvarez Tardío y Villa"
+       ],
+       [
+        "Presión militar",
+        "tesis de González Calleja y Sánchez Pérez"
+       ],
+       [
+        "Un pacto",
+        "insinuación de Gil-Robles"
+       ]
+      ]
+     }
+    },
+    {
+     "photo": "disturbios Madrid febrero 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "hourglass sand time",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "¿Cuál era el resultado en ese momento? [short pause] Aquí empieza la verdadera batalla de los historiadores.\n\nSegún los cálculos de Álvarez Tardío y Villa, cuando Portela dimite, el Frente Popular tiene asegurados unos ciento noventa y ocho diputados. Las derechas, unos ciento sesenta y uno. Y quedan ciento catorce escaños por decidir. [pause] Ciento catorce. Una cuarta parte de la Cámara.\n\nSus críticos, González Calleja y Sánchez Pérez, responden con otra fuente: el diario ABC, nada sospechoso de simpatías izquierdistas, atribuía esa misma tarde unos doscientos treinta escaños al Frente Popular. Muy cerca de la mayoría absoluta, que estaba en doscientos treinta y siete.\n\n[serious] Las dos cifras no pueden ser ciertas a la vez. Y la diferencia entre una y otra es, exactamente, el corazón de este caso.",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Álvarez Tardío y Villa",
+       "lines": [
+        "Frente Popular: 198",
+        "Derechas: 161",
+        "Por decidir: 114"
+       ]
+      },
+      "right": {
+       "title": "González Calleja y Sánchez Pérez",
+       "lines": [
+        "Frente Popular: ~230",
+        "según ABC, 19 de febrero",
+        "Mayoría: 237"
+       ]
+      },
+      "strike": false
+     }
+    },
+    {
+     "photo": "ABC febrero 1936 portada",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "newspaper old press printing",
+     "free": true
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 114,
+      "label": "escaños sin decidir al dimitir Portela"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Portela entrega el poder sin esperar. Y antes de irse, según contó el socialista Juan Simeón Vidarte, le dedica una frase que resume aquellos días.",
+   "shots": [
+    {
+     "photo": "Manuel Portela Valladares",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "«Reciben ustedes el poder con el tigre a la puerta.»",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Reciben ustedes el poder con el tigre a la puerta.",
+      "attrib": "Manuel Portela Valladares, a Juan Simeón Vidarte · febrero de 1936"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Esa misma tarde del diecinueve, Alcalá-Zamora encarga el Gobierno a Manuel Azaña. Es un Gobierno solo de republicanos de izquierda, sin socialistas, que se compromete a cumplir el programa del Frente Popular.\n\nY el nuevo Gobierno hace lo que hacen todos los gobiernos nuevos. [short pause] Nombra a sus gobernadores civiles.\n\n[pause] Pero este no es un momento cualquiera. Al día siguiente, jueves veinte de febrero, las juntas provinciales de escrutinio deben reunirse para sumar las actas y proclamar a los diputados. [dramatically] Y las actas, en muchas provincias, están guardadas en los gobiernos civiles.",
+   "shots": [
+    {
+     "photo": "Manuel Azaña 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Manuel Azaña",
+      "role": "Presidente del Gobierno · 19 de febrero de 1936"
+     }
+    },
+    {
+     "photo": "Gobierno Azaña 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old key lock door",
+     "free": true
+    },
+    {
+     "photo": "Gobierno Civil edificio antiguo",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "stack of old papers",
+     "free": true,
+     "kw": "LAS ACTAS"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Las horas que siguen son de vértigo. Muchos gobernadores civiles nombrados por Portela dimiten o desaparecen. En numerosas capitales, dirigentes locales del Frente Popular ocupan los gobiernos civiles, las diputaciones provinciales y cientos de ayuntamientos. Algunos de esos ayuntamientos habían sido suspendidos tras octubre del treinta y cuatro. Otros, simplemente, cambian de manos.\n\n[short pause] Las cárceles se abren antes de que exista una ley de amnistía. Esa ley llegará el veintiuno de febrero, aprobada por la Diputación Permanente de las Cortes, [pause] con el voto, por cierto, de la propia CEDA.\n\nY en la calle, la violencia sigue. Entre el diecinueve y el veinte de febrero mueren al menos dieciséis personas. Un dato que los críticos de la tesis del fraude subrayan, y que los propios autores reconocen: la mayoría de esas muertes las causaron las fuerzas de orden público al reprimir las protestas.",
+   "shots": [
+    {
+     "photo": "ayuntamiento 1936 Frente Popular",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "presos liberados febrero 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 16,
+      "label": "muertos entre el 19 y el 20 de febrero"
+     }
+    },
+    {
+     "photo": "Guardia de Asalto 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Diputación Permanente Cortes 1936",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "pulso",
+   "secs": 40,
+   "shots": [
+    {
+     "video": "Spain 1936 newsreel",
+     "old": true,
+     "tr": "black"
+    },
+    {
+     "video": "clock ticking dark",
+     "free": true
+    },
+    {
+     "photo": "Madrid 1936 noche",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old documents archive boxes",
+     "free": true
+    },
+    {
+     "photo": "prensa elecciones febrero 1936",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Hasta aquí, la pregunta era quién había ganado. A partir de este momento, la pregunta cambia. [pause] Ahora la pregunta es quién tenía las actas. Y qué hizo con ellas.\n\nEl primer gran estudio de estas elecciones lo publicó el historiador Javier Tusell en mil novecientos setenta y uno, todavía en vida de Franco. Casi medio siglo después, Álvarez Tardío y Villa volvieron a los mismos papeles con una pregunta distinta: no quién votó a quién, sino qué pasó en cada junta provincial durante aquellos días. Compararon los resultados publicados, las protestas presentadas, las actas notariales levantadas por los candidatos y los datos que cada provincia envió a Madrid.\n\n[short pause] Su tesis es concreta. El fraude no fue masivo en toda España. Fue quirúrgico. Se concentró en un puñado de provincias donde muy pocos votos decidían muchos escaños. [pause] Y vamos a seguir ese rastro, provincia por provincia.",
+   "shots": [
+    {
+     "video": "magnifying glass old document",
+     "free": true
+    },
+    {
+     "card": {
+      "type": "board",
+      "title": "El rastro de las actas",
+      "center": 1,
+      "nodes": [
+       [
+        "Junta central",
+        "Madrid"
+       ],
+       [
+        "A Coruña",
+        "17 escaños"
+       ],
+       [
+        "Cáceres",
+        "9 escaños"
+       ],
+       [
+        "Granada",
+        "13 escaños"
+       ],
+       [
+        "Cuenca",
+        "6 escaños"
+       ],
+       [
+        "Comisión de Actas",
+        "Congreso"
+       ]
+      ],
+      "links": [
+       [
+        0,
+        1
+       ],
+       [
+        0,
+        2
+       ],
+       [
+        0,
+        3
+       ],
+       [
+        0,
+        4
+       ],
+       [
+        0,
+        5
+       ]
+      ]
+     }
+    },
+    {
+     "photo": "acta notarial 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old map spain",
+     "free": true
+    },
+    {
+     "photo": "mapa provincias España 1930",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Para entender lo que pudo pasar, hay que saber cómo se contaba un voto en mil novecientos treinta y seis.\n\nCada mesa electoral, al cerrar, contaba sus papeletas y levantaba un acta firmada por el presidente y los interventores. Esas actas viajaban a la capital de la provincia. Allí, el jueves siguiente a la votación, una junta provincial de escrutinio las sumaba y proclamaba a los diputados. [short pause] Los candidatos podían presentar protestas, y muchos llevaban notarios para levantar acta de cualquier irregularidad.\n\n[pause] Es un sistema que funciona si nadie toca los papeles entre la mesa y la junta. [serious] El problema es lo que ocurre cuando, entre la mesa y la junta, cambia el Gobierno.",
+   "shots": [
+    {
+     "photo": "mesa electoral 1936 interventores",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "envelope wax seal old",
+     "free": true
+    },
+    {
+     "photo": "acta electoral 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old train mail bags",
+     "free": true
+    },
+    {
+     "photo": "notario 1930s",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Primera parada. [short pause] A Coruña.\n\nEs una de las provincias más pobladas de España, y elige diecisiete diputados. En febrero de mil novecientos treinta y seis, entre los candidatos del Frente Popular está Santiago Casares Quiroga, uno de los hombres de máxima confianza de Azaña.\n\nSegún Álvarez Tardío y Villa, los datos que circulaban tras la votación daban la mayoría en A Coruña a las candidaturas de derecha y centro: doce escaños para ellas, cinco para el Frente Popular.\n\n[pause] Y el diecinueve de febrero, con el Gobierno de Azaña ya formado, el nuevo gobernador civil interviene la documentación electoral. [serious] Cuando la junta provincial proclama a los diputados, el resultado se ha dado la vuelta. Trece escaños para el Frente Popular. Cuatro para sus adversarios.",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "A Coruña",
+      "keys": [
+       [
+        -10,
+        35,
+        4,
+        44.5
+       ],
+       [
+        -9.4,
+        42.6,
+        -7.6,
+        43.8
+       ]
+      ],
+      "points": [
+       {
+        "name": "A Coruña",
+        "lon": -8.41,
+        "lat": 43.36,
+        "at": 0.45,
+        "pulse": 1,
+        "big": 1
+       }
+      ]
+     }
+    },
+    {
+     "photo": "A Coruña años 30",
+     "src": "commons,europeana",
+     "lt": [
+      "A Coruña",
+      "19 de febrero de 1936"
+     ]
+    },
+    {
+     "photo": "Santiago Casares Quiroga",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "A Coruña city"
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Tras la votación",
+       "lines": [
+        "Derechas y centro: 12",
+        "Frente Popular: 5"
+       ]
+      },
+      "right": {
+       "title": "Proclamación",
+       "lines": [
+        "Frente Popular: 13",
+        "Derechas y centro: 4"
+       ]
+      },
+      "strike": true
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Trece a cuatro. [short pause] Con los mismos votos.\n\n¿Es solo la interpretación de dos historiadores? No del todo. Porque, semanas después, la persona que más motivos tenía para defender esas actas dijo exactamente lo contrario.\n\nEsa persona era Indalecio Prieto. Socialista, uno de los hombres fuertes del Frente Popular, y presidente de la Comisión de Actas del Congreso. [pause] Las actas de las reuniones del grupo parlamentario socialista, que hoy se conservan en el archivo de la Fundación Pablo Iglesias, recogen lo que Prieto dijo a sus compañeros el veintiséis de marzo sobre las actas de A Coruña.",
+   "shots": [
+    {
+     "photo": "Indalecio Prieto",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Indalecio Prieto",
+      "role": "Presidente de la Comisión de Actas · PSOE"
+     }
+    },
+    {
+     "photo": "Fundación Pablo Iglesias archivo",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old file folder archive",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "«Absolutamente indefendibles.»",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Absolutamente indefendibles.",
+      "attrib": "Indalecio Prieto, sobre las actas de A Coruña · grupo parlamentario socialista, 26 de marzo de 1936"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Absolutamente indefendibles. [pause] Y Prieto no se quedó en las palabras. El treinta y uno de marzo, comunicó a su grupo que dimitía como presidente de la Comisión de Actas, porque se oponía a validar las de A Coruña. [short pause] Las mismas actas que convertían a Casares Quiroga en diputado.\n\nSus críticos discuten casi todo lo demás. El historiador José Luis Martín Ramos, que ha revisado esas mismas actas socialistas, sostiene que la dimisión de Prieto también tuvo que ver con las tensiones internas de su partido. Puede ser. [pause] Pero la frase está ahí. Y la escribió un secretario socialista, no un periodista de derechas.\n\n[serious] Las actas de A Coruña fueron validadas. Prieto se fue. Y Casares Quiroga ocupó su escaño. [short pause] Tres meses después, sería presidente del Gobierno de España.",
+   "shots": [
+    {
+     "photo": "Indalecio Prieto 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Congreso de los Diputados 1936 sesión",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Santiago Casares Quiroga 1936",
+     "src": "commons,europeana",
+     "kw": "VALIDADAS"
+    },
+    {
+     "photo": "Casares Quiroga presidente del Gobierno",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "quote",
+      "text": "Prieto dimite como presidente de la Comisión de Actas por oponerse a validar las actas de A Coruña.",
+      "attrib": "Actas del grupo parlamentario socialista · 31 de marzo de 1936"
+     }
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 24,
+   "shots": [
+    {
+     "video": "Galicia coast stormy sea"
+    },
+    {
+     "photo": "A Coruña puerto antiguo",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "rain window night",
+     "free": true
+    },
+    {
+     "photo": "Santiago Casares Quiroga",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Segunda parada. Cáceres.\n\nAquí el problema no es una sola noche, sino dos recuentos que no coinciden. Según Álvarez Tardío y Villa, el resultado real daba tres escaños al Frente Popular y seis a sus rivales. La junta provincial proclamó lo contrario: siete para el Frente Popular, dos para las derechas.\n\n[short pause] Sus críticos no lo niegan del todo. Recuerdan que el historiador Ayala Vicente encontró en Cáceres dos cómputos contradictorios. Y que, ante esa contradicción, lo honrado habría sido repetir la elección, no proclamar a nadie. [pause] Pero no se repitió. Las actas de Cáceres llegaron al Congreso. Y nadie las tocó.",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Cáceres",
+      "keys": [
+       [
+        -10,
+        35,
+        4,
+        44.5
+       ],
+       [
+        -7.4,
+        39.0,
+        -5.4,
+        40.4
+       ]
+      ],
+      "points": [
+       {
+        "name": "Cáceres",
+        "lon": -6.37,
+        "lat": 39.47,
+        "at": 0.45,
+        "pulse": 1,
+        "big": 1
+       }
+      ]
+     }
+    },
+    {
+     "photo": "Cáceres ciudad antigua fotografía",
+     "src": "commons,europeana",
+     "lt": [
+      "Cáceres",
+      "febrero de 1936"
+     ]
+    },
+    {
+     "video": "Caceres old town"
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Según el recuento",
+       "lines": [
+        "Frente Popular: 3",
+        "Derechas: 6"
+       ]
+      },
+      "right": {
+       "title": "Proclamación",
+       "lines": [
+        "Frente Popular: 7",
+        "Derechas: 2"
+       ]
+      },
+      "strike": true
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Y la lista sigue. Los autores señalan irregularidades en la provincia de Valencia, en Santa Cruz de Tenerife, en Las Palmas, en Lugo, en Málaga, en Jaén, en Pontevedra.\n\n[serious] Pero cuidado. Porque aquí aparece la otra cara de la moneda, la que los defensores de la tesis del fraude suelen contar más deprisa.\n\nEn Galicia, los gobernadores de Portela habían trabajado a fondo para su propio partido, el del centro. Y en Pontevedra, el propio Portela salió elegido en unas condiciones que sus rivales también denunciaron. [pause] El fraude, en mil novecientos treinta y seis, no era patrimonio de nadie. Era una vieja costumbre española. [short pause] Tan vieja, que tenía nombre propio desde el siglo diecinueve: el pucherazo.",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Provincias señaladas",
+      "items": [
+       [
+        "Valencia",
+        "provincia"
+       ],
+       [
+        "Santa Cruz de Tenerife",
+        ""
+       ],
+       [
+        "Las Palmas",
+        ""
+       ],
+       [
+        "Lugo · Pontevedra",
+        "Galicia"
+       ],
+       [
+        "Málaga · Jaén",
+        "Andalucía"
+       ]
+      ]
+     }
+    },
+    {
+     "photo": "Pontevedra antigua fotografía",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Valencia 1930s",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Málaga 1930s",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old wooden ballot box",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Y es aquí donde hay que desmontar el segundo mito. El de que solo un bando hizo trampas.\n\nEn Granada, por ejemplo, el historiador López Martínez documentó en febrero de mil novecientos treinta y seis lo que él llama pucherazos puros en dieciocho pueblos, y fraudes técnicos en otros veintiocho. [short pause] Pero no a favor del Frente Popular. A favor de las derechas. Caciques locales, alcaldes, votos de gente que no había votado.\n\nLas derechas habían ganado Granada. Y la izquierda lo denunció inmediatamente, con buena parte de razón.\n\n[pause] De modo que la pregunta ya no puede ser si hubo fraude. Lo hubo, por los dos lados. [serious] La pregunta es otra. Cuando llegó la hora de juzgar todas esas actas, ¿quién era el juez? [pause] ¿Y cómo juzgó?",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Granada",
+      "keys": [
+       [
+        -10,
+        35,
+        4,
+        44.5
+       ],
+       [
+        -4.4,
+        36.6,
+        -2.6,
+        37.7
+       ]
+      ],
+      "points": [
+       {
+        "name": "Granada",
+        "lon": -3.6,
+        "lat": 37.18,
+        "at": 0.45,
+        "pulse": 1,
+        "big": 1
+       }
+      ]
+     }
+    },
+    {
+     "photo": "Granada 1930s fotografía",
+     "src": "commons,europeana",
+     "lt": [
+      "Granada",
+      "febrero de 1936"
+     ]
+    },
+    {
+     "photo": "Alpujarra pueblo antiguo",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 18,
+      "label": "pueblos con pucherazos a favor de las derechas · López Martínez"
+     }
+    },
+    {
+     "video": "Granada Alhambra"
+    },
+    {
+     "video": "judge gavel court",
+     "free": true,
+     "kw": "¿QUIÉN JUZGA?"
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "pulso",
+   "secs": 45,
+   "shots": [
+    {
+     "video": "Spain 1936 newsreel",
+     "old": true,
+     "tr": "black"
+    },
+    {
+     "photo": "Congreso de los Diputados 1930s",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old documents archive boxes",
+     "free": true
+    },
+    {
+     "photo": "Cortes 1936 sesión",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "clock ticking dark",
+     "free": true
+    },
+    {
+     "photo": "Madrid 1936 calle",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Y mientras tanto, el primero de marzo, se celebran las segundas vueltas en las circunscripciones donde nadie había alcanzado el cuarenta por ciento. [short pause] Esta vez, con el nuevo Gobierno ya instalado, con los nuevos gobernadores en sus despachos, y con muchos ayuntamientos en manos del Frente Popular.\n\nLas derechas denuncian coacciones. El Frente Popular las niega. Y los escaños que salen de esas segundas vueltas engordan un poco más la mayoría. [pause] Pero el gran escenario de esta historia todavía estaba por abrirse.",
+   "shots": [
+    {
+     "photo": "elecciones segunda vuelta marzo 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "ayuntamiento 1936 Frente Popular",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "ballot box vote",
+     "free": true
+    },
+    {
+     "photo": "Congreso de los Diputados 1930s",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Marzo de mil novecientos treinta y seis. Las nuevas Cortes se reúnen en el palacio del Congreso, en la carrera de San Jerónimo.\n\nY su primera tarea es revisar las actas. Es lo que manda el reglamento: antes de que los diputados tomen posesión, una comisión elegida por la propia Cámara examina las protestas y decide qué actas son válidas y cuáles no.\n\n[short pause] Es decir: los diputados ya proclamados deciden sobre la elección de sus adversarios. [pause] Y la mayoría de esa comisión la tiene el Frente Popular.",
+   "shots": [
+    {
+     "photo": "Congreso de los Diputados fachada 1930s",
+     "src": "commons,europeana",
+     "lt": [
+      "Congreso de los Diputados",
+      "marzo de 1936"
+     ]
+    },
+    {
+     "video": "Madrid Congress building"
+    },
+    {
+     "photo": "Cortes 1936 sesión",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Comisión de Actas 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old book pages turning",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Las sesiones son durísimas. Se discuten actas provincia por provincia, hasta altas horas de la madrugada. Los diputados de la derecha presentan actas notariales, testimonios, denuncias. Los del Frente Popular presentan las suyas.\n\nLas sesiones las sigue toda España a través de la prensa. Y cada periódico ve una elección distinta.\n\nY las decisiones caen. [short pause] Las elecciones de Granada, donde había ganado la derecha, se anulan por completo. Las de Cuenca, donde también había ganado la derecha, se anulan por completo. [pause] En Salamanca, la provincia de Gil-Robles, se quitan escaños a la derecha y se entregan al Frente Popular.\n\n[serious] Mientras tanto, las actas discutidas de A Coruña y de Cáceres, favorables al Frente Popular, se validan.",
+   "shots": [
+    {
+     "photo": "Cortes 1936 diputados",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "Lo que decidió la Comisión",
+      "items": [
+       [
+        "Granada",
+        "anulada · había ganado la derecha"
+       ],
+       [
+        "Cuenca",
+        "anulada · había ganado la derecha"
+       ],
+       [
+        "Salamanca",
+        "escaños retirados a la derecha"
+       ],
+       [
+        "A Coruña · Cáceres",
+        "validadas · favorables al Frente Popular"
+       ]
+      ]
+     }
+    },
+    {
+     "photo": "Salamanca 1930s",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Cuenca casas colgadas antigua",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "rubber stamp document",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Para el Frente Popular, la anulación de Granada era de justicia. Su periódico, El Socialista, lo explicaba así en marzo de mil novecientos treinta y seis.",
+   "shots": [
+    {
+     "photo": "El Socialista 1936 periódico",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old newspaper reading",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "«Han sido tales los desmanes, atropellos, robo de actas, suplantaciones de sufragios, que la Cámara por unanimidad ha de considerar que por decoro ciudadano las actas de Granada tienen que ser anuladas.»",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Han sido tales los desmanes, atropellos, robo de actas, suplantaciones de sufragios, que la Cámara por unanimidad ha de considerar que por decoro ciudadano las actas de Granada tienen que ser anuladas.",
+      "attrib": "El Socialista · marzo de 1936"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Para la derecha, el problema era otro: la vara de medir. El diario católico El Debate contaba, el tres de abril, cómo las actas de Orense, las de Calvo Sotelo, se aprobaban a las seis menos cuarto de la mañana. Contra ellas, el diputado Ángel Galarza había esgrimido treinta y una actas notariales. No prosperaron. [short pause] Y el periódico recogía la queja de un diputado de la derecha que comparaba ese caso con el de Cuenca.",
+   "shots": [
+    {
+     "photo": "El Debate periódico 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Orense 1930s",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "«Con muchas menos actas se han anulado las elecciones de Cuenca.»",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Con muchas menos actas se han anulado las elecciones de Cuenca.",
+      "attrib": "El Debate · 3 de abril de 1936"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Dos periódicos. Dos verdades. Y una misma comisión decidiendo cuál de ellas valía. [pause] Ese es el problema de fondo. No que hubiera irregularidades, que las hubo en las dos direcciones. Sino que nadie sabía con qué criterio se castigaban. Y que quien decidía era, a la vez, juez y parte.",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "El Socialista",
+       "lines": [
+        "Granada: robo de actas",
+        "Hay que anular"
+       ]
+      },
+      "right": {
+       "title": "El Debate",
+       "lines": [
+        "Cuenca anulada con menos",
+        "Orense: aprobada al alba"
+       ]
+      },
+      "strike": false
+     }
+    },
+    {
+     "video": "scales of justice",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "¿Fue la Comisión un tribunal imparcial? Sus críticos más duros admiten que no lo fue. [pause] Pero añaden algo importante: ninguna lo había sido. Aquellas comisiones siempre eran partidistas, en todas las legislaturas, gobernara quien gobernara.\n\nY recuerdan otro dato. La derecha, en protesta, abandonó la Comisión y llegó a retirarse de la Cámara. El historiador Martín Ramos lo califica de irresponsabilidad política. [short pause] Y al marcharse, dejó el campo libre.\n\n[pause] Pero hay un testigo que no era ni de un bando ni de otro. Un hombre que lo vio todo desde el lugar más alto del Estado. Y que, en privado, estaba alarmado.",
+   "shots": [
+    {
+     "photo": "José María Gil-Robles 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "diputados derecha 1936 Cortes",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "empty seats parliament",
+     "free": true
+    },
+    {
+     "photo": "Niceto Alcalá-Zamora 1936",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Niceto Alcalá-Zamora, presidente de la República, sigue de cerca la revisión de las actas. Y llega a advertir a Azaña de que, si se expulsa de la Cámara a los grandes líderes de la oposición, se habrá destruido el propio sistema.\n\nSegún Álvarez Tardío y Villa, su aviso a Azaña fue este.",
+   "shots": [
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Niceto Alcalá-Zamora",
+      "role": "Presidente de la República · 1931-1936"
+     }
+    },
+    {
+     "photo": "Niceto Alcalá-Zamora",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "«Habrá suprimido usted el régimen parlamentario.»",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Habrá suprimido usted el régimen parlamentario.",
+      "attrib": "Niceto Alcalá-Zamora a Manuel Azaña · marzo de 1936, según Álvarez Tardío y Villa"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Y Azaña escuchó. [short pause] Las actas de Gil-Robles, en Salamanca, y de José Calvo Sotelo, el líder monárquico, en Orense, se salvaron. Los dos hombres más odiados por la izquierda conservaron su escaño. Los autores lo atribuyen en parte a la intervención de Azaña.\n\n[pause] Pero las anulaciones no tenían vuelta atrás. En Granada y en Cuenca había que votar de nuevo. [serious] Y esta vez, el Gobierno, los gobernadores y los ayuntamientos ya eran del Frente Popular.",
+   "shots": [
+    {
+     "photo": "José Calvo Sotelo",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "José Calvo Sotelo",
+      "role": "Líder de Renovación Española · Orense"
+     }
+    },
+    {
+     "photo": "Orense 1930s",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Manuel Azaña 1936",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 14,
+   "shots": [
+    {
+     "video": "Cuenca Spain"
+    },
+    {
+     "photo": "Cuenca 1930s fotografía",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Tres de mayo de mil novecientos treinta y seis. Se repiten las elecciones en Granada y en Cuenca.\n\nEn Granada, la derecha, que denuncia no tener garantías, se retira. El Frente Popular se lleva los trece escaños. Trece de trece.\n\nEn Cuenca, la derecha intenta algo insólito. En su candidatura incluye a José Antonio Primo de Rivera, el líder de Falange, que estaba en la cárcel. Y durante unos días, figura también el nombre del general Francisco Franco. Franco acaba retirándose. [short pause] La Junta excluye a José Antonio. Y el Frente Popular también gana en Cuenca.\n\n[pause] Dos provincias que en febrero habían votado a la derecha pasan, en mayo, a la izquierda.",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Cuenca y Granada",
+      "keys": [
+       [
+        -10,
+        35,
+        4,
+        44.5
+       ],
+       [
+        -5,
+        36.5,
+        -1,
+        40.6
+       ]
+      ],
+      "points": [
+       {
+        "name": "Cuenca",
+        "lon": -2.13,
+        "lat": 40.07,
+        "at": 0.35,
+        "pulse": 1,
+        "big": 1
+       },
+       {
+        "name": "Granada",
+        "lon": -3.6,
+        "lat": 37.18,
+        "at": 0.55,
+        "pulse": 1,
+        "big": 1
+       }
+      ]
+     }
+    },
+    {
+     "photo": "José Antonio Primo de Rivera",
+     "src": "commons,europeana",
+     "lt": [
+      "Cuenca",
+      "3 de mayo de 1936"
+     ]
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "José Antonio Primo de Rivera",
+      "role": "Candidato en Cuenca · desde la cárcel"
+     }
+    },
+    {
+     "photo": "Cuenca 1930s fotografía",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 13,
+      "label": "de trece escaños para el Frente Popular en Granada"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Sus críticos dan otra lectura. Para Martín Ramos, el resultado de mayo no prueba un fraude de febrero. Prueba, más bien, que una parte de la derecha ya había decidido otra cosa: la conspiración. Una candidatura con un preso falangista y un general que poco después se sublevaría no era una candidatura para ganar unas elecciones.\n\nLas dos lecturas pueden ser ciertas a la vez. [pause] Lo que nadie discute es el número final.\n\nTras la proclamación de las juntas, las decisiones de la Comisión y la repetición de mayo, el Frente Popular llega a doscientos ochenta y seis diputados. [short pause] Una mayoría absoluta holgadísima. [pause] Y casi cincuenta más de los que tenía en la noche en que Portela dimitió, según las cuentas de Álvarez Tardío y Villa.",
+   "shots": [
+    {
+     "photo": "Francisco Franco 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 286,
+      "label": "diputados del Frente Popular tras mayo"
+     }
+    },
+    {
+     "photo": "Cortes 1936 diputados",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "scales of justice",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 28,
+   "shots": [
+    {
+     "photo": "Congreso de los Diputados 1930s",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old documents archive boxes",
+     "free": true
+    },
+    {
+     "photo": "Granada 1930s fotografía",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Cuenca 1930s fotografía",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Pero esta historia tiene un último giro. Y su protagonista es el presidente que convocó aquellas elecciones.\n\nEl siete de abril de mil novecientos treinta y seis, las nuevas Cortes destituyen a Niceto Alcalá-Zamora. El argumento es casi irónico. La Constitución permitía destituir al presidente si disolvía las Cortes dos veces sin necesidad. [short pause] Y la mayoría decidió que la segunda disolución, la que había permitido celebrar las elecciones que la propia mayoría acababa de ganar, había sido innecesaria. Doscientos treinta y ocho votos a favor. Cinco en contra.\n\n[pause] Alcalá-Zamora sale del palacio. Poco después, sale de España.",
+   "shots": [
+    {
+     "photo": "Niceto Alcalá-Zamora",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "quote",
+      "text": "Las Cortes declaran innecesaria la disolución que les había dado la vida.",
+      "attrib": "Destitución de Alcalá-Zamora · 7 de abril de 1936"
+     }
+    },
+    {
+     "photo": "Palacio Nacional Madrid 1930s",
+     "src": "commons,europeana",
+     "lt": [
+      "Madrid",
+      "7 de abril de 1936"
+     ]
+    },
+    {
+     "photo": "Alcalá-Zamora destitución 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "train station old steam",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Cuando estalla la guerra, en julio, está de viaje fuera del país. Y en enero de mil novecientos treinta y siete publica en un periódico suizo, el Journal de Genève, varios artículos en los que cuenta su versión de aquellos meses.\n\n[serious] Uno de sus párrafos sobre las elecciones dice así.",
+   "shots": [
+    {
+     "photo": "Journal de Genève",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old newspaper reading",
+     "free": true
+    },
+    {
+     "photo": "Ginebra 1930s",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "«El Frente Popular, sin esperar el fin del recuento del escrutinio y la proclamación de los resultados, desencadenó en la calle la ofensiva del desorden, reclamó el poder por medio de la violencia.»",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "El Frente Popular, sin esperar el fin del recuento del escrutinio y la proclamación de los resultados, desencadenó en la calle la ofensiva del desorden, reclamó el poder por medio de la violencia.",
+      "attrib": "Niceto Alcalá-Zamora · Journal de Genève, enero de 1937"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Pero lo más importante de Alcalá-Zamora no estaba en los periódicos. Estaba en sus diarios. [pause] Durante los primeros meses de mil novecientos treinta y seis, el presidente anotó cada día lo que veía y lo que pensaba.\n\nAntes de salir de Madrid, en julio de mil novecientos treinta y seis, su familia guarda esos papeles en dos cajas de seguridad del Crédit Lyonnais, en Madrid. [short pause] El trece de febrero de mil novecientos treinta y siete, agentes de policía se los llevan. Y durante setenta años, nadie sabe dónde están.\n\n[serious] En dos mil ocho, un hombre llama a un programa de radio diciendo que tiene los papeles del presidente. La Guardia Civil le tiende una trampa en Valencia y los recupera. [pause] Se publican en dos mil once, con un título que ya lo dice todo: Asalto a la República.",
+   "shots": [
+    {
+     "video": "safe deposit box bank vault",
+     "free": true
+    },
+    {
+     "video": "old notebook handwriting",
+     "free": true
+    },
+    {
+     "photo": "Guardia Civil 2008",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Los diarios de Alcalá-Zamora",
+      "events": [
+       [
+        "1936",
+        "Los escribe"
+       ],
+       [
+        "1937",
+        "Desaparecen"
+       ],
+       [
+        "2008",
+        "Recuperados"
+       ],
+       [
+        "2011",
+        "Publicados"
+       ]
+      ]
+     }
+    },
+    {
+     "video": "old book pages turning",
+     "free": true,
+     "kw": "ASALTO A LA REPÚBLICA"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "En esos papeles, y en lo que escribió después, el presidente denuncia las irregularidades que, a su juicio, cometió la nueva mayoría al examinar las actas y en la segunda vuelta. Para él, la mayoría que salió de la Comisión no era la que habían decidido las urnas.\n\n[pause] Es el testimonio de un hombre que no era de derechas, que había traído la República y que no tenía ya nada que ganar. [short pause] Pero también es el testimonio de un hombre resentido, al que esas mismas Cortes acababan de expulsar de la presidencia.\n\n[serious] Un buen investigador no puede ignorar ni una cosa ni la otra.",
+   "shots": [
+    {
+     "photo": "Niceto Alcalá-Zamora 1931",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "desk lamp old documents night",
+     "free": true
+    },
+    {
+     "photo": "Niceto Alcalá-Zamora",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "magnifying glass old document",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 36,
+   "shots": [
+    {
+     "video": "Spain 1936 newsreel",
+     "old": true,
+     "tr": "black"
+    },
+    {
+     "photo": "Madrid 1936 calle",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "clock ticking dark",
+     "free": true
+    },
+    {
+     "photo": "Cortes 1936 sesión",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old documents archive boxes",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Recapitulemos. [short pause] Pongamos todas las piezas en fila.\n\nUno. El dieciséis de febrero, la votación fue en general limpia, y el resultado en votos fue muy ajustado. Según las cifras recogidas por el hispanista Stanley Payne, alrededor de cuatro millones seiscientos cincuenta mil votos para el Frente Popular, y cuatro millones quinientos mil para las derechas. [pause] Menos de dos puntos de diferencia.\n\nDos. El presidente del Gobierno dimitió antes de que terminara el recuento, con más de cien escaños todavía en el aire según unos, o con la mayoría casi decidida según otros.\n\nTres. El nuevo Gobierno nombró gobernadores civiles en las horas en que las actas se custodiaban y se sumaban.",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Las piezas",
+      "items": [
+       [
+        "1",
+        "Votación limpia, resultado ajustado"
+       ],
+       [
+        "2",
+        "Dimisión antes del recuento"
+       ],
+       [
+        "3",
+        "Nuevos gobernadores, actas en custodia"
+       ]
+      ]
+     }
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Frente Popular",
+       "lines": [
+        "≈ 4.650.000 votos",
+        "47,2 %"
+       ]
+      },
+      "right": {
+       "title": "Derechas",
+       "lines": [
+        "≈ 4.500.000 votos",
+        "45,7 %"
+       ]
+      },
+      "strike": false
+     }
+    },
+    {
+     "photo": "Stanley Payne",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Gobierno Civil edificio antiguo",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Cuatro. En A Coruña, el resultado se dio la vuelta, y el propio presidente socialista de la Comisión de Actas calificó esas actas de absolutamente indefendibles.\n\nCinco. En Cáceres hubo dos recuentos que no coincidían, y se proclamó el más favorable al Frente Popular.\n\nSeis. La Comisión de Actas anuló dos provincias enteras ganadas por la derecha y validó las actas discutidas favorables a la izquierda. Y en las repeticiones de mayo, la izquierda ganó ambas.\n\n[pause] Y siete. El presidente de la República, que había convocado aquellas elecciones, denunció que la nueva mayoría había cometido irregularidades al revisar las actas. [short pause] Y fue destituido por esa misma mayoría.\n\n[serious] Un indicio es una sospecha. Dos, una coincidencia. [pause] Siete indicios que apuntan en la misma dirección empiezan a parecerse mucho a una prueba.",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Las piezas",
+      "items": [
+       [
+        "4",
+        "A Coruña: «absolutamente indefendibles»"
+       ],
+       [
+        "5",
+        "Cáceres: dos recuentos"
+       ],
+       [
+        "6",
+        "Comisión: anula a unos, valida a otros"
+       ],
+       [
+        "7",
+        "El presidente denuncia irregularidades"
+       ]
+      ]
+     }
+    },
+    {
+     "photo": "Indalecio Prieto",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Cáceres ciudad antigua fotografía",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Niceto Alcalá-Zamora",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "scales of justice",
+     "free": true,
+     "kw": "SIETE INDICIOS"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "¿Y si se corrigen todas esas irregularidades? ¿Quién habría ganado?\n\n[short pause] Aquí, los historiadores vuelven a separarse. Álvarez Tardío y Villa calculan que, sin las manipulaciones del recuento, el Frente Popular habría tenido entre doscientos veintiséis y doscientos treinta diputados. Y las derechas, entre doscientos veintitrés y doscientos veintisiete. [pause] Un empate técnico. Nadie habría alcanzado la mayoría absoluta.\n\nGonzález Calleja y Sánchez Pérez rehacen las cuentas con los propios datos del libro y llegan a otra cifra: incluso corrigiendo todas las irregularidades denunciadas, el Frente Popular habría conservado unos doscientos cuarenta y nueve diputados. [short pause] Por encima de la mayoría.",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Álvarez Tardío y Villa",
+       "lines": [
+        "Frente Popular: 226-230",
+        "Derechas: 223-227",
+        "Nadie llega a 237"
+       ]
+      },
+      "right": {
+       "title": "González Calleja y Sánchez Pérez",
+       "lines": [
+        "Frente Popular: ~249",
+        "aun corrigiendo todo",
+        "Mayoría absoluta"
+       ]
+      },
+      "strike": false
+     }
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 237,
+      "label": "la línea de la mayoría absoluta"
+     }
+    },
+    {
+     "video": "calculator old numbers",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Dos cálculos, dos conclusiones. Pero fíjense en lo que comparten.\n\nNinguno de los dos discute que el Frente Popular acabó con doscientos ochenta y seis escaños. Ninguno discute que decenas de esos escaños se decidieron después de la votación, en juntas provinciales, en una comisión parlamentaria y en dos elecciones repetidas. [short pause] Y la diferencia entre doscientos cuarenta y nueve y doscientos ochenta y seis son treinta y siete diputados.\n\n[pause] Treinta y siete escaños que no salieron de ninguna urna el dieciséis de febrero.",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 37,
+      "label": "escaños entre una mayoría ajustada y la mayoría final"
+     }
+    },
+    {
+     "photo": "Cortes 1936 diputados",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "empty seats parliament",
+     "free": true,
+     "kw": "TREINTA Y SIETE"
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "pulso",
+   "secs": 30,
+   "shots": [
+    {
+     "video": "Spain 1936 newsreel",
+     "old": true,
+     "tr": "black"
+    },
+    {
+     "photo": "Madrid 1936 calle",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old documents archive boxes",
+     "free": true
+    },
+    {
+     "photo": "Congreso de los Diputados 1930s",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Entonces, ¿hubo pucherazo en mil novecientos treinta y seis?\n\n[pause] Las pruebas que hoy conocemos permiten decir algo con bastante seguridad. La mayoría absoluta del Frente Popular no salió tal cual de las urnas. Se completó después, en un recuento hecho bajo un Gobierno recién nombrado, y en una revisión de actas en la que los ganadores juzgaron a los perdedores.\n\nSi a eso se le llama pucherazo, lo hubo. [short pause] Lo que sigue abierto es otra pregunta: si sin esas maniobras el Frente Popular habría gobernado igualmente, con una mayoría más corta, o si España habría tenido un Parlamento sin mayoría. Los números de unos y otros dejan esa puerta entornada.",
+   "shots": [
+    {
+     "photo": "urna electoral Segunda República",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old paper ballot vote",
+     "free": true
+    },
+    {
+     "photo": "Manuel Azaña 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "door ajar dark light",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Los críticos de la tesis del fraude añaden un argumento de peso. Para José Luis Martín Ramos, las Cortes que se reunieron en marzo eran legítimas, y la mayoría del Frente Popular era real, porque ya existía antes de que la Comisión de Actas empezara a trabajar. Las anulaciones, dicen, solo ampliaron una victoria que ya estaba decidida.\n\n[short pause] Es un argumento serio. Pero deja una pregunta sin responder. [pause] Si la mayoría ya estaba asegurada, ¿por qué hizo falta anular provincias enteras de los adversarios, validar actas que el propio presidente de la Comisión llamaba indefendibles, y destituir después al presidente de la República?",
+   "shots": [
+    {
+     "photo": "José Luis Martín Ramos",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Cortes 1936 sesión",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Niceto Alcalá-Zamora",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "door ajar dark light",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Y hay algo más que este documental no puede callar.\n\nTres años después, en mil novecientos treinta y nueve, el régimen de Franco publicó un dictamen oficial sobre la ilegitimidad de los poderes de mil novecientos treinta y seis. Usó el fraude electoral como argumento para justificar la sublevación de julio. [short pause] Y exageró las cifras.\n\n[pause] Un recuento manipulado puede deslegitimar una mayoría. No legitima un golpe de Estado, ni una guerra que costó cientos de miles de vidas. [short pause] Las dos cosas pueden ser verdad a la vez: que la mayoría de mil novecientos treinta y seis se fabricó en parte en los despachos, y que lo que vino después no tuvo justificación.",
+   "shots": [
+    {
+     "photo": "Dictamen ilegitimidad poderes 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Francisco Franco 1939",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "Spanish Civil War newsreel",
+     "old": true
+    },
+    {
+     "photo": "Guerra Civil Española 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "candle flame dark",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 30,
+   "shots": [
+    {
+     "video": "Spanish Civil War newsreel",
+     "old": true,
+     "tr": "black"
+    },
+    {
+     "photo": "Madrid 1936 calle",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "Spain 1936 newsreel",
+     "old": true
+    },
+    {
+     "video": "candle flame dark",
+     "free": true
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "El clima, en esa primavera, se envenena cada semana. El once de abril, el líder comunista José Díaz justifica la dureza de la izquierda con un argumento que muestra hasta qué punto el miedo era mutuo.",
+   "shots": [
+    {
+     "photo": "José Díaz PCE 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "mitin comunista Madrid 1936",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "«Si triunfan las derechas, a estas horas quince mil personas habrían sido asesinadas.»",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Si triunfan las derechas, a estas horas quince mil personas habrían sido asesinadas.",
+      "attrib": "José Díaz, secretario general del PCE · Madrid, 11 de abril de 1936"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Y el dieciséis de junio, en el Congreso, Gil-Robles vuelve sobre aquellas actas de febrero para acusar a la mayoría. Lo que dice ese día está en el Diario de Sesiones.",
+   "shots": [
+    {
+     "photo": "José María Gil-Robles 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Diario de Sesiones Cortes 1936",
+     "src": "commons,europeana"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "«Ya le disteis un golpe de muerte con el nacimiento de estas Cortes y la aprobación de determinadas actas.»",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Ya le disteis un golpe de muerte con el nacimiento de estas Cortes y la aprobación de determinadas actas.",
+      "attrib": "José María Gil-Robles · Congreso, 16 de junio de 1936"
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Es la frase de un líder de la oposición, y hay que leerla como tal. Pero resume lo que, para media España, había ocurrido aquella primavera. [pause] Y lo que la otra media nunca aceptó.\n\nMientras tanto, en los cuarteles, algunos generales ya habían dejado de discutir sobre actas. [short pause] Desde marzo, el general Emilio Mola organizaba desde Pamplona una conspiración militar. La palabra que más se oía en sus reuniones no era fraude. Era otra.",
+   "shots": [
+    {
+     "photo": "Cortes 1936 sesión",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Emilio Mola",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Emilio Mola",
+      "role": "Director de la conspiración militar · Pamplona"
+     }
+    },
+    {
+     "video": "candle flame dark",
+     "free": true,
+     "kw": "CONSPIRACIÓN"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Diecisiete de julio de mil novecientos treinta y seis. [short pause] Cinco meses después de aquella noche de febrero, una parte del Ejército se levanta en Marruecos. Al día siguiente, en toda España.\n\nSantiago Casares Quiroga, el diputado de A Coruña, es el presidente del Gobierno. Manuel Azaña, el presidente de la República. Alcalá-Zamora está fuera del país. Portela, también. Y Gil-Robles, en Francia.\n\n[pause] Todos los protagonistas de esta historia estaban, de un modo u otro, en aquella semana de febrero. Y ninguno de ellos supo, o quiso, cerrar lo que se había abierto con el recuento.",
+   "shots": [
+    {
+     "photo": "Santiago Casares Quiroga 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "Spanish Civil War newsreel",
+     "old": true
+    },
+    {
+     "photo": "Manuel Azaña 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Guerra Civil Española 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "De las urnas a la guerra",
+      "events": [
+       [
+        "16 feb",
+        "Votación"
+       ],
+       [
+        "19 feb",
+        "Azaña Gobierno"
+       ],
+       [
+        "7 abr",
+        "Cae Alcalá-Zamora"
+       ],
+       [
+        "3 may",
+        "Repetición"
+       ],
+       [
+        "18 jul",
+        "Sublevación"
+       ]
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[softly] Noventa años después, las actas siguen ahí. En los archivos provinciales, en los boletines oficiales, en las carpetas de un grupo parlamentario y en los cuadernos de un presidente que alguien quiso hacer desaparecer.\n\n[pause] Quizá nunca sepamos con exactitud cuántos votos cambiaron de columna aquella semana. [short pause] Pero sabemos dónde mirar.\n\n[serious] Y sabemos algo que entonces muchos olvidaron. [pause] Que una democracia no muere solo cuando alguien saca los tanques a la calle. [short pause] A veces empieza a morir antes. [pause] En silencio. En una mesa. [softly] Mientras alguien cuenta los votos.",
+   "shots": [
+    {
+     "video": "old documents archive boxes",
+     "free": true
+    },
+    {
+     "photo": "acta electoral 1936",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old notebook handwriting",
+     "free": true
+    },
+    {
+     "video": "desk lamp old documents night",
+     "free": true
+    },
+    {
+     "video": "candle flame dark",
+     "free": true,
+     "tr": "black"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "«Reciben ustedes el poder con el tigre a la puerta.»",
+   "shots": [
+    {
+     "card": {
+      "type": "title",
+      "title": "El pucherazo del 36",
+      "sub": "Reciben ustedes el poder con el tigre a la puerta"
+     }
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 24,
+   "shots": [
+    {
+     "photo": "urna electoral Segunda República",
+     "src": "commons,europeana"
+    },
+    {
+     "video": "old documents archive boxes",
+     "free": true
+    }
+   ],
+   "end": true
+  }
+ ],
+ "rev": 1
+}

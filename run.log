@@ -1,0 +1,42 @@
+== piel: Crímenes históricos, misterios, conspiraciones, juicios, prensa antigua · etalonaje frio
+== 1/5 audio: colocando voces, música y efectos
+voz: 2.4 min, 307 palabras narrador, total 3.0 min
+== 2/5 guion visual
+  aviso: plano no real en el primer minuto (t=3s): ai
+  aviso: plano no real en el primer minuto (t=16s): card
+  aviso: plano no real en el primer minuto (t=24s): card
+  aviso: plano no real en el primer minuto (t=31s): ai
+  aviso: plano no real en el primer minuto (t=37s): card
+  aviso: plano no real en el primer minuto (t=43s): card
+  aviso: plano no real en el primer minuto (t=48s): card
+  aviso: plano no real en el primer minuto (t=57s): ai
+  aviso: plano no real en el primer minuto (t=60s): card
+   42 planos
+== casting: buscando candidatos
+   plano 0 t=0s commons="Theban region, Medinet Habu, 19th century pictures, F. Bonfils, photo 1 of 51 - Archivio fotografico Museo Egizio, Turin INV25 004.jpg" -> 1 candidatos
+   plano 1 t=3s ai="https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Sz12PZ5g2PHq8l09okqg/A0OHp6wPYdH8qfcZZ92r/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=c3BEfhZRLY9n_hcw8PFDwV8PrFQ=" -> 1 candidatos
+   plano 2 t=5s video="nile river night" -> 8 candidatos
+   plano 3 t=8s commons="Thèbes. Medynet-Abou (Medinet Habu). Vue intérieure du péristyle du palais (NYPL b14212718-1267944).jpg" -> 1 candidatos
+   plano 4 t=10s video="karnak temple" -> 8 candidatos
+   plano 5 t=14s commons="Theban region, Medinet Habu, 19th century pictures, photo 5 of 51 - Archivio fotografico Museo Egizio, Turin Album2 037.jpg" -> 1 candidatos
+   plano 7 t=19s commons="Penn Ramsés III 03.JPG" -> 1 candidatos
+   plano 8 t=22s commons="Thèbes. Medynet-Abou (Medinet Habu). Bas-reliefs sculptés sur les murs du palais (NYPL b14212718-1267938).jpg" -> 1 candidatos
+   plano 10 t=28s video="luxor temple night" -> 8 candidatos
+   plano 11 t=31s ai="https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OFDRL95Wlxp2iszeVT6s/8N1jY0RHj0uzJfieYfCN/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=UiewKksU_Jf9EHIitZ0HNaQs6d0=" -> 1 candidatos
+   plano 12 t=33s commons="Ramses III mummy head.png" -> 1 candidatos
+   plano 16 t=57s ai="https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wZMDSumdZtit1pn4e5ks/fXjDCMXKMozMzz0Z98Cb/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=gevwWVQjkXatvVkGeC48EoxZE3Y=" -> 1 candidatos
+   plano 18 t=64s photo="Ramesses IV statue" -> 8 candidatos
+   plano 20 t=71s photo="Ramesses IV statue" -> 8 candidatos
+   plano 22 t=80s ai="https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qecD4IDNTTXEewj4mRHO/jZY2yBdYPsERGk5lIXcw/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=JpL2J6OTWD2trvf_6pKHH__FUmY=" -> 1 candidatos
+   plano 24 t=88s photo="Egyptian scribe statue" -> 8 candidatos
+   plano 27 t=106s ai="https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UYhd6QeRZJG2qOVnqnNW/Cu5YSQpkOyQMXm1QEups/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=VXZsII6hM44oKfUwLSbYeUremCs=" -> 1 candidatos
+   plano 29 t=116s commons="Theban region, Medinet Habu, 19th century pictures, F. Bonfils, photo 10 of 51 - Archivio fotografico Museo Egizio, Turin INV23 003.jpg" -> 1 candidatos
+   plano 33 t=135s video="egypt nile festival" -> 8 candidatos
+   plano 34 t=140s video="luxor nile felucca" -> 8 candidatos
+   plano 35 t=144s ai="https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Cto3hF70TnJjCyo3aIT2/hUNIDONKdKZ60KsByt9j/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=b0yEzRTXZNF2-x7Nel-oZkLlmN4=" -> 1 candidatos
+   plano 36 t=147s video="egypt temple columns" -> 8 candidatos
+   plano 37 t=151s ai="https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OFDRL95Wlxp2iszeVT6s/8N1jY0RHj0uzJfieYfCN/content.jpg?Expires=1794877200&KeyName=assets-cdn-key-1&Signature=UiewKksU_Jf9EHIitZ0HNaQs6d0=" -> 1 candidatos
+   plano 38 t=154s commons="Theban region, Medinet Habu, 19th century pictures, photo 20 of 51 - Archivio fotografico Museo Egizio, Turin Album2 036.jpg" -> 1 candidatos
+   plano 39 t=157s commons="Ramses III mummy.png" -> 1 candidatos
+   música: 7 candidatas en musica.jpg / musica.json
+FIN CASTING: 5 hojas, 25 planos con material

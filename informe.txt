@@ -1,0 +1,52 @@
+== piel: Crímenes históricos, misterios, conspiraciones, juicios, prensa antigua · etalonaje frio
+== 1/5 audio: colocando voces, música y efectos
+voz: 40.9 min, 5637 palabras narrador, total 50.4 min
+== 2/5 guion visual
+  aviso: plano no real en el primer minuto (t=4s): photo
+  aviso: plano no real en el primer minuto (t=7s): photo
+  aviso: plano no real en el primer minuto (t=13s): photo
+  aviso: plano no real en el primer minuto (t=23s): photo
+  aviso: plano no real en el primer minuto (t=26s): photo
+  aviso: plano no real en el primer minuto (t=33s): photo
+  aviso: plano no real en el primer minuto (t=36s): photo
+  aviso: plano no real en el primer minuto (t=39s): photo
+  aviso: plano no real en el primer minuto (t=42s): photo
+  aviso: plano no real en el primer minuto (t=49s): photo
+  aviso: plano no real en el primer minuto (t=52s): card
+  aviso: plano no real en el primer minuto (t=56s): photo
+  aviso: plano no real en el primer minuto (t=59s): photo
+   568 planos
+== 3/5 buscando y descargando material
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/568
+   plano 20/568
+   plano 40/568
+   plano 60/568
+   plano 80/568
+   plano 100/568
+   plano 120/568
+   plano 140/568
+   plano 160/568
+   plano 180/568
+   plano 200/568
+   plano 220/568
+   plano 240/568
+   plano 260/568
+   plano 280/568
+   plano 300/568
+   plano 320/568
+   plano 340/568
+   plano 360/568
+   plano 380/568
+   plano 400/568
+   plano 420/568
+   plano 440/568
+   plano 460/568
+   plano 480/568
+   plano 500/568
+   plano 520/568
+   plano 540/568
+   plano 560/568
+== 5/5 montaje final
+FIN: jobs/pucherazo36/out/pucherazo36.mp4 · 50.8 min · 316 MB

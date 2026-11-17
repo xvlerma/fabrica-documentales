@@ -1,0 +1,2623 @@
+1
+00:00:06,839 --> 00:00:07,356
+Madrid.
+
+2
+00:00:07,356 --> 00:00:12,075
+Domingo, dieciséis de febrero de mil novecientos treinta y seis.
+
+3
+00:00:12,075 --> 00:00:13,329
+Ocho de la tarde.
+
+4
+00:00:13,329 --> 00:00:19,965
+En el Ministerio de la Gobernación, en la Puerta del Sol, los teléfonos no dejan de 
+
+5
+00:00:13,329 --> 00:00:19,965
+sonar.
+
+6
+00:00:19,965 --> 00:00:22,989
+Llegan los primeros datos de toda España.
+
+7
+00:00:22,989 --> 00:00:30,289
+Y el ministro anuncia a la prensa lo que dicen esos números: ventaja para las derech
+
+8
+00:00:22,989 --> 00:00:30,289
+as y el centro.
+
+9
+00:00:30,289 --> 00:00:34,566
+Tres días después, el presidente del Gobierno ha dimitido.
+
+10
+00:00:34,566 --> 00:00:37,811
+El recuento oficial todavía no ha terminado.
+
+11
+00:00:37,811 --> 00:00:40,539
+Y el país ya tiene un nuevo gobierno.
+
+12
+00:00:40,539 --> 00:00:43,858
+Cinco meses más tarde, España está en guerra.
+
+13
+00:00:45,358 --> 00:00:53,128
+Durante noventa años, la versión aceptada ha sido sencilla: el Frente Popular ganó a
+
+14
+00:00:45,358 --> 00:00:53,128
+quellas elecciones.
+
+15
+00:00:53,128 --> 00:00:54,939
+Por poco, pero las ganó.
+
+16
+00:00:54,939 --> 00:01:14,781
+Sin embargo, en los archivos de las juntas provinciales, en las actas notariales, en
+
+17
+00:00:54,939 --> 00:01:14,781
+ los papeles del propio presidente de la República, robados en mil novecientos trein
+
+18
+00:00:54,939 --> 00:01:14,781
+ta y siete y recuperados por la Guardia Civil setenta y un años después, aparece otr
+
+19
+00:00:54,939 --> 00:01:14,781
+a historia.
+
+20
+00:01:14,781 --> 00:01:17,950
+La pregunta no es quién ganó en las urnas.
+
+21
+00:01:17,950 --> 00:01:20,741
+La pregunta es quién contó los votos.
+
+22
+00:01:20,741 --> 00:01:25,947
+Y qué pasó con ellos entre el diecinueve de febrero y el mes de mayo.
+
+23
+00:01:25,947 --> 00:01:31,454
+Esta es la historia de las elecciones más discutidas de nuestra historia.
+
+24
+00:01:31,454 --> 00:01:33,868
+El pucherazo del treinta y seis.
+
+25
+00:01:59,368 --> 00:02:04,740
+Para entender lo que ocurrió aquella semana, hay que volver unos años atrás.
+
+26
+00:02:04,740 --> 00:02:10,959
+En abril de mil novecientos treinta y uno, la monarquía cae y nace la Segunda Repúbl
+
+27
+00:02:04,740 --> 00:02:10,959
+ica.
+
+28
+00:02:10,959 --> 00:02:17,955
+Gobiernan primero las izquierdas republicanas y los socialistas, con Manuel Azaña co
+
+29
+00:02:10,959 --> 00:02:17,955
+mo gran figura.
+
+30
+00:02:17,955 --> 00:02:28,627
+En noviembre de mil novecientos treinta y tres, el péndulo se mueve: las derechas, a
+
+31
+00:02:17,955 --> 00:02:28,627
+grupadas en la CEDA de José María Gil-Robles, ganan las elecciones.
+
+32
+00:02:28,627 --> 00:02:40,147
+Y en octubre de mil novecientos treinta y cuatro, cuando la CEDA entra en el Gobiern
+
+33
+00:02:28,627 --> 00:02:40,147
+o, los socialistas y otras fuerzas de izquierda responden con una insurrección.
+
+34
+00:02:40,147 --> 00:02:43,680
+En Asturias se convierte en una revolución armada.
+
+35
+00:02:43,680 --> 00:02:45,306
+Hay más de mil muertos.
+
+36
+00:02:45,306 --> 00:02:46,649
+Miles de detenidos.
+
+37
+00:02:46,649 --> 00:02:50,323
+Entre ellos, buena parte de la dirección socialista.
+
+38
+00:02:51,824 --> 00:03:01,031
+En mil novecientos treinta y cinco, los gobiernos de centro-derecha se hunden entre 
+
+39
+00:02:51,824 --> 00:03:01,031
+escándalos de corrupción, como el del estraperlo.
+
+40
+00:03:01,031 --> 00:03:10,999
+El presidente de la República, Niceto Alcalá-Zamora, no quiere entregar el Gobierno 
+
+41
+00:03:01,031 --> 00:03:10,999
+a Gil-Robles, aunque tiene el grupo más grande de la Cámara.
+
+42
+00:03:10,999 --> 00:03:17,714
+Prefiere a un hombre de su confianza: Manuel Portela Valladares, un centrista sin pa
+
+43
+00:03:10,999 --> 00:03:17,714
+rtido propio.
+
+44
+00:03:17,714 --> 00:03:22,629
+Y Portela recibe un encargo: disolver las Cortes y convocar elecciones.
+
+45
+00:03:22,629 --> 00:03:28,029
+La fecha elegida es el dieciséis de febrero de mil novecientos treinta y seis.
+
+46
+00:03:28,029 --> 00:03:31,006
+Frente a frente quedan dos grandes bloques.
+
+47
+00:03:31,006 --> 00:03:41,459
+A la izquierda, el Frente Popular: republicanos de izquierda, socialistas, comunista
+
+48
+00:03:31,006 --> 00:03:41,459
+s, y el voto de muchos anarquistas que esta vez sí van a las urnas.
+
+49
+00:03:41,459 --> 00:03:44,851
+A la derecha, una alianza encabezada por la CEDA.
+
+50
+00:03:44,851 --> 00:03:51,359
+En medio, un centro débil que Portela intenta construir a toda prisa desde el propio
+
+51
+00:03:44,851 --> 00:03:51,359
+ Gobierno.
+
+52
+00:03:52,859 --> 00:03:58,370
+El Frente Popular se firma el quince de enero de mil novecientos treinta y seis.
+
+53
+00:03:58,370 --> 00:04:02,642
+Es una coalición extraña, unida sobre todo por lo que rechaza.
+
+54
+00:04:02,642 --> 00:04:10,014
+Los republicanos de Azaña quieren volver a las reformas de mil novecientos treinta y
+
+55
+00:04:02,642 --> 00:04:10,014
+ uno, dentro de la ley.
+
+56
+00:04:10,014 --> 00:04:17,455
+Una parte de los socialistas, la que sigue a Francisco Largo Caballero, habla ya abi
+
+57
+00:04:10,014 --> 00:04:17,455
+ertamente de revolución.
+
+58
+00:04:17,455 --> 00:04:24,827
+Los comunistas, todavía pequeños, se apuntan a la estrategia que Moscú ha bautizado 
+
+59
+00:04:17,455 --> 00:04:24,827
+como frentes populares.
+
+60
+00:04:24,827 --> 00:04:27,927
+Las derechas tampoco son un bloque homogéneo.
+
+61
+00:04:27,927 --> 00:04:32,268
+La CEDA de Gil-Robles acepta la República, pero sin entusiasmo.
+
+62
+00:04:32,268 --> 00:04:36,470
+Los monárquicos de José Calvo Sotelo quieren acabar con ella.
+
+63
+00:04:36,470 --> 00:04:44,738
+Y la Falange de José Antonio Primo de Rivera, que irá sola, apenas sacará unos cuare
+
+64
+00:04:36,470 --> 00:04:44,738
+nta y seis mil votos en toda España.
+
+65
+00:04:44,738 --> 00:04:56,520
+Y el presidente Alcalá-Zamora, que convoca las elecciones, deja escrito en su diario
+
+66
+00:04:44,738 --> 00:04:56,520
+ el siete de enero cuál es su obligación: hacer la disolución, dice, con imparcialid
+
+67
+00:04:44,738 --> 00:04:56,520
+ad.
+
+68
+00:04:58,019 --> 00:05:02,024
+Y aquí aparece la primera pieza que casi nadie explica.
+
+69
+00:05:02,024 --> 00:05:03,262
+La ley electoral.
+
+70
+00:05:03,262 --> 00:05:07,995
+En mil novecientos treinta y seis no se votaba a listas cerradas.
+
+71
+00:05:07,995 --> 00:05:14,766
+Cada provincia elegía varios diputados, y cada elector podía votar solo a una parte 
+
+72
+00:05:07,995 --> 00:05:14,766
+de ellos.
+
+73
+00:05:14,766 --> 00:05:20,154
+El bloque más votado se llevaba la mayoría de los escaños de la provincia.
+
+74
+00:05:20,154 --> 00:05:21,829
+El segundo, la minoría.
+
+75
+00:05:21,829 --> 00:05:27,581
+Y si nadie alcanzaba el cuarenta por ciento de los votos, había segunda vuelta.
+
+76
+00:05:27,581 --> 00:05:30,566
+El resultado era un sistema muy sensible.
+
+77
+00:05:30,566 --> 00:05:36,901
+Unos pocos miles de votos en una provincia podían mover diez escaños de un lado a ot
+
+78
+00:05:30,566 --> 00:05:36,901
+ro.
+
+79
+00:05:36,901 --> 00:05:42,798
+Y eso significa algo muy concreto: no hacía falta cambiar el voto de toda España.
+
+80
+00:05:42,798 --> 00:05:47,022
+Bastaba con cambiar el resultado de unas pocas provincias.
+
+81
+00:05:48,520 --> 00:06:00,225
+La versión oficial dice que el Frente Popular ganó por un margen estrecho en votos, 
+
+82
+00:05:48,520 --> 00:06:00,225
+y que el sistema convirtió esa ventaja en una mayoría holgada de escaños.
+
+83
+00:06:00,225 --> 00:06:02,908
+Es lo que se lee en muchos manuales.
+
+84
+00:06:02,908 --> 00:06:04,548
+Y una parte es cierta.
+
+85
+00:06:04,548 --> 00:06:25,646
+Pero en dos mil diecisiete, dos historiadores de la Universidad Rey Juan Carlos, Man
+
+86
+00:06:04,548 --> 00:06:25,646
+uel Álvarez Tardío y Roberto Villa García, publicaron un libro de más de seiscientas
+
+87
+00:06:04,548 --> 00:06:25,646
+ páginas tras revisar, provincia por provincia, las actas de escrutinio, los boletin
+
+88
+00:06:04,548 --> 00:06:25,646
+es oficiales y la prensa local.
+
+89
+00:06:25,646 --> 00:06:27,658
+Su conclusión era incómoda.
+
+90
+00:06:27,658 --> 00:06:30,789
+La votación, dicen, fue en general limpia.
+
+91
+00:06:30,789 --> 00:06:33,548
+Lo que no fue limpio fue el recuento.
+
+92
+00:06:33,548 --> 00:06:39,884
+Y para entender por qué, hay que mirar dos momentos que los manuales suelen saltarse
+
+93
+00:06:33,548 --> 00:06:39,884
+.
+
+94
+00:06:39,884 --> 00:06:44,730
+Las cuarenta y ocho horas que siguieron al diecinueve de febrero.
+
+95
+00:06:44,730 --> 00:06:48,606
+Y lo que pasó después, en una comisión del Congreso.
+
+96
+00:07:16,107 --> 00:07:18,129
+Antes de seguir, una palabra.
+
+97
+00:07:18,129 --> 00:07:18,826
+Pucherazo.
+
+98
+00:07:18,826 --> 00:07:27,471
+En España se usa desde el siglo diecinueve, en tiempos de la Restauración, cuando la
+
+99
+00:07:18,826 --> 00:07:27,471
+s elecciones se decidían antes de votar.
+
+100
+00:07:27,471 --> 00:07:40,508
+La explicación más extendida es que, en algunos pueblos, las papeletas se guardaban 
+
+101
+00:07:27,471 --> 00:07:40,508
+en pucheros de barro, y que en esos pucheros entraban y salían votos según convinier
+
+102
+00:07:27,471 --> 00:07:40,508
+a al cacique local.
+
+103
+00:07:40,508 --> 00:07:48,177
+Con el tiempo, la palabra dejó de referirse al puchero y pasó a designar cualquier m
+
+104
+00:07:40,508 --> 00:07:48,177
+anipulación del resultado.
+
+105
+00:07:48,177 --> 00:07:51,663
+No hace falta llenar una urna de papeletas falsas.
+
+106
+00:07:51,663 --> 00:07:53,475
+Basta con cambiar un acta.
+
+107
+00:07:53,475 --> 00:07:55,079
+Con no contar una mesa.
+
+108
+00:07:55,079 --> 00:07:56,752
+O con anular la de otro.
+
+109
+00:07:56,752 --> 00:08:02,468
+Y esa es, exactamente, la acusación que pesa sobre mil novecientos treinta y seis.
+
+110
+00:08:25,967 --> 00:08:27,907
+La campaña empieza en enero.
+
+111
+00:08:27,907 --> 00:08:31,926
+Y desde el primer día se parece poco a una campaña normal.
+
+112
+00:08:31,926 --> 00:08:37,884
+En la Puerta del Sol, la CEDA cuelga un cartel gigantesco con el rostro de Gil-Roble
+
+113
+00:08:31,926 --> 00:08:37,884
+s.
+
+114
+00:08:37,884 --> 00:08:42,110
+El lema de la campaña es un desafío:  ¡A por los trescientos!
+
+115
+00:08:42,110 --> 00:08:43,635
+Trescientos diputados.
+
+116
+00:08:43,635 --> 00:08:47,237
+Una mayoría que permitiera reformar la Constitución.
+
+117
+00:08:47,237 --> 00:08:59,570
+Al otro lado, el Frente Popular promete la amnistía para los presos de octubre del t
+
+118
+00:08:47,237 --> 00:08:59,570
+reinta y cuatro, la readmisión de los despedidos y la vuelta a las reformas del prim
+
+119
+00:08:47,237 --> 00:08:59,570
+er bienio.
+
+120
+00:08:59,570 --> 00:09:01,718
+La amnistía es su gran bandera.
+
+121
+00:09:01,718 --> 00:09:06,845
+Para miles de familias, votar es la forma de sacar a alguien de la cárcel.
+
+122
+00:09:08,345 --> 00:09:11,713
+Pero el tono de la campaña lo marcan las palabras.
+
+123
+00:09:11,713 --> 00:09:14,272
+Y algunas de ellas pesan como piedras.
+
+124
+00:09:14,272 --> 00:09:24,983
+En enero de mil novecientos treinta y seis, en plena campaña, el líder socialista Fr
+
+125
+00:09:14,272 --> 00:09:24,983
+ancisco Largo Caballero lanza una advertencia desde la tribuna de un mitin.
+
+126
+00:09:25,883 --> 00:09:33,624
+«Si triunfan las derechas, no habrá remisión: tendremos que ir forzosamente a la gue
+
+127
+00:09:25,883 --> 00:09:33,624
+rra civil declarada.»
+
+128
+00:09:34,625 --> 00:09:36,479
+No era una frase aislada.
+
+129
+00:09:36,479 --> 00:09:46,269
+La izquierda revolucionaria hablaba de conquistar el poder, y la derecha monárquica 
+
+130
+00:09:36,479 --> 00:09:46,269
+soñaba abiertamente con acabar con la República.
+
+131
+00:09:46,269 --> 00:09:49,680
+Unos y otros se acusaban de preparar un golpe.
+
+132
+00:09:49,680 --> 00:09:52,870
+Y unos y otros tenían motivos para creerlo.
+
+133
+00:09:52,870 --> 00:09:55,243
+La violencia acompaña cada acto.
+
+134
+00:09:55,243 --> 00:10:00,583
+Mítines reventados a pedradas, disparos en los pueblos, sedes asaltadas.
+
+135
+00:10:00,583 --> 00:10:06,887
+Los propios Álvarez Tardío y Villa cuentan cuarenta y una muertes durante la campaña
+
+136
+00:10:00,583 --> 00:10:06,887
+.
+
+137
+00:10:06,887 --> 00:10:15,565
+Otros estudios, como el de Eduardo González Calleja, rebajan la cifra a unas treinta
+
+138
+00:10:06,887 --> 00:10:15,565
+ hasta la víspera de la votación.
+
+139
+00:10:15,565 --> 00:10:18,309
+Ninguna de las dos cifras es pequeña.
+
+140
+00:10:18,309 --> 00:10:23,798
+Y sin embargo, el día de la votación, ocurre algo que casi nadie esperaba.
+
+141
+00:10:25,298 --> 00:10:35,332
+Para proteger la votación, el Gobierno de Portela despliega a unos treinta y cuatro 
+
+142
+00:10:25,298 --> 00:10:35,332
+mil guardias civiles y diecisiete mil guardias de asalto.
+
+143
+00:10:35,332 --> 00:10:37,965
+Una cifra que da la medida del miedo.
+
+144
+00:10:37,965 --> 00:10:40,527
+Y hay un dato que cambia el tablero.
+
+145
+00:10:40,527 --> 00:10:46,006
+Por primera vez, la CNT, el gran sindicato anarquista, no pide la abstención.
+
+146
+00:10:46,006 --> 00:10:52,340
+En mil novecientos treinta y tres, la abstención anarquista había hundido a la izqui
+
+147
+00:10:46,006 --> 00:10:52,340
+erda.
+
+148
+00:10:52,340 --> 00:10:57,962
+En mil novecientos treinta y seis, cientos de miles de libertarios van a votar.
+
+149
+00:10:57,962 --> 00:10:59,457
+La razón es sencilla.
+
+150
+00:10:59,457 --> 00:11:03,228
+Muchos de sus militantes siguen presos desde octubre.
+
+151
+00:11:03,228 --> 00:11:06,075
+Y el Frente Popular promete la amnistía.
+
+152
+00:11:06,075 --> 00:11:08,993
+Así llega España al dieciséis de febrero.
+
+153
+00:11:08,993 --> 00:11:14,188
+Con dos bloques que se acusan mutuamente de querer destruir la República.
+
+154
+00:11:14,188 --> 00:11:16,465
+Con un centro casi desaparecido.
+
+155
+00:11:16,465 --> 00:11:19,738
+Y con un Gobierno que no tiene partido detrás.
+
+156
+00:11:21,239 --> 00:11:26,846
+El domingo dieciséis de febrero, los colegios abren a las ocho de la mañana.
+
+157
+00:11:26,846 --> 00:11:29,872
+Más de nueve millones de españoles votan.
+
+158
+00:11:29,872 --> 00:11:36,070
+Una participación cercana al setenta y tres por ciento, la más alta de la República.
+
+159
+00:11:36,070 --> 00:11:43,080
+Y, con incidentes graves en algunos lugares, la jornada transcurre con una normalida
+
+160
+00:11:36,070 --> 00:11:43,080
+d relativa.
+
+161
+00:11:43,080 --> 00:11:50,680
+Ni siquiera los autores que defienden la tesis del fraude dicen que se robara la ele
+
+162
+00:11:43,080 --> 00:11:50,680
+cción en las urnas.
+
+163
+00:11:50,680 --> 00:11:54,000
+Ese es el primer mito que conviene desmontar.
+
+164
+00:11:54,000 --> 00:11:58,944
+El pucherazo del treinta y seis, si lo hubo, no ocurrió el domingo.
+
+165
+00:11:58,944 --> 00:12:00,125
+Ocurrió después.
+
+166
+00:12:43,625 --> 00:12:45,095
+Domingo por la noche.
+
+167
+00:12:45,095 --> 00:12:52,026
+Los resultados llegan a cuentagotas, por telégrafo y por teléfono, desde cada capita
+
+168
+00:12:45,095 --> 00:12:52,026
+l de provincia.
+
+169
+00:12:52,026 --> 00:12:55,387
+En Madrid, la capital, el Frente Popular arrasa.
+
+170
+00:12:55,387 --> 00:12:56,787
+En Cataluña también.
+
+171
+00:12:56,787 --> 00:13:00,848
+Pero en el centro y el norte rural, las derechas resisten.
+
+172
+00:13:00,848 --> 00:13:07,289
+A las ocho de la tarde, el ministro de la Gobernación da ventaja a las derechas y el
+
+173
+00:13:00,848 --> 00:13:07,289
+ centro.
+
+174
+00:13:07,289 --> 00:13:16,671
+Horas después, el propio Portela habla por la radio y empieza a reconocer victorias 
+
+175
+00:13:07,289 --> 00:13:16,671
+de la izquierda en algunos lugares, como Cataluña.
+
+176
+00:13:16,671 --> 00:13:19,751
+Y entonces la calle se adelanta al recuento.
+
+177
+00:13:19,751 --> 00:13:27,033
+En varias ciudades, multitudes del Frente Popular celebran una victoria que todavía 
+
+178
+00:13:19,751 --> 00:13:27,033
+nadie ha proclamado.
+
+179
+00:13:27,033 --> 00:13:32,143
+En algunas cárceles, los presos de octubre salen sin esperar la amnistía.
+
+180
+00:13:33,644 --> 00:13:41,188
+Esa misma madrugada, según el relato que el propio Portela dejó después, dos hombres
+
+181
+00:13:33,644 --> 00:13:41,188
+ le piden lo mismo.
+
+182
+00:13:41,188 --> 00:13:45,216
+Primero, José María Gil-Robles, el líder de la derecha.
+
+183
+00:13:45,216 --> 00:13:50,197
+Después, el general Francisco Franco, jefe del Estado Mayor Central.
+
+184
+00:13:50,197 --> 00:13:53,786
+Los dos le proponen declarar el estado de guerra.
+
+185
+00:13:53,786 --> 00:13:55,324
+Suspender el proceso.
+
+186
+00:13:55,324 --> 00:13:57,888
+Gobernar con poderes excepcionales.
+
+187
+00:13:57,888 --> 00:13:59,133
+Portela se niega.
+
+188
+00:13:59,133 --> 00:14:13,929
+Este dato es esencial, y no siempre aparece en los relatos que defienden la tesis de
+
+189
+00:13:59,133 --> 00:14:13,929
+l fraude: mientras unos llenaban la calle, otros, en los despachos, ya pensaban en d
+
+190
+00:13:59,133 --> 00:14:13,929
+etener el resultado por la fuerza.
+
+191
+00:14:13,929 --> 00:14:16,785
+Portela no hace ni una cosa ni la otra.
+
+192
+00:14:16,785 --> 00:14:18,836
+Declara el estado de alarma.
+
+193
+00:14:18,836 --> 00:14:19,495
+Y espera.
+
+194
+00:14:20,995 --> 00:14:22,278
+Lunes diecisiete.
+
+195
+00:14:22,278 --> 00:14:23,561
+Martes dieciocho.
+
+196
+00:14:23,561 --> 00:14:25,222
+Los disturbios crecen.
+
+197
+00:14:25,222 --> 00:14:29,072
+Se queman iglesias y sedes de partidos de derechas.
+
+198
+00:14:29,072 --> 00:14:31,563
+Hay muertos en varias provincias.
+
+199
+00:14:31,563 --> 00:14:39,263
+Muchos gobernadores civiles nombrados por Portela no saben qué hacer, y algunos aban
+
+200
+00:14:31,563 --> 00:14:39,263
+donan sus puestos.
+
+201
+00:14:39,263 --> 00:14:43,717
+Y el miércoles diecinueve de febrero, ocurre lo impensable.
+
+202
+00:14:43,717 --> 00:14:53,757
+Manuel Portela Valladares, el hombre encargado de garantizar el recuento, acude al p
+
+203
+00:14:43,717 --> 00:14:53,757
+residente de la República y presenta su dimisión.
+
+204
+00:14:53,757 --> 00:14:56,475
+El recuento oficial no ha terminado.
+
+205
+00:14:56,475 --> 00:15:01,457
+Las juntas provinciales todavía no han proclamado a los diputados.
+
+206
+00:15:01,457 --> 00:15:04,402
+Y quedan segundas vueltas por celebrar.
+
+207
+00:15:05,903 --> 00:15:07,474
+¿Por qué se va Portela?
+
+208
+00:15:07,474 --> 00:15:10,823
+Es una de las grandes preguntas de esta historia.
+
+209
+00:15:10,823 --> 00:15:16,085
+La versión de los defensores de la tesis del fraude es que dimitió por miedo.
+
+210
+00:15:16,085 --> 00:15:28,728
+Que la presión de la calle, los asaltos y los rumores de revolución le hicieron aban
+
+211
+00:15:16,085 --> 00:15:28,728
+donar antes de tiempo, y que con él cayó la única autoridad neutral que podía garant
+
+212
+00:15:16,085 --> 00:15:28,728
+izar el recuento.
+
+213
+00:15:28,728 --> 00:15:31,461
+Sus críticos dan la vuelta al argumento.
+
+214
+00:15:31,461 --> 00:15:43,967
+Para ellos, Portela ya conocía el resultado cuando dimitió, y lo que de verdad le as
+
+215
+00:15:31,461 --> 00:15:43,967
+ustó no fue la izquierda, sino la presión de los militares y de la derecha para que 
+
+216
+00:15:31,461 --> 00:15:43,967
+diera un golpe.
+
+217
+00:15:43,967 --> 00:15:50,596
+Gil-Robles, en sus memorias, sugirió incluso un posible pacto de Portela con los rev
+
+218
+00:15:43,967 --> 00:15:50,596
+olucionarios.
+
+219
+00:15:50,596 --> 00:15:53,262
+Tres explicaciones para un mismo gesto.
+
+220
+00:15:53,262 --> 00:15:55,995
+Pero el efecto fue el mismo en las tres.
+
+221
+00:15:55,995 --> 00:16:00,301
+El recuento quedó en manos del adversario de una de las partes.
+
+222
+00:16:01,800 --> 00:16:04,527
+¿Cuál era el resultado en ese momento?
+
+223
+00:16:04,527 --> 00:16:08,474
+Aquí empieza la verdadera batalla de los historiadores.
+
+224
+00:16:08,474 --> 00:16:18,593
+Según los cálculos de Álvarez Tardío y Villa, cuando Portela dimite, el Frente Popul
+
+225
+00:16:08,474 --> 00:16:18,593
+ar tiene asegurados unos ciento noventa y ocho diputados.
+
+226
+00:16:18,593 --> 00:16:21,464
+Las derechas, unos ciento sesenta y uno.
+
+227
+00:16:21,464 --> 00:16:24,622
+Y quedan ciento catorce escaños por decidir.
+
+228
+00:16:24,622 --> 00:16:25,698
+Ciento catorce.
+
+229
+00:16:25,698 --> 00:16:27,851
+Una cuarta parte de la Cámara.
+
+230
+00:16:27,851 --> 00:16:42,851
+Sus críticos, González Calleja y Sánchez Pérez, responden con otra fuente: el diario
+
+231
+00:16:27,851 --> 00:16:42,851
+ ABC, nada sospechoso de simpatías izquierdistas, atribuía esa misma tarde unos dosc
+
+232
+00:16:27,851 --> 00:16:42,851
+ientos treinta escaños al Frente Popular.
+
+233
+00:16:42,851 --> 00:16:48,233
+Muy cerca de la mayoría absoluta, que estaba en doscientos treinta y siete.
+
+234
+00:16:48,233 --> 00:16:51,535
+Las dos cifras no pueden ser ciertas a la vez.
+
+235
+00:16:51,535 --> 00:16:56,846
+Y la diferencia entre una y otra es, exactamente, el corazón de este caso.
+
+236
+00:16:58,346 --> 00:17:00,984
+Portela entrega el poder sin esperar.
+
+237
+00:17:00,984 --> 00:17:08,758
+Y antes de irse, según contó el socialista Juan Simeón Vidarte, le dedica una frase 
+
+238
+00:17:00,984 --> 00:17:08,758
+que resume aquellos días.
+
+239
+00:17:09,657 --> 00:17:13,592
+«Reciben ustedes el poder con el tigre a la puerta.»
+
+240
+00:17:14,592 --> 00:17:20,234
+Esa misma tarde del diecinueve, Alcalá-Zamora encarga el Gobierno a Manuel Azaña.
+
+241
+00:17:20,234 --> 00:17:29,010
+Es un Gobierno solo de republicanos de izquierda, sin socialistas, que se compromete
+
+242
+00:17:20,234 --> 00:17:29,010
+ a cumplir el programa del Frente Popular.
+
+243
+00:17:29,010 --> 00:17:33,537
+Y el nuevo Gobierno hace lo que hacen todos los gobiernos nuevos.
+
+244
+00:17:33,537 --> 00:17:35,905
+Nombra a sus gobernadores civiles.
+
+245
+00:17:35,905 --> 00:17:38,552
+Pero este no es un momento cualquiera.
+
+246
+00:17:38,552 --> 00:17:48,721
+Al día siguiente, jueves veinte de febrero, las juntas provinciales de escrutinio de
+
+247
+00:17:38,552 --> 00:17:48,721
+ben reunirse para sumar las actas y proclamar a los diputados.
+
+248
+00:17:48,721 --> 00:17:54,014
+Y las actas, en muchas provincias, están guardadas en los gobiernos civiles.
+
+249
+00:17:55,514 --> 00:17:57,999
+Las horas que siguen son de vértigo.
+
+250
+00:17:57,999 --> 00:18:02,967
+Muchos gobernadores civiles nombrados por Portela dimiten o desaparecen.
+
+251
+00:18:02,967 --> 00:18:13,249
+En numerosas capitales, dirigentes locales del Frente Popular ocupan los gobiernos c
+
+252
+00:18:02,967 --> 00:18:13,249
+iviles, las diputaciones provinciales y cientos de ayuntamientos.
+
+253
+00:18:13,249 --> 00:18:19,321
+Algunos de esos ayuntamientos habían sido suspendidos tras octubre del treinta y cua
+
+254
+00:18:13,249 --> 00:18:19,321
+tro.
+
+255
+00:18:19,321 --> 00:18:21,874
+Otros, simplemente, cambian de manos.
+
+256
+00:18:21,874 --> 00:18:26,153
+Las cárceles se abren antes de que exista una ley de amnistía.
+
+257
+00:18:26,153 --> 00:18:35,675
+Esa ley llegará el veintiuno de febrero, aprobada por la Diputación Permanente de la
+
+258
+00:18:26,153 --> 00:18:35,675
+s Cortes,  con el voto, por cierto, de la propia CEDA.
+
+259
+00:18:35,675 --> 00:18:38,021
+Y en la calle, la violencia sigue.
+
+260
+00:18:38,021 --> 00:18:43,404
+Entre el diecinueve y el veinte de febrero mueren al menos dieciséis personas.
+
+261
+00:18:43,404 --> 00:18:56,515
+Un dato que los críticos de la tesis del fraude subrayan, y que los propios autores 
+
+262
+00:18:43,404 --> 00:18:56,515
+reconocen: la mayoría de esas muertes las causaron las fuerzas de orden público al r
+
+263
+00:18:43,404 --> 00:18:56,515
+eprimir las protestas.
+
+264
+00:19:48,014 --> 00:19:51,558
+Hasta aquí, la pregunta era quién había ganado.
+
+265
+00:19:51,558 --> 00:19:54,951
+A partir de este momento, la pregunta cambia.
+
+266
+00:19:54,951 --> 00:19:58,193
+Ahora la pregunta es quién tenía las actas.
+
+267
+00:19:58,193 --> 00:19:59,776
+Y qué hizo con ellas.
+
+268
+00:19:59,776 --> 00:20:10,558
+El primer gran estudio de estas elecciones lo publicó el historiador Javier Tusell e
+
+269
+00:19:59,776 --> 00:20:10,558
+n mil novecientos setenta y uno, todavía en vida de Franco.
+
+270
+00:20:10,558 --> 00:20:24,959
+Casi medio siglo después, Álvarez Tardío y Villa volvieron a los mismos papeles con 
+
+271
+00:20:10,558 --> 00:20:24,959
+una pregunta distinta: no quién votó a quién, sino qué pasó en cada junta provincial
+
+272
+00:20:10,558 --> 00:20:24,959
+ durante aquellos días.
+
+273
+00:20:24,959 --> 00:20:37,173
+Compararon los resultados publicados, las protestas presentadas, las actas notariale
+
+274
+00:20:24,959 --> 00:20:37,173
+s levantadas por los candidatos y los datos que cada provincia envió a Madrid.
+
+275
+00:20:37,173 --> 00:20:38,757
+Su tesis es concreta.
+
+276
+00:20:38,757 --> 00:20:41,697
+El fraude no fue masivo en toda España.
+
+277
+00:20:41,697 --> 00:20:42,828
+Fue quirúrgico.
+
+278
+00:20:42,828 --> 00:20:49,312
+Se concentró en un puñado de provincias donde muy pocos votos decidían muchos escaño
+
+279
+00:20:42,828 --> 00:20:49,312
+s.
+
+280
+00:20:49,312 --> 00:20:53,308
+Y vamos a seguir ese rastro, provincia por provincia.
+
+281
+00:20:54,808 --> 00:21:02,114
+Para entender lo que pudo pasar, hay que saber cómo se contaba un voto en mil noveci
+
+282
+00:20:54,808 --> 00:21:02,114
+entos treinta y seis.
+
+283
+00:21:02,114 --> 00:21:10,464
+Cada mesa electoral, al cerrar, contaba sus papeletas y levantaba un acta firmada po
+
+284
+00:21:02,114 --> 00:21:10,464
+r el presidente y los interventores.
+
+285
+00:21:10,464 --> 00:21:13,873
+Esas actas viajaban a la capital de la provincia.
+
+286
+00:21:13,873 --> 00:21:21,944
+Allí, el jueves siguiente a la votación, una junta provincial de escrutinio las suma
+
+287
+00:21:13,873 --> 00:21:21,944
+ba y proclamaba a los diputados.
+
+288
+00:21:21,944 --> 00:21:30,015
+Los candidatos podían presentar protestas, y muchos llevaban notarios para levantar 
+
+289
+00:21:21,944 --> 00:21:30,015
+acta de cualquier irregularidad.
+
+290
+00:21:30,015 --> 00:21:35,442
+Es un sistema que funciona si nadie toca los papeles entre la mesa y la junta.
+
+291
+00:21:35,442 --> 00:21:41,147
+El problema es lo que ocurre cuando, entre la mesa y la junta, cambia el Gobierno.
+
+292
+00:21:42,647 --> 00:21:43,702
+Primera parada.
+
+293
+00:21:43,702 --> 00:21:44,334
+A Coruña.
+
+294
+00:21:44,334 --> 00:21:49,817
+Es una de las provincias más pobladas de España, y elige diecisiete diputados.
+
+295
+00:21:49,817 --> 00:22:01,414
+En febrero de mil novecientos treinta y seis, entre los candidatos del Frente Popula
+
+296
+00:21:49,817 --> 00:22:01,414
+r está Santiago Casares Quiroga, uno de los hombres de máxima confianza de Azaña.
+
+297
+00:22:01,414 --> 00:22:15,119
+Según Álvarez Tardío y Villa, los datos que circulaban tras la votación daban la may
+
+298
+00:22:01,414 --> 00:22:15,119
+oría en A Coruña a las candidaturas de derecha y centro: doce escaños para ellas, ci
+
+299
+00:22:01,414 --> 00:22:15,119
+nco para el Frente Popular.
+
+300
+00:22:15,119 --> 00:22:24,186
+Y el diecinueve de febrero, con el Gobierno de Azaña ya formado, el nuevo gobernador
+
+301
+00:22:15,119 --> 00:22:24,186
+ civil interviene la documentación electoral.
+
+302
+00:22:24,186 --> 00:22:30,301
+Cuando la junta provincial proclama a los diputados, el resultado se ha dado la vuel
+
+303
+00:22:24,186 --> 00:22:30,301
+ta.
+
+304
+00:22:30,301 --> 00:22:32,902
+Trece escaños para el Frente Popular.
+
+305
+00:22:32,902 --> 00:22:34,869
+Cuatro para sus adversarios.
+
+306
+00:22:36,369 --> 00:22:37,467
+Trece a cuatro.
+
+307
+00:22:37,467 --> 00:22:39,003
+Con los mismos votos.
+
+308
+00:22:39,003 --> 00:22:42,515
+¿Es solo la interpretación de dos historiadores?
+
+309
+00:22:42,515 --> 00:22:43,393
+No del todo.
+
+310
+00:22:43,393 --> 00:22:51,661
+Porque, semanas después, la persona que más motivos tenía para defender esas actas d
+
+311
+00:22:43,393 --> 00:22:51,661
+ijo exactamente lo contrario.
+
+312
+00:22:51,661 --> 00:22:54,075
+Esa persona era Indalecio Prieto.
+
+313
+00:22:54,075 --> 00:23:02,050
+Socialista, uno de los hombres fuertes del Frente Popular, y presidente de la Comisi
+
+314
+00:22:54,075 --> 00:23:02,050
+ón de Actas del Congreso.
+
+315
+00:23:02,050 --> 00:23:18,512
+Las actas de las reuniones del grupo parlamentario socialista, que hoy se conservan 
+
+316
+00:23:02,050 --> 00:23:18,512
+en el archivo de la Fundación Pablo Iglesias, recogen lo que Prieto dijo a sus compa
+
+317
+00:23:02,050 --> 00:23:18,512
+ñeros el veintiséis de marzo sobre las actas de A Coruña.
+
+318
+00:23:19,413 --> 00:23:22,116
+«Absolutamente indefendibles.»
+
+319
+00:23:23,116 --> 00:23:25,035
+Absolutamente indefendibles.
+
+320
+00:23:25,035 --> 00:23:27,569
+Y Prieto no se quedó en las palabras.
+
+321
+00:23:27,569 --> 00:23:37,365
+El treinta y uno de marzo, comunicó a su grupo que dimitía como presidente de la Com
+
+322
+00:23:27,569 --> 00:23:37,365
+isión de Actas, porque se oponía a validar las de A Coruña.
+
+323
+00:23:37,365 --> 00:23:41,612
+Las mismas actas que convertían a Casares Quiroga en diputado.
+
+324
+00:23:41,612 --> 00:23:44,421
+Sus críticos discuten casi todo lo demás.
+
+325
+00:23:44,421 --> 00:23:56,957
+El historiador José Luis Martín Ramos, que ha revisado esas mismas actas socialistas
+
+326
+00:23:44,421 --> 00:23:56,957
+, sostiene que la dimisión de Prieto también tuvo que ver con las tensiones internas
+
+327
+00:23:44,421 --> 00:23:56,957
+ de su partido.
+
+328
+00:23:56,957 --> 00:23:57,642
+Puede ser.
+
+329
+00:23:57,642 --> 00:23:59,217
+Pero la frase está ahí.
+
+330
+00:23:59,217 --> 00:24:04,766
+Y quedó recogida en las actas de su propio grupo, no en un periódico de derechas.
+
+331
+00:24:04,766 --> 00:24:07,438
+Las actas de A Coruña fueron validadas.
+
+332
+00:24:07,438 --> 00:24:08,397
+Prieto se fue.
+
+333
+00:24:08,397 --> 00:24:10,726
+Y Casares Quiroga ocupó su escaño.
+
+334
+00:24:10,726 --> 00:24:14,904
+Mes y medio después, sería presidente del Gobierno de España.
+
+335
+00:24:50,404 --> 00:24:51,629
+Segunda parada.
+
+336
+00:24:51,629 --> 00:24:52,282
+Cáceres.
+
+337
+00:24:52,282 --> 00:24:58,404
+Aquí el problema no es una sola noche, sino dos recuentos que no coinciden.
+
+338
+00:24:58,404 --> 00:25:06,975
+Según Álvarez Tardío y Villa, el resultado real daba tres escaños al Frente Popular 
+
+339
+00:24:58,404 --> 00:25:06,975
+y seis a sus rivales.
+
+340
+00:25:06,975 --> 00:25:14,729
+La junta provincial proclamó lo contrario: siete para el Frente Popular, dos para la
+
+341
+00:25:06,975 --> 00:25:14,729
+s derechas.
+
+342
+00:25:14,729 --> 00:25:17,586
+Sus críticos no lo niegan del todo.
+
+343
+00:25:17,586 --> 00:25:25,095
+Recuerdan que el historiador Ayala Vicente encontró en Cáceres dos cómputos contradi
+
+344
+00:25:17,586 --> 00:25:25,095
+ctorios.
+
+345
+00:25:25,095 --> 00:25:32,034
+Y que, ante esa contradicción, lo que procedía, a su juicio, era repetir la elección
+
+346
+00:25:25,095 --> 00:25:32,034
+.
+
+347
+00:25:32,034 --> 00:25:33,585
+Pero no se repitió.
+
+348
+00:25:33,585 --> 00:25:37,013
+Las actas de Cáceres llegaron al Congreso.
+
+349
+00:25:37,013 --> 00:25:38,401
+Y nadie las tocó.
+
+350
+00:25:39,900 --> 00:25:41,115
+Y la lista sigue.
+
+351
+00:25:41,115 --> 00:25:51,830
+Los autores señalan irregularidades en la provincia de Valencia, en Santa Cruz de Te
+
+352
+00:25:41,115 --> 00:25:51,830
+nerife, en Las Palmas, en Lugo, en Málaga, en Jaén, en Pontevedra.
+
+353
+00:25:51,830 --> 00:25:52,759
+Pero cuidado.
+
+354
+00:25:52,759 --> 00:26:01,188
+Porque aquí aparece la otra cara de la moneda, la que los defensores de la tesis del
+
+355
+00:25:52,759 --> 00:26:01,188
+ fraude suelen contar más deprisa.
+
+356
+00:26:01,188 --> 00:26:08,545
+En Galicia, los gobernadores de Portela habían trabajado a fondo para su propio part
+
+357
+00:26:01,188 --> 00:26:08,545
+ido, el del centro.
+
+358
+00:26:08,545 --> 00:26:16,046
+Y en Pontevedra, el propio Portela salió elegido en unas condiciones que sus rivales
+
+359
+00:26:08,545 --> 00:26:16,046
+ también denunciaron.
+
+360
+00:26:16,046 --> 00:26:21,261
+El fraude, en mil novecientos treinta y seis, no era patrimonio de nadie.
+
+361
+00:26:21,261 --> 00:26:23,618
+Era una vieja costumbre española.
+
+362
+00:26:23,618 --> 00:26:28,975
+Tan vieja, que tenía nombre propio desde el siglo diecinueve: el pucherazo.
+
+363
+00:26:30,474 --> 00:26:34,281
+Y es aquí donde hay que desmontar el segundo mito.
+
+364
+00:26:34,281 --> 00:26:37,098
+El de que solo un bando hizo trampas.
+
+365
+00:26:37,098 --> 00:26:51,563
+En Granada, por ejemplo, el historiador López Martínez documentó, en las elecciones 
+
+366
+00:26:37,098 --> 00:26:51,563
+de febrero, lo que él llama pucherazos puros en dieciocho pueblos, y fraudes técnico
+
+367
+00:26:37,098 --> 00:26:51,563
+s en otros veintiocho.
+
+368
+00:26:51,563 --> 00:26:54,228
+Pero no a favor del Frente Popular.
+
+369
+00:26:54,228 --> 00:26:56,055
+A favor de las derechas.
+
+370
+00:26:56,055 --> 00:27:00,166
+Caciques locales, alcaldes, coacciones en los pueblos.
+
+371
+00:27:00,166 --> 00:27:02,831
+Las derechas habían ganado Granada.
+
+372
+00:27:02,831 --> 00:27:08,008
+Y la izquierda lo denunció inmediatamente, con buena parte de razón.
+
+373
+00:27:08,008 --> 00:27:12,195
+De modo que la pregunta ya no puede ser si hubo fraude.
+
+374
+00:27:12,195 --> 00:27:14,251
+Lo hubo, por los dos lados.
+
+375
+00:27:14,251 --> 00:27:15,774
+La pregunta es otra.
+
+376
+00:27:15,774 --> 00:27:20,951
+Cuando llegó la hora de juzgar todas esas actas, ¿quién era el juez?
+
+377
+00:27:20,951 --> 00:27:22,016
+¿Y cómo juzgó?
+
+378
+00:28:18,516 --> 00:28:29,059
+Y mientras tanto, a principios de marzo, se celebran las segundas vueltas en las cir
+
+379
+00:28:18,516 --> 00:28:29,059
+cunscripciones donde nadie había alcanzado el cuarenta por ciento.
+
+380
+00:28:29,059 --> 00:28:39,391
+Esta vez, con el nuevo Gobierno ya instalado, con los nuevos gobernadores en sus des
+
+381
+00:28:29,059 --> 00:28:39,391
+pachos, y con muchos ayuntamientos en manos del Frente Popular.
+
+382
+00:28:39,391 --> 00:28:41,781
+Las derechas denuncian coacciones.
+
+383
+00:28:41,781 --> 00:28:43,748
+El Frente Popular las niega.
+
+384
+00:28:43,748 --> 00:28:49,441
+Y los escaños que salen de esas segundas vueltas engordan un poco más la mayoría.
+
+385
+00:28:49,441 --> 00:28:54,150
+Pero el gran escenario de esta historia todavía estaba por abrirse.
+
+386
+00:28:55,650 --> 00:28:58,560
+Marzo de mil novecientos treinta y seis.
+
+387
+00:28:58,560 --> 00:29:04,815
+Las nuevas Cortes se reúnen en el palacio del Congreso, en la carrera de San Jerónim
+
+388
+00:28:58,560 --> 00:29:04,815
+o.
+
+389
+00:29:04,815 --> 00:29:07,724
+Y su primera tarea es revisar las actas.
+
+390
+00:29:07,724 --> 00:29:20,888
+Es lo que manda el reglamento: antes de que los diputados tomen posesión, una comisi
+
+391
+00:29:07,724 --> 00:29:20,888
+ón elegida por la propia Cámara examina las protestas y decide qué actas son válidas
+
+392
+00:29:07,724 --> 00:29:20,888
+ y cuáles no.
+
+393
+00:29:20,888 --> 00:29:26,998
+Es decir: los diputados ya proclamados deciden sobre la elección de sus adversarios.
+
+394
+00:29:26,998 --> 00:29:31,070
+Y la mayoría de esa comisión la tiene el Frente Popular.
+
+395
+00:29:32,570 --> 00:29:34,584
+Las sesiones son durísimas.
+
+396
+00:29:34,584 --> 00:29:40,327
+Se discuten actas provincia por provincia, hasta altas horas de la madrugada.
+
+397
+00:29:40,327 --> 00:29:46,218
+Los diputados de la derecha presentan actas notariales, testimonios, denuncias.
+
+398
+00:29:46,218 --> 00:29:49,425
+Los del Frente Popular presentan las suyas.
+
+399
+00:29:49,425 --> 00:29:52,856
+España entera las sigue a través de la prensa.
+
+400
+00:29:52,856 --> 00:29:55,988
+Y cada periódico ve una elección distinta.
+
+401
+00:29:55,988 --> 00:29:57,629
+Y las decisiones caen.
+
+402
+00:29:57,629 --> 00:30:03,669
+Las elecciones de Granada, donde había ganado la derecha, se anulan por completo.
+
+403
+00:30:03,669 --> 00:30:09,412
+Las de Cuenca, donde también había ganado la derecha, se anulan por completo.
+
+404
+00:30:09,412 --> 00:30:17,242
+En Salamanca, la provincia de Gil-Robles, se quitan escaños a la derecha y se entreg
+
+405
+00:30:09,412 --> 00:30:17,242
+an al Frente Popular.
+
+406
+00:30:17,242 --> 00:30:24,999
+Mientras tanto, las actas discutidas de A Coruña y de Cáceres, favorables al Frente 
+
+407
+00:30:17,242 --> 00:30:24,999
+Popular, se validan.
+
+408
+00:30:26,500 --> 00:30:30,808
+Para el Frente Popular, la anulación de Granada era de justicia.
+
+409
+00:30:30,808 --> 00:30:36,800
+Su periódico, El Socialista, lo explicaba así en marzo de mil novecientos treinta y 
+
+410
+00:30:30,808 --> 00:30:36,800
+seis.
+
+411
+00:30:37,699 --> 00:30:52,119
+«Han sido tales los desmanes, atropellos, robo de actas, suplantaciones de sufragios
+
+412
+00:30:37,699 --> 00:30:52,119
+, que la Cámara por unanimidad ha de considerar que por decoro ciudadano las actas d
+
+413
+00:30:37,699 --> 00:30:52,119
+e Granada tienen que ser anuladas.»
+
+414
+00:30:53,119 --> 00:30:57,219
+Para la derecha, el problema era otro: la vara de medir.
+
+415
+00:30:57,219 --> 00:31:08,418
+El diario católico El Debate contaba, el tres de abril, cómo las actas de Orense, la
+
+416
+00:30:57,219 --> 00:31:08,418
+s de Calvo Sotelo, se aprobaban a las seis menos cuarto de la mañana.
+
+417
+00:31:08,418 --> 00:31:14,786
+Contra ellas, el diputado Ángel Galarza había esgrimido treinta y una actas notarial
+
+418
+00:31:08,418 --> 00:31:14,786
+es.
+
+419
+00:31:14,786 --> 00:31:15,884
+No prosperaron.
+
+420
+00:31:15,884 --> 00:31:23,277
+Y el periódico recogía la queja de un diputado de la derecha que comparaba ese caso 
+
+421
+00:31:15,884 --> 00:31:23,277
+con el de Cuenca.
+
+422
+00:31:24,177 --> 00:31:28,065
+«Con muchas menos actas se han anulado las elecciones de Cuenca.»
+
+423
+00:31:29,066 --> 00:31:30,237
+Dos periódicos.
+
+424
+00:31:30,237 --> 00:31:31,252
+Dos verdades.
+
+425
+00:31:31,252 --> 00:31:35,313
+Y una misma comisión decidiendo cuál de ellas valía.
+
+426
+00:31:35,313 --> 00:31:37,500
+Ese es el problema de fondo.
+
+427
+00:31:37,500 --> 00:31:42,810
+No que hubiera irregularidades, que las hubo en las dos direcciones.
+
+428
+00:31:42,810 --> 00:31:46,871
+Sino que nadie sabía con qué criterio se castigaban.
+
+429
+00:31:46,871 --> 00:31:50,619
+Y que quien decidía era, a la vez, juez y parte.
+
+430
+00:31:52,119 --> 00:31:55,088
+¿Fue la Comisión un tribunal imparcial?
+
+431
+00:31:55,088 --> 00:31:58,512
+Sus críticos más duros admiten que no lo fue.
+
+432
+00:31:58,512 --> 00:32:02,394
+Pero añaden algo importante: ninguna lo había sido.
+
+433
+00:32:02,394 --> 00:32:09,928
+Aquellas comisiones siempre eran partidistas, en todas las legislaturas, gobernara q
+
+434
+00:32:02,394 --> 00:32:09,928
+uien gobernara.
+
+435
+00:32:09,928 --> 00:32:11,602
+Y recuerdan otro dato.
+
+436
+00:32:11,602 --> 00:32:17,614
+La derecha, en protesta, abandonó la Comisión y llegó a retirarse de la Cámara.
+
+437
+00:32:17,614 --> 00:32:22,942
+El historiador Martín Ramos lo califica de irresponsabilidad política.
+
+438
+00:32:22,942 --> 00:32:25,682
+Y al marcharse, dejó el campo libre.
+
+439
+00:32:25,682 --> 00:32:30,019
+Pero hay un testigo que no era ni de un bando ni de otro.
+
+440
+00:32:30,019 --> 00:32:34,662
+Un hombre que lo vio todo desde el lugar más alto del Estado.
+
+441
+00:32:34,662 --> 00:32:37,325
+Y que, en privado, estaba alarmado.
+
+442
+00:32:38,826 --> 00:32:44,905
+Niceto Alcalá-Zamora, presidente de la República, sigue de cerca la revisión de las 
+
+443
+00:32:38,826 --> 00:32:44,905
+actas.
+
+444
+00:32:44,905 --> 00:32:54,225
+Y llega a advertir a Azaña de que, si se expulsa de la Cámara a los grandes líderes 
+
+445
+00:32:44,905 --> 00:32:54,225
+de la oposición, se habrá destruido el propio sistema.
+
+446
+00:32:54,225 --> 00:32:58,007
+Según Álvarez Tardío y Villa, su aviso a Azaña fue este.
+
+447
+00:32:58,906 --> 00:33:02,192
+«Habrá suprimido usted el régimen parlamentario.»
+
+448
+00:33:03,192 --> 00:33:04,460
+Y Azaña escuchó.
+
+449
+00:33:04,460 --> 00:33:12,941
+Las actas de Gil-Robles, en Salamanca, y de José Calvo Sotelo, el líder monárquico, 
+
+450
+00:33:04,460 --> 00:33:12,941
+en Orense, se salvaron.
+
+451
+00:33:12,941 --> 00:33:18,252
+Los dos hombres más odiados por la izquierda conservaron su escaño.
+
+452
+00:33:18,252 --> 00:33:23,087
+Los autores lo atribuyen en parte a la intervención de Azaña.
+
+453
+00:33:23,087 --> 00:33:26,575
+Pero las anulaciones no tenían vuelta atrás.
+
+454
+00:33:26,575 --> 00:33:30,380
+En Granada y en Cuenca había que votar de nuevo.
+
+455
+00:33:30,380 --> 00:33:37,435
+Y esta vez, el Gobierno, los gobernadores y los ayuntamientos ya eran del Frente Pop
+
+456
+00:33:30,380 --> 00:33:37,435
+ular.
+
+457
+00:34:04,933 --> 00:34:08,448
+Tres de mayo de mil novecientos treinta y seis.
+
+458
+00:34:08,448 --> 00:34:12,112
+Se repiten las elecciones en Granada y en Cuenca.
+
+459
+00:34:12,112 --> 00:34:17,122
+En Granada, la derecha, que denuncia no tener garantías, se retira.
+
+460
+00:34:17,122 --> 00:34:20,487
+El Frente Popular se lleva los trece escaños.
+
+461
+00:34:20,487 --> 00:34:21,609
+Trece de trece.
+
+462
+00:34:21,609 --> 00:34:24,899
+En Cuenca, la derecha intenta algo insólito.
+
+463
+00:34:24,899 --> 00:34:32,601
+En su candidatura incluye a José Antonio Primo de Rivera, el líder de Falange, que e
+
+464
+00:34:24,899 --> 00:34:32,601
+staba en la cárcel.
+
+465
+00:34:32,601 --> 00:34:38,210
+Y durante unos días, figura también el nombre del general Francisco Franco.
+
+466
+00:34:38,210 --> 00:34:43,519
+Franco acaba retirándose, y la candidatura de José Antonio no prospera.
+
+467
+00:34:43,519 --> 00:34:46,585
+El Frente Popular también gana en Cuenca.
+
+468
+00:34:46,585 --> 00:34:53,165
+Dos provincias que en febrero habían votado a la derecha pasan, en mayo, a la izquie
+
+469
+00:34:46,585 --> 00:34:53,165
+rda.
+
+470
+00:34:54,666 --> 00:34:56,735
+Sus críticos dan otra lectura.
+
+471
+00:34:56,735 --> 00:35:01,631
+Para Martín Ramos, el resultado de mayo no prueba un fraude de febrero.
+
+472
+00:35:01,631 --> 00:35:07,908
+Prueba, más bien, que una parte de la derecha ya había decidido otra cosa: la conspi
+
+473
+00:35:01,631 --> 00:35:07,908
+ración.
+
+474
+00:35:07,908 --> 00:35:17,150
+Una candidatura con un preso falangista y un general que poco después se sublevaría 
+
+475
+00:35:07,908 --> 00:35:17,150
+no era una candidatura para ganar unas elecciones.
+
+476
+00:35:17,150 --> 00:35:20,253
+Las dos lecturas pueden ser ciertas a la vez.
+
+477
+00:35:20,253 --> 00:35:23,012
+Lo que nadie discute es el número final.
+
+478
+00:35:23,012 --> 00:35:33,564
+Tras la proclamación de las juntas, las decisiones de la Comisión y la repetición de
+
+479
+00:35:23,012 --> 00:35:33,564
+ mayo, el Frente Popular llega a doscientos ochenta y seis diputados.
+
+480
+00:35:33,564 --> 00:35:35,840
+Una mayoría absoluta holgadísima.
+
+481
+00:35:35,840 --> 00:35:44,531
+Más de cincuenta escaños por encima de los que, según Álvarez Tardío y Villa, le hab
+
+482
+00:35:35,840 --> 00:35:44,531
+rían correspondido sin las manipulaciones.
+
+483
+00:36:24,030 --> 00:36:26,946
+Pero esta historia tiene un último giro.
+
+484
+00:36:26,946 --> 00:36:31,830
+Y su protagonista es el presidente que convocó aquellas elecciones.
+
+485
+00:36:31,830 --> 00:36:39,484
+El siete de abril de mil novecientos treinta y seis, las nuevas Cortes destituyen a 
+
+486
+00:36:31,830 --> 00:36:39,484
+Niceto Alcalá-Zamora.
+
+487
+00:36:39,484 --> 00:36:41,598
+El argumento es casi irónico.
+
+488
+00:36:41,598 --> 00:36:48,596
+La Constitución permitía destituir al presidente si disolvía las Cortes dos veces si
+
+489
+00:36:41,598 --> 00:36:48,596
+n necesidad.
+
+490
+00:36:48,596 --> 00:37:00,113
+Y la mayoría decidió que la segunda disolución, la que había permitido celebrar las 
+
+491
+00:36:48,596 --> 00:37:00,113
+elecciones que la propia mayoría acababa de ganar, había sido innecesaria.
+
+492
+00:37:00,113 --> 00:37:03,029
+Doscientos treinta y ocho votos a favor.
+
+493
+00:37:03,029 --> 00:37:04,195
+Cinco en contra.
+
+494
+00:37:04,195 --> 00:37:06,455
+Alcalá-Zamora sale del palacio.
+
+495
+00:37:06,455 --> 00:37:08,569
+Poco después, sale de España.
+
+496
+00:37:10,068 --> 00:37:14,406
+Cuando estalla la guerra, en julio, está de viaje fuera del país.
+
+497
+00:37:14,406 --> 00:37:25,284
+Y en enero de mil novecientos treinta y siete publica en un periódico suizo, el Jour
+
+498
+00:37:14,406 --> 00:37:25,284
+nal de Genève, varios artículos en los que cuenta su versión de aquellos meses.
+
+499
+00:37:25,284 --> 00:37:28,621
+Uno de sus párrafos sobre las elecciones dice así.
+
+500
+00:37:29,521 --> 00:37:41,581
+«El Frente Popular, sin esperar el fin del recuento del escrutinio y la proclamación
+
+501
+00:37:29,521 --> 00:37:41,581
+ de los resultados, desencadenó en la calle la ofensiva del desorden, reclamó el pod
+
+502
+00:37:29,521 --> 00:37:41,581
+er por medio de la violencia.»
+
+503
+00:37:42,581 --> 00:37:47,637
+Pero lo más importante de Alcalá-Zamora no estaba en los periódicos.
+
+504
+00:37:47,637 --> 00:37:49,273
+Estaba en sus diarios.
+
+505
+00:37:49,273 --> 00:37:58,197
+Durante los primeros meses de mil novecientos treinta y seis, el presidente anotó ca
+
+506
+00:37:49,273 --> 00:37:58,197
+da día lo que veía y lo que pensaba.
+
+507
+00:37:58,197 --> 00:38:09,947
+Antes de salir de Madrid, en julio de mil novecientos treinta y seis, su familia gua
+
+508
+00:37:58,197 --> 00:38:09,947
+rda esos papeles en dos cajas de seguridad del Crédit Lyonnais, en Madrid.
+
+509
+00:38:09,947 --> 00:38:16,565
+El trece de febrero de mil novecientos treinta y siete, agentes de policía se los ll
+
+510
+00:38:09,947 --> 00:38:16,565
+evan.
+
+511
+00:38:16,565 --> 00:38:20,060
+Y durante setenta años, nadie sabe dónde están.
+
+512
+00:38:20,060 --> 00:38:27,645
+En dos mil ocho, un hombre llama a un programa de radio diciendo que tiene los papel
+
+513
+00:38:20,060 --> 00:38:27,645
+es del presidente.
+
+514
+00:38:27,645 --> 00:38:32,479
+La Guardia Civil le tiende una trampa en Valencia y los recupera.
+
+515
+00:38:32,479 --> 00:38:38,874
+Se publican en dos mil once, con un título que ya lo dice todo: Asalto a la Repúblic
+
+516
+00:38:32,479 --> 00:38:38,874
+a.
+
+517
+00:38:40,375 --> 00:38:53,457
+En esos papeles, y en lo que escribió después, el presidente denuncia las irregulari
+
+518
+00:38:40,375 --> 00:38:53,457
+dades que, a su juicio, cometió la nueva mayoría al examinar las actas y en la segun
+
+519
+00:38:40,375 --> 00:38:53,457
+da vuelta.
+
+520
+00:38:53,457 --> 00:38:59,704
+Para él, la mayoría que salió de la Comisión no era la que habían decidido las urnas
+
+521
+00:38:53,457 --> 00:38:59,704
+.
+
+522
+00:38:59,704 --> 00:39:08,303
+Es el testimonio de un hombre que no era de derechas, que había traído la República 
+
+523
+00:38:59,704 --> 00:39:08,303
+y que no tenía ya nada que ganar.
+
+524
+00:39:08,303 --> 00:39:17,049
+Pero también es el testimonio de un hombre resentido, al que esas mismas Cortes acab
+
+525
+00:39:08,303 --> 00:39:17,049
+aban de expulsar de la presidencia.
+
+526
+00:39:17,049 --> 00:39:21,533
+Un buen investigador no puede ignorar ni una cosa ni la otra.
+
+527
+00:40:09,033 --> 00:40:10,043
+Recapitulemos.
+
+528
+00:40:10,043 --> 00:40:12,496
+Pongamos todas las piezas en fila.
+
+529
+00:40:12,496 --> 00:40:12,784
+Uno.
+
+530
+00:40:12,784 --> 00:40:20,071
+El dieciséis de febrero, la votación fue en general limpia, y el resultado en votos 
+
+531
+00:40:12,784 --> 00:40:20,071
+fue muy ajustado.
+
+532
+00:40:20,071 --> 00:40:34,212
+Según las cifras recogidas por el hispanista Stanley Payne, alrededor de cuatro mill
+
+533
+00:40:20,071 --> 00:40:34,212
+ones seiscientos cincuenta mil votos para el Frente Popular, y cuatro millones quini
+
+534
+00:40:20,071 --> 00:40:34,212
+entos mil para las derechas.
+
+535
+00:40:34,212 --> 00:40:36,665
+Menos de dos puntos de diferencia.
+
+536
+00:40:36,665 --> 00:40:36,954
+Dos.
+
+537
+00:40:36,954 --> 00:40:49,146
+El presidente del Gobierno dimitió antes de que terminara el recuento, con más de ci
+
+538
+00:40:36,954 --> 00:40:49,146
+en escaños todavía en el aire según unos, o con la mayoría casi decidida según otros
+
+539
+00:40:36,954 --> 00:40:49,146
+.
+
+540
+00:40:49,146 --> 00:40:49,507
+Tres.
+
+541
+00:40:49,507 --> 00:40:57,010
+El nuevo Gobierno nombró gobernadores civiles en las horas en que las actas se custo
+
+542
+00:40:49,507 --> 00:40:57,010
+diaban y se sumaban.
+
+543
+00:40:58,510 --> 00:40:59,048
+Cuatro.
+
+544
+00:40:59,048 --> 00:41:10,799
+En A Coruña, el resultado se dio la vuelta, y el propio presidente socialista de la 
+
+545
+00:40:59,048 --> 00:41:10,799
+Comisión de Actas calificó esas actas de absolutamente indefendibles.
+
+546
+00:41:10,799 --> 00:41:11,260
+Cinco.
+
+547
+00:41:11,260 --> 00:41:18,787
+En Cáceres hubo dos recuentos que no coincidían, y se proclamó el más favorable al F
+
+548
+00:41:11,260 --> 00:41:18,787
+rente Popular.
+
+549
+00:41:18,787 --> 00:41:19,171
+Seis.
+
+550
+00:41:19,171 --> 00:41:29,079
+La Comisión de Actas anuló dos provincias enteras ganadas por la derecha y validó la
+
+551
+00:41:19,171 --> 00:41:29,079
+s actas discutidas favorables a la izquierda.
+
+552
+00:41:29,079 --> 00:41:33,303
+Y en las repeticiones de mayo, la izquierda ganó ambas.
+
+553
+00:41:33,303 --> 00:41:33,917
+Y siete.
+
+554
+00:41:33,917 --> 00:41:45,745
+El presidente de la República, que había convocado aquellas elecciones, denunció que
+
+555
+00:41:33,917 --> 00:41:45,745
+ la nueva mayoría había cometido irregularidades al revisar las actas.
+
+556
+00:41:45,745 --> 00:41:48,741
+Y fue destituido por esa misma mayoría.
+
+557
+00:41:48,741 --> 00:41:50,814
+Un indicio es una sospecha.
+
+558
+00:41:50,814 --> 00:41:52,504
+Dos, una coincidencia.
+
+559
+00:41:52,504 --> 00:41:59,339
+Siete indicios que apuntan en la misma dirección empiezan a parecerse mucho a una pr
+
+560
+00:41:52,504 --> 00:41:59,339
+ueba.
+
+561
+00:42:00,840 --> 00:42:04,158
+¿Y si se corrigen todas esas irregularidades?
+
+562
+00:42:04,158 --> 00:42:05,706
+¿Quién habría ganado?
+
+563
+00:42:05,706 --> 00:42:08,951
+Aquí, los historiadores vuelven a separarse.
+
+564
+00:42:08,951 --> 00:42:21,117
+Álvarez Tardío y Villa calculan que, sin las manipulaciones del recuento, el Frente 
+
+565
+00:42:08,951 --> 00:42:21,117
+Popular habría tenido entre doscientos veintiséis y doscientos treinta diputados.
+
+566
+00:42:21,117 --> 00:42:26,205
+Y las derechas, entre doscientos veintitrés y doscientos veintisiete.
+
+567
+00:42:26,205 --> 00:42:27,532
+Un empate técnico.
+
+568
+00:42:27,532 --> 00:42:30,703
+Nadie habría alcanzado la mayoría absoluta.
+
+569
+00:42:30,703 --> 00:42:48,842
+González Calleja y Sánchez Pérez rehacen las cuentas con los propios datos del libro
+
+570
+00:42:30,703 --> 00:42:48,842
+ y llegan a otra cifra: incluso corrigiendo todas las irregularidades denunciadas, e
+
+571
+00:42:30,703 --> 00:42:48,842
+l Frente Popular habría conservado unos doscientos cuarenta y nueve diputados.
+
+572
+00:42:48,842 --> 00:42:50,686
+Por encima de la mayoría.
+
+573
+00:42:52,186 --> 00:42:54,361
+Dos cálculos, dos conclusiones.
+
+574
+00:42:54,361 --> 00:42:56,676
+Pero fíjense en lo que comparten.
+
+575
+00:42:56,676 --> 00:43:03,202
+Ninguno de los dos discute que el Frente Popular acabó con doscientos ochenta y seis
+
+576
+00:42:56,676 --> 00:43:03,202
+ escaños.
+
+577
+00:43:03,202 --> 00:43:15,483
+Ninguno discute que una parte de esos escaños se decidió después del dieciséis de fe
+
+578
+00:43:03,202 --> 00:43:15,483
+brero, en juntas provinciales, en una comisión parlamentaria y en dos elecciones rep
+
+579
+00:43:03,202 --> 00:43:15,483
+etidas.
+
+580
+00:43:15,483 --> 00:43:23,061
+Y la diferencia entre doscientos cuarenta y nueve y doscientos ochenta y seis son tr
+
+581
+00:43:15,483 --> 00:43:23,061
+einta y siete diputados.
+
+582
+00:43:23,061 --> 00:43:28,534
+Treinta y siete escaños que no salieron de las urnas del dieciséis de febrero.
+
+583
+00:44:10,035 --> 00:44:14,257
+Entonces, ¿hubo pucherazo en mil novecientos treinta y seis?
+
+584
+00:44:14,257 --> 00:44:19,395
+Las pruebas que hoy conocemos permiten decir algo con bastante seguridad.
+
+585
+00:44:19,395 --> 00:44:24,321
+La mayoría absoluta del Frente Popular no salió tal cual de las urnas.
+
+586
+00:44:24,321 --> 00:44:35,089
+Se completó después, en un recuento hecho bajo un Gobierno recién nombrado, y en una
+
+587
+00:44:24,321 --> 00:44:35,089
+ revisión de actas en la que los ganadores juzgaron a los perdedores.
+
+588
+00:44:35,089 --> 00:44:37,904
+Si a eso se le llama pucherazo, lo hubo.
+
+589
+00:44:37,904 --> 00:44:51,065
+Lo que sigue abierto es otra pregunta: si sin esas maniobras el Frente Popular habrí
+
+590
+00:44:37,904 --> 00:44:51,065
+a gobernado igualmente, con una mayoría más corta, o si España habría tenido un Parl
+
+591
+00:44:37,904 --> 00:44:51,065
+amento sin mayoría.
+
+592
+00:44:51,065 --> 00:44:54,936
+Los números de unos y otros dejan esa puerta entornada.
+
+593
+00:44:56,436 --> 00:45:01,056
+Los críticos de la tesis del fraude añaden un argumento de peso.
+
+594
+00:45:01,056 --> 00:45:15,208
+Para José Luis Martín Ramos, las Cortes que se reunieron en marzo eran legítimas, y 
+
+595
+00:45:01,056 --> 00:45:15,208
+la mayoría del Frente Popular era real, porque ya existía antes de que la Comisión d
+
+596
+00:45:01,056 --> 00:45:15,208
+e Actas empezara a trabajar.
+
+597
+00:45:15,208 --> 00:45:20,623
+Las anulaciones, dicen, solo ampliaron una victoria que ya estaba decidida.
+
+598
+00:45:20,623 --> 00:45:22,211
+Es un argumento serio.
+
+599
+00:45:22,211 --> 00:45:24,883
+Pero deja una pregunta sin responder.
+
+600
+00:45:24,883 --> 00:45:41,345
+Si la mayoría ya estaba asegurada, ¿por qué hizo falta anular provincias enteras de 
+
+601
+00:45:24,883 --> 00:45:41,345
+los adversarios, validar actas que el propio presidente de la Comisión llamaba indef
+
+602
+00:45:24,883 --> 00:45:41,345
+endibles, y destituir después al presidente de la República?
+
+603
+00:45:42,845 --> 00:45:46,085
+Y hay algo más que este documental no puede callar.
+
+604
+00:45:46,085 --> 00:45:57,206
+Tres años después, en mil novecientos treinta y nueve, el régimen de Franco publicó 
+
+605
+00:45:46,085 --> 00:45:57,206
+un dictamen oficial sobre la ilegitimidad de los poderes de mil novecientos treinta 
+
+606
+00:45:46,085 --> 00:45:57,206
+y seis.
+
+607
+00:45:57,206 --> 00:46:02,226
+Usó el fraude electoral como argumento para justificar la sublevación de julio.
+
+608
+00:46:02,226 --> 00:46:06,992
+Y lo hizo con cifras que después los historiadores han tenido que corregir.
+
+609
+00:46:06,992 --> 00:46:10,423
+Un recuento manipulado puede deslegitimar una mayoría.
+
+610
+00:46:10,423 --> 00:46:15,634
+No legitima un golpe de Estado, ni una guerra que costó cientos de miles de vidas.
+
+611
+00:46:15,634 --> 00:46:26,882
+Las dos cosas pueden ser verdad a la vez: que la mayoría de mil novecientos treinta 
+
+612
+00:46:15,634 --> 00:46:26,882
+y seis se fabricó en parte en los despachos, y que lo que vino después no tuvo justi
+
+613
+00:46:15,634 --> 00:46:26,882
+ficación.
+
+614
+00:47:08,382 --> 00:47:11,856
+El clima, en esa primavera, se envenena cada semana.
+
+615
+00:47:11,856 --> 00:47:21,679
+El once de abril, el líder comunista José Díaz justifica la dureza de la izquierda c
+
+616
+00:47:11,856 --> 00:47:21,679
+on un argumento que muestra hasta qué punto el miedo era mutuo.
+
+617
+00:47:22,579 --> 00:47:28,858
+«Si triunfan las derechas, a estas horas quince mil personas habrían sido asesinadas
+
+618
+00:47:22,579 --> 00:47:28,858
+.»
+
+619
+00:47:29,858 --> 00:47:37,696
+Y el dieciséis de junio, en el Congreso, Gil-Robles vuelve sobre aquellas actas de f
+
+620
+00:47:29,858 --> 00:47:37,696
+ebrero para acusar a la mayoría.
+
+621
+00:47:37,696 --> 00:47:41,074
+Lo que dice ese día está en el Diario de Sesiones.
+
+622
+00:47:41,975 --> 00:47:48,522
+«Ya le disteis un golpe de muerte con el nacimiento de estas Cortes y la aprobación 
+
+623
+00:47:41,975 --> 00:47:48,522
+de determinadas actas.»
+
+624
+00:47:49,521 --> 00:47:54,265
+Es la frase de un líder de la oposición, y hay que leerla como tal.
+
+625
+00:47:54,265 --> 00:47:59,363
+Pero resume lo que, para media España, había ocurrido aquella primavera.
+
+626
+00:47:59,363 --> 00:48:01,912
+Y lo que la otra media nunca aceptó.
+
+627
+00:48:01,912 --> 00:48:08,497
+Mientras tanto, en los cuarteles, algunos generales ya habían dejado de discutir sob
+
+628
+00:48:01,912 --> 00:48:08,497
+re actas.
+
+629
+00:48:08,497 --> 00:48:15,153
+Desde la primavera, el general Emilio Mola organizaba desde Pamplona una conspiració
+
+630
+00:48:08,497 --> 00:48:15,153
+n militar.
+
+631
+00:48:15,153 --> 00:48:19,260
+Y en su primera instrucción reservada no hablaba de actas.
+
+632
+00:48:19,260 --> 00:48:23,721
+Escribía que la acción tendría que ser extremadamente violenta.
+
+633
+00:48:25,221 --> 00:48:29,353
+Diecisiete de julio de mil novecientos treinta y seis.
+
+634
+00:48:29,353 --> 00:48:36,699
+Cinco meses después de aquella noche de febrero, una parte del Ejército se levanta e
+
+635
+00:48:29,353 --> 00:48:36,699
+n Marruecos.
+
+636
+00:48:36,699 --> 00:48:39,224
+Al día siguiente, en toda España.
+
+637
+00:48:39,224 --> 00:48:45,423
+Santiago Casares Quiroga, el diputado de A Coruña, es el presidente del Gobierno.
+
+638
+00:48:45,423 --> 00:48:48,790
+Manuel Azaña, el presidente de la República.
+
+639
+00:48:48,790 --> 00:48:51,392
+Alcalá-Zamora está fuera del país.
+
+640
+00:48:51,392 --> 00:48:53,305
+Y Gil-Robles, en Francia.
+
+641
+00:48:53,305 --> 00:49:00,804
+Todos los protagonistas de esta historia estaban, de un modo u otro, en aquella sema
+
+642
+00:48:53,305 --> 00:49:00,804
+na de febrero.
+
+643
+00:49:00,804 --> 00:49:07,003
+Y ninguno de ellos supo, o quiso, cerrar lo que se había abierto con el recuento.
+
+644
+00:49:08,503 --> 00:49:11,716
+Noventa años después, las actas siguen ahí.
+
+645
+00:49:11,716 --> 00:49:24,572
+En los archivos provinciales, en los boletines oficiales, en las carpetas de un grup
+
+646
+00:49:11,716 --> 00:49:24,572
+o parlamentario y en los cuadernos de un presidente que alguien quiso hacer desapare
+
+647
+00:49:11,716 --> 00:49:24,572
+cer.
+
+648
+00:49:24,572 --> 00:49:30,850
+Quizá nunca sepamos con exactitud cuántos votos cambiaron de columna aquella semana.
+
+649
+00:49:30,850 --> 00:49:32,719
+Pero sabemos dónde mirar.
+
+650
+00:49:32,719 --> 00:49:36,082
+Y sabemos algo que entonces muchos olvidaron.
+
+651
+00:49:36,082 --> 00:49:41,762
+Que una democracia no muere solo cuando alguien saca los tanques a la calle.
+
+652
+00:49:41,762 --> 00:49:44,005
+A veces empieza a morir antes.
+
+653
+00:49:44,005 --> 00:49:44,901
+En silencio.
+
+654
+00:49:44,901 --> 00:49:45,798
+En una mesa.
+
+655
+00:49:45,798 --> 00:49:48,340
+Mientras alguien cuenta los votos.
+
+656
+00:49:49,240 --> 00:49:53,175
+«Reciben ustedes el poder con el tigre a la puerta.»

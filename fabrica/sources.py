@@ -7,14 +7,21 @@ CACHE = os.environ.get('FABRICA_CACHE', '/tmp/fabrica_cache')
 os.makedirs(CACHE, exist_ok=True)
 OK_LIC = ('cc0', 'pdm', 'public domain', 'cc by', 'cc-by', 'by', 'by-sa', 'cc by-sa', 'pixabay', 'no restrictions', 'attribution')
 
-def _get(url, headers=None, tries=3):
+_last = {}
+def _get(url, headers=None, tries=7):
+    host = urllib.parse.urlparse(url).netloc
     for i in range(tries):
+        if 'wiki' in host:  # Wikimedia limita a los bots: ritmo pausado
+            w = 0.6 - (time.time() - _last.get(host, 0))
+            if w > 0: time.sleep(w)
+            _last[host] = time.time()
         try:
             req = urllib.request.Request(url, headers={'User-Agent': UA, **(headers or {})})
             with urllib.request.urlopen(req, timeout=60) as r: return r.read()
         except Exception as e:
             if i == tries - 1: raise
-            time.sleep(2 + 3 * i)
+            code = getattr(e, 'code', 0)
+            time.sleep((15 * (i + 1)) if code == 429 else (2 + 3 * i))
 
 def _json(url, headers=None): return json.loads(_get(url, headers))
 

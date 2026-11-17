@@ -127,7 +127,7 @@ def candidates(spec, n=8, use_used=True):
             if SRC.relevant(c, MUST if ('video' in spec and not spec.get('free')) else []): out.append(c)
     if 'video' in spec:
         q = spec['video']
-        for fn in (lambda: SRC.pixabay_videos(q), lambda: SRC.pixabay_videos(q.split()[0] + ' egypt') if MUST and not spec.get('free') else [],
+        for fn in (lambda: SRC.pixabay_videos(q), lambda: SRC.pixabay_videos(q.split()[0] + ' ' + MUST[0]) if MUST and not spec.get('free') else [],
                    lambda: SRC.commons_search(q, video=True), lambda: SRC.archive_videos(q) if spec.get('old') else []):
             try: add(fn())
             except Exception as e: log('  aviso fuente:', q, e)

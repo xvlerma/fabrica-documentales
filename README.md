@@ -1,6 +1,21 @@
 # Fábrica de documentales
 
-Del manifiesto `jobs/<id>/job.json` al documental terminado, con vídeo real libre (Pixabay, Wikimedia, Internet Archive, Europeana), archivo de museos (Cleveland, Met), efectos (Freesound), grafismo animado propio y la locución de ElevenLabs.
+Motor que convierte un `jobs/<id>/job.json` en un documental terminado (MP4 1080p, subtítulos, capítulos y créditos), usando GitHub Actions.
 
-- Motor: `fabrica/engine.py` · fuentes: `fabrica/sources.py` · grafismo: `fabrica/cards.py`
-- Al subir un `job.json`, GitHub Actions fabrica el vídeo y publica la salida en la rama `out-<id>` (vídeo en trozos de 90 MB, subtítulos, capítulos, créditos, hoja de control).
+- Manual completo, prompt maestro y referencia del job: documento maestro v2 en claude.ai (artefacto "Fábrica de documentales · Documento maestro v2").
+- Ejemplo completo y probado: `jobs/prueba03/job.json`.
+
+## Flujo
+1. Empujar `jobs/<id>/job.json` con `"stage": "cast"` → la rama `out-<id>` recibe `cast_NN.jpg` y `cast.json` (8 candidatos por plano).
+2. Copiar los candidatos elegidos en `"picks"` (clave = número de plano; valor = candidato de cast.json o `{"spec": {...}}`), poner `"stage": "render"` y empujar.
+3. La rama `out-<id>` recibe `<id>.mp4.partNN`, `.srt`, `capitulos.txt`, `creditos.txt`, `control.jpg`, `edl.json`, `informe.txt`, `run.log`.
+
+El workflow solo arranca si cambia un `job.json`: para relanzar sin otros cambios, subir `"rev"`.
+
+## Módulos
+- `fabrica/engine.py`: audio (voz al 96 %, pausas alargadas, camas, interludios, efectos, máster −16 LUFS), guion visual, casting, render por plano, montaje.
+- `fabrica/parallax.py`: cámara 2,5D con mapa de profundidad, tratamiento de película para recreaciones, cámara al hombro, cambio de foco, parpadeo de llama.
+- `fabrica/cards.py`: grafismo animado: title, ficha, quote, list, timeline, map, mapfly, scan, doc, board, counter, split, palabra clave y rótulo inferior.
+- `fabrica/sources.py`: Pixabay, Wikimedia Commons, Internet Archive, Europeana, Cleveland, The Met, Freesound, Openverse; caché por id.
+
+Secrets necesarios: `PIXABAY_API_KEY`, `FREESOUND_API_KEY`, `EUROPEANA_API_KEY`.

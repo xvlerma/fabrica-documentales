@@ -148,7 +148,7 @@
  "seed": 480,
  "qpicks": {},
  "picks": {},
- "rev": 5,
+ "rev": 6,
  "thumbs": [
   {
    "name": "A",
@@ -276,7 +276,12 @@
   {
    "k": "M",
    "track": "tension",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Thermopylae-Air-View.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -418,7 +423,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Foloi oak forest.JPG"
+    }
+   ]
   },
   {
    "k": "N",
@@ -558,7 +568,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "View of Mount Taygetus from the Menelaion) on 15 May 2019.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -720,7 +735,15 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 12
+   "secs": 12,
+   "shots": [
+    {
+     "commons": "Battle of Thermopylae - pass.jpg"
+    },
+    {
+     "commons": "Thermopylae-Air-View.jpg"
+    }
+   ]
   },
   {
    "k": "T",
@@ -774,7 +797,12 @@
   {
    "k": "M",
    "track": "persia",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Persepolis, Apadana, Central Relief, Pharnaces.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -856,7 +884,12 @@
   {
    "k": "M",
    "track": "persia",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Right Section of the Treasury Reliefs (4735541667).jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -927,7 +960,12 @@
   {
    "k": "M",
    "track": "persia",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Persepolis theasury.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -990,7 +1028,12 @@
   {
    "k": "M",
    "track": "persia",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Ionian Tribute Bearers on the Apadana Staircase (Best Viewed Size \"Large\") (4688057305).jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -1154,7 +1197,12 @@
   {
    "k": "M",
    "track": "persia",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "image": "https://openaccess-cdn.clevelandart.org/1960.175/1960.175_print.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -1241,7 +1289,12 @@
   {
    "k": "M",
    "track": "persia",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Behistun inscription reliefs.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -1408,7 +1461,12 @@
   {
    "k": "M",
    "track": "persia",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "SC 337334 - Persepolis. Palace of Xerxes. (52256758190).jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -1494,7 +1552,12 @@
   {
    "k": "M",
    "track": "persia",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "image": "https://openaccess-cdn.clevelandart.org/1943.279/1943.279_print.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -1542,7 +1605,15 @@
   {
    "k": "M",
    "track": "tension",
-   "secs": 14
+   "secs": 14,
+   "shots": [
+    {
+     "commons": "Foloi oak forest.JPG"
+    },
+    {
+     "commons": "View of Mount Taygetus from the Menelaion) on 15 May 2019.jpg"
+    }
+   ]
   },
   {
    "k": "T",
@@ -1588,7 +1659,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Ivan Konstantinovich Aivazovsky - Gathering Storm, 1899.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -1672,7 +1748,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Grèce. Vue de Sparte Avec le Taygete LCCN2017658135.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -1772,7 +1853,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "ISS067-E-153797 - View of Greece - Lamia - river Spercheios (Sperchios) - Maliac Gulf (Maliakos Gulf) - Thermopylae - Kamena Vourla (cropped).jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -1841,7 +1927,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "The River Eurotas in Sparta on 15 May 2019.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -1936,7 +2027,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Effet du tonnerre.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -2007,7 +2103,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Messene 01.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -2168,7 +2269,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Plain of Marathon with Pine Forest and Wetlands, May 2015 - panoramio.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -2207,7 +2313,15 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 12
+   "secs": 12,
+   "shots": [
+    {
+     "commons": "Ivan Konstantinovich Aivazovsky - Gathering Storm, 1899.jpg"
+    },
+    {
+     "commons": "Grèce. Vue de Sparte Avec le Taygete LCCN2017658135.jpg"
+    }
+   ]
   },
   {
    "k": "T",
@@ -2334,7 +2448,12 @@
   {
    "k": "M",
    "track": "tension",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "View of modern Sparta, Mount Taygetus and the Eurotas from the Menelaion on 15 May 2019.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -2442,7 +2561,12 @@
   {
    "k": "M",
    "track": "tension",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Heinrich Leutemann - The Oracle at Delphi (1885).jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -2558,7 +2682,12 @@
   {
    "k": "M",
    "track": "tension",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Ruins of Thespiae, from a Sketch by Daniel - Wordsworth Christopher - 1882.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -2792,7 +2921,12 @@
   {
    "k": "M",
    "track": "tension",
-   "secs": 10
+   "secs": 10,
+   "shots": [
+    {
+     "commons": "ISS067-E-153797 - View of Greece - Lamia - river Spercheios (Sperchios) - Maliac Gulf (Maliakos Gulf) - Thermopylae - Kamena Vourla (cropped).jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -2876,7 +3010,12 @@
   {
    "k": "M",
    "track": "batalla",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "image": "https://openaccess-cdn.clevelandart.org/1923.645/1923.645_print.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3030,7 +3169,12 @@
   {
    "k": "M",
    "track": "batalla",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "image": "https://openaccess-cdn.clevelandart.org/1929.134/1929.134_print.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3092,7 +3236,12 @@
   {
    "k": "M",
    "track": "batalla",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "image": "https://openaccess-cdn.clevelandart.org/1965.78/1965.78_print.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3176,7 +3325,12 @@
   {
    "k": "M",
    "track": "batalla",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "image": "https://openaccess-cdn.clevelandart.org/1926.241/1926.241_print.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3253,7 +3407,12 @@
   {
    "k": "M",
    "track": "batalla",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "image": "https://openaccess-cdn.clevelandart.org/1929.135/1929.135_print.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3276,7 +3435,12 @@
   {
    "k": "M",
    "track": "batalla",
-   "secs": 10
+   "secs": 10,
+   "shots": [
+    {
+     "image": "https://openaccess-cdn.clevelandart.org/1928.859/1928.859_print.jpg"
+    }
+   ]
   },
   {
    "k": "T",
@@ -3389,7 +3553,12 @@
   {
    "k": "M",
    "track": "noche",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Full Moon (6043616882).jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3472,7 +3641,12 @@
   {
    "k": "M",
    "track": "noche",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Battle of Thermopylae - pass.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3571,7 +3745,12 @@
   {
    "k": "M",
    "track": "noche",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Thermopylae-Air-View.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3594,7 +3773,12 @@
   {
    "k": "M",
    "track": "noche",
-   "secs": 10
+   "secs": 10,
+   "shots": [
+    {
+     "commons": "The River Eurotas in Sparta on 15 May 2019.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3679,7 +3863,12 @@
   {
    "k": "M",
    "track": "noche",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Foloi oak forest.JPG"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3787,7 +3976,12 @@
   {
    "k": "M",
    "track": "noche",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "View of Mount Taygetus from the Menelaion) on 15 May 2019.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3853,7 +4047,12 @@
   {
    "k": "M",
    "track": "noche",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Ivan Konstantinovich Aivazovsky - Gathering Storm, 1899.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -3926,7 +4125,12 @@
   {
    "k": "M",
    "track": "noche",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Grèce. Vue de Sparte Avec le Taygete LCCN2017658135.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -4096,7 +4300,12 @@
   {
    "k": "M",
    "track": "batalla",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "image": "https://openaccess-cdn.clevelandart.org/1970.82/1970.82_print.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -4233,7 +4442,15 @@
   {
    "k": "M",
    "track": "batalla",
-   "secs": 14
+   "secs": 14,
+   "shots": [
+    {
+     "image": "https://openaccess-cdn.clevelandart.org/2024.63/2024.63_print.jpg"
+    },
+    {
+     "commons": "Red-figure kylix nude hoplite (Boston MFA 89.270).jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -4255,7 +4472,12 @@
   {
    "k": "M",
    "track": "batalla",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "image": "https://openaccess-cdn.clevelandart.org/1927.6/1927.6_print.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -4378,7 +4600,15 @@
   {
    "k": "M",
    "track": "noche",
-   "secs": 12
+   "secs": 12,
+   "shots": [
+    {
+     "commons": "Effet du tonnerre.jpg"
+    },
+    {
+     "commons": "Messene 01.jpg"
+    }
+   ]
   },
   {
    "k": "T",
@@ -4415,7 +4645,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "ISS067-E-153797 - View of Greece - Lamia - river Spercheios (Sperchios) - Maliac Gulf (Maliakos Gulf) - Thermopylae - Kamena Vourla (cropped).jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -4501,7 +4736,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "The River Eurotas in Sparta on 15 May 2019.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -4615,7 +4855,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Effet du tonnerre.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -4675,7 +4920,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Messene 01.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -4702,7 +4952,15 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 12
+   "secs": 12,
+   "shots": [
+    {
+     "commons": "Plain of Marathon with Pine Forest and Wetlands, May 2015 - panoramio.jpg"
+    },
+    {
+     "commons": "View of modern Sparta, Mount Taygetus and the Eurotas from the Menelaion on 15 May 2019.jpg"
+    }
+   ]
   },
   {
    "k": "T",
@@ -4837,7 +5095,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Plain of Marathon with Pine Forest and Wetlands, May 2015 - panoramio.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -4933,7 +5196,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "View of modern Sparta, Mount Taygetus and the Eurotas from the Menelaion on 15 May 2019.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -4998,7 +5266,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Heinrich Leutemann - The Oracle at Delphi (1885).jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -5058,7 +5331,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Ruins of Thespiae, from a Sketch by Daniel - Wordsworth Christopher - 1882.jpg"
+    }
+   ]
   },
   {
    "k": "N",
@@ -5119,7 +5397,12 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "commons": "Full Moon (6043616882).jpg"
+    }
+   ]
   },
   {
    "k": "N",

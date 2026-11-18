@@ -29,6 +29,28 @@ def est(U):
         elif u['k'] == 'T': t += max(u.get('secs', 4.5), 0.7 + (u['clip'][1] / TEMPO + 1.0 if u.get('clip') else 0))
         elif u['k'] == 'M': t += u['secs']
     return t
+
+CLV = lambda a: {'image': f'https://openaccess-cdn.clevelandart.org/{a}/{a}_print.jpg'}
+POOL = {
+ 'paisaje': ['Thermopylae-Air-View.jpg', 'Foloi oak forest.JPG', 'View of Mount Taygetus from the Menelaion) on 15 May 2019.jpg',
+   'Ivan Konstantinovich Aivazovsky - Gathering Storm, 1899.jpg', 'Grèce. Vue de Sparte Avec le Taygete LCCN2017658135.jpg',
+   'ISS067-E-153797 - View of Greece - Lamia - river Spercheios (Sperchios) - Maliac Gulf (Maliakos Gulf) - Thermopylae - Kamena Vourla (cropped).jpg',
+   'The River Eurotas in Sparta on 15 May 2019.jpg', 'Effet du tonnerre.jpg', 'Messene 01.jpg', 'Plain of Marathon with Pine Forest and Wetlands, May 2015 - panoramio.jpg',
+   'View of modern Sparta, Mount Taygetus and the Eurotas from the Menelaion on 15 May 2019.jpg', 'Heinrich Leutemann - The Oracle at Delphi (1885).jpg',
+   'Ruins of Thespiae, from a Sketch by Daniel - Wordsworth Christopher - 1882.jpg', 'Full Moon (6043616882).jpg', 'Battle of Thermopylae - pass.jpg'],
+ 'persia': ['Persepolis, Apadana, Central Relief, Pharnaces.jpg', 'Right Section of the Treasury Reliefs (4735541667).jpg', 'Persepolis theasury.jpg',
+   'Ionian Tribute Bearers on the Apadana Staircase (Best Viewed Size "Large") (4688057305).jpg', CLV('1960.175'), 'Behistun inscription reliefs.jpg',
+   'SC 337334 - Persepolis. Palace of Xerxes. (52256758190).jpg', CLV('1943.279')],
+ 'griego': [CLV('1923.645'), CLV('1929.134'), CLV('1965.78'), CLV('1926.241'), CLV('1929.135'), CLV('1970.82'), CLV('1927.6'), CLV('1928.859'),
+   CLV('2024.63'), 'Red-figure kylix nude hoplite (Boston MFA 89.270).jpg', CLV('1970.16'), CLV('1926.54')],
+}
+BED_POOL = {'persia': 'persia', 'batalla': 'griego', 'tema': 'paisaje', 'tension': 'paisaje', 'noche': 'paisaje'}
+_bi = {}
+def breath_shot(bed):
+    k = BED_POOL.get(bed, 'paisaje'); i = _bi.get(k, 0); _bi[k] = i + 1
+    v = POOL[k][i % len(POOL[k])]
+    return dict(v) if isinstance(v, dict) else {'commons': v}
+
 if all(u.get('clip') for u in U if u['k'] in ('N', 'R')):
     t0 = est(U); deficit = 59.5 * 60 - t0; BR = 9
     nb = max(0, int(deficit // BR)); print(f'estimado sin respiraciones: {t0/60:.1f} min · se añaden {nb} respiraciones de {BR} s')
@@ -40,9 +62,13 @@ if all(u.get('clip') for u in U if u['k'] in ('N', 'R')):
             if u.get('clip') and u['k'] == 'N': acc += u['clip'][1] / TEMPO
             nxt = U[j + 1] if j + 1 < len(U) else None
             if added < nb and acc >= step and u['k'] == 'N' and nxt and nxt['k'] == 'N':
-                out.append(dict(k='M', track=bed, secs=BR)); added += 1; acc = 0
+                out.append(dict(k='M', track=bed, secs=BR, shots=[breath_shot(bed)])); added += 1; acc = 0
         U[:] = out; lib.U[:] = out
     print(f'estimado final: {est(U)/60:.1f} min')
+
+for u in U:  # pausas musicales del guion: imagen de archivo en vez de la tarjeta de marca
+    if u['k'] == 'M' and not u.get('shots') and not u.get('end'):
+        u['shots'] = [breath_shot(u['track']) for _ in range(2 if u['secs'] >= 12 else 1)]
 
 OV = RES.get('ov', {}); nov = 0
 for i, u in enumerate(U):

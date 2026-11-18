@@ -328,6 +328,24 @@ def build_edl_sync(job, U, A):
         if b_.get('tr_in'): a_['tr_out'] = b_['tr_in']
     allw = A.get('allw', [])
     for s in shots:
+        g = s['spec'].get('gloss_on')
+        if g:
+            q = [n for _, n in AL.tokens(g)]
+            hit = next((tw for k_, (tw, _, n_) in enumerate(allw) if s['t'] - 0.3 <= tw < s['t'] + s['d'] and [x[2] for x in allw[k_:k_ + len(q)]] == q), None)
+            if hit is not None: s['spec'] = dict(s['spec'], gloss_at=round(max(0.2, hit - s['t'] - 0.1), 2))
+    # glosario del episodio: la primera vez que se nombra cada término, su chip aparece en el plano que está en pantalla
+    for gl in job.get('glossary', []):
+        q = [n for _, n in AL.tokens(gl.get('on', gl['term']))]
+        hit = next((allw[k_][0] for k_ in range(len(allw)) if [x[2] for x in allw[k_:k_ + len(q)]] == q), None)
+        if hit is None: log(f'  aviso glosario: no se nombra "{gl["term"]}"'); continue
+        k_ = next((k for k, s in enumerate(shots) if s['t'] <= hit < s['t'] + s['d']), None)
+        if k_ is None: continue
+        if shots[k_]['t'] + shots[k_]['d'] - hit < 2.2 and k_ + 1 < len(shots): k_ += 1; at = 0.2
+        else: at = max(0.2, hit - shots[k_]['t'] - 0.1)
+        if shots[k_]['spec'].get('gloss') or 'card' in shots[k_]['spec']: log(f'  aviso glosario: "{gl["term"]}" cae en una tarjeta u otro glosario'); continue
+        shots[k_]['spec'] = dict(shots[k_]['spec'], gloss=[gl['term'], gl['def']] + ([gl['bando']] if gl.get('bando') else []), gloss_at=round(at, 2),
+                                 gloss_dur=min(4.5, shots[k_]['d'] - at - 0.3))
+    for s in shots:
         s['heard'] = ' '.join(w for (tw, w, _) in allw if s['t'] - 0.2 <= tw < s['t'] + s['d'])
     sync_report(job, shots, allw)
     return shots
@@ -529,7 +547,8 @@ def cast(job, U, shots, out_dir, wd):
         else:
             key = qkey(sp)
             if key in seenq: seenq[key] += 1; continue
-            seenq[key] = 1; cs = candidates(sp, n=8, use_used=False); qtab[key] = cs
+            seenq[key] = 1; pre = [dict(c, elegido=True) for c in QPICKS.get(key, [])]
+            cs = (pre + [c for c in (candidates(sp, n=8 - len(pre), use_used=False) if len(pre) < 8 else []) if c['id'] not in {x.get('id') for x in pre}])[:8]; qtab[key] = cs
         table[str(n)] = cs
         txt = (s.get('heard') or re.sub(r'\[[^\]]*\]', '', U[s['unit']].get('text', '') or '')).strip()[:120]
         rows.append((n, s, cs, txt))
@@ -545,6 +564,7 @@ def cast(job, U, shots, out_dir, wd):
             for j, c in enumerate(cs[:8]):
                 x = 8 + j * 392; sheet.paste(_thumb(c, wd), (x, y + 34))
                 d.rectangle([x, y + 34, x + 30, y + 62], fill=(0, 0, 0)); d.text((x + 8, y + 36), str(j), font=F, fill=(255, 255, 255))
+                if c.get('elegido'): d.rectangle([x, y + 34, x + 383, y + 249], outline=(242, 255, 0), width=4)
             if not cs: d.text((10, y + 120), 'SIN CANDIDATOS', font=F, fill=(255, 80, 80))
         sheet.save(f'{out_dir}/cast_{k:02d}.jpg', quality=82); k += 1
     json.dump(table, open(f'{out_dir}/cast.json', 'w'), ensure_ascii=False, indent=0)
@@ -605,14 +625,14 @@ def run(job_dir):
     log('== 2/5 guion visual'); shots = build_edl_sync(job, U, A) if job.get('align') else build_edl(job, U, A)
     if SYNC: open(f'{out_dir}/sincronia.txt', 'w').write('\n'.join(SYNC) + '\n')
     log(f'   {len(shots)} planos')
-    if job.get('stage') == 'cast': return cast(job, U, shots, out_dir, wd)
-    picks = job.get('picks', {})
-    global ENC, ABR
-    if job.get('codec') == 'hevc': ENC = enc_hevc(job.get('max_kbps', 750)); ABR = job.get('audio_kbps', '112k')
     qp = job.get('qpicks', {}); qsrc = {}
     if os.path.exists(f'{job_dir}/castq.json'): qsrc = json.load(open(f'{job_dir}/castq.json'))
     for k_, v_ in qp.items():
         QPICKS[k_] = [qsrc[k_][x] if isinstance(x, int) else x for x in v_ if not isinstance(x, int) or (k_ in qsrc and x < len(qsrc[k_]))]
+    if job.get('stage') == 'cast': return cast(job, U, shots, out_dir, wd)
+    picks = job.get('picks', {})
+    global ENC, ABR
+    if job.get('codec') == 'hevc': ENC = enc_hevc(job.get('max_kbps', 750)); ABR = job.get('audio_kbps', '112k')
     PART = os.environ.get('FABRICA_PART')
     log('== 3/5 buscando y descargando material')
     last = -1

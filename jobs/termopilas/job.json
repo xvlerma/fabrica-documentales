@@ -2,7 +2,7 @@
  "id": "termopilas",
  "title": "La batalla de las Termópilas",
  "channel": "DocuVox",
- "stage": "cast",
+ "stage": "render",
  "align": true,
  "align_model": "small",
  "no_pad": true,
@@ -92,29 +92,34 @@
  },
  "music": {
   "tema": {
-   "search": "ancient Greek lyre music",
-   "src": "archive,commons,openverse",
-   "min_secs": 90
-  },
-  "tension": {
-   "search": "dark cinematic drone",
-   "src": "openverse,freesound,archive",
-   "min_secs": 60
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gymnopedie_No._1..ogg",
+   "credit": "Erik Satie, Gymnopédie n.º 1 · interpretación de Teknopazzo (Wikimedia Commons)",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gymnopedie_No._1..ogg"
   },
   "persia": {
-   "search": "oud duduk ancient Persia",
-   "src": "archive,openverse,commons",
-   "min_secs": 60
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Desert_City_%28ISRC_USUAN1100564%29.mp3",
+   "credit": "Kevin MacLeod (incompetech.com), «Desert City»",
+   "license": "CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Desert_City_(ISRC_USUAN1100564).mp3"
   },
   "batalla": {
-   "search": "epic war drums percussion",
-   "src": "openverse,freesound,archive",
-   "min_secs": 60
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Holst%2C_The_Planets%2C_Op._32_-_I._Mars%2C_the_Bringer_of_War.ogg",
+   "credit": "Gustav Holst, «Marte» (Los planetas) · Skidmore College Orchestra (Musopen)",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Holst,_The_Planets,_Op._32_-_I._Mars,_the_Bringer_of_War.ogg"
+  },
+  "tension": {
+   "url": "https://cdn.freesound.org/previews/596/596463_2282212-hq.mp3",
+   "credit": "szegvari / Freesound",
+   "license": "CC0",
+   "page": "https://freesound.org/people/szegvari/sounds/596463/"
   },
   "noche": {
-   "search": "dark ambient night tension",
-   "src": "openverse,freesound,archive",
-   "min_secs": 60
+   "url": "https://cdn.freesound.org/previews/854/854560_18681946-hq.mp3",
+   "credit": "TommasoMotteran / Freesound",
+   "license": "CC BY 4.0",
+   "page": "https://freesound.org/people/TommasoMotteran/sounds/854560/"
   }
  },
  "audio": {
@@ -143,7 +148,23 @@
  "seed": 480,
  "qpicks": {},
  "picks": {},
- "rev": 2,
+ "rev": 3,
+ "thumbs": [
+  {
+   "name": "A",
+   "commons": "Jacques-Louis David - Leonidas at Thermopylae (detail) - WGA6096.jpg",
+   "grande": "TERMÓPILAS",
+   "caja": "NO ERAN 300",
+   "sub": "La historia real"
+  },
+  {
+   "name": "B",
+   "commons": "Archers frieze Louvre AOD488.jpg",
+   "grande": "LEÓNIDAS",
+   "caja": "LA ÚLTIMA MAÑANA",
+   "sub": "Termópilas · 480 a. C."
+  }
+ ],
  "units": [
   {
    "k": "B",
@@ -155,27 +176,25 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Leonidas Thermopylae Jacques-Louis David",
-     "src": "commons",
+     "commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
      "at": "Seguro"
     },
     {
-     "photo": "Greek hoplite red-figure kylix",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1926.242/1926.242_print.jpg",
+     "cl": "108536",
      "at": "Trescientos espartanos"
     },
     {
-     "photo": "Achaemenid Persian soldiers relief Persepolis",
-     "src": "commons,met",
+     "commons": "Persepolis The Persian Soldiers-edit1.jpg",
      "at": "un imperio entero"
     },
     {
-     "photo": "Greek warrior helmet bronze Corinthian",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1926.54/1926.54_print.jpg",
+     "cl": "108870",
      "at": "Pero lo que pasó"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     0.0,
     14.16
@@ -190,11 +209,7 @@
     {
      "photo": "Thermopylae pass landscape",
      "src": "commons",
-     "at": "Agosto",
-     "lt": [
-      "Las Termópilas",
-      "Grecia central · 480 a. C."
-     ]
+     "at": "Agosto"
     },
     {
      "card": {
@@ -228,7 +243,7 @@
      "at": "De un lado"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     14.76,
     16.16
@@ -241,26 +256,17 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Spartan hoplite statue Leonidas Sparta museum",
-     "src": "commons",
-     "at": "un rey de Esparta",
-     "lt": [
-      "Leónidas",
-      "Rey de Esparta",
-      "griegos"
-     ]
+     "image": "https://openaccess-cdn.clevelandart.org/1967.32/1967.32_print.jpg",
+     "cl": "143423",
+     "at": "un rey de Esparta"
     },
     {
      "photo": "Delphi Temple of Apollo ruins",
      "src": "commons",
-     "at": "un oráculo",
-     "lt": [
-      "Delfos",
-      "Santuario de Apolo · hoy"
-     ]
+     "at": "un oráculo"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     31.52,
     7.44
@@ -278,22 +284,20 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Spartan warrior bronze figurine",
-     "src": "met,cleveland,commons",
+     "commons": "The ruins of the ancient Theatre of Sparta on May 15, 2019.jpg",
      "at": "Por qué Esparta"
     },
     {
-     "photo": "Kallidromo mountain Thermopylae",
-     "src": "commons",
+     "commons": "ISS067-E-153797 - View of Greece - Lamia - river Spercheios (Sperchios) - Maliac Gulf (Maliakos Gulf) - Thermopylae - Kamena Vourla (cropped).jpg",
      "at": "Quién enseñó"
     },
     {
-     "photo": "dying warrior Greek sculpture Aegina pediment",
-     "src": "commons,met",
+     "image": "https://openaccess-cdn.clevelandart.org/1970.82/1970.82_print.jpg",
+     "cl": "145432",
      "at": "la última mañana"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     39.56,
     16.08
@@ -312,7 +316,7 @@
     "title": "La batalla de las Termópilas",
     "sub": "Tres días que cambiaron la historia"
    },
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     56.24,
     2.56
@@ -329,12 +333,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "ancient map Greece Persia Aegean",
-     "src": "commons",
+     "commons": "Periplus 100 Pomponius Mela World Map.png",
      "at": "dos mundos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     59.4,
     5.44
@@ -396,8 +399,7 @@
      "at": "De un lado, Persia"
     },
     {
-     "photo": "Xerxes relief Persepolis",
-     "src": "commons",
+     "commons": "Persepolis, Apadana, Central Relief, Pharnaces.jpg",
      "at": "era Jerjes",
      "lt": [
       "Jerjes I",
@@ -406,7 +408,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     65.44,
     16.08
@@ -426,20 +428,15 @@
     {
      "photo": "Acropolis Athens Parthenon",
      "src": "commons",
-     "at": "Del otro lado, Grecia",
-     "lt": [
-      "Atenas",
-      "hoy"
-     ]
+     "at": "Del otro lado, Grecia"
     },
     {
-     "photo": "Greek hoplites black-figure amphora",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1926.241/1926.241_print.jpg",
+     "cl": "108535",
      "at": "cada una con sus leyes"
     },
     {
-     "photo": "Sparta Taygetus mountains",
-     "src": "commons",
+     "commons": "Grèce. Vue de Sparte Avec le Taygete LCCN2017658135.jpg",
      "at": "Esparta, una ciudad",
      "lt": [
       "Esparta",
@@ -447,7 +444,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     82.12,
     17.84
@@ -460,8 +457,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Darius I Behistun relief",
-     "src": "commons",
+     "commons": "Behistun inscription reliefs.jpg",
      "at": "Darío",
      "lt": [
       "Darío I",
@@ -470,8 +466,7 @@
      ]
     },
     {
-     "photo": "Marathon plain Greece",
-     "src": "commons",
+     "commons": "Plain of Marathon with Pine Forest and Wetlands, May 2015 - panoramio.jpg",
      "at": "Maratón",
      "lt": [
       "Maratón",
@@ -479,12 +474,11 @@
      ]
     },
     {
-     "photo": "Persian archers frieze Susa",
-     "src": "commons",
+     "commons": "Berlin - Pergamon Museum - Persian warriors - 20150523 6849.jpg",
      "at": "con todo el imperio"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     100.56,
     17.92
@@ -540,8 +534,7 @@
      "at": "en Jonia"
     },
     {
-     "photo": "Sardis ruins temple Artemis",
-     "src": "commons",
+     "commons": "Artemis ruins2.jpg",
      "at": "quemaron Sardes",
      "lt": [
       "Sardes",
@@ -549,15 +542,12 @@
      ]
     },
     {
-     "photo": "Darius relief Persepolis",
-     "src": "commons,met,cleveland",
-     "kw": "ACUÉRDATE DE LOS ATENIENSES",
+     "commons": "Relief of Thracian warriors, reign of Darius I, 6th-5th century BCE. from Persepolis, Iran, Pergamon Museum.jpg",
      "at": "Señor, acuérdate",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw": "ACUÉRDATE DE LOS ATENIENSES"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     119.08,
     26.88
@@ -629,7 +619,7 @@
      "at": "Estos son"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     146.56,
     6.48
@@ -642,8 +632,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Herodotus bust",
-     "src": "commons,met",
+     "commons": "AGMA Herodotus 7307.jpg",
      "at": "Se llamaba Heródoto",
      "lt": [
       "Heródoto de Halicarnaso",
@@ -651,8 +640,7 @@
      ]
     },
     {
-     "photo": "Bodrum castle Halicarnassus",
-     "src": "commons",
+     "commons": "Castle of St. Peter in Bodrum, Turkey.jpg",
      "at": "Halicarnaso",
      "lt": [
       "Halicarnaso",
@@ -660,7 +648,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     153.64,
     13.6
@@ -673,20 +661,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Herodotus Histories manuscript",
-     "src": "commons",
+     "commons": "Dedication page for the Historiae by Herodotus printed at Venice 1494.jpg",
      "at": "recorrió Grecia"
     },
     {
-     "photo": "Herodotus Histories manuscript page",
-     "src": "commons,met,cleveland",
-     "kw": "HISTORIA = INVESTIGACIÓN",
+     "commons": "Title page of Herodotus' history of the Greek and Persian Wars 1502.jpg",
      "at": "investigación",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw": "HISTORIA = INVESTIGACIÓN"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     167.84,
     19.68
@@ -708,7 +692,7 @@
      "at": "De todos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     188.12,
     7.68
@@ -721,12 +705,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Thermopylae Leonidas monument",
-     "src": "commons",
+     "commons": "Leonidas Statue.jpg",
      "at": "Vamos a seguir"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     196.4,
     6.8
@@ -759,8 +742,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Susa palace Achaemenid",
-     "src": "commons,met",
+     "commons": "Bust of an Immortal royal guard (Achaemenid soldiers) from the palace of Susa, Iran.- SB 33177 - (Fragment) Louvre -Lens.jpg",
      "at": "Susa",
      "lt": [
       "Susa",
@@ -768,8 +750,7 @@
      ]
     },
     {
-     "photo": "Achaemenid palace relief guards",
-     "src": "commons",
+     "commons": "Achaemenid, Iran, Persepolis, 5th Century BC - Fragment of a Wall Decoration from the Palace of Xerxes- \"Guardsman\" in Pro - 1943.279 - Cleveland Museum of Art.tif",
      "at": "Se llama Demarato",
      "lt": [
       "Demarato",
@@ -778,12 +759,11 @@
      ]
     },
     {
-     "photo": "Persepolis Apadana staircase relief",
-     "src": "commons",
+     "commons": "Bas-Relief on Apadana Staircase - Persepolis - Central Iran - 05 (7427791490) (2).jpg",
      "at": "Y ahora se entera"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     203.8,
     19.12
@@ -801,17 +781,15 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "ancient Greek wax writing tablet",
-     "src": "met,cleveland,commons",
+     "commons": "Douris Man with wax tablet.jpg",
      "at": "coge una tablilla"
     },
     {
-     "photo": "ancient Greek writing tablet wax stylus",
-     "src": "met,cleveland,commons",
+     "commons": "Getty Villa - Collection (5304918141).jpg",
      "at": "graba el mensaje"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     223.52,
     17.6
@@ -824,8 +802,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Spartan woman bronze figurine running girl",
-     "src": "commons,met",
+     "commons": "View of Mount Taygetus from the top of the Castle of Mystras on 15 May 2019.jpg",
+     "kw": "LAS MUJERES DE ESPARTA",
      "at": "una mujer: Gorgo",
      "lt": [
       "Gorgo",
@@ -846,7 +824,7 @@
      "at": "manda raspar"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     241.72,
     18.0
@@ -859,17 +837,19 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Persian king relief royal audience",
-     "src": "commons",
+     "commons": "Mad-5223.jpg",
      "at": "Para Jerjes"
     },
     {
-     "photo": "Greek hoplite vase Marathon battle",
-     "src": "met,cleveland",
+     "commons": "The tumulus (tomb) of the Athenians at Marathon.jpg",
+     "lt": [
+      "Túmulo de Maratón",
+      "tumba de los atenienses · hoy"
+     ],
      "at": "en Maratón"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     260.32,
     16.32
@@ -887,22 +867,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Persepolis nobles relief procession",
-     "src": "commons",
+     "commons": "Priests procession at Persepolis.jpg",
      "at": "su tío Artábano",
      "lt": [
       "Artábano",
       "Tío de Jerjes y consejero",
       "persas"
      ]
-    },
-    {
-     "photo": "Scythian warriors gold comb",
-     "src": "met,commons",
-     "at": "contra los escitas"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     277.24,
     24.24
@@ -924,7 +898,7 @@
      "at": "Agradece"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     302.08,
     12.8
@@ -937,17 +911,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Achaemenid royal bed throne relief",
-     "src": "commons",
+     "image": "https://openaccess-cdn.clevelandart.org/1943.279/1943.279_print.jpg",
+     "cl": "123022",
      "at": "tuvo un sueño"
     },
     {
-     "photo": "Greek gods Nemesis relief",
-     "src": "met,cleveland,commons",
+     "commons": "Allard Pierson Museum Domitian as pharao 7679.jpg",
      "at": "el castigo que los dioses"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     315.48,
     18.32
@@ -965,22 +938,19 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Persepolis tribute bearers relief Apadana",
-     "src": "commons",
+     "commons": "Ionian Tribute Bearers on the Apadana Staircase (Best Viewed Size \"Large\") (4688057305).jpg",
      "at": "Reunió soldados"
     },
     {
-     "photo": "Persepolis delegations relief",
-     "src": "commons",
+     "commons": "Persepolis Relief 12.jpg",
      "at": "Heródoto los describe"
     },
     {
-     "photo": "Persepolis Apadana relief nations",
-     "src": "commons",
+     "commons": "Persépolis, Irán, 2016-09-24, DD 53.jpg",
      "at": "en los relieves"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     334.4,
     22.32
@@ -1001,8 +971,7 @@
      "at": "un millón"
     },
     {
-     "photo": "Persian army relief soldiers rows",
-     "src": "met,cleveland,commons",
+     "commons": "Archers frieze Darius palace Louvre AOD487.jpg",
      "at": "En una llanura"
     },
     {
@@ -1014,7 +983,7 @@
      "at": "levantaron un cercado"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     357.32,
     21.28
@@ -1055,12 +1024,11 @@
      "at": "Pero ningún historiador"
     },
     {
-     "photo": "Persian Immortals glazed brick Susa Louvre",
-     "src": "commons",
+     "commons": "Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg",
      "at": "Siguen siendo muchísimos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     379.2,
     18.24
@@ -1110,8 +1078,7 @@
      "at": "el Helesponto"
     },
     {
-     "photo": "Dardanelles strait",
-     "src": "commons",
+     "commons": "Dardanellen 2.JPG",
      "at": "los Dardanelos",
      "lt": [
       "Estrecho de los Dardanelos",
@@ -1119,12 +1086,11 @@
      ]
     },
     {
-     "photo": "Xerxes bridge of boats Hellespont engraving",
-     "src": "commons",
+     "commons": "Xerxes Crossing the HellespontGuerberStoryOfTheGreeks.jpg",
      "at": "dos puentes"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     398.04,
     16.8
@@ -1137,12 +1103,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "stormy sea engraving 19th century",
-     "src": "commons",
+     "commons": "Effet du tonnerre.jpg",
      "at": "llegó una tormenta"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     415.44,
     6.4
@@ -1155,11 +1120,6 @@
    "voice": "HER",
    "shots": [
     {
-     "photo": "Xerxes lashing the sea illustration",
-     "src": "commons",
-     "at": "trescientos latigazos"
-    },
-    {
      "card": {
       "type": "quote",
       "text": "Mandó dar al Helesponto trescientos latigazos.",
@@ -1169,7 +1129,7 @@
      "at": "Y mandó cortar"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     422.44,
     11.2
@@ -1182,12 +1142,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Xerxes army crossing Hellespont engraving",
-     "src": "commons",
+     "commons": "Crossing the Hellespont - Samuel Woodforde.jpg",
      "at": "los puentes se reconstruyeron"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     434.24,
     16.64
@@ -1205,21 +1164,19 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Abydos Dardanelles hill view",
-     "src": "commons",
-     "at": "en Abidos",
+     "commons": "Xerxes, King of the Persians, Crosses a Bridge with His Army. Paris, about 1413–1415.jpg",
      "lt": [
-      "Abidos",
-      "orilla asiática del Helesponto"
-     ]
+      "Jerjes cruza el Helesponto",
+      "manuscrito iluminado · h. 1413"
+     ],
+     "at": "en Abidos"
     },
     {
-     "photo": "Persian fleet ships ancient engraving",
-     "src": "commons",
+     "commons": "Xerxes crossing the Hellespont.jpg",
      "at": "cubierto de barcos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     451.48,
     19.04
@@ -1232,12 +1189,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Persepolis Xerxes relief",
-     "src": "commons",
+     "commons": "Persepolis, Apadana, Central Relief, Pharnaces.jpg",
      "at": "le preguntó por qué lloraba"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     471.12,
     10.16
@@ -1259,7 +1215,7 @@
      "at": "Me he puesto"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     481.88,
     7.76
@@ -1277,7 +1233,7 @@
      "at": "Heródoto no escribe"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     490.24,
     12.72
@@ -1295,8 +1251,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Mount Athos peninsula",
-     "src": "commons",
+     "commons": "Mount Athos,peninsula of Athos.jpg",
      "at": "monte Atos",
      "lt": [
       "Monte Atos",
@@ -1335,7 +1290,7 @@
      "at": "mandó excavar un canal"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     503.56,
     17.6
@@ -1369,12 +1324,15 @@
      "at": "Hasta que en los años noventa"
     },
     {
-     "photo": "Xerxes canal Athos Nea Roda",
-     "src": "commons",
+     "commons": "Canal of Xerxes.jpg",
+     "lt": [
+      "Canal de Jerjes",
+      "península del Atos · hoy"
+     ],
      "at": "estaba allí, enterrado"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     521.76,
     15.92
@@ -1436,15 +1394,12 @@
      "at": "el ejército echó a andar"
     },
     {
-     "photo": "Greek terracotta hydria water jar",
-     "src": "commons,met,cleveland",
-     "kw": "TIERRA Y AGUA",
+     "commons": "Terracotta Hadra hydria (water jar) MET DP121872.jpg",
      "at": "tierra y agua",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw": "TIERRA Y AGUA"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     538.28,
     16.56
@@ -1462,13 +1417,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek terracotta vessel water jug hydria",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1986.23/1986.23_print.jpg",
+     "cl": "153270",
      "at": "Entregar tierra y agua"
     },
     {
-     "photo": "Thebes Greece Cadmea",
-     "src": "commons",
+     "commons": "Cadmea, Thebes.jpg",
      "at": "Tebas",
      "lt": [
       "Tebas",
@@ -1476,7 +1430,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     555.44,
     16.08
@@ -1489,17 +1443,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek alliance hoplites marching vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1929.134/1929.134_print.jpg",
+     "cl": "110567",
      "at": "Solo una treintena"
     },
     {
-     "photo": "ancient Greek well",
-     "src": "commons",
+     "commons": "Ancient Greek Football Player.jpg",
      "at": "a un pozo"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     572.12,
     19.84
@@ -1514,23 +1467,15 @@
     {
      "photo": "Delphi Treasury of the Athenians",
      "src": "commons",
-     "at": "también consultó a Delfos",
-     "lt": [
-      "Tesoro de los atenienses",
-      "Delfos · hoy"
-     ]
+     "at": "también consultó a Delfos"
     },
     {
-     "photo": "Greek trireme ship vase",
-     "src": "commons,met,cleveland",
+     "commons": "Artemisia at the Battle of Salamis.jpg",
      "kw": "MURALLA DE MADERA",
-     "at": "una muralla de madera",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "at": "una muralla de madera"
     },
     {
-     "photo": "Themistocles bust",
-     "src": "commons",
+     "commons": "Busto di temistocle, da originale greco del V secolo ac, dal decumano presso il casamento del temistocle.JPG",
      "at": "Temístocles",
      "lt": [
       "Temístocles",
@@ -1539,7 +1484,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     592.56,
     26.56
@@ -1557,8 +1502,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Laurion silver mines ancient",
-     "src": "commons",
+     "commons": "Greece Lavrion Mines 1903.jpg",
      "at": "con la plata",
      "lt": [
       "Minas de Laurio",
@@ -1566,12 +1510,12 @@
      ]
     },
     {
-     "photo": "Athenian silver tetradrachm owl",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1941.296/1941.296_print.jpg",
+     "cl": "120477",
      "at": "unos doscientos trirremes"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     619.72,
     17.44
@@ -1584,12 +1528,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek mountain pass Thermopylae aerial",
-     "src": "commons",
+     "commons": "Thermopylae-Air-View.jpg",
      "at": "dónde parar"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     637.76,
     6.16
@@ -1622,8 +1565,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Sparta ancient theatre ruins Taygetus",
-     "src": "commons",
+     "commons": "View of Mount Taygetus from the ruins of the ancient theatre of Sparta on 15 May 2019.jpg",
      "at": "Esparta",
      "lt": [
       "Esparta",
@@ -1631,15 +1573,12 @@
      ]
     },
     {
-     "photo": "Sparta Eurotas valley Taygetus",
-     "src": "commons,met,cleveland",
+     "commons": "View of modern Sparta, Mount Taygetus and the Eurotas from the Menelaion on 15 May 2019.jpg",
      "kw": "SIN MURALLAS",
-     "at": "Una ciudad sin murallas",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "at": "Una ciudad sin murallas"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     644.52,
     13.36
@@ -1657,22 +1596,24 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek boy athlete vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1929.441/1929.441_print.jpg",
+     "cl": "110927",
      "at": "A los siete años"
     },
     {
-     "photo": "Eurotas river reeds Sparta",
-     "src": "commons",
+     "commons": "The River Eurotas in Sparta on 15 May 2019.jpg",
+     "lt": [
+      "Río Eurotas",
+      "Esparta · hoy"
+     ],
      "at": "lechos de juncos"
     },
     {
-     "photo": "Greek boys wrestling vase",
-     "src": "met,cleveland,commons",
+     "commons": "Peithinos ARV 115 2 Peleus and Thetis - youths and boys - youths and women (01).jpg",
      "at": "aprendían a robar"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     658.48,
     19.92
@@ -1685,17 +1626,17 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Spartan hoplite bronze figurine",
-     "src": "commons,met",
+     "image": "https://openaccess-cdn.clevelandart.org/1967.32/1967.32_print.jpg",
+     "cl": "143423",
      "at": "A los veinte"
     },
     {
-     "photo": "Greek symposium banquet vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1926.549/1926.549_print.jpg",
+     "cl": "108878",
      "at": "Comían juntos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     679.0,
     15.84
@@ -1708,13 +1649,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Spartan warrior bronze long hair",
-     "src": "met,commons",
+     "image": "https://openaccess-cdn.clevelandart.org/1951.27/1951.27_print.jpg",
+     "cl": "128277",
      "at": "el pelo largo"
     },
     {
-     "photo": "Xenophon bust",
-     "src": "commons",
+     "commons": "Xenophon.jpg",
      "at": "Jenofonte",
      "lt": [
       "Jenofonte",
@@ -1722,7 +1662,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     695.44,
     17.84
@@ -1740,8 +1680,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek farmers plowing black-figure",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1923.645/1923.645_print.jpg",
+     "cl": "105541",
      "at": "Los ilotas"
     },
     {
@@ -1753,7 +1693,7 @@
      "at": "quizá siete"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     713.88,
     17.44
@@ -1766,8 +1706,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Heracles black-figure amphora",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1970.16/1970.16_print.jpg",
+     "cl": "144965",
      "at": "Heracles"
     },
     {
@@ -1796,7 +1736,7 @@
      "at": "dos reyes a la vez"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     731.92,
     14.0
@@ -1809,24 +1749,20 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Laconia landscape Peloponnese",
-     "src": "commons",
-     "at": "Laconia",
+     "commons": "View of Mount Taygetus from the Menelaion) on 15 May 2019.jpg",
      "lt": [
       "Laconia",
-      "Peloponeso · hoy"
-     ]
+      "monte Taigeto · hoy"
+     ],
+     "at": "Laconia"
     },
     {
-     "photo": "Spartan bronze hoplite figurine",
-     "src": "commons,met,cleveland",
+     "commons": "The ruins of the ancient Theatre of Sparta on May 15, 2019.jpg",
      "kw": "LACÓNICO",
-     "at": "«lacónico»",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "at": "«lacónico»"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     746.52,
     21.36
@@ -1844,8 +1780,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Spartan girl running bronze figurine British Museum",
-     "src": "commons",
+     "commons": "Bronze figure of a running girl, Greek, about 520-500 BC, Found at Prizren, Kosovo, Winning at the ancient Games, British Museum (7667206370).jpg",
      "at": "las mujeres de Esparta"
     },
     {
@@ -1857,7 +1792,7 @@
      "at": "Gorgo respondió"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     768.48,
     20.24
@@ -1870,14 +1805,13 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Spartan hoplite marble torso Leonidas",
-     "src": "commons",
-     "at": "era Leónidas",
+     "commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
      "lt": [
       "Leónidas",
-      "Rey de Esparta desde h. 489 a. C.",
+      "Rey de Esparta · pintura de J.-L. David, 1814",
       "griegos"
-     ]
+     ],
+     "at": "era Leónidas"
     },
     {
      "card": {
@@ -1901,7 +1835,7 @@
      "at": "Era el tercer hijo"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     789.32,
     22.8
@@ -1919,8 +1853,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Delphi sanctuary Apollo",
-     "src": "commons",
+     "commons": "The Temple of Apollo (Sanctuary of Apollo at Delphi) on October 4, 2020.jpg",
      "at": "oráculo de Delfos",
      "lt": [
       "Delfos",
@@ -1928,12 +1861,15 @@
      ]
     },
     {
-     "photo": "Pythia oracle Delphi kylix Themis Aegeus",
-     "src": "commons",
+     "commons": "Heinrich Leutemann - The Oracle at Delphi (1885).jpg",
+     "lt": [
+      "La Pitia",
+      "grabado de 1885"
+     ],
      "at": "la Pitia"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     812.72,
     15.28
@@ -1954,7 +1890,7 @@
      "at": "Para vosotros"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     828.6,
     11.44
@@ -1967,12 +1903,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Leonidas at Thermopylae David detail",
-     "src": "commons",
+     "commons": "David - Variation on Leonidas at Thermopylae, James Mackinnon, London.jpg",
      "at": "Heródoto está convencido"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     840.64,
     8.96
@@ -1985,21 +1920,17 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek festival procession vase Apollo",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1930.104/1930.104_print.jpg",
+     "cl": "111527",
      "at": "las Carneas"
     },
     {
      "photo": "Olympia stadium ancient",
      "src": "commons",
-     "at": "los Juegos Olímpicos",
-     "lt": [
-      "Olimpia",
-      "hoy"
-     ]
+     "at": "los Juegos Olímpicos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     850.2,
     16.08
@@ -2017,13 +1948,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "full moon night sky Greece",
-     "src": "commons",
+     "commons": "Full Moon (6043616882).jpg",
      "at": "hasta la luna llena"
     },
     {
-     "photo": "Marathon tumulus Soros",
-     "src": "commons",
+     "commons": "Marathonn.jpg",
      "at": "Llegaron a Maratón",
      "lt": [
       "Túmulo de Maratón",
@@ -2031,7 +1960,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     866.88,
     20.4
@@ -2044,20 +1973,17 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek hoplites marching black-figure",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1965.78/1965.78_print.jpg",
+     "cl": "142227",
      "at": "una avanzadilla"
     },
     {
-     "photo": "Spartan hoplite shield lambda vase",
-     "src": "commons,met,cleveland",
+     "commons": "Jacques-Louis David - Leonidas at Thermopylae (detail) - WGA6096.jpg",
      "kw": "300",
-     "at": "Esa avanzadilla eran",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "at": "Esa avanzadilla eran"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     887.88,
     13.04
@@ -2070,12 +1996,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek father child farewell vase warrior departure",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1926.241/1926.241_print.jpg",
+     "cl": "108535",
      "at": "hombres que tuvieran hijos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     901.52,
     10.4
@@ -2093,8 +2019,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Plutarch bust Delphi",
-     "src": "commons",
+     "commons": "Head of a philosopher - Archaeological Museum of Delphi.jpg",
      "at": "Plutarco",
      "lt": [
       "Plutarco",
@@ -2102,7 +2027,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     912.52,
     14.0
@@ -2123,7 +2048,7 @@
      "at": "Casarte"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     927.12,
     3.2
@@ -2136,12 +2061,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek warrior departure vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1929.135/1929.135_print.jpg",
+     "cl": "110568",
      "at": "No dice"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     930.92,
     5.6
@@ -2154,12 +2079,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Spartan hoplite figurine",
-     "src": "commons,met",
+     "commons": "1783 Bocage Map of the Topography of Sparta, Ancient Greece, and Environs - Geographicus - Sparta2-white-1793.jpg",
      "at": "los éforos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     937.12,
     6.96
@@ -2180,7 +2104,7 @@
      "at": "Son demasiados"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     944.68,
     2.4
@@ -2238,7 +2162,7 @@
      "at": "unos siete mil"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     947.68,
     16.48
@@ -2277,7 +2201,7 @@
      "at": "el primer mito"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     964.76,
     8.96
@@ -2353,8 +2277,7 @@
      "at": "un sitio concreto"
     },
     {
-     "photo": "Thermopylae hot springs",
-     "src": "commons",
+     "commons": "Hot spring at Thermopylae, September 2022 01.jpg",
      "at": "las «Puertas Calientes»",
      "lt": [
       "Manantiales de las Termópilas",
@@ -2362,7 +2285,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     974.32,
     17.36
@@ -2375,13 +2298,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Thermopylae plain highway today",
-     "src": "commons",
-     "at": "Hoy el paisaje engaña",
+     "commons": "Thermopylae 02.jpg",
      "lt": [
-      "Las Termópilas",
-      "hoy"
-     ]
+      "Hoy",
+      "el antiguo paso de las Termópilas"
+     ],
+     "at": "Hoy el paisaje engaña"
     },
     {
      "card": {
@@ -2405,7 +2327,7 @@
      "at": "Pero en el cuatrocientos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     992.28,
     14.88
@@ -2423,12 +2345,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Thermopylae narrow pass Kallidromo slope",
-     "src": "commons",
+     "commons": "Thermopylae 04.jpg",
      "at": "el lugar perfecto"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1007.76,
     15.04
@@ -2441,8 +2362,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "ancient Greek fortification wall stones",
-     "src": "met,cleveland,commons",
+     "commons": "Messene 01.jpg",
      "at": "una vieja muralla"
     },
     {
@@ -2484,7 +2404,7 @@
      "at": "en el mar"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1023.4,
     18.96
@@ -2497,8 +2417,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Themistocles bust Ostia",
-     "src": "commons",
+     "commons": "Themistokles, Herrenbüste.jpg",
      "at": "Temístocles",
      "lt": [
       "Temístocles",
@@ -2511,12 +2430,12 @@
      "src": "commons",
      "at": "en el mar a la vez",
      "lt": [
-      "Olympias",
-      "réplica moderna de un trirreme · hoy"
+      "Hoy",
+      "réplica de un trirreme griego"
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1042.96,
     12.56
@@ -2571,12 +2490,11 @@
      "at": "junto al cabo Sepias"
     },
     {
-     "photo": "stormy sea Aegean rocks coast",
-     "src": "commons",
+     "commons": "Ivan Konstantinovich Aivazovsky - Gathering Storm, 1899.jpg",
      "at": "se levantó un temporal"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1056.12,
     17.36
@@ -2597,21 +2515,17 @@
      "at": "al menos cuatrocientos"
     },
     {
-     "photo": "ancient Greek gold cup phiale",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1920.267/1920.267_print.jpg",
+     "cl": "101482",
      "at": "oro, plata y copas"
     },
     {
      "photo": "Boreas north wind vase",
      "src": "met,cleveland,commons",
-     "at": "al viento del norte",
-     "lt": [
-      "Bóreas",
-      "el viento del norte"
-     ]
+     "at": "al viento del norte"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1074.08,
     17.84
@@ -2624,13 +2538,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek hoplites assembly vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1929.134/1929.134_print.jpg",
+     "cl": "110567",
      "at": "muchos griegos quisieron"
     },
     {
-     "photo": "Isthmus of Corinth",
-     "src": "commons",
+     "commons": "Corinth, Greece (NASA).jpg",
      "at": "el istmo de Corinto",
      "lt": [
       "Istmo de Corinto",
@@ -2638,7 +2551,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1092.52,
     17.44
@@ -2656,12 +2569,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Persian horseman relief",
-     "src": "commons,met",
+     "commons": "ParthianHorseman.jpg",
      "at": "envió a un jinete"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1110.56,
     8.8
@@ -2674,8 +2586,8 @@
    "voice": "HER",
    "shots": [
     {
-     "photo": "Greek athletes exercising vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1929.441/1929.441_print.jpg",
+     "cl": "110927",
      "at": "hacían ejercicio"
     },
     {
@@ -2688,7 +2600,7 @@
      "at": "Nadie lo persiguió"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1119.96,
     11.44
@@ -2701,13 +2613,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Persepolis king audience relief",
-     "src": "commons",
+     "commons": "Persepolis theasury.jpg",
      "at": "Jerjes no entendía"
     },
     {
-     "photo": "Achaemenid nobles relief Persepolis",
-     "src": "commons",
+     "commons": "Portray of a persian guard (4571320017).jpg",
      "at": "Demarato",
      "lt": [
       "Demarato",
@@ -2716,7 +2626,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1132.0,
     8.32
@@ -2737,7 +2647,7 @@
      "at": "Tienen esa costumbre"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1140.92,
     15.36
@@ -2758,7 +2668,7 @@
      "at": "Cuatro días"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1156.88,
     14.32
@@ -2771,12 +2681,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek hoplite shield spear vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1967.33/1967.33_print.jpg",
+     "cl": "143438",
      "at": "entregara las armas"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1171.8,
     15.04
@@ -2797,7 +2707,7 @@
      "at": "Venid"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1187.44,
     1.52
@@ -2831,12 +2741,11 @@
      "at": "Demasiado perfecta"
     },
     {
-     "photo": "Persian archers Susa frieze glazed",
-     "src": "commons",
+     "commons": "Berlin - Pergamon Museum - Persian warriors - 20150523 6849.jpg",
      "at": "cuando disparaban sus flechas"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1189.56,
     22.16
@@ -2857,7 +2766,7 @@
      "at": "lucharemos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1212.32,
     5.52
@@ -2870,18 +2779,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek warrior helmet profile vase",
-     "src": "met,cleveland",
-     "at": "el más valiente"
-    },
-    {
-     "photo": "Achaemenid king relief Persepolis throne",
-     "src": "commons",
+     "commons": "SC 337334 - Persepolis. Palace of Xerxes. (52256758190).jpg",
      "at": "Al quinto día",
      "tr": "black"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1218.44,
     12.16
@@ -2924,7 +2827,7 @@
      "at": "Hasta aquí"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1231.2,
     18.48
@@ -2952,8 +2855,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Median soldier Persepolis relief",
-     "src": "commons",
+     "commons": "Persepolis The Persian Soldiers-edit1.jpg",
      "at": "los medos",
      "lt": [
       "Medos y cisios",
@@ -2962,12 +2864,11 @@
      ]
     },
     {
-     "photo": "Persian infantry relief",
-     "src": "commons",
+     "commons": "Lefkadia The Judgment Tomb – IX (37242298422).jpg",
      "at": "Avanzan por el camino"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1250.28,
     17.36
@@ -2985,22 +2886,17 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Corinthian helmet bronze",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/2024.63/2024.63_print.jpg",
+     "cl": "680766",
      "at": "Casco de bronce"
     },
     {
-     "photo": "hoplite armor greaves bronze",
-     "src": "met,cleveland",
-     "at": "grebas"
-    },
-    {
-     "photo": "hoplite shield aspis vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1941.295.a/1941.295.a_print.jpg",
+     "cl": "120475",
      "at": "un escudo redondo"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1268.24,
     17.12
@@ -3013,8 +2909,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "phalanx hoplites vase Chigi",
-     "src": "commons,met",
+     "commons": "Chigi Painter - CVPAP 32 A 3 - battle of phalanxes - chariots and riders - judgement of Paris - hunting scenes - Roma MNEVG 22679 - 23.jpg",
      "at": "Formaban en falange"
     },
     {
@@ -3039,15 +2934,12 @@
      "at": "cada escudo"
     },
     {
-     "photo": "hoplite phalanx black-figure",
-     "src": "commons,met,cleveland",
-     "kw": "UN MURO DE BRONCE",
+     "commons": "Amphora phalanx Staatliche Antikensammlungen 1429.jpg",
      "at": "un muro de bronce",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw": "UN MURO DE BRONCE"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1285.96,
     14.72
@@ -3060,17 +2952,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Persian soldier wicker shield vase",
-     "src": "met,cleveland,commons",
+     "commons": "Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg",
      "at": "Los persas luchaban"
     },
     {
-     "photo": "Greek hoplite fighting Persian kylix",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1965.78/1965.78_print.jpg",
+     "cl": "142227",
      "at": "chocaban de frente"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1301.28,
     15.68
@@ -3092,7 +2983,7 @@
      "at": "Cayeron muchos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1317.56,
     10.88
@@ -3105,8 +2996,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Immortals frieze of archers Susa Louvre",
-     "src": "commons",
+     "commons": "Immortels - dynamosquito.jpg",
      "at": "los Inmortales",
      "lt": [
       "Los Inmortales",
@@ -3123,8 +3013,7 @@
      "at": "Eran diez mil"
     },
     {
-     "photo": "Achaemenid guard relief spear",
-     "src": "commons",
+     "commons": "Royal guard carrying a quiver and holding a long spear; member of the so-called Immortals (the 1000 special royal guards). From the Palace of Darius I at Susa, Iran. Achaemenid period, reign of Darius I, 521-500 BCE. British Museum.jpg",
      "at": "Hidarnes",
      "lt": [
       "Hidarnes",
@@ -3133,7 +3022,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1329.04,
     18.96
@@ -3151,17 +3040,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Susa archers glazed brick frieze detail",
-     "src": "commons",
+     "commons": "Archer frieze Louvre AOD487.jpg",
      "at": "Los relieves"
     },
     {
-     "photo": "Persepolis guards spears relief",
-     "src": "commons",
+     "image": "https://openaccess-cdn.clevelandart.org/1943.279/1943.279_print.jpg",
+     "cl": "123022",
      "at": "granadas de plata"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1348.6,
     12.24
@@ -3174,17 +3062,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek hoplites running vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1923.645/1923.645_print.jpg",
+     "cl": "105541",
      "at": "daban la espalda"
-    },
-    {
-     "photo": "hoplites turning charge vase",
-     "src": "met,cleveland,commons",
-     "at": "se giraban todos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1361.44,
     21.2
@@ -3197,17 +3080,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek hoplites resting vase",
-     "src": "met,cleveland",
-     "at": "luchaban por turnos"
-    },
-    {
-     "photo": "Kallidromo mountain forest Greece",
-     "src": "commons",
+     "commons": "Foloi oak forest.JPG",
      "at": "vigilar algo en la montaña"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1383.24,
     13.6
@@ -3225,12 +3102,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Xerxes throne relief Persepolis Treasury",
-     "src": "commons",
+     "commons": "Right Section of the Treasury Reliefs (4735541667).jpg",
      "at": "sentado en su trono"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1397.44,
     8.32
@@ -3252,7 +3128,7 @@
      "at": "saltó tres veces"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1406.36,
     8.0
@@ -3265,12 +3141,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek warrior wounded vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1978.59/1978.59_print.jpg",
+     "cl": "149405",
      "at": "El segundo día"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1414.96,
     11.68
@@ -3283,17 +3159,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Corinthian helmet bronze front",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1926.54/1926.54_print.jpg",
+     "cl": "108870",
      "at": "dentro de un casco de bronce"
     },
     {
-     "photo": "Greeks fighting Persians vase",
-     "src": "met,cleveland,commons",
+     "commons": "Darius Vase Fight between Greeks and Persians.jpg",
      "at": "Y el polvo"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1427.24,
     19.92
@@ -3311,17 +3186,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "hoplite fighting spear thrust vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1978.59/1978.59_print.jpg",
+     "cl": "149405",
      "at": "Se luchaba empujando"
-    },
-    {
-     "photo": "Greek bronze spear butt sauroter",
-     "src": "met,cleveland",
-     "at": "la contera de hierro"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1447.76,
     21.44
@@ -3334,17 +3204,15 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "ancient Greek trireme vase ship",
-     "src": "met,cleveland,commons",
+     "commons": "Artemisia at the Battle of Salamis.jpg",
      "at": "en el mar"
     },
     {
-     "photo": "Achaemenid king relief",
-     "src": "commons",
+     "commons": "Achaemenid king killing a Greek hoplite.jpg",
      "at": "Jerjes no sabía"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1469.8,
     14.8
@@ -3357,8 +3225,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek trireme ram bronze",
-     "src": "met,commons",
+     "commons": "Trireme Ram.jpg",
      "at": "los trirremes griegos"
     },
     {
@@ -3370,8 +3237,7 @@
      "at": "unos doscientos setenta"
     },
     {
-     "photo": "Artemision Euboea coast",
-     "src": "commons",
+     "commons": "Herodotus (1920) (14760572736).jpg",
      "at": "Artemisio",
      "lt": [
       "Cabo Artemisio",
@@ -3379,7 +3245,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1485.2,
     22.32
@@ -3397,13 +3263,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek shepherd figurine",
-     "src": "met,cleveland,commons",
+     "commons": "Berger - Musée du Louvre AGER Br 4248 ; MND 1914.jpg",
      "at": "Entonces",
      "tr": "black"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1508.12,
     2.08
@@ -3436,12 +3301,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek shepherd terracotta figurine",
-     "src": "met,cleveland,commons",
+     "commons": "Thermopylae 02.jpg",
      "at": "Se llamaba Efialtes"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1510.8,
     10.32
@@ -3497,21 +3361,15 @@
      "at": "corría un sendero"
     },
     {
-     "photo": "Anopaea path Kallidromo oak forest",
-     "src": "commons",
+     "commons": "Foloi road1.JPG",
      "at": "un bosque de robles"
     },
     {
-     "photo": "Kallidromo mountain path",
-     "src": "commons",
-     "at": "Anopea",
-     "lt": [
-      "Monte Calídromo",
-      "el sendero de Anopea · hoy"
-     ]
+     "commons": "Thermopylae 04.jpg",
+     "at": "Anopea"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1521.72,
     14.08
@@ -3522,19 +3380,8 @@
    "k": "N",
    "text": "Leónidas lo conocía. Por eso había mandado allí arriba a los mil focenses: para cerrar esa puerta trasera. Pero un sendero de noche, en un bosque, con mil hombres que no esperan a nadie, es una puerta muy fácil de abrir.",
    "voice": "NAR",
-   "shots": [
-    {
-     "photo": "Greek hoplite guard vase",
-     "src": "met,cleveland",
-     "at": "a los mil focenses",
-     "lt": [
-      "Los focenses",
-      "1.000 hoplitas en el sendero",
-      "griegos"
-     ]
-    }
-   ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "shots": [],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1536.4,
     13.2
@@ -3552,17 +3399,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "ancient Greek oil lamp terracotta",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1986.1041/1986.1041_print.jpg",
+     "cl": "152919",
      "at": "se encienden las lámparas"
     },
     {
-     "photo": "Persian spearmen relief night",
-     "src": "met,cleveland,commons",
+     "commons": "Archers frieze Darius palace Louvre AOD487.jpg",
      "at": "Caminaron toda la noche"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1550.2,
     11.44
@@ -3575,11 +3421,6 @@
    "voice": "HER",
    "shots": [
     {
-     "photo": "oak forest Greece mountain",
-     "src": "met,cleveland,commons",
-     "at": "las hojas de los robles"
-    },
-    {
      "card": {
       "type": "quote",
       "text": "Se oía un enorme ruido de hojas pisadas.",
@@ -3589,7 +3430,7 @@
      "at": "ruido de hojas"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1562.24,
     14.4
@@ -3600,19 +3441,8 @@
    "k": "N",
    "text": "[serious] Los focenses, sorprendidos, pensaron que el ataque iba contra ellos. Así que se retiraron a la cumbre para morir allí con honor. Pero los persas, bajo una lluvia de flechas, ni se pararon. No les interesaban los focenses. Siguieron bajando por el otro lado.",
    "voice": "NAR",
-   "shots": [
-    {
-     "photo": "Greek hoplites hilltop defensive",
-     "src": "met,cleveland",
-     "at": "se retiraron a la cumbre"
-    },
-    {
-     "photo": "Kallidromo mountain slope forest",
-     "src": "met,cleveland,commons",
-     "at": "Siguieron bajando"
-    }
-   ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "shots": [],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1577.24,
     15.6
@@ -3625,8 +3455,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Kallidromo mountain night",
-     "src": "commons",
+     "commons": "Thermopylae-Air-View.jpg",
      "at": "Había sido una marcha"
     },
     {
@@ -3635,7 +3464,7 @@
      "at": "Al amanecer"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1593.44,
     19.44
@@ -3653,13 +3482,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Thermopylae dawn mountains",
-     "src": "commons",
+     "commons": "Battle of Thermopylae - pass.jpg",
      "at": "La puerta trasera",
      "tr": "black"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1613.48,
     2.4
@@ -3680,7 +3508,7 @@
      "kw_dur": 2.2
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1616.48,
     11.36
@@ -3701,7 +3529,7 @@
      "at": "había otras versiones"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1628.44,
     16.8
@@ -3735,7 +3563,7 @@
      "at": "Muchos historiadores"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1645.84,
     16.96
@@ -3753,12 +3581,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Phocis mountains Greece",
-     "src": "commons",
+     "commons": "Fócida 5.jpg",
      "at": "los mil focenses"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1663.4,
     15.92
@@ -3801,7 +3628,7 @@
      "at": "Hasta aquí"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1679.92,
     20.0
@@ -3829,8 +3656,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek seer extispicy vase hepatoscopy",
-     "src": "met,cleveland,commons",
+     "image": "https://openaccess-cdn.clevelandart.org/1926.242/1926.242_print.jpg",
+     "cl": "108536",
      "at": "el adivino del ejército",
      "lt": [
       "Megistias",
@@ -3839,12 +3666,11 @@
      ]
     },
     {
-     "photo": "Greek sacrifice altar vase",
-     "src": "met,cleveland,commons",
+     "commons": "Sacrifice Louvre K5.jpg",
      "at": "con el amanecer"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1700.52,
     16.0
@@ -3860,14 +3686,8 @@
    "k": "N",
    "text": "Después llegaron unos desertores del campo persa con la noticia del rodeo. Y al rayar el día, bajaron corriendo los vigías que habían apostado en las alturas. Ya no había duda. En pocas horas estarían rodeados.",
    "voice": "NAR",
-   "shots": [
-    {
-     "photo": "Greek runner vase",
-     "src": "met,cleveland",
-     "at": "bajaron corriendo los vigías"
-    }
-   ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "shots": [],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1717.12,
     13.12
@@ -3880,20 +3700,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek warriors council vase",
-     "src": "met,cleveland",
-     "at": "se reunieron en consejo"
-    },
-    {
-     "photo": "Leonidas at Thermopylae David",
-     "src": "commons,met,cleveland",
-     "kw": "SE QUEDARON",
+     "commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
      "at": "se quedaron",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw": "SE QUEDARON"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1730.84,
     16.56
@@ -3927,7 +3739,7 @@
      "at": "Heródoto ofrece dos versiones"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1748.0,
     18.08
@@ -3949,7 +3761,7 @@
      "at": "Si se quedaba"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1766.68,
     5.28
@@ -3962,17 +3774,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Delphi Apollo temple",
-     "src": "commons",
+     "commons": "Delphes, Grèce. Temple d'Apollon. Six colonnes.jpg",
      "at": "Ahí está el oráculo"
-    },
-    {
-     "photo": "Greek hoplites retreating road vase",
-     "src": "met,cleveland",
-     "at": "Si todos se iban a la vez"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1772.56,
     21.76
@@ -3990,12 +3796,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Spartan hoplite statue",
-     "src": "commons,met",
+     "commons": "Helmed Hoplite Sparta.JPG",
      "at": "Para un espartano"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1794.92,
     17.04
@@ -4008,12 +3813,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek father son farewell vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1928.859/1928.859_print.jpg",
+     "cl": "110237",
      "at": "a su único hijo"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1812.56,
     11.12
@@ -4026,25 +3831,20 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Thespiae Boeotia landscape",
-     "src": "commons",
-     "at": "setecientos hombres de Tespias",
+     "commons": "Ruins of Thespiae, from a Sketch by Daniel - Wordsworth Christopher - 1882.jpg",
      "lt": [
-      "Demófilo",
-      "Jefe de los 700 tespios",
-      "griegos"
-     ]
+      "Tespias",
+      "dibujo de 1882"
+     ],
+     "at": "setecientos hombres de Tespias"
     },
     {
-     "photo": "Boeotian hoplite vase",
-     "src": "commons,met,cleveland",
-     "kw": "700 TESPIOS",
+     "commons": "Painter of Munich 1410 - ABV 311 1 - battle - hoplite and two amazons leading horse - München AS 1410 - 03.jpg",
      "at": "Nadie les obligó",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw": "700 TESPIOS"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1824.28,
     16.0
@@ -4062,8 +3862,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Theban hoplite vase Boeotian",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1941.295.a/1941.295.a_print.jpg",
+     "cl": "120475",
      "at": "cuatrocientos tebanos"
     },
     {
@@ -4092,7 +3892,7 @@
      "at": "Y con todos ellos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1840.88,
     20.0
@@ -4105,8 +3905,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Thespiae Boeotia",
-     "src": "commons",
+     "commons": "Relief of Thespiae, lithograph by Louis Dupré - 1827.jpg",
      "at": "Los tespios pagaron",
      "lt": [
       "Tespias",
@@ -4114,12 +3913,11 @@
      ]
     },
     {
-     "photo": "fallen warriors vase",
-     "src": "met,cleveland,commons",
+     "commons": "Attic Black-figure Neck Amphora Two Warriors Fighting Over a Corpse.jpg",
      "at": "la quemó"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1861.48,
     18.24
@@ -4145,7 +3943,7 @@
      "at": "Unos mil cuatrocientos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1880.32,
     10.8
@@ -4158,12 +3956,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek hoplites meal vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1951.27/1951.27_print.jpg",
+     "cl": "128277",
      "at": "esa mañana"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1891.72,
     5.2
@@ -4184,7 +3982,7 @@
      "at": "Desayunad"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1897.52,
     3.6
@@ -4202,15 +4000,12 @@
      "at": "Jerjes esperó a media mañana"
     },
     {
-     "photo": "hoplite charge black-figure amphora",
-     "src": "commons,met,cleveland",
+     "commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
      "kw": "SALIÓ",
-     "at": "salió",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "at": "salió"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1901.72,
     15.68
@@ -4227,8 +4022,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "hoplites fighting Persians vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1978.59/1978.59_print.jpg",
+     "cl": "149405",
      "at": "avanzaron"
     },
     {
@@ -4237,7 +4032,7 @@
      "at": "Ya no buscaban sobrevivir"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1918.0,
     12.0
@@ -4250,8 +4045,7 @@
    "voice": "HER",
    "shots": [
     {
-     "photo": "Persian soldiers relief",
-     "src": "commons",
+     "commons": "Persepolis two Persian Soldiers.jpg",
      "at": "Detrás de cada batallón"
     },
     {
@@ -4264,7 +4058,7 @@
      "at": "a latigazos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1930.6,
     11.76
@@ -4277,8 +4071,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "broken spear hoplite fallen warrior vase",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1970.82/1970.82_print.jpg",
+     "cl": "145432",
      "at": "las lanzas rotas"
     },
     {
@@ -4293,7 +4087,7 @@
      "tr": "black"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1942.96,
     15.68
@@ -4311,8 +4105,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Achaemenid prince relief Persepolis",
-     "src": "commons",
+     "image": "https://openaccess-cdn.clevelandart.org/1960.175/1960.175_print.jpg",
+     "cl": "136287",
      "at": "dos hermanos del propio Jerjes",
      "lt": [
       "Abrocomes e Hiperantes",
@@ -4321,7 +4115,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1959.24,
     11.52
@@ -4334,8 +4128,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "battle over body of fallen warrior vase Patroclus",
-     "src": "met,cleveland,commons",
+     "image": "https://openaccess-cdn.clevelandart.org/1927.6/1927.6_print.jpg",
+     "cl": "109391",
      "at": "alrededor del cuerpo de Leónidas"
     },
     {
@@ -4347,7 +4141,7 @@
      "at": "cuatro veces"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1971.36,
     14.96
@@ -4360,13 +4154,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Immortals archers frieze Susa",
-     "src": "met,cleveland,commons",
+     "commons": "Frieze of Archers AOD 488, Louvre 2008.jpg",
      "at": "llegaron los Inmortales",
      "tr": "black"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1986.92,
     3.68
@@ -4379,8 +4172,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Kolonos hill Thermopylae",
-     "src": "commons",
+     "commons": "Ancient Greek arms and armor at the National Archaeological Museum on October 6, 2021.jpg",
      "at": "una pequeña colina",
      "lt": [
       "Colina del Kolonós",
@@ -4388,7 +4180,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     1991.2,
     13.68
@@ -4410,12 +4202,11 @@
      "at": "Allí se defendieron"
     },
     {
-     "photo": "ancient arrowheads bronze",
-     "src": "met,cleveland,commons",
+     "commons": "Early Iron Age Bronze Arrowheads, 700-300 BC.jpg",
      "at": "bajo sus proyectiles"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2005.48,
     9.04
@@ -4433,7 +4224,7 @@
      "at": "hasta que no quedó nadie"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2015.12,
     8.64
@@ -4451,12 +4242,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Boeotian warriors vase",
-     "src": "met,cleveland",
+     "commons": "Bas-reliëf met ruiter uit Thespiae, RP-P-OB-40.964.jpg",
      "at": "¿Y los tebanos?"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2024.36,
     16.72
@@ -4479,7 +4269,7 @@
      "at": "recorrió el campo"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2041.68,
     14.0
@@ -4501,7 +4291,7 @@
      "at": "Ordenó"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2056.28,
     10.88
@@ -4519,7 +4309,7 @@
      "at": "mandó llamar a Demarato"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2067.76,
     7.92
@@ -4541,7 +4331,7 @@
      "at": "Demarato, eres"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2076.28,
     10.16
@@ -4562,7 +4352,7 @@
      "at": "En Esparta hay"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2087.04,
     8.88
@@ -4575,12 +4365,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Persian king relief Persepolis",
-     "src": "commons",
+     "commons": "Relief of Xerxes at Doorway of his Palace, Persepolis, Iran.jpg",
      "at": "Ocho mil como esos"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2096.52,
     7.76
@@ -4613,12 +4402,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "ancient trireme relief",
-     "src": "commons,met",
+     "commons": "Parts of a votive relief with a depiction of a trireme (Lenormant). 4th cent. BC..jpg",
      "at": "su flota"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2104.88,
     13.6
@@ -4642,14 +4430,9 @@
       "label": "muertos persas según Heródoto"
      },
      "at": "unos veinte mil"
-    },
-    {
-     "photo": "ancient battlefield burial",
-     "src": "met,cleveland,commons",
-     "at": "los enterró en zanjas"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2119.08,
     21.04
@@ -4662,8 +4445,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Kolonos hill Thermopylae Simonides",
-     "src": "commons",
+     "commons": "Thermopiles memorial epitaph.jpg",
      "at": "esa colina"
     },
     {
@@ -4676,7 +4458,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2140.72,
     14.64
@@ -4710,7 +4492,7 @@
      "at": "Muchas eran de tipo oriental"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2155.96,
     15.28
@@ -4726,23 +4508,8 @@
    "k": "N",
    "text": "Cuando Heródoto visitó el paso, sobre aquella colina había un león de piedra en honor de Leónidas. Y había columnas con inscripciones. Una era para todos los que lucharon allí. Otra, solo para los espartanos. Las escribió, o al menos así se creía, el poeta Simónides.",
    "voice": "NAR",
-   "shots": [
-    {
-     "photo": "Thermopylae Leonidas monument lion",
-     "src": "commons",
-     "at": "un león de piedra"
-    },
-    {
-     "photo": "Simonides epigram stone Thermopylae",
-     "src": "commons",
-     "at": "columnas con inscripciones",
-     "lt": [
-      "Epitafio de Simónides",
-      "piedra moderna de 1955 · Termópilas"
-     ]
-    }
-   ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "shots": [],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2171.84,
     16.72
@@ -4763,7 +4530,7 @@
      "at": "Aquí"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2189.16,
     5.12
@@ -4784,7 +4551,7 @@
      "kw_dur": 2.2
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2194.88,
     7.6
@@ -4805,7 +4572,7 @@
      "at": "Extranjero"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2203.08,
     5.68
@@ -4839,7 +4606,7 @@
      "at": "los que más destacaron"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2209.36,
     15.52
@@ -4857,12 +4624,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek funerary stele",
-     "src": "met,cleveland",
+     "image": "https://openaccess-cdn.clevelandart.org/1928.859/1928.859_print.jpg",
+     "cl": "110237",
      "at": "el adivino Megistias"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2225.48,
     10.4
@@ -4873,14 +4640,8 @@
    "k": "N",
    "text": "[serious] ¿Sobrevivió alguien? Dos espartanos se habían quedado atrás antes del final, enfermos de los ojos. Uno, Éurito, al enterarse del rodeo, se puso la armadura, pidió a su ilota que lo llevara al frente y murió luchando. El otro, Aristodemo, volvió a Esparta.",
    "voice": "NAR",
-   "shots": [
-    {
-     "photo": "Greek hoplite arming vase",
-     "src": "met,cleveland",
-     "at": "se puso la armadura"
-    }
-   ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "shots": [],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2236.48,
     16.72
@@ -4893,8 +4654,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Sparta ruins acropolis",
-     "src": "commons",
+     "commons": "Acropolis of Sparta.jpg",
      "at": "En Esparta no hubo piedad"
     },
     {
@@ -4906,7 +4666,7 @@
      "kw_dur": 2.2
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2253.8,
     15.84
@@ -4924,8 +4684,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Plataea battlefield",
-     "src": "commons",
+     "commons": "Plataea battlefield.jpg",
      "at": "la batalla de Platea",
      "lt": [
       "Platea",
@@ -4933,7 +4692,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2270.24,
     17.12
@@ -5010,12 +4769,15 @@
      "at": "Tras el paso"
     },
     {
-     "photo": "Acropolis Athens Persian destruction Kritios",
-     "src": "commons",
+     "commons": "-The Calf-Bearer and the Kritios Boy Shortly After Exhumation on the Acropolis-; Danseuse du Temple de Bacchus MET DP150943.jpg",
+     "lt": [
+      "Acrópolis de Atenas",
+      "estatuas rotas por los persas, desenterradas en el siglo XIX"
+     ],
      "at": "incendiaron la Acrópolis"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2287.96,
     13.12
@@ -5028,8 +4790,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Salamis strait Greece",
-     "src": "commons",
+     "commons": "Kaulbach, Wilhelm von - Die Seeschlacht bei Salamis - 1868.JPG",
      "at": "el estrecho de Salamina",
      "lt": [
       "Estrecho de Salamina",
@@ -5037,8 +4798,7 @@
      ]
     },
     {
-     "photo": "Battle of Salamis painting Kaulbach",
-     "src": "commons",
+     "commons": "Wrath of Xerxes at Battle of Salamis by Wilhelm von Kaulbach.jpg",
      "at": "destrozó a la persa"
     },
     {
@@ -5067,7 +4827,7 @@
      "at": "Y un año más tarde"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2301.68,
     18.8
@@ -5085,8 +4845,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Spartan general hoplite bronze statuette",
-     "src": "met,cleveland,commons",
+     "commons": "1783 Bocage Map of the Topography of Sparta, Ancient Greece, and Environs - Geographicus - Sparta2-white-1793.jpg",
      "at": "Pausanias",
      "lt": [
       "Pausanias",
@@ -5095,7 +4854,7 @@
      ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2321.08,
     16.88
@@ -5108,20 +4867,20 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Leonidaion Sparta ruins",
-     "src": "commons",
+     "commons": "Sparta - Tomb of Leonidas - DPLA - ebe507a1efd1897f87666db7538e3435 (page 1).jpg",
+     "lt": [
+      "Tumba de Leónidas",
+      "Esparta · foto antigua"
+     ],
      "at": "llevados a Esparta"
     },
     {
-     "photo": "Greek inscription stone stele names",
-     "src": "commons,met,cleveland",
-     "kw": "LOS 300 NOMBRES",
+     "commons": "Ancient Greece Marble Funerary Stele for Epikrates, son of Kephisios of Ionidai, 4th Cent. BC, found on Salamis.jpg",
      "at": "los nombres de los trescientos",
-     "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw": "LOS 300 NOMBRES"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2338.56,
     15.52
@@ -5159,12 +4918,11 @@
      "at": "Doscientos años después"
     },
     {
-     "photo": "Galatians Gauls ancient sculpture Dying Gaul",
-     "src": "commons",
+     "commons": "Dying Gaul-Musei CapitoliniI-2.jpg",
      "at": "un ejército de gálatas"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2354.68,
     19.28
@@ -5182,21 +4940,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Cato the Elder bust",
-     "src": "commons",
-     "at": "Catón",
-     "lt": [
-      "Marco Porcio Catón",
-      "Oficial romano · 191 a. C."
-     ]
-    },
-    {
      "photo": "Kallidromo mountain Thermopylae",
      "src": "commons",
      "at": "las alturas del Calídromo"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2374.56,
     17.2
@@ -5209,17 +4958,15 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "1941 Greece New Zealand soldiers",
-     "src": "commons",
+     "commons": "King of Greece with New Zealand Soldiers.jpg",
      "at": "mil novecientos cuarenta y uno",
      "lt": [
       "Termópilas",
       "abril de 1941"
-     ],
-     "old": true
+     ]
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2392.36,
     17.2
@@ -5232,17 +4979,15 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Leonidas at Thermopylae Jacques-Louis David",
-     "src": "commons",
+     "commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
      "at": "los pintores del siglo diecinueve"
     },
     {
-     "photo": "Thermopylae Leonidas monument statue",
-     "src": "commons",
+     "commons": "Leonidas Statue.jpg",
      "at": "Cada época"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2410.16,
     18.08
@@ -5285,7 +5030,7 @@
      "at": "Por eso conviene"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2428.84,
     16.72
@@ -5298,12 +5043,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Greek hoplites many vase",
-     "src": "met,cleveland",
+     "commons": "Kaulbach, Wilhelm von - Die Seeschlacht bei Salamis - 1868.JPG",
      "at": "Que unas ciudades que se odiaban"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2446.16,
     23.28
@@ -5321,12 +5065,11 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Thermopylae pass dawn",
-     "src": "commons",
+     "commons": "Battle of Thermopylae - pass.jpg",
      "at": "Una mañana de verano"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2470.04,
     12.32
@@ -5347,7 +5090,7 @@
      "at": "para que, en sus propias palabras"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2482.96,
     19.92
@@ -5365,7 +5108,7 @@
      "at": "Un hombre de Halicarnaso"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2503.48,
     10.96
@@ -5389,7 +5132,7 @@
      "tr": "black"
     }
    ],
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
    "clip": [
     2515.04,
     5.52

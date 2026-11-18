@@ -1,0 +1,1162 @@
+{
+ "id": "prueba_sync",
+ "title": "Prueba de sincronía",
+ "channel": "DocuVox",
+ "stage": "render",
+ "align": true,
+ "align_model": "base",
+ "no_pad": true,
+ "reuse": {
+  "max": 2,
+  "gap": 60
+ },
+ "auto_sfx": {},
+ "sfx_max": 5,
+ "bando": {
+  "izquierda": [
+   190,
+   58,
+   48
+  ],
+  "derecha": [
+   64,
+   104,
+   168
+  ],
+  "centro": [
+   150,
+   150,
+   150
+  ]
+ },
+ "theme": {
+  "base": "crimen",
+  "grade": "frio"
+ },
+ "music": {
+  "tema": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Isaac_Albeniz_-_suite_espanola_op._47_-_leyenda.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "credit": "(See Musopen for author information)",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Isaac_Albeniz_-_suite_espanola_op._47_-_leyenda.ogg"
+  },
+  "tension": {
+   "url": "https://cdn.freesound.org/previews/786/786902_16110885-hq.mp3",
+   "credit": "Soparnik / Freesound",
+   "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://freesound.org/people/Soparnik/sounds/786902/"
+  },
+  "pulso": {
+   "url": "https://cdn.freesound.org/previews/541/541944_6738752-hq.mp3",
+   "credit": "kjartan_abel / Freesound",
+   "license": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://freesound.org/people/kjartan_abel/sounds/541944/"
+  }
+ },
+ "audio": {
+  "voice_db": -20,
+  "bed_db": {
+   "tema": -36,
+   "tension": -37,
+   "pulso": -35
+  },
+  "inter_db": -22,
+  "pause_stretch": 0.45,
+  "pause_cap": 0.6,
+  "gap_n": 1.5,
+  "gap_q": 1.0
+ },
+ "tempo": 0.9,
+ "codec": "hevc",
+ "max_kbps": 750,
+ "audio_kbps": "112k",
+ "brand": {
+  "outro": false
+ },
+ "units": [
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Madrid. Domingo, dieciséis de febrero de mil novecientos treinta y seis. Ocho de la tarde. En el Ministerio de la Gobernación, en la Puerta del Sol, los teléfonos no dejan de sonar. Llegan los primeros datos de toda España. Y el ministro anuncia a la prensa lo que dicen esos números: ventaja para las derechas y el centro.\n\n[short pause] Tres días después, el presidente del Gobierno ha dimitido. El recuento oficial todavía no ha terminado. Y el país ya tiene un nuevo gobierno.\n\n[pause] Cinco meses más tarde, España está en guerra.",
+   "shots": [
+    {
+     "photo": "Puerta del Sol Madrid 1930s",
+     "src": "commons,europeana",
+     "at": "Madrid",
+     "lt": [
+      "Madrid",
+      "16 de febrero de 1936"
+     ]
+    },
+    {
+     "photo": "Ministerio de la Gobernación Puerta del Sol",
+     "src": "commons,europeana",
+     "at": "En el Ministerio de la Gobernación"
+    },
+    {
+     "photo": "Elecciones generales España 1936",
+     "src": "commons,europeana",
+     "at": "Llegan los primeros datos"
+    },
+    {
+     "photo": "Manuel Portela Valladares",
+     "src": "commons,europeana",
+     "at": "el ministro anuncia",
+     "lt": [
+      "Manuel Portela Valladares",
+      "Presidente del Gobierno y ministro de la Gobernación",
+      "centro"
+     ]
+    },
+    {
+     "photo": "Madrid 1936 calle",
+     "src": "commons,europeana",
+     "at": "Tres días después"
+    },
+    {
+     "video": "Spain 1936 newsreel",
+     "old": true,
+     "at": "Cinco meses más tarde",
+     "tr": "black"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rCCg9umKDV2iARN24AEm/iQE3ZVjwsg0FIb7TVitS/content.mp3?Expires=1795010400&KeyName=assets-cdn-key-1&Signature=7RIAdUK_203MmIUOfWRSk4OGCzI="
+  },
+  {
+   "k": "N",
+   "text": "Durante noventa años, la versión aceptada ha sido sencilla: el Frente Popular ganó aquellas elecciones. Por poco, pero las ganó.\n\n[pause] Sin embargo, en los archivos de las juntas provinciales, en las actas notariales, en los papeles del propio presidente de la República, robados en mil novecientos treinta y siete y recuperados por la Guardia Civil setenta y un años después, aparece otra historia.\n\n[serious] La pregunta no es quién ganó en las urnas. [short pause] La pregunta es quién contó los votos. Y qué pasó con ellos entre el diecinueve de febrero y el mes de mayo.\n\n[dramatically] Esta es la historia de las elecciones más discutidas de nuestra historia. [pause] El pucherazo del treinta y seis.",
+   "shots": [
+    {
+     "photo": "Frente Popular 1936 cartel",
+     "src": "commons,europeana",
+     "at": "el Frente Popular ganó",
+     "gloss": [
+      "Frente Popular",
+      "coalición de izquierdas: republicanos, socialistas y comunistas",
+      "izquierda"
+     ]
+    },
+    {
+     "photo": "acta electoral 1936",
+     "src": "commons,europeana",
+     "at": "en los archivos de las juntas"
+    },
+    {
+     "photo": "Niceto Alcalá-Zamora",
+     "src": "commons,europeana",
+     "at": "presidente de la República",
+     "lt": [
+      "Niceto Alcalá-Zamora",
+      "Presidente de la República",
+      "centro"
+     ]
+    },
+    {
+     "photo": "urna electoral Segunda República",
+     "src": "commons,europeana",
+     "at": "La pregunta no es"
+    },
+    {
+     "photo": "Madrid 1936 calle",
+     "src": "commons,europeana",
+     "at": "Esta es la historia"
+    },
+    {
+     "card": {
+      "type": "title",
+      "title": "El pucherazo del 36",
+      "sub": "Las elecciones que nadie terminó de contar"
+     },
+     "at": "El pucherazo del treinta",
+     "tr": "flash"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dIijgljaPqIfNnuU1j4t/enoDg0qwSsV009vWc7yZ/content.mp3?Expires=1795010400&KeyName=assets-cdn-key-1&Signature=l4nNIZZHRP3zy13Jq6VA3KVYwyk="
+  },
+  {
+   "k": "T",
+   "secs": 5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Una República partida en dos",
+    "sub": "Capítulo 1"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Para entender lo que ocurrió aquella semana, hay que volver unos años atrás.\n\nEn abril de mil novecientos treinta y uno, la monarquía cae y nace la Segunda República. Gobiernan primero las izquierdas republicanas y los socialistas, con Manuel Azaña como gran figura. En noviembre de mil novecientos treinta y tres, el péndulo se mueve: las derechas, agrupadas en la CEDA de José María Gil-Robles, ganan las elecciones.\n\n[short pause] Y en octubre de mil novecientos treinta y cuatro, cuando la CEDA entra en el Gobierno, los socialistas y otras fuerzas de izquierda responden con una insurrección. En Asturias se convierte en una revolución armada. Hay más de mil muertos. Miles de detenidos. Entre ellos, buena parte de la dirección socialista.",
+   "shots": [
+    {
+     "photo": "Congreso de los Diputados 1930s",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Proclamación Segunda República 1931",
+     "src": "commons,europeana",
+     "at": "la monarquía cae",
+     "lt": [
+      "Madrid",
+      "14 de abril de 1931"
+     ]
+    },
+    {
+     "photo": "Manuel Azaña",
+     "src": "commons,europeana",
+     "at": "con Manuel Azaña",
+     "lt": [
+      "Manuel Azaña",
+      "Izquierda Republicana",
+      "izquierda"
+     ]
+    },
+    {
+     "photo": "José María Gil-Robles",
+     "src": "commons,europeana",
+     "at": "agrupadas en la CEDA",
+     "lt": [
+      "José María Gil-Robles",
+      "Líder de la CEDA",
+      "derecha"
+     ],
+     "gloss": [
+      "CEDA",
+      "la gran coalición de las derechas católicas",
+      "derecha"
+     ],
+     "gloss_at": 2.5
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Cinco años de República",
+      "events": [
+       [
+        "1931",
+        "Nace la República"
+       ],
+       [
+        "1933",
+        "Ganan las derechas"
+       ],
+       [
+        "1934",
+        "Revolución de Asturias"
+       ],
+       [
+        "1936",
+        "Elecciones de febrero"
+       ]
+      ]
+     },
+     "at": "Y en octubre"
+    },
+    {
+     "photo": "Revolución de Asturias 1934",
+     "src": "commons,europeana",
+     "at": "En Asturias",
+     "lt": [
+      "Asturias",
+      "octubre de 1934"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pYvItuvQg7HB2AMmjikX/yZgykKX8QZufIeZzioee/content.mp3?Expires=1795010400&KeyName=assets-cdn-key-1&Signature=erYzchL_-JKWcIbXbRg2yXJs-mA="
+  },
+  {
+   "k": "N",
+   "text": "En mil novecientos treinta y cinco, los gobiernos de centro-derecha se hunden entre escándalos de corrupción, como el del estraperlo. El presidente de la República, Niceto Alcalá-Zamora, no quiere entregar el Gobierno a Gil-Robles, aunque tiene el grupo más grande de la Cámara. Prefiere a un hombre de su confianza: Manuel Portela Valladares, un centrista sin partido propio.\n\nY Portela recibe un encargo: disolver las Cortes y convocar elecciones. La fecha elegida es el dieciséis de febrero de mil novecientos treinta y seis.\n\n[pause] Frente a frente quedan dos grandes bloques. A la izquierda, el Frente Popular: republicanos de izquierda, socialistas, comunistas, y el voto de muchos anarquistas que esta vez sí van a las urnas. A la derecha, una alianza encabezada por la CEDA. En medio, un centro débil que Portela intenta construir a toda prisa desde el propio Gobierno.",
+   "shots": [
+    {
+     "photo": "Madrid 1936 calle",
+     "src": "commons,europeana"
+    },
+    {
+     "photo": "Niceto Alcalá-Zamora",
+     "src": "commons,europeana",
+     "at": "Niceto Alcalá-Zamora",
+     "lt": [
+      "Niceto Alcalá-Zamora",
+      "Presidente de la República",
+      "centro"
+     ]
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Manuel Portela Valladares",
+      "role": "Presidente del Gobierno desde diciembre de 1935",
+      "group": "Centro · sin partido propio",
+      "color": [
+       150,
+       150,
+       150
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Manuel_Portela_Valladares_1935_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+     },
+     "at": "Manuel Portela Valladares"
+    },
+    {
+     "photo": "Elecciones generales España 1936",
+     "src": "commons,europeana",
+     "at": "convocar elecciones"
+    },
+    {
+     "card": {
+      "type": "cast",
+      "title": "Frente a frente",
+      "groups": [
+       {
+        "name": "Izquierdas · Frente Popular",
+        "color": [
+         190,
+         58,
+         48
+        ],
+        "people": [
+         {
+          "name": "Manuel Azaña",
+          "role": "Izquierda Republicana",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Manuel_Aza%C3%B1a%2C_1933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+         },
+         {
+          "name": "Francisco Largo Caballero",
+          "role": "PSOE",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Francisco_Largo_Caballero_1927_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+         }
+        ]
+       },
+       {
+        "name": "Centro",
+        "color": [
+         150,
+         150,
+         150
+        ],
+        "people": [
+         {
+          "name": "Manuel Portela Valladares",
+          "role": "Presidente del Gobierno",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Manuel_Portela_Valladares_1935_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+         }
+        ]
+       },
+       {
+        "name": "Derechas",
+        "color": [
+         64,
+         104,
+         168
+        ],
+        "people": [
+         {
+          "name": "José María Gil-Robles",
+          "role": "CEDA",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jos%C3%A9_Mar%C3%ADa_Gil-Robles.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+         },
+         {
+          "name": "José Calvo Sotelo",
+          "role": "Monárquicos",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jos%C3%A9_Calvo_Sotelo%2C_retrato_en_Vida_Gallega_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+         }
+        ]
+       }
+      ]
+     },
+     "at": "Frente a frente"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/FmAaZ6sHlNUsNqVGnJtn/lvE6nDOPOQvojykBBpJj/content.mp3?Expires=1795010400&KeyName=assets-cdn-key-1&Signature=3Bv6QogY2gvfetxAFop27Bx1F-A="
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 8,
+   "end": true,
+   "shots": [
+    {
+     "photo": "Congreso de los Diputados 1930s",
+     "src": "commons,europeana"
+    }
+   ]
+  }
+ ],
+ "qpicks": {
+  "photo:Puerta del Sol Madrid 1930s": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Madrid%2C_postales_129.jpg/1920px-Madrid%2C_postales_129.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3350,
+    "h": 2310,
+    "dur": 0,
+    "title": "File:Madrid, postales 129.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Madrid%2C_postales_129.jpg/1920px-Madrid%2C_postales_129.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Desconocido",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Madrid,_postales_129.jpg",
+    "id": "wm140036534"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Madrid_066.jpg/1920px-Madrid_066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3543,
+    "h": 4308,
+    "dur": 0,
+    "title": "File:Madrid 066.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Madrid_066.jpg/1920px-Madrid_066.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Desconocido",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Madrid_066.jpg",
+    "id": "wm140036527"
+   }
+  ],
+  "photo:Ministerio de la Gobernación Puerta del Sol": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Gezicht_op_de_Puerta_del_Sol_en_het_Ministerie_van_Binnenlandse_Zaken_in_Madrid_MADRID.-_La_puerta_del_Sol_con_el_Ministerio_de_la_Gobernacion._%28titel_op_object%29%2C_RP-F-F01098-AC.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4064,
+    "h": 2954,
+    "dur": 0,
+    "title": "File:Gezicht op de Puerta del Sol en het Ministerie van Binnenlandse Zaken in Madrid MADRID.- La puerta del Sol con el Ministerio de la Gobernacion. (titel op object), RP-F-F01098-AC.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Gezicht_op_de_Puerta_del_Sol_en_het_Ministerie_van_Binnenlandse_Zaken_in_Madrid_MADRID.-_La_puerta_del_Sol_con_el_Ministerio_de_la_Gobernacion._%28titel_op_object%29%2C_RP-F-F01098-AC.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Rijksmuseum",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Puerta_del_Sol_en_het_Ministerie_van_Binnenlandse_Zaken_in_Madrid_MADRID.-_La_puerta_del_Sol_con_el_Ministerio_de_la_Gobernacion._(titel_op_object),_RP-F-F01098-AC.jpg",
+    "id": "wm85417857"
+   },
+   {
+    "kind": "image",
+    "url": "https://cartotecadigital.icgc.cat/iiif/2/stereo:337/full/730,/0/default.jpg",
+    "w": 0,
+    "h": 0,
+    "dur": 0,
+    "credit": "Cartographic and Geological Institute of Catalonia",
+    "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://www.europeana.eu/item/991/https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_stereo____337_ent0?utm_source=api&utm_medium=api&utm_campaign=ulannobures",
+    "id": "eu_991_https___catalonica_bnc_cat_catalonicahub_lod_oai_cdm21055_contentdm_oclc_org_stereo____337_ent0"
+   }
+  ],
+  "photo:Elecciones generales España 1936": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/1936_Spanish_general_elections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 771,
+    "h": 514,
+    "dur": 0,
+    "title": "File:1936 Spanish general elections.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/79/1936_Spanish_general_elections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "signed: \"Videa y Cortes\" [??]",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1936_Spanish_general_elections.jpg",
+    "id": "wm154716828"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Candidatura_derechista_para_diputados_a_Cortes_por_La_Coru%C3%B1a%2C_1936.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 926,
+    "h": 638,
+    "dur": 0,
+    "title": "File:Candidatura derechista para diputados a Cortes por La Coruña, 1936.JPG",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Candidatura_derechista_para_diputados_a_Cortes_por_La_Coru%C3%B1a%2C_1936.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Biblioteca de Galicia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Candidatura_derechista_para_diputados_a_Cortes_por_La_Coru%C3%B1a,_1936.JPG",
+    "id": "wm21158829"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Fundaci%C3%B3n_Joaqu%C3%ADn_D%C3%ADaz_-_Calle_de_Alfonso_XII_%28Actualmente_Calle_de_Regalado%29_-_Valladolid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 640,
+    "h": 420,
+    "dur": 0,
+    "title": "File:Fundación Joaquín Díaz - Calle de Alfonso XII (Actualmente Calle de Regalado) - Valladolid.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Fundaci%C3%B3n_Joaqu%C3%ADn_D%C3%ADaz_-_Calle_de_Alfonso_XII_%28Actualmente_Calle_de_Regalado%29_-_Valladolid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Fundación Joaquín Díaz",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3n_Joaqu%C3%ADn_D%C3%ADaz_-_Calle_de_Alfonso_XII_(Actualmente_Calle_de_Regalado)_-_Valladolid.jpg",
+    "id": "wm29646372"
+   }
+  ],
+  "video:Spain 1936 newsreel": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mitin_pol%C3%ADtico_en_Atotxa_%281_de_8%29_-_Fondo_Car-Kutxa_Fototeka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1024,
+    "h": 637,
+    "dur": 0,
+    "title": "File:Mitin político en Atotxa (1 de 8) - Fondo Car-Kutxa Fototeka.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mitin_pol%C3%ADtico_en_Atotxa_%281_de_8%29_-_Fondo_Car-Kutxa_Fototeka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ricardo Martín",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Mitin_pol%C3%ADtico_en_Atotxa_(1_de_8)_-_Fondo_Car-Kutxa_Fototeka.jpg",
+    "id": "wm56197975"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg/1920px-1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4904,
+    "h": 3417,
+    "dur": 0,
+    "title": "File:1907-05-04, Blanco y Negro, Madrid, La manifestación obrera del 1 de mayo en la calle de Alcalá, Goñi.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg/1920px-1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Francisco Goñi",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1907-05-04,_Blanco_y_Negro,_Madrid,_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1,_Go%C3%B1i.jpg",
+    "id": "wm59985849"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_102-11543%2C_Madrid%2C_Ausrufung_der_Zweiten_Spanischen_Republik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 800,
+    "h": 514,
+    "dur": 0,
+    "title": "File:Bundesarchiv Bild 102-11543, Madrid, Ausrufung der Zweiten Spanischen Republik.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_102-11543%2C_Madrid%2C_Ausrufung_der_Zweiten_Spanischen_Republik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "UnknownUnknown",
+    "license": "CC BY-SA 3.0 de",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-11543,_Madrid,_Ausrufung_der_Zweiten_Spanischen_Republik.jpg",
+    "id": "wm5415372"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mitin_pol%C3%ADtico_en_Atotxa_%283_de_8%29_-_Fondo_Car-Kutxa_Fototeka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1024,
+    "h": 636,
+    "dur": 0,
+    "title": "File:Mitin político en Atotxa (3 de 8) - Fondo Car-Kutxa Fototeka.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mitin_pol%C3%ADtico_en_Atotxa_%283_de_8%29_-_Fondo_Car-Kutxa_Fototeka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ricardo Martín",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Mitin_pol%C3%ADtico_en_Atotxa_(3_de_8)_-_Fondo_Car-Kutxa_Fototeka.jpg",
+    "id": "wm56197978"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg/1920px-1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4904,
+    "h": 3417,
+    "dur": 0,
+    "title": "File:1907-05-04, Blanco y Negro, Madrid, La manifestación obrera del 1 de mayo en la calle de Alcalá, Goñi.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg/1920px-1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Francisco Goñi",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1907-05-04,_Blanco_y_Negro,_Madrid,_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1,_Go%C3%B1i.jpg",
+    "id": "wm59985849"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Tropas_norteafricanas_entrando_en_Gij%C3%B3n_%281934%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1500,
+    "h": 910,
+    "dur": 0,
+    "title": "File:Tropas norteafricanas entrando en Gijón (1934).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/de/Tropas_norteafricanas_entrando_en_Gij%C3%B3n_%281934%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "AnonymousUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Tropas_norteafricanas_entrando_en_Gij%C3%B3n_(1934).jpg",
+    "id": "wm126865193"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/1917-11-30_NUEVO_MUNDO_1.jpg/1920px-1917-11-30_NUEVO_MUNDO_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 6706,
+    "h": 4819,
+    "dur": 0,
+    "title": "File:1917-11-30 NUEVO MUNDO 1.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/1917-11-30_NUEVO_MUNDO_1.jpg/1920px-1917-11-30_NUEVO_MUNDO_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "José Demaría López",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1917-11-30_NUEVO_MUNDO_1.jpg",
+    "id": "wm144353588"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Fitxer_Proclamaci%C3%B3_de_la_Rep%C3%BAblica_Pla%C3%A7a_Sant_Jaume._Fot%C3%B2graf_Josep_Maria_Sagarra%2C_1931.jpg/1920px-Fitxer_Proclamaci%C3%B3_de_la_Rep%C3%BAblica_Pla%C3%A7a_Sant_Jaume._Fot%C3%B2graf_Josep_Maria_Sagarra%2C_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3508,
+    "h": 2553,
+    "dur": 0,
+    "title": "File:Fitxer Proclamació de la República Plaça Sant Jaume. Fotògraf Josep Maria Sagarra, 1931.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Fitxer_Proclamaci%C3%B3_de_la_Rep%C3%BAblica_Pla%C3%A7a_Sant_Jaume._Fot%C3%B2graf_Josep_Maria_Sagarra%2C_1931.jpg/1920px-Fitxer_Proclamaci%C3%B3_de_la_Rep%C3%BAblica_Pla%C3%A7a_Sant_Jaume._Fot%C3%B2graf_Josep_Maria_Sagarra%2C_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Banda Municipal de Barcelona",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Fitxer_Proclamaci%C3%B3_de_la_Rep%C3%BAblica_Pla%C3%A7a_Sant_Jaume._Fot%C3%B2graf_Josep_Maria_Sagarra,_1931.jpg",
+    "id": "wm33811819"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Mitin_pol%C3%ADtico_en_Atotxa_%284_de_8%29_-_Fondo_Car-Kutxa_Fototeka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1024,
+    "h": 636,
+    "dur": 0,
+    "title": "File:Mitin político en Atotxa (4 de 8) - Fondo Car-Kutxa Fototeka.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Mitin_pol%C3%ADtico_en_Atotxa_%284_de_8%29_-_Fondo_Car-Kutxa_Fototeka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ricardo Martín",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Mitin_pol%C3%ADtico_en_Atotxa_(4_de_8)_-_Fondo_Car-Kutxa_Fototeka.jpg",
+    "id": "wm56197980"
+   }
+  ],
+  "photo:Niceto Alcalá-Zamora": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Alcal%C3%A1_Zamora_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1860,
+    "h": 2107,
+    "dur": 0,
+    "title": "File:Alcalá Zamora Portrait.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Alcal%C3%A1_Zamora_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Alcal%C3%A1_Zamora_Portrait.jpg",
+    "id": "wm25825151"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Niceto_Alcal%C3%A1-Zamora_cropped_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 287,
+    "h": 426,
+    "dur": 0,
+    "title": "File:Niceto Alcalá-Zamora cropped (2).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/70/Niceto_Alcal%C3%A1-Zamora_cropped_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Niceto_Alcal%C3%A1-Zamora_cropped_(2).jpg",
+    "id": "wm114264402"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Niceto_Alcal%C3%A1-Zamora_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 388,
+    "h": 549,
+    "dur": 0,
+    "title": "File:Niceto Alcalá-Zamora cropped.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Niceto_Alcal%C3%A1-Zamora_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Niceto_Alcal%C3%A1-Zamora_cropped.jpg",
+    "id": "wm114264230"
+   }
+  ],
+  "photo:acta electoral 1936": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._49v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1224,
+    "h": 1584,
+    "dur": 0,
+    "title": "File:Acta Comisión Gestora 13 jul. 1936. p. 49v.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._49v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._49v.jpg",
+    "id": "wm76495256"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1224,
+    "h": 1584,
+    "dur": 0,
+    "title": "File:Acta Comisión Gestora 13 jul. 1936. p. 50.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/46/Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._50.jpg",
+    "id": "wm76495279"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Candidatura_derechista_para_diputados_a_Cortes_por_La_Coru%C3%B1a%2C_1936.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 926,
+    "h": 638,
+    "dur": 0,
+    "title": "File:Candidatura derechista para diputados a Cortes por La Coruña, 1936.JPG",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Candidatura_derechista_para_diputados_a_Cortes_por_La_Coru%C3%B1a%2C_1936.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Biblioteca de Galicia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Candidatura_derechista_para_diputados_a_Cortes_por_La_Coru%C3%B1a,_1936.JPG",
+    "id": "wm21158829"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Acta_Comisi%C3%B3n_Gestora_8_jul._1936._p._48v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1224,
+    "h": 1584,
+    "dur": 0,
+    "title": "File:Acta Comisión Gestora 8 jul. 1936. p. 48v.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Acta_Comisi%C3%B3n_Gestora_8_jul._1936._p._48v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Acta_Comisi%C3%B3n_Gestora_8_jul._1936._p._48v.jpg",
+    "id": "wm76495750"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Acta_Comisi%C3%B3n_Gestora_8_jul._1936._p._49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1224,
+    "h": 1584,
+    "dur": 0,
+    "title": "File:Acta Comisión Gestora 8 jul. 1936. p. 49.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Acta_Comisi%C3%B3n_Gestora_8_jul._1936._p._49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Acta_Comisi%C3%B3n_Gestora_8_jul._1936._p._49.jpg",
+    "id": "wm76495791"
+   }
+  ],
+  "photo:urna electoral Segunda República": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._49v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1224,
+    "h": 1584,
+    "dur": 0,
+    "title": "File:Acta Comisión Gestora 13 jul. 1936. p. 49v.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._49v.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._49v.jpg",
+    "id": "wm76495256"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/1936_Spanish_general_elections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 771,
+    "h": 514,
+    "dur": 0,
+    "title": "File:1936 Spanish general elections.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/79/1936_Spanish_general_elections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "signed: \"Videa y Cortes\" [??]",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1936_Spanish_general_elections.jpg",
+    "id": "wm154716828"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Massive_que%2C_elections_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 754,
+    "h": 502,
+    "dur": 0,
+    "title": "File:Massive que, elections 1936.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/15/Massive_que%2C_elections_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "not signed",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Massive_que,_elections_1936.jpg",
+    "id": "wm154901514"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Fundaci%C3%B3n_Joaqu%C3%ADn_D%C3%ADaz_-_Calle_de_Alfonso_XII_%28Actualmente_Calle_de_Regalado%29_-_Valladolid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 640,
+    "h": 420,
+    "dur": 0,
+    "title": "File:Fundación Joaquín Díaz - Calle de Alfonso XII (Actualmente Calle de Regalado) - Valladolid.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Fundaci%C3%B3n_Joaqu%C3%ADn_D%C3%ADaz_-_Calle_de_Alfonso_XII_%28Actualmente_Calle_de_Regalado%29_-_Valladolid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Fundación Joaquín Díaz",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fundaci%C3%B3n_Joaqu%C3%ADn_D%C3%ADaz_-_Calle_de_Alfonso_XII_(Actualmente_Calle_de_Regalado)_-_Valladolid.jpg",
+    "id": "wm29646372"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1224,
+    "h": 1584,
+    "dur": 0,
+    "title": "File:Acta Comisión Gestora 13 jul. 1936. p. 50.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/46/Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Acta_Comisi%C3%B3n_Gestora_13_jul._1936._p._50.jpg",
+    "id": "wm76495279"
+   }
+  ],
+  "photo:Congreso de los Diputados 1930s": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/1930-10-28_BLANCO_Y_NEGRO.jpg/1920px-1930-10-28_BLANCO_Y_NEGRO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2316,
+    "h": 3584,
+    "dur": 0,
+    "title": "File:1930-10-28 BLANCO Y NEGRO.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/1930-10-28_BLANCO_Y_NEGRO.jpg/1920px-1930-10-28_BLANCO_Y_NEGRO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1930-10-28_BLANCO_Y_NEGRO.jpg",
+    "id": "wm144002240"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Madrid%2C_postales_153.jpg/1920px-Madrid%2C_postales_153.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3241,
+    "h": 2097,
+    "dur": 0,
+    "title": "File:Madrid, postales 153.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Madrid%2C_postales_153.jpg/1920px-Madrid%2C_postales_153.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Desconocido (Publicadas por Huecograbado Mumbrú, Barcelona)",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Madrid,_postales_153.jpg",
+    "id": "wm139771905"
+   }
+  ],
+  "photo:Proclamación Segunda República 1931": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_102-11543%2C_Madrid%2C_Ausrufung_der_Zweiten_Spanischen_Republik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 800,
+    "h": 514,
+    "dur": 0,
+    "title": "File:Bundesarchiv Bild 102-11543, Madrid, Ausrufung der Zweiten Spanischen Republik.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_102-11543%2C_Madrid%2C_Ausrufung_der_Zweiten_Spanischen_Republik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "UnknownUnknown",
+    "license": "CC BY-SA 3.0 de",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-11543,_Madrid,_Ausrufung_der_Zweiten_Spanischen_Republik.jpg",
+    "id": "wm5415372"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Fitxer_Proclamaci%C3%B3_de_la_Rep%C3%BAblica_Pla%C3%A7a_Sant_Jaume._Fot%C3%B2graf_Josep_Maria_Sagarra%2C_1931.jpg/1920px-Fitxer_Proclamaci%C3%B3_de_la_Rep%C3%BAblica_Pla%C3%A7a_Sant_Jaume._Fot%C3%B2graf_Josep_Maria_Sagarra%2C_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3508,
+    "h": 2553,
+    "dur": 0,
+    "title": "File:Fitxer Proclamació de la República Plaça Sant Jaume. Fotògraf Josep Maria Sagarra, 1931.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Fitxer_Proclamaci%C3%B3_de_la_Rep%C3%BAblica_Pla%C3%A7a_Sant_Jaume._Fot%C3%B2graf_Josep_Maria_Sagarra%2C_1931.jpg/1920px-Fitxer_Proclamaci%C3%B3_de_la_Rep%C3%BAblica_Pla%C3%A7a_Sant_Jaume._Fot%C3%B2graf_Josep_Maria_Sagarra%2C_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Banda Municipal de Barcelona",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Fitxer_Proclamaci%C3%B3_de_la_Rep%C3%BAblica_Pla%C3%A7a_Sant_Jaume._Fot%C3%B2graf_Josep_Maria_Sagarra,_1931.jpg",
+    "id": "wm33811819"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/13_d%27abril_portada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1208,
+    "h": 1832,
+    "dur": 0,
+    "title": "File:13 d'abril portada.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/58/13_d%27abril_portada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Heraldo de Madrid",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:13_d%27abril_portada.jpg",
+    "id": "wm16295473"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/14-4-32%2C_anniversaire_de_la_R%C3%A9publique_espagnole%2C_M._Madariaga_%28au_centre_devant%29_-_btv1b53254260x.jpg/1920px-14-4-32%2C_anniversaire_de_la_R%C3%A9publique_espagnole%2C_M._Madariaga_%28au_centre_devant%29_-_btv1b53254260x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 8791,
+    "h": 6424,
+    "dur": 0,
+    "title": "File:14-4-32, anniversaire de la République espagnole, M. Madariaga (au centre devant) - btv1b53254260x.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/14-4-32%2C_anniversaire_de_la_R%C3%A9publique_espagnole%2C_M._Madariaga_%28au_centre_devant%29_-_btv1b53254260x.jpg/1920px-14-4-32%2C_anniversaire_de_la_R%C3%A9publique_espagnole%2C_M._Madariaga_%28au_centre_devant%29_-_btv1b53254260x.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Agence Rol",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:14-4-32,_anniversaire_de_la_R%C3%A9publique_espagnole,_M._Madariaga_(au_centre_devant)_-_btv1b53254260x.jpg",
+    "id": "wm160539465"
+   }
+  ],
+  "photo:Manuel Azaña": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Manuel_Aza%C3%B1a%2C_1933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 591,
+    "h": 724,
+    "dur": 0,
+    "title": "File:Manuel Azaña, 1933.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/04/Manuel_Aza%C3%B1a%2C_1933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a,_1933.jpg",
+    "id": "wm28818979"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Manuel_Aza%C3%B1a_1933_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 320,
+    "h": 479,
+    "dur": 0,
+    "title": "File:Manuel Azaña 1933 (cropped).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Manuel_Aza%C3%B1a_1933_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a_1933_(cropped).jpg",
+    "id": "wm81230283"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Manuel_Aza%C3%B1a_Universidad_de_Valencia_18_julio_1937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 676,
+    "h": 467,
+    "dur": 0,
+    "title": "File:Manuel Azaña Universidad de Valencia 18 julio 1937.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/83/Manuel_Aza%C3%B1a_Universidad_de_Valencia_18_julio_1937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Imágenes procedentes de los fondos de la Biblioteca Nacional de España",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a_Universidad_de_Valencia_18_julio_1937.jpg",
+    "id": "wm153099950"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Aza%C3%B1a_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 344,
+    "h": 415,
+    "dur": 0,
+    "title": "File:Azaña 3.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/88/Aza%C3%B1a_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Agence de presse Meurisse",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Aza%C3%B1a_3.jpg",
+    "id": "wm28125186"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Manuel_Aza%C3%B1a_D%C3%ADaz.jpg/1920px-Manuel_Aza%C3%B1a_D%C3%ADaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2467,
+    "h": 3520,
+    "dur": 0,
+    "title": "File:Manuel Azaña Díaz.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Manuel_Aza%C3%B1a_D%C3%ADaz.jpg/1920px-Manuel_Aza%C3%B1a_D%C3%ADaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a_D%C3%ADaz.jpg",
+    "id": "wm89418091"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/4th_Government_of_Manuel_Aza%C3%B1a_D%C3%ADaz.jpg/1920px-4th_Government_of_Manuel_Aza%C3%B1a_D%C3%ADaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3500,
+    "h": 2470,
+    "dur": 0,
+    "title": "File:4th Government of Manuel Azaña Díaz.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/4th_Government_of_Manuel_Aza%C3%B1a_D%C3%ADaz.jpg/1920px-4th_Government_of_Manuel_Aza%C3%B1a_D%C3%ADaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:4th_Government_of_Manuel_Aza%C3%B1a_D%C3%ADaz.jpg",
+    "id": "wm93380346"
+   }
+  ],
+  "photo:José María Gil-Robles": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jos%C3%A9_Mar%C3%ADa_Gil-Robles.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 355,
+    "h": 357,
+    "dur": 0,
+    "title": "File:José María Gil-Robles.png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jos%C3%A9_Mar%C3%ADa_Gil-Robles.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Gil-Robles.png",
+    "id": "wm36781670"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Jos%C3%A9_Mar%C3%ADa_Gil-Robles_%283x4_cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 263,
+    "h": 350,
+    "dur": 0,
+    "title": "File:José María Gil-Robles (3x4 cropped).png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Jos%C3%A9_Mar%C3%ADa_Gil-Robles_%283x4_cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Gil-Robles_(3x4_cropped).png",
+    "id": "wm199748243"
+   }
+  ],
+  "photo:Revolución de Asturias 1934": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Arrested_workers_during_the_Asturian_Revolution%2C_1934.jpg/1920px-Arrested_workers_during_the_Asturian_Revolution%2C_1934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3500,
+    "h": 2380,
+    "dur": 0,
+    "title": "File:Arrested workers during the Asturian Revolution, 1934.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Arrested_workers_during_the_Asturian_Revolution%2C_1934.jpg/1920px-Arrested_workers_during_the_Asturian_Revolution%2C_1934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Concern Illustrated Daily Courier - Illustration Archive",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Arrested_workers_during_the_Asturian_Revolution,_1934.jpg",
+    "id": "wm68271423"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Tropas_norteafricanas_entrando_en_Gij%C3%B3n_%281934%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1500,
+    "h": 910,
+    "dur": 0,
+    "title": "File:Tropas norteafricanas entrando en Gijón (1934).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/de/Tropas_norteafricanas_entrando_en_Gij%C3%B3n_%281934%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "AnonymousUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Tropas_norteafricanas_entrando_en_Gij%C3%B3n_(1934).jpg",
+    "id": "wm126865193"
+   },
+   {
+    "kind": "image",
+    "url": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/i18n/catalogo_imagenes/imagen_id.do?idImagen=12131716",
+    "w": 0,
+    "h": 0,
+    "dur": 0,
+    "credit": "Digital Library of Madrid",
+    "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_24652_ent0?utm_source=api&utm_medium=api&utm_campaign=ulannobures",
+    "id": "eu_546_https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_24652_ent0"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ahora%2C_diario_gr%C3%A1fico%2C17_de_octubre_1934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 873,
+    "h": 1193,
+    "dur": 0,
+    "title": "File:Ahora, diario gráfico,17 de octubre 1934.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ahora%2C_diario_gr%C3%A1fico%2C17_de_octubre_1934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ahora (AnonymousUnknown author)",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ahora,_diario_gr%C3%A1fico,17_de_octubre_1934.jpg",
+    "id": "wm126865713"
+   }
+  ],
+  "photo:Manuel Portela Valladares": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Manuel_Portela_Valladares_1935_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 464,
+    "h": 694,
+    "dur": 0,
+    "title": "File:Manuel Portela Valladares 1935 (cropped).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/20/Manuel_Portela_Valladares_1935_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Manuel_Portela_Valladares_1935_(cropped).jpg",
+    "id": "wm81230282"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Portela1935.jpg/1920px-Portela1935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2431,
+    "h": 2932,
+    "dur": 0,
+    "title": "File:Portela1935.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Portela1935.jpg/1920px-Portela1935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Portela1935.jpg",
+    "id": "wm59392901"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2nd_Government_of_Manuel_Portela_Valladares.jpg/1920px-2nd_Government_of_Manuel_Portela_Valladares.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3500,
+    "h": 2669,
+    "dur": 0,
+    "title": "File:2nd Government of Manuel Portela Valladares.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2nd_Government_of_Manuel_Portela_Valladares.jpg/1920px-2nd_Government_of_Manuel_Portela_Valladares.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:2nd_Government_of_Manuel_Portela_Valladares.jpg",
+    "id": "wm84907156"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Joaqu%C3%ADn_Urzaiz_Cadaval_2nd_Government_of_Manuel_Portela_Valladares_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 411,
+    "h": 433,
+    "dur": 0,
+    "title": "File:Joaquín Urzaiz Cadaval 2nd Government of Manuel Portela Valladares (cropped).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/59/Joaqu%C3%ADn_Urzaiz_Cadaval_2nd_Government_of_Manuel_Portela_Valladares_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Urzaiz_Cadaval_2nd_Government_of_Manuel_Portela_Valladares_(cropped).jpg",
+    "id": "wm88929506"
+   }
+  ],
+  "photo:Frente Popular 1936 cartel": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/CNT-UGT-756x1024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 756,
+    "h": 1024,
+    "dur": 0,
+    "title": "File:CNT-UGT-756x1024.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fd/CNT-UGT-756x1024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Oficina de información, propaganda y prensa CNT, FAI y JJLL de Asturias, León y ",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:CNT-UGT-756x1024.jpg",
+    "id": "wm147091735"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mitin_pol%C3%ADtico_en_Atotxa_%281_de_8%29_-_Fondo_Car-Kutxa_Fototeka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1024,
+    "h": 637,
+    "dur": 0,
+    "title": "File:Mitin político en Atotxa (1 de 8) - Fondo Car-Kutxa Fototeka.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mitin_pol%C3%ADtico_en_Atotxa_%281_de_8%29_-_Fondo_Car-Kutxa_Fototeka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ricardo Martín",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Mitin_pol%C3%ADtico_en_Atotxa_(1_de_8)_-_Fondo_Car-Kutxa_Fototeka.jpg",
+    "id": "wm56197975"
+   }
+  ],
+  "photo:Madrid 1936 calle": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg/1920px-1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4904,
+    "h": 3417,
+    "dur": 0,
+    "title": "File:1907-05-04, Blanco y Negro, Madrid, La manifestación obrera del 1 de mayo en la calle de Alcalá, Goñi.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg/1920px-1907-05-04%2C_Blanco_y_Negro%2C_Madrid%2C_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1%2C_Go%C3%B1i.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Francisco Goñi",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1907-05-04,_Blanco_y_Negro,_Madrid,_La_manifestaci%C3%B3n_obrera_del_1_de_mayo_en_la_calle_de_Alcal%C3%A1,_Go%C3%B1i.jpg",
+    "id": "wm59985849"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/1936-10-11-Banco-Sainz-calle-Alcala-Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 299,
+    "h": 313,
+    "dur": 0,
+    "title": "File:1936-10-11-Banco-Sainz-calle-Alcala-Madrid.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e2/1936-10-11-Banco-Sainz-calle-Alcala-Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "El Sol, Madrid",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:1936-10-11-Banco-Sainz-calle-Alcala-Madrid.jpg",
+    "id": "wm63139782"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1936_Corona_5%C2%BA_Regimiento.jpg/1920px-1936_Corona_5%C2%BA_Regimiento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2185,
+    "h": 2996,
+    "dur": 0,
+    "title": "File:1936 Corona 5º Regimiento.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1936_Corona_5%C2%BA_Regimiento.jpg/1920px-1936_Corona_5%C2%BA_Regimiento.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Desconocido (Miembros del 5º Regimiento de Milicias Populares)",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1936_Corona_5%C2%BA_Regimiento.jpg",
+    "id": "wm139081559"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/1928-05-05%2C_La_Esfera%2C_Estampas_de_Madrid%2C_La_calle_de_Juan_Bravo%2C_Sancha.jpg/1920px-1928-05-05%2C_La_Esfera%2C_Estampas_de_Madrid%2C_La_calle_de_Juan_Bravo%2C_Sancha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2513,
+    "h": 2060,
+    "dur": 0,
+    "title": "File:1928-05-05, La Esfera, Estampas de Madrid, La calle de Juan Bravo, Sancha.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/1928-05-05%2C_La_Esfera%2C_Estampas_de_Madrid%2C_La_calle_de_Juan_Bravo%2C_Sancha.jpg/1920px-1928-05-05%2C_La_Esfera%2C_Estampas_de_Madrid%2C_La_calle_de_Juan_Bravo%2C_Sancha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Francisco Sancha",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:1928-05-05,_La_Esfera,_Estampas_de_Madrid,_La_calle_de_Juan_Bravo,_Sancha.jpg",
+    "id": "wm143352945"
+   }
+  ]
+ },
+ "rev": 1
+}

@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor
 import numpy as np, librosa, soundfile as sf
 from PIL import Image, ImageFilter, ImageEnhance
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import sources as SRC, cards as CARDS, parallax as PX
+import sources as SRC, cards as CARDS, parallax as PX, align as AL
 
 SR, FPS, W, H = 44100, 25, 1920, 1080
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -96,14 +96,16 @@ def build_audio(job, U):
             log(f'  aviso música {k}: {e} (silencio en el casting)'); return np.zeros((2, SR * 90), np.float32)
     music = {k: ld(k, v) for k, v in job['music'].items()}
     beds = {k: ld(k, v) for k, v in job.get('beds', {}).items()}; beds.update({k: v for k, v in music.items() if k not in beds})
-    events, tl, bedspans = [], [], []
+    events, tl, bedspans = [], [], []; VY = {}
+    def voice(u):
+        if not u.get('url'):  # casting sin voz todavía: silencio estimado por longitud del texto
+            return np.zeros((2, int(SR * max(2, len(re.sub(r'\[[^\]]*\]', '', u.get('text', ''))) / 14.5))), np.float32) + 1e-6, False
+        return gain_to(stretch_pauses(trimv(load(tempo(fetch(u['url'], '.mp3'), u.get('tempo', job.get('tempo', 0.96)))))), VOICE - (0 if u['k'] in ('N', 'T') else 1)), True
     t = 0.0; bed = None; bedstart = 0; used = {}; words = 0; vsec = 0
     for i, u in enumerate(U):
         k = u['k']
         if k in ('N', 'P', 'R'):
-            if not u.get('url'):  # casting sin voz todavía: silencio estimado por longitud del texto
-                y = np.zeros((2, int(SR * max(2, len(re.sub(r'\[[^\]]*\]', '', u.get('text', ''))) / 14.5))), np.float32) + 1e-6
-            else: y = gain_to(stretch_pauses(trimv(load(tempo(fetch(u['url'], '.mp3'), u.get('tempo', job.get('tempo', 0.96)))))), VOICE - (0 if k == 'N' else 1))
+            y, real = voice(u); VY[i] = (y, real)
             events.append((int(t * SR), y)); d = y.shape[1] / SR; vsec += d
             tl.append(dict(i=i, k=k, t=round(t, 3), d=round(d, 3)))
             if k == 'N': words += len(re.sub(r'\[[^\]]*\]', '', u.get('text', '')).split())
@@ -122,12 +124,39 @@ def build_audio(job, U):
             seg = src[:, int(o * SR):int((o + secs + 1.5) * SR)]
             seg = fade(gain_to(seg, INTER), 0.05 if t == 0 else 0.8, 2.5 if u.get('end') else 1.5)
             events.append((int(max(0, t - 0.5) * SR), seg)); tl.append(dict(i=i, k='M', t=round(t, 3), d=secs)); t += secs
+        elif k == 'T':  # título o capítulo con pausa propia: golpe de música, tarjeta y (opcional) el narrador diciéndolo
+            secs = u.get('secs', 4.5); va = u.get('voice_at', 0.7)
+            if u.get('url') or u.get('text'):
+                y, real = voice(u); VY[i] = (y, real); events.append((int((t + va) * SR), y)); secs = max(secs, va + y.shape[1] / SR + 1.0)
+            if u.get('sting') and u['sting'] in music:
+                src = music[u['sting']]; o = u.get('offset', 0); seg = src[:, int(o * SR):int((o + secs + 1.5) * SR)]
+                events.append((int(t * SR), fade(gain_to(seg, INTER + u.get('sting_db', 0)), 0.05, 1.6)))
+            tl.append(dict(i=i, k='T', t=round(t, 3), d=secs, va=va)); t += secs
         elif k == 'S':
             y = fade(gain_to(load(sfx_file(u['sfx'], credits)), u.get('db', -29)), 0.3, 1.0)
             events.append((int(t * SR), y)); tl.append(dict(i=i, k='S', t=round(t, 3), d=1.2)); t += 1.2
     if bed is not None: bedspans.append((bed, bedstart, t))
     log(f'voz: {vsec/60:.1f} min, {words} palabras narrador, total {t/60:.1f} min')
-    return dict(events=events, bedspans=bedspans, beds=beds, BED=BED, end=t, tl=tl, credits=credits)
+    return dict(events=events, bedspans=bedspans, beds=beds, BED=BED, end=t, tl=tl, credits=credits, VY=VY)
+
+def align_audio(job, U, A, job_dir, out_dir):
+    """Marca de tiempo de cada palabra del guion (absoluta en la línea de tiempo). Se guarda en align.json."""
+    pre = {}
+    if os.path.exists(f'{job_dir}/align.json'): pre = json.load(open(f'{job_dir}/align.json'))
+    words = {}; model = job.get('align_model', 'base'); n_wh = 0
+    for e in A['tl']:
+        i = e['i']; u = U[i]
+        if i not in A['VY'] or not u.get('text'): continue
+        y, real = A['VY'][i]; off = e['t'] + (e.get('va', 0) if e['k'] == 'T' else 0)
+        key = f"{i}:{u.get('url', '')[-40:]}"
+        if str(i) in pre and pre[str(i)].get('key') == key: ws = pre[str(i)]['words']
+        elif real and job.get('align', False): ws = AL.align_unit(u['text'], y, SR, model, SRC.CACHE); n_wh += 1
+        else: ws = AL.proportional(u['text'], y.shape[1] / SR)
+        words[i] = dict(key=key, off=off, words=ws)
+    json.dump({str(k): dict(key=v['key'], words=v['words']) for k, v in words.items()}, open(f'{out_dir}/align.json', 'w'), ensure_ascii=False)
+    log(f'   alineación: {len(words)} unidades ({n_wh} con whisper, resto en caché o proporcional)')
+    A['words'] = words
+    A['allw'] = sorted([(v['off'] + w['t'], w['w'], w['n']) for v in words.values() for w in v['words']])
 
 def mix_audio(A, extra, out):
     N = int((A['end'] + 3) * SR); mix = np.zeros((2, N), np.float32)
@@ -178,16 +207,23 @@ def use(c, credits, spec=None):
     if c['kind'] == 'video': return dict(kind='video', path=SRC.download(c['url'], '.mp4'), dur=c.get('dur', 0), old=(spec or {}).get('old'))
     return dict(kind='image', path=SRC.download(c['url'], '.jpg'), move=(spec or {}).get('move'))
 
-def resolve(spec, need, credits, pick=None):
+USES = {}; REUSE = dict(max=2, gap=600)
+def resolve(spec, need, credits, pick=None, t=0.0):
     """Convierte una especificación de plano en un recurso local: dict(kind, path, credit...)"""
     if pick:
         if 'spec' in pick: spec = pick['spec']
         else: return use(pick, credits, spec)
     if 'card' in spec:
-        c = dict(spec['card'])
-        if c.get('commons'):
-            m = SRC.commons_file(c['commons']); credits.append(('archivo', m)); c['_path'] = SRC.download(m['url'], '.jpg')
-        elif c.get('image'): c['_path'] = fetch(c['image'], '.jpg')
+        c = json.loads(json.dumps(spec['card']))
+        def walk(o):
+            if isinstance(o, dict):
+                if o.get('commons'):
+                    m = SRC.commons_file(o['commons']); credits.append(('archivo', m)); o['_path'] = SRC.download(m['url'], '.jpg')
+                elif o.get('image'): o['_path'] = fetch(o['image'], '.jpg')
+                for v in o.values(): walk(v)
+            elif isinstance(o, list):
+                for v in o: walk(v)
+        walk(c)
         return dict(kind='card', card=c)
     if 'ai' in spec: return dict(kind='image', path=fetch(spec['ai'], '.jpg'), ai=True, move=spec.get('move'))
     if 'image' in spec: return dict(kind='image', path=fetch(spec['image'], '.jpg'), move=spec.get('move'))
@@ -198,8 +234,12 @@ def resolve(spec, need, credits, pick=None):
     if 'video' in spec or 'photo' in spec:
         key = qkey(spec)
         if QPICKS.get(key):
-            lst = QPICKS[key]; i = QPOS.get(key, 0); QPOS[key] = i + 1; c = lst[i % len(lst)]
-            if c.get('id') in USED and len(lst) > 1 and i < len(lst): pass
+            lst = QPICKS[key]; i = QPOS.get(key, 0); QPOS[key] = i + 1
+            order = [lst[(i + o) % len(lst)] for o in range(len(lst))]
+            ok = [c for c in order if len(USES.get(c.get('id'), [])) < REUSE['max'] and all(abs(t - x) >= REUSE['gap'] for x in USES.get(c.get('id'), []))]
+            c = ok[0] if ok else min(order, key=lambda c: len(USES.get(c.get('id'), [])))
+            if not ok: log(f'  aviso repetición: "{key}" en t={t:.0f}s reutiliza un recurso ({len(USES.get(c.get("id"), [])) + 1}.ª vez); añade candidatos')
+            USES.setdefault(c.get('id'), []).append(t)
             return use(c, credits, spec)
         cands = candidates(spec, n=4)
         if not cands: raise LookupError(f'sin material relevante para "{spec.get("video") or spec.get("photo")}"')
@@ -218,7 +258,7 @@ def build_edl(job, U, A):
         specs = U[i].get('shots') or [{'card': {'type': 'title', 'title': job.get('channel', ''), 'sub': job.get('title', '')}}]
         n = len(specs)
         rep = [x for x in specs if not ('card' in x or 'ai' in x or 'commons' in x or 'image' in x or 'file' in x)]
-        while d / n > (3.4 if t < job.get('cold_secs', 60) else 6.0) and rep: specs = specs + [dict(x, lt=None) for x in rep[:max(1, len(rep) // 2)]]; n = len(specs)
+        while not job.get('no_pad') and d / n > (3.4 if t < job.get('cold_secs', 60) else 6.0) and rep: specs = specs + [dict(x, lt=None) for x in rep[:max(1, len(rep) // 2)]]; n = len(specs)
         while n > 1 and d / n < (1.6 if t < job.get('cold_secs', 60) else 2.6): specs = specs[:-1]; n -= 1
         # reparto: tarjetas y vídeo algo más largos que las imágenes IA
         wts = [1.25 if ('card' in s or 'video' in s) else (0.8 if 'ai' in s else 1.0) for s in specs]; ws = sum(wts); acc = t
@@ -240,6 +280,72 @@ def build_edl(job, U, A):
         if run > 2: log(f'  aviso: 3 imágenes IA seguidas en t={s["t"]:.0f}s')
     return shots
 
+def build_edl_sync(job, U, A):
+    """Montaje anclado a la palabra: cada plano con "at" empieza 0,3 s antes de esa palabra; los demás se reparten
+    entre anclas. Sin relleno por repetición (no_pad). Los títulos van en unidades T con pausa propia."""
+    tl = A['tl']; W_ = A.get('words', {}); lead = job.get('anchor_lead', 0.3); items = []; pend = None
+    for j, e in enumerate(tl):
+        nxt = tl[j + 1]['t'] if j + 1 < len(tl) else A['end'] + 3
+        t, d, i = e['t'], nxt - e['t'], e['i']
+        if e['k'] == 'S': pend = (t, d); continue
+        if pend: t, d = pend[0], d + pend[1]; pend = None
+        u = U[i]
+        if e['k'] == 'T': specs = u.get('shots') or [dict(card=u.get('card') or {'type': 'title', 'title': job.get('title', '')}, tr=u.get('tr'))]
+        else: specs = u.get('shots') or [{'card': {'type': 'title', 'title': job.get('channel', ''), 'sub': job.get('title', '')}}]
+        wu = W_.get(i); pos = 0
+        for m, s in enumerate(specs):
+            at = None
+            if s.get('at') and wu:
+                k_ = AL.find(wu['words'], s['at'], pos)
+                if k_ is None: log(f'  aviso ancla no encontrada (unidad {i}): "{s["at"]}"')
+                else: pos = k_ + 1; at = max(t, wu['off'] + wu['words'][k_]['t'] - lead)
+            if m == 0 and at is None: at = t
+            items.append(dict(spec=s, t=at, unit=i, k=e['k'], ustart=t, uend=t + d, m=m, n_in=len(specs)))
+    if items: items[0]['t'] = 0.0
+    # reparte los planos sin ancla entre las anclas conocidas
+    known = [k for k, it in enumerate(items) if it['t'] is not None] + [len(items)]
+    for a_, b_ in zip(known, known[1:]):
+        ta = items[a_]['t']; tb = items[b_]['t'] if b_ < len(items) else A['end'] + 3
+        free = list(range(a_ + 1, b_))
+        if not free: continue
+        # los planos sin ancla no cruzan su unidad: reparte dentro de [ta, min(tb, fin de unidad)]
+        for q, k in enumerate(free):
+            items[k]['t'] = ta + (min(tb, items[k]['uend']) - ta) * (q + 1) / (len(free) + 1) if items[k]['m'] > 0 else items[k]['ustart']
+    MIN = job.get('min_shot', 1.2)
+    for k in range(1, len(items)):
+        if items[k]['t'] < items[k - 1]['t'] + MIN:
+            if items[k]['spec'].get('at'): log(f'  aviso anclas muy juntas en t={items[k]["t"]:.1f}s: se retrasa "{items[k]["spec"]["at"]}"')
+            items[k]['t'] = items[k - 1]['t'] + MIN
+    shots = []
+    for k, it in enumerate(items):
+        end = items[k + 1]['t'] if k + 1 < len(items) else A['end'] + 3
+        s = it['spec']; d = end - it['t']
+        if d <= 0.2: log(f'  aviso plano descartado por falta de hueco: {list(s)[0]}'); continue
+        shots.append(dict(spec=s, t=it['t'], d=d, unit=it['unit'], k=it['k'], lt=s.get('lt'), tr_in=s.get('tr'),
+                          fadein=.8 if (it['k'] == 'M' and it['m'] == 0) else 0, fadeout=1.2 if (it['k'] == 'M' and it['m'] == it['n_in'] - 1) else 0))
+    shots[-1]['fadeout'] = 3.0
+    for a_, b_ in zip(shots, shots[1:]):
+        if b_.get('tr_in'): a_['tr_out'] = b_['tr_in']
+    allw = A.get('allw', [])
+    for s in shots:
+        s['heard'] = ' '.join(w for (tw, w, _) in allw if s['t'] - 0.2 <= tw < s['t'] + s['d'])
+    sync_report(job, shots, allw)
+    return shots
+
+SYNC = []
+def sync_report(job, shots, allw):
+    """Avisos de sincronía: persona o lugar sin mención cerca, títulos con voz debajo, planos demasiado largos."""
+    SYNC.clear(); maxd = job.get('max_shot', 8.0)
+    for n, s in enumerate(shots):
+        sp = s['spec']; near = {nn for (tw, _, nn) in allw if s['t'] - 2 <= tw <= s['t'] + s['d'] + 2}
+        if s.get('lt'):
+            toks = [AL.norm(x) for x in re.split(r'[\s\-]+', s['lt'][0]) if len(AL.norm(x)) > 3]
+            if toks and not any(tk in near for tk in toks): SYNC.append(f'plano {n} t={s["t"]:.1f}s: rótulo "{s["lt"][0]}" sin mención en ±2 s')
+        if 'card' in sp and sp['card'].get('type') == 'title' and s['k'] not in ('T', 'M') and not sp.get('at'):
+            SYNC.append(f'plano {n} t={s["t"]:.1f}s: título dentro de una unidad de voz (usa una unidad T)')
+        if s['d'] > maxd and 'card' not in sp: SYNC.append(f'plano {n} t={s["t"]:.1f}s: dura {s["d"]:.1f} s; añade un plano o una tarjeta')
+    for x in SYNC: log('  sincronía:', x)
+
 MOVES = [(1.00, 1.12, .5, .5, .5, .5), (1.12, 1.00, .5, .5, .5, .5), (1.10, 1.10, 0., 1., .5, .5), (1.10, 1.10, 1., 0., .5, .5),
          (1.04, 1.14, .2, .7, .7, .3), (1.14, 1.04, .8, .3, .3, .6), (1.0, 1.03, .5, .5, .5, .5), (1.06, 1.06, .5, .5, .9, .1)]
 GRADES = dict(
@@ -250,6 +356,7 @@ GRADES = dict(
     sepia='hue=s=0,eq=contrast=1.08:gamma=0.97,colorchannelmixer=.95:.05:0:0:.85:.1:0:0:.7:.1:.05:0,vignette=PI/4.4')
 GRADE = GRADES['calido']
 BRAND = {}
+BANDO = {}
 ENC_H264 = ['-c:v', 'libx264', '-preset', 'medium', '-crf', '24', '-maxrate', '1.6M', '-bufsize', '3.2M', '-g', '50', '-pix_fmt', 'yuv420p', '-an']
 def enc_hevc(kbps): return ['-c:v', 'libx265', '-preset', 'fast', '-crf', '25', '-x265-params', f'vbv-maxrate={kbps}:vbv-bufsize={kbps * 2}:keyint=50:log-level=error', '-tag:v', 'hvc1', '-pix_fmt', 'yuv420p', '-an']
 ENC = list(ENC_H264); ABR = '128k'
@@ -321,9 +428,17 @@ def render_shot(sh_, out, workdir):
         last = f'b{k}'; k += 1
     if sh_.get('lt'):
         lt = f'{workdir}/lt_{abs(hash(tuple(sh_["lt"])))}.png'
-        if not os.path.exists(lt): CARDS.lower_third(sh_['lt'][0], sh_['lt'][1] if len(sh_['lt']) > 1 else None, lt)
-        ins += ['-loop', '1', '-framerate', str(FPS), '-i', lt]
-        chain += f';[{k}:v]format=rgba,fade=t=in:st=0.5:d=0.5:alpha=1,fade=t=out:st={min(5.2, dur - .6):.2f}:d=0.5:alpha=1[o{k}];[{last}][o{k}]overlay=0:0:shortest=1[b{k}]'
+        col = BANDO.get(sh_['lt'][2]) if len(sh_['lt']) > 2 else None
+        if not os.path.exists(lt): CARDS.lower_third(sh_['lt'][0], sh_['lt'][1] if len(sh_['lt']) > 1 else None, lt, color=col)
+        ins += ['-loop', '1', '-framerate', str(FPS), '-i', lt]; la = sp.get('lt_at', 0.35)
+        chain += f';[{k}:v]format=rgba,fade=t=in:st={la}:d=0.45:alpha=1,fade=t=out:st={max(la + 1, min(la + 4.8, dur - .6)):.2f}:d=0.5:alpha=1[o{k}];[{last}][o{k}]overlay=0:0:shortest=1[b{k}]'
+        last = f'b{k}'; k += 1
+    if sp.get('gloss'):  # glosario: chip arriba a la izquierda con la sigla y su traducción a lenguaje de hoy
+        g = sp['gloss']; gp = f'{workdir}/gl_{abs(hash(tuple(g)))}.png'
+        if not os.path.exists(gp): CARDS.gloss(g[0], g[1] if len(g) > 1 else '', gp, color=BANDO.get(g[2]) if len(g) > 2 else None)
+        g0 = sp.get('gloss_at', 0.3); g1 = min(dur - .3, g0 + sp.get('gloss_dur', 4.5))
+        ins += ['-loop', '1', '-framerate', str(FPS), '-i', gp]
+        chain += f';[{k}:v]format=rgba,fade=t=in:st={g0}:d=0.35:alpha=1,fade=t=out:st={max(g0 + .5, g1 - .4):.2f}:d=0.4:alpha=1[o{k}];[{last}][o{k}]overlay=0:0:shortest=1[b{k}]'
         last = f'b{k}'; k += 1
     if sp.get('kw'):
         kp = f'{workdir}/kw_{abs(hash(sp["kw"]))}.png'
@@ -361,6 +476,27 @@ def outro(job, shots, wd):
         *[x for x in ENC if x != '-an'], '-r', str(FPS), '-c:a', 'aac', '-b:a', ABR, '-ar', '48000', '-ac', '2', out])
     return out
 
+def sync_sheets(shots, wd, out_dir):
+    """Control de concordancia: cada plano de persona, lugar o documento junto a lo que se oye mientras sale."""
+    from PIL import ImageDraw, ImageFont
+    F = ImageFont.truetype(os.path.join(os.path.dirname(__file__), 'fonts', 'corm600.ttf'), 20)
+    sel = [s for s in shots if s['spec'].get('at') or s.get('lt') or 'photo' in s['spec'] or 'commons' in s['spec'] or s['spec'].get('gloss')]
+    per = 12
+    for k in range(0, len(sel), per):
+        ch = sel[k:k + per]; sheet = Image.new('RGB', (3 * 640, ((len(ch) + 2) // 3) * 440), (12, 12, 12)); d = ImageDraw.Draw(sheet)
+        for j, s in enumerate(ch):
+            x, y = (j % 3) * 640, (j // 3) * 440; p = f'{wd}/shots/{s["n"]:04d}.mp4'; im = f'{wd}/sy_{s["n"]}.jpg'
+            try:
+                sh(['ffmpeg', '-loglevel', 'error', '-y', '-ss', f'{min(1.6, s["d"] / 2):.2f}', '-i', p, '-frames:v', '1', '-vf', 'scale=620:-1', im])
+                sheet.paste(Image.open(im), (x + 10, y + 10))
+            except Exception: d.text((x + 20, y + 120), 'sin fotograma', font=F, fill=(255, 80, 80))
+            tag = s['spec'].get('at') or (s.get('lt') or [''])[0] or s['spec'].get('photo') or s['spec'].get('commons') or ''
+            d.text((x + 12, y + 360), f'#{s["n"]} {s["t"]:.1f}s · {tag}'[:60], font=F, fill=(240, 200, 120))
+            hd = s.get('heard', '')
+            d.text((x + 12, y + 386), ('«' + hd[:58]), font=F, fill=(200, 230, 255)); d.text((x + 12, y + 410), (hd[58:116] + '»'), font=F, fill=(200, 230, 255))
+        sheet.save(f'{out_dir}/sincronia_{k // per:02d}.jpg', quality=78)
+    log(f'   hojas de sincronía: {(len(sel) + per - 1) // per}')
+
 def srt_time(x):
     h = int(x // 3600); m = int(x % 3600 // 60); s = x % 60; return f'{h:02d}:{m:02d}:{int(s):02d},{int((s % 1) * 1000):03d}'
 
@@ -395,16 +531,17 @@ def cast(job, U, shots, out_dir, wd):
             if key in seenq: seenq[key] += 1; continue
             seenq[key] = 1; cs = candidates(sp, n=8, use_used=False); qtab[key] = cs
         table[str(n)] = cs
-        txt = re.sub(r'\[[^\]]*\]', '', U[s['unit']].get('text', '') or '').strip()[:110]
+        txt = (s.get('heard') or re.sub(r'\[[^\]]*\]', '', U[s['unit']].get('text', '') or '')).strip()[:120]
         rows.append((n, s, cs, txt))
         log(f'   plano {n} t={s["t"]:.0f}s {list(sp)[0]}="{list(sp.values())[0] if isinstance(list(sp.values())[0], str) else ""}" -> {len(cs)} candidatos')
     per = 6; k = 0
     for i in range(0, len(rows), per):
-        chunk = rows[i:i + per]; sheet = Image.new('RGB', (8 * 392 + 8, len(chunk) * 262 + 8), (12, 12, 12)); d = ImageDraw.Draw(sheet)
+        chunk = rows[i:i + per]; sheet = Image.new('RGB', (8 * 392 + 8, len(chunk) * 292 + 8), (12, 12, 12)); d = ImageDraw.Draw(sheet)
         for r, (n, s, cs, txt) in enumerate(chunk):
-            y = 8 + r * 262; sp = s['spec']; q = sp.get('video') or sp.get('photo') or sp.get('commons') or 'IA'
+            y = 8 + r * 292; sp = s['spec']; q = sp.get('video') or sp.get('photo') or sp.get('commons') or 'IA'
             kq = qkey(sp) if ('video' in sp or 'photo' in sp) else None
-            d.text((10, y), (f'{kq}  ·  usado {seenq.get(kq, 1)} veces' if kq else f'#{n}  {s["t"]:.0f}s  [{q}]  {txt}')[:150], font=F, fill=(240, 200, 120))
+            d.text((10, y), (f'#{n} {s["t"]:.0f}s  {kq}  ·  usado {seenq.get(kq, 1)} veces' if kq else f'#{n}  {s["t"]:.0f}s  [{q}]')[:150], font=F, fill=(240, 200, 120))
+            d.text((10, y + 236), ('«' + txt + '»')[:170], font=F, fill=(200, 230, 255))
             for j, c in enumerate(cs[:8]):
                 x = 8 + j * 392; sheet.paste(_thumb(c, wd), (x, y + 34))
                 d.rectangle([x, y + 34, x + 30, y + 62], fill=(0, 0, 0)); d.text((x + 8, y + 36), str(j), font=F, fill=(255, 255, 255))
@@ -413,7 +550,7 @@ def cast(job, U, shots, out_dir, wd):
     json.dump(table, open(f'{out_dir}/cast.json', 'w'), ensure_ascii=False, indent=0)
     json.dump(qtab, open(f'{out_dir}/castq.json', 'w'), ensure_ascii=False, indent=0)
     open(f'{out_dir}/castq_uso.txt', 'w').write('\n'.join(f'{v}x  {k}' for k, v in seenq.items()))
-    json.dump([dict(n=s['n'] if 'n' in s else i, t=round(s['t'], 2), d=round(s['d'], 2), unit=s['unit'], spec=s['spec']) for i, s in enumerate(shots)],
+    json.dump([dict(n=s['n'] if 'n' in s else i, t=round(s['t'], 2), d=round(s['d'], 2), unit=s['unit'], heard=s.get('heard', ''), spec=s['spec']) for i, s in enumerate(shots)],
               open(f'{out_dir}/edl.json', 'w'), ensure_ascii=False, indent=0)
     cast_music(job, out_dir, F)
     log(f'FIN CASTING: {k} hojas, {len(rows)} planos con material')
@@ -463,7 +600,10 @@ def run(job_dir):
     if br.get('mosca', True): BRAND['mosca'] = os.path.join(ROOT, 'assets/brand/DocuVox_Mosca_1920x1080_alfa.png')
     log('== 1/5 audio: colocando voces, música y efectos')
     A = build_audio(job, U); credits += A['credits']
-    log('== 2/5 guion visual'); shots = build_edl(job, U, A)
+    align_audio(job, U, A, job_dir, out_dir)
+    BANDO.clear(); BANDO.update({k: tuple(v) for k, v in job.get('bando', {}).items()}); REUSE.update(job.get('reuse', {}))
+    log('== 2/5 guion visual'); shots = build_edl_sync(job, U, A) if job.get('align') else build_edl(job, U, A)
+    if SYNC: open(f'{out_dir}/sincronia.txt', 'w').write('\n'.join(SYNC) + '\n')
     log(f'   {len(shots)} planos')
     if job.get('stage') == 'cast': return cast(job, U, shots, out_dir, wd)
     picks = job.get('picks', {})
@@ -477,7 +617,7 @@ def run(job_dir):
     log('== 3/5 buscando y descargando material')
     last = -1
     for n, s in enumerate(shots):
-        try: s['res'] = resolve(s['spec'], s['d'], credits, picks.get(str(n)))
+        try: s['res'] = resolve(s['spec'], s['d'], credits, picks.get(str(n)), t=s['t'])
         except Exception as e:
             log(f'  ! plano {n} ({s["spec"]}) -> {e}; uso alternativa')
             alt = job.get('fallback') or [{'card': {'type': 'title', 'title': job.get('channel', ''), 'sub': job.get('title', '')}}]
@@ -490,17 +630,21 @@ def run(job_dir):
         except Exception as e: log('  aviso capa', name, e)
     # efectos automáticos: golpe de aire al entrar cada tarjeta, impacto en títulos
     extra = []
-    auto = job.get('auto_sfx', {'card': 'cinematic whoosh', 'title': 'cinematic boom impact'})
-    cache = {}
+    # (por defecto, ninguno: el golpe de aire en cada tarjeta resultó chirriante y repetitivo en el episodio 2)
+    auto = job.get('auto_sfx', {}); cap = job.get('sfx_max', 5)
+    cache = {}; count = {}
     def sfx(q, db):
+        count[q] = count.get(q, 0) + 1
+        if count[q] > cap: raise RuntimeError(f'"{q}" ya sonó {cap} veces (sfx_max)')
         if q not in cache: cache[q] = gain_to(load(sfx_file(q, credits)), db)
         return cache[q]
     for s in shots:
         if s['res']['kind'] == 'card' and s['t'] > 1:
-            q = auto['title'] if s['res']['card']['type'] == 'title' else auto['card']
+            q = auto.get('title') if s['res']['card']['type'] == 'title' else auto.get('card')
+            if not q: continue
             try: y = sfx(q, -27 if 'boom' in q else -31); extra.append((int(max(0, s['t'] - 0.25) * SR), fade(y[:, :int(3 * SR)], 0.02, 0.8)))
             except Exception as e: log('  aviso sfx auto:', e)
-    trs = job.get('tr_sfx', {'flash': 'whoosh reverse swell', 'black': 'cinematic hit deep'})
+    trs = job.get('tr_sfx', {'black': 'cinematic hit deep'})
     for s in shots:
         q = s['spec'].get('sfx')
         if q:
@@ -564,7 +708,19 @@ def run(job_dir):
     srt = []; n = 1
     for e in A['tl']:
         u = U[e['i']]
-        if e['k'] not in ('N', 'P', 'R') or not u.get('text'): continue
+        if e['k'] not in ('N', 'P', 'R', 'T') or not u.get('text'): continue
+        wu = A.get('words', {}).get(e['i'])
+        if wu and wu['words']:  # subtítulos a la palabra: cada frase empieza cuando se dice
+            ws = wu['words']; chunks = []; cur = []
+            for w in ws:
+                cur.append(w)
+                if re.search(r'[.!?…:;]$', w['w']) or len(' '.join(x['w'] for x in cur)) > 78: chunks.append(cur); cur = []
+            if cur: chunks.append(cur)
+            vend = wu['off'] + e['d'] - (e.get('va', 0) if e['k'] == 'T' else 0)
+            for c_, ch_ in enumerate(chunks):
+                a = wu['off'] + ch_[0]['t']; b = (wu['off'] + chunks[c_ + 1][0]['t'] - 0.05) if c_ + 1 < len(chunks) else min(vend, a + 6)
+                srt.append(f"{n}\n{srt_time(T(a))} --> {srt_time(T(max(b, a + 0.8)))}\n{' '.join(x['w'] for x in ch_)}\n"); n += 1
+            continue
         txt = re.sub(r'\[[^\]]*\]', '', u['text']); sents = [s.strip() for s in re.split(r'(?<=[.!?…])\s+', txt.replace('\n', ' ')) if s.strip()]
         tot = sum(len(s) for s in sents); a = e['t']
         for s_ in sents:
@@ -573,7 +729,9 @@ def run(job_dir):
                 srt.append(f'{n}\n{srt_time(T(a))} --> {srt_time(T(b))}\n{chunk}\n'); n += 1
             a = b
     open(f'{out_dir}/{job["id"]}.srt', 'w').write('\n'.join(srt))
-    ch = ['0:00 Introducción'] + [f"{int(T(next(x for x in A['tl'] if x['i'] == c['unit'])['t']) // 60)}:{int(T(next(x for x in A['tl'] if x['i'] == c['unit'])['t']) % 60):02d} {c['title']}" for c in job.get('chapters', [])]
+    chs = list(job.get('chapters', [])) + [dict(unit=i, title=(u.get('card') or {}).get('title', '')) for i, u in enumerate(U) if u['k'] == 'T' and u.get('chapter')]
+    chs.sort(key=lambda c: c['unit'])
+    ch = ['0:00 Introducción'] + [f"{int(T(next(x for x in A['tl'] if x['i'] == c['unit'])['t']) // 60)}:{int(T(next(x for x in A['tl'] if x['i'] == c['unit'])['t']) % 60):02d} {c['title']}" for c in chs]
     open(f'{out_dir}/capitulos.txt', 'w').write('\n'.join(ch) + '\n')
     seen = set(); cr = []
     for kind, c in credits:
@@ -588,7 +746,9 @@ def run(job_dir):
     sheet = Image.new('RGB', (w_ * 4, h_ * 6))
     for i, im in enumerate(ims): sheet.paste(im, ((i % 4) * w_, (i // 4) * h_))
     sheet.save(f'{out_dir}/control.jpg', quality=80)
-    json.dump([dict(n=s['n'], t=round(s['t'], 2), d=round(s['d'], 2), unit=s['unit'], spec=s['spec']) for s in shots], open(f'{out_dir}/edl.json', 'w'), ensure_ascii=False, indent=0)
+    json.dump([dict(n=s['n'], t=round(s['t'], 2), d=round(s['d'], 2), unit=s['unit'], heard=s.get('heard', ''), spec=s['spec']) for s in shots], open(f'{out_dir}/edl.json', 'w'), ensure_ascii=False, indent=0)
+    try: sync_sheets(shots, wd, out_dir)
+    except Exception as e: log('  aviso hoja de sincronía:', e)
     log(f'FIN: {final} · {D/60:.1f} min · {os.path.getsize(final)/1e6:.0f} MB')
     open(f'{out_dir}/informe.txt', 'w').write('\n'.join(LOG) + '\n')
 

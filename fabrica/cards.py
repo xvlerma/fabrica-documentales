@@ -449,6 +449,142 @@ def f_split(spec, t, D):
 
 KIND.update(mapfly=f_mapfly, scan=f_scan, doc=f_doc, board=f_board, counter=f_counter, split=f_split)
 
+
+# ---------- v3: accesibilidad y grafismo explicativo ----------
+def _photo(spec, w, h, bw=True):
+    """Foto real recortada a w×h (en B/N por defecto), con marco fino; None si no hay."""
+    from PIL import ImageOps
+    p = spec.get('_path')
+    if not p or not os.path.exists(p): return None
+    im = ImageOps.fit(Image.open(p).convert('L' if bw else 'RGB'), (w, h), centering=(0.5, 0.3))
+    im = im.convert('RGBA'); d = ImageDraw.Draw(im); d.rectangle([0, 0, w - 1, h - 1], outline=GOLD + (160,), width=2)
+    return im
+
+def _col(c, default=None): return tuple(int(x) for x in c) if c else (default or GOLD)
+
+def f_ficha_v3(spec, t, D):
+    """Ficha con foto real: retrato a la izquierda, nombre, cargo y grupo a la derecha."""
+    if not spec.get('_path'): return f_ficha(spec, t, D)
+    fr = bg(spec.get('seed', 13)); ph = _photo(spec, 560, 700); k = ease(t / .9)
+    put(fr, ph, 540, H / 2 + int(20 * (1 - k)), k)
+    col = _col(spec.get('color')); d = ImageDraw.Draw(fr)
+    if spec.get('color') and k > .2: d.rectangle([900, H / 2 - 140, 908, H / 2 + 160], fill=col)
+    nm = CASE(spec['name'])
+    put(fr, text_layer(nm, fit('cinzel600', 92, nm, 880, TR(0.08)), GOLD, TR(0.08)), 940, H / 2 - 80, ease((t - .3) / .8), anchor='lt')
+    put(fr, text_layer(spec.get('role', ''), font('corm500i', 50), CREAM), 942, H / 2 + 30, ease((t - .7) / .8), anchor='lt')
+    if spec.get('group'): put(fr, text_layer(CASE(spec['group']), font('cinzel400', 34), col, TR(0.14)), 942, H / 2 + 100, ease((t - 1.0) / .8), anchor='lt')
+    return fr
+
+def f_cast(spec, t, D):
+    """Tablero de protagonistas agrupados por bando: foto, nombre y papel. Entran escalonados."""
+    fr = bg(spec.get('seed', 17)); groups = spec['groups']
+    if spec.get('title'): put(fr, text_layer(CASE(spec['title']), font('cinzel600', 54), GOLD, TR(0.12)), W / 2, 92, ease(t / .8))
+    tot = sum(len(g['people']) for g in groups); step = min(.55, (D * .55) / max(1, tot)); idx = 0
+    gw = (W - 160) / len(groups); d = ImageDraw.Draw(fr)
+    def layout(n):
+        cols = n if (gw - 40) / max(1, n) - 24 >= 150 else max(1, int((gw - 40) // 174)); return cols, math.ceil(n / cols)
+    maxrows = max(layout(len(g['people']))[1] for g in groups)
+    for gi, g in enumerate(groups):
+        x0 = 80 + gi * gw; col = _col(g.get('color')); kg = ease((t - .2 - gi * .25) / .7)
+        if kg > 0:
+            d.rectangle([x0 + 20, 170, x0 + 20 + (gw - 40) * kg, 176], fill=col)
+            put(fr, text_layer(CASE(g['name']), font('cinzel600', 40), col, TR(0.12)), x0 + gw / 2, 215, kg)
+        ppl = g['people']; n = len(ppl); cols, rows = layout(n)
+        pw = min(220, (gw - 40) / cols - 24, (H - 420) / maxrows / 1.2 - 100 / 1.2); phh = int(pw * 1.2); rh = phh + 120
+        for j, pe in enumerate(ppl):
+            r, c = divmod(j, cols); cx = x0 + gw / 2 + (c - (min(cols, n - r * cols) - 1) / 2) * (pw + 34)
+            cy = 270 + r * rh + max(0, (H - 300 - maxrows * rh) / 2)
+            k = ease((t - .6 - idx * step) / .6); idx += 1
+            if k <= 0: continue
+            ph = _photo(pe, int(pw), phh)
+            if ph is None:
+                ph = Image.new('RGBA', (int(pw), phh), (40, 40, 40, 255)); ImageDraw.Draw(ph).rectangle([0, 0, int(pw) - 1, phh - 1], outline=col + (200,), width=2)
+            put(fr, ph, cx, cy + phh / 2 + int(16 * (1 - k)), k)
+            dd = ImageDraw.Draw(fr); dd.rectangle([cx - pw / 2, cy + phh + 2, cx + pw / 2, cy + phh + 7], fill=col)
+            fn = font('cinzel600', 28); nl = wrap(pe['name'], fn, pw + 22)[:3]
+            for li, ln in enumerate(nl): put(fr, text_layer(ln, fit('cinzel600', 28, ln, pw + 26), CREAM), cx, cy + phh + 32 + li * 32, k)
+            if pe.get('role'):
+                for li, ln in enumerate(wrap(pe['role'], font('corm500i', 24), pw + 22)[:2]):
+                    put(fr, text_layer(ln, font('corm500i', 24), DIM), cx, cy + phh + 36 + len(nl) * 32 + li * 28, k)
+    return fr
+
+def f_seats(spec, t, D):
+    """Hemiciclo: los escaños se colorean por grupo, con la cifra que se cuenta y la línea de mayoría."""
+    fr = bg(spec.get('seed', 19)); d = ImageDraw.Draw(fr); total = spec['total']; parties = spec['parties']
+    if spec.get('title'): put(fr, text_layer(CASE(spec['title']), font('cinzel600', 54), GOLD, TR(0.12)), W / 2, 80, ease(t / .8))
+    rows = max(6, int(math.sqrt(total / 3.2))); cx, cy = W / 2, H - 250; R0, R1 = 260, 640
+    radii = [R0 + (R1 - R0) * r / (rows - 1) for r in range(rows)]; tot_len = sum(radii)
+    per = [max(1, round(total * rr / tot_len)) for rr in radii]; per[-1] += total - sum(per)
+    pts = []
+    for rr, n in zip(radii, per):
+        for j in range(n): a = math.pi * (1 - j / max(1, n - 1)); pts.append((a, cx + rr * math.cos(a), cy - rr * math.sin(a)))
+    pts.sort(key=lambda p: -p[0])
+    colors = []
+    for pa in parties: colors += [_col(pa.get('color'))] * pa['seats']
+    colors += [(70, 70, 70)] * (total - len(colors))
+    p = ease((t - .5) / (D * .5)); shown = int(total * p); rad = max(4, int((R1 - R0) / (rows - 1) * 0.40))
+    for i, (_, x, y) in enumerate(pts):
+        c = colors[i] if i < shown else (55, 52, 48)
+        d.ellipse([x - rad, y - rad, x + rad, y + rad], fill=c)
+    if spec.get('majority'):
+        k = ease((t - D * .55) / .6)
+        if k > 0:
+            d.line([(cx, cy - R1 - 20), (cx, cy - R0 + 20)], fill=CREAM + (int(255 * k),), width=3)
+            put(fr, text_layer(f"MAYORÍA: {spec['majority']}", font('cinzel400', 30), CREAM, TR(0.14)), cx, cy - 110, k)
+    x = 140
+    for i, pa in enumerate(parties):
+        k = ease((t - .8 - i * .35) / .6)
+        if k <= 0: continue
+        v = int(round(pa['seats'] * min(1, p * 1.05)))
+        put(fr, text_layer(str(v), font('cinzel600', 96), _col(pa.get('color')), TR(0.04)), x, H - 170, k, anchor='lt')
+        put(fr, text_layer(pa['name'], font('corm500i', 40), CREAM), x, H - 70, k, anchor='lt')
+        x += 520
+    return fr
+
+def f_versus(spec, t, D):
+    """Dos bandos frente a frente: foto del líder, nombre del bloque y quiénes lo forman."""
+    fr = bg(spec.get('seed', 23)); d = ImageDraw.Draw(fr); k0 = ease((t - .1) / .7)
+    d.line([(W / 2, H / 2 - 400 * k0), (W / 2, H / 2 + 400 * k0)], fill=GOLD, width=2)
+    if spec.get('title'): put(fr, text_layer(CASE(spec['title']), font('cinzel600', 44), GOLD, TR(0.12)), W / 2, 70, ease(t / .8))
+    for side, cx in (('left', W / 4), ('right', 3 * W / 4)):
+        s_ = spec[side]; col = _col(s_.get('color')); at = .3 if side == 'left' else .9; k = ease((t - at) / .7)
+        ph = _photo(s_, 340, 400)
+        if ph is not None: put(fr, ph, cx, 340 + int(20 * (1 - k)), k)
+        put(fr, text_layer(CASE(s_['name']), fit('cinzel600', 56, CASE(s_['name']), 760, TR(0.08)), col, TR(0.08)), cx, 590, k)
+        if k > 0: d.rectangle([cx - 160 * k, 632, cx + 160 * k, 637], fill=col)
+        y = 690
+        for i, l in enumerate(s_.get('lines', [])):
+            kk = ease((t - at - .5 - i * .35) / .6)
+            for ww in wrap(l, font('corm500', 40), 760): put(fr, text_layer(ww, font('corm500', 40), CREAM), cx, y, kk); y += 52
+    return fr
+
+def f_recap(spec, t, D):
+    """Recapitulación: puntos numerados que entran uno a uno (quién es quién y dónde estamos)."""
+    fr = bg(spec.get('seed', 29)); items = spec['items']; n = len(items)
+    put(fr, text_layer(CASE(spec.get('title', 'Hasta aquí')), font('cinzel600', 56), GOLD, TR(0.12)), W / 2, 150, ease(t / .8))
+    put(fr, rule_layer(320), W / 2, 210, ease((t - .3) / .8))
+    step = min(1.2, (D * .65) / max(1, n)); gap = min(150, 700 / n); y0 = 300
+    for i, it in enumerate(items):
+        a, b = (it if isinstance(it, (list, tuple)) else (it, None)); k = ease((t - .7 - i * step) / .6)
+        y = y0 + i * gap
+        put(fr, text_layer(f'{i + 1}', font('cinzel600', 70), GOLD), 360, y, k)
+        put(fr, text_layer(a, font('cinzel600', 48), CREAM), 450, y - (14 if b else 0), k, anchor='lm')
+        if b: put(fr, text_layer(b, font('corm500i', 36), DIM), 452, y + 34, k, anchor='lm')
+    return fr
+
+KIND.update(ficha=f_ficha_v3, cast=f_cast, seats=f_seats, versus=f_versus, recap=f_recap)
+
+def gloss(term, meaning, out, color=None):
+    """Chip de glosario arriba a la izquierda: sigla o término y su traducción a lenguaje de hoy."""
+    im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); f1 = font('cinzel600', 44); f2 = font('corm500i', 36)
+    d0 = ImageDraw.Draw(im); w1 = d0.textlength(CASE(term), font=f1); w2 = d0.textlength(meaning, font=f2)
+    bw = int(max(w1, w2) + 90); g = Image.new('RGBA', (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(g)
+    gd.rectangle([60, 60, 60 + bw, 210], fill=(0, 0, 0, 170)); im.alpha_composite(g.filter(ImageFilter.GaussianBlur(6)))
+    d = ImageDraw.Draw(im); d.rectangle([60, 60, 68, 210], fill=tuple(color) if color else GOLD)
+    im.alpha_composite(text_layer(CASE(term), f1, GOLD, TR(0.08)), (96, 74))
+    im.alpha_composite(text_layer(meaning, f2, CREAM), (98, 140))
+    im.save(out)
+
 def keyword(word, out):
     """Palabra clave a pantalla completa (capa transparente) para superponer sobre un plano."""
     im = Image.new('RGBA', (W, H), (0, 0, 0, 0))
@@ -476,11 +612,13 @@ def render_card(spec, dur, out, fade_in=.25, fade_out=.0):
     if p.returncode: raise RuntimeError('card render failed')
     os.rename(out + '.tmp.mp4', out)
 
-def lower_third(a, b, out):
+def lower_third(a, b, out, color=None):
+    """Rótulo inferior. `color`: color del bando o grupo (barra vertical), para reconocerlo en todo el episodio."""
     im = Image.new('RGBA', (W, H), (0, 0, 0, 0))
     g = Image.new('RGBA', (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(g)
     gd.rectangle([0, H - 260, 1100, H - 90], fill=(0, 0, 0, 150)); im.alpha_composite(g.filter(ImageFilter.GaussianBlur(40)))
     d = ImageDraw.Draw(im); d.line([(144, H - 205), (214, H - 205)], fill=GOLD, width=3)
+    if color: d.rectangle([104, H - 212, 112, H - 100], fill=tuple(color))
     if THEME.get('brand_dot', True): d.ellipse([122, H - 211, 134, H - 199], fill=BRAND_DOT)  # firma DocuVox: el punto
     im.alpha_composite(text_layer(CASE(a), font('cinzel600', 52), GOLD, TR(0.10)), (142, H - 200))
     if b: im.alpha_composite(text_layer(b, font('corm500i', 40), CREAM), (144, H - 138))

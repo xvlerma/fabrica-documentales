@@ -5,7 +5,13 @@ import os, json, time, hashlib, urllib.parse, urllib.request
 UA = 'fabrica-documentales/1.0 (https://github.com/xvlerma/fabrica-documentales)'
 CACHE = os.environ.get('FABRICA_CACHE', '/tmp/fabrica_cache')
 os.makedirs(CACHE, exist_ok=True)
-OK_LIC = ('cc0', 'pdm', 'public domain', 'cc by', 'cc-by', 'by', 'by-sa', 'cc by-sa', 'pixabay', 'no restrictions', 'attribution')
+def lic_ok(lic):
+    """Solo dominio público, CC0 y CC BY: nada NC, ND ni SA (documento maestro)."""
+    import re as _r
+    l = (lic or '').lower()
+    if _r.search(r'(^|[\s\-_/])(sa|nc|nd)($|[\s\-_/\d.])', l) or 'sharealike' in l or 'share alike' in l or 'noncommercial' in l or 'noderiv' in l or 'gfdl' in l: return False
+    return any(x in l for x in OK_LIC)
+OK_LIC = ('cc0', 'pdm', 'public domain', 'cc by', 'cc-by', 'by', 'pixabay', 'no restrictions', 'attribution')
 
 _last = {}
 def _get(url, headers=None, tries=7):
@@ -67,7 +73,7 @@ def commons_search(q, video=False, n=10):
     for p in (j.get('query', {}).get('pages', {}) or {}).values():
         ii = (p.get('imageinfo') or [{}])[0]; m = ii.get('extmetadata', {})
         lic = (m.get('LicenseShortName', {}) or {}).get('value', '')
-        if not any(x in lic.lower() for x in OK_LIC) or 'nc' in lic.lower().replace('nc-', 'nc '): continue
+        if not lic_ok(lic): continue
         art = (m.get('Artist', {}) or {}).get('value', '')
         import re; art = re.sub('<[^>]+>', '', art).strip()[:80] or 'Wikimedia Commons'
         if video:
@@ -89,6 +95,8 @@ def commons_file(title):
         import re
         art = re.sub('<[^>]+>', '', (m.get('Artist', {}) or {}).get('value', '')).strip()[:80] or 'Wikimedia Commons'
         vid = ii.get('mime', '').startswith('video')
+        lic = (m.get('LicenseShortName', {}) or {}).get('value', '')
+        if not lic_ok(lic): raise LookupError(f'licencia no permitida ({lic}) en {t}')
         return dict(kind='video' if vid else 'image', url=ii.get('url') if vid else (ii.get('thumburl') or ii.get('url')),
                     w=ii.get('width', 0), h=ii.get('height', 0), dur=float(ii.get('duration') or 0), credit=art,
                     license=(m.get('LicenseShortName', {}) or {}).get('value', ''), page=ii.get('descriptionurl'), id='wm' + str(p.get('pageid')))

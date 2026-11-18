@@ -8,8 +8,8 @@
   "herodoto": "Herodotus Massimo Inv124478.jpg",
   "tablilla": "Writing tablet and stylus - oldest record of a commercial transaction in the City of London.jpg"
  },
- "voz_url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795032000&KeyName=assets-cdn-key-1&Signature=R3NGQADfBf1pPCtt1rE2qG8XrzQ=",
- "rev": 4,
+ "voz_url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795042800&KeyName=assets-cdn-key-1&Signature=KiGUFhhLwbdKhWMnUKixhY2hETU=",
+ "rev": 5,
  "ov": {
   "1:1": {
    "image": "https://openaccess-cdn.clevelandart.org/1926.242/1926.242_print.jpg",
@@ -506,7 +506,7 @@
    "at": "Seguro"
   },
   "1:2": {
-   "commons": "Persepolis The Persian Soldiers-edit1.jpg",
+   "commons": "Persepolis Relief 12.jpg",
    "at": "un imperio entero"
   },
   "1:3": {
@@ -557,24 +557,16 @@
    ]
   },
   "12:2": {
-   "commons": "Berlin - Pergamon Museum - Persian warriors - 20150523 6849.jpg",
+   "commons": "Archer frieze Louvre AOD487.jpg",
    "at": "con todo el imperio"
   },
-  "13:1": {
-   "commons": "Artemis ruins2.jpg",
-   "at": "quemaron Sardes",
-   "lt": [
-    "Sardes",
-    "capital de Lidia · hoy"
-   ]
-  },
   "13:2": {
-   "commons": "Relief of Thracian warriors, reign of Darius I, 6th-5th century BCE. from Persepolis, Iran, Pergamon Museum.jpg",
+   "commons": "Behistun inscription reliefs.jpg",
    "at": "Señor, acuérdate",
    "kw": "ACUÉRDATE DE LOS ATENIENSES"
   },
   "16:0": {
-   "commons": "AGMA Herodotus 7307.jpg",
+   "commons": "Herodotus Massimo Inv124478.jpg",
    "at": "Se llamaba Heródoto",
    "lt": [
     "Heródoto de Halicarnaso",
@@ -599,11 +591,11 @@
    "kw": "HISTORIA = INVESTIGACIÓN"
   },
   "19:0": {
-   "commons": "Leonidas Statue.jpg",
+   "commons": "Sparta - Tomb of Leonidas - DPLA - ebe507a1efd1897f87666db7538e3435 (page 1).jpg",
    "at": "Vamos a seguir"
   },
   "23:0": {
-   "commons": "Bust of an Immortal royal guard (Achaemenid soldiers) from the palace of Susa, Iran.- SB 33177 - (Fragment) Louvre -Lens.jpg",
+   "commons": "Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg",
    "at": "Susa",
    "lt": [
     "Susa",
@@ -620,23 +612,22 @@
    ]
   },
   "23:2": {
-   "commons": "Bas-Relief on Apadana Staircase - Persepolis - Central Iran - 05 (7427791490) (2).jpg",
+   "commons": "Ionian Tribute Bearers on the Apadana Staircase (Best Viewed Size \"Large\") (4688057305).jpg",
    "at": "Y ahora se entera"
   },
   "25:0": {
-   "commons": "Douris Man with wax tablet.jpg",
+   "commons": "Writing tablet and stylus - oldest record of a commercial transaction in the City of London.jpg",
    "at": "coge una tablilla"
   },
   "25:1": {
-   "commons": "Getty Villa - Collection (5304918141).jpg",
-   "at": "graba el mensaje"
+   "drop": true
   },
   "27:0": {
-   "commons": "Mad-5223.jpg",
+   "commons": "Right Section of the Treasury Reliefs (4735541667).jpg",
    "at": "Para Jerjes"
   },
   "29:0": {
-   "commons": "Priests procession at Persepolis.jpg",
+   "commons": "Persepolis, Apadana, Central Relief, Pharnaces.jpg",
    "at": "su tío Artábano",
    "lt": [
     "Artábano",
@@ -645,7 +636,7 @@
    ]
   },
   "31:1": {
-   "commons": "Allard Pierson Museum Domitian as pharao 7679.jpg",
+   "image": "https://openaccess-cdn.clevelandart.org/1930.104/1930.104_print.jpg",
    "at": "el castigo que los dioses"
   },
   "33:0": {
@@ -657,20 +648,12 @@
    "at": "Heródoto los describe"
   },
   "33:2": {
-   "commons": "Persépolis, Irán, 2016-09-24, DD 53.jpg",
+   "commons": "SC 337334 - Persepolis. Palace of Xerxes. (52256758190).jpg",
    "at": "en los relieves"
   },
   "36:1": {
    "commons": "Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg",
    "at": "Siguen siendo muchísimos"
-  },
-  "37:1": {
-   "commons": "Dardanellen 2.JPG",
-   "at": "los Dardanelos",
-   "lt": [
-    "Estrecho de los Dardanelos",
-    "el antiguo Helesponto · hoy"
-   ]
   },
   "38:0": {
    "commons": "Effet du tonnerre.jpg",
@@ -680,26 +663,10 @@
    "commons": "Persepolis, Apadana, Central Relief, Pharnaces.jpg",
    "at": "le preguntó por qué lloraba"
   },
-  "47:0": {
-   "commons": "Mount Athos,peninsula of Athos.jpg",
-   "at": "monte Atos",
-   "lt": [
-    "Monte Atos",
-    "Calcídica, norte de Grecia · hoy"
-   ]
-  },
   "49:1": {
    "commons": "Terracotta Hadra hydria (water jar) MET DP121872.jpg",
    "at": "tierra y agua",
    "kw": "TIERRA Y AGUA"
-  },
-  "51:1": {
-   "commons": "Cadmea, Thebes.jpg",
-   "at": "Tebas",
-   "lt": [
-    "Tebas",
-    "Beocia"
-   ]
   },
   "52:1": {
    "commons": "Ancient Greek Football Player.jpg",
@@ -728,7 +695,7 @@
    "at": "unos doscientos trirremes"
   },
   "60:0": {
-   "commons": "View of Mount Taygetus from the ruins of the ancient theatre of Sparta on 15 May 2019.jpg",
+   "commons": "View of Mount Taygetus from the top of the Castle of Mystras on 15 May 2019.jpg",
    "at": "Esparta",
    "lt": [
     "Esparta",
@@ -736,7 +703,7 @@
    ]
   },
   "62:2": {
-   "commons": "Peithinos ARV 115 2 Peleus and Thetis - youths and boys - youths and women (01).jpg",
+   "commons": "Ancient Greek Football Player.jpg",
    "at": "aprendían a robar"
   },
   "64:1": {
@@ -748,11 +715,10 @@
    ]
   },
   "70:0": {
-   "commons": "Bronze figure of a running girl, Greek, about 520-500 BC, Found at Prizren, Kosovo, Winning at the ancient Games, British Museum (7667206370).jpg",
-   "at": "las mujeres de Esparta"
+   "drop": true
   },
   "73:0": {
-   "commons": "The Temple of Apollo (Sanctuary of Apollo at Delphi) on October 4, 2020.jpg",
+   "commons": "Delphes, Grèce. Temple d'Apollon. Six colonnes.jpg",
    "at": "oráculo de Delfos",
    "lt": [
     "Delfos",
@@ -768,7 +734,7 @@
    "at": "hasta la luna llena"
   },
   "78:1": {
-   "commons": "Marathonn.jpg",
+   "commons": "The tumulus (tomb) of the Athenians at Marathon.jpg",
    "at": "Llegaron a Maratón",
    "lt": [
     "Túmulo de Maratón",
@@ -783,20 +749,12 @@
     "Escritor griego · h. 46-120 d. C."
    ]
   },
-  "93:1": {
-   "commons": "Hot spring at Thermopylae, September 2022 01.jpg",
-   "at": "las «Puertas Calientes»",
-   "lt": [
-    "Manantiales de las Termópilas",
-    "hoy"
-   ]
-  },
   "97:0": {
    "commons": "Messene 01.jpg",
    "at": "una vieja muralla"
   },
   "98:0": {
-   "commons": "Themistokles, Herrenbüste.jpg",
+   "commons": "Busto di temistocle, da originale greco del V secolo ac, dal decumano presso il casamento del temistocle.JPG",
    "at": "Temístocles",
    "lt": [
     "Temístocles",
@@ -812,16 +770,12 @@
     "hoy"
    ]
   },
-  "104:0": {
-   "commons": "ParthianHorseman.jpg",
-   "at": "envió a un jinete"
-  },
   "106:0": {
    "commons": "Persepolis theasury.jpg",
    "at": "Jerjes no entendía"
   },
   "106:1": {
-   "commons": "Portray of a persian guard (4571320017).jpg",
+   "image": "https://openaccess-cdn.clevelandart.org/1943.279/1943.279_print.jpg",
    "at": "Demarato",
    "lt": [
     "Demarato",
@@ -830,7 +784,7 @@
    ]
   },
   "111:1": {
-   "commons": "Berlin - Pergamon Museum - Persian warriors - 20150523 6849.jpg",
+   "commons": "Archers frieze Darius palace Louvre AOD487.jpg",
    "at": "cuando disparaban sus flechas"
   },
   "113:1": {
@@ -839,7 +793,7 @@
    "tr": "black"
   },
   "118:0": {
-   "commons": "Persepolis The Persian Soldiers-edit1.jpg",
+   "commons": "Persepolis theasury.jpg",
    "at": "los medos",
    "lt": [
     "Medos y cisios",
@@ -848,7 +802,7 @@
    ]
   },
   "118:1": {
-   "commons": "Lefkadia The Judgment Tomb – IX (37242298422).jpg",
+   "commons": "Archers frieze Louvre AOD488.jpg",
    "at": "Avanzan por el camino"
   },
   "120:0": {
@@ -857,7 +811,7 @@
    "at": "Casco de bronce"
   },
   "121:0": {
-   "commons": "Chigi Painter - CVPAP 32 A 3 - battle of phalanxes - chariots and riders - judgement of Paris - hunting scenes - Roma MNEVG 22679 - 23.jpg",
+   "commons": "Amphora phalanx Staatliche Antikensammlungen 1429.jpg",
    "at": "Formaban en falange"
   },
   "121:2": {
@@ -866,7 +820,7 @@
    "kw": "UN MURO DE BRONCE"
   },
   "124:0": {
-   "commons": "Immortels - dynamosquito.jpg",
+   "commons": "Archer frieze Louvre AOD487.jpg",
    "at": "los Inmortales",
    "lt": [
     "Los Inmortales",
@@ -875,7 +829,7 @@
    ]
   },
   "124:2": {
-   "commons": "Royal guard carrying a quiver and holding a long spear; member of the so-called Immortals (the 1000 special royal guards). From the Palace of Darius I at Susa, Iran. Achaemenid period, reign of Darius I, 521-500 BCE. British Museum.jpg",
+   "commons": "Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg",
    "at": "Hidarnes",
    "lt": [
     "Hidarnes",
@@ -897,7 +851,7 @@
    "at": "El segundo día"
   },
   "133:1": {
-   "commons": "Darius Vase Fight between Greeks and Persians.jpg",
+   "commons": "Achaemenid king killing a Greek hoplite.jpg",
    "at": "Y el polvo"
   },
   "136:1": {
@@ -929,10 +883,6 @@
    "at": "La puerta trasera",
    "tr": "black"
   },
-  "157:0": {
-   "commons": "Fócida 5.jpg",
-   "at": "los mil focenses"
-  },
   "162:1": {
    "commons": "Sacrifice Louvre K5.jpg",
    "at": "con el amanecer"
@@ -947,11 +897,11 @@
    "at": "Ahí está el oráculo"
   },
   "170:0": {
-   "commons": "Helmed Hoplite Sparta.JPG",
+   "image": "https://openaccess-cdn.clevelandart.org/1967.32/1967.32_print.jpg",
    "at": "Para un espartano"
   },
   "172:1": {
-   "commons": "Painter of Munich 1410 - ABV 311 1 - battle - hoplite and two amazons leading horse - München AS 1410 - 03.jpg",
+   "commons": "Attic Black-figure Neck Amphora Two Warriors Fighting Over a Corpse.jpg",
    "at": "Nadie les obligó",
    "kw": "700 TESPIOS"
   },
@@ -968,16 +918,16 @@
    "at": "la quemó"
   },
   "183:0": {
-   "commons": "Persepolis two Persian Soldiers.jpg",
+   "commons": "Persepolis Relief 12.jpg",
    "at": "Detrás de cada batallón"
   },
   "188:0": {
-   "commons": "Frieze of Archers AOD 488, Louvre 2008.jpg",
+   "commons": "Archers frieze Darius palace Louvre AOD487.jpg",
    "at": "llegaron los Inmortales",
    "tr": "black"
   },
   "189:0": {
-   "commons": "Ancient Greek arms and armor at the National Archaeological Museum on October 6, 2021.jpg",
+   "commons": "Thermopylae 02.jpg",
    "at": "una pequeña colina",
    "lt": [
     "Colina del Kolonós",
@@ -989,28 +939,20 @@
    "at": "bajo sus proyectiles"
   },
   "200:0": {
-   "commons": "Relief of Xerxes at Doorway of his Palace, Persepolis, Iran.jpg",
+   "commons": "Xerxes I at the Hadish Palace of Xerxes.jpg",
    "at": "Ocho mil como esos"
   },
   "204:0": {
-   "commons": "Parts of a votive relief with a depiction of a trireme (Lenormant). 4th cent. BC..jpg",
+   "commons": "Trireme Ram.jpg",
    "at": "su flota"
   },
   "207:0": {
-   "commons": "Thermopiles memorial epitaph.jpg",
+   "commons": "Thermopylae 04.jpg",
    "at": "esa colina"
   },
   "218:0": {
-   "commons": "Acropolis of Sparta.jpg",
+   "commons": "The ruins of the ancient Theatre of Sparta on May 15, 2019.jpg",
    "at": "En Esparta no hubo piedad"
-  },
-  "220:0": {
-   "commons": "Plataea battlefield.jpg",
-   "at": "la batalla de Platea",
-   "lt": [
-    "Platea",
-    "479 a. C."
-   ]
   },
   "225:0": {
    "commons": "Kaulbach, Wilhelm von - Die Seeschlacht bei Salamis - 1868.JPG",
@@ -1029,10 +971,6 @@
    "at": "los nombres de los trescientos",
    "kw": "LOS 300 NOMBRES"
   },
-  "229:1": {
-   "commons": "Dying Gaul-Musei CapitoliniI-2.jpg",
-   "at": "un ejército de gálatas"
-  },
   "231:0": {
    "drop": true
   },
@@ -1049,7 +987,7 @@
    "at": "los pintores del siglo diecinueve"
   },
   "233:1": {
-   "commons": "Leonidas Statue.jpg",
+   "commons": "Jacques-Louis David - Leonidas at Thermopylae (detail) - WGA6096.jpg",
    "at": "Cada época"
   },
   "238:0": {

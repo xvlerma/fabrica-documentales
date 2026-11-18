@@ -469,10 +469,14 @@ def f_ficha_v3(spec, t, D):
     put(fr, ph, 540, H / 2 + int(20 * (1 - k)), k)
     col = _col(spec.get('color')); d = ImageDraw.Draw(fr)
     if spec.get('color') and k > .2: d.rectangle([900, H / 2 - 140, 908, H / 2 + 160], fill=col)
-    nm = CASE(spec['name'])
-    put(fr, text_layer(nm, fit('cinzel600', 92, nm, 880, TR(0.08)), GOLD, TR(0.08)), 940, H / 2 - 80, ease((t - .3) / .8), anchor='lt')
-    put(fr, text_layer(spec.get('role', ''), font('corm500i', 50), CREAM), 942, H / 2 + 30, ease((t - .7) / .8), anchor='lt')
-    if spec.get('group'): put(fr, text_layer(CASE(spec['group']), font('cinzel400', 34), col, TR(0.14)), 942, H / 2 + 100, ease((t - 1.0) / .8), anchor='lt')
+    nm = CASE(spec['name']); MAXW = W - 940 - 90
+    put(fr, text_layer(nm, fit('cinzel600', 92, nm, MAXW, TR(0.08)), GOLD, TR(0.08)), 940, H / 2 - 80, ease((t - .3) / .8), anchor='lt')
+    fr_ = font('corm500i', 50); rl = wrap(spec.get('role', ''), fr_, MAXW)
+    if len(rl) > 2: fr_ = font('corm500i', 42); rl = wrap(spec.get('role', ''), fr_, MAXW)[:3]
+    y = H / 2 + 30
+    for ln in rl: put(fr, text_layer(ln, fit('corm500i', fr_.size, ln, MAXW), CREAM), 942, y, ease((t - .7) / .8), anchor='lt'); y += int(fr_.size * 1.25)
+    if spec.get('group'):
+        g = CASE(spec['group']); put(fr, text_layer(g, fit('cinzel400', 34, g, MAXW, TR(0.14)), col, TR(0.14)), 942, y + 18, ease((t - 1.0) / .8), anchor='lt')
     return fr
 
 def f_cast(spec, t, D):
@@ -568,21 +572,22 @@ def f_recap(spec, t, D):
         a, b = (it if isinstance(it, (list, tuple)) else (it, None)); k = ease((t - .7 - i * step) / .6)
         y = y0 + i * gap
         put(fr, text_layer(f'{i + 1}', font('cinzel600', 70), GOLD), 360, y, k)
-        put(fr, text_layer(a, font('cinzel600', 48), CREAM), 450, y - (14 if b else 0), k, anchor='lm')
-        if b: put(fr, text_layer(b, font('corm500i', 36), DIM), 452, y + 34, k, anchor='lm')
+        put(fr, text_layer(a, fit('cinzel600', 48, a, W - 560), CREAM), 450, y - (14 if b else 0), k, anchor='lm')
+        if b: put(fr, text_layer(b, fit('corm500i', 36, b, W - 560), DIM), 452, y + 34, k, anchor='lm')
     return fr
 
 KIND.update(ficha=f_ficha_v3, cast=f_cast, seats=f_seats, versus=f_versus, recap=f_recap)
 
 def gloss(term, meaning, out, color=None):
     """Chip de glosario arriba a la izquierda: sigla o término y su traducción a lenguaje de hoy."""
-    im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); f1 = font('cinzel600', 44); f2 = font('corm500i', 36)
-    d0 = ImageDraw.Draw(im); w1 = d0.textlength(CASE(term), font=f1); w2 = d0.textlength(meaning, font=f2)
-    bw = int(max(w1, w2) + 90); g = Image.new('RGBA', (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(g)
-    gd.rectangle([60, 60, 60 + bw, 210], fill=(0, 0, 0, 170)); im.alpha_composite(g.filter(ImageFilter.GaussianBlur(6)))
-    d = ImageDraw.Draw(im); d.rectangle([60, 60, 68, 210], fill=tuple(color) if color else GOLD)
+    im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); MAXW = 1000; f1 = fit('cinzel600', 44, CASE(term), MAXW, TR(0.08)); f2 = font('corm500i', 36)
+    ml = wrap(meaning, f2, MAXW)[:2]; d0 = ImageDraw.Draw(im); w1 = d0.textlength(CASE(term), font=f1)
+    w2 = max([d0.textlength(l, font=f2) for l in ml] or [0]); bw = int(max(w1, w2) + 90); bh = 150 + 46 * (len(ml) - 1)
+    g = Image.new('RGBA', (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(g)
+    gd.rectangle([60, 60, 60 + bw, 60 + bh], fill=(0, 0, 0, 170)); im.alpha_composite(g.filter(ImageFilter.GaussianBlur(6)))
+    d = ImageDraw.Draw(im); d.rectangle([60, 60, 68, 60 + bh], fill=tuple(color) if color else GOLD)
     im.alpha_composite(text_layer(CASE(term), f1, GOLD, TR(0.08)), (96, 74))
-    im.alpha_composite(text_layer(meaning, f2, CREAM), (98, 140))
+    for i, l in enumerate(ml): im.alpha_composite(text_layer(l, f2, CREAM), (98, 140 + i * 46))
     im.save(out)
 
 def keyword(word, out):
@@ -620,8 +625,8 @@ def lower_third(a, b, out, color=None):
     d = ImageDraw.Draw(im); d.line([(144, H - 205), (214, H - 205)], fill=GOLD, width=3)
     if color: d.rectangle([104, H - 212, 112, H - 100], fill=tuple(color))
     if THEME.get('brand_dot', True): d.ellipse([122, H - 211, 134, H - 199], fill=BRAND_DOT)  # firma DocuVox: el punto
-    im.alpha_composite(text_layer(CASE(a), font('cinzel600', 52), GOLD, TR(0.10)), (142, H - 200))
-    if b: im.alpha_composite(text_layer(b, font('corm500i', 40), CREAM), (144, H - 138))
+    im.alpha_composite(text_layer(CASE(a), fit('cinzel600', 52, CASE(a), W - 300, TR(0.10)), GOLD, TR(0.10)), (142, H - 200))
+    if b: im.alpha_composite(text_layer(b, fit('corm500i', 40, b, W - 300), CREAM), (144, H - 138))
     im.save(out)
 
 def end_screen(out, bg_path=None, kit=None):

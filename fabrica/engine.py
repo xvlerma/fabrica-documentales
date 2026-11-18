@@ -25,7 +25,11 @@ def fetch(path_or_url, ext=None):
 
 # ================= AUDIO =================
 def load(path):
-    y, _ = librosa.load(path, sr=SR, mono=False)
+    try: y, _ = librosa.load(path, sr=SR, mono=False)
+    except Exception:  # formatos que libsndfile no abre (ogg-flac, etc.): pasar por ffmpeg
+        w = path + '.dec.wav'
+        if not os.path.exists(w): sh(['ffmpeg', '-loglevel', 'error', '-y', '-i', path, '-ar', str(SR), w])
+        y, _ = librosa.load(w, sr=SR, mono=False)
     if y.ndim == 1: y = np.stack([y, y])
     return y.astype(np.float32)
 def rms_db(y): return 20 * np.log10(np.sqrt(np.mean(y ** 2)) + 1e-9)
@@ -68,7 +72,8 @@ MUSIC_PATHS = {}
 def music_file(v, credits, name=''):
     """Pista de música: URL o ruta, {"url", "credit", "license", "page"}, {"incompetech": "Título"}
     o {"search": "...", "src": "archive,commons,openverse,freesound", "pick": n}."""
-    if isinstance(v, str): p = fetch(v, '.mp3')
+    def _ext(u): e = os.path.splitext(u.split('?')[0])[1].lower(); return e if e in ('.mp3', '.ogg', '.oga', '.wav', '.flac', '.m4a', '.opus') else '.mp3'
+    if isinstance(v, str): p = fetch(v, _ext(v))
     elif 'incompetech' in v: c = SRC.incompetech(v['incompetech']); credits.append(('música', c)); p = SRC.download(c['url'], '.mp3')
     elif 'search' in v:
         cs = SRC.music_search(v['search'], v.get('src', 'archive,commons,openverse,freesound'), n=8)
@@ -76,7 +81,7 @@ def music_file(v, credits, name=''):
         if not cs: raise LookupError(f'sin música libre para "{v["search"]}"')
         c = cs[min(v.get('pick', 0), len(cs) - 1)]; credits.append(('música', c)); p = SRC.download(c['url'], os.path.splitext(c['url'].split('?')[0])[1] or '.mp3')
     else:
-        p = fetch(v['url'], '.mp3')
+        p = fetch(v['url'], _ext(v['url']))
         if v.get('credit'): credits.append(('música', dict(id=v['url'], credit=v['credit'], license=v.get('license', ''), page=v.get('page', v['url']))))
     if v.__class__ is dict and v.get('start'):  # recorte de una pieza larga (segundos)
         q = p + f'.{v["start"]}_{v.get("secs", 0)}.wav'

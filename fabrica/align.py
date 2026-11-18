@@ -39,7 +39,7 @@ def proportional(text, d):
 def align_unit(text, y, sr, model_name='base', cache_dir='/tmp'):
     tk = tokens(text)
     if not tk: return []
-    key = hashlib.sha1((text + str(y.shape) + str(float(np.abs(y).sum()))[:12] + model_name).encode()).hexdigest()[:16]
+    key = hashlib.sha1(('v2' + text + str(y.shape) + str(float(np.abs(y).sum()))[:12] + model_name).encode()).hexdigest()[:16]
     cp = f'{cache_dir}/align_{key}.json'
     if os.path.exists(cp): return json.load(open(cp))
     d = y.shape[-1] / sr
@@ -52,11 +52,13 @@ def align_unit(text, y, sr, model_name='base', cache_dir='/tmp'):
     for a, b, size in sm.get_matching_blocks():
         for k in range(size): times[a + k] = hyp[b + k][1]
     # reemplazos 1 a 1 (números, nombres mal transcritos): toma el inicio de la palabra transcrita
+    # reemplazos (cifras dichas en letra y transcritas en número, nombres mal oídos): reparte el tramo transcrito
     for op, a0, a1, b0, b1 in sm.get_opcodes():
         if op == 'replace':
+            t0, t1 = hyp[b0][1], hyp[b1 - 1][2]; L = sum(len(tk[a0 + k][1]) + 1 for k in range(a1 - a0)); acc = 0
             for k in range(a1 - a0):
-                bb = b0 + int(k * (b1 - b0) / max(1, a1 - a0))
-                if bb < b1 and times[a0 + k] is None: times[a0 + k] = hyp[bb][1]
+                if times[a0 + k] is None: times[a0 + k] = t0 + (t1 - t0) * acc / max(1, L)
+                acc += len(tk[a0 + k][1]) + 1
     # huecos: interpolación lineal por posición
     known = [i for i, t in enumerate(times) if t is not None]
     if not known: return proportional(text, d)

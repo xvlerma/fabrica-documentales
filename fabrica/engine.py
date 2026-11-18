@@ -156,7 +156,7 @@ def align_audio(job, U, A, job_dir, out_dir):
     json.dump({str(k): dict(key=v['key'], words=v['words']) for k, v in words.items()}, open(f'{out_dir}/align.json', 'w'), ensure_ascii=False)
     log(f'   alineación: {len(words)} unidades ({n_wh} con whisper, resto en caché o proporcional)')
     A['words'] = words
-    A['allw'] = sorted([(v['off'] + w['t'], w['w'], w['n']) for v in words.values() for w in v['words']])
+    A['allw'] = [x[1:] for x in sorted([((v['off'] + w['t'], q), v['off'] + w['t'], w['w'], w['n']) for v in words.values() for q, w in enumerate(v['words'])])]
 
 def mix_audio(A, extra, out):
     N = int((A['end'] + 3) * SR); mix = np.zeros((2, N), np.float32)
@@ -283,7 +283,7 @@ def build_edl(job, U, A):
 def build_edl_sync(job, U, A):
     """Montaje anclado a la palabra: cada plano con "at" empieza 0,3 s antes de esa palabra; los demás se reparten
     entre anclas. Sin relleno por repetición (no_pad). Los títulos van en unidades T con pausa propia."""
-    tl = A['tl']; W_ = A.get('words', {}); lead = job.get('anchor_lead', 0.3); items = []; pend = None
+    tl = A['tl']; W_ = A.get('words', {}); lead = job.get('anchor_lead', 0.1); items = []; pend = None
     for j, e in enumerate(tl):
         nxt = tl[j + 1]['t'] if j + 1 < len(tl) else A['end'] + 3
         t, d, i = e['t'], nxt - e['t'], e['i']

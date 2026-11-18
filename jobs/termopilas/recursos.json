@@ -9,5 +9,1084 @@
   "tablilla": "Writing tablet and stylus - oldest record of a commercial transaction in the City of London.jpg"
  },
  "voz_url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/content_asset/ijntGh1NyGjk9uzeZSlm/asset_preview.mp3?Expires=1795017600&KeyName=assets-cdn-key-1&Signature=yANx6ptnYXZkwXNxXuDxRAIHtXI=",
- "rev": 2
+ "rev": 2,
+ "ov": {
+  "1:1": {
+   "image": "https://openaccess-cdn.clevelandart.org/1926.242/1926.242_print.jpg",
+   "cl": "108536",
+   "at": "Trescientos espartanos"
+  },
+  "3:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1967.32/1967.32_print.jpg",
+   "cl": "143423",
+   "at": "un rey de Esparta",
+   "lt": [
+    "Leónidas",
+    "Rey de Esparta",
+    "griegos"
+   ],
+   "lt_set": false
+  },
+  "5:0": {
+   "commons": "The ruins of the ancient Theatre of Sparta on May 15, 2019.jpg",
+   "at": "Por qué Esparta"
+  },
+  "5:2": {
+   "image": "https://openaccess-cdn.clevelandart.org/1970.82/1970.82_print.jpg",
+   "cl": "145432",
+   "at": "la última mañana"
+  },
+  "11:1": {
+   "image": "https://openaccess-cdn.clevelandart.org/1926.241/1926.241_print.jpg",
+   "cl": "108535",
+   "at": "cada una con sus leyes"
+  },
+  "26:0": {
+   "commons": "View of Mount Taygetus from the top of the Castle of Mystras on 15 May 2019.jpg",
+   "kw": "LAS MUJERES DE ESPARTA",
+   "at": "una mujer: Gorgo",
+   "lt": [
+    "Gorgo",
+    "Reina de Esparta · hija de Cleómenes",
+    "griegos"
+   ]
+  },
+  "27:1": {
+   "commons": "The tumulus (tomb) of the Athenians at Marathon.jpg",
+   "lt": [
+    "Túmulo de Maratón",
+    "tumba de los atenienses · hoy"
+   ],
+   "at": "en Maratón"
+  },
+  "29:1": {
+   "drop": true
+  },
+  "31:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1943.279/1943.279_print.jpg",
+   "cl": "123022",
+   "at": "tuvo un sueño"
+  },
+  "34:1": {
+   "commons": "Archers frieze Darius palace Louvre AOD487.jpg",
+   "at": "En una llanura"
+  },
+  "37:2": {
+   "commons": "Xerxes Crossing the HellespontGuerberStoryOfTheGreeks.jpg",
+   "at": "dos puentes"
+  },
+  "39:0": {
+   "drop": true
+  },
+  "40:0": {
+   "commons": "Crossing the Hellespont - Samuel Woodforde.jpg",
+   "at": "los puentes se reconstruyeron"
+  },
+  "42:0": {
+   "commons": "Xerxes, King of the Persians, Crosses a Bridge with His Army. Paris, about 1413–1415.jpg",
+   "lt": [
+    "Jerjes cruza el Helesponto",
+    "manuscrito iluminado · h. 1413"
+   ],
+   "at": "en Abidos"
+  },
+  "42:1": {
+   "commons": "Xerxes crossing the Hellespont.jpg",
+   "at": "cubierto de barcos"
+  },
+  "48:1": {
+   "commons": "Canal of Xerxes.jpg",
+   "lt": [
+    "Canal de Jerjes",
+    "península del Atos · hoy"
+   ],
+   "at": "estaba allí, enterrado"
+  },
+  "51:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1986.23/1986.23_print.jpg",
+   "cl": "153270",
+   "at": "Entregar tierra y agua"
+  },
+  "52:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1929.134/1929.134_print.jpg",
+   "cl": "110567",
+   "at": "Solo una treintena"
+  },
+  "53:1": {
+   "commons": "Artemisia at the Battle of Salamis.jpg",
+   "kw": "MURALLA DE MADERA",
+   "at": "una muralla de madera"
+  },
+  "56:0": {
+   "commons": "Thermopylae-Air-View.jpg",
+   "at": "dónde parar"
+  },
+  "60:1": {
+   "commons": "View of modern Sparta, Mount Taygetus and the Eurotas from the Menelaion on 15 May 2019.jpg",
+   "kw": "SIN MURALLAS",
+   "at": "Una ciudad sin murallas"
+  },
+  "62:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1929.441/1929.441_print.jpg",
+   "cl": "110927",
+   "at": "A los siete años"
+  },
+  "62:1": {
+   "commons": "The River Eurotas in Sparta on 15 May 2019.jpg",
+   "lt": [
+    "Río Eurotas",
+    "Esparta · hoy"
+   ],
+   "at": "lechos de juncos"
+  },
+  "63:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1967.32/1967.32_print.jpg",
+   "cl": "143423",
+   "at": "A los veinte"
+  },
+  "63:1": {
+   "image": "https://openaccess-cdn.clevelandart.org/1926.549/1926.549_print.jpg",
+   "cl": "108878",
+   "at": "Comían juntos"
+  },
+  "64:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1951.27/1951.27_print.jpg",
+   "cl": "128277",
+   "at": "el pelo largo"
+  },
+  "66:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1923.645/1923.645_print.jpg",
+   "cl": "105541",
+   "at": "Los ilotas"
+  },
+  "67:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1970.16/1970.16_print.jpg",
+   "cl": "144965",
+   "at": "Heracles"
+  },
+  "68:0": {
+   "commons": "View of Mount Taygetus from the Menelaion) on 15 May 2019.jpg",
+   "lt": [
+    "Laconia",
+    "monte Taigeto · hoy"
+   ],
+   "at": "Laconia"
+  },
+  "68:1": {
+   "commons": "The ruins of the ancient Theatre of Sparta on May 15, 2019.jpg",
+   "kw": "LACÓNICO",
+   "at": "«lacónico»"
+  },
+  "71:0": {
+   "commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
+   "lt": [
+    "Leónidas",
+    "Rey de Esparta · pintura de J.-L. David, 1814",
+    "griegos"
+   ],
+   "at": "era Leónidas"
+  },
+  "73:1": {
+   "commons": "Heinrich Leutemann - The Oracle at Delphi (1885).jpg",
+   "lt": [
+    "La Pitia",
+    "grabado de 1885"
+   ],
+   "at": "la Pitia"
+  },
+  "76:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1930.104/1930.104_print.jpg",
+   "cl": "111527",
+   "at": "las Carneas"
+  },
+  "79:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1965.78/1965.78_print.jpg",
+   "cl": "142227",
+   "at": "una avanzadilla"
+  },
+  "79:1": {
+   "commons": "Jacques-Louis David - Leonidas at Thermopylae (detail) - WGA6096.jpg",
+   "kw": "300",
+   "at": "Esa avanzadilla eran"
+  },
+  "80:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1926.241/1926.241_print.jpg",
+   "cl": "108535",
+   "at": "hombres que tuvieran hijos"
+  },
+  "84:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1929.135/1929.135_print.jpg",
+   "cl": "110568",
+   "at": "No dice"
+  },
+  "85:0": {
+   "commons": "1783 Bocage Map of the Topography of Sparta, Ancient Greece, and Environs - Geographicus - Sparta2-white-1793.jpg",
+   "at": "los éforos"
+  },
+  "94:0": {
+   "commons": "Thermopylae 02.jpg",
+   "lt": [
+    "Hoy",
+    "el antiguo paso de las Termópilas"
+   ],
+   "at": "Hoy el paisaje engaña"
+  },
+  "96:0": {
+   "commons": "Thermopylae 04.jpg",
+   "at": "el lugar perfecto"
+  },
+  "100:1": {
+   "commons": "Ivan Konstantinovich Aivazovsky - Gathering Storm, 1899.jpg",
+   "at": "se levantó un temporal"
+  },
+  "101:1": {
+   "image": "https://openaccess-cdn.clevelandart.org/1920.267/1920.267_print.jpg",
+   "cl": "101482",
+   "at": "oro, plata y copas"
+  },
+  "102:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1929.134/1929.134_print.jpg",
+   "cl": "110567",
+   "at": "muchos griegos quisieron"
+  },
+  "105:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1929.441/1929.441_print.jpg",
+   "cl": "110927",
+   "at": "hacían ejercicio"
+  },
+  "109:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1967.33/1967.33_print.jpg",
+   "cl": "143438",
+   "at": "entregara las armas"
+  },
+  "113:0": {
+   "drop": true
+  },
+  "120:1": {
+   "drop": true
+  },
+  "120:2": {
+   "image": "https://openaccess-cdn.clevelandart.org/1941.295.a/1941.295.a_print.jpg",
+   "cl": "120475",
+   "at": "un escudo redondo"
+  },
+  "122:0": {
+   "commons": "Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg",
+   "at": "Los persas luchaban"
+  },
+  "122:1": {
+   "image": "https://openaccess-cdn.clevelandart.org/1965.78/1965.78_print.jpg",
+   "cl": "142227",
+   "at": "chocaban de frente"
+  },
+  "126:1": {
+   "image": "https://openaccess-cdn.clevelandart.org/1943.279/1943.279_print.jpg",
+   "cl": "123022",
+   "at": "granadas de plata"
+  },
+  "127:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1923.645/1923.645_print.jpg",
+   "cl": "105541",
+   "at": "daban la espalda"
+  },
+  "127:1": {
+   "drop": true
+  },
+  "128:0": {
+   "drop": true
+  },
+  "128:1": {
+   "commons": "Foloi oak forest.JPG",
+   "at": "vigilar algo en la montaña"
+  },
+  "133:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1926.54/1926.54_print.jpg",
+   "cl": "108870",
+   "at": "dentro de un casco de bronce"
+  },
+  "135:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1978.59/1978.59_print.jpg",
+   "cl": "149405",
+   "at": "Se luchaba empujando"
+  },
+  "135:1": {
+   "drop": true
+  },
+  "136:0": {
+   "commons": "Artemisia at the Battle of Salamis.jpg",
+   "at": "en el mar"
+  },
+  "143:0": {
+   "commons": "Thermopylae 02.jpg",
+   "at": "Se llamaba Efialtes"
+  },
+  "144:1": {
+   "commons": "Foloi road1.JPG",
+   "at": "un bosque de robles"
+  },
+  "144:2": {
+   "commons": "Thermopylae 04.jpg",
+   "at": "Anopea",
+   "lt": [
+    "Monte Calídromo",
+    "el sendero de Anopea · hoy"
+   ],
+   "lt_set": false
+  },
+  "145:0": {
+   "drop": true
+  },
+  "147:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1986.1041/1986.1041_print.jpg",
+   "cl": "152919",
+   "at": "se encienden las lámparas"
+  },
+  "147:1": {
+   "commons": "Archers frieze Darius palace Louvre AOD487.jpg",
+   "at": "Caminaron toda la noche"
+  },
+  "149:0": {
+   "drop": true
+  },
+  "149:1": {
+   "drop": true
+  },
+  "150:0": {
+   "commons": "Thermopylae-Air-View.jpg",
+   "at": "Había sido una marcha"
+  },
+  "162:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1926.242/1926.242_print.jpg",
+   "cl": "108536",
+   "at": "el adivino del ejército",
+   "lt": [
+    "Megistias",
+    "Adivino del ejército griego",
+    "griegos"
+   ]
+  },
+  "164:0": {
+   "drop": true
+  },
+  "165:0": {
+   "drop": true
+  },
+  "168:1": {
+   "drop": true
+  },
+  "171:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1928.859/1928.859_print.jpg",
+   "cl": "110237",
+   "at": "a su único hijo"
+  },
+  "172:0": {
+   "commons": "Ruins of Thespiae, from a Sketch by Daniel - Wordsworth Christopher - 1882.jpg",
+   "lt": [
+    "Tespias",
+    "dibujo de 1882"
+   ],
+   "at": "setecientos hombres de Tespias"
+  },
+  "174:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1941.295.a/1941.295.a_print.jpg",
+   "cl": "120475",
+   "at": "cuatrocientos tebanos"
+  },
+  "178:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1951.27/1951.27_print.jpg",
+   "cl": "128277",
+   "at": "esa mañana"
+  },
+  "180:1": {
+   "commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
+   "kw": "SALIÓ",
+   "at": "salió"
+  },
+  "182:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1978.59/1978.59_print.jpg",
+   "cl": "149405",
+   "at": "avanzaron"
+  },
+  "184:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1970.82/1970.82_print.jpg",
+   "cl": "145432",
+   "at": "las lanzas rotas"
+  },
+  "186:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1960.175/1960.175_print.jpg",
+   "cl": "136287",
+   "at": "dos hermanos del propio Jerjes",
+   "lt": [
+    "Abrocomes e Hiperantes",
+    "Hermanos de Jerjes",
+    "persas"
+   ]
+  },
+  "187:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1927.6/1927.6_print.jpg",
+   "cl": "109391",
+   "at": "alrededor del cuerpo de Leónidas"
+  },
+  "193:0": {
+   "commons": "Bas-reliëf met ruiter uit Thespiae, RP-P-OB-40.964.jpg",
+   "at": "¿Y los tebanos?"
+  },
+  "206:1": {
+   "drop": true
+  },
+  "210:0": {
+   "drop": true
+  },
+  "210:1": {
+   "drop": true
+  },
+  "216:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1928.859/1928.859_print.jpg",
+   "cl": "110237",
+   "at": "el adivino Megistias"
+  },
+  "217:0": {
+   "drop": true
+  },
+  "224:1": {
+   "commons": "-The Calf-Bearer and the Kritios Boy Shortly After Exhumation on the Acropolis-; Danseuse du Temple de Bacchus MET DP150943.jpg",
+   "lt": [
+    "Acrópolis de Atenas",
+    "estatuas rotas por los persas, desenterradas en el siglo XIX"
+   ],
+   "at": "incendiaron la Acrópolis"
+  },
+  "227:0": {
+   "commons": "1783 Bocage Map of the Topography of Sparta, Ancient Greece, and Environs - Geographicus - Sparta2-white-1793.jpg",
+   "at": "Pausanias",
+   "lt": [
+    "Pausanias",
+    "Regente de Esparta · sobrino de Leónidas",
+    "griegos"
+   ]
+  },
+  "228:0": {
+   "commons": "Sparta - Tomb of Leonidas - DPLA - ebe507a1efd1897f87666db7538e3435 (page 1).jpg",
+   "lt": [
+    "Tumba de Leónidas",
+    "Esparta · foto antigua"
+   ],
+   "at": "llevados a Esparta"
+  },
+  "236:0": {
+   "commons": "Kaulbach, Wilhelm von - Die Seeschlacht bei Salamis - 1868.JPG",
+   "at": "Que unas ciudades que se odiaban"
+  },
+  "2:0": {
+   "lt_set": false
+  },
+  "3:1": {
+   "lt_set": false
+  },
+  "11:0": {
+   "lt_set": false
+  },
+  "53:0": {
+   "lt_set": false
+  },
+  "76:1": {
+   "lt_set": false
+  },
+  "98:1": {
+   "lt_set": [
+    "Hoy",
+    "réplica de un trirreme griego"
+   ]
+  },
+  "101:2": {
+   "lt_set": false
+  },
+  "1:0": {
+   "commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
+   "at": "Seguro"
+  },
+  "1:2": {
+   "commons": "Persepolis The Persian Soldiers-edit1.jpg",
+   "at": "un imperio entero"
+  },
+  "1:3": {
+   "image": "https://openaccess-cdn.clevelandart.org/1926.54/1926.54_print.jpg",
+   "cl": "108870",
+   "at": "Pero lo que pasó"
+  },
+  "5:1": {
+   "commons": "ISS067-E-153797 - View of Greece - Lamia - river Spercheios (Sperchios) - Maliac Gulf (Maliakos Gulf) - Thermopylae - Kamena Vourla (cropped).jpg",
+   "at": "Quién enseñó"
+  },
+  "8:0": {
+   "commons": "Periplus 100 Pomponius Mela World Map.png",
+   "at": "dos mundos"
+  },
+  "9:1": {
+   "commons": "Persepolis, Apadana, Central Relief, Pharnaces.jpg",
+   "at": "era Jerjes",
+   "lt": [
+    "Jerjes I",
+    "Gran Rey de Persia · 486-465 a. C.",
+    "persas"
+   ]
+  },
+  "11:2": {
+   "commons": "Grèce. Vue de Sparte Avec le Taygete LCCN2017658135.jpg",
+   "at": "Esparta, una ciudad",
+   "lt": [
+    "Esparta",
+    "Laconia · hoy"
+   ]
+  },
+  "12:0": {
+   "commons": "Behistun inscription reliefs.jpg",
+   "at": "Darío",
+   "lt": [
+    "Darío I",
+    "Gran Rey de Persia · padre de Jerjes",
+    "persas"
+   ]
+  },
+  "12:1": {
+   "commons": "Plain of Marathon with Pine Forest and Wetlands, May 2015 - panoramio.jpg",
+   "at": "Maratón",
+   "lt": [
+    "Maratón",
+    "490 a. C."
+   ]
+  },
+  "12:2": {
+   "commons": "Berlin - Pergamon Museum - Persian warriors - 20150523 6849.jpg",
+   "at": "con todo el imperio"
+  },
+  "13:1": {
+   "commons": "Artemis ruins2.jpg",
+   "at": "quemaron Sardes",
+   "lt": [
+    "Sardes",
+    "capital de Lidia · hoy"
+   ]
+  },
+  "13:2": {
+   "commons": "Relief of Thracian warriors, reign of Darius I, 6th-5th century BCE. from Persepolis, Iran, Pergamon Museum.jpg",
+   "at": "Señor, acuérdate",
+   "kw": "ACUÉRDATE DE LOS ATENIENSES"
+  },
+  "16:0": {
+   "commons": "AGMA Herodotus 7307.jpg",
+   "at": "Se llamaba Heródoto",
+   "lt": [
+    "Heródoto de Halicarnaso",
+    "Historiador · h. 484-425 a. C."
+   ]
+  },
+  "16:1": {
+   "commons": "Castle of St. Peter in Bodrum, Turkey.jpg",
+   "at": "Halicarnaso",
+   "lt": [
+    "Halicarnaso",
+    "hoy Bodrum, Turquía"
+   ]
+  },
+  "17:0": {
+   "commons": "Dedication page for the Historiae by Herodotus printed at Venice 1494.jpg",
+   "at": "recorrió Grecia"
+  },
+  "17:1": {
+   "commons": "Title page of Herodotus' history of the Greek and Persian Wars 1502.jpg",
+   "at": "investigación",
+   "kw": "HISTORIA = INVESTIGACIÓN"
+  },
+  "19:0": {
+   "commons": "Leonidas Statue.jpg",
+   "at": "Vamos a seguir"
+  },
+  "23:0": {
+   "commons": "Bust of an Immortal royal guard (Achaemenid soldiers) from the palace of Susa, Iran.- SB 33177 - (Fragment) Louvre -Lens.jpg",
+   "at": "Susa",
+   "lt": [
+    "Susa",
+    "capital persa · h. 481 a. C."
+   ]
+  },
+  "23:1": {
+   "commons": "Achaemenid, Iran, Persepolis, 5th Century BC - Fragment of a Wall Decoration from the Palace of Xerxes- \"Guardsman\" in Pro - 1943.279 - Cleveland Museum of Art.tif",
+   "at": "Se llama Demarato",
+   "lt": [
+    "Demarato",
+    "Rey de Esparta en el exilio",
+    "persas"
+   ]
+  },
+  "23:2": {
+   "commons": "Bas-Relief on Apadana Staircase - Persepolis - Central Iran - 05 (7427791490) (2).jpg",
+   "at": "Y ahora se entera"
+  },
+  "25:0": {
+   "commons": "Douris Man with wax tablet.jpg",
+   "at": "coge una tablilla"
+  },
+  "25:1": {
+   "commons": "Getty Villa - Collection (5304918141).jpg",
+   "at": "graba el mensaje"
+  },
+  "27:0": {
+   "commons": "Mad-5223.jpg",
+   "at": "Para Jerjes"
+  },
+  "29:0": {
+   "commons": "Priests procession at Persepolis.jpg",
+   "at": "su tío Artábano",
+   "lt": [
+    "Artábano",
+    "Tío de Jerjes y consejero",
+    "persas"
+   ]
+  },
+  "31:1": {
+   "commons": "Allard Pierson Museum Domitian as pharao 7679.jpg",
+   "at": "el castigo que los dioses"
+  },
+  "33:0": {
+   "commons": "Ionian Tribute Bearers on the Apadana Staircase (Best Viewed Size \"Large\") (4688057305).jpg",
+   "at": "Reunió soldados"
+  },
+  "33:1": {
+   "commons": "Persepolis Relief 12.jpg",
+   "at": "Heródoto los describe"
+  },
+  "33:2": {
+   "commons": "Persépolis, Irán, 2016-09-24, DD 53.jpg",
+   "at": "en los relieves"
+  },
+  "36:1": {
+   "commons": "Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg",
+   "at": "Siguen siendo muchísimos"
+  },
+  "37:1": {
+   "commons": "Dardanellen 2.JPG",
+   "at": "los Dardanelos",
+   "lt": [
+    "Estrecho de los Dardanelos",
+    "el antiguo Helesponto · hoy"
+   ]
+  },
+  "38:0": {
+   "commons": "Effet du tonnerre.jpg",
+   "at": "llegó una tormenta"
+  },
+  "43:0": {
+   "commons": "Persepolis, Apadana, Central Relief, Pharnaces.jpg",
+   "at": "le preguntó por qué lloraba"
+  },
+  "47:0": {
+   "commons": "Mount Athos,peninsula of Athos.jpg",
+   "at": "monte Atos",
+   "lt": [
+    "Monte Atos",
+    "Calcídica, norte de Grecia · hoy"
+   ]
+  },
+  "49:1": {
+   "commons": "Terracotta Hadra hydria (water jar) MET DP121872.jpg",
+   "at": "tierra y agua",
+   "kw": "TIERRA Y AGUA"
+  },
+  "51:1": {
+   "commons": "Cadmea, Thebes.jpg",
+   "at": "Tebas",
+   "lt": [
+    "Tebas",
+    "Beocia"
+   ]
+  },
+  "52:1": {
+   "commons": "Ancient Greek Football Player.jpg",
+   "at": "a un pozo"
+  },
+  "53:2": {
+   "commons": "Busto di temistocle, da originale greco del V secolo ac, dal decumano presso il casamento del temistocle.JPG",
+   "at": "Temístocles",
+   "lt": [
+    "Temístocles",
+    "Político y general ateniense",
+    "griegos"
+   ]
+  },
+  "55:0": {
+   "commons": "Greece Lavrion Mines 1903.jpg",
+   "at": "con la plata",
+   "lt": [
+    "Minas de Laurio",
+    "Ática"
+   ]
+  },
+  "55:1": {
+   "image": "https://openaccess-cdn.clevelandart.org/1941.296/1941.296_print.jpg",
+   "cl": "120477",
+   "at": "unos doscientos trirremes"
+  },
+  "60:0": {
+   "commons": "View of Mount Taygetus from the ruins of the ancient theatre of Sparta on 15 May 2019.jpg",
+   "at": "Esparta",
+   "lt": [
+    "Esparta",
+    "Peloponeso · hoy"
+   ]
+  },
+  "62:2": {
+   "commons": "Peithinos ARV 115 2 Peleus and Thetis - youths and boys - youths and women (01).jpg",
+   "at": "aprendían a robar"
+  },
+  "64:1": {
+   "commons": "Xenophon.jpg",
+   "at": "Jenofonte",
+   "lt": [
+    "Jenofonte",
+    "Historiador ateniense · h. 430-354 a. C."
+   ]
+  },
+  "70:0": {
+   "commons": "Bronze figure of a running girl, Greek, about 520-500 BC, Found at Prizren, Kosovo, Winning at the ancient Games, British Museum (7667206370).jpg",
+   "at": "las mujeres de Esparta"
+  },
+  "73:0": {
+   "commons": "The Temple of Apollo (Sanctuary of Apollo at Delphi) on October 4, 2020.jpg",
+   "at": "oráculo de Delfos",
+   "lt": [
+    "Delfos",
+    "Santuario de Apolo"
+   ]
+  },
+  "75:0": {
+   "commons": "David - Variation on Leonidas at Thermopylae, James Mackinnon, London.jpg",
+   "at": "Heródoto está convencido"
+  },
+  "78:0": {
+   "commons": "Full Moon (6043616882).jpg",
+   "at": "hasta la luna llena"
+  },
+  "78:1": {
+   "commons": "Marathonn.jpg",
+   "at": "Llegaron a Maratón",
+   "lt": [
+    "Túmulo de Maratón",
+    "tumba de los atenienses caídos · hoy"
+   ]
+  },
+  "82:0": {
+   "commons": "Head of a philosopher - Archaeological Museum of Delphi.jpg",
+   "at": "Plutarco",
+   "lt": [
+    "Plutarco",
+    "Escritor griego · h. 46-120 d. C."
+   ]
+  },
+  "93:1": {
+   "commons": "Hot spring at Thermopylae, September 2022 01.jpg",
+   "at": "las «Puertas Calientes»",
+   "lt": [
+    "Manantiales de las Termópilas",
+    "hoy"
+   ]
+  },
+  "97:0": {
+   "commons": "Messene 01.jpg",
+   "at": "una vieja muralla"
+  },
+  "98:0": {
+   "commons": "Themistokles, Herrenbüste.jpg",
+   "at": "Temístocles",
+   "lt": [
+    "Temístocles",
+    "General de Atenas",
+    "griegos"
+   ]
+  },
+  "102:1": {
+   "commons": "Corinth, Greece (NASA).jpg",
+   "at": "el istmo de Corinto",
+   "lt": [
+    "Istmo de Corinto",
+    "hoy"
+   ]
+  },
+  "104:0": {
+   "commons": "ParthianHorseman.jpg",
+   "at": "envió a un jinete"
+  },
+  "106:0": {
+   "commons": "Persepolis theasury.jpg",
+   "at": "Jerjes no entendía"
+  },
+  "106:1": {
+   "commons": "Portray of a persian guard (4571320017).jpg",
+   "at": "Demarato",
+   "lt": [
+    "Demarato",
+    "Rey espartano exiliado",
+    "persas"
+   ]
+  },
+  "111:1": {
+   "commons": "Berlin - Pergamon Museum - Persian warriors - 20150523 6849.jpg",
+   "at": "cuando disparaban sus flechas"
+  },
+  "113:1": {
+   "commons": "SC 337334 - Persepolis. Palace of Xerxes. (52256758190).jpg",
+   "at": "Al quinto día",
+   "tr": "black"
+  },
+  "118:0": {
+   "commons": "Persepolis The Persian Soldiers-edit1.jpg",
+   "at": "los medos",
+   "lt": [
+    "Medos y cisios",
+    "Infantería del imperio",
+    "persas"
+   ]
+  },
+  "118:1": {
+   "commons": "Lefkadia The Judgment Tomb – IX (37242298422).jpg",
+   "at": "Avanzan por el camino"
+  },
+  "120:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/2024.63/2024.63_print.jpg",
+   "cl": "680766",
+   "at": "Casco de bronce"
+  },
+  "121:0": {
+   "commons": "Chigi Painter - CVPAP 32 A 3 - battle of phalanxes - chariots and riders - judgement of Paris - hunting scenes - Roma MNEVG 22679 - 23.jpg",
+   "at": "Formaban en falange"
+  },
+  "121:2": {
+   "commons": "Amphora phalanx Staatliche Antikensammlungen 1429.jpg",
+   "at": "un muro de bronce",
+   "kw": "UN MURO DE BRONCE"
+  },
+  "124:0": {
+   "commons": "Immortels - dynamosquito.jpg",
+   "at": "los Inmortales",
+   "lt": [
+    "Los Inmortales",
+    "Guardia del rey · relieve de Susa",
+    "persas"
+   ]
+  },
+  "124:2": {
+   "commons": "Royal guard carrying a quiver and holding a long spear; member of the so-called Immortals (the 1000 special royal guards). From the Palace of Darius I at Susa, Iran. Achaemenid period, reign of Darius I, 521-500 BCE. British Museum.jpg",
+   "at": "Hidarnes",
+   "lt": [
+    "Hidarnes",
+    "Jefe de los Inmortales",
+    "persas"
+   ]
+  },
+  "126:0": {
+   "commons": "Archer frieze Louvre AOD487.jpg",
+   "at": "Los relieves"
+  },
+  "130:0": {
+   "commons": "Right Section of the Treasury Reliefs (4735541667).jpg",
+   "at": "sentado en su trono"
+  },
+  "132:0": {
+   "image": "https://openaccess-cdn.clevelandart.org/1978.59/1978.59_print.jpg",
+   "cl": "149405",
+   "at": "El segundo día"
+  },
+  "133:1": {
+   "commons": "Darius Vase Fight between Greeks and Persians.jpg",
+   "at": "Y el polvo"
+  },
+  "136:1": {
+   "commons": "Achaemenid king killing a Greek hoplite.jpg",
+   "at": "Jerjes no sabía"
+  },
+  "137:0": {
+   "commons": "Trireme Ram.jpg",
+   "at": "los trirremes griegos"
+  },
+  "137:2": {
+   "commons": "Herodotus (1920) (14760572736).jpg",
+   "at": "Artemisio",
+   "lt": [
+    "Cabo Artemisio",
+    "Eubea · hoy"
+   ]
+  },
+  "139:0": {
+   "commons": "Berger - Musée du Louvre AGER Br 4248 ; MND 1914.jpg",
+   "at": "Entonces",
+   "tr": "black"
+  },
+  "148:0": {
+   "drop": true
+  },
+  "152:0": {
+   "commons": "Battle of Thermopylae - pass.jpg",
+   "at": "La puerta trasera",
+   "tr": "black"
+  },
+  "157:0": {
+   "commons": "Fócida 5.jpg",
+   "at": "los mil focenses"
+  },
+  "162:1": {
+   "commons": "Sacrifice Louvre K5.jpg",
+   "at": "con el amanecer"
+  },
+  "165:1": {
+   "commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
+   "at": "se quedaron",
+   "kw": "SE QUEDARON"
+  },
+  "168:0": {
+   "commons": "Delphes, Grèce. Temple d'Apollon. Six colonnes.jpg",
+   "at": "Ahí está el oráculo"
+  },
+  "170:0": {
+   "commons": "Helmed Hoplite Sparta.JPG",
+   "at": "Para un espartano"
+  },
+  "172:1": {
+   "commons": "Painter of Munich 1410 - ABV 311 1 - battle - hoplite and two amazons leading horse - München AS 1410 - 03.jpg",
+   "at": "Nadie les obligó",
+   "kw": "700 TESPIOS"
+  },
+  "175:0": {
+   "commons": "Relief of Thespiae, lithograph by Louis Dupré - 1827.jpg",
+   "at": "Los tespios pagaron",
+   "lt": [
+    "Tespias",
+    "Beocia"
+   ]
+  },
+  "175:1": {
+   "commons": "Attic Black-figure Neck Amphora Two Warriors Fighting Over a Corpse.jpg",
+   "at": "la quemó"
+  },
+  "183:0": {
+   "commons": "Persepolis two Persian Soldiers.jpg",
+   "at": "Detrás de cada batallón"
+  },
+  "188:0": {
+   "commons": "Frieze of Archers AOD 488, Louvre 2008.jpg",
+   "at": "llegaron los Inmortales",
+   "tr": "black"
+  },
+  "189:0": {
+   "commons": "Ancient Greek arms and armor at the National Archaeological Museum on October 6, 2021.jpg",
+   "at": "una pequeña colina",
+   "lt": [
+    "Colina del Kolonós",
+    "Termópilas"
+   ]
+  },
+  "190:1": {
+   "commons": "Early Iron Age Bronze Arrowheads, 700-300 BC.jpg",
+   "at": "bajo sus proyectiles"
+  },
+  "200:0": {
+   "commons": "Relief of Xerxes at Doorway of his Palace, Persepolis, Iran.jpg",
+   "at": "Ocho mil como esos"
+  },
+  "204:0": {
+   "commons": "Parts of a votive relief with a depiction of a trireme (Lenormant). 4th cent. BC..jpg",
+   "at": "su flota"
+  },
+  "207:0": {
+   "commons": "Thermopiles memorial epitaph.jpg",
+   "at": "esa colina"
+  },
+  "218:0": {
+   "commons": "Acropolis of Sparta.jpg",
+   "at": "En Esparta no hubo piedad"
+  },
+  "220:0": {
+   "commons": "Plataea battlefield.jpg",
+   "at": "la batalla de Platea",
+   "lt": [
+    "Platea",
+    "479 a. C."
+   ]
+  },
+  "225:0": {
+   "commons": "Kaulbach, Wilhelm von - Die Seeschlacht bei Salamis - 1868.JPG",
+   "at": "el estrecho de Salamina",
+   "lt": [
+    "Estrecho de Salamina",
+    "hoy"
+   ]
+  },
+  "225:1": {
+   "commons": "Wrath of Xerxes at Battle of Salamis by Wilhelm von Kaulbach.jpg",
+   "at": "destrozó a la persa"
+  },
+  "228:1": {
+   "commons": "Ancient Greece Marble Funerary Stele for Epikrates, son of Kephisios of Ionidai, 4th Cent. BC, found on Salamis.jpg",
+   "at": "los nombres de los trescientos",
+   "kw": "LOS 300 NOMBRES"
+  },
+  "229:1": {
+   "commons": "Dying Gaul-Musei CapitoliniI-2.jpg",
+   "at": "un ejército de gálatas"
+  },
+  "231:0": {
+   "drop": true
+  },
+  "232:0": {
+   "commons": "King of Greece with New Zealand Soldiers.jpg",
+   "at": "mil novecientos cuarenta y uno",
+   "lt": [
+    "Termópilas",
+    "abril de 1941"
+   ]
+  },
+  "233:0": {
+   "commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
+   "at": "los pintores del siglo diecinueve"
+  },
+  "233:1": {
+   "commons": "Leonidas Statue.jpg",
+   "at": "Cada época"
+  },
+  "238:0": {
+   "commons": "Battle of Thermopylae - pass.jpg",
+   "at": "Una mañana de verano"
+  }
+ },
+ "music": {
+  "tema": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gymnopedie_No._1..ogg",
+   "credit": "Erik Satie, Gymnopédie n.º 1 · interpretación de Teknopazzo (Wikimedia Commons)",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gymnopedie_No._1..ogg"
+  },
+  "persia": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Desert_City_%28ISRC_USUAN1100564%29.mp3",
+   "credit": "Kevin MacLeod (incompetech.com), «Desert City»",
+   "license": "CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Desert_City_(ISRC_USUAN1100564).mp3"
+  },
+  "batalla": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Holst%2C_The_Planets%2C_Op._32_-_I._Mars%2C_the_Bringer_of_War.ogg",
+   "credit": "Gustav Holst, «Marte» (Los planetas) · Skidmore College Orchestra (Musopen)",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Holst,_The_Planets,_Op._32_-_I._Mars,_the_Bringer_of_War.ogg"
+  },
+  "tension": {
+   "url": "https://cdn.freesound.org/previews/596/596463_2282212-hq.mp3",
+   "credit": "szegvari / Freesound",
+   "license": "CC0",
+   "page": "https://freesound.org/people/szegvari/sounds/596463/"
+  },
+  "noche": {
+   "url": "https://cdn.freesound.org/previews/854/854560_18681946-hq.mp3",
+   "credit": "TommasoMotteran / Freesound",
+   "license": "CC BY 4.0",
+   "page": "https://freesound.org/people/TommasoMotteran/sounds/854560/"
+  }
+ }
 }

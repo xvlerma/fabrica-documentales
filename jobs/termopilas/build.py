@@ -44,6 +44,25 @@ if all(u.get('clip') for u in U if u['k'] in ('N', 'R')):
         U[:] = out; lib.U[:] = out
     print(f'estimado final: {est(U)/60:.1f} min')
 
+OV = RES.get('ov', {}); nov = 0
+for i, u in enumerate(U):
+    sh = u.get('shots')
+    if not sh: continue
+    new = []
+    for k, s_ in enumerate(sh):
+        o = OV.get(f'{i}:{k}')
+        if not o: new.append(s_); continue
+        nov += 1
+        if o.get('drop'): continue
+        if 'image' in o or 'commons' in o: s_ = {x: y for x, y in o.items() if x not in ('lt_set', 'drop')}
+        else: s_ = dict(s_)
+        if 'lt_set' in o:
+            if o['lt_set'] is False: s_.pop('lt', None)
+            else: s_['lt'] = o['lt_set']
+        new.append(s_)
+    u['shots'] = new
+print('overrides aplicados', nov, 'de', len(OV))
+
 job = {
     'id': 'termopilas', 'title': 'La batalla de las Termópilas', 'channel': 'DocuVox', 'stage': stage,
     'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 2, 'gap': 600}, 'auto_sfx': {}, 'sfx_max': 5,
@@ -74,6 +93,10 @@ job = {
     'tempo': 0.9, 'parts': 4, 'codec': 'hevc', 'max_kbps': 750, 'audio_kbps': '112k',
     'intro': ['assets/intro/docuvox.mp4'], 'seed': 480,
     'qpicks': RES.get('qpicks', {}), 'picks': RES.get('picks', {}), 'rev': RES.get('rev', 1),
+    'thumbs': [
+        dict(name='A', commons='Jacques-Louis David - Leonidas at Thermopylae (detail) - WGA6096.jpg', grande='TERMÓPILAS', caja='NO ERAN 300', sub='La historia real'),
+        dict(name='B', commons='Archers frieze Louvre AOD488.jpg', grande='LEÓNIDAS', caja='LA ÚLTIMA MAÑANA', sub='Termópilas · 480 a. C.'),
+    ],
     'units': U,
 }
 for g in job['glossary']: g['def'] = g.pop('def_')

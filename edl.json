@@ -1,0 +1,8626 @@
+[
+{
+"n": 0,
+"t": 0.0,
+"d": 2.96,
+"unit": 1,
+"heard": "Julio de mil novecientos treinta y seis.",
+"spec": {
+"video": "Spanish Civil War newsreel",
+"old": true
+}
+},
+{
+"n": 1,
+"t": 2.96,
+"d": 6.82,
+"unit": 1,
+"heard": "Empieza la Guerra Civil española. Tres años de guerra. Cientos de miles de muertos.",
+"spec": {
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana",
+"at": "Empieza la Guerra"
+}
+},
+{
+"n": 2,
+"t": 9.78,
+"d": 5.96,
+"unit": 1,
+"heard": "Casi siempre se cuenta desde el golpe de Estado del dieciocho de julio. Pero cinco meses antes,",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true,
+"at": "Casi siempre se cuenta"
+}
+},
+{
+"n": 3,
+"t": 15.74,
+"d": 2.26,
+"unit": 1,
+"heard": "España había votado.",
+"spec": {
+"photo": "Elecciones generales España 1936",
+"src": "commons,europeana",
+"at": "España había votado"
+}
+},
+{
+"n": 4,
+"t": 18.0,
+"d": 2.2,
+"unit": 1,
+"heard": "Ganó la izquierda.",
+"spec": {
+"photo": "Frente Popular 1936 cartel",
+"src": "commons,europeana",
+"at": "Ganó la izquierda"
+}
+},
+{
+"n": 5,
+"t": 20.2,
+"d": 5.07,
+"unit": 1,
+"heard": "¿Ganó en las urnas... o en los despachos?",
+"spec": {
+"photo": "urna electoral Segunda República",
+"src": "commons,europeana",
+"at": "Ganó en las urnas",
+"kw": "¿URNAS O DESPACHOS?",
+"kw_at": 1.0,
+"kw_dur": 2.6
+}
+},
+{
+"n": 6,
+"t": 25.27,
+"d": 1.2,
+"unit": 2,
+"heard": "Madrid.",
+"spec": {
+"video": "Madrid 1936 street",
+"old": true
+}
+},
+{
+"n": 7,
+"t": 26.47,
+"d": 6.24,
+"unit": 2,
+"heard": "Domingo, dieciséis de febrero de mil novecientos treinta y seis. Ocho de la tarde. En el",
+"spec": {
+"photo": "Puerta del Sol Madrid 1930s",
+"src": "commons,europeana",
+"lt": [
+"Madrid",
+"16 de febrero de 1936"
+],
+"at": "Madrid. Domingo"
+}
+},
+{
+"n": 8,
+"t": 32.71,
+"d": 6.7,
+"unit": 2,
+"heard": "En el Ministerio de la Gobernación, en la Puerta del Sol, los teléfonos no dejan de sonar. Llegan los primeros",
+"spec": {
+"photo": "Ministerio de la Gobernación Puerta del Sol",
+"src": "commons,europeana",
+"at": "Ministerio de"
+}
+},
+{
+"n": 9,
+"t": 39.41,
+"d": 2.78,
+"unit": 2,
+"heard": "datos de toda España. Y el ministro anuncia",
+"spec": {
+"src": "commons,europeana",
+"at": "datos de toda",
+"photo": "Elecciones generales España 1936"
+}
+},
+{
+"n": 10,
+"t": 42.19,
+"d": 2.78,
+"unit": 2,
+"heard": "anuncia a la prensa lo que dicen esos números:",
+"spec": {
+"photo": "Elecciones generales España 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 11,
+"t": 44.97,
+"d": 2.98,
+"unit": 2,
+"heard": "ventaja para las derechas y el centro.",
+"spec": {
+"at": "ventaja para las",
+"photo": "mitin 1936 España",
+"src": "commons,europeana"
+}
+},
+{
+"n": 12,
+"t": 47.95,
+"d": 4.12,
+"unit": 2,
+"heard": "Tres días después, el presidente del Gobierno ha dimitido. El",
+"spec": {
+"src": "commons,europeana",
+"at": "Tres días después",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 13,
+"t": 52.07,
+"d": 6.68,
+"unit": 2,
+"heard": "recuento oficial todavía no ha terminado. Y el país ya tiene un nuevo gobierno.",
+"spec": {
+"photo": "acta electoral 1936",
+"src": "commons,europeana",
+"at": "recuento oficial todavía"
+}
+},
+{
+"n": 14,
+"t": 58.75,
+"d": 5.04,
+"unit": 2,
+"heard": "Cinco meses más tarde, España está en guerra.",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true,
+"tr": "black",
+"at": "Cinco meses más"
+}
+},
+{
+"n": 15,
+"t": 63.78,
+"d": 4.1,
+"unit": 3,
+"heard": "Durante noventa años, la versión aceptada ha sido sencilla:",
+"spec": {
+"photo": "Niceto Alcalá-Zamora",
+"src": "commons,europeana"
+}
+},
+{
+"n": 16,
+"t": 67.88,
+"d": 3.14,
+"unit": 3,
+"heard": "el Frente Popular ganó aquellas elecciones.",
+"spec": {
+"at": "el Frente Popular",
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana",
+"gloss": [
+"Frente Popular",
+"coalición de izquierdas: republicanos, socialistas y comunistas",
+"izquierda"
+],
+"gloss_at": 0.2,
+"gloss_dur": 2.6400000000000006
+}
+},
+{
+"n": 17,
+"t": 71.02,
+"d": 3.62,
+"unit": 3,
+"heard": "Por poco, pero las ganó. Sin",
+"spec": {
+"src": "commons,europeana",
+"at": "Por poco, pero",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 18,
+"t": 74.64,
+"d": 3.62,
+"unit": 3,
+"heard": "Sin embargo, en los archivos de las juntas provinciales,",
+"spec": {
+"src": "commons,europeana",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 19,
+"t": 78.26,
+"d": 3.86,
+"unit": 3,
+"heard": "en las actas notariales, en los papeles del propio presidente de la",
+"spec": {
+"at": "en las actas",
+"photo": "acta electoral 1936",
+"src": "commons,europeana",
+"gloss": [
+"juntas provinciales",
+"sumaban las actas y proclamaban a los diputados"
+],
+"gloss_at": 0.2,
+"gloss_dur": 3.3599999999999994
+}
+},
+{
+"n": 20,
+"t": 82.12,
+"d": 7.44,
+"unit": 3,
+"heard": "la República, robados en mil novecientos treinta y siete y recuperados por la Guardia Civil setenta y un años después,",
+"spec": {
+"photo": "urna electoral Segunda República",
+"src": "commons,europeana",
+"at": "República, robados"
+}
+},
+{
+"n": 21,
+"t": 89.56,
+"d": 4.32,
+"unit": 3,
+"heard": "aparece otra historia. La pregunta no es quién ganó en las",
+"spec": {
+"at": "aparece otra historia",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 22,
+"t": 93.88,
+"d": 5.02,
+"unit": 3,
+"heard": "en las urnas. La pregunta es quién contó los votos.",
+"spec": {
+"src": "commons,europeana",
+"at": "urnas",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 23,
+"t": 98.9,
+"d": 4.7,
+"unit": 3,
+"heard": "Y qué pasó con ellos entre el diecinueve de febrero y el mes de mayo.",
+"spec": {
+"src": "commons,europeana",
+"at": "Y qué pasó",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 24,
+"t": 103.6,
+"d": 5.86,
+"unit": 3,
+"heard": "Esta es la historia de las elecciones más discutidas de nuestra historia.",
+"spec": {
+"photo": "Madrid 1936 calle",
+"src": "commons,europeana",
+"at": "Esta es la"
+}
+},
+{
+"n": 25,
+"t": 109.46,
+"d": 8.91,
+"unit": 3,
+"heard": "El pucherazo del treinta y seis. Antes de empezar, conviene poner cara a los protagonistas.",
+"spec": {
+"card": {
+"type": "title",
+"title": "El pucherazo del 36",
+"sub": "Las elecciones que nadie terminó de contar"
+},
+"tr": "flash",
+"at": "El pucherazo del treinta"
+}
+},
+{
+"n": 26,
+"t": 118.38,
+"d": 4.48,
+"unit": 4,
+"heard": "A un lado, las izquierdas, unidas en el Frente Popular.",
+"spec": {
+"card": {
+"type": "versus",
+"title": "Febrero de 1936",
+"left": {
+"name": "Las izquierdas",
+"color": [
+190,
+58,
+48
+],
+"lines": [
+"Frente Popular:",
+"republicanos, socialistas y comunistas"
+]
+},
+"right": {
+"name": "Las derechas",
+"color": [
+64,
+104,
+168
+],
+"lines": [
+"CEDA, monárquicos",
+"y agrarios"
+]
+}
+},
+"at": "A un lado, las izquierdas"
+}
+},
+{
+"n": 27,
+"t": 122.86,
+"d": 6.28,
+"unit": 4,
+"heard": "Manuel Azaña, el gran líder republicano. Y los dos rostros del Partido Socialista:",
+"spec": {
+"photo": "Manuel Azaña",
+"src": "commons,europeana",
+"at": "Manuel Azaña, el gran",
+"lt": [
+"Manuel Azaña",
+"Izquierda Republicana · Frente Popular",
+"izquierda"
+]
+}
+},
+{
+"n": 28,
+"t": 129.14,
+"d": 2.48,
+"unit": 4,
+"heard": "Indalecio Prieto, el moderado, y",
+"spec": {
+"photo": "Indalecio Prieto",
+"src": "commons,europeana",
+"at": "Indalecio Prieto, el moderado",
+"lt": [
+"Indalecio Prieto",
+"PSOE · ala moderada",
+"izquierda"
+]
+}
+},
+{
+"n": 29,
+"t": 131.62,
+"d": 5.22,
+"unit": 4,
+"heard": "Francisco Largo Caballero, al que sus seguidores llaman el Lenin español.",
+"spec": {
+"photo": "Francisco Largo Caballero",
+"src": "commons,europeana",
+"at": "Francisco Largo Caballero",
+"lt": [
+"Francisco Largo Caballero",
+"PSOE · ala revolucionaria",
+"izquierda"
+]
+}
+},
+{
+"n": 30,
+"t": 136.84,
+"d": 4.18,
+"unit": 4,
+"heard": "En el centro, Niceto Alcalá-Zamora, presidente de la República,",
+"spec": {
+"photo": "Niceto Alcalá-Zamora 1936",
+"src": "commons,europeana",
+"at": "En el centro, Niceto",
+"lt": [
+"Niceto Alcalá-Zamora",
+"Presidente de la República",
+"centro"
+]
+}
+},
+{
+"n": 31,
+"t": 141.02,
+"d": 8.18,
+"unit": 4,
+"heard": "y Manuel Portela Valladares, el jefe del Gobierno que organiza las elecciones. Al otro lado, las derechas.",
+"spec": {
+"photo": "Manuel Portela Valladares",
+"src": "commons,europeana",
+"at": "y Manuel Portela Valladares",
+"lt": [
+"Manuel Portela Valladares",
+"Presidente del Gobierno",
+"centro"
+]
+}
+},
+{
+"n": 32,
+"t": 149.2,
+"d": 4.74,
+"unit": 4,
+"heard": "La CEDA de José María Gil-Robles, la gran coalición de las derechas católicas.",
+"spec": {
+"photo": "José María Gil-Robles",
+"src": "commons,europeana",
+"at": "La CEDA de José María",
+"lt": [
+"José María Gil-Robles",
+"Líder de la CEDA",
+"derecha"
+],
+"gloss": [
+"CEDA",
+"la gran coalición de las derechas católicas",
+"derecha"
+],
+"gloss_at": 0.22,
+"gloss_dur": 4.220000000000016
+}
+},
+{
+"n": 33,
+"t": 153.94,
+"d": 4.24,
+"unit": 4,
+"heard": "Y los monárquicos de José Calvo Sotelo.",
+"spec": {
+"photo": "José Calvo Sotelo",
+"src": "commons,europeana",
+"at": "Y los monárquicos",
+"lt": [
+"José Calvo Sotelo",
+"Líder monárquico",
+"derecha"
+]
+}
+},
+{
+"n": 34,
+"t": 158.18,
+"d": 6.9,
+"unit": 4,
+"heard": "Recuerde estos nombres. Todos van a tener algo que ver con lo que pasó con los votos.",
+"spec": {
+"card": {
+"type": "cast",
+"title": "Los protagonistas",
+"groups": [
+{
+"name": "Izquierdas",
+"color": [
+190,
+58,
+48
+],
+"people": [
+{
+"name": "Manuel Azaña",
+"role": "Izquierda Republicana",
+"image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Manuel_Aza%C3%B1a%2C_1933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+{
+"name": "Indalecio Prieto",
+"role": "PSOE · moderado",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Indalecio_Prieto%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+{
+"name": "Francisco Largo Caballero",
+"role": "PSOE · revolucionario",
+"image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Francisco_Largo_Caballero_1927_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+}
+]
+},
+{
+"name": "Centro",
+"color": [
+150,
+150,
+150
+],
+"people": [
+{
+"name": "Niceto Alcalá-Zamora",
+"role": "Presidente de la República",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Alcal%C3%A1_Zamora_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+{
+"name": "Manuel Portela Valladares",
+"role": "Presidente del Gobierno",
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Manuel_Portela_Valladares_1935_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+}
+]
+},
+{
+"name": "Derechas",
+"color": [
+64,
+104,
+168
+],
+"people": [
+{
+"name": "José María Gil-Robles",
+"role": "CEDA",
+"image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jos%C3%A9_Mar%C3%ADa_Gil-Robles.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+},
+{
+"name": "José Calvo Sotelo",
+"role": "Monárquicos",
+"image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Jos%C3%A9_Calvo_Sotelo%2C_retrato_en_Vida_Gallega_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+}
+]
+}
+]
+},
+"at": "Recuerde estos nombres"
+}
+},
+{
+"n": 35,
+"t": 165.08,
+"d": 7.0,
+"unit": 5,
+"heard": "",
+"spec": {
+"photo": "Congreso de los Diputados 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 36,
+"t": 172.08,
+"d": 7.0,
+"unit": 5,
+"heard": "",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true
+}
+},
+{
+"n": 37,
+"t": 179.08,
+"d": 10.76,
+"unit": 7,
+"heard": "Capítulo uno. La versión oficial. Para entender lo que ocurrió aquella semana, hay que volver unos años atrás.",
+"spec": {
+"card": {
+"type": "title",
+"title": "La versión oficial",
+"sub": "Capítulo 1"
+},
+"tr": null
+}
+},
+{
+"n": 38,
+"t": 189.84,
+"d": 4.66,
+"unit": 8,
+"heard": "En abril de mil novecientos treinta y uno, la monarquía cae y nace la Segunda",
+"spec": {
+"at": "En abril de",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 39,
+"t": 194.5,
+"d": 2.99,
+"unit": 8,
+"heard": "República. Gobiernan primero las",
+"spec": {
+"photo": "Proclamación Segunda República 1931",
+"src": "commons,europeana",
+"lt": [
+"Madrid",
+"14 de abril de 1931"
+],
+"at": "República. Gobiernan"
+}
+},
+{
+"n": 40,
+"t": 197.49,
+"d": 2.99,
+"unit": 8,
+"heard": "las izquierdas republicanas y los socialistas, con Manuel",
+"spec": {
+"card": {
+"type": "timeline",
+"header": "Cinco años de República",
+"events": [
+[
+"1931",
+"Nace la República"
+],
+[
+"1933",
+"Ganan las derechas"
+],
+[
+"1934",
+"Revolución de Octubre"
+],
+[
+"1936",
+"Elecciones de febrero"
+]
+]
+}
+}
+},
+{
+"n": 41,
+"t": 200.48,
+"d": 5.5,
+"unit": 8,
+"heard": "Manuel Azaña como gran figura. En noviembre de mil novecientos treinta y tres,",
+"spec": {
+"photo": "Manuel Azaña",
+"src": "commons,europeana",
+"lt": [
+"Manuel Azaña",
+"Izquierda Republicana · Frente Popular",
+"izquierda"
+],
+"at": "Azaña como"
+}
+},
+{
+"n": 42,
+"t": 205.98,
+"d": 4.5,
+"unit": 8,
+"heard": "el péndulo se mueve: las derechas, agrupadas en la CEDA de José María",
+"spec": {
+"at": "el péndulo se",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 43,
+"t": 210.48,
+"d": 6.36,
+"unit": 8,
+"heard": "Gil-Robles, ganan las elecciones. Y en octubre de mil novecientos treinta y cuatro,",
+"spec": {
+"photo": "José María Gil-Robles",
+"src": "commons,europeana",
+"lt": [
+"José María Gil-Robles",
+"Líder de la CEDA",
+"derecha"
+],
+"at": "Gil-Robles, ganan"
+}
+},
+{
+"n": 44,
+"t": 216.84,
+"d": 7.42,
+"unit": 8,
+"heard": "cuando la CEDA entra en el Gobierno, los socialistas y otras fuerzas de izquierda responden con una insurrección. En",
+"spec": {
+"at": "cuando la CEDA",
+"photo": "mitin 1936 España",
+"src": "commons,europeana"
+}
+},
+{
+"n": 45,
+"t": 224.26,
+"d": 2.31,
+"unit": 8,
+"heard": "Asturias se convierte en una revolución",
+"spec": {
+"photo": "Revolución de Asturias 1934",
+"src": "commons,europeana",
+"lt": [
+"Asturias",
+"octubre de 1934"
+],
+"at": "Asturias se"
+}
+},
+{
+"n": 46,
+"t": 226.57,
+"d": 2.31,
+"unit": 8,
+"heard": "armada. Hay más de mil",
+"spec": {
+"photo": "Oviedo 1934 destrucción",
+"src": "commons,europeana"
+}
+},
+{
+"n": 47,
+"t": 228.88,
+"d": 14.39,
+"unit": 8,
+"heard": "mil muertos. Miles de detenidos. Entre ellos, buena parte de la dirección socialista. En mil novecientos treinta y cinco, los gobiernos de centro-derecha se hunden entre escándalos de corrupción,",
+"spec": {
+"photo": "disturbios Madrid 1936",
+"src": "commons,europeana",
+"at": "muertos"
+}
+},
+{
+"n": 48,
+"t": 243.27,
+"d": 4.16,
+"unit": 9,
+"heard": "como el del estraperlo. El presidente de la República, Niceto",
+"spec": {
+"at": "como el del",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana",
+"gloss": [
+"estraperlo",
+"escándalo de corrupción de 1935 por una ruleta trucada"
+],
+"gloss_at": 0.4,
+"gloss_dur": 3.4600000000000253
+}
+},
+{
+"n": 49,
+"t": 247.43,
+"d": 3.8,
+"unit": 9,
+"heard": "Alcalá-Zamora, no quiere entregar el Gobierno a Gil-Robles,",
+"spec": {
+"photo": "Niceto Alcalá-Zamora 1931",
+"src": "commons,europeana",
+"lt": [
+"Niceto Alcalá-Zamora",
+"Presidente de la República",
+"centro"
+],
+"at": "Alcalá-Zamora, no"
+}
+},
+{
+"n": 50,
+"t": 251.23,
+"d": 5.96,
+"unit": 9,
+"heard": "aunque tiene el grupo más grande de la Cámara. Prefiere a un hombre de su confianza: Manuel",
+"spec": {
+"at": "aunque tiene el",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 51,
+"t": 257.19,
+"d": 3.76,
+"unit": 9,
+"heard": "Manuel Portela Valladares, un centrista sin partido propio. Y",
+"spec": {
+"card": {
+"type": "ficha",
+"name": "Manuel Portela Valladares",
+"role": "Presidente del Gobierno · diciembre de 1935"
+},
+"at": "Portela Valladares"
+}
+},
+{
+"n": 52,
+"t": 260.95,
+"d": 3.76,
+"unit": 9,
+"heard": "Y Portela recibe un encargo: disolver las",
+"spec": {
+"photo": "Portela Valladares 1936",
+"src": "commons,europeana",
+"lt": [
+"Manuel Portela Valladares",
+"Presidente del Gobierno",
+"centro"
+]
+}
+},
+{
+"n": 53,
+"t": 264.71,
+"d": 8.86,
+"unit": 9,
+"heard": "las Cortes y convocar elecciones. La fecha elegida es el dieciséis de febrero de mil novecientos treinta y seis.",
+"spec": {
+"photo": "Cortes 1936 sesión",
+"src": "commons,europeana",
+"at": "Cortes y convocar"
+}
+},
+{
+"n": 54,
+"t": 273.57,
+"d": 3.7,
+"unit": 9,
+"heard": "Frente a frente quedan dos grandes bloques. A la izquierda,",
+"spec": {
+"photo": "Frente Popular 1936 cartel",
+"src": "commons,europeana",
+"at": "Frente a"
+}
+},
+{
+"n": 55,
+"t": 277.27,
+"d": 4.44,
+"unit": 9,
+"heard": "el Frente Popular: republicanos de izquierda, socialistas,",
+"spec": {
+"at": "el Frente Popular",
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 56,
+"t": 281.71,
+"d": 5.2,
+"unit": 9,
+"heard": "comunistas, y el voto de muchos anarquistas que esta vez sí van a las urnas.",
+"spec": {
+"photo": "Partido Comunista de España 1936",
+"src": "commons,europeana",
+"at": "comunistas, y el"
+}
+},
+{
+"n": 57,
+"t": 286.91,
+"d": 1.34,
+"unit": 9,
+"heard": "A la derecha, una alianza",
+"spec": {
+"src": "commons,europeana",
+"at": "A la derecha",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 58,
+"t": 288.25,
+"d": 1.34,
+"unit": 9,
+"heard": "alianza encabezada por la",
+"spec": {
+"photo": "mitin 1936 España",
+"src": "commons,europeana"
+}
+},
+{
+"n": 59,
+"t": 289.59,
+"d": 8.6,
+"unit": 9,
+"heard": "la CEDA. En medio, un centro débil que Portela intenta construir a toda prisa desde el propio Gobierno. El",
+"spec": {
+"photo": "CEDA cartel elecciones 1936",
+"src": "commons,europeana",
+"at": "CEDA. En"
+}
+},
+{
+"n": 60,
+"t": 298.18,
+"d": 5.02,
+"unit": 10,
+"heard": "El Frente Popular se firma el quince de enero de mil novecientos treinta y seis.",
+"spec": {
+"photo": "Pacto Frente Popular 1936",
+"src": "commons,europeana",
+"at": "Frente Popular"
+}
+},
+{
+"n": 61,
+"t": 303.2,
+"d": 5.82,
+"unit": 10,
+"heard": "Es una coalición extraña, unida sobre todo por lo que rechaza. Los republicanos de",
+"spec": {
+"src": "commons,europeana",
+"at": "Es una coalición",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 62,
+"t": 309.02,
+"d": 3.88,
+"unit": 10,
+"heard": "de Azaña quieren volver a las reformas de mil novecientos treinta y uno,",
+"spec": {
+"photo": "Manuel Azaña 1936",
+"src": "commons,europeana",
+"at": "Azaña quieren volver"
+}
+},
+{
+"n": 63,
+"t": 312.9,
+"d": 4.46,
+"unit": 10,
+"heard": "dentro de la ley. Una parte de los socialistas, la que sigue a Francisco",
+"spec": {
+"at": "dentro de la",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 64,
+"t": 317.36,
+"d": 4.44,
+"unit": 10,
+"heard": "Largo Caballero, habla ya abiertamente de revolución. Los",
+"spec": {
+"photo": "Francisco Largo Caballero",
+"src": "commons,europeana",
+"lt": [
+"Francisco Largo Caballero",
+"PSOE · ala revolucionaria",
+"izquierda"
+],
+"at": "Largo Caballero"
+}
+},
+{
+"n": 65,
+"t": 321.8,
+"d": 7.88,
+"unit": 10,
+"heard": "Los comunistas, todavía pequeños, se apuntan a la estrategia que Moscú ha bautizado como frentes populares.",
+"spec": {
+"photo": "Partido Comunista de España 1936",
+"src": "commons,europeana",
+"at": "comunistas, todavía pequeños"
+}
+},
+{
+"n": 66,
+"t": 329.68,
+"d": 4.04,
+"unit": 10,
+"heard": "Las derechas tampoco son un bloque homogéneo. La CEDA de",
+"spec": {
+"src": "commons,europeana",
+"at": "Las derechas tampoco",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 67,
+"t": 333.72,
+"d": 4.98,
+"unit": 10,
+"heard": "de Gil-Robles acepta la República, pero sin entusiasmo. Los monárquicos de José",
+"spec": {
+"photo": "José María Gil-Robles 1936",
+"src": "commons,europeana",
+"at": "Gil-Robles acepta la"
+}
+},
+{
+"n": 68,
+"t": 338.7,
+"d": 4.24,
+"unit": 10,
+"heard": "José Calvo Sotelo quieren acabar con ella. Y la Falange de José Antonio",
+"spec": {
+"photo": "José Calvo Sotelo",
+"src": "commons,europeana",
+"lt": [
+"José Calvo Sotelo",
+"Líder monárquico",
+"derecha"
+],
+"at": "Calvo Sotelo"
+}
+},
+{
+"n": 69,
+"t": 342.94,
+"d": 7.86,
+"unit": 10,
+"heard": "Primo de Rivera, que irá sola, apenas sacará unos cuarenta y seis mil votos en toda España. Y el presidente",
+"spec": {
+"photo": "José Antonio Primo de Rivera",
+"src": "commons,europeana",
+"lt": [
+"José Antonio Primo de Rivera",
+"Fundador de Falange",
+"derecha"
+],
+"at": "Primo de Rivera",
+"gloss": [
+"Falange",
+"partido fascista español, fundado en 1933",
+"derecha"
+],
+"gloss_at": 0.2,
+"gloss_dur": 4.5
+}
+},
+{
+"n": 70,
+"t": 350.8,
+"d": 7.92,
+"unit": 10,
+"heard": "Alcalá-Zamora, que convoca las elecciones, deja escrito en su diario el siete de enero cuál es su obligación: hacer la",
+"spec": {
+"photo": "Niceto Alcalá-Zamora 1936",
+"src": "commons,europeana",
+"at": "Alcalá-Zamora, que convoca"
+}
+},
+{
+"n": 71,
+"t": 358.72,
+"d": 8.48,
+"unit": 10,
+"heard": "la disolución, dice, con imparcialidad. Y aquí aparece la primera pieza que casi nadie explica.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Se trata, siendo la disolución inevitable, de hacerla con imparcialidad.",
+"attrib": "Niceto Alcalá-Zamora · diario, 7 de enero de 1936"
+},
+"at": "disolución, dice"
+}
+},
+{
+"n": 72,
+"t": 367.2,
+"d": 6.8,
+"unit": 11,
+"heard": "La ley electoral. En mil novecientos treinta y seis no se votaba a listas cerradas.",
+"spec": {
+"photo": "Segunda República España fotografía",
+"src": "commons,europeana",
+"at": "La ley electoral"
+}
+},
+{
+"n": 73,
+"t": 374.0,
+"d": 1.46,
+"unit": 11,
+"heard": "Cada provincia elegía varios",
+"spec": {
+"at": "Cada provincia elegía",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 74,
+"t": 375.46,
+"d": 5.16,
+"unit": 11,
+"heard": "varios diputados, y cada elector podía votar solo a una parte de ellos.",
+"spec": {
+"card": {
+"type": "counter",
+"to": 473,
+"label": "diputados en juego"
+},
+"at": "diputados, y"
+}
+},
+{
+"n": 75,
+"t": 380.62,
+"d": 2.64,
+"unit": 11,
+"heard": "El bloque más votado se llevaba la mayoría de los",
+"spec": {
+"at": "El bloque más",
+"photo": "urna electoral Segunda República",
+"src": "commons,europeana"
+}
+},
+{
+"n": 76,
+"t": 383.26,
+"d": 3.35,
+"unit": 11,
+"heard": "los escaños de la provincia. El segundo, la minoría.",
+"spec": {
+"card": {
+"type": "counter",
+"to": 237,
+"label": "escaños para la mayoría absoluta"
+},
+"at": "escaños de"
+}
+},
+{
+"n": 77,
+"t": 386.62,
+"d": 3.35,
+"unit": 11,
+"heard": "Y si nadie alcanzaba el cuarenta por ciento de los",
+"spec": {
+"photo": "papeleta electoral 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 78,
+"t": 389.96,
+"d": 4.06,
+"unit": 11,
+"heard": "los votos, había segunda vuelta. El resultado era un",
+"spec": {
+"src": "commons,europeana",
+"at": "votos, había segunda",
+"photo": "urna electoral Segunda República",
+"gloss": [
+"segunda vuelta",
+"nueva votación si nadie llegaba al 40 %"
+],
+"gloss_at": 0.86,
+"gloss_dur": 2.899999999999966
+}
+},
+{
+"n": 79,
+"t": 394.02,
+"d": 8.2,
+"unit": 11,
+"heard": "un sistema muy sensible. Unos pocos miles de votos en una provincia podían mover diez escaños de un lado a otro.",
+"spec": {
+"card": {
+"type": "list",
+"header": "La regla del sistema",
+"items": [
+[
+"Mayoría",
+"el bloque ganador se lleva la mayor parte de la provincia"
+],
+[
+"Minoría",
+"el segundo, el resto"
+],
+[
+"Cuarenta por ciento",
+"si nadie lo alcanza, segunda vuelta"
+]
+]
+},
+"at": "sistema muy"
+}
+},
+{
+"n": 80,
+"t": 402.22,
+"d": 6.34,
+"unit": 11,
+"heard": "Y eso significa algo muy concreto: no hacía falta cambiar el voto de toda España.",
+"spec": {
+"at": "Y eso significa",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 81,
+"t": 408.56,
+"d": 5.2,
+"unit": 11,
+"heard": "Bastaba con cambiar el resultado de unas pocas provincias.",
+"spec": {
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana",
+"at": "Bastaba con cambiar"
+}
+},
+{
+"n": 82,
+"t": 413.77,
+"d": 1.2,
+"unit": 12,
+"heard": "La versión oficial dice",
+"spec": {
+"src": "commons,europeana",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 83,
+"t": 414.97,
+"d": 3.86,
+"unit": 12,
+"heard": "que el Frente Popular ganó por un margen estrecho en votos,",
+"spec": {
+"src": "commons,europeana",
+"at": "oficial dice",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 84,
+"t": 418.83,
+"d": 5.08,
+"unit": 12,
+"heard": "y que el sistema convirtió esa ventaja en una mayoría holgada de escaños.",
+"spec": {
+"at": "y que el",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 85,
+"t": 423.91,
+"d": 5.64,
+"unit": 12,
+"heard": "Es lo que se lee en muchos manuales. Y una parte es cierta.",
+"spec": {
+"src": "commons,europeana",
+"at": "Es lo que",
+"photo": "Gran Vía Madrid 1930s"
+}
+},
+{
+"n": 86,
+"t": 429.55,
+"d": 5.38,
+"unit": 12,
+"heard": "Pero en dos mil diecisiete, dos historiadores de la Universidad Rey Juan Carlos, Manuel",
+"spec": {
+"at": "Pero en dos",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 87,
+"t": 434.93,
+"d": 7.0,
+"unit": 12,
+"heard": "Manuel Álvarez Tardío y Roberto Villa García, publicaron un libro de más de seiscientas páginas tras revisar,",
+"spec": {
+"src": "commons,europeana",
+"at": "Álvarez Tardío y",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 88,
+"t": 441.93,
+"d": 6.9,
+"unit": 12,
+"heard": "provincia por provincia, las actas de escrutinio, los boletines oficiales y la prensa local.",
+"spec": {
+"at": "provincia por provincia",
+"photo": "mapa provincias España 1930",
+"src": "commons,europeana"
+}
+},
+{
+"n": 89,
+"t": 448.83,
+"d": 2.84,
+"unit": 12,
+"heard": "Su conclusión era incómoda.",
+"spec": {
+"at": "Su conclusión era",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 90,
+"t": 451.67,
+"d": 5.56,
+"unit": 12,
+"heard": "La votación, dicen, fue en general limpia. Lo que no fue limpio fue el",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Lo que fue una votación, generalmente limpia, se convirtió en un recuento adulterado.",
+"attrib": "Álvarez Tardío y Villa García · 1936. Fraude y violencia, 2017"
+},
+"at": "votación, dicen"
+}
+},
+{
+"n": 91,
+"t": 457.23,
+"d": 7.9,
+"unit": 12,
+"heard": "el recuento. Y para entender por qué, hay que mirar dos momentos que los manuales suelen saltarse.",
+"spec": {
+"photo": "papeleta electoral 1936",
+"src": "commons,europeana",
+"at": "recuento"
+}
+},
+{
+"n": 92,
+"t": 465.13,
+"d": 4.72,
+"unit": 12,
+"heard": "Las cuarenta y ocho horas que siguieron al diecinueve de febrero.",
+"spec": {
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana",
+"at": "Las cuarenta y"
+}
+},
+{
+"n": 93,
+"t": 469.85,
+"d": 3.08,
+"unit": 12,
+"heard": "Y lo que pasó después, en una comisión del",
+"spec": {
+"at": "Y lo que",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 94,
+"t": 472.93,
+"d": 2.43,
+"unit": 12,
+"heard": "del Congreso.",
+"spec": {
+"src": "commons,europeana",
+"at": "Congreso",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 95,
+"t": 475.35,
+"d": 6.5,
+"unit": 13,
+"heard": "",
+"spec": {
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 96,
+"t": 481.85,
+"d": 6.5,
+"unit": 13,
+"heard": "",
+"spec": {
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 97,
+"t": 488.35,
+"d": 6.5,
+"unit": 13,
+"heard": "",
+"spec": {
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 98,
+"t": 494.85,
+"d": 14.24,
+"unit": 13,
+"heard": "Antes de seguir, una palabra. Pucherazo. En España se usa desde el siglo diecinueve, en tiempos de la",
+"spec": {
+"photo": "mitin 1936 España",
+"src": "commons,europeana"
+}
+},
+{
+"n": 99,
+"t": 509.09,
+"d": 4.2,
+"unit": 14,
+"heard": "de la Restauración, cuando las elecciones se decidían antes de votar.",
+"spec": {
+"photo": "caciquismo elecciones Restauración",
+"src": "commons,europeana",
+"at": "Restauración, cuando"
+}
+},
+{
+"n": 100,
+"t": 513.29,
+"d": 3.58,
+"unit": 14,
+"heard": "La explicación más extendida es que, en algunos pueblos,",
+"spec": {
+"at": "La explicación más",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 101,
+"t": 516.87,
+"d": 5.0,
+"unit": 14,
+"heard": "las papeletas se guardaban en pucheros de barro, y que en esos pucheros entraban y salían",
+"spec": {
+"at": "las papeletas se",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 102,
+"t": 521.87,
+"d": 1.58,
+"unit": 14,
+"heard": "votos según conviniera al",
+"spec": {
+"photo": "cola votantes 1936",
+"src": "commons,europeana",
+"at": "votos según conviniera"
+}
+},
+{
+"n": 103,
+"t": 523.45,
+"d": 1.58,
+"unit": 14,
+"heard": "al cacique local.",
+"spec": {
+"photo": "Romero Robledo",
+"src": "commons,europeana"
+}
+},
+{
+"n": 104,
+"t": 525.03,
+"d": 7.02,
+"unit": 14,
+"heard": "Con el tiempo, la palabra dejó de referirse al puchero y pasó a designar cualquier manipulación del resultado.",
+"spec": {
+"src": "commons,europeana",
+"at": "Con el tiempo",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 105,
+"t": 532.05,
+"d": 4.74,
+"unit": 14,
+"heard": "No hace falta llenar una urna de papeletas falsas. Basta con cambiar un",
+"spec": {
+"src": "commons,europeana",
+"at": "No hace falta",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 106,
+"t": 536.79,
+"d": 5.12,
+"unit": 14,
+"heard": "un acta. Con no contar una mesa. O con anular la de otro.",
+"spec": {
+"src": "commons,europeana",
+"at": "acta",
+"photo": "papeleta electoral 1936"
+}
+},
+{
+"n": 107,
+"t": 541.91,
+"d": 7.3,
+"unit": 14,
+"heard": "Y esa es, exactamente, la acusación que pesa sobre mil novecientos treinta y seis.",
+"spec": {
+"src": "commons,europeana",
+"at": "Y esa es",
+"photo": "calle de Alcalá Madrid 1930s"
+}
+},
+{
+"n": 108,
+"t": 549.21,
+"d": 5.5,
+"unit": 15,
+"heard": "",
+"spec": {
+"photo": "elecciones España siglo XIX",
+"src": "commons,europeana"
+}
+},
+{
+"n": 109,
+"t": 554.71,
+"d": 5.5,
+"unit": 15,
+"heard": "",
+"spec": {
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 110,
+"t": 560.21,
+"d": 5.5,
+"unit": 15,
+"heard": "",
+"spec": {
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 111,
+"t": 565.71,
+"d": 5.5,
+"unit": 15,
+"heard": "",
+"spec": {
+"photo": "Madrid 1936 noche",
+"src": "commons,europeana"
+}
+},
+{
+"n": 112,
+"t": 571.21,
+"d": 11.54,
+"unit": 17,
+"heard": "Capítulo dos. La campaña. La campaña empieza en enero. Y desde el primer día se parece poco a una campaña normal. En la",
+"spec": {
+"card": {
+"type": "title",
+"title": "La campaña",
+"sub": "Capítulo 2"
+},
+"tr": null
+}
+},
+{
+"n": 113,
+"t": 582.75,
+"d": 1.2,
+"unit": 18,
+"heard": "la Puerta del Sol,",
+"spec": {
+"photo": "Gil Robles cartel Puerta del Sol 1936",
+"src": "commons,europeana",
+"lt": [
+"Puerta del Sol",
+"enero de 1936"
+],
+"at": "Puerta del"
+}
+},
+{
+"n": 114,
+"t": 583.95,
+"d": 5.06,
+"unit": 18,
+"heard": "la CEDA cuelga un cartel gigantesco con el rostro de Gil-Robles. El lema de",
+"spec": {
+"photo": "CEDA A por los 300",
+"src": "commons,europeana",
+"at": "CEDA cuelga"
+}
+},
+{
+"n": 115,
+"t": 589.01,
+"d": 5.02,
+"unit": 18,
+"heard": "de la campaña es un desafío: ¡A por los trescientos! Trescientos",
+"spec": {
+"src": "commons,europeana",
+"at": "campaña es un",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 116,
+"t": 594.03,
+"d": 6.3,
+"unit": 18,
+"heard": "diputados. Una mayoría que permitiera reformar la Constitución. Al otro lado, el",
+"spec": {
+"src": "commons,europeana",
+"at": "diputados",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 117,
+"t": 600.33,
+"d": 1.39,
+"unit": 18,
+"heard": "el Frente Popular promete la",
+"spec": {
+"src": "commons,europeana",
+"at": "Frente Popular",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 118,
+"t": 601.73,
+"d": 1.39,
+"unit": 18,
+"heard": "la amnistía para los presos",
+"spec": {
+"photo": "presos Asturias 1934 cárcel",
+"src": "commons,europeana"
+}
+},
+{
+"n": 119,
+"t": 603.12,
+"d": 1.39,
+"unit": 18,
+"heard": "de octubre del treinta y cuatro,",
+"spec": {
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 120,
+"t": 604.51,
+"d": 5.92,
+"unit": 18,
+"heard": "cuatro, la readmisión de los despedidos y la vuelta a las reformas del primer bienio. La",
+"spec": {
+"at": "la readmisión de",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 121,
+"t": 610.43,
+"d": 11.44,
+"unit": 18,
+"heard": "La amnistía es su gran bandera. Para miles de familias, votar es la forma de sacar a alguien de la cárcel. Pero el tono de la campaña lo marcan las palabras.",
+"spec": {
+"src": "commons,europeana",
+"at": "amnistía es su",
+"photo": "presos Asturias 1934 cárcel"
+}
+},
+{
+"n": 122,
+"t": 621.87,
+"d": 5.94,
+"unit": 19,
+"heard": "Y algunas de ellas pesan como piedras. En enero de mil novecientos treinta y seis,",
+"spec": {
+"src": "commons,europeana",
+"at": "Y algunas de",
+"photo": "manifestación Madrid 1936"
+}
+},
+{
+"n": 123,
+"t": 627.81,
+"d": 3.1,
+"unit": 19,
+"heard": "en plena campaña, el líder socialista Francisco",
+"spec": {
+"at": "en plena campaña",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 124,
+"t": 630.91,
+"d": 2.61,
+"unit": 19,
+"heard": "Largo Caballero lanza una advertencia desde",
+"spec": {
+"card": {
+"type": "ficha",
+"name": "Francisco Largo Caballero",
+"role": "Líder del ala revolucionaria del PSOE"
+},
+"at": "Largo Caballero"
+}
+},
+{
+"n": 125,
+"t": 633.52,
+"d": 4.69,
+"unit": 19,
+"heard": "desde la tribuna de un mitin. «Si triunfan las derechas, no",
+"spec": {
+"photo": "Francisco Largo Caballero",
+"src": "commons,europeana"
+}
+},
+{
+"n": 126,
+"t": 638.21,
+"d": 6.66,
+"unit": 20,
+"heard": "no habrá remisión: tendremos que ir forzosamente a la guerra civil declarada.»",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Si triunfan las derechas, no habrá remisión: tendremos que ir forzosamente a la guerra civil declarada.",
+"attrib": "Francisco Largo Caballero · mitin, enero de 1936"
+},
+"at": "habrá remisión"
+}
+},
+{
+"n": 127,
+"t": 644.87,
+"d": 3.04,
+"unit": 21,
+"heard": "No era una frase aislada. La izquierda",
+"spec": {
+"photo": "Guardia de Asalto 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 128,
+"t": 647.91,
+"d": 3.04,
+"unit": 21,
+"heard": "revolucionaria hablaba de conquistar el poder,",
+"spec": {
+"photo": "mitin Gil Robles 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 129,
+"t": 650.95,
+"d": 4.86,
+"unit": 21,
+"heard": "y la derecha monárquica soñaba abiertamente con acabar con la República.",
+"spec": {
+"at": "y la derecha",
+"photo": "mitin 1936 España",
+"src": "commons,europeana"
+}
+},
+{
+"n": 130,
+"t": 655.81,
+"d": 2.18,
+"unit": 21,
+"heard": "Unos y otros se acusaban de preparar un",
+"spec": {
+"at": "Unos y otros",
+"video": "Spanish Civil War newsreel",
+"old": true
+}
+},
+{
+"n": 131,
+"t": 657.99,
+"d": 4.98,
+"unit": 21,
+"heard": "un golpe. Y unos y otros tenían motivos para creerlo. La",
+"spec": {
+"photo": "militares españoles 1936",
+"src": "commons,europeana",
+"at": "golpe"
+}
+},
+{
+"n": 132,
+"t": 662.97,
+"d": 5.02,
+"unit": 21,
+"heard": "La violencia acompaña cada acto. Mítines reventados a pedradas,",
+"spec": {
+"photo": "disturbios Madrid 1936",
+"src": "commons,europeana",
+"at": "violencia acompaña cada"
+}
+},
+{
+"n": 133,
+"t": 667.99,
+"d": 4.16,
+"unit": 21,
+"heard": "disparos en los pueblos, sedes asaltadas. Los propios",
+"spec": {
+"at": "disparos en los",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 134,
+"t": 672.15,
+"d": 2.47,
+"unit": 21,
+"heard": "Álvarez Tardío y Villa cuentan cuarenta y",
+"spec": {
+"card": {
+"type": "counter",
+"to": 41,
+"label": "muertos en la campaña · según Álvarez Tardío y Villa"
+},
+"at": "Álvarez Tardío"
+}
+},
+{
+"n": 135,
+"t": 674.62,
+"d": 2.47,
+"unit": 21,
+"heard": "y una muertes durante la campaña.",
+"spec": {
+"photo": "Guardia Civil 1930s España",
+"src": "commons,europeana"
+}
+},
+{
+"n": 136,
+"t": 677.09,
+"d": 6.22,
+"unit": 21,
+"heard": "Otros estudios, como el de Eduardo González Calleja, rebajan la cifra a unas treinta hasta la víspera de",
+"spec": {
+"at": "Otros estudios",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 137,
+"t": 683.31,
+"d": 6.38,
+"unit": 21,
+"heard": "de la votación. Ninguna de las dos cifras es pequeña. Y sin embargo,",
+"spec": {
+"src": "commons,europeana",
+"at": "votación",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 138,
+"t": 689.69,
+"d": 5.85,
+"unit": 21,
+"heard": "el día de la votación, ocurre algo que casi nadie esperaba.",
+"spec": {
+"at": "el día de",
+"photo": "urna electoral Segunda República",
+"src": "commons,europeana"
+}
+},
+{
+"n": 139,
+"t": 695.54,
+"d": 4.62,
+"unit": 22,
+"heard": "Para proteger la votación, el Gobierno de Portela despliega a unos treinta y cuatro mil",
+"spec": {
+"photo": "Guardia Civil 1936 elecciones",
+"src": "commons,europeana"
+}
+},
+{
+"n": 140,
+"t": 700.16,
+"d": 4.16,
+"unit": 22,
+"heard": "mil guardias civiles y diecisiete mil guardias de asalto.",
+"spec": {
+"card": {
+"type": "counter",
+"to": 51000,
+"label": "guardias civiles y de asalto desplegados"
+},
+"at": "guardias civiles"
+}
+},
+{
+"n": 141,
+"t": 704.32,
+"d": 7.5,
+"unit": 22,
+"heard": "Una cifra que da la medida del miedo. Y hay un dato que cambia el tablero. Por primera vez,",
+"spec": {
+"src": "commons,europeana",
+"at": "Una cifra que",
+"photo": "cola votantes 1936"
+}
+},
+{
+"n": 142,
+"t": 711.82,
+"d": 4.86,
+"unit": 22,
+"heard": "la CNT, el gran sindicato anarquista, no pide la abstención.",
+"spec": {
+"photo": "CNT 1936 cartel",
+"src": "commons,europeana",
+"at": "CNT, el"
+}
+},
+{
+"n": 143,
+"t": 716.68,
+"d": 3.68,
+"unit": 22,
+"heard": "En mil novecientos treinta y tres, la abstención anarquista había hundido",
+"spec": {
+"src": "commons,europeana",
+"at": "En mil novecientos",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 144,
+"t": 720.36,
+"d": 3.68,
+"unit": 22,
+"heard": "hundido a la izquierda. En mil novecientos treinta y seis,",
+"spec": {
+"photo": "anarquistas 1936 manifestación",
+"src": "commons,europeana"
+}
+},
+{
+"n": 145,
+"t": 724.04,
+"d": 3.92,
+"unit": 22,
+"heard": "cientos de miles de libertarios van a votar.",
+"spec": {
+"at": "cientos de miles",
+"photo": "urna electoral Segunda República",
+"src": "commons,europeana"
+}
+},
+{
+"n": 146,
+"t": 727.96,
+"d": 4.62,
+"unit": 22,
+"heard": "La razón es sencilla. Muchos de sus militantes siguen presos desde octubre.",
+"spec": {
+"src": "commons,europeana",
+"at": "La razón es",
+"photo": "manifestación Madrid 1936"
+}
+},
+{
+"n": 147,
+"t": 732.58,
+"d": 2.7,
+"unit": 22,
+"heard": "Y el Frente Popular promete la",
+"spec": {
+"at": "Y el Frente",
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 148,
+"t": 735.28,
+"d": 2.19,
+"unit": 22,
+"heard": "la amnistía. Así llega España",
+"spec": {
+"src": "commons,europeana",
+"at": "amnistía",
+"photo": "presos Asturias 1934 cárcel"
+}
+},
+{
+"n": 149,
+"t": 737.47,
+"d": 2.19,
+"unit": 22,
+"heard": "España al dieciséis de febrero.",
+"spec": {
+"photo": "Madrid 1935 fotografía calle",
+"src": "commons,europeana",
+"kw": "16 DE FEBRERO"
+}
+},
+{
+"n": 150,
+"t": 739.66,
+"d": 3.48,
+"unit": 22,
+"heard": "Con dos bloques que se acusan mutuamente de querer destruir la",
+"spec": {
+"at": "Con dos bloques",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 151,
+"t": 743.14,
+"d": 8.34,
+"unit": 22,
+"heard": "la República. Con un centro casi desaparecido. Y con un Gobierno que no tiene partido detrás.",
+"spec": {
+"photo": "Proclamación Segunda República 1931",
+"src": "commons,europeana",
+"at": "República"
+}
+},
+{
+"n": 152,
+"t": 751.48,
+"d": 4.92,
+"unit": 23,
+"heard": "El domingo dieciséis de febrero, los colegios abren a las ocho de la mañana.",
+"spec": {
+"photo": "votación elecciones 1936 colegio electoral",
+"src": "commons,europeana",
+"lt": [
+"España",
+"16 de febrero de 1936"
+]
+}
+},
+{
+"n": 153,
+"t": 756.4,
+"d": 2.88,
+"unit": 23,
+"heard": "Más de nueve millones de españoles votan.",
+"spec": {
+"src": "commons,europeana",
+"at": "Más de nueve",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 154,
+"t": 759.28,
+"d": 2.88,
+"unit": 23,
+"heard": "Una participación cercana al setenta y tres por",
+"spec": {
+"photo": "cola votantes 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 155,
+"t": 762.16,
+"d": 1.88,
+"unit": 23,
+"heard": "por ciento, la más alta de la",
+"spec": {
+"card": {
+"type": "counter",
+"to": 73,
+"label": "por ciento de participación"
+},
+"at": "ciento, la"
+}
+},
+{
+"n": 156,
+"t": 764.04,
+"d": 5.36,
+"unit": 23,
+"heard": "de la República. Y, con incidentes graves en algunos lugares,",
+"spec": {
+"src": "commons,europeana",
+"at": "República. Y",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 157,
+"t": 769.4,
+"d": 8.86,
+"unit": 23,
+"heard": "la jornada transcurre con una normalidad relativa. Ni siquiera los autores que defienden la tesis del fraude dicen que se robara la elección en las",
+"spec": {
+"at": "la jornada transcurre",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 158,
+"t": 778.26,
+"d": 5.38,
+"unit": 23,
+"heard": "las urnas. Ese es el primer mito que conviene desmontar.",
+"spec": {
+"src": "commons,europeana",
+"at": "urnas",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 159,
+"t": 783.64,
+"d": 4.12,
+"unit": 23,
+"heard": "El pucherazo del treinta y seis, si lo hubo, no ocurrió el domingo.",
+"spec": {
+"photo": "Madrid 1936 calle",
+"src": "commons,europeana",
+"at": "El pucherazo del"
+}
+},
+{
+"n": 160,
+"t": 787.76,
+"d": 4.11,
+"unit": 23,
+"heard": "domingo. Ocurrió después.",
+"spec": {
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana",
+"at": "Ocurrió después"
+}
+},
+{
+"n": 161,
+"t": 791.87,
+"d": 6.0,
+"unit": 24,
+"heard": "",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true,
+"tr": "black"
+}
+},
+{
+"n": 162,
+"t": 797.87,
+"d": 6.0,
+"unit": 24,
+"heard": "",
+"spec": {
+"photo": "Madrid 1936 noche",
+"src": "commons,europeana"
+}
+},
+{
+"n": 163,
+"t": 803.87,
+"d": 6.0,
+"unit": 24,
+"heard": "",
+"spec": {
+"src": "commons,europeana",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 164,
+"t": 809.87,
+"d": 6.0,
+"unit": 24,
+"heard": "",
+"spec": {
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 165,
+"t": 815.87,
+"d": 6.0,
+"unit": 24,
+"heard": "",
+"spec": {
+"photo": "mapa provincias España 1930",
+"src": "commons,europeana"
+}
+},
+{
+"n": 166,
+"t": 821.87,
+"d": 6.0,
+"unit": 24,
+"heard": "",
+"spec": {
+"photo": "Puerta del Sol Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 167,
+"t": 827.87,
+"d": 6.0,
+"unit": 24,
+"heard": "",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true
+}
+},
+{
+"n": 168,
+"t": 833.87,
+"d": 10.17,
+"unit": 26,
+"heard": "Capítulo tres. Tres días de febrero. Domingo por la noche. Los resultados llegan a cuentagotas,",
+"spec": {
+"card": {
+"type": "title",
+"title": "Tres días de febrero",
+"sub": "Capítulo 3"
+},
+"tr": null
+}
+},
+{
+"n": 169,
+"t": 844.04,
+"d": 4.6,
+"unit": 27,
+"heard": "por telégrafo y por teléfono, desde cada capital de provincia. En",
+"spec": {
+"at": "por telégrafo y",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 170,
+"t": 848.64,
+"d": 1.2,
+"unit": 27,
+"heard": "Madrid, la capital,",
+"spec": {
+"photo": "Madrid 1936 celebración Frente Popular",
+"src": "commons,europeana",
+"at": "Madrid, la"
+}
+},
+{
+"n": 171,
+"t": 849.84,
+"d": 1.2,
+"unit": 27,
+"heard": "el Frente Popular",
+"spec": {
+"photo": "cárcel Modelo Madrid",
+"src": "commons,europeana"
+}
+},
+{
+"n": 172,
+"t": 851.04,
+"d": 1.23,
+"unit": 27,
+"heard": "arrasa.",
+"spec": {
+"photo": "Frente Popular manifestación febrero 1936",
+"src": "commons,europeana",
+"at": "Frente Popular"
+}
+},
+{
+"n": 173,
+"t": 852.27,
+"d": 1.93,
+"unit": 27,
+"heard": "En Cataluña también.",
+"spec": {
+"photo": "Barcelona 1936 elecciones",
+"src": "commons,europeana"
+}
+},
+{
+"n": 174,
+"t": 854.2,
+"d": 4.42,
+"unit": 27,
+"heard": "Pero en el centro y el norte rural, las derechas resisten.",
+"spec": {
+"src": "commons,europeana",
+"at": "Pero en el",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 175,
+"t": 858.62,
+"d": 7.34,
+"unit": 27,
+"heard": "A las ocho de la tarde, el ministro de la Gobernación da ventaja a las derechas y el centro. Horas después, el propio",
+"spec": {
+"src": "commons,europeana",
+"at": "A las ocho",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 176,
+"t": 865.96,
+"d": 5.08,
+"unit": 27,
+"heard": "Portela habla por la radio y empieza a reconocer victorias de la izquierda en algunos lugares,",
+"spec": {
+"photo": "Manuel Portela Valladares",
+"src": "commons,europeana",
+"at": "Portela habla por"
+}
+},
+{
+"n": 177,
+"t": 871.04,
+"d": 3.6,
+"unit": 27,
+"heard": "como Cataluña. Y entonces la",
+"spec": {
+"at": "como Cataluña",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 178,
+"t": 874.64,
+"d": 9.32,
+"unit": 27,
+"heard": "la calle se adelanta al recuento. En varias ciudades, multitudes del Frente Popular celebran una victoria que todavía nadie ha proclamado. En algunas",
+"spec": {
+"photo": "disturbios Madrid 1936",
+"src": "commons,europeana",
+"at": "calle se adelanta"
+}
+},
+{
+"n": 179,
+"t": 883.96,
+"d": 8.88,
+"unit": 27,
+"heard": "cárceles, los presos de octubre salen sin esperar la amnistía. Esa misma madrugada, según el relato que el propio",
+"spec": {
+"src": "commons,europeana",
+"at": "cárceles, los presos",
+"photo": "presos Asturias 1934 cárcel"
+}
+},
+{
+"n": 180,
+"t": 892.84,
+"d": 5.18,
+"unit": 28,
+"heard": "propio Portela dejó después, dos hombres le piden lo mismo. Primero, José María",
+"spec": {
+"photo": "Portela Valladares 1936",
+"src": "commons,europeana",
+"lt": [
+"Manuel Portela Valladares",
+"Presidente del Gobierno",
+"centro"
+],
+"at": "Portela dejó"
+}
+},
+{
+"n": 181,
+"t": 898.02,
+"d": 4.94,
+"unit": 28,
+"heard": "Gil-Robles, el líder de la derecha. Después, el general Francisco",
+"spec": {
+"photo": "José María Gil-Robles",
+"src": "commons,europeana",
+"lt": [
+"José María Gil-Robles",
+"Líder de la CEDA",
+"derecha"
+],
+"at": "Gil-Robles, el"
+}
+},
+{
+"n": 182,
+"t": 902.96,
+"d": 2.9,
+"unit": 28,
+"heard": "Franco, jefe del Estado Mayor Central.",
+"spec": {
+"card": {
+"type": "ficha",
+"name": "Francisco Franco",
+"role": "Jefe del Estado Mayor Central · 1936"
+},
+"at": "Franco, jefe"
+}
+},
+{
+"n": 183,
+"t": 905.86,
+"d": 2.9,
+"unit": 28,
+"heard": "Los dos le proponen declarar el estado de",
+"spec": {
+"photo": "Francisco Franco 1936",
+"src": "commons,europeana",
+"lt": [
+"Francisco Franco",
+"General del Ejército"
+]
+}
+},
+{
+"n": 184,
+"t": 908.76,
+"d": 5.54,
+"unit": 28,
+"heard": "de guerra. Suspender el proceso. Gobernar con poderes excepcionales.",
+"spec": {
+"photo": "Ministerio de la Guerra Madrid 1930s",
+"src": "commons,europeana",
+"at": "guerra. Suspender"
+}
+},
+{
+"n": 185,
+"t": 914.3,
+"d": 9.4,
+"unit": 28,
+"heard": "Portela se niega. Este dato es esencial, y no siempre aparece en los relatos que defienden la tesis del fraude: mientras unos llenaban la",
+"spec": {
+"at": "Portela se niega",
+"photo": "Portela Valladares 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 186,
+"t": 923.7,
+"d": 5.74,
+"unit": 28,
+"heard": "la calle, otros, en los despachos, ya pensaban en detener el resultado por la fuerza.",
+"spec": {
+"photo": "disturbios Madrid 1936",
+"src": "commons,europeana",
+"at": "calle, otros, en"
+}
+},
+{
+"n": 187,
+"t": 929.44,
+"d": 2.78,
+"unit": 28,
+"heard": "Portela no hace ni una cosa ni la otra.",
+"spec": {
+"at": "Portela no hace",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 188,
+"t": 932.22,
+"d": 4.73,
+"unit": 28,
+"heard": "Declara el estado de alarma. Y espera.",
+"spec": {
+"src": "commons,europeana",
+"at": "Declara el estado",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 189,
+"t": 936.95,
+"d": 6.4,
+"unit": 29,
+"heard": "Lunes diecisiete. Martes dieciocho. Los disturbios crecen. Se queman",
+"spec": {
+"photo": "iglesia quemada 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 190,
+"t": 943.35,
+"d": 3.04,
+"unit": 29,
+"heard": "iglesias y sedes de partidos de derechas. Hay",
+"spec": {
+"photo": "iglesia incendiada 1936 España",
+"src": "commons,europeana",
+"at": "iglesias y sedes"
+}
+},
+{
+"n": 191,
+"t": 946.39,
+"d": 3.07,
+"unit": 29,
+"heard": "Hay muertos en varias provincias. Muchos gobernadores",
+"spec": {
+"photo": "disturbios Madrid 1936",
+"src": "commons,europeana",
+"at": "muertos en varias"
+}
+},
+{
+"n": 192,
+"t": 949.46,
+"d": 3.07,
+"unit": 29,
+"heard": "gobernadores civiles nombrados por Portela no saben qué hacer,",
+"spec": {
+"photo": "disturbios Madrid febrero 1936",
+"src": "commons,europeana",
+"gloss": [
+"gobernadores civiles",
+"representante del Gobierno en cada provincia"
+],
+"gloss_at": 0.2,
+"gloss_dur": 2.5699999999999363
+}
+},
+{
+"n": 193,
+"t": 952.53,
+"d": 3.56,
+"unit": 29,
+"heard": "hacer, y algunos abandonan sus puestos.",
+"spec": {
+"at": "y algunos abandonan",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 194,
+"t": 956.09,
+"d": 2.6,
+"unit": 29,
+"heard": "Y el miércoles diecinueve de febrero,",
+"spec": {
+"photo": "Segunda República España fotografía",
+"src": "commons,europeana",
+"at": "Y el miércoles"
+}
+},
+{
+"n": 195,
+"t": 958.69,
+"d": 2.6,
+"unit": 29,
+"heard": "ocurre lo impensable. Manuel",
+"spec": {
+"card": {
+"type": "timeline",
+"header": "La semana decisiva",
+"events": [
+[
+"16 feb",
+"Votación"
+],
+[
+"17 feb",
+"Estado de alarma"
+],
+[
+"19 feb",
+"Dimite Portela"
+],
+[
+"20 feb",
+"Escrutinio provincial"
+]
+]
+}
+}
+},
+{
+"n": 196,
+"t": 961.29,
+"d": 2.0,
+"unit": 29,
+"heard": "Portela Valladares, el hombre",
+"spec": {
+"photo": "Manuel Portela Valladares",
+"src": "commons,europeana",
+"at": "Portela Valladares, el"
+}
+},
+{
+"n": 197,
+"t": 963.29,
+"d": 2.0,
+"unit": 29,
+"heard": "hombre encargado de garantizar el recuento,",
+"spec": {
+"src": "commons,europeana",
+"photo": "Niceto Alcalá-Zamora 1936"
+}
+},
+{
+"n": 198,
+"t": 965.29,
+"d": 5.92,
+"unit": 29,
+"heard": "acude al presidente de la República y presenta su dimisión. El",
+"spec": {
+"at": "acude al presidente",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 199,
+"t": 971.21,
+"d": 6.56,
+"unit": 29,
+"heard": "recuento oficial no ha terminado. Las juntas provinciales todavía no han proclamado a los diputados.",
+"spec": {
+"photo": "acta electoral 1936",
+"src": "commons,europeana",
+"at": "recuento oficial no"
+}
+},
+{
+"n": 200,
+"t": 977.77,
+"d": 4.64,
+"unit": 29,
+"heard": "Y quedan segundas vueltas por celebrar. ¿Por qué se va",
+"spec": {
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana",
+"at": "Y quedan segundas"
+}
+},
+{
+"n": 201,
+"t": 982.41,
+"d": 5.39,
+"unit": 30,
+"heard": "va Portela? Es una de las grandes preguntas de esta historia.",
+"spec": {
+"photo": "Portela Valladares 1936",
+"src": "commons,europeana",
+"at": "Portela? Es"
+}
+},
+{
+"n": 202,
+"t": 987.8,
+"d": 3.06,
+"unit": 30,
+"heard": "La versión de los defensores de la tesis del fraude es que",
+"spec": {
+"at": "La versión de",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 203,
+"t": 990.86,
+"d": 8.38,
+"unit": 30,
+"heard": "que dimitió por miedo. Que la presión de la calle, los asaltos y los rumores de revolución le hicieron abandonar antes de tiempo,",
+"spec": {
+"card": {
+"type": "list",
+"header": "¿Por qué dimitió Portela?",
+"items": [
+[
+"Miedo a la calle",
+"tesis de Álvarez Tardío y Villa"
+],
+[
+"Presión militar",
+"tesis de González Calleja y Sánchez Pérez"
+],
+[
+"Un pacto",
+"insinuación de Gil-Robles"
+]
+]
+},
+"at": "dimitió por"
+}
+},
+{
+"n": 204,
+"t": 999.24,
+"d": 5.0,
+"unit": 30,
+"heard": "y que con él cayó la única autoridad neutral que podía garantizar el recuento.",
+"spec": {
+"at": "y que con",
+"photo": "acta electoral 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 205,
+"t": 1004.24,
+"d": 7.04,
+"unit": 30,
+"heard": "Sus críticos dan la vuelta al argumento. Para ellos, Portela ya conocía el resultado cuando dimitió,",
+"spec": {
+"src": "commons,europeana",
+"at": "Sus críticos dan",
+"photo": "Gran Vía Madrid 1930s"
+}
+},
+{
+"n": 206,
+"t": 1011.28,
+"d": 3.98,
+"unit": 30,
+"heard": "y lo que de verdad le asustó no fue la izquierda, sino la presión de los",
+"spec": {
+"at": "y lo que",
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 207,
+"t": 1015.26,
+"d": 2.13,
+"unit": 30,
+"heard": "los militares y de la derecha para que diera un",
+"spec": {
+"photo": "militares españoles 1936",
+"src": "commons,europeana",
+"at": "militares y de"
+}
+},
+{
+"n": 208,
+"t": 1017.39,
+"d": 2.13,
+"unit": 30,
+"heard": "un golpe.",
+"spec": {
+"photo": "disturbios Madrid febrero 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 209,
+"t": 1019.52,
+"d": 6.54,
+"unit": 30,
+"heard": "Gil-Robles, en sus memorias, sugirió incluso un posible pacto de Portela con los revolucionarios.",
+"spec": {
+"photo": "José María Gil-Robles 1936",
+"src": "commons,europeana",
+"at": "Gil-Robles, en sus"
+}
+},
+{
+"n": 210,
+"t": 1026.06,
+"d": 3.06,
+"unit": 30,
+"heard": "Tres explicaciones para un mismo gesto.",
+"spec": {
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana",
+"at": "Tres explicaciones para"
+}
+},
+{
+"n": 211,
+"t": 1029.12,
+"d": 8.64,
+"unit": 30,
+"heard": "Pero el efecto fue el mismo en las tres. El recuento quedó en manos del adversario de una de las partes.",
+"spec": {
+"photo": "Cortes 1936 sesión",
+"src": "commons,europeana",
+"at": "Pero el efecto"
+}
+},
+{
+"n": 212,
+"t": 1037.76,
+"d": 8.02,
+"unit": 31,
+"heard": "¿Cuál era el resultado en ese momento? Aquí empieza la verdadera batalla de los historiadores. Según los cálculos de",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Álvarez Tardío y Villa",
+"lines": [
+"Frente Popular: 198",
+"Derechas: 161",
+"Por decidir: 114"
+]
+},
+"right": {
+"title": "González Calleja y Sánchez Pérez",
+"lines": [
+"Frente Popular: ~230",
+"según ABC, 19 de febrero",
+"Mayoría: 237"
+]
+},
+"strike": false
+}
+}
+},
+{
+"n": 213,
+"t": 1045.78,
+"d": 7.58,
+"unit": 31,
+"heard": "de Álvarez Tardío y Villa, cuando Portela dimite, el Frente Popular tiene asegurados unos ciento noventa y ocho diputados.",
+"spec": {
+"src": "commons,europeana",
+"at": "Álvarez Tardío y",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 214,
+"t": 1053.36,
+"d": 4.68,
+"unit": 31,
+"heard": "Las derechas, unos ciento sesenta y uno. Y quedan ciento catorce",
+"spec": {
+"src": "commons,europeana",
+"at": "Las derechas, unos",
+"photo": "manifestación Madrid 1936"
+}
+},
+{
+"n": 215,
+"t": 1058.04,
+"d": 5.54,
+"unit": 31,
+"heard": "escaños por decidir. Ciento catorce. Una cuarta parte de la",
+"spec": {
+"card": {
+"type": "counter",
+"to": 114,
+"label": "escaños sin decidir al dimitir Portela"
+},
+"at": "escaños por"
+}
+},
+{
+"n": 216,
+"t": 1063.58,
+"d": 4.1,
+"unit": 31,
+"heard": "la Cámara. Sus críticos, González Calleja y Sánchez Pérez,",
+"spec": {
+"src": "commons,europeana",
+"at": "Cámara",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 217,
+"t": 1067.68,
+"d": 3.0,
+"unit": 31,
+"heard": "responden con otra fuente: el diario",
+"spec": {
+"at": "responden con otra",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 218,
+"t": 1070.68,
+"d": 8.86,
+"unit": 31,
+"heard": "ABC, nada sospechoso de simpatías izquierdistas, atribuía esa misma tarde unos doscientos treinta escaños al Frente Popular.",
+"spec": {
+"photo": "ABC febrero 1936 portada",
+"src": "commons,europeana",
+"at": "ABC, nada"
+}
+},
+{
+"n": 219,
+"t": 1079.54,
+"d": 4.86,
+"unit": 31,
+"heard": "Muy cerca de la mayoría absoluta, que estaba en doscientos treinta y siete.",
+"spec": {
+"src": "commons,europeana",
+"at": "Muy cerca de",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 220,
+"t": 1084.4,
+"d": 3.26,
+"unit": 31,
+"heard": "Las dos cifras no pueden ser ciertas a la vez.",
+"spec": {
+"photo": "cola votantes 1936",
+"src": "commons,europeana",
+"at": "Las dos cifras"
+}
+},
+{
+"n": 221,
+"t": 1087.66,
+"d": 6.65,
+"unit": 31,
+"heard": "Y la diferencia entre una y otra es, exactamente, el corazón de este caso.",
+"spec": {
+"src": "commons,europeana",
+"at": "Y la diferencia",
+"photo": "calle de Alcalá Madrid 1930s"
+}
+},
+{
+"n": 222,
+"t": 1094.31,
+"d": 7.58,
+"unit": 32,
+"heard": "Portela entrega el poder sin esperar. Y antes de irse, según contó el socialista Juan Simeón Vidarte,",
+"spec": {
+"photo": "Manuel Portela Valladares",
+"src": "commons,europeana",
+"at": "Portela entrega"
+}
+},
+{
+"n": 223,
+"t": 1101.89,
+"d": 3.73,
+"unit": 32,
+"heard": "le dedica una frase que resume aquellos días.",
+"spec": {
+"at": "le dedica una",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 224,
+"t": 1105.62,
+"d": 8.62,
+"unit": 33,
+"heard": "«Reciben ustedes el poder con el tigre a la puerta.» Esa misma tarde del diecinueve, Alcalá-Zamora encarga el",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Reciben ustedes el poder con el tigre a la puerta.",
+"attrib": "Manuel Portela Valladares, a Juan Simeón Vidarte · febrero de 1936"
+},
+"at": "Reciben ustedes"
+}
+},
+{
+"n": 225,
+"t": 1114.23,
+"d": 1.2,
+"unit": 34,
+"heard": "el Gobierno a Manuel Azaña.",
+"spec": {
+"photo": "Gobierno Civil edificio antiguo",
+"src": "commons,europeana",
+"at": "Gobierno a"
+}
+},
+{
+"n": 226,
+"t": 1115.43,
+"d": 1.2,
+"unit": 34,
+"heard": "Es",
+"spec": {
+"photo": "Manuel Azaña 1936",
+"src": "commons,europeana",
+"lt": [
+"Manuel Azaña",
+"Izquierda Republicana · Frente Popular",
+"izquierda"
+],
+"at": "Azaña. Es"
+}
+},
+{
+"n": 227,
+"t": 1116.63,
+"d": 1.23,
+"unit": 34,
+"heard": "un Gobierno solo de republicanos",
+"spec": {
+"card": {
+"type": "ficha",
+"name": "Manuel Azaña",
+"role": "Presidente del Gobierno · 19 de febrero de 1936"
+}
+}
+},
+{
+"n": 228,
+"t": 1117.87,
+"d": 1.41,
+"unit": 34,
+"heard": "republicanos de izquierda,",
+"spec": {
+"photo": "Gobierno Azaña 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 229,
+"t": 1119.27,
+"d": 5.06,
+"unit": 34,
+"heard": "sin socialistas, que se compromete a cumplir el programa del Frente Popular.",
+"spec": {
+"at": "sin socialistas",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 230,
+"t": 1124.33,
+"d": 5.1,
+"unit": 34,
+"heard": "Y el nuevo Gobierno hace lo que hacen todos los gobiernos nuevos. Nombra a sus",
+"spec": {
+"src": "commons,europeana",
+"at": "Y el nuevo",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 231,
+"t": 1129.43,
+"d": 5.62,
+"unit": 34,
+"heard": "a sus gobernadores civiles. Pero este no es un momento cualquiera.",
+"spec": {
+"src": "commons,europeana",
+"at": "gobernadores civiles",
+"photo": "Gobierno Civil edificio antiguo"
+}
+},
+{
+"n": 232,
+"t": 1135.05,
+"d": 4.28,
+"unit": 34,
+"heard": "Al día siguiente, jueves veinte de febrero, las juntas provinciales de",
+"spec": {
+"at": "Al día siguiente",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 233,
+"t": 1139.33,
+"d": 5.24,
+"unit": 34,
+"heard": "de escrutinio deben reunirse para sumar las actas y proclamar a los diputados.",
+"spec": {
+"src": "commons,europeana",
+"at": "escrutinio deben reunirse",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 234,
+"t": 1144.57,
+"d": 14.86,
+"unit": 34,
+"heard": "Y las actas, en muchas provincias, están guardadas en los gobiernos civiles. Las horas que siguen son de vértigo. Muchos gobernadores civiles nombrados por Portela dimiten o desaparecen.",
+"spec": {
+"at": "Y las actas",
+"photo": "acta electoral 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 235,
+"t": 1159.43,
+"d": 2.9,
+"unit": 35,
+"heard": "En numerosas capitales, dirigentes locales del",
+"spec": {
+"at": "En numerosas capitales",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 236,
+"t": 1162.33,
+"d": 1.64,
+"unit": 35,
+"heard": "del Frente Popular ocupan los",
+"spec": {
+"photo": "ayuntamiento 1936 Frente Popular",
+"src": "commons,europeana",
+"at": "Frente Popular"
+}
+},
+{
+"n": 237,
+"t": 1163.97,
+"d": 2.7,
+"unit": 35,
+"heard": "los gobiernos civiles, las diputaciones provinciales",
+"spec": {
+"src": "commons,europeana",
+"at": "gobiernos civiles, las",
+"photo": "Gobierno Civil edificio antiguo"
+}
+},
+{
+"n": 238,
+"t": 1166.67,
+"d": 2.7,
+"unit": 35,
+"heard": "y cientos de ayuntamientos.",
+"spec": {
+"photo": "presos liberados febrero 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 239,
+"t": 1169.37,
+"d": 5.62,
+"unit": 35,
+"heard": "Algunos de esos ayuntamientos habían sido suspendidos tras octubre del treinta y cuatro.",
+"spec": {
+"at": "Algunos de esos",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 240,
+"t": 1174.99,
+"d": 8.16,
+"unit": 35,
+"heard": "Otros, simplemente, cambian de manos. Las cárceles se abren antes de que exista una ley de amnistía.",
+"spec": {
+"src": "commons,europeana",
+"at": "Otros, simplemente, cambian",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 241,
+"t": 1183.15,
+"d": 1.76,
+"unit": 35,
+"heard": "Esa ley llegará el veintiuno de",
+"spec": {
+"at": "Esa ley llegará",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 242,
+"t": 1184.91,
+"d": 1.54,
+"unit": 35,
+"heard": "febrero, aprobada por la",
+"spec": {
+"card": {
+"type": "counter",
+"to": 16,
+"label": "muertos entre el 19 y el 20 de febrero"
+},
+"at": "febrero, aprobada"
+}
+},
+{
+"n": 243,
+"t": 1186.45,
+"d": 3.32,
+"unit": 35,
+"heard": "la Diputación Permanente de las Cortes, con el",
+"spec": {
+"photo": "Diputación Permanente Cortes 1936",
+"src": "commons,europeana",
+"at": "Diputación Permanente"
+}
+},
+{
+"n": 244,
+"t": 1189.77,
+"d": 3.32,
+"unit": 35,
+"heard": "el voto, por cierto, de la propia CEDA. Y en la",
+"spec": {
+"photo": "Guardia de Asalto 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 245,
+"t": 1193.09,
+"d": 7.46,
+"unit": 35,
+"heard": "en la calle, la violencia sigue. Entre el diecinueve y el veinte de febrero mueren al menos dieciséis personas.",
+"spec": {
+"photo": "disturbios Madrid 1936",
+"src": "commons,europeana",
+"at": "calle, la violencia"
+}
+},
+{
+"n": 246,
+"t": 1200.55,
+"d": 3.12,
+"unit": 35,
+"heard": "Un dato que los críticos de la tesis del fraude subrayan,",
+"spec": {
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana",
+"at": "Un dato que"
+}
+},
+{
+"n": 247,
+"t": 1203.67,
+"d": 10.3,
+"unit": 35,
+"heard": "y que los propios autores reconocen: la mayoría de esas muertes las causaron las fuerzas de orden público al reprimir las protestas.",
+"spec": {
+"at": "y que los",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 248,
+"t": 1213.97,
+"d": 6.25,
+"unit": 36,
+"heard": "",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true,
+"tr": "black"
+}
+},
+{
+"n": 249,
+"t": 1220.22,
+"d": 6.25,
+"unit": 36,
+"heard": "",
+"spec": {
+"photo": "Madrid 1936 noche",
+"src": "commons,europeana"
+}
+},
+{
+"n": 250,
+"t": 1226.47,
+"d": 6.25,
+"unit": 36,
+"heard": "",
+"spec": {
+"src": "commons,europeana",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 251,
+"t": 1232.72,
+"d": 6.25,
+"unit": 36,
+"heard": "",
+"spec": {
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 252,
+"t": 1238.97,
+"d": 6.25,
+"unit": 36,
+"heard": "",
+"spec": {
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 253,
+"t": 1245.22,
+"d": 6.25,
+"unit": 36,
+"heard": "",
+"spec": {
+"photo": "mitin 1936 España",
+"src": "commons,europeana"
+}
+},
+{
+"n": 254,
+"t": 1251.47,
+"d": 6.25,
+"unit": 36,
+"heard": "",
+"spec": {
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 255,
+"t": 1257.72,
+"d": 6.25,
+"unit": 36,
+"heard": "",
+"spec": {
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 256,
+"t": 1263.97,
+"d": 3.6,
+"unit": 38,
+"heard": "Recapitulemos lo que sabemos hasta ahora.",
+"spec": {
+"card": {
+"type": "recap",
+"title": "Hasta aquí",
+"items": [
+[
+"16 de febrero",
+"España vota con normalidad"
+],
+[
+"19 de febrero",
+"Portela dimite; Azaña forma Gobierno"
+],
+[
+"20 de febrero",
+"Las juntas suman las actas con los gobiernos civiles en otras manos"
+]
+]
+},
+"at": "Recapitulemos lo que"
+}
+},
+{
+"n": 257,
+"t": 1267.57,
+"d": 5.64,
+"unit": 38,
+"heard": "El dieciséis de febrero, España vota con normalidad. Tres días después, con el",
+"spec": {
+"src": "commons,europeana",
+"at": "El dieciséis de",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 258,
+"t": 1273.21,
+"d": 4.98,
+"unit": 38,
+"heard": "con el recuento sin terminar, Portela dimite y Azaña forma Gobierno.",
+"spec": {
+"photo": "papeleta electoral 1936",
+"src": "commons,europeana",
+"at": "recuento sin terminar"
+}
+},
+{
+"n": 259,
+"t": 1278.19,
+"d": 6.04,
+"unit": 38,
+"heard": "Y el jueves veinte, cuando las juntas provinciales deben sumar las actas, en muchas provincias los",
+"spec": {
+"at": "Y el jueves",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 260,
+"t": 1284.23,
+"d": 6.56,
+"unit": 38,
+"heard": "los gobiernos civiles, donde se guardan esas actas, ya han cambiado de manos.",
+"spec": {
+"src": "commons,europeana",
+"at": "gobiernos civiles, donde",
+"photo": "Gobierno Civil edificio antiguo"
+}
+},
+{
+"n": 261,
+"t": 1290.8,
+"d": 9.39,
+"unit": 39,
+"heard": "Capítulo cuatro. El rastro de las actas. Hasta aquí, la pregunta era quién había ganado.",
+"spec": {
+"card": {
+"type": "title",
+"title": "El rastro de las actas",
+"sub": "Capítulo 4"
+},
+"tr": null
+}
+},
+{
+"n": 262,
+"t": 1300.19,
+"d": 6.36,
+"unit": 40,
+"heard": "A partir de este momento, la pregunta cambia. Ahora la pregunta es quién tenía las",
+"spec": {
+"src": "commons,europeana",
+"at": "A partir de",
+"photo": "cola votantes 1936"
+}
+},
+{
+"n": 263,
+"t": 1306.55,
+"d": 5.31,
+"unit": 40,
+"heard": "las actas. Y qué hizo con ellas. El primer gran estudio",
+"spec": {
+"src": "commons,europeana",
+"at": "actas",
+"photo": "papeleta electoral 1936"
+}
+},
+{
+"n": 264,
+"t": 1311.86,
+"d": 5.31,
+"unit": 40,
+"heard": "de estas elecciones lo publicó el historiador Javier Tusell en mil novecientos setenta y uno,",
+"spec": {
+"photo": "acta notarial 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 265,
+"t": 1317.17,
+"d": 4.42,
+"unit": 40,
+"heard": "todavía en vida de Franco. Casi medio siglo después,",
+"spec": {
+"at": "todavía en vida",
+"photo": "Francisco Franco 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 266,
+"t": 1321.59,
+"d": 5.0,
+"unit": 40,
+"heard": "Álvarez Tardío y Villa volvieron a los mismos papeles con una pregunta distinta:",
+"spec": {
+"src": "commons,europeana",
+"at": "Álvarez Tardío y",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 267,
+"t": 1326.59,
+"d": 7.5,
+"unit": 40,
+"heard": "no quién votó a quién, sino qué pasó en cada junta provincial durante aquellos días. Compararon los",
+"spec": {
+"at": "no quién votó",
+"photo": "urna electoral Segunda República",
+"src": "commons,europeana"
+}
+},
+{
+"n": 268,
+"t": 1334.09,
+"d": 5.0,
+"unit": 40,
+"heard": "los resultados publicados, las protestas presentadas, las actas notariales levantadas",
+"spec": {
+"src": "commons,europeana",
+"at": "resultados publicados, las",
+"photo": "Elecciones generales España 1936"
+}
+},
+{
+"n": 269,
+"t": 1339.09,
+"d": 5.0,
+"unit": 40,
+"heard": "por los candidatos y los datos que cada provincia envió a Madrid.",
+"spec": {
+"photo": "mapa provincias España 1930",
+"src": "commons,europeana"
+}
+},
+{
+"n": 270,
+"t": 1344.09,
+"d": 5.32,
+"unit": 40,
+"heard": "Su tesis es concreta. El fraude no fue masivo en toda España.",
+"spec": {
+"src": "commons,europeana",
+"at": "Su tesis es",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 271,
+"t": 1349.41,
+"d": 9.68,
+"unit": 40,
+"heard": "Fue quirúrgico. Se concentró en un puñado de provincias donde muy pocos votos decidían muchos escaños. Y vamos a seguir ese",
+"spec": {
+"photo": "Madrid 1935 fotografía calle",
+"src": "commons,europeana",
+"at": "Fue quirúrgico"
+}
+},
+{
+"n": 272,
+"t": 1359.09,
+"d": 4.29,
+"unit": 40,
+"heard": "ese rastro, provincia por provincia.",
+"spec": {
+"card": {
+"type": "board",
+"title": "El rastro de las actas",
+"center": 1,
+"nodes": [
+[
+"Junta central",
+"Madrid"
+],
+[
+"A Coruña",
+"17 escaños"
+],
+[
+"Cáceres",
+"9 escaños"
+],
+[
+"Granada",
+"13 escaños"
+],
+[
+"Cuenca",
+"6 escaños"
+],
+[
+"Comisión de Actas",
+"Congreso"
+]
+],
+"links": [
+[
+0,
+1
+],
+[
+0,
+2
+],
+[
+0,
+3
+],
+[
+0,
+4
+],
+[
+0,
+5
+]
+]
+},
+"at": "rastro, provincia"
+}
+},
+{
+"n": 273,
+"t": 1363.38,
+"d": 3.41,
+"unit": 41,
+"heard": "Para entender lo que pudo pasar, hay que saber cómo se contaba",
+"spec": {
+"photo": "mesa electoral 1936 interventores",
+"src": "commons,europeana"
+}
+},
+{
+"n": 274,
+"t": 1366.79,
+"d": 3.41,
+"unit": 41,
+"heard": "un voto en mil novecientos treinta y seis.",
+"spec": {
+"photo": "acta electoral 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 275,
+"t": 1370.2,
+"d": 8.26,
+"unit": 41,
+"heard": "Cada mesa electoral, al cerrar, contaba sus papeletas y levantaba un acta firmada por el presidente y los interventores.",
+"spec": {
+"at": "Cada mesa electoral",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 276,
+"t": 1378.46,
+"d": 5.2,
+"unit": 41,
+"heard": "Esas actas viajaban a la capital de la provincia. Allí, el jueves siguiente a",
+"spec": {
+"at": "Esas actas viajaban",
+"photo": "mapa provincias España 1930",
+"src": "commons,europeana"
+}
+},
+{
+"n": 277,
+"t": 1383.66,
+"d": 3.27,
+"unit": 41,
+"heard": "la votación, una junta provincial de escrutinio las sumaba",
+"spec": {
+"src": "commons,europeana",
+"at": "votación, una junta",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 278,
+"t": 1386.93,
+"d": 3.27,
+"unit": 41,
+"heard": "sumaba y proclamaba a los diputados.",
+"spec": {
+"src": "commons,europeana",
+"photo": "acta notarial 1936"
+}
+},
+{
+"n": 279,
+"t": 1390.2,
+"d": 8.6,
+"unit": 41,
+"heard": "Los candidatos podían presentar protestas, y muchos llevaban notarios para levantar acta de cualquier irregularidad.",
+"spec": {
+"at": "Los candidatos podían",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 280,
+"t": 1398.8,
+"d": 2.74,
+"unit": 41,
+"heard": "Es un sistema que funciona si nadie toca los",
+"spec": {
+"at": "Es un sistema",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 281,
+"t": 1401.54,
+"d": 1.2,
+"unit": 41,
+"heard": "los papeles entre la mesa",
+"spec": {
+"src": "commons,europeana",
+"at": "papeles entre la",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 282,
+"t": 1402.74,
+"d": 10.32,
+"unit": 41,
+"heard": "mesa y la junta. El problema es lo que ocurre cuando, entre la mesa y la junta, cambia el Gobierno. Primera parada.",
+"spec": {
+"at": "entre la mesa",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 283,
+"t": 1413.06,
+"d": 1.2,
+"unit": 42,
+"heard": "A Coruña. Es",
+"spec": {
+"photo": "A Coruña años 30",
+"src": "commons,europeana",
+"lt": [
+"A Coruña",
+"febrero de 1936"
+],
+"at": "A Coruña"
+}
+},
+{
+"n": 284,
+"t": 1414.26,
+"d": 1.2,
+"unit": 42,
+"heard": "una de las provincias",
+"spec": {
+"video": "A Coruña city",
+"lt": [
+"A Coruña",
+"hoy"
+]
+}
+},
+{
+"n": 285,
+"t": 1415.46,
+"d": 2.4,
+"unit": 42,
+"heard": "las provincias más pobladas de España,",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "A Coruña",
+"keys": [
+[
+-10,
+35,
+4,
+44.5
+],
+[
+-9.4,
+42.6,
+-7.6,
+43.8
+]
+],
+"points": [
+{
+"name": "A Coruña",
+"lon": -8.41,
+"lat": 43.36,
+"at": 0.45,
+"pulse": 1,
+"big": 1
+}
+]
+},
+"at": "Coruña. Es"
+}
+},
+{
+"n": 286,
+"t": 1417.86,
+"d": 5.42,
+"unit": 42,
+"heard": "y elige diecisiete diputados. En febrero de mil novecientos treinta y seis,",
+"spec": {
+"at": "y elige diecisiete",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 287,
+"t": 1423.28,
+"d": 2.41,
+"unit": 42,
+"heard": "entre los candidatos del Frente Popular está",
+"spec": {
+"at": "entre los candidatos",
+"photo": "Santiago Casares Quiroga 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 288,
+"t": 1425.69,
+"d": 5.89,
+"unit": 42,
+"heard": "está Santiago Casares Quiroga, uno de los hombres de máxima confianza de Azaña. Según",
+"spec": {
+"photo": "Santiago Casares Quiroga",
+"src": "commons,europeana",
+"at": "Santiago Casares"
+}
+},
+{
+"n": 289,
+"t": 1431.58,
+"d": 8.56,
+"unit": 42,
+"heard": "Álvarez Tardío y Villa, los datos que circulaban tras la votación daban la mayoría en A Coruña a las candidaturas de derecha y centro:",
+"spec": {
+"src": "commons,europeana",
+"at": "Álvarez Tardío y",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 290,
+"t": 1440.14,
+"d": 4.34,
+"unit": 42,
+"heard": "doce escaños para ellas, cinco para el Frente Popular.",
+"spec": {
+"at": "doce escaños para",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 291,
+"t": 1444.48,
+"d": 2.06,
+"unit": 42,
+"heard": "Y el diecinueve de febrero, con el",
+"spec": {
+"at": "Y el diecinueve",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 292,
+"t": 1446.54,
+"d": 3.25,
+"unit": 42,
+"heard": "el Gobierno de Azaña ya formado, el nuevo gobernador",
+"spec": {
+"photo": "Gobierno Azaña 1936",
+"src": "commons,europeana",
+"at": "Gobierno de Azaña"
+}
+},
+{
+"n": 293,
+"t": 1449.79,
+"d": 3.25,
+"unit": 42,
+"heard": "civil interviene la documentación electoral.",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Tras la votación",
+"lines": [
+"Derechas y centro: 12",
+"Frente Popular: 5"
+]
+},
+"right": {
+"title": "Proclamación",
+"lines": [
+"Frente Popular: 13",
+"Derechas y centro: 4"
+]
+},
+"strike": true
+}
+}
+},
+{
+"n": 294,
+"t": 1453.04,
+"d": 2.22,
+"unit": 42,
+"heard": "Cuando la junta provincial proclama a los",
+"spec": {
+"at": "Cuando la junta",
+"photo": "mapa provincias España 1930",
+"src": "commons,europeana"
+}
+},
+{
+"n": 295,
+"t": 1455.26,
+"d": 3.36,
+"unit": 42,
+"heard": "a los diputados, el resultado se ha dado la vuelta. Trece",
+"spec": {
+"src": "commons,europeana",
+"at": "diputados, el resultado",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 296,
+"t": 1458.62,
+"d": 14.3,
+"unit": 42,
+"heard": "escaños para el Frente Popular. Cuatro para sus adversarios. Trece a cuatro. Con los mismos votos. ¿Es solo la interpretación de dos historiadores?",
+"spec": {
+"src": "commons,europeana",
+"at": "escaños para el",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 297,
+"t": 1472.92,
+"d": 11.28,
+"unit": 43,
+"heard": "No del todo. Porque, semanas después, la persona que más motivos tenía para defender esas actas dijo exactamente lo contrario. Esa persona era Indalecio",
+"spec": {
+"src": "commons,europeana",
+"at": "No del todo",
+"photo": "manifestación Madrid 1936"
+}
+},
+{
+"n": 298,
+"t": 1484.2,
+"d": 2.3,
+"unit": 43,
+"heard": "Prieto. Socialista,",
+"spec": {
+"photo": "Indalecio Prieto",
+"src": "commons,europeana",
+"lt": [
+"Indalecio Prieto",
+"PSOE · ala moderada",
+"izquierda"
+],
+"at": "Prieto. Socialista"
+}
+},
+{
+"n": 299,
+"t": 1486.5,
+"d": 2.3,
+"unit": 43,
+"heard": "uno de los hombres fuertes del Frente Popular,",
+"spec": {
+"card": {
+"type": "ficha",
+"name": "Indalecio Prieto",
+"role": "Presidente de la Comisión de Actas · PSOE"
+}
+}
+},
+{
+"n": 300,
+"t": 1488.8,
+"d": 5.04,
+"unit": 43,
+"heard": "y presidente de la Comisión de Actas del Congreso. Las",
+"spec": {
+"at": "y presidente de",
+"photo": "Comisión de Actas 1936",
+"src": "commons,europeana",
+"gloss": [
+"Comisión de Actas",
+"comisión del Congreso que decide qué actas son válidas"
+],
+"gloss_at": 1.48,
+"gloss_dur": 3.2600000000000366
+}
+},
+{
+"n": 301,
+"t": 1493.84,
+"d": 3.14,
+"unit": 43,
+"heard": "actas de las reuniones del grupo parlamentario socialista,",
+"spec": {
+"photo": "papeleta electoral 1936",
+"src": "commons,europeana",
+"at": "actas de las"
+}
+},
+{
+"n": 302,
+"t": 1496.98,
+"d": 2.36,
+"unit": 43,
+"heard": "que hoy se conservan en el archivo de",
+"spec": {
+"at": "que hoy se",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 303,
+"t": 1499.34,
+"d": 8.64,
+"unit": 43,
+"heard": "de la Fundación Pablo Iglesias, recogen lo que Prieto dijo a sus compañeros el veintiséis de marzo sobre las actas de A Coruña.",
+"spec": {
+"src": "commons,europeana",
+"at": "Fundación Pablo",
+"photo": "Indalecio Prieto 1936"
+}
+},
+{
+"n": 304,
+"t": 1507.98,
+"d": 6.7,
+"unit": 44,
+"heard": "«Absolutamente indefendibles.» Absolutamente indefendibles. Y",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Absolutamente indefendibles.",
+"attrib": "Indalecio Prieto, sobre las actas de A Coruña · grupo parlamentario socialista, 26 de marzo de 1936"
+},
+"at": "Absolutamente indefendibles"
+}
+},
+{
+"n": 305,
+"t": 1514.68,
+"d": 4.03,
+"unit": 45,
+"heard": "Y Prieto no se quedó en las palabras. El treinta y uno de marzo,",
+"spec": {
+"photo": "Indalecio Prieto 1936",
+"src": "commons,europeana",
+"at": "Prieto no"
+}
+},
+{
+"n": 306,
+"t": 1518.71,
+"d": 1.84,
+"unit": 45,
+"heard": "comunicó a su grupo que dimitía",
+"spec": {
+"at": "comunicó a su",
+"photo": "Comisión de Actas 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 307,
+"t": 1520.55,
+"d": 2.73,
+"unit": 45,
+"heard": "como presidente de la Comisión de Actas, porque se",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Prieto dimite como presidente de la Comisión de Actas por oponerse a validar las actas de A Coruña.",
+"attrib": "Actas del grupo parlamentario socialista · 31 de marzo de 1936"
+},
+"at": "como presidente"
+}
+},
+{
+"n": 308,
+"t": 1523.28,
+"d": 2.73,
+"unit": 45,
+"heard": "se oponía a validar las de A Coruña.",
+"spec": {
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 309,
+"t": 1526.01,
+"d": 1.96,
+"unit": 45,
+"heard": "Las mismas actas que convertían a",
+"spec": {
+"at": "Las mismas actas",
+"photo": "Santiago Casares Quiroga 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 310,
+"t": 1527.97,
+"d": 2.66,
+"unit": 45,
+"heard": "a Casares Quiroga en diputado. Sus críticos",
+"spec": {
+"photo": "Santiago Casares Quiroga 1936",
+"src": "commons,europeana",
+"kw": "VALIDADAS",
+"at": "Casares Quiroga"
+}
+},
+{
+"n": 311,
+"t": 1530.63,
+"d": 2.66,
+"unit": 45,
+"heard": "críticos discuten casi todo lo demás.",
+"spec": {
+"photo": "Casares Quiroga presidente del Gobierno",
+"src": "commons,europeana"
+}
+},
+{
+"n": 312,
+"t": 1533.29,
+"d": 3.5,
+"unit": 45,
+"heard": "El historiador José Luis Martín Ramos, que ha revisado esas mismas",
+"spec": {
+"at": "El historiador José",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 313,
+"t": 1536.79,
+"d": 6.86,
+"unit": 45,
+"heard": "actas socialistas, sostiene que la dimisión de Prieto también tuvo que ver con las tensiones internas de su partido.",
+"spec": {
+"src": "commons,europeana",
+"at": "actas socialistas, sostiene",
+"photo": "papeleta electoral 1936"
+}
+},
+{
+"n": 314,
+"t": 1543.65,
+"d": 6.34,
+"unit": 45,
+"heard": "Puede ser. Pero la frase está ahí. Y quedó recogida en las actas de su propio grupo,",
+"spec": {
+"src": "commons,europeana",
+"at": "Puede ser",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 315,
+"t": 1549.99,
+"d": 3.02,
+"unit": 45,
+"heard": "no en un periódico de derechas. Las actas de",
+"spec": {
+"at": "no en un",
+"photo": "prensa de la época 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 316,
+"t": 1553.01,
+"d": 3.44,
+"unit": 45,
+"heard": "de A Coruña fueron validadas. Prieto se fue.",
+"spec": {
+"photo": "A Coruña 1930s",
+"src": "commons,europeana",
+"at": "A Coruña fueron"
+}
+},
+{
+"n": 317,
+"t": 1556.45,
+"d": 3.84,
+"unit": 45,
+"heard": "Y Casares Quiroga ocupó su escaño. Mes y medio después,",
+"spec": {
+"src": "commons,europeana",
+"at": "Y Casares Quiroga",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 318,
+"t": 1560.29,
+"d": 4.69,
+"unit": 45,
+"heard": "sería presidente del Gobierno de España.",
+"spec": {
+"at": "sería presidente del",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 319,
+"t": 1564.97,
+"d": 5.67,
+"unit": 46,
+"heard": "",
+"spec": {
+"src": "commons,europeana",
+"photo": "A Coruña 1930s"
+}
+},
+{
+"n": 320,
+"t": 1570.64,
+"d": 5.67,
+"unit": 46,
+"heard": "",
+"spec": {
+"photo": "Santiago Casares Quiroga",
+"src": "commons,europeana"
+}
+},
+{
+"n": 321,
+"t": 1576.31,
+"d": 5.67,
+"unit": 46,
+"heard": "",
+"spec": {
+"photo": "Madrid 1936 noche",
+"src": "commons,europeana"
+}
+},
+{
+"n": 322,
+"t": 1581.97,
+"d": 5.67,
+"unit": 46,
+"heard": "",
+"spec": {
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 323,
+"t": 1587.64,
+"d": 5.67,
+"unit": 46,
+"heard": "",
+"spec": {
+"photo": "mapa provincias España 1930",
+"src": "commons,europeana"
+}
+},
+{
+"n": 324,
+"t": 1593.31,
+"d": 6.55,
+"unit": 46,
+"heard": "Segunda parada.",
+"spec": {
+"photo": "Puerta del Sol Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 325,
+"t": 1599.86,
+"d": 4.22,
+"unit": 47,
+"heard": "Cáceres. Aquí el problema no es una sola noche,",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "Cáceres",
+"keys": [
+[
+-10,
+35,
+4,
+44.5
+],
+[
+-7.4,
+39.0,
+-5.4,
+40.4
+]
+],
+"points": [
+{
+"name": "Cáceres",
+"lon": -6.37,
+"lat": 39.47,
+"at": 0.45,
+"pulse": 1,
+"big": 1
+}
+]
+},
+"at": "Cáceres. Aquí"
+}
+},
+{
+"n": 326,
+"t": 1604.08,
+"d": 4.22,
+"unit": 47,
+"heard": "noche, sino dos recuentos que no coinciden. Según",
+"spec": {
+"src": "commons,europeana",
+"lt": [
+"Cáceres",
+"febrero de 1936"
+],
+"photo": "mapa provincias España 1930"
+}
+},
+{
+"n": 327,
+"t": 1608.3,
+"d": 7.22,
+"unit": 47,
+"heard": "Álvarez Tardío y Villa, el resultado real daba tres escaños al Frente Popular y seis a sus rivales.",
+"spec": {
+"src": "commons,europeana",
+"at": "Álvarez Tardío y",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 328,
+"t": 1615.52,
+"d": 7.64,
+"unit": 47,
+"heard": "La junta provincial proclamó lo contrario: siete para el Frente Popular, dos para las derechas.",
+"spec": {
+"photo": "Segunda República España fotografía",
+"src": "commons,europeana",
+"at": "La junta provincial"
+}
+},
+{
+"n": 329,
+"t": 1623.15,
+"d": 4.34,
+"unit": 47,
+"heard": "Sus críticos no lo niegan del todo. Recuerdan que el historiador",
+"spec": {
+"photo": "Madrid 1936 calle",
+"src": "commons,europeana",
+"at": "Sus críticos no"
+}
+},
+{
+"n": 330,
+"t": 1627.49,
+"d": 4.34,
+"unit": 47,
+"heard": "Ayala Vicente encontró en Cáceres dos cómputos contradictorios.",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Según el recuento",
+"lines": [
+"Frente Popular: 3",
+"Derechas: 6"
+]
+},
+"right": {
+"title": "Proclamación",
+"lines": [
+"Frente Popular: 7",
+"Derechas: 2"
+]
+},
+"strike": true
+}
+}
+},
+{
+"n": 331,
+"t": 1631.84,
+"d": 7.98,
+"unit": 47,
+"heard": "Y que, ante esa contradicción, lo que procedía, a su juicio, era repetir la elección.",
+"spec": {
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana",
+"at": "Y que, ante"
+}
+},
+{
+"n": 332,
+"t": 1639.82,
+"d": 8.65,
+"unit": 47,
+"heard": "Pero no se repitió. Las actas de Cáceres llegaron al Congreso. Y nadie las tocó.",
+"spec": {
+"photo": "Cortes 1936 sesión",
+"src": "commons,europeana",
+"at": "Pero no se"
+}
+},
+{
+"n": 333,
+"t": 1648.47,
+"d": 4.6,
+"unit": 48,
+"heard": "Y la lista sigue. Los autores señalan irregularidades en la provincia de",
+"spec": {
+"card": {
+"type": "list",
+"header": "Provincias señaladas",
+"items": [
+[
+"Valencia",
+"provincia"
+],
+[
+"Santa Cruz de Tenerife",
+""
+],
+[
+"Las Palmas",
+""
+],
+[
+"Lugo · Pontevedra",
+"Galicia"
+],
+[
+"Málaga · Jaén",
+"Andalucía"
+]
+]
+}
+}
+},
+{
+"n": 334,
+"t": 1653.07,
+"d": 4.58,
+"unit": 48,
+"heard": "de Valencia, en Santa Cruz de Tenerife, en Las Palmas, en Lugo, en",
+"spec": {
+"photo": "Valencia 1930s",
+"src": "commons,europeana",
+"at": "Valencia, en"
+}
+},
+{
+"n": 335,
+"t": 1657.65,
+"d": 1.8,
+"unit": 48,
+"heard": "en Málaga, en Jaén, en",
+"spec": {
+"photo": "Málaga 1930s",
+"src": "commons,europeana",
+"at": "Málaga, en"
+}
+},
+{
+"n": 336,
+"t": 1659.45,
+"d": 5.88,
+"unit": 48,
+"heard": "en Pontevedra. Pero cuidado. Porque aquí aparece la otra cara de la moneda,",
+"spec": {
+"photo": "Pontevedra antigua fotografía",
+"src": "commons,europeana",
+"at": "Pontevedra. Pero"
+}
+},
+{
+"n": 337,
+"t": 1665.33,
+"d": 5.36,
+"unit": 48,
+"heard": "la que los defensores de la tesis del fraude suelen contar más deprisa. En Galicia, los",
+"spec": {
+"at": "la que los",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 338,
+"t": 1670.69,
+"d": 4.04,
+"unit": 48,
+"heard": "los gobernadores de Portela habían trabajado a fondo para su propio partido,",
+"spec": {
+"src": "commons,europeana",
+"at": "gobernadores de Portela",
+"photo": "Gobierno Civil edificio antiguo"
+}
+},
+{
+"n": 339,
+"t": 1674.73,
+"d": 2.92,
+"unit": 48,
+"heard": "el del centro. Y en Pontevedra, el propio",
+"spec": {
+"at": "el del centro",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 340,
+"t": 1677.65,
+"d": 5.74,
+"unit": 48,
+"heard": "Portela salió elegido en unas condiciones que sus rivales también denunciaron.",
+"spec": {
+"photo": "Portela Valladares 1936",
+"src": "commons,europeana",
+"at": "Portela salió elegido"
+}
+},
+{
+"n": 341,
+"t": 1683.39,
+"d": 5.18,
+"unit": 48,
+"heard": "El fraude, en mil novecientos treinta y seis, no era patrimonio de nadie.",
+"spec": {
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana",
+"at": "El fraude, en"
+}
+},
+{
+"n": 342,
+"t": 1688.57,
+"d": 17.36,
+"unit": 48,
+"heard": "Era una vieja costumbre española. Tan vieja, que tenía nombre propio desde el siglo diecinueve: el pucherazo. Y es aquí donde hay que desmontar el segundo mito. El de que solo un bando hizo trampas. En",
+"spec": {
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana",
+"at": "Era una vieja"
+}
+},
+{
+"n": 343,
+"t": 1705.93,
+"d": 23.32,
+"unit": 49,
+"heard": "Granada, por ejemplo, el historiador López Martínez documentó, en las elecciones de febrero, lo que él llama pucherazos puros en dieciocho pueblos, y fraudes técnicos en otros veintiocho. Pero no a favor del Frente Popular. A favor de las derechas. Caciques locales, alcaldes, coacciones en los pueblos. Las derechas habían ganado",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "Granada",
+"keys": [
+[
+-10,
+35,
+4,
+44.5
+],
+[
+-4.4,
+36.6,
+-2.6,
+37.7
+]
+],
+"points": [
+{
+"name": "Granada",
+"lon": -3.6,
+"lat": 37.18,
+"at": 0.45,
+"pulse": 1,
+"big": 1
+}
+]
+},
+"at": "Granada, por"
+}
+},
+{
+"n": 344,
+"t": 1729.25,
+"d": 1.2,
+"unit": 49,
+"heard": "Granada. Y",
+"spec": {
+"photo": "Granada 1930s",
+"src": "commons,europeana",
+"at": "Granada"
+}
+},
+{
+"n": 345,
+"t": 1730.45,
+"d": 1.2,
+"unit": 49,
+"heard": "la izquierda lo denunció",
+"spec": {
+"photo": "Granada 1930s fotografía",
+"src": "commons,europeana",
+"lt": [
+"Granada",
+"febrero de 1936"
+]
+}
+},
+{
+"n": 346,
+"t": 1731.65,
+"d": 1.2,
+"unit": 49,
+"heard": "inmediatamente, con",
+"spec": {
+"video": "Granada Alhambra",
+"lt": [
+"Granada",
+"hoy"
+]
+}
+},
+{
+"n": 347,
+"t": 1732.85,
+"d": 1.2,
+"unit": 49,
+"heard": "buena parte de razón.",
+"spec": {
+"card": {
+"type": "counter",
+"to": 18,
+"label": "pueblos con pucherazos a favor de las derechas · López Martínez"
+},
+"at": "López Martínez"
+}
+},
+{
+"n": 348,
+"t": 1734.05,
+"d": 1.2,
+"unit": 49,
+"heard": "razón.",
+"spec": {
+"at": "lo que él",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 349,
+"t": 1735.25,
+"d": 1.2,
+"unit": 49,
+"heard": "De modo que la",
+"spec": {
+"at": "y fraudes técnicos",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 350,
+"t": 1736.45,
+"d": 1.2,
+"unit": 49,
+"heard": "la pregunta ya no puede ser",
+"spec": {
+"src": "commons,europeana",
+"at": "Pero no a",
+"photo": "manifestación Madrid 1936"
+}
+},
+{
+"n": 351,
+"t": 1737.65,
+"d": 1.2,
+"unit": 49,
+"heard": "si hubo fraude.",
+"spec": {
+"photo": "Alpujarra pueblo antiguo",
+"src": "commons,europeana"
+}
+},
+{
+"n": 352,
+"t": 1738.85,
+"d": 1.2,
+"unit": 49,
+"heard": "Lo hubo, por",
+"spec": {
+"src": "commons,europeana",
+"at": "A favor de",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 353,
+"t": 1740.05,
+"d": 1.2,
+"unit": 49,
+"heard": "los dos lados.",
+"spec": {
+"at": "coacciones en los",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 354,
+"t": 1741.25,
+"d": 1.2,
+"unit": 49,
+"heard": "La pregunta es",
+"spec": {
+"src": "commons,europeana",
+"at": "Y la izquierda",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 355,
+"t": 1742.45,
+"d": 1.2,
+"unit": 49,
+"heard": "es otra.",
+"spec": {
+"src": "commons,europeana",
+"at": "De modo que",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 356,
+"t": 1743.65,
+"d": 1.2,
+"unit": 49,
+"heard": "Cuando llegó la hora",
+"spec": {
+"src": "commons,europeana",
+"at": "Lo hubo, por",
+"photo": "calle de Alcalá Madrid 1930s"
+}
+},
+{
+"n": 357,
+"t": 1744.85,
+"d": 1.2,
+"unit": 49,
+"heard": "hora de juzgar todas esas",
+"spec": {
+"at": "Cuando llegó la",
+"photo": "acta electoral 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 358,
+"t": 1746.05,
+"d": 6.04,
+"unit": 49,
+"heard": "actas, ¿quién era el juez? ¿Y cómo juzgó?",
+"spec": {
+"photo": "acta electoral 1936",
+"src": "commons,europeana",
+"at": "actas, ¿quién era"
+}
+},
+{
+"n": 359,
+"t": 1752.09,
+"d": 6.11,
+"unit": 50,
+"heard": "",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true,
+"tr": "black"
+}
+},
+{
+"n": 360,
+"t": 1758.2,
+"d": 6.11,
+"unit": 50,
+"heard": "",
+"spec": {
+"photo": "Congreso de los Diputados 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 361,
+"t": 1764.31,
+"d": 6.11,
+"unit": 50,
+"heard": "",
+"spec": {
+"photo": "Cortes 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 362,
+"t": 1770.42,
+"d": 6.11,
+"unit": 50,
+"heard": "",
+"spec": {
+"src": "commons,europeana",
+"photo": "Gran Vía Madrid 1930s"
+}
+},
+{
+"n": 363,
+"t": 1776.53,
+"d": 6.11,
+"unit": 50,
+"heard": "",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true
+}
+},
+{
+"n": 364,
+"t": 1782.64,
+"d": 6.11,
+"unit": 50,
+"heard": "",
+"spec": {
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 365,
+"t": 1788.75,
+"d": 6.11,
+"unit": 50,
+"heard": "",
+"spec": {
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 366,
+"t": 1794.86,
+"d": 6.11,
+"unit": 50,
+"heard": "",
+"spec": {
+"photo": "mitin 1936 España",
+"src": "commons,europeana"
+}
+},
+{
+"n": 367,
+"t": 1800.98,
+"d": 6.11,
+"unit": 50,
+"heard": "",
+"spec": {
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 368,
+"t": 1807.09,
+"d": 9.44,
+"unit": 51,
+"heard": "Y mientras tanto, a principios de marzo, se celebran las segundas vueltas en las circunscripciones donde nadie había alcanzado el cuarenta por ciento.",
+"spec": {
+"photo": "elecciones segunda vuelta marzo 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 369,
+"t": 1816.53,
+"d": 4.48,
+"unit": 51,
+"heard": "Esta vez, con el nuevo Gobierno ya instalado, con los nuevos",
+"spec": {
+"at": "Esta vez",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 370,
+"t": 1821.01,
+"d": 4.22,
+"unit": 51,
+"heard": "nuevos gobernadores en sus despachos, y con muchos ayuntamientos en manos del",
+"spec": {
+"src": "commons,europeana",
+"at": "gobernadores en sus",
+"photo": "Gobierno Civil edificio antiguo"
+}
+},
+{
+"n": 371,
+"t": 1825.23,
+"d": 4.42,
+"unit": 51,
+"heard": "del Frente Popular. Las derechas denuncian coacciones.",
+"spec": {
+"photo": "ayuntamiento 1936 Frente Popular",
+"src": "commons,europeana",
+"at": "Frente Popular"
+}
+},
+{
+"n": 372,
+"t": 1829.65,
+"d": 4.08,
+"unit": 51,
+"heard": "El Frente Popular las niega. Y los escaños que salen de esas segundas",
+"spec": {
+"src": "commons,europeana",
+"at": "El Frente Popular",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 373,
+"t": 1833.73,
+"d": 4.08,
+"unit": 51,
+"heard": "segundas vueltas engordan un poco más la mayoría.",
+"spec": {
+"photo": "Congreso de los Diputados 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 374,
+"t": 1837.81,
+"d": 6.41,
+"unit": 51,
+"heard": "Pero el gran escenario de esta historia todavía estaba por abrirse.",
+"spec": {
+"photo": "cola votantes 1936",
+"src": "commons,europeana",
+"at": "Pero el gran"
+}
+},
+{
+"n": 375,
+"t": 1844.22,
+"d": 9.62,
+"unit": 53,
+"heard": "Capítulo cinco. La Comisión de Actas. Marzo de mil novecientos treinta y seis. Las nuevas",
+"spec": {
+"card": {
+"type": "title",
+"title": "La Comisión de Actas",
+"sub": "Capítulo 5"
+},
+"tr": null
+}
+},
+{
+"n": 376,
+"t": 1853.84,
+"d": 2.02,
+"unit": 54,
+"heard": "nuevas Cortes se reúnen en el palacio del",
+"spec": {
+"photo": "Cortes 1936 sesión",
+"src": "commons,europeana",
+"at": "Cortes se"
+}
+},
+{
+"n": 377,
+"t": 1855.86,
+"d": 2.49,
+"unit": 54,
+"heard": "del Congreso, en la carrera de San Jerónimo.",
+"spec": {
+"photo": "Congreso de los Diputados fachada 1930s",
+"src": "commons,europeana",
+"lt": [
+"Congreso de los Diputados",
+"marzo de 1936"
+],
+"at": "Congreso, en"
+}
+},
+{
+"n": 378,
+"t": 1858.35,
+"d": 2.49,
+"unit": 54,
+"heard": "Y su primera tarea es revisar las",
+"spec": {
+"video": "Madrid Congress building"
+}
+},
+{
+"n": 379,
+"t": 1860.84,
+"d": 5.9,
+"unit": 54,
+"heard": "las actas. Es lo que manda el reglamento: antes de que los diputados tomen posesión, una",
+"spec": {
+"src": "commons,europeana",
+"at": "actas",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 380,
+"t": 1866.74,
+"d": 9.3,
+"unit": 54,
+"heard": "una comisión elegida por la propia Cámara examina las protestas y decide qué actas son válidas y cuáles no. Es decir: los",
+"spec": {
+"photo": "Comisión de Actas 1936",
+"src": "commons,europeana",
+"at": "comisión elegida"
+}
+},
+{
+"n": 381,
+"t": 1876.04,
+"d": 5.7,
+"unit": 54,
+"heard": "los diputados ya proclamados deciden sobre la elección de sus adversarios.",
+"spec": {
+"src": "commons,europeana",
+"at": "diputados ya proclamados",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 382,
+"t": 1881.74,
+"d": 5.26,
+"unit": 54,
+"heard": "Y la mayoría de esa comisión la tiene el Frente Popular.",
+"spec": {
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana",
+"at": "Y la mayoría"
+}
+},
+{
+"n": 383,
+"t": 1887.0,
+"d": 5.02,
+"unit": 55,
+"heard": "Las sesiones son durísimas. Se discuten actas provincia por provincia,",
+"spec": {
+"photo": "Cortes 1936 diputados",
+"src": "commons,europeana"
+}
+},
+{
+"n": 384,
+"t": 1892.02,
+"d": 3.16,
+"unit": 55,
+"heard": "hasta altas horas de la madrugada. Los",
+"spec": {
+"at": "hasta altas horas",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 385,
+"t": 1895.18,
+"d": 5.28,
+"unit": 55,
+"heard": "Los diputados de la derecha presentan actas notariales, testimonios, denuncias.",
+"spec": {
+"src": "commons,europeana",
+"at": "diputados de la",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 386,
+"t": 1900.46,
+"d": 2.64,
+"unit": 55,
+"heard": "Los del Frente Popular presentan las suyas.",
+"spec": {
+"src": "commons,europeana",
+"at": "Los del Frente",
+"photo": "manifestación Madrid 1936"
+}
+},
+{
+"n": 387,
+"t": 1903.1,
+"d": 2.64,
+"unit": 55,
+"heard": "España entera las sigue a través de la",
+"spec": {
+"card": {
+"type": "list",
+"header": "Lo que decidió la Comisión",
+"items": [
+[
+"Granada",
+"anulada · había ganado la derecha"
+],
+[
+"Cuenca",
+"anulada · había ganado la derecha"
+],
+[
+"Salamanca",
+"escaños retirados a la derecha"
+],
+[
+"A Coruña · Cáceres",
+"validadas · favorables al Frente Popular"
+]
+]
+}
+}
+},
+{
+"n": 388,
+"t": 1905.74,
+"d": 4.6,
+"unit": 55,
+"heard": "de la prensa. Y cada periódico ve una elección distinta.",
+"spec": {
+"src": "commons,europeana",
+"at": "prensa",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 389,
+"t": 1910.34,
+"d": 6.7,
+"unit": 55,
+"heard": "Y las decisiones caen. Las elecciones de Granada, donde había ganado la derecha,",
+"spec": {
+"src": "commons,europeana",
+"at": "Y las decisiones",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 390,
+"t": 1917.04,
+"d": 2.38,
+"unit": 55,
+"heard": "se anulan por completo. Las de",
+"spec": {
+"at": "se anulan por",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 391,
+"t": 1919.42,
+"d": 6.18,
+"unit": 55,
+"heard": "de Cuenca, donde también había ganado la derecha, se anulan por completo. En",
+"spec": {
+"photo": "Cuenca casas colgadas antigua",
+"src": "commons,europeana",
+"at": "Cuenca, donde",
+"lt": [
+"Cuenca",
+"hoy"
+]
+}
+},
+{
+"n": 392,
+"t": 1925.6,
+"d": 8.14,
+"unit": 55,
+"heard": "Salamanca, la provincia de Gil-Robles, se quitan escaños a la derecha y se entregan al Frente Popular. Mientras tanto, las",
+"spec": {
+"photo": "Salamanca 1930s",
+"src": "commons,europeana",
+"at": "Salamanca, la"
+}
+},
+{
+"n": 393,
+"t": 1933.74,
+"d": 7.27,
+"unit": 55,
+"heard": "las actas discutidas de A Coruña y de Cáceres, favorables al Frente Popular, se validan. Para",
+"spec": {
+"photo": "papeleta electoral 1936",
+"src": "commons,europeana",
+"at": "actas discutidas de"
+}
+},
+{
+"n": 394,
+"t": 1941.01,
+"d": 4.71,
+"unit": 56,
+"heard": "Para el Frente Popular, la anulación de Granada era de justicia. Su",
+"spec": {
+"photo": "El Socialista 1936 periódico",
+"src": "commons,europeana",
+"at": "el Frente"
+}
+},
+{
+"n": 395,
+"t": 1945.72,
+"d": 6.55,
+"unit": 56,
+"heard": "Su periódico, El Socialista, lo explicaba así en marzo de mil novecientos treinta y seis. «Han",
+"spec": {
+"src": "commons,europeana",
+"at": "periódico, El Socialista",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 396,
+"t": 1952.27,
+"d": 16.24,
+"unit": 57,
+"heard": "«Han sido tales los desmanes, atropellos, robo de actas, suplantaciones de sufragios, que la Cámara por unanimidad ha de considerar que por decoro ciudadano las actas de Granada tienen que ser anuladas.» Para la derecha,",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Han sido tales los desmanes, atropellos, robo de actas, suplantaciones de sufragios, que la Cámara por unanimidad ha de considerar que por decoro ciudadano las actas de Granada tienen que ser anuladas.",
+"attrib": "El Socialista · marzo de 1936"
+},
+"at": "sido tales"
+}
+},
+{
+"n": 397,
+"t": 1968.51,
+"d": 6.36,
+"unit": 58,
+"heard": "el problema era otro: la vara de medir. El diario católico El Debate contaba,",
+"spec": {
+"photo": "El Debate periódico 1936",
+"src": "commons,europeana",
+"at": "el problema"
+}
+},
+{
+"n": 398,
+"t": 1974.87,
+"d": 2.5,
+"unit": 58,
+"heard": "el tres de abril, cómo las actas de",
+"spec": {
+"at": "el tres de",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 399,
+"t": 1977.37,
+"d": 5.48,
+"unit": 58,
+"heard": "de Orense, las de Calvo Sotelo, se aprobaban a las seis menos cuarto de la mañana.",
+"spec": {
+"photo": "Orense 1930s",
+"src": "commons,europeana",
+"at": "Orense, las"
+}
+},
+{
+"n": 400,
+"t": 1982.85,
+"d": 3.8,
+"unit": 58,
+"heard": "Contra ellas, el diputado Ángel Galarza había esgrimido treinta y",
+"spec": {
+"at": "Contra ellas",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 401,
+"t": 1986.65,
+"d": 11.98,
+"unit": 58,
+"heard": "treinta y una actas notariales. No prosperaron. Y el periódico recogía la queja de un diputado de la derecha que comparaba ese caso con el de Cuenca. «Con",
+"spec": {
+"src": "commons,europeana",
+"at": "actas notariales",
+"photo": "papeleta electoral 1936"
+}
+},
+{
+"n": 402,
+"t": 1998.63,
+"d": 4.87,
+"unit": 59,
+"heard": "«Con muchas menos actas se han anulado las elecciones de Cuenca.»",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Con muchas menos actas se han anulado las elecciones de Cuenca.",
+"attrib": "El Debate · 3 de abril de 1936"
+},
+"at": "muchas menos"
+}
+},
+{
+"n": 403,
+"t": 2003.49,
+"d": 8.1,
+"unit": 60,
+"heard": "Dos periódicos. Dos verdades. Y una misma comisión decidiendo cuál de ellas valía.",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "El Socialista",
+"lines": [
+"Granada: robo de actas",
+"Hay que anular"
+]
+},
+"right": {
+"title": "El Debate",
+"lines": [
+"Cuenca anulada con menos",
+"Orense: aprobada al alba"
+]
+},
+"strike": false
+}
+}
+},
+{
+"n": 404,
+"t": 2011.6,
+"d": 3.98,
+"unit": 60,
+"heard": "Ese es el problema de fondo. No que hubiera irregularidades,",
+"spec": {
+"photo": "Madrid 1935 fotografía calle",
+"src": "commons,europeana",
+"at": "Ese es el"
+}
+},
+{
+"n": 405,
+"t": 2015.58,
+"d": 2.56,
+"unit": 60,
+"heard": "que las hubo en las dos direcciones.",
+"spec": {
+"at": "que las hubo",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 406,
+"t": 2018.13,
+"d": 8.41,
+"unit": 60,
+"heard": "Sino que nadie sabía con qué criterio se castigaban. Y que quien decidía era, a la vez, juez y parte.",
+"spec": {
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana",
+"at": "Sino que nadie"
+}
+},
+{
+"n": 407,
+"t": 2026.55,
+"d": 6.44,
+"unit": 61,
+"heard": "¿Fue la Comisión un tribunal imparcial? Sus críticos más duros admiten que no lo fue.",
+"spec": {
+"photo": "José María Gil-Robles 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 408,
+"t": 2032.99,
+"d": 5.08,
+"unit": 61,
+"heard": "Pero añaden algo importante: ninguna lo había sido.",
+"spec": {
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana",
+"at": "Pero añaden algo"
+}
+},
+{
+"n": 409,
+"t": 2038.07,
+"d": 2.35,
+"unit": 61,
+"heard": "Aquellas comisiones siempre eran partidistas,",
+"spec": {
+"photo": "Cortes 1936 sesión",
+"src": "commons,europeana",
+"at": "Aquellas comisiones siempre"
+}
+},
+{
+"n": 410,
+"t": 2040.42,
+"d": 2.35,
+"unit": 61,
+"heard": "en todas las legislaturas,",
+"spec": {
+"photo": "diputados derecha 1936 Cortes",
+"src": "commons,europeana"
+}
+},
+{
+"n": 411,
+"t": 2042.77,
+"d": 2.04,
+"unit": 61,
+"heard": "gobernara quien gobernara.",
+"spec": {
+"at": "gobernara quien gobernara",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 412,
+"t": 2044.81,
+"d": 7.46,
+"unit": 61,
+"heard": "Y recuerdan otro dato. La derecha, en protesta, abandonó la Comisión y llegó a retirarse de la Cámara.",
+"spec": {
+"src": "commons,europeana",
+"at": "Y recuerdan otro",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 413,
+"t": 2052.27,
+"d": 4.18,
+"unit": 61,
+"heard": "El historiador Martín Ramos lo califica de irresponsabilidad política.",
+"spec": {
+"src": "commons,europeana",
+"at": "El historiador Martín",
+"photo": "cola votantes 1936"
+}
+},
+{
+"n": 414,
+"t": 2056.45,
+"d": 2.31,
+"unit": 61,
+"heard": "Y al marcharse, dejó",
+"spec": {
+"src": "commons,europeana",
+"at": "Y al marcharse",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 415,
+"t": 2058.76,
+"d": 2.31,
+"unit": 61,
+"heard": "el campo libre.",
+"spec": {
+"photo": "Niceto Alcalá-Zamora 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 416,
+"t": 2061.07,
+"d": 3.66,
+"unit": 61,
+"heard": "Pero hay un testigo que no era ni de un bando ni de otro.",
+"spec": {
+"photo": "Madrid 1936 calle",
+"src": "commons,europeana",
+"at": "Pero hay un"
+}
+},
+{
+"n": 417,
+"t": 2064.73,
+"d": 3.92,
+"unit": 61,
+"heard": "Un hombre que lo vio todo desde el lugar más alto del Estado.",
+"spec": {
+"at": "Un hombre que",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 418,
+"t": 2068.65,
+"d": 4.98,
+"unit": 61,
+"heard": "Y que, en privado, estaba alarmado. Niceto",
+"spec": {
+"at": "Y que",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 419,
+"t": 2073.63,
+"d": 3.45,
+"unit": 62,
+"heard": "Alcalá-Zamora, presidente de la República, sigue de cerca",
+"spec": {
+"card": {
+"type": "ficha",
+"name": "Niceto Alcalá-Zamora",
+"role": "Presidente de la República · 1931-1936"
+},
+"at": "Alcalá-Zamora, presidente"
+}
+},
+{
+"n": 420,
+"t": 2077.08,
+"d": 3.45,
+"unit": 62,
+"heard": "cerca la revisión de las actas. Y llega a advertir a",
+"spec": {
+"photo": "Niceto Alcalá-Zamora",
+"src": "commons,europeana",
+"lt": [
+"Niceto Alcalá-Zamora",
+"Presidente de la República",
+"centro"
+]
+}
+},
+{
+"n": 421,
+"t": 2080.54,
+"d": 5.08,
+"unit": 62,
+"heard": "a Azaña de que, si se expulsa de la Cámara a los grandes líderes de la oposición,",
+"spec": {
+"photo": "Manuel Azaña 1936",
+"src": "commons,europeana",
+"at": "Azaña de que"
+}
+},
+{
+"n": 422,
+"t": 2085.62,
+"d": 3.26,
+"unit": 62,
+"heard": "se habrá destruido el propio sistema. Según",
+"spec": {
+"at": "se habrá destruido",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 423,
+"t": 2088.88,
+"d": 4.46,
+"unit": 62,
+"heard": "Álvarez Tardío y Villa, su aviso a Azaña fue este.",
+"spec": {
+"src": "commons,europeana",
+"at": "Álvarez Tardío y",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 424,
+"t": 2093.34,
+"d": 4.34,
+"unit": 63,
+"heard": "«Habrá suprimido usted el régimen parlamentario.» Y",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Habrá suprimido usted el régimen parlamentario.",
+"attrib": "Niceto Alcalá-Zamora a Manuel Azaña · marzo de 1936, según Álvarez Tardío y Villa"
+},
+"at": "Habrá suprimido"
+}
+},
+{
+"n": 425,
+"t": 2097.68,
+"d": 6.06,
+"unit": 64,
+"heard": "Y Azaña escuchó. Las actas de Gil-Robles, en Salamanca, y de José",
+"spec": {
+"photo": "Manuel Azaña 1936",
+"src": "commons,europeana",
+"lt": [
+"Manuel Azaña",
+"Izquierda Republicana · Frente Popular",
+"izquierda"
+],
+"at": "Azaña escuchó"
+}
+},
+{
+"n": 426,
+"t": 2103.74,
+"d": 1.31,
+"unit": 64,
+"heard": "de José Calvo Sotelo, el",
+"spec": {
+"photo": "José Calvo Sotelo",
+"src": "commons,europeana",
+"lt": [
+"José Calvo Sotelo",
+"Líder monárquico",
+"derecha"
+],
+"at": "Calvo Sotelo"
+}
+},
+{
+"n": 427,
+"t": 2105.05,
+"d": 1.31,
+"unit": 64,
+"heard": "el líder monárquico, en",
+"spec": {
+"card": {
+"type": "ficha",
+"name": "José Calvo Sotelo",
+"role": "Líder de Renovación Española · Orense"
+}
+}
+},
+{
+"n": 428,
+"t": 2106.36,
+"d": 7.44,
+"unit": 64,
+"heard": "Orense, se salvaron. Los dos hombres más odiados por la izquierda conservaron su escaño.",
+"spec": {
+"photo": "Orense 1930s",
+"src": "commons,europeana",
+"at": "Orense, se"
+}
+},
+{
+"n": 429,
+"t": 2113.8,
+"d": 4.54,
+"unit": 64,
+"heard": "Los autores lo atribuyen en parte a la intervención de Azaña.",
+"spec": {
+"at": "Los autores lo",
+"photo": "Manuel Azaña 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 430,
+"t": 2118.34,
+"d": 3.68,
+"unit": 64,
+"heard": "Pero las anulaciones no tenían vuelta atrás. En",
+"spec": {
+"src": "commons,europeana",
+"at": "Pero las anulaciones",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 431,
+"t": 2122.02,
+"d": 5.76,
+"unit": 64,
+"heard": "En Granada y en Cuenca había que votar de nuevo. Y esta vez, el Gobierno, los",
+"spec": {
+"photo": "Granada 1930s",
+"src": "commons,europeana",
+"at": "Granada y en"
+}
+},
+{
+"n": 432,
+"t": 2127.78,
+"d": 5.58,
+"unit": 64,
+"heard": "los gobernadores y los ayuntamientos ya eran del Frente Popular.",
+"spec": {
+"src": "commons,europeana",
+"at": "gobernadores y los",
+"photo": "Gobierno Civil edificio antiguo"
+}
+},
+{
+"n": 433,
+"t": 2133.36,
+"d": 6.5,
+"unit": 65,
+"heard": "",
+"spec": {
+"video": "Cuenca Spain"
+}
+},
+{
+"n": 434,
+"t": 2139.86,
+"d": 6.5,
+"unit": 65,
+"heard": "",
+"spec": {
+"photo": "Cuenca 1930s fotografía",
+"src": "commons,europeana",
+"lt": [
+"Cuenca",
+"hoy"
+]
+}
+},
+{
+"n": 435,
+"t": 2146.36,
+"d": 6.5,
+"unit": 65,
+"heard": "",
+"spec": {
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 436,
+"t": 2152.86,
+"d": 12.04,
+"unit": 65,
+"heard": "Tres de mayo de mil novecientos treinta y seis. Se repiten las elecciones en Granada y en",
+"spec": {
+"photo": "Madrid 1936 noche",
+"src": "commons,europeana"
+}
+},
+{
+"n": 437,
+"t": 2164.9,
+"d": 11.36,
+"unit": 66,
+"heard": "en Cuenca. En Granada, la derecha, que denuncia no tener garantías, se retira. El Frente Popular se lleva los trece escaños. Trece de trece. En",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "Cuenca y Granada",
+"keys": [
+[
+-10,
+35,
+4,
+44.5
+],
+[
+-5,
+36.5,
+-1,
+40.6
+]
+],
+"points": [
+{
+"name": "Cuenca",
+"lon": -2.13,
+"lat": 40.07,
+"at": 0.35,
+"pulse": 1,
+"big": 1
+},
+{
+"name": "Granada",
+"lon": -3.6,
+"lat": 37.18,
+"at": 0.55,
+"pulse": 1,
+"big": 1
+}
+]
+},
+"at": "Cuenca. En"
+}
+},
+{
+"n": 438,
+"t": 2176.26,
+"d": 1.2,
+"unit": 66,
+"heard": "En Cuenca, la derecha",
+"spec": {
+"src": "commons,europeana",
+"at": "Cuenca",
+"photo": "Cuenca casas colgadas antigua",
+"lt": [
+"Cuenca",
+"hoy"
+]
+}
+},
+{
+"n": 439,
+"t": 2177.46,
+"d": 1.2,
+"unit": 66,
+"heard": "intenta algo insólito.",
+"spec": {
+"photo": "Cuenca 1930s fotografía",
+"src": "commons,europeana",
+"lt": [
+"Cuenca",
+"hoy"
+]
+}
+},
+{
+"n": 440,
+"t": 2178.66,
+"d": 1.2,
+"unit": 66,
+"heard": "En su",
+"spec": {
+"at": "se retira",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 441,
+"t": 2179.86,
+"d": 1.2,
+"unit": 66,
+"heard": "su candidatura incluye",
+"spec": {
+"at": "El Frente Popular",
+"photo": "Cuenca casas colgadas antigua",
+"src": "commons,europeana"
+}
+},
+{
+"n": 442,
+"t": 2181.06,
+"d": 1.2,
+"unit": 66,
+"heard": "a José Antonio Primo de",
+"spec": {
+"card": {
+"type": "counter",
+"to": 13,
+"label": "de trece escaños para el Frente Popular en Granada"
+},
+"at": "trece escaños"
+}
+},
+{
+"n": 443,
+"t": 2182.26,
+"d": 1.2,
+"unit": 66,
+"heard": "de Rivera, el líder",
+"spec": {
+"at": "En su candidatura",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 444,
+"t": 2183.46,
+"d": 1.2,
+"unit": 66,
+"heard": "líder de Falange, que estaba",
+"spec": {
+"photo": "José Antonio Primo de Rivera",
+"src": "commons,europeana",
+"lt": [
+"José Antonio Primo de Rivera",
+"Fundador de Falange",
+"derecha"
+],
+"at": "Primo de Rivera"
+}
+},
+{
+"n": 445,
+"t": 2184.66,
+"d": 1.2,
+"unit": 66,
+"heard": "que estaba en la cárcel. Y",
+"spec": {
+"card": {
+"type": "ficha",
+"name": "José Antonio Primo de Rivera",
+"role": "Candidato en Cuenca · desde la cárcel"
+}
+}
+},
+{
+"n": 446,
+"t": 2185.86,
+"d": 5.54,
+"unit": 66,
+"heard": "durante unos días, figura también el nombre del general Francisco Franco.",
+"spec": {
+"photo": "Falange Española 1936",
+"src": "commons,europeana",
+"at": "Falange, que estaba"
+}
+},
+{
+"n": 447,
+"t": 2191.4,
+"d": 10.18,
+"unit": 66,
+"heard": "Franco acaba retirándose, y la candidatura de José Antonio no prospera. El Frente Popular también gana en Cuenca.",
+"spec": {
+"photo": "Francisco Franco 1936",
+"src": "commons,europeana",
+"at": "Franco acaba retirándose"
+}
+},
+{
+"n": 448,
+"t": 2201.58,
+"d": 7.51,
+"unit": 66,
+"heard": "Dos provincias que en febrero habían votado a la derecha pasan, en mayo, a la izquierda.",
+"spec": {
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana",
+"at": "Dos provincias que"
+}
+},
+{
+"n": 449,
+"t": 2209.09,
+"d": 7.34,
+"unit": 67,
+"heard": "Sus críticos dan otra lectura. Para Martín Ramos, el resultado de mayo no prueba un fraude de febrero.",
+"spec": {
+"photo": "Francisco Franco 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 450,
+"t": 2216.43,
+"d": 4.82,
+"unit": 67,
+"heard": "Prueba, más bien, que una parte de la derecha ya había decidido otra cosa:",
+"spec": {
+"src": "commons,europeana",
+"at": "Prueba, más bien",
+"photo": "manifestación Madrid 1936"
+}
+},
+{
+"n": 451,
+"t": 2221.26,
+"d": 3.42,
+"unit": 67,
+"heard": "la conspiración. Una candidatura con un preso",
+"spec": {
+"at": "la conspiración",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 452,
+"t": 2224.67,
+"d": 6.68,
+"unit": 67,
+"heard": "falangista y un general que poco después se sublevaría no era una candidatura para ganar unas elecciones.",
+"spec": {
+"photo": "Falange Española 1936",
+"src": "commons,europeana",
+"at": "falangista y un"
+}
+},
+{
+"n": 453,
+"t": 2231.36,
+"d": 4.16,
+"unit": 67,
+"heard": "Las dos lecturas pueden ser ciertas a la vez.",
+"spec": {
+"src": "commons,europeana",
+"at": "Las dos lecturas",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 454,
+"t": 2235.51,
+"d": 2.6,
+"unit": 67,
+"heard": "Lo que nadie discute es el número final. Tras",
+"spec": {
+"src": "commons,europeana",
+"at": "Lo que nadie",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 455,
+"t": 2238.11,
+"d": 2.6,
+"unit": 67,
+"heard": "Tras la proclamación de las juntas,",
+"spec": {
+"photo": "Cortes 1936 diputados",
+"src": "commons,europeana"
+}
+},
+{
+"n": 456,
+"t": 2240.71,
+"d": 3.2,
+"unit": 67,
+"heard": "las decisiones de la Comisión y la repetición de mayo, el",
+"spec": {
+"at": "las decisiones de",
+"photo": "Comisión de Actas 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 457,
+"t": 2243.91,
+"d": 1.32,
+"unit": 67,
+"heard": "el Frente Popular llega a",
+"spec": {
+"card": {
+"type": "counter",
+"to": 286,
+"label": "diputados del Frente Popular tras mayo"
+},
+"at": "Frente Popular"
+}
+},
+{
+"n": 458,
+"t": 2245.23,
+"d": 2.76,
+"unit": 67,
+"heard": "a doscientos ochenta y seis diputados.",
+"spec": {
+"card": {
+"type": "seats",
+"title": "Las Cortes de 1936",
+"total": 473,
+"majority": 237,
+"parties": [
+{
+"name": "Frente Popular",
+"seats": 286,
+"color": [
+190,
+58,
+48
+]
+},
+{
+"name": "Resto de la Cámara",
+"seats": 187,
+"color": [
+64,
+104,
+168
+]
+}
+]
+},
+"at": "doscientos ochenta y seis"
+}
+},
+{
+"n": 459,
+"t": 2247.99,
+"d": 3.94,
+"unit": 67,
+"heard": "Una mayoría absoluta holgadísima. Más de cincuenta",
+"spec": {
+"src": "commons,europeana",
+"at": "Una mayoría absoluta",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 460,
+"t": 2251.93,
+"d": 4.12,
+"unit": 67,
+"heard": "escaños por encima de los que, según Álvarez Tardío y Villa,",
+"spec": {
+"photo": "acta electoral 1936",
+"src": "commons,europeana",
+"at": "escaños por encima"
+}
+},
+{
+"n": 461,
+"t": 2256.05,
+"d": 4.41,
+"unit": 67,
+"heard": "le habrían correspondido sin las manipulaciones.",
+"spec": {
+"at": "le habrían correspondido",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 462,
+"t": 2260.46,
+"d": 6.33,
+"unit": 68,
+"heard": "",
+"spec": {
+"photo": "Congreso de los Diputados 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 463,
+"t": 2266.79,
+"d": 6.33,
+"unit": 68,
+"heard": "",
+"spec": {
+"photo": "Granada 1930s fotografía",
+"src": "commons,europeana"
+}
+},
+{
+"n": 464,
+"t": 2273.13,
+"d": 6.33,
+"unit": 68,
+"heard": "",
+"spec": {
+"photo": "Cuenca 1930s fotografía",
+"src": "commons,europeana",
+"lt": [
+"Cuenca",
+"hoy"
+]
+}
+},
+{
+"n": 465,
+"t": 2279.46,
+"d": 6.33,
+"unit": 68,
+"heard": "",
+"spec": {
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 466,
+"t": 2285.79,
+"d": 6.33,
+"unit": 68,
+"heard": "",
+"spec": {
+"photo": "mapa provincias España 1930",
+"src": "commons,europeana"
+}
+},
+{
+"n": 467,
+"t": 2292.13,
+"d": 6.33,
+"unit": 68,
+"heard": "",
+"spec": {
+"photo": "Puerta del Sol Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 468,
+"t": 2298.46,
+"d": 5.88,
+"unit": 70,
+"heard": "Recapitulemos. En A Coruña, según Álvarez Tardío y Villa,",
+"spec": {
+"card": {
+"type": "recap",
+"title": "Hasta aquí",
+"items": [
+[
+"A Coruña",
+"de 12-5 a 13-4 (según Álvarez Tardío y Villa)"
+],
+[
+"Comisión de Actas",
+"anula Granada y Cuenca; valida A Coruña y Cáceres"
+],
+[
+"Mayo",
+"el Frente Popular gana la repetición"
+]
+]
+},
+"at": "Recapitulemos"
+}
+},
+{
+"n": 469,
+"t": 2304.34,
+"d": 7.64,
+"unit": 70,
+"heard": "un resultado de doce a cinco a favor de la derecha se convirtió en trece a cuatro a favor del Frente Popular. En las",
+"spec": {
+"at": "un resultado de",
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 470,
+"t": 2311.98,
+"d": 6.98,
+"unit": 70,
+"heard": "las Cortes, una Comisión de Actas con mayoría del Frente Popular anuló las elecciones de Granada y de Cuenca,",
+"spec": {
+"src": "commons,europeana",
+"at": "Cortes, una Comisión",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 471,
+"t": 2318.96,
+"d": 7.76,
+"unit": 70,
+"heard": "donde había ganado la derecha, y validó las actas discutidas que favorecían a la izquierda. En mayo se repitió",
+"spec": {
+"at": "donde había ganado",
+"photo": "mitin 1936 España",
+"src": "commons,europeana"
+}
+},
+{
+"n": 472,
+"t": 2326.72,
+"d": 4.86,
+"unit": 70,
+"heard": "la votación en esas dos provincias, y las ganó el Frente Popular.",
+"spec": {
+"src": "commons,europeana",
+"at": "votación en esas",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 473,
+"t": 2331.58,
+"d": 5.56,
+"unit": 70,
+"heard": "Resultado final: doscientos ochenta y seis diputados.",
+"spec": {
+"card": {
+"type": "seats",
+"title": "Las Cortes de 1936",
+"total": 473,
+"majority": 237,
+"parties": [
+{
+"name": "Frente Popular",
+"seats": 286,
+"color": [
+190,
+58,
+48
+]
+},
+{
+"name": "Resto de la Cámara",
+"seats": 187,
+"color": [
+64,
+104,
+168
+]
+}
+]
+},
+"at": "Resultado final"
+}
+},
+{
+"n": 474,
+"t": 2337.14,
+"d": 8.94,
+"unit": 71,
+"heard": "Capítulo seis. El testigo que desapareció. Pero esta historia tiene un último giro.",
+"spec": {
+"card": {
+"type": "title",
+"title": "El testigo que desapareció",
+"sub": "Capítulo 6"
+},
+"tr": null
+}
+},
+{
+"n": 475,
+"t": 2346.08,
+"d": 4.76,
+"unit": 72,
+"heard": "Y su protagonista es el presidente que convocó aquellas elecciones.",
+"spec": {
+"src": "commons,europeana",
+"at": "Y su protagonista",
+"photo": "Gran Vía Madrid 1930s"
+}
+},
+{
+"n": 476,
+"t": 2350.84,
+"d": 3.6,
+"unit": 72,
+"heard": "El siete de abril de mil novecientos treinta y seis, las nuevas",
+"spec": {
+"at": "El siete de",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 477,
+"t": 2354.44,
+"d": 1.2,
+"unit": 72,
+"heard": "nuevas Cortes destituyen",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Las Cortes declaran innecesaria la disolución que les había dado la vida.",
+"attrib": "Destitución de Alcalá-Zamora · 7 de abril de 1936"
+},
+"at": "Cortes destituyen"
+}
+},
+{
+"n": 478,
+"t": 2355.64,
+"d": 1.2,
+"unit": 72,
+"heard": "a Niceto Alcalá-Zamora.",
+"spec": {
+"src": "commons,europeana",
+"at": "Cortes destituyen a",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 479,
+"t": 2356.84,
+"d": 4.62,
+"unit": 72,
+"heard": "El argumento es casi irónico. La Constitución permitía",
+"spec": {
+"photo": "Niceto Alcalá-Zamora 1936",
+"src": "commons,europeana",
+"at": "Alcalá-Zamora. El"
+}
+},
+{
+"n": 480,
+"t": 2361.46,
+"d": 5.26,
+"unit": 72,
+"heard": "destituir al presidente si disolvía las Cortes dos veces sin necesidad.",
+"spec": {
+"photo": "Alcalá-Zamora destitución 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 481,
+"t": 2366.72,
+"d": 7.64,
+"unit": 72,
+"heard": "Y la mayoría decidió que la segunda disolución, la que había permitido celebrar las elecciones que la propia mayoría acababa de ganar,",
+"spec": {
+"src": "commons,europeana",
+"at": "Y la mayoría",
+"photo": "manifestación Madrid 1936"
+}
+},
+{
+"n": 482,
+"t": 2374.36,
+"d": 4.0,
+"unit": 72,
+"heard": "había sido innecesaria. Doscientos treinta y ocho",
+"spec": {
+"at": "había sido innecesaria",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 483,
+"t": 2378.36,
+"d": 5.62,
+"unit": 72,
+"heard": "y ocho votos a favor. Cinco en contra. Alcalá-Zamora sale del",
+"spec": {
+"photo": "cola votantes 1936",
+"src": "commons,europeana",
+"at": "votos a favor"
+}
+},
+{
+"n": 484,
+"t": 2383.98,
+"d": 10.2,
+"unit": 72,
+"heard": "del palacio. Poco después, sale de España. Cuando estalla la guerra, en julio, está de viaje fuera del país.",
+"spec": {
+"src": "commons,europeana",
+"lt": [
+"Madrid",
+"7 de abril de 1936"
+],
+"at": "palacio. Poco",
+"photo": "Niceto Alcalá-Zamora 1936"
+}
+},
+{
+"n": 485,
+"t": 2394.18,
+"d": 3.14,
+"unit": 73,
+"heard": "Y en enero de mil novecientos treinta y siete publica en",
+"spec": {
+"at": "Y en enero",
+"photo": "prensa de la época 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 486,
+"t": 2397.32,
+"d": 1.2,
+"unit": 73,
+"heard": "en un periódico suizo, el",
+"spec": {
+"src": "commons,europeana",
+"at": "periódico suizo, el",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 487,
+"t": 2398.52,
+"d": 1.2,
+"unit": 73,
+"heard": "el Journal de Genève,",
+"spec": {
+"photo": "Ginebra 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 488,
+"t": 2399.72,
+"d": 4.62,
+"unit": 73,
+"heard": "Genève, varios artículos en los que cuenta su versión de aquellos meses.",
+"spec": {
+"photo": "Journal de Genève",
+"src": "commons,europeana",
+"at": "Journal de"
+}
+},
+{
+"n": 489,
+"t": 2404.34,
+"d": 4.45,
+"unit": 73,
+"heard": "Uno de sus párrafos sobre las elecciones dice así. «El",
+"spec": {
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana",
+"at": "Uno de sus"
+}
+},
+{
+"n": 490,
+"t": 2408.79,
+"d": 18.84,
+"unit": 74,
+"heard": "«El Frente Popular, sin esperar el fin del recuento del escrutinio y la proclamación de los resultados, desencadenó en la calle la ofensiva del desorden, reclamó el poder por medio de la violencia.» Pero lo más importante de Alcalá-Zamora no estaba en los periódicos. Estaba en sus",
+"spec": {
+"card": {
+"type": "quote",
+"text": "El Frente Popular, sin esperar el fin del recuento del escrutinio y la proclamación de los resultados, desencadenó en la calle la ofensiva del desorden, reclamó el poder por medio de la violencia.",
+"attrib": "Niceto Alcalá-Zamora · Journal de Genève, enero de 1937"
+},
+"at": "Frente Popular"
+}
+},
+{
+"n": 491,
+"t": 2427.63,
+"d": 6.4,
+"unit": 75,
+"heard": "sus diarios. Durante los primeros meses de mil novecientos treinta y seis,",
+"spec": {
+"card": {
+"type": "timeline",
+"header": "Los diarios de Alcalá-Zamora",
+"events": [
+[
+"1936",
+"Los escribe"
+],
+[
+"1937",
+"Desaparecen"
+],
+[
+"2008",
+"Recuperados"
+],
+[
+"2011",
+"Publicados"
+]
+]
+},
+"at": "diarios. Durante"
+}
+},
+{
+"n": 492,
+"t": 2434.03,
+"d": 4.1,
+"unit": 75,
+"heard": "el presidente anotó cada día lo que veía y lo que pensaba.",
+"spec": {
+"at": "el presidente anotó",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 493,
+"t": 2438.13,
+"d": 5.66,
+"unit": 75,
+"heard": "Antes de salir de Madrid, en julio de mil novecientos treinta y seis, su familia guarda esos",
+"spec": {
+"at": "Antes de salir",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 494,
+"t": 2443.79,
+"d": 5.4,
+"unit": 75,
+"heard": "esos papeles en dos cajas de seguridad del Crédit Lyonnais, en Madrid.",
+"spec": {
+"src": "commons,europeana",
+"at": "papeles en dos",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 495,
+"t": 2449.19,
+"d": 3.6,
+"unit": 75,
+"heard": "El trece de febrero de mil novecientos treinta y siete,",
+"spec": {
+"src": "commons,europeana",
+"at": "El trece de",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 496,
+"t": 2452.79,
+"d": 2.46,
+"unit": 75,
+"heard": "agentes de policía se los llevan.",
+"spec": {
+"at": "agentes de policía",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 497,
+"t": 2455.25,
+"d": 5.72,
+"unit": 75,
+"heard": "Y durante setenta años, nadie sabe dónde están. En dos mil ocho,",
+"spec": {
+"src": "commons,europeana",
+"at": "Y durante setenta",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 498,
+"t": 2460.97,
+"d": 5.32,
+"unit": 75,
+"heard": "un hombre llama a un programa de radio diciendo que tiene los papeles del presidente. La",
+"spec": {
+"at": "un hombre llama",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 499,
+"t": 2466.29,
+"d": 4.84,
+"unit": 75,
+"heard": "La Guardia Civil le tiende una trampa en Valencia y los recupera.",
+"spec": {
+"photo": "Guardia Civil 2008",
+"src": "commons,europeana",
+"at": "Guardia Civil",
+"lt": [
+"Guardia Civil",
+"2008"
+]
+}
+},
+{
+"n": 500,
+"t": 2471.13,
+"d": 5.86,
+"unit": 75,
+"heard": "Se publican en dos mil once, con un título que ya lo dice todo: Asalto a",
+"spec": {
+"at": "Se publican en",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 501,
+"t": 2476.99,
+"d": 2.55,
+"unit": 75,
+"heard": "a la República.",
+"spec": {
+"photo": "Proclamación Segunda República 1931",
+"src": "commons,europeana",
+"at": "República"
+}
+},
+{
+"n": 502,
+"t": 2479.55,
+"d": 6.22,
+"unit": 76,
+"heard": "En esos papeles, y en lo que escribió después, el presidente denuncia las irregularidades que,",
+"spec": {
+"photo": "Niceto Alcalá-Zamora 1931",
+"src": "commons,europeana"
+}
+},
+{
+"n": 503,
+"t": 2485.77,
+"d": 6.44,
+"unit": 76,
+"heard": "a su juicio, cometió la nueva mayoría al examinar las actas y en la segunda vuelta.",
+"spec": {
+"at": "a su juicio",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 504,
+"t": 2492.21,
+"d": 4.86,
+"unit": 76,
+"heard": "Para él, la mayoría que salió de la Comisión no era la que habían decidido las",
+"spec": {
+"at": "Para él",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 505,
+"t": 2497.07,
+"d": 2.85,
+"unit": 76,
+"heard": "las urnas. Es el testimonio",
+"spec": {
+"src": "commons,europeana",
+"at": "urnas",
+"photo": "cola votantes 1936"
+}
+},
+{
+"n": 506,
+"t": 2499.92,
+"d": 2.85,
+"unit": 76,
+"heard": "el testimonio de un hombre que no era de derechas,",
+"spec": {
+"photo": "Niceto Alcalá-Zamora 1931",
+"src": "commons,europeana"
+}
+},
+{
+"n": 507,
+"t": 2502.77,
+"d": 4.98,
+"unit": 76,
+"heard": "que había traído la República y que no tenía ya nada que ganar.",
+"spec": {
+"at": "que había traído",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 508,
+"t": 2507.75,
+"d": 4.68,
+"unit": 76,
+"heard": "Pero también es el testimonio de un hombre resentido, al que esas mismas",
+"spec": {
+"at": "Pero también es",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 509,
+"t": 2512.43,
+"d": 9.78,
+"unit": 76,
+"heard": "Cortes acababan de expulsar de la presidencia. Un buen investigador no puede ignorar ni una cosa ni la otra.",
+"spec": {
+"photo": "Cortes 1936 sesión",
+"src": "commons,europeana",
+"at": "Cortes acababan de"
+}
+},
+{
+"n": 510,
+"t": 2522.2,
+"d": 5.75,
+"unit": 77,
+"heard": "",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true,
+"tr": "black"
+}
+},
+{
+"n": 511,
+"t": 2527.95,
+"d": 5.75,
+"unit": 77,
+"heard": "",
+"spec": {
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 512,
+"t": 2533.7,
+"d": 5.75,
+"unit": 77,
+"heard": "",
+"spec": {
+"photo": "Cortes 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 513,
+"t": 2539.45,
+"d": 5.75,
+"unit": 77,
+"heard": "",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true
+}
+},
+{
+"n": 514,
+"t": 2545.2,
+"d": 5.75,
+"unit": 77,
+"heard": "",
+"spec": {
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 515,
+"t": 2550.95,
+"d": 5.75,
+"unit": 77,
+"heard": "",
+"spec": {
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 516,
+"t": 2556.7,
+"d": 5.75,
+"unit": 77,
+"heard": "",
+"spec": {
+"photo": "mitin 1936 España",
+"src": "commons,europeana"
+}
+},
+{
+"n": 517,
+"t": 2562.45,
+"d": 5.75,
+"unit": 77,
+"heard": "",
+"spec": {
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 518,
+"t": 2568.2,
+"d": 8.54,
+"unit": 79,
+"heard": "Capítulo siete. Siete indicios. Recapitulemos. Pongamos todas las",
+"spec": {
+"card": {
+"type": "title",
+"title": "Siete indicios",
+"sub": "Capítulo 7"
+},
+"tr": null
+}
+},
+{
+"n": 519,
+"t": 2576.74,
+"d": 3.21,
+"unit": 80,
+"heard": "piezas en fila. Uno. El",
+"spec": {
+"card": {
+"type": "list",
+"header": "Las piezas",
+"items": [
+[
+"1",
+"Votación limpia, resultado ajustado"
+],
+[
+"2",
+"Dimisión antes del recuento"
+],
+[
+"3",
+"Nuevos gobernadores, actas en custodia"
+]
+]
+},
+"at": "piezas en"
+}
+},
+{
+"n": 520,
+"t": 2579.95,
+"d": 3.21,
+"unit": 80,
+"heard": "El dieciséis de febrero, la votación fue en general limpia,",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Frente Popular",
+"lines": [
+"≈ 4.650.000 votos",
+"47,2 %"
+]
+},
+"right": {
+"title": "Derechas",
+"lines": [
+"≈ 4.500.000 votos",
+"45,7 %"
+]
+},
+"strike": false
+}
+}
+},
+{
+"n": 521,
+"t": 2583.16,
+"d": 5.96,
+"unit": 80,
+"heard": "y el resultado en votos fue muy ajustado. Según las cifras recogidas por el hispanista",
+"spec": {
+"at": "y el resultado",
+"photo": "urna electoral Segunda República",
+"src": "commons,europeana"
+}
+},
+{
+"n": 522,
+"t": 2589.12,
+"d": 4.2,
+"unit": 80,
+"heard": "Stanley Payne, alrededor de cuatro millones seiscientos cincuenta mil",
+"spec": {
+"photo": "Stanley Payne",
+"src": "commons,europeana",
+"at": "Stanley Payne",
+"lt": [
+"Stanley G. Payne",
+"Historiador"
+]
+}
+},
+{
+"n": 523,
+"t": 2593.32,
+"d": 6.2,
+"unit": 80,
+"heard": "votos para el Frente Popular, y cuatro millones quinientos mil para las derechas.",
+"spec": {
+"src": "commons,europeana",
+"at": "votos para el",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 524,
+"t": 2599.52,
+"d": 5.2,
+"unit": 80,
+"heard": "Menos de dos puntos de diferencia. Dos. El presidente del",
+"spec": {
+"src": "commons,europeana",
+"at": "Menos de dos",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 525,
+"t": 2604.72,
+"d": 3.18,
+"unit": 80,
+"heard": "Gobierno dimitió antes de que terminara el recuento,",
+"spec": {
+"photo": "Gobierno Civil edificio antiguo",
+"src": "commons,europeana",
+"at": "Gobierno dimitió"
+}
+},
+{
+"n": 526,
+"t": 2607.9,
+"d": 2.9,
+"unit": 80,
+"heard": "con más de cien escaños todavía en el aire según unos,",
+"spec": {
+"at": "con más de",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 527,
+"t": 2610.8,
+"d": 3.78,
+"unit": 80,
+"heard": "o con la mayoría casi decidida según otros.",
+"spec": {
+"at": "o con la",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 528,
+"t": 2614.58,
+"d": 8.5,
+"unit": 80,
+"heard": "Tres. El nuevo Gobierno nombró gobernadores civiles en las horas en que las actas se custodiaban y se sumaban.",
+"spec": {
+"src": "commons,europeana",
+"at": "Tres",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 529,
+"t": 2623.08,
+"d": 12.54,
+"unit": 81,
+"heard": "Cuatro. En A Coruña, el resultado se dio la vuelta, y el propio presidente socialista de la Comisión de Actas calificó esas actas de absolutamente indefendibles. Cinco. En",
+"spec": {
+"card": {
+"type": "list",
+"header": "Las piezas",
+"items": [
+[
+"4",
+"A Coruña: «absolutamente indefendibles»"
+],
+[
+"5",
+"Cáceres: dos recuentos"
+],
+[
+"6",
+"Comisión: anula a unos, valida a otros"
+],
+[
+"7",
+"El presidente denuncia irregularidades"
+]
+]
+}
+}
+},
+{
+"n": 530,
+"t": 2635.62,
+"d": 3.17,
+"unit": 81,
+"heard": "En Cáceres hubo dos recuentos que no coincidían, y se proclamó",
+"spec": {
+"src": "commons,europeana",
+"at": "Cáceres hubo",
+"photo": "mapa provincias España 1930"
+}
+},
+{
+"n": 531,
+"t": 2638.79,
+"d": 3.17,
+"unit": 81,
+"heard": "y se proclamó el más favorable al Frente Popular.",
+"spec": {
+"photo": "Indalecio Prieto",
+"src": "commons,europeana"
+}
+},
+{
+"n": 532,
+"t": 2641.96,
+"d": 9.08,
+"unit": 81,
+"heard": "Seis. La Comisión de Actas anuló dos provincias enteras ganadas por la derecha y validó las actas discutidas favorables a la izquierda.",
+"spec": {
+"src": "commons,europeana",
+"at": "Seis",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 533,
+"t": 2651.04,
+"d": 4.38,
+"unit": 81,
+"heard": "Y en las repeticiones de mayo, la izquierda ganó ambas.",
+"spec": {
+"src": "commons,europeana",
+"at": "Y en las",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 534,
+"t": 2655.42,
+"d": 3.3,
+"unit": 81,
+"heard": "Y siete. El presidente de",
+"spec": {
+"src": "commons,europeana",
+"at": "Y siete",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 535,
+"t": 2658.72,
+"d": 3.3,
+"unit": 81,
+"heard": "la República, que había convocado aquellas elecciones,",
+"spec": {
+"photo": "Niceto Alcalá-Zamora",
+"src": "commons,europeana"
+}
+},
+{
+"n": 536,
+"t": 2662.02,
+"d": 6.1,
+"unit": 81,
+"heard": "denunció que la nueva mayoría había cometido irregularidades al revisar las actas.",
+"spec": {
+"at": "denunció que la",
+"photo": "acta electoral 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 537,
+"t": 2668.12,
+"d": 3.62,
+"unit": 81,
+"heard": "Y fue destituido por esa misma mayoría.",
+"spec": {
+"photo": "Madrid 1935 fotografía calle",
+"src": "commons,europeana",
+"at": "Y fue destituido"
+}
+},
+{
+"n": 538,
+"t": 2671.74,
+"d": 5.92,
+"unit": 81,
+"heard": "Un indicio es una sospecha. Dos, una coincidencia.",
+"spec": {
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana",
+"at": "Un indicio es"
+}
+},
+{
+"n": 539,
+"t": 2677.66,
+"d": 7.75,
+"unit": 81,
+"heard": "Siete indicios que apuntan en la misma dirección empiezan a parecerse mucho a una prueba.",
+"spec": {
+"src": "commons,europeana",
+"at": "Siete indicios que",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 540,
+"t": 2685.41,
+"d": 3.44,
+"unit": 82,
+"heard": "¿Y si se corrigen todas esas irregularidades?",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Álvarez Tardío y Villa",
+"lines": [
+"Frente Popular: 226-230",
+"Derechas: 223-227",
+"Nadie llega a 237"
+]
+},
+"right": {
+"title": "González Calleja y Sánchez Pérez",
+"lines": [
+"Frente Popular: ~249",
+"aun corrigiendo todo",
+"Mayoría absoluta"
+]
+},
+"strike": false
+}
+}
+},
+{
+"n": 541,
+"t": 2688.85,
+"d": 6.5,
+"unit": 82,
+"heard": "¿Quién habría ganado? Aquí, los historiadores vuelven a separarse.",
+"spec": {
+"src": "commons,europeana",
+"at": "Quién habría ganado",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 542,
+"t": 2695.35,
+"d": 4.82,
+"unit": 82,
+"heard": "Álvarez Tardío y Villa calculan que, sin las manipulaciones del recuento,",
+"spec": {
+"src": "commons,europeana",
+"at": "Álvarez Tardío y",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 543,
+"t": 2700.17,
+"d": 5.8,
+"unit": 82,
+"heard": "el Frente Popular habría tenido entre doscientos veintiséis y doscientos treinta diputados.",
+"spec": {
+"at": "el Frente Popular",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 544,
+"t": 2705.97,
+"d": 5.38,
+"unit": 82,
+"heard": "Y las derechas, entre doscientos veintitrés y doscientos veintisiete.",
+"spec": {
+"photo": "Segunda República España fotografía",
+"src": "commons,europeana",
+"at": "Y las derechas"
+}
+},
+{
+"n": 545,
+"t": 2711.35,
+"d": 3.5,
+"unit": 82,
+"heard": "Un empate técnico. Nadie habría alcanzado la",
+"spec": {
+"at": "Un empate técnico",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 546,
+"t": 2714.85,
+"d": 9.34,
+"unit": 82,
+"heard": "la mayoría absoluta. González Calleja y Sánchez Pérez rehacen las cuentas con los propios datos del libro y llegan a otra cifra:",
+"spec": {
+"card": {
+"type": "counter",
+"to": 237,
+"label": "la línea de la mayoría absoluta"
+},
+"at": "mayoría absoluta"
+}
+},
+{
+"n": 547,
+"t": 2724.19,
+"d": 9.17,
+"unit": 82,
+"heard": "incluso corrigiendo todas las irregularidades denunciadas, el Frente Popular habría conservado unos doscientos cuarenta y nueve diputados.",
+"spec": {
+"at": "incluso corrigiendo todas",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 548,
+"t": 2733.36,
+"d": 9.56,
+"unit": 82,
+"heard": "Por encima de la mayoría. Dos cálculos, dos conclusiones. Pero fíjense en lo que comparten.",
+"spec": {
+"photo": "Madrid 1936 calle",
+"src": "commons,europeana",
+"at": "Por encima de"
+}
+},
+{
+"n": 549,
+"t": 2742.91,
+"d": 4.3,
+"unit": 83,
+"heard": "Ninguno de los dos discute que el Frente Popular acabó con doscientos ochenta y seis",
+"spec": {
+"at": "Ninguno de los",
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 550,
+"t": 2747.21,
+"d": 3.4,
+"unit": 83,
+"heard": "seis escaños. Ninguno discute que una parte de esos",
+"spec": {
+"card": {
+"type": "counter",
+"to": 37,
+"label": "escaños entre una mayoría ajustada y la mayoría final"
+},
+"at": "escaños. Ninguno"
+}
+},
+{
+"n": 551,
+"t": 2750.61,
+"d": 1.85,
+"unit": 83,
+"heard": "esos escaños se decidió después",
+"spec": {
+"src": "commons,europeana",
+"at": "escaños",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 552,
+"t": 2752.46,
+"d": 1.85,
+"unit": 83,
+"heard": "del dieciséis de febrero,",
+"spec": {
+"photo": "Cortes 1936 diputados",
+"src": "commons,europeana"
+}
+},
+{
+"n": 553,
+"t": 2754.31,
+"d": 5.3,
+"unit": 83,
+"heard": "en juntas provinciales, en una comisión parlamentaria y en dos elecciones repetidas.",
+"spec": {
+"at": "en juntas provinciales",
+"photo": "acta electoral 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 554,
+"t": 2759.61,
+"d": 6.12,
+"unit": 83,
+"heard": "Y la diferencia entre doscientos cuarenta y nueve y doscientos ochenta y seis son treinta y siete",
+"spec": {
+"at": "Y la diferencia",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 555,
+"t": 2765.73,
+"d": 8.87,
+"unit": 83,
+"heard": "y siete diputados. Treinta y siete escaños que no salieron de las urnas del dieciséis de febrero.",
+"spec": {
+"src": "commons,europeana",
+"at": "diputados",
+"photo": "Congreso de los Diputados 1930s"
+}
+},
+{
+"n": 556,
+"t": 2774.6,
+"d": 5.71,
+"unit": 84,
+"heard": "",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true,
+"tr": "black"
+}
+},
+{
+"n": 557,
+"t": 2780.32,
+"d": 5.71,
+"unit": 84,
+"heard": "",
+"spec": {
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 558,
+"t": 2786.03,
+"d": 5.71,
+"unit": 84,
+"heard": "",
+"spec": {
+"photo": "Congreso de los Diputados 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 559,
+"t": 2791.74,
+"d": 5.71,
+"unit": 84,
+"heard": "",
+"spec": {
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 560,
+"t": 2797.46,
+"d": 5.71,
+"unit": 84,
+"heard": "",
+"spec": {
+"photo": "Madrid 1936 noche",
+"src": "commons,europeana"
+}
+},
+{
+"n": 561,
+"t": 2803.17,
+"d": 5.71,
+"unit": 84,
+"heard": "",
+"spec": {
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 562,
+"t": 2808.89,
+"d": 5.71,
+"unit": 84,
+"heard": "",
+"spec": {
+"photo": "mapa provincias España 1930",
+"src": "commons,europeana"
+}
+},
+{
+"n": 563,
+"t": 2814.6,
+"d": 5.04,
+"unit": 86,
+"heard": "Capítulo ocho. Veredicto.",
+"spec": {
+"card": {
+"type": "title",
+"title": "Veredicto",
+"sub": "Capítulo 8"
+},
+"tr": null
+}
+},
+{
+"n": 564,
+"t": 2819.64,
+"d": 5.4,
+"unit": 87,
+"heard": "Entonces, ¿hubo pucherazo en mil novecientos treinta y seis?",
+"spec": {
+"photo": "urna electoral Segunda República",
+"src": "commons,europeana"
+}
+},
+{
+"n": 565,
+"t": 2825.04,
+"d": 4.86,
+"unit": 87,
+"heard": "Las pruebas que hoy conocemos permiten decir algo con bastante seguridad.",
+"spec": {
+"src": "commons,europeana",
+"at": "Las pruebas que",
+"photo": "prensa de la época 1936"
+}
+},
+{
+"n": 566,
+"t": 2829.9,
+"d": 3.64,
+"unit": 87,
+"heard": "La mayoría absoluta del Frente Popular no salió tal cual de las",
+"spec": {
+"at": "La mayoría absoluta",
+"photo": "urna electoral Segunda República",
+"src": "commons,europeana"
+}
+},
+{
+"n": 567,
+"t": 2833.54,
+"d": 2.82,
+"unit": 87,
+"heard": "las urnas. Se completó después, en",
+"spec": {
+"photo": "cola votantes 1936",
+"src": "commons,europeana",
+"at": "urnas"
+}
+},
+{
+"n": 568,
+"t": 2836.36,
+"d": 2.82,
+"unit": 87,
+"heard": "un recuento hecho bajo un Gobierno recién nombrado,",
+"spec": {
+"photo": "Manuel Azaña 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 569,
+"t": 2839.18,
+"d": 5.3,
+"unit": 87,
+"heard": "y en una revisión de actas en la que los ganadores juzgaron a los perdedores.",
+"spec": {
+"at": "y en una",
+"photo": "acta electoral 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 570,
+"t": 2844.48,
+"d": 3.84,
+"unit": 87,
+"heard": "Si a eso se le llama pucherazo, lo hubo.",
+"spec": {
+"src": "commons,europeana",
+"at": "Si a eso",
+"photo": "calle de Alcalá Madrid 1930s"
+}
+},
+{
+"n": 571,
+"t": 2848.32,
+"d": 7.08,
+"unit": 87,
+"heard": "Lo que sigue abierto es otra pregunta: si sin esas maniobras el Frente Popular habría gobernado igualmente,",
+"spec": {
+"src": "commons,europeana",
+"at": "Lo que sigue",
+"photo": "Gran Vía Madrid 1930s"
+}
+},
+{
+"n": 572,
+"t": 2855.4,
+"d": 5.74,
+"unit": 87,
+"heard": "con una mayoría más corta, o si España habría tenido un Parlamento sin mayoría. Los",
+"spec": {
+"at": "con una mayoría",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 573,
+"t": 2861.14,
+"d": 10.12,
+"unit": 87,
+"heard": "Los números de unos y otros dejan esa puerta entornada. Los críticos de la tesis del fraude añaden un argumento de peso. Para José Luis",
+"spec": {
+"src": "commons,europeana",
+"at": "números de unos",
+"photo": "Elecciones generales España 1936"
+}
+},
+{
+"n": 574,
+"t": 2871.26,
+"d": 1.56,
+"unit": 88,
+"heard": "Luis Martín Ramos, las",
+"spec": {
+"src": "commons,europeana",
+"lt": [
+"José Luis Martín Ramos",
+"Historiador"
+],
+"at": "Martín Ramos",
+"photo": "Comisión de Actas 1936"
+}
+},
+{
+"n": 575,
+"t": 2872.82,
+"d": 6.34,
+"unit": 88,
+"heard": "las Cortes que se reunieron en marzo eran legítimas, y la mayoría del Frente Popular era real,",
+"spec": {
+"photo": "Cortes 1936 sesión",
+"src": "commons,europeana",
+"at": "Cortes que"
+}
+},
+{
+"n": 576,
+"t": 2879.16,
+"d": 4.7,
+"unit": 88,
+"heard": "porque ya existía antes de que la Comisión de Actas empezara a trabajar.",
+"spec": {
+"at": "porque ya existía",
+"photo": "Comisión de Actas 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 577,
+"t": 2883.86,
+"d": 6.48,
+"unit": 88,
+"heard": "Las anulaciones, dicen, solo ampliaron una victoria que ya estaba decidida.",
+"spec": {
+"src": "commons,europeana",
+"at": "Las anulaciones, dicen",
+"photo": "urna electoral Segunda República"
+}
+},
+{
+"n": 578,
+"t": 2890.34,
+"d": 2.68,
+"unit": 88,
+"heard": "Es un argumento serio. Pero deja",
+"spec": {
+"src": "commons,europeana",
+"at": "Es un argumento",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 579,
+"t": 2893.02,
+"d": 2.68,
+"unit": 88,
+"heard": "deja una pregunta sin responder.",
+"spec": {
+"photo": "Niceto Alcalá-Zamora 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 580,
+"t": 2895.7,
+"d": 7.76,
+"unit": 88,
+"heard": "Si la mayoría ya estaba asegurada, ¿por qué hizo falta anular provincias enteras de los adversarios, validar",
+"spec": {
+"at": "Si la mayoría",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 581,
+"t": 2903.46,
+"d": 3.86,
+"unit": 88,
+"heard": "actas que el propio presidente de la Comisión llamaba indefendibles,",
+"spec": {
+"photo": "papeleta electoral 1936",
+"src": "commons,europeana",
+"at": "actas que el"
+}
+},
+{
+"n": 582,
+"t": 2907.32,
+"d": 10.25,
+"unit": 88,
+"heard": "y destituir después al presidente de la República? Y hay algo más que este documental no puede callar. Tres años después,",
+"spec": {
+"at": "y destituir después",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 583,
+"t": 2917.57,
+"d": 2.86,
+"unit": 89,
+"heard": "en mil novecientos treinta y nueve, el régimen de",
+"spec": {
+"at": "en mil novecientos",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 584,
+"t": 2920.43,
+"d": 1.2,
+"unit": 89,
+"heard": "de Franco publicó un dictamen",
+"spec": {
+"photo": "Francisco Franco 1939",
+"src": "commons,europeana",
+"lt": [
+"Francisco Franco",
+"General del Ejército"
+],
+"at": "Franco publicó"
+}
+},
+{
+"n": 585,
+"t": 2921.63,
+"d": 1.2,
+"unit": 89,
+"heard": "dictamen oficial sobre la",
+"spec": {
+"photo": "Francisco Franco 1936",
+"src": "commons,europeana",
+"at": "Franco publicó un"
+}
+},
+{
+"n": 586,
+"t": 2922.83,
+"d": 3.98,
+"unit": 89,
+"heard": "la ilegitimidad de los poderes de mil novecientos treinta y seis.",
+"spec": {
+"photo": "Dictamen ilegitimidad poderes 1936",
+"src": "commons,europeana",
+"at": "dictamen oficial"
+}
+},
+{
+"n": 587,
+"t": 2926.81,
+"d": 3.24,
+"unit": 89,
+"heard": "Usó el fraude electoral como argumento para justificar la",
+"spec": {
+"at": "Usó el fraude",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 588,
+"t": 2930.05,
+"d": 3.41,
+"unit": 89,
+"heard": "la sublevación de julio. Y lo hizo con cifras que después",
+"spec": {
+"photo": "militares españoles 1936",
+"src": "commons,europeana",
+"at": "sublevación de julio"
+}
+},
+{
+"n": 589,
+"t": 2933.46,
+"d": 3.41,
+"unit": 89,
+"heard": "los historiadores han tenido que corregir. Un",
+"spec": {
+"video": "Spanish Civil War newsreel",
+"old": true
+}
+},
+{
+"n": 590,
+"t": 2936.87,
+"d": 3.52,
+"unit": 89,
+"heard": "recuento manipulado puede deslegitimar una mayoría.",
+"spec": {
+"src": "commons,europeana",
+"at": "recuento manipulado puede",
+"photo": "papeleta electoral 1936"
+}
+},
+{
+"n": 591,
+"t": 2940.39,
+"d": 2.48,
+"unit": 89,
+"heard": "No legitima un golpe de Estado, ni una",
+"spec": {
+"at": "No legitima un",
+"video": "Spanish Civil War newsreel",
+"old": true
+}
+},
+{
+"n": 592,
+"t": 2942.87,
+"d": 2.94,
+"unit": 89,
+"heard": "una guerra que costó cientos de miles de vidas.",
+"spec": {
+"photo": "Guerra Civil Española 1936",
+"src": "commons,europeana",
+"at": "guerra que"
+}
+},
+{
+"n": 593,
+"t": 2945.81,
+"d": 7.08,
+"unit": 89,
+"heard": "Las dos cosas pueden ser verdad a la vez: que la mayoría de mil novecientos treinta y seis se fabricó en parte en los despachos,",
+"spec": {
+"src": "commons,europeana",
+"at": "Las dos cosas",
+"photo": "mitin 1936 España"
+}
+},
+{
+"n": 594,
+"t": 2952.89,
+"d": 5.1,
+"unit": 89,
+"heard": "y que lo que vino después no tuvo justificación.",
+"spec": {
+"at": "y que lo",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 595,
+"t": 2957.99,
+"d": 5.71,
+"unit": 90,
+"heard": "",
+"spec": {
+"video": "Spanish Civil War newsreel",
+"old": true,
+"tr": "black"
+}
+},
+{
+"n": 596,
+"t": 2963.7,
+"d": 5.71,
+"unit": 90,
+"heard": "",
+"spec": {
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 597,
+"t": 2969.41,
+"d": 5.71,
+"unit": 90,
+"heard": "",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true
+}
+},
+{
+"n": 598,
+"t": 2975.13,
+"d": 5.71,
+"unit": 90,
+"heard": "",
+"spec": {
+"photo": "Puerta del Sol Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 599,
+"t": 2980.84,
+"d": 5.71,
+"unit": 90,
+"heard": "",
+"spec": {
+"video": "Spain 1936 newsreel",
+"old": true
+}
+},
+{
+"n": 600,
+"t": 2986.56,
+"d": 5.71,
+"unit": 90,
+"heard": "",
+"spec": {
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 601,
+"t": 2992.27,
+"d": 12.75,
+"unit": 90,
+"heard": "El clima, en esa primavera, se envenena cada semana. El once de abril, el líder comunista",
+"spec": {
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 602,
+"t": 3005.03,
+"d": 3.58,
+"unit": 91,
+"heard": "José Díaz justifica la dureza de la izquierda con un argumento que",
+"spec": {
+"photo": "José Díaz PCE 1936",
+"src": "commons,europeana",
+"at": "José Díaz"
+}
+},
+{
+"n": 603,
+"t": 3008.6,
+"d": 5.56,
+"unit": 91,
+"heard": "que muestra hasta qué punto el miedo era mutuo. «Si triunfan las derechas,",
+"spec": {
+"photo": "mitin comunista Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 604,
+"t": 3014.16,
+"d": 8.14,
+"unit": 92,
+"heard": "a estas horas quince mil personas habrían sido asesinadas.» Y el dieciséis de junio, en el Congreso,",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Si triunfan las derechas, a estas horas quince mil personas habrían sido asesinadas.",
+"attrib": "José Díaz, secretario general del PCE · Madrid, 11 de abril de 1936"
+},
+"at": "estas horas"
+}
+},
+{
+"n": 605,
+"t": 3022.3,
+"d": 4.96,
+"unit": 93,
+"heard": "Gil-Robles vuelve sobre aquellas actas de febrero para acusar a la mayoría.",
+"spec": {
+"photo": "José María Gil-Robles 1936",
+"src": "commons,europeana",
+"lt": [
+"José María Gil-Robles",
+"Líder de la CEDA",
+"derecha"
+],
+"at": "Gil-Robles vuelve"
+}
+},
+{
+"n": 606,
+"t": 3027.26,
+"d": 1.92,
+"unit": 93,
+"heard": "Lo que dice ese día está en el",
+"spec": {
+"at": "Lo que dice",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 607,
+"t": 3029.18,
+"d": 5.18,
+"unit": 93,
+"heard": "el Diario de Sesiones. «Ya le disteis un golpe de muerte con el nacimiento de",
+"spec": {
+"photo": "Diario de Sesiones Cortes 1936",
+"src": "commons,europeana",
+"at": "Diario de"
+}
+},
+{
+"n": 608,
+"t": 3034.36,
+"d": 4.77,
+"unit": 94,
+"heard": "estas Cortes y la aprobación de determinadas actas.»",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Ya le disteis un golpe de muerte con el nacimiento de estas Cortes y la aprobación de determinadas actas.",
+"attrib": "José María Gil-Robles · Congreso, 16 de junio de 1936"
+},
+"at": "estas Cortes"
+}
+},
+{
+"n": 609,
+"t": 3039.13,
+"d": 4.74,
+"unit": 95,
+"heard": "Es la frase de un líder de la oposición, y hay que leerla como tal.",
+"spec": {
+"photo": "Cortes 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 610,
+"t": 3043.87,
+"d": 5.36,
+"unit": 95,
+"heard": "Pero resume lo que, para media España, había ocurrido aquella primavera.",
+"spec": {
+"photo": "Segunda República España fotografía",
+"src": "commons,europeana",
+"at": "Pero resume lo"
+}
+},
+{
+"n": 611,
+"t": 3049.23,
+"d": 5.98,
+"unit": 95,
+"heard": "Y lo que la otra media nunca aceptó. Mientras tanto, en los cuarteles, algunos",
+"spec": {
+"photo": "Madrid 1935 fotografía calle",
+"src": "commons,europeana",
+"at": "Y lo que"
+}
+},
+{
+"n": 612,
+"t": 3055.21,
+"d": 2.58,
+"unit": 95,
+"heard": "algunos generales ya habían dejado de discutir sobre",
+"spec": {
+"photo": "militares españoles 1936",
+"src": "commons,europeana",
+"at": "generales ya habían"
+}
+},
+{
+"n": 613,
+"t": 3057.79,
+"d": 3.52,
+"unit": 95,
+"heard": "sobre actas. Desde la primavera, el general Emilio",
+"spec": {
+"photo": "acta electoral 1936",
+"src": "commons,europeana",
+"at": "actas"
+}
+},
+{
+"n": 614,
+"t": 3061.31,
+"d": 1.57,
+"unit": 95,
+"heard": "Mola organizaba desde Pamplona",
+"spec": {
+"photo": "Emilio Mola",
+"src": "commons,europeana",
+"lt": [
+"Emilio Mola",
+"General · director de la conspiración"
+],
+"at": "Mola organizaba"
+}
+},
+{
+"n": 615,
+"t": 3062.88,
+"d": 1.57,
+"unit": 95,
+"heard": "una conspiración militar.",
+"spec": {
+"card": {
+"type": "ficha",
+"name": "Emilio Mola",
+"role": "Director de la conspiración militar · Pamplona"
+}
+}
+},
+{
+"n": 616,
+"t": 3064.45,
+"d": 4.72,
+"unit": 95,
+"heard": "Y en su primera instrucción reservada no hablaba de actas.",
+"spec": {
+"at": "Y en su",
+"photo": "acta electoral 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 617,
+"t": 3069.17,
+"d": 10.06,
+"unit": 95,
+"heard": "Escribía que la acción tendría que ser extremadamente violenta. Diecisiete de julio de mil novecientos treinta y seis.",
+"spec": {
+"src": "commons,europeana",
+"at": "Escribía que la",
+"photo": "manifestación Madrid 1936"
+}
+},
+{
+"n": 618,
+"t": 3079.22,
+"d": 3.04,
+"unit": 96,
+"heard": "Cinco meses después de aquella noche de febrero,",
+"spec": {
+"photo": "Madrid 1936 calle",
+"src": "commons,europeana",
+"at": "Cinco meses después"
+}
+},
+{
+"n": 619,
+"t": 3082.26,
+"d": 3.04,
+"unit": 96,
+"heard": "una parte del Ejército se levanta en Marruecos.",
+"spec": {
+"video": "Spanish Civil War newsreel",
+"old": true
+}
+},
+{
+"n": 620,
+"t": 3085.3,
+"d": 3.28,
+"unit": 96,
+"heard": "Al día siguiente, en toda España.",
+"spec": {
+"at": "Al día siguiente",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 621,
+"t": 3088.59,
+"d": 5.74,
+"unit": 96,
+"heard": "Santiago Casares Quiroga, el diputado de A Coruña, es el presidente del Gobierno. Manuel",
+"spec": {
+"photo": "Santiago Casares Quiroga 1936",
+"src": "commons,europeana",
+"at": "Santiago Casares"
+}
+},
+{
+"n": 622,
+"t": 3094.32,
+"d": 3.16,
+"unit": 96,
+"heard": "Manuel Azaña, el presidente de la República.",
+"spec": {
+"photo": "Manuel Azaña 1936",
+"src": "commons,europeana",
+"lt": [
+"Manuel Azaña",
+"Izquierda Republicana · Frente Popular",
+"izquierda"
+],
+"at": "Azaña, el"
+}
+},
+{
+"n": 623,
+"t": 3097.49,
+"d": 3.15,
+"unit": 96,
+"heard": "Alcalá-Zamora está fuera del país. Y Gil-Robles,",
+"spec": {
+"photo": "Niceto Alcalá-Zamora 1936",
+"src": "commons,europeana",
+"at": "Alcalá-Zamora está fuera"
+}
+},
+{
+"n": 624,
+"t": 3100.64,
+"d": 3.15,
+"unit": 96,
+"heard": "en Francia.",
+"spec": {
+"photo": "Guerra Civil Española 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 625,
+"t": 3103.78,
+"d": 2.12,
+"unit": 96,
+"heard": "Todos los protagonistas de esta",
+"spec": {
+"src": "commons,europeana",
+"at": "Todos los protagonistas",
+"photo": "manifestación Madrid 1936"
+}
+},
+{
+"n": 626,
+"t": 3105.9,
+"d": 2.12,
+"unit": 96,
+"heard": "esta historia estaban, de un modo u otro,",
+"spec": {
+"card": {
+"type": "timeline",
+"header": "De las urnas a la guerra",
+"events": [
+[
+"16 feb",
+"Votación"
+],
+[
+"19 feb",
+"Azaña Gobierno"
+],
+[
+"7 abr",
+"Cae Alcalá-Zamora"
+],
+[
+"3 may",
+"Repetición"
+],
+[
+"18 jul",
+"Sublevación"
+]
+]
+}
+}
+},
+{
+"n": 627,
+"t": 3108.03,
+"d": 4.6,
+"unit": 96,
+"heard": "otro, en aquella semana de febrero. Y ninguno de ellos supo,",
+"spec": {
+"at": "en aquella semana",
+"photo": "calle de Alcalá Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 628,
+"t": 3112.62,
+"d": 3.02,
+"unit": 96,
+"heard": "o quiso, cerrar lo que se había abierto con el",
+"spec": {
+"at": "o quiso",
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 629,
+"t": 3115.64,
+"d": 2.46,
+"unit": 96,
+"heard": "el recuento.",
+"spec": {
+"src": "commons,europeana",
+"at": "recuento",
+"photo": "acta electoral 1936"
+}
+},
+{
+"n": 630,
+"t": 3118.11,
+"d": 4.26,
+"unit": 97,
+"heard": "Noventa años después, las actas siguen ahí.",
+"spec": {
+"photo": "papeleta electoral 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 631,
+"t": 3122.37,
+"d": 4.14,
+"unit": 97,
+"heard": "En los archivos provinciales, en los boletines oficiales,",
+"spec": {
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana",
+"at": "En los archivos"
+}
+},
+{
+"n": 632,
+"t": 3126.51,
+"d": 7.18,
+"unit": 97,
+"heard": "en las carpetas de un grupo parlamentario y en los cuadernos de un presidente que alguien quiso hacer desaparecer.",
+"spec": {
+"at": "en las carpetas",
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+},
+{
+"n": 633,
+"t": 3133.69,
+"d": 2.64,
+"unit": 97,
+"heard": "Quizá nunca sepamos con exactitud cuántos",
+"spec": {
+"at": "Quizá nunca sepamos",
+"photo": "urna electoral Segunda República",
+"src": "commons,europeana"
+}
+},
+{
+"n": 634,
+"t": 3136.33,
+"d": 3.1,
+"unit": 97,
+"heard": "votos cambiaron de columna aquella semana.",
+"spec": {
+"src": "commons,europeana",
+"at": "votos cambiaron de",
+"photo": "cola votantes 1936"
+}
+},
+{
+"n": 635,
+"t": 3139.43,
+"d": 5.1,
+"unit": 97,
+"heard": "Pero sabemos dónde mirar. Y sabemos algo que entonces muchos olvidaron.",
+"spec": {
+"photo": "Cortes 1936 sesión",
+"src": "commons,europeana",
+"at": "Pero sabemos dónde"
+}
+},
+{
+"n": 636,
+"t": 3144.53,
+"d": 4.48,
+"unit": 97,
+"heard": "Que una democracia no muere solo cuando alguien saca los tanques a la",
+"spec": {
+"at": "Que una democracia",
+"photo": "disturbios Madrid febrero 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 637,
+"t": 3149.01,
+"d": 5.08,
+"unit": 97,
+"heard": "a la calle. A veces empieza a morir antes. En silencio.",
+"spec": {
+"photo": "disturbios Madrid 1936",
+"src": "commons,europeana",
+"at": "calle"
+}
+},
+{
+"n": 638,
+"t": 3154.09,
+"d": 4.76,
+"unit": 97,
+"heard": "En una mesa. Mientras alguien cuenta los votos.",
+"spec": {
+"at": "En una mesa",
+"photo": "Gran Vía Madrid 1930s",
+"src": "commons,europeana"
+}
+},
+{
+"n": 639,
+"t": 3158.84,
+"d": 4.93,
+"unit": 98,
+"heard": "«Reciben ustedes el poder con el tigre a la puerta.»",
+"spec": {
+"card": {
+"type": "title",
+"title": "El pucherazo del 36",
+"sub": "Reciben ustedes el poder con el tigre a la puerta"
+},
+"at": "Reciben ustedes"
+}
+},
+{
+"n": 640,
+"t": 3163.78,
+"d": 6.17,
+"unit": 99,
+"heard": "",
+"spec": {
+"photo": "urna electoral Segunda República",
+"src": "commons,europeana"
+}
+},
+{
+"n": 641,
+"t": 3169.94,
+"d": 6.17,
+"unit": 99,
+"heard": "",
+"spec": {
+"photo": "mitin 1936 España",
+"src": "commons,europeana"
+}
+},
+{
+"n": 642,
+"t": 3176.11,
+"d": 6.17,
+"unit": 99,
+"heard": "",
+"spec": {
+"photo": "manifestación Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 643,
+"t": 3182.28,
+"d": 6.17,
+"unit": 99,
+"heard": "",
+"spec": {
+"photo": "multitud Madrid 1936",
+"src": "commons,europeana"
+}
+},
+{
+"n": 644,
+"t": 3188.44,
+"d": 6.17,
+"unit": 99,
+"heard": "",
+"spec": {
+"photo": "Madrid 1936 noche",
+"src": "commons,europeana"
+}
+},
+{
+"n": 645,
+"t": 3194.61,
+"d": 6.17,
+"unit": 99,
+"heard": "",
+"spec": {
+"photo": "Congreso de los Diputados 1936 sesión",
+"src": "commons,europeana"
+}
+}
+]

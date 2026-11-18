@@ -1,0 +1,401 @@
+== piel: Crímenes históricos, misterios, conspiraciones, juicios, prensa antigua · etalonaje frio
+== 1/5 audio: colocando voces, música y efectos
+voz: 43.2 min, 5945 palabras narrador, total 53.3 min
+   alineación: 78 unidades (0 con whisper, resto en caché o proporcional)
+== 2/5 guion visual
+  aviso anclas muy juntas en t=25.3s: se retrasa "Madrid. Domingo"
+  aviso anclas muy juntas en t=414.1s: se retrasa "oficial dice"
+  aviso anclas muy juntas en t=850.3s: se retrasa "Frente Popular"
+  aviso anclas muy juntas en t=1115.1s: se retrasa "Azaña. Es"
+  aviso anclas muy juntas en t=1402.0s: se retrasa "entre la mesa"
+  aviso anclas muy juntas en t=1413.3s: se retrasa "Coruña. Es"
+  aviso anclas muy juntas en t=1708.0s: se retrasa "López Martínez"
+  aviso anclas muy juntas en t=1711.3s: se retrasa "lo que él"
+  aviso anclas muy juntas en t=1715.1s: se retrasa "y fraudes técnicos"
+  aviso anclas muy juntas en t=1718.4s: se retrasa "Pero no a"
+  aviso anclas muy juntas en t=1721.2s: se retrasa "A favor de"
+  aviso anclas muy juntas en t=1725.6s: se retrasa "coacciones en los"
+  aviso anclas muy juntas en t=1729.8s: se retrasa "Y la izquierda"
+  aviso anclas muy juntas en t=1735.5s: se retrasa "De modo que"
+  aviso anclas muy juntas en t=1739.2s: se retrasa "Lo hubo, por"
+  aviso anclas muy juntas en t=1743.9s: se retrasa "Cuando llegó la"
+  aviso anclas muy juntas en t=1746.0s: se retrasa "actas, ¿quién era"
+  aviso anclas muy juntas en t=2169.6s: se retrasa "se retira"
+  aviso anclas muy juntas en t=2170.9s: se retrasa "El Frente Popular"
+  aviso anclas muy juntas en t=2172.6s: se retrasa "trece escaños"
+  aviso anclas muy juntas en t=2179.5s: se retrasa "En su candidatura"
+  aviso anclas muy juntas en t=2181.7s: se retrasa "Primo de Rivera"
+  aviso anclas muy juntas en t=2183.7s: se retrasa "Falange, que estaba"
+  aviso anclas muy juntas en t=2354.4s: se retrasa "Cortes destituyen a"
+  aviso anclas muy juntas en t=2356.2s: se retrasa "Alcalá-Zamora. El"
+  aviso anclas muy juntas en t=2398.9s: se retrasa "Journal de"
+  aviso anclas muy juntas en t=2920.4s: se retrasa "Franco publicó un"
+  aviso anclas muy juntas en t=2921.4s: se retrasa "dictamen oficial"
+  aviso glosario: "actas notariales" cae en una tarjeta u otro glosario
+  sincronía: plano 39 t=194.5s: rótulo "Madrid" sin mención en ±2 s
+  sincronía: plano 47 t=228.9s: dura 14.4 s; añade un plano o una tarjeta
+  sincronía: plano 98 t=494.9s: dura 14.2 s; añade un plano o una tarjeta
+  sincronía: plano 121 t=610.4s: dura 11.4 s; añade un plano o una tarjeta
+  sincronía: plano 152 t=751.5s: rótulo "España" sin mención en ±2 s
+  sincronía: plano 183 t=905.9s: rótulo "Francisco Franco" sin mención en ±2 s
+  sincronía: plano 234 t=1144.6s: dura 14.9 s; añade un plano o una tarjeta
+  sincronía: plano 247 t=1203.7s: dura 10.3 s; añade un plano o una tarjeta
+  sincronía: plano 282 t=1402.7s: dura 10.3 s; añade un plano o una tarjeta
+  sincronía: plano 296 t=1458.6s: dura 14.3 s; añade un plano o una tarjeta
+  sincronía: plano 297 t=1472.9s: dura 11.3 s; añade un plano o una tarjeta
+  sincronía: plano 326 t=1604.1s: rótulo "Cáceres" sin mención en ±2 s
+  sincronía: plano 342 t=1688.6s: dura 17.4 s; añade un plano o una tarjeta
+  sincronía: plano 346 t=1731.6s: rótulo "Granada" sin mención en ±2 s
+  sincronía: plano 401 t=1986.6s: dura 12.0 s; añade un plano o una tarjeta
+  sincronía: plano 420 t=2077.1s: rótulo "Niceto Alcalá-Zamora" sin mención en ±2 s
+  sincronía: plano 434 t=2139.9s: rótulo "Cuenca" sin mención en ±2 s
+  sincronía: plano 436 t=2152.9s: dura 12.0 s; añade un plano o una tarjeta
+  sincronía: plano 447 t=2191.4s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 464 t=2273.1s: rótulo "Cuenca" sin mención en ±2 s
+  sincronía: plano 484 t=2384.0s: rótulo "Madrid" sin mención en ±2 s
+  sincronía: plano 484 t=2384.0s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 573 t=2861.1s: dura 10.1 s; añade un plano o una tarjeta
+  sincronía: plano 582 t=2907.3s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 601 t=2992.3s: dura 12.8 s; añade un plano o una tarjeta
+  sincronía: plano 605 t=3022.3s: rótulo "José María Gil-Robles" sin mención en ±2 s
+  sincronía: plano 617 t=3069.2s: dura 10.1 s; añade un plano o una tarjeta
+   646 planos
+== 3/5 buscando y descargando material
+  aviso repetición: "photo:Frente Popular 1936 cartel" en t=18s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Elecciones generales España 1936" en t=42s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=94s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Madrid 1936 calle" en t=104s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=251s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 sesión" en t=265s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Frente Popular 1936 cartel" en t=274s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Pacto Frente Popular 1936" en t=298s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=303s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Partido Comunista de España 1936" en t=322s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=374s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=430s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=435s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:papeleta electoral 1936" en t=457s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=473s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=517s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=525s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:papeleta electoral 1936" en t=537s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:CEDA A por los 300" en t=584s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=594s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=677s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=683s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=690s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:cola votantes 1936" en t=704s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:anarquistas 1936 manifestación" en t=720s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=724s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=728s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=733s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:presos Asturias 1934 cárcel" en t=735s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:votación elecciones 1936 colegio electoral" en t=751s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:mitin 1936 España" en t=756s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:cola votantes 1936" en t=759s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=764s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=778s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Madrid 1936 calle" en t=784s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=810s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=844s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Madrid 1936 celebración Frente Popular" en t=849s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Frente Popular manifestación febrero 1936" en t=851s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Barcelona 1936 elecciones" en t=852s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=859s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:presos Asturias 1934 cárcel" en t=884s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Ministerio de la Guerra Madrid 1930s" en t=909s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=932s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:disturbios Madrid 1936" en t=946s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Manuel Portela Valladares" en t=961s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=965s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Portela Valladares 1936" en t=982s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=1011s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=1026s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 sesión" en t=1029s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1046s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=1053s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=1064s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=1080s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:cola votantes 1936" en t=1084s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:Manuel Portela Valladares" en t=1094s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=1119s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=1124s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1139s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1145s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=1183s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:Diputación Permanente Cortes 1936" en t=1186s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=1251s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=1268s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:papeleta electoral 1936" en t=1273s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Gobierno Civil edificio antiguo" en t=1284s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:cola votantes 1936" en t=1300s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:papeleta electoral 1936" en t=1307s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:acta notarial 1936" en t=1312s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1322s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=1327s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:Elecciones generales España 1936" en t=1334s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:mesa electoral 1936 interventores" en t=1363s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1367s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=1384s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:acta notarial 1936" en t=1387s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=1390s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1402s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:A Coruña años 30" en t=1413s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=1418s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1432s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=1444s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=1455s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1459s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=1473s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Comisión de Actas 1936" en t=1489s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:papeleta electoral 1936" en t=1494s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:Comisión de Actas 1936" en t=1519s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=1523s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:papeleta electoral 1936" en t=1537s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=1544s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=1550s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=1556s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=1582s reutiliza un recurso (10.ª vez); añade candidatos
+  aviso repetición: "photo:mapa provincias España 1930" en t=1588s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:mapa provincias España 1930" en t=1604s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1608s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:Madrid 1936 calle" en t=1623s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=1632s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 sesión" en t=1640s reutiliza un recurso (10.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=1665s reutiliza un recurso (10.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=1689s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=1735s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=1736s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=1739s reutiliza un recurso (11.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=1740s reutiliza un recurso (11.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=1741s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=1742s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1745s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1746s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=1758s reutiliza un recurso (12.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 sesión" en t=1764s reutiliza un recurso (11.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=1783s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=1789s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=1801s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:elecciones segunda vuelta marzo 1936" en t=1807s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=1817s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:ayuntamiento 1936 Frente Popular" en t=1825s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=1830s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=1834s reutiliza un recurso (12.ª vez); añade candidatos
+  aviso repetición: "photo:cola votantes 1936" en t=1838s reutiliza un recurso (10.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 sesión" en t=1854s reutiliza un recurso (12.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados fachada 1930s" en t=1856s reutiliza un recurso (13.ª vez); añade candidatos
+  aviso repetición: "video:Madrid Congress building" en t=1858s reutiliza un recurso (14.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=1861s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:Comisión de Actas 1936" en t=1867s reutiliza un recurso (10.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=1876s reutiliza un recurso (13.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=1882s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 diputados" en t=1887s reutiliza un recurso (10.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=1892s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=1895s reutiliza un recurso (14.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=1900s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=1906s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=1910s reutiliza un recurso (10.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=1917s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:papeleta electoral 1936" en t=1934s reutiliza un recurso (10.ª vez); añade candidatos
+  aviso repetición: "photo:El Socialista 1936 periódico" en t=1941s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=1946s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:El Debate periódico 1936" en t=1969s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=1975s reutiliza un recurso (13.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=1983s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:papeleta electoral 1936" en t=1987s reutiliza un recurso (10.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2016s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2018s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=2033s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 sesión" en t=2038s reutiliza un recurso (14.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2043s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=2045s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:cola votantes 1936" en t=2052s reutiliza un recurso (10.ª vez); añade candidatos
+  aviso repetición: "photo:Madrid 1936 calle" en t=2061s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=2065s reutiliza un recurso (15.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2069s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2086s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=2089s reutiliza un recurso (11.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=2118s reutiliza un recurso (11.ª vez); añade candidatos
+  aviso repetición: "photo:Cuenca 1930s fotografía" en t=2140s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2146s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Cuenca casas colgadas antigua" en t=2176s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Cuenca 1930s fotografía" en t=2177s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2179s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Cuenca casas colgadas antigua" en t=2180s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=2182s reutiliza un recurso (15.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2202s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=2216s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2221s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=2231s reutiliza un recurso (16.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=2236s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 diputados" en t=2238s reutiliza un recurso (11.ª vez); añade candidatos
+  aviso repetición: "photo:Comisión de Actas 1936" en t=2241s reutiliza un recurso (11.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=2248s reutiliza un recurso (11.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=2252s reutiliza un recurso (11.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2256s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=2260s reutiliza un recurso (16.ª vez); añade candidatos
+  aviso repetición: "photo:Cuenca 1930s fotografía" en t=2273s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=2279s reutiliza un recurso (15.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=2304s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=2312s reutiliza un recurso (17.ª vez); añade candidatos
+  aviso repetición: "photo:mitin 1936 España" en t=2319s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=2327s reutiliza un recurso (11.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2346s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2351s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=2356s reutiliza un recurso (17.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=2367s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=2374s reutiliza un recurso (16.ª vez); añade candidatos
+  aviso repetición: "photo:cola votantes 1936" en t=2378s reutiliza un recurso (12.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=2394s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=2397s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2404s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2434s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2438s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=2444s reutiliza un recurso (12.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=2449s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2453s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=2455s reutiliza un recurso (12.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=2461s reutiliza un recurso (17.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2471s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2486s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2492s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:cola votantes 1936" en t=2497s reutiliza un recurso (12.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=2503s reutiliza un recurso (18.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2508s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 sesión" en t=2512s reutiliza un recurso (18.ª vez); añade candidatos
+  aviso repetición: "video:Spain 1936 newsreel" en t=2522s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2528s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 sesión" en t=2534s reutiliza un recurso (18.ª vez); añade candidatos
+  aviso repetición: "video:Spain 1936 newsreel" en t=2539s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2545s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2551s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:mitin 1936 España" en t=2557s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=2562s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=2583s reutiliza un recurso (12.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=2593s reutiliza un recurso (13.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=2600s reutiliza un recurso (19.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2608s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2611s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=2615s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=2642s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=2651s reutiliza un recurso (13.ª vez); añade candidatos
+  aviso repetición: "photo:mitin 1936 España" en t=2655s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=2662s reutiliza un recurso (12.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=2672s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=2678s reutiliza un recurso (19.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=2689s reutiliza un recurso (13.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=2695s reutiliza un recurso (12.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=2700s reutiliza un recurso (19.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=2711s reutiliza un recurso (20.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2724s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Madrid 1936 calle" en t=2733s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=2743s reutiliza un recurso (8.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=2751s reutiliza un recurso (13.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 diputados" en t=2752s reutiliza un recurso (13.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=2754s reutiliza un recurso (13.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=2760s reutiliza un recurso (20.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=2766s reutiliza un recurso (20.ª vez); añade candidatos
+  aviso repetición: "video:Spain 1936 newsreel" en t=2775s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2780s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1930s" en t=2786s reutiliza un recurso (21.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2792s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=2803s reutiliza un recurso (21.ª vez); añade candidatos
+  aviso repetición: "photo:mapa provincias España 1930" en t=2809s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=2820s reutiliza un recurso (14.ª vez); añade candidatos
+  aviso repetición: "photo:prensa de la época 1936" en t=2825s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=2830s reutiliza un recurso (14.ª vez); añade candidatos
+  aviso repetición: "photo:cola votantes 1936" en t=2834s reutiliza un recurso (14.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=2839s reutiliza un recurso (13.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2844s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2848s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2855s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:Elecciones generales España 1936" en t=2861s reutiliza un recurso (14.ª vez); añade candidatos
+  aviso repetición: "photo:Comisión de Actas 1936" en t=2871s reutiliza un recurso (14.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 sesión" en t=2873s reutiliza un recurso (21.ª vez); añade candidatos
+  aviso repetición: "photo:Comisión de Actas 1936" en t=2879s reutiliza un recurso (14.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=2884s reutiliza un recurso (14.ª vez); añade candidatos
+  aviso repetición: "photo:mitin 1936 España" en t=2890s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2896s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:papeleta electoral 1936" en t=2903s reutiliza un recurso (15.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=2907s reutiliza un recurso (22.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2918s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2927s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:papeleta electoral 1936" en t=2937s reutiliza un recurso (15.ª vez); añade candidatos
+  aviso repetición: "photo:mitin 1936 España" en t=2946s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=2953s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "video:Spanish Civil War newsreel" en t=2958s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2964s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "video:Spain 1936 newsreel" en t=2969s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "video:Spain 1936 newsreel" en t=2981s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=2987s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=2992s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:José Díaz PCE 1936" en t=3005s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:mitin comunista Madrid 1936" en t=3009s reutiliza un recurso (5.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=3027s reutiliza un recurso (22.ª vez); añade candidatos
+  aviso repetición: "photo:Diario de Sesiones Cortes 1936" en t=3029s reutiliza un recurso (15.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 sesión" en t=3039s reutiliza un recurso (22.ª vez); añade candidatos
+  aviso repetición: "photo:Madrid 1935 fotografía calle" en t=3049s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=3058s reutiliza un recurso (15.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=3064s reutiliza un recurso (15.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=3069s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:Madrid 1936 calle" en t=3079s reutiliza un recurso (10.ª vez); añade candidatos
+  aviso repetición: "video:Spanish Civil War newsreel" en t=3082s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=3085s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=3104s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:calle de Alcalá Madrid 1930s" en t=3108s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=3113s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:acta electoral 1936" en t=3116s reutiliza un recurso (16.ª vez); añade candidatos
+  aviso repetición: "photo:papeleta electoral 1936" en t=3118s reutiliza un recurso (16.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=3122s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=3127s reutiliza un recurso (23.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=3134s reutiliza un recurso (15.ª vez); añade candidatos
+  aviso repetición: "photo:cola votantes 1936" en t=3136s reutiliza un recurso (15.ª vez); añade candidatos
+  aviso repetición: "photo:Cortes 1936 sesión" en t=3139s reutiliza un recurso (23.ª vez); añade candidatos
+  aviso repetición: "photo:Gran Vía Madrid 1930s" en t=3154s reutiliza un recurso (6.ª vez); añade candidatos
+  aviso repetición: "photo:urna electoral Segunda República" en t=3164s reutiliza un recurso (16.ª vez); añade candidatos
+  aviso repetición: "photo:mitin 1936 España" en t=3170s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:manifestación Madrid 1936" en t=3176s reutiliza un recurso (9.ª vez); añade candidatos
+  aviso repetición: "photo:multitud Madrid 1936" en t=3182s reutiliza un recurso (7.ª vez); añade candidatos
+  aviso repetición: "photo:Madrid 1936 noche" en t=3188s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Congreso de los Diputados 1936 sesión" en t=3195s reutiliza un recurso (23.ª vez); añade candidatos
+  aviso sfx transición: "cinematic hit deep" ya sonó 5 veces (sfx_max)
+  aviso sfx transición: "cinematic hit deep" ya sonó 5 veces (sfx_max)
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/646
+   plano 20/646
+   plano 40/646
+   plano 60/646
+   plano 80/646
+   plano 100/646
+   plano 120/646
+   plano 140/646
+   plano 160/646
+   plano 180/646
+   plano 200/646
+   plano 220/646
+   plano 240/646
+   plano 260/646
+   plano 280/646
+   plano 300/646
+   plano 320/646
+   plano 340/646
+   plano 360/646
+   plano 380/646
+   plano 400/646
+   plano 420/646
+   plano 440/646
+   plano 460/646
+   plano 480/646
+   plano 500/646
+   plano 520/646
+   plano 540/646
+   plano 560/646
+   plano 580/646
+   plano 600/646
+   plano 620/646
+   plano 640/646
+== 5/5 montaje final
+   hojas de sincronía: 51
+FIN: jobs/pucherazo36v2/out/pucherazo36v2.mp4 · 53.7 min · 357 MB

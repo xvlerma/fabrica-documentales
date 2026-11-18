@@ -1,0 +1,3031 @@
+1
+00:00:06,839 --> 00:00:09,070
+Seguro que la has visto.
+
+2
+00:00:09,119 --> 00:00:14,550
+Trescientos espartanos de capa roja, solos, frenando a un imperio entero.
+
+3
+00:00:14,599 --> 00:00:17,509
+Es la imagen de la película «Trescientos».
+
+4
+00:00:17,560 --> 00:00:20,469
+Pero lo que pasó de verdad fue más extraño.
+
+5
+00:00:20,519 --> 00:00:21,320
+Más duro.
+
+6
+00:00:21,259 --> 00:00:23,504
+Y mucho más interesante.
+
+7
+00:00:25,004 --> 00:00:29,074
+Agosto del año cuatrocientos ochenta antes de Cristo.
+
+8
+00:00:29,125 --> 00:00:34,234
+Un camino entre la montaña y el mar, tan estrecho que en algunos tramos solo cabía
+
+9
+00:00:34,284 --> 00:00:36,674
+un carro.
+
+10
+00:00:36,724 --> 00:00:41,415
+De un lado, el ejército más grande que el mundo había visto.
+
+11
+00:00:41,465 --> 00:00:44,307
+Del otro, unos siete mil griegos.
+
+12
+00:00:45,807 --> 00:00:51,016
+Y al frente de los griegos, un rey de Esparta que ya sabía, porque se lo había dicho
+
+13
+00:00:51,066 --> 00:00:54,323
+un oráculo, que de allí no iba a volver.
+
+14
+00:01:04,823 --> 00:01:08,774
+¿Por qué Esparta mandó solo a trescientos de los suyos?
+
+15
+00:01:08,823 --> 00:01:13,334
+¿Quién enseñó a los persas el camino que nadie vigilaba?
+
+16
+00:01:13,384 --> 00:01:18,214
+Y la pregunta que lleva veinticinco siglos sin una respuesta sencilla:
+
+17
+00:01:18,264 --> 00:01:23,895
+¿por qué, la última mañana, un puñado de hombres decidió quedarse a morir?
+
+18
+00:01:26,095 --> 00:01:30,895
+La batalla de las Termópilas.
+
+19
+00:01:30,895 --> 00:01:35,105
+Para entender lo que pasó en aquel desfiladero hay que conocer a dos mundos que
+
+20
+00:01:35,155 --> 00:01:36,926
+estaban a punto de chocar.
+
+21
+00:01:38,426 --> 00:01:40,516
+De un lado, Persia:
+
+22
+00:01:40,566 --> 00:01:45,936
+un imperio que iba desde el río Indo, en el actual Pakistán, hasta el mar Egeo,
+
+23
+00:01:45,986 --> 00:01:49,776
+con Egipto, Babilonia y media Asia dentro.
+
+24
+00:01:49,826 --> 00:01:55,275
+Lo gobernaba un solo hombre, el Gran Rey, y en el año cuatrocientos ochenta ese
+
+25
+00:01:55,325 --> 00:01:56,932
+hombre era Jerjes.
+
+26
+00:02:07,432 --> 00:02:09,822
+Del otro lado, Grecia.
+
+27
+00:02:09,871 --> 00:02:15,621
+Que no era un país, sino cientos de ciudades independientes, las polis, cada una
+
+28
+00:02:15,671 --> 00:02:20,322
+con sus leyes, su ejército y sus rencillas con la vecina.
+
+29
+00:02:20,372 --> 00:02:26,542
+Las dos más poderosas eran Atenas, una democracia con flota, y Esparta, una ciudad
+
+30
+00:02:26,592 --> 00:02:28,193
+que vivía para la guerra.
+
+31
+00:02:29,694 --> 00:02:33,664
+Persia ya había intentado conquistar Grecia una vez.
+
+32
+00:02:33,714 --> 00:02:38,804
+En el cuatrocientos noventa, el padre de Jerjes, Darío, envió una expedición que
+
+33
+00:02:38,854 --> 00:02:41,224
+acabó derrotada en Maratón.
+
+34
+00:02:41,274 --> 00:02:45,384
+Diez años después, el hijo volvía para terminar el trabajo.
+
+35
+00:02:45,434 --> 00:02:48,204
+Y esta vez no venía con una expedición:
+
+36
+00:02:48,254 --> 00:02:50,332
+venía con todo el imperio.
+
+37
+00:02:51,832 --> 00:02:54,382
+¿Por qué tanto empeño en Grecia?
+
+38
+00:02:54,432 --> 00:02:59,902
+Todo había empezado en la costa de la actual Turquía, en Jonia, donde vivían ciudades
+
+39
+00:02:59,953 --> 00:03:02,362
+griegas sometidas a Persia.
+
+40
+00:03:02,413 --> 00:03:05,622
+En el cuatrocientos noventa y nueve se rebelaron.
+
+41
+00:03:05,673 --> 00:03:11,122
+Atenas les mandó veinte barcos, y en la revuelta los rebeldes quemaron Sardes, una
+
+42
+00:03:11,173 --> 00:03:13,602
+de las capitales del imperio.
+
+43
+00:03:13,652 --> 00:03:17,942
+Heródoto cuenta que Darío ordenó a un sirviente que le repitiera tres veces cada
+
+44
+00:03:17,992 --> 00:03:19,203
+día, antes de comer:
+
+45
+00:03:19,253 --> 00:03:23,457
+«Señor, acuérdate de los atenienses».
+
+46
+00:03:33,956 --> 00:03:36,966
+Estos son los protagonistas de esta historia.
+
+47
+00:03:37,016 --> 00:03:41,370
+Merece la pena retenerlos, porque van a volver una y otra vez.
+
+48
+00:03:42,871 --> 00:03:48,240
+Y hay uno más, el más importante de todos, aunque no luchó.
+
+49
+00:03:48,290 --> 00:03:52,381
+Casi todo lo que sabemos de las Termópilas lo escribió un hombre que nació más o
+
+50
+00:03:52,431 --> 00:03:56,760
+menos el año de la batalla, en Halicarnaso, la actual Bodrum.
+
+51
+00:03:56,811 --> 00:03:58,677
+Se llamaba Heródoto.
+
+52
+00:04:00,177 --> 00:04:05,787
+Cuarenta años después de la batalla, Heródoto recorrió Grecia preguntando.
+
+53
+00:04:05,837 --> 00:04:11,527
+Habló con los descendientes, visitó el desfiladero y leyó las inscripciones.
+
+54
+00:04:11,578 --> 00:04:18,067
+A aquel trabajo lo llamó «historia», que en griego significa algo muy sencillo:
+
+55
+00:04:18,117 --> 00:04:20,027
+investigación.
+
+56
+00:04:20,077 --> 00:04:23,639
+Y nos dejó una frase que resume este documental.
+
+57
+00:04:24,539 --> 00:04:30,069
+«De todos ellos he averiguado los nombres, porque fueron hombres dignos de memoria.
+
+58
+00:04:30,119 --> 00:04:33,273
+Y he averiguado también los nombres de los trescientos.»
+
+59
+00:04:34,274 --> 00:04:36,663
+Vamos a seguir sus pasos.
+
+60
+00:04:36,713 --> 00:04:42,293
+Lo que contó, lo que se le escapó, y lo que la arqueología ha descubierto después.
+
+61
+00:05:00,792 --> 00:05:03,602
+Susa, en el corazón de Persia.
+
+62
+00:05:03,652 --> 00:05:07,322
+Hacia el cuatrocientos ochenta y uno antes de Cristo.
+
+63
+00:05:07,372 --> 00:05:11,582
+Un rey espartano vive aquí, en el palacio de su enemigo.
+
+64
+00:05:11,632 --> 00:05:13,442
+Se llama Demarato.
+
+65
+00:05:13,492 --> 00:05:18,922
+Años antes lo echaron del trono de Esparta con una trampa y huyó a la corte persa.
+
+66
+00:05:18,972 --> 00:05:23,111
+Y ahora se entera de algo que nadie en Grecia sabe todavía.
+
+67
+00:05:33,611 --> 00:05:36,761
+Jerjes ha decidido invadir Grecia.
+
+68
+00:05:36,811 --> 00:05:41,721
+Demarato quiere avisar a su antigua ciudad, pero los caminos están vigilados.
+
+69
+00:05:41,771 --> 00:05:46,761
+Así que coge una tablilla de escribir, de las que se cubrían con cera, le quita
+
+70
+00:05:46,811 --> 00:05:51,281
+la cera, graba el mensaje en la madera y la vuelve a cubrir.
+
+71
+00:05:51,331 --> 00:05:54,073
+A simple vista, es una tablilla en blanco.
+
+72
+00:05:55,574 --> 00:06:01,404
+Cuando llega a Esparta, nadie entiende para qué alguien enviaría una tablilla vacía.
+
+73
+00:06:01,454 --> 00:06:04,224
+Nadie, salvo una mujer:
+
+74
+00:06:04,274 --> 00:06:07,824
+Gorgo, la esposa del rey Leónidas.
+
+75
+00:06:07,875 --> 00:06:11,245
+Ella intuye el truco y manda raspar la cera.
+
+76
+00:06:11,295 --> 00:06:13,364
+Debajo está el aviso.
+
+77
+00:06:13,414 --> 00:06:16,944
+Gracias a ella, Esparta supo antes que nadie lo que venía.
+
+78
+00:06:18,443 --> 00:06:22,193
+¿Y qué era exactamente «lo que venía»?
+
+79
+00:06:22,243 --> 00:06:25,893
+Para Jerjes, aquella guerra no era una campaña más.
+
+80
+00:06:25,943 --> 00:06:28,333
+Era una deuda familiar.
+
+81
+00:06:28,383 --> 00:06:33,213
+Su padre había perdido en Maratón ante un ejército de ciudadanos atenienses.
+
+82
+00:06:33,263 --> 00:06:37,468
+Para el rey de reyes, eso era una humillación que había que borrar.
+
+83
+00:06:47,968 --> 00:06:50,818
+No todos en la corte estaban de acuerdo.
+
+84
+00:06:50,868 --> 00:06:55,818
+Heródoto cuenta que, cuando Jerjes reunió a los grandes del imperio para anunciar
+
+85
+00:06:55,868 --> 00:06:59,978
+la guerra, solo uno se atrevió a llevarle la contraria:
+
+86
+00:07:00,028 --> 00:07:03,378
+su tío Artábano, hermano de Darío.
+
+87
+00:07:03,428 --> 00:07:07,519
+Le recordó que su padre ya había estado a punto de perder un ejército entero en
+
+88
+00:07:07,569 --> 00:07:10,899
+otra campaña lejana, contra los escitas.
+
+89
+00:07:10,949 --> 00:07:15,937
+Y le advirtió de que los dioses suelen castigar a los que se hacen demasiado grandes.
+
+90
+00:07:16,837 --> 00:07:19,847
+«Agradece que eres hermano de mi padre.
+
+91
+00:07:19,897 --> 00:07:24,827
+Eso te libra de recibir el pago que merecen tus palabras sin sentido.
+
+92
+00:07:24,877 --> 00:07:30,987
+Y como eres un cobarde, te quedarás aquí, con las mujeres, mientras yo marcho contra
+
+93
+00:07:31,037 --> 00:07:31,837
+Grecia.»
+
+94
+00:07:32,779 --> 00:07:36,389
+Heródoto añade que después Jerjes dudó.
+
+95
+00:07:36,439 --> 00:07:41,029
+Que tuvo un sueño que le ordenaba ir a la guerra, que obligó a su tío a dormir en
+
+96
+00:07:41,079 --> 00:07:46,669
+su cama para ver si el sueño se le aparecía también a él, y que se le apareció.
+
+97
+00:07:46,719 --> 00:07:49,949
+Para Heródoto, aquella guerra estaba escrita.
+
+98
+00:07:49,999 --> 00:07:54,015
+Era el castigo que los dioses preparaban para el orgullo de un rey.
+
+99
+00:08:04,515 --> 00:08:07,325
+Jerjes tardó años en prepararla.
+
+100
+00:08:07,375 --> 00:08:10,485
+Reunió soldados de casi cincuenta pueblos:
+
+101
+00:08:10,535 --> 00:08:15,525
+persas y medos, egipcios, indios, árabes, etíopes.
+
+102
+00:08:15,575 --> 00:08:20,545
+Heródoto los describe uno a uno, con sus armas y sus ropas, como si estuviera viendo
+
+103
+00:08:20,595 --> 00:08:22,005
+un desfile.
+
+104
+00:08:22,055 --> 00:08:26,765
+Y esa variedad la vemos todavía hoy en los relieves de los palacios persas, donde
+
+105
+00:08:26,815 --> 00:08:30,076
+cada pueblo aparece llevando tributo al Gran Rey.
+
+106
+00:08:31,576 --> 00:08:33,067
+¿Cuántos eran?
+
+107
+00:08:33,117 --> 00:08:35,927
+Heródoto da una cifra precisa:
+
+108
+00:08:35,976 --> 00:08:39,067
+un millón setecientos mil soldados de a pie.
+
+109
+00:08:39,117 --> 00:08:41,547
+Y cuenta cómo los contaron.
+
+110
+00:08:41,597 --> 00:08:46,727
+En una llanura metieron a diez mil hombres apretados, trazaron un círculo a su alrededor
+
+111
+00:08:46,777 --> 00:08:51,007
+y levantaron un cercado de piedra a la altura del ombligo.
+
+112
+00:08:51,057 --> 00:08:56,645
+Después hicieron pasar al ejército entero por el cercado, diez mil cada vez.
+
+113
+00:09:07,144 --> 00:09:09,955
+Es una imagen impresionante.
+
+114
+00:09:10,004 --> 00:09:13,014
+Pero ningún historiador de hoy se la cree.
+
+115
+00:09:13,064 --> 00:09:17,955
+Un ejército así no podría haber bebido ni comido en la Grecia de entonces.
+
+116
+00:09:18,004 --> 00:09:23,075
+Los cálculos modernos hablan de entre ciento veinte mil y trescientos mil hombres.
+
+117
+00:09:23,125 --> 00:09:25,115
+Siguen siendo muchísimos:
+
+118
+00:09:25,164 --> 00:09:28,634
+probablemente el ejército más grande reunido hasta entonces.
+
+119
+00:09:30,134 --> 00:09:35,364
+Para mover a toda esa gente de Asia a Europa había que cruzar el Helesponto, el
+
+120
+00:09:35,413 --> 00:09:38,404
+estrecho que hoy llamamos de los Dardanelos.
+
+121
+00:09:38,454 --> 00:09:42,184
+Mide algo más de un kilómetro en su parte más estrecha.
+
+122
+00:09:42,234 --> 00:09:46,964
+Jerjes mandó tender dos puentes hechos con cientos de barcos atados unos a otros,
+
+123
+00:09:47,014 --> 00:09:49,413
+con cables de lino y de papiro.
+
+124
+00:09:50,913 --> 00:09:53,763
+Pero llegó una tormenta y los destrozó.
+
+125
+00:09:53,812 --> 00:09:58,221
+Y aquí Heródoto cuenta una de las escenas más famosas de la Antigüedad.
+
+126
+00:09:59,120 --> 00:10:04,011
+«Cuando Jerjes se enteró, montó en cólera y mandó dar al Helesponto trescientos
+
+127
+00:10:04,061 --> 00:10:08,051
+latigazos y arrojar al mar un par de grilletes.
+
+128
+00:10:08,100 --> 00:10:11,750
+Y mandó cortar la cabeza a los encargados de los puentes.»
+
+129
+00:10:12,750 --> 00:10:14,620
+Azotar al mar.
+
+130
+00:10:14,670 --> 00:10:19,141
+Para los griegos que leyeron aquello, era el retrato perfecto de un tirano que se
+
+131
+00:10:19,191 --> 00:10:21,681
+creía por encima de los dioses.
+
+132
+00:10:21,730 --> 00:10:24,181
+Puede que Heródoto exagerara.
+
+133
+00:10:24,230 --> 00:10:29,961
+Pero los puentes se reconstruyeron, más fuertes, y según él el ejército tardó siete
+
+134
+00:10:30,010 --> 00:10:32,077
+días y siete noches en cruzar.
+
+135
+00:10:42,576 --> 00:10:49,586
+Antes de cruzar, en Abidos, junto al estrecho, Jerjes quiso ver a su ejército entero.
+
+136
+00:10:49,636 --> 00:10:53,487
+Le prepararon en una colina un trono de mármol blanco.
+
+137
+00:10:53,537 --> 00:10:58,747
+Desde allí vio el Helesponto cubierto de barcos y las playas y las llanuras llenas
+
+138
+00:10:58,797 --> 00:11:00,206
+de hombres.
+
+139
+00:11:00,256 --> 00:11:02,947
+Primero se sintió dichoso.
+
+140
+00:11:02,996 --> 00:11:05,095
+Y después se echó a llorar.
+
+141
+00:11:06,595 --> 00:11:11,545
+Artábano, el tío que se había opuesto a la guerra, le preguntó por qué lloraba un
+
+142
+00:11:11,595 --> 00:11:14,245
+hombre que acababa de llamarse feliz.
+
+143
+00:11:14,295 --> 00:11:18,221
+Y Jerjes le dio una respuesta que no esperaríamos de un tirano.
+
+144
+00:11:19,122 --> 00:11:22,872
+«Me he puesto a pensar en lo breve que es la vida humana.
+
+145
+00:11:22,922 --> 00:11:28,145
+De toda esta multitud, dentro de cien años no quedará nadie vivo.»
+
+146
+00:11:29,144 --> 00:11:32,894
+Es una de las escenas más extrañas del libro.
+
+147
+00:11:32,943 --> 00:11:37,354
+El hombre que va a azotar al mar es también el que llora pensando en la muerte de
+
+148
+00:11:37,403 --> 00:11:39,094
+sus soldados.
+
+149
+00:11:39,144 --> 00:11:42,074
+Heródoto no escribe sobre monstruos.
+
+150
+00:11:42,124 --> 00:11:43,993
+Escribe sobre personas.
+
+151
+00:11:54,493 --> 00:11:58,823
+Jerjes hizo algo más, todavía más ambicioso.
+
+152
+00:11:58,873 --> 00:12:03,523
+Doce años antes, una flota persa se había estrellado contra los acantilados del
+
+153
+00:12:03,573 --> 00:12:06,503
+monte Atos, en el norte de Grecia.
+
+154
+00:12:06,552 --> 00:12:11,343
+Para que no volviera a pasar, mandó excavar un canal a través de la península.
+
+155
+00:12:11,393 --> 00:12:14,714
+Dos kilómetros de largo, treinta metros de ancho.
+
+156
+00:12:16,214 --> 00:12:21,804
+Durante siglos, muchos pensaron que el canal era otra exageración de Heródoto.
+
+157
+00:12:21,854 --> 00:12:26,204
+Hasta que en los años noventa un equipo británico y griego estudió el subsuelo con
+
+158
+00:12:26,254 --> 00:12:28,644
+sondeos sísmicos y radar.
+
+159
+00:12:28,694 --> 00:12:31,784
+El canal estaba allí, enterrado.
+
+160
+00:12:31,834 --> 00:12:34,891
+Heródoto, esta vez, decía la verdad.
+
+161
+00:12:36,391 --> 00:12:41,301
+En la primavera del cuatrocientos ochenta, el ejército echó a andar.
+
+162
+00:12:41,351 --> 00:12:47,521
+Atravesó Tracia y Macedonia, y las ciudades del norte se fueron rindiendo sin luchar.
+
+163
+00:12:47,571 --> 00:12:52,801
+Jerjes había enviado mensajeros a toda Grecia con una petición que era, en realidad,
+
+164
+00:12:52,851 --> 00:12:54,201
+una orden:
+
+165
+00:12:54,251 --> 00:12:55,664
+tierra y agua.
+
+166
+00:13:06,163 --> 00:13:11,413
+Entregar tierra y agua significaba aceptar al rey persa como señor.
+
+167
+00:13:11,463 --> 00:13:13,554
+Muchas ciudades lo hicieron.
+
+168
+00:13:13,604 --> 00:13:17,074
+Tebas, entre ellas, se inclinó hacia Persia.
+
+169
+00:13:17,124 --> 00:13:21,354
+Los griegos tenían una palabra para eso, «medizar»:
+
+170
+00:13:21,403 --> 00:13:25,052
+ponerse del lado de los medos, como llamaban a los persas.
+
+171
+00:13:26,554 --> 00:13:31,904
+Solo una treintena de ciudades se juntaron para resistir, con Esparta al mando y
+
+172
+00:13:31,954 --> 00:13:34,604
+Atenas como gran potencia naval.
+
+173
+00:13:34,654 --> 00:13:39,464
+Diez años antes, Atenas y Esparta habían tratado a los mensajeros de Darío de una
+
+174
+00:13:39,514 --> 00:13:41,604
+forma que no se olvida:
+
+175
+00:13:41,654 --> 00:13:47,164
+en Atenas los arrojaron a un barranco, y en Esparta, a un pozo, para que cogieran
+
+176
+00:13:47,214 --> 00:13:49,517
+allí la tierra y el agua que quisieran.
+
+177
+00:13:51,017 --> 00:13:56,527
+Atenas, que sabía que sería el primer objetivo, también consultó a Delfos.
+
+178
+00:13:56,576 --> 00:13:59,507
+La primera respuesta fue aterradora:
+
+179
+00:13:59,557 --> 00:14:02,167
+huid al fin del mundo.
+
+180
+00:14:02,217 --> 00:14:04,967
+La segunda dejó una pista oscura:
+
+181
+00:14:05,017 --> 00:14:08,307
+solo una muralla de madera resistiría.
+
+182
+00:14:08,357 --> 00:14:12,667
+Muchos atenienses pensaron en la vieja empalizada de la Acrópolis.
+
+183
+00:14:12,717 --> 00:14:17,907
+Pero un político, Temístocles, sostuvo que la muralla de madera eran los barcos.
+
+184
+00:14:17,957 --> 00:14:22,045
+Y convenció a Atenas de jugárselo todo en el mar.
+
+185
+00:14:32,545 --> 00:14:38,655
+Esa decisión, tomada antes de las Termópilas, explica todo lo que vino después.
+
+186
+00:14:38,705 --> 00:14:43,755
+Atenas había construido en pocos años una flota de unos doscientos trirremes, los
+
+187
+00:14:43,805 --> 00:14:48,855
+buques de guerra de la época, con la plata de unas minas recién descubiertas.
+
+188
+00:14:48,905 --> 00:14:52,473
+Sin esa flota, el plan griego no habría sido posible.
+
+189
+00:14:53,971 --> 00:14:56,022
+No había marcha atrás.
+
+190
+00:14:56,072 --> 00:15:00,999
+Y la pregunta era dónde parar a un ejército que nadie había parado nunca.
+
+191
+00:15:21,499 --> 00:15:24,849
+Esparta, en el sur del Peloponeso.
+
+192
+00:15:24,899 --> 00:15:27,129
+Una ciudad sin murallas.
+
+193
+00:15:27,178 --> 00:15:30,929
+Los espartanos decían que sus murallas eran sus hombres.
+
+194
+00:15:30,979 --> 00:15:35,069
+Y para entender lo que pasó en las Termópilas hay que entender cómo se fabricaba
+
+195
+00:15:35,119 --> 00:15:36,963
+a uno de esos hombres.
+
+196
+00:15:47,463 --> 00:15:53,073
+A los siete años, los niños espartanos dejaban a su familia y entraban en la agogé,
+
+197
+00:15:53,123 --> 00:15:55,353
+la educación del Estado.
+
+198
+00:15:55,403 --> 00:16:00,773
+Vivían en grupos, dormían en lechos de juncos que ellos mismos cortaban, pasaban
+
+199
+00:16:00,823 --> 00:16:05,373
+hambre a propósito y aprendían a robar comida sin que los pillaran.
+
+200
+00:16:05,423 --> 00:16:08,713
+Si los pillaban, el castigo no era por robar:
+
+201
+00:16:08,763 --> 00:16:10,546
+era por dejarse coger.
+
+202
+00:16:12,046 --> 00:16:14,896
+A los veinte se convertían en soldados.
+
+203
+00:16:14,946 --> 00:16:20,196
+Y a los treinta, si superaban todo aquello, eran ciudadanos de pleno derecho:
+
+204
+00:16:20,246 --> 00:16:22,156
+los «iguales».
+
+205
+00:16:22,206 --> 00:16:27,476
+Comían juntos cada día en comedores comunes y no tenían otro oficio que la guerra.
+
+206
+00:16:27,526 --> 00:16:30,360
+Ni comerciaban, ni cultivaban la tierra.
+
+207
+00:16:31,860 --> 00:16:34,870
+En campaña se les reconocía de lejos.
+
+208
+00:16:34,919 --> 00:16:39,890
+Llevaban el pelo largo, que cuidaban como un símbolo de hombres libres, y un manto
+
+209
+00:16:39,940 --> 00:16:41,850
+teñido de rojo.
+
+210
+00:16:41,899 --> 00:16:46,710
+Jenofonte, que los conoció bien unas décadas después, escribió que ese color se
+
+211
+00:16:46,759 --> 00:16:51,330
+eligió porque era el que menos se parecía a la ropa de mujer y el más apropiado
+
+212
+00:16:51,379 --> 00:16:52,337
+para la guerra.
+
+213
+00:17:02,838 --> 00:17:05,188
+¿Quién la cultivaba, entonces?
+
+214
+00:17:05,238 --> 00:17:06,847
+Los ilotas.
+
+215
+00:17:06,897 --> 00:17:11,248
+Eran los habitantes de las tierras que Esparta había conquistado, convertidos en
+
+216
+00:17:11,298 --> 00:17:13,087
+siervos del Estado.
+
+217
+00:17:13,137 --> 00:17:17,607
+Había muchos más ilotas que espartanos, quizá siete por cada uno.
+
+218
+00:17:17,657 --> 00:17:22,188
+Y ese miedo permanente a una rebelión explica buena parte de la forma de ser de
+
+219
+00:17:22,238 --> 00:17:23,038
+Esparta.
+
+220
+00:17:24,528 --> 00:17:27,278
+Esparta tenía además una rareza:
+
+221
+00:17:27,328 --> 00:17:32,659
+dos reyes a la vez, de dos familias que decían descender de Heracles.
+
+222
+00:17:32,709 --> 00:17:37,879
+Los reyes mandaban el ejército en la guerra, pero en casa vigilaban cinco magistrados
+
+223
+00:17:37,929 --> 00:17:40,876
+elegidos cada año, los éforos.
+
+224
+00:17:42,376 --> 00:17:47,007
+Los espartanos tenían fama de hablar poco y con mucha intención.
+
+225
+00:17:47,057 --> 00:17:52,606
+Su tierra se llamaba Laconia, y de ahí viene nuestra palabra «lacónico».
+
+226
+00:17:52,656 --> 00:17:56,406
+Cuentan que un rey extranjero les mandó una amenaza:
+
+227
+00:17:56,456 --> 00:18:00,086
+si entro en vuestra tierra, os destruiré.
+
+228
+00:18:00,136 --> 00:18:03,586
+Los espartanos contestaron con una sola palabra:
+
+229
+00:18:03,636 --> 00:18:04,807
+«Si».
+
+230
+00:18:04,856 --> 00:18:05,987
+Es decir:
+
+231
+00:18:06,037 --> 00:18:07,836
+si es que llegas a entrar.
+
+232
+00:18:18,336 --> 00:18:23,207
+Y las mujeres de Esparta eran también distintas de las del resto de Grecia.
+
+233
+00:18:23,257 --> 00:18:28,846
+Hacían ejercicio, heredaban tierras y opinaban en público, algo que escandalizaba
+
+234
+00:18:28,896 --> 00:18:30,646
+a los atenienses.
+
+235
+00:18:30,696 --> 00:18:35,326
+Cuando una mujer de Atenas le preguntó a Gorgo por qué las espartanas eran las únicas
+
+236
+00:18:35,376 --> 00:18:40,366
+que mandaban sobre sus hombres, Gorgo respondió que era porque eran las únicas que
+
+237
+00:18:40,416 --> 00:18:41,594
+parían hombres.
+
+238
+00:18:43,093 --> 00:18:47,823
+Uno de esos reyes, en el cuatrocientos ochenta, era Leónidas.
+
+239
+00:18:47,873 --> 00:18:50,283
+Y lo era casi por casualidad.
+
+240
+00:18:50,333 --> 00:18:53,623
+Era el tercer hijo del rey Anaxándridas.
+
+241
+00:18:53,673 --> 00:18:57,763
+Su hermano mayor, Cleómenes, murió sin hijos varones.
+
+242
+00:18:57,813 --> 00:19:01,463
+El segundo, Dorieo, había muerto en Sicilia.
+
+243
+00:19:01,513 --> 00:19:07,183
+Así que la corona acabó en Leónidas, que además estaba casado con la hija de Cleómenes:
+
+244
+00:19:07,233 --> 00:19:09,914
+Gorgo, la mujer de la tablilla.
+
+245
+00:19:20,414 --> 00:19:24,924
+Cuando estalló la guerra, los espartanos hicieron lo que hacían siempre ante algo
+
+246
+00:19:24,974 --> 00:19:26,285
+grande:
+
+247
+00:19:26,335 --> 00:19:29,045
+preguntar al oráculo de Delfos.
+
+248
+00:19:29,095 --> 00:19:34,865
+Allí, una sacerdotisa, la Pitia, respondía en nombre del dios Apolo.
+
+249
+00:19:34,914 --> 00:19:38,269
+Y la respuesta que trajeron a Esparta fue terrible.
+
+250
+00:19:39,167 --> 00:19:43,057
+«Para vosotros, habitantes de la espaciosa Esparta:
+
+251
+00:19:43,107 --> 00:19:48,377
+o vuestra gran ciudad será destruida por los persas, o la tierra de Lacedemonia
+
+252
+00:19:48,427 --> 00:19:52,154
+llorará la muerte de un rey del linaje de Heracles.»
+
+253
+00:19:53,154 --> 00:19:56,005
+O la ciudad, o el rey.
+
+254
+00:19:56,055 --> 00:20:00,265
+Heródoto está convencido de que Leónidas conocía esta profecía.
+
+255
+00:20:00,315 --> 00:20:03,825
+Y de que, cuando llegó el momento, eligió.
+
+256
+00:20:05,324 --> 00:20:08,754
+Pero antes faltaba un problema muy espartano.
+
+257
+00:20:08,804 --> 00:20:14,054
+Era verano y se celebraban las Carneas, la gran fiesta en honor de Apolo.
+
+258
+00:20:14,104 --> 00:20:19,274
+Durante la fiesta, la ley prohibía salir a combatir con el ejército completo.
+
+259
+00:20:19,324 --> 00:20:23,900
+Además coincidían los Juegos Olímpicos, con su propia tregua sagrada.
+
+260
+00:20:34,400 --> 00:20:37,030
+No era la primera vez que pasaba.
+
+261
+00:20:37,080 --> 00:20:42,470
+Diez años antes, cuando Atenas pidió ayuda contra Darío, los espartanos respondieron
+
+262
+00:20:42,520 --> 00:20:46,910
+que no podían salir hasta la luna llena, por motivos religiosos.
+
+263
+00:20:46,960 --> 00:20:50,070
+Llegaron a Maratón al día siguiente de la batalla.
+
+264
+00:20:50,120 --> 00:20:54,950
+Solo pudieron ver los cadáveres de los persas y felicitar a los atenienses.
+
+265
+00:20:55,000 --> 00:20:57,897
+Esta vez no podían permitirse llegar tarde.
+
+266
+00:20:59,397 --> 00:21:03,988
+Así que Esparta decidió mandar una avanzadilla, para que los aliados vieran que
+
+267
+00:21:04,038 --> 00:21:07,347
+iba en serio y no se pasaran a los persas.
+
+268
+00:21:07,397 --> 00:21:11,707
+El grueso del ejército iría después, al acabar las fiestas.
+
+269
+00:21:11,757 --> 00:21:14,447
+Esa avanzadilla eran los trescientos.
+
+270
+00:21:15,948 --> 00:21:20,078
+Y Leónidas los eligió con un criterio que dice mucho.
+
+271
+00:21:20,128 --> 00:21:24,438
+Según Heródoto, escogió a hombres que tuvieran hijos vivos.
+
+272
+00:21:24,488 --> 00:21:27,924
+Si caían, su familia no se extinguiría con ellos.
+
+273
+00:21:38,424 --> 00:21:42,275
+De la despedida en Esparta nos ha llegado una frase.
+
+274
+00:21:42,325 --> 00:21:47,714
+No la cuenta Heródoto, sino Plutarco, un autor que escribió casi seis siglos después
+
+275
+00:21:47,764 --> 00:21:51,474
+recogiendo dichos de espartanos famosos.
+
+276
+00:21:51,524 --> 00:21:54,754
+Gorgo le preguntó a su marido qué debía hacer.
+
+277
+00:21:55,654 --> 00:21:59,300
+«Casarte con un buen hombre, y tener buenos hijos.»
+
+278
+00:22:00,300 --> 00:22:03,411
+Es una frase seca, muy espartana.
+
+279
+00:22:03,461 --> 00:22:05,510
+No dice «volveré».
+
+280
+00:22:05,560 --> 00:22:06,929
+Dice lo contrario.
+
+281
+00:22:08,430 --> 00:22:10,760
+Plutarco recoge otra.
+
+282
+00:22:10,810 --> 00:22:16,414
+Cuando los éforos le reprocharon que se llevara tan pocos hombres, Leónidas respondió:
+
+283
+00:22:17,313 --> 00:22:19,970
+«Son demasiados para lo que vamos a hacer.»
+
+284
+00:22:20,971 --> 00:22:23,101
+Trescientos espartanos.
+
+285
+00:22:23,151 --> 00:22:25,061
+Pero no iban solos.
+
+286
+00:22:25,111 --> 00:22:30,221
+Cada uno iba acompañado de ilotas que cargaban el equipo y que, llegado el momento,
+
+287
+00:22:30,270 --> 00:22:32,881
+también lucharon y murieron.
+
+288
+00:22:32,931 --> 00:22:36,901
+Y por el camino se les fueron uniendo hombres de otras ciudades.
+
+289
+00:22:36,951 --> 00:22:40,209
+Cuando llegaron al desfiladero, eran unos siete mil.
+
+290
+00:22:50,708 --> 00:22:53,338
+Ese es el primer mito que hay que matizar.
+
+291
+00:22:53,388 --> 00:22:56,338
+Nunca fueron trescientos contra un millón.
+
+292
+00:22:56,388 --> 00:22:59,318
+Fueron unos siete mil contra un imperio.
+
+293
+00:22:59,368 --> 00:23:01,137
+Que sigue siendo una locura.
+
+294
+00:23:19,637 --> 00:23:20,968
+¿Por qué allí?
+
+295
+00:23:21,018 --> 00:23:25,288
+Para bajar desde el norte hacia el centro de Grecia, un ejército grande tenía que
+
+296
+00:23:25,337 --> 00:23:27,748
+pasar por un sitio concreto:
+
+297
+00:23:27,798 --> 00:23:32,488
+una franja de tierra entre el monte Calídromo y el golfo Maliaco.
+
+298
+00:23:32,538 --> 00:23:37,968
+Los griegos la llamaban Termópilas, las «Puertas Calientes», por los manantiales
+
+299
+00:23:38,018 --> 00:23:39,865
+de agua caliente que brotan allí.
+
+300
+00:23:41,365 --> 00:23:43,796
+Hoy el paisaje engaña.
+
+301
+00:23:43,846 --> 00:23:48,935
+Los ríos han arrastrado tanto sedimento en veinticinco siglos que el mar se ha retirado
+
+302
+00:23:48,985 --> 00:23:54,435
+varios kilómetros, y donde estaba el paso hay una llanura con una autopista.
+
+303
+00:23:54,485 --> 00:23:58,634
+Pero en el cuatrocientos ochenta el agua llegaba casi hasta la roca.
+
+304
+00:24:09,132 --> 00:24:13,082
+Era el lugar perfecto para anular una ventaja numérica.
+
+305
+00:24:13,132 --> 00:24:17,422
+Por mucho ejército que tengas, en un camino así solo pueden luchar a la vez unos
+
+306
+00:24:17,472 --> 00:24:19,422
+pocos cientos de hombres.
+
+307
+00:24:19,472 --> 00:24:24,362
+Y en ese tipo de lucha, cuerpo a cuerpo y en un frente estrecho, los griegos tenían
+
+308
+00:24:24,412 --> 00:24:26,454
+algo que los persas no tenían.
+
+309
+00:24:27,954 --> 00:24:32,244
+Los griegos levantaron de nuevo una vieja muralla que habían construido allí los
+
+310
+00:24:32,294 --> 00:24:36,464
+focenses, sus vecinos, y acamparon tras ella.
+
+311
+00:24:36,514 --> 00:24:39,365
+Y había una segunda pieza del plan:
+
+312
+00:24:39,414 --> 00:24:45,085
+en el mar, a unos setenta kilómetros, la flota griega, con Atenas al frente, cerraba
+
+313
+00:24:45,134 --> 00:24:49,706
+el estrecho de Artemisio para que los barcos persas no pudieran rodear el paso.
+
+314
+00:24:51,206 --> 00:24:56,976
+Detrás de esa estrategia estaba un ateniense muy astuto, Temístocles.
+
+315
+00:24:57,026 --> 00:25:01,196
+La idea era sencilla de decir y terrible de cumplir:
+
+316
+00:25:01,246 --> 00:25:05,940
+aguantar en tierra y en el mar a la vez, todo el tiempo que hiciera falta.
+
+317
+00:25:16,441 --> 00:25:21,471
+El mar, además, ayudó a los griegos antes incluso de empezar.
+
+318
+00:25:21,520 --> 00:25:26,250
+La flota persa fondeó frente a la costa de Magnesia, junto al cabo Sepias, en una
+
+319
+00:25:26,300 --> 00:25:29,230
+playa demasiado pequeña para tantos barcos.
+
+320
+00:25:29,280 --> 00:25:32,871
+Tuvieron que quedarse anclados en filas, mar adentro.
+
+321
+00:25:32,921 --> 00:25:36,334
+Y entonces se levantó un temporal que duró tres días.
+
+322
+00:25:37,833 --> 00:25:42,783
+Según Heródoto, se hundieron al menos cuatrocientos barcos de guerra, además de
+
+323
+00:25:42,833 --> 00:25:45,323
+incontables naves de carga.
+
+324
+00:25:45,373 --> 00:25:51,483
+Los vecinos de la costa estuvieron años recogiendo oro, plata y copas de los naufragios.
+
+325
+00:25:51,533 --> 00:25:56,203
+Los griegos, que habían rezado al viento del norte, lo tuvieron claro:
+
+326
+00:25:56,253 --> 00:25:58,400
+los dioses estaban de su parte.
+
+327
+00:25:59,900 --> 00:26:05,110
+Cuando vieron llegar al ejército persa, muchos griegos quisieron retirarse.
+
+328
+00:26:05,160 --> 00:26:10,950
+Los del Peloponeso proponían volver al istmo de Corinto y defender solo su península.
+
+329
+00:26:11,000 --> 00:26:16,310
+Los focenses y los locrios, que vivían justo detrás del paso, se indignaron.
+
+330
+00:26:16,360 --> 00:26:20,071
+Leónidas decidió quedarse y pedir refuerzos a las ciudades.
+
+331
+00:26:30,571 --> 00:26:35,201
+Jerjes acampó al otro lado y envió a un jinete a espiar.
+
+332
+00:26:35,251 --> 00:26:40,609
+Lo que el explorador vio le pareció tan raro que volvió a contarlo con todo detalle.
+
+333
+00:26:41,509 --> 00:26:46,539
+«Vio que unos hacían ejercicio desnudos y que otros se peinaban la melena.
+
+334
+00:26:46,589 --> 00:26:50,900
+Se quedó mirándolos asombrado y contó cuántos eran.
+
+335
+00:26:50,950 --> 00:26:52,840
+Nadie lo persiguió.
+
+336
+00:26:52,890 --> 00:26:54,834
+Nadie le hizo el menor caso.»
+
+337
+00:26:55,833 --> 00:26:58,323
+Jerjes no entendía nada.
+
+338
+00:26:58,373 --> 00:27:02,903
+Así que llamó al único hombre de su campamento que podía explicárselo:
+
+339
+00:27:02,953 --> 00:27:05,565
+el espartano exiliado, Demarato.
+
+340
+00:27:06,465 --> 00:27:11,715
+«Esos hombres han venido a luchar por el paso, y se están preparando para ello.
+
+341
+00:27:11,765 --> 00:27:13,475
+Tienen esa costumbre:
+
+342
+00:27:13,525 --> 00:27:16,955
+cuando van a jugarse la vida, se arreglan el pelo.
+
+343
+00:27:17,005 --> 00:27:21,655
+Si vences a estos y a los que se han quedado en Esparta, no habrá ningún otro pueblo
+
+344
+00:27:21,705 --> 00:27:24,240
+que se atreva a levantar la mano contra ti.»
+
+345
+00:27:25,240 --> 00:27:27,529
+Jerjes no le creyó.
+
+346
+00:27:27,579 --> 00:27:31,710
+Pensó que un puñado de hombres no podía estar pensando en serio en combatir contra
+
+347
+00:27:31,759 --> 00:27:33,730
+un ejército así.
+
+348
+00:27:33,779 --> 00:27:35,370
+Y esperó.
+
+349
+00:27:35,420 --> 00:27:40,150
+Cuatro días, cuenta Heródoto, esperando a que los griegos se dieran cuenta de su
+
+350
+00:27:40,200 --> 00:27:41,981
+locura y salieran corriendo.
+
+351
+00:27:43,481 --> 00:27:48,731
+De esos días de espera vienen las dos frases más famosas de la batalla.
+
+352
+00:27:48,781 --> 00:27:51,251
+La primera la cuenta Plutarco:
+
+353
+00:27:51,301 --> 00:27:55,592
+Jerjes habría mandado decir a Leónidas que entregara las armas.
+
+354
+00:27:55,642 --> 00:28:01,119
+Y Leónidas habría contestado con dos palabras en griego, «Molón labé».
+
+355
+00:28:02,020 --> 00:28:03,586
+«Venid a cogerlas.»
+
+356
+00:28:04,586 --> 00:28:07,116
+Es una frase perfecta.
+
+357
+00:28:07,166 --> 00:28:09,596
+Demasiado perfecta, quizá:
+
+358
+00:28:09,646 --> 00:28:14,317
+Heródoto, que escribió mucho más cerca de los hechos, no la menciona.
+
+359
+00:28:14,366 --> 00:28:17,297
+La segunda, en cambio, sí la cuenta él.
+
+360
+00:28:17,346 --> 00:28:21,777
+Un hombre de Traquis, la ciudad de al lado, avisó a los griegos de que los persas
+
+361
+00:28:21,826 --> 00:28:26,517
+eran tantos que, cuando disparaban sus flechas, tapaban el sol.
+
+362
+00:28:26,567 --> 00:28:30,424
+Un espartano llamado Dieneces le respondió sin inmutarse.
+
+363
+00:28:31,324 --> 00:28:34,194
+«Buenas noticias nos trae este extranjero.
+
+364
+00:28:34,244 --> 00:28:37,722
+Si los medos tapan el sol, lucharemos a la sombra.»
+
+365
+00:28:38,721 --> 00:28:42,011
+Heródoto dice que Dieneces fue el más valiente de todos.
+
+366
+00:28:42,061 --> 00:28:49,092
+Y que esa frase, y otras parecidas, fueron lo que dejó como recuerdo de sí mismo.
+
+367
+00:28:49,142 --> 00:28:53,043
+Al quinto día, Jerjes se cansó de esperar.
+
+368
+00:29:04,543 --> 00:29:06,013
+Hasta aquí:
+
+369
+00:29:06,063 --> 00:29:10,773
+Jerjes ha entrado en Grecia con el ejército más grande de su tiempo.
+
+370
+00:29:10,823 --> 00:29:16,033
+Unos siete mil griegos, con Leónidas y sus trescientos espartanos al frente, cierran
+
+371
+00:29:16,083 --> 00:29:21,613
+el paso de las Termópilas, mientras la flota griega bloquea el mar en Artemisio.
+
+372
+00:29:21,663 --> 00:29:25,987
+Y el Gran Rey, tras cuatro días de espera, va a atacar.
+
+373
+00:29:32,487 --> 00:29:34,657
+Primer día de combate.
+
+374
+00:29:34,707 --> 00:29:40,037
+Jerjes manda por delante a los medos y a los cisios, pueblos del corazón del imperio,
+
+375
+00:29:40,087 --> 00:29:41,597
+con una orden:
+
+376
+00:29:41,647 --> 00:29:44,777
+traer a los griegos vivos ante él.
+
+377
+00:29:44,827 --> 00:29:49,437
+Avanzan por el camino estrecho, cientos y luego miles.
+
+378
+00:29:49,487 --> 00:29:52,680
+Y se encuentran con algo que no habían visto nunca.
+
+379
+00:30:03,180 --> 00:30:05,830
+Delante de ellos hay una pared.
+
+380
+00:30:05,880 --> 00:30:07,190
+Hoplitas:
+
+381
+00:30:07,240 --> 00:30:09,950
+soldados de a pie con armadura pesada.
+
+382
+00:30:10,000 --> 00:30:15,530
+Casco de bronce, coraza, grebas en las piernas y un escudo redondo enorme, de casi
+
+383
+00:30:15,580 --> 00:30:20,590
+un metro, el hoplon, que les cubría desde la barbilla hasta los muslos.
+
+384
+00:30:20,640 --> 00:30:23,008
+Y una lanza de más de dos metros.
+
+385
+00:30:24,509 --> 00:30:26,259
+Formaban en falange:
+
+386
+00:30:26,309 --> 00:30:31,600
+filas apretadas, hombro con hombro, cada escudo cubriendo también el costado del
+
+387
+00:30:31,650 --> 00:30:33,000
+compañero.
+
+388
+00:30:33,049 --> 00:30:36,860
+Desde fuera parecía un muro de bronce erizado de lanzas.
+
+389
+00:30:36,910 --> 00:30:39,559
+Para romperlo había que acercarse.
+
+390
+00:30:39,609 --> 00:30:41,778
+Y acercarse era morir.
+
+391
+00:30:43,278 --> 00:30:46,128
+Los persas luchaban de otra manera.
+
+392
+00:30:46,178 --> 00:30:50,288
+Su fuerza eran los arqueros y la caballería en campo abierto.
+
+393
+00:30:50,337 --> 00:30:54,788
+Llevaban lanzas más cortas, escudos de mimbre y poca armadura.
+
+394
+00:30:54,837 --> 00:30:57,847
+En una llanura habrían envuelto a los griegos.
+
+395
+00:30:57,897 --> 00:31:01,569
+En aquel pasillo de roca, chocaban de frente contra la pared.
+
+396
+00:31:02,470 --> 00:31:06,800
+«Cayeron muchos, pero otros ocupaban su lugar.
+
+397
+00:31:06,850 --> 00:31:12,140
+Y dejaron claro a todo el mundo, y sobre todo al propio rey, que eran muchos los
+
+398
+00:31:12,190 --> 00:31:15,423
+seres humanos, pero pocos los hombres.»
+
+399
+00:31:16,423 --> 00:31:22,073
+Cuando los medos se retiraron, destrozados, Jerjes mandó a los mejores:
+
+400
+00:31:22,123 --> 00:31:25,753
+los Inmortales, su guardia de élite.
+
+401
+00:31:25,803 --> 00:31:31,893
+Eran diez mil, y se llamaban así porque, según Heródoto, cuando uno caía otro ocupaba
+
+402
+00:31:31,942 --> 00:31:35,913
+enseguida su puesto, de modo que siempre eran diez mil.
+
+403
+00:31:35,962 --> 00:31:38,612
+Los mandaba un general llamado Hidarnes.
+
+404
+00:31:49,110 --> 00:31:53,660
+Los relieves de los palacios persas nos los muestran todavía hoy:
+
+405
+00:31:53,710 --> 00:31:58,880
+hombres altos, de túnicas bordadas, con lanzas rematadas en granadas de plata y
+
+406
+00:31:58,930 --> 00:31:59,900
+oro.
+
+407
+00:31:59,950 --> 00:32:03,139
+Eran la imagen misma del poder del Gran Rey.
+
+408
+00:32:04,639 --> 00:32:07,129
+Les fue igual que a los medos.
+
+409
+00:32:07,179 --> 00:32:11,609
+Sus lanzas eran más cortas que las griegas, y el número no servía de nada en un
+
+410
+00:32:11,659 --> 00:32:13,789
+frente de pocos metros.
+
+411
+00:32:13,839 --> 00:32:16,849
+Los espartanos, además, tenían un truco.
+
+412
+00:32:16,899 --> 00:32:19,990
+De pronto daban la espalda, como si huyeran.
+
+413
+00:32:20,039 --> 00:32:24,669
+Los persas se lanzaban a perseguirlos gritando, perdían la formación…
+
+414
+00:32:24,719 --> 00:32:29,226
+y entonces los espartanos se giraban todos a la vez y caían sobre ellos.
+
+415
+00:32:30,726 --> 00:32:36,036
+Los griegos, además, luchaban por turnos, ciudad por ciudad, para que los cansados
+
+416
+00:32:36,086 --> 00:32:38,057
+pudieran descansar.
+
+417
+00:32:38,106 --> 00:32:41,536
+Solo los focenses no entraban en las rotaciones.
+
+418
+00:32:41,586 --> 00:32:45,236
+Leónidas los había mandado a vigilar algo en la montaña.
+
+419
+00:32:45,286 --> 00:32:46,428
+Volveremos a ello.
+
+420
+00:32:56,928 --> 00:33:02,058
+Desde una altura, sentado en su trono, Jerjes miraba.
+
+421
+00:33:02,108 --> 00:33:06,533
+Y Heródoto nos deja uno de los detalles más humanos de toda su historia.
+
+422
+00:33:07,433 --> 00:33:13,243
+«Se cuenta que, durante aquellos asaltos, el rey, que estaba mirando, saltó tres
+
+423
+00:33:13,293 --> 00:33:16,442
+veces de su trono, temiendo por su ejército.»
+
+424
+00:33:17,442 --> 00:33:19,832
+El segundo día fue igual.
+
+425
+00:33:19,882 --> 00:33:24,711
+Los persas atacaron pensando que los griegos, pocos y heridos, ya no podrían ni
+
+426
+00:33:24,761 --> 00:33:26,572
+levantar el escudo.
+
+427
+00:33:26,622 --> 00:33:28,471
+Se equivocaban.
+
+428
+00:33:28,521 --> 00:33:31,096
+Al caer la tarde volvieron a retirarse.
+
+429
+00:33:32,596 --> 00:33:35,165
+¿Cómo era aquello por dentro?
+
+430
+00:33:35,215 --> 00:33:37,446
+Hay que imaginar el ruido.
+
+431
+00:33:37,496 --> 00:33:40,486
+El golpe de miles de escudos chocando.
+
+432
+00:33:40,536 --> 00:33:43,806
+Los gritos en una decena de lenguas distintas.
+
+433
+00:33:43,855 --> 00:33:48,446
+El calor de agosto dentro de un casco de bronce cerrado, que apenas dejaba ver y
+
+434
+00:33:48,496 --> 00:33:49,405
+oír.
+
+435
+00:33:49,455 --> 00:33:54,885
+Y el polvo, levantado por decenas de miles de pies, que no dejaba ver más allá de
+
+436
+00:33:54,935 --> 00:33:55,951
+unos metros.
+
+437
+00:34:06,452 --> 00:34:10,083
+Un hoplita cargaba con más de veinte kilos de armadura.
+
+438
+00:34:10,133 --> 00:34:14,923
+Se luchaba empujando con el escudo, buscando con la lanza el hueco del cuello, de
+
+439
+00:34:14,973 --> 00:34:17,123
+la axila o de la ingle.
+
+440
+00:34:17,173 --> 00:34:21,762
+Cuando la lanza se partía, se seguía con la espada corta o con la contera de hierro
+
+441
+00:34:21,813 --> 00:34:23,983
+del otro extremo del asta.
+
+442
+00:34:24,033 --> 00:34:27,643
+En las primeras filas, cada minuto era agotador.
+
+443
+00:34:27,693 --> 00:34:31,072
+Por eso los relevos de Leónidas fueron tan importantes.
+
+444
+00:34:32,571 --> 00:34:34,281
+Dos días.
+
+445
+00:34:34,331 --> 00:34:38,721
+Las mejores tropas del mayor imperio del mundo no habían conseguido avanzar ni un
+
+446
+00:34:38,771 --> 00:34:39,801
+paso.
+
+447
+00:34:39,851 --> 00:34:45,441
+Y en el mar, en Artemisio, la flota persa tampoco lograba romper el bloqueo.
+
+448
+00:34:45,491 --> 00:34:49,650
+Por primera vez desde que salió de Asia, Jerjes no sabía qué hacer.
+
+449
+00:34:51,150 --> 00:34:56,480
+Mientras tanto, a pocos kilómetros, en el mar de Artemisio, se libraba la otra mitad
+
+450
+00:34:56,530 --> 00:34:58,179
+de la batalla.
+
+451
+00:34:58,230 --> 00:35:03,539
+Los trirremes griegos, unos doscientos setenta, se enfrentaron a la flota persa
+
+452
+00:35:03,590 --> 00:35:06,000
+durante los mismos tres días.
+
+453
+00:35:06,050 --> 00:35:10,739
+Las galeras chocaban con sus espolones de bronce, intentando partir el casco del
+
+454
+00:35:10,789 --> 00:35:12,019
+enemigo.
+
+455
+00:35:12,070 --> 00:35:14,259
+Nadie ganó claramente.
+
+456
+00:35:14,309 --> 00:35:17,045
+Pero los persas no consiguieron pasar.
+
+457
+00:35:27,546 --> 00:35:29,845
+Entonces alguien pidió verle.
+
+458
+00:35:46,345 --> 00:35:50,075
+Se llamaba Efialtes, hijo de Euridemo.
+
+459
+00:35:50,125 --> 00:35:54,315
+Era de la Málide, la comarca de alrededor del paso.
+
+460
+00:35:54,365 --> 00:35:57,494
+Y le ofreció a Jerjes lo que más necesitaba:
+
+461
+00:35:57,545 --> 00:35:58,519
+un camino.
+
+462
+00:36:00,019 --> 00:36:05,829
+Por detrás de las Termópilas, a través del monte, corría un sendero de pastores.
+
+463
+00:36:05,879 --> 00:36:11,128
+Subía por el valle de un río, cruzaba la montaña por un bosque de robles y bajaba
+
+464
+00:36:11,179 --> 00:36:13,909
+justo a la espalda de los griegos.
+
+465
+00:36:13,959 --> 00:36:16,370
+Los de la zona lo llamaban Anopea.
+
+466
+00:36:17,870 --> 00:36:19,980
+Leónidas lo conocía.
+
+467
+00:36:20,030 --> 00:36:22,660
+Por eso había mandado allí arriba a los mil focenses:
+
+468
+00:36:22,710 --> 00:36:26,019
+para cerrar esa puerta trasera.
+
+469
+00:36:26,070 --> 00:36:30,580
+Pero un sendero de noche, en un bosque, con mil hombres que no esperan a nadie,
+
+470
+00:36:30,630 --> 00:36:33,290
+es una puerta muy fácil de abrir.
+
+471
+00:36:43,789 --> 00:36:46,299
+Jerjes no se lo pensó.
+
+472
+00:36:46,349 --> 00:36:51,659
+Esa misma tarde, a la hora en que se encienden las lámparas, Hidarnes y sus Inmortales
+
+473
+00:36:51,710 --> 00:36:55,239
+salieron del campamento con Efialtes como guía.
+
+474
+00:36:55,289 --> 00:36:57,150
+Caminaron toda la noche.
+
+475
+00:36:58,050 --> 00:37:01,539
+«Al amanecer estaban ya en lo alto del monte.
+
+476
+00:37:01,590 --> 00:37:07,000
+Había un gran silencio, y las hojas de los robles cubrían el suelo.
+
+477
+00:37:07,050 --> 00:37:12,300
+Cuando los persas subían, se oía un enorme ruido de hojas pisadas.
+
+478
+00:37:12,350 --> 00:37:15,052
+Los focenses se pusieron en pie de un salto.»
+
+479
+00:37:16,052 --> 00:37:21,282
+Los focenses, sorprendidos, pensaron que el ataque iba contra ellos.
+
+480
+00:37:21,332 --> 00:37:25,282
+Así que se retiraron a la cumbre para morir allí con honor.
+
+481
+00:37:25,332 --> 00:37:29,561
+Pero los persas, bajo una lluvia de flechas, ni se pararon.
+
+482
+00:37:29,612 --> 00:37:32,081
+No les interesaban los focenses.
+
+483
+00:37:32,132 --> 00:37:34,175
+Siguieron bajando por el otro lado.
+
+484
+00:37:35,675 --> 00:37:38,284
+Había sido una marcha brutal.
+
+485
+00:37:38,335 --> 00:37:43,664
+Una columna de miles de hombres, de noche, por un camino de pastores, subiendo y
+
+486
+00:37:43,715 --> 00:37:47,905
+bajando más de mil metros de desnivel por un monte que no conocían.
+
+487
+00:37:47,955 --> 00:37:50,045
+Sin luces que los delataran.
+
+488
+00:37:50,095 --> 00:37:54,764
+Siguiendo a un desconocido que podía estar llevándoles a una emboscada.
+
+489
+00:37:54,815 --> 00:37:58,221
+Al amanecer, estaban sobre la espalda de los griegos.
+
+490
+00:38:08,720 --> 00:38:11,191
+La puerta trasera estaba abierta.
+
+491
+00:38:12,691 --> 00:38:17,840
+Durante siglos, el nombre de Efialtes ha sido sinónimo de traidor.
+
+492
+00:38:17,891 --> 00:38:22,320
+En griego moderno, la palabra se usa también para «pesadilla».
+
+493
+00:38:22,371 --> 00:38:25,892
+Pero ¿hasta qué punto fue él quien decidió la batalla?
+
+494
+00:38:27,392 --> 00:38:31,882
+Heródoto cuenta que había otras versiones, que señalaban a otros dos hombres de
+
+495
+00:38:31,932 --> 00:38:33,202
+la zona.
+
+496
+00:38:33,252 --> 00:38:37,922
+Él se queda con Efialtes porque los griegos pusieron precio a su cabeza.
+
+497
+00:38:37,972 --> 00:38:43,722
+Efialtes huyó a Tesalia y años después, al volver, lo mató otro hombre de Traquis,
+
+498
+00:38:43,772 --> 00:38:46,604
+aunque, según Heródoto, por otro motivo.
+
+499
+00:38:48,104 --> 00:38:53,114
+Muchos historiadores de hoy creen que el traidor importa menos de lo que parece.
+
+500
+00:38:53,164 --> 00:38:58,233
+Un ejército como el persa tenía exploradores, aliados griegos del norte y guías
+
+501
+00:38:58,284 --> 00:39:00,134
+locales de sobra.
+
+502
+00:39:00,184 --> 00:39:04,673
+Que existiera un sendero por la montaña no era ningún secreto en la comarca.
+
+503
+00:39:04,724 --> 00:39:07,676
+Tarde o temprano, alguien se lo habría enseñado.
+
+504
+00:39:18,175 --> 00:39:21,025
+Y queda otra pregunta incómoda:
+
+505
+00:39:21,076 --> 00:39:24,285
+por qué los mil focenses no aguantaron.
+
+506
+00:39:24,335 --> 00:39:26,545
+Heródoto habla de sorpresa.
+
+507
+00:39:26,596 --> 00:39:32,565
+Algunos estudios recientes sugieren causas más turbias, ligadas a rivalidades locales.
+
+508
+00:39:32,615 --> 00:39:34,065
+No lo sabemos.
+
+509
+00:39:34,115 --> 00:39:36,909
+Lo que sí sabemos es lo que ocurrió después.
+
+510
+00:39:48,409 --> 00:39:49,798
+Hasta aquí:
+
+511
+00:39:49,849 --> 00:39:54,418
+durante dos días, los griegos han frenado en el desfiladero a las mejores tropas
+
+512
+00:39:54,469 --> 00:39:57,438
+de Persia, Inmortales incluidos.
+
+513
+00:39:57,489 --> 00:40:02,119
+Pero un hombre de la zona, Efialtes, ha guiado a los Inmortales por el sendero de
+
+514
+00:40:02,169 --> 00:40:03,558
+la montaña.
+
+515
+00:40:03,608 --> 00:40:06,838
+Los focenses que lo vigilaban se han apartado.
+
+516
+00:40:06,889 --> 00:40:11,483
+Al amanecer del tercer día, los persas bajan por la espalda de Leónidas.
+
+517
+00:40:17,983 --> 00:40:23,593
+En el campamento griego, todavía era de noche cuando empezaron a llegar las noticias.
+
+518
+00:40:23,643 --> 00:40:28,833
+Primero, el adivino del ejército, Megistias, examinó las entrañas de los animales
+
+519
+00:40:28,884 --> 00:40:32,793
+sacrificados, como se hacía antes de cada batalla.
+
+520
+00:40:32,844 --> 00:40:36,411
+Y anunció que la muerte les llegaría con el amanecer.
+
+521
+00:40:46,912 --> 00:40:52,182
+Después llegaron unos desertores del campo persa con la noticia del rodeo.
+
+522
+00:40:52,232 --> 00:40:57,981
+Y al rayar el día, bajaron corriendo los vigías que habían apostado en las alturas.
+
+523
+00:40:58,032 --> 00:40:59,822
+Ya no había duda.
+
+524
+00:40:59,872 --> 00:41:02,230
+En pocas horas estarían rodeados.
+
+525
+00:41:03,730 --> 00:41:06,719
+Los griegos se reunieron en consejo.
+
+526
+00:41:06,769 --> 00:41:08,599
+Unos querían quedarse.
+
+527
+00:41:08,650 --> 00:41:12,980
+Otros, la mayoría, irse mientras aún se pudiera.
+
+528
+00:41:13,030 --> 00:41:16,519
+Y aquí está el gran misterio de las Termópilas.
+
+529
+00:41:16,570 --> 00:41:20,480
+Al final, casi todo el ejército se retiró hacia el sur.
+
+530
+00:41:20,530 --> 00:41:23,246
+Pero Leónidas y sus espartanos se quedaron.
+
+531
+00:41:24,746 --> 00:41:25,956
+¿Por qué?
+
+532
+00:41:26,006 --> 00:41:28,695
+Heródoto ofrece dos versiones.
+
+533
+00:41:28,746 --> 00:41:33,655
+Según la primera, los aliados se fueron por su cuenta, desmoralizados.
+
+534
+00:41:33,706 --> 00:41:39,596
+Según la segunda, la que él prefiere, fue Leónidas quien los despidió, para salvarlos,
+
+535
+00:41:39,646 --> 00:41:44,516
+porque para él y para los espartanos no era honroso abandonar el puesto que habían
+
+536
+00:41:44,566 --> 00:41:45,782
+venido a defender.
+
+537
+00:41:46,684 --> 00:41:52,657
+«Si se quedaba, dejaría un gran nombre, y la prosperidad de Esparta no sería borrada.»
+
+538
+00:41:53,657 --> 00:41:55,766
+Ahí está el oráculo:
+
+539
+00:41:55,817 --> 00:41:58,487
+o la ciudad o el rey.
+
+540
+00:41:58,537 --> 00:42:03,507
+Para Heródoto, Leónidas eligió morir para que Esparta viviera.
+
+541
+00:42:03,557 --> 00:42:07,467
+Los historiadores de hoy añaden una razón más militar.
+
+542
+00:42:07,517 --> 00:42:12,586
+Si todos se iban a la vez, por un camino estrecho y con la caballería persa detrás,
+
+543
+00:42:12,637 --> 00:42:16,367
+el ejército entero podía ser masacrado en la retirada.
+
+544
+00:42:16,417 --> 00:42:19,298
+Alguien tenía que quedarse a frenar al enemigo.
+
+545
+00:42:29,798 --> 00:42:34,148
+Hay otra forma de verlo, que no excluye las anteriores.
+
+546
+00:42:34,199 --> 00:42:39,428
+Para un espartano, retirarse sin orden era la mayor vergüenza posible.
+
+547
+00:42:39,478 --> 00:42:44,348
+Toda su vida, desde los siete años, se había preparado para no hacerlo.
+
+548
+00:42:44,398 --> 00:42:49,668
+Quizá la pregunta no sea por qué se quedaron, sino cómo habrían podido irse.
+
+549
+00:42:51,169 --> 00:42:56,999
+Leónidas incluso intentó salvar al adivino Megistias y lo mandó marcharse.
+
+550
+00:42:57,049 --> 00:42:59,019
+Megistias se negó.
+
+551
+00:42:59,069 --> 00:43:04,166
+Hizo irse a su único hijo, que también estaba en el ejército, y él se quedó.
+
+552
+00:43:05,666 --> 00:43:08,635
+No se quedaron solo los espartanos.
+
+553
+00:43:08,686 --> 00:43:13,755
+Se quedaron también setecientos hombres de Tespias, una pequeña ciudad de Beocia,
+
+554
+00:43:13,806 --> 00:43:15,675
+con su jefe Demófilo.
+
+555
+00:43:15,726 --> 00:43:17,396
+Nadie les obligó.
+
+556
+00:43:17,446 --> 00:43:20,835
+Heródoto dice que se negaron a abandonar a Leónidas.
+
+557
+00:43:20,885 --> 00:43:24,211
+Su ciudad sería la siguiente en caer, y lo sabían.
+
+558
+00:43:34,711 --> 00:43:40,061
+Se quedaron también cuatrocientos tebanos, pero estos, según Heródoto, contra su
+
+559
+00:43:40,112 --> 00:43:45,922
+voluntad, como rehenes, porque Tebas era sospechosa de estar del lado persa.
+
+560
+00:43:45,972 --> 00:43:50,621
+Muchos historiadores dudan de esta versión, escrita por un autor que no apreciaba
+
+561
+00:43:50,672 --> 00:43:51,472
+a los tebanos.
+
+562
+00:43:50,891 --> 00:43:56,891
+Y con todos ellos, los ilotas, quizá cientos, cuyo nombre nadie apuntó.
+
+563
+00:43:59,173 --> 00:44:02,523
+Los tespios pagaron muy caro su gesto.
+
+564
+00:44:02,574 --> 00:44:07,283
+Semanas después, el ejército persa llegó a su ciudad y la quemó.
+
+565
+00:44:07,333 --> 00:44:10,323
+Sus habitantes habían huido al Peloponeso.
+
+566
+00:44:10,373 --> 00:44:15,363
+Y al año siguiente, en Platea, los tespios supervivientes volvieron a luchar contra
+
+567
+00:44:15,413 --> 00:44:18,763
+Persia, aunque ya sin armadura de hoplita:
+
+568
+00:44:18,813 --> 00:44:20,661
+no les quedaba con qué comprarla.
+
+569
+00:44:31,161 --> 00:44:35,411
+Unos mil cuatrocientos hombres, quizá más con los ilotas.
+
+570
+00:44:35,461 --> 00:44:38,750
+Ese es el número real de la última resistencia.
+
+571
+00:44:38,800 --> 00:44:40,850
+Muchos más de trescientos.
+
+572
+00:44:40,900 --> 00:44:43,762
+Y, aun así, nada frente a lo que venía.
+
+573
+00:44:45,262 --> 00:44:50,572
+De esa mañana, autores muy posteriores cuentan que Leónidas dijo a sus hombres algo
+
+574
+00:44:50,622 --> 00:44:51,422
+así:
+
+575
+00:44:52,050 --> 00:44:56,040
+«Desayunad bien, que esta noche cenaremos en el Hades.»
+
+576
+00:44:57,041 --> 00:45:00,150
+Puede que lo dijera, puede que no.
+
+577
+00:45:00,201 --> 00:45:03,811
+Lo que hizo, en cambio, lo cuenta Heródoto.
+
+578
+00:45:03,861 --> 00:45:08,550
+Jerjes esperó a media mañana para atacar, como le había dicho Efialtes, para dar
+
+579
+00:45:08,601 --> 00:45:11,510
+tiempo a los Inmortales a bajar del monte.
+
+580
+00:45:11,561 --> 00:45:15,326
+Y Leónidas, en lugar de esperar tras la muralla, salió.
+
+581
+00:45:16,825 --> 00:45:21,295
+En los días anteriores habían defendido la parte más estrecha.
+
+582
+00:45:21,345 --> 00:45:26,394
+Ahora avanzaron hasta donde el paso se ensanchaba, para matar a cuantos más persas
+
+583
+00:45:26,445 --> 00:45:28,735
+pudieran antes del final.
+
+584
+00:45:28,785 --> 00:45:30,809
+Ya no buscaban sobrevivir.
+
+585
+00:45:31,709 --> 00:45:34,199
+«Cayeron muchísimos bárbaros.
+
+586
+00:45:34,249 --> 00:45:39,499
+Detrás de cada batallón, sus jefes los empujaban a latigazos hacia delante.
+
+587
+00:45:39,549 --> 00:45:42,119
+Muchos cayeron al mar y se ahogaron.
+
+588
+00:45:42,169 --> 00:45:45,305
+Muchos más murieron pisoteados unos por otros.»
+
+589
+00:45:46,305 --> 00:45:50,035
+La mayoría de los griegos tenían ya las lanzas rotas.
+
+590
+00:45:50,085 --> 00:45:52,315
+Siguieron con las espadas.
+
+591
+00:45:52,365 --> 00:45:58,275
+Y en esa lucha cayó Leónidas, el rey de Esparta, luchando en primera línea.
+
+592
+00:45:58,325 --> 00:46:02,715
+Heródoto escribe que se informó de los nombres de los trescientos, porque fueron
+
+593
+00:46:02,765 --> 00:46:04,536
+hombres dignos de memoria.
+
+594
+00:46:15,036 --> 00:46:18,545
+Del lado persa también cayeron nombres importantes:
+
+595
+00:46:18,596 --> 00:46:24,945
+dos hermanos del propio Jerjes, Abrocomes e Hiperantes, hijos del rey Darío.
+
+596
+00:46:24,996 --> 00:46:28,327
+La batalla había llegado al corazón de la familia real.
+
+597
+00:46:29,827 --> 00:46:36,157
+Entonces se libró la pelea más feroz de la batalla, alrededor del cuerpo de Leónidas.
+
+598
+00:46:36,207 --> 00:46:38,456
+Los persas querían llevárselo.
+
+599
+00:46:38,507 --> 00:46:40,976
+Los griegos no lo permitieron.
+
+600
+00:46:41,027 --> 00:46:45,817
+Heródoto dice que lo rescataron a fuerza de valor y que hicieron retroceder al enemigo
+
+601
+00:46:45,867 --> 00:46:47,155
+cuatro veces.
+
+602
+00:46:48,653 --> 00:46:52,737
+Y en ese momento llegaron los Inmortales, por detrás.
+
+603
+00:46:54,238 --> 00:46:58,948
+Los griegos que quedaban retrocedieron hasta la parte estrecha del paso, cruzaron
+
+604
+00:46:58,998 --> 00:47:03,128
+la muralla y se juntaron todos en una pequeña colina.
+
+605
+00:47:03,178 --> 00:47:05,508
+Todos menos los tebanos.
+
+606
+00:47:05,558 --> 00:47:09,914
+Heródoto cuenta lo que pasó en aquella colina con una frase que no se olvida.
+
+607
+00:47:10,815 --> 00:47:15,924
+«Allí se defendieron con las espadas, los que todavía las tenían, y con las manos
+
+608
+00:47:15,974 --> 00:47:17,904
+y con los dientes.
+
+609
+00:47:17,954 --> 00:47:21,204
+Y los bárbaros los sepultaron bajo sus proyectiles.»
+
+610
+00:47:22,204 --> 00:47:25,434
+Los persas no se acercaron a rematarlos.
+
+611
+00:47:25,484 --> 00:47:30,673
+Los fueron matando desde lejos, con flechas, jabalinas y piedras, hasta que no quedó
+
+612
+00:47:30,724 --> 00:47:31,760
+nadie en pie.
+
+613
+00:47:47,260 --> 00:47:48,750
+¿Y los tebanos?
+
+614
+00:47:48,800 --> 00:47:53,950
+Según Heródoto, al ver el final se separaron de los demás y se acercaron a los persas
+
+615
+00:47:54,000 --> 00:47:58,590
+con las manos extendidas, gritando que siempre habían estado de su lado.
+
+616
+00:47:58,641 --> 00:48:01,550
+A algunos los mataron al llegar.
+
+617
+00:48:01,601 --> 00:48:06,458
+Al resto, por orden de Jerjes, los marcaron con hierro con la señal del rey.
+
+618
+00:48:16,958 --> 00:48:22,067
+Después, Jerjes recorrió el campo de batalla entre los muertos.
+
+619
+00:48:22,117 --> 00:48:27,007
+Y cuando le dijeron cuál era el cuerpo de Leónidas, hizo algo que, según el propio
+
+620
+00:48:27,057 --> 00:48:33,057
+Heródoto, los persas no solían hacer, porque solían honrar a los enemigos valientes.
+
+621
+00:48:34,018 --> 00:48:37,827
+«Ordenó que le cortaran la cabeza y la clavaran en un palo.
+
+622
+00:48:37,878 --> 00:48:43,407
+Y para mí, esta es la prueba más clara de que el rey Jerjes había odiado a Leónidas,
+
+623
+00:48:43,458 --> 00:48:46,556
+mientras vivía, más que a ningún otro hombre.»
+
+624
+00:48:47,557 --> 00:48:54,106
+Después, Jerjes mandó llamar a Demarato, el espartano que le había avisado de todo.
+
+625
+00:48:54,157 --> 00:48:56,822
+Y por primera vez le dio la razón.
+
+626
+00:48:57,721 --> 00:49:00,890
+«Demarato, eres un hombre de bien.
+
+627
+00:49:00,940 --> 00:49:03,490
+Todo lo que dijiste ha ocurrido.
+
+628
+00:49:03,541 --> 00:49:04,790
+Ahora dime:
+
+629
+00:49:04,840 --> 00:49:07,270
+¿cuántos lacedemonios quedan?
+
+630
+00:49:07,320 --> 00:49:10,059
+¿Y son todos tan buenos guerreros como estos?»
+
+631
+00:49:10,960 --> 00:49:15,949
+«Los lacedemonios son muchos, rey, y tienen muchas ciudades.
+
+632
+00:49:16,000 --> 00:49:20,589
+En Esparta hay unos ocho mil hombres, y todos son iguales a los que han luchado
+
+633
+00:49:20,639 --> 00:49:21,440
+aquí.»
+
+634
+00:49:22,182 --> 00:49:24,312
+Ocho mil como esos.
+
+635
+00:49:24,362 --> 00:49:27,192
+Jerjes acababa de ganar una batalla.
+
+636
+00:49:27,242 --> 00:49:31,284
+Pero había empezado a entender lo que le costaría ganar la guerra.
+
+637
+00:49:49,785 --> 00:49:52,615
+La batalla había terminado.
+
+638
+00:49:52,665 --> 00:49:55,535
+Pero Jerjes todavía tenía un problema:
+
+639
+00:49:55,585 --> 00:49:57,115
+su flota.
+
+640
+00:49:57,165 --> 00:50:01,635
+Los marineros llevaban días oyendo hablar del desfiladero y sabían que algo había
+
+641
+00:50:01,685 --> 00:50:03,015
+ido mal.
+
+642
+00:50:03,065 --> 00:50:05,844
+Así que el rey preparó un espectáculo.
+
+643
+00:50:16,344 --> 00:50:22,253
+Según Heródoto, de sus propios muertos, unos veinte mil, dejó a la vista solo un
+
+644
+00:50:22,304 --> 00:50:23,533
+millar.
+
+645
+00:50:23,583 --> 00:50:27,753
+A los demás los enterró en zanjas cubiertas de hojas y tierra.
+
+646
+00:50:27,804 --> 00:50:32,253
+Y después invitó a los marineros a cruzar y ver el campo de batalla.
+
+647
+00:50:32,304 --> 00:50:34,313
+Pero no engañó a nadie.
+
+648
+00:50:34,364 --> 00:50:36,833
+Daba risa, dice Heródoto:
+
+649
+00:50:36,884 --> 00:50:41,106
+un millar de persas por un lado y los griegos amontonados por otro.
+
+650
+00:50:42,606 --> 00:50:47,036
+Durante siglos, esa colina fue solo un nombre en un libro.
+
+651
+00:50:47,086 --> 00:50:52,676
+Hasta que en mil novecientos treinta y nueve un arqueólogo griego, Spyridon Marinatos,
+
+652
+00:50:52,726 --> 00:50:56,516
+excavó una pequeña elevación del paso, el Kolonós.
+
+653
+00:50:56,567 --> 00:50:59,436
+Y encontró cientos de puntas de flecha.
+
+654
+00:51:00,936 --> 00:51:06,005
+Muchas eran de tipo oriental, como las que usaban los arqueros persas.
+
+655
+00:51:06,056 --> 00:51:10,746
+Estaban justo donde Heródoto decía que habían caído los últimos defensores:
+
+656
+00:51:10,796 --> 00:51:13,545
+bajo una lluvia de proyectiles.
+
+657
+00:51:13,596 --> 00:51:18,528
+Dos mil cuatrocientos años después, la arqueología confirmaba el relato.
+
+658
+00:51:29,028 --> 00:51:33,898
+Cuando Heródoto visitó el paso, sobre aquella colina había un león de piedra en
+
+659
+00:51:33,949 --> 00:51:35,658
+honor de Leónidas.
+
+660
+00:51:35,708 --> 00:51:38,378
+Y había columnas con inscripciones.
+
+661
+00:51:38,429 --> 00:51:41,078
+Una era para todos los que lucharon allí.
+
+662
+00:51:41,128 --> 00:51:43,918
+Otra, solo para los espartanos.
+
+663
+00:51:43,969 --> 00:51:48,389
+Las escribió, o al menos así se creía, el poeta Simónides.
+
+664
+00:51:49,289 --> 00:51:54,954
+«Aquí, contra tres millones, lucharon un día cuatro mil hombres del Peloponeso.»
+
+665
+00:51:55,954 --> 00:51:58,304
+Y la de los espartanos.
+
+666
+00:51:58,354 --> 00:52:01,804
+Probablemente el epitafio más famoso de la historia.
+
+667
+00:52:01,854 --> 00:52:03,224
+Dos versos.
+
+668
+00:52:03,274 --> 00:52:04,954
+Ni una palabra de más.
+
+669
+00:52:05,855 --> 00:52:11,855
+«Extranjero, ve a decir a los espartanos que aquí yacemos, obedientes a sus órdenes.»
+
+670
+00:52:13,407 --> 00:52:16,677
+Heródoto apuntó también a los que más destacaron.
+
+671
+00:52:16,727 --> 00:52:21,556
+Después de Dieneces, dos hermanos espartanos, Alfeo y Marón.
+
+672
+00:52:21,606 --> 00:52:26,516
+Y entre los tespios, que tantas veces se olvidan, uno llamado Ditirambo.
+
+673
+00:52:26,567 --> 00:52:31,192
+Nombres que no salen en ninguna película, y que solo conocemos gracias a él.
+
+674
+00:52:41,692 --> 00:52:47,241
+Hubo también una tercera inscripción, para el adivino Megistias, el que supo que
+
+675
+00:52:47,291 --> 00:52:50,001
+iba a morir y no quiso irse.
+
+676
+00:52:50,052 --> 00:52:53,878
+Esa la pagó Simónides de su bolsillo, porque era su amigo.
+
+677
+00:52:55,376 --> 00:52:57,486
+¿Sobrevivió alguien?
+
+678
+00:52:57,536 --> 00:53:03,006
+Dos espartanos se habían quedado atrás antes del final, enfermos de los ojos.
+
+679
+00:53:03,056 --> 00:53:08,806
+Uno, Éurito, al enterarse del rodeo, se puso la armadura, pidió a su ilota que lo
+
+680
+00:53:08,856 --> 00:53:11,666
+llevara al frente y murió luchando.
+
+681
+00:53:11,717 --> 00:53:14,799
+El otro, Aristodemo, volvió a Esparta.
+
+682
+00:53:16,300 --> 00:53:19,350
+En Esparta no hubo piedad para él.
+
+683
+00:53:19,400 --> 00:53:24,810
+Nadie le daba fuego para encender su hogar, nadie le dirigía la palabra.
+
+684
+00:53:24,860 --> 00:53:27,570
+Lo llamaban «el Tembloroso».
+
+685
+00:53:27,621 --> 00:53:32,990
+Otro superviviente, Pantites, que había ido como mensajero a Tesalia, se ahorcó
+
+686
+00:53:33,040 --> 00:53:34,634
+de vergüenza al volver.
+
+687
+00:53:45,134 --> 00:53:50,283
+Aristodemo tendría su revancha un año más tarde, en la batalla de Platea.
+
+688
+00:53:50,333 --> 00:53:55,263
+Luchó como un loco, buscando la muerte, y la encontró.
+
+689
+00:53:55,313 --> 00:53:58,763
+Heródoto dice que fue el más valiente de aquel día.
+
+690
+00:53:58,813 --> 00:54:03,743
+Pero los espartanos no le concedieron los honores, porque había luchado para morir,
+
+691
+00:54:03,793 --> 00:54:04,983
+no para vencer.
+
+692
+00:54:23,483 --> 00:54:26,472
+Las Termópilas fueron una derrota.
+
+693
+00:54:26,523 --> 00:54:31,492
+Tras el paso, el ejército persa bajó por Grecia central, quemó ciudades y llegó
+
+694
+00:54:31,543 --> 00:54:33,052
+a Atenas.
+
+695
+00:54:33,103 --> 00:54:35,932
+Los atenienses habían evacuado la ciudad.
+
+696
+00:54:35,983 --> 00:54:38,650
+Los persas incendiaron la Acrópolis.
+
+697
+00:54:40,150 --> 00:54:43,779
+Pero el tiempo que compraron en el desfiladero sirvió.
+
+698
+00:54:43,829 --> 00:54:49,000
+Pocas semanas después, la flota griega, guiada por Temístocles, destrozó a la persa
+
+699
+00:54:49,050 --> 00:54:51,239
+en el estrecho de Salamina.
+
+700
+00:54:51,289 --> 00:54:53,539
+Jerjes volvió a Asia.
+
+701
+00:54:53,590 --> 00:54:58,559
+Y un año más tarde, en Platea, el ejército que había dejado en Grecia fue derrotado
+
+702
+00:54:58,610 --> 00:55:01,884
+por una coalición griega con los espartanos al frente.
+
+703
+00:55:12,384 --> 00:55:17,693
+En Platea, según Heródoto, alguien propuso al general espartano Pausanias hacer
+
+704
+00:55:17,744 --> 00:55:23,213
+con el cadáver del general persa lo mismo que Jerjes había hecho con Leónidas.
+
+705
+00:55:23,264 --> 00:55:24,913
+Pausanias se negó:
+
+706
+00:55:24,963 --> 00:55:27,634
+eso era cosa de bárbaros, dijo.
+
+707
+00:55:27,684 --> 00:55:31,878
+Leónidas, añadió, ya estaba suficientemente vengado.
+
+708
+00:55:33,378 --> 00:55:39,148
+Cuarenta años después de la batalla, los restos de Leónidas fueron llevados a Esparta.
+
+709
+00:55:39,198 --> 00:55:44,807
+Allí, junto a su tumba, se levantó una columna con los nombres de los trescientos.
+
+710
+00:55:44,858 --> 00:55:46,927
+Heródoto pudo verla.
+
+711
+00:55:46,978 --> 00:55:51,365
+Es muy probable que de ahí sacara la lista de nombres que dice haber averiguado.
+
+712
+00:55:52,865 --> 00:55:55,554
+Y el paso siguió siendo lo que era:
+
+713
+00:55:55,605 --> 00:55:58,135
+una puerta con una trampa.
+
+714
+00:55:58,185 --> 00:56:03,315
+Doscientos años después, en el doscientos setenta y nueve antes de Cristo, los griegos
+
+715
+00:56:03,365 --> 00:56:08,135
+volvieron a cerrarlo contra un ejército de gálatas que bajaba hacia Delfos.
+
+716
+00:56:08,185 --> 00:56:13,075
+Los gálatas encontraron un camino por la montaña y rodearon a los defensores, que
+
+717
+00:56:13,125 --> 00:56:14,879
+tuvieron que huir por mar.
+
+718
+00:56:25,379 --> 00:56:30,749
+En el ciento noventa y uno, fue un ejército romano el que se encontró el paso cerrado,
+
+719
+00:56:30,799 --> 00:56:33,729
+esta vez por el rey Antíoco Tercero.
+
+720
+00:56:33,779 --> 00:56:39,389
+Y un oficial romano, Catón, condujo a sus hombres de noche por las alturas del Calídromo
+
+721
+00:56:39,439 --> 00:56:41,749
+y apareció sobre el enemigo.
+
+722
+00:56:41,799 --> 00:56:45,110
+Otra vez el mismo truco, en el mismo sitio.
+
+723
+00:56:46,610 --> 00:56:51,420
+Y en abril de mil novecientos cuarenta y uno, durante la invasión alemana de Grecia,
+
+724
+00:56:51,470 --> 00:56:56,099
+soldados neozelandeses y australianos defendieron las Termópilas para cubrir la
+
+725
+00:56:56,150 --> 00:56:59,119
+retirada del resto del ejército aliado.
+
+726
+00:56:59,170 --> 00:57:03,559
+Veinticuatro siglos después, la misma misión que Leónidas:
+
+727
+00:57:03,610 --> 00:57:06,266
+aguantar para que otros pudieran irse.
+
+728
+00:57:07,767 --> 00:57:12,517
+Desde entonces, las Termópilas nunca han dejado de contarse.
+
+729
+00:57:12,567 --> 00:57:17,717
+Las contaron los romanos, los pintores del siglo diecinueve, los soldados de las
+
+730
+00:57:17,767 --> 00:57:20,856
+dos guerras mundiales, el cine.
+
+731
+00:57:20,907 --> 00:57:24,277
+Cada época ha encontrado allí lo que buscaba:
+
+732
+00:57:24,327 --> 00:57:28,973
+libertad, sacrificio, patria, o simplemente un buen espectáculo.
+
+733
+00:57:39,472 --> 00:57:42,182
+Por eso conviene volver a lo que sabemos.
+
+734
+00:57:42,233 --> 00:57:45,362
+No eran trescientos, eran miles.
+
+735
+00:57:45,413 --> 00:57:49,062
+Los persas no eran millones, pero sí muchísimos.
+
+736
+00:57:49,112 --> 00:57:53,582
+Algunas de las frases más famosas las escribió alguien siglos después.
+
+737
+00:57:53,632 --> 00:57:56,522
+Y la batalla no salvó a Grecia por sí sola:
+
+738
+00:57:56,572 --> 00:57:58,925
+la salvaron Salamina y Platea.
+
+739
+00:58:00,425 --> 00:58:05,775
+Lo que sí hicieron las Termópilas fue otra cosa, quizá más importante.
+
+740
+00:58:05,825 --> 00:58:09,954
+Demostraron que el ejército del Gran Rey podía ser detenido.
+
+741
+00:58:10,005 --> 00:58:14,215
+Que unas ciudades que se odiaban entre sí podían luchar juntas.
+
+742
+00:58:14,265 --> 00:58:20,255
+Durante tres días, espartanos, tespios, corintios, arcadios y focenses pelearon
+
+743
+00:58:20,305 --> 00:58:22,155
+bajo un mismo mando.
+
+744
+00:58:22,205 --> 00:58:27,239
+Eso, en la Grecia de entonces, era casi tan raro como la propia resistencia.
+
+745
+00:58:37,739 --> 00:58:43,128
+Pero hay algo que ni la arqueología ni la crítica moderna han podido desmontar.
+
+746
+00:58:43,179 --> 00:58:48,009
+Una mañana de verano del cuatrocientos ochenta, unos cientos de hombres supieron
+
+747
+00:58:48,059 --> 00:58:52,197
+que iban a morir, pudieron irse y no se fueron.
+
+748
+00:58:53,696 --> 00:58:59,126
+Heródoto escribió su obra para que, en sus propias palabras, el tiempo no borrara
+
+749
+00:58:59,176 --> 00:59:02,626
+las grandes hazañas de los griegos y de los bárbaros.
+
+750
+00:59:02,676 --> 00:59:04,206
+De los dos.
+
+751
+00:59:04,256 --> 00:59:08,806
+No es casualidad que el mismo libro que hace inmortal a Leónidas nos muestre a un
+
+752
+00:59:08,856 --> 00:59:11,846
+Jerjes que llora por sus soldados.
+
+753
+00:59:11,896 --> 00:59:15,606
+Para Heródoto, la historia no era de buenos y malos.
+
+754
+00:59:15,656 --> 00:59:16,896
+Era de hombres.
+
+755
+00:59:18,396 --> 00:59:23,646
+Un hombre de Halicarnaso, cuarenta años después, se tomó la molestia de averiguar
+
+756
+00:59:23,696 --> 00:59:26,485
+sus nombres, uno por uno.
+
+757
+00:59:26,536 --> 00:59:31,282
+Y nos dejó, entre tantos, el de uno que dijo que lucharía a la sombra.
+
+758
+00:59:41,782 --> 00:59:47,782
+Extranjero, ve a decir a los espartanos que aquí yacemos, obedientes a sus órdenes.

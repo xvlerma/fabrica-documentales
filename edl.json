@@ -1,0 +1,5045 @@
+[
+{
+"n": 0,
+"t": 0.0,
+"d": 2.18,
+"unit": 1,
+"heard": "Seguro que la has visto.",
+"spec": {
+"commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
+"at": "Seguro"
+}
+},
+{
+"n": 1,
+"t": 2.18,
+"d": 3.7,
+"unit": 1,
+"heard": "Trescientos espartanos de capa roja, solos, frenando a",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1926.242/1926.242_print.jpg",
+"cl": "108536",
+"at": "Trescientos espartanos"
+}
+},
+{
+"n": 2,
+"t": 5.88,
+"d": 4.74,
+"unit": 1,
+"heard": "a un imperio entero. Es la imagen de la película «Trescientos».",
+"spec": {
+"commons": "Persepolis Relief 12.jpg",
+"at": "un imperio entero"
+}
+},
+{
+"n": 3,
+"t": 10.62,
+"d": 7.54,
+"unit": 1,
+"heard": "Pero lo que pasó de verdad fue más extraño. Más duro. Y mucho más interesante.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1926.54/1926.54_print.jpg",
+"cl": "108870",
+"at": "Pero lo que pasó"
+}
+},
+{
+"n": 4,
+"t": 18.16,
+"d": 11.62,
+"unit": 2,
+"heard": "Agosto del año cuatrocientos ochenta antes de Cristo. Un camino entre la montaña y el mar, tan estrecho que en algunos tramos solo cabía un carro.",
+"spec": {
+"photo": "Thermopylae pass landscape",
+"src": "commons",
+"at": "Agosto"
+}
+},
+{
+"n": 5,
+"t": 29.78,
+"d": 10.56,
+"unit": 2,
+"heard": "De un lado, el ejército más grande que el mundo había visto. Del otro, unos siete mil griegos. Y al frente de los griegos,",
+"spec": {
+"card": {
+"type": "versus",
+"title": "Agosto de 480 a. C.",
+"left": {
+"name": "Los griegos",
+"color": [
+242,
+255,
+0
+],
+"lines": [
+"unos 7.000 hombres",
+"de una treintena de ciudades"
+]
+},
+"right": {
+"name": "El Imperio persa",
+"color": [
+176,
+64,
+48
+],
+"lines": [
+"entre 120.000 y 300.000",
+"según los cálculos modernos"
+]
+}
+},
+"at": "De un lado"
+}
+},
+{
+"n": 6,
+"t": 40.35,
+"d": 3.78,
+"unit": 3,
+"heard": "un rey de Esparta que ya sabía, porque se lo había dicho",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1967.32/1967.32_print.jpg",
+"cl": "143423",
+"at": "un rey de Esparta"
+}
+},
+{
+"n": 7,
+"t": 44.13,
+"d": 4.86,
+"unit": 3,
+"heard": "un oráculo, que de allí no iba a volver.",
+"spec": {
+"photo": "Delphi Temple of Apollo ruins",
+"src": "commons",
+"at": "un oráculo"
+}
+},
+{
+"n": 8,
+"t": 48.98,
+"d": 9.0,
+"unit": 4,
+"heard": "",
+"spec": {
+"commons": "Thermopylae-Air-View.jpg"
+}
+},
+{
+"n": 9,
+"t": 57.98,
+"d": 3.9,
+"unit": 5,
+"heard": "¿Por qué Esparta mandó solo a trescientos de los suyos?",
+"spec": {
+"commons": "The ruins of the ancient Theatre of Sparta on May 15, 2019.jpg",
+"at": "Por qué Esparta"
+}
+},
+{
+"n": 10,
+"t": 61.88,
+"d": 10.44,
+"unit": 5,
+"heard": "¿Quién enseñó a los persas el camino que nadie vigilaba? Y la pregunta que lleva veinticinco siglos sin una respuesta sencilla: ¿por qué,",
+"spec": {
+"commons": "ISS067-E-153797 - View of Greece - Lamia - river Spercheios (Sperchios) - Maliac Gulf (Maliakos Gulf) - Thermopylae - Kamena Vourla (cropped).jpg",
+"at": "Quién enseñó"
+}
+},
+{
+"n": 11,
+"t": 72.32,
+"d": 6.23,
+"unit": 5,
+"heard": "la última mañana, un puñado de hombres decidió quedarse a morir?",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1970.82/1970.82_print.jpg",
+"cl": "145432",
+"at": "la última mañana"
+}
+},
+{
+"n": 12,
+"t": 78.56,
+"d": 8.86,
+"unit": 6,
+"heard": "La batalla de las Termópilas. Para entender lo que pasó en aquel desfiladero hay que conocer a",
+"spec": {
+"card": {
+"type": "title",
+"title": "La batalla de las Termópilas",
+"sub": "Tres días que cambiaron la historia"
+},
+"tr": null
+}
+},
+{
+"n": 13,
+"t": 87.42,
+"d": 4.17,
+"unit": 8,
+"heard": "a dos mundos que estaban a punto de chocar.",
+"spec": {
+"commons": "Periplus 100 Pomponius Mela World Map.png",
+"at": "dos mundos"
+}
+},
+{
+"n": 14,
+"t": 91.59,
+"d": 17.18,
+"unit": 9,
+"heard": "De un lado, Persia: un imperio que iba desde el río Indo, en el actual Pakistán, hasta el mar Egeo, con Egipto, Babilonia y media Asia dentro. Lo gobernaba un solo hombre, el Gran Rey, y en el año cuatrocientos ochenta ese hombre",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "El Imperio persa",
+"keys": [
+[
+20,
+20,
+75,
+45
+],
+[
+20,
+24,
+70,
+44
+]
+],
+"points": [
+{
+"name": "Persépolis",
+"lon": 52.89,
+"lat": 29.93,
+"at": 0.25,
+"pulse": 1,
+"big": 1
+},
+{
+"name": "Babilonia",
+"lon": 44.42,
+"lat": 32.54,
+"at": 0.45
+},
+{
+"name": "Sardes",
+"lon": 28.04,
+"lat": 38.48,
+"at": 0.6
+},
+{
+"name": "Egipto",
+"lon": 31.2,
+"lat": 30.0,
+"at": 0.5
+}
+]
+},
+"at": "De un lado, Persia"
+}
+},
+{
+"n": 15,
+"t": 108.77,
+"d": 2.83,
+"unit": 9,
+"heard": "era Jerjes.",
+"spec": {
+"commons": "Persepolis, Apadana, Central Relief, Pharnaces.jpg",
+"at": "era Jerjes",
+"lt": [
+"Jerjes I",
+"Gran Rey de Persia · 486-465 a. C.",
+"persas"
+]
+}
+},
+{
+"n": 16,
+"t": 111.59,
+"d": 9.0,
+"unit": 10,
+"heard": "",
+"spec": {
+"commons": "Foloi oak forest.JPG"
+}
+},
+{
+"n": 17,
+"t": 120.59,
+"d": 7.7,
+"unit": 11,
+"heard": "Del otro lado, Grecia. Que no era un país, sino cientos de ciudades independientes, las polis,",
+"spec": {
+"photo": "Acropolis Athens Parthenon",
+"src": "commons",
+"at": "Del otro lado, Grecia"
+}
+},
+{
+"n": 18,
+"t": 128.29,
+"d": 9.72,
+"unit": 11,
+"heard": "cada una con sus leyes, su ejército y sus rencillas con la vecina. Las dos más poderosas eran Atenas, una democracia con flota,",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1926.241/1926.241_print.jpg",
+"cl": "108535",
+"at": "cada una con sus leyes",
+"gloss": [
+"polis",
+"ciudad-Estado griega independiente"
+],
+"gloss_at": 0.2,
+"gloss_dur": 4.5
+}
+},
+{
+"n": 19,
+"t": 138.01,
+"d": 11.74,
+"unit": 11,
+"heard": "y Esparta, una ciudad que vivía para la guerra. Persia ya había intentado conquistar Grecia una vez. En el cuatrocientos noventa, el padre de Jerjes,",
+"spec": {
+"commons": "Grèce. Vue de Sparte Avec le Taygete LCCN2017658135.jpg",
+"at": "Esparta, una ciudad",
+"lt": [
+"Esparta",
+"Laconia · hoy"
+]
+}
+},
+{
+"n": 20,
+"t": 149.75,
+"d": 3.18,
+"unit": 12,
+"heard": "Darío, envió una expedición que acabó derrotada en",
+"spec": {
+"commons": "Behistun inscription reliefs.jpg",
+"at": "Darío",
+"lt": [
+"Darío I",
+"Gran Rey de Persia · padre de Jerjes",
+"persas"
+]
+}
+},
+{
+"n": 21,
+"t": 152.93,
+"d": 8.88,
+"unit": 12,
+"heard": "en Maratón. Diez años después, el hijo volvía para terminar el trabajo. Y esta vez no venía con una expedición: venía",
+"spec": {
+"commons": "Plain of Marathon with Pine Forest and Wetlands, May 2015 - panoramio.jpg",
+"at": "Maratón",
+"lt": [
+"Maratón",
+"490 a. C."
+]
+}
+},
+{
+"n": 22,
+"t": 161.81,
+"d": 8.96,
+"unit": 12,
+"heard": "con todo el imperio. ¿Por qué tanto empeño en Grecia? Todo había empezado en la costa de la actual Turquía,",
+"spec": {
+"commons": "Archer frieze Louvre AOD487.jpg",
+"at": "con todo el imperio"
+}
+},
+{
+"n": 23,
+"t": 170.77,
+"d": 11.8,
+"unit": 13,
+"heard": "en Jonia, donde vivían ciudades griegas sometidas a Persia. En el cuatrocientos noventa y nueve se rebelaron. Atenas les mandó veinte barcos, y en la revuelta los rebeldes",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "Jonia",
+"keys": [
+[
+20,
+35,
+32,
+42
+],
+[
+25.5,
+37.0,
+29.5,
+39.5
+]
+],
+"points": [
+{
+"name": "Sardes",
+"lon": 28.04,
+"lat": 38.48,
+"at": 0.4,
+"pulse": 1,
+"big": 1
+},
+{
+"name": "Mileto",
+"lon": 27.28,
+"lat": 37.53,
+"at": 0.55
+},
+{
+"name": "Atenas",
+"lon": 23.73,
+"lat": 37.98,
+"at": 0.7
+}
+]
+},
+"at": "en Jonia"
+}
+},
+{
+"n": 24,
+"t": 182.57,
+"d": 9.74,
+"unit": 13,
+"heard": "quemaron Sardes, una de las capitales del imperio. Heródoto cuenta que Darío ordenó a un sirviente que le repitiera tres veces cada día, antes de comer:",
+"spec": {
+"photo": "Sardis ruins temple Artemis",
+"src": "commons",
+"at": "quemaron Sardes",
+"lt": [
+"Sardes",
+"capital de Lidia · hoy"
+]
+}
+},
+{
+"n": 25,
+"t": 192.31,
+"d": 5.8,
+"unit": 13,
+"heard": "comer: «Señor, acuérdate de los atenienses».",
+"spec": {
+"commons": "Behistun inscription reliefs.jpg",
+"at": "Señor, acuérdate",
+"kw": "ACUÉRDATE DE LOS ATENIENSES"
+}
+},
+{
+"n": 26,
+"t": 198.12,
+"d": 9.0,
+"unit": 14,
+"heard": "",
+"spec": {
+"commons": "View of Mount Taygetus from the Menelaion) on 15 May 2019.jpg"
+}
+},
+{
+"n": 27,
+"t": 207.12,
+"d": 22.75,
+"unit": 15,
+"heard": "Estos son los protagonistas de esta historia. Merece la pena retenerlos, porque van a volver una y otra vez. Y hay uno más, el más importante de todos, aunque no luchó. Casi todo lo que sabemos de las Termópilas lo escribió un hombre que nació más o menos el año de la batalla, en Halicarnaso, la actual Bodrum.",
+"spec": {
+"card": {
+"type": "cast",
+"title": "Los protagonistas",
+"groups": [
+{
+"name": "Griegos",
+"color": [
+242,
+255,
+0
+],
+"people": [
+{
+"name": "Leónidas",
+"role": "Rey de Esparta",
+"commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg"
+},
+{
+"name": "Temístocles",
+"role": "General de Atenas",
+"commons": "Busto di temistocle, da originale greco del V secolo ac, dal decumano presso il casamento del temistocle.JPG"
+},
+{
+"name": "Los tespios",
+"role": "Los 700 de Demófilo",
+"commons": "Red-figure kylix nude hoplite (Boston MFA 89.270).jpg"
+}
+]
+},
+{
+"name": "Persas",
+"color": [
+176,
+64,
+48
+],
+"people": [
+{
+"name": "Jerjes",
+"role": "Gran Rey de Persia",
+"commons": "Xerxes I at the Hadish Palace of Xerxes.jpg"
+},
+{
+"name": "Los Inmortales",
+"role": "Guardia de Hidarnes",
+"commons": "Archers frieze Louvre AOD488.jpg"
+}
+]
+}
+]
+},
+"at": "Estos son"
+}
+},
+{
+"n": 28,
+"t": 229.87,
+"d": 1.6,
+"unit": 16,
+"heard": "Se llamaba Heródoto.",
+"spec": {
+"commons": "Herodotus Massimo Inv124478.jpg",
+"at": "Se llamaba Heródoto",
+"lt": [
+"Heródoto de Halicarnaso",
+"Historiador · h. 484-425 a. C."
+]
+}
+},
+{
+"n": 29,
+"t": 231.47,
+"d": 4.75,
+"unit": 16,
+"heard": "Cuarenta años después de la batalla, Heródoto",
+"spec": {
+"commons": "Castle of St. Peter in Bodrum, Turkey.jpg",
+"at": "Halicarnaso",
+"lt": [
+"Halicarnaso",
+"hoy Bodrum, Turquía"
+]
+}
+},
+{
+"n": 30,
+"t": 236.22,
+"d": 14.96,
+"unit": 17,
+"heard": "recorrió Grecia preguntando. Habló con los descendientes, visitó el desfiladero y leyó las inscripciones. A aquel trabajo lo llamó «historia», que en griego significa algo muy sencillo:",
+"spec": {
+"commons": "Dedication page for the Historiae by Herodotus printed at Venice 1494.jpg",
+"at": "recorrió Grecia"
+}
+},
+{
+"n": 31,
+"t": 251.18,
+"d": 6.52,
+"unit": 17,
+"heard": "investigación. Y nos dejó una frase que resume este documental.",
+"spec": {
+"commons": "Title page of Herodotus' history of the Greek and Persian Wars 1502.jpg",
+"at": "investigación",
+"kw": "HISTORIA = INVESTIGACIÓN"
+}
+},
+{
+"n": 32,
+"t": 257.7,
+"d": 9.73,
+"unit": 18,
+"heard": "«De todos ellos he averiguado los nombres, porque fueron hombres dignos de memoria. Y he averiguado también los nombres de los trescientos.»",
+"spec": {
+"card": {
+"type": "quote",
+"text": "He averiguado los nombres de los trescientos.",
+"attrib": "Heródoto, Historia VII, 224 · lectura",
+"commons": "Herodotus Massimo Inv124478.jpg"
+},
+"at": "De todos"
+}
+},
+{
+"n": 33,
+"t": 267.43,
+"d": 9.52,
+"unit": 19,
+"heard": "Vamos a seguir sus pasos. Lo que contó, lo que se le escapó, y lo que la arqueología ha descubierto después.",
+"spec": {
+"commons": "Sparta - Tomb of Leonidas - DPLA - ebe507a1efd1897f87666db7538e3435 (page 1).jpg",
+"at": "Vamos a seguir"
+}
+},
+{
+"n": 34,
+"t": 276.95,
+"d": 6.0,
+"unit": 20,
+"heard": "",
+"spec": {
+"commons": "Battle of Thermopylae - pass.jpg"
+}
+},
+{
+"n": 35,
+"t": 282.95,
+"d": 6.0,
+"unit": 20,
+"heard": "",
+"spec": {
+"commons": "Thermopylae-Air-View.jpg"
+}
+},
+{
+"n": 36,
+"t": 288.95,
+"d": 5.0,
+"unit": 21,
+"heard": "",
+"spec": {
+"card": {
+"type": "title",
+"title": "El imperio que contaba por cercados",
+"sub": "Capítulo 1"
+},
+"tr": null
+}
+},
+{
+"n": 37,
+"t": 293.95,
+"d": 10.74,
+"unit": 23,
+"heard": "Susa, en el corazón de Persia. Hacia el cuatrocientos ochenta y uno antes de Cristo. Un rey espartano vive aquí, en el palacio de su enemigo.",
+"spec": {
+"commons": "Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg",
+"at": "Susa",
+"lt": [
+"Susa",
+"capital persa · h. 481 a. C."
+]
+}
+},
+{
+"n": 38,
+"t": 304.69,
+"d": 7.34,
+"unit": 23,
+"heard": "Se llama Demarato. Años antes lo echaron del trono de Esparta con una trampa y huyó a la corte persa.",
+"spec": {
+"commons": "Achaemenid, Iran, Persepolis, 5th Century BC - Fragment of a Wall Decoration from the Palace of Xerxes- \"Guardsman\" in Pro - 1943.279 - Cleveland Museum of Art.tif",
+"at": "Se llama Demarato",
+"lt": [
+"Demarato",
+"Rey de Esparta en el exilio",
+"persas"
+]
+}
+},
+{
+"n": 39,
+"t": 312.03,
+"d": 5.74,
+"unit": 23,
+"heard": "Y ahora se entera de algo que nadie en Grecia sabe todavía.",
+"spec": {
+"commons": "Ionian Tribute Bearers on the Apadana Staircase (Best Viewed Size \"Large\") (4688057305).jpg",
+"at": "Y ahora se entera"
+}
+},
+{
+"n": 40,
+"t": 317.77,
+"d": 17.56,
+"unit": 24,
+"heard": "Jerjes ha decidido invadir Grecia. Demarato quiere avisar a su antigua ciudad, pero los caminos están vigilados. Así que",
+"spec": {
+"commons": "Persepolis, Apadana, Central Relief, Pharnaces.jpg"
+}
+},
+{
+"n": 41,
+"t": 335.33,
+"d": 20.6,
+"unit": 25,
+"heard": "que coge una tablilla de escribir, de las que se cubrían con cera, le quita la cera, graba el mensaje en la madera y la vuelve a cubrir. A simple vista, es una tablilla en blanco. Cuando llega a Esparta, nadie entiende para qué alguien enviaría una tablilla vacía. Nadie, salvo",
+"spec": {
+"commons": "Writing tablet and stylus - oldest record of a commercial transaction in the City of London.jpg",
+"at": "coge una tablilla"
+}
+},
+{
+"n": 42,
+"t": 355.94,
+"d": 6.34,
+"unit": 26,
+"heard": "una mujer: Gorgo, la esposa del rey Leónidas. Ella intuye el truco y",
+"spec": {
+"commons": "View of Mount Taygetus from the top of the Castle of Mystras on 15 May 2019.jpg",
+"kw": "LAS MUJERES DE ESPARTA",
+"at": "una mujer: Gorgo",
+"lt": [
+"Gorgo",
+"Reina de Esparta · hija de Cleómenes",
+"griegos"
+]
+}
+},
+{
+"n": 43,
+"t": 362.27,
+"d": 13.03,
+"unit": 26,
+"heard": "y manda raspar la cera. Debajo está el aviso. Gracias a ella, Esparta supo antes que nadie lo que venía. ¿Y qué era exactamente «lo que venía»?",
+"spec": {
+"card": {
+"type": "doc",
+"title": "La tablilla de Demarato",
+"lines": [
+"Gorgo descubrió el truco: mandó raspar la cera y encontraron el mensaje escrito en la madera."
+],
+"source": "Heródoto, Historia VII, 239",
+"commons": "Writing tablet and stylus - oldest record of a commercial transaction in the City of London.jpg"
+},
+"at": "manda raspar"
+}
+},
+{
+"n": 44,
+"t": 375.3,
+"d": 7.38,
+"unit": 27,
+"heard": "Para Jerjes, aquella guerra no era una campaña más. Era una deuda familiar. Su padre había perdido",
+"spec": {
+"commons": "Right Section of the Treasury Reliefs (4735541667).jpg",
+"at": "Para Jerjes"
+}
+},
+{
+"n": 45,
+"t": 382.68,
+"d": 9.45,
+"unit": 27,
+"heard": "en Maratón ante un ejército de ciudadanos atenienses. Para el rey de reyes, eso era una humillación que había que borrar.",
+"spec": {
+"commons": "The tumulus (tomb) of the Athenians at Marathon.jpg",
+"lt": [
+"Túmulo de Maratón",
+"tumba de los atenienses · hoy"
+],
+"at": "en Maratón"
+}
+},
+{
+"n": 46,
+"t": 392.13,
+"d": 20.96,
+"unit": 28,
+"heard": "No todos en la corte estaban de acuerdo. Heródoto cuenta que, cuando Jerjes reunió a los grandes del imperio para anunciar la guerra, solo uno se atrevió a llevarle la contraria:",
+"spec": {
+"commons": "Right Section of the Treasury Reliefs (4735541667).jpg"
+}
+},
+{
+"n": 47,
+"t": 413.09,
+"d": 16.91,
+"unit": 29,
+"heard": "su tío Artábano, hermano de Darío. Le recordó que su padre ya había estado a punto de perder un ejército entero en otra campaña lejana, contra los escitas. Y le advirtió de que los dioses suelen castigar a los que se hacen demasiado grandes.",
+"spec": {
+"commons": "Persepolis, Apadana, Central Relief, Pharnaces.jpg",
+"at": "su tío Artábano",
+"lt": [
+"Artábano",
+"Tío de Jerjes y consejero",
+"persas"
+]
+}
+},
+{
+"n": 48,
+"t": 430.0,
+"d": 19.6,
+"unit": 30,
+"heard": "«Agradece que eres hermano de mi padre. Eso te libra de recibir el pago que merecen tus palabras sin sentido. Y como eres un cobarde, te quedarás aquí, con las mujeres, mientras yo marcho contra Grecia.» Heródoto añade que después Jerjes dudó.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Te quedarás aquí, con las mujeres, mientras yo marcho contra Grecia.",
+"attrib": "Jerjes a Artábano, según Heródoto, Historia VII, 11 · lectura",
+"commons": "Xerxes I at the Hadish Palace of Xerxes.jpg"
+},
+"at": "Agradece"
+}
+},
+{
+"n": 49,
+"t": 449.6,
+"d": 13.68,
+"unit": 31,
+"heard": "Que tuvo un sueño que le ordenaba ir a la guerra, que obligó a su tío a dormir en su cama para ver si el sueño se le aparecía también a él, y que se le apareció. Para Heródoto, aquella guerra estaba escrita. Era",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1943.279/1943.279_print.jpg",
+"cl": "123022",
+"at": "tuvo un sueño"
+}
+},
+{
+"n": 50,
+"t": 463.28,
+"d": 5.4,
+"unit": 31,
+"heard": "Era el castigo que los dioses preparaban para el orgullo de un rey.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1930.104/1930.104_print.jpg",
+"at": "el castigo que los dioses"
+}
+},
+{
+"n": 51,
+"t": 468.68,
+"d": 11.76,
+"unit": 32,
+"heard": "Jerjes tardó años en prepararla.",
+"spec": {
+"commons": "Persepolis theasury.jpg"
+}
+},
+{
+"n": 52,
+"t": 480.44,
+"d": 8.2,
+"unit": 33,
+"heard": "Reunió soldados de casi cincuenta pueblos: persas y medos, egipcios, indios, árabes, etíopes.",
+"spec": {
+"commons": "Ionian Tribute Bearers on the Apadana Staircase (Best Viewed Size \"Large\") (4688057305).jpg",
+"at": "Reunió soldados"
+}
+},
+{
+"n": 53,
+"t": 488.64,
+"d": 8.66,
+"unit": 33,
+"heard": "Heródoto los describe uno a uno, con sus armas y sus ropas, como si estuviera viendo un desfile. Y esa variedad la vemos todavía hoy",
+"spec": {
+"commons": "Persepolis Relief 12.jpg",
+"at": "Heródoto los describe"
+}
+},
+{
+"n": 54,
+"t": 497.3,
+"d": 11.74,
+"unit": 33,
+"heard": "en los relieves de los palacios persas, donde cada pueblo aparece llevando tributo al Gran Rey. ¿Cuántos eran? Heródoto da una cifra precisa:",
+"spec": {
+"commons": "SC 337334 - Persepolis. Palace of Xerxes. (52256758190).jpg",
+"at": "en los relieves"
+}
+},
+{
+"n": 55,
+"t": 509.04,
+"d": 5.62,
+"unit": 34,
+"heard": "un millón setecientos mil soldados de a pie. Y cuenta cómo los contaron.",
+"spec": {
+"card": {
+"type": "counter",
+"to": 1700000,
+"label": "soldados de a pie según Heródoto"
+},
+"at": "un millón"
+}
+},
+{
+"n": 56,
+"t": 514.66,
+"d": 5.72,
+"unit": 34,
+"heard": "En una llanura metieron a diez mil hombres apretados, trazaron un círculo a su alrededor y",
+"spec": {
+"commons": "Archers frieze Darius palace Louvre AOD487.jpg",
+"at": "En una llanura"
+}
+},
+{
+"n": 57,
+"t": 520.38,
+"d": 10.93,
+"unit": 34,
+"heard": "levantaron un cercado de piedra a la altura del ombligo. Después hicieron pasar al ejército entero por el cercado, diez mil cada vez.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Metieron a diez mil hombres, trazaron un círculo y levantaron un muro a la altura del ombligo. Luego llenaron el cercado una y otra vez.",
+"attrib": "Heródoto, Historia VII, 60"
+},
+"at": "levantaron un cercado"
+}
+},
+{
+"n": 58,
+"t": 531.3,
+"d": 11.76,
+"unit": 35,
+"heard": "Es una imagen impresionante.",
+"spec": {
+"commons": "Ionian Tribute Bearers on the Apadana Staircase (Best Viewed Size \"Large\") (4688057305).jpg"
+}
+},
+{
+"n": 59,
+"t": 543.06,
+"d": 13.12,
+"unit": 36,
+"heard": "Pero ningún historiador de hoy se la cree. Un ejército así no podría haber bebido ni comido en la Grecia de entonces. Los cálculos modernos hablan de entre ciento veinte mil y trescientos mil hombres.",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Heródoto",
+"lines": [
+"1.700.000 infantes",
+"80.000 jinetes",
+"más de 500.000 marinos"
+]
+},
+"right": {
+"title": "Historiadores de hoy",
+"lines": [
+"120.000 – 300.000 soldados",
+"unas 600 naves de guerra",
+"límite: agua y comida"
+]
+},
+"strike": true
+},
+"at": "Pero ningún historiador"
+}
+},
+{
+"n": 60,
+"t": 556.18,
+"d": 10.77,
+"unit": 36,
+"heard": "Siguen siendo muchísimos: probablemente el ejército más grande reunido hasta entonces. Para mover a toda esa gente de Asia a Europa había que cruzar",
+"spec": {
+"commons": "Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg",
+"at": "Siguen siendo muchísimos"
+}
+},
+{
+"n": 61,
+"t": 566.95,
+"d": 2.9,
+"unit": 37,
+"heard": "el Helesponto, el estrecho que hoy llamamos de",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "El Helesponto",
+"keys": [
+[
+20,
+35,
+32,
+43
+],
+[
+25.5,
+39.6,
+27.4,
+40.9
+]
+],
+"points": [
+{
+"name": "Abidos",
+"lon": 26.4,
+"lat": 40.2,
+"at": 0.4,
+"pulse": 1,
+"big": 1
+},
+{
+"name": "Sestos",
+"lon": 26.38,
+"lat": 40.23,
+"at": 0.55
+}
+]
+},
+"at": "el Helesponto"
+}
+},
+{
+"n": 62,
+"t": 569.85,
+"d": 6.7,
+"unit": 37,
+"heard": "de los Dardanelos. Mide algo más de un kilómetro en su parte más estrecha. Jerjes mandó tender",
+"spec": {
+"photo": "Dardanelles strait",
+"src": "commons",
+"at": "los Dardanelos",
+"lt": [
+"Estrecho de los Dardanelos",
+"el antiguo Helesponto · hoy"
+]
+}
+},
+{
+"n": 63,
+"t": 576.55,
+"d": 7.58,
+"unit": 37,
+"heard": "tender dos puentes hechos con cientos de barcos atados unos a otros, con cables de lino y de papiro. Pero",
+"spec": {
+"commons": "Xerxes Crossing the HellespontGuerberStoryOfTheGreeks.jpg",
+"at": "dos puentes"
+}
+},
+{
+"n": 64,
+"t": 584.13,
+"d": 17.03,
+"unit": 38,
+"heard": "Pero llegó una tormenta y los destrozó. Y aquí Heródoto cuenta una de las escenas más famosas de la Antigüedad. «Cuando Jerjes se enteró, montó en cólera y mandó dar al Helesponto trescientos latigazos y arrojar al mar un par de grilletes.",
+"spec": {
+"commons": "Effet du tonnerre.jpg",
+"at": "llegó una tormenta"
+}
+},
+{
+"n": 65,
+"t": 601.16,
+"d": 16.41,
+"unit": 39,
+"heard": "Y mandó cortar la cabeza a los encargados de los puentes.» Azotar al mar. Para los griegos que leyeron aquello, era el retrato perfecto de un tirano que se creía por encima de los dioses. Puede que Heródoto exagerara. Pero",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Mandó dar al Helesponto trescientos latigazos.",
+"attrib": "Heródoto, Historia VII, 35 · lectura",
+"commons": "Herodotus Massimo Inv124478.jpg"
+},
+"at": "Y mandó cortar"
+}
+},
+{
+"n": 66,
+"t": 617.57,
+"d": 9.17,
+"unit": 40,
+"heard": "Pero los puentes se reconstruyeron, más fuertes, y según él el ejército tardó siete días y siete noches en cruzar.",
+"spec": {
+"commons": "Crossing the Hellespont - Samuel Woodforde.jpg",
+"at": "los puentes se reconstruyeron"
+}
+},
+{
+"n": 67,
+"t": 626.74,
+"d": 10.32,
+"unit": 41,
+"heard": "Antes de cruzar,",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1960.175/1960.175_print.jpg"
+}
+},
+{
+"n": 68,
+"t": 637.06,
+"d": 11.1,
+"unit": 42,
+"heard": "en Abidos, junto al estrecho, Jerjes quiso ver a su ejército entero. Le prepararon en una colina un trono de mármol blanco. Desde allí vio el Helesponto",
+"spec": {
+"commons": "Xerxes, King of the Persians, Crosses a Bridge with His Army. Paris, about 1413–1415.jpg",
+"lt": [
+"Jerjes cruza el Helesponto",
+"manuscrito iluminado · h. 1413"
+],
+"at": "en Abidos"
+}
+},
+{
+"n": 69,
+"t": 648.16,
+"d": 15.0,
+"unit": 42,
+"heard": "cubierto de barcos y las playas y las llanuras llenas de hombres. Primero se sintió dichoso. Y después se echó a llorar. Artábano, el tío que se había opuesto a la guerra,",
+"spec": {
+"commons": "Xerxes crossing the Hellespont.jpg",
+"at": "cubierto de barcos"
+}
+},
+{
+"n": 70,
+"t": 663.15,
+"d": 9.13,
+"unit": 43,
+"heard": "le preguntó por qué lloraba un hombre que acababa de llamarse feliz. Y Jerjes le dio una respuesta que no esperaríamos de un tirano.",
+"spec": {
+"commons": "Persepolis, Apadana, Central Relief, Pharnaces.jpg",
+"at": "le preguntó por qué lloraba"
+}
+},
+{
+"n": 71,
+"t": 672.28,
+"d": 19.92,
+"unit": 44,
+"heard": "«Me he puesto a pensar en lo breve que es la vida humana. De toda esta multitud, dentro de cien años no quedará nadie vivo.» Es una de las escenas más extrañas del libro. El hombre que va a azotar al mar es también el que llora pensando en la muerte de sus soldados.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "De toda esta multitud, dentro de cien años no quedará nadie vivo.",
+"attrib": "Jerjes en Abidos, según Heródoto, Historia VII, 46 · lectura",
+"commons": "Xerxes I at the Hadish Palace of Xerxes.jpg"
+},
+"at": "Me he puesto"
+}
+},
+{
+"n": 72,
+"t": 692.2,
+"d": 6.45,
+"unit": 45,
+"heard": "Heródoto no escribe sobre monstruos. Escribe sobre personas.",
+"spec": {
+"photo": "Herodotus bust",
+"src": "commons,met",
+"at": "Heródoto no escribe"
+}
+},
+{
+"n": 73,
+"t": 698.65,
+"d": 17.98,
+"unit": 46,
+"heard": "Jerjes hizo algo más, todavía más ambicioso. Doce años antes, una flota persa se había estrellado contra los acantilados del",
+"spec": {
+"commons": "Behistun inscription reliefs.jpg"
+}
+},
+{
+"n": 74,
+"t": 716.63,
+"d": 4.74,
+"unit": 47,
+"heard": "del monte Atos, en el norte de Grecia. Para que no volviera a pasar,",
+"spec": {
+"photo": "Mount Athos peninsula",
+"src": "commons",
+"at": "monte Atos",
+"lt": [
+"Monte Atos",
+"Calcídica, norte de Grecia · hoy"
+]
+}
+},
+{
+"n": 75,
+"t": 721.37,
+"d": 13.54,
+"unit": 47,
+"heard": "mandó excavar un canal a través de la península. Dos kilómetros de largo, treinta metros de ancho. Durante siglos, muchos pensaron que el canal era otra exageración de Heródoto.",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "El canal de Jerjes",
+"keys": [
+[
+21,
+38.5,
+26,
+41.5
+],
+[
+23.6,
+40.2,
+24.4,
+40.6
+]
+],
+"points": [
+{
+"name": "Canal de Jerjes",
+"lon": 23.93,
+"lat": 40.39,
+"at": 0.5,
+"pulse": 1,
+"big": 1
+}
+]
+},
+"at": "mandó excavar un canal"
+}
+},
+{
+"n": 76,
+"t": 734.91,
+"d": 7.32,
+"unit": 48,
+"heard": "Hasta que en los años noventa un equipo británico y griego estudió el subsuelo con sondeos sísmicos y radar. El canal",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Lo que contó Heródoto",
+"lines": [
+"un canal a través del Atos",
+"para que pasaran dos trirremes"
+]
+},
+"right": {
+"title": "Lo que encontró la geofísica",
+"lines": [
+"un canal de unos 2 km",
+"hoy enterrado bajo los campos"
+]
+},
+"strike": false
+},
+"at": "Hasta que en los años noventa"
+}
+},
+{
+"n": 77,
+"t": 742.23,
+"d": 9.78,
+"unit": 48,
+"heard": "canal estaba allí, enterrado. Heródoto, esta vez, decía la verdad. En la primavera del cuatrocientos ochenta,",
+"spec": {
+"commons": "Canal of Xerxes.jpg",
+"lt": [
+"Canal de Jerjes",
+"península del Atos · hoy"
+],
+"at": "estaba allí, enterrado"
+}
+},
+{
+"n": 78,
+"t": 752.01,
+"d": 15.3,
+"unit": 49,
+"heard": "el ejército echó a andar. Atravesó Tracia y Macedonia, y las ciudades del norte se fueron rindiendo sin luchar. Jerjes había enviado mensajeros a toda Grecia con una petición que era, en realidad, una orden:",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "La marcha de Jerjes",
+"keys": [
+[
+19,
+35,
+30,
+43
+],
+[
+21,
+37.5,
+27,
+42
+]
+],
+"points": [
+{
+"name": "Abidos",
+"lon": 26.4,
+"lat": 40.2,
+"at": 0.15
+},
+{
+"name": "Tracia",
+"lon": 25.5,
+"lat": 41.1,
+"at": 0.3
+},
+{
+"name": "Macedonia",
+"lon": 22.5,
+"lat": 40.8,
+"at": 0.5
+},
+{
+"name": "Termópilas",
+"lon": 22.56,
+"lat": 38.8,
+"at": 0.8,
+"pulse": 1,
+"big": 1
+}
+]
+},
+"at": "el ejército echó a andar"
+}
+},
+{
+"n": 79,
+"t": 767.31,
+"d": 3.01,
+"unit": 49,
+"heard": "tierra y agua.",
+"spec": {
+"commons": "Terracotta Hadra hydria (water jar) MET DP121872.jpg",
+"at": "tierra y agua",
+"kw": "TIERRA Y AGUA"
+}
+},
+{
+"n": 80,
+"t": 770.32,
+"d": 9.0,
+"unit": 50,
+"heard": "",
+"spec": {
+"commons": "SC 337334 - Persepolis. Palace of Xerxes. (52256758190).jpg"
+}
+},
+{
+"n": 81,
+"t": 779.32,
+"d": 7.34,
+"unit": 51,
+"heard": "Entregar tierra y agua significaba aceptar al rey persa como señor. Muchas ciudades lo hicieron.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1986.23/1986.23_print.jpg",
+"cl": "153270",
+"at": "Entregar tierra y agua"
+}
+},
+{
+"n": 82,
+"t": 786.66,
+"d": 13.05,
+"unit": 51,
+"heard": "Tebas, entre ellas, se inclinó hacia Persia. Los griegos tenían una palabra para eso, «medizar»: ponerse del lado de los medos, como llamaban a los persas.",
+"spec": {
+"photo": "Thebes Greece Cadmea",
+"src": "commons",
+"at": "Tebas",
+"lt": [
+"Tebas",
+"Beocia"
+],
+"gloss": [
+"medizar",
+"pasarse al bando persa",
+"persas"
+],
+"gloss_at": 6.42,
+"gloss_dur": 4.5
+}
+},
+{
+"n": 83,
+"t": 799.71,
+"d": 18.44,
+"unit": 52,
+"heard": "Solo una treintena de ciudades se juntaron para resistir, con Esparta al mando y Atenas como gran potencia naval. Diez años antes, Atenas y Esparta habían tratado a los mensajeros de Darío de una forma que no se olvida: en Atenas los arrojaron a un barranco, y en Esparta,",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1929.134/1929.134_print.jpg",
+"cl": "110567",
+"at": "Solo una treintena"
+}
+},
+{
+"n": 84,
+"t": 818.15,
+"d": 9.04,
+"unit": 52,
+"heard": "a un pozo, para que cogieran allí la tierra y el agua que quisieran. Atenas, que sabía que sería el primer objetivo,",
+"spec": {
+"commons": "Ancient Greek Football Player.jpg",
+"at": "a un pozo"
+}
+},
+{
+"n": 85,
+"t": 827.2,
+"d": 11.34,
+"unit": 53,
+"heard": "también consultó a Delfos. La primera respuesta fue aterradora: huid al fin del mundo. La segunda dejó una pista oscura: solo",
+"spec": {
+"photo": "Delphi Treasury of the Athenians",
+"src": "commons",
+"at": "también consultó a Delfos"
+}
+},
+{
+"n": 86,
+"t": 838.54,
+"d": 8.7,
+"unit": 53,
+"heard": "una muralla de madera resistiría. Muchos atenienses pensaron en la vieja empalizada de la Acrópolis. Pero un político,",
+"spec": {
+"commons": "Artemisia at the Battle of Salamis.jpg",
+"kw": "MURALLA DE MADERA",
+"at": "una muralla de madera"
+}
+},
+{
+"n": 87,
+"t": 847.24,
+"d": 9.47,
+"unit": 53,
+"heard": "Temístocles, sostuvo que la muralla de madera eran los barcos. Y convenció a Atenas de jugárselo todo en el mar.",
+"spec": {
+"commons": "Busto di temistocle, da originale greco del V secolo ac, dal decumano presso il casamento del temistocle.JPG",
+"at": "Temístocles",
+"lt": [
+"Temístocles",
+"Político y general ateniense",
+"griegos"
+]
+}
+},
+{
+"n": 88,
+"t": 856.71,
+"d": 21.94,
+"unit": 54,
+"heard": "Esa decisión, tomada antes de las Termópilas, explica todo lo que vino después. Atenas había construido en pocos años una flota de unos doscientos trirremes, los buques de guerra de la época,",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1943.279/1943.279_print.jpg"
+}
+},
+{
+"n": 89,
+"t": 878.64,
+"d": 1.6,
+"unit": 55,
+"heard": "con la plata de unas minas recién",
+"spec": {
+"commons": "Greece Lavrion Mines 1903.jpg",
+"at": "con la plata",
+"lt": [
+"Minas de Laurio",
+"Ática"
+]
+}
+},
+{
+"n": 90,
+"t": 880.25,
+"d": 9.87,
+"unit": 55,
+"heard": "recién descubiertas. Sin esa flota, el plan griego no habría sido posible. No había marcha atrás. Y la pregunta era",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1941.296/1941.296_print.jpg",
+"cl": "120477",
+"at": "unos doscientos trirremes"
+}
+},
+{
+"n": 91,
+"t": 890.11,
+"d": 5.55,
+"unit": 56,
+"heard": "era dónde parar a un ejército que nadie había parado nunca.",
+"spec": {
+"commons": "Thermopylae-Air-View.jpg",
+"at": "dónde parar"
+}
+},
+{
+"n": 92,
+"t": 895.66,
+"d": 7.0,
+"unit": 57,
+"heard": "",
+"spec": {
+"commons": "Foloi oak forest.JPG"
+}
+},
+{
+"n": 93,
+"t": 902.66,
+"d": 7.0,
+"unit": 57,
+"heard": "",
+"spec": {
+"commons": "View of Mount Taygetus from the Menelaion) on 15 May 2019.jpg"
+}
+},
+{
+"n": 94,
+"t": 909.66,
+"d": 5.0,
+"unit": 58,
+"heard": "",
+"spec": {
+"card": {
+"type": "title",
+"title": "La ciudad sin murallas",
+"sub": "Capítulo 2"
+},
+"tr": null
+}
+},
+{
+"n": 95,
+"t": 914.66,
+"d": 3.3,
+"unit": 60,
+"heard": "Esparta, en el sur del Peloponeso.",
+"spec": {
+"commons": "View of Mount Taygetus from the top of the Castle of Mystras on 15 May 2019.jpg",
+"at": "Esparta",
+"lt": [
+"Esparta",
+"Peloponeso · hoy"
+]
+}
+},
+{
+"n": 96,
+"t": 917.96,
+"d": 13.66,
+"unit": 60,
+"heard": "Una ciudad sin murallas. Los espartanos decían que sus murallas eran sus hombres. Y para entender lo que pasó en las Termópilas hay que entender cómo se fabricaba a uno de esos hombres.",
+"spec": {
+"commons": "View of modern Sparta, Mount Taygetus and the Eurotas from the Menelaion on 15 May 2019.jpg",
+"kw": "SIN MURALLAS",
+"at": "Una ciudad sin murallas"
+}
+},
+{
+"n": 97,
+"t": 931.62,
+"d": 9.0,
+"unit": 61,
+"heard": "",
+"spec": {
+"commons": "Ivan Konstantinovich Aivazovsky - Gathering Storm, 1899.jpg"
+}
+},
+{
+"n": 98,
+"t": 940.62,
+"d": 10.02,
+"unit": 62,
+"heard": "A los siete años, los niños espartanos dejaban a su familia y entraban en la agogé, la educación del Estado. Vivían en grupos, dormían en",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1929.441/1929.441_print.jpg",
+"cl": "110927",
+"at": "A los siete años",
+"gloss": [
+"agogé",
+"la educación militar de los niños espartanos",
+"griegos"
+],
+"gloss_at": 4.54,
+"gloss_dur": 4.5
+}
+},
+{
+"n": 99,
+"t": 950.64,
+"d": 4.72,
+"unit": 62,
+"heard": "en lechos de juncos que ellos mismos cortaban, pasaban hambre a propósito y",
+"spec": {
+"commons": "The River Eurotas in Sparta on 15 May 2019.jpg",
+"lt": [
+"Río Eurotas",
+"Esparta · hoy"
+],
+"at": "lechos de juncos"
+}
+},
+{
+"n": 100,
+"t": 955.36,
+"d": 9.84,
+"unit": 62,
+"heard": "aprendían a robar comida sin que los pillaran. Si los pillaban, el castigo no era por robar: era por dejarse coger.",
+"spec": {
+"commons": "Ancient Greek Football Player.jpg",
+"at": "aprendían a robar"
+}
+},
+{
+"n": 101,
+"t": 965.21,
+"d": 10.06,
+"unit": 63,
+"heard": "A los veinte se convertían en soldados. Y a los treinta, si superaban todo aquello, eran ciudadanos de pleno derecho: los «iguales».",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1967.32/1967.32_print.jpg",
+"cl": "143423",
+"at": "A los veinte"
+}
+},
+{
+"n": 102,
+"t": 975.27,
+"d": 13.09,
+"unit": 63,
+"heard": "Comían juntos cada día en comedores comunes y no tenían otro oficio que la guerra. Ni comerciaban, ni cultivaban la tierra. En campaña se les reconocía de lejos. Llevaban",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1926.549/1926.549_print.jpg",
+"cl": "108878",
+"at": "Comían juntos"
+}
+},
+{
+"n": 103,
+"t": 988.36,
+"d": 6.6,
+"unit": 64,
+"heard": "el pelo largo, que cuidaban como un símbolo de hombres libres, y un manto teñido de rojo.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1951.27/1951.27_print.jpg",
+"cl": "128277",
+"at": "el pelo largo"
+}
+},
+{
+"n": 104,
+"t": 994.96,
+"d": 12.04,
+"unit": 64,
+"heard": "Jenofonte, que los conoció bien unas décadas después, escribió que ese color se eligió porque era el que menos se parecía a la ropa de mujer y el más apropiado para la guerra.",
+"spec": {
+"commons": "Xenophon.jpg",
+"at": "Jenofonte",
+"lt": [
+"Jenofonte",
+"Historiador ateniense · h. 430-354 a. C."
+]
+}
+},
+{
+"n": 105,
+"t": 1007.0,
+"d": 11.3,
+"unit": 65,
+"heard": "¿Quién la cultivaba, entonces?",
+"spec": {
+"commons": "Grèce. Vue de Sparte Avec le Taygete LCCN2017658135.jpg"
+}
+},
+{
+"n": 106,
+"t": 1018.3,
+"d": 10.4,
+"unit": 66,
+"heard": "Los ilotas. Eran los habitantes de las tierras que Esparta había conquistado, convertidos en siervos del Estado. Había muchos más ilotas que espartanos,",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1923.645/1923.645_print.jpg",
+"cl": "105541",
+"at": "Los ilotas",
+"gloss": [
+"ilotas",
+"siervos del Estado espartano",
+"griegos"
+],
+"gloss_at": 0.2,
+"gloss_dur": 4.5
+}
+},
+{
+"n": 107,
+"t": 1028.7,
+"d": 15.71,
+"unit": 66,
+"heard": "quizá siete por cada uno. Y ese miedo permanente a una rebelión explica buena parte de la forma de ser de Esparta. Esparta tenía además una rareza: dos reyes a la vez, de dos familias que decían descender de",
+"spec": {
+"card": {
+"type": "counter",
+"to": 7,
+"label": "ilotas por cada espartano, según algunos cálculos antiguos"
+},
+"at": "quizá siete"
+}
+},
+{
+"n": 108,
+"t": 1044.41,
+"d": 1.6,
+"unit": 67,
+"heard": "de Heracles. Los",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1970.16/1970.16_print.jpg",
+"cl": "144965",
+"at": "Heracles"
+}
+},
+{
+"n": 109,
+"t": 1046.01,
+"d": 15.19,
+"unit": 67,
+"heard": "Los reyes mandaban el ejército en la guerra, pero en casa vigilaban cinco magistrados elegidos cada año, los éforos. Los espartanos tenían fama de hablar poco y con mucha intención. Su tierra se llamaba",
+"spec": {
+"card": {
+"type": "list",
+"header": "Cómo se gobernaba Esparta",
+"items": [
+[
+"Dos reyes",
+"mandan el ejército en campaña"
+],
+[
+"Cinco éforos",
+"elegidos cada año, vigilan a los reyes"
+],
+[
+"Gerusía",
+"consejo de 28 ancianos y los dos reyes"
+],
+[
+"Asamblea",
+"los ciudadanos varones aprueban o rechazan"
+]
+]
+},
+"at": "dos reyes a la vez"
+}
+},
+{
+"n": 110,
+"t": 1061.2,
+"d": 2.7,
+"unit": 68,
+"heard": "Laconia, y de ahí viene nuestra palabra",
+"spec": {
+"commons": "View of Mount Taygetus from the Menelaion) on 15 May 2019.jpg",
+"lt": [
+"Laconia",
+"monte Taigeto · hoy"
+],
+"at": "Laconia"
+}
+},
+{
+"n": 111,
+"t": 1063.9,
+"d": 18.6,
+"unit": 68,
+"heard": "«lacónico». Cuentan que un rey extranjero les mandó una amenaza: si entro en vuestra tierra, os destruiré. Los espartanos contestaron con una sola palabra: «Si». Es decir: si es que llegas a entrar.",
+"spec": {
+"commons": "The ruins of the ancient Theatre of Sparta on May 15, 2019.jpg",
+"kw": "LACÓNICO",
+"at": "«lacónico»"
+}
+},
+{
+"n": 112,
+"t": 1082.5,
+"d": 28.14,
+"unit": 69,
+"heard": "Y las mujeres de Esparta eran también distintas de las del resto de Grecia. Hacían ejercicio, heredaban tierras y opinaban en público, algo que escandalizaba a los atenienses. Cuando una mujer de Atenas le preguntó a Gorgo por qué las espartanas eran las únicas que mandaban sobre sus hombres,",
+"spec": {
+"commons": "ISS067-E-153797 - View of Greece - Lamia - river Spercheios (Sperchios) - Maliac Gulf (Maliakos Gulf) - Thermopylae - Kamena Vourla (cropped).jpg"
+}
+},
+{
+"n": 113,
+"t": 1110.64,
+"d": 8.54,
+"unit": 70,
+"heard": "Gorgo respondió que era porque eran las únicas que parían hombres. Uno de esos reyes, en el cuatrocientos ochenta,",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Somos las únicas que parimos hombres.",
+"attrib": "Gorgo, según Plutarco, Dichos de mujeres espartanas"
+},
+"at": "Gorgo respondió"
+}
+},
+{
+"n": 114,
+"t": 1119.17,
+"d": 4.22,
+"unit": 71,
+"heard": "era Leónidas. Y lo era casi por casualidad.",
+"spec": {
+"commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
+"lt": [
+"Leónidas",
+"Rey de Esparta · pintura de J.-L. David, 1814",
+"griegos"
+],
+"at": "era Leónidas"
+}
+},
+{
+"n": 115,
+"t": 1123.39,
+"d": 21.18,
+"unit": 71,
+"heard": "Era el tercer hijo del rey Anaxándridas. Su hermano mayor, Cleómenes, murió sin hijos varones. El segundo, Dorieo, había muerto en Sicilia. Así que la corona acabó en Leónidas, que además estaba casado con la hija de Cleómenes: Gorgo, la mujer de la tablilla.",
+"spec": {
+"card": {
+"type": "list",
+"header": "Cómo llegó al trono",
+"items": [
+[
+"Cleómenes",
+"el mayor: muere sin hijos varones"
+],
+[
+"Dorieo",
+"el segundo: muere en Sicilia"
+],
+[
+"Leónidas",
+"el tercero: rey y yerno de Cleómenes"
+]
+]
+},
+"at": "Era el tercer hijo"
+}
+},
+{
+"n": 116,
+"t": 1144.58,
+"d": 15.62,
+"unit": 72,
+"heard": "Cuando estalló la guerra, los espartanos hicieron lo que hacían siempre ante algo grande: preguntar al",
+"spec": {
+"commons": "The River Eurotas in Sparta on 15 May 2019.jpg"
+}
+},
+{
+"n": 117,
+"t": 1160.2,
+"d": 3.98,
+"unit": 73,
+"heard": "al oráculo de Delfos. Allí, una sacerdotisa,",
+"spec": {
+"commons": "Delphes, Grèce. Temple d'Apollon. Six colonnes.jpg",
+"at": "oráculo de Delfos",
+"lt": [
+"Delfos",
+"Santuario de Apolo"
+]
+}
+},
+{
+"n": 118,
+"t": 1164.18,
+"d": 8.15,
+"unit": 73,
+"heard": "la Pitia, respondía en nombre del dios Apolo. Y la respuesta que trajeron a Esparta fue terrible.",
+"spec": {
+"commons": "Heinrich Leutemann - The Oracle at Delphi (1885).jpg",
+"lt": [
+"La Pitia",
+"grabado de 1885"
+],
+"at": "la Pitia"
+}
+},
+{
+"n": 119,
+"t": 1172.33,
+"d": 16.79,
+"unit": 74,
+"heard": "«Para vosotros, habitantes de la espaciosa Esparta: o vuestra gran ciudad será destruida por los persas, o la tierra de Lacedemonia llorará la muerte de un rey del linaje de Heracles.» O la ciudad, o el rey.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "O vuestra ciudad será destruida, o Lacedemonia llorará la muerte de un rey.",
+"attrib": "Oráculo de Delfos, según Heródoto, Historia VII, 220"
+},
+"at": "Para vosotros"
+}
+},
+{
+"n": 120,
+"t": 1189.12,
+"d": 14.31,
+"unit": 75,
+"heard": "Heródoto está convencido de que Leónidas conocía esta profecía. Y de que, cuando llegó el momento, eligió. Pero antes faltaba un problema muy espartano. Era verano y se celebraban",
+"spec": {
+"commons": "David - Variation on Leonidas at Thermopylae, James Mackinnon, London.jpg",
+"at": "Heródoto está convencido"
+}
+},
+{
+"n": 121,
+"t": 1203.42,
+"d": 10.14,
+"unit": 76,
+"heard": "las Carneas, la gran fiesta en honor de Apolo. Durante la fiesta, la ley prohibía salir a combatir con el ejército completo. Además coincidían",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1930.104/1930.104_print.jpg",
+"cl": "111527",
+"at": "las Carneas",
+"gloss": [
+"Carneas",
+"fiesta sagrada de Apolo: prohibía salir a la guerra"
+],
+"gloss_at": 0.2,
+"gloss_dur": 4.5
+}
+},
+{
+"n": 122,
+"t": 1213.57,
+"d": 5.0,
+"unit": 76,
+"heard": "los Juegos Olímpicos, con su propia tregua sagrada.",
+"spec": {
+"photo": "Olympia stadium ancient",
+"src": "commons",
+"at": "los Juegos Olímpicos"
+}
+},
+{
+"n": 123,
+"t": 1218.56,
+"d": 18.06,
+"unit": 77,
+"heard": "No era la primera vez que pasaba. Diez años antes, cuando Atenas pidió ayuda contra Darío, los espartanos respondieron que no podían salir",
+"spec": {
+"commons": "Effet du tonnerre.jpg"
+}
+},
+{
+"n": 124,
+"t": 1236.62,
+"d": 3.4,
+"unit": 78,
+"heard": "hasta la luna llena, por motivos religiosos.",
+"spec": {
+"commons": "Full Moon (6043616882).jpg",
+"at": "hasta la luna llena"
+}
+},
+{
+"n": 125,
+"t": 1240.02,
+"d": 14.08,
+"unit": 78,
+"heard": "Llegaron a Maratón al día siguiente de la batalla. Solo pudieron ver los cadáveres de los persas y felicitar a los atenienses. Esta vez no podían permitirse llegar tarde. Así que Esparta decidió mandar",
+"spec": {
+"commons": "The tumulus (tomb) of the Athenians at Marathon.jpg",
+"at": "Llegaron a Maratón",
+"lt": [
+"Túmulo de Maratón",
+"tumba de los atenienses caídos · hoy"
+]
+}
+},
+{
+"n": 126,
+"t": 1254.1,
+"d": 10.72,
+"unit": 79,
+"heard": "mandar una avanzadilla, para que los aliados vieran que iba en serio y no se pasaran a los persas. El grueso del ejército iría después, al acabar las fiestas.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1965.78/1965.78_print.jpg",
+"cl": "142227",
+"at": "una avanzadilla"
+}
+},
+{
+"n": 127,
+"t": 1264.82,
+"d": 10.35,
+"unit": 79,
+"heard": "Esa avanzadilla eran los trescientos. Y Leónidas los eligió con un criterio que dice mucho. Según Heródoto, escogió a",
+"spec": {
+"commons": "Jacques-Louis David - Leonidas at Thermopylae (detail) - WGA6096.jpg",
+"kw": "300",
+"at": "Esa avanzadilla eran"
+}
+},
+{
+"n": 128,
+"t": 1275.17,
+"d": 7.42,
+"unit": 80,
+"heard": "a hombres que tuvieran hijos vivos. Si caían, su familia no se extinguiría con ellos.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1926.241/1926.241_print.jpg",
+"cl": "108535",
+"at": "hombres que tuvieran hijos"
+}
+},
+{
+"n": 129,
+"t": 1282.59,
+"d": 14.44,
+"unit": 81,
+"heard": "De la despedida en Esparta nos ha llegado una frase. No la cuenta Heródoto, sino",
+"spec": {
+"commons": "Messene 01.jpg"
+}
+},
+{
+"n": 130,
+"t": 1297.03,
+"d": 11.79,
+"unit": 82,
+"heard": "sino Plutarco, un autor que escribió casi seis siglos después recogiendo dichos de espartanos famosos. Gorgo le preguntó a su marido qué debía hacer.",
+"spec": {
+"commons": "Head of a philosopher - Archaeological Museum of Delphi.jpg",
+"at": "Plutarco",
+"lt": [
+"Plutarco",
+"Escritor griego · h. 46-120 d. C."
+]
+}
+},
+{
+"n": 131,
+"t": 1308.82,
+"d": 7.71,
+"unit": 83,
+"heard": "«Casarte con un buen hombre, y tener buenos hijos.» Es una frase seca, muy espartana.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Cásate con un buen hombre y ten buenos hijos.",
+"attrib": "Leónidas a Gorgo, según Plutarco, Moralia 240e"
+},
+"at": "Casarte"
+}
+},
+{
+"n": 132,
+"t": 1316.52,
+"d": 7.57,
+"unit": 84,
+"heard": "No dice «volveré». Dice lo contrario. Plutarco recoge otra. Cuando",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1929.135/1929.135_print.jpg",
+"cl": "110568",
+"at": "No dice"
+}
+},
+{
+"n": 133,
+"t": 1324.09,
+"d": 6.38,
+"unit": 85,
+"heard": "Cuando los éforos le reprocharon que se llevara tan pocos hombres, Leónidas respondió:",
+"spec": {
+"commons": "1783 Bocage Map of the Topography of Sparta, Ancient Greece, and Environs - Geographicus - Sparta2-white-1793.jpg",
+"at": "los éforos"
+}
+},
+{
+"n": 134,
+"t": 1330.47,
+"d": 6.12,
+"unit": 86,
+"heard": "«Son demasiados para lo que vamos a hacer.» Trescientos espartanos. Pero",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Son demasiados para lo que vamos a hacer.",
+"attrib": "Leónidas, según Plutarco, Dichos de espartanos"
+},
+"at": "Son demasiados"
+}
+},
+{
+"n": 135,
+"t": 1336.59,
+"d": 15.52,
+"unit": 87,
+"heard": "no iban solos. Cada uno iba acompañado de ilotas que cargaban el equipo y que, llegado el momento, también lucharon y murieron. Y por el camino se les fueron uniendo hombres de otras ciudades. Cuando llegaron al desfiladero, eran",
+"spec": {
+"card": {
+"type": "list",
+"header": "Los griegos en las Termópilas",
+"items": [
+[
+"Esparta",
+"300 hoplitas y sus ilotas"
+],
+[
+"Arcadia (Tegea, Mantinea…)",
+"2.120"
+],
+[
+"Corinto",
+"400"
+],
+[
+"Tespias",
+"700"
+],
+[
+"Tebas",
+"400"
+],
+[
+"Fócide y Lócride",
+"1.000 + el ejército de los locrios"
+],
+[
+"Otras ciudades",
+"Fliunte 200, Micenas 80"
+]
+]
+},
+"at": "no iban solos"
+}
+},
+{
+"n": 136,
+"t": 1352.11,
+"d": 2.76,
+"unit": 87,
+"heard": "unos siete mil.",
+"spec": {
+"card": {
+"type": "counter",
+"to": 7000,
+"label": "griegos en el desfiladero, aproximadamente"
+},
+"at": "unos siete mil"
+}
+},
+{
+"n": 137,
+"t": 1354.87,
+"d": 9.34,
+"unit": 88,
+"heard": "Ese es",
+"spec": {
+"commons": "Plain of Marathon with Pine Forest and Wetlands, May 2015 - panoramio.jpg"
+}
+},
+{
+"n": 138,
+"t": 1364.21,
+"d": 11.59,
+"unit": 89,
+"heard": "es el primer mito que hay que matizar. Nunca fueron trescientos contra un millón. Fueron unos siete mil contra un imperio. Que sigue siendo una locura.",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "El mito",
+"lines": [
+"300 espartanos",
+"contra millones"
+]
+},
+"right": {
+"title": "Lo que cuentan las fuentes",
+"lines": [
+"unos 7.000 griegos",
+"contra 120.000-300.000"
+]
+},
+"strike": true
+},
+"at": "el primer mito"
+}
+},
+{
+"n": 139,
+"t": 1375.8,
+"d": 6.0,
+"unit": 90,
+"heard": "",
+"spec": {
+"commons": "Ivan Konstantinovich Aivazovsky - Gathering Storm, 1899.jpg"
+}
+},
+{
+"n": 140,
+"t": 1381.8,
+"d": 6.0,
+"unit": 90,
+"heard": "",
+"spec": {
+"commons": "Grèce. Vue de Sparte Avec le Taygete LCCN2017658135.jpg"
+}
+},
+{
+"n": 141,
+"t": 1387.8,
+"d": 11.12,
+"unit": 91,
+"heard": "¿Por qué allí? Para bajar desde el norte hacia el centro de Grecia, un ejército grande tenía que pasar por",
+"spec": {
+"card": {
+"type": "title",
+"title": "Las Puertas Calientes",
+"sub": "Capítulo 3"
+},
+"tr": null
+}
+},
+{
+"n": 142,
+"t": 1398.92,
+"d": 9.32,
+"unit": 93,
+"heard": "por un sitio concreto: una franja de tierra entre el monte Calídromo y el golfo Maliaco. Los griegos la llamaban Termópilas,",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "Las Termópilas",
+"keys": [
+[
+19,
+36,
+27,
+41.5
+],
+[
+22.2,
+38.6,
+23.0,
+39.0
+]
+],
+"points": [
+{
+"name": "Termópilas",
+"lon": 22.56,
+"lat": 38.8,
+"at": 0.55,
+"pulse": 1,
+"big": 1
+},
+{
+"name": "Golfo Maliaco",
+"lon": 22.6,
+"lat": 38.88,
+"at": 0.7
+},
+{
+"name": "Monte Calídromo",
+"lon": 22.55,
+"lat": 38.74,
+"at": 0.75
+}
+]
+},
+"at": "un sitio concreto"
+}
+},
+{
+"n": 143,
+"t": 1408.24,
+"d": 6.29,
+"unit": 93,
+"heard": "las «Puertas Calientes», por los manantiales de agua caliente que brotan allí.",
+"spec": {
+"photo": "Thermopylae hot springs",
+"src": "commons",
+"at": "las «Puertas Calientes»",
+"lt": [
+"Manantiales de las Termópilas",
+"hoy"
+]
+}
+},
+{
+"n": 144,
+"t": 1414.53,
+"d": 13.02,
+"unit": 94,
+"heard": "Hoy el paisaje engaña. Los ríos han arrastrado tanto sedimento en veinticinco siglos que el mar se ha retirado varios kilómetros, y donde estaba el paso hay una llanura con una autopista.",
+"spec": {
+"commons": "Thermopylae 02.jpg",
+"lt": [
+"Hoy",
+"el antiguo paso de las Termópilas"
+],
+"at": "Hoy el paisaje engaña"
+}
+},
+{
+"n": 145,
+"t": 1427.55,
+"d": 5.75,
+"unit": 94,
+"heard": "Pero en el cuatrocientos ochenta el agua llegaba casi hasta la roca.",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "480 a. C.",
+"lines": [
+"el mar casi tocaba la montaña",
+"un camino de pocos metros"
+]
+},
+"right": {
+"title": "Hoy",
+"lines": [
+"una llanura de varios kilómetros",
+"creada por los sedimentos"
+]
+},
+"strike": false
+},
+"at": "Pero en el cuatrocientos"
+}
+},
+{
+"n": 146,
+"t": 1433.29,
+"d": 9.14,
+"unit": 95,
+"heard": "Era",
+"spec": {
+"commons": "View of modern Sparta, Mount Taygetus and the Eurotas from the Menelaion on 15 May 2019.jpg"
+}
+},
+{
+"n": 147,
+"t": 1442.43,
+"d": 20.22,
+"unit": 96,
+"heard": "Era el lugar perfecto para anular una ventaja numérica. Por mucho ejército que tengas, en un camino así solo pueden luchar a la vez unos pocos cientos de hombres. Y en ese tipo de lucha, cuerpo a cuerpo y en un frente estrecho, los griegos tenían algo que los persas no tenían. Los griegos levantaron de nuevo",
+"spec": {
+"commons": "Thermopylae 04.jpg",
+"at": "el lugar perfecto"
+}
+},
+{
+"n": 148,
+"t": 1462.66,
+"d": 9.82,
+"unit": 97,
+"heard": "nuevo una vieja muralla que habían construido allí los focenses, sus vecinos, y acamparon tras ella. Y había una segunda pieza del plan:",
+"spec": {
+"commons": "Messene 01.jpg",
+"at": "una vieja muralla"
+}
+},
+{
+"n": 149,
+"t": 1472.48,
+"d": 15.99,
+"unit": 97,
+"heard": "en el mar, a unos setenta kilómetros, la flota griega, con Atenas al frente, cerraba el estrecho de Artemisio para que los barcos persas no pudieran rodear el paso. Detrás de esa estrategia estaba un ateniense muy astuto,",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "Tierra y mar",
+"keys": [
+[
+21.5,
+38.3,
+24.2,
+39.6
+],
+[
+22.0,
+38.5,
+23.8,
+39.3
+]
+],
+"points": [
+{
+"name": "Termópilas",
+"lon": 22.56,
+"lat": 38.8,
+"at": 0.3,
+"pulse": 1
+},
+{
+"name": "Artemisio",
+"lon": 23.25,
+"lat": 39.0,
+"at": 0.6,
+"pulse": 1,
+"big": 1
+}
+]
+},
+"at": "en el mar"
+}
+},
+{
+"n": 150,
+"t": 1488.47,
+"d": 7.12,
+"unit": 98,
+"heard": "Temístocles. La idea era sencilla de decir y terrible de cumplir: aguantar en tierra y",
+"spec": {
+"commons": "Busto di temistocle, da originale greco del V secolo ac, dal decumano presso il casamento del temistocle.JPG",
+"at": "Temístocles",
+"lt": [
+"Temístocles",
+"General de Atenas",
+"griegos"
+]
+}
+},
+{
+"n": 151,
+"t": 1495.59,
+"d": 5.01,
+"unit": 98,
+"heard": "y en el mar a la vez, todo el tiempo que hiciera falta.",
+"spec": {
+"photo": "Greek trireme Olympias",
+"src": "commons",
+"at": "en el mar a la vez",
+"lt": [
+"Hoy",
+"réplica de un trirreme griego"
+]
+}
+},
+{
+"n": 152,
+"t": 1500.6,
+"d": 17.0,
+"unit": 99,
+"heard": "El mar, además, ayudó a los griegos antes incluso de empezar. La flota persa fondeó frente a la costa de Magnesia,",
+"spec": {
+"commons": "Heinrich Leutemann - The Oracle at Delphi (1885).jpg"
+}
+},
+{
+"n": 153,
+"t": 1517.6,
+"d": 8.86,
+"unit": 100,
+"heard": "junto al cabo Sepias, en una playa demasiado pequeña para tantos barcos. Tuvieron que quedarse anclados en filas, mar adentro. Y entonces",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "El cabo Sepias",
+"keys": [
+[
+21.5,
+38.3,
+24.5,
+40.0
+],
+[
+22.8,
+38.9,
+23.6,
+39.5
+]
+],
+"points": [
+{
+"name": "Cabo Sepias",
+"lon": 23.2,
+"lat": 39.15,
+"at": 0.4,
+"pulse": 1,
+"big": 1
+},
+{
+"name": "Artemisio",
+"lon": 23.25,
+"lat": 39.0,
+"at": 0.7
+}
+]
+},
+"at": "junto al cabo Sepias"
+}
+},
+{
+"n": 154,
+"t": 1526.46,
+"d": 6.39,
+"unit": 100,
+"heard": "se levantó un temporal que duró tres días. Según Heródoto, se hundieron",
+"spec": {
+"commons": "Ivan Konstantinovich Aivazovsky - Gathering Storm, 1899.jpg",
+"at": "se levantó un temporal"
+}
+},
+{
+"n": 155,
+"t": 1532.85,
+"d": 8.28,
+"unit": 101,
+"heard": "al menos cuatrocientos barcos de guerra, además de incontables naves de carga. Los vecinos de la costa estuvieron años recogiendo",
+"spec": {
+"card": {
+"type": "counter",
+"to": 400,
+"label": "barcos persas hundidos por el temporal, según Heródoto"
+},
+"at": "al menos cuatrocientos"
+}
+},
+{
+"n": 156,
+"t": 1541.13,
+"d": 5.28,
+"unit": 101,
+"heard": "oro, plata y copas de los naufragios. Los griegos, que habían rezado",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1920.267/1920.267_print.jpg",
+"cl": "101482",
+"at": "oro, plata y copas"
+}
+},
+{
+"n": 157,
+"t": 1546.41,
+"d": 8.97,
+"unit": 101,
+"heard": "al viento del norte, lo tuvieron claro: los dioses estaban de su parte. Cuando vieron llegar al ejército persa,",
+"spec": {
+"photo": "Boreas north wind vase",
+"src": "met,cleveland,commons",
+"at": "al viento del norte"
+}
+},
+{
+"n": 158,
+"t": 1555.38,
+"d": 4.74,
+"unit": 102,
+"heard": "muchos griegos quisieron retirarse. Los del Peloponeso proponían volver",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1929.134/1929.134_print.jpg",
+"cl": "110567",
+"at": "muchos griegos quisieron"
+}
+},
+{
+"n": 159,
+"t": 1560.12,
+"d": 14.61,
+"unit": 102,
+"heard": "volver al istmo de Corinto y defender solo su península. Los focenses y los locrios, que vivían justo detrás del paso, se indignaron. Leónidas decidió quedarse y pedir refuerzos a las ciudades.",
+"spec": {
+"commons": "Corinth, Greece (NASA).jpg",
+"at": "el istmo de Corinto",
+"lt": [
+"Istmo de Corinto",
+"hoy"
+]
+}
+},
+{
+"n": 160,
+"t": 1574.73,
+"d": 10.96,
+"unit": 103,
+"heard": "Jerjes acampó al otro lado y",
+"spec": {
+"commons": "Ruins of Thespiae, from a Sketch by Daniel - Wordsworth Christopher - 1882.jpg"
+}
+},
+{
+"n": 161,
+"t": 1585.69,
+"d": 9.56,
+"unit": 104,
+"heard": "envió a un jinete a espiar. Lo que el explorador vio le pareció tan raro que volvió a contarlo con todo detalle. «Vio que unos",
+"spec": {
+"photo": "Persian horseman relief",
+"src": "commons,met",
+"at": "envió a un jinete"
+}
+},
+{
+"n": 162,
+"t": 1595.25,
+"d": 8.76,
+"unit": 105,
+"heard": "unos hacían ejercicio desnudos y que otros se peinaban la melena. Se quedó mirándolos asombrado y contó cuántos eran.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1929.441/1929.441_print.jpg",
+"cl": "110927",
+"at": "hacían ejercicio"
+}
+},
+{
+"n": 163,
+"t": 1604.01,
+"d": 4.98,
+"unit": 105,
+"heard": "Nadie lo persiguió. Nadie le hizo el menor caso.»",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Unos hacían ejercicio y otros se peinaban la melena.",
+"attrib": "Heródoto, Historia VII, 208 · lectura",
+"commons": "Herodotus Massimo Inv124478.jpg"
+},
+"at": "Nadie lo persiguió"
+}
+},
+{
+"n": 164,
+"t": 1608.99,
+"d": 8.44,
+"unit": 106,
+"heard": "Jerjes no entendía nada. Así que llamó al único hombre de su campamento que podía explicárselo: el espartano exiliado,",
+"spec": {
+"commons": "Persepolis theasury.jpg",
+"at": "Jerjes no entendía"
+}
+},
+{
+"n": 165,
+"t": 1617.43,
+"d": 7.39,
+"unit": 106,
+"heard": "Demarato. «Esos hombres han venido a luchar por el paso, y se están preparando para ello.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1943.279/1943.279_print.jpg",
+"at": "Demarato",
+"lt": [
+"Demarato",
+"Rey espartano exiliado",
+"persas"
+]
+}
+},
+{
+"n": 166,
+"t": 1624.83,
+"d": 23.65,
+"unit": 107,
+"heard": "Tienen esa costumbre: cuando van a jugarse la vida, se arreglan el pelo. Si vences a estos y a los que se han quedado en Esparta, no habrá ningún otro pueblo que se atreva a levantar la mano contra ti.» Jerjes no le creyó. Pensó que un puñado de hombres no podía estar pensando en serio en combatir contra un ejército así. Y esperó.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Cuando van a jugarse la vida, se arreglan el pelo.",
+"attrib": "Demarato a Jerjes, según Heródoto, Historia VII, 209"
+},
+"at": "Tienen esa costumbre"
+}
+},
+{
+"n": 167,
+"t": 1648.48,
+"d": 18.38,
+"unit": 108,
+"heard": "Cuatro días, cuenta Heródoto, esperando a que los griegos se dieran cuenta de su locura y salieran corriendo. De esos días de espera vienen las dos frases más famosas de la batalla. La primera la cuenta Plutarco: Jerjes habría mandado decir a Leónidas que",
+"spec": {
+"card": {
+"type": "counter",
+"to": 4,
+"label": "días de espera de Jerjes"
+},
+"at": "Cuatro días"
+}
+},
+{
+"n": 168,
+"t": 1666.86,
+"d": 8.32,
+"unit": 109,
+"heard": "que entregara las armas. Y Leónidas habría contestado con dos palabras en griego, «Molón labé».",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1967.33/1967.33_print.jpg",
+"cl": "143438",
+"at": "entregara las armas"
+}
+},
+{
+"n": 169,
+"t": 1675.18,
+"d": 5.05,
+"unit": 110,
+"heard": "«Venid a cogerlas.» Es una frase perfecta.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Venid a cogerlas.",
+"attrib": "Leónidas, según Plutarco, Dichos de espartanos 225c"
+},
+"at": "Venid"
+}
+},
+{
+"n": 170,
+"t": 1680.23,
+"d": 15.84,
+"unit": 111,
+"heard": "Demasiado perfecta, quizá: Heródoto, que escribió mucho más cerca de los hechos, no la menciona. La segunda, en cambio, sí la cuenta él. Un hombre de Traquis, la ciudad de al lado, avisó a los griegos de que los persas eran tantos que,",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "«Venid a cogerlas»",
+"lines": [
+"Plutarco",
+"casi seis siglos después"
+]
+},
+"right": {
+"title": "«Lucharemos a la sombra»",
+"lines": [
+"Heródoto",
+"unos cuarenta años después"
+]
+},
+"strike": false
+},
+"at": "Demasiado perfecta"
+}
+},
+{
+"n": 171,
+"t": 1696.07,
+"d": 13.22,
+"unit": 111,
+"heard": "que, cuando disparaban sus flechas, tapaban el sol. Un espartano llamado Dieneces le respondió sin inmutarse. «Buenas noticias nos trae este extranjero. Si los medos tapan el sol,",
+"spec": {
+"commons": "Archers frieze Darius palace Louvre AOD487.jpg",
+"at": "cuando disparaban sus flechas"
+}
+},
+{
+"n": 172,
+"t": 1709.29,
+"d": 12.92,
+"unit": 112,
+"heard": "lucharemos a la sombra.» Heródoto dice que Dieneces fue el más valiente de todos. Y que esa frase, y otras parecidas, fueron lo que dejó como recuerdo de sí mismo.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Si los medos tapan el sol, lucharemos a la sombra.",
+"attrib": "Dieneces, según Heródoto, Historia VII, 226"
+},
+"at": "lucharemos"
+}
+},
+{
+"n": 173,
+"t": 1722.2,
+"d": 5.5,
+"unit": 113,
+"heard": "Al quinto día, Jerjes se cansó de esperar.",
+"spec": {
+"commons": "SC 337334 - Persepolis. Palace of Xerxes. (52256758190).jpg",
+"at": "Al quinto día",
+"tr": "black"
+}
+},
+{
+"n": 174,
+"t": 1727.7,
+"d": 10.0,
+"unit": 114,
+"heard": "",
+"spec": {
+"commons": "ISS067-E-153797 - View of Greece - Lamia - river Spercheios (Sperchios) - Maliac Gulf (Maliakos Gulf) - Thermopylae - Kamena Vourla (cropped).jpg"
+}
+},
+{
+"n": 175,
+"t": 1737.7,
+"d": 22.94,
+"unit": 115,
+"heard": "Hasta aquí: Jerjes ha entrado en Grecia con el ejército más grande de su tiempo. Unos siete mil griegos, con Leónidas y sus trescientos espartanos al frente, cierran el paso de las Termópilas, mientras la flota griega bloquea el mar en Artemisio. Y el Gran Rey, tras cuatro días de espera, va a atacar.",
+"spec": {
+"card": {
+"type": "recap",
+"title": "Hasta aquí",
+"items": [
+[
+"Jerjes",
+"invade Grecia con 120.000-300.000 hombres"
+],
+[
+"Leónidas",
+"cierra las Termópilas con unos 7.000 griegos"
+],
+[
+"La flota griega",
+"bloquea el mar en Artemisio"
+],
+[
+"Día 5",
+"Jerjes se cansa de esperar"
+]
+]
+},
+"at": "Hasta aquí"
+}
+},
+{
+"n": 176,
+"t": 1760.65,
+"d": 8.86,
+"unit": 116,
+"heard": "Primer día de combate. Jerjes manda por delante a",
+"spec": {
+"card": {
+"type": "title",
+"title": "El muro de bronce",
+"sub": "Capítulo 4"
+},
+"tr": null
+}
+},
+{
+"n": 177,
+"t": 1769.51,
+"d": 8.38,
+"unit": 118,
+"heard": "a los medos y a los cisios, pueblos del corazón del imperio, con una orden: traer a los griegos vivos ante él.",
+"spec": {
+"commons": "Persepolis theasury.jpg",
+"at": "los medos",
+"lt": [
+"Medos y cisios",
+"Infantería del imperio",
+"persas"
+]
+}
+},
+{
+"n": 178,
+"t": 1777.89,
+"d": 9.45,
+"unit": 118,
+"heard": "Avanzan por el camino estrecho, cientos y luego miles. Y se encuentran con algo que no habían visto nunca.",
+"spec": {
+"commons": "Archers frieze Louvre AOD488.jpg",
+"at": "Avanzan por el camino"
+}
+},
+{
+"n": 179,
+"t": 1787.34,
+"d": 15.72,
+"unit": 119,
+"heard": "Delante de ellos hay una pared. Hoplitas: soldados de a pie con armadura pesada.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1923.645/1923.645_print.jpg",
+"gloss": [
+"hoplita",
+"soldado de infantería pesada griego",
+"griegos"
+],
+"gloss_at": 11.6,
+"gloss_dur": 3.8199999999999816
+}
+},
+{
+"n": 180,
+"t": 1803.06,
+"d": 3.46,
+"unit": 120,
+"heard": "Casco de bronce, coraza, grebas en las piernas y",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/2024.63/2024.63_print.jpg",
+"cl": "680766",
+"at": "Casco de bronce"
+}
+},
+{
+"n": 181,
+"t": 1806.52,
+"d": 11.15,
+"unit": 120,
+"heard": "y un escudo redondo enorme, de casi un metro, el hoplon, que les cubría desde la barbilla hasta los muslos. Y una lanza de más de dos metros.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1941.295.a/1941.295.a_print.jpg",
+"cl": "120475",
+"at": "un escudo redondo"
+}
+},
+{
+"n": 182,
+"t": 1817.67,
+"d": 4.66,
+"unit": 121,
+"heard": "Formaban en falange: filas apretadas, hombro con hombro,",
+"spec": {
+"commons": "Amphora phalanx Staatliche Antikensammlungen 1429.jpg",
+"at": "Formaban en falange",
+"gloss": [
+"falange",
+"formación cerrada de hoplitas, hombro con hombro",
+"griegos"
+],
+"gloss_at": 0.38,
+"gloss_dur": 3.9800000000000635
+}
+},
+{
+"n": 183,
+"t": 1822.33,
+"d": 4.84,
+"unit": 121,
+"heard": "cada escudo cubriendo también el costado del compañero. Desde fuera parecía",
+"spec": {
+"card": {
+"type": "list",
+"header": "La falange",
+"items": [
+[
+"Escudo",
+"protege al soldado y al compañero de la izquierda"
+],
+[
+"Lanza",
+"más de dos metros; golpean varias filas a la vez"
+],
+[
+"Filas",
+"los de atrás empujan y relevan a los de delante"
+]
+]
+},
+"at": "cada escudo"
+}
+},
+{
+"n": 184,
+"t": 1827.17,
+"d": 9.27,
+"unit": 121,
+"heard": "un muro de bronce erizado de lanzas. Para romperlo había que acercarse. Y acercarse era morir.",
+"spec": {
+"commons": "Amphora phalanx Staatliche Antikensammlungen 1429.jpg",
+"at": "un muro de bronce",
+"kw": "UN MURO DE BRONCE"
+}
+},
+{
+"n": 185,
+"t": 1836.44,
+"d": 16.06,
+"unit": 122,
+"heard": "Los persas luchaban de otra manera. Su fuerza eran los arqueros y la caballería en campo abierto. Llevaban lanzas más cortas, escudos de mimbre y poca armadura. En una llanura habrían envuelto a los griegos. En aquel pasillo de roca,",
+"spec": {
+"commons": "Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg",
+"at": "Los persas luchaban"
+}
+},
+{
+"n": 186,
+"t": 1852.5,
+"d": 3.13,
+"unit": 122,
+"heard": "chocaban de frente contra la pared.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1965.78/1965.78_print.jpg",
+"cl": "142227",
+"at": "chocaban de frente"
+}
+},
+{
+"n": 187,
+"t": 1855.63,
+"d": 19.55,
+"unit": 123,
+"heard": "«Cayeron muchos, pero otros ocupaban su lugar. Y dejaron claro a todo el mundo, y sobre todo al propio rey, que eran muchos los seres humanos, pero pocos los hombres.» Cuando los medos se retiraron, destrozados, Jerjes mandó a los mejores:",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Eran muchos los seres humanos, pero pocos los hombres.",
+"attrib": "Heródoto, Historia VII, 210 · lectura",
+"commons": "Herodotus Massimo Inv124478.jpg"
+},
+"at": "Cayeron muchos"
+}
+},
+{
+"n": 188,
+"t": 1875.18,
+"d": 3.68,
+"unit": 124,
+"heard": "los Inmortales, su guardia de élite.",
+"spec": {
+"commons": "Archer frieze Louvre AOD487.jpg",
+"at": "los Inmortales",
+"lt": [
+"Los Inmortales",
+"Guardia del rey · relieve de Susa",
+"persas"
+],
+"gloss": [
+"Inmortales",
+"los 10.000 de la guardia del Gran Rey",
+"persas"
+],
+"gloss_at": 0.2,
+"gloss_dur": 3.1800000000000637
+}
+},
+{
+"n": 189,
+"t": 1878.86,
+"d": 11.72,
+"unit": 124,
+"heard": "Eran diez mil, y se llamaban así porque, según Heródoto, cuando uno caía otro ocupaba enseguida su puesto, de modo que siempre eran diez mil. Los mandaba un general llamado",
+"spec": {
+"card": {
+"type": "counter",
+"to": 10000,
+"label": "Inmortales: siempre el mismo número"
+},
+"at": "Eran diez mil"
+}
+},
+{
+"n": 190,
+"t": 1890.58,
+"d": 2.69,
+"unit": 124,
+"heard": "Hidarnes.",
+"spec": {
+"commons": "Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg",
+"at": "Hidarnes",
+"lt": [
+"Hidarnes",
+"Jefe de los Inmortales",
+"persas"
+]
+}
+},
+{
+"n": 191,
+"t": 1893.27,
+"d": 9.0,
+"unit": 125,
+"heard": "",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1929.134/1929.134_print.jpg"
+}
+},
+{
+"n": 192,
+"t": 1902.27,
+"d": 8.46,
+"unit": 126,
+"heard": "Los relieves de los palacios persas nos los muestran todavía hoy: hombres altos, de túnicas bordadas, con lanzas rematadas en",
+"spec": {
+"commons": "Archer frieze Louvre AOD487.jpg",
+"at": "Los relieves"
+}
+},
+{
+"n": 193,
+"t": 1910.73,
+"d": 19.61,
+"unit": 126,
+"heard": "en granadas de plata y oro. Eran la imagen misma del poder del Gran Rey. Les fue igual que a los medos. Sus lanzas eran más cortas que las griegas, y el número no servía de nada en un frente de pocos metros. Los espartanos, además, tenían un truco. De pronto",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1943.279/1943.279_print.jpg",
+"cl": "123022",
+"at": "granadas de plata"
+}
+},
+{
+"n": 194,
+"t": 1930.34,
+"d": 25.89,
+"unit": 127,
+"heard": "pronto daban la espalda, como si huyeran. Los persas se lanzaban a perseguirlos gritando, perdían la formación… y entonces los espartanos se giraban todos a la vez y caían sobre ellos. Los griegos, además, luchaban por turnos, ciudad por ciudad, para que los cansados pudieran descansar. Solo los focenses no entraban en las rotaciones. Leónidas los había mandado",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1923.645/1923.645_print.jpg",
+"cl": "105541",
+"at": "daban la espalda"
+}
+},
+{
+"n": 195,
+"t": 1956.23,
+"d": 4.86,
+"unit": 128,
+"heard": "a vigilar algo en la montaña. Volveremos a ello.",
+"spec": {
+"commons": "Foloi oak forest.JPG",
+"at": "vigilar algo en la montaña"
+}
+},
+{
+"n": 196,
+"t": 1961.09,
+"d": 10.3,
+"unit": 129,
+"heard": "Desde una altura,",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1965.78/1965.78_print.jpg"
+}
+},
+{
+"n": 197,
+"t": 1971.39,
+"d": 14.18,
+"unit": 130,
+"heard": "sentado en su trono, Jerjes miraba. Y Heródoto nos deja uno de los detalles más humanos de toda su historia. «Se cuenta que, durante aquellos asaltos, el rey, que estaba mirando,",
+"spec": {
+"commons": "Right Section of the Treasury Reliefs (4735541667).jpg",
+"at": "sentado en su trono"
+}
+},
+{
+"n": 198,
+"t": 1985.57,
+"d": 5.03,
+"unit": 131,
+"heard": "saltó tres veces de su trono, temiendo por su ejército.»",
+"spec": {
+"card": {
+"type": "quote",
+"text": "El rey saltó tres veces de su trono, temiendo por su ejército.",
+"attrib": "Heródoto, Historia VII, 212 · lectura",
+"commons": "Herodotus Massimo Inv124478.jpg"
+},
+"at": "saltó tres veces"
+}
+},
+{
+"n": 199,
+"t": 1990.6,
+"d": 27.31,
+"unit": 132,
+"heard": "El segundo día fue igual. Los persas atacaron pensando que los griegos, pocos y heridos, ya no podrían ni levantar el escudo. Se equivocaban. Al caer la tarde volvieron a retirarse. ¿Cómo era aquello por dentro? Hay que imaginar el ruido. El golpe de miles de escudos chocando. Los gritos en una decena de lenguas distintas. El calor de agosto",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1978.59/1978.59_print.jpg",
+"cl": "149405",
+"at": "El segundo día"
+}
+},
+{
+"n": 200,
+"t": 2017.92,
+"d": 4.6,
+"unit": 133,
+"heard": "dentro de un casco de bronce cerrado, que apenas dejaba ver y oír.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1926.54/1926.54_print.jpg",
+"cl": "108870",
+"at": "dentro de un casco de bronce"
+}
+},
+{
+"n": 201,
+"t": 2022.52,
+"d": 8.1,
+"unit": 133,
+"heard": "Y el polvo, levantado por decenas de miles de pies, que no dejaba ver más allá de unos metros.",
+"spec": {
+"commons": "Achaemenid king killing a Greek hoplite.jpg",
+"at": "Y el polvo"
+}
+},
+{
+"n": 202,
+"t": 2030.61,
+"d": 12.58,
+"unit": 134,
+"heard": "Un hoplita cargaba con más de veinte kilos de armadura.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1926.241/1926.241_print.jpg"
+}
+},
+{
+"n": 203,
+"t": 2043.19,
+"d": 29.98,
+"unit": 135,
+"heard": "Se luchaba empujando con el escudo, buscando con la lanza el hueco del cuello, de la axila o de la ingle. Cuando la lanza se partía, se seguía con la espada corta o con la contera de hierro del otro extremo del asta. En las primeras filas, cada minuto era agotador. Por eso los relevos de Leónidas fueron tan importantes. Dos días. Las mejores tropas del mayor imperio del mundo no habían conseguido avanzar ni un paso. Y",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1978.59/1978.59_print.jpg",
+"cl": "149405",
+"at": "Se luchaba empujando"
+}
+},
+{
+"n": 204,
+"t": 2073.17,
+"d": 7.78,
+"unit": 136,
+"heard": "Y en el mar, en Artemisio, la flota persa tampoco lograba romper el bloqueo. Por primera vez desde que salió de Asia,",
+"spec": {
+"commons": "Artemisia at the Battle of Salamis.jpg",
+"at": "en el mar"
+}
+},
+{
+"n": 205,
+"t": 2080.95,
+"d": 10.34,
+"unit": 136,
+"heard": "Jerjes no sabía qué hacer. Mientras tanto, a pocos kilómetros, en el mar de Artemisio, se libraba la otra mitad de la batalla.",
+"spec": {
+"commons": "Achaemenid king killing a Greek hoplite.jpg",
+"at": "Jerjes no sabía"
+}
+},
+{
+"n": 206,
+"t": 2091.29,
+"d": 1.74,
+"unit": 137,
+"heard": "Los trirremes griegos,",
+"spec": {
+"commons": "Trireme Ram.jpg",
+"at": "los trirremes griegos"
+}
+},
+{
+"n": 207,
+"t": 2093.03,
+"d": 1.6,
+"unit": 137,
+"heard": "unos doscientos setenta,",
+"spec": {
+"card": {
+"type": "counter",
+"to": 271,
+"label": "trirremes griegos en Artemisio, según Heródoto"
+},
+"at": "unos doscientos setenta"
+}
+},
+{
+"n": 208,
+"t": 2094.63,
+"d": 17.08,
+"unit": 137,
+"heard": "se enfrentaron a la flota persa durante los mismos tres días. Las galeras chocaban con sus espolones de bronce, intentando partir el casco del enemigo. Nadie ganó claramente. Pero los persas no consiguieron pasar.",
+"spec": {
+"commons": "Herodotus (1920) (14760572736).jpg",
+"at": "Artemisio",
+"lt": [
+"Cabo Artemisio",
+"Eubea · hoy"
+]
+}
+},
+{
+"n": 209,
+"t": 2111.71,
+"d": 9.0,
+"unit": 138,
+"heard": "",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1929.135/1929.135_print.jpg"
+}
+},
+{
+"n": 210,
+"t": 2120.71,
+"d": 3.8,
+"unit": 139,
+"heard": "Entonces alguien pidió verle.",
+"spec": {
+"commons": "Berger - Musée du Louvre AGER Br 4248 ; MND 1914.jpg",
+"at": "Entonces",
+"tr": "black"
+}
+},
+{
+"n": 211,
+"t": 2124.51,
+"d": 10.0,
+"unit": 140,
+"heard": "",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1928.859/1928.859_print.jpg"
+}
+},
+{
+"n": 212,
+"t": 2134.51,
+"d": 5.0,
+"unit": 141,
+"heard": "",
+"spec": {
+"card": {
+"type": "title",
+"title": "El sendero",
+"sub": "Capítulo 5"
+},
+"tr": null
+}
+},
+{
+"n": 213,
+"t": 2139.51,
+"d": 16.83,
+"unit": 143,
+"heard": "Se llamaba Efialtes, hijo de Euridemo. Era de la Málide, la comarca de alrededor del paso. Y le ofreció a Jerjes lo que más necesitaba: un camino. Por detrás de las Termópilas, a través del monte,",
+"spec": {
+"commons": "Thermopylae 02.jpg",
+"at": "Se llamaba Efialtes"
+}
+},
+{
+"n": 214,
+"t": 2156.34,
+"d": 6.0,
+"unit": 144,
+"heard": "corría un sendero de pastores. Subía por el valle de un río, cruzaba la montaña por",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "El sendero de Anopea",
+"keys": [
+[
+22.2,
+38.6,
+23.0,
+39.0
+],
+[
+22.4,
+38.7,
+22.75,
+38.86
+]
+],
+"points": [
+{
+"name": "Campamento persa",
+"lon": 22.47,
+"lat": 38.8,
+"at": 0.2
+},
+{
+"name": "Anopea",
+"lon": 22.56,
+"lat": 38.75,
+"at": 0.5,
+"pulse": 1,
+"big": 1
+},
+{
+"name": "Alpenos",
+"lon": 22.62,
+"lat": 38.81,
+"at": 0.8
+}
+]
+},
+"at": "corría un sendero"
+}
+},
+{
+"n": 215,
+"t": 2162.34,
+"d": 6.04,
+"unit": 144,
+"heard": "por un bosque de robles y bajaba justo a la espalda de los griegos. Los de la zona lo llamaban",
+"spec": {
+"commons": "Foloi road1.JPG",
+"at": "un bosque de robles"
+}
+},
+{
+"n": 216,
+"t": 2168.38,
+"d": 2.65,
+"unit": 144,
+"heard": "Anopea.",
+"spec": {
+"commons": "Thermopylae 04.jpg",
+"at": "Anopea"
+}
+},
+{
+"n": 217,
+"t": 2171.03,
+"d": 16.92,
+"unit": 145,
+"heard": "Leónidas lo conocía. Por eso había mandado allí arriba a los mil focenses: para cerrar esa puerta trasera. Pero un sendero de noche, en un bosque, con mil hombres que no esperan a nadie, es una puerta muy fácil de abrir.",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "La batalla de las Termópilas"
+}
+}
+},
+{
+"n": 218,
+"t": 2187.95,
+"d": 13.36,
+"unit": 146,
+"heard": "Jerjes no se lo pensó. Esa misma tarde, a la hora en",
+"spec": {
+"commons": "Full Moon (6043616882).jpg"
+}
+},
+{
+"n": 219,
+"t": 2201.31,
+"d": 7.04,
+"unit": 147,
+"heard": "en que se encienden las lámparas, Hidarnes y sus Inmortales salieron del campamento con Efialtes como guía.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1986.1041/1986.1041_print.jpg",
+"cl": "152919",
+"at": "se encienden las lámparas"
+}
+},
+{
+"n": 220,
+"t": 2208.35,
+"d": 14.44,
+"unit": 147,
+"heard": "Caminaron toda la noche. «Al amanecer estaban ya en lo alto del monte. Había un gran silencio, y las hojas de los robles cubrían el suelo. Cuando los persas subían, se oía un enorme",
+"spec": {
+"commons": "Archers frieze Darius palace Louvre AOD487.jpg",
+"at": "Caminaron toda la noche"
+}
+},
+{
+"n": 221,
+"t": 2222.79,
+"d": 6.42,
+"unit": 148,
+"heard": "enorme ruido de hojas pisadas. Los focenses se pusieron en pie de un salto.»",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Se oía un enorme ruido de hojas pisadas.",
+"attrib": "Heródoto, Historia VII, 218 · lectura",
+"commons": "Herodotus Massimo Inv124478.jpg"
+},
+"at": "ruido de hojas"
+}
+},
+{
+"n": 222,
+"t": 2229.21,
+"d": 19.62,
+"unit": 149,
+"heard": "Los focenses, sorprendidos, pensaron que el ataque iba contra ellos. Así que se retiraron a la cumbre para morir allí con honor. Pero los persas, bajo una lluvia de flechas, ni se pararon. No les interesaban los focenses. Siguieron bajando por el otro lado.",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "La batalla de las Termópilas"
+}
+}
+},
+{
+"n": 223,
+"t": 2248.84,
+"d": 19.04,
+"unit": 150,
+"heard": "Había sido una marcha brutal. Una columna de miles de hombres, de noche, por un camino de pastores, subiendo y bajando más de mil metros de desnivel por un monte que no conocían. Sin luces que los delataran. Siguiendo a un desconocido que podía estar llevándoles a una emboscada.",
+"spec": {
+"commons": "Thermopylae-Air-View.jpg",
+"at": "Había sido una marcha"
+}
+},
+{
+"n": 224,
+"t": 2267.88,
+"d": 5.01,
+"unit": 150,
+"heard": "Al amanecer, estaban sobre la espalda de los griegos.",
+"spec": {
+"photo": "Kallidromo mountain slope forest",
+"src": "met,cleveland,commons",
+"at": "Al amanecer"
+}
+},
+{
+"n": 225,
+"t": 2272.88,
+"d": 9.0,
+"unit": 151,
+"heard": "",
+"spec": {
+"commons": "Battle of Thermopylae - pass.jpg"
+}
+},
+{
+"n": 226,
+"t": 2281.88,
+"d": 6.95,
+"unit": 152,
+"heard": "La puerta trasera estaba abierta. Durante siglos, el nombre de Efialtes ha sido",
+"spec": {
+"commons": "Battle of Thermopylae - pass.jpg",
+"at": "La puerta trasera",
+"tr": "black"
+}
+},
+{
+"n": 227,
+"t": 2288.83,
+"d": 12.7,
+"unit": 153,
+"heard": "ha sido sinónimo de traidor. En griego moderno, la palabra se usa también para «pesadilla». Pero ¿hasta qué punto fue él quien decidió la batalla? Heródoto cuenta que",
+"spec": {
+"photo": "Kallidromo mountain path",
+"src": "commons,met,cleveland",
+"kw": "EFIALTES",
+"at": "sinónimo de traidor",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 228,
+"t": 2301.53,
+"d": 19.73,
+"unit": 154,
+"heard": "que había otras versiones, que señalaban a otros dos hombres de la zona. Él se queda con Efialtes porque los griegos pusieron precio a su cabeza. Efialtes huyó a Tesalia y años después, al volver, lo mató otro hombre de Traquis, aunque, según Heródoto, por otro motivo.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Huyó a Tesalia. La Anfictionía puso precio a su cabeza. Lo mató Atenades de Traquis, por otro motivo.",
+"attrib": "Heródoto, Historia VII, 213-214"
+},
+"at": "había otras versiones"
+}
+},
+{
+"n": 229,
+"t": 2321.26,
+"d": 21.07,
+"unit": 155,
+"heard": "Muchos historiadores de hoy creen que el traidor importa menos de lo que parece. Un ejército como el persa tenía exploradores, aliados griegos del norte y guías locales de sobra. Que existiera un sendero por la montaña no era ningún secreto en la comarca. Tarde o temprano, alguien se lo habría enseñado.",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "La versión clásica",
+"lines": [
+"un traidor revela",
+"un camino secreto"
+]
+},
+"right": {
+"title": "La visión de muchos historiadores",
+"lines": [
+"el sendero era conocido",
+"los persas tenían guías y exploradores"
+]
+},
+"strike": false
+},
+"at": "Muchos historiadores"
+}
+},
+{
+"n": 230,
+"t": 2342.34,
+"d": 12.18,
+"unit": 156,
+"heard": "Y queda otra pregunta incómoda: por qué",
+"spec": {
+"commons": "Thermopylae-Air-View.jpg"
+}
+},
+{
+"n": 231,
+"t": 2354.52,
+"d": 17.05,
+"unit": 157,
+"heard": "qué los mil focenses no aguantaron. Heródoto habla de sorpresa. Algunos estudios recientes sugieren causas más turbias, ligadas a rivalidades locales. No lo sabemos. Lo que sí sabemos es lo que ocurrió después.",
+"spec": {
+"photo": "Phocis mountains Greece",
+"src": "commons",
+"at": "los mil focenses"
+}
+},
+{
+"n": 232,
+"t": 2371.57,
+"d": 10.0,
+"unit": 158,
+"heard": "",
+"spec": {
+"commons": "The River Eurotas in Sparta on 15 May 2019.jpg"
+}
+},
+{
+"n": 233,
+"t": 2381.57,
+"d": 24.57,
+"unit": 159,
+"heard": "Hasta aquí: durante dos días, los griegos han frenado en el desfiladero a las mejores tropas de Persia, Inmortales incluidos. Pero un hombre de la zona, Efialtes, ha guiado a los Inmortales por el sendero de la montaña. Los focenses que lo vigilaban se han apartado. Al amanecer del tercer día, los persas bajan por la espalda de Leónidas.",
+"spec": {
+"card": {
+"type": "recap",
+"title": "Hasta aquí",
+"items": [
+[
+"Días 1 y 2",
+"el muro de bronce resiste"
+],
+[
+"La noche",
+"Efialtes guía a los Inmortales por Anopea"
+],
+[
+"El sendero",
+"los focenses se retiran a la cumbre"
+],
+[
+"Día 3",
+"los persas bajan por la espalda"
+]
+]
+},
+"at": "Hasta aquí"
+}
+},
+{
+"n": 234,
+"t": 2406.14,
+"d": 11.34,
+"unit": 160,
+"heard": "En el campamento griego, todavía era de noche cuando empezaron a llegar las noticias. Primero,",
+"spec": {
+"card": {
+"type": "title",
+"title": "La última mañana",
+"sub": "Capítulo 6"
+},
+"tr": null
+}
+},
+{
+"n": 235,
+"t": 2417.48,
+"d": 10.66,
+"unit": 162,
+"heard": "el adivino del ejército, Megistias, examinó las entrañas de los animales sacrificados, como se hacía antes de cada batalla. Y anunció que la muerte les llegaría",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1926.242/1926.242_print.jpg",
+"cl": "108536",
+"at": "el adivino del ejército",
+"lt": [
+"Megistias",
+"Adivino del ejército griego",
+"griegos"
+]
+}
+},
+{
+"n": 236,
+"t": 2428.14,
+"d": 2.93,
+"unit": 162,
+"heard": "con el amanecer.",
+"spec": {
+"commons": "Sacrifice Louvre K5.jpg",
+"at": "con el amanecer"
+}
+},
+{
+"n": 237,
+"t": 2431.07,
+"d": 9.0,
+"unit": 163,
+"heard": "",
+"spec": {
+"commons": "Foloi oak forest.JPG"
+}
+},
+{
+"n": 238,
+"t": 2440.07,
+"d": 35.32,
+"unit": 164,
+"heard": "Después llegaron unos desertores del campo persa con la noticia del rodeo. Y al rayar el día, bajaron corriendo los vigías que habían apostado en las alturas. Ya no había duda. En pocas horas estarían rodeados. Los griegos se reunieron en consejo. Unos querían quedarse. Otros, la mayoría, irse mientras aún se pudiera. Y aquí está el gran misterio de las Termópilas. Al final, casi todo el ejército se retiró hacia el sur. Pero Leónidas y sus espartanos",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "La batalla de las Termópilas"
+}
+}
+},
+{
+"n": 239,
+"t": 2475.39,
+"d": 3.68,
+"unit": 165,
+"heard": "se quedaron. ¿Por qué?",
+"spec": {
+"commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
+"at": "se quedaron",
+"kw": "SE QUEDARON"
+}
+},
+{
+"n": 240,
+"t": 2479.07,
+"d": 20.78,
+"unit": 166,
+"heard": "Heródoto ofrece dos versiones. Según la primera, los aliados se fueron por su cuenta, desmoralizados. Según la segunda, la que él prefiere, fue Leónidas quien los despidió, para salvarlos, porque para él y para los espartanos no era honroso abandonar el puesto que habían venido a defender.",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Versión 1",
+"lines": [
+"los aliados se marchan",
+"por su cuenta"
+]
+},
+"right": {
+"title": "Versión 2 · la de Heródoto",
+"lines": [
+"Leónidas los despide",
+"y se queda a cubrirlos"
+]
+},
+"strike": false
+},
+"at": "Heródoto ofrece dos versiones"
+}
+},
+{
+"n": 241,
+"t": 2499.84,
+"d": 6.97,
+"unit": 167,
+"heard": "«Si se quedaba, dejaría un gran nombre, y la prosperidad de Esparta no sería borrada.»",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Si se quedaba, dejaría un gran nombre, y la prosperidad de Esparta no sería borrada.",
+"attrib": "Heródoto, Historia VII, 220 · lectura",
+"commons": "Herodotus Massimo Inv124478.jpg"
+},
+"at": "Si se quedaba"
+}
+},
+{
+"n": 242,
+"t": 2506.82,
+"d": 27.14,
+"unit": 168,
+"heard": "Ahí está el oráculo: o la ciudad o el rey. Para Heródoto, Leónidas eligió morir para que Esparta viviera. Los historiadores de hoy añaden una razón más militar. Si todos se iban a la vez, por un camino estrecho y con la caballería persa detrás, el ejército entero podía ser masacrado en la retirada. Alguien tenía que quedarse a frenar al enemigo.",
+"spec": {
+"commons": "Delphes, Grèce. Temple d'Apollon. Six colonnes.jpg",
+"at": "Ahí está el oráculo"
+}
+},
+{
+"n": 243,
+"t": 2533.96,
+"d": 13.3,
+"unit": 169,
+"heard": "Hay otra forma de verlo, que no excluye las anteriores.",
+"spec": {
+"commons": "View of Mount Taygetus from the Menelaion) on 15 May 2019.jpg"
+}
+},
+{
+"n": 244,
+"t": 2547.26,
+"d": 25.53,
+"unit": 170,
+"heard": "Para un espartano, retirarse sin orden era la mayor vergüenza posible. Toda su vida, desde los siete años, se había preparado para no hacerlo. Quizá la pregunta no sea por qué se quedaron, sino cómo habrían podido irse. Leónidas incluso intentó salvar al adivino Megistias y lo mandó marcharse. Megistias se negó. Hizo irse",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1967.32/1967.32_print.jpg",
+"at": "Para un espartano"
+}
+},
+{
+"n": 245,
+"t": 2572.79,
+"d": 9.94,
+"unit": 171,
+"heard": "a su único hijo, que también estaba en el ejército, y él se quedó. No se quedaron solo los espartanos. Se quedaron también",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1928.859/1928.859_print.jpg",
+"cl": "110237",
+"at": "a su único hijo"
+}
+},
+{
+"n": 246,
+"t": 2582.73,
+"d": 6.06,
+"unit": 172,
+"heard": "setecientos hombres de Tespias, una pequeña ciudad de Beocia, con su jefe Demófilo.",
+"spec": {
+"commons": "Ruins of Thespiae, from a Sketch by Daniel - Wordsworth Christopher - 1882.jpg",
+"lt": [
+"Tespias",
+"dibujo de 1882"
+],
+"at": "setecientos hombres de Tespias"
+}
+},
+{
+"n": 247,
+"t": 2588.79,
+"d": 10.09,
+"unit": 172,
+"heard": "Nadie les obligó. Heródoto dice que se negaron a abandonar a Leónidas. Su ciudad sería la siguiente en caer, y lo sabían.",
+"spec": {
+"commons": "Attic Black-figure Neck Amphora Two Warriors Fighting Over a Corpse.jpg",
+"at": "Nadie les obligó",
+"kw": "700 TESPIOS"
+}
+},
+{
+"n": 248,
+"t": 2598.87,
+"d": 9.8,
+"unit": 173,
+"heard": "Se quedaron también",
+"spec": {
+"commons": "Ivan Konstantinovich Aivazovsky - Gathering Storm, 1899.jpg"
+}
+},
+{
+"n": 249,
+"t": 2608.67,
+"d": 15.28,
+"unit": 174,
+"heard": "cuatrocientos tebanos, pero estos, según Heródoto, contra su voluntad, como rehenes, porque Tebas era sospechosa de estar del lado persa. Muchos historiadores dudan de esta versión, escrita por un autor que no apreciaba a",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1941.295.a/1941.295.a_print.jpg",
+"cl": "120475",
+"at": "cuatrocientos tebanos"
+}
+},
+{
+"n": 250,
+"t": 2623.95,
+"d": 8.38,
+"unit": 174,
+"heard": "a los tebanos. Y con todos ellos, los ilotas, quizá cientos, cuyo nombre nadie apuntó.",
+"spec": {
+"card": {
+"type": "list",
+"header": "Los que se quedaron",
+"items": [
+[
+"Espartanos",
+"los supervivientes de los 300"
+],
+[
+"Tespios",
+"700, por voluntad propia"
+],
+[
+"Tebanos",
+"400, según Heródoto como rehenes"
+],
+[
+"Ilotas",
+"hasta 900, sin nombre"
+]
+]
+},
+"at": "Y con todos ellos"
+}
+},
+{
+"n": 251,
+"t": 2632.33,
+"d": 6.66,
+"unit": 175,
+"heard": "Los tespios pagaron muy caro su gesto. Semanas después, el ejército persa llegó a su ciudad y",
+"spec": {
+"commons": "Relief of Thespiae, lithograph by Louis Dupré - 1827.jpg",
+"at": "Los tespios pagaron",
+"lt": [
+"Tespias",
+"Beocia"
+]
+}
+},
+{
+"n": 252,
+"t": 2638.99,
+"d": 16.33,
+"unit": 175,
+"heard": "y la quemó. Sus habitantes habían huido al Peloponeso. Y al año siguiente, en Platea, los tespios supervivientes volvieron a luchar contra Persia, aunque ya sin armadura de hoplita: no les quedaba con qué comprarla.",
+"spec": {
+"commons": "Attic Black-figure Neck Amphora Two Warriors Fighting Over a Corpse.jpg",
+"at": "la quemó"
+}
+},
+{
+"n": 253,
+"t": 2655.32,
+"d": 9.0,
+"unit": 176,
+"heard": "",
+"spec": {
+"commons": "Grèce. Vue de Sparte Avec le Taygete LCCN2017658135.jpg"
+}
+},
+{
+"n": 254,
+"t": 2664.32,
+"d": 14.22,
+"unit": 177,
+"heard": "Unos mil cuatrocientos hombres, quizá más con los ilotas. Ese es el número real de la última resistencia. Muchos más de trescientos. Y, aun así, nada frente a lo que venía. De",
+"spec": {
+"card": {
+"type": "counter",
+"to": 1400,
+"label": "griegos en la última resistencia (sin contar ilotas)"
+},
+"at": "Unos mil cuatrocientos"
+}
+},
+{
+"n": 255,
+"t": 2678.54,
+"d": 6.67,
+"unit": 178,
+"heard": "De esa mañana, autores muy posteriores cuentan que Leónidas dijo a sus hombres algo así:",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1951.27/1951.27_print.jpg",
+"cl": "128277",
+"at": "esa mañana"
+}
+},
+{
+"n": 256,
+"t": 2685.21,
+"d": 11.71,
+"unit": 179,
+"heard": "«Desayunad bien, que esta noche cenaremos en el Hades.» Puede que lo dijera, puede que no. Lo que hizo, en cambio, lo cuenta Heródoto.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Desayunad bien, que esta noche cenaremos en el Hades.",
+"attrib": "Leónidas, según Diodoro y Plutarco · siglos I a. C. - II d. C."
+},
+"at": "Desayunad"
+}
+},
+{
+"n": 257,
+"t": 2696.92,
+"d": 10.9,
+"unit": 180,
+"heard": "Jerjes esperó a media mañana para atacar, como le había dicho Efialtes, para dar tiempo a los Inmortales a bajar del monte. Y Leónidas, en lugar de esperar tras la muralla,",
+"spec": {
+"photo": "Achaemenid king relief",
+"src": "commons",
+"at": "Jerjes esperó a media mañana"
+}
+},
+{
+"n": 258,
+"t": 2707.82,
+"d": 6.92,
+"unit": 180,
+"heard": "salió. En los días anteriores habían defendido la parte más estrecha. Ahora",
+"spec": {
+"commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
+"kw": "SALIÓ",
+"at": "salió"
+}
+},
+{
+"n": 259,
+"t": 2714.75,
+"d": 7.1,
+"unit": 182,
+"heard": "avanzaron hasta donde el paso se ensanchaba, para matar a cuantos más persas pudieran antes del final.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1978.59/1978.59_print.jpg",
+"cl": "149405",
+"at": "avanzaron"
+}
+},
+{
+"n": 260,
+"t": 2721.85,
+"d": 5.46,
+"unit": 182,
+"heard": "Ya no buscaban sobrevivir. «Cayeron muchísimos bárbaros.",
+"spec": {
+"photo": "Greeks fighting Persians vase",
+"src": "met,cleveland,commons",
+"at": "Ya no buscaban sobrevivir"
+}
+},
+{
+"n": 261,
+"t": 2727.31,
+"d": 3.04,
+"unit": 183,
+"heard": "Detrás de cada batallón, sus jefes los empujaban",
+"spec": {
+"commons": "Persepolis Relief 12.jpg",
+"at": "Detrás de cada batallón"
+}
+},
+{
+"n": 262,
+"t": 2730.35,
+"d": 10.96,
+"unit": 183,
+"heard": "a latigazos hacia delante. Muchos cayeron al mar y se ahogaron. Muchos más murieron pisoteados unos por otros.» La mayoría de los griegos tenían ya",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Los jefes los empujaban a latigazos hacia delante.",
+"attrib": "Heródoto, Historia VII, 223 · lectura",
+"commons": "Herodotus Massimo Inv124478.jpg"
+},
+"at": "a latigazos"
+}
+},
+{
+"n": 263,
+"t": 2741.31,
+"d": 4.84,
+"unit": 184,
+"heard": "las lanzas rotas. Siguieron con las espadas. Y en esa lucha",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1970.82/1970.82_print.jpg",
+"cl": "145432",
+"at": "las lanzas rotas"
+}
+},
+{
+"n": 264,
+"t": 2746.15,
+"d": 13.05,
+"unit": 184,
+"heard": "lucha cayó Leónidas, el rey de Esparta, luchando en primera línea. Heródoto escribe que se informó de los nombres de los trescientos, porque fueron hombres dignos de memoria.",
+"spec": {
+"photo": "Leonidas at Thermopylae David",
+"src": "commons",
+"at": "cayó Leónidas",
+"lt": [
+"Leónidas",
+"Rey de Esparta · muere en 480 a. C.",
+"griegos"
+],
+"tr": "black"
+}
+},
+{
+"n": 265,
+"t": 2759.2,
+"d": 12.46,
+"unit": 185,
+"heard": "Del lado persa también cayeron nombres importantes:",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1970.82/1970.82_print.jpg"
+}
+},
+{
+"n": 266,
+"t": 2771.66,
+"d": 14.61,
+"unit": 186,
+"heard": "dos hermanos del propio Jerjes, Abrocomes e Hiperantes, hijos del rey Darío. La batalla había llegado al corazón de la familia real. Entonces se libró la pelea más feroz de la batalla,",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1960.175/1960.175_print.jpg",
+"cl": "136287",
+"at": "dos hermanos del propio Jerjes",
+"lt": [
+"Abrocomes e Hiperantes",
+"Hermanos de Jerjes",
+"persas"
+]
+}
+},
+{
+"n": 267,
+"t": 2786.27,
+"d": 12.66,
+"unit": 187,
+"heard": "alrededor del cuerpo de Leónidas. Los persas querían llevárselo. Los griegos no lo permitieron. Heródoto dice que lo rescataron a fuerza de valor y que hicieron retroceder al enemigo",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1927.6/1927.6_print.jpg",
+"cl": "109391",
+"at": "alrededor del cuerpo de Leónidas"
+}
+},
+{
+"n": 268,
+"t": 2798.93,
+"d": 3.71,
+"unit": 187,
+"heard": "cuatro veces. Y en ese momento",
+"spec": {
+"card": {
+"type": "counter",
+"to": 4,
+"label": "veces que rechazaron al enemigo junto al cuerpo del rey"
+},
+"at": "cuatro veces"
+}
+},
+{
+"n": 269,
+"t": 2802.63,
+"d": 11.6,
+"unit": 188,
+"heard": "llegaron los Inmortales, por detrás. Los griegos que quedaban retrocedieron hasta la parte estrecha del paso, cruzaron la muralla y se juntaron todos en",
+"spec": {
+"commons": "Archers frieze Darius palace Louvre AOD487.jpg",
+"at": "llegaron los Inmortales",
+"tr": "black"
+}
+},
+{
+"n": 270,
+"t": 2814.24,
+"d": 9.74,
+"unit": 189,
+"heard": "una pequeña colina. Todos menos los tebanos. Heródoto cuenta lo que pasó en aquella colina con una frase que no se olvida.",
+"spec": {
+"commons": "Thermopylae 02.jpg",
+"at": "una pequeña colina",
+"lt": [
+"Colina del Kolonós",
+"Termópilas"
+]
+}
+},
+{
+"n": 271,
+"t": 2823.97,
+"d": 8.76,
+"unit": 190,
+"heard": "«Allí se defendieron con las espadas, los que todavía las tenían, y con las manos y con los dientes. Y los bárbaros los sepultaron",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Se defendieron con las espadas, y con las manos y con los dientes.",
+"attrib": "Heródoto, Historia VII, 225 · lectura",
+"commons": "Herodotus Massimo Inv124478.jpg"
+},
+"at": "Allí se defendieron"
+}
+},
+{
+"n": 272,
+"t": 2832.74,
+"d": 10.23,
+"unit": 190,
+"heard": "bajo sus proyectiles.» Los persas no se acercaron a rematarlos. Los fueron matando desde lejos, con flechas, jabalinas y piedras,",
+"spec": {
+"commons": "Early Iron Age Bronze Arrowheads, 700-300 BC.jpg",
+"at": "bajo sus proyectiles"
+}
+},
+{
+"n": 273,
+"t": 2842.96,
+"d": 3.46,
+"unit": 191,
+"heard": "hasta que no quedó nadie en pie.",
+"spec": {
+"photo": "Kolonos hill Thermopylae",
+"src": "met,cleveland,commons",
+"at": "hasta que no quedó nadie"
+}
+},
+{
+"n": 274,
+"t": 2846.42,
+"d": 7.0,
+"unit": 192,
+"heard": "",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/2024.63/2024.63_print.jpg"
+}
+},
+{
+"n": 275,
+"t": 2853.42,
+"d": 7.0,
+"unit": 192,
+"heard": "",
+"spec": {
+"commons": "Red-figure kylix nude hoplite (Boston MFA 89.270).jpg"
+}
+},
+{
+"n": 276,
+"t": 2860.42,
+"d": 20.7,
+"unit": 193,
+"heard": "¿Y los tebanos? Según Heródoto, al ver el final se separaron de los demás y se acercaron a los persas con las manos extendidas, gritando que siempre habían estado de su lado. A algunos los mataron al llegar. Al resto, por orden de Jerjes, los marcaron con hierro con la señal del rey.",
+"spec": {
+"commons": "Bas-reliëf met ruiter uit Thespiae, RP-P-OB-40.964.jpg",
+"at": "¿Y los tebanos?"
+}
+},
+{
+"n": 277,
+"t": 2881.12,
+"d": 10.54,
+"unit": 194,
+"heard": "Después, Jerjes",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1927.6/1927.6_print.jpg"
+}
+},
+{
+"n": 278,
+"t": 2891.66,
+"d": 15.52,
+"unit": 195,
+"heard": "recorrió el campo de batalla entre los muertos. Y cuando le dijeron cuál era el cuerpo de Leónidas, hizo algo que, según el propio Heródoto, los persas no solían hacer, porque solían honrar a los enemigos valientes.",
+"spec": {
+"photo": "fallen warriors vase",
+"src": "met,cleveland,commons",
+"at": "recorrió el campo"
+}
+},
+{
+"n": 279,
+"t": 2907.18,
+"d": 14.92,
+"unit": 196,
+"heard": "«Ordenó que le cortaran la cabeza y la clavaran en un palo. Y para mí, esta es la prueba más clara de que el rey Jerjes había odiado a Leónidas, mientras vivía, más que a ningún otro hombre.» Después, Jerjes",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Ordenó que le cortaran la cabeza y la clavaran en un palo.",
+"attrib": "Heródoto, Historia VII, 238 · lectura",
+"commons": "Herodotus Massimo Inv124478.jpg"
+},
+"at": "Ordenó"
+}
+},
+{
+"n": 280,
+"t": 2922.1,
+"d": 8.78,
+"unit": 197,
+"heard": "mandó llamar a Demarato, el espartano que le había avisado de todo. Y por primera vez le dio la razón.",
+"spec": {
+"photo": "Achaemenid nobles relief Persepolis",
+"src": "commons",
+"at": "mandó llamar a Demarato"
+}
+},
+{
+"n": 281,
+"t": 2930.88,
+"d": 18.18,
+"unit": 198,
+"heard": "«Demarato, eres un hombre de bien. Todo lo que dijiste ha ocurrido. Ahora dime: ¿cuántos lacedemonios quedan? ¿Y son todos tan buenos guerreros como estos?» «Los lacedemonios son muchos, rey, y tienen muchas ciudades.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Todo lo que dijiste ha ocurrido. ¿Cuántos lacedemonios quedan?",
+"attrib": "Jerjes a Demarato, según Heródoto, Historia VII, 234 · lectura",
+"commons": "Xerxes I at the Hadish Palace of Xerxes.jpg"
+},
+"at": "Demarato, eres"
+}
+},
+{
+"n": 282,
+"t": 2949.06,
+"d": 6.28,
+"unit": 199,
+"heard": "En Esparta hay unos ocho mil hombres, y todos son iguales a los que han luchado aquí.»",
+"spec": {
+"card": {
+"type": "quote",
+"text": "En Esparta hay unos ocho mil hombres, y todos son iguales a los que han luchado aquí.",
+"attrib": "Demarato a Jerjes, según Heródoto, Historia VII, 234"
+},
+"at": "En Esparta hay"
+}
+},
+{
+"n": 283,
+"t": 2955.34,
+"d": 10.6,
+"unit": 200,
+"heard": "Ocho mil como esos. Jerjes acababa de ganar una batalla. Pero había empezado a entender lo que le costaría ganar la guerra.",
+"spec": {
+"commons": "Xerxes I at the Hadish Palace of Xerxes.jpg",
+"at": "Ocho mil como esos"
+}
+},
+{
+"n": 284,
+"t": 2965.95,
+"d": 6.0,
+"unit": 201,
+"heard": "",
+"spec": {
+"commons": "Effet du tonnerre.jpg"
+}
+},
+{
+"n": 285,
+"t": 2971.95,
+"d": 6.0,
+"unit": 201,
+"heard": "",
+"spec": {
+"commons": "Messene 01.jpg"
+}
+},
+{
+"n": 286,
+"t": 2977.95,
+"d": 10.7,
+"unit": 202,
+"heard": "La batalla había terminado. Pero Jerjes todavía tenía un problema:",
+"spec": {
+"card": {
+"type": "title",
+"title": "Lo que quedó en la colina",
+"sub": "Capítulo 7"
+},
+"tr": null
+}
+},
+{
+"n": 287,
+"t": 2988.65,
+"d": 11.86,
+"unit": 204,
+"heard": "su flota. Los marineros llevaban días oyendo hablar del desfiladero y sabían que algo había ido mal. Así que el rey preparó un espectáculo.",
+"spec": {
+"commons": "Trireme Ram.jpg",
+"at": "su flota"
+}
+},
+{
+"n": 288,
+"t": 3000.5,
+"d": 12.06,
+"unit": 205,
+"heard": "Según Heródoto, de sus propios muertos,",
+"spec": {
+"commons": "ISS067-E-153797 - View of Greece - Lamia - river Spercheios (Sperchios) - Maliac Gulf (Maliakos Gulf) - Thermopylae - Kamena Vourla (cropped).jpg"
+}
+},
+{
+"n": 289,
+"t": 3012.56,
+"d": 23.98,
+"unit": 206,
+"heard": "unos veinte mil, dejó a la vista solo un millar. A los demás los enterró en zanjas cubiertas de hojas y tierra. Y después invitó a los marineros a cruzar y ver el campo de batalla. Pero no engañó a nadie. Daba risa, dice Heródoto: un millar de persas por un lado y los griegos amontonados por otro. Durante siglos,",
+"spec": {
+"card": {
+"type": "counter",
+"to": 20000,
+"label": "muertos persas según Heródoto"
+},
+"at": "unos veinte mil"
+}
+},
+{
+"n": 290,
+"t": 3036.55,
+"d": 13.88,
+"unit": 207,
+"heard": "esa colina fue solo un nombre en un libro. Hasta que en mil novecientos treinta y nueve un arqueólogo griego, Spyridon Marinatos, excavó una pequeña elevación del paso, el Kolonós. Y encontró",
+"spec": {
+"commons": "Thermopylae 04.jpg",
+"at": "esa colina"
+}
+},
+{
+"n": 291,
+"t": 3050.43,
+"d": 3.67,
+"unit": 207,
+"heard": "cientos de puntas de flecha.",
+"spec": {
+"photo": "ancient arrowheads bronze",
+"src": "met,cleveland,commons",
+"at": "cientos de puntas de flecha",
+"lt": [
+"Puntas de flecha",
+"como las halladas en el Kolonós"
+]
+}
+},
+{
+"n": 292,
+"t": 3054.1,
+"d": 19.09,
+"unit": 208,
+"heard": "Muchas eran de tipo oriental, como las que usaban los arqueros persas. Estaban justo donde Heródoto decía que habían caído los últimos defensores: bajo una lluvia de proyectiles. Dos mil cuatrocientos años después, la arqueología confirmaba el relato.",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Heródoto",
+"lines": [
+"los últimos griegos mueren en una colina",
+"bajo una lluvia de flechas"
+]
+},
+"right": {
+"title": "Marinatos · 1939",
+"lines": [
+"puntas de flecha persas",
+"concentradas en el Kolonós"
+]
+},
+"strike": false
+},
+"at": "Muchas eran de tipo oriental"
+}
+},
+{
+"n": 293,
+"t": 3073.19,
+"d": 9.0,
+"unit": 209,
+"heard": "",
+"spec": {
+"commons": "The River Eurotas in Sparta on 15 May 2019.jpg"
+}
+},
+{
+"n": 294,
+"t": 3082.19,
+"d": 20.26,
+"unit": 210,
+"heard": "Cuando Heródoto visitó el paso, sobre aquella colina había un león de piedra en honor de Leónidas. Y había columnas con inscripciones. Una era para todos los que lucharon allí. Otra, solo para los espartanos. Las escribió, o al menos así se creía, el poeta Simónides.",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "La batalla de las Termópilas"
+}
+}
+},
+{
+"n": 295,
+"t": 3102.45,
+"d": 8.96,
+"unit": 211,
+"heard": "«Aquí, contra tres millones, lucharon un día cuatro mil hombres del Peloponeso.» Y la de los espartanos.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Aquí, contra tres millones, lucharon cuatro mil hombres del Peloponeso.",
+"attrib": "Inscripción de las Termópilas, según Heródoto, Historia VII, 228"
+},
+"at": "Aquí"
+}
+},
+{
+"n": 296,
+"t": 3111.41,
+"d": 7.6,
+"unit": 212,
+"heard": "Probablemente el epitafio más famoso de la historia. Dos versos. Ni una palabra de más.",
+"spec": {
+"photo": "Simonides epigram stone Thermopylae",
+"src": "commons,met,cleveland",
+"kw": "EXTRANJERO",
+"at": "Probablemente el epitafio",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 297,
+"t": 3119.01,
+"d": 8.91,
+"unit": 213,
+"heard": "«Extranjero, ve a decir a los espartanos que aquí yacemos, obedientes a sus órdenes.» Heródoto apuntó también a",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Extranjero, ve a decir a los espartanos que aquí yacemos, obedientes a sus órdenes.",
+"attrib": "Epitafio de los espartanos, según Heródoto, Historia VII, 228"
+},
+"at": "Extranjero"
+}
+},
+{
+"n": 298,
+"t": 3127.93,
+"d": 17.92,
+"unit": 214,
+"heard": "a los que más destacaron. Después de Dieneces, dos hermanos espartanos, Alfeo y Marón. Y entre los tespios, que tantas veces se olvidan, uno llamado Ditirambo. Nombres que no salen en ninguna película, y que solo conocemos gracias a él.",
+"spec": {
+"card": {
+"type": "list",
+"header": "Los más valientes, según Heródoto",
+"items": [
+[
+"Dieneces",
+"espartano · «lucharemos a la sombra»"
+],
+[
+"Alfeo y Marón",
+"hermanos espartanos"
+],
+[
+"Ditirambo",
+"de Tespias"
+]
+]
+},
+"at": "los que más destacaron"
+}
+},
+{
+"n": 299,
+"t": 3145.85,
+"d": 11.86,
+"unit": 215,
+"heard": "Hubo también una tercera inscripción, para",
+"spec": {
+"commons": "Effet du tonnerre.jpg"
+}
+},
+{
+"n": 300,
+"t": 3157.71,
+"d": 10.82,
+"unit": 216,
+"heard": "para el adivino Megistias, el que supo que iba a morir y no quiso irse. Esa la pagó Simónides de su bolsillo, porque era su amigo.",
+"spec": {
+"image": "https://openaccess-cdn.clevelandart.org/1928.859/1928.859_print.jpg",
+"cl": "110237",
+"at": "el adivino Megistias"
+}
+},
+{
+"n": 301,
+"t": 3168.54,
+"d": 20.92,
+"unit": 217,
+"heard": "¿Sobrevivió alguien? Dos espartanos se habían quedado atrás antes del final, enfermos de los ojos. Uno, Éurito, al enterarse del rodeo, se puso la armadura, pidió a su ilota que lo llevara al frente y murió luchando. El otro, Aristodemo, volvió a Esparta.",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "La batalla de las Termópilas"
+}
+}
+},
+{
+"n": 302,
+"t": 3189.46,
+"d": 9.1,
+"unit": 218,
+"heard": "En Esparta no hubo piedad para él. Nadie le daba fuego para encender su hogar, nadie le dirigía la palabra. Lo llamaban",
+"spec": {
+"commons": "The ruins of the ancient Theatre of Sparta on May 15, 2019.jpg",
+"at": "En Esparta no hubo piedad"
+}
+},
+{
+"n": 303,
+"t": 3198.56,
+"d": 10.73,
+"unit": 218,
+"heard": "«el Tembloroso». Otro superviviente, Pantites, que había ido como mensajero a Tesalia, se ahorcó de vergüenza al volver.",
+"spec": {
+"photo": "Spartan hoplite figurine",
+"src": "commons,met,cleveland",
+"kw": "EL TEMBLOROSO",
+"at": "el Tembloroso",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 304,
+"t": 3209.29,
+"d": 12.1,
+"unit": 219,
+"heard": "Aristodemo tendría su revancha un año más tarde, en",
+"spec": {
+"commons": "Messene 01.jpg"
+}
+},
+{
+"n": 305,
+"t": 3221.39,
+"d": 18.25,
+"unit": 220,
+"heard": "en la batalla de Platea. Luchó como un loco, buscando la muerte, y la encontró. Heródoto dice que fue el más valiente de aquel día. Pero los espartanos no le concedieron los honores, porque había luchado para morir, no para vencer.",
+"spec": {
+"photo": "Plataea battlefield",
+"src": "commons",
+"at": "la batalla de Platea",
+"lt": [
+"Platea",
+"479 a. C."
+]
+}
+},
+{
+"n": 306,
+"t": 3239.64,
+"d": 6.0,
+"unit": 221,
+"heard": "",
+"spec": {
+"commons": "Plain of Marathon with Pine Forest and Wetlands, May 2015 - panoramio.jpg"
+}
+},
+{
+"n": 307,
+"t": 3245.64,
+"d": 6.0,
+"unit": 221,
+"heard": "",
+"spec": {
+"commons": "View of modern Sparta, Mount Taygetus and the Eurotas from the Menelaion on 15 May 2019.jpg"
+}
+},
+{
+"n": 308,
+"t": 3251.64,
+"d": 7.94,
+"unit": 222,
+"heard": "Las Termópilas fueron una derrota.",
+"spec": {
+"card": {
+"type": "title",
+"title": "La derrota que ganó la guerra",
+"sub": "Capítulo 8"
+},
+"tr": null
+}
+},
+{
+"n": 309,
+"t": 3259.58,
+"d": 10.12,
+"unit": 224,
+"heard": "Tras el paso, el ejército persa bajó por Grecia central, quemó ciudades y llegó a Atenas. Los atenienses habían evacuado la ciudad. Los persas",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "Tras las Termópilas",
+"keys": [
+[
+21.5,
+37.4,
+24.5,
+39.2
+],
+[
+22.6,
+37.6,
+24.2,
+38.6
+]
+],
+"points": [
+{
+"name": "Termópilas",
+"lon": 22.56,
+"lat": 38.8,
+"at": 0.15
+},
+{
+"name": "Atenas",
+"lon": 23.73,
+"lat": 37.98,
+"at": 0.5,
+"pulse": 1,
+"big": 1
+},
+{
+"name": "Salamina",
+"lon": 23.5,
+"lat": 37.95,
+"at": 0.75,
+"pulse": 1
+}
+]
+},
+"at": "Tras el paso"
+}
+},
+{
+"n": 310,
+"t": 3269.7,
+"d": 12.51,
+"unit": 224,
+"heard": "incendiaron la Acrópolis. Pero el tiempo que compraron en el desfiladero sirvió. Pocas semanas después, la flota griega, guiada por Temístocles, destrozó a la persa",
+"spec": {
+"commons": "-The Calf-Bearer and the Kritios Boy Shortly After Exhumation on the Acropolis-; Danseuse du Temple de Bacchus MET DP150943.jpg",
+"lt": [
+"Acrópolis de Atenas",
+"estatuas rotas por los persas, desenterradas en el siglo XIX"
+],
+"at": "incendiaron la Acrópolis"
+}
+},
+{
+"n": 311,
+"t": 3282.21,
+"d": 1.6,
+"unit": 225,
+"heard": "en el estrecho de Salamina.",
+"spec": {
+"commons": "Kaulbach, Wilhelm von - Die Seeschlacht bei Salamis - 1868.JPG",
+"at": "el estrecho de Salamina",
+"lt": [
+"Estrecho de Salamina",
+"hoy"
+]
+}
+},
+{
+"n": 312,
+"t": 3283.81,
+"d": 2.84,
+"unit": 225,
+"heard": "Jerjes volvió a Asia.",
+"spec": {
+"commons": "Wrath of Xerxes at Battle of Salamis by Wilhelm von Kaulbach.jpg",
+"at": "destrozó a la persa"
+}
+},
+{
+"n": 313,
+"t": 3286.65,
+"d": 9.89,
+"unit": 225,
+"heard": "Y un año más tarde, en Platea, el ejército que había dejado en Grecia fue derrotado por una coalición griega con los espartanos al frente.",
+"spec": {
+"card": {
+"type": "timeline",
+"header": "La guerra tras las Termópilas",
+"events": [
+[
+"480",
+"Termópilas y Artemisio"
+],
+[
+"480",
+"Atenas incendiada · Salamina"
+],
+[
+"479",
+"Platea y Mícala"
+],
+[
+"440",
+"Los restos de Leónidas vuelven a Esparta"
+]
+]
+},
+"at": "Y un año más tarde"
+}
+},
+{
+"n": 314,
+"t": 3296.54,
+"d": 13.3,
+"unit": 226,
+"heard": "En Platea, según Heródoto, alguien propuso al general espartano",
+"spec": {
+"commons": "Plain of Marathon with Pine Forest and Wetlands, May 2015 - panoramio.jpg"
+}
+},
+{
+"n": 315,
+"t": 3309.84,
+"d": 20.45,
+"unit": 227,
+"heard": "Pausanias hacer con el cadáver del general persa lo mismo que Jerjes había hecho con Leónidas. Pausanias se negó: eso era cosa de bárbaros, dijo. Leónidas, añadió, ya estaba suficientemente vengado. Cuarenta años después de la batalla, los restos de Leónidas fueron",
+"spec": {
+"commons": "1783 Bocage Map of the Topography of Sparta, Ancient Greece, and Environs - Geographicus - Sparta2-white-1793.jpg",
+"at": "Pausanias",
+"lt": [
+"Pausanias",
+"Regente de Esparta · sobrino de Leónidas",
+"griegos"
+]
+}
+},
+{
+"n": 316,
+"t": 3330.3,
+"d": 5.26,
+"unit": 228,
+"heard": "fueron llevados a Esparta. Allí, junto a su tumba, se levantó una columna con",
+"spec": {
+"commons": "Sparta - Tomb of Leonidas - DPLA - ebe507a1efd1897f87666db7538e3435 (page 1).jpg",
+"lt": [
+"Tumba de Leónidas",
+"Esparta · foto antigua"
+],
+"at": "llevados a Esparta"
+}
+},
+{
+"n": 317,
+"t": 3335.56,
+"d": 15.69,
+"unit": 228,
+"heard": "con los nombres de los trescientos. Heródoto pudo verla. Es muy probable que de ahí sacara la lista de nombres que dice haber averiguado. Y el paso siguió siendo lo que era: una puerta con una trampa.",
+"spec": {
+"commons": "Ancient Greece Marble Funerary Stele for Epikrates, son of Kephisios of Ionidai, 4th Cent. BC, found on Salamis.jpg",
+"at": "los nombres de los trescientos",
+"kw": "LOS 300 NOMBRES"
+}
+},
+{
+"n": 318,
+"t": 3351.25,
+"d": 6.56,
+"unit": 229,
+"heard": "Doscientos años después, en el doscientos setenta y nueve antes de Cristo, los griegos volvieron a cerrarlo contra",
+"spec": {
+"card": {
+"type": "timeline",
+"header": "Las otras batallas de las Termópilas",
+"events": [
+[
+"480 a. C.",
+"Leónidas contra Jerjes"
+],
+[
+"279 a. C.",
+"griegos contra gálatas"
+],
+[
+"191 a. C.",
+"Roma contra Antíoco III"
+],
+[
+"1941",
+"retaguardia aliada frente a Alemania"
+]
+]
+},
+"at": "Doscientos años después"
+}
+},
+{
+"n": 319,
+"t": 3357.81,
+"d": 11.73,
+"unit": 229,
+"heard": "contra un ejército de gálatas que bajaba hacia Delfos. Los gálatas encontraron un camino por la montaña y rodearon a los defensores, que tuvieron que huir por mar.",
+"spec": {
+"photo": "Galatians Gauls ancient sculpture Dying Gaul",
+"src": "commons",
+"at": "un ejército de gálatas"
+}
+},
+{
+"n": 320,
+"t": 3369.54,
+"d": 21.42,
+"unit": 230,
+"heard": "En el ciento noventa y uno, fue un ejército romano el que se encontró el paso cerrado, esta vez por el rey Antíoco Tercero. Y un oficial romano, Catón, condujo a sus hombres de noche por",
+"spec": {
+"commons": "View of modern Sparta, Mount Taygetus and the Eurotas from the Menelaion on 15 May 2019.jpg"
+}
+},
+{
+"n": 321,
+"t": 3390.96,
+"d": 9.39,
+"unit": 231,
+"heard": "por las alturas del Calídromo y apareció sobre el enemigo. Otra vez el mismo truco, en el mismo sitio. Y en abril de",
+"spec": {
+"photo": "Kallidromo mountain Thermopylae",
+"src": "commons",
+"at": "las alturas del Calídromo"
+}
+},
+{
+"n": 322,
+"t": 3400.35,
+"d": 27.2,
+"unit": 232,
+"heard": "de mil novecientos cuarenta y uno, durante la invasión alemana de Grecia, soldados neozelandeses y australianos defendieron las Termópilas para cubrir la retirada del resto del ejército aliado. Veinticuatro siglos después, la misma misión que Leónidas: aguantar para que otros pudieran irse. Desde entonces, las Termópilas nunca han dejado de contarse. Las contaron los romanos,",
+"spec": {
+"commons": "King of Greece with New Zealand Soldiers.jpg",
+"at": "mil novecientos cuarenta y uno",
+"lt": [
+"Termópilas",
+"abril de 1941"
+]
+}
+},
+{
+"n": 323,
+"t": 3427.55,
+"d": 6.42,
+"unit": 233,
+"heard": "los pintores del siglo diecinueve, los soldados de las dos guerras mundiales, el cine.",
+"spec": {
+"commons": "Jacques-Louis David - Leonidas at Thermopylae - WGA6095.jpg",
+"at": "los pintores del siglo diecinueve"
+}
+},
+{
+"n": 324,
+"t": 3433.97,
+"d": 9.67,
+"unit": 233,
+"heard": "Cada época ha encontrado allí lo que buscaba: libertad, sacrificio, patria, o simplemente un buen espectáculo.",
+"spec": {
+"commons": "Jacques-Louis David - Leonidas at Thermopylae (detail) - WGA6096.jpg",
+"at": "Cada época"
+}
+},
+{
+"n": 325,
+"t": 3443.63,
+"d": 9.0,
+"unit": 234,
+"heard": "",
+"spec": {
+"commons": "Heinrich Leutemann - The Oracle at Delphi (1885).jpg"
+}
+},
+{
+"n": 326,
+"t": 3452.63,
+"d": 30.43,
+"unit": 235,
+"heard": "Por eso conviene volver a lo que sabemos. No eran trescientos, eran miles. Los persas no eran millones, pero sí muchísimos. Algunas de las frases más famosas las escribió alguien siglos después. Y la batalla no salvó a Grecia por sí sola: la salvaron Salamina y Platea. Lo que sí hicieron las Termópilas fue otra cosa, quizá más importante. Demostraron que el ejército del Gran Rey podía ser detenido.",
+"spec": {
+"card": {
+"type": "list",
+"header": "Lo que sabemos",
+"items": [
+[
+"No eran 300",
+"unos 7.000; al final, unos 1.400 más ilotas"
+],
+[
+"No eran millones",
+"entre 120.000 y 300.000 persas"
+],
+[
+"Las frases",
+"«Venid a cogerlas» es de Plutarco, siglos después"
+],
+[
+"La victoria",
+"llegó en Salamina y Platea"
+]
+]
+},
+"at": "Por eso conviene"
+}
+},
+{
+"n": 327,
+"t": 3483.07,
+"d": 18.83,
+"unit": 236,
+"heard": "Que unas ciudades que se odiaban entre sí podían luchar juntas. Durante tres días, espartanos, tespios, corintios, arcadios y focenses pelearon bajo un mismo mando. Eso, en la Grecia de entonces, era casi tan raro como la propia resistencia.",
+"spec": {
+"commons": "Kaulbach, Wilhelm von - Die Seeschlacht bei Salamis - 1868.JPG",
+"at": "Que unas ciudades que se odiaban"
+}
+},
+{
+"n": 328,
+"t": 3501.9,
+"d": 14.34,
+"unit": 237,
+"heard": "Pero hay algo que ni la arqueología ni la crítica moderna han podido desmontar.",
+"spec": {
+"commons": "Ruins of Thespiae, from a Sketch by Daniel - Wordsworth Christopher - 1882.jpg"
+}
+},
+{
+"n": 329,
+"t": 3516.24,
+"d": 12.04,
+"unit": 238,
+"heard": "Una mañana de verano del cuatrocientos ochenta, unos cientos de hombres supieron que iban a morir, pudieron irse y no se fueron. Heródoto escribió su obra",
+"spec": {
+"commons": "Battle of Thermopylae - pass.jpg",
+"at": "Una mañana de verano"
+}
+},
+{
+"n": 330,
+"t": 3528.28,
+"d": 23.28,
+"unit": 239,
+"heard": "para que, en sus propias palabras, el tiempo no borrara las grandes hazañas de los griegos y de los bárbaros. De los dos. No es casualidad que el mismo libro que hace inmortal a Leónidas nos muestre a un Jerjes que llora por sus soldados. Para Heródoto, la historia no era de buenos y malos. Era de hombres.",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Para que el tiempo no borre lo que hicieron los hombres, ni queden sin gloria las grandes obras de griegos y de bárbaros.",
+"attrib": "Heródoto, Historia I, proemio"
+},
+"at": "para que, en sus propias palabras"
+}
+},
+{
+"n": 331,
+"t": 3551.56,
+"d": 14.39,
+"unit": 240,
+"heard": "Un hombre de Halicarnaso, cuarenta años después, se tomó la molestia de averiguar sus nombres, uno por uno. Y nos dejó, entre tantos, el de uno que dijo que lucharía a la sombra.",
+"spec": {
+"photo": "Herodotus bust",
+"src": "commons,met",
+"at": "Un hombre de Halicarnaso"
+}
+},
+{
+"n": 332,
+"t": 3565.94,
+"d": 9.0,
+"unit": 241,
+"heard": "",
+"spec": {
+"commons": "Full Moon (6043616882).jpg"
+}
+},
+{
+"n": 333,
+"t": 3574.94,
+"d": 7.66,
+"unit": 242,
+"heard": "Extranjero, ve a decir a los espartanos que aquí yacemos, obedientes a sus órdenes.",
+"spec": {
+"photo": "Simonides epigram stone Thermopylae",
+"src": "commons",
+"at": "Extranjero",
+"tr": "black"
+}
+},
+{
+"n": 334,
+"t": 3582.6,
+"d": 25.0,
+"unit": 243,
+"heard": "",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "La batalla de las Termópilas"
+}
+}
+}
+]

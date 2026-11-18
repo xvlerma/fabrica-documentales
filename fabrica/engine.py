@@ -100,7 +100,12 @@ def build_audio(job, U):
     def voice(u):
         if not u.get('url'):  # casting sin voz todavía: silencio estimado por longitud del texto
             return np.zeros((2, int(SR * max(2, len(re.sub(r'\[[^\]]*\]', '', u.get('text', ''))) / 14.5))), np.float32) + 1e-6, False
-        return gain_to(stretch_pauses(trimv(load(tempo(fetch(u['url'], '.mp3'), u.get('tempo', job.get('tempo', 0.96)))))), VOICE - (0 if u['k'] in ('N', 'T') else 1)), True
+        src = fetch(u['url'], '.mp3')
+        if u.get('clip'):  # v3.1: voz empaquetada en un solo archivo; cada unidad es un tramo [inicio, duración]
+            a_, d_ = u['clip']; cp = f"{src}.c{a_:.3f}_{d_:.3f}.wav"
+            if not os.path.exists(cp): sh(['ffmpeg', '-loglevel', 'error', '-y', '-ss', f'{a_:.3f}', '-t', f'{d_:.3f}', '-i', src, '-ar', str(SR), cp])
+            src = cp
+        return gain_to(stretch_pauses(trimv(load(tempo(src, u.get('tempo', job.get('tempo', 0.96)))))), VOICE - (0 if u['k'] in ('N', 'T') else 1)), True
     t = 0.0; bed = None; bedstart = 0; used = {}; words = 0; vsec = 0
     for i, u in enumerate(U):
         k = u['k']

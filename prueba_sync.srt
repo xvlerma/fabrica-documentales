@@ -1,0 +1,207 @@
+1
+00:00:06,839 --> 00:00:08,129
+Madrid.
+
+2
+00:00:08,179 --> 00:00:12,150
+Domingo, dieciséis de febrero de mil novecientos treinta y seis.
+
+3
+00:00:12,201 --> 00:00:14,050
+Ocho de la tarde.
+
+4
+00:00:14,099 --> 00:00:18,750
+En el Ministerio de la Gobernación, en la Puerta del Sol, los teléfonos no dejan
+
+5
+00:00:18,800 --> 00:00:20,109
+de sonar.
+
+6
+00:00:20,160 --> 00:00:22,890
+Llegan los primeros datos de toda España.
+
+7
+00:00:22,940 --> 00:00:26,589
+Y el ministro anuncia a la prensa lo que dicen esos números:
+
+8
+00:00:26,640 --> 00:00:29,570
+ventaja para las derechas y el centro.
+
+9
+00:00:29,620 --> 00:00:32,929
+Tres días después, el presidente del Gobierno ha dimitido.
+
+10
+00:00:32,980 --> 00:00:36,070
+El recuento oficial todavía no ha terminado.
+
+11
+00:00:36,120 --> 00:00:40,370
+Y el país ya tiene un nuevo gobierno.
+
+12
+00:00:40,420 --> 00:00:43,858
+Cinco meses más tarde, España está en guerra.
+
+13
+00:00:45,358 --> 00:00:49,508
+Durante noventa años, la versión aceptada ha sido sencilla:
+
+14
+00:00:49,558 --> 00:00:52,648
+el Frente Popular ganó aquellas elecciones.
+
+15
+00:00:52,698 --> 00:00:56,028
+Por poco, pero las ganó.
+
+16
+00:00:56,078 --> 00:01:01,668
+Sin embargo, en los archivos de las juntas provinciales, en las actas notariales,
+
+17
+00:01:01,718 --> 00:01:06,097
+en los papeles del propio presidente de la República, robados en mil novecientos
+
+18
+00:01:06,147 --> 00:01:11,628
+treinta y siete y recuperados por la Guardia Civil setenta y un años después, aparece
+
+19
+00:01:11,677 --> 00:01:13,088
+otra historia.
+
+20
+00:01:13,138 --> 00:01:17,008
+La pregunta no es quién ganó en las urnas.
+
+21
+00:01:17,058 --> 00:01:20,528
+La pregunta es quién contó los votos.
+
+22
+00:01:20,578 --> 00:01:25,228
+Y qué pasó con ellos entre el diecinueve de febrero y el mes de mayo.
+
+23
+00:01:25,278 --> 00:01:31,088
+Esta es la historia de las elecciones más discutidas de nuestra historia.
+
+24
+00:01:31,138 --> 00:01:33,868
+El pucherazo del treinta y seis.
+
+25
+00:01:40,368 --> 00:01:45,638
+Para entender lo que ocurrió aquella semana, hay que volver unos años atrás.
+
+26
+00:01:45,688 --> 00:01:51,978
+En abril de mil novecientos treinta y uno, la monarquía cae y nace la Segunda República.
+
+27
+00:01:52,028 --> 00:01:56,679
+Gobiernan primero las izquierdas republicanas y los socialistas, con Manuel Azaña
+
+28
+00:01:56,728 --> 00:01:58,939
+como gran figura.
+
+29
+00:01:58,989 --> 00:02:03,579
+En noviembre de mil novecientos treinta y tres, el péndulo se mueve:
+
+30
+00:02:03,629 --> 00:02:09,478
+las derechas, agrupadas en la CEDA de José María Gil-Robles, ganan las elecciones.
+
+31
+00:02:09,528 --> 00:02:14,898
+Y en octubre de mil novecientos treinta y cuatro, cuando la CEDA entra en el Gobierno,
+
+32
+00:02:14,948 --> 00:02:19,698
+los socialistas y otras fuerzas de izquierda responden con una insurrección.
+
+33
+00:02:19,748 --> 00:02:23,898
+En Asturias se convierte en una revolución armada.
+
+34
+00:02:23,948 --> 00:02:25,898
+Hay más de mil muertos.
+
+35
+00:02:25,948 --> 00:02:27,658
+Miles de detenidos.
+
+36
+00:02:27,709 --> 00:02:31,323
+Entre ellos, buena parte de la dirección socialista.
+
+37
+00:02:32,824 --> 00:02:37,313
+En mil novecientos treinta y cinco, los gobiernos de centro-derecha se hunden entre
+
+38
+00:02:37,364 --> 00:02:40,894
+escándalos de corrupción, como el del estraperlo.
+
+39
+00:02:40,944 --> 00:02:45,813
+El presidente de la República, Niceto Alcalá-Zamora, no quiere entregar el Gobierno
+
+40
+00:02:45,864 --> 00:02:50,133
+a Gil-Robles, aunque tiene el grupo más grande de la Cámara.
+
+41
+00:02:50,183 --> 00:02:52,753
+Prefiere a un hombre de su confianza:
+
+42
+00:02:52,804 --> 00:02:56,454
+Manuel Portela Valladares, un centrista sin partido propio.
+
+43
+00:02:56,504 --> 00:02:59,674
+Y Portela recibe un encargo:
+
+44
+00:02:59,724 --> 00:03:02,973
+disolver las Cortes y convocar elecciones.
+
+45
+00:03:03,024 --> 00:03:09,373
+La fecha elegida es el dieciséis de febrero de mil novecientos treinta y seis.
+
+46
+00:03:09,424 --> 00:03:12,354
+Frente a frente quedan dos grandes bloques.
+
+47
+00:03:12,404 --> 00:03:14,954
+A la izquierda, el Frente Popular:
+
+48
+00:03:15,004 --> 00:03:19,974
+republicanos de izquierda, socialistas, comunistas, y el voto de muchos anarquistas
+
+49
+00:03:20,024 --> 00:03:22,713
+que esta vez sí van a las urnas.
+
+50
+00:03:22,764 --> 00:03:26,414
+A la derecha, una alianza encabezada por la CEDA.
+
+51
+00:03:26,464 --> 00:03:31,394
+En medio, un centro débil que Portela intenta construir a toda prisa desde el propio
+
+52
+00:03:31,444 --> 00:03:32,359
+Gobierno.

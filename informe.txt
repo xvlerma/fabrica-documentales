@@ -1,0 +1,27 @@
+== piel: Crímenes históricos, misterios, conspiraciones, juicios, prensa antigua · etalonaje frio
+== 1/5 audio: colocando voces, música y efectos
+voz: 3.3 min, 461 palabras narrador, total 3.6 min
+   alineación: 4 unidades (4 con whisper, resto en caché o proporcional)
+== 2/5 guion visual
+  sincronía: plano 3 t=16.2s: rótulo "Manuel Portela Valladares" sin mención en ±2 s
+  sincronía: plano 4 t=22.7s: dura 10.8 s; añade un plano o una tarjeta
+  sincronía: plano 5 t=33.5s: dura 9.1 s; añade un plano o una tarjeta
+  sincronía: plano 8 t=56.0s: rótulo "Niceto Alcalá-Zamora" sin mención en ±2 s
+  sincronía: plano 8 t=56.0s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 9 t=66.2s: dura 12.1 s; añade un plano o una tarjeta
+  sincronía: plano 14 t=101.3s: rótulo "Madrid" sin mención en ±2 s
+  sincronía: plano 15 t=108.6s: dura 8.8 s; añade un plano o una tarjeta
+  sincronía: plano 18 t=132.8s: dura 13.2 s; añade un plano o una tarjeta
+  sincronía: plano 19 t=146.0s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 20 t=156.0s: dura 9.9 s; añade un plano o una tarjeta
+  sincronía: plano 22 t=174.2s: dura 8.3 s; añade un plano o una tarjeta
+  sincronía: plano 24 t=207.0s: dura 11.0 s; añade un plano o una tarjeta
+   25 planos
+== 3/5 buscando y descargando material
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/25
+   plano 20/25
+== 5/5 montaje final
+   hojas de sincronía: 2
+FIN: jobs/prueba_sync/out/prueba_sync.mp4 · 3.7 min · 22 MB

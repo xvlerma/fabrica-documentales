@@ -1,0 +1,4698 @@
+{
+ "id": "vivir_al_limite",
+ "title": "Vivir al límite",
+ "channel": "DocuVox",
+ "stage": "cast",
+ "align": true,
+ "align_model": "small",
+ "no_pad": true,
+ "reuse": {
+  "max": 2,
+  "gap": 600
+ },
+ "auto_sfx": {},
+ "sfx_max": 5,
+ "max_shot": 9,
+ "min_shot": 1.6,
+ "anchor_lead": 0.1,
+ "glossary": [
+  {
+   "term": "permafrost",
+   "on": "sobre permafrost",
+   "def": "suelo que sigue congelado al menos dos años seguidos"
+  },
+  {
+   "term": "Gulag",
+   "on": "del Gulag",
+   "def": "red de campos de trabajos forzados de la Unión Soviética"
+  },
+  {
+   "term": "ciudad cerrada",
+   "on": "es una ciudad cerrada",
+   "def": "solo se entra con un permiso especial"
+  },
+  {
+   "term": "noche polar",
+   "on": "Es la noche polar",
+   "def": "época del año en que el sol no sale"
+  },
+  {
+   "term": "caldera",
+   "on": "una gran caldera",
+   "def": "hundimiento enorme que deja un volcán tras una erupción"
+  },
+  {
+   "term": "hingya",
+   "on": "lo llaman hingya",
+   "def": "vapor geotérmico que sale de las grietas de la caldera"
+  },
+  {
+   "term": "cachorreo",
+   "on": "llamado cachorreo",
+   "def": "30 días de trabajo sin sueldo a cambio de 1 o 2 días de mineral propio"
+  },
+  {
+   "term": "pallaqueras",
+   "on": "las pallaqueras",
+   "def": "mujeres que buscan oro entre las rocas desechadas"
+  },
+  {
+   "term": "mal de montaña crónico",
+   "on": "Es el mal de montaña crónico",
+   "def": "enfermedad por vivir años con poco oxígeno"
+  }
+ ],
+ "theme": {
+  "base": "ciencia",
+  "grade": "neutro"
+ },
+ "music": {
+  "tema": {
+   "search": "cinematic documentary piano strings",
+   "src": "archive,commons,openverse,freesound",
+   "min_secs": 90
+  },
+  "tension": {
+   "search": "dark cinematic tension drone",
+   "src": "openverse,freesound,archive",
+   "min_secs": 60
+  },
+  "desierto": {
+   "search": "didgeridoo ambient desert",
+   "src": "archive,openverse,freesound,commons",
+   "min_secs": 60
+  },
+  "frio": {
+   "search": "arctic ambient cold wind music",
+   "src": "openverse,archive,freesound",
+   "min_secs": 60
+  },
+  "industria": {
+   "search": "industrial dark ambient",
+   "src": "openverse,freesound,archive",
+   "min_secs": 60
+  },
+  "noche": {
+   "search": "dark ambient night calm",
+   "src": "openverse,freesound,archive",
+   "min_secs": 60
+  },
+  "isla": {
+   "search": "ocean ambient piano calm",
+   "src": "openverse,archive,freesound",
+   "min_secs": 60
+  },
+  "andes": {
+   "search": "andean flute quena music",
+   "src": "archive,commons,openverse,freesound",
+   "min_secs": 60
+  }
+ },
+ "audio": {
+  "voice_db": -20,
+  "bed_db": {
+   "tema": -36,
+   "tension": -37,
+   "desierto": -36,
+   "frio": -36,
+   "industria": -37,
+   "noche": -37,
+   "isla": -36,
+   "andes": -36
+  },
+  "inter_db": -22,
+  "pause_stretch": 0.45,
+  "pause_cap": 0.6,
+  "gap_n": 1.5,
+  "gap_q": 1.0
+ },
+ "tempo": 0.9,
+ "parts": 4,
+ "codec": "hevc",
+ "max_kbps": 750,
+ "audio_kbps": "112k",
+ "intro": [
+  "assets/intro/docuvox.mp4"
+ ],
+ "seed": 5100,
+ "qpicks": {},
+ "picks": {},
+ "rev": 1,
+ "units": [
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Son las cinco de la mañana a cinco mil cien metros de altura. Aquí arriba, cada bocanada de aire trae la mitad de oxígeno que en la playa. No hay árboles. No hay alcantarillas. Y aun así, miles de personas se levantan cada día para entrar en una montaña.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "video": "La Rinconada Peru",
+     "free": true,
+     "at": "Son las cinco",
+     "lt": [
+      "La Rinconada",
+      "Andes del Perú · 5.100 m"
+     ]
+    },
+    {
+     "photo": "La Rinconada Peru town",
+     "src": "commons",
+     "at": "No hay árboles"
+    },
+    {
+     "photo": "La Rinconada mine Ananea",
+     "src": "commons",
+     "at": "entrar en una montaña"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gkLn6dZv79OIlrjp4pwL/pVpMEwULuo2HQrzXIarT/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=-Q8TKHs4iTnSWSdbgztFGngO72o=",
+   "gen": "pVpMEwULuo2HQrzXIarT"
+  },
+  {
+   "k": "N",
+   "text": "Durante treinta días trabajan sin cobrar. Al día treinta y uno, lo que logren sacar de la roca es suyo. Puede ser nada. Puede ser oro.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "La Rinconada miners",
+     "src": "commons",
+     "at": "Durante treinta días"
+    },
+    {
+     "photo": "gold nugget",
+     "src": "commons",
+     "kw": "ORO",
+     "at": "Puede ser oro",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/awttrwxYNSNnvppSnWbe/djLDUpb8R0Kd6DEkQMd3/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=0msCOb1bRzGpdoNC0MH5WQ-NPN4=",
+   "gen": "djLDUpb8R0Kd6DEkQMd3"
+  },
+  {
+   "k": "N",
+   "text": "[short pause] La Rinconada, en Perú, es el pueblo más alto del mundo. Pero no es el único sitio donde vivir parece imposible. [pause] Hay un pueblo que se refugia bajo tierra para no morir de calor. Otro donde el termómetro bajó a casi setenta grados bajo cero. Una ciudad sobre hielo que se está derritiendo. Un pueblo entero dentro de un solo edificio. Y una isla tan lejos de todo que, para llegar, hay que navegar una semana.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "La Rinconada Peru glacier",
+     "src": "commons",
+     "at": "La Rinconada, en Perú",
+     "lt": [
+      "La Rinconada",
+      "Puno, Perú"
+     ]
+    },
+    {
+     "photo": "Coober Pedy dugout",
+     "src": "commons",
+     "at": "bajo tierra"
+    },
+    {
+     "photo": "Oymyakon winter",
+     "src": "commons",
+     "at": "setenta grados bajo cero"
+    },
+    {
+     "photo": "Yakutsk buildings piles permafrost",
+     "src": "commons",
+     "at": "Una ciudad sobre hielo"
+    },
+    {
+     "photo": "Begich Towers Whittier",
+     "src": "commons",
+     "at": "un solo edificio"
+    },
+    {
+     "photo": "Tristan da Cunha island aerial",
+     "src": "commons",
+     "at": "Y una isla"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/LRyQ9Vo7LPClG8kOOLJj/nbn31jiqU2KACtBoAh8p/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=1uaXN_jJY8kQi7qjAwQ-I5JTjAQ=",
+   "gen": "nbn31jiqU2KACtBoAh8p"
+  },
+  {
+   "k": "N",
+   "text": "Esta es la historia de nueve lugares donde la gente vive, trabaja, se enamora y cría a sus hijos en condiciones que a la mayoría nos parecerían insoportables. Nada de lo que vas a ver es ficción. Y algunas cosas, te lo aseguramos, te van a costar creerlas.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Longyearbyen children snow",
+     "src": "commons",
+     "at": "Esta es la historia"
+    },
+    {
+     "photo": "Coober Pedy underground church interior",
+     "src": "commons",
+     "at": "Nada de lo que vas a ver"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ji1xBn4nOJLjRDwKAOIP/Ky4IKLVt59qNzI1t4Abj/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=ozmRV7Ik8_GsQ5MxwQNLnd7r9QA=",
+   "gen": "Ky4IKLVt59qNzI1t4Abj"
+  },
+  {
+   "k": "N",
+   "text": "[serious] ¿Cómo se vive allí? ¿Quién elige vivir allí? [pause] Y la pregunta que de verdad importa: cuando todo te dice que te vayas… ¿por qué se quedan?",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Edinburgh of the Seven Seas",
+     "src": "commons",
+     "at": "Cómo se vive"
+    },
+    {
+     "photo": "Longyearbyen polar night",
+     "src": "commons",
+     "at": "Quién elige"
+    },
+    {
+     "video": "mountain fog dawn",
+     "free": true,
+     "at": "por qué se quedan"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uE2nsKHCEDaNKdw02kuf/5RGtRFEAhmmUDFqGljbj/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=5k77H-0SYa3B07uMUeQaElrmO5E=",
+   "gen": "5RGtRFEAhmmUDFqGljbj"
+  },
+  {
+   "k": "T",
+   "secs": 5.5,
+   "sting": "tema",
+   "chapter": false,
+   "text": "[dramatically] Vivir al límite.",
+   "voice": "NAR",
+   "card": {
+    "type": "title",
+    "title": "Vivir al límite",
+    "sub": "Los lugares más extremos donde vive gente"
+   },
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/CpscCbvB9KVAsBKjYet2/vUpVnb9LzOCZS5au9rts/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=aF8oCcKZH2jBbqSUbdPPvwuoxbY=",
+   "gen": "vUpVnb9LzOCZS5au9rts"
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Vamos a dar la vuelta al planeta. Nueve lugares y una misma regla: en cada uno, la naturaleza ha puesto un límite. Y alguien ha decidido vivir justo al otro lado.",
+   "voice": "CON",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Nueve lugares al límite",
+      "keys": [
+       [
+        -170,
+        -58,
+        190,
+        75
+       ]
+      ],
+      "points": [
+       {
+        "name": "La Rinconada",
+        "lon": -69.4,
+        "lat": -14.6,
+        "at": 0.15
+       },
+       {
+        "name": "Coober Pedy",
+        "lon": 134.8,
+        "lat": -29.0,
+        "at": 0.22
+       },
+       {
+        "name": "Oimiakón",
+        "lon": 142.8,
+        "lat": 63.5,
+        "at": 0.29
+       },
+       {
+        "name": "Yakutsk",
+        "lon": 129.7,
+        "lat": 62.0,
+        "at": 0.36
+       },
+       {
+        "name": "Norilsk",
+        "lon": 88.2,
+        "lat": 69.3,
+        "at": 0.43
+       },
+       {
+        "name": "Longyearbyen",
+        "lon": 15.6,
+        "lat": 78.2,
+        "at": 0.5
+       },
+       {
+        "name": "Whittier",
+        "lon": -148.7,
+        "lat": 60.8,
+        "at": 0.57
+       },
+       {
+        "name": "Aogashima",
+        "lon": 139.8,
+        "lat": 32.5,
+        "at": 0.64
+       },
+       {
+        "name": "Tristán de Acuña",
+        "lon": -12.3,
+        "lat": -37.1,
+        "at": 0.71
+       }
+      ]
+     },
+     "at": "Vamos a dar la vuelta"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QsGk0lnjs1QKijZcSe41/157NgiAuPLIF0uP3MVQC/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=Sy2tfOgIBXvlAUyaiEtq0_WqEDk=",
+   "gen": "157NgiAuPLIF0uP3MVQC"
+  },
+  {
+   "k": "N",
+   "text": "Calor, frío, suelo helado, aire tóxico, oscuridad, aislamiento, volcanes y falta de oxígeno. Empezamos por el calor. [short pause] Y por un agujero en el suelo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Los ocho límites",
+      "items": [
+       "Calor",
+       "Frío",
+       "Suelo helado",
+       "Aire tóxico",
+       "Oscuridad",
+       "Aislamiento",
+       "Volcanes",
+       "Falta de oxígeno"
+      ]
+     },
+     "at": "Calor, frío"
+    },
+    {
+     "photo": "Coober Pedy mine shaft",
+     "src": "commons",
+     "at": "Y por un agujero"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aulybDiKbJODUVwWUgoP/NtfIRxrcZbdPUqOJ70bo/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=WTOSr7UZ9wJS6vnZlC3lnBgAgNM=",
+   "gen": "NtfIRxrcZbdPUqOJ70bo"
+  },
+  {
+   "k": "N",
+   "text": "Antes de salir, una idea para entender todo lo que vamos a ver. El cuerpo humano es una máquina muy exigente. Funciona bien con el centro del cuerpo a unos treinta y siete grados, con agua cerca y con aire suficiente. Si te alejas mucho de esas condiciones, empieza a fallar.",
+   "voice": "CON",
+   "shots": [
+    {
+     "video": "human silhouette sunrise mountain",
+     "free": true,
+     "at": "Antes de salir"
+    },
+    {
+     "photo": "thermometer body temperature",
+     "src": "commons",
+     "kw": "37 °C",
+     "at": "treinta y siete grados",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6hA7XJEY0zkWVQtHXEuT/KYGqecOXVBkDdbXy1kF7/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=KiCKIOyMI6pNt5XMXntMb9P3Vgk=",
+   "gen": "KYGqecOXVBkDdbXy1kF7"
+  },
+  {
+   "k": "N",
+   "text": "Por eso casi toda la humanidad vive en una franja estrecha del planeta: ni muy alta, ni muy fría, ni muy seca. Los lugares de este viaje están fuera de esa franja. Y en cada uno, la gente ha encontrado un truco para sobrevivir: cavar, calentar, aislar, compartir… o simplemente aguantar.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "video": "earth from space night lights",
+     "free": true,
+     "at": "Por eso casi toda la humanidad"
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "Cinco trucos para sobrevivir",
+      "items": [
+       "Cavar",
+       "Calentar",
+       "Aislar",
+       "Compartir",
+       "Aguantar"
+      ]
+     },
+     "at": "un truco para sobrevivir"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/11hNbNUh9ApIpSzduqI2/ozYeJwSnXi7l1QX6rijg/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=uqAZB0WqRtb_qBgpc3-PzQvDlNE=",
+   "gen": "ozYeJwSnXi7l1QX6rijg"
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tension",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Bajo tierra",
+    "sub": "Coober Pedy, Australia"
+   }
+  },
+  {
+   "k": "B",
+   "track": "desierto"
+  },
+  {
+   "k": "N",
+   "text": "Desierto de Australia Meridional, a unos ochocientos cincuenta kilómetros de Adelaida. En verano, el aire puede pasar de los cuarenta y cinco grados. A primera vista, Coober Pedy parece un pueblo casi vacío: tierra rojiza, montones de escombros y unas chimeneas blancas que salen directamente del suelo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Coober Pedy",
+      "keys": [
+       [
+        -170,
+        -58,
+        190,
+        75
+       ],
+       [
+        109.75,
+        -42.760000000000005,
+        159.75,
+        -15.26
+       ],
+       [
+        128.75,
+        -32.31,
+        140.75,
+        -25.71
+       ]
+      ],
+      "points": [
+       {
+        "name": "Coober Pedy",
+        "lon": 134.75,
+        "lat": -29.01,
+        "at": 0.55,
+        "big": 1,
+        "pulse": true
+       }
+      ]
+     },
+     "at": "Desierto de Australia"
+    },
+    {
+     "video": "Coober Pedy",
+     "free": true,
+     "at": "En verano",
+     "lt": [
+      "Coober Pedy",
+      "Australia Meridional · hoy"
+     ]
+    },
+    {
+     "photo": "Coober Pedy landscape mullock heaps",
+     "src": "commons",
+     "at": "montones de escombros"
+    },
+    {
+     "photo": "Coober Pedy ventilation shafts dugouts",
+     "src": "commons",
+     "at": "unas chimeneas blancas"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SXcmGVLgAcnomDSYt6Ci/9dzXNxPBv1oYnCpPd13b/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=gdCSfROHRYmCiaYzPU9opELnWOA=",
+   "gen": "9dzXNxPBv1oYnCpPd13b"
+  },
+  {
+   "k": "N",
+   "text": "Esas chimeneas son la pista. Debajo hay salones, cocinas, dormitorios y hasta iglesias. Según el consejo del distrito, viven aquí unas dos mil quinientas personas. Y se calcula que la mitad vive bajo tierra.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Coober Pedy underground home interior",
+     "src": "commons",
+     "at": "Debajo hay salones"
+    },
+    {
+     "photo": "Serbian Orthodox Church Coober Pedy",
+     "src": "commons",
+     "at": "hasta iglesias",
+     "lt": [
+      "Iglesia ortodoxa serbia de San Elías",
+      "Coober Pedy · excavada en 1993"
+     ]
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 50,
+      "prefix": "",
+      "label": "por ciento de los vecinos vive bajo tierra"
+     },
+     "at": "la mitad"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9Vkh5t110HMZCFPbUAIs/fMUbuqmctd8xO7FzZEhH/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=XME6K3H1fhAscPEyO21TQpHzqq4=",
+   "gen": "fMUbuqmctd8xO7FzZEhH"
+  },
+  {
+   "k": "N",
+   "text": "Todo empezó el uno de febrero de mil novecientos quince. Un chico de catorce años, Willie Hutchison, buscaba agua con la expedición de su padre. No encontró agua. Encontró ópalos, tirados en la superficie.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Coober Pedy",
+      "events": [
+       [
+        "1915",
+        "Willie Hutchison encuentra ópalo"
+       ],
+       [
+        "1920",
+        "el pueblo recibe su nombre"
+       ],
+       [
+        "1985",
+        "se rueda Mad Max 3"
+       ],
+       [
+        "1993",
+        "iglesia serbia excavada"
+       ]
+      ]
+     },
+     "at": "Todo empezó"
+    },
+    {
+     "photo": "Coober Pedy opal",
+     "src": "commons",
+     "at": "Encontró ópalos",
+     "lt": [
+      "Ópalo de Coober Pedy",
+      "la piedra que fundó el pueblo"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/n8enS3qRhhuFLMPecLMI/GDw5opOBfHyK0TtE3oP4/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=bKrtWQ416jpzj3OWn-IMJx1_s4U=",
+   "gen": "GDw5opOBfHyK0TtE3oP4"
+  },
+  {
+   "k": "N",
+   "text": "Llegaron los buscadores. Se cuenta que, después de la Primera Guerra Mundial, muchos eran soldados que volvían de las trincheras y sabían cavar. Y descubrieron algo que cambiaría el pueblo para siempre: unos metros por debajo de la superficie, la roca mantiene una temperatura casi constante.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Coober Pedy opal fields",
+     "src": "commons",
+     "at": "Llegaron los buscadores"
+    },
+    {
+     "photo": "Coober Pedy old dugout historic",
+     "src": "commons",
+     "at": "unos metros por debajo"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fIElaTl7XEzgnYK4naFb/vptgXdxJPh5Gg98RniLh/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=PSY9ExcldZZIQUjCoPICUQl5UZs=",
+   "gen": "vptgXdxJPh5Gg98RniLh"
+  },
+  {
+   "k": "R",
+   "text": "Las viviendas subterráneas mantienen una temperatura cómoda y estable, entre veintitrés y veinticinco grados, de día y de noche, durante todo el año.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Entre 23 °C y 25 °C, de día y de noche, todo el año",
+      "attrib": "Asociación de Turismo de Coober Pedy"
+     },
+     "at": "Las viviendas"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KdRe7uaGwRIe7Ls9kVFj/EENDlwcNLTODv4dfWWOg/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=BlHF6qHP5Xp0rkUFr712129Ckco=",
+   "gen": "EENDlwcNLTODv4dfWWOg"
+  },
+  {
+   "k": "N",
+   "text": "Fuera, el desierto quema. Dentro, ni calefacción ni aire acondicionado. Una casa excavada en la arenisca de una ladera puede tener varias habitaciones. Algunas llegan a los cuatrocientos cincuenta metros cuadrados.",
+   "voice": "CON",
+   "shots": [
+    {
+     "video": "desert heat haze",
+     "free": true,
+     "at": "Fuera, el desierto"
+    },
+    {
+     "photo": "Coober Pedy dugout bedroom",
+     "src": "commons",
+     "at": "Dentro"
+    },
+    {
+     "photo": "Faye's Underground Home Coober Pedy",
+     "src": "commons",
+     "at": "Algunas llegan",
+     "lt": [
+      "Casa subterránea de Faye",
+      "Coober Pedy"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/v3AE7GxfUlUvuLWQ2wrL/yeOMDCvSW61y4fqYIifi/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=_8BFepYjlK5gVR6VSFEKaSgFOLY=",
+   "gen": "yeOMDCvSW61y4fqYIifi"
+  },
+  {
+   "k": "N",
+   "text": "[short pause] Bob Del Tedesco lleva décadas en Coober Pedy. Su casa también está excavada en la colina. Y su calle es el mejor resumen del pueblo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Coober Pedy street dugout entrance",
+     "src": "commons",
+     "at": "Bob Del Tedesco"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/edd1s9QxO3e58pnJgqhO/0JU0RwoKxJh7A6LFYIaL/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=2VzOjTuc40tk6jtzbBoZyUZ8v5Q=",
+   "gen": "0JU0RwoKxJh7A6LFYIaL"
+  },
+  {
+   "k": "R",
+   "text": "En mi calle hay unas tres casas. Todo lo demás siguen siendo casas cueva.",
+   "voice": "T2",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "En mi calle hay unas tres casas. Todo lo demás siguen siendo casas cueva.",
+      "attrib": "Bob Del Tedesco, vecino · Il Globo · traducción"
+     },
+     "at": "En mi calle"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/h8c208y3MOGqZCFEIoCn/Qlk0LLgDsJt85JjtORDq/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=joxewRI0UZOJ0uJrDoYkEdAO5yY=",
+   "gen": "Qlk0LLgDsJt85JjtORDq"
+  },
+  {
+   "k": "N",
+   "text": "El nombre del pueblo viene de una expresión aborigen, kupa piti. Se suele traducir como «el agujero del hombre blanco». Otros prefieren «el pozo de agua de los muchachos». Desde mil novecientos setenta y cinco, la comunidad aborigen local lo llama también Umoona: «larga vida».",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Kupa piti",
+       "lines": [
+        "«el agujero del hombre blanco»",
+        "la traducción popular"
+       ]
+      },
+      "right": {
+       "title": "Otras lecturas",
+       "lines": [
+        "«el pozo de los muchachos»",
+        "Umoona: «larga vida», desde 1975"
+       ]
+      },
+      "strike": false
+     },
+     "at": "El nombre del pueblo"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Wve8MDczlTZM6ytPb7LL/wstBxABm5RWnZUY3cPbr/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=SaAVMlknVdP7slrQj0iJftlKLos=",
+   "gen": "wstBxABm5RWnZUY3cPbr"
+  },
+  {
+   "k": "N",
+   "text": "Con un paisaje así, no es raro que el cine lo eligiera para imaginar otros planetas. Aquí se rodaron escenas de «Mad Max, más allá de la cúpula del trueno» y de «Pitch Black». Pero lo que de verdad brilla está bajo los pies.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Moon Plain Coober Pedy",
+     "src": "commons",
+     "at": "otros planetas",
+     "lt": [
+      "Moon Plain",
+      "cerca de Coober Pedy · hoy"
+     ]
+    },
+    {
+     "photo": "Pitch Black spaceship prop Coober Pedy",
+     "src": "commons",
+     "at": "Pitch Black"
+    },
+    {
+     "photo": "Coober Pedy underground",
+     "src": "commons",
+     "kw": "BAJO TIERRA",
+     "at": "bajo los pies",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HJbLsfnyafecFywjUQ89/dSy2gWMBtRMq1zimYBqZ/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=YOHhUyaB1gFLSzpuWJ-cOlXVQ7o=",
+   "gen": "dSy2gWMBtRMq1zimYBqZ"
+  },
+  {
+   "k": "N",
+   "text": "Coober Pedy ha dado durante décadas buena parte de los ópalos de calidad del planeta. Todavía hoy, buscadores independientes trabajan sus concesiones con taladros y aspiradoras gigantes. [pause] Y los carteles avisan: no camines hacia atrás. Hay miles de pozos abiertos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Coober Pedy opal mining machine blower",
+     "src": "commons",
+     "at": "Todavía hoy"
+    },
+    {
+     "photo": "Coober Pedy warning sign shafts",
+     "src": "commons",
+     "at": "Y los carteles avisan"
+    },
+    {
+     "photo": "Coober Pedy mine shafts aerial",
+     "src": "commons",
+     "at": "miles de pozos"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/lAH59tVLI8TxT3MJelYZ/je8moUsX6yW7BfFEXYZQ/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=2CT0HDc-27bXLzH8X_UquNX1mug=",
+   "gen": "je8moUsX6yW7BfFEXYZQ"
+  },
+  {
+   "k": "N",
+   "text": "Vivir aquí tiene otros retos. Casi no llueve y no hay ríos. El agua sale de un acuífero subterráneo, salada, y se potabiliza en el propio pueblo. Durante años fue uno de los grandes quebraderos de cabeza de la comunidad. Ahora la empresa pública de aguas del estado va a hacerse cargo de la red antes de dos mil veintisiete.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Coober Pedy water tank",
+     "src": "commons",
+     "at": "Casi no llueve"
+    },
+    {
+     "photo": "Coober Pedy town aerial",
+     "src": "commons",
+     "at": "Ahora la empresa pública"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bxyphSpECK0zeaeC4oCe/GWSxGiXnD3M47QEzoygP/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=D_McJfcYtCU-fJSOPEHLw4skPe8=",
+   "gen": "GWSxGiXnD3M47QEzoygP"
+  },
+  {
+   "k": "N",
+   "text": "Y hay detalles que solo existen en Coober Pedy. Un campo de golf sin una sola brizna de hierba, donde cada jugador lleva su trocito de césped artificial para golpear la bola. Un árbol en lo alto de una colina, hecho de chatarra soldada, porque durante años no hubo ningún árbol de verdad. [short pause] Y una población de lo más variada: según la web oficial del pueblo, alrededor del sesenta por ciento de los vecinos tiene raíces europeas, de los emigrantes que llegaron tras la Segunda Guerra Mundial.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Coober Pedy golf course",
+     "src": "commons",
+     "at": "Un campo de golf",
+     "lt": [
+      "Campo de golf de Coober Pedy",
+      "sin hierba"
+     ]
+    },
+    {
+     "photo": "Coober Pedy metal tree",
+     "src": "commons",
+     "at": "Un árbol en lo alto",
+     "lt": [
+      "El árbol de chatarra",
+      "Coober Pedy"
+     ]
+    },
+    {
+     "photo": "Coober Pedy main street Hutchison Street",
+     "src": "commons",
+     "at": "Y una población"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6q4KyygrGRaBOqco06EP/XSo6Els709VkT4kMwfBo/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=rmCSpELZ_x81Lb0pR-ME1bjYR60=",
+   "gen": "XSo6Els709VkT4kMwfBo"
+  },
+  {
+   "k": "N",
+   "text": "Bajo tierra hay hasta un hotel, con habitaciones excavadas en la roca, y varias iglesias: la católica de San Pedro y San Pablo, una anglicana conocida como la iglesia de las catacumbas y la ortodoxa serbia, con sus santos tallados a mano en las paredes de arenisca.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Coober Pedy underground hotel room",
+     "src": "commons",
+     "at": "hasta un hotel"
+    },
+    {
+     "photo": "Catacomb Church Coober Pedy",
+     "src": "commons",
+     "at": "la iglesia de las catacumbas",
+     "lt": [
+      "Iglesia de las catacumbas",
+      "Coober Pedy"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GT5cjMiEypV8ayzE486d/rnsMaQHJffR7t34k7c3a/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=3OrYkZn2-RBEfZux8tPPMYq84P4=",
+   "gen": "rnsMaQHJffR7t34k7c3a"
+  },
+  {
+   "k": "N",
+   "text": "Esos pozos son un peligro real. Alrededor del pueblo hay campos de minas abandonadas, agujeros verticales de un metro de ancho y hasta treinta de profundidad, sin vallas. Más de un visitante distraído ha caído en uno. Por eso, en Coober Pedy, mirar al suelo al caminar no es timidez. Es supervivencia.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Coober Pedy open mine shaft danger",
+     "src": "commons",
+     "at": "Esos pozos son un peligro"
+    },
+    {
+     "photo": "Coober Pedy opal field shafts",
+     "src": "commons",
+     "kw": "MIRA AL SUELO",
+     "at": "mirar al suelo",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yX9ECfzSUtS9JtSQglwG/BMcADXfqHu953BzEqAMN/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=CnJqkK7lInG2Nq9cU8Fc-27pJ7A=",
+   "gen": "BMcADXfqHu953BzEqAMN"
+  },
+  {
+   "k": "N",
+   "text": "Aquí, para escapar del calor, se excava hacia abajo. [short pause] Ahora vamos a un lugar donde el problema es exactamente el contrario. Donde salir a la calle sin protección puede congelarte la piel en minutos.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Coober Pedy sunset",
+     "src": "commons",
+     "at": "Aquí, para escapar"
+    },
+    {
+     "video": "Siberia winter frost",
+     "free": true,
+     "at": "Ahora vamos"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PLB81mp68yHBAhR8dX4C/z6ge67OEMr3b0nbLRztU/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=rtwC1Fztp1umsjHD0NwNuqP3J5w=",
+   "gen": "z6ge67OEMr3b0nbLRztU"
+  },
+  {
+   "k": "M",
+   "track": "desierto",
+   "secs": 8
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tension",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El polo del frío",
+    "sub": "Oimiakón, Rusia"
+   }
+  },
+  {
+   "k": "B",
+   "track": "frio"
+  },
+  {
+   "k": "N",
+   "text": "Siberia oriental, república de Sajá, también llamada Yakutia. A orillas del río Indiguirka hay un pueblo de unos quinientos habitantes. El seis de febrero de mil novecientos treinta y tres, su estación meteorológica marcó sesenta y siete grados y siete décimas bajo cero.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Oimiakón",
+      "keys": [
+       [
+        -170,
+        -58,
+        190,
+        75
+       ],
+       [
+        112.80000000000001,
+        46.96,
+        172.8,
+        79.96000000000001
+       ],
+       [
+        136.8,
+        60.160000000000004,
+        148.8,
+        66.76
+       ]
+      ],
+      "points": [
+       {
+        "name": "Oimiakón",
+        "lon": 142.8,
+        "lat": 63.46,
+        "at": 0.55,
+        "big": 1,
+        "pulse": true
+       }
+      ]
+     },
+     "at": "Siberia oriental"
+    },
+    {
+     "photo": "Oymyakon village",
+     "src": "commons",
+     "at": "un pueblo de unos quinientos",
+     "lt": [
+      "Oimiakón",
+      "Yakutia, Rusia"
+     ]
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": -67.7,
+      "prefix": "",
+      "label": "grados · 6 de febrero de 1933"
+     },
+     "at": "sesenta y siete grados"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xBV9uJror4ujlQC4EvBK/DeCAq9UULaCUIp6uxk7O/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=7ei2BscildHQw8MsDClz7ASkOLk=",
+   "gen": "DeCAq9UULaCUIp6uxk7O"
+  },
+  {
+   "k": "R",
+   "text": "La temperatura más baja del hemisferio norte: sesenta y siete grados y siete décimas bajo cero, registrada en Oimiakón el seis de febrero de mil novecientos treinta y tres. Es también la más baja medida fuera de la Antártida.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Guinness World Records",
+      "lines": [
+       "La temperatura más baja del hemisferio norte: −67,7 °C, Oimiakón, 6 de febrero de 1933."
+      ],
+      "source": "Guinness World Records · traducción"
+     },
+     "at": "La temperatura más baja"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oeWvIZau1AwZ1SE1lSoI/xYbkAb35qfuMfT2BzTrA/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=vTvx1RphrCfVI9Z3lNej8Sc0NRU=",
+   "gen": "xYbkAb35qfuMfT2BzTrA"
+  },
+  {
+   "k": "N",
+   "text": "Hay que decirlo todo: algunos climatólogos discuten esa medida, porque el termómetro de alcohol de la época necesitaba una corrección. Pero el título de lugar habitado más frío del planeta no se lo quita nadie. En enero, la media diaria ronda los cuarenta y seis bajo cero.",
+   "voice": "CON",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "El récord",
+       "lines": [
+        "−67,7 °C en 1933",
+        "termómetro de alcohol corregido"
+       ]
+      },
+      "right": {
+       "title": "Lo que nadie discute",
+       "lines": [
+        "media de enero: −46 °C",
+        "el lugar habitado más frío"
+       ]
+      },
+      "strike": false
+     },
+     "at": "algunos climatólogos"
+    },
+    {
+     "photo": "Oymyakon thermometer",
+     "src": "commons",
+     "at": "En enero"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7BM3Ls3R3Qap7QFcwksN/SwEqWv1rYyoXyxqSHyLY/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=QMKph2PkW-boiZBjzY7SIpbmvhw=",
+   "gen": "SwEqWv1rYyoXyxqSHyLY"
+  },
+  {
+   "k": "N",
+   "text": "¿Cómo es un día normal a cincuenta bajo cero? Empieza por el coche. Muchos vecinos lo guardan en garajes con calefacción. Y si se queda fuera, se deja con el motor encendido. Toda la noche.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Oymyakon winter road",
+     "src": "commons",
+     "kw": "−50 °C",
+     "at": "Cómo es un día normal",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    },
+    {
+     "photo": "Oymyakon car frost",
+     "src": "commons",
+     "at": "Empieza por el coche"
+    },
+    {
+     "photo": "Yakutia winter car exhaust",
+     "src": "commons",
+     "at": "con el motor encendido"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TpnAKctWHvkTnmZgHH6r/RByWCFAhnJTwRyti816B/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=WvWn1aC7vooJhsCMqy8mJxJbje0=",
+   "gen": "RByWCFAhnJTwRyti816B"
+  },
+  {
+   "k": "N",
+   "text": "[short pause] El fotógrafo neozelandés Amos Chapple pasó varios días aquí. Lo que vio una mañana se lo contó a la revista Smithsonian.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Oymyakon road Kolyma highway winter",
+     "src": "commons",
+     "at": "El fotógrafo neozelandés"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ztWRKFtnZUNcYvL144Do/grgkBTjzqW1yq01ew6IE/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=oR2TINlpnQUSWM3QAKveFa64xFM=",
+   "gen": "grgkBTjzqW1yq01ew6IE"
+  },
+  {
+   "k": "R",
+   "text": "Un hombre con el que me alojaba dejó el coche en marcha toda la noche. Aun así, por la mañana, el eje de transmisión estaba completamente congelado.",
+   "voice": "T1",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Dejó el coche en marcha toda la noche. Aun así, por la mañana, el eje estaba completamente congelado.",
+      "attrib": "Amos Chapple, fotógrafo · Smithsonian · traducción"
+     },
+     "at": "Un hombre con el que"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/twHNG5PdZUQbgkb6YZGV/qjigMNnvSPbtTwhnxs4A/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=UxuizisS9H5kUUSv4Gp2wGq2pIY=",
+   "gen": "qjigMNnvSPbtTwhnxs4A"
+  },
+  {
+   "k": "N",
+   "text": "Las pestañas se escarchan al respirar. El vaho se congela en el aire y se queda flotando como una niebla. Los cultivos son imposibles, así que la dieta de invierno es casi toda carne y pescado: reno, potro, pescado del río. Muchas veces se come congelado, cortado en virutas finas.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Oymyakon frozen eyelashes",
+     "src": "commons",
+     "at": "Las pestañas"
+    },
+    {
+     "video": "frozen breath winter cold",
+     "free": true,
+     "at": "El vaho"
+    },
+    {
+     "photo": "stroganina frozen fish Yakutia",
+     "src": "commons",
+     "at": "cortado en virutas",
+     "lt": [
+      "Stroganina",
+      "pescado congelado en virutas · Yakutia"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/EuiBNpBIBOdk3hxPsSBB/eM69E0R6eLIm8AjeGXFZ/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=7lMQYIV33P0-GWshhR7Hh1ZyQbw=",
+   "gen": "eM69E0R6eLIm8AjeGXFZ"
+  },
+  {
+   "k": "R",
+   "text": "El vaho era tan espeso como el humo de un puro. Tenía que aguantar la respiración para hacer cada foto.",
+   "voice": "T1",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "El vaho era tan espeso como el humo de un puro. Tenía que aguantar la respiración para hacer cada foto.",
+      "attrib": "Amos Chapple, fotógrafo · traducción"
+     },
+     "at": "El vaho era tan espeso"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/z5Uf5Y6WRiMAkpEImqcM/rvYfT44k7xiuEdKxYomi/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=6yom0pQYlw_9_FHPwhk_tYup2A4=",
+   "gen": "rvYfT44k7xiuEdKxYomi"
+  },
+  {
+   "k": "N",
+   "text": "[short pause] Bolot Bochkarev, vecino de la zona, se lo explicaba así al canal estadounidense The Weather Channel:",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Yakutia people traditional",
+     "src": "commons",
+     "at": "Bolot Bochkarev"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wMahqf7biWFN0NTsYqX3/Rrbk0jSwWL2BJi3ILCZo/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=FQ2S8kSgrdP8wtGCoRJxTjPv5y8=",
+   "gen": "Rrbk0jSwWL2BJi3ILCZo"
+  },
+  {
+   "k": "R",
+   "text": "A los yakutos nos encanta la comida fría: el pescado ártico crudo y congelado, el hígado de caballo crudo y congelado. Pero eso se considera un manjar. En el día a día, lo que nos gusta es la sopa con carne.",
+   "voice": "T3",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Nos encanta la comida fría. Pero eso es un manjar. En el día a día, lo que nos gusta es la sopa con carne.",
+      "attrib": "Bolot Bochkarev, vecino de Yakutia · The Weather Channel · traducción"
+     },
+     "at": "A los yakutos"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/FFSD9nIuauGNqWQE9eMT/m8Xbsmf0hBuS9ffP7GFW/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=U6TJdlaqLTbUlg66aJmHJ0k-gJA=",
+   "gen": "m8Xbsmf0hBuS9ffP7GFW"
+  },
+  {
+   "k": "N",
+   "text": "Y luego está la escuela. La única del pueblo solo cierra a los más pequeños cuando el termómetro baja de cincuenta y dos bajo cero. Los mayores siguen yendo a clase hasta los cincuenta y seis.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Oymyakon school",
+     "src": "commons",
+     "at": "Y luego está la escuela"
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "¿Hay clase hoy?",
+      "items": [
+       "Hasta −52 °C: todos a clase",
+       "Menos de −52 °C: los pequeños en casa",
+       "Menos de −56 °C: se queda en casa todo el mundo"
+      ]
+     },
+     "at": "solo cierra"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jktjdY4ZMfLNf5r4W5n3/POyruAAVCNOHLV1MwiHd/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=qKtlDYeu3iWEZHChQmEu4Ngfk2k=",
+   "gen": "POyruAAVCNOHLV1MwiHd"
+  },
+  {
+   "k": "N",
+   "text": "En enero de dos mil dieciocho, el termómetro digital que se había instalado en el pueblo para los turistas marcó sesenta y dos bajo cero. Y se rompió. [short pause] Ese día, sí, se cerraron las escuelas de toda la región.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Oymyakon digital thermometer",
+     "src": "commons",
+     "at": "el termómetro digital"
+    },
+    {
+     "photo": "Oymyakon monument pole of cold",
+     "src": "commons",
+     "kw": "SE ROMPIÓ",
+     "at": "Y se rompió",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ie17N3gi9eDkYwaUulfJ/AJLxBagz7QayCKHSEye6/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=-xObvssHjfTAIV1UCQkA84heddU=",
+   "gen": "AJLxBagz7QayCKHSEye6"
+  },
+  {
+   "k": "N",
+   "text": "La vida diaria tiene sus propias reglas. Las tuberías de agua se congelarían bajo tierra, así que en muchas casas el baño está fuera, en una caseta del patio. Y hasta enterrar a un muerto es un trabajo de días: el suelo está tan duro que hay que ablandarlo antes con fuego.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Oymyakon wooden house winter",
+     "src": "commons",
+     "at": "La vida diaria"
+    },
+    {
+     "photo": "Yakutia outhouse winter",
+     "src": "commons",
+     "at": "el baño está fuera"
+    },
+    {
+     "photo": "Oymyakon cemetery",
+     "src": "commons",
+     "at": "hasta enterrar a un muerto"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/f7Qd3kfGANKf9IuZy1r8/Vv5CU6CKikV2bQBgvvGu/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=KuFB3DTMzHFLQvqqvvAe_GVqY8M=",
+   "gen": "Vv5CU6CKikV2bQBgvvGu"
+  },
+  {
+   "k": "N",
+   "text": "Y, sin embargo, Oimiakón no es un lugar helado todo el año. En verano, el termómetro puede superar los treinta grados. Entre el día más frío y el más caluroso hay casi cien grados de diferencia. Pocos lugares habitados del planeta tienen un contraste así.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Oymyakon summer",
+     "src": "commons",
+     "at": "En verano"
+    },
+    {
+     "card": {
+      "type": "versus",
+      "title": "Un año en Oimiakón",
+      "left": {
+       "name": "Invierno",
+       "lines": [
+        "récord: −67,7 °C",
+        "tres horas de luz en diciembre"
+       ]
+      },
+      "right": {
+       "name": "Verano",
+       "lines": [
+        "más de 30 °C",
+        "veintiuna horas de luz en junio"
+       ]
+      }
+     },
+     "at": "casi cien grados"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/LlBT4LO8tnbslwPTohga/KcmfXTKxpgpJKwxByc4m/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=SFuOjFSuvBxVobBHzWUWlrcFk3k=",
+   "gen": "KcmfXTKxpgpJKwxByc4m"
+  },
+  {
+   "k": "N",
+   "text": "Y el frío extremo también está cambiando. En dos mil dieciocho, Alexander Arzhakov le decía a la agencia rusa RIA Novosti:",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Oymyakon landscape winter valley",
+     "src": "commons",
+     "at": "también está cambiando"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/z6KLDnAY8VrCF0kLZjc9/TH9DJG8TEfLuYHiBx852/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=KVquPExlFWz0YV_cTmHVZhkd8sU=",
+   "gen": "TH9DJG8TEfLuYHiBx852"
+  },
+  {
+   "k": "R",
+   "text": "Llevamos observando el cambio climático todos los años desde los años ochenta. Cada año hace más calor.",
+   "voice": "T2",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Cada año hace más calor.",
+      "attrib": "Alexander Arzhakov · RIA Novosti, 2018 · traducción"
+     },
+     "at": "Llevamos observando"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SL5OJi6OKfBTt8gABYsy/JKOi7CcY1vsQonBpowBh/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=7WjuZO_Rtgr19bBWjj7h4E-CcVE=",
+   "gen": "JKOi7CcY1vsQonBpowBh"
+  },
+  {
+   "k": "N",
+   "text": "[short pause] En Yakutia cuentan una leyenda: cuando Dios estaba creando la Tierra y repartía el hielo por el mundo, se le quedaron las manos tan frías que lo dejó caer todo aquí. En Oimiakón.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Oymyakon winter landscape snow",
+     "src": "commons",
+     "at": "En Yakutia cuentan una leyenda"
+    },
+    {
+     "photo": "Oymyakon frost trees",
+     "src": "commons",
+     "kw": "LO DEJÓ CAER AQUÍ",
+     "at": "lo dejó caer todo aquí",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kW8ev0JE5fNCcKi5vlbi/3tGPHOVACr4en66sxBIW/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=EqENRjxhsfnY6Yta6fwcv6ZYHTE=",
+   "gen": "3tGPHOVACr4en66sxBIW"
+  },
+  {
+   "k": "N",
+   "text": "Lo curioso es el nombre. Oimiakón vendría de una palabra del pueblo even que significa «agua que no se congela»: un manantial donde los peces pasan el invierno. [pause] El lugar más frío del mundo se llama, literalmente, como un agua que nunca se hiela.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Indigirka river winter",
+     "src": "commons",
+     "at": "Lo curioso es el nombre"
+    },
+    {
+     "photo": "Oymyakon pole of cold monument",
+     "src": "commons",
+     "at": "El lugar más frío",
+     "lt": [
+      "Monumento al Polo del Frío",
+      "Oimiakón"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PGhVkmi4FKDYX5VoD3xP/a1QtKWgwg3lwqVuKkhMd/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=YI-tkINHII1HdsVb2MaC3gTXW6s=",
+   "gen": "a1QtKWgwg3lwqVuKkhMd"
+  },
+  {
+   "k": "N",
+   "text": "A unos novecientos kilómetros por carretera está la capital de Yakutia. Allí el frío se queda bajo los cimientos. Y una ciudad entera depende de que el suelo siga congelado.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Kolyma highway road of bones winter",
+     "src": "commons",
+     "at": "A unos novecientos",
+     "lt": [
+      "Carretera de Kolimá",
+      "Yakutia · hoy"
+     ]
+    },
+    {
+     "photo": "Yakutsk city winter fog",
+     "src": "commons",
+     "at": "una ciudad entera"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BLeZJHLnOT2XBOwpYL9F/r7CWqSFzrvmdYI5clNj8/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=qUGqDmO1r2L9MQt-tVoLHFw01S4=",
+   "gen": "r7CWqSFzrvmdYI5clNj8"
+  },
+  {
+   "k": "N",
+   "text": "Esa carretera tiene un nombre terrible: la llaman la carretera de los huesos. La construyeron, en tiempos de Stalin, presos de los campos de trabajo del Gulag. Muchos murieron durante las obras. Hoy sigue siendo la única vía terrestre que une esta parte de Siberia con el resto del país.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Kolyma highway",
+     "src": "commons",
+     "at": "la carretera de los huesos",
+     "lt": [
+      "Carretera de Kolimá",
+      "la «carretera de los huesos»"
+     ]
+    },
+    {
+     "photo": "Kolyma highway Gulag history",
+     "src": "commons",
+     "at": "presos de los campos"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aNzSuaqspA20tkhD8a0G/GlkuYL3cew3gMdn3uh5U/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=aVJFYZY0NaO2v68wWeP-jKP30_M=",
+   "gen": "GlkuYL3cew3gMdn3uh5U"
+  },
+  {
+   "k": "M",
+   "track": "frio",
+   "secs": 8
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tension",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Sobre hielo",
+    "sub": "Yakutsk, Rusia"
+   }
+  },
+  {
+   "k": "N",
+   "text": "Yakutsk tiene unos trescientos mil habitantes. Está considerada la ciudad grande más fría del planeta. Y es la mayor construida sobre permafrost.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Yakutsk",
+      "keys": [
+       [
+        -170,
+        -58,
+        190,
+        75
+       ],
+       [
+        99.72999999999999,
+        45.53,
+        159.73,
+        78.53
+       ],
+       [
+        123.72999999999999,
+        58.730000000000004,
+        135.73,
+        65.33
+       ]
+      ],
+      "points": [
+       {
+        "name": "Yakutsk",
+        "lon": 129.73,
+        "lat": 62.03,
+        "at": 0.55,
+        "big": 1,
+        "pulse": true
+       }
+      ]
+     },
+     "at": "Yakutsk tiene"
+    },
+    {
+     "photo": "Yakutsk panorama",
+     "src": "commons",
+     "at": "unos trescientos mil",
+     "lt": [
+      "Yakutsk",
+      "capital de Yakutia"
+     ]
+    },
+    {
+     "photo": "Yakutsk winter street",
+     "src": "commons",
+     "at": "la ciudad grande más fría"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Yz37F5l89OYRdLppwtcV/kaXBCRRBLie5QBVhBGPe/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=HRrnkRQoGGN0iTdyWja7QLmFdhk=",
+   "gen": "kaXBCRRBLie5QBVhBGPe"
+  },
+  {
+   "k": "N",
+   "text": "El récord de la ciudad está en sesenta y cuatro grados bajo cero. En enero, la máxima del día muchas veces no pasa de los treinta y cinco bajo cero. Y aun así, la vida sigue: autobuses, colegios, tiendas, universidades. Una ciudad normal… en un congelador.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Yakutsk winter bus stop",
+     "src": "commons",
+     "at": "la vida sigue"
+    },
+    {
+     "photo": "Yakutsk frost street",
+     "src": "commons",
+     "kw": "UN CONGELADOR",
+     "at": "en un congelador",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RotzFufbME7PGdTxkWfb/uyORiCTDV2kXVUBt2Qwq/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=wEOt7WNvbGi550HHwz_jRRimSRY=",
+   "gen": "uyORiCTDV2kXVUBt2Qwq"
+  },
+  {
+   "k": "R",
+   "text": "Permafrost: suelo que permanece congelado durante al menos dos años seguidos. En Yakutia puede tener cientos de metros de espesor.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Permafrost",
+      "lines": [
+       "Suelo que permanece congelado al menos dos años seguidos."
+      ],
+      "source": "Definición geológica"
+     },
+     "at": "Permafrost"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/93taJrqDH8NgLTjZmWbL/B9847RPCeyXTuqrPREqs/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=rpuwjnDe7OazGoH_pxTMJ4IG-LY=",
+   "gen": "B9847RPCeyXTuqrPREqs"
+  },
+  {
+   "k": "N",
+   "text": "Ese hielo es la roca sobre la que se apoya la ciudad. Mientras esté duro, aguanta lo que le eches. Pero un edificio normal calienta el suelo que tiene debajo. El hielo se funde, la tierra se convierte en barro, y los cimientos se agrietan.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "permafrost ice layer",
+     "src": "commons",
+     "at": "Ese hielo"
+    },
+    {
+     "photo": "Yakutsk cracked building",
+     "src": "commons",
+     "at": "los cimientos se agrietan"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mCWrM7pJeRsCVE4We6Ji/ebS1yUm95RLFhhuNWnBb/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=5_Hb50GWtzADtiM-mq6dIPWiONk=",
+   "gen": "ebS1yUm95RLFhhuNWnBb"
+  },
+  {
+   "k": "N",
+   "text": "Por eso, en Yakutsk, los bloques de viviendas de la época soviética no tocan el suelo. Se levantan sobre pilotes de hormigón clavados en el permafrost, con un hueco por debajo para que corra el aire helado.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Yakutsk apartment building on stilts",
+     "src": "commons",
+     "at": "no tocan el suelo"
+    },
+    {
+     "photo": "Yakutsk piles foundation building",
+     "src": "commons",
+     "at": "Se levantan sobre pilotes",
+     "lt": [
+      "Edificio sobre pilotes",
+      "Yakutsk"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Dt3bgZkDVl6Kr1L5psYe/lQjgr4zfUie3wge7pGH2/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=qa0-b4BNA_akGAM8TlPWeDg55f4=",
+   "gen": "lQjgr4zfUie3wge7pGH2"
+  },
+  {
+   "k": "N",
+   "text": "En los años sesenta, la norma era clavar esos pilotes unos seis metros. Hoy no siempre basta. Según los científicos del Instituto Melnikov del Permafrost, que tiene su sede aquí, la temperatura media de la ciudad ha subido dos grados y medio en una década.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Melnikov Permafrost Institute Yakutsk",
+     "src": "commons",
+     "at": "Instituto Melnikov",
+     "lt": [
+      "Instituto Melnikov del Permafrost",
+      "Yakutsk"
+     ]
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 2.5,
+      "prefix": "+",
+      "label": "grados en una década · Yakutsk"
+     },
+     "at": "dos grados y medio"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/U9tE8fyGpJFssBc2Szah/KIaQK2IxbV5Dlh4HxWuD/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=OE-6RBI1woeZY05auHcZ-2CNWEI=",
+   "gen": "KIaQK2IxbV5Dlh4HxWuD"
+  },
+  {
+   "k": "N",
+   "text": "[short pause] En dos mil dieciocho, Eduard Romanov le enseñó a la agencia France Presse una viga hundida y agrietada bajo nueve pisos de viviendas. Y le dijo esto:",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Yakutsk panel apartment block",
+     "src": "commons",
+     "at": "Eduard Romanov"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8VDjBfpIeVaS88MIZD5W/07PWwXGlvcZSjjm4YDN1/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=JPN_XX7Z25QyoHwDZvoWFt82GMY=",
+   "gen": "07PWwXGlvcZSjjm4YDN1"
+  },
+  {
+   "k": "R",
+   "text": "Todo Yakutsk está en peligro. Los propietarios pueden perder su vivienda. Y nadie está preparado para esto.",
+   "voice": "T3",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Todo Yakutsk está en peligro. Y nadie está preparado para esto.",
+      "attrib": "Eduard Romanov · AFP, 2018 · traducción"
+     },
+     "at": "Todo Yakutsk"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rV76yL8iy3kzEhasGv8H/kUMynQZwNUmAPSzQ6gCz/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=nCSJxa2lWfwt-QDb5Z_ibVDeiuE=",
+   "gen": "kUMynQZwNUmAPSzQ6gCz"
+  },
+  {
+   "k": "N",
+   "text": "Algunos bloques ya se han tenido que derribar. Uno de ellos, el número diecinueve, se inclinó cuarenta y dos centímetros. Irina vive cerca y lo contó al diario The Irish Times.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Yakutsk demolished building",
+     "src": "commons",
+     "at": "Algunos bloques"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 42,
+      "prefix": "",
+      "label": "centímetros de inclinación · bloque 19"
+     },
+     "at": "cuarenta y dos centímetros"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aSe183U9LjRCDwQMHIm9/oFEFNqjfmZkhpTspQtqo/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=iHJJ-h-tX4S2gypge0m_vh4ep1I=",
+   "gen": "oFEFNqjfmZkhpTspQtqo"
+  },
+  {
+   "k": "R",
+   "text": "Yo no vivo en ese edificio, por suerte, y mi bloque parece que está bien por ahora. Pero a todos nos preocupa lo que pueda pasar aquí.",
+   "voice": "TF",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "A todos nos preocupa lo que pueda pasar aquí.",
+      "attrib": "Irina, vecina de Yakutsk · The Irish Times · traducción"
+     },
+     "at": "Yo no vivo"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hHti7zy9NtI9eZDGJnkC/HO3HFYMo7JAMKR0X0J8k/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=gDYs1WfixpV88K-y8BOoyAN1aZA=",
+   "gen": "HO3HFYMo7JAMKR0X0J8k"
+  },
+  {
+   "k": "N",
+   "text": "Y hay otra cosa que llama la atención en Yakutsk: las tuberías. La calefacción y el agua caliente no van enterradas, porque derretirían el suelo. Van por fuera, forradas, recorriendo las calles a la vista de todos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Yakutsk heating pipes above ground",
+     "src": "commons",
+     "at": "las tuberías"
+    },
+    {
+     "photo": "Yakutsk pipes street",
+     "src": "commons",
+     "at": "Van por fuera"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qnXiZ4e9wzV9NuTVTYJn/9SPFAzKt4Hf8YQbmEUN1/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=fuJxIHizKcz93LhaiUnaUW8S9d4=",
+   "gen": "9SPFAzKt4Hf8YQbmEUN1"
+  },
+  {
+   "k": "N",
+   "text": "Además, Yakutsk está en la orilla del río Lena, y todavía no hay un puente que lo cruce. En verano se pasa en ferri. En invierno, el río helado se convierte en carretera. [short pause] Entre una cosa y otra, hay semanas en que el río no se puede cruzar.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Lena river Yakutsk",
+     "src": "commons",
+     "at": "el río Lena",
+     "lt": [
+      "Río Lena",
+      "Yakutsk"
+     ]
+    },
+    {
+     "photo": "Lena river ice road",
+     "src": "commons",
+     "at": "En invierno"
+    },
+    {
+     "photo": "Lena river ferry Yakutsk",
+     "src": "commons",
+     "at": "En verano"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/eJxdeWQfVC12paKw27Kr/BOrKztebyks59R3sqyHP/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=uiCRy_S6Ur6xIGHxkDVqxoMwlQw=",
+   "gen": "BOrKztebyks59R3sqyHP"
+  },
+  {
+   "k": "N",
+   "text": "En invierno, la ciudad se cubre con una niebla helada que no se levanta: el vapor de los coches, las casas y las personas se congela en el aire y se queda flotando entre los edificios. En los mercados, el pescado se vende al aire libre, tieso como un palo, apilado de pie.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Yakutsk ice fog",
+     "src": "commons",
+     "at": "una niebla helada"
+    },
+    {
+     "photo": "Yakutsk frozen fish market",
+     "src": "commons",
+     "at": "En los mercados",
+     "lt": [
+      "Mercado de Yakutsk",
+      "pescado congelado al aire libre"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BUjUiXuedjS0FqeO9unz/DbnhTwCWEsALeUB68AhC/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=MrBULtalMuRjWjivtACPwDouIoc=",
+   "gen": "DbnhTwCWEsALeUB68AhC"
+  },
+  {
+   "k": "N",
+   "text": "Y el permafrost guarda sorpresas. Por toda Yakutia aparecen restos de mamuts lanudos, congelados durante miles de años. Algunos están tan bien conservados que aún tienen piel y pelo. Yakutsk tiene incluso un museo dedicado a ellos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "mammoth Yakutia permafrost",
+     "src": "commons",
+     "at": "restos de mamuts"
+    },
+    {
+     "photo": "Yakutsk Mammoth Museum",
+     "src": "commons",
+     "at": "un museo dedicado",
+     "lt": [
+      "Museo del Mamut",
+      "Yakutsk"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/a3voSqqSfMj7bB2gzwzX/DnvRN33XhKCGTLAhuoDj/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=4VUQfmAsGKwVA98_PDLEhsSIi_c=",
+   "gen": "DnvRN33XhKCGTLAhuoDj"
+  },
+  {
+   "k": "N",
+   "text": "¿Y por qué tanta gente aquí? Primero fueron las pieles, desde el siglo diecisiete. Luego, el oro. Y, sobre todo, los diamantes de Yakutia, descubiertos en los años cincuenta. [pause] Debajo del hielo hay riqueza. Y la riqueza siempre atrae a la gente. Lo vamos a ver todavía más claro en el siguiente lugar. Una ciudad a la que, durante décadas, casi nadie podía entrar.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Yakutsk fortress wooden tower",
+     "src": "commons",
+     "at": "Primero fueron las pieles"
+    },
+    {
+     "photo": "Mir diamond mine Mirny",
+     "src": "commons",
+     "at": "los diamantes de Yakutia",
+     "lt": [
+      "Mina de diamantes Mir",
+      "Yakutia"
+     ]
+    },
+    {
+     "photo": "Norilsk city",
+     "src": "commons",
+     "at": "Una ciudad a la que"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yEW5f0mIFmScsYeroRil/L87MU8lbTtGrQGyFEGcz/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=WQQHzbmushCmNJ-n8BpHTVGfel4=",
+   "gen": "L87MU8lbTtGrQGyFEGcz"
+  },
+  {
+   "k": "M",
+   "track": "frio",
+   "secs": 8
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tension",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "La ciudad cerrada",
+    "sub": "Norilsk, Rusia"
+   }
+  },
+  {
+   "k": "B",
+   "track": "industria"
+  },
+  {
+   "k": "N",
+   "text": "Siberia, por encima del círculo polar ártico. Norilsk tiene unos ciento setenta y cinco mil habitantes y es la ciudad de más de cien mil habitantes más al norte del planeta. No hay carretera que la una con el resto de Rusia. Se llega en avión, o por el río Yeniséi en verano. [short pause] Y, si eres extranjero, solo con un permiso especial.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Norilsk",
+      "keys": [
+       [
+        -170,
+        -58,
+        190,
+        75
+       ],
+       [
+        58.2,
+        52.849999999999994,
+        118.2,
+        82
+       ],
+       [
+        82.2,
+        66.05,
+        94.2,
+        72.64999999999999
+       ]
+      ],
+      "points": [
+       {
+        "name": "Norilsk",
+        "lon": 88.2,
+        "lat": 69.35,
+        "at": 0.55,
+        "big": 1,
+        "pulse": true
+       }
+      ]
+     },
+     "at": "Siberia, por encima"
+    },
+    {
+     "photo": "Norilsk panorama",
+     "src": "commons",
+     "at": "Norilsk tiene",
+     "lt": [
+      "Norilsk",
+      "Krai de Krasnoyarsk, Rusia"
+     ]
+    },
+    {
+     "photo": "Norilsk airport Alykel",
+     "src": "commons",
+     "at": "Se llega en avión"
+    },
+    {
+     "photo": "Norilsk winter street",
+     "src": "commons",
+     "kw": "CIUDAD CERRADA",
+     "at": "un permiso especial",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QeFNrM5YRidkS9t3Zyy3/x5NVu3Ahdhe54wUAUG9K/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=SyzV-EJFl6u6FZBDKN6kw1sePA4=",
+   "gen": "x5NVu3Ahdhe54wUAUG9K"
+  },
+  {
+   "k": "N",
+   "text": "Norilsk es una ciudad cerrada desde dos mil uno. Pero su historia empezó mucho antes, y de la peor manera. En mil novecientos treinta y cinco, la Unión Soviética abrió aquí un campo de trabajos forzados del Gulag: el Norillag.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Norillag Gulag memorial Norilsk",
+     "src": "commons",
+     "at": "un campo de trabajos forzados",
+     "lt": [
+      "Memorial del Norillag",
+      "Norilsk"
+     ]
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Norilsk",
+      "events": [
+       [
+        "1935",
+        "se abre el campo del Norillag"
+       ],
+       [
+        "1951",
+        "unos 72.500 presos"
+       ],
+       [
+        "1956",
+        "cierra el campo"
+       ],
+       [
+        "2001",
+        "ciudad cerrada a extranjeros"
+       ],
+       [
+        "2020",
+        "vertido de gasóleo"
+       ]
+      ]
+     },
+     "at": "En mil novecientos treinta y cinco"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Ge5WznKhNy77xRVlvl8z/7DimJ62vmMaNPdENh5xo/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=xfmHBCqkk7KzAxLwFHo0M11rjUc=",
+   "gen": "7DimJ62vmMaNPdENh5xo"
+  },
+  {
+   "k": "N",
+   "text": "Los presos construyeron las minas, las fundiciones y la propia ciudad, sobre el permafrost y a temperaturas de cuarenta bajo cero. En mil novecientos cincuenta y uno llegó a haber unos setenta y dos mil quinientos. El campo se cerró en mil novecientos cincuenta y seis. Muchos supervivientes se quedaron a vivir aquí el resto de su vida.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Norilsk Gulag prisoners history",
+     "src": "commons",
+     "at": "Los presos construyeron"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 72500,
+      "label": "presos en el Norillag en 1951"
+     },
+     "at": "setenta y dos mil quinientos"
+    },
+    {
+     "photo": "Norilsk old town Leninsky prospekt",
+     "src": "commons",
+     "at": "Muchos supervivientes"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rBB7CGGyBbesVjJRWJ0Z/xJefWHXW1Fo2H59MgCIu/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=f1TMr1_wdN-mw_E3BIjWvjTaEwk=",
+   "gen": "xJefWHXW1Fo2H59MgCIu"
+  },
+  {
+   "k": "N",
+   "text": "¿Por qué aquí? Por lo que hay bajo tierra. Los yacimientos de Norilsk y Talnaj son los mayores conocidos del mundo de níquel, cobre y paladio. Ese paladio acaba en los catalizadores de los coches de medio planeta.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Norilsk Nickel plant",
+     "src": "commons",
+     "at": "Por lo que hay bajo tierra"
+    },
+    {
+     "photo": "palladium metal",
+     "src": "commons",
+     "at": "Ese paladio"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JjejFO5mfatTPkreFsq9/bk5lCs0b1XoM8eaGUmdN/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=x_5BHVCPDUGKUpOG_6ZRrJ6JUWA=",
+   "gen": "bk5lCs0b1XoM8eaGUmdN"
+  },
+  {
+   "k": "R",
+   "text": "La luz en la ventana de Rusia.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "La luz en la ventana de Rusia",
+      "attrib": "Himno de la compañía Norilsk Nickel, citado por The Moscow Times"
+     },
+     "at": "La luz"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1OnCzBTP1MnvLXGTNvwl/GWzghoq4QsR0NXM9gea2/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=bDK1wjug0IWxK4pRDdpH-XktQQo=",
+   "gen": "GWzghoq4QsR0NXM9gea2"
+  },
+  {
+   "k": "N",
+   "text": "Así llama el himno de la empresa minera a sus fundiciones. [pause] Pero durante décadas, esa luz salía de unas chimeneas que convirtieron Norilsk en uno de los lugares más contaminados de la Tierra. Los satélites detectaban el dióxido de azufre desde el espacio. Ninguna otra instalación humana emitía tanto.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Norilsk smoke stacks",
+     "src": "commons",
+     "at": "esa luz salía"
+    },
+    {
+     "photo": "Norilsk sulfur dioxide satellite NASA",
+     "src": "commons",
+     "at": "Los satélites"
+    },
+    {
+     "photo": "Norilsk smelter pollution",
+     "src": "commons",
+     "kw": "DIÓXIDO DE AZUFRE",
+     "at": "Ninguna otra",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XwlXKyCIHjAJ8RbbAFKR/zJJVJLWzHB1kC0ZkLaX2/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=sIS8IpzsYwoK7UoDgNbK1v54u14=",
+   "gen": "zJJVJLWzHB1kC0ZkLaX2"
+  },
+  {
+   "k": "N",
+   "text": "Alrededor de la ciudad, kilómetros y kilómetros de bosque muerto. Lluvia ácida. Ríos teñidos de rojo. Y en mayo de dos mil veinte, el permafrost cedió bajo un depósito de combustible de una central eléctrica. Se derramaron más de veinte mil toneladas de gasóleo: el mayor vertido de la historia del Ártico.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Norilsk dead forest",
+     "src": "commons",
+     "at": "bosque muerto"
+    },
+    {
+     "photo": "Norilsk 2020 diesel spill Ambarnaya river",
+     "src": "commons",
+     "at": "en mayo de dos mil veinte",
+     "lt": [
+      "Río Ambárnaya",
+      "vertido de 2020"
+     ]
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 21000,
+      "label": "toneladas de gasóleo vertidas · 2020"
+     },
+     "at": "veinte mil toneladas"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VpAB3SZBxbY4WQ4JxtR3/RZOfDPPghQ8cPTYybYtq/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=-hp8fNneaqHX9Wv8d53jgMuz8pE=",
+   "gen": "RZOfDPPghQ8cPTYybYtq"
+  },
+  {
+   "k": "N",
+   "text": "[short pause] Igor Klyushin llegó a Norilsk con siete años, en mil novecientos setenta y siete. Hoy es activista medioambiental. En dos mil dieciséis vio el río Daldikán teñido de rojo. Se lo contó a la periodista Marianne Lavelle, de la revista Undark:",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Daldykan river red Norilsk 2016",
+     "src": "commons",
+     "at": "el río Daldikán",
+     "lt": [
+      "Río Daldikán",
+      "Norilsk · 2016"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/v9uQp6SXFXtWDWiaEz9O/tacW60z9QjqB2J3GjfJ6/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=iKFz9DDyYzPLF6O8hoRPqJoKtNQ=",
+   "gen": "tacW60z9QjqB2J3GjfJ6"
+  },
+  {
+   "k": "R",
+   "text": "Cuando fui aquella noche a ver el Daldikán, se me cayó el alma a los pies. Se me rompió el corazón.",
+   "voice": "T3",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Cuando fui aquella noche a ver el Daldikán, se me rompió el corazón.",
+      "attrib": "Igor Klyushin, activista · Undark, 2021 · traducción"
+     },
+     "at": "Cuando fui aquella noche"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oDphUfkldZfpohN7Mn88/cru0LFS4pna25Mzo3NNE/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=4YIx_WDzi464pDk9Y8HPXm2AzeQ=",
+   "gen": "cru0LFS4pna25Mzo3NNE"
+  },
+  {
+   "k": "N",
+   "text": "Valeriya Bolgova es líder de los nganasanos, uno de los pueblos indígenas de la península de Taimyr. Vive en una aldea cercana. Después de una visita a Norilsk, lo resumió así:",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Nganasan people Taymyr",
+     "src": "commons",
+     "at": "los nganasanos",
+     "lt": [
+      "Pueblo nganasán",
+      "península de Taimyr"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vRhUvOf0FTi3Wi51lfdV/oBG576o8MbcEAQd6S93R/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=-9Q7hZRG6DKVZY-5QqrF41BcfvI=",
+   "gen": "oBG576o8MbcEAQd6S93R"
+  },
+  {
+   "k": "R",
+   "text": "Allí no se puede respirar. Fui tosiendo todo el camino de vuelta a casa.",
+   "voice": "TF",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Allí no se puede respirar. Fui tosiendo todo el camino de vuelta a casa.",
+      "attrib": "Valeriya Bolgova, líder nganasana · Undark, 2021 · traducción"
+     },
+     "at": "Allí no se puede respirar"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/usJMnAQEOCLxNf5ehCfs/A8VyFRc9w6mf4QtwGEFX/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=JZTL9fWlKIoD1ap-6UCs8UAklhs=",
+   "gen": "A8VyFRc9w6mf4QtwGEFX"
+  },
+  {
+   "k": "N",
+   "text": "Vasily Ryabinin fue subdirector de la oficina de Norilsk de la agencia rusa de protección del medio ambiente. Creció en el barrio vecino de Talnaj. En esa misma revista, lo resumió con un dicho:",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Talnakh Norilsk district",
+     "src": "commons",
+     "at": "Talnaj",
+     "lt": [
+      "Talnaj",
+      "Norilsk"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BO0g4EZbKTxf7IxfsQsv/Yxc0zCbolsuQaxiLVEyI/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=H0iGjTWF-_nfOMmB535Wy-tYkQU=",
+   "gen": "Yxc0zCbolsuQaxiLVEyI"
+  },
+  {
+   "k": "R",
+   "text": "En ruso tenemos un dicho: es como tirar guisantes secos contra la pared.",
+   "voice": "T2",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Es como tirar guisantes secos contra la pared.",
+      "attrib": "Vasily Ryabinin, exinspector ambiental · Undark, 2021 · traducción"
+     },
+     "at": "En ruso tenemos un dicho"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bswdQEZFFgBHrzTOgqJl/ghz0gvnmMvMxtRo8mEgt/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=JWKZd6oedZvSrC0ys75SHxSdCaQ=",
+   "gen": "ghz0gvnmMvMxtRo8mEgt"
+  },
+  {
+   "k": "N",
+   "text": "Según la prensa rusa, la situación ha mejorado: en dos mil dieciséis cerró la fundición más antigua, y en dos mil veintitrés Norilsk salió por primera vez de la lista oficial de ciudades con contaminación muy alta. Hay que tomarlo con cautela: casi todo lo que sabemos de Norilsk lo cuentan las autoridades o la propia empresa.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que dicen",
+       "lines": [
+        "cierre de la fundición más antigua (2016)",
+        "fuera de la lista de contaminación muy alta (2023)"
+       ]
+      },
+      "right": {
+       "title": "La cautela",
+       "lines": [
+        "ciudad cerrada",
+        "pocas fuentes independientes"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Según la prensa rusa"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HaMqRRT7vLLZDodc7JWV/jaAP6bxBw9PC6DXw1Fzv/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=deKa45G1ZiJQRQj2LFc5f829AoM=",
+   "gen": "jaAP6bxBw9PC6DXw1Fzv"
+  },
+  {
+   "k": "N",
+   "text": "El clima no ayuda. Norilsk pasa más de doscientos días al año bajo la nieve. Las ventiscas pueden paralizar la ciudad durante días. Por eso muchos barrios se diseñaron como manzanas cerradas, con los edificios formando un muro alrededor de un patio, para frenar el viento.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Norilsk blizzard winter",
+     "src": "commons",
+     "at": "Las ventiscas"
+    },
+    {
+     "photo": "Norilsk courtyard apartment blocks aerial",
+     "src": "commons",
+     "at": "manzanas cerradas"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0dIZqyCniEH9P4LqkKp8/us9aYc9rGWoeEN72mgFb/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=eQXSSMzUlHUXnOJ5zX3Qwq6BxKo=",
+   "gen": "us9aYc9rGWoeEN72mgFb"
+  },
+  {
+   "k": "N",
+   "text": "Y, como en Yakutsk, todo se levanta sobre pilotes clavados en el permafrost. Con el deshielo, muchos edificios se han agrietado. Desde principios de este siglo apenas se ha construido vivienda nueva, y hay bloques enteros abandonados.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Norilsk abandoned building",
+     "src": "commons",
+     "at": "bloques enteros abandonados"
+    },
+    {
+     "photo": "Norilsk building piles",
+     "src": "commons",
+     "at": "sobre pilotes"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/f4ci1A81DyKIXsp8h2EA/yuEeht3v4aUts88CDVxw/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=9BQ6JXYHEZ94DK10nWt-rFLQy_Q=",
+   "gen": "yuEeht3v4aUts88CDVxw"
+  },
+  {
+   "k": "N",
+   "text": "¿Y por qué se vive aquí? Por los sueldos, mucho más altos que en el resto del país. Y porque, para muchas familias, Norilsk es simplemente su casa. [short pause] Edificios de colores para alegrar el invierno, una de las mezquitas más septentrionales del mundo y semanas enteras sin que salga el sol.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Norilsk colorful buildings",
+     "src": "commons",
+     "at": "Edificios de colores"
+    },
+    {
+     "photo": "Norilsk mosque Nurd Kamal",
+     "src": "commons",
+     "at": "una de las mezquitas",
+     "lt": [
+      "Mezquita Nurd Kamal",
+      "Norilsk"
+     ]
+    },
+    {
+     "video": "arctic city winter night lights",
+     "free": true,
+     "at": "semanas enteras"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Vpu82UvVkIobBoSoInok/LC0fOyEvZk4g2V7g6gS0/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=xA6XvLSKaLWJjjtu-oHe-rchGvI=",
+   "gen": "LC0fOyEvZk4g2V7g6gS0"
+  },
+  {
+   "k": "M",
+   "track": "industria",
+   "secs": 8
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Llevamos cuatro lugares. Para no perdernos: en Coober Pedy se excava para huir del calor. En Oimiakón, el frío decide si hay clase. En Yakutsk, la ciudad entera depende de que el suelo siga helado. Y en Norilsk, la riqueza del subsuelo levantó una ciudad que durante años nadie podía visitar.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "title": "Hasta aquí",
+      "items": [
+       [
+        "Coober Pedy",
+        "bajo tierra contra el calor"
+       ],
+       [
+        "Oimiakón",
+        "−67,7 °C, el polo del frío"
+       ],
+       [
+        "Yakutsk",
+        "una ciudad sobre hielo"
+       ],
+       [
+        "Norilsk",
+        "níquel, Gulag y ciudad cerrada"
+       ]
+      ]
+     },
+     "at": "Llevamos cuatro lugares"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8CH4T4Bw7F3U6wahhFVC/bbIvDNKKM6Z5pO7zWIGI/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=etJ6jQZfT03YzFb1Lc4nydpc0pA=",
+   "gen": "bbIvDNKKM6Z5pO7zWIGI"
+  },
+  {
+   "k": "N",
+   "text": "Ahora subimos todavía más al norte. A un lugar donde no hace tanto frío como en Siberia. Pero donde, durante casi cuatro meses al año, el sol no sale.",
+   "voice": "CON",
+   "shots": [
+    {
+     "video": "polar night arctic",
+     "free": true,
+     "at": "Ahora subimos"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3vRo3tsQeOPSyCX0ixOR/RG8AOTEPMJrMHjxGS2KO/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=kyoXz5TylkWT08uKbWL8G5FdNbY=",
+   "gen": "RG8AOTEPMJrMHjxGS2KO"
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tension",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "La noche polar",
+    "sub": "Longyearbyen, Noruega"
+   }
+  },
+  {
+   "k": "B",
+   "track": "noche"
+  },
+  {
+   "k": "N",
+   "text": "Archipiélago de Svalbard, a mitad de camino entre Noruega y el Polo Norte. Longyearbyen tiene unos dos mil quinientos habitantes y presume de tenerlo todo «más al norte del mundo»: la escuela, el hospital, la universidad.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Longyearbyen",
+      "keys": [
+       [
+        -170,
+        -58,
+        190,
+        75
+       ],
+       [
+        -9.37,
+        64.47,
+        40.63,
+        82
+       ],
+       [
+        9.63,
+        74.92,
+        21.630000000000003,
+        81.52
+       ]
+      ],
+      "points": [
+       {
+        "name": "Longyearbyen",
+        "lon": 15.63,
+        "lat": 78.22,
+        "at": 0.55,
+        "big": 1,
+        "pulse": true
+       }
+      ]
+     },
+     "at": "Archipiélago de Svalbard"
+    },
+    {
+     "video": "Longyearbyen Svalbard",
+     "free": true,
+     "at": "Longyearbyen tiene",
+     "lt": [
+      "Longyearbyen",
+      "Svalbard, Noruega · hoy"
+     ]
+    },
+    {
+     "photo": "Longyearbyen houses colorful",
+     "src": "commons",
+     "at": "presume de tenerlo todo"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XdHfhO9b6q02OnMG6PI2/3S9WnV7aL9XzjWkc4C0F/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=0AEXn6hTL2MSax-e-wZL95spUlg=",
+   "gen": "3S9WnV7aL9XzjWkc4C0F"
+  },
+  {
+   "k": "N",
+   "text": "A finales de octubre, el sol se esconde tras el horizonte. Y no vuelve a asomar hasta mediados de febrero. Durante las semanas centrales, ni siquiera hay claridad a mediodía. Es la noche polar.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Longyearbyen polar night town",
+     "src": "commons",
+     "at": "A finales de octubre"
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "El año en Longyearbyen",
+      "events": [
+       [
+        "finales de octubre",
+        "último sol"
+       ],
+       [
+        "noviembre-enero",
+        "noche polar"
+       ],
+       [
+        "mediados de febrero",
+        "vuelve el sol"
+       ],
+       [
+        "8 de marzo",
+        "el sol toca la escalera del viejo hospital"
+       ],
+       [
+        "abril-agosto",
+        "sol de medianoche"
+       ]
+      ]
+     },
+     "at": "Y no vuelve"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nlTl1t3VYfrCSgKWebK1/ZkPHyvMCPdlxrdotx97c/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=qV0vDwF1tDJljjC3heErx_9LTkI=",
+   "gen": "ZkPHyvMCPdlxrdotx97c"
+  },
+  {
+   "k": "N",
+   "text": "Cuando por fin vuelve, el pueblo lo celebra. Hay una fecha marcada: el ocho de marzo, cuando el sol llega a iluminar los escalones del antiguo hospital. [short pause] Y en verano ocurre lo contrario: de abril a agosto, el sol no se pone nunca.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Longyearbyen old hospital steps",
+     "src": "commons",
+     "at": "el ocho de marzo"
+    },
+    {
+     "video": "midnight sun arctic",
+     "free": true,
+     "at": "en verano"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uCI33rt7tPyUYn8CRvsh/vs4JjVnNROLETHdwXimY/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=VrWwvHiulNx9WZrg_KDr4cXGoPY=",
+   "gen": "vs4JjVnNROLETHdwXimY"
+  },
+  {
+   "k": "N",
+   "text": "Pero el peligro aquí no es la oscuridad. Es el oso polar. En las afueras del pueblo, unas señales con fondo negro marcan el límite. Más allá, nadie sensato camina sin un rifle y una pistola de bengalas.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "polar bear Svalbard",
+     "src": "commons",
+     "at": "Es el oso polar"
+    },
+    {
+     "photo": "Longyearbyen polar bear warning sign",
+     "src": "commons",
+     "at": "unas señales",
+     "lt": [
+      "Señal de peligro de oso polar",
+      "Longyearbyen"
+     ]
+    },
+    {
+     "photo": "Svalbard rifle polar bear protection",
+     "src": "commons",
+     "kw": "RIFLE",
+     "at": "sin un rifle",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gp4rrbOzEHxGpwuXlOpb/8GHVBJidgNbJez5xmpOF/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=BP9MQMJSj7O-smQsfnlikfWM7Sg=",
+   "gen": "8GHVBJidgNbJez5xmpOF"
+  },
+  {
+   "k": "N",
+   "text": "Dentro del pueblo, las armas no se pueden llevar cargadas ni entrar en los edificios. Pero los osos no leen las normas. En Navidad de dos mil diecinueve, uno bajó tranquilamente por la calle principal hasta que la policía lo espantó.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Longyearbyen main street winter",
+     "src": "commons",
+     "at": "la calle principal"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yNLViLznIHZsnJc8IWsM/3OD04dyMQ3uJvBm3xM4o/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=npZoCEN46bQQtchQD0VqTgNzog8=",
+   "gen": "3OD04dyMQ3uJvBm3xM4o"
+  },
+  {
+   "k": "N",
+   "text": "Y luego está la leyenda más famosa de Longyearbyen. La repiten guías, periódicos y viajeros. La guía Hella Liira se la explicaba así a un periodista:",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Longyearbyen cemetery",
+     "src": "commons",
+     "at": "la leyenda más famosa"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Vtm9iFKUsUfnryFD7M2o/ML0y0GkFnP4dZmFJrcOf/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=ZmrBNZSmc3SGj02oK8YTmwyP-hY=",
+   "gen": "ML0y0GkFnP4dZmFJrcOf"
+  },
+  {
+   "k": "R",
+   "text": "El gobierno, sencillamente, no lo permite.",
+   "voice": "TF",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Aquí está prohibido morir. El gobierno, sencillamente, no lo permite.",
+      "attrib": "Hella Liira, guía · Traveller · traducción"
+     },
+     "at": "El gobierno"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jBntZ4rrr9DynlZfMgmJ/Nxkv7UGhuu332hqWSKUn/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=qIFWSXKJJ7tP-vSOpdzaIn2vymU=",
+   "gen": "Nxkv7UGhuu332hqWSKUn"
+  },
+  {
+   "k": "N",
+   "text": "[pause] Prohibido morir. Suena a broma, pero tiene una base real. El pequeño cementerio dejó de recibir entierros a mediados del siglo veinte, porque el permafrost no deja que los cuerpos se descompongan. En mil novecientos noventa y ocho, unos científicos llegaron a exhumar víctimas de la gripe de mil novecientos dieciocho para estudiar el virus.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Longyearbyen cemetery crosses",
+     "src": "commons",
+     "kw": "PROHIBIDO MORIR",
+     "at": "Prohibido morir",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    },
+    {
+     "photo": "Longyearbyen cemetery crosses",
+     "src": "commons",
+     "at": "El pequeño cementerio",
+     "lt": [
+      "Cementerio de Longyearbyen",
+      "Svalbard"
+     ]
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "El cementerio helado",
+      "events": [
+       [
+        "1918",
+        "víctimas de la gripe española"
+       ],
+       [
+        "mediados del s. XX",
+        "se dejan de hacer entierros"
+       ],
+       [
+        "1998",
+        "exhumación científica"
+       ]
+      ]
+     },
+     "at": "En mil novecientos noventa y ocho"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/w8AGdtcTBaT3fvYD0hih/bymAJZZgS3xWO1XDi4fH/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=gPKgRr7EWuPVrAqPNYJaW17jeoA=",
+   "gen": "bymAJZZgS3xWO1XDi4fH"
+  },
+  {
+   "k": "R",
+   "text": "Si tiene la desgracia de enfermar de gravedad, cuente con que lo enviarán en avión o en barco a otra parte de Noruega para terminar allí sus días.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "BBC News, 2008",
+      "lines": [
+       "«Lo enviarán en avión o en barco a otra parte de Noruega para terminar allí sus días.»"
+      ],
+      "source": "Duncan Bartlett, BBC · traducción"
+     },
+     "at": "Si tiene la desgracia"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ad9xXVz3a812Yvoelgdx/d7jvjhKJEh51EI6e3EoE/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=YjToiE3G5bLbRjlK42_6q-ZUp_0=",
+   "gen": "d7jvjhKJEh51EI6e3EoE"
+  },
+  {
+   "k": "N",
+   "text": "Pero no hay ninguna ley que lo prohíba. Lo que ocurre es más prosaico: quien enferma de gravedad es trasladado al continente. Y las embarazadas suelen viajar semanas antes del parto para dar a luz en Noruega.",
+   "voice": "CON",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "La leyenda",
+       "lines": [
+        "«está prohibido morir»"
+       ]
+      },
+      "right": {
+       "title": "La realidad",
+       "lines": [
+        "no hay ninguna ley",
+        "los enfermos graves y los partos van al continente"
+       ]
+      }
+     },
+     "at": "no hay ninguna ley"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GYaYMn7Yp1KPK5OA16B9/YkKfBgPDry5yB0bXpRij/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=pl6Q4Y0xKFrOcp7x7gBOKfbQaJM=",
+   "gen": "YkKfBgPDry5yB0bXpRij"
+  },
+  {
+   "k": "N",
+   "text": "La misma crónica de la BBC contaba otro detalle: cuando los niños de la guardería salen de excursión fuera del pueblo, la maestra lleva un arma. Y en la universidad, el primer día de clase de cada estudiante se dedica a aprender a disparar.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Longyearbyen kindergarten",
+     "src": "commons",
+     "at": "los niños de la guardería"
+    },
+    {
+     "photo": "University Centre in Svalbard UNIS",
+     "src": "commons",
+     "at": "en la universidad",
+     "lt": [
+      "Centro Universitario de Svalbard",
+      "Longyearbyen"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vn8qD16B99PUZVl3KIRF/PIpvuA0HDO3wZsUXSXFJ/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=eru4Nfzj6n8OqbG9HKxKvRw1o90=",
+   "gen": "PIpvuA0HDO3wZsUXSXFJ"
+  },
+  {
+   "k": "N",
+   "text": "Longyearbyen nació como pueblo minero del carbón, a principios del siglo veinte. Hoy vive de la ciencia y del turismo. Y guarda un tesoro bajo una montaña: la Bóveda Global de Semillas, abierta en dos mil ocho, con copias de seguridad de los cultivos del mundo entero.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Longyearbyen coal mine historic",
+     "src": "commons",
+     "at": "pueblo minero del carbón"
+    },
+    {
+     "photo": "Svalbard Global Seed Vault",
+     "src": "commons",
+     "at": "la Bóveda Global de Semillas",
+     "lt": [
+      "Bóveda Global de Semillas de Svalbard",
+      "abierta en 2008"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tUhGmKQ7tVz5W4zaTgyw/n3aIR9x9v9yeYje4JFHM/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=IL3CQVSMuY0amhijLU1wfcDsQzM=",
+   "gen": "n3aIR9x9v9yeYje4JFHM"
+  },
+  {
+   "k": "N",
+   "text": "El cambio climático también se nota aquí. Svalbard es una de las regiones del planeta que más rápido se calientan. En diciembre de dos mil quince, un alud cayó sobre varias casas de Longyearbyen y mató a dos personas. Y en dos mil diecisiete, el agua del deshielo llegó a meterse en el túnel de entrada de la Bóveda de Semillas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Longyearbyen avalanche 2015",
+     "src": "commons",
+     "at": "un alud",
+     "lt": [
+      "Longyearbyen",
+      "alud de diciembre de 2015"
+     ]
+    },
+    {
+     "photo": "Svalbard Global Seed Vault entrance",
+     "src": "commons",
+     "at": "el túnel de entrada"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3f9OnxIWJQNnKJfD5iaE/14zzI9UG3upxk4kO4tvL/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=d7cJ1UggOR3TpfmiOMkpctHOLAU=",
+   "gen": "14zzI9UG3upxk4kO4tvL"
+  },
+  {
+   "k": "N",
+   "text": "Y aun así, la gente llega. Hay vecinos de más de cincuenta países. Muchos vienen unos años, por trabajo o por aventura, y se van. Otros se quedan. Dicen que la noche polar no es negra: es azul, con auroras boreales que bailan sobre el fiordo.",
+   "voice": "CON",
+   "shots": [
+    {
+     "video": "northern lights aurora Svalbard",
+     "free": true,
+     "at": "es azul"
+    },
+    {
+     "photo": "Longyearbyen aurora",
+     "src": "commons",
+     "at": "auroras boreales"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gvE0JxumuzOYyjGzEGme/qv6d43vaRkbsHk4lBRcP/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=wicJUg5hMTyW8CjketxkHFyQ26s=",
+   "gen": "qv6d43vaRkbsHk4lBRcP"
+  },
+  {
+   "k": "N",
+   "text": "Y hay un detalle legal que hace de Longyearbyen un lugar único. Por el Tratado de Svalbard, firmado en mil novecientos veinte, los ciudadanos de los países firmantes pueden vivir y trabajar en el archipiélago sin visado. Eso sí: tienen que demostrar que pueden mantenerse. Aquí no hay red de ayudas sociales para quien se queda sin trabajo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Tratado de Svalbard · 1920",
+      "lines": [
+       "Los ciudadanos de los países firmantes pueden vivir y trabajar en el archipiélago."
+      ],
+      "source": "Tratado de Svalbard, 9 de febrero de 1920"
+     },
+     "at": "Por el Tratado de Svalbard"
+    },
+    {
+     "photo": "Longyearbyen town summer",
+     "src": "commons",
+     "at": "tienen que demostrar"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XRoyW1uHFhPPIUdlSMrU/rU7sm163lOToDFWsP97g/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=0poC3YYSSvTEyoFOl70p6v5NR04=",
+   "gen": "rU7sm163lOToDFWsP97g"
+  },
+  {
+   "k": "N",
+   "text": "Hay más rarezas. Las calles no tienen nombre, tienen número. Y los gatos están prohibidos, para proteger a las aves. [short pause] De la oscuridad total pasamos ahora a un pueblo de Alaska con un problema muy distinto: casi todos sus vecinos duermen bajo el mismo techo.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Longyearbyen street road number",
+     "src": "commons",
+     "at": "Las calles no tienen nombre"
+    },
+    {
+     "photo": "Svalbard birds Arctic tern",
+     "src": "commons",
+     "at": "para proteger a las aves"
+    },
+    {
+     "photo": "Begich Towers Whittier Alaska",
+     "src": "commons",
+     "at": "bajo el mismo techo"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/l1ROYaMcuBnd3zKbcuol/ePNPDNSGLPm8BrUbcoy2/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=_WxOeHybrYb0ZBo7HiXccEwwd2Q=",
+   "gen": "ePNPDNSGLPm8BrUbcoy2"
+  },
+  {
+   "k": "M",
+   "track": "noche",
+   "secs": 8
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tension",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Un pueblo en un edificio",
+    "sub": "Whittier, Alaska"
+   }
+  },
+  {
+   "k": "B",
+   "track": "frio"
+  },
+  {
+   "k": "N",
+   "text": "Alaska, a un centenar de kilómetros de Anchorage. Whittier está encajado entre montañas y un fiordo del estrecho del Príncipe Guillermo. En el censo de dos mil veinte tenía doscientos setenta y dos habitantes. Y casi todos viven en un mismo edificio de catorce plantas: las Begich Towers.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Whittier",
+      "keys": [
+       [
+        -170,
+        -58,
+        190,
+        75
+       ],
+       [
+        -168.68,
+        49.77,
+        -128.68,
+        71.77000000000001
+       ],
+       [
+        -154.68,
+        57.470000000000006,
+        -142.68,
+        64.07000000000001
+       ]
+      ],
+      "points": [
+       {
+        "name": "Whittier",
+        "lon": -148.68,
+        "lat": 60.77,
+        "at": 0.55,
+        "big": 1,
+        "pulse": true
+       }
+      ]
+     },
+     "at": "Alaska, a un centenar"
+    },
+    {
+     "video": "Whittier Alaska",
+     "free": true,
+     "at": "Whittier está encajado",
+     "lt": [
+      "Whittier",
+      "Alaska · hoy"
+     ]
+    },
+    {
+     "photo": "Begich Towers",
+     "src": "commons",
+     "at": "las Begich Towers",
+     "lt": [
+      "Begich Towers",
+      "14 plantas · terminadas en 1957"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VeQs1mcuPB3UQEpbZ2Iz/7U6txZcFpXipYK1bcQCf/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=krPm0mLQLOtje5gAzJSf__2ClJ0=",
+   "gen": "7U6txZcFpXipYK1bcQCf"
+  },
+  {
+   "k": "N",
+   "text": "El edificio lo levantó el ejército de Estados Unidos durante la Guerra Fría y se terminó en mil novecientos cincuenta y siete. Era cuartel y vivienda para las familias de los militares. Cuando el ejército se fue, el edificio se convirtió en un bloque de pisos.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Whittier Alaska army base history",
+     "src": "commons",
+     "at": "el ejército de Estados Unidos"
+    },
+    {
+     "photo": "Buckner Building Whittier abandoned",
+     "src": "commons",
+     "at": "Cuando el ejército se fue",
+     "lt": [
+      "Edificio Buckner",
+      "abandonado · Whittier"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TjDzvCk2elvE1GLc0EiT/ahTFlPATGUk48uTYcnPe/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=V_XBHdxgoUuwFVP-xEdK-HtzSsg=",
+   "gen": "ahTFlPATGUk48uTYcnPe"
+  },
+  {
+   "k": "N",
+   "text": "Muy cerca sigue en pie, abandonado, el otro gigante del pueblo: el edificio Buckner, terminado en mil novecientos cincuenta y tres. En su día lo llamaron «la ciudad bajo un mismo techo». Hoy es una mole de hormigón vacía, con las ventanas rotas, mirando al fiordo.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Buckner Building Whittier",
+     "src": "commons",
+     "at": "el edificio Buckner",
+     "lt": [
+      "Edificio Buckner",
+      "abandonado desde los años sesenta"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BI6VmbMvOQzccUL9LpG0/SflApQSwmjJpPWRcGB9f/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=qN-Ut2_YE9vYxRaji9psEUJgOao=",
+   "gen": "SflApQSwmjJpPWRcGB9f"
+  },
+  {
+   "k": "N",
+   "text": "Hoy, dentro de las Begich Towers hay casi todo lo que necesita un pueblo: viviendas, oficinas municipales, una pequeña tienda, la oficina de correos. Y un túnel subterráneo que lleva directamente a la escuela, para que los niños no tengan que salir a la calle en invierno.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Begich Towers interior hallway",
+     "src": "commons",
+     "at": "dentro de las Begich Towers"
+    },
+    {
+     "photo": "Whittier school tunnel",
+     "src": "commons",
+     "at": "un túnel subterráneo"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/h3J8vSHPFqqLIZelLoEW/TgPR7GUru8ZuAzibYY5R/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=VOW0tuIFqIDcpdIA7uRJ0UZdA64=",
+   "gen": "TgPR7GUru8ZuAzibYY5R"
+  },
+  {
+   "k": "N",
+   "text": "Porque fuera, el clima es feroz. Whittier recibe de media unos cinco mil litros de precipitación por metro cuadrado al año, una de las cifras más altas de Estados Unidos. Las ráfagas de viento pueden superar los ciento veinte kilómetros por hora.",
+   "voice": "CON",
+   "shots": [
+    {
+     "video": "Alaska rain storm fjord",
+     "free": true,
+     "at": "el clima es feroz"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 5000,
+      "label": "litros por metro cuadrado al año · Whittier"
+     },
+     "at": "cinco mil litros"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Z47pow2miX8GLLoXsMol/mzNbCNBCIU0STHVw5eKX/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=x0BHaatfsePtsME6Vwb8LUd9w3k=",
+   "gen": "mzNbCNBCIU0STHVw5eKX"
+  },
+  {
+   "k": "N",
+   "text": "[short pause] La periodista Jen Kinney pasó una temporada aquí. Su conclusión fue sencilla: con ese viento y hasta diecisiete metros de nieve en un año, es muy fácil no salir de las Begich Towers durante días. O semanas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Whittier Alaska snow deep",
+     "src": "commons",
+     "at": "hasta diecisiete metros de nieve"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jOruo84XzUiIJFfK0ARG/k9WssCr3gJgKZqnIqL8v/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=4i86lHTCRl_LWPHql6idA2HRekY=",
+   "gen": "k9WssCr3gJgKZqnIqL8v"
+  },
+  {
+   "k": "N",
+   "text": "Y para entrar o salir por tierra solo hay un camino: el túnel Anton Anderson. Cuatro kilómetros de un solo carril, por el que pasan, por turnos, coches y trenes. Cambia de sentido cada media hora. [short pause] Y por la noche, se cierra.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Anton Anderson Memorial Tunnel",
+     "src": "commons",
+     "at": "el túnel Anton Anderson",
+     "lt": [
+      "Túnel Anton Anderson",
+      "único acceso por carretera"
+     ]
+    },
+    {
+     "video": "Whittier tunnel",
+     "free": true,
+     "at": "Cuatro kilómetros"
+    },
+    {
+     "photo": "Whittier tunnel entrance night",
+     "src": "commons",
+     "kw": "SE CIERRA",
+     "at": "se cierra",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/d3iYZtHKaPUJ9mtUvY87/wxiYnQym9ufeCfRkIBor/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=auz68Ivv6t4zB_wjmQNxtz2taGg=",
+   "gen": "wxiYnQym9ufeCfRkIBor"
+  },
+  {
+   "k": "N",
+   "text": "En invierno, el túnel abre a las siete de la mañana y la última pasada es antes de las once de la noche. Si la pierdes, te quedas al otro lado de la montaña hasta el día siguiente. Antes de que el túnel se abriera a los coches, en el año dos mil, a Whittier solo se llegaba en tren, en barco o en avioneta.",
+   "voice": "CON",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Túnel de Whittier · invierno",
+      "items": [
+       "Abre a las 7:00",
+       "Un sentido cada media hora",
+       "Coches y trenes por turnos",
+       "Última pasada antes de las 23:00"
+      ]
+     },
+     "at": "En invierno"
+    },
+    {
+     "photo": "Whittier harbor boats",
+     "src": "commons",
+     "at": "en barco"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VsxheuOpaL6gLZjwf2mT/duB0jXCYw4V0mN1EKikx/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=ldETpO2yEdaioz5BkYbtAeI03IM=",
+   "gen": "duB0jXCYw4V0mN1EKikx"
+  },
+  {
+   "k": "N",
+   "text": "No todo el mundo aguanta. Arnie vivió en las Begich Towers y se mudó. Cuando la periodista Jen Kinney le preguntó por el edificio, contestó esto:",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Whittier Alaska town view",
+     "src": "commons",
+     "at": "No todo el mundo aguanta"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BlX1VWmxuwDFtoT0bIwO/mOScvZOLBTHWk711bNif/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=pG2Uv1Ccyjtf8KJ5_eMN1XCFEtA=",
+   "gen": "mOScvZOLBTHWk711bNif"
+  },
+  {
+   "k": "R",
+   "text": "Yo lo llamo la cueva de los murciélagos. Porque hay que estar más chiflado que una cabra para vivir ahí.",
+   "voice": "T2",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Yo lo llamo la cueva de los murciélagos. Hay que estar más chiflado que una cabra para vivir ahí.",
+      "attrib": "Arnie, antiguo vecino · Jen Kinney, Business Insider · traducción"
+     },
+     "at": "Yo lo llamo"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gCvUOdBqefBlrE4SrrZc/umnvEMfQ5ALcug9yVReJ/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=8x7YHQ-6GzfWOsuX572ohpd_Y2g=",
+   "gen": "umnvEMfQ5ALcug9yVReJ"
+  },
+  {
+   "k": "N",
+   "text": "Whittier también sabe lo que es una catástrofe. El veintisiete de marzo de mil novecientos sesenta y cuatro, el gran terremoto de Alaska, de magnitud nueve coma dos, provocó olas que arrasaron el puerto. En Whittier murieron trece personas.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "1964 Alaska earthquake Whittier damage",
+     "src": "commons",
+     "at": "el gran terremoto de Alaska",
+     "lt": [
+      "Terremoto de Alaska",
+      "27 de marzo de 1964"
+     ]
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 9.2,
+      "label": "magnitud · terremoto de Alaska de 1964"
+     },
+     "at": "magnitud nueve coma dos"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xBpe3IIAIJZa4YqD03qA/e7TtxAfgUspXRz50HU5A/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=8yv2i-_jHgXr6U4xdTBZWqMXwsU=",
+   "gen": "e7TtxAfgUspXRz50HU5A"
+  },
+  {
+   "k": "N",
+   "text": "Por eso hoy el túnel peatonal que sube del puerto a las torres está señalizado como ruta de evacuación en caso de tsunami. En un pueblo así, el edificio no es solo una casa. Es también el refugio.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Whittier tsunami evacuation route sign",
+     "src": "commons",
+     "at": "ruta de evacuación",
+     "lt": [
+      "Ruta de evacuación",
+      "Whittier"
+     ]
+    },
+    {
+     "photo": "Begich Towers Whittier mountains",
+     "src": "commons",
+     "at": "Es también el refugio"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/abK5gitbPYW76PpR8xlM/8nVmHVmdAJEjAumwIoH8/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=SEdGQIfiMe05S4Quv4_c50Fy0_g=",
+   "gen": "8nVmHVmdAJEjAumwIoH8"
+  },
+  {
+   "k": "N",
+   "text": "Pero otros lo ven al revés: un pueblo donde todo el mundo se conoce y donde el vecino está a un ascensor de distancia. En verano llegan los cruceros y la población se multiplica. En invierno, vuelve a ser una comunidad de unos pocos cientos de personas dentro de una torre. [short pause] Y ahora nos vamos al otro lado del Pacífico. A una isla que, literalmente, vive dentro de un volcán.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Whittier cruise ship harbor",
+     "src": "commons",
+     "at": "En verano llegan los cruceros"
+    },
+    {
+     "photo": "Begich Towers winter",
+     "src": "commons",
+     "at": "dentro de una torre"
+    },
+    {
+     "photo": "Aogashima aerial",
+     "src": "commons",
+     "at": "dentro de un volcán"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YH7my3FE1WKm466crCX0/AKoBQSpWZpYMGR9Y2EPN/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=ajeDBZiBjmR9kt6TZ6r9_hM5XDc=",
+   "gen": "AKoBQSpWZpYMGR9Y2EPN"
+  },
+  {
+   "k": "M",
+   "track": "frio",
+   "secs": 8
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tension",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Dentro del volcán",
+    "sub": "Aogashima, Japón"
+   }
+  },
+  {
+   "k": "B",
+   "track": "isla"
+  },
+  {
+   "k": "N",
+   "text": "Mar de Filipinas, a unos trescientos cincuenta kilómetros al sur de Tokio. Aogashima es la isla habitada más meridional y más aislada del archipiélago de Izu. Y, aunque parezca increíble, administrativamente pertenece a la ciudad de Tokio.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Aogashima",
+      "keys": [
+       [
+        -170,
+        -58,
+        190,
+        75
+       ],
+       [
+        129.76,
+        26.96,
+        149.76,
+        37.96
+       ],
+       [
+        133.76,
+        29.16,
+        145.76,
+        35.76
+       ]
+      ],
+      "points": [
+       {
+        "name": "Aogashima",
+        "lon": 139.76,
+        "lat": 32.46,
+        "at": 0.55,
+        "big": 1,
+        "pulse": true
+       }
+      ]
+     },
+     "at": "Mar de Filipinas"
+    },
+    {
+     "photo": "Aogashima island",
+     "src": "commons",
+     "at": "Aogashima es la isla",
+     "lt": [
+      "Aogashima",
+      "islas Izu, Tokio"
+     ]
+    },
+    {
+     "photo": "Aogashima cliffs sea",
+     "src": "commons",
+     "at": "administrativamente"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JEBe42Xd8kfm18v6zAlJ/9eafSrGvU6cEz6aCHcJf/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=4RSWLgHx3wl6edXRw7oGhY-GwMU=",
+   "gen": "9eafSrGvU6cEz6aCHcJf"
+  },
+  {
+   "k": "N",
+   "text": "Desde el aire se entiende todo. Es un volcán que sale del mar, con acantilados por todos lados. Dentro tiene una gran caldera, la de Ikenosawa. Y en el centro de esa caldera, otro volcán más pequeño: el Maruyama.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Aogashima double caldera aerial",
+     "src": "commons",
+     "at": "Desde el aire"
+    },
+    {
+     "photo": "Ikenosawa caldera Aogashima",
+     "src": "commons",
+     "at": "la de Ikenosawa",
+     "lt": [
+      "Caldera de Ikenosawa",
+      "Aogashima"
+     ]
+    },
+    {
+     "photo": "Maruyama Aogashima cone",
+     "src": "commons",
+     "at": "el Maruyama",
+     "lt": [
+      "Monte Maruyama",
+      "cono dentro de la caldera"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UQPOsqEavnrxsHoKyP8O/n77Qzcm9aRbHvC5Kjn3o/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=4SDriOuhIlMqCnMhQTG1HuhHZFw=",
+   "gen": "n77Qzcm9aRbHvC5Kjn3o"
+  },
+  {
+   "k": "N",
+   "text": "Ese cono interior nació de la última gran erupción, entre mil setecientos ochenta y mil setecientos ochenta y cinco. Fue una tragedia. En mil setecientos ochenta y cinco, de los trescientos veintisiete habitantes de la isla murieron entre ciento treinta y ciento cuarenta. Los demás huyeron.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Aogashima",
+      "events": [
+       [
+        "1780",
+        "empieza la erupción"
+       ],
+       [
+        "1783",
+        "evacuación por la lava"
+       ],
+       [
+        "1785",
+        "gran erupción: unos 130-140 muertos"
+       ],
+       [
+        "hoy",
+        "unos 160 vecinos"
+       ]
+      ]
+     },
+     "at": "Ese cono interior"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 327,
+      "label": "habitantes en 1785 · murieron entre 130 y 140"
+     },
+     "at": "de los trescientos veintisiete"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ayLiyUSzVUuIc8RujY1z/RDvJAuj1aKYFlN792WaW/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=Fvp9kD75LZUlNWQ3u4y4IS-10F8=",
+   "gen": "RDvJAuj1aKYFlN792WaW"
+  },
+  {
+   "k": "N",
+   "text": "Imagínalo: una isla minúscula, sin puerto natural, rodeada de acantilados. Y de repente, la tierra empieza a escupir fuego por el centro. Los supervivientes huyeron en barcas hacia Hachijojima. Muchos otros no llegaron a tiempo a la costa.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Aogashima cliffs coast",
+     "src": "commons",
+     "at": "rodeada de acantilados"
+    },
+    {
+     "photo": "Aogashima volcano crater",
+     "src": "commons",
+     "kw": "FUEGO",
+     "at": "escupir fuego",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yo7unrfmdXxLMeUMtjZ7/HmZjnf89hb5zRyjqIwPM/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=7WhVX_RI27kCR9dGLmDEZWxRhm8=",
+   "gen": "HmZjnf89hb5zRyjqIwPM"
+  },
+  {
+   "k": "N",
+   "text": "Pasaron décadas antes de que la isla volviera a estar habitada del todo. Hoy viven en Aogashima unas ciento sesenta personas: es el municipio con menos habitantes de todo Japón. Y la Agencia Meteorológica Japonesa sigue considerando el volcán activo.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Aogashima village houses",
+     "src": "commons",
+     "at": "Hoy viven en Aogashima",
+     "lt": [
+      "Aldea de Aogashima",
+      "el municipio menos poblado de Japón"
+     ]
+    },
+    {
+     "photo": "Aogashima Maruyama steam",
+     "src": "commons",
+     "kw": "VOLCÁN ACTIVO",
+     "at": "activo",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/iIvAt1rICDpprm5SEome/BDS0kzca7Ykqh8cCVa08/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=STKteeVc4wGNRRIAMM0_pXvok7M=",
+   "gen": "BDS0kzca7Ykqh8cCVa08"
+  },
+  {
+   "k": "N",
+   "text": "¿Y cómo se llega? Primero hay que ir a Hachijojima, otra isla, a unos setenta kilómetros. Desde allí hay un helicóptero de veinte minutos, con pocas plazas y reserva previa. O un barco de unas tres horas que, con el mar bravo, se cancela muy a menudo: algunas guías calculan que solo sale la mitad de los días.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Hachijojima island",
+     "src": "commons",
+     "at": "Hachijojima",
+     "lt": [
+      "Hachijojima",
+      "escala obligatoria"
+     ]
+    },
+    {
+     "photo": "Aogashima helicopter heliport",
+     "src": "commons",
+     "at": "un helicóptero"
+    },
+    {
+     "photo": "Aogashima Sanpo port ferry",
+     "src": "commons",
+     "at": "O un barco",
+     "lt": [
+      "Puerto de Sanpo",
+      "Aogashima"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4nbXHhxniJIsU2lVrs8n/RkoN1z49FOdcn9HCU5gJ/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=vo0B68vfEj1iaEK4lcdhUIMRibQ=",
+   "gen": "RkoN1z49FOdcn9HCU5gJ"
+  },
+  {
+   "k": "N",
+   "text": "Pero vivir dentro de un volcán también tiene ventajas. Por las grietas de la caldera sale vapor caliente. Los vecinos lo llaman hingya. Antes de que llegara la electricidad se usaba para calentar y cocinar. Hoy alimenta una sauna geotérmica, un horno donde cualquiera puede cocer huevos y boniatos, y una pequeña fábrica de sal.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Aogashima geothermal steam hingya",
+     "src": "commons",
+     "at": "Los vecinos lo llaman hingya"
+    },
+    {
+     "photo": "Aogashima sauna",
+     "src": "commons",
+     "at": "una sauna geotérmica",
+     "lt": [
+      "Sauna geotérmica",
+      "Aogashima"
+     ]
+    },
+    {
+     "photo": "Aogashima salt hingya",
+     "src": "commons",
+     "at": "una pequeña fábrica de sal"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3Bz82YlLgc9tRH86rD1M/3SwZCYonqtl7ZL2f4TXR/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=Z-_U5nXm8xKG5cNcgw3CgLONRpo=",
+   "gen": "3SwZCYonqtl7ZL2f4TXR"
+  },
+  {
+   "k": "N",
+   "text": "La vida diaria en una isla de ciento sesenta vecinos tiene su propio ritmo. Casi todo llega por mar: comida, combustible, materiales. Cuando el barco no puede atracar durante días, las estanterías de la tienda pueden quedarse vacías. Y los propios vecinos destilan su aguardiente, un shochu que se ha hecho famoso en todo Japón.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Aogashima shochu",
+     "src": "commons",
+     "at": "un shochu",
+     "lt": [
+      "Aochu",
+      "shochu de Aogashima"
+     ]
+    },
+    {
+     "photo": "Aogashima road village",
+     "src": "commons",
+     "at": "La vida diaria"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oVmfLis0J3BBCtzcCG9l/eoesxATr4CcoTEkmQiRM/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=EB1uqjSv42stkYA1X0XteChyVyc=",
+   "gen": "eoesxATr4CcoTEkmQiRM"
+  },
+  {
+   "k": "N",
+   "text": "Y quien llega se encuentra un paisaje que no parece de este mundo: dentro de la caldera, una selva de helechos gigantes; alrededor, paredes de roca que caen en vertical al océano; y en el centro, el pequeño volcán humeando, cubierto de vegetación. La única carretera atraviesa la pared del cráter por un túnel.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Aogashima tree ferns caldera",
+     "src": "commons",
+     "at": "una selva de helechos"
+    },
+    {
+     "photo": "Aogashima Maruyama forest",
+     "src": "commons",
+     "at": "el pequeño volcán"
+    },
+    {
+     "photo": "Aogashima tunnel road",
+     "src": "commons",
+     "at": "por un túnel"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oBImzpva3amQQVIlXC9j/YjcgN3197913H4PZTnfr/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=fjkuaXwNByahex2zG8CAJHCf5iQ=",
+   "gen": "YjcgN3197913H4PZTnfr"
+  },
+  {
+   "k": "N",
+   "text": "De noche, sin apenas luz artificial, el cielo de Aogashima es uno de los más limpios de Japón. [pause] Un volcán que mató a casi la mitad de sus vecinos se ha convertido en el corazón de la isla. Pero hay un lugar todavía más solitario. Una isla volcánica en mitad del Atlántico, donde no se puede llegar en avión.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Aogashima starry sky night",
+     "src": "commons",
+     "at": "De noche"
+    },
+    {
+     "photo": "Tristan da Cunha volcano Queen Mary Peak",
+     "src": "commons",
+     "at": "mitad del Atlántico"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VsHNKu3t1uas41GU2WbY/BpdFNewOlyH5Twp7xLHa/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=8R-JYloBdjYgc-TRTvfKrxpvLaQ=",
+   "gen": "BpdFNewOlyH5Twp7xLHa"
+  },
+  {
+   "k": "M",
+   "track": "isla",
+   "secs": 8
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tension",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El fin del mundo",
+    "sub": "Tristán de Acuña, Atlántico Sur"
+   }
+  },
+  {
+   "k": "B",
+   "track": "isla"
+  },
+  {
+   "k": "N",
+   "text": "Atlántico Sur, más o menos a mitad de camino entre Ciudad del Cabo y Buenos Aires. Tristán de Acuña es una montaña volcánica que sale del océano. Y en su costa norte está el asentamiento permanente más remoto del planeta: Edimburgo de los Siete Mares.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Tristán de Acuña",
+      "keys": [
+       [
+        -170,
+        -58,
+        190,
+        75
+       ],
+       [
+        -52.28,
+        -59.11,
+        27.72,
+        -15.11
+       ],
+       [
+        -18.28,
+        -40.41,
+        -6.279999999999999,
+        -33.81
+       ]
+      ],
+      "points": [
+       {
+        "name": "Tristán de Acuña",
+        "lon": -12.28,
+        "lat": -37.11,
+        "at": 0.55,
+        "big": 1,
+        "pulse": true
+       }
+      ]
+     },
+     "at": "Atlántico Sur"
+    },
+    {
+     "photo": "Tristan da Cunha island",
+     "src": "commons",
+     "at": "Tristán de Acuña es",
+     "lt": [
+      "Tristán de Acuña",
+      "territorio británico de ultramar"
+     ]
+    },
+    {
+     "photo": "Edinburgh of the Seven Seas",
+     "src": "commons",
+     "at": "Edimburgo de los Siete Mares",
+     "lt": [
+      "Edimburgo de los Siete Mares",
+      "el asentamiento más remoto"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/x6MKHi6iCqFyrS9l3wuZ/nyVLJXZP10rtxdcljLpc/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=V2pJ5Cd9I04-Oo-8rvya7L1aBNM=",
+   "gen": "nyVLJXZP10rtxdcljLpc"
+  },
+  {
+   "k": "N",
+   "text": "La isla lleva el nombre del navegante portugués Tristão da Cunha, que la avistó en mil quinientos seis, aunque el mar le impidió desembarcar. Durante siglos fue solo un punto en las cartas náuticas. Los primeros pobladores permanentes llegaron a principios del siglo diecinueve, cuando Gran Bretaña instaló allí una guarnición.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Tristão da Cunha navigator portrait",
+     "src": "commons",
+     "at": "Tristão da Cunha",
+     "lt": [
+      "Tristão da Cunha",
+      "navegante portugués · 1506"
+     ]
+    },
+    {
+     "photo": "Tristan da Cunha old map",
+     "src": "commons",
+     "at": "en las cartas náuticas"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PYQbFwJLmLG22WU7chLB/N2aOZGTTJZp14trXqufp/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=QBlG6TY2cuTJrQSVuWArIpB-HTY=",
+   "gen": "N2aOZGTTJZp14trXqufp"
+  },
+  {
+   "k": "N",
+   "text": "El vecino más cercano está en la isla de Santa Elena, a unos dos mil cuatrocientos kilómetros. Ciudad del Cabo, a casi dos mil ochocientos. No hay aeropuerto. No hay puerto profundo. Solo se llega por mar.",
+   "voice": "CON",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Tristán de Acuña",
+      "items": [
+       "Santa Elena: unos 2.400 km",
+       "Ciudad del Cabo: unos 2.800 km",
+       "Sin aeropuerto",
+       "Solo se llega en barco"
+      ]
+     },
+     "at": "El vecino más cercano"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Eezz2YsGKeHMO3fHQqXP/DapTF5JK3548H3PHX8Ow/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=LwXu2qrYN-cy0YPNvuBGImFBMxU=",
+   "gen": "DapTF5JK3548H3PHX8Ow"
+  },
+  {
+   "k": "N",
+   "text": "El periodista Andy Isaacson llegó a bordo de un buque polar sudafricano, el Agulhas Dos. Lo contó en National Geographic: es uno de los apenas nueve viajes programados al año desde Ciudad del Cabo. Siete días de mar a la ida. Y otros siete a la vuelta.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "SA Agulhas II ship",
+     "src": "commons",
+     "at": "el Agulhas Dos",
+     "lt": [
+      "S. A. Agulhas II",
+      "buque polar sudafricano"
+     ]
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 7,
+      "label": "días de navegación desde Ciudad del Cabo"
+     },
+     "at": "Siete días de mar"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rLbRggSwiejE1ivorYyH/KpjU0EoHbCcL5Y4rouAu/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=xNrDLCL1MW6Nn2WCmyx6MH89tD8=",
+   "gen": "KpjU0EoHbCcL5Y4rouAu"
+  },
+  {
+   "k": "N",
+   "text": "En la isla viven unas doscientas cincuenta personas. Y comparten apenas siete apellidos, heredados de los primeros colonos y de los náufragos que se quedaron en el siglo diecinueve. Las tierras son comunales. Se pesca langosta, se cuidan ovejas y vacas, y se cultivan patatas en unas parcelas a unos cuatro kilómetros del pueblo: los Potato Patches.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Tristan da Cunha islanders",
+     "src": "commons",
+     "at": "En la isla viven"
+    },
+    {
+     "photo": "Tristan da Cunha settlement houses",
+     "src": "commons",
+     "kw": "7 APELLIDOS",
+     "at": "siete apellidos",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    },
+    {
+     "photo": "Tristan da Cunha Potato Patches",
+     "src": "commons",
+     "at": "los Potato Patches",
+     "lt": [
+      "Potato Patches",
+      "los huertos de patatas · Tristán"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/iNFJJQqzAzpUa6WxQw9R/gOWyk33omhMFCdmdJG3K/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=GyhF4u5ROeC9TlnvIfZ__g_ADVM=",
+   "gen": "gOWyk33omhMFCdmdJG3K"
+  },
+  {
+   "k": "N",
+   "text": "Para visitar la isla no basta con comprar un billete. Hay que pedir permiso al consejo de la isla y esperar a que haya plaza en uno de esos barcos. [short pause] Y si alguien enferma de gravedad, el hospital más cercano con todos los medios está a una semana de navegación.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Tristan da Cunha harbour Calshot",
+     "src": "commons",
+     "at": "Para visitar la isla"
+    },
+    {
+     "photo": "Tristan da Cunha hospital",
+     "src": "commons",
+     "at": "si alguien enferma"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/eyk2gec6d7mFHweBSFAI/8vYxbz0yRJfFZjxpCUds/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=NDZZluUpCargVjJXLNJZglwqg6Q=",
+   "gen": "8vYxbz0yRJfFZjxpCUds"
+  },
+  {
+   "k": "N",
+   "text": "Hace más de un siglo, la vida aquí era todavía más dura. Entre mil novecientos seis y mil novecientos nueve vivió en la isla un matrimonio inglés, el reverendo John Barrow y su mujer, Katherine. Ella llevó un diario, que se publicó en mil novecientos diez. Así describía el lugar:",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Tristan da Cunha settlement 1900s",
+     "src": "commons",
+     "at": "Hace más de un siglo"
+    },
+    {
+     "photo": "Three Years in Tristan da Cunha Barrow book",
+     "src": "commons",
+     "at": "Ella llevó un diario"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UgXeHjzZu8dInGQow4xf/ipYWON24DSdtqNYXnUTF/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=t4dPgdB9WNwSm3m3oktJBvTYeAU=",
+   "gen": "ipYWON24DSdtqNYXnUTF"
+  },
+  {
+   "k": "R",
+   "text": "No hay comunicación regular con la isla, y no tiene puerto. [pause] A veces pasan meses sin que se vean el té, el café, el azúcar, la harina, la sal o el jabón. [short pause] En cuanto a la comida, las patatas ocupan el lugar del pan.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Three Years in Tristan da Cunha",
+      "lines": [
+       "«A veces pasan meses sin que se vean el té, el café, el azúcar, la harina, la sal o el jabón.»"
+      ],
+      "source": "Katherine M. Barrow, 1910 · dominio público · traducción"
+     },
+     "at": "No hay comunicación"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tcpZJDgAzbQsFEFGbrzN/5vJdGjBLfiUXIRXB9A08/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=mHihH3RP-rrdl1-KXKTl3XzABj0=",
+   "gen": "5vJdGjBLfiUXIRXB9A08"
+  },
+  {
+   "k": "N",
+   "text": "Hoy hay electricidad, internet por satélite, una escuela, un pequeño hospital, un supermercado y hasta un bar, el Albatross. Pero los barcos siguen mandando. Si el mar está bravo, ni siquiera se puede desembarcar: el puerto es diminuto y hay días en que las lanchas no pueden salir.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Albatross Bar Tristan da Cunha",
+     "src": "commons",
+     "at": "hasta un bar",
+     "lt": [
+      "Albatross Bar",
+      "Edimburgo de los Siete Mares"
+     ]
+    },
+    {
+     "photo": "Tristan da Cunha harbour boats waves",
+     "src": "commons",
+     "at": "Si el mar está bravo"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9Kgj0i5Q8ADACC30vhdB/DowPPnoHmlqG8QgROw9e/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=wyYmrOC5dBsbLz8k5tNAKlGlwmo=",
+   "gen": "DowPPnoHmlqG8QgROw9e"
+  },
+  {
+   "k": "N",
+   "text": "La isla tiene incluso código postal británico, para que los pedidos por internet encuentren el camino. Aunque tarden meses en llegar. Vive de la pesca de langosta y de sus sellos de correos, muy buscados por los coleccionistas. Y alrededor, en las islas vecinas deshabitadas, anidan millones de aves marinas, como los pingüinos de penacho amarillo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Tristan da Cunha stamps",
+     "src": "commons",
+     "at": "sus sellos de correos"
+    },
+    {
+     "photo": "rockhopper penguin Tristan da Cunha",
+     "src": "commons",
+     "at": "los pingüinos de penacho amarillo",
+     "lt": [
+      "Pingüino de penacho amarillo",
+      "Tristán de Acuña"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YhhARYLS4gj6vIxQhU1n/l8POl7Z9zeoBtn4yVD7V/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=ZZtCEvQWN-ADvrq_Zr5wfjKV4nw=",
+   "gen": "l8POl7Z9zeoBtn4yVD7V"
+  },
+  {
+   "k": "N",
+   "text": "Pero el gran capítulo de Tristán llegó en mil novecientos sesenta y uno. En agosto empezaron los temblores. En octubre, la tierra se abrió a unos cientos de metros de las casas. El volcán estaba entrando en erupción junto al pueblo.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Tristan da Cunha 1961 eruption",
+     "src": "commons",
+     "at": "en mil novecientos sesenta y uno"
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "1961-1963",
+      "events": [
+       [
+        "agosto 1961",
+        "temblores"
+       ],
+       [
+        "10 de octubre",
+        "erupción y evacuación"
+       ],
+       [
+        "1962",
+        "los isleños en Inglaterra"
+       ],
+       [
+        "1963",
+        "la mayoría vuelve"
+       ]
+      ]
+     },
+     "at": "En agosto"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dHdpcffxp66pn3pnTcfi/DTpyWQt5hzwpm822RZzT/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=gs1UPCLEFwTW6AMZeS_iVrPsoRo=",
+   "gen": "DTpyWQt5hzwpm822RZzT"
+  },
+  {
+   "k": "N",
+   "text": "El diez de octubre de mil novecientos sesenta y uno, los doscientos sesenta y cuatro vecinos de la isla fueron evacuados. Primero a la isla de Nightingale. Luego, en barco, a Ciudad del Cabo. Y desde allí a Inglaterra.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Tristan da Cunha evacuees 1961",
+     "src": "commons",
+     "at": "fueron evacuados"
+    },
+    {
+     "photo": "Nightingale Island Tristan",
+     "src": "commons",
+     "at": "la isla de Nightingale"
+    },
+    {
+     "photo": "Tristan da Cunha islanders Southampton 1961",
+     "src": "commons",
+     "at": "a Inglaterra",
+     "lt": [
+      "Llegada a Southampton",
+      "1961"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7DcyE6Eh3OySH3Y0RFKU/x5KP1Kk596WmjFpvvGTx/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=LeRaMzbmm_tyfO3NA-SjGHoLBe0=",
+   "gen": "x5KP1Kk596WmjFpvvGTx"
+  },
+  {
+   "k": "N",
+   "text": "Les dieron casas en un antiguo cuartel de la aviación, cerca de Southampton. Calles asfaltadas, coches, televisión, trabajo. Todo lo que en la isla no tenían. [pause] ¿Y qué hicieron? Cuando los científicos dijeron que el volcán se había calmado, la gran mayoría votó volver. Y en mil novecientos sesenta y tres, volvieron. A su roca. En mitad del océano.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Calshot Tristan da Cunha islanders",
+     "src": "commons",
+     "at": "Les dieron casas",
+     "lt": [
+      "Calshot",
+      "Hampshire, Inglaterra"
+     ]
+    },
+    {
+     "photo": "Tristan da Cunha return 1963",
+     "src": "commons",
+     "at": "la gran mayoría votó volver"
+    },
+    {
+     "photo": "Tristan da Cunha island sea",
+     "src": "commons",
+     "kw": "VOLVER",
+     "at": "A su roca",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/CJBxDwXWBaKrnaNCP5Ct/empsB1mcZkGERptCaftW/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=MdvjuKxYhLHLJqLIS_uxah9Kbw0=",
+   "gen": "empsB1mcZkGERptCaftW"
+  },
+  {
+   "k": "N",
+   "text": "Es quizá la mejor respuesta a la pregunta de este documental. Esta gente había conocido la vida cómoda. Y eligió el aislamiento. [short pause] Pero no todos los que viven al límite lo eligen por amor a su tierra. A veces, lo que te ata a un lugar imposible es otra cosa. Brilla. Y pesa muy poco.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Edinburgh of the Seven Seas church St Mary",
+     "src": "commons",
+     "at": "Es quizá la mejor respuesta"
+    },
+    {
+     "photo": "gold nugget",
+     "src": "commons",
+     "kw": "ORO",
+     "at": "Brilla",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/AJgMzmVNRXpWJHo4zO7v/YPNKsN0op8SbJIDQbiHa/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=fDDG_Mwvbf9KMS4Sp7IqSGla4uk=",
+   "gen": "YPNKsN0op8SbJIDQbiHa"
+  },
+  {
+   "k": "M",
+   "track": "isla",
+   "secs": 8
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Recapitulemos. Hemos visto a gente que vive bajo tierra, sobre hielo, a sesenta grados bajo cero, bajo cuatro meses de noche, en un único edificio, dentro de un volcán y a una semana de barco del vecino más cercano. Falta el último límite. El que no se ve. El aire.",
+   "voice": "CON",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "title": "Hasta aquí",
+      "items": [
+       [
+        "Longyearbyen",
+        "casi cuatro meses sin sol"
+       ],
+       [
+        "Whittier",
+        "un pueblo en un edificio"
+       ],
+       [
+        "Aogashima",
+        "un volcán dentro de otro"
+       ],
+       [
+        "Tristán de Acuña",
+        "a una semana del vecino más cercano"
+       ]
+      ]
+     },
+     "at": "Recapitulemos"
+    },
+    {
+     "photo": "Andes high altitude thin air",
+     "src": "commons",
+     "kw": "EL AIRE",
+     "at": "El aire",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/s7k5qxUDBTtnGgbS8liM/l2liEGe93BWSkl8LdoDW/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=Ht6HjtX4wK-rQMkjD8VwLDVZmQ0=",
+   "gen": "l2liEGe93BWSkl8LdoDW"
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tension",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El techo del mundo",
+    "sub": "La Rinconada, Perú"
+   }
+  },
+  {
+   "k": "B",
+   "track": "andes"
+  },
+  {
+   "k": "N",
+   "text": "Volvemos al principio. Cordillera de los Andes, región de Puno, al sureste del Perú. En la ladera del monte Ananea, bajo un glaciar que los vecinos llaman La Bella Durmiente, está La Rinconada. Entre cinco mil y cinco mil trescientos metros de altitud. El asentamiento permanente más alto de la Tierra.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "La Rinconada",
+      "keys": [
+       [
+        -170,
+        -58,
+        190,
+        75
+       ],
+       [
+        -94.45,
+        -28.380000000000003,
+        -44.45,
+        -0.879999999999999
+       ],
+       [
+        -75.45,
+        -17.93,
+        -63.45,
+        -11.330000000000002
+       ]
+      ],
+      "points": [
+       {
+        "name": "La Rinconada",
+        "lon": -69.45,
+        "lat": -14.63,
+        "at": 0.55,
+        "big": 1,
+        "pulse": true
+       }
+      ]
+     },
+     "at": "Volvemos al principio"
+    },
+    {
+     "photo": "La Rinconada Bella Durmiente glacier",
+     "src": "commons",
+     "at": "La Bella Durmiente",
+     "lt": [
+      "Glaciar La Bella Durmiente",
+      "monte Ananea, Perú"
+     ]
+    },
+    {
+     "photo": "La Rinconada Peru aerial",
+     "src": "commons",
+     "at": "El asentamiento permanente más alto"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hfCBMEtScWk1W8gzBC9a/KlFQ0hUi4cACp1A6IcpJ/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=FcxfH0jRNZclM9Y5QsrJcR5oA8g=",
+   "gen": "KlFQ0hUi4cACp1A6IcpJ"
+  },
+  {
+   "k": "N",
+   "text": "¿Cuánta gente vive aquí? Nadie lo sabe con exactitud. La agencia oficial peruana Andina habla de unas doce mil seiscientas personas. Otras estimaciones superan las treinta mil. La población sube y baja con algo que se decide muy lejos: el precio del oro.",
+   "voice": "CON",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Andina (agencia oficial)",
+       "lines": [
+        "unos 12.600 habitantes"
+       ]
+      },
+      "right": {
+       "title": "Otras estimaciones",
+       "lines": [
+        "más de 30.000",
+        "según el precio del oro"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Cuánta gente vive aquí"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cXliUAMZGcj0U1qKoGdU/8b9PHHICDbr2I1mO94Yt/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=sp3NsXW85haTVZ1e0B5JilgA2s8=",
+   "gen": "8b9PHHICDbr2I1mO94Yt"
+  },
+  {
+   "k": "N",
+   "text": "Entre dos mil y dos mil nueve, la población creció más de un doscientos treinta por ciento. Es lo que ocurrió cuando el precio del oro se disparó. Llegaban familias enteras de todo el sur del Perú, con lo puesto, a levantar casas de chapa en la nieve.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 230,
+      "prefix": "+",
+      "label": "por ciento de población · 2000-2009 · NASA"
+     },
+     "at": "más de un doscientos treinta"
+    },
+    {
+     "photo": "La Rinconada houses tin roofs",
+     "src": "commons",
+     "at": "casas de chapa"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1iR3nvJ5Tt5tg1JAlMsI/pHUvhZISCEhxYXH11OT5/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=_lSFNz3_71QsfradvloAqtv5N6Y=",
+   "gen": "pHUvhZISCEhxYXH11OT5"
+  },
+  {
+   "k": "N",
+   "text": "El pueblo nació como un campamento minero temporal hace unas cuatro décadas. Por eso nadie instaló los servicios de una ciudad. No hay red de alcantarillado. Mercurio, cianuro y aguas residuales corren por zanjas abiertas en mitad de la calle.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "La Rinconada street",
+     "src": "commons",
+     "at": "El pueblo nació"
+    },
+    {
+     "photo": "La Rinconada pollution waste",
+     "src": "commons",
+     "at": "Mercurio, cianuro"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Zs6LKMFrSKrBm497Daid/e6h1OOJ3o1Pj5NaAsb1r/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=7DyrjWhGvIYyZtUDD5Ev1YPc1vM=",
+   "gen": "e6h1OOJ3o1Pj5NaAsb1r"
+  },
+  {
+   "k": "N",
+   "text": "La mayoría de las casas son de chapa y bloques, sin calefacción. Por la noche, las familias duermen con varias mantas y la ropa puesta. Y la luz eléctrica, el agua y el gas son un lujo que no todos tienen. Todo cuesta más, porque todo hay que subirlo por una carretera de montaña.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "La Rinconada houses",
+     "src": "commons",
+     "at": "La mayoría de las casas"
+    },
+    {
+     "photo": "La Rinconada road mountain",
+     "src": "commons",
+     "at": "por una carretera de montaña"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Zs2ovyudhCXrVimjCpCp/r9KgAQrkgIiWLR1c1IMs/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=K7NOPo45nsY7dkhajWQ9i3PzJio=",
+   "gen": "r9KgAQrkgIiWLR1c1IMs"
+  },
+  {
+   "k": "N",
+   "text": "Y luego está el trabajo. Muchos mineros trabajan en las minas de la Corporación Ananea con un sistema antiguo llamado cachorreo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "La Rinconada mine entrance",
+     "src": "commons",
+     "at": "Y luego está el trabajo"
+    },
+    {
+     "photo": "La Rinconada miners",
+     "src": "commons",
+     "kw": "CACHORREO",
+     "at": "cachorreo",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wTgtEFni4fgNsxltZZhV/mBHWRT1rV2tvO6BkQ4Qi/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=kRUEgYgB5oxxbGqoaBKrC_jX_r4=",
+   "gen": "mBHWRT1rV2tvO6BkQ4Qi"
+  },
+  {
+   "k": "R",
+   "text": "Cachorreo: treinta días de trabajo sin sueldo. Después, uno o dos días, según a quién se pregunte, en los que el minero se queda con todo el mineral que pueda sacar para sí mismo.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Cachorreo",
+      "lines": [
+       "30 días sin sueldo · 1 o 2 días para uno mismo"
+      ],
+      "source": "Roads & Kingdoms, 2016"
+     },
+     "at": "Cachorreo"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ql5EeiO4x3AT48b0dYQL/0OFFChSVMMt968qCXBh4/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=fMM4O0eLoBGyLm2wgEklVpx1J0c=",
+   "gen": "0OFFChSVMMt968qCXBh4"
+  },
+  {
+   "k": "N",
+   "text": "Es una lotería. Ese día puede salir una piedra con una fortuna dentro. O nada. Y fuera de la mina, cientos de mujeres, las pallaqueras, rebuscan oro entre las rocas que la mina ha desechado, con las manos, bajo el viento y la nieve.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "La Rinconada gold ore",
+     "src": "commons",
+     "at": "Es una lotería"
+    },
+    {
+     "photo": "pallaqueras La Rinconada women",
+     "src": "commons",
+     "at": "las pallaqueras",
+     "lt": [
+      "Pallaqueras",
+      "buscadoras de oro entre los desechos"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bHz2OLaCTvzwJoTWxskP/6oBqjJYr45x7VpuszMDH/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=sHvq2lp0-9_NYPqOxmxrunHZtG4=",
+   "gen": "6oBqjJYr45x7VpuszMDH"
+  },
+  {
+   "k": "N",
+   "text": "[short pause] Un hombre llamado Castañeda se lo describió así a la revista de viajes Roads and Kingdoms:",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "La Rinconada night",
+     "src": "commons",
+     "at": "Un hombre llamado"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cwHwZWAi10uaTUClMEo9/VVYHSuibZ0MMQ6XpOEDO/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=X3eVexT8-kRGT0mWOOzi2iw5IXI=",
+   "gen": "VVYHSuibZ0MMQ6XpOEDO"
+  },
+  {
+   "k": "R",
+   "text": "La Rinconada es un lugar solitario para trabajar. La gente echa muchas horas para ganarse la vida y mantener a su familia. Y otros trabajan para gastarse el dinero en alcohol, drogas y prostitución.",
+   "voice": "T4",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "La Rinconada es un lugar solitario para trabajar.",
+      "attrib": "Castañeda · Roads & Kingdoms, 2016 · traducción"
+     },
+     "at": "La Rinconada es un lugar"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jdbBXRNhY9figwlZk6Mz/cP87oMkR3v5GeZlJHXhM/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=xoA_Gekv4gP39-lhQ7XW-FqsW18=",
+   "gen": "cP87oMkR3v5GeZlJHXhM"
+  },
+  {
+   "k": "N",
+   "text": "La temperatura media del año ronda un grado sobre cero. Los días son fríos y las noches hielan. En la época de lluvias, la nieve y el barro lo cubren todo. No crece un solo árbol. Y la basura se acumula en las laderas, porque durante años no hubo un sistema para retirarla.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "La Rinconada snow houses",
+     "src": "commons",
+     "at": "La temperatura media"
+    },
+    {
+     "photo": "La Rinconada garbage slope",
+     "src": "commons",
+     "at": "la basura se acumula"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aZqeHrUD2tzswhvmGiMw/3o2zL3ZjDp7XZhWXxgcZ/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=IWgjFeFjNGk94fKSYaAcsRqWjE4=",
+   "gen": "3o2zL3ZjDp7XZhWXxgcZ"
+  },
+  {
+   "k": "N",
+   "text": "Encima del pueblo, el glaciar La Bella Durmiente se encoge año tras año. El agua de su deshielo baja contaminada por los restos de la minería. Y río abajo, hacia el lago Titicaca, los científicos y las autoridades peruanas vigilan la presencia de mercurio.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "La Rinconada glacier lake",
+     "src": "commons",
+     "at": "se encoge año tras año"
+    },
+    {
+     "photo": "Lake Titicaca",
+     "src": "commons",
+     "at": "hacia el lago Titicaca",
+     "lt": [
+      "Lago Titicaca",
+      "Perú y Bolivia"
+     ]
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PAwNchjAMU3Sf0qSlS3x/Aw9fI18ZFhbje5kMLyuH/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=utsHW4bxEZB8SJKOStAVAskCpMs=",
+   "gen": "Aw9fI18ZFhbje5kMLyuH"
+  },
+  {
+   "k": "N",
+   "text": "Se la ha llegado a llamar la ciudad sin ley del Perú. Ha sido escenario de conflictos mineros, de asesinatos, de contrabando de oro y de trata de mujeres. El oro informal sale de aquí y, a través de intermediarios, acaba en el mercado mundial.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "La Rinconada town night",
+     "src": "commons",
+     "kw": "SIN LEY",
+     "at": "la ciudad sin ley",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    },
+    {
+     "photo": "La Rinconada gold miners mountain",
+     "src": "commons",
+     "at": "El oro informal"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZGJqeglW35an9OmtD1Lk/jwS0H9EVgd9ZdI9SzWWr/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=n2X052ULitfBUWrE5w6e9pIZ-0Q=",
+   "gen": "jwS0H9EVgd9ZdI9SzWWr"
+  },
+  {
+   "k": "N",
+   "text": "Y todo esto, a una altura donde el cuerpo humano no debería poder vivir. A cinco mil cien metros, la presión del aire es más o menos la mitad que al nivel del mar. Cada respiración aporta mucho menos oxígeno. Para compensar, el cuerpo fabrica más glóbulos rojos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "video": "high altitude Andes mountains snow",
+     "free": true,
+     "at": "Y todo esto"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 50,
+      "label": "por ciento de presión del aire · a 5.100 m"
+     },
+     "at": "la mitad"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cyNngs7EtZvhcNtCRIEO/Dx4s9Xd1NUF3EL1ECG6p/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=qAqOOqCpkE8xMYyp8aUx26y79nc=",
+   "gen": "Dx4s9Xd1NUF3EL1ECG6p"
+  },
+  {
+   "k": "N",
+   "text": "En dos mil diecinueve, un equipo de científicos franceses montó un laboratorio en La Rinconada. Lo dirigía el fisiólogo Samuel Vergès, de la Universidad de Grenoble. Llegaron con una idea muy clara de lo que tenían delante.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "La Rinconada Peru miners town",
+     "src": "commons",
+     "at": "En dos mil diecinueve"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WU5ku7Dvp6MHfTmm7RM3/FRcdVSIGZa4muolyVQSG/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=VxC7KSzI95AFFsDr6aqOEQRE-WY=",
+   "gen": "FRcdVSIGZa4muolyVQSG"
+  },
+  {
+   "k": "R",
+   "text": "Normalmente se considera que la vida humana permanente no es posible por encima de los cinco mil metros. La población de La Rinconada es un auténtico desafío para el conocimiento.",
+   "voice": "T1",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Se considera que la vida humana permanente no es posible por encima de los 5.000 metros.",
+      "attrib": "Samuel Vergès, fisiólogo · Inserm-Universidad de Grenoble · traducción"
+     },
+     "at": "Normalmente se considera"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GmmrFvUzowqjPZAztSKp/mEoN4m5ODRE8Xc6ZvckD/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=sd5tljIYMxlLQd_BiCrErbV5IE4=",
+   "gen": "mEoN4m5ODRE8Xc6ZvckD"
+  },
+  {
+   "k": "N",
+   "text": "Lo que encontraron fue asombroso. Algunos mineros tenían en la sangre más de dos kilos de hemoglobina: según el equipo, los valores más altos jamás registrados. Un habitante de Lima tiene, de media, unos setecientos cuarenta y siete gramos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "versus",
+      "title": "Hemoglobina total en sangre",
+      "left": {
+       "name": "Lima",
+       "lines": [
+        "al nivel del mar",
+        "unos 747 gramos"
+       ]
+      },
+      "right": {
+       "name": "La Rinconada",
+       "lines": [
+        "a 5.100 metros",
+        "algunos, más de 2 kilos"
+       ]
+      }
+     },
+     "at": "más de dos kilos"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pdqWYSifF6xMFloUk3aE/oWxoXf2NUxZWy1UKggNA/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=T3qcBaJfZmFV9dntecTe2flsqE8=",
+   "gen": "oWxoXf2NUxZWy1UKggNA"
+  },
+  {
+   "k": "R",
+   "text": "Estudio sobre mil quinientos noventa y cuatro habitantes de La Rinconada: la edad, el hematocrito y los años vividos en el pueblo se asocian con los síntomas del mal de montaña crónico.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Frontiers in Physiology, 2020",
+      "lines": [
+       "1.594 habitantes estudiados · mal de montaña crónico"
+      ],
+      "source": "Hancco, Verges y otros · Frontiers in Physiology, 2020"
+     },
+     "at": "Estudio sobre"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nO2P8aByWlNEtWajgHHo/zO4WdFDgQp70x6n1xXAj/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=MRD6PVHW6H1HaYas_7YYXUiT-9o=",
+   "gen": "zO4WdFDgQp70x6n1xXAj"
+  },
+  {
+   "k": "R",
+   "text": "Este problema de salud, junto con la falta de servicios básicos adecuados, la insalubridad y la contaminación minera, afecta gravemente a la calidad de vida y a la esperanza de vida de los habitantes de La Rinconada.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Agencia Andina",
+      "lines": [
+       "«Afecta gravemente a la calidad de vida y a la esperanza de vida.»"
+      ],
+      "source": "Andina, agencia peruana de noticias · traducción"
+     },
+     "at": "Este problema de salud"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fghh4fpO2YO5kHQxCePl/rZEqCgVbe3c3I9exAMSs/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=FaeFvc32uxFsnTvvMzKKn8B3vdM=",
+   "gen": "rZEqCgVbe3c3I9exAMSs"
+  },
+  {
+   "k": "N",
+   "text": "La sangre se vuelve espesa. Llegan los dolores de cabeza, el cansancio, los mareos, el insomnio, las palpitaciones. Es el mal de montaña crónico. Y cuantos más años vive alguien aquí, más probable es que lo sufra. [short pause] Los médicos lo tienen claro: el remedio más eficaz es bajar a menos altura.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "La Rinconada Peru people",
+     "src": "commons",
+     "at": "La sangre se vuelve espesa"
+    },
+    {
+     "photo": "Andes snow mountain",
+     "src": "commons",
+     "kw": "MAL DE MONTAÑA",
+     "at": "mal de montaña crónico",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WKVQWmqCa8HENJOAaXVM/qW4NiErxEiIwGWPvEmtg/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=48xgf3D5wRnul2X9oiRqdIYMfis=",
+   "gen": "qW4NiErxEiIwGWPvEmtg"
+  },
+  {
+   "k": "N",
+   "text": "¿Y por qué no se van? Porque, para muchas familias de los Andes, La Rinconada es la única oportunidad real de ganar mucho más de lo que ganarían en su pueblo. Con un buen golpe de suerte, la vida de toda una familia puede cambiar. Y basta una historia así para que muchos otros lo intenten.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "La Rinconada Peru families",
+     "src": "commons",
+     "at": "Y por qué no se van"
+    },
+    {
+     "photo": "gold nugget",
+     "src": "commons",
+     "kw": "UN GOLPE DE SUERTE",
+     "at": "un buen golpe de suerte",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IWqqiphr6z9DrRo8Kylb/9hDzAhT414SLl3cPuvDR/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=nmxHYLXUGgQlP2x4y6oJyoWzpGA=",
+   "gen": "9hDzAhT414SLl3cPuvDR"
+  },
+  {
+   "k": "N",
+   "text": "Muchos no piensan quedarse para siempre. Vienen por una temporada, por unos años, para pagar una casa abajo, en el valle, o los estudios de sus hijos. El problema es que el oro no siempre aparece. Y los años pasan. Y la montaña se queda con la salud de quien la trabaja.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "La Rinconada mountain miners",
+     "src": "commons",
+     "at": "Muchos no piensan"
+    },
+    {
+     "photo": "La Rinconada mine snow",
+     "src": "commons",
+     "at": "la montaña se queda"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xvPhVfkj35oo3XjqCEz8/bxC2jh4PRUuFvXbvTPuF/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=wkxzfaX0AO20ohRcOeqSk0eBblU=",
+   "gen": "bxC2jh4PRUuFvXbvTPuF"
+  },
+  {
+   "k": "N",
+   "text": "Y sin embargo, por la mañana, a las cinco, vuelven a subir a la mina. Con la esperanza intacta de que el día treinta y uno sea el bueno.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "La Rinconada mine workers morning",
+     "src": "commons",
+     "at": "por la mañana"
+    },
+    {
+     "video": "mountain dawn snow peaks",
+     "free": true,
+     "at": "el día treinta y uno"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/plY1CzwoFWEFGLc4WmMx/TNluwk4Ugwu8FjECXgLd/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=szrrvgi7-U5ofufcbtaECtA9BdQ=",
+   "gen": "TNluwk4Ugwu8FjECXgLd"
+  },
+  {
+   "k": "M",
+   "track": "andes",
+   "secs": 9
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "¿Por qué se quedan?",
+    "sub": "Epílogo"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Nueve lugares. Ocho límites. Y una pregunta: ¿por qué se quedan? [pause] Después de este viaje, la respuesta tiene tres caras.",
+   "voice": "CON",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "Vivir al límite",
+      "keys": [
+       [
+        -170,
+        -58,
+        190,
+        75
+       ]
+      ],
+      "points": [
+       {
+        "name": "La Rinconada",
+        "lon": -69.4,
+        "lat": -14.6,
+        "at": 0.1
+       },
+       {
+        "name": "Coober Pedy",
+        "lon": 134.8,
+        "lat": -29.0,
+        "at": 0.15
+       },
+       {
+        "name": "Oimiakón",
+        "lon": 142.8,
+        "lat": 63.5,
+        "at": 0.2
+       },
+       {
+        "name": "Yakutsk",
+        "lon": 129.7,
+        "lat": 62.0,
+        "at": 0.25
+       },
+       {
+        "name": "Norilsk",
+        "lon": 88.2,
+        "lat": 69.3,
+        "at": 0.3
+       },
+       {
+        "name": "Longyearbyen",
+        "lon": 15.6,
+        "lat": 78.2,
+        "at": 0.35
+       },
+       {
+        "name": "Whittier",
+        "lon": -148.7,
+        "lat": 60.8,
+        "at": 0.4
+       },
+       {
+        "name": "Aogashima",
+        "lon": 139.8,
+        "lat": 32.5,
+        "at": 0.45
+       },
+       {
+        "name": "Tristán de Acuña",
+        "lon": -12.3,
+        "lat": -37.1,
+        "at": 0.5
+       }
+      ]
+     },
+     "at": "Nueve lugares"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/AwCSycjNASlC00vn6c4W/dcScrO3HUgvXpzuAdgCz/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=tQcksF0ozj_2RMaa9AMdwH33kEY=",
+   "gen": "dcScrO3HUgvXpzuAdgCz"
+  },
+  {
+   "k": "N",
+   "text": "La primera es la riqueza. El ópalo de Coober Pedy, los diamantes de Yakutia, el níquel de Norilsk, el oro de La Rinconada. Donde la tierra esconde algo valioso, siempre aparece alguien dispuesto a pagar el precio de vivir encima.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Coober Pedy opal",
+     "src": "commons",
+     "at": "El ópalo de Coober Pedy"
+    },
+    {
+     "photo": "Norilsk Nickel plant",
+     "src": "commons",
+     "at": "el níquel de Norilsk"
+    },
+    {
+     "photo": "La Rinconada gold mine",
+     "src": "commons",
+     "at": "el oro de La Rinconada"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DqQNRFeyNT8tUUUmGwRW/dMrMEJ2OqcCwNssZlu91/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=vVKyXvmuRoTo4E99ZHbtHC1y_zY=",
+   "gen": "dMrMEJ2OqcCwNssZlu91"
+  },
+  {
+   "k": "N",
+   "text": "La segunda es la costumbre. Para quien ha nacido en Oimiakón, cuarenta bajo cero no es una hazaña. Es martes. Y para un niño de Whittier, ir al colegio por un túnel es lo más normal del mundo.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Oymyakon children winter",
+     "src": "commons",
+     "at": "Para quien ha nacido en Oimiakón"
+    },
+    {
+     "photo": "Oymyakon street winter",
+     "src": "commons",
+     "kw": "ES MARTES",
+     "at": "Es martes",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    },
+    {
+     "photo": "Begich Towers Whittier",
+     "src": "commons",
+     "at": "un niño de Whittier"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/F6I5lPs6OHz0wLtoIwZ7/DJ0Wev4rfkTTo2TU2gt6/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=x_elBUp_IHRAMSeG3MHjO-qm5g8=",
+   "gen": "DJ0Wev4rfkTTo2TU2gt6"
+  },
+  {
+   "k": "N",
+   "text": "Y la tercera es la más difícil de explicar. Es lo que hizo que la mayoría de aquellos doscientos sesenta y cuatro isleños, después de conocer Inglaterra, votaran volver a una roca en mitad del Atlántico. Pertenecer a un sitio. Saber que ese lugar, por duro que sea, es tuyo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Tristan da Cunha island",
+     "src": "commons",
+     "at": "Y la tercera"
+    },
+    {
+     "photo": "Edinburgh of the Seven Seas",
+     "src": "commons",
+     "at": "Pertenecer a un sitio"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cuhv87mz8x5MyVlIhWSk/fPisPXgfr5AKXfWAeIqD/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=z0D_D61dbweinpCANmUapVy9OQg=",
+   "gen": "fPisPXgfr5AKXfWAeIqD"
+  },
+  {
+   "k": "N",
+   "text": "Y una advertencia. Muchos de estos lugares están cambiando deprisa. El permafrost de Yakutsk y de Norilsk se derrite. El glaciar de La Rinconada retrocede. En Svalbard, el Ártico se calienta más rápido que casi ningún otro sitio. Los límites que han definido la vida en estos lugares durante siglos se están moviendo. Y nadie sabe todavía hacia dónde.",
+   "voice": "CON",
+   "shots": [
+    {
+     "photo": "Yakutsk thawing permafrost",
+     "src": "commons",
+     "at": "El permafrost de Yakutsk"
+    },
+    {
+     "photo": "La Rinconada glacier",
+     "src": "commons",
+     "at": "El glaciar de La Rinconada"
+    },
+    {
+     "photo": "Svalbard glacier melting",
+     "src": "commons",
+     "at": "En Svalbard"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/muTmvrK2JLeUkSKvDGkg/5B6iGxgl7Ygd4iHk3qi9/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=pwT2GqS-oayeyAVzfFK73WXkaqw=",
+   "gen": "5B6iGxgl7Ygd4iHk3qi9"
+  },
+  {
+   "k": "N",
+   "text": "Hay algo más. En casi todos estos lugares, la gente depende de los demás mucho más que en una ciudad normal. En Whittier, tu vecino es tu edificio. En Tristán, la isla entera es una familia. En Yakutia se dice que, si un coche se para en la carretera helada, el siguiente conductor se detiene. Siempre. Porque mañana puede ser él.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Begich Towers",
+     "src": "commons",
+     "at": "En Whittier"
+    },
+    {
+     "photo": "Tristan da Cunha islanders",
+     "src": "commons",
+     "at": "En Tristán"
+    },
+    {
+     "photo": "Kolyma highway winter truck",
+     "src": "commons",
+     "at": "En Yakutia"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YoC4vvSBfvkf7irrbFTR/kQrJOCZDgrFlgQq3iOga/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=LtECXL452Dph6fnTLqwgEFl5kG0=",
+   "gen": "kQrJOCZDgrFlgQq3iOga"
+  },
+  {
+   "k": "N",
+   "text": "[softly] Quizá por eso, en los mapas, estos lugares parecen límites. Pero para quienes viven allí, son simplemente casa.",
+   "voice": "CON",
+   "shots": [
+    {
+     "video": "aerial mountains clouds sunrise",
+     "free": true,
+     "at": "Quizá por eso"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2qhcrWYP4iUaz34yB1in/I6IVgMjAhaatGiSNl67P/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=6TWAMssacg-HYIDTF2p3WLyzTts=",
+   "gen": "I6IVgMjAhaatGiSNl67P"
+  },
+  {
+   "k": "N",
+   "text": "Al final, vivir al límite no es tanto una cuestión de clima como de personas. De mineros que suben cada madrugada a cinco mil metros. De niños que van a clase a cincuenta bajo cero. De isleños que prefirieron una roca a una ciudad. Gente corriente, en lugares que no lo son en absoluto.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "La Rinconada miners walking",
+     "src": "commons",
+     "at": "De mineros"
+    },
+    {
+     "photo": "Oymyakon school children",
+     "src": "commons",
+     "at": "De niños"
+    },
+    {
+     "photo": "Tristan da Cunha islanders",
+     "src": "commons",
+     "at": "De isleños"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/I2wlJPnIMiGHacipVI7H/IhAjwl7whM1Qo3Aq8eYk/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=yiyYZvUXNCEiMDGkl6VTNcD6IqU=",
+   "gen": "IhAjwl7whM1Qo3Aq8eYk"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Y tú, ¿aguantarías un invierno en alguno de ellos? Cuéntanos cuál elegirías en los comentarios. [pause] Esto ha sido Vivir al límite. Gracias por acompañarnos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "La Rinconada Peru glacier",
+     "src": "commons",
+     "at": "Y tú"
+    },
+    {
+     "card": {
+      "type": "title",
+      "title": "Vivir al límite",
+      "sub": "DocuVox"
+     },
+     "at": "Esto ha sido"
+    }
+   ],
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2tNUogPG409Vuhy3W8hZ/icftd6qc9hRrMyI4Jc1I/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=LdoAmfg8p7126kx-egtUM1yhT9k=",
+   "gen": "icftd6qc9hRrMyI4Jc1I"
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 12,
+   "end": true
+  }
+ ]
+}

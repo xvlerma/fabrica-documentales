@@ -1,0 +1,22 @@
+{
+ "id": "mini_termopilas",
+ "stage": "thumbs",
+ "parts": 1,
+ "rev": 1,
+ "thumbs": [
+  {
+   "name": "casco_arcaico_2024-63",
+   "url": "https://openaccess-cdn.clevelandart.org/2024.63/2024.63_print.jpg",
+   "grande": "LOS 300",
+   "caja": "LA HISTORIA REAL",
+   "sub": "Termópilas · 480 a. C."
+  },
+  {
+   "name": "casco_clasico_1926-54",
+   "url": "https://openaccess-cdn.clevelandart.org/1926.54/1926.54_print.jpg",
+   "grande": "LOS 300",
+   "caja": "LA HISTORIA REAL",
+   "sub": "Termópilas · 480 a. C."
+  }
+ ]
+}

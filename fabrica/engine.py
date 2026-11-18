@@ -632,7 +632,16 @@ def make_thumbs(job, out_dir):
 
 # ================= PRINCIPAL =================
 def run(job_dir):
-    job = json.load(open(f'{job_dir}/job.json')); U = job['units']
+    job = json.load(open(f'{job_dir}/job.json'))
+    if job.get('stage') == 'thumbs':  # solo miniaturas de objeto (thumb_objeto.py)
+        import thumb_objeto as TO
+        out_dir = f'{job_dir}/out'; os.makedirs(out_dir, exist_ok=True)
+        for t in job['thumbs']:
+            p = SRC.download(t['url'], '.jpg')
+            for fm in t.get('formatos', ['yt', 'cuadrada']):
+                o = f"{out_dir}/{t['name']}_{fm}.jpg"; TO.make(o, p, t['grande'], t['caja'], t.get('sub', ''), fm); log('  miniatura', o)
+        return
+    U = job['units']
     out_dir = f'{job_dir}/out'; wd = '/tmp/fabrica_work'; os.makedirs(out_dir, exist_ok=True); os.makedirs(f'{wd}/shots', exist_ok=True)
     random.seed(job.get('seed', 7)); credits = []; MUST[:] = job.get('must', [])
     global GRADE

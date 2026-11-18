@@ -100,6 +100,7 @@ jobs:
           pip install -q librosa soundfile numpy pillow opencv-python-headless
           pip install -q torch --index-url https://download.pytorch.org/whl/cpu
           pip install -q transformers faster-whisper
+          if grep -q '"thumbs"' jobs/${{ needs.setup.outputs.id }}/job.json && grep -q '"stage": "thumbs"' jobs/${{ needs.setup.outputs.id }}/job.json; then pip install -q rembg onnxruntime; fi
       - name: fabricar
         env:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}

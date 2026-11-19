@@ -167,5 +167,55 @@
 "196": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/I2wlJPnIMiGHacipVI7H/IhAjwl7whM1Qo3Aq8eYk/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=yiyYZvUXNCEiMDGkl6VTNcD6IqU=",
 "197": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2tNUogPG409Vuhy3W8hZ/icftd6qc9hRrMyI4Jc1I/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=LdoAmfg8p7126kx-egtUM1yhT9k="
 },
-"rev": 1
+"rev": 2,
+"music": {
+"tema": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Musopen_-_Morning.ogg",
+"credit": "Edvard Grieg, «Peer Gynt: La mañana» · Musopen",
+"license": "Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Musopen_-_Morning.ogg"
+},
+"tension": {
+"url": "https://cdn.freesound.org/previews/786/786902_16110885-hq.mp3",
+"credit": "Soparnik / Freesound",
+"license": "http://creativecommons.org/publicdomain/zero/1.0/",
+"page": "https://freesound.org/people/Soparnik/sounds/786902/"
+},
+"desierto": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Gnossienne_5_%28Satie%29.ogg",
+"credit": "Erik Satie, «Gnossienne n.º 5»",
+"license": "Public domain mark",
+"page": "https://commons.wikimedia.org/wiki/File:Gnossienne_5_(Satie).ogg"
+},
+"frio": {
+"url": "https://cdn.freesound.org/previews/437/437317_3914271-hq.mp3",
+"credit": "tyops / Freesound",
+"license": "https://creativecommons.org/licenses/by/4.0/",
+"page": "https://freesound.org/people/tyops/sounds/437317/"
+},
+"industria": {
+"url": "https://cdn.freesound.org/previews/658/658648_3315462-hq.mp3",
+"credit": "Nielsvdb / Freesound",
+"license": "http://creativecommons.org/publicdomain/zero/1.0/",
+"page": "https://freesound.org/people/Nielsvdb/sounds/658648/"
+},
+"noche": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg",
+"credit": "Erik Satie, «Gymnopédie n.º 1» · Musopen",
+"license": "Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg"
+},
+"isla": {
+"url": "https://cdn.freesound.org/previews/547/547076_11912888-hq.mp3",
+"credit": "Ixwolf / Freesound",
+"license": "http://creativecommons.org/publicdomain/zero/1.0/",
+"page": "https://freesound.org/people/Ixwolf/sounds/547076/"
+},
+"andes": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Musopen_-_In_the_Hall_Of_The_Mountain_King.ogg",
+"credit": "Edvard Grieg, «En la gruta del rey de la montaña» · Musopen",
+"license": "Public domain",
+"page": "https://commons.wikimedia.org/wiki/File:Musopen_-_In_the_Hall_Of_The_Mountain_King.ogg"
+}
+}
 }

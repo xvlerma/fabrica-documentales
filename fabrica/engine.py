@@ -613,6 +613,17 @@ def cast_music(job, out_dir, F):
         for q in range(len(e) - 1): d.line([(930 + q * 15, y0 + 150 - 90 * e[q] / mx), (930 + (q + 1) * 15, y0 + 150 - 90 * e[q + 1] / mx)], fill=(120, 220, 235), width=2)
     sheet.save(f'{out_dir}/musica.jpg', quality=82); log(f'   música: {len(rows)} candidatas en musica.jpg / musica.json')
 
+def make_thumbs(job, out_dir):
+    """v3.1: miniaturas A/B con fabrica/thumb.py a partir de fotos de Commons ("thumbs" en el job)."""
+    import thumb as TH
+    for t in job.get('thumbs', []):
+        try:
+            c = SRC.commons_file(t['commons']); p = SRC.download(c['url'], '.jpg')
+            out = f"{out_dir}/{job['id']}_miniatura_{t['name']}.jpg"
+            TH.make(out, p, t['grande'], t['caja'], t.get('sub', ''), None, tuple(t['recorte']) if t.get('recorte') else None)
+            log(f'   miniatura {t["name"]}: {c.get("credit", "")} · {c.get("license", "")}')
+        except Exception as e: log('  aviso miniatura', t.get('name'), e)
+
 # ================= PRINCIPAL =================
 def run(job_dir):
     job = json.load(open(f'{job_dir}/job.json')); U = job['units']
@@ -774,6 +785,7 @@ def run(job_dir):
     json.dump([dict(n=s['n'], t=round(s['t'], 2), d=round(s['d'], 2), unit=s['unit'], heard=s.get('heard', ''), spec=s['spec']) for s in shots], open(f'{out_dir}/edl.json', 'w'), ensure_ascii=False, indent=0)
     try: sync_sheets(shots, wd, out_dir)
     except Exception as e: log('  aviso hoja de sincronía:', e)
+    make_thumbs(job, out_dir)
     log(f'FIN: {final} · {D/60:.1f} min · {os.path.getsize(final)/1e6:.0f} MB')
     open(f'{out_dir}/informe.txt', 'w').write('\n'.join(LOG) + '\n')
 

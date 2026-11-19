@@ -49,7 +49,7 @@ C("Les dieron casas en un antiguo cuartel de la aviación, cerca de Southampton.
 N("Es quizá la mejor respuesta a la pregunta de este documental. Esta gente había conocido la vida cómoda. Y eligió el aislamiento. [short pause] Pero no todos los que viven al límite lo eligen por amor a su tierra. A veces, lo que te ata a un lugar imposible es otra cosa. Brilla. Y pesa muy poco.",
   ph('Edinburgh of the Seven Seas church St Mary', at='Es quizá la mejor respuesta'),
   K('ORO', 'gold nugget', at='Brilla'))
-M('isla', 8)
+M('isla', 10)
 
 # ---------------- RECAPITULACIÓN 2 ----------------
 B('tema')

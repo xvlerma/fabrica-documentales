@@ -68,44 +68,52 @@
  },
  "music": {
   "tema": {
-   "search": "cinematic documentary piano strings",
-   "src": "archive,commons,openverse,freesound",
-   "min_secs": 90
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Musopen_-_Morning.ogg",
+   "credit": "Edvard Grieg, «Peer Gynt: La mañana» · Musopen",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Musopen_-_Morning.ogg"
   },
   "tension": {
-   "search": "dark cinematic tension drone",
-   "src": "openverse,freesound,archive",
-   "min_secs": 60
+   "url": "https://cdn.freesound.org/previews/786/786902_16110885-hq.mp3",
+   "credit": "Soparnik / Freesound",
+   "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://freesound.org/people/Soparnik/sounds/786902/"
   },
   "desierto": {
-   "search": "didgeridoo ambient desert",
-   "src": "archive,openverse,freesound,commons",
-   "min_secs": 60
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Gnossienne_5_%28Satie%29.ogg",
+   "credit": "Erik Satie, «Gnossienne n.º 5»",
+   "license": "Public domain mark",
+   "page": "https://commons.wikimedia.org/wiki/File:Gnossienne_5_(Satie).ogg"
   },
   "frio": {
-   "search": "arctic ambient cold wind music",
-   "src": "openverse,archive,freesound",
-   "min_secs": 60
+   "url": "https://cdn.freesound.org/previews/437/437317_3914271-hq.mp3",
+   "credit": "tyops / Freesound",
+   "license": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://freesound.org/people/tyops/sounds/437317/"
   },
   "industria": {
-   "search": "industrial dark ambient",
-   "src": "openverse,freesound,archive",
-   "min_secs": 60
+   "url": "https://cdn.freesound.org/previews/658/658648_3315462-hq.mp3",
+   "credit": "Nielsvdb / Freesound",
+   "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://freesound.org/people/Nielsvdb/sounds/658648/"
   },
   "noche": {
-   "search": "dark ambient night calm",
-   "src": "openverse,freesound,archive",
-   "min_secs": 60
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg",
+   "credit": "Erik Satie, «Gymnopédie n.º 1» · Musopen",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg"
   },
   "isla": {
-   "search": "ocean ambient piano calm",
-   "src": "openverse,archive,freesound",
-   "min_secs": 60
+   "url": "https://cdn.freesound.org/previews/547/547076_11912888-hq.mp3",
+   "credit": "Ixwolf / Freesound",
+   "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://freesound.org/people/Ixwolf/sounds/547076/"
   },
   "andes": {
-   "search": "andean flute quena music",
-   "src": "archive,commons,openverse,freesound",
-   "min_secs": 60
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Musopen_-_In_the_Hall_Of_The_Mountain_King.ogg",
+   "credit": "Edvard Grieg, «En la gruta del rey de la montaña» · Musopen",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Musopen_-_In_the_Hall_Of_The_Mountain_King.ogg"
   }
  },
  "audio": {
@@ -137,7 +145,7 @@
  "seed": 5100,
  "qpicks": {},
  "picks": {},
- "rev": 1,
+ "rev": 2,
  "units": [
   {
    "k": "B",
@@ -149,23 +157,23 @@
    "voice": "NAR",
    "shots": [
     {
-     "video": "La Rinconada Peru",
-     "free": true,
      "at": "Son las cinco",
      "lt": [
       "La Rinconada",
       "Andes del Perú · 5.100 m"
-     ]
+     ],
+     "photo": "La Rinconada in Perú, the highest city on earth",
+     "src": "commons"
     },
     {
-     "photo": "La Rinconada Peru town",
+     "photo": "Begich Towers",
      "src": "commons",
      "at": "No hay árboles"
     },
     {
-     "photo": "La Rinconada mine Ananea",
-     "src": "commons",
-     "at": "entrar en una montaña"
+     "at": "entrar en una montaña",
+     "video": "earth from space night lights",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gkLn6dZv79OIlrjp4pwL/pVpMEwULuo2HQrzXIarT/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=-Q8TKHs4iTnSWSdbgztFGngO72o=",
@@ -177,7 +185,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "La Rinconada miners",
+     "photo": "Coober Pedy underground",
      "src": "commons",
      "at": "Durante treinta días"
     },
@@ -199,7 +207,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "La Rinconada Peru glacier",
+     "photo": "La Rinconada in Perú, the highest city on earth",
      "src": "commons",
      "at": "La Rinconada, en Perú",
      "lt": [
@@ -208,27 +216,27 @@
      ]
     },
     {
-     "photo": "Coober Pedy dugout",
-     "src": "commons",
-     "at": "bajo tierra"
+     "at": "bajo tierra",
+     "video": "mountain fog dawn",
+     "free": true
     },
     {
-     "photo": "Oymyakon winter",
+     "photo": "Longyearbyen polar night",
      "src": "commons",
      "at": "setenta grados bajo cero"
     },
     {
-     "photo": "Yakutsk buildings piles permafrost",
+     "photo": "Coober Pedy underground",
      "src": "commons",
      "at": "Una ciudad sobre hielo"
     },
     {
-     "photo": "Begich Towers Whittier",
-     "src": "commons",
-     "at": "un solo edificio"
+     "at": "un solo edificio",
+     "video": "aerial mountains clouds sunrise",
+     "free": true
     },
     {
-     "photo": "Tristan da Cunha island aerial",
+     "photo": "Begich Towers",
      "src": "commons",
      "at": "Y una isla"
     }
@@ -242,18 +250,29 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Longyearbyen children snow",
+     "photo": "Longyearbyen polar night",
      "src": "commons",
      "at": "Esta es la historia"
     },
     {
-     "photo": "Coober Pedy underground church interior",
-     "src": "commons",
-     "at": "Nada de lo que vas a ver"
+     "at": "Nada de lo que vas a ver",
+     "video": "earth from space night lights",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ji1xBn4nOJLjRDwKAOIP/Ky4IKLVt59qNzI1t4Abj/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=ozmRV7Ik8_GsQ5MxwQNLnd7r9QA=",
    "gen": "Ky4IKLVt59qNzI1t4Abj"
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "mountain fog dawn",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -261,12 +280,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Edinburgh of the Seven Seas",
+     "photo": "La Rinconada in Perú, the highest city on earth",
      "src": "commons",
      "at": "Cómo se vive"
     },
     {
-     "photo": "Longyearbyen polar night",
+     "photo": "Begich Towers",
      "src": "commons",
      "at": "Quién elige"
     },
@@ -401,9 +420,9 @@
      "at": "Calor, frío"
     },
     {
-     "photo": "Coober Pedy mine shaft",
-     "src": "commons",
-     "at": "Y por un agujero"
+     "at": "Y por un agujero",
+     "video": "mountain fog dawn",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aulybDiKbJODUVwWUgoP/NtfIRxrcZbdPUqOJ70bo/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=WTOSr7UZ9wJS6vnZlC3lnBgAgNM=",
@@ -517,27 +536,38 @@
      "at": "Desierto de Australia"
     },
     {
-     "video": "Coober Pedy",
-     "free": true,
      "at": "En verano",
      "lt": [
       "Coober Pedy",
       "Australia Meridional · hoy"
-     ]
+     ],
+     "photo": "Coober Pedy",
+     "src": "commons"
     },
     {
-     "photo": "Coober Pedy landscape mullock heaps",
+     "photo": "Coober Pedy opal fields",
      "src": "commons",
      "at": "montones de escombros"
     },
     {
-     "photo": "Coober Pedy ventilation shafts dugouts",
-     "src": "commons",
-     "at": "unas chimeneas blancas"
+     "at": "unas chimeneas blancas",
+     "video": "australia outback desert",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SXcmGVLgAcnomDSYt6Ci/9dzXNxPBv1oYnCpPd13b/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=gdCSfROHRYmCiaYzPU9opELnWOA=",
    "gen": "9dzXNxPBv1oYnCpPd13b"
+  },
+  {
+   "k": "M",
+   "track": "desierto",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "desert heat haze",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -545,12 +575,12 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Coober Pedy underground home interior",
+     "photo": "Coober Pedy opal",
      "src": "commons",
      "at": "Debajo hay salones"
     },
     {
-     "photo": "Serbian Orthodox Church Coober Pedy",
+     "photo": "Coober Pedy South Australia",
      "src": "commons",
      "at": "hasta iglesias",
      "lt": [
@@ -625,9 +655,9 @@
      "at": "Llegaron los buscadores"
     },
     {
-     "photo": "Coober Pedy old dugout historic",
-     "src": "commons",
-     "at": "unos metros por debajo"
+     "at": "unos metros por debajo",
+     "video": "desert heat haze",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fIElaTl7XEzgnYK4naFb/vptgXdxJPh5Gg98RniLh/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=PSY9ExcldZZIQUjCoPICUQl5UZs=",
@@ -661,12 +691,12 @@
      "at": "Fuera, el desierto"
     },
     {
-     "photo": "Coober Pedy dugout bedroom",
+     "photo": "Coober Pedy opal fields",
      "src": "commons",
      "at": "Dentro"
     },
     {
-     "photo": "Faye's Underground Home Coober Pedy",
+     "photo": "Coober Pedy underground",
      "src": "commons",
      "at": "Algunas llegan",
      "lt": [
@@ -679,14 +709,25 @@
    "gen": "yeOMDCvSW61y4fqYIifi"
   },
   {
+   "k": "M",
+   "track": "desierto",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "opal stone",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "[short pause] Bob Del Tedesco lleva décadas en Coober Pedy. Su casa también está excavada en la colina. Y su calle es el mejor resumen del pueblo.",
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Coober Pedy street dugout entrance",
-     "src": "commons",
-     "at": "Bob Del Tedesco"
+     "at": "Bob Del Tedesco",
+     "video": "opal stone",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/edd1s9QxO3e58pnJgqhO/0JU0RwoKxJh7A6LFYIaL/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=2VzOjTuc40tk6jtzbBoZyUZ8v5Q=",
@@ -745,7 +786,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Moon Plain Coober Pedy",
+     "photo": "Coober Pedy South Australia",
      "src": "commons",
      "at": "otros planetas",
      "lt": [
@@ -754,7 +795,7 @@
      ]
     },
     {
-     "photo": "Pitch Black spaceship prop Coober Pedy",
+     "photo": "Coober Pedy",
      "src": "commons",
      "at": "Pitch Black"
     },
@@ -776,17 +817,17 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Coober Pedy opal mining machine blower",
-     "src": "commons",
-     "at": "Todavía hoy"
+     "at": "Todavía hoy",
+     "video": "australia outback desert",
+     "free": true
     },
     {
-     "photo": "Coober Pedy warning sign shafts",
+     "photo": "Coober Pedy underground",
      "src": "commons",
      "at": "Y los carteles avisan"
     },
     {
-     "photo": "Coober Pedy mine shafts aerial",
+     "photo": "Coober Pedy opal",
      "src": "commons",
      "at": "miles de pozos"
     }
@@ -795,17 +836,28 @@
    "gen": "je8moUsX6yW7BfFEXYZQ"
   },
   {
+   "k": "M",
+   "track": "desierto",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "australia outback desert",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "Vivir aquí tiene otros retos. Casi no llueve y no hay ríos. El agua sale de un acuífero subterráneo, salada, y se potabiliza en el propio pueblo. Durante años fue uno de los grandes quebraderos de cabeza de la comunidad. Ahora la empresa pública de aguas del estado va a hacerse cargo de la red antes de dos mil veintisiete.",
    "voice": "CON",
    "shots": [
     {
-     "photo": "Coober Pedy water tank",
-     "src": "commons",
-     "at": "Casi no llueve"
+     "at": "Casi no llueve",
+     "video": "desert heat haze",
+     "free": true
     },
     {
-     "photo": "Coober Pedy town aerial",
+     "photo": "Coober Pedy",
      "src": "commons",
      "at": "Ahora la empresa pública"
     }
@@ -819,7 +871,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Coober Pedy golf course",
+     "photo": "Coober Pedy opal fields",
      "src": "commons",
      "at": "Un campo de golf",
      "lt": [
@@ -828,16 +880,16 @@
      ]
     },
     {
-     "photo": "Coober Pedy metal tree",
-     "src": "commons",
      "at": "Un árbol en lo alto",
      "lt": [
       "El árbol de chatarra",
       "Coober Pedy"
-     ]
+     ],
+     "video": "opal stone",
+     "free": true
     },
     {
-     "photo": "Coober Pedy main street Hutchison Street",
+     "photo": "Coober Pedy opal",
      "src": "commons",
      "at": "Y una población"
     }
@@ -851,22 +903,33 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Coober Pedy underground hotel room",
+     "photo": "Coober Pedy South Australia",
      "src": "commons",
      "at": "hasta un hotel"
     },
     {
-     "photo": "Catacomb Church Coober Pedy",
-     "src": "commons",
      "at": "la iglesia de las catacumbas",
      "lt": [
       "Iglesia de las catacumbas",
       "Coober Pedy"
-     ]
+     ],
+     "video": "australia outback desert",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GT5cjMiEypV8ayzE486d/rnsMaQHJffR7t34k7c3a/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=3OrYkZn2-RBEfZux8tPPMYq84P4=",
    "gen": "rnsMaQHJffR7t34k7c3a"
+  },
+  {
+   "k": "M",
+   "track": "desierto",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "desert heat haze",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -874,12 +937,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Coober Pedy open mine shaft danger",
+     "photo": "Coober Pedy opal fields",
      "src": "commons",
      "at": "Esos pozos son un peligro"
     },
     {
-     "photo": "Coober Pedy opal field shafts",
+     "photo": "Coober Pedy underground",
      "src": "commons",
      "kw": "MIRA AL SUELO",
      "at": "mirar al suelo",
@@ -901,7 +964,7 @@
      "at": "Aquí, para escapar"
     },
     {
-     "video": "Siberia winter frost",
+     "video": "desert heat haze",
      "free": true,
      "at": "Ahora vamos"
     }
@@ -912,7 +975,13 @@
   {
    "k": "M",
    "track": "desierto",
-   "secs": 8
+   "secs": 10,
+   "shots": [
+    {
+     "video": "desert heat haze",
+     "free": true
+    }
+   ]
   },
   {
    "k": "T",
@@ -972,7 +1041,7 @@
      "at": "Siberia oriental"
     },
     {
-     "photo": "Oymyakon village",
+     "photo": "Oymyakon",
      "src": "commons",
      "at": "un pueblo de unos quinientos",
      "lt": [
@@ -1040,7 +1109,7 @@
      "at": "algunos climatólogos"
     },
     {
-     "photo": "Oymyakon thermometer",
+     "photo": "Yakutia winter",
      "src": "commons",
      "at": "En enero"
     }
@@ -1049,25 +1118,36 @@
    "gen": "SwEqWv1rYyoXyxqSHyLY"
   },
   {
+   "k": "M",
+   "track": "frio",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "Siberia winter frost",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "¿Cómo es un día normal a cincuenta bajo cero? Empieza por el coche. Muchos vecinos lo guardan en garajes con calefacción. Y si se queda fuera, se deja con el motor encendido. Toda la noche.",
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Oymyakon winter road",
-     "src": "commons",
      "kw": "−50 °C",
      "at": "Cómo es un día normal",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "video": "siberia winter village",
+     "free": true
     },
     {
-     "photo": "Oymyakon car frost",
+     "photo": "Sakha Republic winter",
      "src": "commons",
      "at": "Empieza por el coche"
     },
     {
-     "photo": "Yakutia winter car exhaust",
+     "photo": "Oymyakon winter",
      "src": "commons",
      "at": "con el motor encendido"
     }
@@ -1081,9 +1161,9 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Oymyakon road Kolyma highway winter",
-     "src": "commons",
-     "at": "El fotógrafo neozelandés"
+     "at": "El fotógrafo neozelandés",
+     "video": "Siberia winter frost",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ztWRKFtnZUNcYvL144Do/grgkBTjzqW1yq01ew6IE/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=oR2TINlpnQUSWM3QAKveFa64xFM=",
@@ -1112,7 +1192,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Oymyakon frozen eyelashes",
+     "photo": "Yakutia winter",
      "src": "commons",
      "at": "Las pestañas"
     },
@@ -1122,7 +1202,7 @@
      "at": "El vaho"
     },
     {
-     "photo": "stroganina frozen fish Yakutia",
+     "photo": "Kolyma highway",
      "src": "commons",
      "at": "cortado en virutas",
      "lt": [
@@ -1188,9 +1268,9 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Oymyakon school",
-     "src": "commons",
-     "at": "Y luego está la escuela"
+     "at": "Y luego está la escuela",
+     "video": "frozen breath winter cold",
+     "free": true
     },
     {
      "card": {
@@ -1209,17 +1289,28 @@
    "gen": "POyruAAVCNOHLV1MwiHd"
   },
   {
+   "k": "M",
+   "track": "frio",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "frozen breath winter cold",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "En enero de dos mil dieciocho, el termómetro digital que se había instalado en el pueblo para los turistas marcó sesenta y dos bajo cero. Y se rompió. [short pause] Ese día, sí, se cerraron las escuelas de toda la región.",
    "voice": "CON",
    "shots": [
     {
-     "photo": "Oymyakon digital thermometer",
+     "photo": "Oymyakon winter",
      "src": "commons",
      "at": "el termómetro digital"
     },
     {
-     "photo": "Oymyakon monument pole of cold",
+     "photo": "Oymyakon",
      "src": "commons",
      "kw": "SE ROMPIÓ",
      "at": "Y se rompió",
@@ -1236,17 +1327,17 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Oymyakon wooden house winter",
-     "src": "commons",
-     "at": "La vida diaria"
+     "at": "La vida diaria",
+     "video": "snow forest winter frost",
+     "free": true
     },
     {
-     "photo": "Yakutia outhouse winter",
+     "photo": "Kolyma highway",
      "src": "commons",
      "at": "el baño está fuera"
     },
     {
-     "photo": "Oymyakon cemetery",
+     "photo": "Sakha Republic winter",
      "src": "commons",
      "at": "hasta enterrar a un muerto"
     }
@@ -1295,9 +1386,9 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Oymyakon landscape winter valley",
-     "src": "commons",
-     "at": "también está cambiando"
+     "at": "también está cambiando",
+     "video": "siberia winter village",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/z6KLDnAY8VrCF0kLZjc9/TH9DJG8TEfLuYHiBx852/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=KVquPExlFWz0YV_cTmHVZhkd8sU=",
@@ -1326,12 +1417,12 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Oymyakon winter landscape snow",
+     "photo": "Oymyakon",
      "src": "commons",
      "at": "En Yakutia cuentan una leyenda"
     },
     {
-     "photo": "Oymyakon frost trees",
+     "photo": "Yakutia winter",
      "src": "commons",
      "kw": "LO DEJÓ CAER AQUÍ",
      "at": "lo dejó caer todo aquí",
@@ -1343,17 +1434,28 @@
    "gen": "3tGPHOVACr4en66sxBIW"
   },
   {
+   "k": "M",
+   "track": "frio",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "snow forest winter frost",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "Lo curioso es el nombre. Oimiakón vendría de una palabra del pueblo even que significa «agua que no se congela»: un manantial donde los peces pasan el invierno. [pause] El lugar más frío del mundo se llama, literalmente, como un agua que nunca se hiela.",
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Indigirka river winter",
-     "src": "commons",
-     "at": "Lo curioso es el nombre"
+     "at": "Lo curioso es el nombre",
+     "video": "Siberia winter frost",
+     "free": true
     },
     {
-     "photo": "Oymyakon pole of cold monument",
+     "photo": "Sakha Republic winter",
      "src": "commons",
      "at": "El lugar más frío",
      "lt": [
@@ -1371,7 +1473,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Kolyma highway road of bones winter",
+     "photo": "Oymyakon winter",
      "src": "commons",
      "at": "A unos novecientos",
      "lt": [
@@ -1380,9 +1482,9 @@
      ]
     },
     {
-     "photo": "Yakutsk city winter fog",
-     "src": "commons",
-     "at": "una ciudad entera"
+     "at": "una ciudad entera",
+     "video": "frozen breath winter cold",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BLeZJHLnOT2XBOwpYL9F/r7CWqSFzrvmdYI5clNj8/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=qUGqDmO1r2L9MQt-tVoLHFw01S4=",
@@ -1403,7 +1505,7 @@
      ]
     },
     {
-     "photo": "Kolyma highway Gulag history",
+     "photo": "Yakutia winter",
      "src": "commons",
      "at": "presos de los campos"
     }
@@ -1414,7 +1516,13 @@
   {
    "k": "M",
    "track": "frio",
-   "secs": 8
+   "secs": 10,
+   "shots": [
+    {
+     "video": "snow forest winter frost",
+     "free": true
+    }
+   ]
   },
   {
    "k": "T",
@@ -1470,7 +1578,7 @@
      "at": "Yakutsk tiene"
     },
     {
-     "photo": "Yakutsk panorama",
+     "photo": "Yakutsk",
      "src": "commons",
      "at": "unos trescientos mil",
      "lt": [
@@ -1493,7 +1601,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Yakutsk winter bus stop",
+     "photo": "Yakutsk winter street",
      "src": "commons",
      "at": "la vida sigue"
     },
@@ -1540,13 +1648,24 @@
      "at": "Ese hielo"
     },
     {
-     "photo": "Yakutsk cracked building",
-     "src": "commons",
-     "at": "los cimientos se agrietan"
+     "at": "los cimientos se agrietan",
+     "video": "yakutsk",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mCWrM7pJeRsCVE4We6Ji/ebS1yUm95RLFhhuNWnBb/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=5_Hb50GWtzADtiM-mq6dIPWiONk=",
    "gen": "ebS1yUm95RLFhhuNWnBb"
+  },
+  {
+   "k": "M",
+   "track": "frio",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "siberia city winter",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -1554,12 +1673,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Yakutsk apartment building on stilts",
+     "photo": "Yakutsk Mammoth Museum",
      "src": "commons",
      "at": "no tocan el suelo"
     },
     {
-     "photo": "Yakutsk piles foundation building",
+     "photo": "Yakutsk panorama",
      "src": "commons",
      "at": "Se levantan sobre pilotes",
      "lt": [
@@ -1577,13 +1696,13 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Melnikov Permafrost Institute Yakutsk",
-     "src": "commons",
      "at": "Instituto Melnikov",
      "lt": [
       "Instituto Melnikov del Permafrost",
       "Yakutsk"
-     ]
+     ],
+     "video": "siberia city winter",
+     "free": true
     },
     {
      "card": {
@@ -1604,7 +1723,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Yakutsk panel apartment block",
+     "photo": "Yakutsk winter street",
      "src": "commons",
      "at": "Eduard Romanov"
     }
@@ -1635,7 +1754,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Yakutsk demolished building",
+     "photo": "Lena river Yakutsk",
      "src": "commons",
      "at": "Algunos bloques"
     },
@@ -1675,18 +1794,29 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Yakutsk heating pipes above ground",
-     "src": "commons",
-     "at": "las tuberías"
+     "at": "las tuberías",
+     "video": "frozen river winter",
+     "free": true
     },
     {
-     "photo": "Yakutsk pipes street",
+     "photo": "Yakutsk panorama",
      "src": "commons",
      "at": "Van por fuera"
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qnXiZ4e9wzV9NuTVTYJn/9SPFAzKt4Hf8YQbmEUN1/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=fuJxIHizKcz93LhaiUnaUW8S9d4=",
    "gen": "9SPFAzKt4Hf8YQbmEUN1"
+  },
+  {
+   "k": "M",
+   "track": "frio",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "frozen river winter",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -1703,14 +1833,14 @@
      ]
     },
     {
-     "photo": "Lena river ice road",
+     "photo": "Yakutsk",
      "src": "commons",
      "at": "En invierno"
     },
     {
-     "photo": "Lena river ferry Yakutsk",
-     "src": "commons",
-     "at": "En verano"
+     "at": "En verano",
+     "video": "yakutsk",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/eJxdeWQfVC12paKw27Kr/BOrKztebyks59R3sqyHP/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=uiCRy_S6Ur6xIGHxkDVqxoMwlQw=",
@@ -1722,12 +1852,12 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Yakutsk ice fog",
+     "photo": "Lena river Yakutsk",
      "src": "commons",
      "at": "una niebla helada"
     },
     {
-     "photo": "Yakutsk frozen fish market",
+     "photo": "Yakutsk Mammoth Museum",
      "src": "commons",
      "at": "En los mercados",
      "lt": [
@@ -1768,9 +1898,9 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Yakutsk fortress wooden tower",
-     "src": "commons",
-     "at": "Primero fueron las pieles"
+     "at": "Primero fueron las pieles",
+     "video": "siberia city winter",
+     "free": true
     },
     {
      "photo": "Mir diamond mine Mirny",
@@ -1782,7 +1912,7 @@
      ]
     },
     {
-     "photo": "Norilsk city",
+     "photo": "Yakutsk",
      "src": "commons",
      "at": "Una ciudad a la que"
     }
@@ -1793,7 +1923,13 @@
   {
    "k": "M",
    "track": "frio",
-   "secs": 8
+   "secs": 10,
+   "shots": [
+    {
+     "video": "frozen river winter",
+     "free": true
+    }
+   ]
   },
   {
    "k": "T",
@@ -1867,7 +2003,7 @@
      "at": "Se llega en avión"
     },
     {
-     "photo": "Norilsk winter street",
+     "photo": "Norilsk",
      "src": "commons",
      "kw": "CIUDAD CERRADA",
      "at": "un permiso especial",
@@ -1877,6 +2013,17 @@
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QeFNrM5YRidkS9t3Zyy3/x5NVu3Ahdhe54wUAUG9K/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=SyzV-EJFl6u6FZBDKN6kw1sePA4=",
    "gen": "x5NVu3Ahdhe54wUAUG9K"
+  },
+  {
+   "k": "M",
+   "track": "industria",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "industrial smoke chimney winter",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -1931,7 +2078,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Norilsk Gulag prisoners history",
+     "photo": "Norilsk winter street",
      "src": "commons",
      "at": "Los presos construyeron"
     },
@@ -1944,9 +2091,9 @@
      "at": "setenta y dos mil quinientos"
     },
     {
-     "photo": "Norilsk old town Leninsky prospekt",
-     "src": "commons",
-     "at": "Muchos supervivientes"
+     "at": "Muchos supervivientes",
+     "video": "arctic city winter night lights",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rBB7CGGyBbesVjJRWJ0Z/xJefWHXW1Fo2H59MgCIu/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=f1TMr1_wdN-mw_E3BIjWvjTaEwk=",
@@ -1994,7 +2141,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Norilsk smoke stacks",
+     "photo": "Norilsk Nickel plant",
      "src": "commons",
      "at": "esa luz salía"
     },
@@ -2016,12 +2163,23 @@
    "gen": "zJJVJLWzHB1kC0ZkLaX2"
   },
   {
+   "k": "M",
+   "track": "industria",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "tundra winter",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "Alrededor de la ciudad, kilómetros y kilómetros de bosque muerto. Lluvia ácida. Ríos teñidos de rojo. Y en mayo de dos mil veinte, el permafrost cedió bajo un depósito de combustible de una central eléctrica. Se derramaron más de veinte mil toneladas de gasóleo: el mayor vertido de la historia del Ártico.",
    "voice": "CON",
    "shots": [
     {
-     "photo": "Norilsk dead forest",
+     "photo": "Norilsk building piles",
      "src": "commons",
      "at": "bosque muerto"
     },
@@ -2052,13 +2210,13 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Daldykan river red Norilsk 2016",
-     "src": "commons",
      "at": "el río Daldikán",
      "lt": [
       "Río Daldikán",
       "Norilsk · 2016"
-     ]
+     ],
+     "video": "industrial smoke chimney winter",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/v9uQp6SXFXtWDWiaEz9O/tacW60z9QjqB2J3GjfJ6/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=iKFz9DDyYzPLF6O8hoRPqJoKtNQ=",
@@ -2182,17 +2340,28 @@
    "gen": "jaAP6bxBw9PC6DXw1Fzv"
   },
   {
+   "k": "M",
+   "track": "industria",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "arctic city winter night lights",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "El clima no ayuda. Norilsk pasa más de doscientos días al año bajo la nieve. Las ventiscas pueden paralizar la ciudad durante días. Por eso muchos barrios se diseñaron como manzanas cerradas, con los edificios formando un muro alrededor de un patio, para frenar el viento.",
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Norilsk blizzard winter",
+     "photo": "Norilsk",
      "src": "commons",
      "at": "Las ventiscas"
     },
     {
-     "photo": "Norilsk courtyard apartment blocks aerial",
+     "photo": "Norilsk winter street",
      "src": "commons",
      "at": "manzanas cerradas"
     }
@@ -2206,12 +2375,12 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Norilsk abandoned building",
-     "src": "commons",
-     "at": "bloques enteros abandonados"
+     "at": "bloques enteros abandonados",
+     "video": "tundra winter",
+     "free": true
     },
     {
-     "photo": "Norilsk building piles",
+     "photo": "Norilsk Nickel plant",
      "src": "commons",
      "at": "sobre pilotes"
     }
@@ -2225,18 +2394,18 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Norilsk colorful buildings",
+     "photo": "Norilsk building piles",
      "src": "commons",
      "at": "Edificios de colores"
     },
     {
-     "photo": "Norilsk mosque Nurd Kamal",
-     "src": "commons",
      "at": "una de las mezquitas",
      "lt": [
       "Mezquita Nurd Kamal",
       "Norilsk"
-     ]
+     ],
+     "video": "arctic city winter night lights",
+     "free": true
     },
     {
      "video": "arctic city winter night lights",
@@ -2250,7 +2419,13 @@
   {
    "k": "M",
    "track": "industria",
-   "secs": 8
+   "secs": 10,
+   "shots": [
+    {
+     "video": "arctic city winter night lights",
+     "free": true
+    }
+   ]
   },
   {
    "k": "B",
@@ -2289,6 +2464,17 @@
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8CH4T4Bw7F3U6wahhFVC/bbIvDNKKM6Z5pO7zWIGI/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=etJ6jQZfT03YzFb1Lc4nydpc0pA=",
    "gen": "bbIvDNKKM6Z5pO7zWIGI"
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "tundra winter",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -2362,16 +2548,16 @@
      "at": "Archipiélago de Svalbard"
     },
     {
-     "video": "Longyearbyen Svalbard",
-     "free": true,
      "at": "Longyearbyen tiene",
      "lt": [
       "Longyearbyen",
       "Svalbard, Noruega · hoy"
-     ]
+     ],
+     "photo": "Longyearbyen",
+     "src": "commons"
     },
     {
-     "photo": "Longyearbyen houses colorful",
+     "photo": "Longyearbyen polar night",
      "src": "commons",
      "at": "presume de tenerlo todo"
     }
@@ -2385,9 +2571,9 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Longyearbyen polar night town",
-     "src": "commons",
-     "at": "A finales de octubre"
+     "at": "A finales de octubre",
+     "video": "svalbard",
+     "free": true
     },
     {
      "card": {
@@ -2428,7 +2614,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Longyearbyen old hospital steps",
+     "photo": "polar bear Svalbard",
      "src": "commons",
      "at": "el ocho de marzo"
     },
@@ -2447,7 +2633,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "polar bear Svalbard",
+     "photo": "Longyearbyen cemetery",
      "src": "commons",
      "at": "Es el oso polar"
     },
@@ -2461,16 +2647,27 @@
      ]
     },
     {
-     "photo": "Svalbard rifle polar bear protection",
-     "src": "commons",
      "kw": "RIFLE",
      "at": "sin un rifle",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "video": "polar night arctic",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gp4rrbOzEHxGpwuXlOpb/8GHVBJidgNbJez5xmpOF/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=BP9MQMJSj7O-smQsfnlikfWM7Sg=",
    "gen": "8GHVBJidgNbJez5xmpOF"
+  },
+  {
+   "k": "M",
+   "track": "noche",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "polar night arctic",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -2478,7 +2675,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Longyearbyen main street winter",
+     "photo": "Longyearbyen polar night",
      "src": "commons",
      "at": "la calle principal"
     }
@@ -2523,7 +2720,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Longyearbyen cemetery crosses",
+     "photo": "Svalbard Global Seed Vault",
      "src": "commons",
      "kw": "PROHIBIDO MORIR",
      "at": "Prohibido morir",
@@ -2531,13 +2728,13 @@
      "kw_dur": 2.2
     },
     {
-     "photo": "Longyearbyen cemetery crosses",
-     "src": "commons",
      "at": "El pequeño cementerio",
      "lt": [
       "Cementerio de Longyearbyen",
       "Svalbard"
-     ]
+     ],
+     "video": "northern lights aurora Svalbard",
+     "free": true
     },
     {
      "card": {
@@ -2613,12 +2810,23 @@
    "gen": "YkKfBgPDry5yB0bXpRij"
   },
   {
+   "k": "M",
+   "track": "noche",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "northern lights aurora Svalbard",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "La misma crónica de la BBC contaba otro detalle: cuando los niños de la guardería salen de excursión fuera del pueblo, la maestra lleva un arma. Y en la universidad, el primer día de clase de cada estudiante se dedica a aprender a disparar.",
    "voice": "CON",
    "shots": [
     {
-     "photo": "Longyearbyen kindergarten",
+     "photo": "Longyearbyen cemetery",
      "src": "commons",
      "at": "los niños de la guardería"
     },
@@ -2641,7 +2849,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Longyearbyen coal mine historic",
+     "photo": "Longyearbyen",
      "src": "commons",
      "at": "pueblo minero del carbón"
     },
@@ -2664,13 +2872,9 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Longyearbyen avalanche 2015",
-     "src": "commons",
      "at": "un alud",
-     "lt": [
-      "Longyearbyen",
-      "alud de diciembre de 2015"
-     ]
+     "video": "midnight sun arctic",
+     "free": true
     },
     {
      "photo": "Svalbard Global Seed Vault entrance",
@@ -2687,9 +2891,9 @@
    "voice": "CON",
    "shots": [
     {
-     "video": "northern lights aurora Svalbard",
-     "free": true,
-     "at": "es azul"
+     "at": "es azul",
+     "photo": "Svalbard Global Seed Vault",
+     "src": "commons"
     },
     {
      "photo": "Longyearbyen aurora",
@@ -2699,6 +2903,17 @@
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gvE0JxumuzOYyjGzEGme/qv6d43vaRkbsHk4lBRcP/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=wicJUg5hMTyW8CjketxkHFyQ26s=",
    "gen": "qv6d43vaRkbsHk4lBRcP"
+  },
+  {
+   "k": "M",
+   "track": "noche",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "midnight sun arctic",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -2717,7 +2932,7 @@
      "at": "Por el Tratado de Svalbard"
     },
     {
-     "photo": "Longyearbyen town summer",
+     "photo": "polar bear Svalbard",
      "src": "commons",
      "at": "tienen que demostrar"
     }
@@ -2731,9 +2946,9 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Longyearbyen street road number",
-     "src": "commons",
-     "at": "Las calles no tienen nombre"
+     "at": "Las calles no tienen nombre",
+     "video": "svalbard",
+     "free": true
     },
     {
      "photo": "Svalbard birds Arctic tern",
@@ -2741,7 +2956,7 @@
      "at": "para proteger a las aves"
     },
     {
-     "photo": "Begich Towers Whittier Alaska",
+     "photo": "Longyearbyen",
      "src": "commons",
      "at": "bajo el mismo techo"
     }
@@ -2752,7 +2967,13 @@
   {
    "k": "M",
    "track": "noche",
-   "secs": 8
+   "secs": 10,
+   "shots": [
+    {
+     "video": "midnight sun arctic",
+     "free": true
+    }
+   ]
   },
   {
    "k": "T",
@@ -2812,13 +3033,13 @@
      "at": "Alaska, a un centenar"
     },
     {
-     "video": "Whittier Alaska",
-     "free": true,
      "at": "Whittier está encajado",
      "lt": [
       "Whittier",
       "Alaska · hoy"
-     ]
+     ],
+     "photo": "Begich Towers",
+     "src": "commons"
     },
     {
      "photo": "Begich Towers",
@@ -2839,7 +3060,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Whittier Alaska army base history",
+     "photo": "Whittier, Alaska",
      "src": "commons",
      "at": "el ejército de Estados Unidos"
     },
@@ -2855,6 +3076,17 @@
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TjDzvCk2elvE1GLc0EiT/ahTFlPATGUk48uTYcnPe/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=V_XBHdxgoUuwFVP-xEdK-HtzSsg=",
    "gen": "ahTFlPATGUk48uTYcnPe"
+  },
+  {
+   "k": "M",
+   "track": "frio",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "Alaska rain storm fjord",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -2880,12 +3112,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Begich Towers interior hallway",
-     "src": "commons",
-     "at": "dentro de las Begich Towers"
+     "at": "dentro de las Begich Towers",
+     "video": "Whittier Alaska",
+     "free": true
     },
     {
-     "photo": "Whittier school tunnel",
+     "photo": "Anton Anderson Memorial Tunnel",
      "src": "commons",
      "at": "un túnel subterráneo"
     }
@@ -2921,13 +3153,24 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Whittier Alaska snow deep",
+     "photo": "Begich Towers Whittier Alaska",
      "src": "commons",
      "at": "hasta diecisiete metros de nieve"
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jOruo84XzUiIJFfK0ARG/k9WssCr3gJgKZqnIqL8v/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=4i86lHTCRl_LWPHql6idA2HRekY=",
    "gen": "k9WssCr3gJgKZqnIqL8v"
+  },
+  {
+   "k": "M",
+   "track": "frio",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "alaska fjord glacier",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -2944,12 +3187,12 @@
      ]
     },
     {
-     "video": "Whittier tunnel",
+     "video": "Alaska rain storm fjord",
      "free": true,
      "at": "Cuatro kilómetros"
     },
     {
-     "photo": "Whittier tunnel entrance night",
+     "photo": "Whittier, Alaska",
      "src": "commons",
      "kw": "SE CIERRA",
      "at": "se cierra",
@@ -3045,12 +3288,23 @@
    "gen": "e7TtxAfgUspXRz50HU5A"
   },
   {
+   "k": "M",
+   "track": "frio",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "Whittier tunnel",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "Por eso hoy el túnel peatonal que sube del puerto a las torres está señalizado como ruta de evacuación en caso de tsunami. En un pueblo así, el edificio no es solo una casa. Es también el refugio.",
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Whittier tsunami evacuation route sign",
+     "photo": "Buckner Building Whittier",
      "src": "commons",
      "at": "ruta de evacuación",
      "lt": [
@@ -3073,17 +3327,17 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Whittier cruise ship harbor",
-     "src": "commons",
-     "at": "En verano llegan los cruceros"
+     "at": "En verano llegan los cruceros",
+     "video": "alaska fjord glacier",
+     "free": true
     },
     {
-     "photo": "Begich Towers winter",
+     "photo": "Begich Towers Whittier Alaska",
      "src": "commons",
      "at": "dentro de una torre"
     },
     {
-     "photo": "Aogashima aerial",
+     "photo": "Begich Towers",
      "src": "commons",
      "at": "dentro de un volcán"
     }
@@ -3094,7 +3348,13 @@
   {
    "k": "M",
    "track": "frio",
-   "secs": 8
+   "secs": 10,
+   "shots": [
+    {
+     "video": "Whittier tunnel",
+     "free": true
+    }
+   ]
   },
   {
    "k": "T",
@@ -3163,7 +3423,7 @@
      ]
     },
     {
-     "photo": "Aogashima cliffs sea",
+     "photo": "Aogashima",
      "src": "commons",
      "at": "administrativamente"
     }
@@ -3177,21 +3437,21 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Aogashima double caldera aerial",
+     "photo": "Aogashima island",
      "src": "commons",
      "at": "Desde el aire"
     },
     {
-     "photo": "Ikenosawa caldera Aogashima",
-     "src": "commons",
      "at": "la de Ikenosawa",
      "lt": [
       "Caldera de Ikenosawa",
       "Aogashima"
-     ]
+     ],
+     "video": "japan volcanic island aerial",
+     "free": true
     },
     {
-     "photo": "Maruyama Aogashima cone",
+     "photo": "Hachijojima island",
      "src": "commons",
      "at": "el Maruyama",
      "lt": [
@@ -3202,6 +3462,17 @@
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UQPOsqEavnrxsHoKyP8O/n77Qzcm9aRbHvC5Kjn3o/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=4SDriOuhIlMqCnMhQTG1HuhHZFw=",
    "gen": "n77Qzcm9aRbHvC5Kjn3o"
+  },
+  {
+   "k": "M",
+   "track": "isla",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "volcano island ocean aerial",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -3251,17 +3522,17 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Aogashima cliffs coast",
+     "photo": "Aogashima",
      "src": "commons",
      "at": "rodeada de acantilados"
     },
     {
-     "photo": "Aogashima volcano crater",
-     "src": "commons",
      "kw": "FUEGO",
      "at": "escupir fuego",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "video": "volcano island ocean aerial",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yo7unrfmdXxLMeUMtjZ7/HmZjnf89hb5zRyjqIwPM/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=7WhVX_RI27kCR9dGLmDEZWxRhm8=",
@@ -3273,7 +3544,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Aogashima village houses",
+     "photo": "Aogashima aerial",
      "src": "commons",
      "at": "Hoy viven en Aogashima",
      "lt": [
@@ -3282,7 +3553,7 @@
      ]
     },
     {
-     "photo": "Aogashima Maruyama steam",
+     "photo": "Hachijojima island",
      "src": "commons",
      "kw": "VOLCÁN ACTIVO",
      "at": "activo",
@@ -3299,21 +3570,21 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Hachijojima island",
-     "src": "commons",
      "at": "Hachijojima",
      "lt": [
       "Hachijojima",
       "escala obligatoria"
-     ]
+     ],
+     "video": "steam volcanic vent",
+     "free": true
     },
     {
-     "photo": "Aogashima helicopter heliport",
+     "photo": "Aogashima island",
      "src": "commons",
      "at": "un helicóptero"
     },
     {
-     "photo": "Aogashima Sanpo port ferry",
+     "photo": "Aogashima aerial",
      "src": "commons",
      "at": "O un barco",
      "lt": [
@@ -3326,17 +3597,28 @@
    "gen": "RkoN1z49FOdcn9HCU5gJ"
   },
   {
+   "k": "M",
+   "track": "isla",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "steam volcanic vent",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "Pero vivir dentro de un volcán también tiene ventajas. Por las grietas de la caldera sale vapor caliente. Los vecinos lo llaman hingya. Antes de que llegara la electricidad se usaba para calentar y cocinar. Hoy alimenta una sauna geotérmica, un horno donde cualquiera puede cocer huevos y boniatos, y una pequeña fábrica de sal.",
    "voice": "CON",
    "shots": [
     {
-     "photo": "Aogashima geothermal steam hingya",
-     "src": "commons",
-     "at": "Los vecinos lo llaman hingya"
+     "at": "Los vecinos lo llaman hingya",
+     "video": "japan island sea cliffs",
+     "free": true
     },
     {
-     "photo": "Aogashima sauna",
+     "photo": "Aogashima",
      "src": "commons",
      "at": "una sauna geotérmica",
      "lt": [
@@ -3345,7 +3627,7 @@
      ]
     },
     {
-     "photo": "Aogashima salt hingya",
+     "photo": "Aogashima island",
      "src": "commons",
      "at": "una pequeña fábrica de sal"
     }
@@ -3359,16 +3641,16 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Aogashima shochu",
-     "src": "commons",
      "at": "un shochu",
      "lt": [
       "Aochu",
       "shochu de Aogashima"
-     ]
+     ],
+     "video": "japan volcanic island aerial",
+     "free": true
     },
     {
-     "photo": "Aogashima road village",
+     "photo": "Hachijojima island",
      "src": "commons",
      "at": "La vida diaria"
     }
@@ -3382,17 +3664,17 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Aogashima tree ferns caldera",
+     "photo": "Aogashima",
      "src": "commons",
      "at": "una selva de helechos"
     },
     {
-     "photo": "Aogashima Maruyama forest",
-     "src": "commons",
-     "at": "el pequeño volcán"
+     "at": "el pequeño volcán",
+     "video": "volcano island ocean aerial",
+     "free": true
     },
     {
-     "photo": "Aogashima tunnel road",
+     "photo": "Aogashima aerial",
      "src": "commons",
      "at": "por un túnel"
     }
@@ -3406,14 +3688,14 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Aogashima starry sky night",
+     "photo": "Hachijojima island",
      "src": "commons",
      "at": "De noche"
     },
     {
-     "photo": "Tristan da Cunha volcano Queen Mary Peak",
-     "src": "commons",
-     "at": "mitad del Atlántico"
+     "at": "mitad del Atlántico",
+     "video": "steam volcanic vent",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VsHNKu3t1uas41GU2WbY/BpdFNewOlyH5Twp7xLHa/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=8R-JYloBdjYgc-TRTvfKrxpvLaQ=",
@@ -3422,7 +3704,13 @@
   {
    "k": "M",
    "track": "isla",
-   "secs": 8
+   "secs": 10,
+   "shots": [
+    {
+     "video": "steam volcanic vent",
+     "free": true
+    }
+   ]
   },
   {
    "k": "T",
@@ -3491,7 +3779,7 @@
      ]
     },
     {
-     "photo": "Edinburgh of the Seven Seas",
+     "photo": "Tristan da Cunha",
      "src": "commons",
      "at": "Edimburgo de los Siete Mares",
      "lt": [
@@ -3504,12 +3792,23 @@
    "gen": "nyVLJXZP10rtxdcljLpc"
   },
   {
+   "k": "M",
+   "track": "isla",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "remote island ocean aerial",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "La isla lleva el nombre del navegante portugués Tristão da Cunha, que la avistó en mil quinientos seis, aunque el mar le impidió desembarcar. Durante siglos fue solo un punto en las cartas náuticas. Los primeros pobladores permanentes llegaron a principios del siglo diecinueve, cuando Gran Bretaña instaló allí una guarnición.",
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Tristão da Cunha navigator portrait",
+     "photo": "Edinburgh of the Seven Seas",
      "src": "commons",
      "at": "Tristão da Cunha",
      "lt": [
@@ -3554,13 +3853,13 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "SA Agulhas II ship",
-     "src": "commons",
      "at": "el Agulhas Dos",
      "lt": [
       "S. A. Agulhas II",
       "buque polar sudafricano"
-     ]
+     ],
+     "video": "atlantic ocean waves island",
+     "free": true
     },
     {
      "card": {
@@ -3585,7 +3884,7 @@
      "at": "En la isla viven"
     },
     {
-     "photo": "Tristan da Cunha settlement houses",
+     "photo": "Nightingale Island Tristan",
      "src": "commons",
      "kw": "7 APELLIDOS",
      "at": "siete apellidos",
@@ -3606,19 +3905,30 @@
    "gen": "gOWyk33omhMFCdmdJG3K"
   },
   {
+   "k": "M",
+   "track": "isla",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "ocean storm waves",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "Para visitar la isla no basta con comprar un billete. Hay que pedir permiso al consejo de la isla y esperar a que haya plaza en uno de esos barcos. [short pause] Y si alguien enferma de gravedad, el hospital más cercano con todos los medios está a una semana de navegación.",
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Tristan da Cunha harbour Calshot",
+     "photo": "Tristan da Cunha Potato Patches",
      "src": "commons",
      "at": "Para visitar la isla"
     },
     {
-     "photo": "Tristan da Cunha hospital",
-     "src": "commons",
-     "at": "si alguien enferma"
+     "at": "si alguien enferma",
+     "video": "remote island ocean aerial",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/eyk2gec6d7mFHweBSFAI/8vYxbz0yRJfFZjxpCUds/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=NDZZluUpCargVjJXLNJZglwqg6Q=",
@@ -3630,12 +3940,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Tristan da Cunha settlement 1900s",
+     "photo": "Edinburgh of the Seven Seas",
      "src": "commons",
      "at": "Hace más de un siglo"
     },
     {
-     "photo": "Three Years in Tristan da Cunha Barrow book",
+     "photo": "Tristan da Cunha island",
      "src": "commons",
      "at": "Ella llevó un diario"
     }
@@ -3669,22 +3979,33 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Albatross Bar Tristan da Cunha",
-     "src": "commons",
      "at": "hasta un bar",
      "lt": [
       "Albatross Bar",
       "Edimburgo de los Siete Mares"
-     ]
+     ],
+     "video": "ocean storm waves",
+     "free": true
     },
     {
-     "photo": "Tristan da Cunha harbour boats waves",
+     "photo": "Tristan da Cunha Potato Patches",
      "src": "commons",
      "at": "Si el mar está bravo"
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9Kgj0i5Q8ADACC30vhdB/DowPPnoHmlqG8QgROw9e/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=wyYmrOC5dBsbLz8k5tNAKlGlwmo=",
    "gen": "DowPPnoHmlqG8QgROw9e"
+  },
+  {
+   "k": "M",
+   "track": "isla",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "atlantic ocean waves island",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -3754,7 +4075,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Tristan da Cunha evacuees 1961",
+     "photo": "Tristan da Cunha",
      "src": "commons",
      "at": "fueron evacuados"
     },
@@ -3764,13 +4085,13 @@
      "at": "la isla de Nightingale"
     },
     {
-     "photo": "Tristan da Cunha islanders Southampton 1961",
-     "src": "commons",
      "at": "a Inglaterra",
      "lt": [
       "Llegada a Southampton",
       "1961"
-     ]
+     ],
+     "video": "atlantic ocean waves island",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7DcyE6Eh3OySH3Y0RFKU/x5KP1Kk596WmjFpvvGTx/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=LeRaMzbmm_tyfO3NA-SjGHoLBe0=",
@@ -3782,7 +4103,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Calshot Tristan da Cunha islanders",
+     "photo": "Tristan da Cunha island",
      "src": "commons",
      "at": "Les dieron casas",
      "lt": [
@@ -3791,7 +4112,7 @@
      ]
     },
     {
-     "photo": "Tristan da Cunha return 1963",
+     "photo": "Nightingale Island Tristan",
      "src": "commons",
      "at": "la gran mayoría votó volver"
     },
@@ -3808,14 +4129,25 @@
    "gen": "empsB1mcZkGERptCaftW"
   },
   {
+   "k": "M",
+   "track": "isla",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "remote island ocean aerial",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "Es quizá la mejor respuesta a la pregunta de este documental. Esta gente había conocido la vida cómoda. Y eligió el aislamiento. [short pause] Pero no todos los que viven al límite lo eligen por amor a su tierra. A veces, lo que te ata a un lugar imposible es otra cosa. Brilla. Y pesa muy poco.",
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Edinburgh of the Seven Seas church St Mary",
-     "src": "commons",
-     "at": "Es quizá la mejor respuesta"
+     "at": "Es quizá la mejor respuesta",
+     "video": "remote island ocean aerial",
+     "free": true
     },
     {
      "photo": "gold nugget",
@@ -3832,7 +4164,13 @@
   {
    "k": "M",
    "track": "isla",
-   "secs": 8
+   "secs": 10,
+   "shots": [
+    {
+     "video": "remote island ocean aerial",
+     "free": true
+    }
+   ]
   },
   {
    "k": "B",
@@ -3869,7 +4207,7 @@
      "at": "Recapitulemos"
     },
     {
-     "photo": "Andes high altitude thin air",
+     "photo": "Tristan da Cunha",
      "src": "commons",
      "kw": "EL AIRE",
      "at": "El aire",
@@ -3938,7 +4276,7 @@
      "at": "Volvemos al principio"
     },
     {
-     "photo": "La Rinconada Bella Durmiente glacier",
+     "photo": "La Rinconada, Puno",
      "src": "commons",
      "at": "La Bella Durmiente",
      "lt": [
@@ -3947,7 +4285,7 @@
      ]
     },
     {
-     "photo": "La Rinconada Peru aerial",
+     "photo": "La Rinconada houses",
      "src": "commons",
      "at": "El asentamiento permanente más alto"
     }
@@ -3985,6 +4323,17 @@
    "gen": "8b9PHHICDbr2I1mO94Yt"
   },
   {
+   "k": "M",
+   "track": "andes",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "peru andes mountains",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "Entre dos mil y dos mil nueve, la población creció más de un doscientos treinta por ciento. Es lo que ocurrió cuando el precio del oro se disparó. Llegaban familias enteras de todo el sur del Perú, con lo puesto, a levantar casas de chapa en la nieve.",
    "voice": "NAR",
@@ -3999,9 +4348,9 @@
      "at": "más de un doscientos treinta"
     },
     {
-     "photo": "La Rinconada houses tin roofs",
-     "src": "commons",
-     "at": "casas de chapa"
+     "at": "casas de chapa",
+     "video": "high altitude Andes mountains snow",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1iR3nvJ5Tt5tg1JAlMsI/pHUvhZISCEhxYXH11OT5/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=_lSFNz3_71QsfradvloAqtv5N6Y=",
@@ -4013,12 +4362,12 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "La Rinconada street",
+     "photo": "La Rinconada Peru people",
      "src": "commons",
      "at": "El pueblo nació"
     },
     {
-     "photo": "La Rinconada pollution waste",
+     "photo": "Lake Titicaca",
      "src": "commons",
      "at": "Mercurio, cianuro"
     }
@@ -4032,12 +4381,12 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "La Rinconada houses",
-     "src": "commons",
-     "at": "La mayoría de las casas"
+     "at": "La mayoría de las casas",
+     "video": "peru andes mountains",
+     "free": true
     },
     {
-     "photo": "La Rinconada road mountain",
+     "photo": "La Rinconada, Puno",
      "src": "commons",
      "at": "por una carretera de montaña"
     }
@@ -4051,17 +4400,17 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "La Rinconada mine entrance",
+     "photo": "La Rinconada houses",
      "src": "commons",
      "at": "Y luego está el trabajo"
     },
     {
-     "photo": "La Rinconada miners",
-     "src": "commons",
      "kw": "CACHORREO",
      "at": "cachorreo",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "video": "mountain dawn snow peaks",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wTgtEFni4fgNsxltZZhV/mBHWRT1rV2tvO6BkQ4Qi/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=kRUEgYgB5oxxbGqoaBKrC_jX_r4=",
@@ -4093,12 +4442,12 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "La Rinconada gold ore",
+     "photo": "La Rinconada Peru people",
      "src": "commons",
      "at": "Es una lotería"
     },
     {
-     "photo": "pallaqueras La Rinconada women",
+     "photo": "Lake Titicaca",
      "src": "commons",
      "at": "las pallaqueras",
      "lt": [
@@ -4111,14 +4460,25 @@
    "gen": "6oBqjJYr45x7VpuszMDH"
   },
   {
+   "k": "M",
+   "track": "andes",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "mountain dawn snow peaks",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "[short pause] Un hombre llamado Castañeda se lo describió así a la revista de viajes Roads and Kingdoms:",
    "voice": "NAR",
    "shots": [
     {
-     "photo": "La Rinconada night",
-     "src": "commons",
-     "at": "Un hombre llamado"
+     "at": "Un hombre llamado",
+     "video": "andes peru altiplano",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cwHwZWAi10uaTUClMEo9/VVYHSuibZ0MMQ6XpOEDO/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=X3eVexT8-kRGT0mWOOzi2iw5IXI=",
@@ -4147,12 +4507,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "La Rinconada snow houses",
+     "photo": "La Rinconada, Puno",
      "src": "commons",
      "at": "La temperatura media"
     },
     {
-     "photo": "La Rinconada garbage slope",
+     "photo": "La Rinconada houses",
      "src": "commons",
      "at": "la basura se acumula"
     }
@@ -4166,9 +4526,9 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "La Rinconada glacier lake",
-     "src": "commons",
-     "at": "se encoge año tras año"
+     "at": "se encoge año tras año",
+     "video": "high altitude Andes mountains snow",
+     "free": true
     },
     {
      "photo": "Lake Titicaca",
@@ -4189,7 +4549,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "La Rinconada town night",
+     "photo": "La Rinconada Peru people",
      "src": "commons",
      "kw": "SIN LEY",
      "at": "la ciudad sin ley",
@@ -4197,13 +4557,24 @@
      "kw_dur": 2.2
     },
     {
-     "photo": "La Rinconada gold miners mountain",
+     "photo": "Lake Titicaca",
      "src": "commons",
      "at": "El oro informal"
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZGJqeglW35an9OmtD1Lk/jwS0H9EVgd9ZdI9SzWWr/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=n2X052ULitfBUWrE5w6e9pIZ-0Q=",
    "gen": "jwS0H9EVgd9ZdI9SzWWr"
+  },
+  {
+   "k": "M",
+   "track": "andes",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "andes peru altiplano",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -4233,9 +4604,9 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "La Rinconada Peru miners town",
-     "src": "commons",
-     "at": "En dos mil diecinueve"
+     "at": "En dos mil diecinueve",
+     "video": "peru andes mountains",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WU5ku7Dvp6MHfTmm7RM3/FRcdVSIGZa4muolyVQSG/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=VxC7KSzI95AFFsDr6aqOEQRE-WY=",
@@ -4334,7 +4705,7 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "La Rinconada Peru people",
+     "photo": "La Rinconada, Puno",
      "src": "commons",
      "at": "La sangre se vuelve espesa"
     },
@@ -4351,12 +4722,23 @@
    "gen": "qW4NiErxEiIwGWPvEmtg"
   },
   {
+   "k": "M",
+   "track": "andes",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "high altitude Andes mountains snow",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "¿Y por qué no se van? Porque, para muchas familias de los Andes, La Rinconada es la única oportunidad real de ganar mucho más de lo que ganarían en su pueblo. Con un buen golpe de suerte, la vida de toda una familia puede cambiar. Y basta una historia así para que muchos otros lo intenten.",
    "voice": "NAR",
    "shots": [
     {
-     "photo": "La Rinconada Peru families",
+     "photo": "La Rinconada houses",
      "src": "commons",
      "at": "Y por qué no se van"
     },
@@ -4378,12 +4760,12 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "La Rinconada mountain miners",
-     "src": "commons",
-     "at": "Muchos no piensan"
+     "at": "Muchos no piensan",
+     "video": "mountain dawn snow peaks",
+     "free": true
     },
     {
-     "photo": "La Rinconada mine snow",
+     "photo": "La Rinconada Peru people",
      "src": "commons",
      "at": "la montaña se queda"
     }
@@ -4397,7 +4779,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "La Rinconada mine workers morning",
+     "photo": "Lake Titicaca",
      "src": "commons",
      "at": "por la mañana"
     },
@@ -4413,7 +4795,13 @@
   {
    "k": "M",
    "track": "andes",
-   "secs": 9
+   "secs": 9,
+   "shots": [
+    {
+     "video": "high altitude Andes mountains snow",
+     "free": true
+    }
+   ]
   },
   {
    "k": "T",
@@ -4526,7 +4914,7 @@
      "at": "el níquel de Norilsk"
     },
     {
-     "photo": "La Rinconada gold mine",
+     "photo": "Begich Towers",
      "src": "commons",
      "at": "el oro de La Rinconada"
     }
@@ -4535,25 +4923,36 @@
    "gen": "dMrMEJ2OqcCwNssZlu91"
   },
   {
+   "k": "M",
+   "track": "tema",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "earth from space night lights",
+     "free": true
+    }
+   ]
+  },
+  {
    "k": "N",
    "text": "La segunda es la costumbre. Para quien ha nacido en Oimiakón, cuarenta bajo cero no es una hazaña. Es martes. Y para un niño de Whittier, ir al colegio por un túnel es lo más normal del mundo.",
    "voice": "CON",
    "shots": [
     {
-     "photo": "Oymyakon children winter",
+     "photo": "Tristan da Cunha island",
      "src": "commons",
      "at": "Para quien ha nacido en Oimiakón"
     },
     {
-     "photo": "Oymyakon street winter",
-     "src": "commons",
      "kw": "ES MARTES",
      "at": "Es martes",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "video": "aerial mountains clouds sunrise",
+     "free": true
     },
     {
-     "photo": "Begich Towers Whittier",
+     "photo": "Begich Towers",
      "src": "commons",
      "at": "un niño de Whittier"
     }
@@ -4572,7 +4971,7 @@
      "at": "Y la tercera"
     },
     {
-     "photo": "Edinburgh of the Seven Seas",
+     "photo": "Tristan da Cunha island",
      "src": "commons",
      "at": "Pertenecer a un sitio"
     }
@@ -4586,17 +4985,17 @@
    "voice": "CON",
    "shots": [
     {
-     "photo": "Yakutsk thawing permafrost",
-     "src": "commons",
-     "at": "El permafrost de Yakutsk"
+     "at": "El permafrost de Yakutsk",
+     "video": "earth from space night lights",
+     "free": true
     },
     {
-     "photo": "La Rinconada glacier",
+     "photo": "Begich Towers",
      "src": "commons",
      "at": "El glaciar de La Rinconada"
     },
     {
-     "photo": "Svalbard glacier melting",
+     "photo": "Tristan da Cunha island",
      "src": "commons",
      "at": "En Svalbard"
     }
@@ -4620,13 +5019,24 @@
      "at": "En Tristán"
     },
     {
-     "photo": "Kolyma highway winter truck",
-     "src": "commons",
-     "at": "En Yakutia"
+     "at": "En Yakutia",
+     "video": "aerial mountains clouds sunrise",
+     "free": true
     }
    ],
    "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YoC4vvSBfvkf7irrbFTR/kQrJOCZDgrFlgQq3iOga/content.mp3?Expires=1795053600&KeyName=assets-cdn-key-1&Signature=LtECXL452Dph6fnTLqwgEFl5kG0=",
    "gen": "kQrJOCZDgrFlgQq3iOga"
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 10,
+   "shots": [
+    {
+     "video": "aerial mountains clouds sunrise",
+     "free": true
+    }
+   ]
   },
   {
    "k": "N",
@@ -4648,12 +5058,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "La Rinconada miners walking",
+     "photo": "Begich Towers",
      "src": "commons",
      "at": "De mineros"
     },
     {
-     "photo": "Oymyakon school children",
+     "photo": "Tristan da Cunha island",
      "src": "commons",
      "at": "De niños"
     },
@@ -4672,9 +5082,9 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "La Rinconada Peru glacier",
-     "src": "commons",
-     "at": "Y tú"
+     "at": "Y tú",
+     "video": "earth from space night lights",
+     "free": true
     },
     {
      "card": {
@@ -4692,7 +5102,13 @@
    "k": "M",
    "track": "tema",
    "secs": 12,
-   "end": true
+   "end": true,
+   "shots": [
+    {
+     "video": "aerial mountains clouds sunrise",
+     "free": true
+    }
+   ]
   }
  ]
 }

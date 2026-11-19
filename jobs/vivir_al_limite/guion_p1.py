@@ -100,7 +100,7 @@ N("Esos pozos son un peligro real. Alrededor del pueblo hay campos de minas aban
 C("Aquí, para escapar del calor, se excava hacia abajo. [short pause] Ahora vamos a un lugar donde el problema es exactamente el contrario. Donde salir a la calle sin protección puede congelarte la piel en minutos.",
   ph('Coober Pedy sunset', at='Aquí, para escapar'),
   vd('Siberia winter frost', at='Ahora vamos'))
-M('desierto', 8)
+M('desierto', 10)
 
 # ---------------- 2 · OIMIAKÓN ----------------
 T('El polo del frío', 'Oimiakón, Rusia', secs=4.5, sting='tension')
@@ -161,7 +161,7 @@ C("A unos novecientos kilómetros por carretera está la capital de Yakutia. All
 N("Esa carretera tiene un nombre terrible: la llaman la carretera de los huesos. La construyeron, en tiempos de Stalin, presos de los campos de trabajo del Gulag. Muchos murieron durante las obras. Hoy sigue siendo la única vía terrestre que une esta parte de Siberia con el resto del país.",
   ph('Kolyma highway', at='la carretera de los huesos', lt=['Carretera de Kolimá', 'la «carretera de los huesos»']),
   ph('Kolyma highway Gulag history', at='presos de los campos'))
-M('frio', 8)
+M('frio', 10)
 
 # ---------------- 3 · YAKUTSK ----------------
 T('Sobre hielo', 'Yakutsk, Rusia', secs=4.5, sting='tension')
@@ -209,4 +209,4 @@ N("¿Y por qué tanta gente aquí? Primero fueron las pieles, desde el siglo die
   ph('Yakutsk fortress wooden tower', at='Primero fueron las pieles'),
   ph('Mir diamond mine Mirny', at='los diamantes de Yakutia', lt=['Mina de diamantes Mir', 'Yakutia']),
   ph('Norilsk city', at='Una ciudad a la que'))
-M('frio', 8)
+M('frio', 10)

@@ -54,7 +54,7 @@ C("¿Y por qué se vive aquí? Por los sueldos, mucho más altos que en el resto
   ph('Norilsk colorful buildings', at='Edificios de colores'),
   ph('Norilsk mosque Nurd Kamal', at='una de las mezquitas', lt=['Mezquita Nurd Kamal', 'Norilsk']),
   vd('arctic city winter night lights', at='semanas enteras'))
-M('industria', 8)
+M('industria', 10)
 
 # ---------------- RECAPITULACIÓN 1 ----------------
 B('tema')
@@ -113,7 +113,7 @@ C("Hay más rarezas. Las calles no tienen nombre, tienen número. Y los gatos es
   ph('Longyearbyen street road number', at='Las calles no tienen nombre'),
   ph('Svalbard birds Arctic tern', at='para proteger a las aves'),
   ph('Begich Towers Whittier Alaska', at='bajo el mismo techo'))
-M('noche', 8)
+M('noche', 10)
 
 # ---------------- 6 · WHITTIER ----------------
 T('Un pueblo en un edificio', 'Whittier, Alaska', secs=4.5, sting='tension')
@@ -156,7 +156,7 @@ C("Pero otros lo ven al revés: un pueblo donde todo el mundo se conoce y donde 
   ph('Whittier cruise ship harbor', at='En verano llegan los cruceros'),
   ph('Begich Towers winter', at='dentro de una torre'),
   ph('Aogashima aerial', at='dentro de un volcán'))
-M('frio', 8)
+M('frio', 10)
 
 # ---------------- 7 · AOGASHIMA ----------------
 T('Dentro del volcán', 'Aogashima, Japón', secs=4.5, sting='tension')
@@ -196,4 +196,4 @@ N("Y quien llega se encuentra un paisaje que no parece de este mundo: dentro de 
 N("De noche, sin apenas luz artificial, el cielo de Aogashima es uno de los más limpios de Japón. [pause] Un volcán que mató a casi la mitad de sus vecinos se ha convertido en el corazón de la isla. Pero hay un lugar todavía más solitario. Una isla volcánica en mitad del Atlántico, donde no se puede llegar en avión.",
   ph('Aogashima starry sky night', at='De noche'),
   ph('Tristan da Cunha volcano Queen Mary Peak', at='mitad del Atlántico'))
-M('isla', 8)
+M('isla', 10)

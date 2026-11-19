@@ -47,6 +47,66 @@ if all(u.get('clip') for u in U if u['k'] in ('N', 'R')):
         U[:] = out; lib.U[:] = out
     print(f'estimado final: {est(U)/60:.1f} min')
 
+
+# ---------- v3.2: material por capítulo, respiraciones con imagen y alineación conservada ----------
+CHQ = {
+ 'intro': dict(p=['La Rinconada in Perú, the highest city on earth', 'Begich Towers', 'Longyearbyen polar night', 'Coober Pedy underground'], v=['earth from space night lights', 'mountain fog dawn', 'aerial mountains clouds sunrise']),
+ 'coober': dict(p=['Coober Pedy', 'Coober Pedy opal fields', 'Coober Pedy underground', 'Coober Pedy opal', 'Coober Pedy South Australia'], v=['australia outback desert', 'desert heat haze', 'opal stone']),
+ 'oimiakon': dict(p=['Oymyakon', 'Yakutia winter', 'Kolyma highway', 'Sakha Republic winter', 'Oymyakon winter'], v=['siberia winter village', 'Siberia winter frost', 'frozen breath winter cold', 'snow forest winter frost']),
+ 'yakutsk': dict(p=['Yakutsk', 'Yakutsk winter street', 'Lena river Yakutsk', 'Yakutsk Mammoth Museum', 'Yakutsk panorama'], v=['yakutsk', 'siberia city winter', 'frozen river winter']),
+ 'norilsk': dict(p=['Norilsk', 'Norilsk winter street', 'Talnakh Norilsk district', 'Norilsk Nickel plant', 'Norilsk building piles', 'Norilsk abandoned building'], v=['arctic city winter night lights', 'industrial smoke chimney winter', 'tundra winter']),
+ 'longyear': dict(p=['Longyearbyen', 'Longyearbyen polar night', 'Svalbard Global Seed Vault', 'polar bear Svalbard', 'Longyearbyen cemetery'], v=['svalbard', 'polar night arctic', 'northern lights aurora Svalbard', 'midnight sun arctic']),
+ 'whittier': dict(p=['Begich Towers', 'Whittier, Alaska', 'Buckner Building Whittier', 'Anton Anderson Memorial Tunnel', 'Begich Towers Whittier Alaska'], v=['Whittier Alaska', 'Alaska rain storm fjord', 'alaska fjord glacier', 'Whittier tunnel']),
+ 'aogashima': dict(p=['Aogashima', 'Aogashima island', 'Aogashima aerial', 'Hachijojima island'], v=['japan volcanic island aerial', 'volcano island ocean aerial', 'steam volcanic vent', 'japan island sea cliffs']),
+ 'tristan': dict(p=['Tristan da Cunha', 'Edinburgh of the Seven Seas', 'Tristan da Cunha island', 'Nightingale Island Tristan', 'Tristan da Cunha Potato Patches'], v=['atlantic ocean waves island', 'remote island ocean aerial', 'ocean storm waves']),
+ 'rinconada': dict(p=['La Rinconada, Puno', 'La Rinconada houses', 'La Rinconada street', 'La Rinconada Peru people', 'Lake Titicaca', 'La Rinconada in Perú, the highest city on earth'], v=['high altitude Andes mountains snow', 'peru andes mountains', 'mountain dawn snow peaks', 'andes peru altiplano']),
+ 'final': dict(p=['Begich Towers', 'Tristan da Cunha island', 'La Rinconada houses'], v=['aerial mountains clouds sunrise', 'earth from space night lights']),
+}
+T2C = {'Bajo tierra':'coober','El polo del frío':'oimiakon','Sobre hielo':'yakutsk','La ciudad cerrada':'norilsk','La noche polar':'longyear','Un pueblo en un edificio':'whittier','Dentro del volcán':'aogashima','El fin del mundo':'tristan','El techo del mundo':'rinconada','¿Por qué se quedan?':'final'}
+BAD = json.load(open(os.path.join(HERE, 'bad_keys.json'))) if os.path.exists(os.path.join(HERE, 'bad_keys.json')) else {}
+for i, u in enumerate(U): u['oi'] = i
+cur = 'intro'; rot = {}; nrep = 0
+for u in U:
+    if u['k'] == 'T' and u['card']['title'] in T2C: cur = T2C[u['card']['title']]
+    u['ch'] = cur
+    for s in u.get('shots', []):
+        key = ('video:' + s['video']) if 'video' in s else (('photo:' + s['photo']) if 'photo' in s else None)
+        if key and key in BAD:
+            r = rot.get(cur, 0); rot[cur] = r + 1; L = CHQ[cur]
+            if r % 3 == 2: s.pop('photo', None); s.pop('src', None); s['video'] = L['v'][(r // 3) % len(L['v'])]; s['free'] = True
+            else: s.pop('video', None); s.pop('free', None); s['photo'] = L['p'][r % len(L['p'])]; s['src'] = 'commons'
+            if s.get('lt') and s['lt'][-1:] and s['lt'][0] in ('Oimiakón', 'Yakutsk', 'Norilsk', 'Coober Pedy', 'Longyearbyen', 'Whittier', 'Aogashima', 'Tristán de Acuña', 'La Rinconada') and 'video' in s: s.pop('lt')
+            nrep += 1
+print('planos con consulta sustituida:', nrep)
+# respiraciones de música con imagen del lugar: cada ~165 palabras, entre dos unidades de narración
+BED = 'tema'; out = []; acc = 0; vrot = {}; nb = 0
+def breath(ch, secs=10):
+    r = vrot.get(ch, 0); vrot[ch] = r + 1; L = CHQ[ch]
+    return dict(k='M', track=BED, secs=secs, ch=ch, shots=[dict(video=L['v'][(r + 1) % len(L['v'])], free=True)])
+for j, u in enumerate(U):
+    if u['k'] == 'B': BED = u['track']
+    if u['k'] == 'M' and not u.get('shots'):
+        r = vrot.get(u['ch'], 0); vrot[u['ch']] = r + 1; L = CHQ[u['ch']]
+        u['shots'] = [dict(video=L['v'][r % len(L['v'])], free=True)]
+    out.append(u)
+    if u.get('text') and u['k'] in ('N', 'R'): acc += words(u['text'])
+    nxt = U[j + 1] if j + 1 < len(U) else None
+    if acc >= 165 and u['k'] == 'N' and nxt and nxt['k'] == 'N':
+        out.append(breath(u['ch'])); acc = 0; nb += 1
+U[:] = out; lib.U[:] = out
+print('respiraciones añadidas:', nb)
+# alineación previa: reindexa align.json al nuevo orden de unidades (evita volver a transcribir)
+AP = os.path.join(HERE, 'align_cast1.json')
+if os.path.exists(AP):
+    pre = json.load(open(AP)); new = {}
+    for i, u in enumerate(U):
+        o = u.get('oi')
+        if o is not None and str(o) in pre and u.get('url'):
+            new[str(i)] = dict(key=f"{i}:{u['url'][-40:]}", words=pre[str(o)]['words'])
+    json.dump(new, open(os.path.join(HERE, 'align.json'), 'w'), ensure_ascii=False)
+    print('alineación reindexada:', len(new))
+for u in U: u.pop('oi', None); u.pop('ch', None)
+
 job = {
     'id': 'vivir_al_limite', 'title': 'Vivir al límite', 'channel': 'DocuVox', 'stage': stage,
     'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 2, 'gap': 600}, 'auto_sfx': {}, 'sfx_max': 5,

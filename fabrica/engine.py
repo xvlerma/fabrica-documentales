@@ -637,6 +637,7 @@ def run(job_dir):
     job = json.load(open(f'{job_dir}/job.json')); U = job['units']
     out_dir = f'{job_dir}/out'; wd = '/tmp/fabrica_work'; os.makedirs(out_dir, exist_ok=True); os.makedirs(f'{wd}/shots', exist_ok=True)
     random.seed(job.get('seed', 7)); credits = []; MUST[:] = job.get('must', [])
+    SRC.SEGURO = job.get('seguro', True)  # modo seguro por defecto (docs/RECURSOS.md)
     global GRADE
     th = CARDS.set_theme(job.get('theme', 'antiguo')); g = th.get('grade', 'calido'); GRADE = GRADES.get(g, g)
     log(f'== piel: {th.get("uso", job.get("theme"))} · etalonaje {g}')

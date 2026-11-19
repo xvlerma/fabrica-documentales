@@ -19,7 +19,7 @@ FUENTES = {
     'cnig':         dict(nombre='CNIG', dominios=('cnig.es', 'ign.es'), licencia='CC BY 4.0 (ign.es)', credito='{title} © Instituto Geográfico Nacional / CNIG'),
     # 3 · cine y archivo histórico
     'archive':      dict(nombre='Internet Archive / Prelinger', dominios=('archive.org',), licencia='', credito='por_licencia',
-                         aviso='archivo de cine: confirma derechos de la película y de su banda sonora'),
+                         aviso='archivo de cine sin dominio público explícito: confirma derechos de la película y de su banda sonora'),
     'loc':          dict(nombre='Library of Congress', dominios=('loc.gov',), licencia='No known restrictions (LoC)', credito=None),
     'nara':         dict(nombre='US National Archives', dominios=('archives.gov',), licencia='Dominio público (NARA)', credito=None),
     # 4 · arte y foto de época
@@ -70,6 +70,10 @@ FUENTES = {
                          credito='Sound effects obtained from https://www.zapsplat.com', fijo=True),
 }
 AUDIO_KINDS = ('música', 'sonido')
+# Modo seguro (por defecto; "seguro": false en job.json lo desactiva): solo fuentes con licencia comercial explícita.
+# Fuera siempre: Coverr (mezcla clips IA/premium), Pixabay Music y Openverse/ccMixter (riesgo de terceros), Biblioteca de YouTube estándar.
+# Cualquier aviso bloquea, salvo recursos manuales marcados "revisado": true tras comprobar su ficha.
+VETADAS_SEGURO = ('coverr', 'pixabay_music', 'openverse', 'youtube_std')
 PROPIOS = ('ia', 'elevenlabs', 'docuvox', 'narrador')  # material propio: no va a los créditos públicos ni se revisa
 
 
@@ -126,6 +130,7 @@ def credito_publico(kind, c, fuente):
 def revisa(credits, job=None):
     """Devuelve (fichas, bloqueos, avisos) para la lista [(tipo, recurso), ...] del motor."""
     job = job or {}; fichas, bloq, avis = [], [], []; seen = set(); hoy = datetime.date.today().isoformat()
+    seguro = job.get('seguro', True)
     for kind, c in credits:
         cid = c.get('id') or c.get('url')
         if cid in seen or propio(c): continue
@@ -141,15 +146,21 @@ def revisa(credits, job=None):
         if audio and f.get('solo_yt'): bloq.append(f'{ref}: solo vale para YouTube y el audio del máster también va a iVoox')
         if necesita and not cr: bloq.append(f'{ref}: necesita crédito y no lo tiene')
         if necesita and cr and fu in ('youtube_cc',) and len(cr) < 20: bloq.append(f'{ref}: copia el texto completo del icono CC de YouTube Studio')
-        if _sa(lic) and not audio: avis.append(f'{ref}: licencia CompartirIgual ({lic}); acredita y no la uses en la miniatura')
-        if f.get('aviso'): avis.append(f"{ref}: {f['aviso']}")
+        if _sa(lic): (bloq if seguro else avis).append(f'{ref}: licencia CompartirIgual ({lic})' + (' vetada en modo seguro' if seguro else '; acredita y no la uses en la miniatura'))
+        aviso = f.get('aviso')
+        if fu == 'archive' and _es_libre(lic) and not audio: aviso = None          # dominio público explícito en la ficha
+        if fu == 'nasa' and not c.get('fuente'): aviso = None                      # búsqueda NASA: ya descarta material de terceros
+        if c.get('revisado'): aviso = None
+        if aviso: (bloq if seguro else avis).append(f'{ref}: {aviso}' + (' (marca "revisado": true tras comprobar la ficha)' if seguro and c.get('fuente') else ''))
+        if seguro and fu in VETADAS_SEGURO: bloq.append(f'{ref}: fuente vetada en modo seguro')
+        if seguro and audio and fu == 'archive': bloq.append(f'{ref}: música/sonido de Internet Archive vetado en modo seguro (licencia puesta por quien lo sube)')
         fichas.append(dict(tipo=kind, fuente=fu or 'desconocida', nombre_fuente=f.get('nombre', ''), titulo=c.get('title') or c.get('name') or '',
                            autor=c.get('credit', ''), licencia=lic, pagina=c.get('page', ''), url=c.get('url', ''), fecha_descarga=hoy,
                            credito=cr or '', destinos=['youtube', 'ivoox'] if audio else ['youtube'], nota=f.get('nota', '')))
     # Incompetech en pódcast: crédito locutado al cierre de iVoox (pauta prudente)
     if any(x['fuente'] == 'incompetech' for x in fichas):
         texto = ' '.join(str(u.get('text', '')) for u in (job.get('units') or [])[-6:]).lower()
-        if 'macleod' not in texto: avis.append('Incompetech: añade al cierre la línea de locucion_cierre.txt (versión iVoox)')
+        if 'macleod' not in texto: (bloq if seguro else avis).append('Incompetech: añade al cierre la línea de locucion_cierre.txt (versión iVoox)')
     return fichas, bloq, avis
 
 
@@ -166,9 +177,10 @@ def escribe(out_dir, credits, job=None):
     loc = [FUENTES[k]['locucion'] for k in {x['fuente'] for x in fichas} if FUENTES.get(k, {}).get('locucion')]
     if loc: open(f'{out_dir}/locucion_cierre.txt', 'w').write('\n'.join(loc) + '\n')
     ok = not bloq
-    est = [f"PUBLICAR: {'SÍ' if ok else 'NO'}", f'recursos revisados: {len(fichas)} · créditos públicos: {len(lines)}', '']
+    est = [f"PUBLICAR: {'SÍ' if ok else 'NO'}", f"modo: {'seguro' if (job or {}).get('seguro', True) else 'normal'} · recursos revisados: {len(fichas)} · créditos públicos: {len(lines)}", '']
     if bloq: est += ['BLOQUEOS (corregir antes de publicar):'] + [f'- {b}' for b in bloq] + ['']
     if avis: est += ['AVISOS (revisar):'] + [f'- {a}' for a in avis] + ['']
-    est += ['Antes de publicar: pega creditos_publicos.txt en la descripción de YouTube y de iVoox, sube en privado y revisa las comprobaciones de Studio.']
+    est += ['Si llega una reclamación de Content ID: disputa con la ficha del recurso en licencias.json (página, licencia y fecha).',
+            'Antes de publicar: pega creditos_publicos.txt en la descripción de YouTube y de iVoox, sube en privado y revisa las comprobaciones de Studio.']
     open(f'{out_dir}/licencias_estado.txt', 'w').write('\n'.join(est) + '\n')
     return ok, bloq, avis

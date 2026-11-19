@@ -2,6 +2,16 @@
 
 Fuentes gratuitas, orden de uso y condición de cada una. El control automático está en `fabrica/licencias.py`.
 
+## Modo seguro (activado por defecto)
+La fábrica solo acepta fuentes con licencia comercial explícita del autor o de la institución. En modo seguro:
+- **Vetadas**: Coverr, Pixabay Music, Openverse/ccMixter, música y sonido de Internet Archive, Biblioteca de YouTube con licencia estándar, y cualquier licencia NC, ND o CompartirIgual (SA).
+- **Vídeo de Internet Archive** solo con dominio público explícito en la ficha.
+- **Cualquier aviso bloquea.** Un recurso manual con aviso (NASA por URL, por ejemplo) solo pasa si añades `"revisado": true` después de comprobar su ficha.
+- Incompetech bloquea si el cierre del guion no incluye la línea de `locucion_cierre.txt`.
+- Para desactivarlo en un episodio concreto: `"seguro": false` en job.json (no recomendado).
+
+Riesgo que queda: YouTube puede lanzar una reclamación automática de Content ID equivocada incluso sobre material libre. No es un aviso de copyright (strike): se disputa con la ficha del recurso en `out/licencias.json`.
+
 ## Reglas fijas
 1. **Ficha de cada recurso**: URL de la ficha, autor, licencia, fecha de descarga y crédito exacto. La fábrica la escribe en `out/licencias.json`.
 2. **Si un recurso necesita crédito y no lo tiene, el episodio no se publica.** Mira `out/licencias_estado.txt`: debe decir `PUBLICAR: SÍ`.

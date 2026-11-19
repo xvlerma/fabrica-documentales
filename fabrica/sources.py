@@ -5,6 +5,10 @@ import os, json, time, hashlib, urllib.parse, urllib.request
 UA = 'fabrica-documentales/1.0 (https://github.com/xvlerma/fabrica-documentales)'
 CACHE = os.environ.get('FABRICA_CACHE', '/tmp/fabrica_cache')
 os.makedirs(CACHE, exist_ok=True)
+# Modo seguro (por defecto): sin CompartirIgual, sin música de Internet Archive ni ccMixter, archivo de vídeo solo con dominio público explícito.
+SEGURO = os.environ.get('FABRICA_SEGURO', '1') != '0'
+import re as _re0
+def _sa(l): return bool(_re0.search(r'(^|[^a-z])sa([^a-z]|$)', (l or '').lower())) or 'sharealike' in (l or '').lower()
 OK_LIC = ('cc0', 'pdm', 'public domain', 'cc by', 'cc-by', 'by', 'by-sa', 'cc by-sa', 'pixabay', 'no restrictions', 'attribution')
 
 _last = {}
@@ -68,6 +72,7 @@ def commons_search(q, video=False, n=10):
         ii = (p.get('imageinfo') or [{}])[0]; m = ii.get('extmetadata', {})
         lic = (m.get('LicenseShortName', {}) or {}).get('value', '')
         if not any(x in lic.lower() for x in OK_LIC) or 'nc' in lic.lower().replace('nc-', 'nc '): continue
+        if SEGURO and (_sa(lic) or 'nd' in lic.lower().replace('-', ' ').split()): continue
         art = (m.get('Artist', {}) or {}).get('value', '')
         import re; art = re.sub('<[^>]+>', '', art).strip()[:80] or 'Wikimedia Commons'
         if video:
@@ -94,7 +99,8 @@ def commons_file(title):
                     license=(m.get('LicenseShortName', {}) or {}).get('value', ''), page=ii.get('descriptionurl'), id='wm' + str(p.get('pageid')))
 
 def archive_videos(q, n=8):
-    u = ('https://archive.org/advancedsearch.php?q=' + urllib.parse.quote(f'({q}) AND mediatype:movies AND (licenseurl:*publicdomain* OR collection:prelinger)')
+    lic = 'licenseurl:*publicdomain*' if SEGURO else '(licenseurl:*publicdomain* OR collection:prelinger)'
+    u = ('https://archive.org/advancedsearch.php?q=' + urllib.parse.quote(f'({q}) AND mediatype:movies AND {lic}')
          + f'&fl[]=identifier&fl[]=title&rows={n}&output=json')
     try: docs = _json(u)['response']['docs']
     except Exception: return []
@@ -122,7 +128,7 @@ def europeana(q, video=False, n=10):
         url = (it.get('edmIsShownBy') or [None])[0]
         if not url: continue
         rights = (it.get('rights') or [''])[0]
-        if 'nc' in rights.lower(): continue
+        if 'nc' in rights.lower() or (SEGURO and ('by-sa' in rights.lower() or 'by-nd' in rights.lower() or 'rightsstatements' in rights.lower())): continue
         out.append(dict(kind='video' if video else 'image', url=url, w=0, h=0, dur=0, credit=(it.get('dataProvider') or ['Europeana'])[0],
                         license=rights, page=it.get('guid'), id='eu' + it.get('id', '').replace('/', '_')))
     return out
@@ -247,6 +253,7 @@ MUSIC_SRC = dict(archive=archive_music, commons=commons_music, openverse=openver
 def music_search(q, src='archive,commons,openverse,freesound', n=8):
     out = []
     for s_ in src.split(','):
+        if SEGURO and s_.strip() in ('archive', 'openverse'): continue  # etiquetas de licencia puestas por quien sube: fuera en modo seguro
         fn = MUSIC_SRC.get(s_.strip())
         if not fn: continue
         try: out += [c for c in fn(q, n) if c['id'] not in {x['id'] for x in out}]
@@ -323,7 +330,8 @@ def manual(v, kind):
     title = v.get('title', '')
     credit = v.get('credit') or (f.get('credito', '').format(title=title or 'Pista') if f.get('credito') else f.get('nombre', v.get('fuente', '')))
     return dict(kind=kind, url=v['url'], w=0, h=0, dur=0, title=title, credit=credit, license=v.get('license') or f.get('licencia', ''),
-                page=v.get('page') or v['url'], id=v.get('fuente', 'man') + hashlib.sha1(v['url'].encode()).hexdigest()[:12], fuente=v.get('fuente'))
+                page=v.get('page') or v['url'], id=v.get('fuente', 'man') + hashlib.sha1(v['url'].encode()).hexdigest()[:12], fuente=v.get('fuente'),
+                revisado=bool(v.get('revisado')))
 
 def mixkit_music(url, title=''): return manual(dict(url=url, fuente='mixkit_music', title=title), 'audio')
 def buckley(url, title=''): return manual(dict(url=url, fuente='buckley', title=title), 'audio')

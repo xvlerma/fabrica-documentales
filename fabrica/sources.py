@@ -173,6 +173,21 @@ def _music_ok(lic):
     if any(x in l for x in ('nc', '-nd', ' nd', 'sa', 'noderiv', 'sharealike', 'noncommercial')): return False
     return any(x in l for x in MUSIC_OK) or l.strip() in ('by', 'cc by')
 
+def openverse_images(q, n=12):
+    """v3.2: fotos de Openverse (Flickr y otros) con licencia libre sin SA: CC0, PDM, CC BY. Tamaño grande."""
+    u = (f'https://api.openverse.org/v1/images/?q={urllib.parse.quote(q)}&license=cc0,pdm,by&size=large'
+         f'&page_size={n}&mature=false')
+    try: res = _json(u).get('results', [])
+    except Exception: return []
+    out = []
+    for r in res:
+        if not r.get('url') or (r.get('width') or 0) < 1200: continue
+        lic = 'CC0' if r.get('license') == 'cc0' else ('Public domain mark' if r.get('license') == 'pdm' else f"CC BY {r.get('license_version','')}".strip())
+        out.append(dict(kind='image', url=r['url'], w=r.get('width', 0), h=r.get('height', 0), dur=0, title=r.get('title', '') or '',
+                        thumb=r.get('thumbnail'), credit=f"{(r.get('creator') or '')[:60]} / {r.get('source','')}", license=lic,
+                        page=r.get('foreign_landing_url'), id='ovi' + r['id'], tags=' '.join(t.get('name', '') for t in (r.get('tags') or [])[:15])))
+    return out
+
 def openverse_music(q, n=10):
     """Openverse (Wikimedia, Freesound, ccMixter). Jamendo excluido a propósito."""
     u = (f'https://api.openverse.org/v1/audio/?q={urllib.parse.quote(q)}&license=cc0,pdm,by&category=music'

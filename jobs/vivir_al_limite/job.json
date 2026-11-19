@@ -145,7 +145,7 @@
  "seed": 5100,
  "qpicks": {},
  "picks": {},
- "rev": 2,
+ "rev": 3,
  "units": [
   {
    "k": "B",
@@ -163,11 +163,11 @@
       "Andes del Perú · 5.100 m"
      ],
      "photo": "La Rinconada in Perú, the highest city on earth",
-     "src": "commons"
+     "src": "openverse,commons"
     },
     {
      "photo": "Begich Towers",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "No hay árboles"
     },
     {
@@ -186,12 +186,12 @@
    "shots": [
     {
      "photo": "Coober Pedy underground",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Durante treinta días"
     },
     {
      "photo": "gold nugget",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "ORO",
      "at": "Puede ser oro",
      "kw_at": 0.4,
@@ -208,7 +208,7 @@
    "shots": [
     {
      "photo": "La Rinconada in Perú, the highest city on earth",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "La Rinconada, en Perú",
      "lt": [
       "La Rinconada",
@@ -222,12 +222,12 @@
     },
     {
      "photo": "Longyearbyen polar night",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "setenta grados bajo cero"
     },
     {
      "photo": "Coober Pedy underground",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Una ciudad sobre hielo"
     },
     {
@@ -237,7 +237,7 @@
     },
     {
      "photo": "Begich Towers",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Y una isla"
     }
    ],
@@ -251,7 +251,7 @@
    "shots": [
     {
      "photo": "Longyearbyen polar night",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Esta es la historia"
     },
     {
@@ -281,12 +281,12 @@
    "shots": [
     {
      "photo": "La Rinconada in Perú, the highest city on earth",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Cómo se vive"
     },
     {
      "photo": "Begich Towers",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Quién elige"
     },
     {
@@ -440,7 +440,7 @@
     },
     {
      "photo": "thermometer body temperature",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "37 °C",
      "at": "treinta y siete grados",
      "kw_at": 0.4,
@@ -542,11 +542,11 @@
       "Australia Meridional · hoy"
      ],
      "photo": "Coober Pedy",
-     "src": "commons"
+     "src": "openverse,commons"
     },
     {
      "photo": "Coober Pedy opal fields",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "montones de escombros"
     },
     {
@@ -576,12 +576,12 @@
    "shots": [
     {
      "photo": "Coober Pedy opal",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Debajo hay salones"
     },
     {
      "photo": "Coober Pedy South Australia",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "hasta iglesias",
      "lt": [
       "Iglesia ortodoxa serbia de San Elías",
@@ -633,7 +633,7 @@
     },
     {
      "photo": "Coober Pedy opal",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Encontró ópalos",
      "lt": [
       "Ópalo de Coober Pedy",
@@ -651,7 +651,7 @@
    "shots": [
     {
      "photo": "Coober Pedy opal fields",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Llegaron los buscadores"
     },
     {
@@ -692,12 +692,12 @@
     },
     {
      "photo": "Coober Pedy opal fields",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Dentro"
     },
     {
      "photo": "Coober Pedy underground",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Algunas llegan",
      "lt": [
       "Casa subterránea de Faye",
@@ -787,7 +787,7 @@
    "shots": [
     {
      "photo": "Coober Pedy South Australia",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "otros planetas",
      "lt": [
       "Moon Plain",
@@ -796,12 +796,12 @@
     },
     {
      "photo": "Coober Pedy",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Pitch Black"
     },
     {
      "photo": "Coober Pedy underground",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "BAJO TIERRA",
      "at": "bajo los pies",
      "kw_at": 0.4,
@@ -823,12 +823,12 @@
     },
     {
      "photo": "Coober Pedy underground",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Y los carteles avisan"
     },
     {
      "photo": "Coober Pedy opal",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "miles de pozos"
     }
    ],
@@ -858,7 +858,7 @@
     },
     {
      "photo": "Coober Pedy",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Ahora la empresa pública"
     }
    ],
@@ -872,7 +872,7 @@
    "shots": [
     {
      "photo": "Coober Pedy opal fields",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Un campo de golf",
      "lt": [
       "Campo de golf de Coober Pedy",
@@ -890,7 +890,7 @@
     },
     {
      "photo": "Coober Pedy opal",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Y una población"
     }
    ],
@@ -904,7 +904,7 @@
    "shots": [
     {
      "photo": "Coober Pedy South Australia",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "hasta un hotel"
     },
     {
@@ -938,12 +938,12 @@
    "shots": [
     {
      "photo": "Coober Pedy opal fields",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Esos pozos son un peligro"
     },
     {
      "photo": "Coober Pedy underground",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "MIRA AL SUELO",
      "at": "mirar al suelo",
      "kw_at": 0.4,
@@ -960,7 +960,7 @@
    "shots": [
     {
      "photo": "Coober Pedy sunset",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Aquí, para escapar"
     },
     {
@@ -1042,7 +1042,7 @@
     },
     {
      "photo": "Oymyakon",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "un pueblo de unos quinientos",
      "lt": [
       "Oimiakón",
@@ -1110,7 +1110,7 @@
     },
     {
      "photo": "Yakutia winter",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "En enero"
     }
    ],
@@ -1143,12 +1143,12 @@
     },
     {
      "photo": "Sakha Republic winter",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Empieza por el coche"
     },
     {
      "photo": "Oymyakon winter",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "con el motor encendido"
     }
    ],
@@ -1193,7 +1193,7 @@
    "shots": [
     {
      "photo": "Yakutia winter",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Las pestañas"
     },
     {
@@ -1203,7 +1203,7 @@
     },
     {
      "photo": "Kolyma highway",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "cortado en virutas",
      "lt": [
       "Stroganina",
@@ -1238,7 +1238,7 @@
    "shots": [
     {
      "photo": "Yakutia people traditional",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Bolot Bochkarev"
     }
    ],
@@ -1306,12 +1306,12 @@
    "shots": [
     {
      "photo": "Oymyakon winter",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el termómetro digital"
     },
     {
      "photo": "Oymyakon",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "SE ROMPIÓ",
      "at": "Y se rompió",
      "kw_at": 0.4,
@@ -1333,12 +1333,12 @@
     },
     {
      "photo": "Kolyma highway",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el baño está fuera"
     },
     {
      "photo": "Sakha Republic winter",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "hasta enterrar a un muerto"
     }
    ],
@@ -1352,7 +1352,7 @@
    "shots": [
     {
      "photo": "Oymyakon summer",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "En verano"
     },
     {
@@ -1418,12 +1418,12 @@
    "shots": [
     {
      "photo": "Oymyakon",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "En Yakutia cuentan una leyenda"
     },
     {
      "photo": "Yakutia winter",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "LO DEJÓ CAER AQUÍ",
      "at": "lo dejó caer todo aquí",
      "kw_at": 0.4,
@@ -1456,7 +1456,7 @@
     },
     {
      "photo": "Sakha Republic winter",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "El lugar más frío",
      "lt": [
       "Monumento al Polo del Frío",
@@ -1474,7 +1474,7 @@
    "shots": [
     {
      "photo": "Oymyakon winter",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "A unos novecientos",
      "lt": [
       "Carretera de Kolimá",
@@ -1497,7 +1497,7 @@
    "shots": [
     {
      "photo": "Kolyma highway",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "la carretera de los huesos",
      "lt": [
       "Carretera de Kolimá",
@@ -1506,7 +1506,7 @@
     },
     {
      "photo": "Yakutia winter",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "presos de los campos"
     }
    ],
@@ -1579,7 +1579,7 @@
     },
     {
      "photo": "Yakutsk",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "unos trescientos mil",
      "lt": [
       "Yakutsk",
@@ -1588,7 +1588,7 @@
     },
     {
      "photo": "Yakutsk winter street",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "la ciudad grande más fría"
     }
    ],
@@ -1602,12 +1602,12 @@
    "shots": [
     {
      "photo": "Yakutsk winter street",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "la vida sigue"
     },
     {
      "photo": "Yakutsk frost street",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "UN CONGELADOR",
      "at": "en un congelador",
      "kw_at": 0.4,
@@ -1644,7 +1644,7 @@
    "shots": [
     {
      "photo": "permafrost ice layer",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Ese hielo"
     },
     {
@@ -1674,12 +1674,12 @@
    "shots": [
     {
      "photo": "Yakutsk Mammoth Museum",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "no tocan el suelo"
     },
     {
      "photo": "Yakutsk panorama",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Se levantan sobre pilotes",
      "lt": [
       "Edificio sobre pilotes",
@@ -1724,7 +1724,7 @@
    "shots": [
     {
      "photo": "Yakutsk winter street",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Eduard Romanov"
     }
    ],
@@ -1755,7 +1755,7 @@
    "shots": [
     {
      "photo": "Lena river Yakutsk",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Algunos bloques"
     },
     {
@@ -1800,7 +1800,7 @@
     },
     {
      "photo": "Yakutsk panorama",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Van por fuera"
     }
    ],
@@ -1825,7 +1825,7 @@
    "shots": [
     {
      "photo": "Lena river Yakutsk",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el río Lena",
      "lt": [
       "Río Lena",
@@ -1834,7 +1834,7 @@
     },
     {
      "photo": "Yakutsk",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "En invierno"
     },
     {
@@ -1853,12 +1853,12 @@
    "shots": [
     {
      "photo": "Lena river Yakutsk",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "una niebla helada"
     },
     {
      "photo": "Yakutsk Mammoth Museum",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "En los mercados",
      "lt": [
       "Mercado de Yakutsk",
@@ -1876,12 +1876,12 @@
    "shots": [
     {
      "photo": "mammoth Yakutia permafrost",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "restos de mamuts"
     },
     {
      "photo": "Yakutsk Mammoth Museum",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "un museo dedicado",
      "lt": [
       "Museo del Mamut",
@@ -1904,7 +1904,7 @@
     },
     {
      "photo": "Mir diamond mine Mirny",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "los diamantes de Yakutia",
      "lt": [
       "Mina de diamantes Mir",
@@ -1913,7 +1913,7 @@
     },
     {
      "photo": "Yakutsk",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Una ciudad a la que"
     }
    ],
@@ -1990,7 +1990,7 @@
     },
     {
      "photo": "Norilsk panorama",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Norilsk tiene",
      "lt": [
       "Norilsk",
@@ -1999,12 +1999,12 @@
     },
     {
      "photo": "Norilsk airport Alykel",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Se llega en avión"
     },
     {
      "photo": "Norilsk",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "CIUDAD CERRADA",
      "at": "un permiso especial",
      "kw_at": 0.4,
@@ -2032,7 +2032,7 @@
    "shots": [
     {
      "photo": "Norillag Gulag memorial Norilsk",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "un campo de trabajos forzados",
      "lt": [
       "Memorial del Norillag",
@@ -2079,7 +2079,7 @@
    "shots": [
     {
      "photo": "Norilsk winter street",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Los presos construyeron"
     },
     {
@@ -2106,12 +2106,12 @@
    "shots": [
     {
      "photo": "Norilsk Nickel plant",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Por lo que hay bajo tierra"
     },
     {
      "photo": "palladium metal",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Ese paladio"
     }
    ],
@@ -2142,17 +2142,17 @@
    "shots": [
     {
      "photo": "Norilsk Nickel plant",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "esa luz salía"
     },
     {
      "photo": "Norilsk sulfur dioxide satellite NASA",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Los satélites"
     },
     {
      "photo": "Norilsk smelter pollution",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "DIÓXIDO DE AZUFRE",
      "at": "Ninguna otra",
      "kw_at": 0.4,
@@ -2180,12 +2180,12 @@
    "shots": [
     {
      "photo": "Norilsk building piles",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "bosque muerto"
     },
     {
      "photo": "Norilsk 2020 diesel spill Ambarnaya river",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "en mayo de dos mil veinte",
      "lt": [
       "Río Ambárnaya",
@@ -2246,7 +2246,7 @@
    "shots": [
     {
      "photo": "Nganasan people Taymyr",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "los nganasanos",
      "lt": [
       "Pueblo nganasán",
@@ -2281,7 +2281,7 @@
    "shots": [
     {
      "photo": "Talnakh Norilsk district",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Talnaj",
      "lt": [
       "Talnaj",
@@ -2357,12 +2357,12 @@
    "shots": [
     {
      "photo": "Norilsk",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Las ventiscas"
     },
     {
      "photo": "Norilsk winter street",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "manzanas cerradas"
     }
    ],
@@ -2381,7 +2381,7 @@
     },
     {
      "photo": "Norilsk Nickel plant",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "sobre pilotes"
     }
    ],
@@ -2395,7 +2395,7 @@
    "shots": [
     {
      "photo": "Norilsk building piles",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Edificios de colores"
     },
     {
@@ -2554,11 +2554,11 @@
       "Svalbard, Noruega · hoy"
      ],
      "photo": "Longyearbyen",
-     "src": "commons"
+     "src": "openverse,commons"
     },
     {
      "photo": "Longyearbyen polar night",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "presume de tenerlo todo"
     }
    ],
@@ -2615,7 +2615,7 @@
    "shots": [
     {
      "photo": "polar bear Svalbard",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el ocho de marzo"
     },
     {
@@ -2634,12 +2634,12 @@
    "shots": [
     {
      "photo": "Longyearbyen cemetery",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Es el oso polar"
     },
     {
      "photo": "Longyearbyen polar bear warning sign",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "unas señales",
      "lt": [
       "Señal de peligro de oso polar",
@@ -2676,7 +2676,7 @@
    "shots": [
     {
      "photo": "Longyearbyen polar night",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "la calle principal"
     }
    ],
@@ -2690,7 +2690,7 @@
    "shots": [
     {
      "photo": "Longyearbyen cemetery",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "la leyenda más famosa"
     }
    ],
@@ -2721,7 +2721,7 @@
    "shots": [
     {
      "photo": "Svalbard Global Seed Vault",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "PROHIBIDO MORIR",
      "at": "Prohibido morir",
      "kw_at": 0.4,
@@ -2827,12 +2827,12 @@
    "shots": [
     {
      "photo": "Longyearbyen cemetery",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "los niños de la guardería"
     },
     {
      "photo": "University Centre in Svalbard UNIS",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "en la universidad",
      "lt": [
       "Centro Universitario de Svalbard",
@@ -2850,12 +2850,12 @@
    "shots": [
     {
      "photo": "Longyearbyen",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "pueblo minero del carbón"
     },
     {
      "photo": "Svalbard Global Seed Vault",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "la Bóveda Global de Semillas",
      "lt": [
       "Bóveda Global de Semillas de Svalbard",
@@ -2878,7 +2878,7 @@
     },
     {
      "photo": "Svalbard Global Seed Vault entrance",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el túnel de entrada"
     }
    ],
@@ -2893,11 +2893,11 @@
     {
      "at": "es azul",
      "photo": "Svalbard Global Seed Vault",
-     "src": "commons"
+     "src": "openverse,commons"
     },
     {
      "photo": "Longyearbyen aurora",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "auroras boreales"
     }
    ],
@@ -2933,7 +2933,7 @@
     },
     {
      "photo": "polar bear Svalbard",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "tienen que demostrar"
     }
    ],
@@ -2952,12 +2952,12 @@
     },
     {
      "photo": "Svalbard birds Arctic tern",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "para proteger a las aves"
     },
     {
      "photo": "Longyearbyen",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "bajo el mismo techo"
     }
    ],
@@ -3039,11 +3039,11 @@
       "Alaska · hoy"
      ],
      "photo": "Begich Towers",
-     "src": "commons"
+     "src": "openverse,commons"
     },
     {
      "photo": "Begich Towers",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "las Begich Towers",
      "lt": [
       "Begich Towers",
@@ -3061,12 +3061,12 @@
    "shots": [
     {
      "photo": "Whittier, Alaska",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el ejército de Estados Unidos"
     },
     {
      "photo": "Buckner Building Whittier abandoned",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Cuando el ejército se fue",
      "lt": [
       "Edificio Buckner",
@@ -3095,7 +3095,7 @@
    "shots": [
     {
      "photo": "Buckner Building Whittier",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el edificio Buckner",
      "lt": [
       "Edificio Buckner",
@@ -3118,7 +3118,7 @@
     },
     {
      "photo": "Anton Anderson Memorial Tunnel",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "un túnel subterráneo"
     }
    ],
@@ -3154,7 +3154,7 @@
    "shots": [
     {
      "photo": "Begich Towers Whittier Alaska",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "hasta diecisiete metros de nieve"
     }
    ],
@@ -3179,7 +3179,7 @@
    "shots": [
     {
      "photo": "Anton Anderson Memorial Tunnel",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el túnel Anton Anderson",
      "lt": [
       "Túnel Anton Anderson",
@@ -3193,7 +3193,7 @@
     },
     {
      "photo": "Whittier, Alaska",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "SE CIERRA",
      "at": "se cierra",
      "kw_at": 0.4,
@@ -3223,7 +3223,7 @@
     },
     {
      "photo": "Whittier harbor boats",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "en barco"
     }
    ],
@@ -3237,7 +3237,7 @@
    "shots": [
     {
      "photo": "Whittier Alaska town view",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "No todo el mundo aguanta"
     }
    ],
@@ -3268,7 +3268,7 @@
    "shots": [
     {
      "photo": "1964 Alaska earthquake Whittier damage",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el gran terremoto de Alaska",
      "lt": [
       "Terremoto de Alaska",
@@ -3305,7 +3305,7 @@
    "shots": [
     {
      "photo": "Buckner Building Whittier",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "ruta de evacuación",
      "lt": [
       "Ruta de evacuación",
@@ -3314,7 +3314,7 @@
     },
     {
      "photo": "Begich Towers Whittier mountains",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Es también el refugio"
     }
    ],
@@ -3333,12 +3333,12 @@
     },
     {
      "photo": "Begich Towers Whittier Alaska",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "dentro de una torre"
     },
     {
      "photo": "Begich Towers",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "dentro de un volcán"
     }
    ],
@@ -3415,7 +3415,7 @@
     },
     {
      "photo": "Aogashima island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Aogashima es la isla",
      "lt": [
       "Aogashima",
@@ -3424,7 +3424,7 @@
     },
     {
      "photo": "Aogashima",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "administrativamente"
     }
    ],
@@ -3438,7 +3438,7 @@
    "shots": [
     {
      "photo": "Aogashima island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Desde el aire"
     },
     {
@@ -3452,7 +3452,7 @@
     },
     {
      "photo": "Hachijojima island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el Maruyama",
      "lt": [
       "Monte Maruyama",
@@ -3523,7 +3523,7 @@
    "shots": [
     {
      "photo": "Aogashima",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "rodeada de acantilados"
     },
     {
@@ -3545,7 +3545,7 @@
    "shots": [
     {
      "photo": "Aogashima aerial",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Hoy viven en Aogashima",
      "lt": [
       "Aldea de Aogashima",
@@ -3554,7 +3554,7 @@
     },
     {
      "photo": "Hachijojima island",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "VOLCÁN ACTIVO",
      "at": "activo",
      "kw_at": 0.4,
@@ -3580,12 +3580,12 @@
     },
     {
      "photo": "Aogashima island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "un helicóptero"
     },
     {
      "photo": "Aogashima aerial",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "O un barco",
      "lt": [
       "Puerto de Sanpo",
@@ -3619,7 +3619,7 @@
     },
     {
      "photo": "Aogashima",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "una sauna geotérmica",
      "lt": [
       "Sauna geotérmica",
@@ -3628,7 +3628,7 @@
     },
     {
      "photo": "Aogashima island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "una pequeña fábrica de sal"
     }
    ],
@@ -3651,7 +3651,7 @@
     },
     {
      "photo": "Hachijojima island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "La vida diaria"
     }
    ],
@@ -3665,7 +3665,7 @@
    "shots": [
     {
      "photo": "Aogashima",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "una selva de helechos"
     },
     {
@@ -3675,7 +3675,7 @@
     },
     {
      "photo": "Aogashima aerial",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "por un túnel"
     }
    ],
@@ -3689,7 +3689,7 @@
    "shots": [
     {
      "photo": "Hachijojima island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "De noche"
     },
     {
@@ -3771,7 +3771,7 @@
     },
     {
      "photo": "Tristan da Cunha island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Tristán de Acuña es",
      "lt": [
       "Tristán de Acuña",
@@ -3780,7 +3780,7 @@
     },
     {
      "photo": "Tristan da Cunha",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Edimburgo de los Siete Mares",
      "lt": [
       "Edimburgo de los Siete Mares",
@@ -3809,7 +3809,7 @@
    "shots": [
     {
      "photo": "Edinburgh of the Seven Seas",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Tristão da Cunha",
      "lt": [
       "Tristão da Cunha",
@@ -3818,7 +3818,7 @@
     },
     {
      "photo": "Tristan da Cunha old map",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "en las cartas náuticas"
     }
    ],
@@ -3880,12 +3880,12 @@
    "shots": [
     {
      "photo": "Tristan da Cunha islanders",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "En la isla viven"
     },
     {
      "photo": "Nightingale Island Tristan",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "7 APELLIDOS",
      "at": "siete apellidos",
      "kw_at": 0.4,
@@ -3893,7 +3893,7 @@
     },
     {
      "photo": "Tristan da Cunha Potato Patches",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "los Potato Patches",
      "lt": [
       "Potato Patches",
@@ -3922,7 +3922,7 @@
    "shots": [
     {
      "photo": "Tristan da Cunha Potato Patches",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Para visitar la isla"
     },
     {
@@ -3941,12 +3941,12 @@
    "shots": [
     {
      "photo": "Edinburgh of the Seven Seas",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Hace más de un siglo"
     },
     {
      "photo": "Tristan da Cunha island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Ella llevó un diario"
     }
    ],
@@ -3989,7 +3989,7 @@
     },
     {
      "photo": "Tristan da Cunha Potato Patches",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Si el mar está bravo"
     }
    ],
@@ -4014,12 +4014,12 @@
    "shots": [
     {
      "photo": "Tristan da Cunha stamps",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "sus sellos de correos"
     },
     {
      "photo": "rockhopper penguin Tristan da Cunha",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "los pingüinos de penacho amarillo",
      "lt": [
       "Pingüino de penacho amarillo",
@@ -4037,7 +4037,7 @@
    "shots": [
     {
      "photo": "Tristan da Cunha 1961 eruption",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "en mil novecientos sesenta y uno"
     },
     {
@@ -4076,12 +4076,12 @@
    "shots": [
     {
      "photo": "Tristan da Cunha",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "fueron evacuados"
     },
     {
      "photo": "Nightingale Island Tristan",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "la isla de Nightingale"
     },
     {
@@ -4104,7 +4104,7 @@
    "shots": [
     {
      "photo": "Tristan da Cunha island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Les dieron casas",
      "lt": [
       "Calshot",
@@ -4113,12 +4113,12 @@
     },
     {
      "photo": "Nightingale Island Tristan",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "la gran mayoría votó volver"
     },
     {
      "photo": "Tristan da Cunha island sea",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "VOLVER",
      "at": "A su roca",
      "kw_at": 0.4,
@@ -4151,7 +4151,7 @@
     },
     {
      "photo": "gold nugget",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "ORO",
      "at": "Brilla",
      "kw_at": 0.4,
@@ -4208,7 +4208,7 @@
     },
     {
      "photo": "Tristan da Cunha",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "EL AIRE",
      "at": "El aire",
      "kw_at": 0.4,
@@ -4277,7 +4277,7 @@
     },
     {
      "photo": "La Rinconada, Puno",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "La Bella Durmiente",
      "lt": [
       "Glaciar La Bella Durmiente",
@@ -4286,7 +4286,7 @@
     },
     {
      "photo": "La Rinconada houses",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "El asentamiento permanente más alto"
     }
    ],
@@ -4363,12 +4363,12 @@
    "shots": [
     {
      "photo": "La Rinconada Peru people",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "El pueblo nació"
     },
     {
      "photo": "Lake Titicaca",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Mercurio, cianuro"
     }
    ],
@@ -4387,7 +4387,7 @@
     },
     {
      "photo": "La Rinconada, Puno",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "por una carretera de montaña"
     }
    ],
@@ -4401,7 +4401,7 @@
    "shots": [
     {
      "photo": "La Rinconada houses",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Y luego está el trabajo"
     },
     {
@@ -4443,12 +4443,12 @@
    "shots": [
     {
      "photo": "La Rinconada Peru people",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Es una lotería"
     },
     {
      "photo": "Lake Titicaca",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "las pallaqueras",
      "lt": [
       "Pallaqueras",
@@ -4508,12 +4508,12 @@
    "shots": [
     {
      "photo": "La Rinconada, Puno",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "La temperatura media"
     },
     {
      "photo": "La Rinconada houses",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "la basura se acumula"
     }
    ],
@@ -4532,7 +4532,7 @@
     },
     {
      "photo": "Lake Titicaca",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "hacia el lago Titicaca",
      "lt": [
       "Lago Titicaca",
@@ -4550,7 +4550,7 @@
    "shots": [
     {
      "photo": "La Rinconada Peru people",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "SIN LEY",
      "at": "la ciudad sin ley",
      "kw_at": 0.4,
@@ -4558,7 +4558,7 @@
     },
     {
      "photo": "Lake Titicaca",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "El oro informal"
     }
    ],
@@ -4706,12 +4706,12 @@
    "shots": [
     {
      "photo": "La Rinconada, Puno",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "La sangre se vuelve espesa"
     },
     {
      "photo": "Andes snow mountain",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "MAL DE MONTAÑA",
      "at": "mal de montaña crónico",
      "kw_at": 0.4,
@@ -4739,12 +4739,12 @@
    "shots": [
     {
      "photo": "La Rinconada houses",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Y por qué no se van"
     },
     {
      "photo": "gold nugget",
-     "src": "commons",
+     "src": "openverse,commons",
      "kw": "UN GOLPE DE SUERTE",
      "at": "un buen golpe de suerte",
      "kw_at": 0.4,
@@ -4766,7 +4766,7 @@
     },
     {
      "photo": "La Rinconada Peru people",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "la montaña se queda"
     }
    ],
@@ -4780,7 +4780,7 @@
    "shots": [
     {
      "photo": "Lake Titicaca",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "por la mañana"
     },
     {
@@ -4905,17 +4905,17 @@
    "shots": [
     {
      "photo": "Coober Pedy opal",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "El ópalo de Coober Pedy"
     },
     {
      "photo": "Norilsk Nickel plant",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el níquel de Norilsk"
     },
     {
      "photo": "Begich Towers",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "el oro de La Rinconada"
     }
    ],
@@ -4940,7 +4940,7 @@
    "shots": [
     {
      "photo": "Tristan da Cunha island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Para quien ha nacido en Oimiakón"
     },
     {
@@ -4953,7 +4953,7 @@
     },
     {
      "photo": "Begich Towers",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "un niño de Whittier"
     }
    ],
@@ -4967,12 +4967,12 @@
    "shots": [
     {
      "photo": "Tristan da Cunha island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Y la tercera"
     },
     {
      "photo": "Tristan da Cunha island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "Pertenecer a un sitio"
     }
    ],
@@ -4991,12 +4991,12 @@
     },
     {
      "photo": "Begich Towers",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "El glaciar de La Rinconada"
     },
     {
      "photo": "Tristan da Cunha island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "En Svalbard"
     }
    ],
@@ -5010,12 +5010,12 @@
    "shots": [
     {
      "photo": "Begich Towers",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "En Whittier"
     },
     {
      "photo": "Tristan da Cunha islanders",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "En Tristán"
     },
     {
@@ -5059,17 +5059,17 @@
    "shots": [
     {
      "photo": "Begich Towers",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "De mineros"
     },
     {
      "photo": "Tristan da Cunha island",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "De niños"
     },
     {
      "photo": "Tristan da Cunha islanders",
-     "src": "commons",
+     "src": "openverse,commons",
      "at": "De isleños"
     }
    ],

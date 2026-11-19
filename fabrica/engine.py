@@ -198,7 +198,7 @@ def candidates(spec, n=8, use_used=True):
             if len(out) >= n: break
     elif 'photo' in spec:
         q = spec['photo']; order = spec.get('src', 'cleveland,met,commons,europeana').split(',')
-        F = dict(cleveland=lambda: SRC.cleveland(q), met=lambda: SRC.met(q), commons=lambda: SRC.commons_search(q), europeana=lambda: SRC.europeana(q))
+        F = dict(cleveland=lambda: SRC.cleveland(q), met=lambda: SRC.met(q), commons=lambda: SRC.commons_search(q), europeana=lambda: SRC.europeana(q), openverse=lambda: SRC.openverse_images(q))
         for s_ in order:
             try: add(F[s_.strip()]())
             except Exception as e: log('  aviso fuente:', s_, q, e)

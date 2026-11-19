@@ -74,7 +74,7 @@ for u in U:
         if key and key in BAD:
             r = rot.get(cur, 0); rot[cur] = r + 1; L = CHQ[cur]
             if r % 3 == 2: s.pop('photo', None); s.pop('src', None); s['video'] = L['v'][(r // 3) % len(L['v'])]; s['free'] = True
-            else: s.pop('video', None); s.pop('free', None); s['photo'] = L['p'][r % len(L['p'])]; s['src'] = 'commons'
+            else: s.pop('video', None); s.pop('free', None); s['photo'] = L['p'][r % len(L['p'])]; s['src'] = 'openverse,commons'
             if s.get('lt') and s['lt'][-1:] and s['lt'][0] in ('Oimiakón', 'Yakutsk', 'Norilsk', 'Coober Pedy', 'Longyearbyen', 'Whittier', 'Aogashima', 'Tristán de Acuña', 'La Rinconada') and 'video' in s: s.pop('lt')
             nrep += 1
 print('planos con consulta sustituida:', nrep)

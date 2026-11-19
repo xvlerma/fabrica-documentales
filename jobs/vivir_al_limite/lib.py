@@ -26,7 +26,7 @@ def T(title, sub, secs=5.0, sting='tema', text=None, chapter=True):
 def B(track): U.append(dict(k='B', track=track))
 def M(track, secs, end=False): U.append(_clean(dict(k='M', track=track, secs=secs, end=end or None)))
 
-SRC = 'commons'
+SRC = 'openverse,commons'
 def ph(q, at=None, lt=None, tr=None, src=SRC, **kw): return _clean(dict(photo=q, src=src, at=at, lt=lt, tr=tr, **kw))
 def vd(q, at=None, lt=None, tr=None, **kw): return _clean(dict(video=q, free=True, at=at, lt=lt, tr=tr, **kw))
 def cd(card, at=None, tr=None, lt=None): return _clean(dict(card=card, at=at, tr=tr, lt=lt))

@@ -30,7 +30,7 @@ T('El oro de Moscú', 'El viaje sin retorno de la reserva de España', secs=5.5,
 B('tema')
 DER("Para entender lo que pasó con ese oro hay que viajar a julio de mil novecientos treinta y seis. Una parte del Ejército se subleva contra el Gobierno de la Segunda República. El golpe fracasa en Madrid, en Barcelona, en Valencia. Pero triunfa en media España. Y empieza una guerra.",
     ph('Madrid July 1936', at='julio de mil', lt=['Madrid', 'julio de 1936']),
-    cd(dict(type='map', title='España, finales de julio de 1936', note='zona republicana y zona sublevada'), at='triunfa en media España'))
+    cd(dict(type='map', title='España, julio de 1936', bbox=[-10, 35.5, 4.5, 44], points=[dict(name='Madrid', lon=-3.70, lat=40.42, at=0.3, big=1), dict(name='Barcelona', lon=2.17, lat=41.39, at=0.45), dict(name='Valencia', lon=-0.38, lat=39.47, at=0.55), dict(name='Sevilla', lon=-5.98, lat=37.39, at=0.65), dict(name='Burgos', lon=-3.70, lat=42.34, at=0.75)]), at='triunfa en media España'))
 IZQ("De un lado, la República: un Gobierno elegido en las urnas cinco meses antes, el del Frente Popular. Del otro, los militares sublevados, que pronto tendrán un jefe: el general Francisco Franco.",
     ph('Frente Popular 1936', at='Frente Popular'),
     ph('Francisco Franco 1936', at='Francisco Franco', lt=['Francisco Franco', 'General sublevado · jefe del bando nacional desde octubre de 1936', 'derecha']))
@@ -128,7 +128,7 @@ DER("Septiembre de mil novecientos treinta y seis. Las columnas de Franco avanza
 IZQ("El cuatro de septiembre se forma un nuevo Gobierno. Lo preside el líder socialista Francisco Largo Caballero. En Hacienda entra un médico canario, catedrático de Fisiología, que hablaba varios idiomas: Juan Negrín.",
     ph('Francisco Largo Caballero', at='Francisco Largo Caballero', lt=['Francisco Largo Caballero', 'Presidente del Gobierno', 'izquierda']),
     ph('Juan Negrín', at='Juan Negrín', lt=['Juan Negrín', 'Ministro de Hacienda', 'izquierda']))
-DER("Nueve días después, el trece de septiembre, Negrín lleva a la firma del presidente Azaña un decreto reservado. Autoriza al ministro a sacar el oro y la plata del Banco de España y llevarlos a donde considere más seguro. No dice adónde. [short pause] Ese en blanco es el corazón de esta historia.",
+DER("Nueve días después, el trece de septiembre, Negrín lleva a la firma del presidente Azaña un decreto reservado. Autoriza al ministro a sacar el oro y la plata del Banco de España y llevarlos a donde considere más seguro. No dice adónde. [short pause] Ese hueco en blanco es el corazón de esta historia.",
     ph('Manuel Azaña', at='presidente Azaña', lt=['Manuel Azaña', 'Presidente de la República', 'izquierda']),
     DOCC('Decreto reservado', 'Autoriza al ministro de Hacienda a trasladar el oro y la plata del Banco de España al lugar que estime más seguro.', 'Decreto de 13 de septiembre de 1936 · resumen', at='un decreto reservado'),
     K('SIN DESTINO', 'Banco de España vault', at='No dice adónde'))
@@ -145,7 +145,7 @@ DER("Sacarlo de Madrid, no. La pregunta es otra: por qué no se quedó en Españ
     ph('Stalin 1930s portrait', at='manos de Stalin'))
 DER("En pocos días, cientos de cajas salen en camiones y trenes hacia el sureste. Su destino: Cartagena, la gran base de la Armada republicana. Allí, en la bahía, hay unos viejos polvorines excavados en la roca: La Algameca.",
     ph('Spanish railway 1930s train', at='camiones y trenes'),
-    cd(dict(type='mapfly', title='Madrid → Cartagena', points=[dict(name='Madrid', lon=-3.70, lat=40.42, at=0.2, big=1), dict(name='Cartagena', lon=-0.98, lat=37.60, at=0.7, pulse=1, big=1)]), at='hacia el sureste'),
+    cd(dict(type='mapfly', title='Madrid → Cartagena', keys=[[-7, 36.5, 1, 41.8], [-3, 37.2, 0, 39]], points=[dict(name='Madrid', lon=-3.70, lat=40.42, at=0.2, big=1), dict(name='Cartagena', lon=-0.98, lat=37.60, at=0.7, pulse=1, big=1)]), at='hacia el sureste'),
     ph('La Algameca Cartagena', at='La Algameca', lt=['La Algameca', 'Polvorines de la Armada · Cartagena']))
 IZQ("[serious] El oro estaba lejos del frente, protegido por la Marina, y junto a un puerto. Desde Cartagena se podía llevar a cualquier parte. [short pause] A esas alturas, todavía no estaba decidido adónde.",
     ph('Cartagena naval base 1930s', at='protegido por la Marina'),

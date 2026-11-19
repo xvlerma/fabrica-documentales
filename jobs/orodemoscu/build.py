@@ -31,7 +31,12 @@ job = {
         dict(term='Pravda', on='Pravda', def_='diario oficial del Partido Comunista soviético', bando='urss'),
     ],
     'theme': {'base': 'guerra_moderna', 'grade': 'frio'},
-    'music': RES.get('music', {}),
+    'music': RES.get('music', {
+        'tema': {'mixkit': 'https://assets.mixkit.co/music/614/614.mp3', 'title': 'Silent Descent'},
+        'tension': {'mixkit': 'https://assets.mixkit.co/music/188/188.mp3', 'title': 'Echoes'},
+        'noche': {'mixkit': 'https://assets.mixkit.co/music/594/594.mp3', 'title': 'River Flow'},
+        'rusia': {'mixkit': 'https://assets.mixkit.co/music/168/168.mp3', 'title': 'Staring at the Night Sky'},
+    }),
     'audio': {'voice_db': -20, 'bed_db': {'tema': -36, 'tension': -37, 'noche': -37, 'rusia': -36}, 'inter_db': -22,
               'pause_stretch': 0.45, 'pause_cap': 0.6, 'gap_n': 1.5, 'gap_q': 1.0},
     'tempo': 0.9, 'parts': 4, 'codec': 'hevc', 'max_kbps': 750, 'audio_kbps': '112k',

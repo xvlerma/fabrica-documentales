@@ -51,7 +51,7 @@ IZQ("Con el oro viajaron cuatro empleados del Banco de España, los llamados cla
     ph('Banco de España employees 1930s', at='cuatro empleados', gloss=['claveros', 'empleados del Banco que custodiaban las llaves del oro']),
     ph('ship deck 1930s sea', at='Su viaje'))
 DER("Los barcos zarpan hacia el este. Atraviesan el Mediterráneo, pasan los Dardanelos y el Bósforo, y entran en el mar Negro. Navegan con todas las precauciones, porque el Mediterráneo está lleno de buques de guerra italianos.",
-    cd(dict(type='mapfly', title='Cartagena → Odesa', points=[dict(name='Cartagena', lon=-0.98, lat=37.60, at=0.1, big=1), dict(name='Estambul', lon=28.98, lat=41.01, at=0.6), dict(name='Odesa', lon=30.73, lat=46.48, at=0.85, pulse=1, big=1)]), at='hacia el este'),
+    cd(dict(type='mapfly', title='Cartagena → Odesa', keys=[[-6, 34, 36, 48], [24, 40, 34, 47.5]], points=[dict(name='Cartagena', lon=-0.98, lat=37.60, at=0.1, big=1), dict(name='Estambul', lon=28.98, lat=41.01, at=0.6), dict(name='Odesa', lon=30.73, lat=46.48, at=0.85, pulse=1, big=1)]), at='hacia el este'),
     ph('Bosphorus 1930s ship', at='el Bósforo'),
     ph('Italian navy cruiser 1930s', at='buque de guerra italiano'))
 IZQ("El miedo no era exagerado. La Italia de Mussolini tenía buques y submarinos en la zona, y muy pronto empezaría a atacar a los barcos que llevaban suministros a la República. Si el oro caía en manos italianas, acababa en las de Franco.",
@@ -69,7 +69,7 @@ IZQ("En el puerto espera un despliegue enorme. Soldados de la NKVD acordonan el 
     ph('Odessa port Potemkin stairs 1930s', at='En el puerto espera'),
     ai('train', 'Soviet train 1930s steam', at='un tren especial'))
 DER("El tren cruza Ucrania hacia el norte, más de mil trescientos kilómetros, con escolta armada en cada vagón. Es el último tramo del viaje. A partir de aquí, el oro de España ya no estará nunca más al alcance de un español.",
-    cd(dict(type='mapfly', title='Odesa → Moscú', points=[dict(name='Odesa', lon=30.73, lat=46.48, at=0.15, big=1), dict(name='Kiev', lon=30.52, lat=50.45, at=0.45), dict(name='Moscú', lon=37.62, lat=55.75, at=0.85, pulse=1, big=1)]), at='cruza Ucrania'),
+    cd(dict(type='mapfly', title='Odesa → Moscú', keys=[[26, 45, 41, 57], [32, 52, 41, 57]], points=[dict(name='Odesa', lon=30.73, lat=46.48, at=0.15, big=1), dict(name='Kiev', lon=30.52, lat=50.45, at=0.45), dict(name='Moscú', lon=37.62, lat=55.75, at=0.85, pulse=1, big=1)]), at='cruza Ucrania'),
     ph('Soviet steam train 1930s snow', at='escolta armada'))
 DER("Según contaría Orlov, Stalin celebró la llegada del oro con una cena para los jefes de la NKVD. Y allí pronunció una frase que se ha repetido mil veces. Hay que advertirlo: solo la conocemos por Orlov, y no hay ningún documento que la confirme.",
     ph('Stalin 1936', at='Stalin celebró'),
@@ -82,7 +82,7 @@ DER("¿Y quién era Orlov para contar todo esto? En mil novecientos treinta y oc
 DER("Dos años después declaró ante el Senado de Estados Unidos. Y más tarde contó la operación del oro con todo detalle. [short pause] Es un testigo directo. Pero también es un desertor que vivió de sus secretos. Por eso cada cosa que cuenta hay que contrastarla.",
     ph('United States Senate hearing 1955', at='el Senado de Estados Unidos', lt=['Senado de EE. UU.', 'septiembre de 1955']),
     K('TESTIGO DIRECTO', 'Alexander Orlov portrait', at='testigo directo'))
-IZQ("[serious] Es una frase redonda, y por eso conviene desconfiar de ella. La propaganda de Franco la convirtió en la prueba de que Stalin había robado el oro. Pero una frase atribuida en unas memorias no es una prueba.",
+IZQ("[serious] Y la frase de las orejas es demasiado redonda. Por eso conviene desconfiar de ella. La propaganda de Franco la convirtió en la prueba de que Stalin había robado el oro. Pero una frase atribuida en unas memorias no es una prueba.",
     ph('Francoist propaganda poster', at='La propaganda de Franco'),
     K('¿PRUEBA O LEYENDA?', 'Stalin portrait', at='no es una prueba'))
 DER("Tienes razón: no es una prueba. Lo que sí es prueba es lo que pasó con los cuatro claveros. No les dejaron volver a España. La Unión Soviética los retuvo durante mucho tiempo, y cuando por fin pudieron salir, fue lejos de España.",

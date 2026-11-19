@@ -1,6 +1,6 @@
 # El oro de Moscú · guion
 
-Palabras habladas: **6803** (objetivo 6.960 ±3 %) · caracteres: 39972 · por voz: DER 3593, IZQ 3031, HIS 29, ORL 44, DOC 106
+Palabras habladas: **6812** (objetivo 6.960 ±3 %) · caracteres: 40025 · por voz: DER 3598, IZQ 3035, HIS 29, ORL 44, DOC 106
 
 **NARRADOR A (lectura crítica)** · Guerra Civil española. Otoño de mil novecientos treinta y seis. Una noche de octubre, en el puerto de Cartagena, cuatro barcos soviéticos cargan siete mil ochocientas cajas de madera. Dentro va casi todo el oro de España.
 
@@ -72,7 +72,7 @@ _[música sola · 10 s]_
 
 **NARRADOR B (lectura de la izquierda)** · El cuatro de septiembre se forma un nuevo Gobierno. Lo preside el líder socialista Francisco Largo Caballero. En Hacienda entra un médico canario, catedrático de Fisiología, que hablaba varios idiomas: Juan Negrín.
 
-**NARRADOR A (lectura crítica)** · Nueve días después, el trece de septiembre, Negrín lleva a la firma del presidente Azaña un decreto reservado. Autoriza al ministro a sacar el oro y la plata del Banco de España y llevarlos a donde considere más seguro. No dice adónde. Ese en blanco es el corazón de esta historia.
+**NARRADOR A (lectura crítica)** · Nueve días después, el trece de septiembre, Negrín lleva a la firma del presidente Azaña un decreto reservado. Autoriza al ministro a sacar el oro y la plata del Banco de España y llevarlos a donde considere más seguro. No dice adónde. Ese hueco en blanco es el corazón de esta historia.
 
 **NARRADOR A (lectura crítica)** · En el consejo del Banco de España hubo protestas: el oro era la garantía de la peseta, y la ley no permitía sacarlo así. Pero el Gobierno no esperó. Al día siguiente, el catorce de septiembre, empezaron a vaciar la cámara.
 
@@ -197,7 +197,7 @@ _[música sola · 9 s]_
 
 **NARRADOR A (lectura crítica)** · Dos años después declaró ante el Senado de Estados Unidos. Y más tarde contó la operación del oro con todo detalle. Es un testigo directo. Pero también es un desertor que vivió de sus secretos. Por eso cada cosa que cuenta hay que contrastarla.
 
-**NARRADOR B (lectura de la izquierda)** · Es una frase redonda, y por eso conviene desconfiar de ella. La propaganda de Franco la convirtió en la prueba de que Stalin había robado el oro. Pero una frase atribuida en unas memorias no es una prueba.
+**NARRADOR B (lectura de la izquierda)** · Y la frase de las orejas es demasiado redonda. Por eso conviene desconfiar de ella. La propaganda de Franco la convirtió en la prueba de que Stalin había robado el oro. Pero una frase atribuida en unas memorias no es una prueba.
 
 **NARRADOR A (lectura crítica)** · Tienes razón: no es una prueba. Lo que sí es prueba es lo que pasó con los cuatro claveros. No les dejaron volver a España. La Unión Soviética los retuvo durante mucho tiempo, y cuando por fin pudieron salir, fue lejos de España.
 
@@ -250,7 +250,7 @@ _[música sola · 9 s]_
 
 **NARRADOR B (lectura de la izquierda)** · Y no solo las dictaduras. Una gran petrolera estadounidense, Texaco, le suministró a Franco combustible a crédito durante toda la guerra. A la República, el mundo le cobraba al contado y por adelantado. A Franco, le fiaban. Esa diferencia explica por qué el oro tuvo que salir de España.
 
-**NARRADOR A (lectura crítica)** · Es un argumento sólido. Aunque tiene otra lectura: a Franco le fiaban porque sus proveedores confiaban en que ganaría. A la República le exigían el oro porque nadie, ni siquiera Stalin, quería arriesgar su dinero en ella.
+**NARRADOR A (lectura crítica)** · Es un argumento sólido. Aunque tiene otra lectura: a Franco le fiaban porque sus proveedores confiaban en que ganaría. A la República nadie le fiaba a largo plazo. Ni siquiera Stalin: le adelantó armas unos meses, pero con el oro ya guardado en Moscú.
 
 **NARRADOR B (lectura de la izquierda)** · Además, no todo lo que llegó de la Unión Soviética se pagó con oro. Miles de voluntarios de medio mundo vinieron a luchar en las Brigadas Internacionales, organizadas por la Internacional Comunista. Y cientos de pilotos republicanos se formaron en escuelas de vuelo soviéticas, como la de Kirovabad.
 
@@ -264,7 +264,7 @@ _[música sola · 9 s]_
 
 **NARRADOR B (lectura de la izquierda)** · Y hay un dato que rara vez se cuenta. Donde la República sufrió más estafas no fue en Moscú. Fue en los mercados de media Europa, comprando a traficantes. El historiador Miguel Campos documenta casos de intermediarios, e incluso de cargos republicanos, que supuestamente se quedaron con millones por el camino.
 
-**NARRADOR A (lectura crítica)** · Eso es verdad, y dice mucho del desorden con que se gestionó el dinero. Pero no quita lo esencial. Con el oro en Moscú, el que fijaba el precio del oro, el tipo de cambio y el ritmo de los envíos era siempre la misma parte. La República ponía el dinero. Stalin ponía las condiciones.
+**NARRADOR A (lectura crítica)** · Eso es verdad, y dice mucho del desorden con que se gestionó el dinero. Pero no quita lo esencial. Con el oro en Moscú, el que ejecutaba las ventas, aplicaba el tipo de cambio y marcaba el ritmo de los envíos era siempre la misma parte. La República ponía el dinero. Stalin ponía las condiciones.
 
 **NARRADOR B (lectura de la izquierda)** · Con las armas llegaron también los asesores. Unos dos mil militares y técnicos soviéticos pasaron por España durante la guerra: pilotos, tanquistas, instructores, intérpretes. Muchos combatieron y murieron en los cielos de Madrid y en el frente de Aragón.
 
@@ -364,7 +364,7 @@ _[música sola · 9 s]_
 
 **NARRADOR B (lectura de la izquierda)** · Quizá porque en el otoño de mil novecientos treinta y seis no había tiempo para hacerlo mejor. Madrid estaba a punto de caer. Y cuando una casa arde, nadie negocia el precio del agua.
 
-**NARRADOR A (lectura crítica)** · Quizá. O quizá por eso mismo. Porque quien llega con el agua en el momento del incendio sabe que puede pedir lo que quiera. El oro de Moscú no se lo llevó nadie a escondidas. Lo entregó un Gobierno, por su propia voluntad, a una dictadura que nunca tuvo que rendir cuentas.
+**NARRADOR A (lectura crítica)** · Quizá. O quizá por eso mismo. Porque quien llega con el agua en el momento del incendio sabe que puede pedir lo que quiera. El oro de Moscú no fue un robo. Lo entregó un Gobierno, por su propia voluntad, a una dictadura que nunca tuvo que rendir cuentas.
 
 **NARRADOR A (lectura crítica)** · Siete mil ochocientas cajas salieron de Cartagena una noche de octubre. Lo que valían de verdad, y lo que costaron, se quedó para siempre en Moscú.
 

@@ -32,7 +32,7 @@ IZQ("[serious] Y aquí hay que mirar al otro lado del frente. Porque Franco tamb
 IZQ("Y no solo las dictaduras. Una gran petrolera estadounidense, Texaco, le suministró a Franco combustible a crédito durante toda la guerra. A la República, el mundo le cobraba al contado y por adelantado. A Franco, le fiaban. [short pause] Esa diferencia explica por qué el oro tuvo que salir de España.",
     ph('Texaco oil tanker 1930s', at='Texaco', lt=['Texaco', 'petrolera estadounidense']),
     K('AL CONTADO / A CRÉDITO', 'oil barrels 1930s port', at='le fiaban'))
-DER("Es un argumento sólido. Aunque tiene otra lectura: a Franco le fiaban porque sus proveedores confiaban en que ganaría. A la República le exigían el oro porque nadie, ni siquiera Stalin, quería arriesgar su dinero en ella.",
+DER("Es un argumento sólido. Aunque tiene otra lectura: a Franco le fiaban porque sus proveedores confiaban en que ganaría. A la República nadie le fiaba a largo plazo. Ni siquiera Stalin: le adelantó armas unos meses, pero con el oro ya guardado en Moscú.",
     ph('Francisco Franco 1937 Burgos', at='a Franco le fiaban'))
 IZQ("Además, no todo lo que llegó de la Unión Soviética se pagó con oro. Miles de voluntarios de medio mundo vinieron a luchar en las Brigadas Internacionales, organizadas por la Internacional Comunista. Y cientos de pilotos republicanos se formaron en escuelas de vuelo soviéticas, como la de Kirovabad.",
     ph('International Brigades 1937', at='Brigadas Internacionales', gloss=['Brigadas Internacionales', 'voluntarios extranjeros que lucharon por la República', 'izquierda']),
@@ -50,7 +50,7 @@ IZQ("Esa tesis también tiene respuesta. Viñas y otros historiadores que han tr
 IZQ("[softly] Y hay un dato que rara vez se cuenta. Donde la República sufrió más estafas no fue en Moscú. Fue en los mercados de media Europa, comprando a traficantes. El historiador Miguel Campos documenta casos de intermediarios, e incluso de cargos republicanos, que supuestamente se quedaron con millones por el camino.",
     ph('arms dealer 1930s Europe port', at='traficantes'),
     ph('Spanish Republic money francs 1937', at='se quedaron con millones'))
-DER("Eso es verdad, y dice mucho del desorden con que se gestionó el dinero. Pero no quita lo esencial. Con el oro en Moscú, el que fijaba el precio del oro, el tipo de cambio y el ritmo de los envíos era siempre la misma parte. [short pause] La República ponía el dinero. Stalin ponía las condiciones.",
+DER("Eso es verdad, y dice mucho del desorden con que se gestionó el dinero. Pero no quita lo esencial. Con el oro en Moscú, el que ejecutaba las ventas, aplicaba el tipo de cambio y marcaba el ritmo de los envíos era siempre la misma parte. [short pause] La República ponía el dinero. Stalin ponía las condiciones.",
     K('STALIN PONÍA LAS CONDICIONES', 'Stalin Kremlin 1937', at='Stalin ponía las condiciones'))
 
 IZQ("Con las armas llegaron también los asesores. Unos dos mil militares y técnicos soviéticos pasaron por España durante la guerra: pilotos, tanquistas, instructores, intérpretes. Muchos combatieron y murieron en los cielos de Madrid y en el frente de Aragón.",
@@ -189,7 +189,7 @@ IZQ("[softly] Y conviene no olvidar a quién defendían esas armas. A un Gobiern
     ph('Hitler Mussolini 1937', at='Hitler y a Mussolini'))
 IZQ("Quizá porque en el otoño de mil novecientos treinta y seis no había tiempo para hacerlo mejor. Madrid estaba a punto de caer. Y cuando una casa arde, nadie negocia el precio del agua.",
     ph('Madrid burning November 1936', at='Madrid estaba a punto de caer'))
-DER("Quizá. [short pause] O quizá por eso mismo. Porque quien llega con el agua en el momento del incendio sabe que puede pedir lo que quiera. [pause] El oro de Moscú no se lo llevó nadie a escondidas. Lo entregó un Gobierno, por su propia voluntad, a una dictadura que nunca tuvo que rendir cuentas.",
+DER("Quizá. [short pause] O quizá por eso mismo. Porque quien llega con el agua en el momento del incendio sabe que puede pedir lo que quiera. [pause] El oro de Moscú no fue un robo. Lo entregó un Gobierno, por su propia voluntad, a una dictadura que nunca tuvo que rendir cuentas.",
     ph('Stalin 1937 portrait', at='puede pedir lo que quiera'),
     ph('Soviet cargo ship 1936', at='Lo entregó un Gobierno'))
 DER("[softly] Siete mil ochocientas cajas salieron de Cartagena una noche de octubre. Lo que valían de verdad, y lo que costaron, se quedó para siempre en Moscú.",

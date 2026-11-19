@@ -16,6 +16,36 @@ GEN = RES.get('gens', {})
 for i, u in enumerate(U):
     g = GEN.get(str(i))
     if g: u['gen'] = g['gen']; u['url'] = g.get('url')
+# planos largos del primer render (edl_prev.json): se añade un segundo plano a mitad de frase
+import fix as _fx, re as _re
+_ep = os.path.join(HERE, 'edl_prev.json')
+if os.path.exists(_ep):
+    EP = json.load(open(_ep)); used = {}; nadd = 0
+    byu = {}
+    for s in EP: byu.setdefault(s['unit'], []).append(s)
+    for ui, ss in byu.items():
+        u = U[ui]
+        if u['k'] not in ('N', 'R') or len(ss) != len(u.get('shots', [])): continue
+        new = []
+        for s, sh in zip(ss, u['shots']):
+            new.append(sh)
+            if s['d'] < 11 or 'card' in sh: continue
+            words = [w for w in _re.findall(r"[\wáéíóúñü]+", s['heard'], _re.I) if len(w) >= 5]
+            if len(words) < 4: continue
+            w = words[len(words) // 2]
+            if 'ai' in sh:
+                k = [a for a in _fx.AIALT if lib.AI.get(a) and lib.AI.get(a) != sh['ai']]
+                if not k: continue
+                i = used.get('ai', 0); used['ai'] = i + 1; alt = dict(ai=lib.AI.get(k[i % len(k)]))
+            else:
+                f = sh.get('commons', '').replace('File:', '')
+                al = _fx.ALT.get(f)
+                if not al: continue
+                i = used.get(f, 0); used[f] = i + 1; alt = dict(commons='File:' + al[i % len(al)])
+            alt['at'] = w; new.append(alt); nadd += 1
+        u['shots'] = new
+    print('planos añadidos', nadd)
+
 # respiraciones musicales: se alarga el hueco tras algunas unidades N hasta ~59,5 min (sin mover índices: align.json sigue valiendo)
 _ap = os.path.join(HERE, 'align.json')
 if os.path.exists(_ap):
@@ -32,7 +62,7 @@ if os.path.exists(_ap):
     print(f'respiraciones: {added} de {extra:.1f} s')
 
 DROP_LT = {'Mont-de-Marsan', 'Yate Vita', 'Francisco Méndez Aspe', 'Marcelino Pascua', 'Grigori Grinko', 'Joan Sardá', 'Ángel Viñas',
-           'Pablo Martín Aceña', 'Pravda', 'Texaco', "Banque Commerciale pour l'Europe du Nord", 'Tercer proceso de Moscú'}
+           'Pablo Martín Aceña', 'Pravda', 'Texaco', "Banque Commerciale pour l'Europe du Nord", 'Tercer proceso de Moscú', 'Gojrán'}
 FIX_LT = {'Procesos de Moscú': ['Procesos de Moscú', ''], 'Senado de EE. UU.': ['Senado de EE. UU.', ''], 'París': ['París', '']}
 for u in U:
     for sh in u.get('shots', []):

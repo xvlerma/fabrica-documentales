@@ -62,7 +62,7 @@ DER("Y con los asesores militares llegaron otros, menos visibles. Los hombres de
 # ---------------- RECAPITULACIÓN 2 ----------------
 B('tema')
 DER("Recapitulemos otra vez. Desde febrero de mil novecientos treinta y siete, la República va vendiendo el oro depositado en Moscú. El dinero pasa por un banco soviético en París y con él se pagan armas soviéticas y compras en medio mundo.",
-    cd(dict(type='recap', title='Hasta aquí', items=[['Febrero de 1937', 'primera orden de venta: 51 millones de dólares'], ['El circuito', 'Gosbank → banco soviético en París → pagos'], ['Lo que llegó', '648 aviones y 347 tanques hasta julio de 1937'], ['El debate', 'precios inflados o precios de mercado']]), at='Recapitulemos'))
+    cd(dict(type='recap', title='Hasta aquí', items=[['Febrero de 1937', 'primera orden de venta: 51 millones de dólares'], ['El circuito', 'Gosbank, banco soviético en París y pagos'], ['Lo que llegó', '648 aviones y 347 tanques hasta julio de 1937'], ['El debate', 'precios inflados o precios de mercado']]), at='Recapitulemos'))
 IZQ("Las armas llegan y salvan Madrid. Pero el precio y la calidad de lo que se compró siguen discutidos, y el control de las cuentas lo tiene Moscú. [short pause] Y en mayo de mil novecientos treinta y siete, todo cambia en el Gobierno de la República.",
     K('MAYO DE 1937', 'Barcelona 1937', at='todo cambia'))
 

@@ -127,6 +127,29 @@ ROT = {'archive_sp': ['archive_sp', 'ledger3', 'cronica', 'vang36', 'ledger4', '
        'ledger': ['ledger', 'ledger3', 'ledger4', 'archive_sp', 'ledger', 'ledger3', 'ledger4', 'cronica2'],
        'kre57': ['kre57', 'kre_w', 'kre38', 'kre57', 'kre_w2'], 'bdf_door': ['bdf_door', 'bars', 'bdf_door', 'bars_dawson', 'sacks2'],
        '@crates': ['@crates', 'bars_dawson', '@crates', 'sacks', '@crates'], '@convoy': ['@convoy', '@drivers', '@convoy', 'arsenal', '@convoy']}
+# correcciones tras revisar las hojas de sincronía del primer render
+P.update(durruti_col=P['val_chk'], milicia_nuns=P['miliciana'], cart_h=P['cart36'], bde_esq=P['bde_det2'], hacienda=P['bde_estat'],
+         paris_st=P['bdf36'], paris_st2=P['blum_gov'], blum=P['blum_gov'], i15=P['i15chato'], blanco36=P['tolerate'], cronica=P['ledger3'],
+         cronica2=P['ledger4'], vang36=P['ledger'], vang37=P['ledger3'], kre_w2=P['kre3839'], ctv=P['muss37'])
+FIX.update({'Barajas airport 1930s aerial': '@crates', 'Spanish Republic Gaceta de Madrid 1936': 'azana33', 'Soviet embassy Madrid 1936': 'rosenberg',
+            'Spanish Civil War spy 1936': '@blackstone', 'Marcelino Pascua': 'kre3839', 'Marcelino Pascua portrait': 'ledger4',
+            'Spanish neutrality World War I trade port': 'ww1_rifles', 'Spanish Republic flag 1936': 'tolerate'})
+ROT['archive_sp'] = ['archive_sp', 'ledger3', 'ledger4', 'ledger', 'ledger3', 'ledger4']
+ROT['@loading'] = ['@loading', 'chart', 'odessa30', '@loading', 'cart36', 'odessa31', '@loading', 'chart']
+# segundo plano para planos largos: misma persona, mismo lugar o mismo tema
+ALT = {}
+for grp in [['orlov', 'orlov_c'], ['negrin', 'negrin_l', 'negrin38', 'negrin_sp', 'negrin20', 'negrin_tr'], ['largo', 'largo27', 'flargo', 'largo_alc'],
+            ['azana', 'azana3', 'azana33', 'azana37'], ['prieto36', 'prieto', 'prieto_rojo'], ['st36', 'st_dim', 'st_filo', 'st37', 'st37w', 'st_off', 'st_pg', 'st_chk'],
+            ['fr36', 'fr36b', 'fr_mola', 'fr39', 'fr_field', 'fr_desf'], ['kre38', 'kre3839', 'kre_night', 'kre_w', 'red_may', 'red_may2', 'kre57'],
+            ['bde', 'bde2', 'bde3', 'bde_det', 'bde_det2', 'bde_estat'], ['cart36', 'chart', 'arsenal', 'algameca', 'algameca2'],
+            ['bars', 'bars_dawson', 'sacks', 'sacks2', 'sov', 'sov_b', 'sov_vic', 'napo'], ['pts35', 'pts35b', 'pts500', 'rep_bills', 'cert_plata'],
+            ['mbomb', 'mshelter', 'montana', 'montana2', 'miliciana', 'val_chk'], ['i16', 'i15chato', 't26ru', 't26ter', 't26', 'guardia_art'],
+            ['he111', 'ju87', 'bf109', 'hitler37', 'hitler36', 'muss37', 'hit_mus', 'muss_crop'], ['trial2', 'radek', 'krest', 'krest2', 'rosenberg'],
+            ['ebro_rew', 'ebro_how', 'ib_marca', 'ib_hem', 'negrin_ib'], ['ledger', 'ledger3', 'ledger4', 'archive_sp'], ['odessa31', 'odessa30', 'pola'],
+            ['bdf36', 'bdf_door', 'blum_gov', 'blum_eden', 'boe'], ['gokh23', 'gokh', 'sacks2'], ['blitz', 'london40', 'boe', 'munich'], ['st_fun', 'st_fun2', 'senate'],
+            ['gob_largo', 'gob4', 'giral', 'giral2', 'gov_bcn'], ['nin', 'nin_m', 'contin', 'cnt', 'blindado']]:
+    for k in grp: ALT.setdefault(P[k], [P[x] for x in grp if x != k])
+AIALT = ['convoy', 'drivers', 'crates', 'loading', 'blackstone', 'train', 'counting', 'coins road']
 _CNT = {}
 def resolve(q, AI):
     k = FIX.get(q)

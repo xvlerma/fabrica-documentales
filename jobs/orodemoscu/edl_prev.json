@@ -1,0 +1,4665 @@
+[
+{
+"n": 0,
+"t": 0.0,
+"d": 6.76,
+"unit": 1,
+"heard": "Guerra Civil española. Otoño de mil novecientos treinta y seis. Una noche de octubre, en el",
+"spec": {
+"commons": "File:Montaña barracks in Madrid, July 1936.jpg",
+"at": "Guerra Civil"
+}
+},
+{
+"n": 1,
+"t": 6.76,
+"d": 3.28,
+"unit": 1,
+"heard": "en el puerto de Cartagena, cuatro barcos soviéticos cargan",
+"spec": {
+"commons": "File:Cartagena 16.06.1936.jpg",
+"at": "puerto de Cartagena",
+"lt": [
+"Cartagena",
+"octubre de 1936"
+]
+}
+},
+{
+"n": 2,
+"t": 10.04,
+"d": 3.64,
+"unit": 1,
+"heard": "siete mil ochocientas cajas de madera. Dentro va",
+"spec": {
+"card": {
+"type": "counter",
+"to": 7800,
+"label": "cajas de oro del Banco de España"
+},
+"at": "siete mil ochocientas"
+}
+},
+{
+"n": 3,
+"t": 13.68,
+"d": 3.75,
+"unit": 1,
+"heard": "va casi todo el oro de España.",
+"spec": {
+"commons": "File:Gold bullion bars.jpg",
+"at": "casi todo el oro"
+}
+},
+{
+"n": 4,
+"t": 17.43,
+"d": 2.68,
+"unit": 2,
+"heard": "Quinientas diez toneladas.",
+"spec": {
+"card": {
+"type": "counter",
+"to": 510,
+"label": "toneladas de oro"
+},
+"at": "Quinientas diez"
+}
+},
+{
+"n": 5,
+"t": 20.11,
+"d": 4.34,
+"unit": 2,
+"heard": "La cuarta reserva de oro del mundo. La República la envía",
+"spec": {
+"commons": "File:Banco de España (Madrid) 02.jpg",
+"at": "La cuarta reserva",
+"lt": [
+"Banco de España",
+"Madrid"
+]
+}
+},
+{
+"n": 6,
+"t": 24.45,
+"d": 5.88,
+"unit": 2,
+"heard": "a Moscú para pagar las armas que nadie más le quiere vender. Y ese oro",
+"spec": {
+"commons": "File:View to Kremlin in 1938.jpg",
+"at": "a Moscú",
+"lt": [
+"Moscú",
+"Unión Soviética"
+]
+}
+},
+{
+"n": 7,
+"t": 30.32,
+"d": 7.1,
+"unit": 3,
+"heard": "oro no volvió nunca. Veinte años después, en mil novecientos cincuenta y siete,",
+"spec": {
+"commons": "File:Kremlin wall in winter, Moscow, Russia.jpg",
+"at": "no volvió nunca"
+}
+},
+{
+"n": 8,
+"t": 37.42,
+"d": 3.32,
+"unit": 3,
+"heard": "el Gobierno soviético dio su versión oficial:",
+"spec": {
+"commons": "File:Moscow 1957 - Gorky Street towards Kremlin.jpg",
+"at": "Gobierno soviético"
+}
+},
+{
+"n": 9,
+"t": 40.74,
+"d": 6.7,
+"unit": 3,
+"heard": "ya no quedaba nada. Todo se había gastado. ¿Fue la única salida de una",
+"spec": {
+"commons": "File:Kremlin wall in winter, Moscow, Russia.jpg",
+"at": "ya no quedaba nada",
+"kw": "NO QUEDA NADA",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 10,
+"t": 47.44,
+"d": 7.36,
+"unit": 4,
+"heard": "una República abandonada por las democracias? ¿O la mayor entrega de soberanía de nuestra historia,",
+"spec": {
+"commons": "File:Columna Durruti (Alginet, Ribera Alta, País Valencià) 1936.jpg",
+"at": "República abandonada"
+}
+},
+{
+"n": 11,
+"t": 54.8,
+"d": 4.37,
+"unit": 4,
+"heard": "decidida por unos pocos y en secreto?",
+"spec": {
+"commons": "File:Gobfrlargcabsept1936.jpg",
+"at": "decidida por unos pocos"
+}
+},
+{
+"n": 12,
+"t": 59.17,
+"d": 2.94,
+"unit": 5,
+"heard": "¿Cuánto oro llegó de verdad a Moscú?",
+"spec": {
+"commons": "File:5 francs or, Napoléon III, 1857, pile.jpg",
+"at": "Cuánto oro"
+}
+},
+{
+"n": 13,
+"t": 62.11,
+"d": 6.24,
+"unit": 5,
+"heard": "¿Quién lo contó? Y la pregunta que lleva casi noventa años abierta:",
+"spec": {
+"commons": "File:Joseph Stalin and Georgi Dimitrov, 1936.jpg",
+"at": "Quién lo contó",
+"lt": [
+"Iósif Stalin",
+"Secretario general del Partido Comunista de la URSS",
+"urss"
+]
+}
+},
+{
+"n": 14,
+"t": 68.35,
+"d": 4.98,
+"unit": 5,
+"heard": "¿se pagaron armas... o se pagó algo más?",
+"spec": {
+"commons": "File:Russian T-26B Combat Tank used by the Republican Army in the Spanish Civil War.jpg",
+"at": "se pagaron armas"
+}
+},
+{
+"n": 15,
+"t": 73.33,
+"d": 8.34,
+"unit": 6,
+"heard": "El oro de Moscú. Para entender lo que pasó con ese oro hay que viajar a",
+"spec": {
+"card": {
+"type": "title",
+"title": "El oro de Moscú",
+"sub": "El viaje sin retorno de la reserva de España"
+},
+"tr": null
+}
+},
+{
+"n": 16,
+"t": 81.67,
+"d": 12.52,
+"unit": 8,
+"heard": "a julio de mil novecientos treinta y seis. Una parte del Ejército se subleva contra el Gobierno de la Segunda República. El golpe fracasa en Madrid, en Barcelona, en Valencia. Pero",
+"spec": {
+"commons": "File:Montaña barracks, July 1936.jpg",
+"at": "julio de mil",
+"lt": [
+"Madrid",
+"julio de 1936"
+]
+}
+},
+{
+"n": 17,
+"t": 94.19,
+"d": 24.02,
+"unit": 8,
+"heard": "Pero triunfa en media España. Y empieza una guerra. De un lado, la República: un Gobierno elegido en las urnas cinco meses antes, el del",
+"spec": {
+"card": {
+"type": "map",
+"title": "España, julio de 1936",
+"bbox": [
+-10,
+35.5,
+4.5,
+44
+],
+"points": [
+{
+"name": "Madrid",
+"lon": -3.7,
+"lat": 40.42,
+"at": 0.3,
+"big": 1
+},
+{
+"name": "Barcelona",
+"lon": 2.17,
+"lat": 41.39,
+"at": 0.45
+},
+{
+"name": "Valencia",
+"lon": -0.38,
+"lat": 39.47,
+"at": 0.55
+},
+{
+"name": "Sevilla",
+"lon": -5.98,
+"lat": 37.39,
+"at": 0.65
+},
+{
+"name": "Burgos",
+"lon": -3.7,
+"lat": 42.34,
+"at": 0.75
+}
+]
+},
+"at": "triunfa en media España"
+}
+},
+{
+"n": 18,
+"t": 118.21,
+"d": 7.82,
+"unit": 9,
+"heard": "el del Frente Popular. Del otro, los militares sublevados, que pronto tendrán un jefe: el general",
+"spec": {
+"commons": "File:Electoral office, 1936 elections, Spain.jpg",
+"at": "Frente Popular",
+"gloss": [
+"Frente Popular",
+"coalición de izquierdas que gobernaba desde febrero de 1936",
+"izquierda"
+],
+"gloss_at": 0.2,
+"gloss_dur": 4.5
+}
+},
+{
+"n": 19,
+"t": 126.03,
+"d": 3.2,
+"unit": 9,
+"heard": "Francisco Franco.",
+"spec": {
+"commons": "File:Francisco Franco, octubre de 1936, Burgos.jpg",
+"at": "Francisco Franco",
+"lt": [
+"Francisco Franco",
+"General sublevado · jefe del bando nacional desde octubre de 1936",
+"derecha"
+]
+}
+},
+{
+"n": 20,
+"t": 129.24,
+"d": 14.14,
+"unit": 10,
+"heard": "Estos son los nombres que vas a oír una y otra vez. Merece la pena retenerlos, porque todos tuvieron algo que ver con el destino del oro. Y hay una palabra que conviene aclarar desde ya:",
+"spec": {
+"card": {
+"type": "cast",
+"title": "Los protagonistas",
+"groups": [
+{
+"name": "La República",
+"color": [
+190,
+58,
+48
+],
+"people": [
+{
+"name": "Manuel Azaña",
+"role": "Presidente de la República",
+"commons": "File:Manuel Azaña Díaz.jpg"
+},
+{
+"name": "Francisco Largo Caballero",
+"role": "Presidente del Gobierno 1936-37",
+"commons": "File:Francisco Largo Caballero.jpg"
+},
+{
+"name": "Juan Negrín",
+"role": "Ministro de Hacienda",
+"commons": "File:Juan Negrín.png"
+},
+{
+"name": "Indalecio Prieto",
+"role": "Ministro de Marina y Aire",
+"commons": "File:Indalecio Prieto, 1936.jpg"
+}
+]
+},
+{
+"name": "La URSS",
+"color": [
+150,
+150,
+150
+],
+"people": [
+{
+"name": "Iósif Stalin",
+"role": "Dirigente soviético",
+"commons": "File:Joseph Stalin in 1937 with his pipe smoking.jpg"
+},
+{
+"name": "Alexander Orlov",
+"role": "Jefe de la NKVD en España",
+"commons": "File:Alexander Orlov.jpg"
+}
+]
+},
+{
+"name": "Los sublevados",
+"color": [
+64,
+104,
+168
+],
+"people": [
+{
+"name": "Francisco Franco",
+"role": "Jefe del bando nacional",
+"commons": "File:Francisco Franco, octubre de 1936, Burgos.jpg"
+}
+]
+}
+]
+},
+"at": "Estos son"
+}
+},
+{
+"n": 21,
+"t": 143.37,
+"d": 12.62,
+"unit": 11,
+"heard": "la NKVD. Era la policía política de Stalin. El servicio que espiaba, detenía y ejecutaba dentro y fuera de la Unión Soviética.",
+"spec": {
+"commons": "File:The Second Moscow Trial.jpg",
+"at": "la NKVD",
+"gloss": [
+"NKVD",
+"policía política de Stalin",
+"urss"
+]
+}
+},
+{
+"n": 22,
+"t": 155.99,
+"d": 5.99,
+"unit": 11,
+"heard": "Uno de sus hombres va a ser el encargado de llevarse el oro. Hasta hoy,",
+"spec": {
+"commons": "File:Alexander Orlov.jpg",
+"at": "Uno de sus hombres"
+}
+},
+{
+"n": 23,
+"t": 161.98,
+"d": 10.3,
+"unit": 12,
+"heard": "dos lecturas de esta historia se enfrentan. Y en este documental vas a escuchar las dos, a dos voces. Una dice que la República",
+"spec": {
+"card": {
+"type": "versus",
+"title": "Dos lecturas",
+"left": {
+"name": "La necesidad",
+"color": [
+190,
+58,
+48
+],
+"lines": [
+"la República no tenía otra salida",
+"las democracias la dejaron sola"
+]
+},
+"right": {
+"name": "La entrega",
+"color": [
+64,
+104,
+168
+],
+"lines": [
+"se dio el oro a Stalin sin garantías",
+"y con él, la independencia"
+]
+}
+},
+"at": "dos lecturas"
+}
+},
+{
+"n": 24,
+"t": 172.28,
+"d": 5.28,
+"unit": 13,
+"heard": "no tuvo otra opción. La defiende, sobre todo, el historiador",
+"spec": {
+"commons": "File:If You Tolerate This Your Children Will Be Next - 1930s poster.jpg",
+"at": "no tuvo otra opción",
+"kw": "LA NECESIDAD",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 25,
+"t": 177.56,
+"d": 16.05,
+"unit": 13,
+"heard": "Ángel Viñas, que lleva casi cincuenta años estudiando los papeles del oro. Para Viñas, el oro de Moscú no fue un robo ni una traición, sino el pago de una República a la que las democracias dejaron",
+"spec": {
+"commons": "File:Spanish civil war archive.jpg",
+"at": "Ángel Viñas"
+}
+},
+{
+"n": 26,
+"t": 193.61,
+"d": 12.15,
+"unit": 14,
+"heard": "sin otra salida. Y la leyenda del robo fue, sobre todo, un invento de la propaganda de Franco. La otra sostiene que se entregó la mayor riqueza del país a una",
+"spec": {
+"commons": "File:Militiawoman on the barricade.jpg",
+"at": "sin otra salida"
+}
+},
+{
+"n": 27,
+"t": 205.76,
+"d": 8.56,
+"unit": 15,
+"heard": "una dictadura opaca, sin control, y que ese oro ató a la República a Moscú. Es la tesis de historiadores económicos como",
+"spec": {
+"commons": "File:Paul Guermonprez, 1934 – Joseph Stalin.jpg",
+"at": "dictadura opaca",
+"kw": "LA ENTREGA",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 28,
+"t": 214.32,
+"d": 4.42,
+"unit": 15,
+"heard": "como Pablo Martín Aceña. Vamos a seguir el oro,",
+"spec": {
+"commons": "File:(Account ledger) - DPLA - a35b81a19450cba319aed51dd0ea6190 (page 2).jpg",
+"at": "Pablo Martín Aceña"
+}
+},
+{
+"n": 29,
+"t": 218.74,
+"d": 5.59,
+"unit": 15,
+"heard": "caja a caja. Y que cada uno saque sus conclusiones.",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/3993acec-fa18-42e2-b888-c1f8ce0448df.jpg",
+"at": "caja a caja"
+}
+},
+{
+"n": 30,
+"t": 224.33,
+"d": 6.9,
+"unit": 16,
+"heard": "Capítulo uno. La cuarta reserva del mundo. Madrid,",
+"spec": {
+"card": {
+"type": "title",
+"title": "La cuarta reserva del mundo",
+"sub": "Capítulo 1"
+},
+"tr": null
+}
+},
+{
+"n": 31,
+"t": 231.23,
+"d": 7.1,
+"unit": 18,
+"heard": "calle de Alcalá, julio de mil novecientos treinta y seis. Bajo el edificio del Banco de España hay una",
+"spec": {
+"commons": "File:Banco de España (Madrid) 03.jpg",
+"at": "calle de Alcalá",
+"lt": [
+"Banco de España",
+"calle de Alcalá, Madrid"
+]
+}
+},
+{
+"n": 32,
+"t": 238.33,
+"d": 5.52,
+"unit": 18,
+"heard": "una cámara acorazada a muchos metros de profundidad. Para llegar a ella hay que atravesar",
+"spec": {
+"commons": "File:Porte blindée d'une salle forte de banque - 2.jpg",
+"at": "cámara acorazada"
+}
+},
+{
+"n": 33,
+"t": 243.85,
+"d": 19.61,
+"unit": 18,
+"heard": "puertas blindadas y un foso que se podía inundar. Allí dentro, el día del golpe, hay más de",
+"spec": {
+"commons": "File:Gold bars stacked in a pyramid, Dawson, probably between 1902 and 1910 (AL+CA 1405).jpg",
+"at": "puertas blindadas"
+}
+},
+{
+"n": 34,
+"t": 263.47,
+"d": 6.32,
+"unit": 19,
+"heard": "de setecientas toneladas de oro. Lingotes, sí, pero sobre todo monedas:",
+"spec": {
+"card": {
+"type": "counter",
+"to": 700,
+"label": "toneladas de oro en el Banco de España, julio de 1936"
+},
+"at": "setecientas toneladas"
+}
+},
+{
+"n": 35,
+"t": 269.79,
+"d": 4.86,
+"unit": 19,
+"heard": "libras inglesas, dólares, francos, pesos, liras.",
+"spec": {
+"commons": "File:1817 George III Gold Sovereign UNC (1).jpg",
+"at": "libras inglesas"
+}
+},
+{
+"n": 36,
+"t": 274.65,
+"d": 5.17,
+"unit": 19,
+"heard": "Siglos de comercio y de ahorro de un país entero. Era la",
+"spec": {
+"commons": "File:EB1911 Numismatics - English gold sovereign (Victoria).jpg",
+"at": "Siglos de comercio"
+}
+},
+{
+"n": 37,
+"t": 279.82,
+"d": 9.68,
+"unit": 20,
+"heard": "la cuarta reserva de oro del mundo. Solo tres países guardaban más. España no había luchado en la Primera Guerra Mundial y había",
+"spec": {
+"commons": "File:Gold bars stacked in a pyramid, Dawson, probably between 1902 and 1910 (AL+CA 1405).jpg",
+"at": "cuarta reserva",
+"kw": "4.ª RESERVA DEL MUNDO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 38,
+"t": 289.5,
+"d": 12.13,
+"unit": 20,
+"heard": "había vendido a los dos bandos. Ese oro era el resultado. Y hay un detalle que casi nadie recuerda. En mil novecientos treinta y seis, el Banco de España",
+"spec": {
+"commons": "File:Cartagena Harbour, Spain. (9976168886).jpg",
+"at": "vendido a los dos bandos"
+}
+},
+{
+"n": 39,
+"t": 301.62,
+"d": 6.32,
+"unit": 21,
+"heard": "no era del Estado. Era una sociedad anónima, con accionistas privados, que tenía el privilegio de",
+"spec": {
+"commons": "File:Madrid - Detalles de la fachada del Banco de España 1.jpg",
+"at": "no era del Estado"
+}
+},
+{
+"n": 40,
+"t": 307.94,
+"d": 3.04,
+"unit": 21,
+"heard": "de emitir los billetes. No se nacionalizó hasta",
+"spec": {
+"commons": "File:500 pesetas - 1931 01.jpg",
+"at": "emitir los billetes"
+}
+},
+{
+"n": 41,
+"t": 310.98,
+"d": 4.14,
+"unit": 21,
+"heard": "hasta mil novecientos sesenta y dos. Ese oro",
+"spec": {
+"commons": "File:Banco de España Esquina Alcalá San Romualdo.JPG",
+"at": "mil novecientos sesenta y dos",
+"kw": "BANCO PRIVADO HASTA 1962",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 42,
+"t": 315.12,
+"d": 19.23,
+"unit": 22,
+"heard": "oro respaldaba la peseta, y la ley decía que solo podía salir de la cámara con condiciones muy estrictas. Recuérdalo, porque en septiembre esas condiciones se van a saltar. Es verdad que era un banco privado. Pero en una guerra, la reserva de oro de un país es",
+"spec": {
+"commons": "File:10 peseta bill 1935 second spanish Republic.jpg",
+"at": "respaldaba la peseta"
+}
+},
+{
+"n": 43,
+"t": 334.36,
+"d": 15.95,
+"unit": 23,
+"heard": "un asunto de Estado, la tenga quien la tenga. Ningún Gobierno del mundo habría dejado esas setecientas toneladas a merced de un ejército sublevado. Y desde el dieciocho de julio, ese oro se convierte en",
+"spec": {
+"commons": "File:Antigua real Casa de la Aduana (Ministerio de Hacienda).jpg",
+"at": "un asunto de Estado"
+}
+},
+{
+"n": 44,
+"t": 350.3,
+"d": 8.06,
+"unit": 24,
+"heard": "en la única arma que le queda a la República. Porque una guerra no se gana solo con hombres. Se gana con fusiles,",
+"spec": {
+"commons": "File:Nuns being detained by Republican militia.jpg",
+"at": "la única arma"
+}
+},
+{
+"n": 45,
+"t": 358.36,
+"d": 19.19,
+"unit": 24,
+"heard": "con aviones, con munición. Y todo eso hay que comprarlo fuera. El Gobierno de",
+"spec": {
+"commons": "File:Polikarpov I-15-Chato.jpg",
+"at": "con aviones"
+}
+},
+{
+"n": 46,
+"t": 377.56,
+"d": 6.82,
+"unit": 25,
+"heard": "de José Giral empieza a vender oro casi enseguida. Ya en el verano de mil novecientos treinta y seis,",
+"spec": {
+"commons": "File:Giral after nomination to prime minister.jpg",
+"at": "José Giral",
+"lt": [
+"José Giral",
+"Presidente del Gobierno, julio-septiembre de 1936",
+"izquierda"
+]
+}
+},
+{
+"n": 47,
+"t": 384.38,
+"d": 3.94,
+"unit": 25,
+"heard": "aviones cargados de cajas salen hacia París. Allí,",
+"spec": {
+"commons": "File:Moroccan troops boarding Ju-52.jpg",
+"at": "aviones cargados"
+}
+},
+{
+"n": 48,
+"t": 388.32,
+"d": 10.97,
+"unit": 25,
+"heard": "el Banco de Francia lo compra y la República recibe francos para pagar armas. Es la otra parte de esta historia, mucho menos famosa: el llamado",
+"spec": {
+"commons": "File:1936 conseil général de la Banque de France.jpg",
+"at": "el Banco de Francia",
+"lt": [
+"Banco de Francia",
+"París"
+]
+}
+},
+{
+"n": 49,
+"t": 399.29,
+"d": 2.06,
+"unit": 26,
+"heard": "oro de París.",
+"spec": {
+"commons": "File:Streets of Paris (NBY 416630).jpg",
+"at": "oro de París",
+"kw": "EL ORO DE PARÍS",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 50,
+"t": 401.35,
+"d": 24.25,
+"unit": 26,
+"heard": "Casi doscientas toneladas, más de una cuarta parte de la reserva, acabaron vendidas en Francia. De ese oro casi nadie habla. Y no por casualidad: no sirve para la propaganda de nadie. Y hay otra parte del oro de la que tampoco se habla. Desde antes de la guerra, el Banco de España guardaba unas cuarenta toneladas en",
+"spec": {
+"card": {
+"type": "counter",
+"to": 193,
+"label": "toneladas vendidas en Francia"
+},
+"at": "Casi doscientas"
+}
+},
+{
+"n": 51,
+"t": 425.6,
+"d": 7.96,
+"unit": 27,
+"heard": "Mont-de-Marsan, en el sur de Francia, como garantía de unas operaciones con el Banco de Francia. Ese oro",
+"spec": {
+"commons": "File:Gold bullion bars.jpg",
+"at": "Mont-de-Marsan"
+}
+},
+{
+"n": 52,
+"t": 433.56,
+"d": 10.26,
+"unit": 27,
+"heard": "oro quedó bloqueado durante toda la guerra. La República nunca pudo usarlo. Y en mil novecientos treinta y nueve, Francia",
+"spec": {
+"commons": "File:Gold bullion bars.jpg",
+"at": "quedó bloqueado",
+"kw": "BLOQUEADO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 53,
+"t": 443.82,
+"d": 8.29,
+"unit": 27,
+"heard": "se lo entregó a Franco. Es un buen ejemplo de lo que podía pasar con el oro que la República dejara en manos de las",
+"spec": {
+"commons": "File:Francisco Franco desfile de la victoria 1939.jpg",
+"at": "se lo entregó a Franco"
+}
+},
+{
+"n": 54,
+"t": 452.12,
+"d": 6.67,
+"unit": 28,
+"heard": "las democracias occidentales. Pero en agosto pasa algo que cambia todo.",
+"spec": {
+"commons": "File:Streets of Paris (NBY 416205).jpg",
+"at": "democracias occidentales"
+}
+},
+{
+"n": 55,
+"t": 458.79,
+"d": 1.6,
+"unit": 29,
+"heard": "Francia y Gran Bretaña,",
+"spec": {
+"commons": "File:Léon Blum 1936-2-13.jpg",
+"at": "Francia",
+"lt": [
+"Léon Blum",
+"Primer ministro de Francia",
+"centro"
+]
+}
+},
+{
+"n": 56,
+"t": 460.39,
+"d": 9.84,
+"unit": 29,
+"heard": "las dos grandes democracias de Europa, proponen un pacto: nadie venderá armas a ningún bando de la guerra de España. Lo llamaron",
+"spec": {
+"commons": "File:Léon Blum, Anthony Eden, 1936.jpg",
+"at": "Gran Bretaña"
+}
+},
+{
+"n": 57,
+"t": 470.23,
+"d": 20.56,
+"unit": 29,
+"heard": "No Intervención. Lo más doloroso para la República es que el primer Gobierno francés de izquierdas, el de",
+"spec": {
+"commons": "File:Bank of England and Royal Exchange, London.jpg",
+"at": "No Intervención",
+"kw": "NO INTERVENCIÓN",
+"kw_at": 0.4,
+"kw_dur": 2.2,
+"gloss": [
+"No Intervención",
+"pacto para no vender armas a ningún bando (1936)"
+],
+"gloss_at": 0.2,
+"gloss_dur": 4.5
+}
+},
+{
+"n": 58,
+"t": 490.79,
+"d": 5.84,
+"unit": 30,
+"heard": "el de Léon Blum, quería ayudarla. En los primeros días de la guerra llegaron a salir",
+"spec": {
+"commons": "File:Gouvernement Léon Blum - juin 1936.jpg",
+"at": "Léon Blum"
+}
+},
+{
+"n": 59,
+"t": 496.63,
+"d": 12.53,
+"unit": 30,
+"heard": "salir algunos aviones franceses hacia España. Pero la presión de Londres y de la derecha francesa le hizo dar marcha atrás. Y la ayuda se cortó. Firmaron",
+"spec": {
+"commons": "File:I-15 Polikarpov Tinker.jpg",
+"at": "algunos aviones franceses"
+}
+},
+{
+"n": 60,
+"t": 509.16,
+"d": 4.06,
+"unit": 31,
+"heard": "casi treinta países. Entre ellos, la Alemania de",
+"spec": {
+"commons": "File:Léon Blum, Anthony Eden, 1936.jpg",
+"at": "casi treinta países"
+}
+},
+{
+"n": 61,
+"t": 513.22,
+"d": 4.84,
+"unit": 31,
+"heard": "de Hitler y la Italia de Mussolini. Y las dos siguieron mandando a Franco",
+"spec": {
+"commons": "File:Benito Mussolini and Adolf Hitler.jpg",
+"at": "Hitler"
+}
+},
+{
+"n": 62,
+"t": 518.06,
+"d": 9.72,
+"unit": 31,
+"heard": "a Franco aviones, tanques, pilotos y soldados como si no hubieran firmado nada. Para la República, el resultado fue",
+"spec": {
+"commons": "File:He 111 B-1 o. B-2, Spanien, 1937-38 (1).jpg",
+"at": "aviones, tanques"
+}
+},
+{
+"n": 63,
+"t": 527.77,
+"d": 10.6,
+"unit": 32,
+"heard": "una trampa. Era el Gobierno legal de España. Y no podía comprar armas legalmente en casi ningún sitio. Ángel Viñas lo llama",
+"spec": {
+"commons": "File:Revolutionary checkpoint in Valencia.jpg",
+"at": "una trampa"
+}
+},
+{
+"n": 64,
+"t": 538.38,
+"d": 10.32,
+"unit": 32,
+"heard": "llama la soledad de la República. Eso es cierto. Pero hay que añadir algo. La República siguió comprando, a través de",
+"spec": {
+"commons": "File:1936 BLANCO Y NEGRO S26 2.jpg",
+"at": "la soledad",
+"kw": "LA SOLEDAD DE LA REPÚBLICA",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 65,
+"t": 548.69,
+"d": 3.02,
+"unit": 33,
+"heard": "de intermediarios y traficantes, en media Europa y",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/7da8a42a-5c30-4381-a3af-85604300218a.jpg",
+"at": "intermediarios"
+}
+},
+{
+"n": 66,
+"t": 551.71,
+"d": 8.56,
+"unit": 33,
+"heard": "y en México. Caro y mal, pero compró. El problema no era que el oro no sirviera. El problema era",
+"spec": {
+"commons": "File:Republica española-banknotes 0003.jpg",
+"at": "México"
+}
+},
+{
+"n": 67,
+"t": 560.27,
+"d": 3.27,
+"unit": 33,
+"heard": "era dónde ponerlo a salvo.",
+"spec": {
+"commons": "File:Gold bullion bars.jpg",
+"at": "dónde ponerlo a salvo"
+}
+},
+{
+"n": 68,
+"t": 563.55,
+"d": 14.36,
+"unit": 34,
+"heard": "Septiembre de mil novecientos treinta y seis. Las columnas de Franco",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "El oro de Moscú"
+}
+}
+},
+{
+"n": 69,
+"t": 577.91,
+"d": 2.56,
+"unit": 35,
+"heard": "Franco avanzan hacia Madrid desde el sur.",
+"spec": {
+"commons": "File:Francisco Franco in the field.jpg",
+"at": "avanzan hacia Madrid"
+}
+},
+{
+"n": 70,
+"t": 580.47,
+"d": 3.36,
+"unit": 35,
+"heard": "Toledo cae a finales de mes. Muchos creen que",
+"spec": {
+"commons": "File:Destruction of the Alcázar in Toledo-fr.png",
+"at": "Toledo cae",
+"lt": [
+"Toledo",
+"septiembre de 1936"
+]
+}
+},
+{
+"n": 71,
+"t": 583.83,
+"d": 25.15,
+"unit": 35,
+"heard": "que la capital caerá antes del invierno. Y en la capital está el oro. El cuatro de septiembre se forma un nuevo Gobierno. Lo preside el líder socialista",
+"spec": {
+"commons": "File:Running to the nearest shelter - Google Art Project.jpg",
+"at": "la capital caerá"
+}
+},
+{
+"n": 72,
+"t": 608.97,
+"d": 9.48,
+"unit": 36,
+"heard": "Francisco Largo Caballero. En Hacienda entra un médico canario, catedrático de Fisiología, que hablaba varios idiomas:",
+"spec": {
+"commons": "File:Francisco Largo Caballero.jpg",
+"at": "Francisco Largo Caballero",
+"lt": [
+"Francisco Largo Caballero",
+"Presidente del Gobierno",
+"izquierda"
+]
+}
+},
+{
+"n": 73,
+"t": 618.45,
+"d": 7.6,
+"unit": 36,
+"heard": "Juan Negrín. Nueve días después, el trece de septiembre, Negrín lleva a la firma del",
+"spec": {
+"commons": "File:Juan Negrín.png",
+"at": "Juan Negrín",
+"lt": [
+"Juan Negrín",
+"Ministro de Hacienda",
+"izquierda"
+]
+}
+},
+{
+"n": 74,
+"t": 626.05,
+"d": 1.6,
+"unit": 37,
+"heard": "del presidente Azaña un decreto",
+"spec": {
+"commons": "File:Manuel Azaña Díaz.jpg",
+"at": "presidente Azaña",
+"lt": [
+"Manuel Azaña",
+"Presidente de la República",
+"izquierda"
+]
+}
+},
+{
+"n": 75,
+"t": 627.65,
+"d": 8.82,
+"unit": 37,
+"heard": "reservado. Autoriza al ministro a sacar el oro y la plata del Banco de España y llevarlos a donde considere más seguro.",
+"spec": {
+"card": {
+"type": "doc",
+"title": "Decreto reservado",
+"lines": [
+"Autoriza al ministro de Hacienda a trasladar el oro y la plata del Banco de España al lugar que estime más seguro."
+],
+"source": "Decreto de 13 de septiembre de 1936 · resumen"
+},
+"at": "un decreto reservado"
+}
+},
+{
+"n": 76,
+"t": 636.47,
+"d": 8.0,
+"unit": 37,
+"heard": "No dice adónde. Ese hueco en blanco es el corazón de esta historia. En el",
+"spec": {
+"commons": "File:Gold bars stacked in a pyramid, Dawson, probably between 1902 and 1910 (AL+CA 1405).jpg",
+"at": "No dice adónde",
+"kw": "SIN DESTINO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 77,
+"t": 644.47,
+"d": 4.1,
+"unit": 38,
+"heard": "el consejo del Banco de España hubo protestas: el oro era la",
+"spec": {
+"commons": "File:Estatua y placa de la fachada del Banco de España en la calle Alcalá de Madrid.jpg",
+"at": "consejo del Banco"
+}
+},
+{
+"n": 78,
+"t": 648.57,
+"d": 11.28,
+"unit": 38,
+"heard": "la garantía de la peseta, y la ley no permitía sacarlo así. Pero el Gobierno no esperó. Al día siguiente, el catorce de septiembre, empezaron",
+"spec": {
+"commons": "File:Billete de diez pesetas españolas de 1935.jpg",
+"at": "garantía de la peseta"
+}
+},
+{
+"n": 79,
+"t": 659.85,
+"d": 5.75,
+"unit": 38,
+"heard": "a vaciar la cámara. Hay que entender el ambiente de esos días.",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/3993acec-fa18-42e2-b888-c1f8ce0448df.jpg",
+"at": "vaciar la cámara"
+}
+},
+{
+"n": 80,
+"t": 665.6,
+"d": 2.88,
+"unit": 39,
+"heard": "Madrid está bombardeada.",
+"spec": {
+"commons": "File:Bombardeo del 17 de noviembre de 1936 sobre Madrid.jpg",
+"at": "Madrid está bombardeada"
+}
+},
+{
+"n": 81,
+"t": 668.48,
+"d": 10.44,
+"unit": 39,
+"heard": "Las milicias piden armas a gritos. Y nadie sabe si el Gobierno seguirá en la ciudad la semana siguiente. De hecho, en noviembre se marchará",
+"spec": {
+"commons": "File:Columna Durruti (Alginet, Ribera Alta, País Valencià) 1936.jpg",
+"at": "Las milicias"
+}
+},
+{
+"n": 82,
+"t": 678.92,
+"d": 9.38,
+"unit": 39,
+"heard": "a Valencia. Sacar el oro de Madrid no era una locura. Era lo que haría cualquier Gobierno.",
+"spec": {
+"commons": "File:Servei d'autobusos requisat per CNT-UGT durant la Guerra Civil (País Valencià, 1936).jpg",
+"at": "a Valencia",
+"lt": [
+"Valencia",
+"sede del Gobierno desde noviembre de 1936"
+]
+}
+},
+{
+"n": 83,
+"t": 688.3,
+"d": 8.16,
+"unit": 40,
+"heard": "Sacarlo de Madrid, no. La pregunta es otra: por qué no se quedó en España, y por qué acabó precisamente en",
+"spec": {
+"commons": "File:Banco de España (Madrid) 05.jpg",
+"at": "Sacarlo de Madrid"
+}
+},
+{
+"n": 84,
+"t": 696.46,
+"d": 17.03,
+"unit": 40,
+"heard": "manos de Stalin. En pocos días, cientos de cajas salen en",
+"spec": {
+"commons": "File:Filonov - portrait-of-joseph-stalin-iosif-vissarionovich-dzhugashvili-1936.jpg",
+"at": "manos de Stalin"
+}
+},
+{
+"n": 85,
+"t": 713.49,
+"d": 1.6,
+"unit": 41,
+"heard": "en camiones y trenes hacia el sureste.",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/2e8bb03b-6d95-49d1-8242-5fe58d73b7e9.jpg",
+"at": "camiones y trenes"
+}
+},
+{
+"n": 86,
+"t": 715.09,
+"d": 11.4,
+"unit": 41,
+"heard": "sureste. Su destino: Cartagena, la gran base de la Armada republicana. Allí, en la bahía, hay unos viejos polvorines excavados en la roca:",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "Madrid → Cartagena",
+"keys": [
+[
+-7,
+36.5,
+1,
+41.8
+],
+[
+-3,
+37.2,
+0,
+39
+]
+],
+"points": [
+{
+"name": "Madrid",
+"lon": -3.7,
+"lat": 40.42,
+"at": 0.2,
+"big": 1
+},
+{
+"name": "Cartagena",
+"lon": -0.98,
+"lat": 37.6,
+"at": 0.7,
+"pulse": 1,
+"big": 1
+}
+]
+},
+"at": "hacia el sureste"
+}
+},
+{
+"n": 87,
+"t": 726.49,
+"d": 5.1,
+"unit": 41,
+"heard": "La Algameca. El oro estaba lejos del frente,",
+"spec": {
+"commons": "File:La Algameca Chica.jpg",
+"at": "La Algameca",
+"lt": [
+"La Algameca",
+"Polvorines de la Armada · Cartagena"
+]
+}
+},
+{
+"n": 88,
+"t": 731.59,
+"d": 5.18,
+"unit": 42,
+"heard": "protegido por la Marina, y junto a un puerto. Desde Cartagena se podía llevar",
+"spec": {
+"commons": "File:Alfonso XIII Arsenal Cartagena.jpg",
+"at": "protegido por la Marina"
+}
+},
+{
+"n": 89,
+"t": 736.76,
+"d": 8.0,
+"unit": 42,
+"heard": "llevar a cualquier parte. A esas alturas, todavía no estaba decidido adónde.",
+"spec": {
+"commons": "File:Admiralty Chart No 2434 Cartagena Harbour, Published 1856, Large Corrections 1930.jpg",
+"at": "a cualquier parte"
+}
+},
+{
+"n": 90,
+"t": 744.76,
+"d": 8.2,
+"unit": 43,
+"heard": "Capítulo dos. La decisión. Octubre de mil novecientos treinta y seis.",
+"spec": {
+"card": {
+"type": "title",
+"title": "La decisión",
+"sub": "Capítulo 2"
+},
+"tr": null
+}
+},
+{
+"n": 91,
+"t": 752.97,
+"d": 4.38,
+"unit": 45,
+"heard": "Valencia y Madrid. Lo que pasa en estas semanas lo sabemos por",
+"spec": {
+"commons": "File:Revolutionary checkpoint in Valencia.jpg",
+"at": "Valencia y Madrid"
+}
+},
+{
+"n": 92,
+"t": 757.35,
+"d": 8.45,
+"unit": 45,
+"heard": "por muy pocos papeles. Porque la decisión de mandar el oro a Moscú la tomaron muy pocas personas. Según el propio",
+"spec": {
+"commons": "File:(Account ledger) - DPLA - a35b81a19450cba319aed51dd0ea6190 (page 3).jpg",
+"at": "muy pocos papeles"
+}
+},
+{
+"n": 93,
+"t": 765.8,
+"d": 3.48,
+"unit": 46,
+"heard": "propio Largo Caballero en sus escritos posteriores, la idea",
+"spec": {
+"commons": "File:F. Largo Caballero.jpg",
+"at": "Largo Caballero"
+}
+},
+{
+"n": 94,
+"t": 769.28,
+"d": 6.72,
+"unit": 46,
+"heard": "idea la propuso Negrín, y él la aprobó. El Consejo de Ministros no la discutió. Y",
+"spec": {
+"commons": "File:Juan Negrín López.png",
+"at": "la propuso Negrín"
+}
+},
+{
+"n": 95,
+"t": 776.0,
+"d": 7.08,
+"unit": 46,
+"heard": "Y a Azaña, el presidente de la República, no se le explicó el destino del oro. Y hay que",
+"spec": {
+"commons": "File:Azaña 3.jpg",
+"at": "a Azaña"
+}
+},
+{
+"n": 96,
+"t": 783.08,
+"d": 27.58,
+"unit": 47,
+"heard": "hay que ponerse en su lugar. Largo Caballero había visto caer Toledo. Sabía que, si Madrid caía con el oro dentro, la República perdía la guerra en una semana: sin dinero no hay armas, y sin armas no hay República. Los defensores de Negrín tienen respuesta para eso. Era una operación de guerra. Si se hubiera debatido en",
+"spec": {
+"commons": "File:LargoCaballeroAlcazar.jpg",
+"at": "ponerse en su lugar"
+}
+},
+{
+"n": 97,
+"t": 810.66,
+"d": 8.3,
+"unit": 48,
+"heard": "en un Consejo con veinte ministros, en una zona llena de espías, el oro no habría llegado nunca a su destino.",
+"spec": {
+"commons": "File:Gobfrlargcabsept1936.jpg",
+"at": "un Consejo con veinte"
+}
+},
+{
+"n": 98,
+"t": 818.96,
+"d": 26.15,
+"unit": 48,
+"heard": "El secreto era la única forma de protegerlo. Y recordemos quiénes eran esos pocos. No eran conspiradores. Eran el presidente del Gobierno y su ministro de Hacienda, con",
+"spec": {
+"commons": "File:(Account ledger) - DPLA - a35b81a19450cba319aed51dd0ea6190 (page 3).jpg",
+"at": "El secreto",
+"kw": "SECRETO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 99,
+"t": 845.1,
+"d": 13.8,
+"unit": 49,
+"heard": "con un decreto firmado por el presidente de la República que les autorizaba a poner el oro a salvo. Legalmente, tenían el poder para hacerlo. Legalmente, sí. El decreto decía",
+"spec": {
+"commons": "File:1936-07-12 CRÓNICA.jpg",
+"at": "un decreto firmado"
+}
+},
+{
+"n": 100,
+"t": 858.91,
+"d": 15.18,
+"unit": 50,
+"heard": "«a salvo». No decía «a la Unión Soviética». Y ese destino, la decisión más trascendental de todas, no lo votó nadie más. Además, el secreto tiene un precio: cuando el oro",
+"spec": {
+"commons": "File:Azaña 3.jpg",
+"at": "a salvo",
+"kw": "«A SALVO»",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 101,
+"t": 874.09,
+"d": 16.3,
+"unit": 51,
+"heard": "oro desaparece de la vista, también desaparece el control. Y el control de esta operación no lo iba a tener la República. Vamos a las razones de fondo. ¿Por qué Moscú? Los historiadores que defienden la decisión",
+"spec": {
+"commons": "File:Porte blindée d'une salle forte de banque - 2.jpg",
+"at": "desaparece de la vista"
+}
+},
+{
+"n": 102,
+"t": 890.39,
+"d": 9.92,
+"unit": 52,
+"heard": "dan tres. La primera, que Francia y Gran Bretaña no eran de fiar. Con la No Intervención, el oro podía quedarse bloqueado en",
+"spec": {
+"card": {
+"type": "list",
+"header": "¿Por qué Moscú?",
+"items": [
+[
+"1",
+"Londres y París no eran de fiar"
+],
+[
+"2",
+"La URSS era el único gran vendedor de armas"
+],
+[
+"3",
+"Pagar en oro daba crédito para comprar"
+]
+]
+},
+"at": "dan tres"
+}
+},
+{
+"n": 103,
+"t": 900.31,
+"d": 9.61,
+"unit": 52,
+"heard": "en un banco de Londres o de París por presiones políticas. La segunda, que la Unión Soviética era la única gran potencia",
+"spec": {
+"commons": "File:Bank of England and Royal Exchange, London.jpg",
+"at": "un banco de Londres"
+}
+},
+{
+"n": 104,
+"t": 909.92,
+"d": 11.96,
+"unit": 53,
+"heard": "dispuesta a vender armas a la República. Y la tercera, que tener el oro allí le daba a la República crédito inmediato para comprar. Su nieta,",
+"spec": {
+"commons": "File:Carro de combate T-26.jpg",
+"at": "dispuesta a vender armas"
+}
+},
+{
+"n": 105,
+"t": 921.88,
+"d": 3.25,
+"unit": 53,
+"heard": "Carmen Negrín, lo resume así:",
+"spec": {
+"commons": "File:Juan Negrin 1920s.jpg",
+"at": "Carmen Negrín"
+}
+},
+{
+"n": 106,
+"t": 925.12,
+"d": 20.2,
+"unit": 54,
+"heard": "«El único país que aceptó recibirlo, protegerlo y hacerlo fructificar era la URSS.» Ahora, el otro lado. La Unión Soviética de mil novecientos treinta y seis no era un banco. Era una dictadura en plena época del Terror. Ese mismo verano habían empezado los grandes",
+"spec": {
+"card": {
+"type": "quote",
+"text": "El único país que aceptó recibirlo, protegerlo y hacerlo fructificar era la URSS.",
+"attrib": "Carmen Negrín, nieta de Juan Negrín · entrevista publicada"
+},
+"at": "El único país"
+}
+},
+{
+"n": 107,
+"t": 945.32,
+"d": 1.88,
+"unit": 55,
+"heard": "procesos de Moscú, en los que",
+"spec": {
+"commons": "File:The Second Moscow Trial.jpg",
+"at": "procesos de Moscú",
+"lt": [
+"Procesos de Moscú",
+""
+]
+}
+},
+{
+"n": 108,
+"t": 947.2,
+"d": 17.9,
+"unit": 55,
+"heard": "los que Stalin mandaba fusilar a los viejos dirigentes bolcheviques. Era un país que",
+"spec": {
+"commons": "File:Filonov - portrait-of-joseph-stalin-iosif-vissarionovich-dzhugashvili-1936.jpg",
+"at": "Stalin mandaba fusilar"
+}
+},
+{
+"n": 109,
+"t": 965.11,
+"d": 9.62,
+"unit": 56,
+"heard": "que no rendía cuentas a nadie. Sin prensa libre, sin tribunales independientes, sin oposición. Si un día decidía que el oro se había gastado,",
+"spec": {
+"commons": "File:Kremlin on 1938-1939.jpg",
+"at": "no rendía cuentas"
+}
+},
+{
+"n": 110,
+"t": 974.73,
+"d": 11.52,
+"unit": 56,
+"heard": "no había a quién reclamar. Y eso es exactamente lo que pasó. Por eso Pablo Martín Aceña sostiene que había alternativas mejores: repartir el oro entre",
+"spec": {
+"commons": "File:1st May demonstration in Moscow end 1930s.jpg",
+"at": "no había a quién reclamar",
+"kw": "¿A QUIÉN RECLAMAR?",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 111,
+"t": 986.25,
+"d": 7.92,
+"unit": 57,
+"heard": "entre varios países, venderlo poco a poco en distintas plazas, no poner toda la reserva en manos de un solo Estado.",
+"spec": {
+"commons": "File:Gold bars stacked in a pyramid, Dawson, probably between 1902 and 1910 (AL+CA 1405).jpg",
+"at": "varios países"
+}
+},
+{
+"n": 112,
+"t": 994.17,
+"d": 13.81,
+"unit": 57,
+"heard": "Viñas responde que esas alternativas, en la práctica, no existían. Y conviene recordar el calendario. A mediados de octubre, Madrid parecía perdida.",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Martín Aceña",
+"lines": [
+"había alternativas",
+"repartir el riesgo"
+]
+},
+"right": {
+"title": "Viñas",
+"lines": [
+"no había alternativas",
+"solo la URSS vendía"
+]
+}
+},
+"at": "Viñas responde"
+}
+},
+{
+"n": 113,
+"t": 1007.99,
+"d": 5.92,
+"unit": 58,
+"heard": "Los primeros barcos soviéticos con armas llegaron a España en esos mismos días.",
+"spec": {
+"commons": "File:Cartagena Harbour, Spain. (9976168886).jpg",
+"at": "Los primeros barcos"
+}
+},
+{
+"n": 114,
+"t": 1013.9,
+"d": 1.6,
+"unit": 58,
+"heard": "Los tanques y aviones rusos",
+"spec": {
+"commons": "File:Russian T-26B Combat Tank used by the Republican Army in the Spanish Civil War.jpg",
+"at": "Los tanques"
+}
+},
+{
+"n": 115,
+"t": 1015.5,
+"d": 17.34,
+"unit": 58,
+"heard": "que defendieron Madrid en noviembre ya estaban en camino. El calendario funciona también al revés: el oro salió entero, de una sola vez, antes de saber qué se iba a recibir a cambio. No se fue pagando lo que llegaba. Se entregó todo",
+"spec": {
+"commons": "File:Polikarpov I-15-Chato.jpg",
+"at": "aviones rusos"
+}
+},
+{
+"n": 116,
+"t": 1032.84,
+"d": 2.76,
+"unit": 59,
+"heard": "por adelantado.",
+"spec": {
+"commons": "File:Gold bullion bars.jpg",
+"at": "por adelantado",
+"kw": "POR ADELANTADO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 117,
+"t": 1035.61,
+"d": 12.26,
+"unit": 60,
+"heard": "Para entender por qué Stalin dijo que sí, hay que",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "El oro de Moscú"
+}
+}
+},
+{
+"n": 118,
+"t": 1047.87,
+"d": 22.34,
+"unit": 61,
+"heard": "que mirar a Moscú. Durante el verano, la Unión Soviética había firmado la No Intervención como todos. Pero a finales de septiembre, viendo que Alemania e Italia la incumplían sin disimulo, el Kremlin cambió de política. Decidió mandar armas a la República en secreto. Lo llamaron",
+"spec": {
+"commons": "File:View to Kremlin in 1938.jpg",
+"at": "mirar a Moscú"
+}
+},
+{
+"n": 119,
+"t": 1070.21,
+"d": 17.83,
+"unit": 61,
+"heard": "Operación X. Y aquí conviene no ser ingenuos.",
+"spec": {
+"commons": "File:Admiralty Chart No 2434 Cartagena Harbour, Published 1856, Large Corrections 1930.jpg",
+"at": "Operación X",
+"kw": "OPERACIÓN X",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 120,
+"t": 1088.04,
+"d": 3.44,
+"unit": 62,
+"heard": "Stalin no ayudaba por solidaridad. Le interesaba",
+"spec": {
+"commons": "File:Chkalov, Stalin and Belyakov. August 10, 1936.jpg",
+"at": "Stalin no ayudaba"
+}
+},
+{
+"n": 121,
+"t": 1091.48,
+"d": 19.22,
+"unit": 62,
+"heard": "que Hitler se desgastara en España, lejos de sus fronteras. Le interesaba ganar peso en Europa. Y le interesaba, por supuesto, cobrar. Nadie dice que Stalin fuera un benefactor. Lo que dicen los defensores de la República es más sencillo: era",
+"spec": {
+"commons": "File:Adolf Hitler Nuremberg 1930s.jpg",
+"at": "que Hitler se desgastara"
+}
+},
+{
+"n": 122,
+"t": 1110.7,
+"d": 7.82,
+"unit": 63,
+"heard": "el único vendedor dispuesto. Y cuando solo hay un vendedor, se compra al que hay. ¿Y",
+"spec": {
+"commons": "File:T26batallateruel.jpg",
+"at": "el único vendedor",
+"kw": "EL ÚNICO VENDEDOR",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 123,
+"t": 1118.52,
+"d": 11.1,
+"unit": 64,
+"heard": "¿Y Prieto, el ministro de Marina y Aire, el gran rival de Largo Caballero dentro del socialismo? Según varias versiones, se enteró del embarque casi por casualidad, porque estaba",
+"spec": {
+"commons": "File:Indalecio Prieto, 1936.jpg",
+"at": "Prieto",
+"lt": [
+"Indalecio Prieto",
+"Ministro de Marina y Aire",
+"izquierda"
+]
+}
+},
+{
+"n": 124,
+"t": 1129.62,
+"d": 14.23,
+"unit": 64,
+"heard": "en Cartagena por otros asuntos. Un ministro de la República descubría en un muelle adónde iba el oro de su país. La petición se canalizó a través del embajador soviético en Madrid,",
+"spec": {
+"commons": "File:Cartagena 16.06.1936.jpg",
+"at": "en Cartagena por otros asuntos"
+}
+},
+{
+"n": 125,
+"t": 1143.84,
+"d": 9.04,
+"unit": 65,
+"heard": "Marcel Rosenberg, que había llegado a España a finales de agosto. Era la primera vez en la historia que la Unión Soviética tenía",
+"spec": {
+"commons": "File:Marcel Rosenberg.jpg",
+"at": "Marcel Rosenberg",
+"lt": [
+"Marcel Rosenberg",
+"Embajador soviético en Madrid",
+"urss"
+]
+}
+},
+{
+"n": 126,
+"t": 1152.88,
+"d": 4.42,
+"unit": 65,
+"heard": "embajada en España. Apunta su nombre, porque",
+"spec": {
+"commons": "File:Banco de España (Madrid) 05.jpg",
+"at": "embajada en España"
+}
+},
+{
+"n": 127,
+"t": 1157.31,
+"d": 19.37,
+"unit": 66,
+"heard": "porque se repite un patrón. Rosenberg sería llamado a Moscú a principios de mil novecientos treinta y siete y, poco después, fusilado en las purgas. De los soviéticos que tocaron el oro español, muy pocos sobrevivieron a Stalin. En Moscú, la petición española llega al",
+"spec": {
+"commons": "File:Radek's action.jpg",
+"at": "se repite un patrón",
+"kw": "UN PATRÓN",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 128,
+"t": 1176.67,
+"d": 7.56,
+"unit": 67,
+"heard": "al despacho de Stalin a mediados de octubre. La respuesta es rápida. Y el hombre al que se encarga la operación es",
+"spec": {
+"commons": "File:Joseph Stalin (Woolf, 1937).jpg",
+"at": "despacho de Stalin"
+}
+},
+{
+"n": 129,
+"t": 1184.23,
+"d": 23.04,
+"unit": 67,
+"heard": "es Alexander Orlov, jefe de la NKVD en España. Orlov había llegado a Madrid en septiembre con pasaporte diplomático, como simple",
+"spec": {
+"commons": "File:Alexander Orlov.jpg",
+"at": "Alexander Orlov",
+"lt": [
+"Alexander Orlov",
+"Jefe de la NKVD en España",
+"urss"
+]
+}
+},
+{
+"n": 130,
+"t": 1207.27,
+"d": 3.64,
+"unit": 68,
+"heard": "agregado de la embajada. Años después",
+"spec": {
+"commons": "File:1936-07-12 CRÓNICA.jpg",
+"at": "agregado de la embajada"
+}
+},
+{
+"n": 131,
+"t": 1210.91,
+"d": 8.3,
+"unit": 68,
+"heard": "desertó a Estados Unidos, y en sus memorias contó cómo recibió la orden. Según su relato, era un",
+"spec": {
+"commons": "File:Aleksandr Orlov-(colorized).jpg",
+"at": "desertó a Estados Unidos"
+}
+},
+{
+"n": 132,
+"t": 1219.21,
+"d": 4.81,
+"unit": 68,
+"heard": "un telegrama cifrado, firmado con un nombre en clave.",
+"spec": {
+"commons": "File:(Account ledger) - DPLA - a35b81a19450cba319aed51dd0ea6190 (page 4).jpg",
+"at": "telegrama cifrado"
+}
+},
+{
+"n": 133,
+"t": 1224.02,
+"d": 14.01,
+"unit": 69,
+"heard": "«Si los españoles exigen un recibo, rehúse, repito, rehúse. Diga que el Banco del Estado entregará un recibo oficial en Moscú. Le hago personalmente responsable de la operación.»",
+"spec": {
+"card": {
+"type": "doc",
+"title": "Telegrama a Orlov",
+"lines": [
+"Si los españoles exigen un recibo, rehúse. Diga que el Banco del Estado entregará un recibo oficial en Moscú."
+],
+"source": "Telegrama citado por Alexander Orlov en su relato de 1967"
+},
+"at": "Si los españoles"
+}
+},
+{
+"n": 134,
+"t": 1238.03,
+"d": 9.24,
+"unit": 70,
+"heard": "No dar recibo. Esa es la primera instrucción que, según Orlov, llegó de Moscú. Hay que decirlo con cautela: es el",
+"spec": {
+"commons": "File:Spanish civil war archive.jpg",
+"at": "No dar recibo",
+"kw": "SIN RECIBO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 135,
+"t": 1247.27,
+"d": 13.01,
+"unit": 70,
+"heard": "el relato de un desertor, escrito treinta años después. Pero lo que pasó en las semanas siguientes encaja con él. Lo que sí consta en los documentos es la aprobación de Stalin y",
+"spec": {
+"commons": "File:Aleksandr Orlov-(colorized).jpg",
+"at": "relato de un desertor"
+}
+},
+{
+"n": 136,
+"t": 1260.28,
+"d": 7.62,
+"unit": 71,
+"heard": "la carta en la que el Gobierno español pedía el depósito. La República no regalaba el oro: lo dejaba",
+"spec": {
+"commons": "File:1936-07-12 CRÓNICA.jpg",
+"at": "la carta"
+}
+},
+{
+"n": 137,
+"t": 1267.9,
+"d": 13.61,
+"unit": 71,
+"heard": "en depósito, a su nombre, para irlo vendiendo según lo necesitara. Sobre el papel, seguía siendo suyo. Sobre el papel. La noche del",
+"spec": {
+"commons": "File:Kremlin on 1938-1939.jpg",
+"at": "en depósito",
+"kw": "EN DEPÓSITO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 138,
+"t": 1281.52,
+"d": 4.3,
+"unit": 72,
+"heard": "del veintidós de octubre, Orlov sale de Cartagena hacia La Algameca con",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/08558371-5088-4bb7-9099-7086a0cf1267.jpg",
+"at": "veintidós de octubre"
+}
+},
+{
+"n": 139,
+"t": 1285.82,
+"d": 10.0,
+"unit": 72,
+"heard": "con una columna de camiones. Lo que pasó durante las tres noches siguientes es una de las operaciones más extrañas de toda la guerra.",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/7107a8f1-d9fa-4b69-b074-4d5e020e4d65.jpg",
+"at": "una columna de camiones"
+}
+},
+{
+"n": 140,
+"t": 1295.81,
+"d": 5.86,
+"unit": 73,
+"heard": "Capítulo tres. Tres noches en La Algameca.",
+"spec": {
+"card": {
+"type": "title",
+"title": "Tres noches en La Algameca",
+"sub": "Capítulo 3"
+},
+"tr": null
+}
+},
+{
+"n": 141,
+"t": 1301.67,
+"d": 8.84,
+"unit": 75,
+"heard": "Cartagena, veintidós de octubre de mil novecientos treinta y seis. Anochece. Por la carretera de la costa avanza una columna de",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/08558371-5088-4bb7-9099-7086a0cf1267.jpg",
+"at": "Cartagena, veintidós",
+"lt": [
+"Cartagena",
+"22 de octubre de 1936"
+]
+}
+},
+{
+"n": 142,
+"t": 1310.51,
+"d": 4.58,
+"unit": 75,
+"heard": "de veinte camiones de cinco toneladas. Delante, en un coche, va",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/08558371-5088-4bb7-9099-7086a0cf1267.jpg",
+"at": "veinte camiones"
+}
+},
+{
+"n": 143,
+"t": 1315.09,
+"d": 24.79,
+"unit": 75,
+"heard": "va Alexander Orlov. A su lado, un alto funcionario del Tesoro español que, según Orlov, no podía disimular los nervios. Ese funcionario era, casi con seguridad,",
+"spec": {
+"commons": "File:Alexander Orlov.jpg",
+"at": "Alexander Orlov"
+}
+},
+{
+"n": 144,
+"t": 1339.88,
+"d": 12.48,
+"unit": 76,
+"heard": "Francisco Méndez Aspe, director general del Tesoro y hombre de total confianza de Negrín. Él sería el responsable español de la entrega. Cartagena era entonces",
+"spec": {
+"commons": "File:Antigua real Casa de la Aduana (Ministerio de Hacienda).jpg",
+"at": "Francisco Méndez Aspe"
+}
+},
+{
+"n": 145,
+"t": 1352.36,
+"d": 10.08,
+"unit": 77,
+"heard": "el corazón de la Armada republicana. La mayor parte de la flota se había quedado con el Gobierno, y la base estaba llena de marinos,",
+"spec": {
+"commons": "File:Alfonso XIII Arsenal Cartagena.jpg",
+"at": "el corazón de la Armada"
+}
+},
+{
+"n": 146,
+"t": 1362.44,
+"d": 18.26,
+"unit": 77,
+"heard": "obreros del arsenal y, desde hacía pocos días, de técnicos soviéticos que descargaban los primeros envíos de armas. ¿Y quién conducía los camiones? Aquí está uno de los detalles más llamativos. Según el propio Orlov, eran",
+"spec": {
+"commons": "File:Cartagena 16.06.1936.jpg",
+"at": "obreros del arsenal"
+}
+},
+{
+"n": 147,
+"t": 1380.7,
+"d": 4.58,
+"unit": 78,
+"heard": "eran tanquistas soviéticos recién llegados a España. Hombres que",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/7107a8f1-d9fa-4b69-b074-4d5e020e4d65.jpg",
+"at": "tanquistas soviéticos"
+}
+},
+{
+"n": 148,
+"t": 1385.28,
+"d": 8.24,
+"unit": 78,
+"heard": "que no hablaban español, que no conocían a nadie en Cartagena y que no podían contar nada. Llegan a los",
+"spec": {
+"commons": "File:T26batallateruel.jpg",
+"at": "no hablaban español"
+}
+},
+{
+"n": 149,
+"t": 1393.53,
+"d": 8.16,
+"unit": 79,
+"heard": "a los polvorines excavados en la montaña. Dentro esperan sesenta marineros españoles. Y apiladas contra las paredes,",
+"spec": {
+"commons": "File:La Algameca Chica (20200524 083703).jpg",
+"at": "polvorines excavados",
+"lt": [
+"La Algameca",
+"polvorines de la Armada"
+]
+}
+},
+{
+"n": 150,
+"t": 1401.68,
+"d": 6.92,
+"unit": 79,
+"heard": "miles de cajas de madera, todas iguales. Cada una pesa unos sesenta y cinco kilos. Dentro hay",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/3993acec-fa18-42e2-b888-c1f8ce0448df.jpg",
+"at": "miles de cajas"
+}
+},
+{
+"n": 151,
+"t": 1408.61,
+"d": 5.75,
+"unit": 79,
+"heard": "hay monedas, lingotes, hasta virutas de oro. Los marineros",
+"spec": {
+"commons": "File:Photograph of sacks of coins - NARA - 296610.jpg",
+"at": "monedas, lingotes"
+}
+},
+{
+"n": 152,
+"t": 1414.36,
+"d": 7.04,
+"unit": 80,
+"heard": "cargan las cajas a mano, una a una, hasta los camiones. Los camiones bajan",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/7da8a42a-5c30-4381-a3af-85604300218a.jpg",
+"at": "cargan las cajas"
+}
+},
+{
+"n": 153,
+"t": 1421.4,
+"d": 13.72,
+"unit": 80,
+"heard": "al muelle. Y en el muelle, las cajas pasan a las bodegas de los barcos soviéticos. Así, durante tres noches seguidas. Sin luces. Con el miedo constante a",
+"spec": {
+"commons": "File:Admiralty Chart No 2434 Cartagena Harbour, Published 1856, Large Corrections 1930.jpg",
+"at": "al muelle"
+}
+},
+{
+"n": 154,
+"t": 1435.12,
+"d": 18.66,
+"unit": 80,
+"heard": "a un bombardeo. Orlov contó después que, durante una de esas noches, sonó una",
+"spec": {
+"commons": "File:Running to the nearest shelter - Google Art Project.jpg",
+"at": "un bombardeo"
+}
+},
+{
+"n": 155,
+"t": 1453.78,
+"d": 8.94,
+"unit": 81,
+"heard": "una alarma aérea en Cartagena. Y que lo que le obsesionaba era que una bomba alcanzara un camión cargado de oro, en mitad de la carretera,",
+"spec": {
+"commons": "File:Running to the nearest shelter - Google Art Project.jpg",
+"at": "alarma aérea"
+}
+},
+{
+"n": 156,
+"t": 1462.72,
+"d": 2.97,
+"unit": 81,
+"heard": "a la vista de todos.",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/23412eca-23cf-4529-aebb-98bb2fb6f2bc.jpg",
+"at": "a la vista de todos"
+}
+},
+{
+"n": 157,
+"t": 1465.69,
+"d": 12.2,
+"unit": 82,
+"heard": "El veinticinco de octubre todo está a bordo.",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "El oro de Moscú"
+}
+}
+},
+{
+"n": 158,
+"t": 1477.89,
+"d": 2.0,
+"unit": 83,
+"heard": "Cuatro buques soviéticos:",
+"spec": {
+"commons": "File:AG-1930-1932-Odesa.jpg",
+"at": "Cuatro buques soviéticos"
+}
+},
+{
+"n": 159,
+"t": 1479.89,
+"d": 12.51,
+"unit": 83,
+"heard": "el Kim, el Kursk, el Neva y el Volgolés. En total, siete mil ochocientas cajas. Siete mil ochocientas. Esa es la cifra española.",
+"spec": {
+"card": {
+"type": "list",
+"header": "El reparto del oro, 25 de octubre de 1936",
+"items": [
+[
+"Neva",
+"2.697 cajas"
+],
+[
+"Kim",
+"2.100 cajas"
+],
+[
+"Kursk",
+"2.020 cajas"
+],
+[
+"Volgolés",
+"983 cajas"
+]
+]
+},
+"at": "el Kim"
+}
+},
+{
+"n": 160,
+"t": 1492.4,
+"d": 8.7,
+"unit": 84,
+"heard": "Pero Orlov, en su relato, da otra: siete mil novecientas. Cien cajas más. Cien cajas son",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Cifra española",
+"lines": [
+"7.800 cajas"
+]
+},
+"right": {
+"title": "Cifra de Orlov",
+"lines": [
+"7.900 cajas"
+]
+}
+},
+"at": "Pero Orlov"
+}
+},
+{
+"n": 161,
+"t": 1501.1,
+"d": 5.5,
+"unit": 84,
+"heard": "son seis toneladas y media de oro. Los historiadores que han revisado",
+"spec": {
+"card": {
+"type": "counter",
+"to": 6500,
+"label": "kilos: lo que pesan 100 cajas"
+},
+"at": "seis toneladas y media"
+}
+},
+{
+"n": 162,
+"t": 1506.6,
+"d": 13.06,
+"unit": 85,
+"heard": "la documentación del depósito en Moscú no encuentran esas cien cajas. Lo más probable es que Orlov se equivocara al recordar, treinta años después. El acta soviética",
+"spec": {
+"commons": "File:1936-08-16 LA VANGUARDIA 4.jpg",
+"at": "la documentación del depósito"
+}
+},
+{
+"n": 163,
+"t": 1519.66,
+"d": 12.08,
+"unit": 85,
+"heard": "coincide con la española. Es lo más probable. Pero fíjate en el problema: para saber cuánto oro salió de verdad, dependemos de dos fuentes.",
+"spec": {
+"commons": "File:(Account ledger) - DPLA - a35b81a19450cba319aed51dd0ea6190 (page 2).jpg",
+"at": "coincide con la española",
+"kw": "7.800",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 164,
+"t": 1531.74,
+"d": 8.88,
+"unit": 86,
+"heard": "El acta que firmaron los soviéticos, y el recuerdo de un agente de la NKVD. El recibo que habría permitido comprobarlo en Cartagena",
+"spec": {
+"commons": "File:(Account ledger) - DPLA - a35b81a19450cba319aed51dd0ea6190 (page 4).jpg",
+"at": "El acta que firmaron"
+}
+},
+{
+"n": 165,
+"t": 1540.62,
+"d": 14.37,
+"unit": 86,
+"heard": "no existe. Se negaron a darlo. Y hay otro detalle del relato de Orlov que retrata la operación entera. Para los españoles, él no era un agente de la NKVD. Se presentó con",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/acbddb4e-9cec-40de-a809-5f7d84c1c80d.jpg",
+"at": "no existe",
+"kw": "SIN RECIBO EN CARTAGENA",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 166,
+"t": 1555.0,
+"d": 1.6,
+"unit": 87,
+"heard": "con un nombre falso, Blackstone,",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/acbddb4e-9cec-40de-a809-5f7d84c1c80d.jpg",
+"at": "un nombre falso"
+}
+},
+{
+"n": 167,
+"t": 1556.6,
+"d": 27.46,
+"unit": 87,
+"heard": "como si fuera un representante de la banca extranjera. Los marineros que cargaban las cajas no sabían quién era el hombre que daba las órdenes. Tampoco sabían adónde iba el oro. Y eso, en plena guerra y con",
+"spec": {
+"commons": "File:Alfonso XIII Arsenal Cartagena.jpg",
+"at": "Blackstone",
+"kw": "«MR. BLACKSTONE»",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 168,
+"t": 1584.06,
+"d": 11.66,
+"unit": 88,
+"heard": "con espías de los dos bandos en todos los puertos, era exactamente lo que se pretendía. Si los sublevados se hubieran enterado del día y de la ruta, habrían intentado",
+"spec": {
+"commons": "File:1936-07-12 CRÓNICA.jpg",
+"at": "espías de los dos bandos"
+}
+},
+{
+"n": 169,
+"t": 1595.72,
+"d": 4.45,
+"unit": 88,
+"heard": "interceptar los barcos. Con el oro viajaron",
+"spec": {
+"commons": "File:Italian cruiser Pola c. 1930s.jpg",
+"at": "interceptar los barcos"
+}
+},
+{
+"n": 170,
+"t": 1600.17,
+"d": 13.58,
+"unit": 89,
+"heard": "cuatro empleados del Banco de España, los llamados claveros, los responsables de las llaves de la cámara. Su misión era vigilar el cargamento hasta el final.",
+"spec": {
+"commons": "File:Madrid - Detalles de la fachada del Banco de España 2.jpg",
+"at": "cuatro empleados",
+"gloss": [
+"claveros",
+"empleados del Banco que custodiaban las llaves del oro"
+]
+}
+},
+{
+"n": 171,
+"t": 1613.75,
+"d": 6.45,
+"unit": 89,
+"heard": "Su viaje iba a durar mucho más de lo que imaginaban. Los barcos zarpan",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/7da8a42a-5c30-4381-a3af-85604300218a.jpg",
+"at": "Su viaje"
+}
+},
+{
+"n": 172,
+"t": 1620.2,
+"d": 4.72,
+"unit": 90,
+"heard": "hacia el este. Atraviesan el Mediterráneo, pasan los Dardanelos y",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "Cartagena → Odesa",
+"keys": [
+[
+-6,
+34,
+36,
+48
+],
+[
+24,
+40,
+34,
+47.5
+]
+],
+"points": [
+{
+"name": "Cartagena",
+"lon": -0.98,
+"lat": 37.6,
+"at": 0.1,
+"big": 1
+},
+{
+"name": "Estambul",
+"lon": 28.98,
+"lat": 41.01,
+"at": 0.6
+},
+{
+"name": "Odesa",
+"lon": 30.73,
+"lat": 46.48,
+"at": 0.85,
+"pulse": 1,
+"big": 1
+}
+]
+},
+"at": "hacia el este"
+}
+},
+{
+"n": 173,
+"t": 1624.92,
+"d": 7.22,
+"unit": 90,
+"heard": "y el Bósforo, y entran en el mar Negro. Navegan con todas las precauciones, porque el Mediterráneo está lleno de",
+"spec": {
+"commons": "File:AG-1930-1932-Odesa.jpg",
+"at": "el Bósforo"
+}
+},
+{
+"n": 174,
+"t": 1632.14,
+"d": 8.23,
+"unit": 90,
+"heard": "de buques de guerra italianos. El miedo no era exagerado. La Italia de Mussolini tenía buques",
+"spec": {
+"commons": "File:Italian cruiser Pola c. 1930s.jpg",
+"at": "buque de guerra italiano"
+}
+},
+{
+"n": 175,
+"t": 1640.37,
+"d": 1.6,
+"unit": 91,
+"heard": "y submarinos en la zona,",
+"spec": {
+"commons": "File:Benito Mussolini in 1937.jpg",
+"at": "con submarinos"
+}
+},
+{
+"n": 176,
+"t": 1641.96,
+"d": 12.58,
+"unit": 91,
+"heard": "y muy pronto empezaría a atacar a los barcos que llevaban suministros a la República. Si el oro caía en manos italianas, acababa en las de Franco.",
+"spec": {
+"commons": "File:Benito Mussolini crop.jpg",
+"at": "La Italia de Mussolini"
+}
+},
+{
+"n": 177,
+"t": 1654.54,
+"d": 5.0,
+"unit": 92,
+"heard": "Capítulo cuatro. Odesa.",
+"spec": {
+"card": {
+"type": "title",
+"title": "Odesa",
+"sub": "Capítulo 4"
+},
+"tr": null
+}
+},
+{
+"n": 178,
+"t": 1659.54,
+"d": 6.68,
+"unit": 94,
+"heard": "Odesa, puerto soviético del mar Negro. Entre el dos y el seis de noviembre de mil novecientos treinta y seis",
+"spec": {
+"commons": "File:Odessa port 1931.jpg",
+"at": "Odesa, puerto",
+"lt": [
+"Odesa",
+"noviembre de 1936"
+]
+}
+},
+{
+"n": 179,
+"t": 1666.22,
+"d": 11.3,
+"unit": 94,
+"heard": "y seis van llegando los barcos. El Kursk se retrasa unos días por una avería. Nadie en España lo sabe todavía, pero el Gobierno de la República se está marchando de Madrid",
+"spec": {
+"commons": "File:AG-1930-1932-Odesa.jpg",
+"at": "van llegando los barcos"
+}
+},
+{
+"n": 180,
+"t": 1677.52,
+"d": 15.31,
+"unit": 94,
+"heard": "Madrid a Valencia esa misma semana.",
+"spec": {
+"commons": "File:Gobfrlargcabsept1936.jpg",
+"at": "a Valencia"
+}
+},
+{
+"n": 181,
+"t": 1692.83,
+"d": 10.76,
+"unit": 95,
+"heard": "En el puerto espera un despliegue enorme. Soldados de la NKVD acordonan el muelle. Los propios agentes descargan las cajas y las suben",
+"spec": {
+"commons": "File:Odessa port 1931.jpg",
+"at": "En el puerto espera"
+}
+},
+{
+"n": 182,
+"t": 1703.59,
+"d": 5.65,
+"unit": 95,
+"heard": "a un tren especial. Destino: Moscú. El tren",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/2e8bb03b-6d95-49d1-8242-5fe58d73b7e9.jpg",
+"at": "un tren especial"
+}
+},
+{
+"n": 183,
+"t": 1709.24,
+"d": 4.74,
+"unit": 96,
+"heard": "tren cruza Ucrania hacia el norte, más de mil trescientos kilómetros, con",
+"spec": {
+"card": {
+"type": "mapfly",
+"title": "Odesa → Moscú",
+"keys": [
+[
+26,
+45,
+41,
+57
+],
+[
+32,
+52,
+41,
+57
+]
+],
+"points": [
+{
+"name": "Odesa",
+"lon": 30.73,
+"lat": 46.48,
+"at": 0.15,
+"big": 1
+},
+{
+"name": "Kiev",
+"lon": 30.52,
+"lat": 50.45,
+"at": 0.45
+},
+{
+"name": "Moscú",
+"lon": 37.62,
+"lat": 55.75,
+"at": 0.85,
+"pulse": 1,
+"big": 1
+}
+]
+},
+"at": "cruza Ucrania"
+}
+},
+{
+"n": 184,
+"t": 1713.98,
+"d": 13.46,
+"unit": 96,
+"heard": "con escolta armada en cada vagón. Es el último tramo del viaje. A partir de aquí, el oro de España ya no estará nunca más al alcance de un español. Según contaría Orlov,",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/2e8bb03b-6d95-49d1-8242-5fe58d73b7e9.jpg",
+"at": "escolta armada"
+}
+},
+{
+"n": 185,
+"t": 1727.44,
+"d": 2.02,
+"unit": 97,
+"heard": "Stalin celebró la llegada del oro con",
+"spec": {
+"commons": "File:Joseph Stalin and Georgi Dimitrov, 1936.jpg",
+"at": "Stalin celebró"
+}
+},
+{
+"n": 186,
+"t": 1729.46,
+"d": 14.31,
+"unit": 97,
+"heard": "con una cena para los jefes de la NKVD. Y allí pronunció una frase que se ha repetido mil veces. Hay que advertirlo: solo la conocemos por Orlov, y no hay ningún documento que la confirme.",
+"spec": {
+"commons": "File:Heinrich Vogeler Moskau bei Nacht.jpg",
+"at": "una cena"
+}
+},
+{
+"n": 187,
+"t": 1743.77,
+"d": 16.8,
+"unit": 98,
+"heard": "«Los españoles no volverán a ver su oro, igual que no pueden verse sus propias orejas.» ¿Y quién era Orlov para contar todo esto? En mil novecientos treinta y ocho, cuando las purgas de Stalin empezaron a alcanzar a sus propios compañeros,",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Los españoles no volverán a ver su oro, igual que no pueden verse sus propias orejas.",
+"attrib": "Frase atribuida a Stalin por Alexander Orlov · sin confirmación documental",
+"commons": "File:Joseph Stalin in 1937 with his pipe smoking.jpg"
+},
+"at": "Los españoles"
+}
+},
+{
+"n": 188,
+"t": 1760.57,
+"d": 12.44,
+"unit": 99,
+"heard": "huyó de España con su familia y desapareció en Estados Unidos. Escribió a Stalin una carta: si le dejaban en paz, callaría. Y calló. No publicó nada hasta que",
+"spec": {
+"commons": "File:Aleksandr Orlov-(colorized).jpg",
+"at": "huyó de España"
+}
+},
+{
+"n": 189,
+"t": 1773.01,
+"d": 6.64,
+"unit": 99,
+"heard": "que Stalin murió, en mil novecientos cincuenta y tres. Dos años después declaró ante",
+"spec": {
+"commons": "File:Stalin's funeral.jpg",
+"at": "Stalin murió"
+}
+},
+{
+"n": 190,
+"t": 1779.65,
+"d": 7.1,
+"unit": 100,
+"heard": "ante el Senado de Estados Unidos. Y más tarde contó la operación del oro con todo detalle. Es un",
+"spec": {
+"commons": "File:Crowd jams Senate hearing room to hear former Secretary of State criticize Neutrality Act. Washington, D.C., April 5. Before a well packed hearing room today former Secretary of State Henry LCCN2016875383.jpg",
+"at": "el Senado de Estados Unidos",
+"lt": [
+"Senado de EE. UU.",
+""
+]
+}
+},
+{
+"n": 191,
+"t": 1786.75,
+"d": 28.36,
+"unit": 100,
+"heard": "un testigo directo. Pero también es un desertor que vivió de sus secretos. Por eso cada cosa que cuenta hay que contrastarla. Y la frase de las orejas es demasiado redonda. Por eso conviene desconfiar de ella.",
+"spec": {
+"commons": "File:Aleksandr Orlov-(colorized).jpg",
+"at": "testigo directo",
+"kw": "TESTIGO DIRECTO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 192,
+"t": 1815.11,
+"d": 7.94,
+"unit": 101,
+"heard": "La propaganda de Franco la convirtió en la prueba de que Stalin había robado el oro. Pero una frase atribuida en unas memorias",
+"spec": {
+"commons": "File:Paquito al Servicio de Espana Edicioes La Tijera Madrid 1940 Falange espanola Spanish Civil War era paper doll model cut-out sheet toy Falangist propaganda fascist uniforms salute soldier boy No known copyright brightened.jpg",
+"at": "La propaganda de Franco"
+}
+},
+{
+"n": 193,
+"t": 1823.05,
+"d": 8.22,
+"unit": 101,
+"heard": "no es una prueba. Tienes razón: no es una prueba. Lo que sí es prueba es lo que pasó con",
+"spec": {
+"commons": "File:Joseph Stalin official portrait.jpg",
+"at": "no es una prueba",
+"kw": "¿PRUEBA O LEYENDA?",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 194,
+"t": 1831.27,
+"d": 5.0,
+"unit": 102,
+"heard": "con los cuatro claveros. No les dejaron volver a España. La Unión Soviética",
+"spec": {
+"commons": "File:History of 1st of May in Moscow 01.jpg",
+"at": "los cuatro claveros"
+}
+},
+{
+"n": 195,
+"t": 1836.27,
+"d": 9.07,
+"unit": 102,
+"heard": "los retuvo durante mucho tiempo, y cuando por fin pudieron salir, fue lejos de España. Eran los únicos españoles que habían",
+"spec": {
+"commons": "File:Grand Kremlin Palace at winter night.jpg",
+"at": "los retuvo",
+"kw": "RETENIDOS",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 196,
+"t": 1845.34,
+"d": 7.97,
+"unit": 103,
+"heard": "habían visto el oro llegar. Y los únicos que podían contar, de primera mano, cómo se trataba.",
+"spec": {
+"commons": "File:Конфискованные церковные ценности в Гохране. Москва. 1923.jpg",
+"at": "visto el oro llegar"
+}
+},
+{
+"n": 197,
+"t": 1853.31,
+"d": 11.08,
+"unit": 104,
+"heard": "En Moscú, el oro se guarda en",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "El oro de Moscú"
+}
+}
+},
+{
+"n": 198,
+"t": 1864.39,
+"d": 9.5,
+"unit": 105,
+"heard": "en el Gojrán, el depósito de metales preciosos del Estado soviético. Y empieza el recuento. Caja a caja.",
+"spec": {
+"commons": "File:Конфискованные церковные ценности в Гохране. Москва. 1923.jpg",
+"at": "el Gojrán",
+"lt": [
+"Gojrán",
+"Depósito estatal de metales preciosos · Moscú"
+],
+"gloss": [
+"Gojrán",
+"depósito de metales preciosos del Estado soviético",
+"urss"
+]
+}
+},
+{
+"n": 199,
+"t": 1873.89,
+"d": 9.04,
+"unit": 105,
+"heard": "Moneda a moneda. Había que separar el oro por países, por épocas, por calidad. El recuento dura",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/da071b7b-0fc5-4851-8893-41d9dbb21440.jpg",
+"at": "Moneda a moneda"
+}
+},
+{
+"n": 200,
+"t": 1882.93,
+"d": 5.0,
+"unit": 106,
+"heard": "tres meses. Y se hace con un cuidado extraordinario.",
+"spec": {
+"card": {
+"type": "timeline",
+"header": "Del puerto al recibo",
+"events": [
+[
+"25 oct 1936",
+"Salen de Cartagena"
+],
+[
+"2-6 nov 1936",
+"Llegan a Odesa"
+],
+[
+"nov-ene",
+"Recuento en Moscú"
+],
+[
+"5 feb 1937",
+"Acta de depósito"
+]
+]
+},
+"at": "tres meses"
+}
+},
+{
+"n": 201,
+"t": 1887.93,
+"d": 21.45,
+"unit": 106,
+"heard": "Se pesó y se clasificó cada partida, y todo quedó por escrito. Para Viñas, eso demuestra que la operación fue un depósito bancario en regla, no un saqueo. El cinco de febrero de mil novecientos treinta y siete se firma el acta definitiva. Por España, el embajador",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/da071b7b-0fc5-4851-8893-41d9dbb21440.jpg",
+"at": "Se pesó"
+}
+},
+{
+"n": 202,
+"t": 1909.38,
+"d": 4.74,
+"unit": 107,
+"heard": "Marcelino Pascua. Por la Unión Soviética, el comisario de Finanzas,",
+"spec": {
+"commons": "File:1936 BLANCO Y NEGRO S26 2.jpg",
+"at": "Marcelino Pascua"
+}
+},
+{
+"n": 203,
+"t": 1914.12,
+"d": 3.28,
+"unit": 107,
+"heard": "Grinko, y el vicecomisario de Asuntos Exteriores,",
+"spec": {
+"commons": "File:Kremlin on 1938-1939.jpg",
+"at": "Grinko"
+}
+},
+{
+"n": 204,
+"t": 1917.4,
+"d": 1.89,
+"unit": 107,
+"heard": "Krestinski.",
+"spec": {
+"commons": "File:Nikolai Krestinsky.jpg",
+"at": "Krestinski",
+"lt": [
+"Nikolái Krestinski",
+"Vicecomisario de Asuntos Exteriores",
+"urss"
+]
+}
+},
+{
+"n": 205,
+"t": 1919.28,
+"d": 9.02,
+"unit": 108,
+"heard": "Quinientos diez millones setenta y nueve mil quinientos veintinueve gramos de oro en bruto. Una vez descontada la aleación de las monedas, unas",
+"spec": {
+"card": {
+"type": "doc",
+"title": "Acta de depósito · Moscú, 5 de febrero de 1937",
+"lines": [
+"510.079.529,3 gramos de oro en bruto"
+],
+"source": "Acta de recepción del oro español"
+},
+"at": "Quinientos diez millones"
+}
+},
+{
+"n": 206,
+"t": 1928.3,
+"d": 10.57,
+"unit": 108,
+"heard": "unas cuatrocientas sesenta toneladas de oro puro. Y conviene recordar qué había dentro de esas cajas. Según el documento de entrega,",
+"spec": {
+"card": {
+"type": "counter",
+"to": 460,
+"label": "toneladas de oro fino, según Martín Aceña"
+},
+"at": "cuatrocientas sesenta"
+}
+},
+{
+"n": 207,
+"t": 1938.87,
+"d": 27.33,
+"unit": 109,
+"heard": "quince mil quinientos setenta y un sacos de monedas de oro de muchos países, sesenta y cuatro lingotes y cuatro paquetes de virutas. Casi todo eran monedas, que había que fundir o vender.",
+"spec": {
+"card": {
+"type": "list",
+"header": "Contenido del cargamento",
+"items": [
+[
+"15.571",
+"sacos de monedas de oro"
+],
+[
+"64",
+"lingotes"
+],
+[
+"4",
+"paquetes de virutas"
+]
+]
+},
+"at": "quince mil"
+}
+},
+{
+"n": 208,
+"t": 1966.2,
+"d": 23.59,
+"unit": 110,
+"heard": "Pascua era médico, como Negrín, y socialista. Durante meses fue el único representante español en Moscú, y el encargado de vigilar que cada orden de venta se cumpliera. Su correspondencia es hoy una de las fuentes principales para reconstruir qué se hizo con el oro. Al precio de entonces, más de",
+"spec": {
+"commons": "File:(Account ledger) - DPLA - a35b81a19450cba319aed51dd0ea6190 (page 3).jpg",
+"at": "Pascua era médico"
+}
+},
+{
+"n": 209,
+"t": 1989.79,
+"d": 14.78,
+"unit": 111,
+"heard": "de quinientos millones de dólares. Hoy, ese oro valdría decenas de miles de millones de euros. Fíjate en un detalle: Grinko y Krestinski, los dos hombres que firmaron el recibo por parte soviética,",
+"spec": {
+"card": {
+"type": "counter",
+"to": 518,
+"label": "millones de dólares de 1936"
+},
+"at": "quinientos millones"
+}
+},
+{
+"n": 210,
+"t": 2004.57,
+"d": 10.51,
+"unit": 111,
+"heard": "serían fusilados por Stalin al año siguiente, en las purgas. Es un detalle terrible, pero no cambia el valor del documento.",
+"spec": {
+"commons": "File:The Second Moscow Trial.jpg",
+"at": "serían fusilados"
+}
+},
+{
+"n": 211,
+"t": 2015.08,
+"d": 14.53,
+"unit": 112,
+"heard": "El acta existe, está firmada y reconoce que el oro es de España. Ese papel es la prueba de que la República no regaló nada. El acta existe. La pregunta es",
+"spec": {
+"commons": "File:1936-09-12 LA VANGUARDIA 2.1.jpg",
+"at": "El acta existe",
+"kw": "EL ACTA EXISTE",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 212,
+"t": 2029.62,
+"d": 9.62,
+"unit": 113,
+"heard": "qué valía un papel firmado por un Estado que fusilaba a quienes lo firmaban. Y la siguiente pregunta es aún más importante:",
+"spec": {
+"commons": "File:Heinrich Vogeler Moskau bei Nacht.jpg",
+"at": "qué valía un papel"
+}
+},
+{
+"n": 213,
+"t": 2039.24,
+"d": 10.0,
+"unit": 113,
+"heard": "¿cómo salió ese oro del Gojrán? ¿Quién decidió cada venta, a qué precio, y adónde fue el dinero? Antes de seguir,",
+"spec": {
+"commons": "File:Photograph of sacks of coins - NARA - 296600.jpg",
+"at": "cómo salió ese oro"
+}
+},
+{
+"n": 214,
+"t": 2049.23,
+"d": 29.4,
+"unit": 115,
+"heard": "recapitulemos. En septiembre del treinta y seis, con Franco camino de Madrid, el Gobierno saca el oro del Banco de España y lo lleva a Cartagena. Una cuarta parte se vende en Francia. Las otras tres cuartas partes,",
+"spec": {
+"card": {
+"type": "recap",
+"title": "Hasta aquí",
+"items": [
+[
+"Septiembre 1936",
+"el oro sale de Madrid hacia Cartagena"
+],
+[
+"Oro de París",
+"193 toneladas vendidas en Francia"
+],
+[
+"25 de octubre",
+"7.800 cajas zarpan hacia Odesa"
+],
+[
+"5 de febrero de 1937",
+"acta de depósito en Moscú"
+]
+]
+},
+"at": "recapitulemos"
+}
+},
+{
+"n": 215,
+"t": 2078.63,
+"d": 19.4,
+"unit": 116,
+"heard": "quinientas diez toneladas, salen en octubre hacia la Unión Soviética, sin recibo, en una operación dirigida por la NKVD. Y en febrero de mil novecientos treinta y siete, Moscú firma un acta de depósito. Ahora empieza lo más difícil de explicar:",
+"spec": {
+"commons": "File:Italian cruiser Pola c. 1930s.jpg",
+"at": "quinientas diez toneladas"
+}
+},
+{
+"n": 216,
+"t": 2098.03,
+"d": 3.0,
+"unit": 116,
+"heard": "cómo desapareció.",
+"spec": {
+"commons": "File:Gold bars stacked in a pyramid, Dawson, probably between 1902 and 1910 (AL+CA 1405).jpg",
+"at": "cómo desapareció",
+"kw": "¿CÓMO DESAPARECIÓ?",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 217,
+"t": 2101.03,
+"d": 5.91,
+"unit": 117,
+"heard": "Capítulo cinco. Del oro a las armas.",
+"spec": {
+"card": {
+"type": "title",
+"title": "Del oro a las armas",
+"sub": "Capítulo 5"
+},
+"tr": null
+}
+},
+{
+"n": 218,
+"t": 2106.93,
+"d": 8.08,
+"unit": 119,
+"heard": "Valencia, dieciséis de febrero de mil novecientos treinta y siete. Once días después del acta de Moscú,",
+"spec": {
+"commons": "File:Manuel Azaña Universidad de Valencia 18 julio 1937.jpg",
+"at": "Valencia, dieciséis",
+"lt": [
+"Valencia",
+"16 de febrero de 1937"
+]
+}
+},
+{
+"n": 219,
+"t": 2115.01,
+"d": 8.69,
+"unit": 119,
+"heard": "Largo Caballero y Negrín firman la primera orden de venta. Y lo que dice explica muchas cosas.",
+"spec": {
+"commons": "File:Francisco Largo Caballero 1927 (cropped).jpg",
+"at": "Largo Caballero"
+}
+},
+{
+"n": 220,
+"t": 2123.71,
+"d": 21.17,
+"unit": 120,
+"heard": "«Entregue el equivalente de este oro al delegado del Comisariado para el Comercio Exterior, agente comercial de la URSS en España, como pago de las mercancías libradas por él al Gobierno de la República Española, por la suma de cincuenta y un millones ciento sesenta mil ochocientos ochenta y ocho dólares.»",
+"spec": {
+"card": {
+"type": "doc",
+"title": "Orden de venta · Valencia, 16 de febrero de 1937",
+"lines": [
+"como pago de las mercancías libradas por él al Gobierno de la República Española, por la suma de 51.160.888 dólares"
+],
+"source": "Orden firmada por Largo Caballero y Negrín"
+},
+"at": "Entregue el equivalente"
+}
+},
+{
+"n": 221,
+"t": 2144.88,
+"d": 12.42,
+"unit": 121,
+"heard": "Mercancías ya entregadas. Es decir: la Unión Soviética llevaba meses mandando armas a crédito, antes de vender un solo gramo del oro. Los tanques y",
+"spec": {
+"commons": "File:Russian T-26B Combat Tank used by the Republican Army in the Spanish Civil War.jpg",
+"at": "Mercancías ya entregadas",
+"kw": "YA ENTREGADAS",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 222,
+"t": 2157.3,
+"d": 15.89,
+"unit": 121,
+"heard": "y los cazas que defendieron Madrid en noviembre se pagaron después de haber combatido. Cierto. Y también es cierto que, a partir de ahí, cada venta funcionó igual. El Gobierno español ordenaba vender una partida.",
+"spec": {
+"commons": "File:Polikarpov I-16-Spain (clipped).jpg",
+"at": "los cazas"
+}
+},
+{
+"n": 223,
+"t": 2173.19,
+"d": 4.32,
+"unit": 122,
+"heard": "El Banco del Estado soviético la compraba, y el dinero se transfería a",
+"spec": {
+"commons": "File:View to Kremlin in 1938.jpg",
+"at": "El Banco del Estado soviético"
+}
+},
+{
+"n": 224,
+"t": 2177.51,
+"d": 14.61,
+"unit": 122,
+"heard": "a un banco de París.",
+"spec": {
+"commons": "File:Streets of Paris (NBY 416630).jpg",
+"at": "un banco de París"
+}
+},
+{
+"n": 225,
+"t": 2192.12,
+"d": 25.48,
+"unit": 123,
+"heard": "Sobre el papel, el precio era justo: las órdenes pedían vender a la cotización del oro en la Bolsa de Londres de ese día. Pero quien ejecutaba la venta, cobraba las comisiones y llevaba las cuentas era siempre Moscú. La República, con su embajador como único testigo, solo podía firmar y esperar. Ese banco de París tenía un nombre muy discreto:",
+"spec": {
+"commons": "File:Kremlin wall in winter, Moscow, Russia.jpg",
+"at": "pasar por Moscú"
+}
+},
+{
+"n": 226,
+"t": 2217.6,
+"d": 6.36,
+"unit": 124,
+"heard": "Banca Comercial para la Europa del Norte. Pero no era un banco francés cualquiera. Era",
+"spec": {
+"commons": "File:Streets of Paris (NBY 416205).jpg",
+"at": "Banca Comercial",
+"gloss": [
+"Eurobank",
+"banco de propiedad soviética en París",
+"urss"
+]
+}
+},
+{
+"n": 227,
+"t": 2223.96,
+"d": 12.67,
+"unit": 124,
+"heard": "Era propiedad de la Unión Soviética. El oro salía de un bolsillo soviético y entraba en otro. Y desde ese banco, la República pagaba.",
+"spec": {
+"commons": "File:1936 conseil général de la Banque de France.jpg",
+"at": "propiedad de la Unión Soviética",
+"kw": "UN BANCO SOVIÉTICO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 228,
+"t": 2236.63,
+"d": 30.12,
+"unit": 125,
+"heard": "No solo armas soviéticas: también compras en Checoslovaquia, en Polonia, en Bélgica, en Estados Unidos, petróleo, alimentos, materias primas. El oro de Moscú financió buena parte de la economía de guerra republicana, no solo los tanques rusos. ¿Y qué llegó? Solo entre octubre de mil novecientos treinta y seis y julio de mil novecientos treinta y siete, la Unión Soviética envió",
+"spec": {
+"card": {
+"type": "list",
+"header": "Qué se pagó con el oro",
+"items": [
+[
+"Armas",
+"soviéticas y de otros países"
+],
+[
+"Combustible",
+"petróleo y carburantes"
+],
+[
+"Comida",
+"trigo y alimentos"
+],
+[
+"Materias primas",
+"para la industria de guerra"
+]
+]
+},
+"at": "No solo armas"
+}
+},
+{
+"n": 229,
+"t": 2266.75,
+"d": 6.6,
+"unit": 126,
+"heard": "seiscientos cuarenta y ocho aviones y trescientos cuarenta y siete tanques. Sin ellos,",
+"spec": {
+"card": {
+"type": "versus",
+"title": "Envíos soviéticos, octubre 1936 - julio 1937",
+"left": {
+"name": "Aviones",
+"color": [
+150,
+150,
+150
+],
+"lines": [
+"648"
+]
+},
+"right": {
+"name": "Tanques",
+"color": [
+150,
+150,
+150
+],
+"lines": [
+"347"
+]
+}
+},
+"at": "seiscientos cuarenta y ocho"
+}
+},
+{
+"n": 230,
+"t": 2273.35,
+"d": 20.15,
+"unit": 126,
+"heard": "Madrid habría caído en el primer invierno. Y aquí hay que mirar al otro lado del frente. Porque Franco también necesitaba armas, y no tenía el oro del Banco de España. ¿Cómo las pagó? A crédito. Alemania e Italia le mandaron aviones, tanques y",
+"spec": {
+"commons": "File:Bombardeo del 17 de noviembre de 1936 sobre Madrid.jpg",
+"at": "Madrid habría caído"
+}
+},
+{
+"n": 231,
+"t": 2293.5,
+"d": 1.6,
+"unit": 127,
+"heard": "y decenas de miles de soldados,",
+"spec": {
+"commons": "File:Corpo Truppe Volontarie 10.jpg",
+"at": "decenas de miles de soldados"
+}
+},
+{
+"n": 232,
+"t": 2295.1,
+"d": 21.09,
+"unit": 127,
+"heard": "y le dejaron pagar después de la guerra. Y no solo las dictaduras. Una gran petrolera estadounidense,",
+"spec": {
+"commons": "File:Bf 109A from the Condor Legion with Nationalist Spain markings.jpg",
+"at": "Alemania e Italia"
+}
+},
+{
+"n": 233,
+"t": 2316.18,
+"d": 12.76,
+"unit": 128,
+"heard": "Texaco, le suministró a Franco combustible a crédito durante toda la guerra. A la República, el mundo le cobraba al contado y por adelantado. A Franco,",
+"spec": {
+"commons": "File:Alfonso XIII Arsenal Cartagena.jpg",
+"at": "Texaco"
+}
+},
+{
+"n": 234,
+"t": 2328.94,
+"d": 13.39,
+"unit": 128,
+"heard": "le fiaban. Esa diferencia explica por qué el oro tuvo que salir de España. Es un argumento sólido. Aunque tiene otra lectura:",
+"spec": {
+"commons": "File:Cartagena Harbour, Spain. (9976168886).jpg",
+"at": "le fiaban",
+"kw": "AL CONTADO / A CRÉDITO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 235,
+"t": 2342.33,
+"d": 23.72,
+"unit": 129,
+"heard": "a Franco le fiaban porque sus proveedores confiaban en que ganaría. A la República nadie le fiaba a largo plazo. Ni siquiera Stalin: le adelantó armas unos meses, pero con el oro ya guardado en Moscú. Además, no todo lo que llegó de la Unión Soviética se pagó con oro. Miles de voluntarios de medio mundo vinieron a luchar en las",
+"spec": {
+"commons": "File:Franco y Mola (Burgos, 1936).jpg",
+"at": "a Franco le fiaban"
+}
+},
+{
+"n": 236,
+"t": 2366.05,
+"d": 5.72,
+"unit": 130,
+"heard": "las Brigadas Internacionales, organizadas por la Internacional Comunista. Y",
+"spec": {
+"commons": "File:Ernest Hemingway Visiting 15th International Brigade, December, 1937.jpg",
+"at": "Brigadas Internacionales",
+"gloss": [
+"Brigadas Internacionales",
+"voluntarios extranjeros que lucharon por la República",
+"izquierda"
+]
+}
+},
+{
+"n": 237,
+"t": 2371.78,
+"d": 8.07,
+"unit": 130,
+"heard": "Y cientos de pilotos republicanos se formaron en escuelas de vuelo soviéticas, como la de Kirovabad.",
+"spec": {
+"commons": "File:Polikarpov I-15-Chato.jpg",
+"at": "cientos de pilotos"
+}
+},
+{
+"n": 238,
+"t": 2379.84,
+"d": 19.78,
+"unit": 131,
+"heard": "Ahora, el precio. En mil novecientos noventa y ocho, el investigador británico Gerald Howson publicó un libro, Armas para España, basado en",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "El oro de Moscú"
+}
+}
+},
+{
+"n": 239,
+"t": 2399.62,
+"d": 2.22,
+"unit": 132,
+"heard": "en los archivos militares rusos abiertos tras",
+"spec": {
+"commons": "File:1937-05-26 LA VANGUARDIA 1.jpg",
+"at": "archivos militares rusos"
+}
+},
+{
+"n": 240,
+"t": 2401.84,
+"d": 9.75,
+"unit": 132,
+"heard": "tras la caída de la Unión Soviética. Y sus conclusiones fueron un terremoto. Según Howson, los soviéticos cobraron a la República",
+"spec": {
+"commons": "File:Grand Kremlin Palace at winter night.jpg",
+"at": "la caída de la Unión Soviética"
+}
+},
+{
+"n": 241,
+"t": 2411.59,
+"d": 8.32,
+"unit": 133,
+"heard": "precios inflados, jugando con el tipo de cambio entre el rublo y el dólar. Y una parte del material eran restos:",
+"spec": {
+"card": {
+"type": "split",
+"left": {
+"title": "Lo que se pagó",
+"lines": [
+"precios en dólares",
+"cambio fijado por Moscú"
+]
+},
+"right": {
+"title": "Lo que llegó",
+"lines": [
+"material moderno",
+"y también chatarra de 1914"
+]
+}
+},
+"at": "precios inflados"
+}
+},
+{
+"n": 242,
+"t": 2419.91,
+"d": 33.38,
+"unit": 133,
+"heard": "fusiles de la Primera Guerra Mundial, cañones de varios países, piezas que no casaban con su munición. Esa tesis también tiene respuesta. Viñas y otros historiadores que han trabajado con los mismos archivos rusos discuten esos cálculos. Sostienen que el material moderno, los cazas,",
+"spec": {
+"commons": "File:Old Serbian priest blessing rifles, 1914.jpg",
+"at": "fusiles de la Primera Guerra Mundial"
+}
+},
+{
+"n": 243,
+"t": 2453.29,
+"d": 2.02,
+"unit": 134,
+"heard": "los bombarderos, los tanques",
+"spec": {
+"commons": "File:Polikarpov I-16-Spain (clipped).jpg",
+"at": "los bombarderos"
+}
+},
+{
+"n": 244,
+"t": 2455.31,
+"d": 22.12,
+"unit": 134,
+"heard": "T-veintiséis, era de lo mejor que había en Europa. Y que los contratos fueron legales, firmados entre dos Estados soberanos. Y hay un dato que rara vez se cuenta. Donde la República sufrió más estafas no fue en Moscú. Fue en los mercados de media Europa, comprando a",
+"spec": {
+"commons": "File:T26batallateruel.jpg",
+"at": "T-veintiséis",
+"gloss": [
+"T-26",
+"carro de combate soviético, el mejor del principio de la guerra",
+"urss"
+]
+}
+},
+{
+"n": 245,
+"t": 2477.43,
+"d": 9.42,
+"unit": 135,
+"heard": "a traficantes. El historiador Miguel Campos documenta casos de intermediarios, e incluso de cargos republicanos, que supuestamente",
+"spec": {
+"commons": "File:Cartagena Harbour, Spain. (9976168886).jpg",
+"at": "traficantes"
+}
+},
+{
+"n": 246,
+"t": 2486.85,
+"d": 24.06,
+"unit": 135,
+"heard": "se quedaron con millones por el camino. Eso es verdad, y dice mucho del desorden con que se gestionó el dinero. Pero no quita lo esencial. Con el oro en Moscú, el que ejecutaba las ventas, aplicaba el tipo de cambio y marcaba el ritmo de los envíos era siempre la misma parte. La República ponía el dinero.",
+"spec": {
+"commons": "File:Republica española-banknotes 0003.jpg",
+"at": "se quedaron con millones"
+}
+},
+{
+"n": 247,
+"t": 2510.91,
+"d": 5.56,
+"unit": 136,
+"heard": "Stalin ponía las condiciones. Con las armas llegaron también",
+"spec": {
+"commons": "File:Joseph Stalin in 1937 with his pipe smoking.jpg",
+"at": "Stalin ponía las condiciones",
+"kw": "STALIN PONÍA LAS CONDICIONES",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 248,
+"t": 2516.47,
+"d": 7.86,
+"unit": 137,
+"heard": "los asesores. Unos dos mil militares y técnicos soviéticos pasaron por España durante la guerra:",
+"spec": {
+"commons": "File:Guardia de Assalto manning a Soviet artillery piece.jpg",
+"at": "los asesores"
+}
+},
+{
+"n": 249,
+"t": 2524.33,
+"d": 25.87,
+"unit": 137,
+"heard": "pilotos, tanquistas, instructores, intérpretes. Muchos combatieron y murieron en los cielos de Madrid y en el frente de Aragón. Y con los asesores militares llegaron otros,",
+"spec": {
+"commons": "File:I-15 Polikarpov Tinker.jpg",
+"at": "pilotos, tanquistas"
+}
+},
+{
+"n": 250,
+"t": 2550.2,
+"d": 15.24,
+"unit": 138,
+"heard": "menos visibles. Los hombres de la NKVD, como Orlov, que no estaban allí para pilotar aviones, sino para vigilar, informar y, llegado el caso, eliminar a quien estorbara a Stalin.",
+"spec": {
+"commons": "File:The Second Moscow Trial.jpg",
+"at": "menos visibles"
+}
+},
+{
+"n": 251,
+"t": 2565.44,
+"d": 31.66,
+"unit": 140,
+"heard": "Recapitulemos otra vez. Desde febrero de mil novecientos treinta y siete, la República va vendiendo el oro depositado en Moscú. El dinero pasa por un banco soviético en París y con él se pagan armas soviéticas y compras en medio mundo. Las armas llegan y salvan Madrid. Pero el precio y la calidad de lo que se compró siguen discutidos, y el control de las cuentas lo tiene Moscú. Y en mayo de mil novecientos treinta y siete,",
+"spec": {
+"card": {
+"type": "recap",
+"title": "Hasta aquí",
+"items": [
+[
+"Febrero de 1937",
+"primera orden de venta: 51 millones de dólares"
+],
+[
+"El circuito",
+"Gosbank → banco soviético en París → pagos"
+],
+[
+"Lo que llegó",
+"648 aviones y 347 tanques hasta julio de 1937"
+],
+[
+"El debate",
+"precios inflados o precios de mercado"
+]
+]
+},
+"at": "Recapitulemos"
+}
+},
+{
+"n": 252,
+"t": 2597.1,
+"d": 4.92,
+"unit": 141,
+"heard": "todo cambia en el Gobierno de la República.",
+"spec": {
+"commons": "File:Hotel Continental - Where Orwell Stayed during May Days 1937 - Barcelona - Spain (14372921711).jpg",
+"at": "todo cambia",
+"kw": "MAYO DE 1937",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 253,
+"t": 2602.02,
+"d": 5.45,
+"unit": 142,
+"heard": "Capítulo seis. Se acabó el oro.",
+"spec": {
+"card": {
+"type": "title",
+"title": "Se acabó el oro",
+"sub": "Capítulo 6"
+},
+"tr": null
+}
+},
+{
+"n": 254,
+"t": 2607.47,
+"d": 13.76,
+"unit": 144,
+"heard": "Barcelona, mayo de mil novecientos treinta y siete. En plena guerra, anarquistas y trotskistas se enfrentan a tiros con comunistas y fuerzas del Gobierno. Mueren cientos de personas. Son los llamados",
+"spec": {
+"commons": "File:Militiawoman on the barricade.jpg",
+"at": "Barcelona, mayo",
+"lt": [
+"Barcelona",
+"mayo de 1937"
+]
+}
+},
+{
+"n": 255,
+"t": 2621.23,
+"d": 8.39,
+"unit": 144,
+"heard": "hechos de mayo. Largo Caballero cae. Y el diecisiete de mayo, el nuevo presidente del Gobierno es",
+"spec": {
+"commons": "File:Blindado Sabadell.jpg",
+"at": "hechos de mayo",
+"gloss": [
+"Hechos de mayo",
+"choques armados entre izquierdas en Barcelona, mayo de 1937"
+]
+}
+},
+{
+"n": 256,
+"t": 2629.63,
+"d": 14.22,
+"unit": 145,
+"heard": "es Juan Negrín. El hombre que había enviado el oro a Moscú pasa a dirigir la República hasta el final de la guerra. Unas semanas después, el líder del POUM, un partido marxista contrario a Stalin,",
+"spec": {
+"commons": "File:Juan Negrín 1938 (cropped).jpg",
+"at": "Juan Negrín",
+"lt": [
+"Juan Negrín",
+"Presidente del Gobierno, 1937-1939",
+"izquierda"
+],
+"gloss": [
+"POUM",
+"partido marxista enemigo de Stalin",
+"izquierda"
+],
+"gloss_at": 11.0,
+"gloss_dur": 2.9199999999998907
+}
+},
+{
+"n": 257,
+"t": 2643.84,
+"d": 10.58,
+"unit": 146,
+"heard": "Andreu Nin, es detenido y desaparece. Lo asesinaron agentes soviéticos. La operación la dirigió el mismo hombre que había cargado el oro en Cartagena:",
+"spec": {
+"commons": "File:Andreu Nin 004.jpg",
+"at": "Andreu Nin",
+"lt": [
+"Andreu Nin",
+"Dirigente del POUM",
+"izquierda"
+],
+"gloss": [
+"POUM",
+"partido marxista revolucionario, enemigo de Stalin",
+"izquierda"
+]
+}
+},
+{
+"n": 258,
+"t": 2654.42,
+"d": 23.39,
+"unit": 146,
+"heard": "Alexander Orlov. Para los críticos, esta es la consecuencia política del oro. Sin oro en España, sin otra fuente de armas, la República",
+"spec": {
+"commons": "File:Alexander Orlov.jpg",
+"at": "Alexander Orlov"
+}
+},
+{
+"n": 259,
+"t": 2677.82,
+"d": 4.6,
+"unit": 147,
+"heard": "dependía de Moscú para seguir luchando. Y esa dependencia daba a Stalin",
+"spec": {
+"commons": "File:History of 1st of May in Moscow 01.jpg",
+"at": "dependía de Moscú",
+"kw": "DEPENDENCIA",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 260,
+"t": 2682.41,
+"d": 12.76,
+"unit": 147,
+"heard": "una influencia enorme sobre quién mandaba, a quién se perseguía y cuándo se negociaba. Hay un ejemplo que los críticos citan siempre. En abril de mil novecientos treinta y ocho,",
+"spec": {
+"commons": "File:If You Tolerate This Your Children Will Be Next - 1930s poster.jpg",
+"at": "una influencia enorme"
+}
+},
+{
+"n": 261,
+"t": 2695.18,
+"d": 18.03,
+"unit": 148,
+"heard": "Indalecio Prieto, ministro de Defensa y el socialista más reacio a los comunistas, sale del Gobierno. Él mismo culpó después a las presiones comunistas y soviéticas. Los defensores de Negrín no niegan la influencia soviética. Pero recuerdan que",
+"spec": {
+"commons": "File:Negrin, Prieto and general Rojo.jpg",
+"at": "Indalecio Prieto",
+"lt": [
+"Indalecio Prieto",
+"Ministro de Defensa Nacional hasta abril de 1938",
+"izquierda"
+]
+}
+},
+{
+"n": 262,
+"t": 2713.2,
+"d": 8.9,
+"unit": 149,
+"heard": "que Negrín no era comunista, que chocó varias veces con los asesores de Moscú y que su objetivo era otro:",
+"spec": {
+"commons": "File:Negrin speaking 1938.png",
+"at": "Negrín no era comunista"
+}
+},
+{
+"n": 263,
+"t": 2722.1,
+"d": 10.82,
+"unit": 149,
+"heard": "resistir hasta que estallara la guerra en Europa y las democracias tuvieran que ayudar a la República. Su biógrafo, Enrique Moradiellos, lo llamó",
+"spec": {
+"commons": "File:Negrin inspecting troops.jpg",
+"at": "resistir",
+"kw": "RESISTIR",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 264,
+"t": 2732.92,
+"d": 5.53,
+"unit": 149,
+"heard": "la figura más difamada de la España del siglo veinte.",
+"spec": {
+"commons": "File:Juan Negrín.png",
+"at": "la figura más difamada"
+}
+},
+{
+"n": 265,
+"t": 2738.45,
+"d": 19.46,
+"unit": 150,
+"heard": "Mientras tanto, el oro se iba vendiendo. Partida tras partida, durante todo mil novecientos treinta y siete. Una guerra moderna",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "El oro de Moscú"
+}
+}
+},
+{
+"n": 266,
+"t": 2757.91,
+"d": 10.64,
+"unit": 151,
+"heard": "devoraba el dinero a una velocidad que nadie había previsto. Y en mil novecientos treinta y ocho, según las cuentas soviéticas, el depósito estaba",
+"spec": {
+"commons": "File:Guardia de Assalto manning a Soviet artillery piece.jpg",
+"at": "devoraba el dinero"
+}
+},
+{
+"n": 267,
+"t": 2768.55,
+"d": 12.16,
+"unit": 152,
+"heard": "prácticamente vacío. A finales de ese año, Negrín y Méndez Aspe tuvieron que pedir a Moscú nuevos suministros a crédito. La cuarta reserva de oro del mundo",
+"spec": {
+"commons": "File:Photograph of sacks of coins - NARA - 296600.jpg",
+"at": "prácticamente vacío"
+}
+},
+{
+"n": 268,
+"t": 2780.71,
+"d": 20.92,
+"unit": 152,
+"heard": "se había evaporado en menos de dos años. Julio de mil novecientos treinta y ocho. El Ejército Popular cruza",
+"spec": {
+"card": {
+"type": "counter",
+"to": 0,
+"label": "toneladas de oro español que quedaban en Moscú en 1939, según la URSS"
+},
+"at": "se había evaporado"
+}
+},
+{
+"n": 269,
+"t": 2801.62,
+"d": 1.6,
+"unit": 153,
+"heard": "el río Ebro en la mayor ofensiva",
+"spec": {
+"commons": "File:Republican howitzer in the Ebro.jpg",
+"at": "el río Ebro",
+"lt": [
+"Batalla del Ebro",
+"julio-noviembre de 1938"
+]
+}
+},
+{
+"n": 270,
+"t": 2803.22,
+"d": 16.36,
+"unit": 153,
+"heard": "republicana de la guerra. Es la apuesta final de Negrín: aguantar, demostrar que la República seguía viva, y esperar a que Francia y Gran Bretaña entraran en guerra con Hitler. Pero en septiembre,",
+"spec": {
+"commons": "File:Members of an international battalion in the football field of Marçà.jpg",
+"at": "la mayor ofensiva"
+}
+},
+{
+"n": 271,
+"t": 2819.59,
+"d": 6.62,
+"unit": 154,
+"heard": "en Múnich, Francia y Gran Bretaña entregan a Hitler una parte de Checoslovaquia para evitar la guerra.",
+"spec": {
+"commons": "File:MunichAgreement.jpg",
+"at": "en Múnich",
+"lt": [
+"Acuerdos de Múnich",
+"septiembre de 1938"
+]
+}
+},
+{
+"n": 272,
+"t": 2826.2,
+"d": 12.79,
+"unit": 154,
+"heard": "La esperanza de Negrín se hunde. Y Stalin, que ve cómo las democracias pactan con Hitler, empieza a perder interés en España. En octubre, las Brigadas Internacionales",
+"spec": {
+"commons": "File:MunichAgreement.jpg",
+"at": "La esperanza de Negrín se hunde",
+"kw": "MÚNICH",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 273,
+"t": 2839.0,
+"d": 7.76,
+"unit": 155,
+"heard": "desfilan por última vez en Barcelona antes de marcharse. Y en noviembre, la batalla del Ebro termina con",
+"spec": {
+"commons": "File:Juan Negrín international brigade farewell 1938.jpg",
+"at": "desfilan por última vez"
+}
+},
+{
+"n": 274,
+"t": 2846.76,
+"d": 22.85,
+"unit": 155,
+"heard": "con la retirada republicana. La guerra está perdida, aunque durará cuatro meses más. En esos últimos meses, el dinero que quedaba no solo pagaba armas. Pagaba también trigo y alimentos para una zona republicana desbordada de refugiados, donde en ciudades como Barcelona o Madrid",
+"spec": {
+"commons": "File:Soldiers being rewarded after the Battle of the Ebro.jpg",
+"at": "la retirada republicana"
+}
+},
+{
+"n": 275,
+"t": 2869.61,
+"d": 1.6,
+"unit": 156,
+"heard": "se pasaba hambre",
+"spec": {
+"commons": "File:Bombardeo de las cuatro horas.jpg",
+"at": "se pasaba hambre"
+}
+},
+{
+"n": 276,
+"t": 2871.21,
+"d": 13.85,
+"unit": 156,
+"heard": "de verdad. Hay que decirlo con claridad: aunque el oro se hubiera quedado en España, se habría gastado igual. Es lo que pasa con las reservas de cualquier país en guerra.",
+"spec": {
+"commons": "File:El poblado de Guernica en ruinas tras el bombardeo.jpg",
+"at": "refugiados"
+}
+},
+{
+"n": 277,
+"t": 2885.06,
+"d": 21.7,
+"unit": 157,
+"heard": "Gran Bretaña vació las suyas pocos años después para pagar la guerra contra Hitler. La diferencia es quién lleva las cuentas.",
+"spec": {
+"commons": "File:Bank of England and Royal Exchange, London.jpg",
+"at": "Gran Bretaña vació las suyas"
+}
+},
+{
+"n": 278,
+"t": 2906.77,
+"d": 13.86,
+"unit": 158,
+"heard": "Gran Bretaña podía comprobar cada libra que gastaba. La República, en cambio, tuvo que fiarse de las cuentas que le presentaba el Gobierno soviético. Y en marzo de mil novecientos treinta y nueve,",
+"spec": {
+"commons": "File:London Blitz 9 September 1940.jpg",
+"at": "Gran Bretaña podía comprobar"
+}
+},
+{
+"n": 279,
+"t": 2920.63,
+"d": 10.47,
+"unit": 158,
+"heard": "la guerra se perdió. Y aún queda un último cargamento. En marzo de mil novecientos treinta y nueve, en las últimas semanas de la guerra,",
+"spec": {
+"commons": "File:Francisco Franco desfile de la victoria 1939.jpg",
+"at": "la guerra se perdió",
+"lt": [
+"Madrid",
+"marzo de 1939"
+]
+}
+},
+{
+"n": 280,
+"t": 2931.1,
+"d": 1.6,
+"unit": 159,
+"heard": "el yate Vita llega a México.",
+"spec": {
+"commons": "File:Odessa port 1931.jpg",
+"at": "el yate Vita"
+}
+},
+{
+"n": 281,
+"t": 2932.7,
+"d": 12.1,
+"unit": 159,
+"heard": "México. A bordo, cajas con joyas, oro y objetos de valor reunidos por el Gobierno republicano, para mantener a los exiliados. Ese tesoro acabó controlado por",
+"spec": {
+"commons": "File:Juan Negrín resignation Mexico 1945.jpg",
+"at": "llega a México"
+}
+},
+{
+"n": 282,
+"t": 2944.8,
+"d": 13.16,
+"unit": 160,
+"heard": "por Indalecio Prieto, ya enfrentado a muerte con Negrín. Y los dos dirigentes socialistas se pasaron el exilio acusándose mutuamente de cómo se había gestionado el dinero de la República.",
+"spec": {
+"commons": "File:Indalecio Prieto.jpg",
+"at": "Indalecio Prieto"
+}
+},
+{
+"n": 283,
+"t": 2957.96,
+"d": 5.56,
+"unit": 160,
+"heard": "La guerra por el oro siguió mucho después de que terminara la otra.",
+"spec": {
+"commons": "File:Juan Negrín resignation Mexico 1945.jpg",
+"at": "La guerra por el oro",
+"kw": "LA OTRA GUERRA",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 284,
+"t": 2963.52,
+"d": 8.88,
+"unit": 161,
+"heard": "Capítulo siete. El recibo. Para la España de Franco, el oro de Moscú se convirtió enseguida en un",
+"spec": {
+"card": {
+"type": "title",
+"title": "El recibo",
+"sub": "Capítulo 7"
+},
+"tr": null
+}
+},
+{
+"n": 285,
+"t": 2972.4,
+"d": 7.88,
+"unit": 163,
+"heard": "en un arma de propaganda. Era la prueba de que la República había vendido el país a los soviéticos. Y una explicación cómoda para",
+"spec": {
+"commons": "File:Paquito al Servicio de Espana Edicioes La Tijera Madrid 1940 Falange espanola Spanish Civil War era paper doll model cut-out sheet toy Falangist propaganda fascist uniforms salute soldier boy No known copyright brightened.jpg",
+"at": "arma de propaganda"
+}
+},
+{
+"n": 286,
+"t": 2980.28,
+"d": 9.82,
+"unit": 163,
+"heard": "para el hambre de la posguerra: no hay pan porque los rojos se llevaron el oro. Y hay que decirlo: la propaganda franquista",
+"spec": {
+"commons": "File:Francisco Franco llega a la catedral de Valladolid 1939.jpg",
+"at": "el hambre de la posguerra"
+}
+},
+{
+"n": 287,
+"t": 2990.11,
+"d": 12.14,
+"unit": 164,
+"heard": "exageró. Contaba la historia como un robo, ocultaba que buena parte del oro se gastó en armas que de verdad llegaron, y no decía nada del oro de París ni de las armas que",
+"spec": {
+"commons": "File:Francisco Franco circa 1939.jpg",
+"at": "exageró",
+"kw": "PROPAGANDA",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 288,
+"t": 3002.25,
+"d": 21.21,
+"unit": 164,
+"heard": "que Alemania e Italia daban a Franco a crédito. Mientras tanto, el único hombre que conocía todas las cuentas guardaba silencio",
+"spec": {
+"commons": "File:Corpo Truppe Volontarie 10.jpg",
+"at": "Alemania e Italia"
+}
+},
+{
+"n": 289,
+"t": 3023.45,
+"d": 7.92,
+"unit": 165,
+"heard": "en el exilio. Juan Negrín vivió en Francia y en Inglaterra, defendió hasta el final la legitimidad de su Gobierno, y",
+"spec": {
+"commons": "File:Juan Negrín resignation Mexico 1945.jpg",
+"at": "en el exilio"
+}
+},
+{
+"n": 290,
+"t": 3031.37,
+"d": 4.08,
+"unit": 165,
+"heard": "nunca publicó los papeles del oro. Negrín",
+"spec": {
+"commons": "File:Juan Negrín López.png",
+"at": "nunca publicó"
+}
+},
+{
+"n": 291,
+"t": 3035.45,
+"d": 10.12,
+"unit": 166,
+"heard": "murió en París el doce de noviembre de mil novecientos cincuenta y seis. Un mes después, el dieciocho de diciembre, su hijo entregó al",
+"spec": {
+"commons": "File:Streets of Paris (NBY 416630).jpg",
+"at": "murió en París",
+"lt": [
+"París",
+""
+]
+}
+},
+{
+"n": 292,
+"t": 3045.57,
+"d": 1.6,
+"unit": 166,
+"heard": "al cónsul de España en París un",
+"spec": {
+"commons": "File:Streets of Paris (NBY 416205).jpg",
+"at": "cónsul de España en París"
+}
+},
+{
+"n": 293,
+"t": 3047.17,
+"d": 12.6,
+"unit": 166,
+"heard": "un dosier. Dentro estaba el acta del depósito de Moscú y las órdenes de venta. Los papeles acabaron en manos del Gobierno de Franco. Por qué lo hizo",
+"spec": {
+"card": {
+"type": "doc",
+"title": "Dosier Negrín",
+"lines": [
+"Acta de depósito del oro y órdenes de venta"
+],
+"source": "Entregado al consulado de España en París · 18 de diciembre de 1956"
+},
+"at": "un dosier"
+}
+},
+{
+"n": 294,
+"t": 3059.78,
+"d": 18.08,
+"unit": 167,
+"heard": "hizo la familia sigue siendo discutido. La versión más aceptada es que Negrín quería que los papeles volvieran a España, para que constara que el oro no se robó, sino que se gastó por decisión de un Gobierno legítimo. Era su manera de defenderse",
+"spec": {
+"commons": "File:Juan Negrin 1920s.jpg",
+"at": "la familia"
+}
+},
+{
+"n": 295,
+"t": 3077.86,
+"d": 5.21,
+"unit": 167,
+"heard": "ante la historia. Con el recibo en la mano, el Gobierno de Franco",
+"spec": {
+"commons": "File:Spanish civil war archive.jpg",
+"at": "ante la historia",
+"kw": "ANTE LA HISTORIA",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 296,
+"t": 3083.07,
+"d": 12.24,
+"unit": 168,
+"heard": "reclamó oficialmente el oro a la Unión Soviética. Y en abril de mil novecientos cincuenta y siete, antes incluso de que llegara la reclamación formal, Moscú respondió en público por medio del",
+"spec": {
+"commons": "File:(Account ledger) - DPLA - a35b81a19450cba319aed51dd0ea6190 (page 4).jpg",
+"at": "reclamó oficialmente"
+}
+},
+{
+"n": 297,
+"t": 3095.31,
+"d": 5.7,
+"unit": 168,
+"heard": "del diario Pravda. La respuesta, en resumen, era esta:",
+"spec": {
+"commons": "File:View to Kremlin in 1938.jpg",
+"at": "diario Pravda",
+"gloss": [
+"Pravda",
+"diario oficial del Partido Comunista soviético",
+"urss"
+],
+"gloss_at": 0.48,
+"gloss_dur": 4.5
+}
+},
+{
+"n": 298,
+"t": 3101.0,
+"d": 10.21,
+"unit": 169,
+"heard": "no hay oro. La República lo había gastado entero en las armas y los suministros que recibió durante la guerra. Fíjate en el orden:",
+"spec": {
+"card": {
+"type": "doc",
+"title": "Respuesta soviética · abril de 1957",
+"lines": [
+"No queda oro: la República lo gastó en armas y suministros."
+],
+"source": "Resumen de la respuesta publicada por Pravda"
+},
+"at": "no hay oro"
+}
+},
+{
+"n": 299,
+"t": 3111.21,
+"d": 24.62,
+"unit": 170,
+"heard": "primero la respuesta, después la pregunta. Moscú sabía lo que España iba a reclamar, y cerró la puerta antes de que nadie llamara. Fin de la discusión.",
+"spec": {
+"commons": "File:Moscow 1957 - Gorky Street towards Kremlin.jpg",
+"at": "primero la respuesta",
+"kw": "PRIMERO LA RESPUESTA",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 300,
+"t": 3135.83,
+"d": 16.5,
+"unit": 171,
+"heard": "Sin auditoría, sin acceso a las cuentas, sin un solo documento soviético a la vista. Durante veinte años, España no tuvo relaciones diplomáticas con la Unión Soviética, y el oro fue siempre la condición. Cuando por fin se restablecieron,",
+"spec": {
+"commons": "File:Grand Kremlin Palace at winter night.jpg",
+"at": "Sin auditoría",
+"kw": "SIN AUDITORÍA",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 301,
+"t": 3152.33,
+"d": 16.16,
+"unit": 171,
+"heard": "en mil novecientos setenta y siete, el asunto se dejó a un lado. Y sin embargo, uno de los mayores apoyos a la versión soviética salió de una institución del propio régimen. En mil novecientos setenta, el economista",
+"spec": {
+"commons": "File:Grand Kremlin Palace at winter night.jpg",
+"at": "mil novecientos setenta y siete"
+}
+},
+{
+"n": 302,
+"t": 3168.48,
+"d": 6.56,
+"unit": 172,
+"heard": "Joan Sardá publicó una historia del Banco de España. Y concluyó que el oro se había gastado",
+"spec": {
+"commons": "File:Banco de España Esquina Alcalá San Romualdo.JPG",
+"at": "Joan Sardá"
+}
+},
+{
+"n": 303,
+"t": 3175.04,
+"d": 4.37,
+"unit": 172,
+"heard": "legítimamente para pagar las armas.",
+"spec": {
+"commons": "File:1936-09-12 LA VANGUARDIA 2.1.jpg",
+"at": "legítimamente",
+"kw": "GASTADO, NO ROBADO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 304,
+"t": 3179.41,
+"d": 13.3,
+"unit": 173,
+"heard": "Para entonces, los protagonistas habían ido desapareciendo.",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "El oro de Moscú"
+}
+}
+},
+{
+"n": 305,
+"t": 3192.71,
+"d": 7.6,
+"unit": 174,
+"heard": "Largo Caballero había muerto en París en mil novecientos cuarenta y seis, tras pasar por un campo de concentración nazi.",
+"spec": {
+"commons": "File:Francisco Largo Caballero.jpg",
+"at": "Largo Caballero había muerto"
+}
+},
+{
+"n": 306,
+"t": 3200.31,
+"d": 4.1,
+"unit": 174,
+"heard": "Prieto murió en México en mil novecientos sesenta y dos. Y",
+"spec": {
+"commons": "File:Indalecio Prieto.jpg",
+"at": "Prieto murió"
+}
+},
+{
+"n": 307,
+"t": 3204.41,
+"d": 14.53,
+"unit": 174,
+"heard": "Y Alexander Orlov, el hombre que cargó el oro, murió en Estados Unidos en mil novecientos setenta y tres, llevándose lo que no había contado. Con la democracia llegaron los historiadores. En",
+"spec": {
+"commons": "File:Alexander Orlov.jpg",
+"at": "Alexander Orlov, el hombre"
+}
+},
+{
+"n": 308,
+"t": 3218.94,
+"d": 12.6,
+"unit": 175,
+"heard": "En mil novecientos setenta y seis, recién muerto Franco, Ángel Viñas publicó su primer estudio sobre el oro. Su título lo decía todo: El oro de Moscú,",
+"spec": {
+"commons": "File:Banco de España (Madrid) 02.jpg",
+"at": "mil novecientos setenta y seis"
+}
+},
+{
+"n": 309,
+"t": 3231.54,
+"d": 30.86,
+"unit": 175,
+"heard": "alfa y omega de un mito franquista. Para Viñas, la cuestión estaba clara: el oro se gastó, no se robó. Viñas había sido economista del Estado y diplomático, y tuvo acceso a la documentación del Banco de España y del",
+"spec": {
+"commons": "File:(Account ledger) - DPLA - a35b81a19450cba319aed51dd0ea6190 (page 3).jpg",
+"at": "alfa y omega",
+"kw": "ALFA Y OMEGA DE UN MITO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 310,
+"t": 3262.4,
+"d": 17.35,
+"unit": 176,
+"heard": "del Ministerio de Hacienda. Fue el primero en reconstruir, venta a venta, adónde fue el dinero. Pero la crítica no vino solo de la derecha. En mil novecientos noventa, el historiador Francisco Olaya Morales, que había militado",
+"spec": {
+"commons": "File:Antigua real Casa de la Aduana (Ministerio de Hacienda).jpg",
+"at": "Ministerio de Hacienda"
+}
+},
+{
+"n": 311,
+"t": 3279.74,
+"d": 1.9,
+"unit": 177,
+"heard": "en el anarquismo, publicó",
+"spec": {
+"commons": "File:CNT-FAI Cooperative Barcelona.jpg",
+"at": "en el anarquismo"
+}
+},
+{
+"n": 312,
+"t": 3281.64,
+"d": 14.92,
+"unit": 177,
+"heard": "El oro de Negrín. Un libro durísimo contra la gestión del dinero de la República. Y es que muchos anarquistas y socialistas nunca perdonaron que el tesoro del país quedara en manos de Moscú.",
+"spec": {
+"commons": "File:1936-08-16 LA VANGUARDIA 4.jpg",
+"at": "El oro de Negrín",
+"kw": "EL ORO DE NEGRÍN",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 313,
+"t": 3296.56,
+"d": 39.99,
+"unit": 178,
+"heard": "Después llegaron los archivos rusos. Howson en mil novecientos noventa y ocho, Martín Aceña en dos mil uno, Daniel Kowalsky en dos mil tres, y otra vez Viñas, en una trilogía y en un último libro de dos mil veintitrés, de más de quinientas páginas, basado en documentos soviéticos publicados en ruso. Cada nueva caja de papeles ha matizado algo. Ninguna ha cerrado la discusión. Noventa años después, ¿qué sabemos? Sabemos que el oro existió,",
+"spec": {
+"card": {
+"type": "timeline",
+"header": "La batalla de los historiadores",
+"events": [
+[
+"1976",
+"Viñas: «alfa y omega de un mito»"
+],
+[
+"1990",
+"Olaya: El oro de Negrín"
+],
+[
+"1998",
+"Howson: Armas para España"
+],
+[
+"2001",
+"Martín Aceña: El oro de Moscú y el oro de Berlín"
+],
+[
+"2023",
+"Viñas: Oro, guerra, diplomacia"
+]
+]
+},
+"at": "Después llegaron"
+}
+},
+{
+"n": 314,
+"t": 3336.56,
+"d": 12.96,
+"unit": 180,
+"heard": "que salió de Cartagena, que llegó a Moscú y que se firmó un acta. Sabemos que se vendió por orden del Gobierno republicano y que con él llegaron aviones, tanques y alimentos que",
+"spec": {
+"commons": "File:Cartagena Harbour, Spain. (9976168886).jpg",
+"at": "salió de Cartagena",
+"lt": [
+"Cartagena",
+"hoy"
+]
+}
+},
+{
+"n": 315,
+"t": 3349.51,
+"d": 16.45,
+"unit": 180,
+"heard": "que alargaron la resistencia dos años y medio. Para",
+"spec": {
+"commons": "File:Soldiers being rewarded after the Battle of the Ebro.jpg",
+"at": "alargaron la resistencia"
+}
+},
+{
+"n": 316,
+"t": 3365.96,
+"d": 14.58,
+"unit": 181,
+"heard": "Para Ángel Viñas, la conclusión es clara: el oro de Moscú no fue un robo, sino el pago de una República abandonada. Y la idea contraria sobrevive por otras razones.",
+"spec": {
+"commons": "File:1936-07-12 CRÓNICA.jpg",
+"at": "Ángel Viñas"
+}
+},
+{
+"n": 317,
+"t": 3380.54,
+"d": 9.94,
+"unit": 182,
+"heard": "«Un mito es una creencia inmutable a la que cierta derecha sigue amarrada por razones ideológicas.» Es una respuesta firme. Pero",
+"spec": {
+"card": {
+"type": "quote",
+"text": "Un mito es una creencia inmutable a la que cierta derecha sigue amarrada por razones ideológicas.",
+"attrib": "Ángel Viñas, historiador · entrevista en Diario de León (2026)"
+},
+"at": "Un mito"
+}
+},
+{
+"n": 318,
+"t": 3390.48,
+"d": 15.91,
+"unit": 183,
+"heard": "Pero deja preguntas sin contestar. ¿Por qué se envió todo el oro de una vez, y no por partes, según se fuera necesitando? ¿Por qué a la dictadura más opaca de Europa, y no repartido entre varios países? ¿Por qué no se pidió",
+"spec": {
+"card": {
+"type": "list",
+"header": "Preguntas abiertas",
+"items": [
+[
+"1",
+"¿Por qué todo de una vez?"
+],
+[
+"2",
+"¿Por qué a un solo país?"
+],
+[
+"3",
+"¿Por qué sin recibo en Cartagena?"
+],
+[
+"4",
+"¿Quién auditó las cuentas?"
+]
+]
+},
+"at": "deja preguntas"
+}
+},
+{
+"n": 319,
+"t": 3406.39,
+"d": 16.08,
+"unit": 184,
+"heard": "un recibo en Cartagena? ¿Por qué se retuvo a los únicos testigos españoles? ¿Y quién comprobó, gramo a gramo, que las cuentas que Moscú presentó eran ciertas? La respuesta a esa última pregunta es sencilla:",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/acbddb4e-9cec-40de-a809-5f7d84c1c80d.jpg",
+"at": "un recibo en Cartagena"
+}
+},
+{
+"n": 320,
+"t": 3422.47,
+"d": 6.44,
+"unit": 184,
+"heard": "nadie. Hay respuestas para algunas. Todo de una vez, porque",
+"spec": {
+"commons": "File:Photograph of sacks of coins - NARA - 296610.jpg",
+"at": "nadie",
+"kw": "NADIE",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 321,
+"t": 3428.91,
+"d": 2.14,
+"unit": 185,
+"heard": "porque Madrid podía caer en días y",
+"spec": {
+"commons": "File:Running to the nearest shelter - Google Art Project.jpg",
+"at": "Madrid podía caer"
+}
+},
+{
+"n": 322,
+"t": 3431.05,
+"d": 31.47,
+"unit": 185,
+"heard": "no había tiempo para ir enviándolo por partes. A un solo país, porque era el único que vendía. Y sin auditoría, porque la República perdió la guerra y nunca tuvo ocasión de pedir cuentas. Son respuestas razonables. Pero todas tienen el mismo punto débil: dan por hecho que no había otra forma de hacerlo. Y eso, precisamente, es lo que no se puede demostrar. Porque las demás opciones nunca se discutieron. Las descartaron",
+"spec": {
+"commons": "File:Bombardeo del 17 de noviembre de 1936 sobre Madrid.jpg",
+"at": "no había tiempo",
+"kw": "NO HABÍA TIEMPO",
+"kw_at": 0.4,
+"kw_dur": 2.2
+}
+},
+{
+"n": 323,
+"t": 3462.52,
+"d": 21.67,
+"unit": 186,
+"heard": "dos hombres, en secreto, en unos pocos días. Y conviene no olvidar a quién defendían esas armas. A un Gobierno",
+"spec": {
+"commons": "File:Gobfrlargcabsept1936.jpg",
+"at": "dos hombres"
+}
+},
+{
+"n": 324,
+"t": 3484.19,
+"d": 5.34,
+"unit": 187,
+"heard": "elegido en las urnas, atacado por un ejército sublevado que tenía detrás a",
+"spec": {
+"commons": "File:Electoral office, 1936 elections, Spain.jpg",
+"at": "elegido en las urnas"
+}
+},
+{
+"n": 325,
+"t": 3489.53,
+"d": 18.37,
+"unit": 187,
+"heard": "a Hitler y a Mussolini. Sin el oro de Moscú, Franco habría ganado en unos meses. Con él, la República resistió casi tres años. Quizá porque en el otoño de mil novecientos treinta y seis no había tiempo para hacerlo mejor.",
+"spec": {
+"commons": "File:Benito Mussolini and Adolf Hitler.jpg",
+"at": "Hitler y a Mussolini"
+}
+},
+{
+"n": 326,
+"t": 3507.9,
+"d": 16.11,
+"unit": 188,
+"heard": "Madrid estaba a punto de caer. Y cuando una casa arde, nadie negocia el precio del agua. Quizá. O quizá por eso mismo. Porque quien llega con el agua en el momento del incendio sabe que",
+"spec": {
+"commons": "File:Bombardeo del 17 de noviembre de 1936 sobre Madrid.jpg",
+"at": "Madrid estaba a punto de caer"
+}
+},
+{
+"n": 327,
+"t": 3524.01,
+"d": 5.52,
+"unit": 189,
+"heard": "que puede pedir lo que quiera. El oro de Moscú no fue un robo.",
+"spec": {
+"commons": "File:Joseph Stalin in 1937 with his pipe smoking.jpg",
+"at": "puede pedir lo que quiera"
+}
+},
+{
+"n": 328,
+"t": 3529.53,
+"d": 7.82,
+"unit": 189,
+"heard": "Lo entregó un Gobierno, por su propia voluntad, a una dictadura que nunca tuvo que rendir cuentas.",
+"spec": {
+"ai": "https://www.figma.com/api/mcp/asset/7da8a42a-5c30-4381-a3af-85604300218a.jpg",
+"at": "Lo entregó un Gobierno"
+}
+},
+{
+"n": 329,
+"t": 3537.35,
+"d": 8.88,
+"unit": 190,
+"heard": "Siete mil ochocientas cajas salieron de Cartagena una noche de octubre. Lo que valían de verdad, y lo que costaron, se quedó",
+"spec": {
+"commons": "File:Cartagena 16.06.1936.jpg",
+"at": "Siete mil ochocientas cajas"
+}
+},
+{
+"n": 330,
+"t": 3546.23,
+"d": 2.98,
+"unit": 190,
+"heard": "para siempre en Moscú.",
+"spec": {
+"commons": "File:Grand Kremlin Palace at winter night.jpg",
+"at": "para siempre en Moscú"
+}
+},
+{
+"n": 331,
+"t": 3549.21,
+"d": 14.42,
+"unit": 191,
+"heard": "Esto ha sido DocuVox. Si te ha gustado, suscríbete y cuéntanos en los comentarios: ¿la única salida... o la gran entrega?",
+"spec": {
+"card": {
+"type": "title",
+"title": "DocuVox",
+"sub": "Documentales sonoros"
+},
+"at": "Esto ha sido"
+}
+}
+]

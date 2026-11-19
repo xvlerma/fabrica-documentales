@@ -145,7 +145,7 @@ DER("Sacarlo de Madrid, no. La pregunta es otra: por qué no se quedó en Españ
     ph('Stalin 1930s portrait', at='manos de Stalin'))
 DER("En pocos días, cientos de cajas salen en camiones y trenes hacia el sureste. Su destino: Cartagena, la gran base de la Armada republicana. Allí, en la bahía, hay unos viejos polvorines excavados en la roca: La Algameca.",
     ph('Spanish railway 1930s train', at='camiones y trenes'),
-    cd(dict(type='mapfly', title='Madrid → Cartagena', keys=[[-7, 36.5, 1, 41.8], [-3, 37.2, 0, 39]], points=[dict(name='Madrid', lon=-3.70, lat=40.42, at=0.2, big=1), dict(name='Cartagena', lon=-0.98, lat=37.60, at=0.7, pulse=1, big=1)]), at='hacia el sureste'),
+    cd(dict(type='mapfly', title='De Madrid a Cartagena', keys=[[-7, 36.5, 1, 41.8], [-3, 37.2, 0, 39]], points=[dict(name='Madrid', lon=-3.70, lat=40.42, at=0.2, big=1), dict(name='Cartagena', lon=-0.98, lat=37.60, at=0.7, pulse=1, big=1)]), at='hacia el sureste'),
     ph('La Algameca Cartagena', at='La Algameca', lt=['La Algameca', 'Polvorines de la Armada · Cartagena']))
 IZQ("[serious] El oro estaba lejos del frente, protegido por la Marina, y junto a un puerto. Desde Cartagena se podía llevar a cualquier parte. [short pause] A esas alturas, todavía no estaba decidido adónde.",
     ph('Cartagena naval base 1930s', at='protegido por la Marina'),

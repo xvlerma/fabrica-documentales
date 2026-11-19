@@ -7,6 +7,8 @@ CACHE = os.environ.get('FABRICA_CACHE', '/tmp/fabrica_cache')
 os.makedirs(CACHE, exist_ok=True)
 # Modo seguro (por defecto): sin CompartirIgual, sin música de Internet Archive ni ccMixter, archivo de vídeo solo con dominio público explícito.
 SEGURO = os.environ.get('FABRICA_SEGURO', '1') != '0'
+# CC BY-SA permitido en imagen y vídeo con crédito (decisión del creador, 19-11-2026). La música sigue sin SA.
+PERMITIR_SA = os.environ.get('FABRICA_PERMITIR_SA', '1') != '0'
 import re as _re0
 def _sa(l): return bool(_re0.search(r'(^|[^a-z])sa([^a-z]|$)', (l or '').lower())) or 'sharealike' in (l or '').lower()
 OK_LIC = ('cc0', 'pdm', 'public domain', 'cc by', 'cc-by', 'by', 'by-sa', 'cc by-sa', 'pixabay', 'no restrictions', 'attribution')
@@ -73,7 +75,7 @@ def commons_search(q, video=False, n=10):
         ii = (p.get('imageinfo') or [{}])[0]; m = ii.get('extmetadata', {})
         lic = (m.get('LicenseShortName', {}) or {}).get('value', '')
         if not any(x in lic.lower() for x in OK_LIC) or 'nc' in lic.lower().replace('nc-', 'nc '): continue
-        if SEGURO and (_sa(lic) or 'nd' in lic.lower().replace('-', ' ').split()): continue
+        if SEGURO and ((_sa(lic) and not PERMITIR_SA) or 'nd' in lic.lower().replace('-', ' ').split()): continue
         art = (m.get('Artist', {}) or {}).get('value', '')
         import re; art = re.sub('<[^>]+>', '', art).strip()[:80] or 'Wikimedia Commons'
         if video:
@@ -129,7 +131,7 @@ def europeana(q, video=False, n=10):
         url = (it.get('edmIsShownBy') or [None])[0]
         if not url: continue
         rights = (it.get('rights') or [''])[0]
-        if 'nc' in rights.lower() or (SEGURO and ('by-sa' in rights.lower() or 'by-nd' in rights.lower() or 'rightsstatements' in rights.lower())): continue
+        if 'nc' in rights.lower() or (SEGURO and (('by-sa' in rights.lower() and not PERMITIR_SA) or 'by-nd' in rights.lower() or 'rightsstatements' in rights.lower())): continue
         out.append(dict(kind='video' if video else 'image', url=url, w=0, h=0, dur=0, credit=(it.get('dataProvider') or ['Europeana'])[0],
                         license=rights, page=it.get('guid'), id='eu' + it.get('id', '').replace('/', '_')))
     return out

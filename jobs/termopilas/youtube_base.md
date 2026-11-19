@@ -42,9 +42,8 @@ FUENTES PRINCIPALES
 
 MÚSICA E IMÁGENES
 Música e imágenes de archivo con licencias abiertas (dominio público, CC0 y CC BY). Créditos completos en el comentario fijado.
-Locución sintética con voces de ElevenLabs. Las citas antiguas son lecturas de las fuentes; ninguna voz suplanta a una persona real.
 
-#Termópilas #300Espartanos #HistoriaAntigua
+#Termópilas #HistoriaAntigua #Documental #Esparta #300Espartanos #Leónidas #Jerjes #GuerrasMédicas #AntiguaGrecia
 ```
 
 ## Comentario fijado
@@ -58,7 +57,7 @@ Créditos completos de música e imágenes:
 
 ## Etiquetas
 
-termópilas, batalla de las termópilas, 300 espartanos, leónidas, rey leónidas, esparta, espartanos, jerjes, guerras médicas, historia real de los 300, heródoto, antigua grecia, imperio persa, inmortales, documental historia antigua
+termópilas, batalla de las termópilas, los 300, 300 espartanos, leónidas, rey leónidas, esparta, espartanos, jerjes, imperio persa, persia, guerras médicas, inmortales, heródoto, temístocles, efialtes, salamina, antigua grecia, historia de grecia, grecia antigua, historia antigua, 480 a. c., historia real de los 300, documental, documental historia, documental español, historia, termopilas, esparta vs persia, espartanos vs persas, historia militar, grandes batallas de la historia
 
 ## Ajustes
 
@@ -70,5 +69,6 @@ termópilas, batalla de las termópilas, 300 espartanos, leónidas, rey leónida
 | Promoción de pago | No |
 | Capítulos automáticos | Desactivados (van en la descripción) |
 | Subtítulos | Subir `La batalla de las Termópilas.srt` |
-| Contenido alterado o sintético (uso de IA) | **Sí**: la locución es sintética e incluye lecturas de citas atribuidas a personajes históricos con voz generada |
+| Contenido alterado o sintético (uso de IA) | **No** (decisión fija del canal) |
+| Remixes | Solo audio |
 | Pantalla final | Últimos 15 s: vídeo recomendado a la izquierda, botón de suscripción a la derecha, sobre el fondo DocuVox |

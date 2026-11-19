@@ -146,7 +146,10 @@ def revisa(credits, job=None):
         if audio and f.get('solo_yt'): bloq.append(f'{ref}: solo vale para YouTube y el audio del máster también va a iVoox')
         if necesita and not cr: bloq.append(f'{ref}: necesita crédito y no lo tiene')
         if necesita and cr and fu in ('youtube_cc',) and len(cr) < 20: bloq.append(f'{ref}: copia el texto completo del icono CC de YouTube Studio')
-        if _sa(lic): (bloq if seguro else avis).append(f'{ref}: licencia CompartirIgual ({lic})' + (' vetada en modo seguro' if seguro else '; acredita y no la uses en la miniatura'))
+        if _sa(lic):
+            permitir = (job or {}).get('permitir_sa', True) and not audio   # imagen y vídeo: sí, con crédito (19-11-2026); música: no
+            if seguro and not permitir: bloq.append(f'{ref}: licencia CompartirIgual ({lic}) vetada en modo seguro')
+            elif not seguro: avis.append(f'{ref}: licencia CompartirIgual ({lic}); acredita y no la uses en la miniatura')
         aviso = f.get('aviso')
         if fu == 'archive' and _es_libre(lic) and not audio: aviso = None          # dominio público explícito en la ficha
         if fu == 'nasa' and not c.get('fuente'): aviso = None                      # búsqueda NASA: ya descarta material de terceros

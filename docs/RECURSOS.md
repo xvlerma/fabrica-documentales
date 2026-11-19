@@ -4,7 +4,7 @@ Fuentes gratuitas, orden de uso y condición de cada una. El control automático
 
 ## Modo seguro (activado por defecto)
 La fábrica solo acepta fuentes con licencia comercial explícita del autor o de la institución. En modo seguro:
-- **Vetadas**: Pexels, Coverr, Jamendo, BBC SFX, Pixabay Music, Openverse/ccMixter, música y sonido de Internet Archive, Biblioteca de YouTube con licencia estándar, y cualquier licencia NC, ND o CompartirIgual (SA).
+- **Vetadas**: Pexels, Coverr, Jamendo, BBC SFX, Pixabay Music, Openverse/ccMixter, música y sonido de Internet Archive, Biblioteca de YouTube con licencia estándar, y cualquier licencia NC o ND. **CompartirIgual (CC BY-SA) sí se permite en imagen y vídeo** con su crédito en la descripción (decisión del creador, 19-11-2026; flag `"permitir_sa"`, por defecto `true`); nunca en música ni en la miniatura.
 - **Vídeo de Internet Archive** solo con dominio público explícito en la ficha.
 - **Cualquier aviso bloquea.** Un recurso manual con aviso (NASA por URL, por ejemplo) solo pasa si añades `"revisado": true` después de comprobar su ficha.
 - Incompetech bloquea si el cierre del guion no incluye la línea de `locucion_cierre.txt`.

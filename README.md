@@ -2,7 +2,7 @@
 
 Motor que convierte un `jobs/<id>/job.json` en un documental terminado (MP4 1080p, subtítulos, capítulos y créditos), usando GitHub Actions.
 
-- Manual completo, prompt maestro y referencia del job: documento maestro v2 en claude.ai (artefacto "Fábrica de documentales · Documento maestro v2").
+- Manual completo, prompt maestro y referencia del job: documento maestro v4 (`Fabrica_de_documentales_Documento_maestro_v4.md`).
 - Ejemplo completo y probado: `jobs/prueba03/job.json`.
 
 ## Flujo

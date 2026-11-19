@@ -44,12 +44,14 @@ Riesgo que queda: YouTube puede lanzar una reclamación automática de Content I
 |---|---|---|---|
 | 1 | Europeana | Manda la etiqueta de cada objeto (sin NC) | `"src": "europeana"` |
 | 2 | The Met Open Access | Solo CC0 o dominio público | `"src": "met"` |
-| 3 | Smithsonian Open Access | CC0 | `{"url": "...", "fuente": "smithsonian"}` |
-| 4 | Rijksmuseum | Dominio público o CC0 | `{"url": "...", "fuente": "rijksmuseum"}` |
+| 3 | Smithsonian Open Access | Solo medios CC0 (la búsqueda filtra) | `"src": "smithsonian"` (clave opcional `SMITHSONIAN_API_KEY`; sin ella, DEMO_KEY) |
+| 4 | Rijksmuseum | Solo dominio público y descargable (la búsqueda filtra; títulos a menudo en neerlandés) | `"src": "rijksmuseum"` |
 | 5 | Library of Congress Free to Use | Solo «No known restrictions» (la búsqueda filtra) | `"src": "loc"` |
 | — | Cleveland Museum of Art | CC0 | `"src": "cleveland"` |
 
-En `{"photo": "...", "src": "europeana,met,loc,commons"}` el orden de `src` es el orden de búsqueda.
+En `{"photo": "...", "src": "europeana,met,smithsonian,rijksmuseum,loc,commons"}` el orden de `src` es el orden de búsqueda.
+
+Fuentes automáticas confirmadas con una prueba real en GitHub (19-11-2026): NASA (foto y vídeo), Library of Congress, Smithsonian, Rijksmuseum y Mixkit Music. Para repetir la prueba o regenerar el catálogo de Mixkit: cambia `pruebas/fuentes.py` y mira la rama `out-pruebas`.
 
 ## 5. Mapas y satélite
 | # | Fuente | Condición | En job.json |
@@ -81,13 +83,13 @@ Orden automático de búsqueda de vídeo: `pixabay,pixabay_must,commons,archive`
 ## 8. Música (se elige antes del montaje)
 | # | Fuente | Condición | En job.json (`music` / `beds`) |
 |---|---|---|---|
-| 1 | **Mixkit Music (Free License)** | Por defecto. Sin crédito. No registrarla en Content ID, ni usarla en pistas solo musicales ni en TV/radio | `{"mixkit": "URL del mp3", "title": "..."}` |
+| 1 | **Mixkit Music (Free License)** | Por defecto. Sin crédito. No registrarla en Content ID, ni usarla en pistas solo musicales ni en TV/radio. **Búsqueda automática** en `fabrica/mixkit_catalogo.json` (822 pistas, licencia leída de la página de Mixkit) | `{"search": "dramatic suspense"}` (primero Mixkit) o `{"mixkit": "URL del mp3", "title": "..."}` |
 | 2 | **Scott Buckley (CC BY 4.0)** | Tono cinematográfico. Crédito en las dos descripciones desde la primera subida | `{"buckley": "URL del mp3", "title": "..."}` |
 | 3 | Incompetech (CC BY) | Crédito escrito + línea locutada al cierre de iVoox (`out/locucion_cierre.txt`) | `{"incompetech": "Título exacto"}` |
 | 4 | Biblioteca de audio de YouTube, solo pistas CC | Copia el texto del icono CC (va en `credit`) | `{"url": "...", "fuente": "youtube_cc", "credit": "texto completo del icono CC"}` |
 | ✕ | Biblioteca de YouTube, licencia estándar | Solo para piezas exclusivas de YouTube: **bloquea** el máster | `"fuente": "youtube_std"` |
 | ✕ | Pixabay Music | Último recurso (la fábrica avisa) | `"fuente": "pixabay_music"` |
-| — | Archive / Commons / Openverse / Freesound | Dominio público, CC0 o CC BY sin NC/ND/SA (ya integrado) | `{"search": "...", "src": "archive,commons,openverse,freesound"}` |
+| — | Commons / Freesound | Dominio público, CC0 o CC BY sin NC/ND/SA. Orden por defecto de `search`: `mixkit,commons,freesound` | `{"search": "...", "src": "mixkit,commons,freesound"}` |
 
 Las pistas sin ficha (`"tema": "https://..."` sin `fuente` ni `license`) bloquean la publicación; las de ElevenLabs no se revisan.
 

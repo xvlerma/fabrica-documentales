@@ -316,8 +316,9 @@ def loc_photos(q, n=10):
     for r in j.get('results', []):
         if 'no known restrictions' not in json.dumps(r).lower(): continue
         ims = [u.split('#')[0] for u in (r.get('image_url') or []) if u and re.search(r'\.(jpe?g)(#|$|\?)', u.lower()) and '/static/' not in u]
-        if not ims: continue
-        url = ims[-1] if ims[-1].startswith('http') else 'https:' + ims[-1]
+        big = [u for u in ims if not re.search(r'_\d{2,3}px\.jpe?g', u.lower())]  # descarta miniaturas (…_150px.jpg)
+        if not big: continue
+        url = big[-1] if big[-1].startswith('http') else 'https:' + big[-1]
         out.append(dict(kind='image', url=url, w=0, h=0, dur=0, thumb=url, credit='Library of Congress', license='No known restrictions (LoC)',
                         page=r.get('url') or r.get('id'), id='loc' + hashlib.sha1(str(r.get('id')).encode()).hexdigest()[:12], title=r.get('title', '')))
         if len(out) >= n: break

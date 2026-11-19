@@ -200,19 +200,19 @@ def candidates(spec, n=8, use_used=True):
             if SRC.relevant(c, MUST if ('video' in spec and not spec.get('free')) else []): out.append(c)
     if 'video' in spec:
         q = spec['video']
-        # orden de la lista master: Pexels (si hay PEXELS_API_KEY) → Pixabay → Commons → archivo; NASA si spec "src" la pide
-        V = dict(pexels=lambda: SRC.pexels_videos(q), pixabay=lambda: SRC.pixabay_videos(q),
+        # orden por defecto: Pixabay → Commons → archivo; NASA si spec "src" la pide. Pexels está prohibido (documento maestro)
+        V = dict(pixabay=lambda: SRC.pixabay_videos(q),
                  pixabay_must=lambda: SRC.pixabay_videos(q.split()[0] + ' ' + MUST[0]) if MUST and not spec.get('free') else [],
                  commons=lambda: SRC.commons_search(q, video=True), archive=lambda: SRC.archive_videos(q) if spec.get('old') else [],
                  nasa=lambda: SRC.nasa(q, video=True))
-        for fn in [V[s_.strip()] for s_ in spec.get('src', 'pexels,pixabay,pixabay_must,commons,archive').split(',') if s_.strip() in V]:
+        for fn in [V[s_.strip()] for s_ in spec.get('src', 'pixabay,pixabay_must,commons,archive').split(',') if s_.strip() in V]:
             try: add(fn())
             except Exception as e: log('  aviso fuente:', q, e)
             if len(out) >= n: break
     elif 'photo' in spec:
         q = spec['photo']; order = spec.get('src', 'cleveland,met,commons,europeana').split(',')
         F = dict(cleveland=lambda: SRC.cleveland(q), met=lambda: SRC.met(q), commons=lambda: SRC.commons_search(q), europeana=lambda: SRC.europeana(q),
-                 nasa=lambda: SRC.nasa(q), loc=lambda: SRC.loc_photos(q), pexels=lambda: SRC.pexels_photos(q))
+                 nasa=lambda: SRC.nasa(q), loc=lambda: SRC.loc_photos(q))
         for s_ in order:
             try: add(F[s_.strip()]())
             except Exception as e: log('  aviso fuente:', s_, q, e)

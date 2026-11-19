@@ -262,7 +262,7 @@ def music_search(q, src='archive,commons,openverse,freesound', n=8):
 
 # ---------- fuentes añadidas (lista master DocuVox, docs/RECURSOS.md) ----------
 def pexels_videos(q, n=15):
-    """Pexels (sin crédito obligatorio). Requiere PEXELS_API_KEY; sin clave devuelve []."""
+    """Pexels: PROHIBIDO en el documento maestro (vetado en modo seguro). Se conserva solo para el modo normal; sin PEXELS_API_KEY devuelve []."""
     key = os.environ.get('PEXELS_API_KEY')
     if not key: return []
     j = _json(f'https://api.pexels.com/videos/search?query={urllib.parse.quote(q)}&per_page={n}', {'Authorization': key})

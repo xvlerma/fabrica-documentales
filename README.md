@@ -17,7 +17,7 @@ El workflow solo arranca si cambia un `job.json`: para relanzar sin otros cambio
 - `fabrica/engine.py`: audio (voz al 96 %, pausas alargadas, camas, interludios, efectos, máster −16 LUFS), guion visual, casting, render por plano, montaje.
 - `fabrica/parallax.py`: cámara 2,5D con mapa de profundidad, tratamiento de película para recreaciones, cámara al hombro, cambio de foco, parpadeo de llama.
 - `fabrica/cards.py`: grafismo animado: title, ficha, quote, list, timeline, map, mapfly, scan, doc, board, counter, split, palabra clave y rótulo inferior.
-- `fabrica/sources.py`: Pixabay, Pexels, Wikimedia Commons, Internet Archive, Europeana, Cleveland, The Met, NASA, Library of Congress, Freesound, Openverse, Incompetech; fuentes por URL (Mixkit, Scott Buckley, BNE, Dareful, Coverr, ESO, Sonniss…); caché por id.
+- `fabrica/sources.py`: Pixabay, Wikimedia Commons, Internet Archive, Europeana, Cleveland, The Met, NASA, Library of Congress, Freesound, Openverse, Incompetech; fuentes por URL (Mixkit, Scott Buckley, BNE, Dareful, Coverr, ESO, Sonniss…); caché por id.
 - `fabrica/licencias.py`: registro de fuentes, bloqueos de licencia y créditos públicos para YouTube e iVoox (`docs/RECURSOS.md`).
 
-Secrets necesarios: `PIXABAY_API_KEY`, `FREESOUND_API_KEY`, `EUROPEANA_API_KEY`. Opcional: `PEXELS_API_KEY` (sin ella, Pexels se salta).
+Secrets necesarios: `PIXABAY_API_KEY`, `FREESOUND_API_KEY`, `EUROPEANA_API_KEY`.

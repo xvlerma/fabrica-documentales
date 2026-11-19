@@ -71,9 +71,9 @@ FUENTES = {
 }
 AUDIO_KINDS = ('música', 'sonido')
 # Modo seguro (por defecto; "seguro": false en job.json lo desactiva): solo fuentes con licencia comercial explícita.
-# Fuera siempre: Coverr (mezcla clips IA/premium), Pixabay Music y Openverse/ccMixter (riesgo de terceros), Biblioteca de YouTube estándar.
+# Fuera siempre: Coverr Pixabay Music y Openverse/ccMixter (riesgo de terceros), Biblioteca de YouTube estándar.
 # Cualquier aviso bloquea, salvo recursos manuales marcados "revisado": true tras comprobar su ficha.
-VETADAS_SEGURO = ('coverr', 'pixabay_music', 'openverse', 'youtube_std')
+VETADAS_SEGURO = ('pexels', 'coverr', 'pixabay_music', 'openverse', 'youtube_std')
 PROPIOS = ('ia', 'elevenlabs', 'docuvox', 'narrador')  # material propio: no va a los créditos públicos ni se revisa
 
 

@@ -4,7 +4,7 @@ Fuentes gratuitas, orden de uso y condición de cada una. El control automático
 
 ## Modo seguro (activado por defecto)
 La fábrica solo acepta fuentes con licencia comercial explícita del autor o de la institución. En modo seguro:
-- **Vetadas**: Coverr, Pixabay Music, Openverse/ccMixter, música y sonido de Internet Archive, Biblioteca de YouTube con licencia estándar, y cualquier licencia NC, ND o CompartirIgual (SA).
+- **Vetadas**: Pexels, Coverr, Jamendo, BBC SFX, Pixabay Music, Openverse/ccMixter, música y sonido de Internet Archive, Biblioteca de YouTube con licencia estándar, y cualquier licencia NC, ND o CompartirIgual (SA).
 - **Vídeo de Internet Archive** solo con dominio público explícito en la ficha.
 - **Cualquier aviso bloquea.** Un recurso manual con aviso (NASA por URL, por ejemplo) solo pasa si añades `"revisado": true` después de comprobar su ficha.
 - Incompetech bloquea si el cierre del guion no incluye la línea de `locucion_cierre.txt`.
@@ -70,14 +70,13 @@ En `{"photo": "...", "src": "europeana,met,loc,commons"}` el orden de `src` es e
 ## 7. Planos de apoyo y foto actual (solo relleno)
 | # | Fuente | Condición | En job.json |
 |---|---|---|---|
-| 1 | Pexels | Sin crédito. Cuidado con marcas y personas identificables | automático con `PEXELS_API_KEY` |
-| 2 | Coverr | Descarta los clips IA, premium y patrocinados (la fábrica avisa) | `{"url": "...", "fuente": "coverr"}` |
-| 3 | Mixkit Video | Solo Free License | `{"url": "...", "fuente": "mixkit_video"}` |
-| 4 | Pixabay | Para ampliar | automático |
-| 5 | Dareful | CC BY 4.0, con crédito | `{"url": "...", "fuente": "dareful", "title": "..."}` |
+| 1 | Pixabay | Sin crédito. Cuidado con marcas y personas identificables | automático |
+| 2 | Mixkit Video | Solo Free License | `{"url": "...", "fuente": "mixkit_video"}` |
+| 3 | Dareful | CC BY 4.0, con crédito | `{"url": "...", "fuente": "dareful", "title": "..."}` |
 | — | Unsplash | Foto fija | `{"url": "...", "fuente": "unsplash"}` |
+| ✕ | Pexels y Coverr | **Prohibidos** (documento maestro). Vetados en modo seguro | — |
 
-Orden automático de búsqueda de vídeo: `pexels,pixabay,pixabay_must,commons,archive` (cámbialo con `"src"`; añade `nasa` para espacio).
+Orden automático de búsqueda de vídeo: `pixabay,pixabay_must,commons,archive` (cámbialo con `"src"`; añade `nasa` para espacio).
 
 ## 8. Música (se elige antes del montaje)
 | # | Fuente | Condición | En job.json (`music` / `beds`) |

@@ -21,6 +21,7 @@ def _get(url, headers=None, tries=7):
         except Exception as e:
             if i == tries - 1: raise
             code = getattr(e, 'code', 0)
+            if code in (400, 401, 403, 404, 410, 424): raise
             time.sleep((15 * (i + 1)) if code == 429 else (2 + 3 * i))
 
 def _json(url, headers=None): return json.loads(_get(url, headers))
@@ -184,7 +185,7 @@ def openverse_images(q, n=12):
         if not r.get('url') or (r.get('width') or 0) < 1200: continue
         lic = 'CC0' if r.get('license') == 'cc0' else ('Public domain mark' if r.get('license') == 'pdm' else f"CC BY {r.get('license_version','')}".strip())
         out.append(dict(kind='image', url=r['url'], w=r.get('width', 0), h=r.get('height', 0), dur=0, title=r.get('title', '') or '',
-                        thumb=r.get('thumbnail'), credit=f"{(r.get('creator') or '')[:60]} / {r.get('source','')}", license=lic,
+                        thumb=None, credit=f"{(r.get('creator') or '')[:60]} / {r.get('source','')}", license=lic,
                         page=r.get('foreign_landing_url'), id='ovi' + r['id'], tags=' '.join(t.get('name', '') for t in (r.get('tags') or [])[:15])))
     return out
 

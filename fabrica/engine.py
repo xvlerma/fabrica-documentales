@@ -79,7 +79,7 @@ def music_file(v, credits, name=''):
         credits.append(('música', c)); p = fetch(c['url'], '.mp3')
     elif 'incompetech' in v: c = SRC.incompetech(v['incompetech']); credits.append(('música', c)); p = SRC.download(c['url'], '.mp3')
     elif 'search' in v:
-        cs = SRC.music_search(v['search'], v.get('src', 'archive,commons,openverse,freesound'), n=8)
+        cs = SRC.music_search(v['search'], v.get('src', 'mixkit,commons,freesound' if SRC.SEGURO else 'mixkit,archive,commons,openverse,freesound'), n=8)
         cs = [c for c in cs if not c.get('dur') or c['dur'] >= v.get('min_secs', 50)] or cs
         if not cs: raise LookupError(f'sin música libre para "{v["search"]}"')
         c = cs[min(v.get('pick', 0), len(cs) - 1)]; credits.append(('música', c)); p = SRC.download(c['url'], os.path.splitext(c['url'].split('?')[0])[1] or '.mp3')
@@ -212,7 +212,7 @@ def candidates(spec, n=8, use_used=True):
     elif 'photo' in spec:
         q = spec['photo']; order = spec.get('src', 'cleveland,met,commons,europeana').split(',')
         F = dict(cleveland=lambda: SRC.cleveland(q), met=lambda: SRC.met(q), commons=lambda: SRC.commons_search(q), europeana=lambda: SRC.europeana(q),
-                 nasa=lambda: SRC.nasa(q), loc=lambda: SRC.loc_photos(q))
+                 nasa=lambda: SRC.nasa(q), loc=lambda: SRC.loc_photos(q), smithsonian=lambda: SRC.smithsonian(q), rijksmuseum=lambda: SRC.rijksmuseum(q))
         for s_ in order:
             try: add(F[s_.strip()]())
             except Exception as e: log('  aviso fuente:', s_, q, e)
@@ -606,7 +606,7 @@ def cast_music(job, out_dir, F):
     tab = {}; rows = []
     for name, v in list(job.get('music', {}).items()) + list(job.get('beds', {}).items()):
         if not (isinstance(v, dict) and 'search' in v): continue
-        cs = SRC.music_search(v['search'], v.get('src', 'archive,commons,openverse,freesound'), n=8)
+        cs = SRC.music_search(v['search'], v.get('src', 'mixkit,commons,freesound' if SRC.SEGURO else 'mixkit,archive,commons,openverse,freesound'), n=8)
         cs = [c for c in cs if not c.get('dur') or c['dur'] >= v.get('min_secs', 50)] or cs
         tab[name] = cs[:12]
         for j, c in enumerate(cs[:12]):

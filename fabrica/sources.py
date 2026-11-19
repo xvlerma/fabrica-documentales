@@ -1,6 +1,6 @@
 """Búsqueda y descarga de material libre para uso comercial (YouTube monetizado).
 Cada función devuelve candidatos: dict(kind, url, w, h, dur, credit, license, page, id)."""
-import os, json, time, hashlib, urllib.parse, urllib.request
+import os, re, json, time, hashlib, urllib.parse, urllib.request
 
 UA = 'fabrica-documentales/1.0 (https://github.com/xvlerma/fabrica-documentales)'
 CACHE = os.environ.get('FABRICA_CACHE', '/tmp/fabrica_cache')
@@ -250,7 +250,7 @@ def incompetech(title):
                 credit='Kevin MacLeod (incompetech.com)', license='CC BY 4.0', page='https://incompetech.com/music/royalty-free/', id='inc' + title.replace(' ', '_'))
 
 MUSIC_SRC = dict(archive=archive_music, commons=commons_music, openverse=openverse_music, freesound=freesound_music)
-def music_search(q, src='archive,commons,openverse,freesound', n=8):
+def music_search(q, src='mixkit,commons,freesound', n=8):
     out = []
     for s_ in src.split(','):
         if SEGURO and s_.strip() in ('archive', 'openverse'): continue  # etiquetas de licencia puestas por quien sube: fuera en modo seguro
@@ -303,7 +303,8 @@ def nasa(q, video=False, n=10):
             if not url: continue
         else:
             url = f'https://images-assets.nasa.gov/image/{urllib.parse.quote(nid)}/{urllib.parse.quote(nid)}~large.jpg'
-        out.append(dict(kind=mt, url=url.replace('http://', 'https://'), w=0, h=0, dur=0, thumb=thumb, credit=f"NASA{(' / ' + d['center']) if d.get('center') else ''}",
+        url = urllib.parse.quote(url.replace('http://', 'https://'), safe=':/~%@?=&')
+        out.append(dict(kind=mt, url=url, w=0, h=0, dur=0, thumb=thumb, credit=f"NASA{(' / ' + d['center']) if d.get('center') else ''}",
                         license='NASA (dominio público)', page=f'https://images.nasa.gov/details/{urllib.parse.quote(nid)}', id='nasa' + nid,
                         title=d.get('title', ''), tags=' '.join(d.get('keywords') or [])))
     return out
@@ -314,7 +315,7 @@ def loc_photos(q, n=10):
     out = []
     for r in j.get('results', []):
         if 'no known restrictions' not in json.dumps(r).lower(): continue
-        ims = [u.split('#')[0] for u in (r.get('image_url') or []) if u]
+        ims = [u.split('#')[0] for u in (r.get('image_url') or []) if u and re.search(r'\.(jpe?g)(#|$|\?)', u.lower()) and '/static/' not in u]
         if not ims: continue
         url = ims[-1] if ims[-1].startswith('http') else 'https:' + ims[-1]
         out.append(dict(kind='image', url=url, w=0, h=0, dur=0, thumb=url, credit='Library of Congress', license='No known restrictions (LoC)',
@@ -335,3 +336,87 @@ def manual(v, kind):
 
 def mixkit_music(url, title=''): return manual(dict(url=url, fuente='mixkit_music', title=title), 'audio')
 def buckley(url, title=''): return manual(dict(url=url, fuente='buckley', title=title), 'audio')
+
+def smithsonian(q, n=10):
+    """Smithsonian Open Access: solo medios marcados CC0. Clave SMITHSONIAN_API_KEY (api.data.gov) o DEMO_KEY."""
+    k = os.environ.get('SMITHSONIAN_API_KEY') or 'DEMO_KEY'
+    j = _json(f'https://api.si.edu/openaccess/api/v1.0/search?q={urllib.parse.quote(q + " AND online_media_type:Images")}&rows={n * 2}&api_key={k}')
+    out = []
+    for r in (j.get('response') or {}).get('rows', []):
+        c = r.get('content') or {}; dn = c.get('descriptiveNonRepeating') or {}
+        media = ((dn.get('online_media') or {}).get('media') or [])
+        m = next((m for m in media if (m.get('usage') or {}).get('access') == 'CC0' and m.get('type', 'Images') == 'Images' and m.get('content')), None)
+        if not m: continue
+        url = m['content'] + ('&max=1920' if 'deliveryService' in m['content'] and 'max=' not in m['content'] else '')
+        out.append(dict(kind='image', url=url, w=0, h=0, dur=0, thumb=m.get('thumbnail'), credit=f"Smithsonian / {dn.get('data_source') or r.get('unitCode', '')}",
+                        license='CC0', page=dn.get('record_link') or f"https://collections.si.edu/search/detail/{r.get('url', '')}", id='si' + str(r.get('id')), title=r.get('title', '')))
+        if len(out) >= n: break
+    return out
+
+def _ld(url): return _json(url, {'Accept': 'application/ld+json'})
+def rijksmuseum(q, n=8):
+    """Rijksmuseum (API abierta, sin clave): objetos con imagen descargable y dominio público."""
+    j = _json(f'https://data.rijksmuseum.nl/search/collection?title={urllib.parse.quote(q)}&imageAvailable=true')
+    out = []
+    for it in (j.get('orderedItems') or [])[:n * 2]:
+        try:
+            o = _ld(it['id']); txt = json.dumps(o).lower()
+            names = [x for x in o.get('identified_by', []) if x.get('type') == 'Name' and x.get('content')]
+            en = [x['content'] for x in names if 'english' in json.dumps(x.get('language', [])).lower()]
+            title = (en or [x['content'] for x in names] or [''])[0]
+            for v in (o.get('shows') or [])[:1]:
+                vj = _ld(v['id']); vt = json.dumps(vj).lower()
+                if not any(x in txt + vt for x in ('publicdomain', 'public domain', 'creativecommons.org/publicdomain/zero')): continue
+                for d in (vj.get('digitally_shown_by') or [])[:1]:
+                    dj = _ld(d['id']); ap = (dj.get('access_point') or [{}])[0].get('id')
+                    if not ap or 'downloadbaar' not in json.dumps(dj).lower(): continue
+                    url = ap.replace('/full/max/', '/full/1920,/') if '/full/max/' in ap else ap
+                    out.append(dict(kind='image', url=url, w=0, h=0, dur=0, thumb=ap.replace('/full/max/', '/full/400,/'), credit='Rijksmuseum',
+                                    license='Dominio público (Rijksmuseum)', page=it['id'], id='rijks' + it['id'].rsplit('/', 1)[-1], title=title))
+        except Exception: continue
+        if len(out) >= n: break
+    return out
+
+# ---------- Mixkit Music: catálogo verificado (licencia leída de la propia página) ----------
+MIXKIT_CAT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'mixkit_catalogo.json')
+def _iso_secs(d):
+    m = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', d or '')
+    return (int(m.group(1) or 0) * 3600 + int(m.group(2) or 0) * 60 + int(m.group(3) or 0)) if m else 0
+
+def mixkit_catalog_build(paginas=None):
+    """Recorre las páginas de ambientes y etiquetas de Mixkit y guarda solo pistas con «Mixkit Stock Music Free License»."""
+    base = 'https://mixkit.co/free-stock-music/'
+    home = _get(base).decode('utf-8', 'replace')
+    paginas = paginas or sorted(set(re.findall(r'/free-stock-music/(?:mood|tag|genre)/[a-z0-9-]+/', home)))
+    cat = {}
+    for pth in paginas:
+        try: t = _get('https://mixkit.co' + pth).decode('utf-8', 'replace')
+        except Exception: continue
+        grupo = pth.strip('/').split('/')[-1]
+        for blob in re.findall(r'<script type="application/ld\+json">(.*?)</script>', t, re.S):
+            try: data = json.loads(blob)
+            except Exception: continue
+            for node in (data.get('@graph') if isinstance(data, dict) and '@graph' in data else [data]):
+                for el in (node.get('itemListElement') or []) if isinstance(node, dict) else []:
+                    if el.get('@type') != 'MusicRecording' or el.get('copyrightNotice') != 'Mixkit Stock Music Free License': continue
+                    u = el.get('url', '')
+                    if not re.match(r'https://assets\.mixkit\.co/music/\d+/\d+\.mp3$', u): continue
+                    tid = u.rsplit('/', 1)[-1][:-4]
+                    e = cat.setdefault(tid, dict(id='mix' + tid, url=u, title=el.get('name', ''), artist=el.get('byArtist', ''), genre=el.get('genre', ''),
+                                                 dur=_iso_secs(el.get('duration')), license='Mixkit Stock Music Free License', grupos=[], page='https://mixkit.co' + pth))
+                    if grupo not in e['grupos']: e['grupos'].append(grupo)
+        time.sleep(0.5)
+    return sorted(cat.values(), key=lambda e: int(e['id'][3:]))
+
+def mixkit_search(q, n=10):
+    """Busca en el catálogo verificado por ambiente, etiqueta, género o título (palabras en inglés: dramatic, epic, suspense…)."""
+    try: cat = json.load(open(MIXKIT_CAT))
+    except Exception: return []
+    ws = [w for w in re.split(r'[\s,]+', q.lower()) if w]
+    def score(e):
+        txt = ' '.join([' '.join(e['grupos']), e['genre'], e['title']]).lower()
+        return sum(3 if w in e['grupos'] else 1 for w in ws if w in txt)
+    res = sorted([e for e in cat if score(e)], key=lambda e: (-score(e), -e['dur']))[:n]
+    return [dict(kind='audio', url=e['url'], dur=e['dur'], title=e['title'], credit=f"{e['artist']} / Mixkit", license=e['license'],
+                 page=e['page'], id=e['id'], fuente='mixkit_music', tags=' '.join(e['grupos'] + [e['genre']])) for e in res]
+MUSIC_SRC['mixkit'] = mixkit_search

@@ -150,6 +150,9 @@ for grp in [['orlov', 'orlov_c'], ['negrin', 'negrin_l', 'negrin38', 'negrin_sp'
             ['gob_largo', 'gob4', 'giral', 'giral2', 'gov_bcn'], ['nin', 'nin_m', 'contin', 'cnt', 'blindado']]:
     for k in grp: ALT.setdefault(P[k], [P[x] for x in grp if x != k])
 AIALT = ['convoy', 'drivers', 'crates', 'loading', 'blackstone', 'train', 'counting', 'coins road']
+# sin escenas IA (decisión del creador, 19-11-2026): cada escena pasa a foto de archivo real
+SIN_IA = {'convoy': 'cart36', 'drivers': 't26ter', 'crates': 'bars_dawson', 'loading': 'chart', 'blackstone': 'arsenal',
+          'train': 'odessa30', 'counting': 'sacks', 'coins road': 'sacks2'}
 _CNT = {}
 def resolve(q, AI):
     k = FIX.get(q)
@@ -157,5 +160,6 @@ def resolve(q, AI):
     if k in ROT:
         i = _CNT.get(k, 0); _CNT[k] = i + 1; k = ROT[k][i % len(ROT[k])]
     if k.startswith('@'):
-        return dict(ai=AI[k[1:]]) if AI.get(k[1:]) else None
+        if AI.get(k[1:]): return dict(ai=AI[k[1:]])
+        k = SIN_IA[k[1:]]
     return dict(commons='File:' + P[k])

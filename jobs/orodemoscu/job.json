@@ -126,7 +126,7 @@
  "seed": 1936,
  "qpicks": {},
  "picks": {},
- "rev": 2,
+ "rev": 3,
  "units": [
   {
    "k": "B",
@@ -581,7 +581,7 @@
      "at": "Pablo Martín Aceña"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/3993acec-fa18-42e2-b888-c1f8ce0448df.jpg",
+     "commons": "File:Gold bars stacked in a pyramid, Dawson, probably between 1902 and 1910 (AL+CA 1405).jpg",
      "at": "caja a caja"
     }
    ],
@@ -777,7 +777,7 @@
      ]
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/3993acec-fa18-42e2-b888-c1f8ce0448df.jpg",
+     "commons": "File:Gold bars stacked in a pyramid, Dawson, probably between 1902 and 1910 (AL+CA 1405).jpg",
      "at": "aviones cargados"
     },
     {
@@ -955,7 +955,7 @@
    "voice": "DER",
    "shots": [
     {
-     "ai": "https://www.figma.com/api/mcp/asset/7da8a42a-5c30-4381-a3af-85604300218a.jpg",
+     "commons": "File:Admiralty Chart No 2434 Cartagena Harbour, Published 1856, Large Corrections 1930.jpg",
      "at": "intermediarios"
     },
     {
@@ -1146,7 +1146,7 @@
    "voice": "DER",
    "shots": [
     {
-     "ai": "https://www.figma.com/api/mcp/asset/2e8bb03b-6d95-49d1-8242-5fe58d73b7e9.jpg",
+     "commons": "File:AG-1930-1932-Odesa.jpg",
      "at": "camiones y trenes"
     },
     {
@@ -1826,11 +1826,11 @@
    "voice": "DER",
    "shots": [
     {
-     "ai": "https://www.figma.com/api/mcp/asset/08558371-5088-4bb7-9099-7086a0cf1267.jpg",
+     "commons": "File:Cartagena 16.06.1936.jpg",
      "at": "veintidós de octubre"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/7107a8f1-d9fa-4b69-b074-4d5e020e4d65.jpg",
+     "commons": "File:T26batallateruel.jpg",
      "at": "una columna de camiones"
     }
    ],
@@ -1862,7 +1862,7 @@
    "voice": "DER",
    "shots": [
     {
-     "ai": "https://www.figma.com/api/mcp/asset/08558371-5088-4bb7-9099-7086a0cf1267.jpg",
+     "commons": "File:Cartagena 16.06.1936.jpg",
      "at": "Cartagena, veintidós",
      "lt": [
       "Cartagena",
@@ -1870,7 +1870,7 @@
      ]
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/08558371-5088-4bb7-9099-7086a0cf1267.jpg",
+     "commons": "File:Alfonso XIII Arsenal Cartagena.jpg",
      "at": "veinte camiones"
     },
     {
@@ -1930,7 +1930,7 @@
    "voice": "IZQ",
    "shots": [
     {
-     "ai": "https://www.figma.com/api/mcp/asset/7107a8f1-d9fa-4b69-b074-4d5e020e4d65.jpg",
+     "commons": "File:T26batallateruel.jpg",
      "at": "tanquistas soviéticos"
     },
     {
@@ -1955,7 +1955,7 @@
      ]
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/3993acec-fa18-42e2-b888-c1f8ce0448df.jpg",
+     "commons": "File:Gold bars stacked in a pyramid, Dawson, probably between 1902 and 1910 (AL+CA 1405).jpg",
      "at": "miles de cajas"
     },
     {
@@ -1972,7 +1972,7 @@
    "voice": "IZQ",
    "shots": [
     {
-     "ai": "https://www.figma.com/api/mcp/asset/7da8a42a-5c30-4381-a3af-85604300218a.jpg",
+     "commons": "File:Admiralty Chart No 2434 Cartagena Harbour, Published 1856, Large Corrections 1930.jpg",
      "at": "cargan las cajas"
     },
     {
@@ -2006,7 +2006,7 @@
      "at": "alarma aérea"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/23412eca-23cf-4529-aebb-98bb2fb6f2bc.jpg",
+     "commons": "File:Photograph of sacks of coins - NARA - 296600.jpg",
      "at": "a la vista de todos"
     }
    ],
@@ -2024,7 +2024,7 @@
    "voice": "DER",
    "shots": [
     {
-     "ai": "https://www.figma.com/api/mcp/asset/7da8a42a-5c30-4381-a3af-85604300218a.jpg",
+     "commons": "File:Cartagena 16.06.1936.jpg",
      "at": "Cuatro buques soviéticos"
     },
     {
@@ -2129,14 +2129,14 @@
      "at": "El acta que firmaron"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/acbddb4e-9cec-40de-a809-5f7d84c1c80d.jpg",
+     "commons": "File:Alfonso XIII Arsenal Cartagena.jpg",
      "at": "no existe",
      "kw": "SIN RECIBO EN CARTAGENA",
      "kw_at": 0.4,
      "kw_dur": 2.2
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/08558371-5088-4bb7-9099-7086a0cf1267.jpg",
+     "commons": "File:Cartagena 16.06.1936.jpg",
      "at": "retrata"
     }
    ],
@@ -2149,18 +2149,18 @@
    "voice": "DER",
    "shots": [
     {
-     "ai": "https://www.figma.com/api/mcp/asset/acbddb4e-9cec-40de-a809-5f7d84c1c80d.jpg",
+     "commons": "File:Alfonso XIII Arsenal Cartagena.jpg",
      "at": "un nombre falso"
     },
     {
-     "commons": "File:Alfonso XIII Arsenal Cartagena.jpg",
+     "commons": "File:Cartagena 16.06.1936.jpg",
      "at": "Blackstone",
      "kw": "«MR. BLACKSTONE»",
      "kw_at": 0.4,
      "kw_dur": 2.2
     },
     {
-     "commons": "File:Cartagena 16.06.1936.jpg",
+     "commons": "File:La Algameca Chica.jpg",
      "at": "quién"
     }
    ],
@@ -2174,11 +2174,11 @@
    "voice": "IZQ",
    "shots": [
     {
-     "ai": "https://www.figma.com/api/mcp/asset/acbddb4e-9cec-40de-a809-5f7d84c1c80d.jpg",
+     "commons": "File:Alfonso XIII Arsenal Cartagena.jpg",
      "at": "espías de los dos bandos"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/7107a8f1-d9fa-4b69-b074-4d5e020e4d65.jpg",
+     "commons": "File:Admiralty Chart No 2434 Cartagena Harbour, Published 1856, Large Corrections 1930.jpg",
      "at": "pretendía"
     },
     {
@@ -2207,7 +2207,7 @@
      "at": "llaves"
     },
     {
-     "commons": "File:Cartagena 16.06.1936.jpg",
+     "commons": "File:Odessa port 1931.jpg",
      "at": "Su viaje"
     }
    ],
@@ -2359,7 +2359,7 @@
      "at": "En el puerto espera"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/2e8bb03b-6d95-49d1-8242-5fe58d73b7e9.jpg",
+     "commons": "File:AG-1930-1932-Odesa.jpg",
      "at": "un tren especial"
     }
    ],
@@ -2416,11 +2416,11 @@
      "at": "cruza Ucrania"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/2e8bb03b-6d95-49d1-8242-5fe58d73b7e9.jpg",
+     "commons": "File:AG-1930-1932-Odesa.jpg",
      "at": "escolta armada"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/3993acec-fa18-42e2-b888-c1f8ce0448df.jpg",
+     "commons": "File:Italian cruiser Pola c. 1930s.jpg",
      "at": "España"
     }
    ],
@@ -2589,7 +2589,7 @@
      ]
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/da071b7b-0fc5-4851-8893-41d9dbb21440.jpg",
+     "commons": "File:Photograph of sacks of coins - NARA - 296610.jpg",
      "at": "Moneda a moneda"
     }
    ],
@@ -2627,11 +2627,11 @@
      "at": "tres meses"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/da071b7b-0fc5-4851-8893-41d9dbb21440.jpg",
+     "commons": "File:Photograph of sacks of coins - NARA - 296610.jpg",
      "at": "Se pesó"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/7da8a42a-5c30-4381-a3af-85604300218a.jpg",
+     "commons": "File:Gold bullion bars.jpg",
      "at": "saqueo"
     }
    ],
@@ -2843,11 +2843,11 @@
    "voice": "DER",
    "shots": [
     {
-     "commons": "File:Odessa port 1931.jpg",
+     "commons": "File:Admiralty Chart No 2434 Cartagena Harbour, Published 1856, Large Corrections 1930.jpg",
      "at": "quinientas diez toneladas"
     },
     {
-     "commons": "File:AG-1930-1932-Odesa.jpg",
+     "commons": "File:Alfonso XIII Arsenal Cartagena.jpg",
      "at": "febrero"
     },
     {
@@ -3121,11 +3121,11 @@
    "voice": "IZQ",
    "shots": [
     {
-     "ai": "https://www.figma.com/api/mcp/asset/7da8a42a-5c30-4381-a3af-85604300218a.jpg",
+     "commons": "File:Admiralty Chart No 2434 Cartagena Harbour, Published 1856, Large Corrections 1930.jpg",
      "at": "Texaco"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/2e8bb03b-6d95-49d1-8242-5fe58d73b7e9.jpg",
+     "commons": "File:La Algameca Chica.jpg",
      "at": "guerra"
     },
     {
@@ -3136,7 +3136,7 @@
      "kw_dur": 2.2
     },
     {
-     "commons": "File:La Algameca Chica.jpg",
+     "commons": "File:La Algameca Chica (20200524 083703).jpg",
      "at": "argumento"
     }
    ],
@@ -4185,7 +4185,7 @@
      ]
     },
     {
-     "commons": "File:La Algameca Chica (20200524 083703).jpg",
+     "commons": "File:Admiralty Chart No 2434 Cartagena Harbour, Published 1856, Large Corrections 1930.jpg",
      "at": "orden"
     },
     {
@@ -4271,15 +4271,15 @@
    "voice": "DER",
    "shots": [
     {
-     "ai": "https://www.figma.com/api/mcp/asset/acbddb4e-9cec-40de-a809-5f7d84c1c80d.jpg",
+     "commons": "File:Alfonso XIII Arsenal Cartagena.jpg",
      "at": "un recibo en Cartagena"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/da071b7b-0fc5-4851-8893-41d9dbb21440.jpg",
+     "commons": "File:La Algameca Chica.jpg",
      "at": "gramo"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/3993acec-fa18-42e2-b888-c1f8ce0448df.jpg",
+     "commons": "File:Gold bars stacked in a pyramid, Dawson, probably between 1902 and 1910 (AL+CA 1405).jpg",
      "at": "nadie",
      "kw": "NADIE",
      "kw_at": 0.4,
@@ -4379,7 +4379,7 @@
      "at": "puede pedir lo que quiera"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/7da8a42a-5c30-4381-a3af-85604300218a.jpg",
+     "commons": "File:Admiralty Chart No 2434 Cartagena Harbour, Published 1856, Large Corrections 1930.jpg",
      "at": "Lo entregó un Gobierno"
     }
    ],
@@ -4392,7 +4392,7 @@
    "voice": "DER",
    "shots": [
     {
-     "commons": "File:Admiralty Chart No 2434 Cartagena Harbour, Published 1856, Large Corrections 1930.jpg",
+     "commons": "File:AG-1930-1932-Odesa.jpg",
      "at": "Siete mil ochocientas cajas"
     },
     {

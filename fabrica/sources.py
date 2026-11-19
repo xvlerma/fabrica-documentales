@@ -252,3 +252,78 @@ def music_search(q, src='archive,commons,openverse,freesound', n=8):
         try: out += [c for c in fn(q, n) if c['id'] not in {x['id'] for x in out}]
         except Exception as e: print('aviso música', s_, e, flush=True)
     return out
+
+# ---------- fuentes añadidas (lista master DocuVox, docs/RECURSOS.md) ----------
+def pexels_videos(q, n=15):
+    """Pexels (sin crédito obligatorio). Requiere PEXELS_API_KEY; sin clave devuelve []."""
+    key = os.environ.get('PEXELS_API_KEY')
+    if not key: return []
+    j = _json(f'https://api.pexels.com/videos/search?query={urllib.parse.quote(q)}&per_page={n}', {'Authorization': key})
+    out = []
+    for v in j.get('videos', []):
+        fs = [f for f in v.get('video_files', []) if f.get('file_type') == 'video/mp4' and f.get('link')]
+        if not fs: continue
+        f = sorted(fs, key=lambda f: (abs((f.get('width') or 0) - 1920), -(f.get('width') or 0)))[0]
+        out.append(dict(kind='video', url=f['link'], w=f.get('width') or 0, h=f.get('height') or 0, dur=v.get('duration', 0), thumb=v.get('image'),
+                        credit=f"{(v.get('user') or {}).get('name','')} / Pexels", license='Pexels License', page=v.get('url'), id=f"pex{v['id']}",
+                        tags=str(v.get('url', '')).rstrip('/').split('/')[-1].replace('-', ' ')))
+    return out
+
+def pexels_photos(q, n=15):
+    key = os.environ.get('PEXELS_API_KEY')
+    if not key: return []
+    j = _json(f'https://api.pexels.com/v1/search?query={urllib.parse.quote(q)}&per_page={n}', {'Authorization': key})
+    return [dict(kind='image', url=(p.get('src') or {}).get('large2x') or (p.get('src') or {}).get('original'), w=p.get('width', 0), h=p.get('height', 0), dur=0,
+                 thumb=(p.get('src') or {}).get('medium'), credit=f"{p.get('photographer','')} / Pexels", license='Pexels License', page=p.get('url'),
+                 id=f"pexp{p['id']}", title=p.get('alt', ''), tags=p.get('alt', '')) for p in j.get('photos', []) if p.get('src')]
+
+def nasa(q, video=False, n=10):
+    """NASA Image and Video Library (mayoritariamente dominio público; el material de terceros va marcado en la ficha)."""
+    mt = 'video' if video else 'image'
+    j = _json(f'https://images-api.nasa.gov/search?q={urllib.parse.quote(q)}&media_type={mt}&page_size={n}')
+    out = []
+    for it in (j.get('collection') or {}).get('items', [])[:n]:
+        d = (it.get('data') or [{}])[0]; nid = d.get('nasa_id')
+        if not nid: continue
+        desc = (d.get('description') or '').lower()
+        if any(x in desc for x in ('courtesy of', '©', 'copyright', 'getty', 'reuters', 'associated press')): continue  # material de terceros
+        thumb = next((l.get('href') for l in it.get('links', []) if l.get('href')), None)
+        if video:
+            try: hrefs = [x['href'] for x in (_json(f'https://images-api.nasa.gov/asset/{urllib.parse.quote(nid)}').get('collection') or {}).get('items', [])]
+            except Exception: continue
+            mp4 = [h for h in hrefs if h.endswith('.mp4')]
+            url = next((h for k in ('~large.mp4', '~medium.mp4', '~orig.mp4') for h in mp4 if h.endswith(k)), mp4[0] if mp4 else None)
+            if not url: continue
+        else:
+            url = f'https://images-assets.nasa.gov/image/{urllib.parse.quote(nid)}/{urllib.parse.quote(nid)}~large.jpg'
+        out.append(dict(kind=mt, url=url.replace('http://', 'https://'), w=0, h=0, dur=0, thumb=thumb, credit=f"NASA{(' / ' + d['center']) if d.get('center') else ''}",
+                        license='NASA (dominio público)', page=f'https://images.nasa.gov/details/{urllib.parse.quote(nid)}', id='nasa' + nid,
+                        title=d.get('title', ''), tags=' '.join(d.get('keywords') or [])))
+    return out
+
+def loc_photos(q, n=10):
+    """Library of Congress: solo registros marcados «No known restrictions»."""
+    j = _json(f'https://www.loc.gov/photos/?q={urllib.parse.quote(q)}&fo=json&c={n * 3}')
+    out = []
+    for r in j.get('results', []):
+        if 'no known restrictions' not in json.dumps(r).lower(): continue
+        ims = [u.split('#')[0] for u in (r.get('image_url') or []) if u]
+        if not ims: continue
+        url = ims[-1] if ims[-1].startswith('http') else 'https:' + ims[-1]
+        out.append(dict(kind='image', url=url, w=0, h=0, dur=0, thumb=url, credit='Library of Congress', license='No known restrictions (LoC)',
+                        page=r.get('url') or r.get('id'), id='loc' + hashlib.sha1(str(r.get('id')).encode()).hexdigest()[:12], title=r.get('title', '')))
+        if len(out) >= n: break
+    return out
+
+# Fuentes sin API: se usan por URL en job.json con su nombre de fuente (licencias.py pone licencia y crédito).
+def manual(v, kind):
+    """{"url": ..., "fuente": "mixkit_music|buckley|bne|dareful|coverr|sonniss|zapsplat|eso|...", "title", "page", "credit"}"""
+    from licencias import FUENTES
+    f = FUENTES.get(v.get('fuente', ''), {})
+    title = v.get('title', '')
+    credit = v.get('credit') or (f.get('credito', '').format(title=title or 'Pista') if f.get('credito') else f.get('nombre', v.get('fuente', '')))
+    return dict(kind=kind, url=v['url'], w=0, h=0, dur=0, title=title, credit=credit, license=v.get('license') or f.get('licencia', ''),
+                page=v.get('page') or v['url'], id=v.get('fuente', 'man') + hashlib.sha1(v['url'].encode()).hexdigest()[:12], fuente=v.get('fuente'))
+
+def mixkit_music(url, title=''): return manual(dict(url=url, fuente='mixkit_music', title=title), 'audio')
+def buckley(url, title=''): return manual(dict(url=url, fuente='buckley', title=title), 'audio')

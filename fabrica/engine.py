@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor
 import numpy as np, librosa, soundfile as sf
 from PIL import Image, ImageFilter, ImageEnhance
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import sources as SRC, cards as CARDS, parallax as PX, align as AL
+import sources as SRC, cards as CARDS, parallax as PX, align as AL, licencias as LIC
 
 SR, FPS, W, H = 44100, 25, 1920, 1080
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -66,9 +66,17 @@ def sfx_file(q, credits):
 
 MUSIC_PATHS = {}
 def music_file(v, credits, name=''):
-    """Pista de música: URL o ruta, {"url", "credit", "license", "page"}, {"incompetech": "Título"}
+    """Pista de música: URL o ruta, {"url", "credit", "license", "page"}, {"incompetech": "Título"},
+    {"mixkit": url, "title"}, {"buckley": url, "title"}, {"url", "fuente": "<fuente de licencias.py>", "title"}
     o {"search": "...", "src": "archive,commons,openverse,freesound", "pick": n}."""
-    if isinstance(v, str): p = fetch(v, '.mp3')
+    if isinstance(v, str):
+        p = fetch(v, '.mp3')
+        if 'elevenlabs' not in v:  # pista sin ficha: el control de licencias la marca (usa la forma {"url", "fuente"})
+            credits.append(('música', dict(id=v, url=v, page=v, credit='', license='' if v.startswith('http') else 'pista local sin ficha')))
+    elif 'mixkit' in v or 'buckley' in v or ('url' in v and v.get('fuente')):
+        c = SRC.mixkit_music(v['mixkit'], v.get('title', '')) if 'mixkit' in v else SRC.buckley(v['buckley'], v.get('title', '')) if 'buckley' in v else SRC.manual(v, 'audio')
+        if v.get('page'): c['page'] = v['page']
+        credits.append(('música', c)); p = fetch(c['url'], '.mp3')
     elif 'incompetech' in v: c = SRC.incompetech(v['incompetech']); credits.append(('música', c)); p = SRC.download(c['url'], '.mp3')
     elif 'search' in v:
         cs = SRC.music_search(v['search'], v.get('src', 'archive,commons,openverse,freesound'), n=8)
@@ -77,7 +85,8 @@ def music_file(v, credits, name=''):
         c = cs[min(v.get('pick', 0), len(cs) - 1)]; credits.append(('música', c)); p = SRC.download(c['url'], os.path.splitext(c['url'].split('?')[0])[1] or '.mp3')
     else:
         p = fetch(v['url'], '.mp3')
-        if v.get('credit'): credits.append(('música', dict(id=v['url'], credit=v['credit'], license=v.get('license', ''), page=v.get('page', v['url']))))
+        if 'elevenlabs' not in v['url']:
+            credits.append(('música', dict(id=v['url'], url=v['url'], title=v.get('title', ''), credit=v.get('credit', ''), license=v.get('license', ''), page=v.get('page', v['url']))))
     if v.__class__ is dict and v.get('start'):  # recorte de una pieza larga (segundos)
         q = p + f'.{v["start"]}_{v.get("secs", 0)}.wav'
         if not os.path.exists(q): sh(['ffmpeg', '-loglevel', 'error', '-y', '-ss', str(v['start']), *(['-t', str(v['secs'])] if v.get('secs') else []), '-i', p, '-ar', str(SR), q])
@@ -191,14 +200,19 @@ def candidates(spec, n=8, use_used=True):
             if SRC.relevant(c, MUST if ('video' in spec and not spec.get('free')) else []): out.append(c)
     if 'video' in spec:
         q = spec['video']
-        for fn in (lambda: SRC.pixabay_videos(q), lambda: SRC.pixabay_videos(q.split()[0] + ' ' + MUST[0]) if MUST and not spec.get('free') else [],
-                   lambda: SRC.commons_search(q, video=True), lambda: SRC.archive_videos(q) if spec.get('old') else []):
+        # orden de la lista master: Pexels (si hay PEXELS_API_KEY) → Pixabay → Commons → archivo; NASA si spec "src" la pide
+        V = dict(pexels=lambda: SRC.pexels_videos(q), pixabay=lambda: SRC.pixabay_videos(q),
+                 pixabay_must=lambda: SRC.pixabay_videos(q.split()[0] + ' ' + MUST[0]) if MUST and not spec.get('free') else [],
+                 commons=lambda: SRC.commons_search(q, video=True), archive=lambda: SRC.archive_videos(q) if spec.get('old') else [],
+                 nasa=lambda: SRC.nasa(q, video=True))
+        for fn in [V[s_.strip()] for s_ in spec.get('src', 'pexels,pixabay,pixabay_must,commons,archive').split(',') if s_.strip() in V]:
             try: add(fn())
             except Exception as e: log('  aviso fuente:', q, e)
             if len(out) >= n: break
     elif 'photo' in spec:
         q = spec['photo']; order = spec.get('src', 'cleveland,met,commons,europeana').split(',')
-        F = dict(cleveland=lambda: SRC.cleveland(q), met=lambda: SRC.met(q), commons=lambda: SRC.commons_search(q), europeana=lambda: SRC.europeana(q))
+        F = dict(cleveland=lambda: SRC.cleveland(q), met=lambda: SRC.met(q), commons=lambda: SRC.commons_search(q), europeana=lambda: SRC.europeana(q),
+                 nasa=lambda: SRC.nasa(q), loc=lambda: SRC.loc_photos(q), pexels=lambda: SRC.pexels_photos(q))
         for s_ in order:
             try: add(F[s_.strip()]())
             except Exception as e: log('  aviso fuente:', s_, q, e)
@@ -233,6 +247,11 @@ def resolve(spec, need, credits, pick=None, t=0.0):
     if 'ai' in spec: return dict(kind='image', path=fetch(spec['ai'], '.jpg'), ai=True, move=spec.get('move'))
     if 'image' in spec: return dict(kind='image', path=fetch(spec['image'], '.jpg'), move=spec.get('move'))
     if 'file' in spec: p = fetch(spec['file']); return dict(kind='video' if p.endswith(('.mp4', '.webm', '.mov')) else 'image', path=p)
+    if 'bne' in spec or ('url' in spec and spec.get('fuente')):
+        v = dict(spec, url=spec['bne'], fuente='bne') if 'bne' in spec else spec
+        kind = 'video' if v['url'].split('?')[0].lower().endswith(('.mp4', '.webm', '.mov')) else 'image'
+        c = SRC.manual(v, kind); credits.append(('vídeo' if kind == 'video' else 'archivo', c))
+        return dict(kind=kind, path=fetch(c['url'], '.mp4' if kind == 'video' else '.jpg'), dur=0, move=spec.get('move'))
     if 'commons' in spec:
         c = SRC.commons_file(spec['commons']); credits.append(('archivo', c))
         return dict(kind=c['kind'], path=SRC.download(c['url']), dur=c['dur'], move=spec.get('move'))
@@ -625,6 +644,9 @@ def run(job_dir):
     if br.get('mosca', True): BRAND['mosca'] = os.path.join(ROOT, 'assets/brand/DocuVox_Mosca_1920x1080_alfa.png')
     log('== 1/5 audio: colocando voces, música y efectos')
     A = build_audio(job, U); credits += A['credits']
+    _, bq, _ = LIC.revisa(A['credits'], job)
+    for b in bq: log('  ! licencia música:', b)
+    if bq and job.get('licencias') == 'estricto' and job.get('stage') != 'cast': raise RuntimeError('licencias: ' + '; '.join(bq))
     align_audio(job, U, A, job_dir, out_dir)
     BANDO.clear(); BANDO.update({k: tuple(v) for k, v in job.get('bando', {}).items()}); REUSE.update(job.get('reuse', {}))
     log('== 2/5 guion visual'); shots = build_edl_sync(job, U, A) if job.get('align') else build_edl(job, U, A)
@@ -763,6 +785,9 @@ def run(job_dir):
         if c['id'] in seen: continue
         seen.add(c['id']); cr.append(f"- [{kind}] {c.get('credit','')} · {c.get('license','')} · {c.get('page','')}")
     open(f'{out_dir}/creditos.txt', 'w').write('Material de archivo y sonido (licencias abiertas):\n' + '\n'.join(cr) + '\n')
+    ok, bq, av = LIC.escribe(out_dir, credits, job)
+    log(f"== licencias: PUBLICAR {'SÍ' if ok else 'NO'} · {len(bq)} bloqueos · {len(av)} avisos (licencias_estado.txt)")
+    for b in bq: log('  ! bloqueo:', b)
     # hoja de control: un fotograma cada ~25 s
     D = dur(final); k = 0
     for x in np.linspace(3, D - 3, 24):

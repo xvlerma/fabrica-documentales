@@ -61,6 +61,7 @@ jobs:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           FREESOUND_API_KEY: ${{ secrets.FREESOUND_API_KEY }}
           EUROPEANA_API_KEY: ${{ secrets.EUROPEANA_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           FABRICA_THREADS: '2'
           FABRICA_PART: ${{ matrix.part }}/${{ needs.setup.outputs.parts }}
         run: python3 fabrica/engine.py jobs/${{ needs.setup.outputs.id }} 2>&1 | tee /tmp/run_p${{ matrix.part }}.log; exit ${PIPESTATUS[0]}
@@ -105,6 +106,7 @@ jobs:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           FREESOUND_API_KEY: ${{ secrets.FREESOUND_API_KEY }}
           EUROPEANA_API_KEY: ${{ secrets.EUROPEANA_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           FABRICA_THREADS: '2'
         run: ls /tmp/fabrica_work/shots 2>/dev/null | wc -l; python3 fabrica/engine.py jobs/${{ needs.setup.outputs.id }} 2>&1 | tee /tmp/run.log; exit ${PIPESTATUS[0]}
       - name: entregar

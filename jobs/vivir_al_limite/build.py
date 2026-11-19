@@ -105,9 +105,32 @@ if os.path.exists(AP):
             new[str(i)] = dict(key=f"{i}:{u['url'][-40:]}", words=pre[str(o)]['words'])
     json.dump(new, open(os.path.join(HERE, 'align.json'), 'w'), ensure_ascii=False)
     print('alineación reindexada:', len(new))
+# v3.3: lugares sin material libre suficiente (sin SA): material genérico honesto, sin rótulo de lugar
+THIN = {
+ 'photo:La Rinconada, Puno': 'rin', 'photo:La Rinconada houses': 'rin', 'photo:La Rinconada street': 'rin',
+ 'photo:La Rinconada Peru people': 'rin', 'photo:La Rinconada in Perú, the highest city on earth': 'rin',
+ 'photo:Oymyakon': 'oym', 'photo:Oymyakon winter': 'oym',
+ 'photo:Hachijojima island': ['japan island sea cliffs', 'volcano island ocean aerial'],
+ 'photo:Mir diamond mine Mirny': ['industrial smoke chimney winter'], 'photo:Nganasan people Taymyr': ['tundra winter'],
+}
+VG = {'rin': ['high altitude Andes mountains snow', 'mountain dawn snow peaks', 'aerial mountains clouds sunrise'],
+      'oym': ['siberia winter village', 'frozen breath winter cold', 'Siberia winter frost', 'snow forest winter frost']}
+trot = {}; nthin = 0
+for u in U:
+    for s in u.get('shots', []):
+        key = ('photo:' + s['photo']) if 'photo' in s else None
+        if key not in THIN: continue
+        g = THIN[key]; r = trot.get(str(g), 0); trot[str(g)] = r + 1
+        if g == 'rin' and r % 3 == 0:
+            s['photo'] = 'La Rinconada in Perú, the highest city on earth'; continue
+        L = VG[g] if isinstance(g, str) else g
+        s.pop('photo', None); s.pop('src', None); s.pop('lt', None); s['video'] = L[r % len(L)]; s['free'] = True; nthin += 1
+print('planos sin material propio -> genérico:', nthin)
 for u in U: u.pop('oi', None); u.pop('ch', None)
 
 job = {
+    'thumbs': [dict(name='A', commons='Rinconadapuno.JPG', grande='VIVIR AQUÍ', caja='5.100 M', sub='VIVIR AL LÍMITE'),
+               dict(name='B', commons='Frost indicator in Yakutia.jpg', grande='−67,7 °C', caja='Y VIVEN AQUÍ', sub='VIVIR AL LÍMITE')],
     'id': 'vivir_al_limite', 'title': 'Vivir al límite', 'channel': 'DocuVox', 'stage': stage,
     'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 2, 'gap': 600}, 'auto_sfx': {}, 'sfx_max': 5,
     'max_shot': 9, 'min_shot': 1.6, 'anchor_lead': 0.1,

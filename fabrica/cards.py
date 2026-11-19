@@ -372,8 +372,22 @@ def f_scan(spec, t, D):
                     sl = text_layer(spec['sublabel'], font('corm500i', 36), CREAM); put(fr, sl, lx + (10 if lx > X else -sl.width - 10), Y + 50, ka, anchor='lm')
     return fr
 
+def f_doc_txt(spec, t, D):
+    """Documento sin imagen: título, texto y fuente en tarjeta tipográfica."""
+    fr = bg(spec.get('seed', 71)); f = font('corm500i', 60); lh = 80
+    put(fr, text_layer(CASE(spec.get('title', '')), fit('cinzel600', 58, CASE(spec.get('title', '')), 1500, TR(0.12)), GOLD, TR(0.12)), W / 2, 230, ease(t / .8))
+    put(fr, rule_layer(360), W / 2, 295, ease((t - .3) / .8))
+    lines = [l for x in spec.get('lines', []) for l in wrap(x, f, 1400)]
+    y0 = H / 2 - len(lines) * lh / 2 + 20; step = min(1.0, (D * 0.45) / max(1, len(lines)))
+    for i, l in enumerate(lines):
+        put(fr, text_layer(l, f, CREAM), W / 2, y0 + i * lh, ease((t - .6 - i * step) / .9))
+    if spec.get('source'):
+        put(fr, text_layer(spec['source'], font('corm500', 34), GOLD), W / 2, H - 170, ease((t - 1.2 - len(lines) * step) / .8))
+    return fr
+
 def f_doc(spec, t, D):
     """Documento real (papiro, inscripción) con acercamiento al detalle y traducción línea a línea."""
+    if not spec.get('_path'): return f_doc_txt(spec, t, D)
     src = _img(spec); fr = bg(spec.get('seed', 71))
     fx, fy, fw, fh = spec.get('focus', [0, 0, 1, 1]); k = ease(t / (D * .5))
     w0, h0 = src.size; vw = _lerp(1, fw, k) * w0; vh = _lerp(1, fh, k) * h0

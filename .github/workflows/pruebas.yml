@@ -1,0 +1,26 @@
+name: pruebas-fuentes
+on:
+  push:
+    paths: ['pruebas/**', '.github/workflows/pruebas.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: probar fuentes
+        env:
+          SMITHSONIAN_API_KEY: ${{ secrets.SMITHSONIAN_API_KEY }}
+          FABRICA_CACHE: /tmp/pc
+        run: python3 pruebas/fuentes.py 2>&1 | tee /tmp/informe_fuentes.txt
+      - name: entregar
+        if: always()
+        run: |
+          git config --global user.name fabrica; git config --global user.email fabrica@users.noreply.github.com
+          mkdir /tmp/r && cd /tmp/r && git init -q && git checkout -q -b out-pruebas
+          cp /tmp/informe_fuentes.txt . ; cp /tmp/pc/*.json . 2>/dev/null || true
+          git add -A; git commit -qm "pruebas de fuentes"
+          git push -f https://x-access-token:${{ github.token }}@github.com/${{ github.repository }} out-pruebas

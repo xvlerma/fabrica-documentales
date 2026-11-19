@@ -31,10 +31,16 @@ def T(title, sub, secs=5.0, sting='tema', text=None, chapter=True, voice='DER'):
                      card=dict(type='title', title=title, sub=sub))))
 def B(track): U.append(dict(k='B', track=track))
 def M(track, secs): U.append(dict(k='M', track=track, secs=secs))
+import fix as _fix
 def ph(q, src=SRC, at=None, lt=None, tr=None, **kw):
+    r = _fix.resolve(q, AI)
+    if r: return _c(dict(r, at=at, lt=lt, tr=tr, **kw))
     if IMG.get(q): return _c(dict(commons=IMG[q], at=at, lt=lt, tr=tr, **kw))
     return _c(dict(photo=q, src=src, at=at, lt=lt, tr=tr, **kw))
-def vid(q, at=None, lt=None, **kw): return _c(dict(video=q, old=True, at=at, lt=lt, **kw))
+def vid(q, at=None, lt=None, **kw):
+    r = _fix.resolve(q, AI)
+    if r: return _c(dict(r, at=at, lt=lt, **kw))
+    return _c(dict(video=q, old=True, src='commons,archive', at=at, lt=lt, **kw))
 def cd(card, at=None, tr=None, lt=None): return _c(dict(card=card, at=at, tr=tr, lt=lt))
 def K(word, q, at=None, src=SRC):
     d = ph(q, src=src, at=at); d.update(kw=word, kw_at=0.4, kw_dur=2.2); return d
@@ -48,5 +54,5 @@ def DOCC(title, text, source, at=None, img=None):
     return cd(c, at=at)
 def ai(key, q, at=None):
     """Recreación: si hay imagen IA generada, se usa con rótulo; si no, plano de archivo equivalente."""
-    if AI.get(key): return _c(dict(ai=AI[key], at=at, lt=['Recreación', '']))
+    if AI.get(key): return _c(dict(ai=AI[key], at=at))
     return ph(q, at=at)

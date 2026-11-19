@@ -16,9 +16,33 @@ GEN = RES.get('gens', {})
 for i, u in enumerate(U):
     g = GEN.get(str(i))
     if g: u['gen'] = g['gen']; u['url'] = g.get('url')
+# respiraciones musicales: se alarga el hueco tras algunas unidades N hasta ~59,5 min (sin mover índices: align.json sigue valiendo)
+_ap = os.path.join(HERE, 'align.json')
+if os.path.exists(_ap):
+    AL = json.load(open(_ap))
+    dur = {int(k): (v['words'][-1]['t'] + 0.6 if v['words'] else 0) for k, v in AL.items()}
+    TOTAL_NOW = float(os.environ.get('TOTAL_NOW', 53.6 * 60)); deficit = 59.5 * 60 - TOTAL_NOW
+    NB = 30; extra = max(0, deficit / NB)
+    vt = sum(dur.values()); step = vt / (NB + 1); acc = 0; added = 0
+    for i, u in enumerate(U):
+        acc += dur.get(i, 0) / 0.9
+        nxt = U[i + 1] if i + 1 < len(U) else None
+        if added < NB and acc >= step and u['k'] == 'N' and nxt and nxt['k'] == 'N':
+            u['gap'] = round(1.5 + extra, 1); acc = 0; added += 1
+    print(f'respiraciones: {added} de {extra:.1f} s')
+
+DROP_LT = {'Mont-de-Marsan', 'Yate Vita', 'Francisco Méndez Aspe', 'Marcelino Pascua', 'Grigori Grinko', 'Joan Sardá', 'Ángel Viñas',
+           'Pablo Martín Aceña', 'Pravda', 'Texaco', "Banque Commerciale pour l'Europe du Nord", 'Tercer proceso de Moscú'}
+FIX_LT = {'Procesos de Moscú': ['Procesos de Moscú', ''], 'Senado de EE. UU.': ['Senado de EE. UU.', ''], 'París': ['París', '']}
+for u in U:
+    for sh in u.get('shots', []):
+        lt = sh.get('lt')
+        if lt and lt[0] in DROP_LT: sh.pop('lt')
+        elif lt and lt[0] in FIX_LT: sh['lt'] = FIX_LT[lt[0]]
+
 job = {
     'id': 'orodemoscu', 'title': 'El oro de Moscú', 'channel': 'DocuVox', 'stage': stage,
-    'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 2, 'gap': 600}, 'auto_sfx': {}, 'sfx_max': 5,
+    'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 3, 'gap': 300}, 'auto_sfx': {}, 'sfx_max': 5,
     'max_shot': 9, 'min_shot': 1.6, 'anchor_lead': 0.1,
     'bando': {'izquierda': lib.IZ, 'derecha': lib.DE, 'urss': lib.SO, 'centro': [150, 150, 150]},
     'glossary': [

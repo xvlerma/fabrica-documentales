@@ -693,5 +693,24 @@
 "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4YtLv34n8Dc2vUV7qpr0/RJfuTjIWPly6wAOI9NsJ/content.mp3?Expires=1795118400&KeyName=assets-cdn-key-1&Signature=cUg7_gx1c4TgDdTDmf9BKVig7nI="
 }
 },
-"rev": 1
+"rev": 2,
+"ai": {
+"convoy": "https://www.figma.com/api/mcp/asset/08558371-5088-4bb7-9099-7086a0cf1267.jpg",
+"drivers": "https://www.figma.com/api/mcp/asset/7107a8f1-d9fa-4b69-b074-4d5e020e4d65.jpg",
+"crates": "https://www.figma.com/api/mcp/asset/3993acec-fa18-42e2-b888-c1f8ce0448df.jpg",
+"loading": "https://www.figma.com/api/mcp/asset/7da8a42a-5c30-4381-a3af-85604300218a.jpg",
+"blackstone": "https://www.figma.com/api/mcp/asset/acbddb4e-9cec-40de-a809-5f7d84c1c80d.jpg",
+"train": "https://www.figma.com/api/mcp/asset/2e8bb03b-6d95-49d1-8242-5fe58d73b7e9.jpg",
+"counting": "https://www.figma.com/api/mcp/asset/da071b7b-0fc5-4851-8893-41d9dbb21440.jpg",
+"coins road": "https://www.figma.com/api/mcp/asset/23412eca-23cf-4529-aebb-98bb2fb6f2bc.jpg"
+},
+"img": {
+"azana": "File:Manuel Azaña Díaz.jpg",
+"largo": "File:Francisco Largo Caballero.jpg",
+"negrin": "File:Juan Negrín.png",
+"prieto": "File:Indalecio Prieto, 1936.jpg",
+"stalin": "File:Joseph Stalin in 1937 with his pipe smoking.jpg",
+"orlov": "File:Alexander Orlov.jpg",
+"franco": "File:Francisco Franco, octubre de 1936, Burgos.jpg"
+}
 }

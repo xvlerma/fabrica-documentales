@@ -1,0 +1,229 @@
+== piel: Ciencia, espacio, exploración polar y oceánica, medicina, inventos · etalonaje neutro
+== 1/5 audio: colocando voces, música y efectos
+voz: 46.6 min, 6196 palabras narrador, total 58.1 min
+   alineación: 166 unidades (0 con whisper, resto en caché o proporcional)
+== 2/5 guion visual
+  aviso anclas muy juntas en t=55.6s: se retrasa "Y una isla"
+  aviso anclas muy juntas en t=908.2s: se retrasa "unos trescientos mil"
+  aviso anclas muy juntas en t=1095.1s: se retrasa "En verano"
+  aviso anclas muy juntas en t=1238.4s: se retrasa "En mil novecientos treinta y cinco"
+  aviso anclas muy juntas en t=1471.6s: se retrasa "sobre pilotes"
+  aviso anclas muy juntas en t=1825.8s: se retrasa "auroras boreales"
+  aviso anclas muy juntas en t=2358.6s: se retrasa "La vida diaria"
+  aviso glosario: "noche polar" cae en una tarjeta u otro glosario
+  aviso glosario: "cachorreo" cae en una tarjeta u otro glosario
+  sincronía: plano 0 t=0.0s: rótulo "La Rinconada" sin mención en ±2 s
+  sincronía: plano 0 t=0.0s: dura 9.3 s; añade un plano o una tarjeta
+  sincronía: plano 3 t=19.6s: dura 9.7 s; añade un plano o una tarjeta
+  sincronía: plano 5 t=31.7s: dura 10.5 s; añade un plano o una tarjeta
+  sincronía: plano 11 t=62.0s: dura 12.1 s; añade un plano o una tarjeta
+  sincronía: plano 12 t=74.1s: dura 9.2 s; añade un plano o una tarjeta
+  sincronía: plano 13 t=83.3s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 21 t=142.0s: dura 11.4 s; añade un plano o una tarjeta
+  sincronía: plano 22 t=153.4s: dura 10.9 s; añade un plano o una tarjeta
+  sincronía: plano 23 t=164.3s: dura 14.4 s; añade un plano o una tarjeta
+  sincronía: plano 27 t=199.0s: dura 9.8 s; añade un plano o una tarjeta
+  sincronía: plano 30 t=215.2s: dura 12.5 s; añade un plano o una tarjeta
+  sincronía: plano 32 t=231.4s: rótulo "Iglesia ortodoxa serbia de San Elías" sin mención en ±2 s
+  sincronía: plano 35 t=255.5s: rótulo "Ópalo de Coober Pedy" sin mención en ±2 s
+  sincronía: plano 36 t=260.3s: dura 13.7 s; añade un plano o una tarjeta
+  sincronía: plano 40 t=295.3s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 41 t=305.5s: rótulo "Casa subterránea de Faye" sin mención en ±2 s
+  sincronía: plano 42 t=311.5s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 43 t=321.5s: dura 10.3 s; añade un plano o una tarjeta
+  sincronía: plano 46 t=363.4s: rótulo "Moon Plain" sin mención en ±2 s
+  sincronía: plano 52 t=397.7s: dura 12.6 s; añade un plano o una tarjeta
+  sincronía: plano 53 t=410.3s: dura 14.7 s; añade un plano o una tarjeta
+  sincronía: plano 54 t=424.9s: dura 11.3 s; añade un plano o una tarjeta
+  sincronía: plano 57 t=451.8s: dura 15.1 s; añade un plano o una tarjeta
+  sincronía: plano 58 t=466.9s: dura 10.5 s; añade un plano o una tarjeta
+  sincronía: plano 59 t=477.4s: dura 9.1 s; añade un plano o una tarjeta
+  sincronía: plano 60 t=486.5s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 61 t=496.5s: dura 17.7 s; añade un plano o una tarjeta
+  sincronía: plano 64 t=524.8s: dura 11.9 s; añade un plano o una tarjeta
+  sincronía: plano 65 t=536.8s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 73 t=608.5s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 77 t=633.1s: dura 9.1 s; añade un plano o una tarjeta
+  sincronía: plano 80 t=657.0s: dura 17.7 s; añade un plano o una tarjeta
+  sincronía: plano 81 t=674.7s: rótulo "Stroganina" sin mención en ±2 s
+  sincronía: plano 87 t=722.8s: dura 12.2 s; añade un plano o una tarjeta
+  sincronía: plano 92 t=763.0s: dura 14.0 s; añade un plano o una tarjeta
+  sincronía: plano 95 t=792.8s: dura 9.2 s; añade un plano o una tarjeta
+  sincronía: plano 97 t=810.5s: dura 10.4 s; añade un plano o una tarjeta
+  sincronía: plano 99 t=826.0s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 100 t=836.0s: dura 13.0 s; añade un plano o una tarjeta
+  sincronía: plano 102 t=856.6s: dura 9.0 s; añade un plano o una tarjeta
+  sincronía: plano 103 t=865.6s: dura 9.2 s; añade un plano o una tarjeta
+  sincronía: plano 105 t=879.7s: dura 13.1 s; añade un plano o una tarjeta
+  sincronía: plano 106 t=892.8s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 110 t=911.7s: dura 19.5 s; añade un plano o una tarjeta
+  sincronía: plano 114 t=952.5s: dura 15.9 s; añade un plano o una tarjeta
+  sincronía: plano 116 t=971.9s: dura 14.0 s; añade un plano o una tarjeta
+  sincronía: plano 118 t=987.9s: dura 17.8 s; añade un plano o una tarjeta
+  sincronía: plano 121 t=1018.0s: dura 9.9 s; añade un plano o una tarjeta
+  sincronía: plano 128 t=1078.0s: dura 12.5 s; añade un plano o una tarjeta
+  sincronía: plano 131 t=1098.9s: dura 12.2 s; añade un plano o una tarjeta
+  sincronía: plano 132 t=1111.1s: dura 12.3 s; añade un plano o una tarjeta
+  sincronía: plano 133 t=1123.4s: rótulo "Mercado de Yakutsk" sin mención en ±2 s
+  sincronía: plano 133 t=1123.4s: dura 13.1 s; añade un plano o una tarjeta
+  sincronía: plano 134 t=1136.5s: dura 10.3 s; añade un plano o una tarjeta
+  sincronía: plano 137 t=1158.6s: dura 15.0 s; añade un plano o una tarjeta
+  sincronía: plano 139 t=1179.4s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 142 t=1197.9s: dura 11.5 s; añade un plano o una tarjeta
+  sincronía: plano 145 t=1219.3s: dura 23.1 s; añade un plano o una tarjeta
+  sincronía: plano 148 t=1248.4s: dura 11.5 s; añade un plano o una tarjeta
+  sincronía: plano 151 t=1273.0s: dura 9.5 s; añade un plano o una tarjeta
+  sincronía: plano 157 t=1313.6s: dura 13.9 s; añade un plano o una tarjeta
+  sincronía: plano 159 t=1333.6s: rótulo "Río Ambárnaya" sin mención en ±2 s
+  sincronía: plano 163 t=1376.8s: dura 12.6 s; añade un plano o una tarjeta
+  sincronía: plano 168 t=1438.6s: dura 16.2 s; añade un plano o una tarjeta
+  sincronía: plano 170 t=1460.7s: dura 22.9 s; añade un plano o una tarjeta
+  sincronía: plano 172 t=1485.3s: dura 14.7 s; añade un plano o una tarjeta
+  sincronía: plano 174 t=1503.3s: rótulo "Mezquita Nurd Kamal" sin mención en ±2 s
+  sincronía: plano 176 t=1511.2s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 178 t=1543.5s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 179 t=1553.5s: dura 14.0 s; añade un plano o una tarjeta
+  sincronía: plano 187 t=1616.9s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 189 t=1631.4s: rótulo "Señal de peligro de oso polar" sin mención en ±2 s
+  sincronía: plano 191 t=1642.4s: dura 22.0 s; añade un plano o una tarjeta
+  sincronía: plano 193 t=1669.7s: dura 12.1 s; añade un plano o una tarjeta
+  sincronía: plano 200 t=1736.0s: dura 14.4 s; añade un plano o una tarjeta
+  sincronía: plano 202 t=1757.5s: rótulo "Centro Universitario de Svalbard" sin mención en ±2 s
+  sincronía: plano 202 t=1757.5s: dura 9.1 s; añade un plano o una tarjeta
+  sincronía: plano 203 t=1766.5s: dura 9.9 s; añade un plano o una tarjeta
+  sincronía: plano 204 t=1776.5s: dura 18.5 s; añade un plano o una tarjeta
+  sincronía: plano 206 t=1803.7s: dura 20.7 s; añade un plano o una tarjeta
+  sincronía: plano 209 t=1830.4s: dura 14.5 s; añade un plano o una tarjeta
+  sincronía: plano 211 t=1856.1s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 213 t=1872.2s: dura 11.7 s; añade un plano o una tarjeta
+  sincronía: plano 215 t=1887.0s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 218 t=1905.3s: dura 14.1 s; añade un plano o una tarjeta
+  sincronía: plano 220 t=1924.0s: dura 11.2 s; añade un plano o una tarjeta
+  sincronía: plano 222 t=1941.5s: dura 15.9 s; añade un plano o una tarjeta
+  sincronía: plano 223 t=1957.3s: dura 18.5 s; añade un plano o una tarjeta
+  sincronía: plano 224 t=1975.8s: dura 10.5 s; añade un plano o una tarjeta
+  sincronía: plano 225 t=1986.4s: dura 9.2 s; añade un plano o una tarjeta
+  sincronía: plano 228 t=2021.3s: dura 9.2 s; añade un plano o una tarjeta
+  sincronía: plano 229 t=2030.5s: dura 13.4 s; añade un plano o una tarjeta
+  sincronía: plano 231 t=2046.5s: dura 9.4 s; añade un plano o una tarjeta
+  sincronía: plano 235 t=2082.9s: dura 11.5 s; añade un plano o una tarjeta
+  sincronía: plano 239 t=2121.5s: dura 14.8 s; añade un plano o una tarjeta
+  sincronía: plano 241 t=2143.5s: dura 12.3 s; añade un plano o una tarjeta
+  sincronía: plano 242 t=2155.8s: dura 9.1 s; añade un plano o una tarjeta
+  sincronía: plano 243 t=2164.9s: dura 9.3 s; añade un plano o una tarjeta
+  sincronía: plano 245 t=2177.3s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 250 t=2209.2s: dura 10.7 s; añade un plano o una tarjeta
+  sincronía: plano 253 t=2228.4s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 257 t=2268.7s: dura 15.4 s; añade un plano o una tarjeta
+  sincronía: plano 258 t=2284.1s: dura 13.0 s; añade un plano o una tarjeta
+  sincronía: plano 262 t=2312.1s: rótulo "Puerto de Sanpo" sin mención en ±2 s
+  sincronía: plano 262 t=2312.1s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 263 t=2322.3s: dura 17.8 s; añade un plano o una tarjeta
+  sincronía: plano 266 t=2355.1s: dura 24.9 s; añade un plano o una tarjeta
+  sincronía: plano 267 t=2380.0s: rótulo "Aochu" sin mención en ±2 s
+  sincronía: plano 268 t=2381.6s: dura 9.3 s; añade un plano o una tarjeta
+  sincronía: plano 272 t=2408.8s: dura 18.9 s; añade un plano o una tarjeta
+  sincronía: plano 274 t=2433.0s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 277 t=2453.1s: dura 9.6 s; añade un plano o una tarjeta
+  sincronía: plano 279 t=2466.3s: dura 12.5 s; añade un plano o una tarjeta
+  sincronía: plano 281 t=2487.6s: dura 11.1 s; añade un plano o una tarjeta
+  sincronía: plano 286 t=2539.6s: dura 19.0 s; añade un plano o una tarjeta
+  sincronía: plano 288 t=2562.5s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 289 t=2572.5s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 291 t=2591.0s: dura 13.8 s; añade un plano o una tarjeta
+  sincronía: plano 295 t=2644.3s: dura 10.3 s; añade un plano o una tarjeta
+  sincronía: plano 296 t=2654.6s: dura 20.6 s; añade un plano o una tarjeta
+  sincronía: plano 297 t=2675.2s: dura 9.7 s; añade un plano o una tarjeta
+  sincronía: plano 303 t=2721.1s: rótulo "Llegada a Southampton" sin mención en ±2 s
+  sincronía: plano 304 t=2724.0s: rótulo "Calshot" sin mención en ±2 s
+  sincronía: plano 304 t=2724.0s: dura 19.8 s; añade un plano o una tarjeta
+  sincronía: plano 307 t=2755.0s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 308 t=2765.0s: dura 19.2 s; añade un plano o una tarjeta
+  sincronía: plano 310 t=2788.2s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 318 t=2871.1s: dura 13.0 s; añade un plano o una tarjeta
+  sincronía: plano 321 t=2898.9s: dura 11.4 s; añade un plano o una tarjeta
+  sincronía: plano 323 t=2918.1s: dura 19.4 s; añade un plano o una tarjeta
+  sincronía: plano 328 t=2964.1s: dura 10.9 s; añade un plano o una tarjeta
+  sincronía: plano 329 t=2975.0s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 330 t=2985.3s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 333 t=3016.1s: dura 13.9 s; añade un plano o una tarjeta
+  sincronía: plano 334 t=3030.0s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 336 t=3049.0s: dura 9.9 s; añade un plano o una tarjeta
+  sincronía: plano 337 t=3058.9s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 339 t=3076.7s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 342 t=3106.2s: dura 16.2 s; añade un plano o una tarjeta
+  sincronía: plano 347 t=3181.6s: dura 11.0 s; añade un plano o una tarjeta
+  sincronía: plano 348 t=3192.5s: dura 15.8 s; añade un plano o una tarjeta
+  sincronía: plano 349 t=3208.3s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 350 t=3218.3s: dura 10.6 s; añade un plano o una tarjeta
+  sincronía: plano 351 t=3228.9s: dura 9.6 s; añade un plano o una tarjeta
+  sincronía: plano 352 t=3238.5s: dura 17.5 s; añade un plano o una tarjeta
+  sincronía: plano 361 t=3307.7s: dura 9.8 s; añade un plano o una tarjeta
+  sincronía: plano 362 t=3317.5s: dura 12.6 s; añade un plano o una tarjeta
+  sincronía: plano 366 t=3343.7s: dura 14.3 s; añade un plano o una tarjeta
+  sincronía: plano 367 t=3358.0s: dura 13.0 s; añade un plano o una tarjeta
+  sincronía: plano 370 t=3378.1s: dura 23.3 s; añade un plano o una tarjeta
+  sincronía: plano 373 t=3408.1s: dura 11.6 s; añade un plano o una tarjeta
+  sincronía: plano 374 t=3419.7s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 375 t=3429.7s: dura 16.6 s; añade un plano o una tarjeta
+  sincronía: plano 378 t=3453.5s: dura 9.1 s; añade un plano o una tarjeta
+  sincronía: plano 381 t=3476.7s: dura 15.0 s; añade un plano o una tarjeta
+   382 planos
+== 3/5 buscando y descargando material
+  aviso repetición: "photo:Yakutia winter" en t=880s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "video:yakutsk" en t=968s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Yakutsk Mammoth Museum" en t=986s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Yakutsk panorama" en t=988s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Yakutsk winter street" en t=1018s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Lena river Yakutsk" en t=1037s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Yakutsk panorama" en t=1072s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Lena river Yakutsk" en t=1091s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Yakutsk" en t=1097s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "video:yakutsk" en t=1099s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Lena river Yakutsk" en t=1111s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Yakutsk Mammoth Museum" en t=1123s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:mammoth Yakutia permafrost" en t=1136s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Yakutsk Mammoth Museum" en t=1147s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Yakutsk" en t=1174s reutiliza un recurso (5.ª vez); añade candidatos
+  ! plano 151 ({'photo': 'Norilsk Nickel plant', 'src': 'openverse,commons', 'at': 'Por lo que hay bajo tierra'}) -> HTTP Error 404: Not Found; uso alternativa
+  aviso repetición: "photo:Aogashima island" en t=2308s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Aogashima aerial" en t=2312s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Aogashima" en t=2349s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Aogashima island" en t=2355s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Aogashima" en t=2391s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Aogashima aerial" en t=2406s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "video:remote island ocean aerial" en t=2765s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "video:remote island ocean aerial" en t=2788s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "video:andes peru altiplano" en t=2995s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "video:andes peru altiplano" en t=3077s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "video:peru andes mountains" en t=3106s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "video:mountain dawn snow peaks" en t=3268s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "video:aerial mountains clouds sunrise" en t=3430s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "video:aerial mountains clouds sunrise" en t=3477s reutiliza un recurso (2.ª vez); añade candidatos
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/382
+   plano 20/382
+   plano 40/382
+   plano 60/382
+   plano 80/382
+   plano 100/382
+   plano 120/382
+   plano 140/382
+   plano 160/382
+   plano 180/382
+   plano 200/382
+   plano 220/382
+   plano 240/382
+   plano 260/382
+   plano 280/382
+   plano 300/382
+   plano 320/382
+   plano 340/382
+   plano 360/382
+   plano 380/382
+== 5/5 montaje final
+   hojas de sincronía: 28
+   miniatura A: yo · CC0
+   miniatura B: Иванова Мария Святославовна · CC BY 4.0
+FIN: jobs/vivir_al_limite/out/vivir_al_limite.mp4 · 58.6 min · 347 MB

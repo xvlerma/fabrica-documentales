@@ -1,0 +1,2054 @@
+[
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Silent Descent",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://assets.mixkit.co/music/614/614.mp3",
+  "url": "https://assets.mixkit.co/music/614/614.mp3",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Echoes",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://assets.mixkit.co/music/188/188.mp3",
+  "url": "https://assets.mixkit.co/music/188/188.mp3",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "River Flow",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://assets.mixkit.co/music/594/594.mp3",
+  "url": "https://assets.mixkit.co/music/594/594.mp3",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Staring at the Night Sky",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://assets.mixkit.co/music/168/168.mp3",
+  "url": "https://assets.mixkit.co/music/168/168.mp3",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "author unknown",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Monta%C3%B1a_barracks_in_Madrid,_July_1936.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Monta%C3%B1a_barracks_in_Madrid%2C_July_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "AGA",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Cartagena_16.06.1936.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cartagena_16.06.1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Stevebidmead",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gold_bullion_bars.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Gold_bullion_bars.jpg/1920px-Gold_bullion_bars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Luis García",
+  "licencia": "CC BY-SA 2.5",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Banco_de_Espa%C3%B1a_(Madrid)_02.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Banco_de_Espa%C3%B1a_%28Madrid%29_02.jpg/1920px-Banco_de_Espa%C3%B1a_%28Madrid%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Luis García · CC BY-SA 2.5 · https://commons.wikimedia.org/wiki/File:Banco_de_Espa%C3%B1a_(Madrid)_02.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Главархив Москвы",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:View_to_Kremlin_in_1938.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/View_to_Kremlin_in_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Главархив Москвы · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:View_to_Kremlin_in_1938.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Vyacheslav Argenberg",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kremlin_wall_in_winter,_Moscow,_Russia.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Kremlin_wall_in_winter%2C_Moscow%2C_Russia.jpg/1920px-Kremlin_wall_in_winter%2C_Moscow%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Vyacheslav Argenberg · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:Kremlin_wall_in_winter,_Moscow,_Russia.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Manfred&amp;Barbara Aulbach",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Moscow_1957_-_Gorky_Street_towards_Kremlin.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Moscow_1957_-_Gorky_Street_towards_Kremlin.jpg/1920px-Moscow_1957_-_Gorky_Street_towards_Kremlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Manfred&amp;Barbara Aulbach · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Moscow_1957_-_Gorky_Street_towards_Kremlin.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "photo not credited",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Revolutionary_checkpoint_in_Valencia.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Revolutionary_checkpoint_in_Valencia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gobfrlargcabsept1936.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Gobfrlargcabsept1936.jpg/1920px-Gobfrlargcabsept1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Jacques-Jean Barre",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:5_francs_or,_Napol%C3%A9on_III,_1857,_pile.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/5_francs_or%2C_Napol%C3%A9on_III%2C_1857%2C_pile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Wikimedia Commons",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Joseph_Stalin_and_Georgi_Dimitrov,_1936.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Joseph_Stalin_and_Georgi_Dimitrov%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "MCAE Consulting",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Russian_T-26B_Combat_Tank_used_by_the_Republican_Army_in_the_Spanish_Civil_War.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Russian_T-26B_Combat_Tank_used_by_the_Republican_Army_in_the_Spanish_Civil_War.jpg/1920px-Russian_T-26B_Combat_Tank_used_by_the_Republican_Army_in_the_Spanish_Civil_War.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "author unknown",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Monta%C3%B1a_barracks,_July_1936.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Monta%C3%B1a_barracks%2C_July_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "AnonymousUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bombardeo_del_17_de_noviembre_de_1936_sobre_Madrid.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bombardeo_del_17_de_noviembre_de_1936_sobre_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "signed: \"Videa\" [??]",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Electoral_office,_1936_elections,_Spain.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Electoral_office%2C_1936_elections%2C_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "AnonymousUnknown author (Keystone)",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Francisco_Franco,_octubre_de_1936,_Burgos.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Francisco_Franco%2C_octubre_de_1936%2C_Burgos.jpg/1920px-Francisco_Franco%2C_octubre_de_1936%2C_Burgos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a_D%C3%ADaz.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Manuel_Aza%C3%B1a_D%C3%ADaz.jpg/1920px-Manuel_Aza%C3%B1a_D%C3%ADaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "AnonymousUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Francisco_Largo_Caballero.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Francisco_Largo_Caballero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Juan_Negr%C3%ADn.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Juan_Negr%C3%ADn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Agence de presse Meurisse",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Indalecio_Prieto,_1936.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Indalecio_Prieto%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Joseph_Stalin_in_1937_with_his_pipe_smoking.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Joseph_Stalin_in_1937_with_his_pipe_smoking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Alexander_Orlov.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alexander_Orlov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:The_Second_Moscow_Trial.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_Second_Moscow_Trial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Wikimedia Commons",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Radek%27s_action.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Radek%27s_action.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Anon; Ministry of Propaganda",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:If_You_Tolerate_This_Your_Children_Will_Be_Next_-_1930s_poster.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/If_You_Tolerate_This_Your_Children_Will_Be_Next_-_1930s_poster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Wikimedia Commons",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Spanish_civil_war_archive.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Spanish_civil_war_archive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Wikimedia Commons · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Spanish_civil_war_archive.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Sherman, John, 1823-1900",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:(Account_ledger)_-_DPLA_-_a35b81a19450cba319aed51dd0ea6190_(page_2).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/%28Account_ledger%29_-_DPLA_-_a35b81a19450cba319aed51dd0ea6190_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Antoni Campañà i Bandranas",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Militiawoman_on_the_barricade.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Militiawoman_on_the_barricade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "James Abbe / Paul Guermonprez",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Paul_Guermonprez,_1934_%E2%80%93_Joseph_Stalin.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Paul_Guermonprez%2C_1934_%E2%80%93_Joseph_Stalin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Adams &amp; Larkin",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gold_bars_stacked_in_a_pyramid,_Dawson,_probably_between_1902_and_1910_(AL%2BCA_1405).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Gold_bars_stacked_in_a_pyramid%2C_Dawson%2C_probably_between_1902_and_1910_%28AL%2BCA_1405%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Luis García",
+  "licencia": "CC BY-SA 2.5",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Banco_de_Espa%C3%B1a_(Madrid)_03.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Banco_de_Espa%C3%B1a_%28Madrid%29_03.jpg/1920px-Banco_de_Espa%C3%B1a_%28Madrid%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Luis García · CC BY-SA 2.5 · https://commons.wikimedia.org/wiki/File:Banco_de_Espa%C3%B1a_(Madrid)_03.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Lionel Allorge",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Porte_blind%C3%A9e_d%27une_salle_forte_de_banque_-_2.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Porte_blind%C3%A9e_d%27une_salle_forte_de_banque_-_2.jpg/1920px-Porte_blind%C3%A9e_d%27une_salle_forte_de_banque_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Lionel Allorge · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Porte_blind%C3%A9e_d%27une_salle_forte_de_banque_-_2.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Mandtplatt",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:1817_George_III_Gold_Sovereign_UNC_(1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/1817_George_III_Gold_Sovereign_UNC_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Obverse (Queen Victoria) by Brock; Reverse (St George and the Dragon) by Pistruc",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:EB1911_Numismatics_-_English_gold_sovereign_(Victoria).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/EB1911_Numismatics_-_English_gold_sovereign_%28Victoria%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown Serbian photographer",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Old_Serbian_priest_blessing_rifles,_1914.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Old_Serbian_priest_blessing_rifles%2C_1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Zarateman",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Madrid_-_Detalles_de_la_fachada_del_Banco_de_Espa%C3%B1a_1.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Madrid_-_Detalles_de_la_fachada_del_Banco_de_Espa%C3%B1a_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Banco de España",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:500_pesetas_-_1931_01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/500_pesetas_-_1931_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Zarateman",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Madrid_-_Detalles_de_la_fachada_del_Banco_de_Espa%C3%B1a_2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Madrid_-_Detalles_de_la_fachada_del_Banco_de_Espa%C3%B1a_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Second Spanish republic",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:10_peseta_bill_1935_second_spanish_Republic.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/10_peseta_bill_1935_second_spanish_Republic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Amfeli",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Billete_de_diez_pesetas_espa%C3%B1olas_de_1935.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Billete_de_diez_pesetas_espa%C3%B1olas_de_1935.jpg/1920px-Billete_de_diez_pesetas_espa%C3%B1olas_de_1935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Amfeli · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:Billete_de_diez_pesetas_espa%C3%B1olas_de_1935.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Alvy",
+  "licencia": "CC BY-SA 3.0 es",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Estatua_y_placa_de_la_fachada_del_Banco_de_Espa%C3%B1a_en_la_calle_Alcal%C3%A1_de_Madrid.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Estatua_y_placa_de_la_fachada_del_Banco_de_Espa%C3%B1a_en_la_calle_Alcal%C3%A1_de_Madrid.jpg/1920px-Estatua_y_placa_de_la_fachada_del_Banco_de_Espa%C3%B1a_en_la_calle_Alcal%C3%A1_de_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Alvy · CC BY-SA 3.0 es · https://commons.wikimedia.org/wiki/File:Estatua_y_placa_de_la_fachada_del_Banco_de_Espa%C3%B1a_en_la_calle_Alcal%C3%A1_de_Madrid.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Andrea from Turin, Italy",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Polikarpov_I-15-Chato.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Polikarpov_I-15-Chato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Andrea from Turin, Italy · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Polikarpov_I-15-Chato.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Álvaro from Getafe, España",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Polikarpov_I-16-Spain_(clipped).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Polikarpov_I-16-Spain_%28clipped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Álvaro from Getafe, España · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Polikarpov_I-16-Spain_(clipped).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "signed \"Alfonso\"",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Giral_after_nomination_to_prime_minister.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Giral_after_nomination_to_prime_minister.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Agence de presse Meurisse",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:1936_conseil_g%C3%A9n%C3%A9ral_de_la_Banque_de_France.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/1936_conseil_g%C3%A9n%C3%A9ral_de_la_Banque_de_France.jpg/1920px-1936_conseil_g%C3%A9n%C3%A9ral_de_la_Banque_de_France.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Francisco_Franco_desfile_de_la_victoria_1939.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Francisco_Franco_desfile_de_la_victoria_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Unknown authorUnknown author · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Francisco_Franco_desfile_de_la_victoria_1939.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "AnonymousUnknown author (Keystone France)",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gouvernement_L%C3%A9on_Blum_-_juin_1936.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Gouvernement_L%C3%A9on_Blum_-_juin_1936.jpg/1920px-Gouvernement_L%C3%A9on_Blum_-_juin_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Agence de presse Meurisse",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:L%C3%A9on_Blum,_Anthony_Eden,_1936.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/L%C3%A9on_Blum%2C_Anthony_Eden%2C_1936.jpg/1920px-L%C3%A9on_Blum%2C_Anthony_Eden%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bank_of_England_and_Royal_Exchange,_London.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Bank_of_England_and_Royal_Exchange%2C_London.jpg/1920px-Bank_of_England_and_Royal_Exchange%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Muzej Revolucije Narodnosti Jugoslavije",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Benito_Mussolini_and_Adolf_Hitler.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Benito_Mussolini_and_Adolf_Hitler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:He_111_B-1_o._B-2,_Spanien,_1937-38_(1).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/He_111_B-1_o._B-2%2C_Spanien%2C_1937-38_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "United Kingdom Hydrographic Office",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_2434_Cartagena_Harbour,_Published_1856,_Large_Corrections_1930.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Admiralty_Chart_No_2434_Cartagena_Harbour%2C_Published_1856%2C_Large_Corrections_1930.jpg/1920px-Admiralty_Chart_No_2434_Cartagena_Harbour%2C_Published_1856%2C_Large_Corrections_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "No machine-readable author provided. Jolle~commonswiki assumed (based on copyrig",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Republica_espa%C3%B1ola-banknotes_0003.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Republica_espa%C3%B1ola-banknotes_0003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Associated Press/ Archival by La Presse",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Francisco_Franco_in_the_field.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Francisco_Franco_in_the_field.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Alcazartolede-D.jpg: The original uploader was Basilio at French Wikipedia.\nderi",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Destruction_of_the_Alc%C3%A1zar_in_Toledo-fr.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Destruction_of_the_Alc%C3%A1zar_in_Toledo-fr.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Alcazartolede-D.jpg: The original uploader was Basilio at French Wikipedia.\nderi · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Destruction_of_the_Alc%C3%A1zar_in_Toledo-fr.png",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Running_to_the_nearest_shelter_-_Google_Art_Project.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Running_to_the_nearest_shelter_-_Google_Art_Project.jpg/1920px-Running_to_the_nearest_shelter_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author or not provided",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Photograph_of_sacks_of_coins_-_NARA_-_296610.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Photograph_of_sacks_of_coins_-_NARA_-_296610.jpg/1920px-Photograph_of_sacks_of_coins_-_NARA_-_296610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Ismael Latorre Mendoza",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Servei_d%27autobusos_requisat_per_CNT-UGT_durant_la_Guerra_Civil_(Pa%C3%ADs_Valenci%C3%A0,_1936).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Servei_d%27autobusos_requisat_per_CNT-UGT_durant_la_Guerra_Civil_%28Pa%C3%ADs_Valenci%C3%A0%2C_1936%29.jpg/1920px-Servei_d%27autobusos_requisat_per_CNT-UGT_durant_la_Guerra_Civil_%28Pa%C3%ADs_Valenci%C3%A0%2C_1936%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Ismael Latorre Mendoza · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Servei_d%27autobusos_requisat_per_CNT-UGT_durant_la_Guerra_Civil_(Pa%C3%ADs_Valenci%C3%A0,_1936).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Luis García (Zaqarbal)",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Banco_de_Espa%C3%B1a_(Madrid)_05.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Banco_de_Espa%C3%B1a_%28Madrid%29_05.jpg/1920px-Banco_de_Espa%C3%B1a_%28Madrid%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Luis García (Zaqarbal) · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Banco_de_Espa%C3%B1a_(Madrid)_05.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Pavel Filonov",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Filonov_-_portrait-of-joseph-stalin-iosif-vissarionovich-dzhugashvili-1936.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Filonov_-_portrait-of-joseph-stalin-iosif-vissarionovich-dzhugashvili-1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Wikimedia Commons",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Joseph_Stalin_and_Nikita_Khrushchev,_1936.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Joseph_Stalin_and_Nikita_Khrushchev%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:AG-1930-1932-Odesa.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/AG-1930-1932-Odesa.jpg/1920px-AG-1930-1932-Odesa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Wikiumu10",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:La_Algameca_Chica.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/La_Algameca_Chica.jpg/1920px-La_Algameca_Chica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Wikiumu10 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:La_Algameca_Chica.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Alfonso_XIII_Arsenal_Cartagena.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Alfonso_XIII_Arsenal_Cartagena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Sherman, John, 1823-1900",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:(Account_ledger)_-_DPLA_-_a35b81a19450cba319aed51dd0ea6190_(page_3).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/%28Account_ledger%29_-_DPLA_-_a35b81a19450cba319aed51dd0ea6190_%28page_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "AnonymousUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:F._Largo_Caballero.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/F._Largo_Caballero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Juan_Negr%C3%ADn_L%C3%B3pez.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Juan_Negr%C3%ADn_L%C3%B3pez.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Agence de presse Meurisse",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Aza%C3%B1a_3.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Aza%C3%B1a_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:LargoCaballeroAlcazar.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/LargoCaballeroAlcazar.jpg/1920px-LargoCaballeroAlcazar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a,_1933.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Manuel_Aza%C3%B1a%2C_1933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Garrapata",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Carro_de_combate_T-26.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Carro_de_combate_T-26.jpg/1920px-Carro_de_combate_T-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Garrapata · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Carro_de_combate_T-26.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "photo unsigned",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Juan_Negrin_1920s.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Juan_Negrin_1920s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Главархив Москвы",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kremlin_on_1938-1939.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kremlin_on_1938-1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Главархив Москвы · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:Kremlin_on_1938-1939.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Главархив Москвы",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:1st_May_demonstration_in_Moscow_end_1930s.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/1st_May_demonstration_in_Moscow_end_1930s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Главархив Москвы · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:1st_May_demonstration_in_Moscow_end_1930s.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:T26batallateruel.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/T26batallateruel.jpg/1920px-T26batallateruel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Wikimedia Commons",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Chkalov,_Stalin_and_Belyakov._August_10,_1936.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chkalov%2C_Stalin_and_Belyakov._August_10%2C_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Adolf_Hitler_Nuremberg_1930s.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Adolf_Hitler_Nuremberg_1930s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Indalecio_Prieto.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Indalecio_Prieto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Marcel_Rosenberg.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Marcel_Rosenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Samuel Johnson Woolf",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Joseph_Stalin_(Woolf,_1937).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Joseph_Stalin_%28Woolf%2C_1937%29.jpg/1920px-Joseph_Stalin_%28Woolf%2C_1937%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Aleksandr_Orlov-(colorized).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Aleksandr_Orlov-%28colorized%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Sherman, John, 1823-1900",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:(Account_ledger)_-_DPLA_-_a35b81a19450cba319aed51dd0ea6190_(page_4).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/%28Account_ledger%29_-_DPLA_-_a35b81a19450cba319aed51dd0ea6190_%28page_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "P4K1T0",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:La_Algameca_Chica_(20200524_083703).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/La_Algameca_Chica_%2820200524_083703%29.jpg/1920px-La_Algameca_Chica_%2820200524_083703%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: P4K1T0 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:La_Algameca_Chica_(20200524_083703).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author or not provided",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Photograph_of_sacks_of_coins_-_NARA_-_296600.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Photograph_of_sacks_of_coins_-_NARA_-_296600.jpg/1920px-Photograph_of_sacks_of_coins_-_NARA_-_296600.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Italian_cruiser_Pola_c._1930s.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Italian_cruiser_Pola_c._1930s.jpg/1920px-Italian_cruiser_Pola_c._1930s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Branson De Cou",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Odessa_port_1931.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Odessa_port_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Wikimedia Commons",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Benito_Mussolini_in_1937.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Benito_Mussolini_in_1937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Benito_Mussolini_crop.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Benito_Mussolini_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:4th_Government_of_Manuel_Aza%C3%B1a_D%C3%ADaz.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/4th_Government_of_Manuel_Aza%C3%B1a_D%C3%ADaz.jpg/1920px-4th_Government_of_Manuel_Aza%C3%B1a_D%C3%ADaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Heinrich Vogeler",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Heinrich_Vogeler_Moskau_bei_Nacht.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Heinrich_Vogeler_Moskau_bei_Nacht.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "U.S. Army Major Martin Manhoff",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Stalin%27s_funeral.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Stalin%27s_funeral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Harris &amp; Ewing, photographer",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Crowd_jams_Senate_hearing_room_to_hear_former_Secretary_of_State_criticize_Neutrality_Act._Washington,_D.C.,_April_5._Before_a_well_packed_hearing_room_today_former_Secretary_of_State_Henry_LCCN2016875383.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Crowd_jams_Senate_hearing_room_to_hear_former_Secretary_of_State_criticize_Neutrality_Act._Washington%2C_D.C.%2C_April_5._Before_a_well_packed_hearing_room_today_former_Secretary_of_State_Henry_LCCN2016875383.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Uncredited illustrator. No known copyright restrictions.",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Paquito_al_Servicio_de_Espana_Edicioes_La_Tijera_Madrid_1940_Falange_espanola_Spanish_Civil_War_era_paper_doll_model_cut-out_sheet_toy_Falangist_propaganda_fascist_uniforms_salute_soldier_boy_No_known_copyright_brightened.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Paquito_al_Servicio_de_Espana_Edicioes_La_Tijera_Madrid_1940_Falange_espanola_Spanish_Civil_War_era_paper_doll_model_cut-out_sheet_toy_Falangist_propaganda_fascist_uniforms_salute_soldier_boy_No_known_copyright_brightened.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Uncredited illustrator. No known copyright restrictions. · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Paquito_al_Servicio_de_Espana_Edicioes_La_Tijera_Madrid_1940_Falange_espanola_Spanish_Civil_War_era_paper_doll_model_cut-out_sheet_toy_Falangist_propaganda_fascist_uniforms_salute_soldier_boy_No_known_copyright_brightened.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Ivan Shagin",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Joseph_Stalin_official_portrait.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Joseph_Stalin_official_portrait.jpg/1920px-Joseph_Stalin_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Главархив Москвы",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:History_of_1st_of_May_in_Moscow_01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/History_of_1st_of_May_in_Moscow_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Главархив Москвы · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:History_of_1st_of_May_in_Moscow_01.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%B2_%D0%93%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5._%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._1923.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5_%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%B2_%D0%93%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5._%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._1923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Bain News Service, publisher",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Nikolai_Krestinsky.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nikolai_Krestinsky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Imágenes procedentes de los fondos de la Biblioteca Nacional de España",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a_Universidad_de_Valencia_18_julio_1937.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Manuel_Aza%C3%B1a_Universidad_de_Valencia_18_julio_1937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Imágenes procedentes de los fondos de la Biblioteca Nacional de España · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:Manuel_Aza%C3%B1a_Universidad_de_Valencia_18_julio_1937.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Agence de presse Meurisse",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Francisco_Largo_Caballero_1927_(cropped).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Francisco_Largo_Caballero_1927_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bf_109A_from_the_Condor_Legion_with_Nationalist_Spain_markings.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bf_109A_from_the_Condor_Legion_with_Nationalist_Spain_markings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "AnonymousUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Franco_y_Mola_(Burgos,_1936).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Franco_y_Mola_%28Burgos%2C_1936%29.jpg/1920px-Franco_y_Mola_%28Burgos%2C_1936%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Friends of the Abraham Lincoln Brigade",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Ernest_Hemingway_Visiting_15th_International_Brigade,_December,_1937.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ernest_Hemingway_Visiting_15th_International_Brigade%2C_December%2C_1937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "unclear, photo not attributed. Olpinski died 1944",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Guardia_de_Assalto_manning_a_Soviet_artillery_piece.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Guardia_de_Assalto_manning_a_Soviet_artillery_piece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Adam Jones from Kelowna, BC, Canada",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hotel_Continental_-_Where_Orwell_Stayed_during_May_Days_1937_-_Barcelona_-_Spain_(14372921711).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Hotel_Continental_-_Where_Orwell_Stayed_during_May_Days_1937_-_Barcelona_-_Spain_%2814372921711%29.jpg/1920px-Hotel_Continental_-_Where_Orwell_Stayed_during_May_Days_1937_-_Barcelona_-_Spain_%2814372921711%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Adam Jones from Kelowna, BC, Canada · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Hotel_Continental_-_Where_Orwell_Stayed_during_May_Days_1937_-_Barcelona_-_Spain_(14372921711).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Blindado_Sabadell.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Blindado_Sabadell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Juan_Negr%C3%ADn_1938_(cropped).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Juan_Negr%C3%ADn_1938_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "no author stated",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Andreu_Nin_004.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Andreu_Nin_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Negrin,_Prieto_and_general_Rojo.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Negrin%2C_Prieto_and_general_Rojo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Popular Front of Spain",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Negrin_speaking_1938.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Negrin_speaking_1938.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "photo unsigned, presumed anonymous",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Negrin_inspecting_troops.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Negrin_inspecting_troops.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Concern Illustrated Daily Courier - Illustration Archive",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Republican_howitzer_in_the_Ebro.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Republican_howitzer_in_the_Ebro.jpg/1920px-Republican_howitzer_in_the_Ebro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Concern Illustrated Daily Courier - Illustration Archive",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Members_of_an_international_battalion_in_the_football_field_of_Mar%C3%A7%C3%A0.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Members_of_an_international_battalion_in_the_football_field_of_Mar%C3%A7%C3%A0.jpg/1920px-Members_of_an_international_battalion_in_the_football_field_of_Mar%C3%A7%C3%A0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Concern Illustrated Daily Courier - Illustration Archive",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Soldiers_being_rewarded_after_the_Battle_of_the_Ebro.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Soldiers_being_rewarded_after_the_Battle_of_the_Ebro.jpg/1920px-Soldiers_being_rewarded_after_the_Battle_of_the_Ebro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Ministry of Information official photographer",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:MunichAgreement.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/MunichAgreement.jpg/1920px-MunichAgreement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "H. F. Davis",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:London_Blitz_9_September_1940.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/London_Blitz_9_September_1940.jpg/1920px-London_Blitz_9_September_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "P. Luis Torrents",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Juan_Negr%C3%ADn_international_brigade_farewell_1938.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Juan_Negr%C3%ADn_international_brigade_farewell_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bombardeo_de_las_cuatro_horas.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bombardeo_de_las_cuatro_horas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "AnonymousUnknown author (CDBG)",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:El_poblado_de_Guernica_en_ruinas_tras_el_bombardeo.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/El_poblado_de_Guernica_en_ruinas_tras_el_bombardeo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Ministry of Information Photo Division Photographer",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:London_As_USUAL-_Everyday_Life_in_London,_England,_1940_D1788.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/London_As_USUAL-_Everyday_Life_in_London%2C_England%2C_1940_D1788.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Juan_Negr%C3%ADn_resignation_Mexico_1945.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Juan_Negr%C3%ADn_resignation_Mexico_1945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Francisco_Franco_llega_a_la_catedral_de_Valladolid_1939.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Francisco_Franco_llega_a_la_catedral_de_Valladolid_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "Archivo: Unknown authorUnknown author · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Francisco_Franco_llega_a_la_catedral_de_Valladolid_1939.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Francisco_Franco_circa_1939.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Francisco_Franco_circa_1939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:CNT-FAI_Cooperative_Barcelona.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/CNT-FAI_Cooperative_Barcelona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Agence de presse Meurisse",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:D._Jos%C3%A9_Giral.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/D._Jos%C3%A9_Giral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-19",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ }
+]

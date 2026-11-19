@@ -1,0 +1,182 @@
+== piel: Siglos XIX y XX, guerras mundiales, revoluciones, Guerra Fría · etalonaje frio
+== 1/5 audio: colocando voces, música y efectos
+voz: 47.8 min, 6591 palabras narrador, total 59.3 min
+   alineación: 173 unidades (0 con whisper, resto en caché o proporcional)
+== 2/5 guion visual
+  aviso ancla no encontrada (unidad 29): "primer"
+  aviso ancla no encontrada (unidad 40): "cientos"
+  aviso ancla no encontrada (unidad 48): "pocos"
+  aviso ancla no encontrada (unidad 56): "Aceña"
+  aviso ancla no encontrada (unidad 58): "salió"
+  aviso ancla no encontrada (unidad 80): "después"
+  aviso ancla no encontrada (unidad 85): "saber"
+  aviso ancla no encontrada (unidad 86): "retrata"
+  aviso ancla no encontrada (unidad 121): "cierto"
+  aviso ancla no encontrada (unidad 123): "pasar por Moscú"
+  aviso ancla no encontrada (unidad 126): "necesitaba"
+  aviso ancla no encontrada (unidad 128): "argumento"
+  aviso ancla no encontrada (unidad 135): "ventas"
+  aviso ancla no encontrada (unidad 146): "política"
+  aviso ancla no encontrada (unidad 155): "pagaba"
+  aviso ancla no encontrada (unidad 164): "único"
+  aviso ancla no encontrada (unidad 175): "había"
+  aviso ancla no encontrada (unidad 176): "derecha"
+  aviso ancla no encontrada (unidad 185): "todas"
+  aviso ancla no encontrada (unidad 186): "olvidar"
+  aviso ancla no encontrada (unidad 187): "Quizá"
+  aviso anclas muy juntas en t=178.2s: se retrasa "Viñas"
+  aviso anclas muy juntas en t=459.6s: se retrasa "Gran Bretaña"
+  aviso anclas muy juntas en t=573.5s: se retrasa "septiembre"
+  aviso anclas muy juntas en t=627.1s: se retrasa "un decreto reservado"
+  aviso anclas muy juntas en t=714.5s: se retrasa "hacia el sureste"
+  aviso anclas muy juntas en t=1014.7s: se retrasa "aviones rusos"
+  aviso anclas muy juntas en t=1176.2s: se retrasa "llegado"
+  aviso anclas muy juntas en t=1315.7s: se retrasa "Orlov"
+  aviso anclas muy juntas en t=1556.3s: se retrasa "Blackstone"
+  aviso anclas muy juntas en t=1638.2s: se retrasa "La Italia de Mussolini"
+  aviso anclas muy juntas en t=1678.5s: se retrasa "misma"
+  aviso anclas muy juntas en t=2290.1s: se retrasa "Alemania e Italia"
+  aviso anclas muy juntas en t=2802.5s: se retrasa "la mayor ofensiva"
+  aviso anclas muy juntas en t=2865.7s: se retrasa "refugiados"
+  aviso anclas muy juntas en t=2931.9s: se retrasa "llega a México"
+  aviso anclas muy juntas en t=3047.0s: se retrasa "un dosier"
+  aviso anclas muy juntas en t=3146.3s: se retrasa "soviética"
+  aviso anclas muy juntas en t=3501.8s: se retrasa "Quizá"
+  aviso glosario: "NKVD" cae en una tarjeta u otro glosario
+  aviso glosario: "claveros" cae en una tarjeta u otro glosario
+  aviso glosario: "Gojrán" cae en una tarjeta u otro glosario
+  sincronía: plano 5 t=20.1s: rótulo "Banco de España" sin mención en ±2 s
+  sincronía: plano 13 t=62.1s: rótulo "Iósif Stalin" sin mención en ±2 s
+  sincronía: plano 16 t=81.7s: rótulo "Madrid" sin mención en ±2 s
+  sincronía: plano 28 t=179.2s: dura 14.5 s; añade un plano o una tarjeta
+  sincronía: plano 38 t=246.3s: dura 17.1 s; añade un plano o una tarjeta
+  sincronía: plano 42 t=279.8s: dura 9.7 s; añade un plano o una tarjeta
+  sincronía: plano 43 t=289.5s: dura 12.1 s; añade un plano o una tarjeta
+  sincronía: plano 48 t=323.9s: dura 10.5 s; añade un plano o una tarjeta
+  sincronía: plano 50 t=340.5s: dura 9.8 s; añade un plano o una tarjeta
+  sincronía: plano 53 t=362.3s: dura 15.3 s; añade un plano o una tarjeta
+  sincronía: plano 56 t=388.3s: dura 11.0 s; añade un plano o una tarjeta
+  sincronía: plano 60 t=433.6s: dura 10.3 s; añade un plano o una tarjeta
+  sincronía: plano 63 t=458.8s: rótulo "Léon Blum" sin mención en ±2 s
+  sincronía: plano 64 t=460.4s: dura 9.8 s; añade un plano o una tarjeta
+  sincronía: plano 66 t=477.8s: dura 13.0 s; añade un plano o una tarjeta
+  sincronía: plano 72 t=518.1s: dura 9.7 s; añade un plano o una tarjeta
+  sincronía: plano 73 t=527.8s: dura 10.6 s; añade un plano o una tarjeta
+  sincronía: plano 74 t=538.4s: dura 10.3 s; añade un plano o una tarjeta
+  sincronía: plano 82 t=585.4s: dura 23.5 s; añade un plano o una tarjeta
+  sincronía: plano 83 t=609.0s: dura 9.5 s; añade un plano o una tarjeta
+  sincronía: plano 93 t=668.5s: dura 10.4 s; añade un plano o una tarjeta
+  sincronía: plano 94 t=678.9s: dura 9.4 s; añade un plano o una tarjeta
+  sincronía: plano 97 t=703.8s: dura 9.7 s; añade un plano o una tarjeta
+  sincronía: plano 109 t=783.1s: dura 12.0 s; añade un plano o una tarjeta
+  sincronía: plano 110 t=795.0s: dura 15.6 s; añade un plano o una tarjeta
+  sincronía: plano 113 t=827.3s: dura 17.8 s; añade un plano o una tarjeta
+  sincronía: plano 119 t=881.1s: dura 9.3 s; añade un plano o una tarjeta
+  sincronía: plano 121 t=900.3s: dura 9.6 s; añade un plano o una tarjeta
+  sincronía: plano 128 t=948.9s: dura 16.2 s; añade un plano o una tarjeta
+  sincronía: plano 129 t=965.1s: dura 9.6 s; añade un plano o una tarjeta
+  sincronía: plano 137 t=1017.7s: dura 15.1 s; añade un plano o una tarjeta
+  sincronía: plano 140 t=1047.9s: dura 11.0 s; añade un plano o una tarjeta
+  sincronía: plano 141 t=1058.9s: dura 11.3 s; añade un plano o una tarjeta
+  sincronía: plano 142 t=1070.2s: dura 17.8 s; añade un plano o una tarjeta
+  sincronía: plano 145 t=1099.6s: dura 11.1 s; añade un plano o una tarjeta
+  sincronía: plano 151 t=1143.8s: dura 9.0 s; añade un plano o una tarjeta
+  sincronía: plano 154 t=1165.4s: dura 11.2 s; añade un plano o una tarjeta
+  sincronía: plano 157 t=1185.8s: dura 21.4 s; añade un plano o una tarjeta
+  sincronía: plano 162 t=1238.0s: dura 9.2 s; añade un plano o una tarjeta
+  sincronía: plano 169 t=1285.8s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 174 t=1316.7s: dura 23.2 s; añade un plano o una tarjeta
+  sincronía: plano 177 t=1352.4s: dura 10.1 s; añade un plano o una tarjeta
+  sincronía: plano 179 t=1369.7s: dura 11.0 s; añade un plano o una tarjeta
+  sincronía: plano 182 t=1393.5s: rótulo "La Algameca" sin mención en ±2 s
+  sincronía: plano 189 t=1442.3s: dura 11.5 s; añade un plano o una tarjeta
+  sincronía: plano 200 t=1521.4s: dura 10.3 s; añade un plano o una tarjeta
+  sincronía: plano 203 t=1542.9s: dura 12.1 s; añade un plano o una tarjeta
+  sincronía: plano 206 t=1563.3s: dura 20.7 s; añade un plano o una tarjeta
+  sincronía: plano 224 t=1679.1s: dura 13.7 s; añade un plano o una tarjeta
+  sincronía: plano 225 t=1692.8s: dura 10.8 s; añade un plano o una tarjeta
+  sincronía: plano 239 t=1794.1s: dura 21.0 s; añade un plano o una tarjeta
+  sincronía: plano 243 t=1836.3s: dura 9.1 s; añade un plano o una tarjeta
+  sincronía: plano 246 t=1864.4s: dura 9.5 s; añade un plano o una tarjeta
+  sincronía: plano 247 t=1873.9s: dura 9.0 s; añade un plano o una tarjeta
+  sincronía: plano 249 t=1887.9s: dura 11.8 s; añade un plano o una tarjeta
+  sincronía: plano 250 t=1899.8s: dura 9.6 s; añade un plano o una tarjeta
+  sincronía: plano 257 t=1966.2s: dura 9.5 s; añade un plano o una tarjeta
+  sincronía: plano 258 t=1975.7s: dura 14.1 s; añade un plano o una tarjeta
+  sincronía: plano 260 t=2004.6s: dura 10.5 s; añade un plano o una tarjeta
+  sincronía: plano 263 t=2029.6s: dura 9.6 s; añade un plano o una tarjeta
+  sincronía: plano 264 t=2039.2s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 266 t=2078.6s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 267 t=2088.6s: dura 9.4 s; añade un plano o una tarjeta
+  sincronía: plano 276 t=2160.6s: dura 12.6 s; añade un plano o una tarjeta
+  sincronía: plano 278 t=2177.5s: dura 14.6 s; añade un plano o una tarjeta
+  sincronía: plano 279 t=2192.1s: dura 11.3 s; añade un plano o una tarjeta
+  sincronía: plano 280 t=2203.5s: dura 14.1 s; añade un plano o una tarjeta
+  sincronía: plano 287 t=2275.5s: dura 18.0 s; añade un plano o una tarjeta
+  sincronía: plano 290 t=2297.5s: dura 18.6 s; añade un plano o una tarjeta
+  sincronía: plano 295 t=2342.3s: dura 10.1 s; añade un plano o una tarjeta
+  sincronía: plano 296 t=2352.4s: dura 13.6 s; añade un plano o una tarjeta
+  sincronía: plano 301 t=2401.8s: dura 9.7 s; añade un plano o una tarjeta
+  sincronía: plano 303 t=2419.9s: dura 33.4 s; añade un plano o una tarjeta
+  sincronía: plano 306 t=2463.7s: dura 13.7 s; añade un plano o una tarjeta
+  sincronía: plano 307 t=2477.4s: dura 9.4 s; añade un plano o una tarjeta
+  sincronía: plano 309 t=2488.8s: dura 22.1 s; añade un plano o una tarjeta
+  sincronía: plano 313 t=2531.5s: dura 18.7 s; añade un plano o una tarjeta
+  sincronía: plano 324 t=2643.8s: dura 10.6 s; añade un plano o una tarjeta
+  sincronía: plano 326 t=2661.9s: dura 15.9 s; añade un plano o una tarjeta
+  sincronía: plano 328 t=2682.4s: dura 12.8 s; añade un plano o una tarjeta
+  sincronía: plano 330 t=2703.2s: dura 10.0 s; añade un plano o una tarjeta
+  sincronía: plano 332 t=2722.1s: dura 10.8 s; añade un plano o una tarjeta
+  sincronía: plano 335 t=2757.9s: dura 10.6 s; añade un plano o una tarjeta
+  sincronía: plano 347 t=2851.0s: dura 18.6 s; añade un plano o una tarjeta
+  sincronía: plano 349 t=2871.2s: dura 13.9 s; añade un plano o una tarjeta
+  sincronía: plano 351 t=2889.1s: dura 17.6 s; añade un plano o una tarjeta
+  sincronía: plano 354 t=2920.6s: rótulo "Madrid" sin mención en ±2 s
+  sincronía: plano 354 t=2920.6s: dura 10.5 s; añade un plano o una tarjeta
+  sincronía: plano 356 t=2932.7s: dura 12.1 s; añade un plano o una tarjeta
+  sincronía: plano 362 t=2980.3s: dura 9.8 s; añade un plano o una tarjeta
+  sincronía: plano 366 t=3010.4s: dura 13.0 s; añade un plano o una tarjeta
+  sincronía: plano 369 t=3035.5s: dura 10.1 s; añade un plano o una tarjeta
+  sincronía: plano 373 t=3066.8s: dura 11.1 s; añade un plano o una tarjeta
+  sincronía: plano 380 t=3117.1s: dura 18.7 s; añade un plano o una tarjeta
+  sincronía: plano 384 t=3153.9s: dura 14.6 s; añade un plano o una tarjeta
+  sincronía: plano 391 t=3209.2s: dura 9.7 s; añade un plano o una tarjeta
+  sincronía: plano 394 t=3231.5s: dura 11.5 s; añade un plano o una tarjeta
+  sincronía: plano 395 t=3243.1s: dura 19.3 s; añade un plano o una tarjeta
+  sincronía: plano 397 t=3266.9s: dura 12.9 s; añade un plano o una tarjeta
+  sincronía: plano 404 t=3349.5s: dura 16.4 s; añade un plano o una tarjeta
+  sincronía: plano 410 t=3413.3s: dura 9.2 s; añade un plano o una tarjeta
+  sincronía: plano 414 t=3438.7s: dura 23.9 s; añade un plano o una tarjeta
+  sincronía: plano 416 t=3470.9s: dura 13.3 s; añade un plano o una tarjeta
+  sincronía: plano 419 t=3495.7s: dura 12.2 s; añade un plano o una tarjeta
+  sincronía: plano 421 t=3509.5s: dura 14.5 s; añade un plano o una tarjeta
+   427 planos
+== 3/5 buscando y descargando material
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/427
+   plano 20/427
+   plano 40/427
+   plano 60/427
+   plano 80/427
+   plano 100/427
+   plano 120/427
+   plano 140/427
+   plano 160/427
+   plano 180/427
+   plano 200/427
+   plano 220/427
+   plano 240/427
+   plano 260/427
+   plano 280/427
+   plano 300/427
+   plano 320/427
+   plano 340/427
+   plano 360/427
+   plano 380/427
+   plano 400/427
+   plano 420/427
+== 5/5 montaje final
+== licencias: PUBLICAR SÍ · 0 bloqueos · 0 avisos (licencias_estado.txt)
+   hojas de sincronía: 35
+FIN: jobs/orodemoscu/out/orodemoscu.mp4 · 59.8 min · 335 MB

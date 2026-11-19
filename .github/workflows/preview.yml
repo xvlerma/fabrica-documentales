@@ -1,0 +1,22 @@
+name: preview
+on:
+  push:
+    branches: [preview-oro]
+permissions:
+  contents: write
+  actions: read
+jobs:
+  prev:
+    runs-on: ubuntu-latest
+    steps:
+      - run: sudo apt-get install -y -qq ffmpeg >/dev/null
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh run download 44594322518 -R ${{ github.repository }} -n shots-0 -D s
+          ls s | sort | head -40
+          ls s/*.mp4 | sort | head -14 > l.txt
+          sed 's/^/file /' l.txt > c.txt
+          ffmpeg -v error -f concat -safe 0 -i c.txt -t 75 -vf scale=1280:-2 -c:v libx264 -preset veryfast -crf 28 -an prev.mp4
+          ls -la prev.mp4
+          git init -q o && cp prev.mp4 o/ && cd o && git checkout -q -b prev-out && git add prev.mp4 && git -c user.name=bot -c user.email=b@b commit -qm prev && git push -qf https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} prev-out

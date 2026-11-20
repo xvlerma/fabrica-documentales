@@ -1,0 +1,15 @@
+name: descarga
+on:
+  push:
+    branches: [assets-roma]
+permissions:
+  contents: write
+jobs:
+  get:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          while read n u; do curl -sSL -A "DocuVoxFabrica/1.0 (github.com/xvlerma)" -o "$n" "$u"; ls -la "$n"; done < urls.txt
+          git config user.name fabrica; git config user.email fabrica@users.noreply.github.com
+          git add *.jpg; git commit -qm "imágenes"; git push

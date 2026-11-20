@@ -179,7 +179,7 @@ ESP("[serious] Porque Roma, en realidad, no cayó en el cuatrocientos setenta y 
     ph('Theodosian Walls Istanbul', at='siguió en pie', lt=['Murallas de Teodosio', 'Estambul · hoy']))
 NAR("Hasta el veintinueve de mayo de mil cuatrocientos cincuenta y tres. Ese día, los turcos otomanos del sultán Mehmed entran en Constantinopla. El último emperador, Constantino Paleólogo, muere luchando en las murallas. Habían pasado más de dos mil doscientos años desde aquellas cabañas en el Palatino.",
     ph('Fall of Constantinople Zonaro', at='entran en Constantinopla'),
-    cd(dict(type='timeline', title='Más de veintidós siglos', items=[dict(year='753 a. C.', label='Fundación'), dict(year='509 a. C.', label='República'), dict(year='27 a. C.', label='Imperio'), dict(year='476 d. C.', label='Fin de Occidente'), dict(year='1453', label='Fin de Constantinopla')]), at='más de dos mil doscientos años'))
+    cd(dict(type='timeline', header='Más de veintidós siglos', events=[['753 a. C.', 'Fundación'], ['509 a. C.', 'República'], ['27 a. C.', 'Imperio'], ['476 d. C.', 'Fin de Occidente'], ['1453', 'Fin de Constantinopla']]), at='más de dos mil doscientos años'))
 NAR("Y ni siquiera entonces murió del todo. Si hablas español, hablas una forma de latín, el que trajeron los legionarios a Hispania. Cuando dices «julio» o «agosto», nombras a Julio César y a Augusto. Muchas de nuestras leyes vienen del derecho romano. Nuestras carreteras siguen, a menudo, el trazado de sus calzadas.",
     ph('Aqueduct of Segovia', at='a Hispania', lt=['Acueducto de Segovia', 'Siglo I-II d. C. · hoy']),
     ph('Merida Roman theatre', at='del derecho romano', lt=['Teatro romano de Mérida', 'Augusta Emerita · hoy']),

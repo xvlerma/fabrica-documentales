@@ -47,6 +47,44 @@ for i, u in enumerate(U):
             r = FIX[sh.pop('photo')]; sh.update(r)
             if 'ai' in r: sh.pop('src', None)
         if 'photo' in sh and sh['photo'] in LUG: sh['lugar'] = sh['photo']
+# --- montaje: orden por ancla, sin rótulo en IA, y planos largos partidos (duraciones del casting) ---
+import unicodedata
+def _n(x): return ' '.join(re.sub(r'[^a-z0-9ñ ]', ' ', ''.join(c for c in unicodedata.normalize('NFD', re.sub(r'\[[^\]]*\]', ' ', x or '').lower()) if unicodedata.category(c) != 'Mn')).split())
+for i, u in enumerate(U):
+    sh = u.get('shots') or []
+    if u.get('text') and len(sh) > 1:
+        txt = _n(u['text']); keys = []; last = -1
+        for s in sh:
+            p = txt.find(_n(s['at'])) if s.get('at') else -1
+            last = p if p >= 0 else last + 0.01; keys.append(last)
+        u['shots'] = [s for _, s in sorted(zip(keys, sh), key=lambda z: z[0])]
+    for s in u.get('shots') or []:
+        if 'ai' in s: s.pop('lt', None)
+    if i == 179:
+        for s in u['shots']: s.pop('lt', None) if s.get('photo') == 'Marcus Aurelius equestrian statue Capitoline' else None
+EDL = os.path.join(HERE, 'edl_cast.json')
+if os.path.exists(EDL):
+    from collections import Counter
+    uses = Counter(s['photo'] for u in U for s in u.get('shots') or [] if 'photo' in s)
+    long_ = {}
+    for e in json.load(open(EDL)):
+        sp = e['spec']
+        if e['d'] > 9.5 and ('photo' in sp or 'ai' in sp) and sp.get('at'): long_[(e['unit'], sp['at'])] = e['d']
+    extra = 0
+    for i, u in enumerate(U):
+        out = []
+        for s in u.get('shots') or []:
+            out.append(s); d = long_.get((i, s.get('at')))
+            if not d: continue
+            ph_ = s.get('photo'); add = []
+            if ph_ and ph_ in QCUR:
+                n = min(2, int(d // 7), 2 * len(QCUR[ph_]) - uses[ph_])
+                add = [dict({k: v for k, v in s.items() if k in ('photo', 'src', 'lugar')}) for _ in range(max(0, n))]
+                uses[ph_] += len(add)
+            elif 'ai' in s and d > 11: add = [dict(ai=s['ai'])]
+            out += add; extra += len(add)
+        if u.get('shots'): u['shots'] = out
+    print('planos añadidos en tramos largos:', extra)
 job = {
     'lugares': LUG, 'permitir_sa': True,
     'id': 'roma', 'title': 'La Antigua Roma (Historia Completa)', 'channel': 'DocuVox', 'stage': stage,

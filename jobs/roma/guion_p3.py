@@ -18,10 +18,10 @@ MUR("Algunos parecen sacados de una campaña electoral de hoy.",
     ph('Pompeii electoral programmata', at='campaña electoral'))
 FUE("Todos los vendedores de fruta, junto con Helvio Vestal, os piden que elijáis a Marco Holconio Prisco como duunviro.",
     cd(dict(type='grafito', latin='M HOLCONIVM PRISCVM IIVIRVM POMARI VNIVERSI CVM HELVIO VESTALE ROG', text='Todos los vendedores de fruta, con Helvio Vestal, os piden que elijáis a Marco Holconio Prisco como duunviro.', ref='Cartel electoral de Pompeya · CIL IV 202'), at='Todos los vendedores'))
-MUR("Y hay uno que lo resume todo. Está escrito, precisamente, en una pared.",
-    ph('Pompeii Basilica graffiti', at='Está escrito'))
 MUR("Otros, a ídolos de su tiempo. En una pared de Pompeya alguien escribió sobre un gladiador tracio llamado Celado: «el suspiro de las chicas». Los gladiadores eran las estrellas del rock de Roma.",
     cd(dict(type='grafito', latin='SVSPIRIVM PVELLARVM CELADVS THRAEX', text='Celado, el tracio, el suspiro de las chicas.', ref='Grafito de Pompeya · CIL IV 4342'), at='el suspiro de las chicas'))
+MUR("Y hay uno que lo resume todo. Está escrito, precisamente, en una pared.",
+    ph('Pompeii Basilica graffiti', at='Está escrito'))
 MUR("[softly] Me admiro, pared, de que no te hayas derrumbado, tú que soportas las tonterías de tantos escritores.",
     cd(dict(type='grafito', latin='ADMIROR TE PARIES NON CECIDISSE RUINIS QUI TOT SCRIPTORUM TAEDIA SUSTINEAS', text='Me admiro, pared, de que no te hayas derrumbado, tú que soportas las tonterías de tantos escritores.', ref='Grafito de Pompeya · CIL IV 1904'), at='Me admiro'))
 NAR("Dos mil años antes de internet, Roma ya tenía comentarios.",
@@ -41,11 +41,11 @@ MUR("El poeta Juvenal, siempre amargado, se burlaba de ese pueblo que antes repa
     ph('Juvenal', at='Juvenal', lt=['Juvenal', 'Poeta satírico · siglos I y II d. C.', 'roma']))
 FUE("[serious] Solo desea ansiosamente dos cosas: pan y juegos de circo.",
     PAP('Duas tantum res anxius optat: panem et circenses.', 'Juvenal', 'Sátiras, X, 81', at='pan y juegos'))
-MUR("Pero Roma también descansaba sobre algo que las películas suelen esconder: la esclavitud. En Italia, quizá uno de cada cuatro o cinco habitantes era esclavo, según la mayoría de los cálculos. Trabajaban en minas, en el campo, en las casas. Algunos eran médicos, maestros o secretarios. Podían comprar su libertad o recibirla de su amo. Y los libertos, sus hijos, podían llegar muy alto.",
+MUR("Pero Roma también descansaba sobre algo que las películas suelen esconder: la esclavitud. En Italia, quizá uno de cada cuatro o cinco habitantes era esclavo, según la mayoría de los cálculos. Trabajaban en minas, en el campo, en las casas. Algunos eran médicos, maestros o secretarios. Podían comprar su libertad o recibirla de su amo. Y los libertos, y sobre todo sus hijos, podían llegar muy alto.",
     ph('Roman slave collar inscription', at='la esclavitud'),
     ai('esclavos_mina', 'chained workers in a dark Roman mine carrying baskets of ore by oil-lamp light, exhausted, faces in shadow', at='en minas'),
     ph('Roman freedman funerary relief', at='los libertos'))
-MUR("Las mujeres no votaban ni ocupaban cargos. Pero muchas administraban patrimonios, tenían negocios y, en las clases altas, mandaban más de lo que admitían los historiadores. Y casi todas las que conocemos de nombre, las conocemos por sus tumbas. Como esta. La de una mujer llamada Claudia, en el siglo segundo antes de Cristo.",
+MUR("Las mujeres no votaban ni ocupaban cargos. Pero muchas administraban patrimonios, tenían negocios y, en las clases altas, mandaban más de lo que admitían los historiadores antiguos. Y casi todas las que conocemos de nombre, las conocemos por sus tumbas. Como esta. La de una mujer llamada Claudia, en el siglo segundo antes de Cristo.",
     ph('Roman funerary portrait woman Fayum', at='Las mujeres'),
     ph('Roman tombstone woman relief', at='por sus tumbas'))
 MUR("[softly] Extranjero, lo que tengo que decir es poco: detente y léelo. Esta es la tumba, nada hermosa, de una mujer hermosa. Sus padres la llamaron Claudia. Amó a su marido con todo su corazón. Tuvo dos hijos: a uno lo deja sobre la tierra; al otro, bajo la tierra. Fue de conversación agradable y de andar elegante. Cuidó la casa. Hiló la lana. He dicho. Vete.",
@@ -59,11 +59,11 @@ B('tema')
 NAR("A Trajano le sucede otro hispano, Adriano. Viajero incansable, amante de Grecia y pragmático: renuncia a las conquistas más difíciles y empieza a amurallar el imperio. En Britania manda levantar un muro de ciento diecisiete kilómetros, de costa a costa.",
     ph('Hadrian bust British Museum', at='Adriano', lt=['Adriano', 'Emperador · 117 – 138 d. C.', 'roma']),
     ph('Hadrian Wall Housesteads', at='un muro', lt=['Muro de Adriano', 'Northumberland, Reino Unido · hoy']))
-NAR("Le siguen Antonino Pío y Marco Aurelio. Con ellos, el imperio vive su época dorada. Marco Aurelio es el emperador filósofo. Escribió en griego, para sí mismo, un diario de pensamientos que hoy se vende en todas las librerías. Empieza así.",
+NAR("Le siguen Antonino Pío y Marco Aurelio. Con ellos, el imperio vive su época dorada.",
     ph('Marcus Aurelius equestrian statue Capitoline', at='Marco Aurelio', lt=['Marco Aurelio', 'Emperador y filósofo · 161 – 180 d. C.', 'roma']))
 V('HIS', "Si se pidiera a alguien que señalara el periodo de la historia del mundo en que la condición del género humano fue más feliz y próspera, nombraría sin dudarlo el que va desde la muerte de Domiciano hasta la llegada de Cómodo.",
     PAP('Si se pidiera a alguien que señalara el periodo de la historia en que la humanidad fue más feliz y próspera, nombraría sin dudarlo el que va desde la muerte de Domiciano hasta la llegada de Cómodo.', 'Edward Gibbon', 'Decadencia y caída del Imperio romano, cap. 3', at='Si se pidiera'))
-NAR("Gibbon exageraba, por supuesto. Pero algo de razón tenía.",
+NAR("Gibbon exageraba, por supuesto. Pero algo de razón tenía. Marco Aurelio era el emperador filósofo. Escribió en griego, para sí mismo, un diario de pensamientos que hoy se vende en todas las librerías. Empieza así.",
     ph('Antoninus Pius bust', at='algo de razón', lt=['Antonino Pío', 'Emperador · 138 – 161 d. C.', 'roma']))
 V('CAT', "[softly] Al amanecer, dite a ti mismo: hoy me encontraré con un entrometido, un ingrato, un insolente, un tramposo, un envidioso. Ninguno de ellos puede hacerme daño.",
     PAP('Al amanecer, dite a ti mismo: hoy me encontraré con un entrometido, un ingrato, un insolente, un tramposo, un envidioso. Ninguno de ellos puede hacerme daño.',
@@ -85,7 +85,7 @@ NAR("Del caos sale un general africano, nacido en Leptis Magna, en la actual Lib
     ph('Leptis Magna arch', at='Leptis Magna', lt=['Leptis Magna', 'Libia · hoy']))
 V('AUG', "[serious] Llevaos bien entre vosotros. Enriqueced a los soldados. Y despreciad a todos los demás.",
     PAP('Llevaos bien entre vosotros, enriqueced a los soldados y despreciad a todos los demás.', 'Septimio Severo, según Dion Casio', 'Historia romana, LXXVII, 15', at='Llevaos bien'))
-NAR("No le hicieron caso en lo primero. Al año siguiente, Caracalla mandó asesinar a su hermano Geta en brazos de su propia madre.",
+NAR("No le hicieron caso en lo primero. Ese mismo año, Caracalla mandó asesinar a su hermano Geta en brazos de su propia madre.",
     ph('Severan Tondo Geta erased', at='su hermano Geta', lt=['Tondo severiano', 'El rostro de Geta, borrado tras su asesinato']))
 NAR("En el año doscientos doce, el emperador Caracalla toma una decisión enorme, aunque casi nadie la recuerda: concede la ciudadanía romana a todos los hombres libres del imperio. De Britania a Egipto, todos son romanos. La historiadora Mary Beard termina precisamente en ese año su célebre historia de Roma: para ella, ahí acaba un modo de ser romano y empieza otro.",
     ph('Caracalla bust Naples', at='Caracalla', lt=['Caracalla', 'Emperador · 211 – 217 d. C.', 'roma']),

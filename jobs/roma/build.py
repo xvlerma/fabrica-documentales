@@ -90,12 +90,18 @@ if os.path.exists(EDL):
 LUGAR_VARIADO = {'Sagunto castle', 'Colosseum Rome exterior', 'Insula Ara Coeli Rome', 'Theodosian Walls Istanbul', 'Lake Trasimeno',
                  'Diocletian Palace Split', 'Hadrian Wall Housesteads', 'Italica Santiponce amphitheatre', 'Carthage Punic ports', 'Pompeii plaster casts'}
 from collections import Counter as _C
+REPL = {'Cato the Elder bust': {'ai': _AI['cato_senado']}, 'Augustus Via Labicana': {'ai': _AI['augusto_muerte']}, 'Pompeii graffiti wall': {'photo': 'Pompeii electoral inscription'}}
 tot = _C(); drop = 0; ai_seen = set()
 for i, u in enumerate(U):
     if not u.get('shots'): continue
     out = []; per = _C()
     for s in u['shots']:
         q = s.get('photo')
+        if q:
+            cap = len(QCUR.get(q, [1]))
+            if tot[q] >= cap and q in REPL:
+                s = {k: v for k, v in s.items() if k not in ('photo', 'src', 'lugar', 'lt')}; s.update(REPL[q]); q = s.get('photo')
+                if q: s['src'] = 'commons,met,cleveland,europeana'; s['lugar'] = q if q in LUG else s.get('lugar')
         if q:
             cap = len(QCUR.get(q, [1]))
             if tot[q] >= cap or (per[q] >= 1 and q not in LUGAR_VARIADO): drop += 1; continue

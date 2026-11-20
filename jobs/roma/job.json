@@ -3203,10 +3203,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Cato the Elder bust",
-     "src": "commons,met,cleveland,europeana",
      "at": "todos sus discursos",
-     "lugar": "Cato the Elder bust"
+     "ai": "https://www.figma.com/api/mcp/asset/b59d6a0d-562f-468d-a9ae-0356533985fb.png"
     }
    ],
    "gen": "w6yP4fR1xI5BpezWGlAU",
@@ -4474,10 +4472,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Augustus Via Labicana",
-     "src": "commons,met,cleveland,europeana",
      "at": "Murió en el año catorce",
-     "lugar": "Augustus Via Labicana"
+     "ai": "https://www.figma.com/api/mcp/asset/fad6ef34-c2af-4fc2-986d-0c17b87e524b.png"
     }
    ],
    "gen": "AXEKFkq3QIEJVbiUL1N5",
@@ -5554,13 +5550,13 @@
    "voice": "NAR",
    "shots": [
     {
-     "src": "commons,met,cleveland,europeana",
      "at": "Roma ya tenía comentarios",
      "kw": "CIL IV 1904",
      "kw_at": 0.4,
      "kw_dur": 2.2,
-     "photo": "Pompeii graffiti wall",
-     "lugar": "Pompeii graffiti wall"
+     "photo": "Pompeii electoral inscription",
+     "src": "commons,met,cleveland,europeana",
+     "lugar": "Pompeii electoral inscription"
     }
    ],
    "gen": "T9IyrzuiPiHvDdvmyOhu",

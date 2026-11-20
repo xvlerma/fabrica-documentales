@@ -93,10 +93,10 @@ NAR("[pause] Llegaron las lluvias. Y con ellas, la malaria y la fiebre amarilla.
     ai('cruces_playa', 'simple wooden crosses on a rainy tropical beach at dusk, palm trees bending in the wind', at='más de la mitad murieron'))
 INV("Los supervivientes fueron rescatados y llevados a la colonia británica de Belice. En octubre de mil ochocientos veintitrés, unos cincuenta volvieron a Londres. Y aquí viene lo más increíble: algunos seguían defendiendo a MacGregor. Pensaban que les habían fallado sus agentes, no él.",
     ai('rescate_barco', 'a rescue ship\'s rowing boat taking exhausted ragged settlers off a jungle beach at dawn, mist, seen from a distance', at='rescatados'),
-    ai('periodico_londres', 'a Londoner in a top hat reading a broadsheet newspaper on a foggy 1823 street, gas lamp, no readable text', at='volvieron a Londres'),
+    ph('London street 1820s engraving', at='volvieron a Londres'),
     K('LO DEFENDÍAN', 'Gregor MacGregor portrait', at='seguían defendiendo'))
 NAR("MacGregor ya había huido a Francia, donde intentó el mismo golpe con inversores franceses. Lo juzgaron en París. Y salió absuelto. Volvió a Venezuela, que le reconoció su grado de general y una pensión, y murió en Caracas en mil ochocientos cuarenta y cinco. [short pause] Nunca fue condenado por nada.",
-    ai('tribunal_paris', 'a 1820s Paris courtroom with dark wood panelling and a judge\'s bench, the defendant seen from behind standing in a fine coat', at='Lo juzgaron en París'),
+    ph('Palais de Justice Paris engraving', at='Lo juzgaron en París'),
     ph('Caracas 19th century', at='murió en Caracas'),
     K('NUNCA CONDENADO', 'Gregor MacGregor portrait', at='Nunca fue condenado'))
 INV("Poyais nos deja la primera lección de este expediente. A la gente no se la engaña con números. Se la engaña con una historia que quiere creer.",

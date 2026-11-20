@@ -14,10 +14,10 @@ NAR("Boston, agosto de mil novecientos diecinueve. Un inmigrante italiano de poc
     ph('International reply coupon', at='un pequeño cupón'))
 INV("Se llamaba Carlo Ponzi, aunque en América todos le conocían como Charles. Allí había fregado platos, trabajado de camarero y pasado por la cárcel en Canadá por falsificar un cheque. [short pause] Y aquel cupón le dio una idea.",
     ph('Charles Ponzi portrait', at='Carlo Ponzi'),
-    ai('fregando_platos', 'a young immigrant\'s hands washing dishes in a steaming restaurant kitchen sink, 1910s, warm tungsten light', at='fregado platos'))
+    ph('restaurant kitchen dishwashers 1910s', at='fregado platos'))
 PON("Llegué a este país con dos dólares y cincuenta centavos en efectivo y un millón de dólares en esperanzas. Y esas esperanzas nunca me abandonaron.",
     cd(dict(type='quote', text='Llegué a este país con 2,50 dólares en efectivo y un millón de dólares en esperanzas. Y esas esperanzas nunca me abandonaron.', attrib='Charles Ponzi a The New York Times'), at='Llegué a este país'),
-    ai('barco_inmigrantes', 'immigrants crowding the deck of a steamship arriving in Boston harbour in 1903, seen from behind, morning fog, suitcases', at='dos dólares'))
+    ph('immigrants steamship deck 1900s', at='dos dólares'))
 NAR("Era un cupón de respuesta internacional. Se compraba en un país y se canjeaba en otro por sellos. Pero tras la Primera Guerra Mundial, las monedas europeas se habían hundido. Un cupón comprado barato en Italia o en España se canjeaba en Estados Unidos por sellos que valían bastante más.",
     ph('International reply coupon Universal Postal Union', at='cupón de respuesta internacional', lt=['Cupón de respuesta internacional', 'Unión Postal Universal']),
     cd(dict(type='split', left=dict(title='Se compra en Europa', lines=['Moneda hundida tras la guerra', 'El cupón sale muy barato']), right=dict(title='Se canjea en EE. UU.', lines=['Sellos en dólares', 'Valen varias veces más']), strike=False), at='las monedas europeas'))
@@ -54,13 +54,13 @@ INV("Ese titular de portada fue el principio del fin. Al Boston Post le olió ra
     ph('Boston Post 1920 newspaper', at='Boston Post'),
     cd(dict(type='split', left=dict(title='Lo que prometía', lines=['Comprar cupones a millones', 'en toda Europa']), right=dict(title='Lo que había', lines=['Muchos menos cupones', 'en circulación en todo el mundo']), strike=True), at='las cuentas no salían'))
 NAR("Y entonces llegó la traición que Ponzi no esperaba. Su propio jefe de prensa, William McMasters, el hombre que le había ayudado a fabricar su imagen, se pasó al bando contrario. A principios de agosto publicó en el Boston Post su veredicto: Ponzi estaba en quiebra sin remedio.",
-    ai('redaccion_periodico', 'a 1920s newspaper newsroom at night, typewriters, a man in shirtsleeves handing a manuscript to an editor, cigarette smoke, seen from behind', at='jefe de prensa'),
+    ph('newspaper city room 1920s', at='jefe de prensa'),
     K('EN QUIEBRA', 'Boston Post 1920 newspaper', at='en quiebra'))
 NAR("[serious] En agosto de mil novecientos veinte, los auditores entraron en su empresa. Al final, cuando se contó todo, encontraron cupones por valor de sesenta y un dólares. Sesenta y uno. Por los millones que habían pasado por sus manos.",
-    ai('auditores_libros', 'accountants in 1920s suits bent over large ledgers under green desk lamps in a dark office, seen from behind', at='los auditores'),
+    ph('accountants office ledgers 1920s', at='los auditores'),
     cd(dict(type='counter', to=61, label='dólares en cupones encontrados por los auditores', prefix='$'), at='sesenta y un dólares'))
 NAR("La noticia corrió por Boston en horas. Esta vez, la multitud que rodeó su oficina no traía dinero. Según la revista Time, gritaba otra cosa: ¡Matadlo!",
-    ai('multitud_furiosa', 'an angry 1920 crowd pressing against the glass door of a Boston office, fists raised, police helmets visible, seen from inside the dark office', at='la multitud'),
+    ph('Ponzi crowd Boston 1920', at='la multitud'),
     K('¡MATADLO!', 'Ponzi crowd Boston 1920', at='Matadlo'))
 INV("Ponzi fue detenido ese mismo mes. Varios bancos cayeron con él. El Boston Post ganó el premio Pulitzer por destaparlo. Ponzi pasó más de una década entre cárceles y juicios, volvió a estafar en Florida vendiendo terrenos que eran pantano, y en mil novecientos treinta y cuatro fue deportado a Italia.",
     ph('Charles Ponzi mugshot', at='fue detenido'),
@@ -145,19 +145,19 @@ NAR("En octubre de mil novecientos veintinueve, la revista Time le dedicó su po
     ph('Time magazine cover Ivar Kreuger 1929', at='la revista Time'),
     ph('Wall Street crash 1929', at='Wall Street se desplomó'))
 NAR("[serious] Tras el crac, el dinero dejó de fluir. Kreuger necesitaba cada vez más crédito para tapar los agujeros, y empezó a falsificar balances. Incluso fabricó bonos falsos del Estado italiano para usarlos como garantía.",
-    ai('crac_ticker', 'ticker tape spilling onto the floor of a 1929 brokerage office, a fallen hat, panicked shadows on the wall', at='Tras el crac'),
+    ph('Wall Street crash 1929 crowd', at='Tras el crac'),
     ai('bonos_falsos', 'a stack of ornate engraved bond certificates under a desk lamp, a magnifying glass and a rubber stamp beside them, no readable text', at='bonos falsos'))
 INV("París, doce de marzo de mil novecientos treinta y dos. Kreuger tenía una reunión con sus banqueros. No se presentó. Lo encontraron en la cama de su apartamento con un disparo en el pecho y una pistola al lado. [short pause] Hay quien todavía hoy sostiene que lo asesinaron. La versión oficial fue el suicidio.",
     ai('dormitorio_paris', 'an elegant 1930s Paris apartment bedroom in morning light through tall shutters, an empty unmade bed, a revolver silhouette on the nightstand, no person visible', at='No se presentó'))
 NAR("Acababa de volver de Estados Unidos en barco, agotado. En el Hotel du Rhin le esperaban banqueros británicos y suecos para una reunión decisiva. Según la revista Time, aquella misma mañana todo París desfilaba ante el féretro de un ministro ilustre, Aristide Briand. Al día siguiente, los titulares ya no hablaban de Briand. Hablaban de él.",
     ai('vestibulo_hotel', 'bankers in 1930s overcoats waiting in an elegant Paris hotel lobby, pocket watches, cigarette smoke, nobody facing camera', at='Hotel du Rhin'),
-    ai('quiosco_prensa', 'a 1932 Paris newspaper kiosk on a rainy boulevard with stacks of newspapers and bold blurred headlines, no readable text', at='los titulares'))
+    ph('Paris newspaper kiosk 1930s', at='los titulares'))
 DOC("El rey de las cerillas, muerto en París. Lo encontraron con un revólver al lado. Curiosamente, no llevaba cerillas encima.",
     cd(dict(type='doc', title='Prensa internacional · 14 de marzo de 1932', lines=['«El rey mundial de las cerillas, muerto en un piso de París»', '«Encontrado con un revólver a su lado»', '«Curiosamente, no llevaba cerillas encima»'], source='Crónicas de agencia publicadas en la prensa de la época'), at='El rey de las cerillas'))
 NAR("Once días después, los auditores de Price Waterhouse abrieron sus libros. En pocas semanas lo declararon un estafador. Según la revista Time, había desviado más de mil cien millones de dólares de la época. La bolsa de Estocolmo tuvo que cerrar. Cayó el Gobierno sueco. Y miles de pequeños ahorradores, de Suecia a Estados Unidos, lo perdieron todo.",
     cd(dict(type='counter', to=1168, label='millones de dólares de 1932 desviados, según la revista Time', prefix='$'), at='mil cien millones'),
     ph('Stockholm Stock Exchange building', at='La bolsa de Estocolmo', lt=['La Bolsa de Estocolmo', 'Suecia']),
-    ai('ahorradores_banco', 'a crowd of worried small savers in 1932 coats and hats in front of closed bank doors in the snow, seen from behind', at='lo perdieron todo'))
+    ph('bank run crowd 1930s', at='lo perdieron todo'))
 DOC("Uno de los asuntos más feos de la historia de los negocios. Kreuger había sido el mayor estafador del mundo.",
     cd(dict(type='doc', title='Revista Time · 1932', lines=['«Uno de los asuntos más feos de la historia de los negocios»', '«El mayor estafador del mundo»'], source='Así resumió la prensa estadounidense el caso Kreuger'), at='Uno de los asuntos'))
 INV("Su caída pesó en la gran reforma financiera de Estados Unidos. En mil novecientos treinta y cuatro nació la SEC, la Comisión de Bolsa y Valores, el organismo que debía vigilar a los mercados para que algo así no volviera a pasar. [pause] Recuerda ese nombre. Volverá a salir.",

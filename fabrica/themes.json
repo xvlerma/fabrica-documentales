@@ -552,5 +552,85 @@
   "tracking": 0.5,
   "rule": "line",
   "grade": "neutro"
+ },
+ "roma": {
+  "uso": "Roma antigua: mármol, púrpura y bronce",
+  "accent": [
+   214,
+   168,
+   84
+  ],
+  "text": [
+   242,
+   234,
+   220
+  ],
+  "dim": [
+   160,
+   142,
+   124
+  ],
+  "alert": [
+   176,
+   26,
+   32
+  ],
+  "bg0": [
+   10,
+   7,
+   7
+  ],
+  "bg1": [
+   62,
+   18,
+   18
+  ],
+  "sea": [
+   12,
+   16,
+   22
+  ],
+  "land": [
+   70,
+   56,
+   42
+  ],
+  "coast": [
+   176,
+   146,
+   98
+  ],
+  "river": [
+   60,
+   100,
+   120
+  ],
+  "paper": [
+   226,
+   208,
+   170
+  ],
+  "ink": [
+   44,
+   26,
+   16
+  ],
+  "string": [
+   176,
+   26,
+   32
+  ],
+  "fonts": {
+   "display": "gf:ofl/marcellussc/MarcellusSC-Regular.ttf",
+   "display_light": "gf:ofl/marcellussc/MarcellusSC-Regular.ttf",
+   "body": "gf:ofl/ebgaramond/EBGaramond[wght].ttf@500",
+   "italic": "gf:ofl/ebgaramond/EBGaramond-Italic[wght].ttf@500",
+   "body_bold": "gf:ofl/ebgaramond/EBGaramond[wght].ttf@700",
+   "scratch": "gf:apache/rocksalt/RockSalt-Regular.ttf"
+  },
+  "case": "upper",
+  "tracking": 1.0,
+  "rule": "bar",
+  "grade": "calido"
  }
 }

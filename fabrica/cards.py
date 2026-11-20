@@ -129,6 +129,8 @@ def rule_layer(w=320):
 def f_title(spec, t, D):
     fr = bg(spec.get('seed', 11))
     a = ease(t / 1.2); s = 1 + 0.03 * (t / D)
+    if spec.get('num'):  # numeral romano gigante detrás del título de capítulo (piel «roma»)
+        put(fr, text_layer(spec['num'], font('cinzel600', 170), RED, TR(0.06)), W / 2, H / 2 - 230, ease(t / .9), dy=int(-20 * (1 - ease(t / .9))))
     _t = CASE(spec['title']); L = text_layer(_t, fit('cinzel600', int(116 * s), _t, 1680 * s, TR(0.10)), GOLD, TR(0.10))
     put(fr, L, W / 2, H / 2 - 40, a)
     if spec.get('sub'):
@@ -668,3 +670,187 @@ def end_screen(out, bg_path=None, kit=None):
     for w_, c_ in (('Y ', (244, 243, 238)), ('ESCUCHA', BRAND_DOT), (' MÁS.', (244, 243, 238))):
         d.text((x, 962), w_, font=f2, fill=c_, anchor='lm'); x += d.textlength(w_, font=f2)
     fr.convert('RGB').save(out, quality=95)
+
+# ================= GRAFISMO ROMA (nov. 2026) =================
+# Tarjetas nuevas para no repetir siempre la misma estructura: leyenda frente a historia real con sello,
+# expansión del territorio con año que corre, lectura de fuente antigua sobre papiro, grafito pompeyano.
+def _tex(base, seed, amp=18, blur=1.2, fib=False, vig=0.75):
+    rng = np.random.default_rng(seed)
+    n = rng.normal(0, 1, (H // 4, W // 4))
+    m = np.asarray(Image.fromarray(((n - n.min()) / (n.max() - n.min()) * 255).astype('uint8')).resize((W, H), Image.BICUBIC).filter(ImageFilter.GaussianBlur(10)), np.float32) / 255
+    rgb = np.array(base, np.float32)[None, None] * (0.82 + 0.3 * m[..., None]) + rng.normal(0, amp * 0.25, (H, W, 1))
+    if fib:  # fibras del papiro: rayas horizontales y verticales muy suaves
+        rows = rng.normal(0, 1, (H, 1)).repeat(W, 1); cols = rng.normal(0, 1, (1, W)).repeat(H, 0)
+        rgb += (rows * 5 + cols * 3)[..., None]
+    yy, xx = np.mgrid[0:H, 0:W]; v = 1 - vig * (((xx - W / 2) / (W / 2)) ** 2 + ((yy - H / 2) / (H / 2)) ** 2) ** 1.4
+    rgb *= np.clip(v, 0.18, 1)[..., None]
+    return Image.fromarray(np.clip(rgb, 0, 255).astype('uint8')).filter(ImageFilter.GaussianBlur(blur)).convert('RGBA')
+
+def _cached(key, fn):
+    if key not in _bgcache: _bgcache[key] = fn()
+    return _bgcache[key].copy()
+
+def _photo_bg(spec, dim=0.35, blur=3):
+    from PIL import ImageOps, ImageEnhance
+    p = spec.get('_path')
+    if not p or not os.path.exists(p): return None
+    def mk():
+        im = ImageOps.fit(Image.open(p).convert('RGB'), (W, H)).filter(ImageFilter.GaussianBlur(blur))
+        return ImageEnhance.Brightness(im).enhance(dim).convert('RGBA')
+    return _cached(('pbg', p, dim, blur), mk)
+
+def _rot_layer(layer, ang, sc):
+    w, h = layer.size; L = layer.resize((max(1, int(w * sc)), max(1, int(h * sc))), Image.BICUBIC)
+    return L.rotate(ang, resample=Image.BICUBIC, expand=True)
+
+def f_mito(spec, t, D):
+    """LA LEYENDA (en gris) → sello rojo «MITO» que cae → LA HISTORIA REAL (en oro)."""
+    fr = _photo_bg(spec) or bg(spec.get('seed', 71)); d = ImageDraw.Draw(fr)
+    t1 = spec.get('stamp_at', min(D * 0.38, 4.0)); t2 = t1 + 0.6
+    put(fr, text_layer(CASE(spec.get('h1', 'La leyenda')), font('cinzel400', 40), DIM, TR(0.3)), W / 2, 170, ease(t / .6))
+    fl = font('corm500i', 64); ly = 250
+    for i, l in enumerate(wrap(spec['leyenda'], fl, 1500)):
+        put(fr, text_layer(l, fl, CREAM if t < t1 else DIM), W / 2, ly + i * 80, ease((t - .3 - i * .25) / .7)); 
+    nl = len(wrap(spec['leyenda'], fl, 1500))
+    if t >= t1:  # tachado
+        k = ease((t - t1) / .35)
+        for i in range(nl):
+            y = ly + i * 80 + 4; d.line([(W / 2 - 760 * k, y), (W / 2 + 760 * k, y)], fill=RED, width=5)
+    if t >= t1:  # sello
+        k = min(1, (t - t1) / .22); sc = 1.9 - 0.9 * ease(k)
+        st = Image.new('RGBA', (560, 200), (0, 0, 0, 0)); sd = ImageDraw.Draw(st)
+        sd.rounded_rectangle([6, 6, 554, 194], radius=18, outline=RED + (235,), width=10)
+        s_ = CASE(spec.get('sello', 'Mito')); sf = fit('cinzel600', 120, s_, 500, TR(0.12))
+        st.alpha_composite(text_layer(s_, sf, RED + (235,), TR(0.12)), (int(280 - text_layer(s_, sf, RED, TR(0.12)).width / 2), 30))
+        rng = np.random.default_rng(3); a = np.asarray(st).copy(); holes = rng.random(a.shape[:2]) < 0.10; a[holes, 3] = (a[holes, 3] * 0.25).astype('uint8')
+        st = Image.fromarray(a, 'RGBA'); L = _rot_layer(st, -9, sc)
+        put(fr, L, W / 2 + 560, ly + nl * 80 + 10, min(1, k * 1.5))
+    hy = ly + nl * 80 + 200
+    put(fr, rule_layer(520), W / 2, hy - 60, ease((t - t2) / .6))
+    put(fr, text_layer(CASE(spec.get('h2', 'La historia real')), font('cinzel600', 52), GOLD, TR(0.22)), W / 2, hy, ease((t - t2) / .6))
+    fr2 = font('corm500', 58)
+    for i, l in enumerate(wrap(spec['real'], fr2, 1560)):
+        put(fr, text_layer(l, fr2, CREAM), W / 2, hy + 95 + i * 72, ease((t - t2 - .4 - i * .3) / .7), dy=int(16 * (1 - ease((t - t2 - .4 - i * .3) / .7))))
+    if spec.get('fuente'): put(fr, text_layer(spec['fuente'], font('corm500i', 34), DIM), W / 2, H - 70, ease((t - t2 - 1) / .8))
+    return fr
+
+def _countries():
+    return _geo('ne_50m_admin_0_countries')['features']
+
+def _clip_ring(ring, box):
+    """Recorta un anillo a una caja lon/lat (Sutherland–Hodgman)."""
+    x0, y0, x1, y1 = box
+    def clip(pts, inside, inter):
+        out = []
+        for i in range(len(pts)):
+            a, b = pts[i - 1], pts[i]
+            if inside(b):
+                if not inside(a): out.append(inter(a, b))
+                out.append(b)
+            elif inside(a): out.append(inter(a, b))
+        return out
+    def ix(x): return lambda a, b: (x, a[1] + (b[1] - a[1]) * (x - a[0]) / ((b[0] - a[0]) or 1e-9))
+    def iy(y): return lambda a, b: (a[0] + (b[0] - a[0]) * (y - a[1]) / ((b[1] - a[1]) or 1e-9), y)
+    p = [tuple(q) for q in ring]
+    for ins, it in ((lambda q: q[0] >= x0, ix(x0)), (lambda q: q[0] <= x1, ix(x1)), (lambda q: q[1] >= y0, iy(y0)), (lambda q: q[1] <= y1, iy(y1))):
+        if not p: break
+        p = clip(p, ins, it)
+    return p
+
+def _region_polys(items):
+    """items: ['ITA', {'c': 'ESP', 'box': [lon0, lat0, lon1, lat1]}, ...] → lista de anillos lon/lat."""
+    feats = {}
+    for f in _countries():
+        pr = f['properties']
+        for k in ('ADM0_A3', 'ISO_A3', 'SOV_A3'):
+            if pr.get(k) and pr[k] not in feats: feats[pr[k]] = f
+    rings = []
+    for it in items:
+        c, boxes = (it, None) if isinstance(it, str) else (it['c'], it.get('box'))
+        f = feats.get(c)
+        if not f: continue
+        g = f['geometry']; polys = g['coordinates'] if g['type'] == 'MultiPolygon' else [g['coordinates']]
+        for poly in polys:
+            ring = poly[0]
+            if boxes:
+                for b in (boxes if isinstance(boxes[0], (list, tuple)) else [boxes]):
+                    r = _clip_ring(ring, b)
+                    if len(r) > 2: rings.append(r)
+            else: rings.append(ring)
+    return rings
+
+def f_imperio(spec, t, D):
+    """Mancha de tinta que crece: el territorio romano etapa a etapa, con el año corriendo arriba a la derecha."""
+    bbox = spec.get('bbox', [-11, 23, 46, 57]); lon0, lat0, lon1, lat1 = fit_bbox(bbox)
+    def P(lon, lat): return ((lon - lon0) / (lon1 - lon0) * W, (lat1 - lat) / (lat1 - lat0) * H)
+    fr = _map_base(bbox, spec.get('seed', 63))
+    st = spec['stages']; n = len(st); step = (D - 1.2) / max(1, n)
+    cur = max(0, min(n - 1, int((t - .4) / step))) if t > .4 else -1
+    col = _col(spec.get('color'), RED)
+    lay = Image.new('RGBA', (W, H), (0, 0, 0, 0)); ld = ImageDraw.Draw(lay)
+    for i, s in enumerate(st[:cur + 1]):
+        k = ease((t - .4 - i * step) / min(1.0, step * .8))
+        rings = _cached(('rings', i, json.dumps(s['zona'])), lambda: Image.new('L', (1, 1))) if False else None
+        fresh = i == cur
+        c = tuple(int(_lerp(g, r, k)) for g, r in zip(GOLD, col)) if fresh else col
+        for ring in _region_polys(s['zona']):
+            pts = [P(x, y) for x, y in ring]
+            if len(pts) > 2: ld.polygon(pts, fill=c + (int(200 * (k if fresh else 1)),))
+    lay = lay.filter(ImageFilter.GaussianBlur(1.4)); fr.alpha_composite(lay)
+    d = ImageDraw.Draw(fr)
+    for i, s in enumerate(st[:cur + 1]):
+        for p in s.get('puntos', []):
+            x, y = P(p[1], p[2]); d.ellipse([x - 7, y - 7, x + 7, y + 7], fill=CREAM, outline=(10, 8, 6))
+            put(fr, text_layer(p[0], font('corm600', 34), CREAM), x + 14, y, 1, anchor='lm')
+    band = _cached(('band',), lambda: _mkband()); fr.alpha_composite(band)
+    if spec.get('title'): put(fr, text_layer(CASE(spec['title']), font('cinzel600', 44), GOLD, TR(0.14)), 90, 76, ease(t / .8), anchor='lm')
+    if cur >= 0:
+        s = st[cur]; k = ease((t - .4 - cur * step) / .5)
+        put(fr, text_layer(s['year'], font('cinzel600', 96), CREAM, TR(0.04)), W - 90 - text_layer(s['year'], font('cinzel600', 96), CREAM, TR(0.04)).width, H - 150, k, anchor='lm')
+        if s.get('label'): put(fr, text_layer(s['label'], font('corm500i', 44), GOLD), W - 92 - text_layer(s['label'], font('corm500i', 44), GOLD).width, H - 70, k, anchor='lm')
+    put(fr, text_layer(spec.get('nota', 'Extensión aproximada'), font('corm500i', 28), DIM), 92, H - 50, ease((t - 1) / .8), anchor='lm')
+    return fr
+
+def _mkband():
+    band = Image.new('RGBA', (W, H), (0, 0, 0, 0)); bd = ImageDraw.Draw(band)
+    for yy in range(150): bd.line([(0, yy), (W, yy)], fill=(6, 5, 5, int(190 * (1 - yy / 150) ** 1.2)))
+    for yy in range(230): bd.line([(0, H - yy), (W, H - yy)], fill=(6, 5, 5, int(200 * (1 - yy / 230) ** 1.2)))
+    return band
+
+def f_papiro(spec, t, D):
+    """Lectura de una fuente antigua: el texto aparece palabra a palabra, como si se escribiera, sobre papiro."""
+    fr = _cached(('papiro', spec.get('seed', 5)), lambda: _tex(PAPER, spec.get('seed', 5), amp=20, fib=True, vig=0.32))
+    f = font('corm500i', spec.get('size', 78 if len(spec['text']) < 110 else 64 if len(spec['text']) < 220 else 54)); lines = wrap('«' + spec['text'] + '»', f, 1440); lh = int(f.size * 1.32)
+    words = sum(len(l.split()) for l in lines); rev = spec.get('reveal', D * 0.78); y0 = H / 2 - len(lines) * lh / 2 - 60
+    k_all = (t - .5) / max(.5, rev - .5) * words; seen = 0
+    for i, l in enumerate(lines):
+        ws = l.split(); x = W / 2 - ImageDraw.Draw(Image.new('RGB', (1, 1))).textlength(l, font=f) / 2
+        for w in ws:
+            a = max(0, min(1, k_all - seen)); seen += 1
+            L = text_layer(w, f, INK); put(fr, L, x, y0 + i * lh, a, anchor='lm')
+            x += ImageDraw.Draw(Image.new('RGB', (1, 1))).textlength(w + ' ', font=f)
+    yb = y0 + len(lines) * lh + 40; ka = ease((t - rev) / .8)
+    d = ImageDraw.Draw(fr); d.line([(W / 2 - 140 * ka, yb), (W / 2 + 140 * ka, yb)], fill=INK, width=2)
+    put(fr, text_layer(CASE(spec.get('autor', '')), font('cinzel600', 40), INK, TR(0.2)), W / 2, yb + 52, ka)
+    if spec.get('obra'): put(fr, text_layer(spec['obra'], font('corm500i', 34), INK), W / 2, yb + 102, ease((t - rev - .3) / .8))
+    return fr
+
+def f_grafito(spec, t, D):
+    """Grafito de Pompeya: el latín rayado en el estuco rojo y, debajo, la traducción."""
+    fr = _cached(('estuco', spec.get('seed', 9)), lambda: _tex((132, 38, 28), spec.get('seed', 9), amp=34, blur=0.8))
+    lat = spec.get('latin', ''); fs = font('scratch', 70)
+    k = ease((t - .2) / max(.6, D * .3))
+    for i, l in enumerate(wrap(lat, fs, 1500)):
+        L = text_layer(l, fs, (232, 222, 206)); w = int(L.width * k)
+        if w > 0: fr.alpha_composite(L.crop((0, 0, w, L.height)), (int(W / 2 - L.width / 2), int(250 + i * 100)))
+    nl = len(wrap(lat, fs, 1500)); y = 300 + nl * 100
+    band = Image.new('RGBA', (W, 360), (0, 0, 0, 0)); ImageDraw.Draw(band).rectangle([0, 0, W, 360], fill=(10, 6, 5, 150))
+    if t > D * .32: fr.alpha_composite(band.filter(ImageFilter.GaussianBlur(30)), (0, y - 40))
+    ft = font('corm500i', 56)
+    for i, l in enumerate(wrap('«' + spec['text'] + '»', ft, 1500)):
+        put(fr, text_layer(l, ft, CREAM), W / 2, y + 40 + i * 70, ease((t - D * .35 - i * .3) / .7))
+    put(fr, text_layer(spec.get('ref', ''), font('corm500', 32), GOLD), W / 2, H - 80, ease((t - D * .5) / .8))
+    return fr
+
+KIND.update(mito=f_mito, imperio=f_imperio, papiro=f_papiro, grafito=f_grafito)
+ROLE['scratch'] = 'scratch'

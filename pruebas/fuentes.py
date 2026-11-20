@@ -1,18 +1,11 @@
-# Rama temporal: genera las miniaturas de «estafas» y las vuelca en base64 en el informe.
-import sys, os, base64
-import subprocess; r = subprocess.run("sudo apt-get install -y -q python3-pil python3-requests || pip3 install --break-system-packages pillow requests", shell=True, capture_output=True, text=True); print(r.stdout[-400:], r.stderr[-400:])
+# Rama temporal: descarga la foto de Madoff y el fondo IA y los vuelca en base64.
+import sys, base64, subprocess
+subprocess.run("sudo apt-get install -y -q python3-pil python3-requests >/dev/null 2>&1", shell=True)
 sys.path.insert(0, 'fabrica')
-import sources as SRC, thumb as TH
-SRC.SEGURO = True
-for nombre in ['BernardMadoff.jpg', 'Bernard Madoff 2009 mug shot (3x4 cropped).jpg']:
-    try:
-        c = SRC.commons_file(nombre); p = SRC.download(c['url'], '.jpg')
-        print('FOTO', nombre, '|', c.get('credit', ''), '|', c.get('license', ''), '|', c.get('url'))
-        break
-    except Exception as e: print('fallo', nombre, e)
-V = [('A', '65.000 MILLONES', 'LA MAYOR ESTAFA', 'De Ponzi a Madoff'),
-     ('B', 'TODO ERA MENTIRA', '65.000 MILLONES', 'Las estafas más grandes de la historia')]
-for n, g, cj, sub in V:
-    out = f'/tmp/estafas_miniatura_{n}.jpg'
-    TH.make(out, p, g, cj, sub)
-    print(f'IMG{n}', base64.b64encode(open(out, 'rb').read()).decode())
+import sources as SRC, requests
+c = SRC.commons_file('BernardMadoff.jpg'); p = SRC.download(c['url'], '.jpg')
+print('FOTO', c.get('credit'), c.get('license'))
+print('B64foto', base64.b64encode(open(p, 'rb').read()).decode())
+u = 'https://s3-alpha-sig.figma.com/img/6712/2847/4975ea9e56919a3320334fe22cdd9f81.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=gEh6bbZIWDDsk5LbJ1mWBkDW7T-u7rHCixmReZe8Olxfi5iQXegNmIdvA5cRY6JdymoBRcuGEMAgMg3ubQCAM6WxDktM8MgIwKncq7VOC7QEKE0Nn09RHCQ7iGA6JOaJBJO7KY3gA3pQ31cGGvIoonQkHkk1ChyhXe9MCCr1f5Wus2K3rTrAh20tnKd~TMPpJLWf-5anPi1kfmmyPZYxCB-eezCVSqpzUdXhyMKequ8pg4qzjRSf1AGZUhC6QbwWUm45KTj~ZMXeCYfm4EMnFgTNAuIuT3WsPG~w0-6xs2OtxinRNsVxw~l4tTUvbhQHhzsab7bB9E~YGrgRqXF8Nw__'
+r = requests.get(u, timeout=60); print('fondo', r.status_code, len(r.content))
+print('B64fondo', base64.b64encode(r.content).decode())

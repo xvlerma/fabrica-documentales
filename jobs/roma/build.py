@@ -12,14 +12,43 @@ for u in U:
     if u.get('text'):
         v = u.get('voice', 'NAR'); tot[v] = tot.get(v, 0) + words(u['text']); ch += len(u['text'])
 W = sum(tot.values())
+from lugares import L as LUG
+from qcur import Q as QCUR
+_AI = RES['ai']
+FIX = {  # coherencia: planos sin material coherente -> otra búsqueda coherente o imagen IA
+ 'Hollywood film set Rome 1950s': {'ai': _AI['hollywood_set']},
+ 'Forum Romanum ruins sunset': {'photo': 'Forum Romanum panorama'},
+ 'Titus Livius statue Padua': {'ai': _AI['livio_escribe']},
+ 'Hut of Romulus Palatine postholes': {'photo': 'Palatine Hill Rome view'},
+ 'Iron Age hut urn Latium': {'ai': _AI['cabanas_palatino']},
+ 'Capitoline geese painting': {'ai': _AI['ocas_capitolio']},
+ 'Last Day of Numantia Alejo Vera': {'photo': 'Numantia ruins Soria'},
+ 'Gracchi brothers statue Guillaume': {'ai': _AI['tiberio_foro']},
+ 'Fasti calendar Roman marble': {'ai': _AI['cesar_calendario']},
+ 'Julius Caesar denarius dictator perpetuo': {'photo': 'Julius Caesar Tusculum bust'},
+ 'Julius Caesar laurel wreath coin': {'photo': 'Julius Caesar Chiaramonti bust'},
+ 'Augustus young bust Ara Pacis': {'photo': 'Augustus Via Labicana'},
+ 'Pompeii electoral programmata': {'photo': 'Pompeii electoral inscription'},
+ 'Pompeii Basilica graffiti': {'photo': 'Pompeii graffiti wall'},
+ 'Colosseum vomitorium entrance': {'photo': 'Colosseum Rome exterior'},
+ 'Forum Romanum sunset': {'photo': 'Roman Forum view from Capitoline'},
+ 'Scipio Aemilianus': {'ai': _AI['escipion_cartago']},
+ 'Antoninus Pius bust': {'photo': 'Marcus Aurelius equestrian statue Capitoline'},
+}
 GT = json.load(open(os.path.join(HERE, 'gens_text.json'))) if os.path.exists(os.path.join(HERE, 'gens_text.json')) else {}
 URLS = json.load(open(os.path.join(HERE, 'urls.json'))) if os.path.exists(os.path.join(HERE, 'urls.json')) else {}
 for i, u in enumerate(U):
     g = GT.get(u.get('text'))
     if g: u['gen'] = g; u['url'] = URLS.get(g)
     elif u.get('text'): print('SIN VOZ', i, u['text'][:50])
-    for sh in u.get('shots', []): sh.pop('ai_pending', None)
+    for sh in u.get('shots', []):
+        sh.pop('ai_pending', None)
+        if sh.get('photo') in FIX:
+            r = FIX[sh.pop('photo')]; sh.update(r)
+            if 'ai' in r: sh.pop('src', None)
+        if 'photo' in sh and sh['photo'] in LUG: sh['lugar'] = sh['photo']
 job = {
+    'lugares': LUG, 'permitir_sa': True,
     'id': 'roma', 'title': 'La Antigua Roma (Historia Completa)', 'channel': 'DocuVox', 'stage': stage,
     'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 2, 'gap': 300}, 'auto_sfx': {}, 'sfx_max': 5,
     'max_shot': 9, 'min_shot': 1.6, 'anchor_lead': 0.1,
@@ -39,7 +68,7 @@ job = {
               'pause_stretch': 0.45, 'pause_cap': 0.6, 'gap_n': 1.5, 'gap_q': 1.0},
     'tempo': 0.9, 'parts': 4, 'codec': 'hevc', 'max_kbps': 750, 'audio_kbps': '112k',
     'intro': ['assets/intro/docuvox.mp4'], 'seed': 753,
-    'qpicks': RES.get('qpicks', {}), 'picks': RES.get('picks', {}), 'rev': RES.get('rev', 1),
+    'qpicks': {'photo:' + k: v for k, v in QCUR.items()}, 'picks': RES.get('picks', {}), 'rev': RES.get('rev', 1),
     'units': U,
 }
 for g in job['glossary']: g['def'] = g.pop('def_')

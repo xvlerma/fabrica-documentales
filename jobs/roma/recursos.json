@@ -10,7 +10,7 @@
   "gemelos_tiber": "https://www.figma.com/api/mcp/asset/156f6a7c-ca22-4826-8009-f68e6189a1b8.png",
   "cincinato_arado": "https://www.figma.com/api/mcp/asset/29061118-8a50-4d85-96f1-91d426ce2c37.png",
   "galos_roma_arde": "https://www.figma.com/api/mcp/asset/fae80cb2-11fb-4de2-a288-132e30e2a764.png",
-  "ocas_capitolio": "https://www.figma.com/api/mcp/asset/790ca1b7-71e7-43db-945a-6341a7c9fb4d.png",
+  "ocas_capitolio": "https://www.figma.com/api/mcp/asset/e478bc86-ef57-49ee-9276-e25bd137e7b1.png",
   "legion_manipulos": "https://www.figma.com/api/mcp/asset/05f62df0-e079-4c1a-9fae-d5b9c8207b45.png",
   "legion_formada": "https://www.figma.com/api/mcp/asset/522c829f-17da-4d7f-9a1c-78db806c9614.png",
   "calzada_construccion": "https://www.figma.com/api/mcp/asset/c565f224-95fc-49f6-af9b-c73f7921ab79.png",
@@ -73,6 +73,12 @@
   "adrianopolis": "https://www.figma.com/api/mcp/asset/1c176f23-18ab-4ed0-a50f-47cd5c98d186.png",
   "ataulfo_boda": "https://www.figma.com/api/mcp/asset/289fffda-a92c-4678-81b7-c4ffc6b6415c.png",
   "insignias": "https://www.figma.com/api/mcp/asset/91f6989f-8d7b-4159-84cf-e43c0af3a1a9.png",
-  "legion_final": "https://www.figma.com/api/mcp/asset/accb0de4-1419-4c81-8aa8-8f1b8a9fd0c5.png"
+  "legion_final": "https://www.figma.com/api/mcp/asset/accb0de4-1419-4c81-8aa8-8f1b8a9fd0c5.png",
+  "livio_escribe": "https://www.figma.com/api/mcp/asset/dbf11619-0055-44f4-b564-cf2f795bdf00.png",
+  "cabanas_palatino": "https://www.figma.com/api/mcp/asset/5f8f113d-6145-470b-8355-499ff7c684ec.png",
+  "tiberio_foro": "https://www.figma.com/api/mcp/asset/7fe267cc-d93a-493d-9da0-492594c52807.png",
+  "cesar_calendario": "https://www.figma.com/api/mcp/asset/397ea660-8e03-4abc-9b3a-bca2f02d0f46.png",
+  "hollywood_set": "https://www.figma.com/api/mcp/asset/59f3af96-a9d0-44eb-a886-6f4044867b8e.png",
+  "escipion_cartago": "https://www.figma.com/api/mcp/asset/c86d5df7-0ae0-466e-9975-710da0f3ebf6.png"
  }
 }

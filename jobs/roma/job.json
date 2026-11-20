@@ -1,8 +1,778 @@
 {
+ "lugares": {
+  "Colosseum Rome aerial": [
+   "colosseum",
+   "colosseo",
+   "coliseo",
+   "flavian amphitheat"
+  ],
+  "Pollice Verso Gerome": [
+   "pollice verso",
+   "pollice_verso"
+  ],
+  "Nero bust Capitoline Museums": [
+   "nero"
+  ],
+  "Hollywood film set Rome 1950s": [
+   "quo vadis",
+   "ben-hur",
+   "ben hur",
+   "cinecitt"
+  ],
+  "Forum Romanum panorama": [
+   "forum romanum",
+   "foro romano",
+   "roman forum",
+   "forum_romanum",
+   "roman_forum"
+  ],
+  "Polybius relief Kleitor": [
+   "polybi"
+  ],
+  "Forum Romanum ruins sunset": [
+   "forum romanum",
+   "foro romano",
+   "roman forum",
+   "forum_romanum",
+   "roman_forum"
+  ],
+  "Roman inscription marble Capitoline": [
+   "inscri",
+   "epigra"
+  ],
+  "Pompeii graffiti wall": [
+   "graffit",
+   "graffiti"
+  ],
+  "Via Appia Antica": [
+   "appia",
+   "appian way"
+  ],
+  "Palatine Hill Rome view": [
+   "palatin",
+   "palatino"
+  ],
+  "Capitoline Wolf": [
+   "capitoline wolf",
+   "lupa capitolina",
+   "lupa_capitolina",
+   "capitoline_wolf",
+   "she-wolf"
+  ],
+  "Titus Livius statue Padua": [
+   "livius",
+   "livy",
+   "livio"
+  ],
+  "Hut of Romulus Palatine postholes": [
+   "romulus",
+   "romolo",
+   "hut"
+  ],
+  "Iron Age hut urn Latium": [
+   "hut urn",
+   "urna a capanna",
+   "hut-urn",
+   "hut_urn"
+  ],
+  "Tiber Island Rome": [
+   "tiber island",
+   "isola tiberina",
+   "isola_tiberina",
+   "tiber_island"
+  ],
+  "Etruscan sarcophagus of the spouses": [
+   "sarcophagus of the spouses",
+   "sarcofago degli sposi",
+   "sarcofago_degli_sposi",
+   "spouses"
+  ],
+  "Cloaca Maxima Rome outlet": [
+   "cloaca"
+  ],
+  "Liver of Piacenza": [
+   "piacenza",
+   "fegato"
+  ],
+  "Cloaca Maxima Rome": [
+   "cloaca"
+  ],
+  "Roman Forum view from Capitoline": [
+   "forum romanum",
+   "foro romano",
+   "roman forum",
+   "forum_romanum",
+   "roman_forum"
+  ],
+  "Death of Lucretia painting": [
+   "lucretia",
+   "lucrezia",
+   "lucrèce",
+   "lucrecia"
+  ],
+  "Oath of Brutus painting": [
+   "brutus",
+   "bruto",
+   "lucretia",
+   "lucrezia"
+  ],
+  "Capitoline Brutus bust": [
+   "brutus",
+   "bruto"
+  ],
+  "Roman inscription marble letters": [
+   "inscri",
+   "epigra"
+  ],
+  "Julius Caesar Tusculum bust": [
+   "caesar",
+   "cesare",
+   "césar"
+  ],
+  "SPQR inscription": [
+   "spqr",
+   "s.p.q.r",
+   "senatus populusque"
+  ],
+  "Cicero denounces Catiline Maccari": [
+   "catilin",
+   "maccari"
+  ],
+  "SPQR manhole cover Rome": [
+   "spqr",
+   "manhole",
+   "tombino"
+  ],
+  "Cincinnatus statue Cincinnati": [
+   "cincinnatus"
+  ],
+  "Cincinnati skyline": [
+   "cincinnati"
+  ],
+  "Dying Gaul Capitoline": [
+   "dying gaul",
+   "galata morente",
+   "dying_gaul",
+   "galata_morente"
+  ],
+  "Capitoline Hill Rome": [
+   "capitol",
+   "campidoglio"
+  ],
+  "Capitoline geese painting": [
+   "geese",
+   "oche",
+   "goose"
+  ],
+  "Brennus and his share of the spoils": [
+   "brennus",
+   "brenno",
+   "brenn"
+  ],
+  "Servian Wall Rome Termini": [
+   "servian",
+   "serviane",
+   "serviana"
+  ],
+  "Roman legionary relief": [
+   "legion",
+   "soldier",
+   "soldat",
+   "milit"
+  ],
+  "Roman legionaries Trajan Column relief": [
+   "trajan",
+   "traian",
+   "traiano"
+  ],
+  "Roman citizenship bronze tablet": [
+   "diploma",
+   "tabula",
+   "bronze tablet",
+   "civitas",
+   "citizenship"
+  ],
+  "Via Appia Antica paving stones": [
+   "appia",
+   "appian way"
+  ],
+  "Pyrrhus of Epirus bust": [
+   "pyrrhus",
+   "pirro"
+  ],
+  "war elephant Pyrrhus": [
+   "elephant",
+   "elefant"
+  ],
+  "Carthage ruins Byrsa": [
+   "carthag",
+   "byrsa",
+   "cartago"
+  ],
+  "Cartagena Punic wall": [
+   "punic",
+   "púnic",
+   "cartagena",
+   "muralla"
+  ],
+  "Hannibal bust Naples": [
+   "hannibal",
+   "annibale",
+   "aníbal"
+  ],
+  "Hannibal Barca coin Carthage": [
+   "hannibal",
+   "barca",
+   "barcid",
+   "carthag"
+  ],
+  "Sagunto castle": [
+   "sagunt"
+  ],
+  "Lake Trasimeno": [
+   "trasimen"
+  ],
+  "Hannibal counting rings Cannae": [
+   "hannibal",
+   "cannae",
+   "annibal"
+  ],
+  "Servian Wall Rome": [
+   "servian",
+   "serviane",
+   "serviana"
+  ],
+  "Scipio Africanus bust": [
+   "scipio",
+   "scipione"
+  ],
+  "Carthage Punic ports": [
+   "carthag",
+   "punic",
+   "cartago"
+  ],
+  "Cato the Elder bust": [
+   "cato"
+  ],
+  "Scipio Aemilianus": [
+   "scipio",
+   "scipione"
+  ],
+  "Numantia ruins Soria": [
+   "numan"
+  ],
+  "Last Day of Numantia Alejo Vera": [
+   "numan"
+  ],
+  "Gracchi brothers statue Guillaume": [
+   "gracch",
+   "graco"
+  ],
+  "Death of Gaius Gracchus painting": [
+   "gracch",
+   "graco"
+  ],
+  "Gaius Marius bust Munich": [
+   "marius",
+   "mario"
+  ],
+  "Sulla bust Munich Glyptothek": [
+   "sulla",
+   "sila"
+  ],
+  "Spartacus statue Louvre Foyatier": [
+   "spartac",
+   "espartaco"
+  ],
+  "Crassus bust Louvre": [
+   "crassus",
+   "craso"
+  ],
+  "Cicero bust Capitoline Museums": [
+   "cicero",
+   "cicerone",
+   "cicerón"
+  ],
+  "Pompey the Great bust Copenhagen": [
+   "pompey",
+   "pompeius",
+   "pompeo"
+  ],
+  "Vercingetorix throws down his arms Lionel Royer": [
+   "vercingetorix",
+   "vercingétorix"
+  ],
+  "Commentarii de Bello Gallico manuscript": [
+   "bello gallico",
+   "bello_gallico",
+   "gallic war",
+   "commentarii"
+  ],
+  "Rubicon river": [
+   "rubicon",
+   "rubicone"
+  ],
+  "Pharsalus battle": [
+   "pharsal",
+   "farsal"
+  ],
+  "Cleopatra Berlin bust Altes Museum": [
+   "cleopatra"
+  ],
+  "Fasti calendar Roman marble": [
+   "fasti"
+  ],
+  "Julius Caesar denarius dictator perpetuo": [
+   "caesar",
+   "denarius"
+  ],
+  "Roman Senate Curia Julia interior": [
+   "curia"
+  ],
+  "Julius Caesar Chiaramonti bust": [
+   "caesar",
+   "cesare",
+   "césar"
+  ],
+  "Julius Caesar laurel wreath coin": [
+   "caesar",
+   "cesare",
+   "césar"
+  ],
+  "Death of Caesar Gerome": [
+   "caesar",
+   "cesare",
+   "césar"
+  ],
+  "Largo di Torre Argentina Curia of Pompey": [
+   "argentina"
+  ],
+  "Mark Antony bust Vatican": [
+   "antony",
+   "antonius",
+   "antonio"
+  ],
+  "Augustus young bust Ara Pacis": [
+   "augustus",
+   "augusto",
+   "octavian"
+  ],
+  "Death of Cleopatra painting": [
+   "cleopatra"
+  ],
+  "Augustus of Prima Porta": [
+   "prima porta",
+   "prima_porta",
+   "primaporta"
+  ],
+  "Augustus of Prima Porta detail": [
+   "prima porta",
+   "prima_porta",
+   "primaporta"
+  ],
+  "Res Gestae Divi Augusti Ankara": [
+   "res gestae",
+   "res_gestae",
+   "augustus",
+   "monumentum ancyranum",
+   "ankara"
+  ],
+  "Ara Pacis Augustae": [
+   "ara pacis",
+   "ara_pacis"
+  ],
+  "Forum of Augustus Rome": [
+   "forum of augustus",
+   "foro di augusto",
+   "forum augustum",
+   "foro_di_augusto",
+   "forum_of_augustus",
+   "mars ultor"
+  ],
+  "Virgil mosaic Bardo Museum": [
+   "virgil",
+   "vergil",
+   "virgilio"
+  ],
+  "Kalkriese Roman mask": [
+   "kalkriese"
+  ],
+  "Augustus Via Labicana": [
+   "augustus",
+   "augusto"
+  ],
+  "Caligula bust Ny Carlsberg": [
+   "caligula",
+   "calígula"
+  ],
+  "Claudius bust Naples": [
+   "claudius",
+   "claudio"
+  ],
+  "Boudica statue Westminster": [
+   "boudic",
+   "boadicea"
+  ],
+  "Fire of Rome Hubert Robert": [
+   "fire",
+   "incendi",
+   "feu"
+  ],
+  "Nero torches Siemiradzki": [
+   "nero",
+   "siemiradzki",
+   "torches"
+  ],
+  "Domus Aurea Rome": [
+   "domus aurea",
+   "domus_aurea"
+  ],
+  "Vespasian bust Ny Carlsberg": [
+   "vespasian",
+   "vespasiano"
+  ],
+  "Vespasienne Paris urinal": [
+   "vespasienne",
+   "urinal",
+   "pissoir",
+   "urinoir"
+  ],
+  "Colosseum Rome exterior": [
+   "colosseum",
+   "colosseo",
+   "coliseo",
+   "flavian amphitheat"
+  ],
+  "Colosseum hypogeum": [
+   "colosseum",
+   "colosseo",
+   "coliseo",
+   "hypogeum",
+   "ipogeo"
+  ],
+  "gladiator mosaic Zliten": [
+   "gladiat"
+  ],
+  "Vesuvius from Naples": [
+   "vesuv",
+   "vesubio"
+  ],
+  "Pompeii forum Vesuvius": [
+   "pompei"
+  ],
+  "Pompeii plaster casts": [
+   "pompei"
+  ],
+  "Arch of Titus menorah relief": [
+   "arch of titus",
+   "arco di tito",
+   "arch_of_titus",
+   "arco_di_tito",
+   "menorah"
+  ],
+  "Arch of Titus Rome": [
+   "arch of titus",
+   "arco di tito",
+   "arch_of_titus",
+   "arco_di_tito"
+  ],
+  "Italica Santiponce amphitheatre": [
+   "italica",
+   "itálica",
+   "santiponce"
+  ],
+  "Trajan bust Glyptothek": [
+   "trajan",
+   "traiano",
+   "traianus",
+   "trajano"
+  ],
+  "Trajan Column Rome": [
+   "trajan",
+   "traiana",
+   "traiano",
+   "trajano"
+  ],
+  "Trajan Column relief detail Dacian": [
+   "trajan",
+   "traiana",
+   "traiano",
+   "dacian"
+  ],
+  "Insula Ara Coeli Rome": [
+   "insula",
+   "aracoeli",
+   "ara coeli",
+   "ara_coeli"
+  ],
+  "Thermopolium Pompeii": [
+   "thermopol"
+  ],
+  "House of the Vettii peristyle Pompeii": [
+   "vettii",
+   "vettî"
+  ],
+  "Pompeii electoral inscription": [
+   "pompei"
+  ],
+  "Pompeii electoral programmata": [
+   "pompei"
+  ],
+  "Pompeii Basilica graffiti": [
+   "pompei"
+  ],
+  "Colosseum vomitorium entrance": [
+   "colosseum",
+   "colosseo",
+   "vomitori"
+  ],
+  "Baths of Caracalla ruins": [
+   "caracalla"
+  ],
+  "Circus Maximus Rome": [
+   "circus maximus",
+   "circo massimo",
+   "circus_maximus",
+   "circo_massimo"
+  ],
+  "Juvenal": [
+   "juvenal",
+   "iuvenalis",
+   "giovenale"
+  ],
+  "Roman slave collar inscription": [
+   "collar",
+   "slave"
+  ],
+  "Roman freedman funerary relief": [
+   "freedm",
+   "liberti",
+   "funerary",
+   "funerar",
+   "tomb"
+  ],
+  "Roman funerary portrait woman Fayum": [
+   "fayum",
+   "faiyum",
+   "mummy portrait",
+   "funerary portrait",
+   "mummy of a young woman"
+  ],
+  "Roman tombstone woman relief": [
+   "tombstone",
+   "grave",
+   "funerar",
+   "stele",
+   "stela"
+  ],
+  "Hadrian bust British Museum": [
+   "hadrian",
+   "adriano",
+   "hadrianus"
+  ],
+  "Hadrian Wall Housesteads": [
+   "hadrian's wall",
+   "hadrians wall",
+   "hadrian%27s_wall",
+   "housesteads",
+   "hadrian's_wall"
+  ],
+  "Marcus Aurelius equestrian statue Capitoline": [
+   "marcus aurelius",
+   "marco aurelio",
+   "marcus_aurelius",
+   "marco_aurelio"
+  ],
+  "Antoninus Pius bust": [
+   "antoninus pius",
+   "antonino pio",
+   "antoninus_pius"
+  ],
+  "Commodus as Hercules Capitoline": [
+   "commodus",
+   "commodo",
+   "cómodo"
+  ],
+  "Septimius Severus bust Glyptothek": [
+   "severus",
+   "severo"
+  ],
+  "Leptis Magna arch": [
+   "leptis",
+   "lepcis"
+  ],
+  "Severan Tondo Geta erased": [
+   "severan tondo",
+   "tondo",
+   "geta"
+  ],
+  "Caracalla bust Naples": [
+   "caracalla"
+  ],
+  "Constitutio Antoniniana papyrus Giessen": [
+   "constitutio",
+   "antoniniana",
+   "giessen"
+  ],
+  "Antoninianus debased coin": [
+   "antoninianus"
+  ],
+  "Naqsh-e Rostam Shapur Valerian relief": [
+   "naqsh",
+   "shapur",
+   "valerian"
+  ],
+  "Aurelian Walls Rome": [
+   "aurelian",
+   "aureliane",
+   "aureliana"
+  ],
+  "Diocletian bust Istanbul": [
+   "diocletian",
+   "diocleziano"
+  ],
+  "Portrait of the Four Tetrarchs Venice": [
+   "tetrarch"
+  ],
+  "Edict on Maximum Prices inscription": [
+   "edict",
+   "prices",
+   "pretiis",
+   "maximum"
+  ],
+  "Diocletian Palace Split": [
+   "diocletian",
+   "dioklecij",
+   "split"
+  ],
+  "Constantine colossus Capitoline head": [
+   "constantin",
+   "costantino"
+  ],
+  "Battle of the Milvian Bridge Raphael": [
+   "milvian",
+   "milvio",
+   "constantin"
+  ],
+  "Hagia Sophia Istanbul": [
+   "hagia sophia",
+   "ayasofya",
+   "aya sofya",
+   "hagia_sophia",
+   "santa sofía"
+  ],
+  "Julian the Apostate coin": [
+   "julian",
+   "iulianus",
+   "giuliano"
+  ],
+  "Missorium of Theodosius": [
+   "missorium",
+   "theodosius"
+  ],
+  "Sack of Rome by the Visigoths Sylvestre": [
+   "sack of rome",
+   "sac de rome",
+   "visigoth",
+   "alaric"
+  ],
+  "Saint Jerome in his study Caravaggio": [
+   "jerome",
+   "gerolamo",
+   "girolamo",
+   "hieronymus",
+   "jérôme"
+  ],
+  "The Favourites of the Emperor Honorius Waterhouse": [
+   "honorius",
+   "waterhouse"
+  ],
+  "Toledo Visigothic crown Guarrazar": [
+   "guarrazar",
+   "guarazzar",
+   "recceswinth",
+   "recesvinto"
+  ],
+  "Attila the Hun Delacroix": [
+   "attila",
+   "atila"
+  ],
+  "Meeting of Leo the Great and Attila Raphael": [
+   "attila",
+   "leo the great",
+   "leone magno",
+   "leo i"
+  ],
+  "Genseric sacking Rome Bryullov": [
+   "genseric",
+   "gaiseric",
+   "vandal",
+   "bryullov",
+   "briullov"
+  ],
+  "Romulus Augustulus solidus": [
+   "romulus augustulus",
+   "romolo augusto",
+   "augustulus"
+  ],
+  "Romulus Augustulus coin": [
+   "romulus augustulus",
+   "romolo augusto",
+   "augustulus"
+  ],
+  "Edward Gibbon portrait Reynolds": [
+   "gibbon"
+  ],
+  "Theodosian Walls Istanbul": [
+   "theodosian",
+   "walls of constantinople",
+   "teodosio",
+   "land walls"
+  ],
+  "Fall of Constantinople Zonaro": [
+   "constantinople",
+   "zonaro"
+  ],
+  "Aqueduct of Segovia": [
+   "segovia"
+  ],
+  "Merida Roman theatre": [
+   "mérida",
+   "merida",
+   "emerita"
+  ],
+  "Roman bridge Alcantara": [
+   "alcántara",
+   "alcantara"
+  ],
+  "Seneca bust Cordoba": [
+   "seneca",
+   "séneca",
+   "sénèque"
+  ],
+  "Rio Tinto Roman mine": [
+   "tinto",
+   "riotinto"
+  ],
+  "Pantheon Rome interior oculus": [
+   "pantheon",
+   "pantheon",
+   "panteón",
+   "pantheon_"
+  ],
+  "Forum Romanum sunset": [
+   "forum romanum",
+   "foro romano",
+   "roman forum",
+   "forum_romanum",
+   "roman_forum"
+  ]
+ },
+ "permitir_sa": true,
  "id": "roma",
  "title": "La Antigua Roma (Historia Completa)",
  "channel": "DocuVox",
- "stage": "cast",
+ "stage": "render",
  "align": true,
  "align_model": "small",
  "no_pad": true,
@@ -116,7 +886,819 @@
   "assets/intro/docuvox.mp4"
  ],
  "seed": 753,
- "qpicks": {},
+ "qpicks": {
+  "photo:Colosseum Rome aerial": [
+   1
+  ],
+  "photo:Pollice Verso Gerome": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "photo:Nero bust Capitoline Museums": [
+   4,
+   6
+  ],
+  "photo:Forum Romanum panorama": [
+   2,
+   3,
+   6,
+   1,
+   7
+  ],
+  "photo:Polybius relief Kleitor": [
+   1
+  ],
+  "photo:Roman inscription marble Capitoline": [
+   1,
+   3,
+   4,
+   5,
+   7
+  ],
+  "photo:Pompeii graffiti wall": [
+   5,
+   6,
+   7
+  ],
+  "photo:Via Appia Antica": [
+   1,
+   2,
+   4,
+   7,
+   0
+  ],
+  "photo:Palatine Hill Rome view": [
+   4,
+   5,
+   1,
+   2,
+   3
+  ],
+  "photo:Capitoline Wolf": [
+   2,
+   4,
+   5,
+   6,
+   7
+  ],
+  "photo:Tiber Island Rome": [
+   2,
+   3,
+   4,
+   0,
+   5
+  ],
+  "photo:Etruscan sarcophagus of the spouses": [
+   2,
+   6,
+   7
+  ],
+  "photo:Cloaca Maxima Rome outlet": [
+   0
+  ],
+  "photo:Liver of Piacenza": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "photo:Cloaca Maxima Rome": [
+   0,
+   1,
+   5,
+   3
+  ],
+  "photo:Roman Forum view from Capitoline": [
+   0,
+   1,
+   6,
+   7,
+   2
+  ],
+  "photo:Death of Lucretia painting": [
+   0,
+   3,
+   7
+  ],
+  "photo:Oath of Brutus painting": [
+   0,
+   1,
+   3,
+   4,
+   6
+  ],
+  "photo:Capitoline Brutus bust": [
+   0,
+   1,
+   2,
+   6
+  ],
+  "photo:Roman inscription marble letters": [
+   2,
+   7,
+   6
+  ],
+  "photo:Julius Caesar Tusculum bust": [
+   0,
+   1,
+   2,
+   5,
+   6
+  ],
+  "photo:SPQR inscription": [
+   7,
+   5,
+   6
+  ],
+  "photo:Cicero denounces Catiline Maccari": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "photo:SPQR manhole cover Rome": [
+   0,
+   2,
+   4,
+   6,
+   5
+  ],
+  "photo:Cincinnatus statue Cincinnati": [
+   0,
+   3
+  ],
+  "photo:Cincinnati skyline": [
+   1
+  ],
+  "photo:Dying Gaul Capitoline": [
+   1,
+   2,
+   4,
+   7
+  ],
+  "photo:Capitoline Hill Rome": [
+   0,
+   3,
+   1
+  ],
+  "photo:Brennus and his share of the spoils": [
+   0,
+   1
+  ],
+  "photo:Servian Wall Rome Termini": [
+   0,
+   1,
+   2,
+   5,
+   6
+  ],
+  "photo:Roman legionary relief": [
+   1,
+   2,
+   6
+  ],
+  "photo:Roman legionaries Trajan Column relief": [
+   0,
+   2,
+   3,
+   7,
+   1
+  ],
+  "photo:Roman citizenship bronze tablet": [
+   2,
+   3
+  ],
+  "photo:Via Appia Antica paving stones": [
+   0
+  ],
+  "photo:Pyrrhus of Epirus bust": [
+   0,
+   2,
+   6,
+   5
+  ],
+  "photo:war elephant Pyrrhus": [
+   1
+  ],
+  "photo:Carthage ruins Byrsa": [
+   0,
+   1
+  ],
+  "photo:Cartagena Punic wall": [
+   1,
+   2,
+   4
+  ],
+  "photo:Hannibal bust Naples": [
+   0
+  ],
+  "photo:Hannibal Barca coin Carthage": [
+   0
+  ],
+  "photo:Sagunto castle": [
+   1,
+   4,
+   6,
+   7,
+   5
+  ],
+  "photo:Lake Trasimeno": [
+   0,
+   1,
+   2,
+   6
+  ],
+  "photo:Hannibal counting rings Cannae": [
+   0,
+   3
+  ],
+  "photo:Servian Wall Rome": [
+   5,
+   6,
+   7,
+   4
+  ],
+  "photo:Scipio Africanus bust": [
+   0,
+   1,
+   6
+  ],
+  "photo:Carthage Punic ports": [
+   0,
+   1,
+   2
+  ],
+  "photo:Cato the Elder bust": [
+   0
+  ],
+  "photo:Numantia ruins Soria": [
+   0
+  ],
+  "photo:Death of Gaius Gracchus painting": [
+   3
+  ],
+  "photo:Gaius Marius bust Munich": [
+   0,
+   1,
+   3,
+   7
+  ],
+  "photo:Sulla bust Munich Glyptothek": [
+   1,
+   6,
+   7,
+   0
+  ],
+  "photo:Spartacus statue Louvre Foyatier": [
+   7
+  ],
+  "photo:Crassus bust Louvre": [
+   1,
+   4
+  ],
+  "photo:Cicero bust Capitoline Museums": [
+   4,
+   5,
+   6,
+   7,
+   3
+  ],
+  "photo:Pompey the Great bust Copenhagen": [
+   6,
+   5,
+   4
+  ],
+  "photo:Vercingetorix throws down his arms Lionel Royer": [
+   0,
+   1
+  ],
+  "photo:Commentarii de Bello Gallico manuscript": [
+   0,
+   2
+  ],
+  "photo:Rubicon river": [
+   0,
+   1,
+   7,
+   5
+  ],
+  "photo:Pharsalus battle": [
+   4
+  ],
+  "photo:Cleopatra Berlin bust Altes Museum": [
+   1,
+   4,
+   5,
+   7,
+   2,
+   3
+  ],
+  "photo:Roman Senate Curia Julia interior": [
+   1
+  ],
+  "photo:Julius Caesar Chiaramonti bust": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "photo:Death of Caesar Gerome": [
+   2,
+   6,
+   7,
+   3
+  ],
+  "photo:Largo di Torre Argentina Curia of Pompey": [
+   1,
+   3,
+   4,
+   5,
+   7
+  ],
+  "photo:Mark Antony bust Vatican": [
+   0,
+   1
+  ],
+  "photo:Augustus Via Labicana": [
+   6
+  ],
+  "photo:Death of Cleopatra painting": [
+   7,
+   6,
+   5
+  ],
+  "photo:Augustus of Prima Porta": [
+   1,
+   3,
+   4,
+   0
+  ],
+  "photo:Augustus of Prima Porta detail": [
+   4,
+   1,
+   6,
+   2
+  ],
+  "photo:Res Gestae Divi Augusti Ankara": [
+   3,
+   4,
+   7,
+   6,
+   1,
+   2
+  ],
+  "photo:Ara Pacis Augustae": [
+   0
+  ],
+  "photo:Forum of Augustus Rome": [
+   0,
+   1,
+   2,
+   3,
+   6
+  ],
+  "photo:Virgil mosaic Bardo Museum": [
+   0,
+   1,
+   4,
+   6
+  ],
+  "photo:Kalkriese Roman mask": [
+   0,
+   3,
+   4,
+   5
+  ],
+  "photo:Caligula bust Ny Carlsberg": [
+   1,
+   0,
+   2,
+   6,
+   4
+  ],
+  "photo:Claudius bust Naples": [
+   3,
+   4,
+   6,
+   7
+  ],
+  "photo:Boudica statue Westminster": [
+   0,
+   3,
+   6
+  ],
+  "photo:Fire of Rome Hubert Robert": [
+   0,
+   1,
+   3,
+   5,
+   7,
+   6
+  ],
+  "photo:Nero torches Siemiradzki": [
+   1,
+   2,
+   5,
+   7,
+   3
+  ],
+  "photo:Domus Aurea Rome": [
+   1,
+   3,
+   5,
+   6,
+   7
+  ],
+  "photo:Vespasian bust Ny Carlsberg": [
+   0,
+   3,
+   4
+  ],
+  "photo:Vespasienne Paris urinal": [
+   2,
+   3,
+   4,
+   6,
+   7
+  ],
+  "photo:Colosseum Rome exterior": [
+   0,
+   2,
+   3,
+   6,
+   7,
+   1
+  ],
+  "photo:Colosseum hypogeum": [
+   5,
+   6,
+   0,
+   7,
+   1
+  ],
+  "photo:gladiator mosaic Zliten": [
+   2,
+   4,
+   5,
+   6,
+   3
+  ],
+  "photo:Vesuvius from Naples": [
+   5,
+   6,
+   7,
+   4,
+   1
+  ],
+  "photo:Pompeii forum Vesuvius": [
+   2,
+   3,
+   6,
+   7,
+   0,
+   1
+  ],
+  "photo:Pompeii plaster casts": [
+   0,
+   1,
+   5,
+   6,
+   7,
+   4
+  ],
+  "photo:Arch of Titus menorah relief": [
+   2,
+   3,
+   4,
+   1
+  ],
+  "photo:Arch of Titus Rome": [
+   6,
+   7,
+   4
+  ],
+  "photo:Italica Santiponce amphitheatre": [
+   0,
+   1,
+   2,
+   5,
+   6,
+   7
+  ],
+  "photo:Trajan bust Glyptothek": [
+   1,
+   5,
+   6,
+   7,
+   2,
+   3
+  ],
+  "photo:Trajan Column Rome": [
+   0,
+   3,
+   5,
+   6,
+   7
+  ],
+  "photo:Trajan Column relief detail Dacian": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   1
+  ],
+  "photo:Insula Ara Coeli Rome": [
+   2,
+   3,
+   1
+  ],
+  "photo:Thermopolium Pompeii": [
+   6,
+   7
+  ],
+  "photo:House of the Vettii peristyle Pompeii": [
+   1
+  ],
+  "photo:Pompeii electoral inscription": [
+   4,
+   5,
+   2,
+   6
+  ],
+  "photo:Baths of Caracalla ruins": [
+   6,
+   7
+  ],
+  "photo:Circus Maximus Rome": [
+   3,
+   4,
+   5,
+   7
+  ],
+  "photo:Juvenal": [
+   5,
+   2,
+   6
+  ],
+  "photo:Roman slave collar inscription": [
+   0,
+   1
+  ],
+  "photo:Roman freedman funerary relief": [
+   0,
+   3,
+   4,
+   6
+  ],
+  "photo:Roman funerary portrait woman Fayum": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "photo:Roman tombstone woman relief": [
+   1,
+   2
+  ],
+  "photo:Hadrian bust British Museum": [
+   4,
+   6,
+   7,
+   2
+  ],
+  "photo:Hadrian Wall Housesteads": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "photo:Marcus Aurelius equestrian statue Capitoline": [
+   1,
+   7,
+   6,
+   0
+  ],
+  "photo:Commodus as Hercules Capitoline": [
+   1,
+   3,
+   4,
+   5,
+   2
+  ],
+  "photo:Septimius Severus bust Glyptothek": [
+   0,
+   6,
+   7
+  ],
+  "photo:Leptis Magna arch": [
+   0,
+   1,
+   3,
+   4,
+   6
+  ],
+  "photo:Severan Tondo Geta erased": [
+   0,
+   2,
+   1
+  ],
+  "photo:Caracalla bust Naples": [
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "photo:Constitutio Antoniniana papyrus Giessen": [
+   3,
+   1
+  ],
+  "photo:Antoninianus debased coin": [
+   0,
+   7,
+   1,
+   2
+  ],
+  "photo:Naqsh-e Rostam Shapur Valerian relief": [
+   0,
+   1,
+   3
+  ],
+  "photo:Aurelian Walls Rome": [
+   3,
+   5,
+   6
+  ],
+  "photo:Diocletian bust Istanbul": [
+   1,
+   2,
+   5,
+   0
+  ],
+  "photo:Portrait of the Four Tetrarchs Venice": [
+   1,
+   2,
+   5,
+   4
+  ],
+  "photo:Edict on Maximum Prices inscription": [
+   0
+  ],
+  "photo:Diocletian Palace Split": [
+   5,
+   4,
+   6,
+   7,
+   1,
+   2
+  ],
+  "photo:Constantine colossus Capitoline head": [
+   0,
+   1,
+   6,
+   7,
+   3
+  ],
+  "photo:Battle of the Milvian Bridge Raphael": [
+   2,
+   6,
+   7,
+   0,
+   1
+  ],
+  "photo:Hagia Sophia Istanbul": [
+   4,
+   2
+  ],
+  "photo:Julian the Apostate coin": [
+   2,
+   3,
+   7,
+   0
+  ],
+  "photo:Missorium of Theodosius": [
+   1,
+   6,
+   2
+  ],
+  "photo:Sack of Rome by the Visigoths Sylvestre": [
+   0,
+   1
+  ],
+  "photo:Saint Jerome in his study Caravaggio": [
+   5,
+   7,
+   2,
+   0
+  ],
+  "photo:The Favourites of the Emperor Honorius Waterhouse": [
+   1,
+   4,
+   0
+  ],
+  "photo:Toledo Visigothic crown Guarrazar": [
+   0,
+   1,
+   4,
+   5
+  ],
+  "photo:Attila the Hun Delacroix": [
+   0,
+   5,
+   3
+  ],
+  "photo:Meeting of Leo the Great and Attila Raphael": [
+   0,
+   3,
+   4,
+   5,
+   7
+  ],
+  "photo:Genseric sacking Rome Bryullov": [
+   1,
+   2,
+   3
+  ],
+  "photo:Romulus Augustulus solidus": [
+   0
+  ],
+  "photo:Romulus Augustulus coin": [
+   4,
+   5,
+   3,
+   0
+  ],
+  "photo:Edward Gibbon portrait Reynolds": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "photo:Theodosian Walls Istanbul": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "photo:Fall of Constantinople Zonaro": [
+   0,
+   1,
+   2
+  ],
+  "photo:Aqueduct of Segovia": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "photo:Merida Roman theatre": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "photo:Roman bridge Alcantara": [
+   0,
+   1,
+   3,
+   4,
+   5,
+   2
+  ],
+  "photo:Seneca bust Cordoba": [
+   0
+  ],
+  "photo:Rio Tinto Roman mine": [
+   2,
+   3
+  ],
+  "photo:Pantheon Rome interior oculus": [
+   0,
+   3,
+   5,
+   6,
+   7,
+   4
+  ]
+ },
  "picks": {},
  "rev": 1,
  "units": [
@@ -132,12 +1714,14 @@
     {
      "photo": "Colosseum Rome aerial",
      "src": "commons,met,cleveland,europeana",
-     "at": "Has visto"
+     "at": "Has visto",
+     "lugar": "Colosseum Rome aerial"
     },
     {
      "photo": "Pollice Verso Gerome",
      "src": "commons,met,cleveland,europeana",
-     "at": "Gladiadores"
+     "at": "Gladiadores",
+     "lugar": "Pollice Verso Gerome"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/3ca62cc0-e299-4b40-9260-4ee5ee9d088f.png",
@@ -146,15 +1730,15 @@
     {
      "photo": "Nero bust Capitoline Museums",
      "src": "commons,met,cleveland,europeana",
-     "at": "emperadores locos"
+     "at": "emperadores locos",
+     "lugar": "Nero bust Capitoline Museums"
     },
     {
-     "photo": "Hollywood film set Rome 1950s",
-     "src": "commons,met,cleveland,europeana",
      "at": "Hollywood",
      "kw": "HOLLYWOOD",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "ai": "https://www.figma.com/api/mcp/asset/59f3af96-a9d0-44eb-a886-6f4044867b8e.png"
     }
    ],
    "gen": "Vc1qso14pxbDQLJl0xp6",
@@ -180,7 +1764,8 @@
     {
      "photo": "Forum Romanum panorama",
      "src": "commons,met,cleveland,europeana",
-     "at": "más de mil años"
+     "at": "más de mil años",
+     "lugar": "Forum Romanum panorama"
     }
    ],
    "gen": "HWhLR251u83OdoaBkbgU",
@@ -217,16 +1802,18 @@
       "Polibio",
       "Historiador griego · rehén en Roma desde 167 a. C.",
       "oriente"
-     ]
+     ],
+     "lugar": "Polybius relief Kleitor"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/da9813b7-20b5-425a-a963-22e3ba2ec9db.png",
      "at": "se rompió"
     },
     {
-     "photo": "Forum Romanum ruins sunset",
      "src": "commons,met,cleveland,europeana",
-     "at": "de verdad"
+     "at": "de verdad",
+     "photo": "Forum Romanum panorama",
+     "lugar": "Forum Romanum panorama"
     }
    ],
    "gen": "H5AC42o5j7WfGdJEP7cb",
@@ -240,17 +1827,20 @@
     {
      "photo": "Roman inscription marble Capitoline",
      "src": "commons,met,cleveland,europeana",
-     "at": "en piedra"
+     "at": "en piedra",
+     "lugar": "Roman inscription marble Capitoline"
     },
     {
      "photo": "Pompeii graffiti wall",
      "src": "commons,met,cleveland,europeana",
-     "at": "las paredes de los bares"
+     "at": "las paredes de los bares",
+     "lugar": "Pompeii graffiti wall"
     },
     {
      "photo": "Via Appia Antica",
      "src": "commons,met,cleveland,europeana",
-     "at": "Bienvenido"
+     "at": "Bienvenido",
+     "lugar": "Via Appia Antica"
     }
    ],
    "gen": "CvbnUlrOoSOMYOWsnLNk",
@@ -299,12 +1889,14 @@
      "lt": [
       "El Palatino",
       "Roma · hoy"
-     ]
+     ],
+     "lugar": "Palatine Hill Rome view"
     },
     {
      "photo": "Capitoline Wolf",
      "src": "commons,met,cleveland,europeana",
-     "at": "una historia de película"
+     "at": "una historia de película",
+     "lugar": "Capitoline Wolf"
     }
    ],
    "gen": "UzsgkPGdOfEGeY4U0fJp",
@@ -322,7 +1914,8 @@
     {
      "photo": "Capitoline Wolf",
      "src": "commons,met,cleveland,europeana",
-     "at": "Una loba"
+     "at": "Una loba",
+     "lugar": "Capitoline Wolf"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/5dc6db2f-c891-41c7-ad59-0250ed26cd3e.png",
@@ -338,14 +1931,13 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Titus Livius statue Padua",
-     "src": "commons,met,cleveland,europeana",
      "at": "Tito Livio",
      "lt": [
       "Tito Livio",
       "Historiador romano · 59 a. C. – 17 d. C.",
       "roma"
-     ]
+     ],
+     "ai": "https://www.figma.com/api/mcp/asset/dbf11619-0055-44f4-b564-cf2f795bdf00.png"
     }
    ],
    "gen": "MXmhYZtC08knOEHxrnYl",
@@ -393,14 +1985,14 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Hut of Romulus Palatine postholes",
      "src": "commons,met,cleveland,europeana",
-     "at": "la arqueología"
+     "at": "la arqueología",
+     "photo": "Palatine Hill Rome view",
+     "lugar": "Palatine Hill Rome view"
     },
     {
-     "photo": "Iron Age hut urn Latium",
-     "src": "commons,met,cleveland,europeana",
-     "at": "cabañas sobre la colina"
+     "at": "cabañas sobre la colina",
+     "ai": "https://www.figma.com/api/mcp/asset/5f8f113d-6145-470b-8355-499ff7c684ec.png"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/1abb6145-410c-4932-9023-af1372037241.png",
@@ -454,7 +2046,8 @@
     {
      "photo": "Tiber Island Rome",
      "src": "commons,met,cleveland,europeana",
-     "at": "cruzar el Tíber"
+     "at": "cruzar el Tíber",
+     "lugar": "Tiber Island Rome"
     }
    ],
    "gen": "eLx2UUNiVAcTGDluXqeN",
@@ -489,17 +2082,20 @@
       "Los etruscos",
       "Sarcófago de los esposos · siglo VI a. C.",
       "oriente"
-     ]
+     ],
+     "lugar": "Etruscan sarcophagus of the spouses"
     },
     {
      "photo": "Cloaca Maxima Rome outlet",
      "src": "commons,met,cleveland,europeana",
-     "at": "desecar pantanos"
+     "at": "desecar pantanos",
+     "lugar": "Cloaca Maxima Rome outlet"
     },
     {
      "photo": "Liver of Piacenza",
      "src": "commons,met,cleveland,europeana",
-     "at": "las entrañas"
+     "at": "las entrañas",
+     "lugar": "Liver of Piacenza"
     }
    ],
    "gen": "f1hybHWRhOZXYX6hlOvu",
@@ -517,12 +2113,14 @@
      "lt": [
       "Cloaca Máxima",
       "Roma · siglo VI a. C."
-     ]
+     ],
+     "lugar": "Cloaca Maxima Rome"
     },
     {
      "photo": "Roman Forum view from Capitoline",
      "src": "commons,met,cleveland,europeana",
-     "at": "el Foro"
+     "at": "el Foro",
+     "lugar": "Roman Forum view from Capitoline"
     }
    ],
    "gen": "s7LH2OYBLaq9X0ywDb8W",
@@ -540,12 +2138,14 @@
     {
      "photo": "Death of Lucretia painting",
      "src": "commons,met,cleveland,europeana",
-     "at": "Lucrecia"
+     "at": "Lucrecia",
+     "lugar": "Death of Lucretia painting"
     },
     {
      "photo": "Oath of Brutus painting",
      "src": "commons,met,cleveland,europeana",
-     "at": "juró sobre el puñal"
+     "at": "juró sobre el puñal",
+     "lugar": "Oath of Brutus painting"
     }
    ],
    "gen": "I1STBjlSjvOs2tbHpfwx",
@@ -564,7 +2164,8 @@
       "Lucio Junio Bruto",
       "Fundador de la República, según la tradición",
       "roma"
-     ]
+     ],
+     "lugar": "Capitoline Brutus bust"
     },
     {
      "photo": "Roman inscription marble letters",
@@ -572,12 +2173,14 @@
      "at": "el peor insulto",
      "kw": "REX",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "lugar": "Roman inscription marble letters"
     },
     {
      "photo": "Julius Caesar Tusculum bust",
      "src": "commons,met,cleveland,europeana",
-     "at": "Julio César"
+     "at": "Julio César",
+     "lugar": "Julius Caesar Tusculum bust"
     }
    ],
    "gen": "GO7pFgRWs9clfqOgepGG",
@@ -607,7 +2210,8 @@
     {
      "photo": "SPQR inscription",
      "src": "commons,met,cleveland,europeana",
-     "at": "la República"
+     "at": "la República",
+     "lugar": "SPQR inscription"
     },
     {
      "card": {
@@ -625,7 +2229,8 @@
     {
      "photo": "Cicero denounces Catiline Maccari",
      "src": "commons,met,cleveland,europeana",
-     "at": "un Senado"
+     "at": "un Senado",
+     "lugar": "Cicero denounces Catiline Maccari"
     }
    ],
    "gen": "kwshsY6JnPdQz4EgLW4W",
@@ -642,12 +2247,14 @@
      "at": "Cuatro letras",
      "kw": "SPQR",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "lugar": "SPQR manhole cover Rome"
     },
     {
      "photo": "SPQR manhole cover Rome",
      "src": "commons,met,cleveland,europeana",
-     "at": "alcantarillas"
+     "at": "alcantarillas",
+     "lugar": "SPQR manhole cover Rome"
     }
    ],
    "gen": "IAyIjgQ45Hlx9YcJ9nIW",
@@ -695,7 +2302,8 @@
     {
      "photo": "Cincinnatus statue Cincinnati",
      "src": "commons,met,cleveland,europeana",
-     "at": "dictador"
+     "at": "dictador",
+     "lugar": "Cincinnatus statue Cincinnati"
     },
     {
      "card": {
@@ -712,7 +2320,8 @@
      "lt": [
       "Cincinnati",
       "Ohio, Estados Unidos · hoy"
-     ]
+     ],
+     "lugar": "Cincinnati skyline"
     }
    ],
    "gen": "NbS5FLfHlhFZqDZPwHz4",
@@ -731,7 +2340,8 @@
       "Los galos",
       "Pueblos celtas del norte de Italia y de la Galia",
       "barbaros"
-     ]
+     ],
+     "lugar": "Dying Gaul Capitoline"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/fae80cb2-11fb-4de2-a288-132e30e2a764.png",
@@ -749,10 +2359,11 @@
     {
      "photo": "Capitoline Hill Rome",
      "src": "commons,met,cleveland,europeana",
-     "at": "Capitolio"
+     "at": "Capitolio",
+     "lugar": "Capitoline Hill Rome"
     },
     {
-     "ai": "https://www.figma.com/api/mcp/asset/790ca1b7-71e7-43db-945a-6341a7c9fb4d.png",
+     "ai": "https://www.figma.com/api/mcp/asset/e478bc86-ef57-49ee-9276-e25bd137e7b1.png",
      "at": "las ocas sagradas"
     }
    ],
@@ -765,9 +2376,8 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Capitoline geese painting",
-     "src": "commons,met,cleveland,europeana",
-     "at": "salvada por unas ocas"
+     "at": "salvada por unas ocas",
+     "ai": "https://www.figma.com/api/mcp/asset/e478bc86-ef57-49ee-9276-e25bd137e7b1.png"
     }
    ],
    "gen": "TbGPDacxIVGTuSrjfewk",
@@ -786,7 +2396,8 @@
       "Breno",
       "Jefe galo",
       "barbaros"
-     ]
+     ],
+     "lugar": "Brennus and his share of the spoils"
     }
    ],
    "gen": "TPVC4OqNPdxFxKnApYb8",
@@ -822,7 +2433,8 @@
      "lt": [
       "Muralla Serviana",
       "Roma · siglo IV a. C."
-     ]
+     ],
+     "lugar": "Servian Wall Rome Termini"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/05f62df0-e079-4c1a-9fae-d5b9c8207b45.png",
@@ -865,7 +2477,8 @@
      "at": "uno de cada diez",
      "kw": "DIEZMAR",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "lugar": "Roman legionary relief"
     }
    ],
    "gen": "aw23aIVwS7aAZXGFfzKU",
@@ -879,7 +2492,8 @@
     {
      "photo": "Roman legionaries Trajan Column relief",
      "src": "commons,met,cleveland,europeana",
-     "at": "diezmar"
+     "at": "diezmar",
+     "lugar": "Roman legionaries Trajan Column relief"
     }
    ],
    "gen": "UHnADRnn3AlBQXJi9bgl",
@@ -893,7 +2507,8 @@
     {
      "photo": "Roman citizenship bronze tablet",
      "src": "commons,met,cleveland,europeana",
-     "at": "integrar a los vencidos"
+     "at": "integrar a los vencidos",
+     "lugar": "Roman citizenship bronze tablet"
     }
    ],
    "gen": "HTnuWD42iEBICEgt42VF",
@@ -911,7 +2526,8 @@
      "lt": [
       "Vía Apia",
       "Iniciada en 312 a. C. · hoy"
-     ]
+     ],
+     "lugar": "Via Appia Antica paving stones"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/c565f224-95fc-49f6-af9b-c73f7921ab79.png",
@@ -994,12 +2610,14 @@
       "Pirro",
       "Rey de Epiro",
       "oriente"
-     ]
+     ],
+     "lugar": "Pyrrhus of Epirus bust"
     },
     {
      "photo": "war elephant Pyrrhus",
      "src": "commons,met,cleveland,europeana",
-     "at": "elefantes de guerra"
+     "at": "elefantes de guerra",
+     "lugar": "war elephant Pyrrhus"
     }
    ],
    "gen": "DYXg329Xlk8xLIo1av8B",
@@ -1052,7 +2670,8 @@
       "Cartago",
       "Túnez · hoy",
       "cartago"
-     ]
+     ],
+     "lugar": "Carthage ruins Byrsa"
     },
     {
      "card": {
@@ -1142,7 +2761,8 @@
       "Qart Hadasht, hoy Cartagena",
       "Fundada por los Barca hacia 227 a. C.",
       "cartago"
-     ]
+     ],
+     "lugar": "Cartagena Punic wall"
     }
    ],
    "gen": "XDVOAB1OwQQaGrKAeCTg",
@@ -1183,7 +2803,8 @@
       "Aníbal Barca",
       "General cartaginés · 247 – 183 a. C.",
       "cartago"
-     ]
+     ],
+     "lugar": "Hannibal bust Naples"
     }
    ],
    "gen": "fVYenLD2iMLBWcOzDiLd",
@@ -1197,7 +2818,8 @@
     {
      "photo": "Hannibal Barca coin Carthage",
      "src": "commons,met,cleveland,europeana",
-     "at": "ninguna simpatía"
+     "at": "ninguna simpatía",
+     "lugar": "Hannibal Barca coin Carthage"
     }
    ],
    "gen": "jdiieL2mY6IpoNBl3MIR",
@@ -1237,7 +2859,8 @@
      "lt": [
       "Sagunto",
       "Valencia · hoy"
-     ]
+     ],
+     "lugar": "Sagunto castle"
     },
     {
      "card": {
@@ -1368,7 +2991,8 @@
      "lt": [
       "Lago Trasimeno",
       "Umbría, Italia · hoy"
-     ]
+     ],
+     "lugar": "Lake Trasimeno"
     }
    ],
    "gen": "dqmNf8sa3Wyhv2m88UH5",
@@ -1430,7 +3054,8 @@
     {
      "photo": "Hannibal counting rings Cannae",
      "src": "commons,met,cleveland,europeana",
-     "at": "no ataca"
+     "at": "no ataca",
+     "lugar": "Hannibal counting rings Cannae"
     }
    ],
    "gen": "YOjn2eJhXLippnVi4uh1",
@@ -1462,7 +3087,8 @@
     {
      "photo": "Servian Wall Rome",
      "src": "commons,met,cleveland,europeana",
-     "at": "murallas"
+     "at": "murallas",
+     "lugar": "Servian Wall Rome"
     },
     {
      "photo": "Roman legionary relief",
@@ -1470,7 +3096,8 @@
      "at": "no se rendía",
      "kw": "NO SE RINDE",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "lugar": "Roman legionary relief"
     }
    ],
    "gen": "4k5vt2JmvAKgI7jX1sWv",
@@ -1489,7 +3116,8 @@
       "Escipión el Africano",
       "General romano · 236 – 183 a. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Scipio Africanus bust"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/36c2e022-8415-44fd-8cf0-78586664158a.png",
@@ -1511,7 +3139,8 @@
     {
      "photo": "Carthage Punic ports",
      "src": "commons,met,cleveland,europeana",
-     "at": "Cartago sobrevivió"
+     "at": "Cartago sobrevivió",
+     "lugar": "Carthage Punic ports"
     }
    ],
    "gen": "fLwQfpDolyOU5Dbn2fNv",
@@ -1530,7 +3159,8 @@
       "Catón el Viejo",
       "Senador y censor · 234 – 149 a. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Cato the Elder bust"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/30d5bae6-4f07-4bc2-80ae-759419a350fb.png",
@@ -1566,7 +3196,8 @@
     {
      "photo": "Cato the Elder bust",
      "src": "commons,met,cleveland,europeana",
-     "at": "todos sus discursos"
+     "at": "todos sus discursos",
+     "lugar": "Cato the Elder bust"
     }
    ],
    "gen": "w6yP4fR1xI5BpezWGlAU",
@@ -1677,14 +3308,13 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Scipio Aemilianus",
-     "src": "commons,met,cleveland,europeana",
      "at": "Escipión Emiliano",
      "lt": [
       "Escipión Emiliano",
       "Destructor de Cartago y Numancia",
       "roma"
-     ]
+     ],
+     "ai": "https://www.figma.com/api/mcp/asset/c86d5df7-0ae0-466e-9975-710da0f3ebf6.png"
     }
    ],
    "gen": "R8dcDir95e3UpDpsnLvw",
@@ -1702,16 +3332,18 @@
      "lt": [
       "Numancia",
       "Garray, Soria · hoy"
-     ]
+     ],
+     "lugar": "Numantia ruins Soria"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/9fd70df6-ac82-4e6b-ac1f-ee71b70d7117.png",
      "at": "un cerco de nueve kilómetros"
     },
     {
-     "photo": "Last Day of Numantia Alejo Vera",
      "src": "commons,met,cleveland,europeana",
-     "at": "prefirieron morir"
+     "at": "prefirieron morir",
+     "photo": "Numantia ruins Soria",
+     "lugar": "Numantia ruins Soria"
     }
    ],
    "gen": "NL3QwZO6kUQU7OUi1vTL",
@@ -1756,14 +3388,13 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Gracchi brothers statue Guillaume",
-     "src": "commons,met,cleveland,europeana",
      "at": "Tiberio Graco",
      "lt": [
       "Tiberio Graco",
       "Tribuno de la plebe · 133 a. C.",
       "roma"
-     ]
+     ],
+     "ai": "https://www.figma.com/api/mcp/asset/7fe267cc-d93a-493d-9da0-492594c52807.png"
     }
    ],
    "gen": "PRPaI5LDCmDX3RzHMMK0",
@@ -1812,7 +3443,8 @@
     {
      "photo": "Death of Gaius Gracchus painting",
      "src": "commons,met,cleveland,europeana",
-     "at": "su hermano Cayo"
+     "at": "su hermano Cayo",
+     "lugar": "Death of Gaius Gracchus painting"
     }
    ],
    "gen": "0iHV8mbJoWtwguLeginQ",
@@ -1831,7 +3463,8 @@
       "Cayo Mario",
       "Siete veces cónsul · 157 – 86 a. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Gaius Marius bust Munich"
     },
     {
      "photo": "Sulla bust Munich Glyptothek",
@@ -1841,7 +3474,8 @@
       "Lucio Cornelio Sila",
       "Dictador · 138 – 78 a. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Sulla bust Munich Glyptothek"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/28886b74-815b-40e4-bc22-c99d4c082c5a.png",
@@ -1864,7 +3498,8 @@
       "Espartaco",
       "Gladiador tracio · murió en 71 a. C.",
       "barbaros"
-     ]
+     ],
+     "lugar": "Spartacus statue Louvre Foyatier"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/35a145fa-d19b-4ede-8ac2-f5b45fe0d16d.png",
@@ -1891,7 +3526,8 @@
       "Marco Licinio Craso",
       "El hombre más rico de Roma",
       "roma"
-     ]
+     ],
+     "lugar": "Crassus bust Louvre"
     },
     {
      "card": {
@@ -1922,12 +3558,14 @@
       "Marco Tulio Cicerón",
       "Orador y cónsul · 106 – 43 a. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Cicero bust Capitoline Museums"
     },
     {
      "photo": "Cicero denounces Catiline Maccari",
      "src": "commons,met,cleveland,europeana",
-     "at": "le ataca a la cara"
+     "at": "le ataca a la cara",
+     "lugar": "Cicero denounces Catiline Maccari"
     }
    ],
    "gen": "8VWOkBLCxviw8t8gnNg1",
@@ -1976,7 +3614,8 @@
       "Cneo Pompeyo Magno",
       "General · 106 – 48 a. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Pompey the Great bust Copenhagen"
     },
     {
      "photo": "Julius Caesar Tusculum bust",
@@ -1986,7 +3625,8 @@
       "Cayo Julio César",
       "General y dictador · 100 – 44 a. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Julius Caesar Tusculum bust"
     }
    ],
    "gen": "BD39xanhpjUgVsYTYZ8w",
@@ -2100,7 +3740,8 @@
       "Vercingétorix",
       "Jefe de los galos arvernos",
       "barbaros"
-     ]
+     ],
+     "lugar": "Vercingetorix throws down his arms Lionel Royer"
     }
    ],
    "gen": "ceuMMjFmf9MnH1qPZlNM",
@@ -2132,7 +3773,8 @@
     {
      "photo": "Commentarii de Bello Gallico manuscript",
      "src": "commons,met,cleveland,europeana",
-     "at": "su propio libro"
+     "at": "su propio libro",
+     "lugar": "Commentarii de Bello Gallico manuscript"
     }
    ],
    "gen": "Nfa5ZGyYC8yWFdyIdPlJ",
@@ -2150,7 +3792,8 @@
      "lt": [
       "El Rubicón",
       "Frontera de Italia en 49 a. C."
-     ]
+     ],
+     "lugar": "Rubicon river"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/cc675b58-278f-49c2-bb23-59d22736b17a.png",
@@ -2186,7 +3829,8 @@
     {
      "photo": "Pharsalus battle",
      "src": "commons,met,cleveland,europeana",
-     "at": "Farsalia"
+     "at": "Farsalia",
+     "lugar": "Pharsalus battle"
     },
     {
      "photo": "Cleopatra Berlin bust Altes Museum",
@@ -2196,7 +3840,8 @@
       "Cleopatra VII",
       "Reina de Egipto · 69 – 30 a. C.",
       "oriente"
-     ]
+     ],
+     "lugar": "Cleopatra Berlin bust Altes Museum"
     }
    ],
    "gen": "8BaQGxdB7xNwHMb6hKsH",
@@ -2256,14 +3901,14 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Fasti calendar Roman marble",
-     "src": "commons,met,cleveland,europeana",
-     "at": "Reforma el calendario"
+     "at": "Reforma el calendario",
+     "ai": "https://www.figma.com/api/mcp/asset/397ea660-8e03-4abc-9b3a-bca2f02d0f46.png"
     },
     {
-     "photo": "Julius Caesar denarius dictator perpetuo",
      "src": "commons,met,cleveland,europeana",
-     "at": "dictador... perpetuo"
+     "at": "dictador... perpetuo",
+     "photo": "Julius Caesar Tusculum bust",
+     "lugar": "Julius Caesar Tusculum bust"
     },
     {
      "photo": "Roman Senate Curia Julia interior",
@@ -2271,7 +3916,8 @@
      "at": "un rey con otro nombre",
      "kw": "REX",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "lugar": "Roman Senate Curia Julia interior"
     }
    ],
    "gen": "IZzRQIEGES6jDrCk4DA3",
@@ -2285,7 +3931,8 @@
     {
      "photo": "Julius Caesar Chiaramonti bust",
      "src": "commons,met,cleveland,europeana",
-     "at": "la calvicie"
+     "at": "la calvicie",
+     "lugar": "Julius Caesar Chiaramonti bust"
     },
     {
      "card": {
@@ -2306,9 +3953,10 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Julius Caesar laurel wreath coin",
      "src": "commons,met,cleveland,europeana",
-     "at": "tapar la calva"
+     "at": "tapar la calva",
+     "photo": "Julius Caesar Chiaramonti bust",
+     "lugar": "Julius Caesar Chiaramonti bust"
     }
    ],
    "gen": "A3t1IySFdcky1re6MISY",
@@ -2340,7 +3988,8 @@
     {
      "photo": "Death of Caesar Gerome",
      "src": "commons,met,cleveland,europeana",
-     "at": "Los idus de marzo"
+     "at": "Los idus de marzo",
+     "lugar": "Death of Caesar Gerome"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/0b6fdc0e-2779-4b39-8b18-126711af9334.png",
@@ -2388,7 +4037,8 @@
      "lt": [
       "Largo di Torre Argentina",
       "Lugar del asesinato · Roma, hoy"
-     ]
+     ],
+     "lugar": "Largo di Torre Argentina Curia of Pompey"
     }
    ],
    "gen": "2B2xpLWyC1URuEV2pO23",
@@ -2402,7 +4052,8 @@
     {
      "photo": "Cicero bust Capitoline Museums",
      "src": "commons,met,cleveland,europeana",
-     "at": "Cicerón no participó"
+     "at": "Cicerón no participó",
+     "lugar": "Cicero bust Capitoline Museums"
     }
    ],
    "gen": "QMlEO2vCXtTSNz0LLuxE",
@@ -2434,7 +4085,8 @@
     {
      "photo": "Mark Antony bust Vatican",
      "src": "commons,met,cleveland,europeana",
-     "at": "La sobra"
+     "at": "La sobra",
+     "lugar": "Mark Antony bust Vatican"
     }
    ],
    "gen": "q3fN2ioeUcKQ6QO91rzp",
@@ -2501,14 +4153,15 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Augustus young bust Ara Pacis",
      "src": "commons,met,cleveland,europeana",
      "at": "Cayo Octavio",
      "lt": [
       "Octavio, después Augusto",
       "Heredero de César · 63 a. C. – 14 d. C.",
       "roma"
-     ]
+     ],
+     "photo": "Augustus Via Labicana",
+     "lugar": "Augustus Via Labicana"
     }
    ],
    "gen": "AhgLXch8Ddh4nhc413E9",
@@ -2558,7 +4211,8 @@
       "Marco Antonio",
       "Lugarteniente de César · 83 – 30 a. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Mark Antony bust Vatican"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/f40c7ad3-0744-4f41-8824-5aed94956544.png",
@@ -2629,7 +4283,8 @@
     {
      "photo": "Death of Cleopatra painting",
      "src": "commons,met,cleveland,europeana",
-     "at": "los dos se suicidan"
+     "at": "los dos se suicidan",
+     "lugar": "Death of Cleopatra painting"
     }
    ],
    "gen": "gzhXcqx6Iwz6ne4uWibX",
@@ -2648,7 +4303,8 @@
       "Augusto",
       "Primer emperador de Roma · 27 a. C. – 14 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Augustus of Prima Porta"
     },
     {
      "photo": "Augustus of Prima Porta detail",
@@ -2656,7 +4312,8 @@
      "at": "Augusto",
      "kw": "AUGUSTO",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "lugar": "Augustus of Prima Porta detail"
     }
    ],
    "gen": "8hrgEbonqVwWMr69f8GX",
@@ -2674,7 +4331,8 @@
      "lt": [
       "Res Gestae",
       "Templo de Augusto, Ankara · hoy"
-     ]
+     ],
+     "lugar": "Res Gestae Divi Augusti Ankara"
     }
    ],
    "gen": "Zi5PncRodMNpX31y50Lh",
@@ -2727,12 +4385,14 @@
      "lt": [
       "Ara Pacis",
       "Altar de la Paz de Augusto · Roma"
-     ]
+     ],
+     "lugar": "Ara Pacis Augustae"
     },
     {
      "photo": "Forum of Augustus Rome",
      "src": "commons,met,cleveland,europeana",
-     "at": "templos y foros"
+     "at": "templos y foros",
+     "lugar": "Forum of Augustus Rome"
     }
    ],
    "gen": "uDC5Hxu0sC0T5IPwlkyx",
@@ -2769,7 +4429,8 @@
       "Virgilio",
       "Poeta · autor de la Eneida",
       "roma"
-     ]
+     ],
+     "lugar": "Virgil mosaic Bardo Museum"
     }
    ],
    "gen": "xF0Cd4mQFZGr9NxwwVd7",
@@ -2809,7 +4470,8 @@
      "lt": [
       "Kalkriese",
       "Lugar probable de la batalla · Alemania"
-     ]
+     ],
+     "lugar": "Kalkriese Roman mask"
     }
    ],
    "gen": "VPPknJDGCX1miqvvNVHU",
@@ -2823,7 +4485,8 @@
     {
      "photo": "Augustus Via Labicana",
      "src": "commons,met,cleveland,europeana",
-     "at": "Murió en el año catorce"
+     "at": "Murió en el año catorce",
+     "lugar": "Augustus Via Labicana"
     }
    ],
    "gen": "AXEKFkq3QIEJVbiUL1N5",
@@ -2901,7 +4564,8 @@
       "Calígula",
       "Emperador · 37 – 41 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Caligula bust Ny Carlsberg"
     },
     {
      "card": {
@@ -2937,7 +4601,8 @@
       "Claudio",
       "Emperador · 41 – 54 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Claudius bust Naples"
     }
    ],
    "gen": "PNZbhkjgaZQDJEx9NNVl",
@@ -2956,7 +4621,8 @@
       "Boudica",
       "Reina de los icenos · murió hacia el 61 d. C.",
       "barbaros"
-     ]
+     ],
+     "lugar": "Boudica statue Westminster"
     }
    ],
    "gen": "QPVyyMkbg2InQfCkZUaD",
@@ -3024,12 +4690,14 @@
       "Nerón",
       "Emperador · 54 – 68 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Nero bust Capitoline Museums"
     },
     {
      "photo": "Fire of Rome Hubert Robert",
      "src": "commons,met,cleveland,europeana",
-     "at": "Un incendio"
+     "at": "Un incendio",
+     "lugar": "Fire of Rome Hubert Robert"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/71216a3f-d9b6-42d3-a2ee-f09e3c099118.png",
@@ -3083,7 +4751,8 @@
     {
      "photo": "Nero torches Siemiradzki",
      "src": "commons,met,cleveland,europeana",
-     "at": "los cristianos"
+     "at": "los cristianos",
+     "lugar": "Nero torches Siemiradzki"
     }
    ],
    "gen": "iALtKkwXlyju2iYowfbx",
@@ -3101,7 +4770,8 @@
      "lt": [
       "Domus Aurea",
       "La Casa Dorada de Nerón · Roma"
-     ]
+     ],
+     "lugar": "Domus Aurea Rome"
     },
     {
      "photo": "Vespasian bust Ny Carlsberg",
@@ -3111,7 +4781,8 @@
       "Vespasiano",
       "Emperador · 69 – 79 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Vespasian bust Ny Carlsberg"
     }
    ],
    "gen": "29Wlf66cLRapiMqmXjjX",
@@ -3156,7 +4827,8 @@
     {
      "photo": "Vespasienne Paris urinal",
      "src": "commons,met,cleveland,europeana",
-     "at": "vespasiani"
+     "at": "vespasiani",
+     "lugar": "Vespasienne Paris urinal"
     }
    ],
    "gen": "gQWxSb3HXnAPukA5fdre",
@@ -3192,7 +4864,8 @@
      "lt": [
       "Anfiteatro Flavio · el Coliseo",
       "Inaugurado en el año 80 d. C."
-     ]
+     ],
+     "lugar": "Colosseum Rome exterior"
     }
    ],
    "gen": "bQFFbRGTaawquo5K25L2",
@@ -3218,7 +4891,8 @@
     {
      "photo": "Colosseum hypogeum",
      "src": "commons,met,cleveland,europeana",
-     "at": "Animales traídos"
+     "at": "Animales traídos",
+     "lugar": "Colosseum hypogeum"
     }
    ],
    "gen": "Q3npcDiJM1VQoL0EE79p",
@@ -3241,12 +4915,14 @@
     {
      "photo": "Pollice Verso Gerome",
      "src": "commons,met,cleveland,europeana",
-     "at": "un cuadro de 1872"
+     "at": "un cuadro de 1872",
+     "lugar": "Pollice Verso Gerome"
     },
     {
      "photo": "gladiator mosaic Zliten",
      "src": "commons,met,cleveland,europeana",
-     "at": "bien entrenado"
+     "at": "bien entrenado",
+     "lugar": "gladiator mosaic Zliten"
     }
    ],
    "gen": "aVY0YZGYmVKk1QoT3sWx",
@@ -3264,7 +4940,8 @@
      "lt": [
       "El Vesubio",
       "Bahía de Nápoles · hoy"
-     ]
+     ],
+     "lugar": "Vesuvius from Naples"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/2814aca5-c552-46dc-89af-e974c7aa8887.png",
@@ -3326,12 +5003,14 @@
      "lt": [
       "Pompeya",
       "Campania, Italia · hoy"
-     ]
+     ],
+     "lugar": "Pompeii forum Vesuvius"
     },
     {
      "photo": "Pompeii plaster casts",
      "src": "commons,met,cleveland,europeana",
-     "at": "congeladas en el tiempo"
+     "at": "congeladas en el tiempo",
+     "lugar": "Pompeii plaster casts"
     }
    ],
    "gen": "j3BkU5doFfzQx6CxpYfo",
@@ -3349,12 +5028,14 @@
      "lt": [
       "Arco de Tito",
       "Foro Romano · hacia 81 d. C."
-     ]
+     ],
+     "lugar": "Arch of Titus menorah relief"
     },
     {
      "photo": "Arch of Titus Rome",
      "src": "commons,met,cleveland,europeana",
-     "at": "en el arco"
+     "at": "en el arco",
+     "lugar": "Arch of Titus Rome"
     }
    ],
    "gen": "FdXxi7npyal8ZY6p1nX6",
@@ -3372,7 +5053,8 @@
      "lt": [
       "Itálica",
       "Santiponce, Sevilla · hoy"
-     ]
+     ],
+     "lugar": "Italica Santiponce amphitheatre"
     },
     {
      "photo": "Trajan bust Glyptothek",
@@ -3382,7 +5064,8 @@
       "Trajano",
       "Emperador · 98 – 117 d. C. · nacido en Hispania",
       "roma"
-     ]
+     ],
+     "lugar": "Trajan bust Glyptothek"
     }
    ],
    "gen": "eClNn5P6yNyYWMB4VtFo",
@@ -3400,12 +5083,14 @@
      "lt": [
       "Columna de Trajano",
       "Roma · 113 d. C."
-     ]
+     ],
+     "lugar": "Trajan Column Rome"
     },
     {
      "photo": "Trajan Column relief detail Dacian",
      "src": "commons,met,cleveland,europeana",
-     "at": "una espiral de relieves"
+     "at": "una espiral de relieves",
+     "lugar": "Trajan Column relief detail Dacian"
     },
     {
      "card": {
@@ -3705,7 +5390,8 @@
      "lt": [
       "Ínsula del Aracoeli",
       "Bloque de pisos del siglo II · Roma"
-     ]
+     ],
+     "lugar": "Insula Ara Coeli Rome"
     }
    ],
    "gen": "WJSzh1nDUhFW02ZQlUWy",
@@ -3723,12 +5409,14 @@
      "lt": [
       "Termopolio",
       "Bar de comida caliente · Pompeya"
-     ]
+     ],
+     "lugar": "Thermopolium Pompeii"
     },
     {
      "photo": "House of the Vettii peristyle Pompeii",
      "src": "commons,met,cleveland,europeana",
-     "at": "casas con jardín"
+     "at": "casas con jardín",
+     "lugar": "House of the Vettii peristyle Pompeii"
     }
    ],
    "gen": "55NA5aF7m8RysS1mSqci",
@@ -3742,12 +5430,14 @@
     {
      "photo": "Pompeii electoral inscription",
      "src": "commons,met,cleveland,europeana",
-     "at": "anuncios electorales"
+     "at": "anuncios electorales",
+     "lugar": "Pompeii electoral inscription"
     },
     {
      "photo": "Pompeii graffiti wall",
      "src": "commons,met,cleveland,europeana",
-     "at": "en las paredes"
+     "at": "en las paredes",
+     "lugar": "Pompeii graffiti wall"
     }
    ],
    "gen": "rX5bQbkVAM8BXtZYufJv",
@@ -3759,9 +5449,10 @@
    "voice": "MUR",
    "shots": [
     {
-     "photo": "Pompeii electoral programmata",
      "src": "commons,met,cleveland,europeana",
-     "at": "campaña electoral"
+     "at": "campaña electoral",
+     "photo": "Pompeii electoral inscription",
+     "lugar": "Pompeii electoral inscription"
     }
    ],
    "gen": "Y1tpMYYxSR6icIOTnsCJ",
@@ -3809,9 +5500,10 @@
    "voice": "MUR",
    "shots": [
     {
-     "photo": "Pompeii Basilica graffiti",
      "src": "commons,met,cleveland,europeana",
-     "at": "Está escrito"
+     "at": "Está escrito",
+     "photo": "Pompeii graffiti wall",
+     "lugar": "Pompeii graffiti wall"
     }
    ],
    "gen": "Pm9oyast1H3GiCHrAe6c",
@@ -3841,12 +5533,13 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Pompeii Basilica graffiti",
      "src": "commons,met,cleveland,europeana",
      "at": "Roma ya tenía comentarios",
      "kw": "CIL IV 1904",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "photo": "Pompeii graffiti wall",
+     "lugar": "Pompeii graffiti wall"
     }
    ],
    "gen": "T9IyrzuiPiHvDdvmyOhu",
@@ -3866,9 +5559,10 @@
      "at": "no, los romanos no"
     },
     {
-     "photo": "Colosseum vomitorium entrance",
      "src": "commons,met,cleveland,europeana",
-     "at": "las salidas del anfiteatro"
+     "at": "las salidas del anfiteatro",
+     "photo": "Colosseum Rome exterior",
+     "lugar": "Colosseum Rome exterior"
     }
    ],
    "gen": "OF506MX0HNR77m9hIJoW",
@@ -3899,7 +5593,8 @@
      "lt": [
       "Termas de Caracalla",
       "Roma · siglo III"
-     ]
+     ],
+     "lugar": "Baths of Caracalla ruins"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/1a692121-80b1-4ea5-afb1-70cf14414d69.png",
@@ -3921,7 +5616,8 @@
      "lt": [
       "Circo Máximo",
       "Roma · hoy"
-     ]
+     ],
+     "lugar": "Circus Maximus Rome"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/4739ae55-2cc0-45af-85ec-0e577bad57c7.png",
@@ -3944,7 +5640,8 @@
       "Juvenal",
       "Poeta satírico · siglos I y II d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Juvenal"
     }
    ],
    "gen": "j2N8iE6EWACxrYmiWY8y",
@@ -3976,7 +5673,8 @@
     {
      "photo": "Roman slave collar inscription",
      "src": "commons,met,cleveland,europeana",
-     "at": "la esclavitud"
+     "at": "la esclavitud",
+     "lugar": "Roman slave collar inscription"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/8a587222-1e1a-49d8-a4af-4fb64d1d4217.png",
@@ -3985,7 +5683,8 @@
     {
      "photo": "Roman freedman funerary relief",
      "src": "commons,met,cleveland,europeana",
-     "at": "los libertos"
+     "at": "los libertos",
+     "lugar": "Roman freedman funerary relief"
     }
    ],
    "gen": "XOD6tKtPnVAWE8RsdCMB",
@@ -3999,12 +5698,14 @@
     {
      "photo": "Roman funerary portrait woman Fayum",
      "src": "commons,met,cleveland,europeana",
-     "at": "Las mujeres"
+     "at": "Las mujeres",
+     "lugar": "Roman funerary portrait woman Fayum"
     },
     {
      "photo": "Roman tombstone woman relief",
      "src": "commons,met,cleveland,europeana",
-     "at": "por sus tumbas"
+     "at": "por sus tumbas",
+     "lugar": "Roman tombstone woman relief"
     }
    ],
    "gen": "FkcKLTmaDSA5VVxREGSN",
@@ -4062,7 +5763,8 @@
       "Adriano",
       "Emperador · 117 – 138 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Hadrian bust British Museum"
     },
     {
      "photo": "Hadrian Wall Housesteads",
@@ -4071,7 +5773,8 @@
      "lt": [
       "Muro de Adriano",
       "Northumberland, Reino Unido · hoy"
-     ]
+     ],
+     "lugar": "Hadrian Wall Housesteads"
     }
    ],
    "gen": "8szx9uyLFzO2ihf95Y22",
@@ -4090,7 +5793,8 @@
       "Marco Aurelio",
       "Emperador y filósofo · 161 – 180 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Marcus Aurelius equestrian statue Capitoline"
     }
    ],
    "gen": "Tihpg99R8BbrdXYdAN0N",
@@ -4120,14 +5824,15 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Antoninus Pius bust",
      "src": "commons,met,cleveland,europeana",
      "at": "algo de razón",
      "lt": [
       "Antonino Pío",
       "Emperador · 138 – 161 d. C.",
       "roma"
-     ]
+     ],
+     "photo": "Marcus Aurelius equestrian statue Capitoline",
+     "lugar": "Marcus Aurelius equestrian statue Capitoline"
     }
    ],
    "gen": "kXTwVWLH2x4KigPndldx",
@@ -4212,7 +5917,8 @@
       "Cómodo",
       "Emperador · 180 – 192 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Commodus as Hercules Capitoline"
     }
    ],
    "gen": "DohGJIV99uUEBRb69rDs",
@@ -4252,7 +5958,8 @@
       "Septimio Severo",
       "Emperador · 193 – 211 d. C. · nacido en África",
       "roma"
-     ]
+     ],
+     "lugar": "Septimius Severus bust Glyptothek"
     },
     {
      "photo": "Leptis Magna arch",
@@ -4261,7 +5968,8 @@
      "lt": [
       "Leptis Magna",
       "Libia · hoy"
-     ]
+     ],
+     "lugar": "Leptis Magna arch"
     }
    ],
    "gen": "Fgtqc9rdXHcAnhBTjW4v",
@@ -4297,7 +6005,8 @@
      "lt": [
       "Tondo severiano",
       "El rostro de Geta, borrado tras su asesinato"
-     ]
+     ],
+     "lugar": "Severan Tondo Geta erased"
     }
    ],
    "gen": "5VUHdN5hVAwAWchyCsbG",
@@ -4316,7 +6025,8 @@
       "Caracalla",
       "Emperador · 211 – 217 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Caracalla bust Naples"
     },
     {
      "photo": "Constitutio Antoniniana papyrus Giessen",
@@ -4324,7 +6034,8 @@
      "at": "todos son romanos",
      "kw": "TODOS ROMANOS",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "lugar": "Constitutio Antoniniana papyrus Giessen"
     }
    ],
    "gen": "bdP46uhPs9BmZTzRrkJ7",
@@ -4347,7 +6058,8 @@
     {
      "photo": "Antoninianus debased coin",
      "src": "commons,met,cleveland,europeana",
-     "at": "la moneda"
+     "at": "la moneda",
+     "lugar": "Antoninianus debased coin"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/3f6f08b1-13ec-461a-b6c1-1567a38beabe.png",
@@ -4369,7 +6081,8 @@
      "lt": [
       "Naqsh-e Rostam",
       "Relieve de Sapor I · Irán"
-     ]
+     ],
+     "lugar": "Naqsh-e Rostam Shapur Valerian relief"
     }
    ],
    "gen": "rlcRyNhAjyMLFpBvnUTJ",
@@ -4439,7 +6152,8 @@
      "lt": [
       "Muralla Aureliana",
       "Roma · 271 d. C."
-     ]
+     ],
+     "lugar": "Aurelian Walls Rome"
     }
    ],
    "gen": "TGSqDNU2s30ASTkz1Sa9",
@@ -4513,7 +6227,8 @@
       "Diocleciano",
       "Emperador · 284 – 305 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Diocletian bust Istanbul"
     },
     {
      "photo": "Portrait of the Four Tetrarchs Venice",
@@ -4522,12 +6237,14 @@
      "lt": [
       "Los tetrarcas",
       "Basílica de San Marcos, Venecia"
-     ]
+     ],
+     "lugar": "Portrait of the Four Tetrarchs Venice"
     },
     {
      "photo": "Edict on Maximum Prices inscription",
      "src": "commons,met,cleveland,europeana",
-     "at": "fija por ley los precios"
+     "at": "fija por ley los precios",
+     "lugar": "Edict on Maximum Prices inscription"
     }
    ],
    "gen": "dwfWoPwISDjnb7iL2V0z",
@@ -4545,7 +6262,8 @@
      "lt": [
       "Palacio de Diocleciano",
       "Split, Croacia · hoy"
-     ]
+     ],
+     "lugar": "Diocletian Palace Split"
     }
    ],
    "gen": "qkohxzfDRoUv4veY9vXD",
@@ -4586,12 +6304,14 @@
       "Constantino I",
       "Emperador · 306 – 337 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Constantine colossus Capitoline head"
     },
     {
      "photo": "Battle of the Milvian Bridge Raphael",
      "src": "commons,met,cleveland,europeana",
-     "at": "puente Milvio"
+     "at": "puente Milvio",
+     "lugar": "Battle of the Milvian Bridge Raphael"
     },
     {
      "ai": "https://www.figma.com/api/mcp/asset/a8fe69ee-0996-46e0-82e4-6c9ac02ca0ec.png",
@@ -4613,7 +6333,8 @@
      "lt": [
       "Constantinopla",
       "Hoy Estambul, Turquía"
-     ]
+     ],
+     "lugar": "Hagia Sophia Istanbul"
     },
     {
      "card": {
@@ -4663,7 +6384,8 @@
       "Juliano",
       "Emperador · 361 – 363 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Julian the Apostate coin"
     },
     {
      "card": {
@@ -4690,7 +6412,8 @@
       "Teodosio I",
       "Emperador · 379 – 395 d. C. · nacido en Hispania",
       "roma"
-     ]
+     ],
+     "lugar": "Missorium of Theodosius"
     },
     {
      "card": {
@@ -4792,12 +6515,14 @@
       "Alarico I",
       "Rey de los visigodos",
       "barbaros"
-     ]
+     ],
+     "lugar": "Sack of Rome by the Visigoths Sylvestre"
     },
     {
      "photo": "Saint Jerome in his study Caravaggio",
      "src": "commons,met,cleveland,europeana",
-     "at": "san Jerónimo"
+     "at": "san Jerónimo",
+     "lugar": "Saint Jerome in his study Caravaggio"
     }
    ],
    "gen": "RAL7cjBKcEV41jXbYDq5",
@@ -4834,7 +6559,8 @@
       "Honorio",
       "Emperador de Occidente · 395 – 423 d. C.",
       "roma"
-     ]
+     ],
+     "lugar": "The Favourites of the Emperor Honorius Waterhouse"
     },
     {
      "card": {
@@ -4914,7 +6640,8 @@
      "lt": [
       "Corona votiva de Recesvinto",
       "Tesoro de Guarrazar · Toledo, siglo VII"
-     ]
+     ],
+     "lugar": "Toledo Visigothic crown Guarrazar"
     }
    ],
    "gen": "hY4SDV83hRvmZ5xbLuEH",
@@ -4933,12 +6660,14 @@
       "Atila",
       "Rey de los hunos · murió en 453",
       "barbaros"
-     ]
+     ],
+     "lugar": "Attila the Hun Delacroix"
     },
     {
      "photo": "Meeting of Leo the Great and Attila Raphael",
      "src": "commons,met,cleveland,europeana",
-     "at": "el papa León"
+     "at": "el papa León",
+     "lugar": "Meeting of Leo the Great and Attila Raphael"
     }
    ],
    "gen": "vwSx263zVqicqySRwZTq",
@@ -4952,7 +6681,8 @@
     {
      "photo": "Genseric sacking Rome Bryullov",
      "src": "commons,met,cleveland,europeana",
-     "at": "los vándalos saquean Roma"
+     "at": "los vándalos saquean Roma",
+     "lugar": "Genseric sacking Rome Bryullov"
     }
    ],
    "gen": "LgwqIhM8ca4HI1gL7IzA",
@@ -4971,7 +6701,8 @@
       "Rómulo Augústulo",
       "Último emperador de Occidente · 475 – 476",
       "roma"
-     ]
+     ],
+     "lugar": "Romulus Augustulus solidus"
     },
     {
      "photo": "Romulus Augustulus coin",
@@ -4979,7 +6710,8 @@
      "at": "casi una broma",
      "kw": "ROMULUS AUGUSTULUS",
      "kw_at": 0.4,
-     "kw_dur": 2.2
+     "kw_dur": 2.2,
+     "lugar": "Romulus Augustulus coin"
     }
    ],
    "gen": "IhvTKe6fJAbbJlYxm1sN",
@@ -5035,7 +6767,8 @@
      "lt": [
       "Edward Gibbon",
       "Historia de la decadencia y caída del Imperio romano · 1776 – 1789"
-     ]
+     ],
+     "lugar": "Edward Gibbon portrait Reynolds"
     }
    ],
    "gen": "efVZ6JPLKQ9Cx08EZDzr",
@@ -5086,7 +6819,8 @@
      "lt": [
       "Murallas de Teodosio",
       "Estambul · hoy"
-     ]
+     ],
+     "lugar": "Theodosian Walls Istanbul"
     }
    ],
    "gen": "ba68Tq6kk3S6Lt077NoM",
@@ -5100,7 +6834,8 @@
     {
      "photo": "Fall of Constantinople Zonaro",
      "src": "commons,met,cleveland,europeana",
-     "at": "entran en Constantinopla"
+     "at": "entran en Constantinopla",
+     "lugar": "Fall of Constantinople Zonaro"
     },
     {
      "card": {
@@ -5147,7 +6882,8 @@
      "lt": [
       "Acueducto de Segovia",
       "Siglo I-II d. C. · hoy"
-     ]
+     ],
+     "lugar": "Aqueduct of Segovia"
     },
     {
      "photo": "Merida Roman theatre",
@@ -5156,7 +6892,8 @@
      "lt": [
       "Teatro romano de Mérida",
       "Augusta Emerita · hoy"
-     ]
+     ],
+     "lugar": "Merida Roman theatre"
     },
     {
      "photo": "Roman bridge Alcantara",
@@ -5165,7 +6902,8 @@
      "lt": [
       "Puente de Alcántara",
       "Cáceres · 104-106 d. C."
-     ]
+     ],
+     "lugar": "Roman bridge Alcantara"
     }
    ],
    "gen": "GiGbDPUZZEzZ6dAJT46K",
@@ -5184,12 +6922,14 @@
       "Séneca",
       "Filósofo · nacido en Córdoba hacia el 4 a. C.",
       "roma"
-     ]
+     ],
+     "lugar": "Seneca bust Cordoba"
     },
     {
      "photo": "Rio Tinto Roman mine",
      "src": "commons,met,cleveland,europeana",
-     "at": "plata"
+     "at": "plata",
+     "lugar": "Rio Tinto Roman mine"
     }
    ],
    "gen": "pgouJqyuzvWjtKRjanS4",
@@ -5207,12 +6947,14 @@
      "lt": [
       "Panteón de Agripa",
       "Roma · 126 d. C., todavía en uso"
-     ]
+     ],
+     "lugar": "Pantheon Rome interior oculus"
     },
     {
-     "photo": "Forum Romanum sunset",
      "src": "commons,met,cleveland,europeana",
-     "at": "seguimos aquí"
+     "at": "seguimos aquí",
+     "photo": "Roman Forum view from Capitoline",
+     "lugar": "Roman Forum view from Capitoline"
     }
    ],
    "gen": "mQcfOteSgvFIxCWhrHCW",

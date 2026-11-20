@@ -154,7 +154,7 @@ FUE("Quiso que Gothia sustituyera a Romania. Pero la experiencia le enseñó que
     PAP('Eligió buscar la gloria restaurando el nombre romano con las fuerzas de los godos.', 'Ataúlfo, según Orosio', 'Historias contra los paganos, VII, 43', at='Quiso que Gothia'))
 NAR("Los visigodos acabaron fundando un reino con capital en Toledo. Hablaban latín, usaban el derecho romano y se consideraban herederos de Roma.",
     ph('Toledo Visigothic crown Guarrazar', at='Toledo', lt=['Corona votiva de Recesvinto', 'Tesoro de Guarrazar · Toledo, siglo VII']))
-ESP("En el año cuatrocientos cincuenta y uno llega el más temido: Atila, rey de los hunos. Un ejército de romanos y godos, juntos, le frena en los Campos Cataláunicos, en la Galia. Al año siguiente invade Italia y el papa León sale a su encuentro. Atila se retira. Al año siguiente muere... en su noche de bodas.",
+ESP("En el año cuatrocientos cincuenta y uno llega el más temido: Atila, rey de los hunos. Un ejército de romanos y godos, juntos, le frena en los Campos Cataláunicos, en la Galia. Al año siguiente invade Italia y el papa León sale a su encuentro. Atila se retira. Y un año después muere... en su noche de bodas.",
     ph('Attila the Hun Delacroix', at='Atila', lt=['Atila', 'Rey de los hunos · murió en 453', 'barbaros']),
     ph('Meeting of Leo the Great and Attila Raphael', at='el papa León'))
 ESP("En el cuatrocientos cincuenta y cinco, los vándalos saquean Roma durante dos semanas. De ahí viene la palabra «vandalismo», aunque fue más un saqueo ordenado que una destrucción sin sentido. Los últimos emperadores de Occidente ya son marionetas de generales de origen germano.",

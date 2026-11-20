@@ -64,7 +64,7 @@ job = {
               'pause_stretch': 0.45, 'pause_cap': 0.6, 'gap_n': 1.5, 'gap_q': 1.0},
     'tempo': 0.9, 'parts': 4, 'codec': 'hevc', 'max_kbps': 750, 'audio_kbps': '112k',
     'intro': ['assets/intro/docuvox.mp4'], 'seed': 1920,
-    'qpicks': {'photo:' + k: v for k, v in QCUR.items()}, 'picks': RES.get('picks', {}), 'rev': RES.get('rev', 1),
+    'qpicks': json.load(open(os.path.join(HERE, 'qpicks_curado.json'))), 'split_still': 6.5, 'picks': RES.get('picks', {}), 'rev': RES.get('rev', 1),
     'units': U,
 }
 for g in job['glossary']: g['def'] = g.pop('def_')

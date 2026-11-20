@@ -348,6 +348,25 @@ def build_edl_sync(job, U, A):
         if d <= 0.2: log(f'  aviso plano descartado por falta de hueco: {list(s)[0]}'); continue
         shots.append(dict(spec=s, t=it['t'], d=d, unit=it['unit'], k=it['k'], lt=s.get('lt'), tr_in=s.get('tr'),
                           fadein=.8 if (it['k'] == 'M' and it['m'] == 0) else 0, fadeout=1.2 if (it['k'] == 'M' and it['m'] == it['n_in'] - 1) else 0))
+    # v5.1: planos fijos demasiado largos se parten en tramos (otro candidato de la misma búsqueda o nuevo encuadre)
+    sp_max = job.get('split_still')
+    if sp_max:
+        allw0 = A.get('allw', []); out = []
+        for sh in shots:
+            sp = sh['spec']; still = any(k in sp for k in ('photo', 'ai', 'image', 'commons')) and 'video' not in sp and 'card' not in sp
+            n = math.ceil(sh['d'] / sp_max) if still else 1
+            if n <= 1: out.append(sh); continue
+            cuts = [sh['t'] + sh['d'] * q / n for q in range(1, n)]
+            ws = [tw for (tw, _, _) in allw0 if sh['t'] + 2.5 < tw < sh['t'] + sh['d'] - 2.5]
+            cuts = sorted({min(ws, key=lambda w: abs(w - c)) if ws else c for c in cuts})
+            edges = [sh['t']] + [c for c in cuts if c - sh['t'] > 2.2] + [sh['t'] + sh['d']]
+            for q, (a, b) in enumerate(zip(edges, edges[1:])):
+                if q == 0: seg = dict(sh, d=b - a, fadeout=0)
+                else:
+                    sp2 = {k: v for k, v in sp.items() if k not in ('lt', 'kw', 'kw_at', 'kw_dur', 'tr', 'gloss', 'gloss_at', 'gloss_dur', 'gloss_on', 'at')}
+                    seg = dict(sh, spec=sp2, t=a, d=b - a, lt=None, tr_in=None, fadein=0, fadeout=sh['fadeout'] if b == edges[-1] else 0)
+                out.append(seg)
+        log(f'   partición de planos largos: {len(shots)} → {len(out)} planos'); shots = out
     shots[-1]['fadeout'] = 3.0
     for a_, b_ in zip(shots, shots[1:]):
         if b_.get('tr_in'): a_['tr_out'] = b_['tr_in']

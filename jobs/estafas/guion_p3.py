@@ -6,7 +6,7 @@ from lib import *
 T('Los sellos que no valían nada', 'España, 2006', num='V', sting='drama')
 DOC("Expediente número cinco. Sospechosos: los directivos de Fórum Filatélico y de Afinsa. Delito: estafa piramidal disfrazada de inversión en sellos. Víctimas: unos cuatrocientos sesenta mil clientes en toda España.",
     cd(dict(type='ficha', name='Fórum y Afinsa', role='Las dos mayores filatélicas de España', group='Expediente V · inversión en sellos', color=[196, 38, 34]), at='Expediente'),
-    ph('Spanish postage stamps collection', at='Sospechoso'))
+    ai('hoja_sellos', 'a full sheet of colourful vintage postage stamps with ornate borders, generic landscapes and flowers, close-up, soft lamplight, no portraits', at='Sospechoso'))
 B('drama')
 NAR("España también tiene su propia galería de estafas. En junio de dos mil uno, la Comisión Nacional del Mercado de Valores intervino una agencia de valores de Madrid llamada Gescartera. Faltaban cerca de noventa millones de euros de sus clientes, entre ellos instituciones como el arzobispado de Valladolid. Su dueño, Antonio Camacho, fue condenado a once años de cárcel.",
     ph('CNMV sede Madrid', at='la Comisión Nacional del Mercado de Valores', lt=['CNMV', 'Comisión Nacional del Mercado de Valores · Madrid']),
@@ -22,7 +22,7 @@ INV("La operación la dirigía la Audiencia Nacional, a partir de una investigac
     cd(dict(type='counter', to=460000, label='clientes de Fórum Filatélico y Afinsa'), at='cuatrocientos sesenta mil'),
     cd(dict(type='counter', to=6200, label='millones de euros invertidos, según la Agencia EFE'), at='seis mil doscientos millones'))
 NAR("¿Cómo se llega ahí? Con una idea que sonaba a sentido común. Durante unos veinticinco años, Fórum y Afinsa vendieron lotes de sellos como inversión. El argumento era sencillo: un sello antiguo vale más cada año que pasa. Tú comprabas el lote, la empresa lo guardaba, y al cabo del plazo te lo recompraba con una rentabilidad fija, más alta que la de un depósito del banco.",
-    ph('Spanish postage stamps collection', at='lotes de sellos'),
+    ai('archivo_sellos', 'stacks of investment folders and plastic sleeves filled with sheets of vintage postage stamps on shelves in a 2000s office archive, fluorescent light, no people', at='lotes de sellos'),
     ai('lupa_sellos', 'a magnifying glass over a page of an old stamp album with rows of colourful vintage postage stamps, desk lamp, close-up, no readable text', at='un sello antiguo'),
     cd(dict(type='list', header='El contrato filatélico', items=[('Compras un lote de sellos', 'la empresa los guarda por ti'), ('Pasa el plazo pactado', 'el sello «se revaloriza»'), ('Te lo recompran', 'con una rentabilidad fija')]), at='Tú comprabas'))
 INV("El problema es que el precio de esos sellos lo fijaban ellos mismos. La investigación concluyó que muchos se habían comprado baratos y se valoraban entre cinco y diez veces más tras pasar por sociedades en el extranjero. Afinsa llegó a guardar ciento cincuenta millones de sellos en sus almacenes. Fuera de ese circuito, valían muy poco.",
@@ -33,7 +33,7 @@ DOC("Fórum Filatélico había construido un mercado cerrado, ajeno al del colec
 DOC("Fórum Filatélico ofrecía al público la venta de lotes de sellos, asegurándole que, transcurrido el plazo fijado en el contrato, se encargaría de venderlos en el mercado a un precio superior.",
     cd(dict(type='doc', title='Tribunal Supremo · sentencia del caso Fórum', lines=['«Ofrecía al público la venta de lotes de sellos»', '«Se encargaría de venderlos en el mercado a un precio superior»'], source='Sala Segunda del Tribunal Supremo · confirma la estafa piramidal'), at='ofrecía al público'))
 NAR("Es decir: Ponzi, ochenta años después, con sellos españoles. Y muchos de sus clientes no eran especuladores. Eran jubilados, autónomos, familias. Muchos habían metido más de cincuenta mil euros, los ahorros de toda una vida, porque los sellos parecían algo sólido. Algo que se podía tocar.",
-    K('PONZI CON SELLOS', 'Spanish postage stamps collection', at='Ponzi, ochenta años después'),
+    KA('PONZI CON SELLOS', 'jubilados_sello', 'elderly retired couple hands holding a single vintage postage stamp in a plastic sleeve at a kitchen table, window light', at='Ponzi, ochenta años después'),
     ai('manos_sello', 'an old person\'s hands holding a single postage stamp with tweezers under a desk lamp, shallow depth of field', at='Algo que se podía tocar'))
 INV("Los juicios tardaron más de una década. En dos mil dieciséis, once directivos de Afinsa fueron condenados a penas de hasta doce años. En dos mil dieciocho llegó la sentencia de Fórum: doce años y cuatro meses para su expresidente, Francisco Briones, que el Tribunal Supremo rebajó después a once años y diez meses.",
     cd(dict(type='timeline', header='El caso Fórum-Afinsa', events=[['2006', 'Intervención judicial'], ['2016', 'Condenados 11 directivos de Afinsa'], ['2018', 'Sentencia de Fórum'], ['Después', 'El Supremo confirma la estafa']]), at='Los juicios'),
@@ -60,7 +60,7 @@ DOC("Expediente número seis. Sospechoso: Bernard Lawrence Madoff, expresidente 
     ph('Bernard Madoff mugshot 2009', at='Sospechoso'))
 B('tension')
 NAR("Bernard Madoff nació en Queens, en Nueva York, en mil novecientos treinta y ocho. En mil novecientos sesenta fundó su propia firma con unos cinco mil dólares que, según contaba, había ahorrado como socorrista y montando aspersores. Y durante décadas fue un pionero de verdad: su empresa ayudó a llevar la compraventa de acciones a la era de los ordenadores.",
-    ph('Queens New York 1940s', at='Queens'),
+    ai('queens_1940', 'a modest working-class street in Queens, New York in the 1940s, brick row houses, a corner shop, a boy with a bicycle seen from behind, autumn afternoon', at='Queens'),
     ph('Bernard Madoff', at='fundó su propia firma'),
     ai('pantallas_bolsa', 'a 1990s trading room with rows of glowing CRT monitors showing blurred green and red figures, empty chairs at night, no readable text', at='la era de los ordenadores'))
 INV("Tenía dos negocios. Uno, legal y muy respetado: comprar y vender acciones para otros intermediarios. Lo dirigían sus hijos y su hermano. El otro, en otra planta del mismo edificio, gestionaba el dinero de inversores privados. Ahí no entraba casi nadie.",

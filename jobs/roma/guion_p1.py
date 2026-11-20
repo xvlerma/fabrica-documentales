@@ -143,8 +143,8 @@ FUE("Le hizo poner la mano sobre la víctima del sacrificio y jurar que jamás s
     ai('juramento_anibal', 'a child placing his hand on a sacrificial altar in a dim Punic temple, a bearded father in shadow behind him, fire light, faces not visible', at='jurar'))
 ESP("[dramatically] Ese niño se llamaba Aníbal. Y cumplió su juramento como nadie lo ha cumplido nunca.",
     ph('Hannibal bust Naples', at='Aníbal', lt=['Aníbal Barca', 'General cartaginés · 247 – 183 a. C.', 'cartago']))
-NAR("Su gran enemigo, el romano Tito Livio, le odiaba. Y aun así no pudo evitar describirle con admiración.",
-    ph('Hannibal Barca coin Carthage', at='le odiaba'))
+NAR("Tito Livio, que escribía desde el bando romano, no le tenía ninguna simpatía. Y aun así no pudo evitar describirle con admiración.",
+    ph('Hannibal Barca coin Carthage', at='ninguna simpatía'))
 FUE("Nunca un mismo carácter fue más apto para cosas tan contrarias: obedecer y mandar. Era el más audaz para afrontar los peligros y el más prudente en medio de ellos. Ningún trabajo cansaba su cuerpo ni vencía su ánimo. Muchos le vieron dormir en el suelo, envuelto en su capa de soldado, entre los centinelas.",
     PAP('Nunca un mismo carácter fue más apto para cosas tan contrarias: obedecer y mandar.', 'Tito Livio', 'Historia de Roma, XXI, 4', at='Nunca un mismo'),
     ai('anibal_duerme', 'a general wrapped in a simple soldier cloak sleeping on the bare ground among sentries beside a campfire, war elephants dimly visible behind, night, his face hidden', at='dormir en el suelo'))
@@ -178,11 +178,13 @@ ESP("Publio Cornelio Escipión, de solo veinticinco años, desembarca en Hispani
     ai('zama_elefantes', 'war elephants charging through open lanes between Roman infantry ranks, trumpets, dust, chaos, wide angle', at='en Zama'))
 NAR("Aníbal huyó y acabó envenenándose años después, en Asia, para no caer en manos romanas. Cartago sobrevivió, pero sin flota y pagando a Roma durante medio siglo. Y aun así, en el Senado había un hombre al que eso no le bastaba.",
     ph('Carthage Punic ports', at='Cartago sobrevivió'))
-NAR("Catón el Viejo. Un día dejó caer unos higos frescos en el Senado. Los senadores admiraron lo grandes que eran. Catón les explicó que venían de Cartago... a solo tres días de barco. Y terminaba todos sus discursos, hablara de lo que hablara, igual.",
+NAR("Catón el Viejo. Un día dejó caer unos higos frescos en el Senado. Los senadores admiraron lo grandes que eran. Y Catón les soltó:",
     ph('Cato the Elder bust', at='Catón el Viejo', lt=['Catón el Viejo', 'Senador y censor · 234 – 149 a. C.', 'roma']),
     ai('higos_senado', 'an old stern Roman senator in a toga holding up large fresh figs in front of a hall of senators, seen from the side, faces in shadow', at='unos higos frescos'))
 V('CAT', "Estos higos se cogieron en Cartago hace solo tres días. Así de cerca tenemos al enemigo.",
     PAP('Estos higos se cogieron en Cartago hace solo tres días. Así de cerca tenemos al enemigo.', 'Catón, según Plutarco', 'Vida de Catón el Viejo, 27', at='Estos higos'))
+NAR("[softly] Y terminaba todos sus discursos, hablara de lo que hablara, con la misma frase.",
+    ph('Cato the Elder bust', at='todos sus discursos'))
 V('CAT', "[serious] Y, además, opino que Cartago debe ser destruida.",
     PAP('Ceterum censeo Carthaginem esse delendam.', 'Catón el Viejo', 'Fórmula que la tradición pone en su boca', at='Cartago debe ser destruida'))
 ESP("[serious] Lo consiguió. En el año ciento cuarenta y seis antes de Cristo, tras tres años de asedio, los romanos entran en Cartago. Seis días de combates casa por casa. La ciudad es arrasada. Los supervivientes, vendidos como esclavos. Ese mismo año, Roma destruye también Corinto, en Grecia.",

@@ -1,0 +1,2853 @@
+[
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "The Journey",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://assets.mixkit.co/music/79/79.mp3",
+  "url": "https://assets.mixkit.co/music/79/79.mp3",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Epic Games",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://assets.mixkit.co/music/76/76.mp3",
+  "url": "https://assets.mixkit.co/music/76/76.mp3",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Ode to Loneliness",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://assets.mixkit.co/music/520/520.mp3",
+  "url": "https://assets.mixkit.co/music/520/520.mp3",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Foto aerea del Colosseo.jpg",
+  "autor": "Aeroshot.it",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Foto_aerea_del_Colosseo.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Foto_aerea_del_Colosseo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Foto aerea del Colosseo — Aeroshot.it · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Foto_aerea_del_Colosseo.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Jean-Leon Gerome Pollice Verso.jpg",
+  "autor": "Jean-Léon Gérôme",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Jean-Leon_Gerome_Pollice_Verso.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Jean-Leon_Gerome_Pollice_Verso.jpg/1920px-Jean-Leon_Gerome_Pollice_Verso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Nero 1.JPG",
+  "autor": "cjh1452000",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Nero_1.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Nero_1.JPG/1920px-Nero_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Nero 1 — cjh1452000 · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Nero_1.JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Forum Romanum panorama.jpg",
+  "autor": "Hans E C Johansson",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Forum_Romanum_panorama.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Forum_Romanum_panorama.jpg/1920px-Forum_Romanum_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Forum Romanum panorama — Hans E C Johansson · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Forum_Romanum_panorama.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Stele des Polybios.jpg",
+  "autor": "Jona Lendering, Livius Onderwijs",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Stele_des_Polybios.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Stele_des_Polybios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Forum Romanum panorama 2.jpg",
+  "autor": "Wikimedia Commons",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Forum_Romanum_panorama_2.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Forum_Romanum_panorama_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Forum Romanum panorama 2 — Wikimedia Commons · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Forum_Romanum_panorama_2.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Funerary inscription of C Hostius Pamphilus (Rome, MC NCE 123; CIL VI 9583).jpg",
+  "autor": "Mark Landon (User:Choliamb)",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Funerary_inscription_of_C_Hostius_Pamphilus_(Rome,_MC_NCE_123;_CIL_VI_9583).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Funerary_inscription_of_C_Hostius_Pamphilus_%28Rome%2C_MC_NCE_123%3B_CIL_VI_9583%29.jpg/1920px-Funerary_inscription_of_C_Hostius_Pamphilus_%28Rome%2C_MC_NCE_123%3B_CIL_VI_9583%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Funerary inscription of C Hostius Pamphilus (Rome, MC NCE 123; CIL VI 9583) — Mark Landon (User:Choliamb) · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:Funerary_inscription_of_C_Hostius_Pamphilus_(Rome,_MC_NCE_123;_CIL_VI_9583).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Wall Decoration with Graffiti - Pompeii Antiquarium - 54537156371.jpg",
+  "autor": "MumblerJamie",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537156371.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537156371.jpg/1920px-Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537156371.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Wall Decoration with Graffiti - Pompeii Antiquarium - 54537156371 — MumblerJamie · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537156371.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Appia antica 2-7-05 048.jpg",
+  "autor": "Nicolò Musmeci",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Appia_antica_2-7-05_048.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Appia_antica_2-7-05_048.jpg/1920px-Appia_antica_2-7-05_048.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Palatine Hill from Circus Maximus (1).jpg",
+  "autor": "Krzysztof Golik",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Palatine_Hill_from_Circus_Maximus_(1).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Palatine_Hill_from_Circus_Maximus_%281%29.jpg/1920px-Palatine_Hill_from_Circus_Maximus_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Palatine Hill from Circus Maximus (1) — Krzysztof Golik · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Palatine_Hill_from_Circus_Maximus_(1).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Lupa Capitolina, Rome.jpg",
+  "autor": "Wikimedia Commons",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Lupa_Capitolina,_Rome.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Lupa_Capitolina%2C_Rome.jpg/1920px-Lupa_Capitolina%2C_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Lupa Capitolina con sfondo bianco.jpg",
+  "autor": "Merulana",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Lupa_Capitolina_con_sfondo_bianco.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Lupa_Capitolina_con_sfondo_bianco.jpg/1920px-Lupa_Capitolina_con_sfondo_bianco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Lupa Capitolina con sfondo bianco — Merulana · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Lupa_Capitolina_con_sfondo_bianco.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Palatine Hill from Circus Maximus Rome.jpg",
+  "autor": "Jebulon",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Palatine_Hill_from_Circus_Maximus_Rome.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Palatine_Hill_from_Circus_Maximus_Rome.jpg/1920px-Palatine_Hill_from_Circus_Maximus_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:2024-10-12 Rome, Tiber Island.jpg",
+  "autor": "Alexkom000",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:2024-10-12_Rome,_Tiber_Island.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2024-10-12_Rome%2C_Tiber_Island.jpg/1920px-2024-10-12_Rome%2C_Tiber_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: 2024-10-12 Rome, Tiber Island — Alexkom000 · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:2024-10-12_Rome,_Tiber_Island.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Sarcofago degli Sposi Villa Giulia.jpg",
+  "autor": "Tutorialwiki",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Sarcofago_degli_Sposi_Villa_Giulia.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sarcofago_degli_Sposi_Villa_Giulia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Sarcofago degli Sposi Villa Giulia — Tutorialwiki · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Sarcofago_degli_Sposi_Villa_Giulia.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Tiber Embarkment Wall around an outlet of the Cloaca Maxima.png",
+  "autor": "Penelope Davies",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Tiber_Embarkment_Wall_around_an_outlet_of_the_Cloaca_Maxima.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tiber_Embarkment_Wall_around_an_outlet_of_the_Cloaca_Maxima.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Tiber Embarkment Wall around an outlet of the Cloaca Maxima — Penelope Davies · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Tiber_Embarkment_Wall_around_an_outlet_of_the_Cloaca_Maxima.png",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Hígado de Piacenza. MARQ.jpg",
+  "autor": "Dorieo",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:H%C3%ADgado_de_Piacenza._MARQ.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/H%C3%ADgado_de_Piacenza._MARQ.jpg/1920px-H%C3%ADgado_de_Piacenza._MARQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Hígado de Piacenza. MARQ — Dorieo · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:H%C3%ADgado_de_Piacenza._MARQ.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:040227 tevere16CloacaMaxima.jpg",
+  "autor": "user:Lalupa",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:040227_tevere16CloacaMaxima.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/040227_tevere16CloacaMaxima.jpg/1920px-040227_tevere16CloacaMaxima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Capitoline Museums and Roman Forum.jpg",
+  "autor": "Julian Lupyan",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Capitoline_Museums_and_Roman_Forum.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Capitoline_Museums_and_Roman_Forum.jpg/1920px-Capitoline_Museums_and_Roman_Forum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Bernaert de Ryckere - The Death of Lucretia - WGA20596.jpg",
+  "autor": "Bernaert de Rijckere",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bernaert_de_Ryckere_-_The_Death_of_Lucretia_-_WGA20596.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bernaert_de_Ryckere_-_The_Death_of_Lucretia_-_WGA20596.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Cabane le serment de Brutus.JPG",
+  "autor": "VladoubidoOo",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Cabane_le_serment_de_Brutus.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cabane_le_serment_de_Brutus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Cabane le serment de Brutus — VladoubidoOo · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Cabane_le_serment_de_Brutus.JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Brutus Capitolin - détouré 04.jpg",
+  "autor": "C.Salviani",
+  "licencia": "CC BY 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Brutus_Capitolin_-_d%C3%A9tour%C3%A9_04.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Brutus_Capitolin_-_d%C3%A9tour%C3%A9_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Brutus Capitolin - détouré 04 — C.Salviani · CC BY 3.0 · https://commons.wikimedia.org/wiki/File:Brutus_Capitolin_-_d%C3%A9tour%C3%A9_04.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Dedicatory inscription Ostia Antica 2006-09-08.jpg",
+  "autor": "Wikimedia Commons",
+  "licencia": "CC BY 2.5",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Dedicatory_inscription_Ostia_Antica_2006-09-08.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Dedicatory_inscription_Ostia_Antica_2006-09-08.jpg/1920px-Dedicatory_inscription_Ostia_Antica_2006-09-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Dedicatory inscription Ostia Antica 2006-09-08 — Wikimedia Commons · CC BY 2.5 · https://commons.wikimedia.org/wiki/File:Dedicatory_inscription_Ostia_Antica_2006-09-08.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:César (13667960455).jpg",
+  "autor": "Gautier Poupeau from Paris, France",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:C%C3%A9sar_(13667960455).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/C%C3%A9sar_%2813667960455%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: César (13667960455) — Gautier Poupeau from Paris, France · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:C%C3%A9sar_(13667960455).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:SPQR.JPG",
+  "autor": "J. Miers - User: (WT-shared) Jtesla16 at  wts wikivoyage",
+  "licencia": "CC BY-SA 1.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:SPQR.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/SPQR.JPG/1920px-SPQR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: SPQR — J. Miers - User: (WT-shared) Jtesla16 at  wts wikivoyage · CC BY-SA 1.0 · https://commons.wikimedia.org/wiki/File:SPQR.JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Cicero Denounces Catiline in the Roman Senate by Cesare Maccari.png",
+  "autor": "Cesare Maccari",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png/1920px-Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Manhole cap in Rome - 22101713900.jpg",
+  "autor": "fishwasher",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Manhole_cap_in_Rome_-_22101713900.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Manhole_cap_in_Rome_-_22101713900.jpg/1920px-Manhole_cap_in_Rome_-_22101713900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Manhole cap in Rome - 22101713900 — fishwasher · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Manhole_cap_in_Rome_-_22101713900.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Cincinnatus Cincinnatorum.png",
+  "autor": "Chris Light",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Cincinnatus_Cincinnatorum.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cincinnatus_Cincinnatorum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Cincinnati night skyline from Covington, January 2019 (2).jpg",
+  "autor": "Jason Zhang",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Cincinnati_night_skyline_from_Covington,_January_2019_(2).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Cincinnati_night_skyline_from_Covington%2C_January_2019_%282%29.jpg/1920px-Cincinnati_night_skyline_from_Covington%2C_January_2019_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Cincinnati night skyline from Covington, January 2019 (2) — Jason Zhang · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Cincinnati_night_skyline_from_Covington,_January_2019_(2).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Dying Gaul-Musei CapitoliniI.jpg",
+  "autor": "Yair Haklai",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Dying_Gaul-Musei_CapitoliniI.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Dying_Gaul-Musei_CapitoliniI.jpg/1920px-Dying_Gaul-Musei_CapitoliniI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Dying Gaul-Musei CapitoliniI — Yair Haklai · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Dying_Gaul-Musei_CapitoliniI.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Capitoline Hill Rome 1.JPG",
+  "autor": "Pascal Reusch",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Capitoline_Hill_Rome_1.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Capitoline_Hill_Rome_1.JPG/1920px-Capitoline_Hill_Rome_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Capitoline Hill Rome 1 — Pascal Reusch · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Capitoline_Hill_Rome_1.JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Le Brenn et sa part de butin (Paul Jamin).jpg",
+  "autor": "Paul Joseph Jamin",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Le_Brenn_et_sa_part_de_butin_(Paul_Jamin).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Le_Brenn_et_sa_part_de_butin_%28Paul_Jamin%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Servian Wall.JPG",
+  "autor": "No machine-readable author provided. Joris assumed (based on copyright claims).",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Servian_Wall.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Servian_Wall.JPG/1920px-Servian_Wall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Marble Relief Frieze with Roman Soldiers, 1st Century AD (28629662692).jpg",
+  "autor": "Gary Todd from Xinzheng, China",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Marble_Relief_Frieze_with_Roman_Soldiers,_1st_Century_AD_(28629662692).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Marble_Relief_Frieze_with_Roman_Soldiers%2C_1st_Century_AD_%2828629662692%29.jpg/1920px-Marble_Relief_Frieze_with_Roman_Soldiers%2C_1st_Century_AD_%2828629662692%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Capsarius (Trajansäule).jpg",
+  "autor": "Rabax63",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Capsarius_(Trajans%C3%A4ule).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Capsarius_%28Trajans%C3%A4ule%29.jpg/1920px-Capsarius_%28Trajans%C3%A4ule%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Capsarius (Trajansäule) — Rabax63 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Capsarius_(Trajans%C3%A4ule).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Roman , Military Diploma (FindID 212298-168007).jpg",
+  "autor": "York Museums Trust, Liz Andrews-Wilson, 2008-03-11 13:11:10",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Roman_,_Military_Diploma_(FindID_212298-168007).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Roman_%2C_Military_Diploma_%28FindID_212298-168007%29.jpg/1920px-Roman_%2C_Military_Diploma_%28FindID_212298-168007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Roman , Military Diploma (FindID 212298-168007) — York Museums Trust, Liz Andrews-Wilson, 2008-03-11 13:11:10 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Roman_,_Military_Diploma_(FindID_212298-168007).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Rome Lazio Via Appia Antica.jpg",
+  "autor": "Nicholas Hartmann",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Rome_Lazio_Via_Appia_Antica.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Rome_Lazio_Via_Appia_Antica.jpg/1920px-Rome_Lazio_Via_Appia_Antica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Rome Lazio Via Appia Antica — Nicholas Hartmann · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Rome_Lazio_Via_Appia_Antica.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Bust of Pyrrhus of Epirus (Villa of the Papyri, Herculaneum).jpg",
+  "autor": "See sourced file for original author(s)",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bust_of_Pyrrhus_of_Epirus_(Villa_of_the_Papyri,_Herculaneum).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bust_of_Pyrrhus_of_Epirus_%28Villa_of_the_Papyri%2C_Herculaneum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Bust of Pyrrhus of Epirus (Villa of the Papyri, Herculaneum) — See sourced file for original author(s) · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Bust_of_Pyrrhus_of_Epirus_(Villa_of_the_Papyri,_Herculaneum).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Panic of the elephants during the battle of Beneventum (1854 engraving).jpg",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Panic_of_the_elephants_during_the_battle_of_Beneventum_(1854_engraving).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Panic_of_the_elephants_during_the_battle_of_Beneventum_%281854_engraving%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Carthage Byrsa - more Roman ruins, with modern Mosque in the background. (52763833251).jpg",
+  "autor": "Tracey Hind from Aups, France",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Carthage_Byrsa_-_more_Roman_ruins,_with_modern_Mosque_in_the_background._(52763833251).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Carthage_Byrsa_-_more_Roman_ruins%2C_with_modern_Mosque_in_the_background._%2852763833251%29.jpg/1920px-Carthage_Byrsa_-_more_Roman_ruins%2C_with_modern_Mosque_in_the_background._%2852763833251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Carthage Byrsa - more Roman ruins, with modern Mosque in the background. (52763833251) — Tracey Hind from Aups, France · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Carthage_Byrsa_-_more_Roman_ruins,_with_modern_Mosque_in_the_background._(52763833251).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Cartagena muralla punica.jpg",
+  "autor": "Nanosanchez",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Cartagena_muralla_punica.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Cartagena_muralla_punica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Hannibal Barca bust from Capua photo.jpg",
+  "autor": "Fratelli Alinari",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hannibal_Barca_bust_from_Capua_photo.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Carthage, quarter shekel, 237-209 BC, SNG BM Spain 102.jpg",
+  "autor": "CNG",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Carthage,_quarter_shekel,_237-209_BC,_SNG_BM_Spain_102.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Carthage%2C_quarter_shekel%2C_237-209_BC%2C_SNG_BM_Spain_102.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Castell de Sagunt Porta Almenara i Porta de Sant Ferran 01.jpg",
+  "autor": "Mike1979 Russia",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Castell_de_Sagunt_Porta_Almenara_i_Porta_de_Sant_Ferran_01.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Castell_de_Sagunt_Porta_Almenara_i_Porta_de_Sant_Ferran_01.jpg/1920px-Castell_de_Sagunt_Porta_Almenara_i_Porta_de_Sant_Ferran_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Castell de Sagunt Porta Almenara i Porta de Sant Ferran 01 — Mike1979 Russia · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Castell_de_Sagunt_Porta_Almenara_i_Porta_de_Sant_Ferran_01.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Sagunto - Castle, Roman Forum & Citadel - 20200225 PvE (Q2892716).jpg",
+  "autor": "Pieter van Everdingen",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Sagunto_-_Castle,_Roman_Forum_%26_Citadel_-_20200225_PvE_(Q2892716).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Sagunto_-_Castle%2C_Roman_Forum_%26_Citadel_-_20200225_PvE_%28Q2892716%29.jpg/1920px-Sagunto_-_Castle%2C_Roman_Forum_%26_Citadel_-_20200225_PvE_%28Q2892716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Sagunto - Castle, Roman Forum & Citadel - 20200225 PvE (Q2892716) — Pieter van Everdingen · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Sagunto_-_Castle,_Roman_Forum_%26_Citadel_-_20200225_PvE_(Q2892716).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Sagunto - Castle & Citadel - 20200225 PvE (Q2892716).jpg",
+  "autor": "Pieter van Everdingen",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Sagunto_-_Castle_%26_Citadel_-_20200225_PvE_(Q2892716).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Sagunto_-_Castle_%26_Citadel_-_20200225_PvE_%28Q2892716%29.jpg/1920px-Sagunto_-_Castle_%26_Citadel_-_20200225_PvE_%28Q2892716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Sagunto - Castle & Citadel - 20200225 PvE (Q2892716) — Pieter van Everdingen · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Sagunto_-_Castle_%26_Citadel_-_20200225_PvE_(Q2892716).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Castiglione del Lago, Lago Trasimeno.jpg",
+  "autor": "Adbar",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Castiglione_del_Lago,_Lago_Trasimeno.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Castiglione_del_Lago%2C_Lago_Trasimeno.jpg/1920px-Castiglione_del_Lago%2C_Lago_Trasimeno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Castiglione del Lago, Lago Trasimeno — Adbar · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Castiglione_del_Lago,_Lago_Trasimeno.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Lago Trasimeno visto da Tuoro sul Trasimeno.jpg",
+  "autor": "PROPOLI87",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Lago_Trasimeno_visto_da_Tuoro_sul_Trasimeno.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Lago_Trasimeno_visto_da_Tuoro_sul_Trasimeno.jpg/1920px-Lago_Trasimeno_visto_da_Tuoro_sul_Trasimeno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Lago Trasimeno visto da Tuoro sul Trasimeno — PROPOLI87 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Lago_Trasimeno_visto_da_Tuoro_sul_Trasimeno.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Annibal.JPG",
+  "autor": "Sébastien Slodtz (French, 1655–1726)",
+  "licencia": "CC BY-SA 2.5",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Annibal.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Annibal.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Annibal — Sébastien Slodtz (French, 1655–1726) · CC BY-SA 2.5 · https://commons.wikimedia.org/wiki/File:Annibal.JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Servian at Termini.JPG",
+  "autor": "User: (WT-shared) Roundtheworld at  wts wikivoyage",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Servian_at_Termini.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Servian_at_Termini.JPG/1920px-Servian_at_Termini.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Relief Depicting a Roman Legionary, in Honor of Emperor Trajan, from Pozzuoli, Italy, 2nd C. AD (28472212870).jpg",
+  "autor": "Gary Todd from Xinzheng, China",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Relief_Depicting_a_Roman_Legionary,_in_Honor_of_Emperor_Trajan,_from_Pozzuoli,_Italy,_2nd_C._AD_(28472212870).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Relief_Depicting_a_Roman_Legionary%2C_in_Honor_of_Emperor_Trajan%2C_from_Pozzuoli%2C_Italy%2C_2nd_C._AD_%2828472212870%29.jpg/1920px-Relief_Depicting_a_Roman_Legionary%2C_in_Honor_of_Emperor_Trajan%2C_from_Pozzuoli%2C_Italy%2C_2nd_C._AD_%2828472212870%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Bust of a priest of Isis. Naples, National Archaeological Museum. (40378895471).jpg",
+  "autor": "Sergey Sosnovskiy from Saint-Petersburg, Russia",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bust_of_a_priest_of_Isis._Naples,_National_Archaeological_Museum._(40378895471).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bust_of_a_priest_of_Isis._Naples%2C_National_Archaeological_Museum._%2840378895471%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Bust of a priest of Isis. Naples, National Archaeological Museum. (40378895471) — Sergey Sosnovskiy from Saint-Petersburg, Russia · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Bust_of_a_priest_of_Isis._Naples,_National_Archaeological_Museum._(40378895471).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Carthage-1958-PortsPuniques.jpg",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Carthage-1958-PortsPuniques.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Carthage-1958-PortsPuniques.jpg/1920px-Carthage-1958-PortsPuniques.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Ports puniques de Carthage 32.jpg",
+  "autor": "Noomen9",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Ports_puniques_de_Carthage_32.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Ports_puniques_de_Carthage_32.jpg/1920px-Ports_puniques_de_Carthage_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Ports puniques de Carthage 32 — Noomen9 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Ports_puniques_de_Carthage_32.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Cato the Younger, Ny Carlsberg Glyptotek, Copenhagen (13646456145).jpg",
+  "autor": "Carole Raddato from FRANKFURT, Germany",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Cato_the_Younger,_Ny_Carlsberg_Glyptotek,_Copenhagen_(13646456145).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Cato_the_Younger%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813646456145%29.jpg/1920px-Cato_the_Younger%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813646456145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Cato the Younger, Ny Carlsberg Glyptotek, Copenhagen (13646456145) — Carole Raddato from FRANKFURT, Germany · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Cato_the_Younger,_Ny_Carlsberg_Glyptotek,_Copenhagen_(13646456145).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Esquina en Numancia.jpg",
+  "autor": "Javier Mediavilla Ezquibela",
+  "licencia": "CC BY 2.5",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Esquina_en_Numancia.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Esquina_en_Numancia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Esquina en Numancia — Javier Mediavilla Ezquibela · CC BY 2.5 · https://commons.wikimedia.org/wiki/File:Esquina_en_Numancia.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Death of Gaius Gracchus.jpg",
+  "autor": "François Topino-Lebrun",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Death_of_Gaius_Gracchus.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Death_of_Gaius_Gracchus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Bust of Marius (GL 319) - Glyptothek - Munich - Germany 2017.jpg",
+  "autor": "José Luiz",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bust_of_Marius_(GL_319)_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bust_of_Marius_%28GL_319%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg/1920px-Bust_of_Marius_%28GL_319%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Bust of Marius (GL 319) - Glyptothek - Munich - Germany 2017 — José Luiz · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Bust_of_Marius_(GL_319)_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Bust of Sulla (loan from Ny Carlsberg Glyptotek) - Glyptothek - Munich - Germany 2017.jpg",
+  "autor": "José Luiz",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bust_of_Sulla_(loan_from_Ny_Carlsberg_Glyptotek)_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Bust_of_Sulla_%28loan_from_Ny_Carlsberg_Glyptotek%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg/1920px-Bust_of_Sulla_%28loan_from_Ny_Carlsberg_Glyptotek%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Spartacus by Denis Foyatier (31851397233).jpg",
+  "autor": "Fred Romero from Paris, France",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Spartacus_by_Denis_Foyatier_(31851397233).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Spartacus_by_Denis_Foyatier_%2831851397233%29.jpg/1920px-Spartacus_by_Denis_Foyatier_%2831851397233%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Spartacus by Denis Foyatier (31851397233) — Fred Romero from Paris, France · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Spartacus_by_Denis_Foyatier_(31851397233).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Head of Marcus Licinius Crassus, middle of 1st century BC, from Italy, Moi, Auguste, Empereur de Rome exhibition, Grand Palais, Paris - 14649017884.jpg",
+  "autor": "Following Hadrian",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Head_of_Marcus_Licinius_Crassus,_middle_of_1st_century_BC,_from_Italy,_Moi,_Auguste,_Empereur_de_Rome_exhibition,_Grand_Palais,_Paris_-_14649017884.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Head_of_Marcus_Licinius_Crassus%2C_middle_of_1st_century_BC%2C_from_Italy%2C_Moi%2C_Auguste%2C_Empereur_de_Rome_exhibition%2C_Grand_Palais%2C_Paris_-_14649017884.jpg/1920px-Head_of_Marcus_Licinius_Crassus%2C_middle_of_1st_century_BC%2C_from_Italy%2C_Moi%2C_Auguste%2C_Empereur_de_Rome_exhibition%2C_Grand_Palais%2C_Paris_-_14649017884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Head of Marcus Licinius Crassus, middle of 1st century BC, from Italy, Moi, Auguste, Empereur de Rome exhibition, Grand Palais, Paris - 14649017884 — Following Hadrian · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Head_of_Marcus_Licinius_Crassus,_middle_of_1st_century_BC,_from_Italy,_Moi,_Auguste,_Empereur_de_Rome_exhibition,_Grand_Palais,_Paris_-_14649017884.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Bust of Cicero, Capitoline Museums (31933016782).jpg",
+  "autor": "Carole Raddato from FRANKFURT, Germany",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bust_of_Cicero,_Capitoline_Museums_(31933016782).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Bust_of_Cicero%2C_Capitoline_Museums_%2831933016782%29.jpg/1920px-Bust_of_Cicero%2C_Capitoline_Museums_%2831933016782%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Bust of Cicero, Capitoline Museums (31933016782) — Carole Raddato from FRANKFURT, Germany · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Bust_of_Cicero,_Capitoline_Museums_(31933016782).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Cicero Denounces Catiline in the Roman Senate by Cesare Maccari (ca. 1880).png",
+  "autor": "Cesare Maccari",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari_(ca._1880).png",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari_%28ca._1880%29.png/1920px-Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari_%28ca._1880%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Pompey the Great, mid 1st cent. BCE, Ny Carlsberg Glyptotek, Copenhagen (36023583270).jpg",
+  "autor": "Richard Mortel from Riyadh, Saudi Arabia",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Pompey_the_Great,_mid_1st_cent._BCE,_Ny_Carlsberg_Glyptotek,_Copenhagen_(36023583270).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Pompey_the_Great%2C_mid_1st_cent._BCE%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836023583270%29.jpg/1920px-Pompey_the_Great%2C_mid_1st_cent._BCE%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836023583270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Pompey the Great, mid 1st cent. BCE, Ny Carlsberg Glyptotek, Copenhagen (36023583270) — Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Pompey_the_Great,_mid_1st_cent._BCE,_Ny_Carlsberg_Glyptotek,_Copenhagen_(36023583270).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Head of Julius Caesar from Tusculum MAntTorino 2089 n01.jpg",
+  "autor": "Marie-Lan Taÿ Pamart",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Head_of_Julius_Caesar_from_Tusculum_MAntTorino_2089_n01.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Head_of_Julius_Caesar_from_Tusculum_MAntTorino_2089_n01.jpg/1920px-Head_of_Julius_Caesar_from_Tusculum_MAntTorino_2089_n01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Lionel Royer - Vercingetorix Throwing down His Weapons at the feet of Julius Caesar.gif",
+  "autor": "Wikimedia Commons",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.gif",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Caii Julii Caesaris commentarii de bello Gallico, libris septem - subjicitur Ciceronis ad Balbum epistola. - btv1b10035769g (012 of 117).jpg",
+  "autor": "Wikimedia Commons",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Caii_Julii_Caesaris_commentarii_de_bello_Gallico,_libris_septem_-_subjicitur_Ciceronis_ad_Balbum_epistola._-_btv1b10035769g_(012_of_117).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Caii_Julii_Caesaris_commentarii_de_bello_Gallico%2C_libris_septem_-_subjicitur_Ciceronis_ad_Balbum_epistola._-_btv1b10035769g_%28012_of_117%29.jpg/1920px-Caii_Julii_Caesaris_commentarii_de_bello_Gallico%2C_libris_septem_-_subjicitur_Ciceronis_ad_Balbum_epistola._-_btv1b10035769g_%28012_of_117%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:File-Alba ad Igea-Alba in contrasto.jpg",
+  "autor": "Roncon F.",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:File-Alba_ad_Igea-Alba_in_contrasto.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/File-Alba_ad_Igea-Alba_in_contrasto.jpg/1920px-File-Alba_ad_Igea-Alba_in_contrasto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: File-Alba ad Igea-Alba in contrasto — Roncon F. · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:File-Alba_ad_Igea-Alba_in_contrasto.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Berlin - Altes Museum 7922.jpg",
+  "autor": "Phyrexian",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Berlin_-_Altes_Museum_7922.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Berlin_-_Altes_Museum_7922.jpg/1920px-Berlin_-_Altes_Museum_7922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Head of Julius Caesar from Tusculum MAntTorino 2089 n02.jpg",
+  "autor": "Marie-Lan Taÿ Pamart",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Head_of_Julius_Caesar_from_Tusculum_MAntTorino_2089_n02.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Head_of_Julius_Caesar_from_Tusculum_MAntTorino_2089_n02.jpg/1920px-Head_of_Julius_Caesar_from_Tusculum_MAntTorino_2089_n02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Inside Restored Senate House(Curia) FORUM 11Mar2006.JPG",
+  "autor": "Photo taken by myself Dneale52 (talk)",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Inside_Restored_Senate_House(Curia)_FORUM_11Mar2006.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Inside_Restored_Senate_House%28Curia%29_FORUM_11Mar2006.JPG/1920px-Inside_Restored_Senate_House%28Curia%29_FORUM_11Mar2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Buste van Julius Caesar Buste van Julius Ceasar in het Vatikaansch museum te Rome. (titel op object), RP-F-00-4167.jpg",
+  "autor": "Rijksmuseum",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Buste_van_Julius_Caesar_Buste_van_Julius_Ceasar_in_het_Vatikaansch_museum_te_Rome._(titel_op_object),_RP-F-00-4167.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Buste_van_Julius_Caesar_Buste_van_Julius_Ceasar_in_het_Vatikaansch_museum_te_Rome._%28titel_op_object%29%2C_RP-F-00-4167.jpg/1920px-Buste_van_Julius_Caesar_Buste_van_Julius_Ceasar_in_het_Vatikaansch_museum_te_Rome._%28titel_op_object%29%2C_RP-F-00-4167.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Buste van Julius Caesar Buste van Julius Ceasar in het Vatikaansch museum te Rome. (titel op object), RP-F-00-4167 (cropped).jpg",
+  "autor": "Rijksmuseum",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Buste_van_Julius_Caesar_Buste_van_Julius_Ceasar_in_het_Vatikaansch_museum_te_Rome._(titel_op_object),_RP-F-00-4167_(cropped).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Buste_van_Julius_Caesar_Buste_van_Julius_Ceasar_in_het_Vatikaansch_museum_te_Rome._%28titel_op_object%29%2C_RP-F-00-4167_%28cropped%29.jpg/1920px-Buste_van_Julius_Caesar_Buste_van_Julius_Ceasar_in_het_Vatikaansch_museum_te_Rome._%28titel_op_object%29%2C_RP-F-00-4167_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Gerome Death of Caesar.jpg",
+  "autor": "Jean-Léon Gérôme",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gerome_Death_of_Caesar.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Gerome_Death_of_Caesar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Largo di Torre Argentina (31585540527).jpg",
+  "autor": "Sonse",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Largo_di_Torre_Argentina_(31585540527).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Largo_di_Torre_Argentina_%2831585540527%29.jpg/1920px-Largo_di_Torre_Argentina_%2831585540527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Largo di Torre Argentina (31585540527) — Sonse · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Largo_di_Torre_Argentina_(31585540527).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Bust of Cicero (1st-cent. BC) - Palazzo Nuovo - Musei Capitolini - Rome 2016.jpg",
+  "autor": "José Luiz",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/1920px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Bust of Cicero (1st-cent. BC) - Palazzo Nuovo - Musei Capitolini - Rome 2016 — José Luiz · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:M Antonius.jpg",
+  "autor": "Commons member Amadscientist created the file from the book by William Smith, Ab",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:M_Antonius.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/M_Antonius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Augustus Via Labicana (Palazzo Massimo alle Terme) 01.jpg",
+  "autor": "Iessi",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Augustus_Via_Labicana_(Palazzo_Massimo_alle_Terme)_01.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Augustus_Via_Labicana_%28Palazzo_Massimo_alle_Terme%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Augustus Via Labicana (Palazzo Massimo alle Terme) 01 — Iessi · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Augustus_Via_Labicana_(Palazzo_Massimo_alle_Terme)_01.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Marble bust of Mark Antony (Vatican Museums).jpg",
+  "autor": "Bust: unknown ancient Roman artist of the 1st century AD; photo: unknown photogr",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Marble_bust_of_Mark_Antony_(Vatican_Museums).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Marble_bust_of_Mark_Antony_%28Vatican_Museums%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Marble bust of Mark Antony (Vatican Museums) — Bust: unknown ancient Roman artist of the 1st century AD; photo: unknown photogr · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Marble_bust_of_Mark_Antony_(Vatican_Museums).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:The Death of Cleopatra MET DP375602.jpg",
+  "autor": "Guido Cagnacci",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:The_Death_of_Cleopatra_MET_DP375602.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Death_of_Cleopatra_MET_DP375602.jpg/1920px-The_Death_of_Cleopatra_MET_DP375602.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Augustus Prima Porta (cropped).jpg",
+  "autor": "Wikimedia Commons",
+  "licencia": "CC BY 2.5",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Augustus_Prima_Porta_(cropped).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Augustus_Prima_Porta_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Augustus Prima Porta (cropped) — Wikimedia Commons · CC BY 2.5 · https://commons.wikimedia.org/wiki/File:Augustus_Prima_Porta_(cropped).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Augustus van Prima Porta, GD017877.jpg",
+  "autor": "Unknown",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Augustus_van_Prima_Porta,_GD017877.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Augustus_van_Prima_Porta%2C_GD017877.jpg/1920px-Augustus_van_Prima_Porta%2C_GD017877.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:The Temple of Augustus and Rome with the Res Gestae Divi Augusti (\"Deeds of the Divine Augustus\") inscribed on the walls of the cella, Ancyra, Ankara (Turkey) (25489711544).jpg",
+  "autor": "Carole Raddato from Frankfurt, Germany",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:The_Temple_of_Augustus_and_Rome_with_the_Res_Gestae_Divi_Augusti_(%22Deeds_of_the_Divine_Augustus%22)_inscribed_on_the_walls_of_the_cella,_Ancyra,_Ankara_(Turkey)_(25489711544).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Temple_of_Augustus_and_Rome_with_the_Res_Gestae_Divi_Augusti_%28%22Deeds_of_the_Divine_Augustus%22%29_inscribed_on_the_walls_of_the_cella%2C_Ancyra%2C_Ankara_%28Turkey%29_%2825489711544%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: The Temple of Augustus and Rome with the Res Gestae Divi Augusti (\"Deeds of the Divine Augustus\") inscribed on the walls of the cella, Ancyra, Ankara (Turkey) (25489711544) — Carole Raddato from Frankfurt, Germany · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:The_Temple_of_Augustus_and_Rome_with_the_Res_Gestae_Divi_Augusti_(%22Deeds_of_the_Divine_Augustus%22)_inscribed_on_the_walls_of_the_cella,_Ancyra,_Ankara_(Turkey)_(25489711544).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Ara Pacis (SW).jpg",
+  "autor": "Rabax63",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Ara_Pacis_(SW).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Ara_Pacis_%28SW%29.jpg/1920px-Ara_Pacis_%28SW%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Ara Pacis (SW) — Rabax63 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Ara_Pacis_(SW).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:20140804 Forum of Augustus Rome 0679.jpg",
+  "autor": "Jakub Hałun",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:20140804_Forum_of_Augustus_Rome_0679.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/20140804_Forum_of_Augustus_Rome_0679.jpg/1920px-20140804_Forum_of_Augustus_Rome_0679.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: 20140804 Forum of Augustus Rome 0679 — Jakub Hałun · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:20140804_Forum_of_Augustus_Rome_0679.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:A mosaic BardoMuseum.JPG",
+  "autor": "Effi Schweizer",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:A_mosaic_BardoMuseum.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/A_mosaic_BardoMuseum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Cavalry Face-Mask Helmet, Museum und Park Kalkriese, Germany (9606247470).jpg",
+  "autor": "Carole Raddato from FRANKFURT, Germany",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Cavalry_Face-Mask_Helmet,_Museum_und_Park_Kalkriese,_Germany_(9606247470).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cavalry_Face-Mask_Helmet%2C_Museum_und_Park_Kalkriese%2C_Germany_%289606247470%29.jpg/1920px-Cavalry_Face-Mask_Helmet%2C_Museum_und_Park_Kalkriese%2C_Germany_%289606247470%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Cavalry Face-Mask Helmet, Museum und Park Kalkriese, Germany (9606247470) — Carole Raddato from FRANKFURT, Germany · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Cavalry_Face-Mask_Helmet,_Museum_und_Park_Kalkriese,_Germany_(9606247470).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Caligula, Roman emperor 37-41, Ny Carlsberg Glyptotek, Copenhagen (35585234344).jpg",
+  "autor": "Richard Mortel from Riyadh, Saudi Arabia",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Caligula,_Roman_emperor_37-41,_Ny_Carlsberg_Glyptotek,_Copenhagen_(35585234344).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Caligula%2C_Roman_emperor_37-41%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2835585234344%29.jpg/1920px-Caligula%2C_Roman_emperor_37-41%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2835585234344%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Caligula, Roman emperor 37-41, Ny Carlsberg Glyptotek, Copenhagen (35585234344) — Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Caligula,_Roman_emperor_37-41,_Ny_Carlsberg_Glyptotek,_Copenhagen_(35585234344).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Claudius MAN Napoli Inv6060.jpg",
+  "autor": "Wikimedia Commons",
+  "licencia": "CC BY 2.5",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Claudius_MAN_Napoli_Inv6060.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Claudius_MAN_Napoli_Inv6060.jpg/1920px-Claudius_MAN_Napoli_Inv6060.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Claudius MAN Napoli Inv6060 — Wikimedia Commons · CC BY 2.5 · https://commons.wikimedia.org/wiki/File:Claudius_MAN_Napoli_Inv6060.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Boudica and Big Ben 2026-02-04.jpg",
+  "autor": "Matt Brown",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Boudica_and_Big_Ben_2026-02-04.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Boudica_and_Big_Ben_2026-02-04.jpg/1920px-Boudica_and_Big_Ben_2026-02-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Boudica and Big Ben 2026-02-04 — Matt Brown · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:Boudica_and_Big_Ben_2026-02-04.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Neroartchive.jpg",
+  "autor": "The Artchive",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Neroartchive.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Neroartchive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Fire in Rome.jpg",
+  "autor": "Hubert Robert",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Fire_in_Rome.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fire_in_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Henryk Siemiradzki - Pochodnie Nerona.jpg",
+  "autor": "Henryk Siemiradzki",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Henryk_Siemiradzki_-_Pochodnie_Nerona.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Henryk_Siemiradzki_-_Pochodnie_Nerona.jpg/1920px-Henryk_Siemiradzki_-_Pochodnie_Nerona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Fresco Sala della Sfinge (Sphinx Room), Domus aurea, Rome.jpg",
+  "autor": "Unknown authorUnknown author, Photo: Handout/Parco Archeologico Del Colosso/AFP",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Fresco_Sala_della_Sfinge_(Sphinx_Room),_Domus_aurea,_Rome.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Fresco_Sala_della_Sfinge_%28Sphinx_Room%29%2C_Domus_aurea%2C_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Antica roma, testa di vespasiano, in marmo, da napoli, 70 dc ca., IN 2585.jpg",
+  "autor": "Francesco Bini",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Antica_roma,_testa_di_vespasiano,_in_marmo,_da_napoli,_70_dc_ca.,_IN_2585.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Antica_roma%2C_testa_di_vespasiano%2C_in_marmo%2C_da_napoli%2C_70_dc_ca.%2C_IN_2585.jpg/1920px-Antica_roma%2C_testa_di_vespasiano%2C_in_marmo%2C_da_napoli%2C_70_dc_ca.%2C_IN_2585.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Antica roma, testa di vespasiano, in marmo, da napoli, 70 dc ca., IN 2585 — Francesco Bini · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Antica_roma,_testa_di_vespasiano,_in_marmo,_da_napoli,_70_dc_ca.,_IN_2585.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Charles Marville, Urinoir en ardoise à 3 stalles, Chaussée du Maine, ca. 1865.jpg",
+  "autor": "Charles Marville",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Charles_Marville,_Urinoir_en_ardoise_%C3%A0_3_stalles,_Chauss%C3%A9e_du_Maine,_ca._1865.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Charles_Marville%2C_Urinoir_en_ardoise_%C3%A0_3_stalles%2C_Chauss%C3%A9e_du_Maine%2C_ca._1865.jpg/1920px-Charles_Marville%2C_Urinoir_en_ardoise_%C3%A0_3_stalles%2C_Chauss%C3%A9e_du_Maine%2C_ca._1865.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Colosseum-Rome-May-2009.jpg",
+  "autor": "Acediscovery",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Colosseum-Rome-May-2009.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Colosseum-Rome-May-2009.jpg/1920px-Colosseum-Rome-May-2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Colosseum-Rome-May-2009 — Acediscovery · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:Colosseum-Rome-May-2009.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Colosseum exterior at night, Rome, Italy (Ank Kumar) 06.jpg",
+  "autor": "Ank Kumar",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Colosseum_exterior_at_night,_Rome,_Italy_(Ank_Kumar)_06.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Colosseum_exterior_at_night%2C_Rome%2C_Italy_%28Ank_Kumar%29_06.jpg/1920px-Colosseum_exterior_at_night%2C_Rome%2C_Italy_%28Ank_Kumar%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Colosseum exterior at night, Rome, Italy (Ank Kumar) 06 — Ank Kumar · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Colosseum_exterior_at_night,_Rome,_Italy_(Ank_Kumar)_06.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Colosseum exterior at night, Rome, Italy (Ank Kumar) 07.jpg",
+  "autor": "Ank Kumar",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Colosseum_exterior_at_night,_Rome,_Italy_(Ank_Kumar)_07.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Colosseum_exterior_at_night%2C_Rome%2C_Italy_%28Ank_Kumar%29_07.jpg/1920px-Colosseum_exterior_at_night%2C_Rome%2C_Italy_%28Ank_Kumar%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Colosseum exterior at night, Rome, Italy (Ank Kumar) 07 — Ank Kumar · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Colosseum_exterior_at_night,_Rome,_Italy_(Ank_Kumar)_07.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Hypogeum 1 (15005526662).jpg",
+  "autor": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hypogeum_1_(15005526662).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Hypogeum_1_%2815005526662%29.jpg/1920px-Hypogeum_1_%2815005526662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Hypogeum 1 (15005526662) — daryl_mitchell from Saskatoon, Saskatchewan, Canada · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Hypogeum_1_(15005526662).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Jean-Leon Gerome Pollice Verso (cropped).jpg",
+  "autor": "Jean-Léon Gérôme",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Jean-Leon_Gerome_Pollice_Verso_(cropped).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Jean-Leon_Gerome_Pollice_Verso_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Gladiators from the Zliten mosaic.jpg",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gladiators_from_the_Zliten_mosaic.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Gladiators_from_the_Zliten_mosaic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Vesuvius from Naples, 2007.jpg",
+  "autor": "МаратД",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Vesuvius_from_Naples,_2007.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Vesuvius_from_Naples%2C_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Vesuvius from Naples, 2007 — МаратД · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Vesuvius_from_Naples,_2007.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Forum, Pompeii 03.jpg",
+  "autor": "Adam Harangozó",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Forum,_Pompeii_03.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Forum%2C_Pompeii_03.jpg/1920px-Forum%2C_Pompeii_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Forum, Pompeii 03 — Adam Harangozó · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Forum,_Pompeii_03.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:-Plaster Casts of Bodies, Pompeii- MET DP262064.jpg",
+  "autor": "Giorgio Sommer",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:-Plaster_Casts_of_Bodies,_Pompeii-_MET_DP262064.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/-Plaster_Casts_of_Bodies%2C_Pompeii-_MET_DP262064.jpg/1920px--Plaster_Casts_of_Bodies%2C_Pompeii-_MET_DP262064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:1982-10-07 plaster cast from Pompeii (1).jpg",
+  "autor": "Dave Cooper",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:1982-10-07_plaster_cast_from_Pompeii_(1).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/1982-10-07_plaster_cast_from_Pompeii_%281%29.jpg/1920px-1982-10-07_plaster_cast_from_Pompeii_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: 1982-10-07 plaster cast from Pompeii (1) — Dave Cooper · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:1982-10-07_plaster_cast_from_Pompeii_(1).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Plaster casts of a man and his slave, Pompeii (slave in foreground) (52786644423).jpg",
+  "autor": "Tracey Hind from Aups, France",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Plaster_casts_of_a_man_and_his_slave,_Pompeii_(slave_in_foreground)_(52786644423).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Plaster_casts_of_a_man_and_his_slave%2C_Pompeii_%28slave_in_foreground%29_%2852786644423%29.jpg/1920px-Plaster_casts_of_a_man_and_his_slave%2C_Pompeii_%28slave_in_foreground%29_%2852786644423%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Plaster casts of a man and his slave, Pompeii (slave in foreground) (52786644423) — Tracey Hind from Aups, France · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Plaster_casts_of_a_man_and_his_slave,_Pompeii_(slave_in_foreground)_(52786644423).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Arch of Titus in Rome (1).jpg",
+  "autor": "Tournasol7",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Arch_of_Titus_in_Rome_(1).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Arch_of_Titus_in_Rome_%281%29.jpg/1920px-Arch_of_Titus_in_Rome_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Arch of Titus in Rome (1) — Tournasol7 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Arch_of_Titus_in_Rome_(1).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Arch of Titus Menorah.png",
+  "autor": "derivative work: Steerpike (talk)\nArc_de_Triumph_copy.jpg: user: בית השלום",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Arch_of_Titus_Menorah.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Arch_of_Titus_Menorah.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Amphitheatre Italica, Spain.jpg",
+  "autor": "No machine-readable author provided. Joris assumed (based on copyright claims).",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Amphitheatre_Italica,_Spain.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Amphitheatre_Italica%2C_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Bust of Trajan (GL 336) - Glyptothek - Munich - Germany 2017 (2).jpg",
+  "autor": "José Luiz",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bust_of_Trajan_(GL_336)_-_Glyptothek_-_Munich_-_Germany_2017_(2).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Bust_of_Trajan_%28GL_336%29_-_Glyptothek_-_Munich_-_Germany_2017_%282%29.jpg/1920px-Bust_of_Trajan_%28GL_336%29_-_Glyptothek_-_Munich_-_Germany_2017_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Bust of Trajan (GL 336) - Glyptothek - Munich - Germany 2017 (2) — José Luiz · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Bust_of_Trajan_(GL_336)_-_Glyptothek_-_Munich_-_Germany_2017_(2).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Colonna Traiana Santissimo Nome di Maria dome Rome.jpg",
+  "autor": "Jebulon",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Colonna_Traiana_Santissimo_Nome_di_Maria_dome_Rome.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Colonna_Traiana_Santissimo_Nome_di_Maria_dome_Rome.jpg/1920px-Colonna_Traiana_Santissimo_Nome_di_Maria_dome_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Trajan's Column - NMR - panel 021 B.jpg",
+  "autor": "Joe Mabel",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Trajan%27s_Column_-_NMR_-_panel_021_B.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Trajan%27s_Column_-_NMR_-_panel_021_B.jpg/1920px-Trajan%27s_Column_-_NMR_-_panel_021_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Insula Ara Coeli - Rome (IT62) - 2021-08-27 - 1.jpg",
+  "autor": "Chabe01",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Insula_Ara_Coeli_-_Rome_(IT62)_-_2021-08-27_-_1.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Insula_Ara_Coeli_-_Rome_%28IT62%29_-_2021-08-27_-_1.jpg/1920px-Insula_Ara_Coeli_-_Rome_%28IT62%29_-_2021-08-27_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Insula Ara Coeli - Rome (IT62) - 2021-08-27 - 1 — Chabe01 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Insula_Ara_Coeli_-_Rome_(IT62)_-_2021-08-27_-_1.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Insula Ara Coeli - Rome (IT62) - 2021-08-27 - 2.jpg",
+  "autor": "Chabe01",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Insula_Ara_Coeli_-_Rome_(IT62)_-_2021-08-27_-_2.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Insula_Ara_Coeli_-_Rome_%28IT62%29_-_2021-08-27_-_2.jpg/1920px-Insula_Ara_Coeli_-_Rome_%28IT62%29_-_2021-08-27_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Insula Ara Coeli - Rome (IT62) - 2021-08-27 - 2 — Chabe01 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Insula_Ara_Coeli_-_Rome_(IT62)_-_2021-08-27_-_2.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Campitelli - Insula romana 1907.JPG",
+  "autor": "user:Lalupa",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Campitelli_-_Insula_romana_1907.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Campitelli_-_Insula_romana_1907.JPG/1920px-Campitelli_-_Insula_romana_1907.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:House of the Vettii (Pompeii), Peristyle (9809081996).jpg",
+  "autor": "Gary Todd from Xinzheng, China",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:House_of_the_Vettii_(Pompeii),_Peristyle_(9809081996).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/House_of_the_Vettii_%28Pompeii%29%2C_Peristyle_%289809081996%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Pompeii Thermopolium 20240504 170558.jpg",
+  "autor": "Rigorius",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Pompeii_Thermopolium_20240504_170558.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Pompeii_Thermopolium_20240504_170558.jpg/1920px-Pompeii_Thermopolium_20240504_170558.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Pompeii Thermopolium 20240504 170558 — Rigorius · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Pompeii_Thermopolium_20240504_170558.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Wall Decoration with Graffiti - Pompeii Antiquarium - 54537157296.jpg",
+  "autor": "MumblerJamie",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537157296.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537157296.jpg/1920px-Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537157296.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Wall Decoration with Graffiti - Pompeii Antiquarium - 54537157296 — MumblerJamie · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537157296.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Pompeia-ViaAbundancia-propagandaElectoral-5445.jpg",
+  "autor": "Amadalvarez",
+  "licencia": "CC BY 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Pompeia-ViaAbundancia-propagandaElectoral-5445.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Pompeia-ViaAbundancia-propagandaElectoral-5445.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Pompeia-ViaAbundancia-propagandaElectoral-5445 — Amadalvarez · CC BY 3.0 · https://commons.wikimedia.org/wiki/File:Pompeia-ViaAbundancia-propagandaElectoral-5445.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Pompeii-graffiti.jpg",
+  "autor": "Wikimedia Commons",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Pompeii-graffiti.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Pompeii-graffiti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Wall Decoration with Graffiti - Pompeii Antiquarium - 54537340184.jpg",
+  "autor": "MumblerJamie",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537340184.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537340184.jpg/1920px-Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537340184.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Wall Decoration with Graffiti - Pompeii Antiquarium - 54537340184 — MumblerJamie · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Wall_Decoration_with_Graffiti_-_Pompeii_Antiquarium_-_54537340184.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Insegna di bottega con iscrizioni elettorali, da pompei VI, 13, 6-7, 9282.jpg",
+  "autor": "Sailko",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Insegna_di_bottega_con_iscrizioni_elettorali,_da_pompei_VI,_13,_6-7,_9282.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Insegna_di_bottega_con_iscrizioni_elettorali%2C_da_pompei_VI%2C_13%2C_6-7%2C_9282.jpg/1920px-Insegna_di_bottega_con_iscrizioni_elettorali%2C_da_pompei_VI%2C_13%2C_6-7%2C_9282.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Insegna di bottega con iscrizioni elettorali, da pompei VI, 13, 6-7, 9282 — Sailko · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Insegna_di_bottega_con_iscrizioni_elettorali,_da_pompei_VI,_13,_6-7,_9282.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Colosseum of Rome and Roman forum.jpg",
+  "autor": "Wilfredor",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Colosseum_of_Rome_and_Roman_forum.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Colosseum_of_Rome_and_Roman_forum.jpg/1920px-Colosseum_of_Rome_and_Roman_forum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Part of the Baths of Caracalla November 2013.jpg",
+  "autor": "Nick-D",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Part_of_the_Baths_of_Caracalla_November_2013.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Part_of_the_Baths_of_Caracalla_November_2013.jpg/1920px-Part_of_the_Baths_of_Caracalla_November_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Part of the Baths of Caracalla November 2013 — Nick-D · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Part_of_the_Baths_of_Caracalla_November_2013.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Circus Maximus et Domus Augustana - Rome 111001.JPG",
+  "autor": "Jean-Pol GRANDMONT",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Circus_Maximus_et_Domus_Augustana_-_Rome_111001.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Circus_Maximus_et_Domus_Augustana_-_Rome_111001.JPG/1920px-Circus_Maximus_et_Domus_Augustana_-_Rome_111001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Circus Maximus et Domus Augustana - Rome 111001 — Jean-Pol GRANDMONT · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Circus_Maximus_et_Domus_Augustana_-_Rome_111001.JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Juvenal portrait.jpg",
+  "autor": "S. H. Gimber",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Juvenal_portrait.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Juvenal_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Collier d'ecollier d'esclave Empire, Peuples.jpg",
+  "autor": "Caroline Becker",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Collier_d%27ecollier_d%27esclave_Empire,_Peuples.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Collier_d%27ecollier_d%27esclave_Empire%2C_Peuples.jpg/1920px-Collier_d%27ecollier_d%27esclave_Empire%2C_Peuples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Collier d'ecollier d'esclave Empire, Peuples — Caroline Becker · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:Collier_d%27ecollier_d%27esclave_Empire,_Peuples.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:20160516 437 thessaloniki.jpg",
+  "autor": "Jean Housen",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:20160516_437_thessaloniki.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/20160516_437_thessaloniki.jpg/1920px-20160516_437_thessaloniki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: 20160516 437 thessaloniki — Jean Housen · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:20160516_437_thessaloniki.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Clevelandart 1971.136.jpg",
+  "autor": "anonymous",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Clevelandart_1971.136.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Clevelandart_1971.136.jpg/1920px-Clevelandart_1971.136.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:KMH - Grabstein.jpg",
+  "autor": "Wolfgang Sauber",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:KMH_-_Grabstein.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KMH_-_Grabstein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: KMH - Grabstein — Wolfgang Sauber · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:KMH_-_Grabstein.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Hadrian & Antinous, British Museum, London (14160687971).jpg",
+  "autor": "Carole Raddato from FRANKFURT, Germany",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hadrian_%26_Antinous,_British_Museum,_London_(14160687971).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Hadrian_%26_Antinous%2C_British_Museum%2C_London_%2814160687971%29.jpg/1920px-Hadrian_%26_Antinous%2C_British_Museum%2C_London_%2814160687971%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Hadrian & Antinous, British Museum, London (14160687971) — Carole Raddato from FRANKFURT, Germany · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Hadrian_%26_Antinous,_British_Museum,_London_(14160687971).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Hadrian's Wall at Housesteads Fort - geograph.org.uk - 2815680.jpg",
+  "autor": "John Sutton",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_at_Housesteads_Fort_-_geograph.org.uk_-_2815680.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Hadrian%27s_Wall_at_Housesteads_Fort_-_geograph.org.uk_-_2815680.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Hadrian's Wall at Housesteads Fort - geograph.org.uk - 2815680 — John Sutton · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_at_Housesteads_Fort_-_geograph.org.uk_-_2815680.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Equestrian Statue of Marcus Aurelius, copy of.JPG",
+  "autor": "BeEXT",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Equestrian_Statue_of_Marcus_Aurelius,_copy_of.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Equestrian_Statue_of_Marcus_Aurelius%2C_copy_of.JPG/1920px-Equestrian_Statue_of_Marcus_Aurelius%2C_copy_of.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Equestrian Statue of Marcus Aurelius, copy of — BeEXT · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Equestrian_Statue_of_Marcus_Aurelius,_copy_of.JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Marcus Aurelius on Capitoline Hill (5986636647).jpg",
+  "autor": "Erik Drost",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Marcus_Aurelius_on_Capitoline_Hill_(5986636647).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Marcus_Aurelius_on_Capitoline_Hill_%285986636647%29.jpg/1920px-Marcus_Aurelius_on_Capitoline_Hill_%285986636647%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Marcus Aurelius on Capitoline Hill (5986636647) — Erik Drost · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Marcus_Aurelius_on_Capitoline_Hill_(5986636647).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Bust of Commodus as Hercules (7556336188).jpg",
+  "autor": "Institute for the Study of the Ancient World from New York, United States of Ame",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bust_of_Commodus_as_Hercules_(7556336188).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bust_of_Commodus_as_Hercules_%287556336188%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Bust of Commodus as Hercules (7556336188) — Institute for the Study of the Ancient World from New York, United States of Ame · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Bust_of_Commodus_as_Hercules_(7556336188).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Arch of Septimius Severus in Leptis Magna, Libya.jpg",
+  "autor": "Assilinee Ali",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Arch_of_Septimius_Severus_in_Leptis_Magna,_Libya.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Arch_of_Septimius_Severus_in_Leptis_Magna%2C_Libya.jpg/1920px-Arch_of_Septimius_Severus_in_Leptis_Magna%2C_Libya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Arch of Septimius Severus in Leptis Magna, Libya — Assilinee Ali · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Arch_of_Septimius_Severus_in_Leptis_Magna,_Libya.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Bust of Septimius Severus (GL 357) - Glyptothek - Munich - Germany 2017.jpg",
+  "autor": "José Luiz",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bust_of_Septimius_Severus_(GL_357)_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Bust_of_Septimius_Severus_%28GL_357%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg/1920px-Bust_of_Septimius_Severus_%28GL_357%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Bust of Septimius Severus (GL 357) - Glyptothek - Munich - Germany 2017 — José Luiz · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Bust_of_Septimius_Severus_(GL_357)_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Tempera painting on wood panel - Septimius Severus and his family - Egypt - Berlin AS 31329 - 01.jpg",
+  "autor": "ArchaiOptix",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Tempera_painting_on_wood_panel_-_Septimius_Severus_and_his_family_-_Egypt_-_Berlin_AS_31329_-_01.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Tempera_painting_on_wood_panel_-_Septimius_Severus_and_his_family_-_Egypt_-_Berlin_AS_31329_-_01.jpg/1920px-Tempera_painting_on_wood_panel_-_Septimius_Severus_and_his_family_-_Egypt_-_Berlin_AS_31329_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Tempera painting on wood panel - Septimius Severus and his family - Egypt - Berlin AS 31329 - 01 — ArchaiOptix · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Tempera_painting_on_wood_panel_-_Septimius_Severus_and_his_family_-_Egypt_-_Berlin_AS_31329_-_01.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Caracalla 6033 Museo Nazionale Napoli.jpg",
+  "autor": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but ple",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Caracalla_6033_Museo_Nazionale_Napoli.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Caracalla_6033_Museo_Nazionale_Napoli.jpg/1920px-Caracalla_6033_Museo_Nazionale_Napoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Caracalla 6033 Museo Nazionale Napoli — This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but ple · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Caracalla_6033_Museo_Nazionale_Napoli.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Gießen, MS Papyrus Gissensis 40 uncropped Constitutio Antoniniana with three other edicts.jpg",
+  "autor": "Unknown authorUnknown author",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gie%C3%9Fen,_MS_Papyrus_Gissensis_40_uncropped_Constitutio_Antoniniana_with_three_other_edicts.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Gie%C3%9Fen%2C_MS_Papyrus_Gissensis_40_uncropped_Constitutio_Antoniniana_with_three_other_edicts.jpg/1920px-Gie%C3%9Fen%2C_MS_Papyrus_Gissensis_40_uncropped_Constitutio_Antoniniana_with_three_other_edicts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:AntoninianusProgression.jpg",
+  "autor": "MonaghanNumismatics",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:AntoninianusProgression.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/AntoninianusProgression.jpg/1920px-AntoninianusProgression.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: AntoninianusProgression — MonaghanNumismatics · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:AntoninianusProgression.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Naghsh-e rostam, Irán, 2016-09-24, DD 12.jpg",
+  "autor": "Diego Delso",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Naghsh-e_rostam,_Ir%C3%A1n,_2016-09-24,_DD_12.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_12.jpg/1920px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Naghsh-e rostam, Irán, 2016-09-24, DD 12 — Diego Delso · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Naghsh-e_rostam,_Ir%C3%A1n,_2016-09-24,_DD_12.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Aurelian Walls - Porta Asinaria.jpg",
+  "autor": "MrPanyGoff",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Aurelian_Walls_-_Porta_Asinaria.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Aurelian_Walls_-_Porta_Asinaria.jpg/1920px-Aurelian_Walls_-_Porta_Asinaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Aurelian Walls - Porta Asinaria — MrPanyGoff · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Aurelian_Walls_-_Porta_Asinaria.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Diocletian bust.png",
+  "autor": "Giovanni Dall'Orto",
+  "licencia": "Attribution",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Diocletian_bust.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Diocletian_bust.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Diocletian bust — Giovanni Dall'Orto · Attribution · https://commons.wikimedia.org/wiki/File:Diocletian_bust.png",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Detail of the Four Tetrarchs, ca. 300; Venice (1).jpg",
+  "autor": "Prof. Mortel",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Detail_of_the_Four_Tetrarchs,_ca._300;_Venice_(1).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Detail_of_the_Four_Tetrarchs%2C_ca._300%3B_Venice_%281%29.jpg/1920px-Detail_of_the_Four_Tetrarchs%2C_ca._300%3B_Venice_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Detail of the Four Tetrarchs, ca. 300; Venice (1) — Prof. Mortel · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Detail_of_the_Four_Tetrarchs,_ca._300;_Venice_(1).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Edict on Maximum Prices Diocletian piece in Berlin.jpg",
+  "autor": "User:MatthiasKabel",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Edict_on_Maximum_Prices_Diocletian_piece_in_Berlin.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Edict_on_Maximum_Prices_Diocletian_piece_in_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Edict on Maximum Prices Diocletian piece in Berlin — User:MatthiasKabel · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Edict_on_Maximum_Prices_Diocletian_piece_in_Berlin.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Split BW 2024-10-02 11-16-50.jpg",
+  "autor": "Berthold Werner",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Split_BW_2024-10-02_11-16-50.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Split_BW_2024-10-02_11-16-50.jpg/1920px-Split_BW_2024-10-02_11-16-50.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Split BW 2024-10-02 11-16-50 — Berthold Werner · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Split_BW_2024-10-02_11-16-50.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Split BW 2024-10-02 11-08-07.jpg",
+  "autor": "Berthold Werner",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Split_BW_2024-10-02_11-08-07.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Split_BW_2024-10-02_11-08-07.jpg/1920px-Split_BW_2024-10-02_11-08-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Split BW 2024-10-02 11-08-07 — Berthold Werner · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Split_BW_2024-10-02_11-08-07.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:0 Constantinus I - Palazzo dei Conservatori (1).JPG",
+  "autor": "unknown",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:0_Constantinus_I_-_Palazzo_dei_Conservatori_(1).JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/0_Constantinus_I_-_Palazzo_dei_Conservatori_%281%29.JPG/1920px-0_Constantinus_I_-_Palazzo_dei_Conservatori_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: 0 Constantinus I - Palazzo dei Conservatori (1) — unknown · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:0_Constantinus_I_-_Palazzo_dei_Conservatori_(1).JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Battle of the Milvian Bridge by Giulio Romano, 1520-24.jpg",
+  "autor": "Giulio Romano",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Battle_of_the_Milvian_Bridge_by_Giulio_Romano,_1520-24.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Battle_of_the_Milvian_Bridge_by_Giulio_Romano%2C_1520-24.jpg/1920px-Battle_of_the_Milvian_Bridge_by_Giulio_Romano%2C_1520-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Hagia Sophia - coupole.jpg",
+  "autor": "Eusebius",
+  "licencia": "CC BY 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_-_coupole.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Hagia_Sophia_-_coupole.jpg/1920px-Hagia_Sophia_-_coupole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Hagia Sophia - coupole — Eusebius · CC BY 3.0 · https://commons.wikimedia.org/wiki/File:Hagia_Sophia_-_coupole.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Roman coin, Siliqua of Julian (FindID 587373).jpg",
+  "autor": "Salisbury and South Wiltshire Museum, Richard Henry, 2014-01-21 12:08:52",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Roman_coin,_Siliqua_of_Julian_(FindID_587373).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Roman_coin%2C_Siliqua_of_Julian_%28FindID_587373%29.jpg/1920px-Roman_coin%2C_Siliqua_of_Julian_%28FindID_587373%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Roman coin, Siliqua of Julian (FindID 587373) — Salisbury and South Wiltshire Museum, Richard Henry, 2014-01-21 12:08:52 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Roman_coin,_Siliqua_of_Julian_(FindID_587373).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Disco de Teodosio.jpg",
+  "autor": "Ángel M. Felicísimo",
+  "licencia": "CC BY 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Disco_de_Teodosio.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Disco_de_Teodosio.jpg/1920px-Disco_de_Teodosio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Disco de Teodosio — Ángel M. Felicísimo · CC BY 3.0 · https://commons.wikimedia.org/wiki/File:Disco_de_Teodosio.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Sack of Rome by the Visigoths on 24 August 410 by JN Sylvestre 1890.jpg",
+  "autor": "Joseph-Noël Sylvestre",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Sack_of_Rome_by_the_Visigoths_on_24_August_410_by_JN_Sylvestre_1890.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sack_of_Rome_by_the_Visigoths_on_24_August_410_by_JN_Sylvestre_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Saint Jerome Writing-Caravaggio (1605-6).jpg",
+  "autor": "Caravaggio",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Saint_Jerome_Writing-Caravaggio_(1605-6).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Saint_Jerome_Writing-Caravaggio_%281605-6%29.jpg/1920px-Saint_Jerome_Writing-Caravaggio_%281605-6%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:J. W. Waterhouse - The favourites of the Emperor Honorius - Google Art ProjectFXD.jpg",
+  "autor": "J. W. WATERHOUSE (1849 - 1917)  (Britain) Born in Rome. Died in London. Details ",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:J._W._Waterhouse_-_The_favourites_of_the_Emperor_Honorius_-_Google_Art_ProjectFXD.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/J._W._Waterhouse_-_The_favourites_of_the_Emperor_Honorius_-_Google_Art_ProjectFXD.jpg/1920px-J._W._Waterhouse_-_The_favourites_of_the_Emperor_Honorius_-_Google_Art_ProjectFXD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Corona de (29049230050).jpg",
+  "autor": "Ángel M. Felicísimo from Mérida, España",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Corona_de_(29049230050).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Corona_de_%2829049230050%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Corona de (29049230050) — Ángel M. Felicísimo from Mérida, España · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Corona_de_(29049230050).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Attila überreitet Italien und die Künste, Detail (Eugène Ferdinand Victor Delacroix).jpg",
+  "autor": "Eugène Delacroix",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Attila_%C3%BCberreitet_Italien_und_die_K%C3%BCnste,_Detail_(Eug%C3%A8ne_Ferdinand_Victor_Delacroix).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Attila_%C3%BCberreitet_Italien_und_die_K%C3%BCnste%2C_Detail_%28Eug%C3%A8ne_Ferdinand_Victor_Delacroix%29.jpg/1920px-Attila_%C3%BCberreitet_Italien_und_die_K%C3%BCnste%2C_Detail_%28Eug%C3%A8ne_Ferdinand_Victor_Delacroix%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:\"The Meeting of Leo the Great and Atilla\" by Raphael, Raphael Rooms, Vatican Museum (48466333482).jpg",
+  "autor": "Gary Todd from Xinzheng, China",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:%22The_Meeting_of_Leo_the_Great_and_Atilla%22_by_Raphael,_Raphael_Rooms,_Vatican_Museum_(48466333482).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%22The_Meeting_of_Leo_the_Great_and_Atilla%22_by_Raphael%2C_Raphael_Rooms%2C_Vatican_Museum_%2848466333482%29.jpg/1920px-%22The_Meeting_of_Leo_the_Great_and_Atilla%22_by_Raphael%2C_Raphael_Rooms%2C_Vatican_Museum_%2848466333482%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Genseric sacking Rome 455 The Sack of Rome, Karl Briullov, 1833-1836.jpg",
+  "autor": "Karl Bryullov",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Genseric_sacking_Rome_455_The_Sack_of_Rome,_Karl_Briullov,_1833-1836.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Genseric_sacking_Rome_455_The_Sack_of_Rome%2C_Karl_Briullov%2C_1833-1836.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Romulus Augustulus, RIC X 3419 (obverse).jpg",
+  "autor": "CNG",
+  "licencia": "CC BY-SA 2.5",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Romulus_Augustulus,_RIC_X_3419_(obverse).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Romulus_Augustulus%2C_RIC_X_3419_%28obverse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Romulus Augustulus, RIC X 3419 (obverse) — CNG · CC BY-SA 2.5 · https://commons.wikimedia.org/wiki/File:Romulus_Augustulus,_RIC_X_3419_(obverse).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Gold Solidus of Romulus Augustulus.jpg",
+  "autor": "ANS",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gold_Solidus_of_Romulus_Augustulus.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Gold_Solidus_of_Romulus_Augustulus.jpg/1920px-Gold_Solidus_of_Romulus_Augustulus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Edward Emily Gibbon.jpg",
+  "autor": "Joshua Reynolds",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Edward_Emily_Gibbon.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Edward_Emily_Gibbon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Theodosian Walls of Constantinople, Istanbul (1991).jpg",
+  "autor": "Peter Christian Riemann",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Theodosian_Walls_of_Constantinople,_Istanbul_(1991).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Theodosian_Walls_of_Constantinople%2C_Istanbul_%281991%29.jpg/1920px-Theodosian_Walls_of_Constantinople%2C_Istanbul_%281991%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Theodosian Walls of Constantinople, Istanbul (1991) — Peter Christian Riemann · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Theodosian_Walls_of_Constantinople,_Istanbul_(1991).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Theodosian Walls of Constantinople, Istanbul (24053561188).jpg",
+  "autor": "Carole Raddato from FRANKFURT, Germany",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Theodosian_Walls_of_Constantinople,_Istanbul_(24053561188).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Theodosian_Walls_of_Constantinople%2C_Istanbul_%2824053561188%29.jpg/1920px-Theodosian_Walls_of_Constantinople%2C_Istanbul_%2824053561188%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Theodosian Walls of Constantinople, Istanbul (24053561188) — Carole Raddato from FRANKFURT, Germany · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Theodosian_Walls_of_Constantinople,_Istanbul_(24053561188).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Theodosian Walls of Constantinople, Istanbul (37195885074).jpg",
+  "autor": "Carole Raddato from FRANKFURT, Germany",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Theodosian_Walls_of_Constantinople,_Istanbul_(37195885074).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Theodosian_Walls_of_Constantinople%2C_Istanbul_%2837195885074%29.jpg/1920px-Theodosian_Walls_of_Constantinople%2C_Istanbul_%2837195885074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Theodosian Walls of Constantinople, Istanbul (37195885074) — Carole Raddato from FRANKFURT, Germany · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Theodosian_Walls_of_Constantinople,_Istanbul_(37195885074).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Conquest of Constantinople, Zonaro.jpg",
+  "autor": "Fausto Zonaro",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Conquest_of_Constantinople,_Zonaro.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Conquest_of_Constantinople%2C_Zonaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Acueducto, Segovia, España, 2024-06-14, DD 10.jpg",
+  "autor": "Diego Delso",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Acueducto,_Segovia,_Espa%C3%B1a,_2024-06-14,_DD_10.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Acueducto%2C_Segovia%2C_Espa%C3%B1a%2C_2024-06-14%2C_DD_10.jpg/1920px-Acueducto%2C_Segovia%2C_Espa%C3%B1a%2C_2024-06-14%2C_DD_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Acueducto, Segovia, España, 2024-06-14, DD 10 — Diego Delso · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Acueducto,_Segovia,_Espa%C3%B1a,_2024-06-14,_DD_10.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Ancient Roman theatre in Mérida 2023.jpg",
+  "autor": "Fernando",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_theatre_in_M%C3%A9rida_2023.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Ancient_Roman_theatre_in_M%C3%A9rida_2023.jpg/1920px-Ancient_Roman_theatre_in_M%C3%A9rida_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Ancient Roman theatre in Mérida 2023 — Fernando · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Ancient_Roman_theatre_in_M%C3%A9rida_2023.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Alcantara roman bridge.jpg",
+  "autor": "John Martin PERRY",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Alcantara_roman_bridge.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Alcantara_roman_bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Alcantara roman bridge — John Martin PERRY · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Alcantara_roman_bridge.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Buste de Sénèque à Cordoue (recadrage).jpg",
+  "autor": "Sénèque_-_Cordoue.JPG: PRA\nderivative work: PRA (talk)",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Buste_de_S%C3%A9n%C3%A8que_%C3%A0_Cordoue_(recadrage).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Buste_de_S%C3%A9n%C3%A8que_%C3%A0_Cordoue_%28recadrage%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Buste de Sénèque à Cordoue (recadrage) — Sénèque_-_Cordoue.JPG: PRA\nderivative work: PRA (talk) · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Buste_de_S%C3%A9n%C3%A8que_%C3%A0_Cordoue_(recadrage).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Rio Tinto wheel.jpg",
+  "autor": "Jononmac46",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Rio_Tinto_wheel.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Rio_Tinto_wheel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Interior oculus of the Rome Pantheon.jpg",
+  "autor": "T. Le Berre",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Interior_oculus_of_the_Rome_Pantheon.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Interior_oculus_of_the_Rome_Pantheon.jpg/1920px-Interior_oculus_of_the_Rome_Pantheon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "Archivo: Interior oculus of the Rome Pantheon — T. Le Berre · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Interior_oculus_of_the_Rome_Pantheon.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "File:Capitoline Museums and Roman Forum (2).jpg",
+  "autor": "Julian Lupyan",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Capitoline_Museums_and_Roman_Forum_(2).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Capitoline_Museums_and_Roman_Forum_%282%29.jpg/1920px-Capitoline_Museums_and_Roman_Forum_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-20",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ }
+]

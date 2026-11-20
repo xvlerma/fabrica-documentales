@@ -34,6 +34,7 @@ FIX = {  # coherencia: planos sin material coherente -> otra búsqueda coherente
  'Forum Romanum sunset': {'photo': 'Roman Forum view from Capitoline'},
  'Scipio Aemilianus': {'ai': _AI['escipion_cartago']},
  'Antoninus Pius bust': {'photo': 'Marcus Aurelius equestrian statue Capitoline'},
+ 'Pharsalus battle': {'ai': _AI['farsalia']},
 }
 GT = json.load(open(os.path.join(HERE, 'gens_text.json'))) if os.path.exists(os.path.join(HERE, 'gens_text.json')) else {}
 URLS = json.load(open(os.path.join(HERE, 'urls.json'))) if os.path.exists(os.path.join(HERE, 'urls.json')) else {}
@@ -81,14 +82,34 @@ if os.path.exists(EDL):
                 n = min(2, int(d // 7), 2 * len(QCUR[ph_]) - uses[ph_])
                 add = [dict({k: v for k, v in s.items() if k in ('photo', 'src', 'lugar')}) for _ in range(max(0, n))]
                 uses[ph_] += len(add)
-            elif 'ai' in s and d > 11: add = [dict(ai=s['ai'])]
             out += add; extra += len(add)
         if u.get('shots'): u['shots'] = out
     print('planos añadidos en tramos largos:', extra)
+# --- sin imágenes repetidas: cada búsqueda, como mucho tantas veces como fotos distintas aprobadas;
+#     objetos, bustos y cuadros, una sola vez por unidad (fotos distintas del mismo objeto también cuentan como repetición)
+LUGAR_VARIADO = {'Sagunto castle', 'Colosseum Rome exterior', 'Insula Ara Coeli Rome', 'Theodosian Walls Istanbul', 'Lake Trasimeno',
+                 'Diocletian Palace Split', 'Hadrian Wall Housesteads', 'Italica Santiponce amphitheatre', 'Carthage Punic ports', 'Pompeii plaster casts'}
+from collections import Counter as _C
+tot = _C(); drop = 0; ai_seen = set()
+for i, u in enumerate(U):
+    if not u.get('shots'): continue
+    out = []; per = _C()
+    for s in u['shots']:
+        q = s.get('photo')
+        if q:
+            cap = len(QCUR.get(q, [1]))
+            if tot[q] >= cap or (per[q] >= 1 and q not in LUGAR_VARIADO): drop += 1; continue
+            tot[q] += 1; per[q] += 1
+        if 'ai' in s and 'card' not in s:
+            if s['ai'] in ai_seen and len(u['shots']) > 1: drop += 1; continue
+            ai_seen.add(s['ai'])
+        out.append(s)
+    u['shots'] = out or u['shots'][:1]
+print('planos repetidos quitados:', drop)
 job = {
     'lugares': LUG, 'permitir_sa': True,
     'id': 'roma', 'title': 'La Antigua Roma (Historia Completa)', 'channel': 'DocuVox', 'stage': stage,
-    'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 2, 'gap': 300}, 'auto_sfx': {}, 'sfx_max': 5,
+    'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 1, 'gap': 99999}, 'auto_sfx': {}, 'sfx_max': 5,
     'max_shot': 9, 'min_shot': 1.6, 'anchor_lead': 0.1,
     'bando': {'roma': lib.RO, 'cartago': lib.CA, 'barbaros': lib.BA, 'oriente': lib.OR},
     'glossary': [

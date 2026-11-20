@@ -1,0 +1,7 @@
+plano 0 t=0.0s: rótulo "El edificio Lipstick" sin mención en ±2 s
+plano 37 t=219.5s: dura 7.0 s; añade un plano o una tarjeta
+plano 40 t=236.3s: rótulo "Gregor MacGregor" sin mención en ±2 s
+plano 60 t=336.2s: rótulo "Billete de Poyais" sin mención en ±2 s
+plano 100 t=514.9s: rótulo "Charles Ponzi" sin mención en ±2 s
+plano 280 t=1563.6s: rótulo "CNMV" sin mención en ±2 s
+plano 386 t=2281.8s: rótulo "Tribunal federal" sin mención en ±2 s

@@ -1,0 +1,91 @@
+== piel: Crímenes históricos, misterios, conspiraciones, juicios, prensa antigua · etalonaje frio
+== 1/5 audio: colocando voces, música y efectos
+voz: 39.2 min, 4621 palabras narrador, total 43.1 min
+   alineación: 140 unidades (140 con whisper, resto en caché o proporcional)
+== 2/5 guion visual
+  aviso anclas muy juntas en t=351.4s: se retrasa "zapatero oficial"
+  aviso anclas muy juntas en t=547.5s: se retrasa "dos dólares"
+  aviso anclas muy juntas en t=2283.2s: se retrasa "once delitos"
+   partición de planos largos: 258 → 428 planos
+  sincronía: plano 0 t=0.0s: rótulo "El edificio Lipstick" sin mención en ±2 s
+  sincronía: plano 37 t=219.5s: dura 7.0 s; añade un plano o una tarjeta
+  sincronía: plano 40 t=236.3s: rótulo "Gregor MacGregor" sin mención en ±2 s
+  sincronía: plano 60 t=336.2s: rótulo "Billete de Poyais" sin mención en ±2 s
+  sincronía: plano 100 t=514.9s: rótulo "Charles Ponzi" sin mención en ±2 s
+  sincronía: plano 280 t=1563.6s: rótulo "CNMV" sin mención en ±2 s
+  sincronía: plano 386 t=2281.8s: rótulo "Tribunal federal" sin mención en ±2 s
+   428 planos
+== 3/5 buscando y descargando material
+  aviso repetición: "photo:Gregor MacGregor portrait" en t=227s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Gregor MacGregor portrait" en t=236s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Poyais dollar banknote" en t=346s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:London street 1820s engraving" en t=439s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Gregor MacGregor portrait" en t=445s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Gregor MacGregor portrait" en t=449s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Gregor MacGregor portrait" en t=454s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Gregor MacGregor portrait" en t=471s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Charles Ponzi 1920" en t=515s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Charles Ponzi 1920" en t=520s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Charles Ponzi portrait" en t=529s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:International reply coupon Universal Postal Union" en t=563s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:International reply coupon" en t=595s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Charles Ponzi office Boston" en t=601s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Charles Ponzi office Boston" en t=605s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Boston Post 1920 newspaper" en t=774s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:newspaper city room 1920s" en t=801s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Boston Post 1920 newspaper" en t=807s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Charles Ponzi 1920" en t=842s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Charles Ponzi 1920" en t=847s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Charles Ponzi 1920" en t=852s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Charles Ponzi portrait" en t=880s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:Eiffel Tower Citroen illumination 1925" en t=935s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Victor Lustig" en t=939s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Victor Lustig" en t=944s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Victor Lustig" en t=948s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Eiffel Tower 1920s" en t=1054s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Eiffel Tower 1920s" en t=1059s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Eiffel Tower 1920s" en t=1064s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Ivar Kreuger portrait" en t=1262s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Kreuger and Toll share certificate" en t=1344s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Time magazine cover Ivar Kreuger 1929" en t=1361s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Ivar Kreuger" en t=1505s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Spain flag Madrid" en t=1530s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Audiencia Nacional Madrid" en t=1591s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Audiencia Nacional Madrid" en t=1596s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Audiencia Nacional Madrid" en t=1627s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Audiencia Nacional Madrid" en t=1633s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Bernard Madoff mugshot 2009" en t=1881s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Bernard Madoff" en t=1901s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Harry Markopolos" en t=2028s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Securities and Exchange Commission headquarters Washington" en t=2045s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Securities and Exchange Commission headquarters Washington" en t=2052s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Securities and Exchange Commission headquarters Washington" en t=2058s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Butner Federal Correctional Complex" en t=2409s reutiliza un recurso (2.ª vez); añade candidatos
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/428
+   plano 20/428
+   plano 40/428
+   plano 60/428
+   plano 80/428
+   plano 100/428
+   plano 120/428
+   plano 140/428
+   plano 160/428
+   plano 180/428
+   plano 200/428
+   plano 220/428
+   plano 240/428
+   plano 260/428
+   plano 280/428
+   plano 300/428
+   plano 320/428
+   plano 340/428
+   plano 360/428
+   plano 380/428
+   plano 400/428
+   plano 420/428
+== 5/5 montaje final
+== licencias: PUBLICAR SÍ · 0 bloqueos · 0 avisos (licencias_estado.txt)
+   hojas de sincronía: 27
+FIN: jobs/estafas/out/estafas.mp4 · 43.4 min · 216 MB

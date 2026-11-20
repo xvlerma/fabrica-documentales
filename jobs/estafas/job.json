@@ -1536,19 +1536,6 @@
   "photo:Paris 1925 street": [
    {
     "kind": "image",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/1925%2C_quand_l%27Art_d%C3%A9co_s%C3%A9duit_le_monde_%28Cit%C3%A9_de_l%27architecture_et_du_patrimoine%2C_Paris%29_%2811037445814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "w": 673,
-    "h": 1016,
-    "dur": 0,
-    "title": "File:1925, quand l'Art déco séduit le monde (Cité de l'architecture et du patrimoine, Paris) (11037445814).jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f2/1925%2C_quand_l%27Art_d%C3%A9co_s%C3%A9duit_le_monde_%28Cit%C3%A9_de_l%27architecture_et_du_patrimoine%2C_Paris%29_%2811037445814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "credit": "Jean-Pierre Dalbéra from Paris, France",
-    "license": "CC BY 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:1925,_quand_l%27Art_d%C3%A9co_s%C3%A9duit_le_monde_(Cit%C3%A9_de_l%27architecture_et_du_patrimoine,_Paris)_(11037445814).jpg",
-    "id": "wm37214532"
-   },
-   {
-    "kind": "image",
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Fortifications_au_nord_de_Paris_-_Maurice_Utrillo.jpg/1920px-Fortifications_au_nord_de_Paris_-_Maurice_Utrillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "w": 3200,
     "h": 2459,
@@ -1683,19 +1670,6 @@
    }
   ],
   "photo:Victor Lustig": [
-   {
-    "kind": "image",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Counterfeit_United_States_%2410_banknote_of_Victor_Lustig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "w": 460,
-    "h": 206,
-    "dur": 0,
-    "title": "File:Counterfeit United States $10 banknote of Victor Lustig.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/12/Counterfeit_United_States_%2410_banknote_of_Victor_Lustig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "credit": "United States Department of Justice",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Counterfeit_United_States_$10_banknote_of_Victor_Lustig.jpg",
-    "id": "wm95160346"
-   },
    {
     "kind": "image",
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Victor_Lustig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -1898,19 +1872,6 @@
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_as_seen_from_the_East.jpg",
     "id": "wm60610622"
-   },
-   {
-    "kind": "image",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Barracks_--_2022_--_3087.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Barracks_--_2022_--_3087.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "w": 6643,
-    "h": 4429,
-    "dur": 0,
-    "title": "File:San Francisco (CA, USA), Alcatraz, Barracks -- 2022 -- 3087.jpg",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Barracks_--_2022_--_3087.jpg/1920px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Barracks_--_2022_--_3087.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "credit": "Dietmar Rabich",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Barracks_--_2022_--_3087.jpg",
-    "id": "wm121698267"
    },
    {
     "kind": "image",
@@ -4993,6 +4954,10 @@
      "photo": "Gare de l'Est Paris 1920s",
      "src": "commons,loc,europeana",
      "at": "primer tren a Viena"
+    },
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/353a/3f42/9443449e6b88e83aeefabc006bdf33d9.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=i0ifLN-uZZ2o4sgml3ASpJnQTNqO3e~AiNJD0CuKE2Cob~KfGyoJKzXdXpowVdidgAr0Y4jmaah6tpIY87gZETZ9E6iOeH8ks5YlUPO7uUwN0ZFIqevJ~HlysibrCdWVUzx1et0K4fkGv4-2P1t4T64nXZ6Esu3cByFixcWBkeSYimUkML3R9In6bSRSULE-vaLyu-UXrfBOabC-8EVTPE-3j6OGp6HwbU-M1WgZs-DGoPuCxmUCaDIa8l~sU-UqyrXVFCIU985zpVPKXn1S3JLU53-a~WOslC-4Icw8CUuFrx2aOLEmaFtrQOyOznW5EigQIhEx~oPaSB~iN76rRw__",
+     "at": "Poisson"
     }
    ],
    "gen": "MdPIwEZVNyoBJdpxKtao",
@@ -5012,8 +4977,7 @@
      "kw_dur": 2.2
     },
     {
-     "photo": "Victor Lustig",
-     "src": "commons,loc,europeana",
+     "ai": "https://s3-alpha-sig.figma.com/img/d37c/3f47/5ae739544cffee5ad5090ccd26896fd8.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=RFpVC4XqsHCHK0eqnt4u7LCWXXmq~eKQFkzp0sEIMskTIhW9TCxbuD8aqq7yQsXedfMnN2AXT3UlljrVHVrN8VgksfTfG8zAiHavLDkPtHXIz8pfQD6xIQTDaGQcDKWeI9DVEM6wizzHCJfgMcLLQpP7wG70ustiprAc8FYaFziCxFBHQOoRc30FHGs5utYlfc3Rb-qkVW4JJZWFR4CoqbQjZBukYHPYClEq~1aSPef0wFg-ae-HOFBf-MNwk~QygWmK~32ehKazgc6qDATeYrkbIKacRdRFM4OE7yerTRFZSrXqlR13ni5Jyvs0EZrSKv4hMPyXiZR6v9HmJZCFmQ__",
      "at": "cayó por fin"
     }
    ],
@@ -5026,8 +4990,7 @@
    "voice": "INV",
    "shots": [
     {
-     "photo": "Victor Lustig",
-     "src": "commons,loc,europeana",
+     "ai": "https://s3-alpha-sig.figma.com/img/3dfe/a396/87f131e496e9945242c3f77cc4ea2e94.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=SLEhRltovSgFDuPUiXiYERet43uaVLo31Q4Kw8Rvb7pK-MOmuBSE3A54NjMl4Peg2pK4ssEo7Et3d9XHGRgteAT8SSOdAl-NxoPofdXQS6jtq2EaK-XLedZjWsIFqlpUtZaunl5i~7-s12BmxoiW5XDaxJR2rSMPbci5iz5VDHGlfyKJ4YA85RjYATbsYqYWdV0Lru262lOeAtZFWDlcoIh1dHUPaj7Eb2Ckdl4C~wFGI1Bf-~C-CPZ75B4LSaax9raAMjY3LL2AYzpv5dAKNT7A98B5hsGTMiEzHPc1jJ8-EA21gxUrewiqphd6t4GhgkytXHuC3~FlqRKd8Kd-yA__",
      "at": "se escapó",
      "kw": "FUGA",
      "kw_at": 0.4,
@@ -5060,8 +5023,7 @@
      "at": "la caja rumana"
     },
     {
-     "photo": "Victor Lustig",
-     "src": "commons,loc,europeana",
+     "ai": "https://s3-alpha-sig.figma.com/img/d84a/23a3/9f18fda842007157520a5a0c5325e895.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=D0Ni1Wh9ypB1FEoYjvggGi6S0LEyfHvv31Vh58-k5JbsfHt3HkDarP3GogYtU9hTWnNLMx8nLDW5gZl7ml8K8aa0yx3kKyQ-TWwg1QasGwRJGvVuri4NUHTj6OjYf4gLuZfauVUnxSidvGCZPd2z8wLgcrCM3Y9sMdY1rPDu5-bNViuiykbUXu4AmZtTXQgwrQmDjaIXIVbXYJIzctpwbtB~ppFUwjFsCGfDwtrW9Oy-52iKt0OitsiIGE~e5R9T6-vP78pILtqX81eD6gXix8hAGFq1Krtb4hOk4310CDYMQX7VXJFEFeJ8iXYbqBngDlOqj7EEl-wdlWGNManOBg__",
      "at": "papel en blanco",
      "kw": "PAPEL EN BLANCO",
      "kw_at": 0.4,
@@ -5136,8 +5098,7 @@
      "at": "Primero"
     },
     {
-     "photo": "Victor Lustig",
-     "src": "commons,loc,europeana",
+     "ai": "https://s3-alpha-sig.figma.com/img/7401/47c3/4a7375bdb53b5c5469c26028fd86817d.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=JeZlESHMUaxOlmZ-UNvJGNt5PdOTyLB8Qph4nyEw8w0WBfNM6uLp4Nz5nd9E4zEvja9Y1exTRM31rxqZq4~4I1Kgv7mIg7Y3o-1RjMga55~Z3m4WvLRqooQsqeNmJFW1AehuMkON8HlX~divDt2-PR8hdOvnUsE~iLoMu8vEHt8fyAMBH9sibZi85gVlPNTMN8ta3r-DiiEaC7xs~fSYD5SqYFv9rA6hcHed61pUIRUZUHBMHwHnWL5yyFwhluFNh80b2uCFArW-GeqaloZnnAaUbpPf0BWYvCyXn1p8zln2v~CuerCh1u7teXylPcrrkv7oQkXPXLIQ0p-m5kYCbw__",
      "at": "Nunca presumas"
     }
    ],
@@ -6029,8 +5990,7 @@
    "voice": "INV",
    "shots": [
     {
-     "photo": "Audiencia Nacional Madrid",
-     "src": "commons,loc,europeana",
+     "ai": "https://s3-alpha-sig.figma.com/img/a473/dfaa/d637f7c7c54c4fb091385799309fcf21.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=RZbMCyTL8c-o2GWi9~ks0P0egFxnpRQ4S2ZpClI2xFGF9i-aCiMCDvrPoa5IaDakx5OdPo0R~MSNNKfbMo8SJpuRKUyYBgdsl2aHwLJUETlwEBrtzlCUbM~z~QABzpFR8M0jiQyug6WGvlo3TzMNT7jCZBa3pdydFvKjBXMtv6PiVlOGjgmT66TegwmJ9f3Zi3zMNqb0uxzkxpAf3QT5gUCyto1xbczsOO5K8hLBDjKL91cp7CuplqHQNH1QnvKgH5ME5uLctED3msit79CjXWnhRgsYiHfzkghS-7bSe0GNt7AVn2lHujhbTFkOaWLjwiV5QpYOujbeqLAVdEOZRQ__",
      "at": "caso cerrado",
      "kw": "CASO CERRADO",
      "kw_at": 0.4,
@@ -6371,14 +6331,8 @@
    "voice": "MKP",
    "shots": [
     {
-     "photo": "Harry Markopolos",
-     "src": "commons,loc,europeana",
-     "at": "quiero saber",
-     "lt": [
-      "Harry Markopolos",
-      "Investigador de fraudes",
-      "autoridades"
-     ]
+     "ai": "https://s3-alpha-sig.figma.com/img/d182/3547/c5174e82ce3789770d423c1f1141419e.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bmfsKwnthf54AQ~HYONe7PBTw0ilKrw04diuVdDyU30IMymfYjH9SjWH6H1Yl7TTktuFFF2powe9WR2nozizVFPanNj98y4mCGVIQHfDG913L6xD4SXamDbKct2xFu2id0vh-Qd9Bk8HHqoDn0XAAvSCKK753vpA1Kf2eNBUXgpy42Prbx9q7A-tUOUybUsudOfNdWCY3KtrD895lSkLsrSgBHj0i57GGsqwXnOPgG2bbTAnPdoW10iZ2hX6lFqDUb9PxsgZFzjGl8f2P9ofJOjKdyXKaS65hTqLnQF3Z~zrgF-WK17R7C-cIZFkhDDHblG~Rz18EJ5O664YOK9qgg__",
+     "at": "quiero saber"
     }
    ],
    "gen": "mJ3pxSvek2dwApRuI7zK",

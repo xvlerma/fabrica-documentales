@@ -49,7 +49,7 @@ NAR("[softly] Según las asociaciones de afectados, los clientes de Fórum han r
     cd(dict(type='split', left=dict(title='Fórum Filatélico', lines=['En torno al 20 % recuperado']), right=dict(title='Afinsa', lines=['Alrededor del 10 % recuperado']), strike=False), at='una quinta parte'),
     ai('carta_banco', 'a stack of unopened official letters on a hallway table in an empty Spanish apartment, late afternoon light, dust in the air', at='murieron esperando'))
 INV("[pause] Expediente cinco, caso cerrado. Pero la herida no se ha cerrado. Cada nueve de mayo, todavía hoy, hay quien vuelve a recordar aquella mañana de dos mil seis.",
-    K('CASO CERRADO', 'Audiencia Nacional Madrid', at='caso cerrado'))
+    KA('CASO CERRADO', 'expedientes_juzgado', 'stacks of thick court case files tied with red string on shelves in a Spanish courthouse archive, fluorescent light, dust, no people', at='caso cerrado'))
 INV("Y aquí aparece la pregunta que se repite en todos los expedientes. Si tantos lo sabían, si había inspecciones, si había avisos, ¿por qué nadie lo paró antes? [pause] Para responderla, hay que volver al principio. A Nueva York.",
     ph('Lipstick Building New York', at='A Nueva York'))
 
@@ -90,7 +90,7 @@ INV("Markopolos llegó a temer por su vida y por la de su familia, convencido de
 MKP("[serious] Les entregué en bandeja, envuelta para regalo, la mayor estafa piramidal de la historia. Y, de algún modo, no se molestaron en hacer una investigación a fondo, como es debido, porque estaban demasiado ocupados con asuntos más prioritarios.",
     cd(dict(type='quote', text='Les entregué en bandeja, envuelta para regalo, la mayor estafa piramidal de la historia.', attrib='Harry Markopolos ante el Congreso de EE. UU. · 4 de febrero de 2009'), at='Les entregué'))
 MKP("Si una estafa piramidal de cincuenta mil millones de dólares no entra en la lista de prioridades de la SEC, entonces quiero saber quién fija sus prioridades.",
-    ph('Harry Markopolos', at='quiero saber', lt=['Harry Markopolos', 'Investigador de fraudes', 'autoridades']))
+    ai('analista_graficos', 'a financial analyst desk at night in a Boston office, printed performance charts covered in red circles, a calculator and coffee, a man silhouette leaning over them, face hidden', at='quiero saber'))
 INV("Durante años, Madoff pagó a los que pedían su dinero con el dinero de los que llegaban. Exactamente lo que hizo Ponzi. Solo que durante mucho más tiempo, y con extractos impecables que se fabricaban en esa otra planta de la oficina.",
     ai('extractos_imprenta', 'stacks of printed financial account statements coming out of an old dot-matrix printer in a dim back office at night, no readable text', at='extractos impecables'))
 NAR("Según se supo en los juicios a sus colaboradores, en aquella planta se usaban ordenadores antiguos para imprimir confirmaciones de operaciones que nunca se habían hecho. Se elegían las cotizaciones del pasado que mejor cuadraban, y se inventaban las compras y las ventas a posteriori. Rentabilidades perfectas, fabricadas hacia atrás.",

@@ -97,24 +97,25 @@ NAR("Le confesó, bajando la voz, que un alto funcionario cobra poco para la vid
     ai('sobre_mesa', 'a thick envelope slid across a white tablecloth between two gloved hands, 1920s restaurant, candlelight', at='le pidió un soborno'),
     K('LA MORDIDA', 'Hotel de Crillon Paris', at='una mordida'))
 INV("Pagó la torre y pagó el soborno. Lustig cogió el dinero y se subió al primer tren a Viena. ¿Y Poisson? Le dio tanta vergüenza que nunca lo denunció.",
-    ph('Gare de l\'Est Paris 1920s', at='primer tren a Viena'))
+    ph('Gare de l\'Est Paris 1920s', at='primer tren a Viena'),
+    ai('tren_viena', 'a 1925 steam train departing a Paris station at night, clouds of steam under the glass roof, passengers boarding, seen from behind', at='Poisson'))
 NAR("Medio año después, Lustig volvió a París. Y vendió la torre otra vez, a otro grupo de chatarreros. Esta vez el elegido sí fue a la policía, y Lustig tuvo que huir a Estados Unidos. [short pause] Allí acabó metido en el negocio de los billetes falsos, y en mil novecientos treinta y cinco cayó por fin.",
     K('DOS VECES', 'Eiffel Tower 1920s', at='otra vez'),
-    ph('Victor Lustig', at='cayó por fin'))
+    ai('imprenta_falsos', 'a clandestine 1930s counterfeiting workshop at night, an old printing press with sheets of freshly printed banknotes hanging to dry, a single bulb, no people', at='cayó por fin'))
 INV("Ni siquiera la cárcel le detuvo del todo. En septiembre de mil novecientos treinta y cinco, esperando juicio en Nueva York, se escapó de la prisión federal descolgándose por una ventana con una cuerda de sábanas. Mientras bajaba, según se cuenta, fingía limpiar los cristales ante los curiosos. Lo atraparon unas semanas después en Pittsburgh. Terminó en Alcatraz, y murió preso en mil novecientos cuarenta y siete.",
     ai('cuerda_sabanas', 'a rope of knotted bedsheets hanging down the brick facade of a 1930s New York jail, pedestrians far below on the street, high angle', at='cuerda de sábanas'),
-    K('FUGA', 'Victor Lustig', at='se escapó'),
+    KA('FUGA', 'carcel_federal', 'the stone facade of a 1930s New York federal detention building at night, barred windows, a police car outside, wet street', at='se escapó'),
     ph('Alcatraz Island', at='Alcatraz', lt=['Alcatraz', 'Bahía de San Francisco · hoy']))
 NAR("[softly] Su truco más rentable, sin embargo, fue otro: la caja rumana. Una caja de madera con rodillos que, según él, imprimía billetes de cien dólares auténticos. Delante del comprador, la máquina soltaba uno, muy despacio. Lustig la vendía por miles de dólares. Cuando la caja empezaba a escupir papel en blanco, él ya estaba muy lejos.",
     ai('caja_rumana', 'a polished mahogany box with brass rollers and cranks on a hotel table, a crisp banknote slowly emerging from a slot, dramatic lamplight, close-up', at='la caja rumana'),
-    K('PAPEL EN BLANCO', 'Victor Lustig', at='papel en blanco'))
+    KA('PAPEL EN BLANCO', 'caja_blanco', 'an open polished wooden box with brass rollers revealing only stacks of blank white paper slips inside, lamplight, close-up', at='papel en blanco'))
 INV("Una advertencia de investigadora: casi todo lo que sabemos de la venta de la torre procede de los agentes que le persiguieron y de la prensa de la época. Las cifras varían según la fuente. Pero la lección es nítida: el estafador no vende un objeto. Vende la sensación de estar entre los elegidos.",
     cd(dict(type='quote', text='El estafador no vende un objeto. Vende la sensación de estar entre los elegidos.', attrib='Lección del expediente Lustig'), at='la lección'))
 NAR("A Lustig se le atribuyen incluso unos mandamientos del buen estafador. Nadie sabe si los escribió él. Pero suenan exactamente a él.",
     ai('cuaderno_reglas', 'an elegant 1930s leather notebook open on a hotel desk next to a silk tie and a fountain pen, handwriting blurred and unreadable', at='mandamientos'))
 LUS("[softly] Primero: sé un oyente paciente. Es eso, y no hablar deprisa, lo que le da sus golpes al estafador. Segundo: nunca parezcas aburrido. Espera a que el otro te diga sus ideas políticas, y dale la razón. Nunca presumas: deja que tu importancia se note sola. Nunca vayas desaliñado. [short pause] Y nunca te emborraches.",
     cd(dict(type='list', header='Los mandamientos del estafador', items=[('Sé un oyente paciente', 'no hables deprisa'), ('Nunca parezcas aburrido', ''), ('Dale la razón', 'en política y en religión'), ('Nunca presumas', 'que tu importancia se note sola'), ('Nunca te emborraches', '')]), at='Primero'),
-    ph('Victor Lustig', at='Nunca presumas'))
+    ai('gemelos_traje', 'an elegant 1930s gentleman in a tailored suit adjusting a gold cufflink in a hotel bar, face out of frame, crystal glasses, close-up on hands', at='Nunca presumas'))
 INV("Y hay otra historia que se cuenta de él, quizá la más audaz. Lustig le pidió a Al Capone cincuenta mil dólares para doblarlos en dos meses. Los guardó en una caja fuerte sin tocarlos. Pasado el plazo, se los devolvió enteros, avergonzado, diciendo que el negocio había fallado. Capone, impresionado por su honradez, le regaló cinco mil dólares. [pause] Que era exactamente lo que Lustig buscaba desde el principio.",
     ph('Al Capone', at='Al Capone', lt=['Al Capone', 'Gánster de Chicago']),
     ai('caja_fuerte', 'a heavy steel safe in a dim 1920s office with its door ajar showing neat stacks of banknotes, single desk lamp', at='caja fuerte'),

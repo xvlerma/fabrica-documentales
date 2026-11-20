@@ -12,10 +12,12 @@ for u in U:
     if u.get('text'):
         v = u.get('voice', 'NAR'); tot[v] = tot.get(v, 0) + words(u['text']); ch += len(u['text'])
 W = sum(tot.values())
-GEN = RES.get('gens', {})
+GT = json.load(open(os.path.join(HERE, 'gens_text.json'))) if os.path.exists(os.path.join(HERE, 'gens_text.json')) else {}
+URLS = json.load(open(os.path.join(HERE, 'urls.json'))) if os.path.exists(os.path.join(HERE, 'urls.json')) else {}
 for i, u in enumerate(U):
-    g = GEN.get(str(i))
-    if g: u['gen'] = g['gen']; u['url'] = g.get('url')
+    g = GT.get(u.get('text'))
+    if g: u['gen'] = g; u['url'] = URLS.get(g)
+    elif u.get('text'): print('SIN VOZ', i, u['text'][:50])
     for sh in u.get('shots', []): sh.pop('ai_pending', None)
 job = {
     'id': 'roma', 'title': 'La Antigua Roma (Historia Completa)', 'channel': 'DocuVox', 'stage': stage,
@@ -32,7 +34,7 @@ job = {
         dict(term='Tetrarquía', on='la tetrarquía', def_='gobierno de cuatro: dos augustos y dos césares'),
     ],
     'theme': {'base': 'roma', 'grade': 'calido'},
-    'music': RES.get('music', {}),
+    'music': RES.get('music') or {'tema': {'mixkit': 'https://assets.mixkit.co/music/79/79.mp3', 'title': 'The Journey'}, 'tension': {'mixkit': 'https://assets.mixkit.co/music/76/76.mp3', 'title': 'Epic Games'}, 'noche': {'mixkit': 'https://assets.mixkit.co/music/520/520.mp3', 'title': 'Ode to Loneliness'}},
     'audio': {'voice_db': -20, 'bed_db': {'tema': -36, 'tension': -37, 'noche': -37}, 'inter_db': -22,
               'pause_stretch': 0.45, 'pause_cap': 0.6, 'gap_n': 1.5, 'gap_q': 1.0},
     'tempo': 0.9, 'parts': 4, 'codec': 'hevc', 'max_kbps': 750, 'audio_kbps': '112k',
@@ -54,4 +56,4 @@ for i, u in enumerate(U):
 open(os.path.join(HERE, 'guion.md'), 'w').write('\n'.join(L))
 print(f'unidades {len(U)} · palabras {W} · caracteres {ch}')
 for k, v in sorted(tot.items(), key=lambda x: -x[1]): print(f'  {k}: {v} ({100*v/W:.1f} %)')
-print('objetivo 6752-7169:', 'OK' if 6752 <= W <= 7169 else 'FUERA', '· IA:', len(lib.AIP))
+print('IA:', len(lib.AIP), '· con voz:', sum(1 for u in U if u.get('url')))

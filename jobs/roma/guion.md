@@ -1,6 +1,6 @@
 # La Antigua Roma (Historia Completa) · guion
 
-Palabras habladas: **7371** (objetivo 6.960 ±3 %) · caracteres: 43077 · por voz: NAR 4062 (55 %), ESP 1662 (23 %), FUE 481 (7 %), ENE 44 (1 %), CAT 63 (1 %), GRA 95 (1 %), CIC 32 (0 %), CES 76 (1 %), AUG 92 (1 %), MUR 643 (9 %), VES 33 (0 %), HIS 88 (1 %)
+Palabras habladas: **7382** (objetivo 6.960 ±3 %) · caracteres: 43139 · por voz: NAR 4068 (55 %), ESP 1663 (23 %), FUE 481 (7 %), ENE 44 (1 %), CAT 63 (1 %), GRA 95 (1 %), CIC 32 (0 %), CES 76 (1 %), AUG 92 (1 %), MUR 647 (9 %), VES 33 (0 %), HIS 88 (1 %)
 
 **NARRADOR** · Has visto mil veces la Antigua Roma. Gladiadores, legiones, emperadores locos, un imperio que cae en una sola noche. Casi todo lo que crees saber de Roma te lo contó Hollywood. Y casi todo está mal.
 
@@ -94,7 +94,7 @@ Palabras habladas: **7371** (objetivo 6.960 ±3 %) · caracteres: 43077 · por v
 
 **ESPARTANO (co-narrador)** · Ese niño se llamaba Aníbal. Y cumplió su juramento como nadie lo ha cumplido nunca.
 
-**NARRADOR** · Su gran enemigo, el romano Tito Livio, le odiaba. Y aun así no pudo evitar describirle con admiración.
+**NARRADOR** · Tito Livio, que escribía desde el bando romano, no le tenía ninguna simpatía. Y aun así no pudo evitar describirle con admiración.
 
 **FUENTE ANTIGUA** · Nunca un mismo carácter fue más apto para cosas tan contrarias: obedecer y mandar. Era el más audaz para afrontar los peligros y el más prudente en medio de ellos. Ningún trabajo cansaba su cuerpo ni vencía su ánimo. Muchos le vieron dormir en el suelo, envuelto en su capa de soldado, entre los centinelas.
 
@@ -118,9 +118,11 @@ Palabras habladas: **7371** (objetivo 6.960 ±3 %) · caracteres: 43077 · por v
 
 **NARRADOR** · Aníbal huyó y acabó envenenándose años después, en Asia, para no caer en manos romanas. Cartago sobrevivió, pero sin flota y pagando a Roma durante medio siglo. Y aun así, en el Senado había un hombre al que eso no le bastaba.
 
-**NARRADOR** · Catón el Viejo. Un día dejó caer unos higos frescos en el Senado. Los senadores admiraron lo grandes que eran. Catón les explicó que venían de Cartago... a solo tres días de barco. Y terminaba todos sus discursos, hablara de lo que hablara, igual.
+**NARRADOR** · Catón el Viejo. Un día dejó caer unos higos frescos en el Senado. Los senadores admiraron lo grandes que eran. Y Catón les soltó:
 
 **CATÓN / MARCO AURELIO** · Estos higos se cogieron en Cartago hace solo tres días. Así de cerca tenemos al enemigo.
+
+**NARRADOR** · Y terminaba todos sus discursos, hablara de lo que hablara, con la misma frase.
 
 **CATÓN / MARCO AURELIO** · Y, además, opino que Cartago debe ser destruida.
 
@@ -269,7 +271,7 @@ _[música sola · 6 s]_
 
 **NARRADOR** · Y sobre las ruinas, Nerón construyó su Casa Dorada, un palacio de lujo delirante en pleno centro de Roma. En el año sesenta y ocho, abandonado por todos, se quitó la vida. Le siguió un año de caos con cuatro emperadores. El último en pie fue un general de origen modesto y mucho sentido del humor: Vespasiano.
 
-**NARRADOR** · Vespasiano necesitaba dinero y puso un impuesto sobre la orina de los urinarios públicos, que los curtidores usaban para tratar las pieles. Su hijo Tito le dijo que aquello era indigno. Vespasiano le acercó a la nariz una moneda del primer pago y le preguntó si olía mal.
+**NARRADOR** · Vespasiano necesitaba dinero y puso un impuesto sobre la orina de los urinarios públicos, que los curtidores usaban para tratar las pieles. Su hijo Tito le dijo que aquello era indigno. Vespasiano le acercó a la nariz una moneda del primer pago y le preguntó si olía mal. Tito dijo que no.
 
 **VESPASIANO / DIOCLECIANO** · Pues viene de la orina.
 
@@ -281,7 +283,7 @@ _[música sola · 6 s]_
 
 **ESPARTANO (co-narrador)** · Lo inauguró su hijo Tito, en el año ochenta, con cien días de juegos. Unos cincuenta mil espectadores. Animales traídos de tres continentes. Cazas, ejecuciones y combates de gladiadores.
 
-**NARRADOR** · Y ahora, el gesto más famoso de la Antigüedad... que quizá nunca existió. El pulgar hacia abajo que condena al gladiador viene de un cuadro de 1872, de Jean-Léon Gérôme. Los textos antiguos hablan de un «pulgar girado», sin explicar hacia dónde. Y muchos combates no acababan en muerte: un gladiador bien entrenado costaba una fortuna.
+**NARRADOR** · Y ahora, el gesto más famoso de la Antigüedad... que quizá nunca existió. El pulgar hacia abajo que condena al gladiador viene de un cuadro de mil ochocientos setenta y dos, de Jean-Léon Gérôme. Los textos antiguos hablan de un «pulgar girado», sin explicar hacia dónde. Y muchos combates no acababan en muerte: un gladiador bien entrenado costaba una fortuna.
 
 **NARRADOR** · Un año antes de que se inaugurara el Coliseo, el veinticuatro de agosto del año setenta y nueve, según la fecha tradicional, el Vesubio despertó. Un testigo de dieciocho años lo vio desde el otro lado de la bahía: Plinio el Joven. Su tío, el almirante Plinio el Viejo, murió intentando rescatar a los habitantes de la costa.
 
@@ -297,7 +299,7 @@ _[música sola · 6 s]_
 
 **ESPARTANO (co-narrador)** · El primer emperador nacido fuera de Italia. Conquista la Dacia, la actual Rumanía, y su oro. Lo celebra con una columna de treinta metros cubierta por una espiral de relieves, que todavía sigue en pie en Roma. En el año ciento diecisiete, Roma alcanza su máxima extensión.
 
-**NARRADOR** · Cinco millones de kilómetros cuadrados. Desde Escocia hasta el golfo Pérsico. Unos sesenta millones de personas, según los cálculos modernos. Y por primera vez, el centro del mundo lo gobernaba un hispano.
+**NARRADOR** · Cinco millones de kilómetros cuadrados. Desde Britania hasta el golfo Pérsico. Unos sesenta millones de personas, según los cálculos modernos. Y por primera vez, el centro del mundo lo gobernaba un hispano.
 
 
 ## VII · La Roma de la calle  ·  _Cómo vivía la gente de verdad_
@@ -312,9 +314,9 @@ _[música sola · 6 s]_
 
 **FUENTE ANTIGUA** · Todos los vendedores de fruta, junto con Helvio Vestal, os piden que elijáis a Marco Holconio Prisco como duunviro.
 
-**VOZ DE LA CALLE** · Y hay uno que lo resume todo. Está escrito, precisamente, en una pared.
-
 **VOZ DE LA CALLE** · Otros, a ídolos de su tiempo. En una pared de Pompeya alguien escribió sobre un gladiador tracio llamado Celado: «el suspiro de las chicas». Los gladiadores eran las estrellas del rock de Roma.
+
+**VOZ DE LA CALLE** · Y hay uno que lo resume todo. Está escrito, precisamente, en una pared.
 
 **VOZ DE LA CALLE** · Me admiro, pared, de que no te hayas derrumbado, tú que soportas las tonterías de tantos escritores.
 
@@ -332,9 +334,9 @@ _[música sola · 6 s]_
 
 **FUENTE ANTIGUA** · Solo desea ansiosamente dos cosas: pan y juegos de circo.
 
-**VOZ DE LA CALLE** · Pero Roma también descansaba sobre algo que las películas suelen esconder: la esclavitud. En Italia, quizá uno de cada cuatro o cinco habitantes era esclavo, según la mayoría de los cálculos. Trabajaban en minas, en el campo, en las casas. Algunos eran médicos, maestros o secretarios. Podían comprar su libertad o recibirla de su amo. Y los libertos, sus hijos, podían llegar muy alto.
+**VOZ DE LA CALLE** · Pero Roma también descansaba sobre algo que las películas suelen esconder: la esclavitud. En Italia, quizá uno de cada cuatro o cinco habitantes era esclavo, según la mayoría de los cálculos. Trabajaban en minas, en el campo, en las casas. Algunos eran médicos, maestros o secretarios. Podían comprar su libertad o recibirla de su amo. Y los libertos, y sobre todo sus hijos, podían llegar muy alto.
 
-**VOZ DE LA CALLE** · Las mujeres no votaban ni ocupaban cargos. Pero muchas administraban patrimonios, tenían negocios y, en las clases altas, mandaban más de lo que admitían los historiadores. Y casi todas las que conocemos de nombre, las conocemos por sus tumbas. Como esta. La de una mujer llamada Claudia, en el siglo segundo antes de Cristo.
+**VOZ DE LA CALLE** · Las mujeres no votaban ni ocupaban cargos. Pero muchas administraban patrimonios, tenían negocios y, en las clases altas, mandaban más de lo que admitían los historiadores antiguos. Y casi todas las que conocemos de nombre, las conocemos por sus tumbas. Como esta. La de una mujer llamada Claudia, en el siglo segundo antes de Cristo.
 
 **VOZ DE LA CALLE** · Extranjero, lo que tengo que decir es poco: detente y léelo. Esta es la tumba, nada hermosa, de una mujer hermosa. Sus padres la llamaron Claudia. Amó a su marido con todo su corazón. Tuvo dos hijos: a uno lo deja sobre la tierra; al otro, bajo la tierra. Fue de conversación agradable y de andar elegante. Cuidó la casa. Hiló la lana. He dicho. Vete.
 
@@ -345,11 +347,11 @@ _[música sola · 6 s]_
 
 **NARRADOR** · A Trajano le sucede otro hispano, Adriano. Viajero incansable, amante de Grecia y pragmático: renuncia a las conquistas más difíciles y empieza a amurallar el imperio. En Britania manda levantar un muro de ciento diecisiete kilómetros, de costa a costa.
 
-**NARRADOR** · Le siguen Antonino Pío y Marco Aurelio. Con ellos, el imperio vive su época dorada. Marco Aurelio es el emperador filósofo. Escribió en griego, para sí mismo, un diario de pensamientos que hoy se vende en todas las librerías. Empieza así.
+**NARRADOR** · Le siguen Antonino Pío y Marco Aurelio. Con ellos, el imperio vive su época dorada.
 
 **EDWARD GIBBON (lectura)** · Si se pidiera a alguien que señalara el periodo de la historia del mundo en que la condición del género humano fue más feliz y próspera, nombraría sin dudarlo el que va desde la muerte de Domiciano hasta la llegada de Cómodo.
 
-**NARRADOR** · Gibbon exageraba, por supuesto. Pero algo de razón tenía.
+**NARRADOR** · Gibbon exageraba, por supuesto. Pero algo de razón tenía. Marco Aurelio era el emperador filósofo. Escribió en griego, para sí mismo, un diario de pensamientos que hoy se vende en todas las librerías. Empieza así.
 
 **CATÓN / MARCO AURELIO** · Al amanecer, dite a ti mismo: hoy me encontraré con un entrometido, un ingrato, un insolente, un tramposo, un envidioso. Ninguno de ellos puede hacerme daño.
 
@@ -367,7 +369,7 @@ _[música sola · 6 s]_
 
 **AUGUSTO** · Llevaos bien entre vosotros. Enriqueced a los soldados. Y despreciad a todos los demás.
 
-**NARRADOR** · No le hicieron caso en lo primero. Al año siguiente, Caracalla mandó asesinar a su hermano Geta en brazos de su propia madre.
+**NARRADOR** · No le hicieron caso en lo primero. Ese mismo año, Caracalla mandó asesinar a su hermano Geta en brazos de su propia madre.
 
 **NARRADOR** · En el año doscientos doce, el emperador Caracalla toma una decisión enorme, aunque casi nadie la recuerda: concede la ciudadanía romana a todos los hombres libres del imperio. De Britania a Egipto, todos son romanos. La historiadora Mary Beard termina precisamente en ese año su célebre historia de Roma: para ella, ahí acaba un modo de ser romano y empieza otro.
 
@@ -419,7 +421,7 @@ _[música sola · 5 s]_
 
 **NARRADOR** · Los visigodos acabaron fundando un reino con capital en Toledo. Hablaban latín, usaban el derecho romano y se consideraban herederos de Roma.
 
-**ESPARTANO (co-narrador)** · En el año cuatrocientos cincuenta y uno llega el más temido: Atila, rey de los hunos. Un ejército de romanos y godos, juntos, le frena en los Campos Cataláunicos, en la Galia. Al año siguiente invade Italia y el papa León sale a su encuentro. Atila se retira. Al año siguiente muere... en su noche de bodas.
+**ESPARTANO (co-narrador)** · En el año cuatrocientos cincuenta y uno llega el más temido: Atila, rey de los hunos. Un ejército de romanos y godos, juntos, le frena en los Campos Cataláunicos, en la Galia. Al año siguiente invade Italia y el papa León sale a su encuentro. Atila se retira. Y un año después muere... en su noche de bodas.
 
 **ESPARTANO (co-narrador)** · En el cuatrocientos cincuenta y cinco, los vándalos saquean Roma durante dos semanas. De ahí viene la palabra «vandalismo», aunque fue más un saqueo ordenado que una destrucción sin sentido. Los últimos emperadores de Occidente ya son marionetas de generales de origen germano.
 

@@ -80,7 +80,20 @@
   "base": "roma",
   "grade": "calido"
  },
- "music": {},
+ "music": {
+  "tema": {
+   "mixkit": "https://assets.mixkit.co/music/79/79.mp3",
+   "title": "The Journey"
+  },
+  "tension": {
+   "mixkit": "https://assets.mixkit.co/music/76/76.mp3",
+   "title": "Epic Games"
+  },
+  "noche": {
+   "mixkit": "https://assets.mixkit.co/music/520/520.mp3",
+   "title": "Ode to Loneliness"
+  }
+ },
  "audio": {
   "voice_db": -20,
   "bed_db": {
@@ -143,7 +156,9 @@
      "kw_at": 0.4,
      "kw_dur": 2.2
     }
-   ]
+   ],
+   "gen": "Vc1qso14pxbDQLJl0xp6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Q737XEMFk65UTnOkPM6G/Vc1qso14pxbDQLJl0xp6/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=X-CaTDxldCdOe7XMPvbwicUSO6A="
   },
   {
    "k": "N",
@@ -167,7 +182,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "más de mil años"
     }
-   ]
+   ],
+   "gen": "HWhLR251u83OdoaBkbgU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HTJnuoC0fiVy4TZsCaHP/HWhLR251u83OdoaBkbgU/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=OtPKK4ZhOcTKyCIFsvtY_Jj-nkA="
   },
   {
    "k": "R",
@@ -183,7 +200,9 @@
      },
      "at": "Quién hay"
     }
-   ]
+   ],
+   "gen": "PD5YgxuAOjIdEywlbg9v",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/66J8BaEYA1H7NwiTMKN2/PD5YgxuAOjIdEywlbg9v/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Ah6vRkkDn7KBZBuqXHIfkC41lXY="
   },
   {
    "k": "N",
@@ -209,7 +228,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "de verdad"
     }
-   ]
+   ],
+   "gen": "H5AC42o5j7WfGdJEP7cb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5EYrS6gblwNRf2LutGs1/H5AC42o5j7WfGdJEP7cb/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=9aLqRgqeKBKLHfXgsYHFKTCO3FA="
   },
   {
    "k": "N",
@@ -231,7 +252,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Bienvenido"
     }
-   ]
+   ],
+   "gen": "CvbnUlrOoSOMYOWsnLNk",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/K3z9Q7BKDpP2nShQv02t/CvbnUlrOoSOMYOWsnLNk/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=UPNzixNIeYZMLLTWBA94hjR7Ji4="
   },
   {
    "k": "T",
@@ -244,7 +267,9 @@
     "type": "title",
     "title": "La Antigua Roma",
     "sub": "Historia completa"
-   }
+   },
+   "gen": "NtPhMVix5lWFXGbhxnYF",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0z2K6Z5FbbfoMPOyxgmw/NtPhMVix5lWFXGbhxnYF/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=G9GyyprY3Lum6IoG7pv9u87e1IQ="
   },
   {
    "k": "T",
@@ -281,7 +306,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "una historia de película"
     }
-   ]
+   ],
+   "gen": "UzsgkPGdOfEGeY4U0fJp",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Znb7K9vzXza8D69CkreR/UzsgkPGdOfEGeY4U0fJp/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=qZjgyoWxlR4lGnOrtVGwkH062s0="
   },
   {
    "k": "N",
@@ -301,7 +328,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/5dc6db2f-c891-41c7-ad59-0250ed26cd3e.png",
      "at": "una pelea"
     }
-   ]
+   ],
+   "gen": "sD9Yvow0TxnCLFKFerml",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zoxaNTpkFIsRfeUBzmmr/sD9Yvow0TxnCLFKFerml/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Nj-raDtzp_f1KnRYJOBbyMzivQM="
   },
   {
    "k": "N",
@@ -318,7 +347,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "MXmhYZtC08knOEHxrnYl",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/syaRJaV9EzPhr1sdYpAC/MXmhYZtC08knOEHxrnYl/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=L_HtRi8-Os4ZezPoz2etTv86T8c="
   },
   {
    "k": "R",
@@ -334,7 +365,9 @@
      },
      "at": "Se concede"
     }
-   ]
+   ],
+   "gen": "1JoULYjiEY4zXij70uB2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DWUQig2o9ZyzcwJTjfNd/1JoULYjiEY4zXij70uB2/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=lG2RcxugK3Zt1d6xS9mn6-h6Xt4="
   },
   {
    "k": "N",
@@ -350,7 +383,9 @@
      },
      "at": "Y hay más"
     }
-   ]
+   ],
+   "gen": "hv8n8VH7kmsqLMsxWJ5n",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/x2iTb429RmGIVwsVQ5TN/hv8n8VH7kmsqLMsxWJ5n/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=hjcyuhYWFgcf3xOTVLzzSlk0sjs="
   },
   {
    "k": "N",
@@ -371,7 +406,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/1abb6145-410c-4932-9023-af1372037241.png",
      "at": "un puñado de aldeas"
     }
-   ]
+   ],
+   "gen": "lr5Cicc0U4Fm65y65TP8",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/D345MsFCazZ8nhkmMmBR/lr5Cicc0U4Fm65y65TP8/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=8mR8cAGXvdDUPhIVoudyqDe_xDI="
   },
   {
    "k": "N",
@@ -419,7 +456,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "cruzar el Tíber"
     }
-   ]
+   ],
+   "gen": "eLx2UUNiVAcTGDluXqeN",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/CeJnhQxBsOUFtVlOwzNp/eLx2UUNiVAcTGDluXqeN/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=xZIHF5TlpkIijgT5cye_N3iE15M="
   },
   {
    "k": "N",
@@ -462,7 +501,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "las entrañas"
     }
-   ]
+   ],
+   "gen": "f1hybHWRhOZXYX6hlOvu",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dp8gW0kZiXdEIdv5xj8O/f1hybHWRhOZXYX6hlOvu/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=BPW7MMRJttKAjCvHGhoM7qlMPfw="
   },
   {
    "k": "N",
@@ -483,7 +524,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "el Foro"
     }
-   ]
+   ],
+   "gen": "s7LH2OYBLaq9X0ywDb8W",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tfdUWwqd5WeH34zIVSNF/s7LH2OYBLaq9X0ywDb8W/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=xK9QUzoVFuCoDhOFB9ZoP5W-sS4="
   },
   {
    "k": "N",
@@ -504,7 +547,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "juró sobre el puñal"
     }
-   ]
+   ],
+   "gen": "I1STBjlSjvOs2tbHpfwx",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/W0090Ff4elwQDiPQqZ6X/I1STBjlSjvOs2tbHpfwx/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=v_uJjE6kI9a6Oj9ZegwwJWDWgR0="
   },
   {
    "k": "N",
@@ -534,7 +579,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Julio César"
     }
-   ]
+   ],
+   "gen": "GO7pFgRWs9clfqOgepGG",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fe8h2bXYJolEWu9JaoWZ/GO7pFgRWs9clfqOgepGG/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=VfOTx9icyqs8PivC_qgRpFONvYo="
   },
   {
    "k": "T",
@@ -580,7 +627,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "un Senado"
     }
-   ]
+   ],
+   "gen": "kwshsY6JnPdQz4EgLW4W",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/EhKW7NyP9Duy6xcYzkAI/kwshsY6JnPdQz4EgLW4W/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Cc2JnGD3qY1qYQxcoDdTxHEKc54="
   },
   {
    "k": "N",
@@ -600,7 +649,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "alcantarillas"
     }
-   ]
+   ],
+   "gen": "IAyIjgQ45Hlx9YcJ9nIW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aZ6xumNi5BVqXvNRoXyB/IAyIjgQ45Hlx9YcJ9nIW/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=BI3jEqG5vAQq75d8BgNDjjdgBiM="
   },
   {
    "k": "N",
@@ -619,7 +670,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/795aaadc-2e4b-41c6-8bee-78ee6bf3aa17.png",
      "at": "Se marchaban en masa"
     }
-   ]
+   ],
+   "gen": "37pbBO0d1HLzVGjYiqw0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7bqZKHqlUF0vOr4orUg2/37pbBO0d1HLzVGjYiqw0/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=R0Tl7RCkQAuZoXcvjY7mh1QWjPA="
   },
   {
    "k": "N",
@@ -630,7 +683,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/29061118-8a50-4d85-96f1-91d426ce2c37.png",
      "at": "arando su pequeña granja"
     }
-   ]
+   ],
+   "gen": "hXGvkJ4Azf0uv4YqqAYz",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ByuXt6aVi6SEC2MMLaQd/hXGvkJ4Azf0uv4YqqAYz/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=CZ628nzzj841etAaXRuyr4r5aGY="
   },
   {
    "k": "N",
@@ -659,7 +714,9 @@
       "Ohio, Estados Unidos · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "NbS5FLfHlhFZqDZPwHz4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5gof6aCevZs6fAjNp6Ns/NbS5FLfHlhFZqDZPwHz4/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Od3ZlzGbZlhPwr-qDPKWFmgUqgk="
   },
   {
    "k": "N",
@@ -680,7 +737,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/fae80cb2-11fb-4de2-a288-132e30e2a764.png",
      "at": "Roma arde"
     }
-   ]
+   ],
+   "gen": "ZjJdI129JMqoTtxsTrCZ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/53uTSD7wrBbqNN2vxTlN/ZjJdI129JMqoTtxsTrCZ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=5_kZm8dqqj5DOdddGtbPkIiw1xQ="
   },
   {
    "k": "N",
@@ -696,7 +755,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/790ca1b7-71e7-43db-945a-6341a7c9fb4d.png",
      "at": "las ocas sagradas"
     }
-   ]
+   ],
+   "gen": "tYdHvicVmNiiuIZW3V6E",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8gX5ofaZz0pSXaxV7e8g/tYdHvicVmNiiuIZW3V6E/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=EA1_Eus7T_x5PNKNZzO3E-aZeEA="
   },
   {
    "k": "N",
@@ -708,7 +769,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "salvada por unas ocas"
     }
-   ]
+   ],
+   "gen": "TbGPDacxIVGTuSrjfewk",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/J81kElAh8JuNHGEepIUs/TbGPDacxIVGTuSrjfewk/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=bm_7JIg8CMrTa2d1BRAp_tskTxc="
   },
   {
    "k": "N",
@@ -725,7 +788,9 @@
       "barbaros"
      ]
     }
-   ]
+   ],
+   "gen": "TPVC4OqNPdxFxKnApYb8",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OljAn94noAyF1ybDuKmM/TPVC4OqNPdxFxKnApYb8/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=D1Bkaw3nrCsReAEyZV9bUy5m-y0="
   },
   {
    "k": "R",
@@ -741,7 +806,9 @@
      },
      "at": "Ay de los vencidos"
     }
-   ]
+   ],
+   "gen": "3NsLjnuvenwSNZKiSC8j",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cGSx0zkSvqJnYV0KMbfa/3NsLjnuvenwSNZKiSC8j/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=-hXG3LL_ClarnOXm4JlRcvOfPc4="
   },
   {
    "k": "N",
@@ -761,7 +828,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/05f62df0-e079-4c1a-9fae-d5b9c8207b45.png",
      "at": "reorganiza su ejército"
     }
-   ]
+   ],
+   "gen": "oRIGBCp1gLM2618FNGLS",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cMwOF0dUjuiFmXQYHAMT/oRIGBCp1gLM2618FNGLS/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Ls9RTEqJ-OQj4v0V5-Aop2yItX4="
   },
   {
    "k": "N",
@@ -772,7 +841,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/522c829f-17da-4d7f-9a1c-78db806c9614.png",
      "at": "la disciplina"
     }
-   ]
+   ],
+   "gen": "kdl5RBoa3eJU3JRTeejW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7a2d1DcELlgbeaZSF0xs/kdl5RBoa3eJU3JRTeejW/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=8KMYARKrZOQh0Wnu7BZybv635lM="
   },
   {
    "k": "R",
@@ -796,7 +867,9 @@
      "kw_at": 0.4,
      "kw_dur": 2.2
     }
-   ]
+   ],
+   "gen": "aw23aIVwS7aAZXGFfzKU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/50v1naFd5gGYzkjtQ5IC/aw23aIVwS7aAZXGFfzKU/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=QQ1IZhyYFSPMbkbQQ9XdpB1MOcg="
   },
   {
    "k": "N",
@@ -808,7 +881,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "diezmar"
     }
-   ]
+   ],
+   "gen": "UHnADRnn3AlBQXJi9bgl",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qVUsYms2ClFzTnjQfN2L/UHnADRnn3AlBQXJi9bgl/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=7d5Bne_ra-S2bGbP9vysb0ALZWs="
   },
   {
    "k": "N",
@@ -820,7 +895,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "integrar a los vencidos"
     }
-   ]
+   ],
+   "gen": "HTnuWD42iEBICEgt42VF",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VXdIERdG1hFGoLaoO7KM/HTnuWD42iEBICEgt42VF/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=4o7d-r_hk6V__kedbBG_k16fQF4="
   },
   {
    "k": "N",
@@ -840,7 +917,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/c565f224-95fc-49f6-af9b-c73f7921ab79.png",
      "at": "la primera gran calzada"
     }
-   ]
+   ],
+   "gen": "cTlDCI5ekUfGY1rS0tvy",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/m2xtRpXraXGlyAQSc61E/cTlDCI5ekUfGY1rS0tvy/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=5ZH2LK2GOa9MGSx7TQUa1vBZJZs="
   },
   {
    "k": "N",
@@ -922,7 +1001,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "elefantes de guerra"
     }
-   ]
+   ],
+   "gen": "DYXg329Xlk8xLIo1av8B",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/U06CgcvArOgLUMEnQayb/DYXg329Xlk8xLIo1av8B/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=xvgV6O7GsrW1PrRkU6PDUhC25SU="
   },
   {
    "k": "R",
@@ -938,7 +1019,9 @@
      },
      "at": "Si vencemos"
     }
-   ]
+   ],
+   "gen": "nUhWy5DEOb3TafvJSHlJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/m3cE4k0H0T1SsJ78viKy/nUhWy5DEOb3TafvJSHlJ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=wN1WNRnjxgNl3gZfcvvIQR4ibt0="
   },
   {
    "k": "T",
@@ -1004,7 +1087,9 @@
      },
      "at": "la mejor flota"
     }
-   ]
+   ],
+   "gen": "SfZwZvcuDGqHzEiWrszu",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0kDFRgQrz1KvbUcudRTK/SfZwZvcuDGqHzEiWrszu/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=jUrgK8bCkD1UVDEtRN_7p_pzUKE="
   },
   {
    "k": "N",
@@ -1019,7 +1104,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/76e6f0b8-8da7-482b-af49-d4355093788c.png",
      "at": "construye una flota"
     }
-   ]
+   ],
+   "gen": "4hXF1tm1SQReuMDQQEkJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1eARXcdLYo1jzSCUjbzJ/4hXF1tm1SQReuMDQQEkJ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=83-4-Ly03c9SgkHKQ6veVv1LrCI="
   },
   {
    "k": "N",
@@ -1038,7 +1125,9 @@
      },
      "at": "Veintitrés años"
     }
-   ]
+   ],
+   "gen": "XNewviy0sPsDju4ijOwq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/E7yjPXJ80sqDj9laM2Y3/XNewviy0sPsDju4ijOwq/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=vmyjflMf9-eBar1vW6l_0YuT69I="
   },
   {
    "k": "N",
@@ -1055,7 +1144,9 @@
       "cartago"
      ]
     }
-   ]
+   ],
+   "gen": "XDVOAB1OwQQaGrKAeCTg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VwGY58FVilXsKK5TGAwd/XDVOAB1OwQQaGrKAeCTg/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=gS6mhj_RRTalnbat9Ac7lq0Q014="
   },
   {
    "k": "R",
@@ -1075,7 +1166,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/e2f78f36-d855-45bb-b393-d7ac88e9a6ef.png",
      "at": "jurar"
     }
-   ]
+   ],
+   "gen": "1hiYWuUwcscYo5bCdBli",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/38F24xVNfyLPZNhIMfXU/1hiYWuUwcscYo5bCdBli/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Y4-d2Rke9OGsr8QdnSiaaloNH1Q="
   },
   {
    "k": "N",
@@ -1092,19 +1185,23 @@
       "cartago"
      ]
     }
-   ]
+   ],
+   "gen": "fVYenLD2iMLBWcOzDiLd",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jPFgzSKAzjuL3kymIGuJ/fVYenLD2iMLBWcOzDiLd/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=aLUXRYnGVmx3krLdYwCuxmvc5gI="
   },
   {
    "k": "N",
-   "text": "Su gran enemigo, el romano Tito Livio, le odiaba. Y aun así no pudo evitar describirle con admiración.",
+   "text": "Tito Livio, que escribía desde el bando romano, no le tenía ninguna simpatía. Y aun así no pudo evitar describirle con admiración.",
    "voice": "NAR",
    "shots": [
     {
      "photo": "Hannibal Barca coin Carthage",
      "src": "commons,met,cleveland,europeana",
-     "at": "le odiaba"
+     "at": "ninguna simpatía"
     }
-   ]
+   ],
+   "gen": "jdiieL2mY6IpoNBl3MIR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/icHqU4bg1gg9dtAN2sIS/jdiieL2mY6IpoNBl3MIR/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=J4f-B0tczo06-nRtc7Dcz-PSkIc="
   },
   {
    "k": "R",
@@ -1121,11 +1218,12 @@
      "at": "Nunca un mismo"
     },
     {
-     "photo": "a general wrapped in a simple soldier cloak sleeping on the ",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/ad64fe5d-433a-479b-afc6-297d4ea78624.png",
      "at": "dormir en el suelo"
     }
-   ]
+   ],
+   "gen": "MjU9irQ6XzqLe1zb661l",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/f73XC4l32VpoyKj4dQGn/MjU9irQ6XzqLe1zb661l/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=ESiWuaokWQjyzvl_mTKvjHv_ZbU="
   },
   {
    "k": "N",
@@ -1233,7 +1331,9 @@
      },
      "at": "cruzando los Alpes"
     }
-   ]
+   ],
+   "gen": "u7ue3IudrS7G9fuY7AwO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zTbZpVMLKQZjAWfZq1J5/u7ue3IudrS7G9fuY7AwO/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=CGlNBCqua805EgmIj320TFhew30="
   },
   {
    "k": "N",
@@ -1248,7 +1348,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/4124d110-bb3e-4c66-831d-6350230b2a82.png",
      "at": "desprendimientos"
     }
-   ]
+   ],
+   "gen": "IfMCan1Q4ue6fIFrhvso",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mB5DcaoQ4A1gXr12OjSX/IfMCan1Q4ue6fIFrhvso/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=1Eog11KbqjxRVDbgRZFo0mCJ9_A="
   },
   {
    "k": "N",
@@ -1268,7 +1370,9 @@
       "Umbría, Italia · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "dqmNf8sa3Wyhv2m88UH5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MtClVN7LBvqwaCxA6ZIo/dqmNf8sa3Wyhv2m88UH5/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=9T_Q_BTIxr_QZv3Ki5gW8nVWQTY="
   },
   {
    "k": "N",
@@ -1292,7 +1396,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/65719728-cbc8-4707-aa1e-63d215c61afe.png",
      "at": "Los rodea por completo"
     }
-   ]
+   ],
+   "gen": "32l4mqImPy9cbjQ4TdD4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/eFPngHseUXc10EFo6ohj/32l4mqImPy9cbjQ4TdD4/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=zvagtcvE2NWzzvzEoO_utAElsCc="
   },
   {
    "k": "N",
@@ -1312,7 +1418,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/ede2dc3b-31fd-4432-b934-edc21f768ef2.png",
      "at": "las academias militares"
     }
-   ]
+   ],
+   "gen": "LU8A9t8DON4pIJmXUCS3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DloMqblybkFbYe5ZSbUI/LU8A9t8DON4pIJmXUCS3/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=jr2ODmZ5w8JNgd5sbT2l5wkfrQ0="
   },
   {
    "k": "N",
@@ -1324,7 +1432,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "no ataca"
     }
-   ]
+   ],
+   "gen": "YOjn2eJhXLippnVi4uh1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qa5dJ6WaFvxZmwLjNibz/YOjn2eJhXLippnVi4uh1/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=RICKLuLIoE7IM1YS51OQufx9UUA="
   },
   {
    "k": "R",
@@ -1340,7 +1450,9 @@
      },
      "at": "Sabes vencer"
     }
-   ]
+   ],
+   "gen": "SxgS6VwiP45a5btYK6WQ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hqgDrNBcQNBYYVsZUE1r/SxgS6VwiP45a5btYK6WQ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=djJrZNFx1InQzfwYWTesu4Ryii4="
   },
   {
    "k": "N",
@@ -1360,7 +1472,9 @@
      "kw_at": 0.4,
      "kw_dur": 2.2
     }
-   ]
+   ],
+   "gen": "4k5vt2JmvAKgI7jX1sWv",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/48xqwTan6Rfj3U9eTAIr/4k5vt2JmvAKgI7jX1sWv/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=lcLlQlsrGcdInPeIV0drtLtAmPI="
   },
   {
    "k": "N",
@@ -1385,7 +1499,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/3a6a9bcb-2830-4591-a37e-4b936d137348.png",
      "at": "en Zama"
     }
-   ]
+   ],
+   "gen": "MrkBxrIxWupSveqrD5LT",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uoSmFvmu7LdSQa8Usffu/MrkBxrIxWupSveqrD5LT/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=SR-oRZkuV7yBxodree7Cj7BXsHM="
   },
   {
    "k": "N",
@@ -1397,11 +1513,13 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Cartago sobrevivió"
     }
-   ]
+   ],
+   "gen": "fLwQfpDolyOU5Dbn2fNv",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8F6ZDpBPEaeSgxo8z5cX/fLwQfpDolyOU5Dbn2fNv/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=YCkV5PPdOtfWHkY_6X16r7voGeE="
   },
   {
    "k": "N",
-   "text": "Catón el Viejo. Un día dejó caer unos higos frescos en el Senado. Los senadores admiraron lo grandes que eran. Catón les explicó que venían de Cartago... a solo tres días de barco. Y terminaba todos sus discursos, hablara de lo que hablara, igual.",
+   "text": "Catón el Viejo. Un día dejó caer unos higos frescos en el Senado. Los senadores admiraron lo grandes que eran. Y Catón les soltó:",
    "voice": "NAR",
    "shots": [
     {
@@ -1418,7 +1536,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/30d5bae6-4f07-4bc2-80ae-759419a350fb.png",
      "at": "unos higos frescos"
     }
-   ]
+   ],
+   "gen": "zVDo9Z3C0lxFKIn5eocd",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OwP8qh47F1gA3SNLkD5W/zVDo9Z3C0lxFKIn5eocd/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=3PZYOse9cpIGrQNEIPW4Hn_lTSI="
   },
   {
    "k": "R",
@@ -1434,7 +1554,23 @@
      },
      "at": "Estos higos"
     }
-   ]
+   ],
+   "gen": "4tQpKEDVbsud0w5IIrtB",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/g67iw1YDahmgSEz8QIYP/4tQpKEDVbsud0w5IIrtB/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=RXSIx4PKCC0j6_YGguT5yaxiHX4="
+  },
+  {
+   "k": "N",
+   "text": "[softly] Y terminaba todos sus discursos, hablara de lo que hablara, con la misma frase.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Cato the Elder bust",
+     "src": "commons,met,cleveland,europeana",
+     "at": "todos sus discursos"
+    }
+   ],
+   "gen": "w6yP4fR1xI5BpezWGlAU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JeUxJRo4jU9w86jCSoVb/w6yP4fR1xI5BpezWGlAU/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=WgU8g_hQwjt7gOlQICR_8OepPWU="
   },
   {
    "k": "R",
@@ -1450,7 +1586,9 @@
      },
      "at": "Cartago debe ser destruida"
     }
-   ]
+   ],
+   "gen": "EpmsjZuDQAW4CeHaHIKy",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TtUOtXltFUsYnyA4oVpM/EpmsjZuDQAW4CeHaHIKy/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=qRLOiszTwnDrg-RYtoHn-3EXr0w="
   },
   {
    "k": "N",
@@ -1529,7 +1667,9 @@
      },
      "at": "Corinto"
     }
-   ]
+   ],
+   "gen": "G32HZ1kKI4NGX222BNtn",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/CcnRVNdRWYBfoqkE8kcO/G32HZ1kKI4NGX222BNtn/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=8A4pHtsfp-n8I14bf4z-7M2Shto="
   },
   {
    "k": "N",
@@ -1546,7 +1686,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "R8dcDir95e3UpDpsnLvw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BBId6kLvb7lJvoZhFA6L/R8dcDir95e3UpDpsnLvw/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=yiqKFYug94Xetc-npweqCVtixqQ="
   },
   {
    "k": "N",
@@ -1571,7 +1713,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "prefirieron morir"
     }
-   ]
+   ],
+   "gen": "NL3QwZO6kUQU7OUi1vTL",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9KkdpmvS9ejppWRzvkSp/NL3QwZO6kUQU7OUi1vTL/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=qQzGVR4qAYzj21BfsZ2KyB9eaU4="
   },
   {
    "k": "T",
@@ -1602,7 +1746,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/a441710c-dfde-4660-8f27-76ffa5bc8d8f.png",
      "at": "lo habían perdido todo"
     }
-   ]
+   ],
+   "gen": "O0BTDygQLHml5yLqDlvq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zJSJTDuNkoRFy09L8Hx1/O0BTDygQLHml5yLqDlvq/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Xa_kCFblvlkxl0jh_aPdOnreMXo="
   },
   {
    "k": "N",
@@ -1619,7 +1765,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "PRPaI5LDCmDX3RzHMMK0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OepDD7QL561ZcQHy3ekB/PRPaI5LDCmDX3RzHMMK0/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=EM7phq0da7e7cLWJsBKw6oCr4sw="
   },
   {
    "k": "R",
@@ -1635,7 +1783,9 @@
      },
      "at": "Las fieras"
     }
-   ]
+   ],
+   "gen": "sirs5iTcVB7rYsp4Dz4S",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wCiZD1ssP5PY2PKi8kXJ/sirs5iTcVB7rYsp4Dz4S/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=PVyAPPQtMbmoA3gnT5nlvCoGPwE="
   },
   {
    "k": "R",
@@ -1646,7 +1796,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/90c1a89c-8603-46eb-855d-3a136b4191c0.png",
      "at": "Vagan sin casa"
     }
-   ]
+   ],
+   "gen": "bAboVf6Nolif0zksf15C",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/f5qJc3ZJBgKrD7Ink6os/bAboVf6Nolif0zksf15C/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=rgKMswx07fPDq22Swj4c6tNQRr8="
   },
   {
    "k": "N",
@@ -1662,7 +1814,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "su hermano Cayo"
     }
-   ]
+   ],
+   "gen": "0iHV8mbJoWtwguLeginQ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/upTUqJ1dW0tTvyvmdt3J/0iHV8mbJoWtwguLeginQ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=EJagCgZupqq7nxkO6YRrbkk9DB4="
   },
   {
    "k": "N",
@@ -1693,7 +1847,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/28886b74-815b-40e4-bc22-c99d4c082c5a.png",
      "at": "publica listas"
     }
-   ]
+   ],
+   "gen": "Qa9oQ0eDhl3puqhmdzcI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZWVXlUNM2w8ZCYQ9nGas/Qa9oQ0eDhl3puqhmdzcI/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=l4GrR8PLAD0AxJraDWw5DYU9xpI="
   },
   {
    "k": "N",
@@ -1718,7 +1874,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/b1be62c4-6346-4420-a486-f92834599d22.png",
      "at": "decenas de miles"
     }
-   ]
+   ],
+   "gen": "sqBCcAC3CTlgn9tZzZSU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cekbdJj5dDlYxKM0LdiY/sqBCcAC3CTlgn9tZzZSU/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=I5l6dYQ_vEM-5aXilfav7jT_gu4="
   },
   {
    "k": "N",
@@ -1747,7 +1905,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/39cd24b0-c885-44cb-936a-4cc91d903912.png",
      "at": "a lo largo de la Vía Apia"
     }
-   ]
+   ],
+   "gen": "gxUjXMGrTyntbnihSZHi",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6P3W2GDYsx3lMvzpbGxO/gxUjXMGrTyntbnihSZHi/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=IFxUWHL3zoGMANymy9lUormMES0="
   },
   {
    "k": "N",
@@ -1769,7 +1929,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "le ataca a la cara"
     }
-   ]
+   ],
+   "gen": "8VWOkBLCxviw8t8gnNg1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wzgUtwIrnZqi3sxgHSSx/8VWOkBLCxviw8t8gnNg1/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=T4aFqBy4O86fxnlUfQKz46c7bOE="
   },
   {
    "k": "R",
@@ -1785,7 +1947,9 @@
      },
      "at": "Hasta cuándo"
     }
-   ]
+   ],
+   "gen": "TQEZNx5aOjU6GPZIkFjA",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uNazJyAXZsWs8sGzbfx8/TQEZNx5aOjU6GPZIkFjA/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=WkjclCuTehgID1_Bm4Fzu8jjUYA="
   },
   {
    "k": "N",
@@ -1824,7 +1988,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "BD39xanhpjUgVsYTYZ8w",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aXD3GHwLeow5P0uTHjOw/BD39xanhpjUgVsYTYZ8w/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=aQiHZW3FtN5vR-1XbUrffpMBijo="
   },
   {
    "k": "N",
@@ -1839,7 +2005,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/df5ad59a-f6f8-4976-84aa-88acff67e51e.png",
      "at": "les promete"
     }
-   ]
+   ],
+   "gen": "CMZpZDWrIkxJVSbwmMzm",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hDBxHF5dQvKtUlL5W5um/CMZpZDWrIkxJVSbwmMzm/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=LdHDZe-MyT9xapWrPyNTHr7LCQA="
   },
   {
    "k": "N",
@@ -1850,7 +2018,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/ec37319d-89c2-45ee-ae86-5dc1a8fc9f19.png",
      "at": "los captura"
     }
-   ]
+   ],
+   "gen": "v3pxcllrwCQtXW89xPvz",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QlLtuJ9xh6qi7ofHIhUE/v3pxcllrwCQtXW89xPvz/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=cSdDzR_Ef80HXeeRQOTvXXNM3Wo="
   },
   {
    "k": "N",
@@ -1932,7 +2102,9 @@
       "barbaros"
      ]
     }
-   ]
+   ],
+   "gen": "ceuMMjFmf9MnH1qPZlNM",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4RgKYw8LdvkJtdnmtsur/ceuMMjFmf9MnH1qPZlNM/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=5VUqSvvL-yr0FfKE3GoOPPdaAck="
   },
   {
    "k": "R",
@@ -1948,7 +2120,9 @@
      },
      "at": "Toda la Galia"
     }
-   ]
+   ],
+   "gen": "uJ2M3L02utMpB89W47LJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Sn1gwcgh12RbOYAHilF5/uJ2M3L02utMpB89W47LJ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=cAbCDPinHbWNTJqANfDFC2Jm5AQ="
   },
   {
    "k": "N",
@@ -1960,7 +2134,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "su propio libro"
     }
-   ]
+   ],
+   "gen": "Nfa5ZGyYC8yWFdyIdPlJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MpJ7kwltwNyHz2z0JO5H/Nfa5ZGyYC8yWFdyIdPlJ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=gYbKdO3FKzw2ficPwDviF3qBdGs="
   },
   {
    "k": "N",
@@ -1980,7 +2156,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/cc675b58-278f-49c2-bb23-59d22736b17a.png",
      "at": "llega al río"
     }
-   ]
+   ],
+   "gen": "B8s2kBNONTaqWwk4hQY9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dQ4wINzP34YC0GhFt7Vw/B8s2kBNONTaqWwk4hQY9/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=aSlQEcwys5S39G0xrJUekEU7CME="
   },
   {
    "k": "R",
@@ -1996,7 +2174,9 @@
      },
      "at": "La suerte"
     }
-   ]
+   ],
+   "gen": "jtiTqGFaYsoEponqkZDx",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/EgbxrE5QQAEKXilxQrMJ/jtiTqGFaYsoEponqkZDx/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=jRJwLzqzBa90Ch4A5pL5iwgZu7s="
   },
   {
    "k": "N",
@@ -2018,7 +2198,9 @@
       "oriente"
      ]
     }
-   ]
+   ],
+   "gen": "8BaQGxdB7xNwHMb6hKsH",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HrFT48w8rcQLEpLv3ZTY/8BaQGxdB7xNwHMb6hKsH/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=_nnk8P7WxxTBWDBhjDRRy8VMjoc="
   },
   {
    "k": "N",
@@ -2026,11 +2208,12 @@
    "voice": "ESP",
    "shots": [
     {
-     "photo": "a servant carrying a large rolled bedding bundle on his shou",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/fc44497a-2bdb-4d10-a293-6cc5bad6e9e7.png",
      "at": "un fardo de ropa"
     }
-   ]
+   ],
+   "gen": "SC8jk5kM3qjwZiOBhkaj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/77qn6oylmdD7dgYeF0Gl/SC8jk5kM3qjwZiOBhkaj/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=uXoyehsS1zX4hdREOLvhZOEUvn0="
   },
   {
    "k": "N",
@@ -2045,7 +2228,9 @@
      },
      "at": "cinco días"
     }
-   ]
+   ],
+   "gen": "GPCNMt5ol8FGUqe08bci",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DPcd2QlPH6T73gad8vAa/GPCNMt5ol8FGUqe08bci/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=vGk4-CBzQKOlQ33GX946sgDyHPo="
   },
   {
    "k": "R",
@@ -2061,7 +2246,9 @@
      },
      "at": "Llegué"
     }
-   ]
+   ],
+   "gen": "fTz6z7ovN6nhQWTm7V3T",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fJH6ImzBagGTBQpZThaC/fTz6z7ovN6nhQWTm7V3T/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=IJJk3tpX2Li7NCIp3u_-qECkBjk="
   },
   {
    "k": "N",
@@ -2086,7 +2273,9 @@
      "kw_at": 0.4,
      "kw_dur": 2.2
     }
-   ]
+   ],
+   "gen": "IZzRQIEGES6jDrCk4DA3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6JHBBVKUfLByXesZOE2I/IZzRQIEGES6jDrCk4DA3/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=QIm18kkpRQtIxo8sCxfHdK8SCa8="
   },
   {
    "k": "R",
@@ -2107,7 +2296,9 @@
      },
      "at": "la corona de laurel"
     }
-   ]
+   ],
+   "gen": "0MhGSM3r0384rI6vxqJM",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0kamO3pL1Lx7lfe51Rt7/0MhGSM3r0384rI6vxqJM/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=FGkll3Zl6MMWSAYQgUNh06xiDYQ="
   },
   {
    "k": "N",
@@ -2119,7 +2310,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "tapar la calva"
     }
-   ]
+   ],
+   "gen": "A3t1IySFdcky1re6MISY",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gdPm5IDG4OGmMFgkTort/A3t1IySFdcky1re6MISY/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=XbHDPsl20eA_-ZAZJWIqP9f3JgA="
   },
   {
    "k": "R",
@@ -2135,7 +2328,9 @@
      },
      "at": "la nueva manera"
     }
-   ]
+   ],
+   "gen": "o4kyWVrcdm3fWqbkiO6p",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rtYCjzKjVMHxFuPhaGwN/o4kyWVrcdm3fWqbkiO6p/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=ASXgIrhlmfHbVNC9T4LlYg1-ShU="
   },
   {
    "k": "N",
@@ -2159,7 +2354,9 @@
      },
      "at": "Veintitrés puñaladas"
     }
-   ]
+   ],
+   "gen": "IxEcs9yrCi4AO2kU6vx2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/53tHNPXTx8OYHKmSjrK5/IxEcs9yrCi4AO2kU6vx2/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=-Uvb3KmViDpaQVixgTeZAvVZ3XY="
   },
   {
    "k": "N",
@@ -2175,7 +2372,9 @@
      },
      "at": "sus últimas palabras"
     }
-   ]
+   ],
+   "gen": "s1ZgFEYUaXsuz7GZzgln",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QJeZtVQNGDSs9vr3gZCX/s1ZgFEYUaXsuz7GZzgln/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=ITCsqqbudqblUE0YRJOv_XfgwMQ="
   },
   {
    "k": "N",
@@ -2191,7 +2390,9 @@
       "Lugar del asesinato · Roma, hoy"
      ]
     }
-   ]
+   ],
+   "gen": "2B2xpLWyC1URuEV2pO23",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HqR9LXRRft02EC6qjyxT/2B2xpLWyC1URuEV2pO23/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=E_xXLKxV12Q6zlmsmUxYzqjRXxE="
   },
   {
    "k": "N",
@@ -2203,7 +2404,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Cicerón no participó"
     }
-   ]
+   ],
+   "gen": "QMlEO2vCXtTSNz0LLuxE",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IixCdWdLYZZJsk0oWdBK/QMlEO2vCXtTSNz0LLuxE/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=qxPcULQ103S9Axa4L3vtIq2eDcU="
   },
   {
    "k": "R",
@@ -2219,7 +2422,9 @@
      },
      "at": "Cómo me habría"
     }
-   ]
+   ],
+   "gen": "6mmVJZDB7fhjkVUfGGkU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/waiWvGsGpAaShdxg5VPn/6mmVJZDB7fhjkVUfGGkU/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Uv74vIheU-zVQyGMHZZjETpxaMI="
   },
   {
    "k": "N",
@@ -2231,7 +2436,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "La sobra"
     }
-   ]
+   ],
+   "gen": "q3fN2ioeUcKQ6QO91rzp",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4FdzErsu3zMRAyAMUWZT/q3fN2ioeUcKQ6QO91rzp/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=XQOTjEiUOS83APZjnrcpkGQbgpw="
   },
   {
    "k": "M",
@@ -2268,7 +2475,9 @@
      },
      "at": "Recapitulemos"
     }
-   ]
+   ],
+   "gen": "bCcTwjd5rWLi9rvEgIoN",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SNg9aYp0RNPfTji8Ia9s/bCcTwjd5rWLi9rvEgIoN/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=fznQnVGV6Qc4WdZfmShXem50OvQ="
   },
   {
    "k": "T",
@@ -2301,7 +2510,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "AhgLXch8Ddh4nhc413E9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oCAXkgNuQx1vuJsrmAJh/AhgLXch8Ddh4nhc413E9/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=XvqZ8OOZcPGIpAlsZ9lPaF5gPWM="
   },
   {
    "k": "R",
@@ -2317,7 +2528,9 @@
      },
      "at": "A los diecinueve"
     }
-   ]
+   ],
+   "gen": "xruoG14X6G695MQayTUP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dCiKIQeuAETVQPqJZblS/xruoG14X6G695MQayTUP/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=7R8XYsXIUD9W1P52h_WKb4N91RE="
   },
   {
    "k": "N",
@@ -2328,7 +2541,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/974ad5dc-c680-4d8d-84c4-5f9423af7961.png",
      "at": "Un ejército privado"
     }
-   ]
+   ],
+   "gen": "7xajImUaArVNG6tK2cmm",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1wUbeUaMzq3IgL0iruHv/7xajImUaArVNG6tK2cmm/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=hKdHz26cRkeexjaN74dyLjB0dKI="
   },
   {
    "k": "N",
@@ -2349,7 +2564,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/f40c7ad3-0744-4f41-8824-5aed94956544.png",
      "at": "la tribuna del Foro"
     }
-   ]
+   ],
+   "gen": "5O12hDmIuroFajHEExF6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5C6Bp0fhhhjfaW1iJzIR/5O12hDmIuroFajHEExF6/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=BlJgj3_K_bJ-bk-D8BFvg3KKMso="
   },
   {
    "k": "N",
@@ -2360,7 +2577,9 @@
      "ai": "https://www.figma.com/api/mcp/asset/8ca24016-1fb1-4e2e-90cd-671df3d61701.png",
      "at": "Hortensia"
     }
-   ]
+   ],
+   "gen": "deDS8C4K1Br65aCKa4ww",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fTzJWqnzeODV8Tz0VQsf/deDS8C4K1Br65aCKa4ww/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=vx_vEbe_9NFz6pulJeInM8TjVdQ="
   },
   {
    "k": "N",
@@ -2376,7 +2595,9 @@
      },
      "at": "Por qué tenemos"
     }
-   ]
+   ],
+   "gen": "AbVczSjyNn5TyD6wYyvZ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uJZDQ3OW3EFHizJmHqP3/AbVczSjyNn5TyD6wYyvZ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=n3yyFvYpI0EpKCO9M6F55QJKTIk="
   },
   {
    "k": "N",
@@ -2392,7 +2613,9 @@
      },
      "at": "Y ganó"
     }
-   ]
+   ],
+   "gen": "Osib7DvUNTz8mq0jvICR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TzxVI4YLhsiWAd6Y4YmI/Osib7DvUNTz8mq0jvICR/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=piEQ2am3-4kaKSWqYMSkITYfDpo="
   },
   {
    "k": "N",
@@ -2408,7 +2631,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "los dos se suicidan"
     }
-   ]
+   ],
+   "gen": "gzhXcqx6Iwz6ne4uWibX",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dcbBDBwExwk1QznWFMVj/gzhXcqx6Iwz6ne4uWibX/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=sOB09KlAD3LgrsasRxFVcQOEaHU="
   },
   {
    "k": "N",
@@ -2433,7 +2658,9 @@
      "kw_at": 0.4,
      "kw_dur": 2.2
     }
-   ]
+   ],
+   "gen": "8hrgEbonqVwWMr69f8GX",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/U7YYImEOeMLZ05qgWcw1/8hrgEbonqVwWMr69f8GX/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=kYR4G1EEwSr_bjzqXSfSiLg9y4w="
   },
   {
    "k": "N",
@@ -2449,7 +2676,9 @@
       "Templo de Augusto, Ankara · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "Zi5PncRodMNpX31y50Lh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cC3yBLPRORq3cW3OCuVb/Zi5PncRodMNpX31y50Lh/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=4IafwW8-5kngtSRdobOeDTUMOCo="
   },
   {
    "k": "R",
@@ -2465,7 +2694,9 @@
      },
      "at": "Después de haber"
     }
-   ]
+   ],
+   "gen": "NxjxjjASTfFkkFT88lMb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/b49wY7wA8XIjsJRYKtpo/NxjxjjASTfFkkFT88lMb/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=-mbvv8rWEpiYA6dTrlVOrCzFS8c="
   },
   {
    "k": "N",
@@ -2480,7 +2711,9 @@
      },
      "at": "yo no mando"
     }
-   ]
+   ],
+   "gen": "Unp8PH3ESTzYPxqqHrwA",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wLJDf4VdVRq7LfTt3s0k/Unp8PH3ESTzYPxqqHrwA/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=_qZXAC_qrqTxupSxj4HkFxDMTZE="
   },
   {
    "k": "N",
@@ -2501,7 +2734,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "templos y foros"
     }
-   ]
+   ],
+   "gen": "uDC5Hxu0sC0T5IPwlkyx",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SuvXMFEXsSEeYPHDuBXL/uDC5Hxu0sC0T5IPwlkyx/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=XXkrHgmHjQNdJzx13NcG_Nnc5FE="
   },
   {
    "k": "R",
@@ -2517,7 +2752,9 @@
      },
      "at": "Encontré"
     }
-   ]
+   ],
+   "gen": "knuplTCObXCToQH1oLnu",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Wp4vMBsuzdso5icKkulr/knuplTCObXCToQH1oLnu/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=AGirepJUcPct9tFCLiVeH54g0LE="
   },
   {
    "k": "N",
@@ -2534,7 +2771,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "xF0Cd4mQFZGr9NxwwVd7",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9SZaDrQXPsmoj8gxOnXm/xF0Cd4mQFZGr9NxwwVd7/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=l255JE-pTLWkoS1-J82MAGn-Rzw="
   },
   {
    "k": "R",
@@ -2550,7 +2789,9 @@
      },
      "at": "Tú, romano"
     }
-   ]
+   ],
+   "gen": "CPusxCKlSRzpSm2tKwYJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GNHlu2ssFj1E6O4W3qew/CPusxCKlSRzpSm2tKwYJ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=xuDb3u3_xn7GEaBSsT4jFX0jI7w="
   },
   {
    "k": "N",
@@ -2570,7 +2811,9 @@
       "Lugar probable de la batalla · Alemania"
      ]
     }
-   ]
+   ],
+   "gen": "VPPknJDGCX1miqvvNVHU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NZpWbCsBK5mVWyH7WtyU/VPPknJDGCX1miqvvNVHU/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Zp11b3upbF10Uck1RrkTUK-9yEk="
   },
   {
    "k": "N",
@@ -2582,7 +2825,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Murió en el año catorce"
     }
-   ]
+   ],
+   "gen": "AXEKFkq3QIEJVbiUL1N5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/S0wg0ALV6T4B5ryRurn0/AXEKFkq3QIEJVbiUL1N5/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=8MfZcD2wS6QuiR8CNVYUS429Fcs="
   },
   {
    "k": "R",
@@ -2598,7 +2843,9 @@
      },
      "at": "aplaudid"
     }
-   ]
+   ],
+   "gen": "kVpWc4SLkPERDsW50vdn",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4kMtFm8Lf3mjmuHm3PCL/kVpWc4SLkPERDsW50vdn/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=ykbgNKnQ2jQZI-AtFBSJs7MMugw="
   },
   {
    "k": "T",
@@ -2637,7 +2884,9 @@
      },
      "at": "los que vinieron después"
     }
-   ]
+   ],
+   "gen": "wKNIOnGytlLy5VIT6AhU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/M0B0B0YSM5kNlMXsM3BG/wKNIOnGytlLy5VIT6AhU/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=SkVkG3tsDTlqRpQ0iFwiy5AovM8="
   },
   {
    "k": "N",
@@ -2664,11 +2913,12 @@
      "at": "Nombró cónsul"
     },
     {
-     "photo": "a magnificent racehorse in a marble stable with a jewelled c",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/de2aa33a-8f49-4bae-966a-bb6ba7d5d4f8.png",
      "at": "un establo de mármol"
     }
-   ]
+   ],
+   "gen": "ISxYWerpdjkdMKHfCwhE",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BS8qCikxQJHiPCpEwyIt/ISxYWerpdjkdMKHfCwhE/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=TZ7zPUaILaaUt1jYxlp42dtfipE="
   },
   {
    "k": "N",
@@ -2676,8 +2926,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "a frightened middle-aged man hiding behind a heavy curtain i",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/8df41202-e21a-403b-9ee7-d4e8020d0948.png",
      "at": "detrás de una cortina"
     },
     {
@@ -2690,7 +2939,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "PNZbhkjgaZQDJEx9NNVl",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/FqymddofLiK7Kv7b9ZSE/PNZbhkjgaZQDJEx9NNVl/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=AzsaukEcXtO7z2mroa7B8KUspTQ="
   },
   {
    "k": "N",
@@ -2707,7 +2958,9 @@
       "barbaros"
      ]
     }
-   ]
+   ],
+   "gen": "QPVyyMkbg2InQfCkZUaD",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/iZqmUU3tL0HBpCmEaXLj/QPVyyMkbg2InQfCkZUaD/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=kyKboiq9cjTRw9CV05NWWlogVPE="
   },
   {
    "k": "N",
@@ -2723,7 +2976,9 @@
      },
      "at": "No lucho"
     }
-   ]
+   ],
+   "gen": "8qO2sYDCd9DtR0onrjvc",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/18iXwAFNGF0uziKTvDpP/8qO2sYDCd9DtR0onrjvc/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=EUizB81F8YOGkWcKVuVxSmmWK0I="
   },
   {
    "k": "N",
@@ -2731,11 +2986,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "a Celtic chieftain with a long cloak standing on a misty Sco",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/37dbc513-7731-4a1a-9867-809b575eff6d.png",
      "at": "Calgaco"
     }
-   ]
+   ],
+   "gen": "4RrvnbHUrNCySiekLY6j",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dJKRya3TFiCCWAn0WMQk/4RrvnbHUrNCySiekLY6j/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=lr2Y7bjUb4hSnT6v0DPphVd1EOw="
   },
   {
    "k": "R",
@@ -2751,7 +3007,9 @@
      },
      "at": "Robar, asesinar"
     }
-   ]
+   ],
+   "gen": "MpaD935anrmXaNIA7OfF",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kSu9nADQWVV6M1cYMJeW/MpaD935anrmXaNIA7OfF/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Ber35xb9HGx0mC2Pl4ZWTBc5Nac="
   },
   {
    "k": "N",
@@ -2774,11 +3032,12 @@
      "at": "Un incendio"
     },
     {
-     "photo": "a vast ancient city burning at night, flames over crowded te",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/71216a3f-d9b6-42d3-a2ee-f09e3c099118.png",
      "at": "arde durante seis días"
     }
-   ]
+   ],
+   "gen": "qXDJxKJyzcfD0T51qBMa",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/P2ZP892foyysocckPbOO/qXDJxKJyzcfD0T51qBMa/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=9B-Ke8uZF3AGRgnP6zN6C6KPoHw="
   },
   {
    "k": "R",
@@ -2794,7 +3053,9 @@
      },
      "at": "A todo esto"
     }
-   ]
+   ],
+   "gen": "4n5SwtuP3X53zrrHYPnI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZeoxX8gMpxbICWw5yyMY/4n5SwtuP3X53zrrHYPnI/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=WLX2BjRBjcspHkt9ovfnrR_LDjs="
   },
   {
    "k": "N",
@@ -2810,7 +3071,9 @@
      },
      "at": "Tocó Nerón"
     }
-   ]
+   ],
+   "gen": "uATNCmXEFa5H2xqYAwy0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/K8VqStX3uDlMkVjxgnu1/uATNCmXEFa5H2xqYAwy0/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Of7JaeYUV1R0Kh9XDaZSu4lUyDM="
   },
   {
    "k": "N",
@@ -2822,7 +3085,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "los cristianos"
     }
-   ]
+   ],
+   "gen": "iALtKkwXlyju2iYowfbx",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uln5nxR1rxSMjHxh0bAo/iALtKkwXlyju2iYowfbx/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=JAt-HnWbiYLG0A-tFZvsCGG7DUs="
   },
   {
    "k": "N",
@@ -2848,19 +3113,22 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "29Wlf66cLRapiMqmXjjX",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SUz9W0esJkSxiHrPxV5g/29Wlf66cLRapiMqmXjjX/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=ENEi4rfmBaHWC-cLIjCKqYC0IbU="
   },
   {
    "k": "N",
-   "text": "[softly] Vespasiano necesitaba dinero y puso un impuesto sobre la orina de los urinarios públicos, que los curtidores usaban para tratar las pieles. Su hijo Tito le dijo que aquello era indigno. Vespasiano le acercó a la nariz una moneda del primer pago y le preguntó si olía mal.",
+   "text": "[softly] Vespasiano necesitaba dinero y puso un impuesto sobre la orina de los urinarios públicos, que los curtidores usaban para tratar las pieles. Su hijo Tito le dijo que aquello era indigno. Vespasiano le acercó a la nariz una moneda del primer pago y le preguntó si olía mal. Tito dijo que no.",
    "voice": "NAR",
    "shots": [
     {
-     "photo": "a Roman public latrine with a row of stone seats and a man c",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/3bdfb8a3-470a-43c3-bd11-7728bfd812d7.png",
      "at": "la orina"
     }
-   ]
+   ],
+   "gen": "7NOsAjlcsh70z77VGVSL",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zMceVZXexr0MW1iLeAof/7NOsAjlcsh70z77VGVSL/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=otPPtX7moyhcbL_ozRacqIwwZXQ="
   },
   {
    "k": "R",
@@ -2876,7 +3144,9 @@
      },
      "at": "Pues viene"
     }
-   ]
+   ],
+   "gen": "2rGS9lCHTYUgZwMk3eoE",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/h49gaNH7c3jSek1tgo4A/2rGS9lCHTYUgZwMk3eoE/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=lPgljWjaqkRWkTO8gum6PjcOmA4="
   },
   {
    "k": "N",
@@ -2888,7 +3158,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "vespasiani"
     }
-   ]
+   ],
+   "gen": "gQWxSb3HXnAPukA5fdre",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WCPk0FnZ9yV0Zv9I3Bzn/gQWxSb3HXnAPukA5fdre/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=OQbHsNIK1Bp4zGu8XYifbFAVkT4="
   },
   {
    "k": "R",
@@ -2904,7 +3176,9 @@
      },
      "at": "convirtiendo en un dios"
     }
-   ]
+   ],
+   "gen": "oTQE6n51FNN4ZJ86ajXc",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OQ33It4shneUT2Gny3GT/oTQE6n51FNN4ZJ86ajXc/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=cJwEMO1H3UM4fZ4ELSe5ANwD2-0="
   },
   {
    "k": "N",
@@ -2920,7 +3194,9 @@
       "Inaugurado en el año 80 d. C."
      ]
     }
-   ]
+   ],
+   "gen": "bQFFbRGTaawquo5K25L2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XGy85KoeD3wnX5KWcqVw/bQFFbRGTaawquo5K25L2/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=sS7WKyaqg2SuO768OOSlv_wfFaY="
   },
   {
    "k": "N",
@@ -2936,8 +3212,7 @@
      "at": "cincuenta mil"
     },
     {
-     "photo": "inside a packed ancient amphitheatre full of spectators unde",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/90822ee9-284b-48f0-ba40-326dd9ea1654.png",
      "at": "combates de gladiadores"
     },
     {
@@ -2945,11 +3220,13 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Animales traídos"
     }
-   ]
+   ],
+   "gen": "Q3npcDiJM1VQoL0EE79p",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BtzdeVqHNwv9VWWqbIPm/Q3npcDiJM1VQoL0EE79p/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=7IY14psUifH9H_-TLMk3CfNpl68="
   },
   {
    "k": "N",
-   "text": "Y ahora, el gesto más famoso de la Antigüedad... que quizá nunca existió. El pulgar hacia abajo que condena al gladiador viene de un cuadro de 1872, de Jean-Léon Gérôme. Los textos antiguos hablan de un «pulgar girado», sin explicar hacia dónde. Y muchos combates no acababan en muerte: un gladiador bien entrenado costaba una fortuna.",
+   "text": "Y ahora, el gesto más famoso de la Antigüedad... que quizá nunca existió. El pulgar hacia abajo que condena al gladiador viene de un cuadro de mil ochocientos setenta y dos, de Jean-Léon Gérôme. Los textos antiguos hablan de un «pulgar girado», sin explicar hacia dónde. Y muchos combates no acababan en muerte: un gladiador bien entrenado costaba una fortuna.",
    "voice": "NAR",
    "shots": [
     {
@@ -2971,7 +3248,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "bien entrenado"
     }
-   ]
+   ],
+   "gen": "aVY0YZGYmVKk1QoT3sWx",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fAjnHF0KRkPYyQ1qsegk/aVY0YZGYmVKk1QoT3sWx/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=QDDCxi3yzBuVhO1Log7w-slkc-0="
   },
   {
    "k": "N",
@@ -2988,11 +3267,12 @@
      ]
     },
     {
-     "photo": "a gigantic column of volcanic ash rising from a mountain ove",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/2814aca5-c552-46dc-89af-e974c7aa8887.png",
      "at": "Lo vio"
     }
-   ]
+   ],
+   "gen": "aBbp3R54sjCpExQPuIyW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IgAs9p6obwXBUo9i4e8I/aBbp3R54sjCpExQPuIyW/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=mfcEpEaw_5R-CtFE23ETcLree0s="
   },
   {
    "k": "R",
@@ -3008,7 +3288,9 @@
      },
      "at": "La nube"
     }
-   ]
+   ],
+   "gen": "2P77iu0dbs1qrktGVAr6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3629LRD2jeRteZ6omgQQ/2P77iu0dbs1qrktGVAr6/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=d-FOZDpGw7LaVcpjGaRkBX1f8FE="
   },
   {
    "k": "R",
@@ -3016,8 +3298,7 @@
    "voice": "FUE",
    "shots": [
     {
-     "photo": "crowds fleeing along a coastal road in total darkness under ",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/8eb8a5aa-a477-4e5a-a145-48fb1c3daed6.png",
      "at": "Se oían los gemidos"
     },
     {
@@ -3029,7 +3310,9 @@
      },
      "at": "la noche eterna"
     }
-   ]
+   ],
+   "gen": "EPsRVy4hiURD4IhJhbid",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oDQ215wap7mpQ27snxUh/EPsRVy4hiURD4IhJhbid/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=goEWI0bywusiOTXX7_GGFoE6emI="
   },
   {
    "k": "N",
@@ -3050,7 +3333,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "congeladas en el tiempo"
     }
-   ]
+   ],
+   "gen": "j3BkU5doFfzQx6CxpYfo",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/t9Gtl6nENMsNHSttV8aG/j3BkU5doFfzQx6CxpYfo/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=pqAMSkhFjB8kw2ZuScQoBVkXMn0="
   },
   {
    "k": "N",
@@ -3071,7 +3356,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "en el arco"
     }
-   ]
+   ],
+   "gen": "FdXxi7npyal8ZY6p1nX6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Wijpp7v3WZiVOOyoYPTG/FdXxi7npyal8ZY6p1nX6/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=IxADJpRykHj7U3uFNj4ESf_T73s="
   },
   {
    "k": "N",
@@ -3097,7 +3384,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "eClNn5P6yNyYWMB4VtFo",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HWpqSIoiIyo5JR8If10C/eClNn5P6yNyYWMB4VtFo/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=SLWRHlWpHLSvjlyMzk7Vw5_qnek="
   },
   {
    "k": "N",
@@ -3363,11 +3652,13 @@
      },
      "at": "su máxima extensión"
     }
-   ]
+   ],
+   "gen": "5PZw1KjX00FMtrm18jBJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uzVUqShwdYmOIhcogH66/5PZw1KjX00FMtrm18jBJ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=F-y0iZsyty6WDHKwZLz02_n6pGo="
   },
   {
    "k": "N",
-   "text": "Cinco millones de kilómetros cuadrados. Desde Escocia hasta el golfo Pérsico. Unos sesenta millones de personas, según los cálculos modernos. Y por primera vez, el centro del mundo lo gobernaba un hispano.",
+   "text": "Cinco millones de kilómetros cuadrados. Desde Britania hasta el golfo Pérsico. Unos sesenta millones de personas, según los cálculos modernos. Y por primera vez, el centro del mundo lo gobernaba un hispano.",
    "voice": "NAR",
    "shots": [
     {
@@ -3378,7 +3669,9 @@
      },
      "at": "Cinco millones"
     }
-   ]
+   ],
+   "gen": "l46hRYdcQ0gMvwVRqqzP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vG3IL3cW0rQyu4i8gJkZ/l46hRYdcQ0gMvwVRqqzP/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=NCYGlgt66ZIS5GTZMH4_Aw48sIc="
   },
   {
    "k": "T",
@@ -3402,8 +3695,7 @@
    "voice": "MUR",
    "shots": [
     {
-     "photo": "a crowded narrow street in ancient Rome lined with five and ",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/4cc26bae-2516-4bd6-a92d-baf1faff322f.png",
      "at": "la mayoría de los romanos"
     },
     {
@@ -3415,7 +3707,9 @@
       "Bloque de pisos del siglo II · Roma"
      ]
     }
-   ]
+   ],
+   "gen": "WJSzh1nDUhFW02ZQlUWy",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HW0hQTwqJmr8OXvBYGxF/WJSzh1nDUhFW02ZQlUWy/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=aqU_wLbATodhfHUgWSJxAMCDXdE="
   },
   {
    "k": "N",
@@ -3436,7 +3730,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "casas con jardín"
     }
-   ]
+   ],
+   "gen": "55NA5aF7m8RysS1mSqci",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Nsdhzm9yFzQCm5QnanAO/55NA5aF7m8RysS1mSqci/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=bIfSILDZ6LfI-pq3Lmm_HkrhScU="
   },
   {
    "k": "N",
@@ -3453,7 +3749,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "en las paredes"
     }
-   ]
+   ],
+   "gen": "rX5bQbkVAM8BXtZYufJv",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ChcX9oozWMLQbyyUmo7Y/rX5bQbkVAM8BXtZYufJv/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=o4jECi_HC_OXcZHmgsuHDOsfdp8="
   },
   {
    "k": "N",
@@ -3465,7 +3763,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "campaña electoral"
     }
-   ]
+   ],
+   "gen": "Y1tpMYYxSR6icIOTnsCJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zh91TxCUVytl2AHcS3Jx/Y1tpMYYxSR6icIOTnsCJ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=W03lNLLG0YJQ1C36GdS-b_ERl68="
   },
   {
    "k": "R",
@@ -3481,19 +3781,9 @@
      },
      "at": "Todos los vendedores"
     }
-   ]
-  },
-  {
-   "k": "N",
-   "text": "Y hay uno que lo resume todo. Está escrito, precisamente, en una pared.",
-   "voice": "MUR",
-   "shots": [
-    {
-     "photo": "Pompeii Basilica graffiti",
-     "src": "commons,met,cleveland,europeana",
-     "at": "Está escrito"
-    }
-   ]
+   ],
+   "gen": "A3LiSYOE2y9tHQZYi0IS",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UDDl2NF6jla5A68qvuku/A3LiSYOE2y9tHQZYi0IS/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=nYiNiJIsPLbSk3YvaN3SBTZWJRQ="
   },
   {
    "k": "N",
@@ -3509,7 +3799,23 @@
      },
      "at": "el suspiro de las chicas"
     }
-   ]
+   ],
+   "gen": "qdh6LNe5F62lCbBcqJac",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6h0MhYEMVvNs8n9RvDic/qdh6LNe5F62lCbBcqJac/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=7rQx5Z6xR4ipdWndqWXDmr_a62I="
+  },
+  {
+   "k": "N",
+   "text": "Y hay uno que lo resume todo. Está escrito, precisamente, en una pared.",
+   "voice": "MUR",
+   "shots": [
+    {
+     "photo": "Pompeii Basilica graffiti",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Está escrito"
+    }
+   ],
+   "gen": "Pm9oyast1H3GiCHrAe6c",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dXCr12RykImbYHEePBU8/Pm9oyast1H3GiCHrAe6c/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=y96nO8hoEKox_JFfw-ryspiuukM="
   },
   {
    "k": "N",
@@ -3525,7 +3831,9 @@
      },
      "at": "Me admiro"
     }
-   ]
+   ],
+   "gen": "eYWp12LY9fSzH7thyYXc",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/srsRr7bPzvfbHGSCrTSd/eYWp12LY9fSzH7thyYXc/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=VgLfuLuXPrEbOD9a_dZgxau56hg="
   },
   {
    "k": "N",
@@ -3540,7 +3848,9 @@
      "kw_at": 0.4,
      "kw_dur": 2.2
     }
-   ]
+   ],
+   "gen": "T9IyrzuiPiHvDdvmyOhu",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/B08uAq0RgclpyfkHHnft/T9IyrzuiPiHvDdvmyOhu/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=YOu2jOfD_8oDkNUEfkmV14eOYvw="
   },
   {
    "k": "N",
@@ -3560,7 +3870,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "las salidas del anfiteatro"
     }
-   ]
+   ],
+   "gen": "OF506MX0HNR77m9hIJoW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jpWmokhNzvNLNjOsxjwz/OF506MX0HNR77m9hIJoW/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=cwZUxwxk6-zIt2Q50MpBhYsaIe8="
   },
   {
    "k": "N",
@@ -3568,11 +3880,12 @@
    "voice": "MUR",
    "shots": [
     {
-     "photo": "a lively Roman household feast in December lit by many oil l",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/09860131-d5ee-4466-a294-a1fb53a5852b.png",
      "at": "las Saturnales"
     }
-   ]
+   ],
+   "gen": "wS3fWLZkpclA2U4bli6c",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TNimuLRmq2RupjzLUiuj/wS3fWLZkpclA2U4bli6c/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=dxYQ7UF79boyUlbomJGln4cNOgo="
   },
   {
    "k": "N",
@@ -3589,11 +3902,12 @@
      ]
     },
     {
-     "photo": "interior of a grand Roman bath hall with a steaming pool, ma",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/1a692121-80b1-4ea5-afb1-70cf14414d69.png",
      "at": "a enterarte de todo"
     }
-   ]
+   ],
+   "gen": "EdDUHAnteVwO7kIVEWl8",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/j48oURg9AWTCBQfzhU1a/EdDUHAnteVwO7kIVEWl8/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=m3s25P1yKZBs0Bk5Ln1QtZgPzVE="
   },
   {
    "k": "N",
@@ -3610,11 +3924,12 @@
      ]
     },
     {
-     "photo": "four-horse chariots racing at full speed around the turning ",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/4739ae55-2cc0-45af-85ec-0e577bad57c7.png",
      "at": "carreras de carros"
     }
-   ]
+   ],
+   "gen": "j2wYhUwM2XNYu0LGt3WJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/FLDmidvRk5Bv1ErhXajj/j2wYhUwM2XNYu0LGt3WJ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=VymFWKTTfbI1l5xubivhLLhzgi8="
   },
   {
    "k": "N",
@@ -3631,7 +3946,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "j2N8iE6EWACxrYmiWY8y",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jqyDzTVqjF4ZjoGejVr9/j2N8iE6EWACxrYmiWY8y/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=T6fmXUxduSmAtYG6xrMB1--FTz4="
   },
   {
    "k": "R",
@@ -3647,11 +3964,13 @@
      },
      "at": "pan y juegos"
     }
-   ]
+   ],
+   "gen": "K0MjXwCep5bcrZO4K7R1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/lCkL9L3XNfu426eJEize/K0MjXwCep5bcrZO4K7R1/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Pz3y0ViRwYkjle01xRD4NjrV-mg="
   },
   {
    "k": "N",
-   "text": "Pero Roma también descansaba sobre algo que las películas suelen esconder: la esclavitud. En Italia, quizá uno de cada cuatro o cinco habitantes era esclavo, según la mayoría de los cálculos. Trabajaban en minas, en el campo, en las casas. Algunos eran médicos, maestros o secretarios. Podían comprar su libertad o recibirla de su amo. Y los libertos, sus hijos, podían llegar muy alto.",
+   "text": "Pero Roma también descansaba sobre algo que las películas suelen esconder: la esclavitud. En Italia, quizá uno de cada cuatro o cinco habitantes era esclavo, según la mayoría de los cálculos. Trabajaban en minas, en el campo, en las casas. Algunos eran médicos, maestros o secretarios. Podían comprar su libertad o recibirla de su amo. Y los libertos, y sobre todo sus hijos, podían llegar muy alto.",
    "voice": "MUR",
    "shots": [
     {
@@ -3660,8 +3979,7 @@
      "at": "la esclavitud"
     },
     {
-     "photo": "chained workers in a dark Roman mine carrying baskets of ore",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/8a587222-1e1a-49d8-a4af-4fb64d1d4217.png",
      "at": "en minas"
     },
     {
@@ -3669,11 +3987,13 @@
      "src": "commons,met,cleveland,europeana",
      "at": "los libertos"
     }
-   ]
+   ],
+   "gen": "XOD6tKtPnVAWE8RsdCMB",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oiJnevIuFEQTA8DVTNf2/XOD6tKtPnVAWE8RsdCMB/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=8HPR3jOj96z2z2Doke_Gltvjbx8="
   },
   {
    "k": "N",
-   "text": "Las mujeres no votaban ni ocupaban cargos. Pero muchas administraban patrimonios, tenían negocios y, en las clases altas, mandaban más de lo que admitían los historiadores. Y casi todas las que conocemos de nombre, las conocemos por sus tumbas. Como esta. La de una mujer llamada Claudia, en el siglo segundo antes de Cristo.",
+   "text": "Las mujeres no votaban ni ocupaban cargos. Pero muchas administraban patrimonios, tenían negocios y, en las clases altas, mandaban más de lo que admitían los historiadores antiguos. Y casi todas las que conocemos de nombre, las conocemos por sus tumbas. Como esta. La de una mujer llamada Claudia, en el siglo segundo antes de Cristo.",
    "voice": "MUR",
    "shots": [
     {
@@ -3686,7 +4006,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "por sus tumbas"
     }
-   ]
+   ],
+   "gen": "FkcKLTmaDSA5VVxREGSN",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vdHMAIvmAXOwwOLkMNSM/FkcKLTmaDSA5VVxREGSN/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=3ElvDurP_pnrfl_ADh1cti6mYKY="
   },
   {
    "k": "N",
@@ -3702,7 +4024,9 @@
      },
      "at": "Extranjero"
     }
-   ]
+   ],
+   "gen": "DdiioYIRH5spWxLonIEP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NGVIQm4NRUtEuvfX9lyo/DdiioYIRH5spWxLonIEP/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=H-iiFR9UVv4Kzsyo5SThstCti2M="
   },
   {
    "k": "M",
@@ -3749,11 +4073,13 @@
       "Northumberland, Reino Unido · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "8szx9uyLFzO2ihf95Y22",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/myml3EQjLpZw70bbar6q/8szx9uyLFzO2ihf95Y22/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=_Vqy9oojo_WtP7fQRfqVc4g91CQ="
   },
   {
    "k": "N",
-   "text": "Le siguen Antonino Pío y Marco Aurelio. Con ellos, el imperio vive su época dorada. Marco Aurelio es el emperador filósofo. Escribió en griego, para sí mismo, un diario de pensamientos que hoy se vende en todas las librerías. Empieza así.",
+   "text": "Le siguen Antonino Pío y Marco Aurelio. Con ellos, el imperio vive su época dorada.",
    "voice": "NAR",
    "shots": [
     {
@@ -3766,7 +4092,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "Tihpg99R8BbrdXYdAN0N",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/epInnfMeKeeRcfRtVecJ/Tihpg99R8BbrdXYdAN0N/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=CZM4bZr2WJEZmOlh93cE_b4VvUU="
   },
   {
    "k": "R",
@@ -3782,11 +4110,13 @@
      },
      "at": "Si se pidiera"
     }
-   ]
+   ],
+   "gen": "w0By6MPMCYk9Xw4B4KhU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OiBMkC4LKLP54nZCkcjO/w0By6MPMCYk9Xw4B4KhU/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=6-nVM5QEQQBOySji5E1-ewEnykw="
   },
   {
    "k": "N",
-   "text": "Gibbon exageraba, por supuesto. Pero algo de razón tenía.",
+   "text": "Gibbon exageraba, por supuesto. Pero algo de razón tenía. Marco Aurelio era el emperador filósofo. Escribió en griego, para sí mismo, un diario de pensamientos que hoy se vende en todas las librerías. Empieza así.",
    "voice": "NAR",
    "shots": [
     {
@@ -3799,7 +4129,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "kXTwVWLH2x4KigPndldx",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GKFxY7YOolBtjkE3kYJb/kXTwVWLH2x4KigPndldx/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=15GIClktjzkA_3TtBAaGChFqFSs="
   },
   {
    "k": "R",
@@ -3815,7 +4147,9 @@
      },
      "at": "Al amanecer"
     }
-   ]
+   ],
+   "gen": "TN09fsRfQgCY0GsEZQcw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1VcEJGjKoMijv5bFFTvN/TN09fsRfQgCY0GsEZQcw/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=t_sVS_7JJe1FxqsC1-0isiIfqt4="
   },
   {
    "k": "R",
@@ -3831,7 +4165,9 @@
      },
      "at": "Pronto lo habrás"
     }
-   ]
+   ],
+   "gen": "RJ83FUvpl0GFib76iQfm",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IUHpx9qdOOAawmOlpoUO/RJ83FUvpl0GFib76iQfm/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=ZzrVLzr7-dO5-IHUACWHe3LemiM="
   },
   {
    "k": "N",
@@ -3839,11 +4175,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "a tired older man writing by oil lamp in a military tent at ",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/68f779b4-81aa-45a9-ad54-947c7ca67b46.png",
      "at": "En una tienda"
     }
-   ]
+   ],
+   "gen": "5EWklLVtGkdOWhhFaFso",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WkGnPLRGit2YJoCHDQIE/5EWklLVtGkdOWhhFaFso/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=5BidtrYbgJe855dP2MzJB9MFLi4="
   },
   {
    "k": "N",
@@ -3851,16 +4188,16 @@
    "voice": "ESP",
    "shots": [
     {
-     "photo": "Roman legionaries in fur-lined cloaks on a frozen river bank",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/bd983463-217b-4dd3-8ce9-87c755990fb7.png",
      "at": "en el Danubio"
     },
     {
-     "photo": "an empty Roman street at dusk, a cart with covered bodies, a",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/b51409a0-ba70-4596-86cf-615204a39996.png",
      "at": "la peste antonina"
     }
-   ]
+   ],
+   "gen": "JJ7fFEwrfzFoqo7uNFte",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/iY27his8KEruil3VXnO7/JJ7fFEwrfzFoqo7uNFte/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=VjT5AkLOP8J50Iv_XitBSVvWJkg="
   },
   {
    "k": "N",
@@ -3877,7 +4214,9 @@
       "roma"
      ]
     }
-   ]
+   ],
+   "gen": "DohGJIV99uUEBRb69rDs",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/AUkt0Y47pGjehxiCJrLa/DohGJIV99uUEBRb69rDs/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=LN_9776tObMa_BoctAdY46dUUV4="
   },
   {
    "k": "N",
@@ -3885,8 +4224,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "soldiers in armour standing on the walls of a fortified camp",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/483fe7da-1011-4ec7-89fe-5d0598fbfbb5.png",
      "at": "subasta el imperio"
     },
     {
@@ -3897,7 +4235,9 @@
      },
      "at": "sesenta y seis días"
     }
-   ]
+   ],
+   "gen": "qUrA5XGDQz1ZbW1HDYco",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GvKdAIrfT2MVgERAchIJ/qUrA5XGDQz1ZbW1HDYco/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=059tiG0Mnhr7JadHV9M4Gzfi45c="
   },
   {
    "k": "N",
@@ -3923,7 +4263,9 @@
       "Libia · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "Fgtqc9rdXHcAnhBTjW4v",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DhpC8ThjKNt4LJyZHrvx/Fgtqc9rdXHcAnhBTjW4v/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=5DM2WmMf76Itha26n48rvOGrPiQ="
   },
   {
    "k": "R",
@@ -3939,11 +4281,13 @@
      },
      "at": "Llevaos bien"
     }
-   ]
+   ],
+   "gen": "rzMSdBYH7bxHnAsLA5XW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zX6NzILrUDeVGyGEiPTD/rzMSdBYH7bxHnAsLA5XW/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=gKOYsRAwjmIFMQ3EmslerSbi6zQ="
   },
   {
    "k": "N",
-   "text": "No le hicieron caso en lo primero. Al año siguiente, Caracalla mandó asesinar a su hermano Geta en brazos de su propia madre.",
+   "text": "No le hicieron caso en lo primero. Ese mismo año, Caracalla mandó asesinar a su hermano Geta en brazos de su propia madre.",
    "voice": "NAR",
    "shots": [
     {
@@ -3955,7 +4299,9 @@
       "El rostro de Geta, borrado tras su asesinato"
      ]
     }
-   ]
+   ],
+   "gen": "5VUHdN5hVAwAWchyCsbG",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RHl9OtpTEqkkAr8QmhYI/5VUHdN5hVAwAWchyCsbG/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=n0QNLC3b6bEcdGvrU2wqovaaeMM="
   },
   {
    "k": "N",
@@ -3980,7 +4326,9 @@
      "kw_at": 0.4,
      "kw_dur": 2.2
     }
-   ]
+   ],
+   "gen": "bdP46uhPs9BmZTzRrkJ7",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1iJHk0JsBTsNNXmAjqXD/bdP46uhPs9BmZTzRrkJ7/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=gjG5Xtapea5YGLjHvR2-YNMIPl4="
   },
   {
    "k": "N",
@@ -4002,11 +4350,12 @@
      "at": "la moneda"
     },
     {
-     "photo": "soldiers raising a new emperor on a shield in a muddy milita",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/3f6f08b1-13ec-461a-b6c1-1567a38beabe.png",
      "at": "asesinados por sus propios soldados"
     }
-   ]
+   ],
+   "gen": "IEXC7f1h0vTxsXH2c5bw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mxfiOg6EjIFMTg0Cfnh7/IEXC7f1h0vTxsXH2c5bw/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=FN1x7DOsnmmRQoVayn5-NJoSwX4="
   },
   {
    "k": "N",
@@ -4022,7 +4371,9 @@
       "Relieve de Sapor I · Irán"
      ]
     }
-   ]
+   ],
+   "gen": "rlcRyNhAjyMLFpBvnUTJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ngNlbF8ApvxWZh0sA0yp/rlcRyNhAjyMLFpBvnUTJ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=q2G6E5SSwLr9HDRjyMWPy9FlSNY="
   },
   {
    "k": "N",
@@ -4090,7 +4441,9 @@
       "Roma · 271 d. C."
      ]
     }
-   ]
+   ],
+   "gen": "TGSqDNU2s30ASTkz1Sa9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ITIdqIX1xVwBwfIiJk4w/TGSqDNU2s30ASTkz1Sa9/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Qg9RRmKOHv2y4fmJWHMoBl8Ral0="
   },
   {
    "k": "M",
@@ -4127,7 +4480,9 @@
      },
      "at": "Recapitulemos"
     }
-   ]
+   ],
+   "gen": "oAYRdPDXlObjzKFLwmcK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/810NHpuo3hukK7nGaeUd/oAYRdPDXlObjzKFLwmcK/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=QiBGAgbzk0-koJP0t57rodf8ZLI="
   },
   {
    "k": "T",
@@ -4174,7 +4529,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "fija por ley los precios"
     }
-   ]
+   ],
+   "gen": "dwfWoPwISDjnb7iL2V0z",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DUhf64p5LWsFX8UJISW1/dwfWoPwISDjnb7iL2V0z/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=TO-GnXMrKQ8sWxngmWOXXkLPLnY="
   },
   {
    "k": "N",
@@ -4190,7 +4547,9 @@
       "Split, Croacia · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "qkohxzfDRoUv4veY9vXD",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/i0DJRPbwid2ZXD9wuyxP/qkohxzfDRoUv4veY9vXD/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=TfYjgoM3Vzc_x7j_F2S1CaENjq0="
   },
   {
    "k": "R",
@@ -4207,11 +4566,12 @@
      "at": "Si pudierais ver"
     },
     {
-     "photo": "an old man in a simple tunic tending a vegetable garden of c",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/e7ac5a69-d233-4495-8340-891c470fb22e.png",
      "at": "las coles"
     }
-   ]
+   ],
+   "gen": "81C2i56uiMnvycOrzreV",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OXsKWnSCWc0HxqPAJrWb/81C2i56uiMnvycOrzreV/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Fe5j8Hl_E1jSt2FkxvjSq894Ehs="
   },
   {
    "k": "N",
@@ -4234,11 +4594,12 @@
      "at": "puente Milvio"
     },
     {
-     "photo": "soldiers painting a Chi-Rho Christian symbol on their shield",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/a8fe69ee-0996-46e0-82e4-6c9ac02ca0ec.png",
      "at": "en los escudos"
     }
-   ]
+   ],
+   "gen": "ll6aBaoclgFmhCq0vUc9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Xe2mPtLhkw7nCT1wfRnH/ll6aBaoclgFmhCq0vUc9/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=1BPrzFmoXEMmp5OwJEzRk-MTPPU="
   },
   {
    "k": "N",
@@ -4285,7 +4646,9 @@
      },
      "at": "el estrecho del Bósforo"
     }
-   ]
+   ],
+   "gen": "lAxrx7NFPBu2EykfSiJE",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JOd5mmjiH5URi0DR85rI/lAxrx7NFPBu2EykfSiJE/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Ebk1eXRw2Pc1P11ZZbwIxhdh75o="
   },
   {
    "k": "N",
@@ -4310,7 +4673,9 @@
      },
      "at": "Has vencido"
     }
-   ]
+   ],
+   "gen": "v2roHog9CJSPGtx69Z6e",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ci8G5esmuDKPBaxfsyaf/v2roHog9CJSPGtx69Z6e/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=2bWO-536LynXejMtiXhaEMOear8="
   },
   {
    "k": "N",
@@ -4360,7 +4725,9 @@
      },
      "at": "Oriente y Occidente"
     }
-   ]
+   ],
+   "gen": "SEQXYtEHMTK1Gs51fqxJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9sa4JgvSUWOWO1AwfArJ/SEQXYtEHMTK1Gs51fqxJ/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=zaGUvjp4lsd7InLPOSC2bq5hbFA="
   },
   {
    "k": "T",
@@ -4392,11 +4759,12 @@
      "at": "Hay que matizar"
     },
     {
-     "photo": "a huge crowd of Gothic families with wagons and cattle waiti",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/7662e59f-995a-431e-b681-c226b6a94ef7.png",
      "at": "Venían huyendo"
     }
-   ]
+   ],
+   "gen": "84qxKeTdwh2kyicnTkDd",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7Cc9asQDjHiH3kkRjBL6/84qxKeTdwh2kyicnTkDd/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Oxa3g_fg0iNBbrSVsVrq0JKKz48="
   },
   {
    "k": "N",
@@ -4404,11 +4772,12 @@
    "voice": "ESP",
    "shots": [
     {
-     "photo": "heavy cavalry charging out of a dust storm into a disordered",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/1c176f23-18ab-4ed0-a50f-47cd5c98d186.png",
      "at": "En Adrianópolis"
     }
-   ]
+   ],
+   "gen": "GEb5jFXISmJvfVZAzD0v",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dNv0dLM7uDuSa87UhCYb/GEb5jFXISmJvfVZAzD0v/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=ROr5zSNVRxtoER3rOh6ZHC6XssE="
   },
   {
    "k": "N",
@@ -4430,7 +4799,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "san Jerónimo"
     }
-   ]
+   ],
+   "gen": "RAL7cjBKcEV41jXbYDq5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/guYjb5xQ1eehV9U0w87S/RAL7cjBKcEV41jXbYDq5/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=-MgsGvuIhIW7IVhEoJd8TkUwCP0="
   },
   {
    "k": "R",
@@ -4446,7 +4817,9 @@
      },
      "at": "La voz se me queda"
     }
-   ]
+   ],
+   "gen": "U1v2on5qd6xXqKT8p6Yk",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uB7jxVONXzI5VMhIABOA/U1v2on5qd6xXqKT8p6Yk/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=I9x83NaqnEvwMJUPJx3pItlfRK8="
   },
   {
    "k": "N",
@@ -4472,7 +4845,9 @@
      },
      "at": "un gallo favorito"
     }
-   ]
+   ],
+   "gen": "JTZn261yy6WjGWlSW1lK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9xUevkXwlfmgzguITIk4/JTZn261yy6WjGWlSW1lK/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=MVW_XTWL5Uk9AfzN1Azaf5GMC9s="
   },
   {
    "k": "N",
@@ -4492,7 +4867,9 @@
      },
      "at": "se deshace por piezas"
     }
-   ]
+   ],
+   "gen": "VuDyVxP6dIiYjv5ilVES",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TVlEoWuTjiOzwfr5A9G3/VuDyVxP6dIiYjv5ilVES/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Map3Dn5WtalIgbG4TzH1fL9mijc="
   },
   {
    "k": "N",
@@ -4500,11 +4877,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "a Gothic king in a fur-trimmed cloak and a Roman princess in",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/289fffda-a92c-4678-81b7-c4ffc6b6415c.png",
      "at": "Gala Placidia"
     }
-   ]
+   ],
+   "gen": "iCb3kAKdf03LORblKMIf",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HJnip3EzLPg9sHzTpgYZ/iCb3kAKdf03LORblKMIf/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=gv4ibV60Eceyt2Lz-zuTQDe5KM8="
   },
   {
    "k": "R",
@@ -4520,7 +4898,9 @@
      },
      "at": "Quiso que Gothia"
     }
-   ]
+   ],
+   "gen": "kxHFmP7JpnW68uroDrpO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/r3eIo7ONHdR6VzhuHSce/kxHFmP7JpnW68uroDrpO/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Bg8IQD_zdHsr16NaaBpNCzCALVI="
   },
   {
    "k": "N",
@@ -4536,11 +4916,13 @@
       "Tesoro de Guarrazar · Toledo, siglo VII"
      ]
     }
-   ]
+   ],
+   "gen": "hY4SDV83hRvmZ5xbLuEH",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wxnEdF2E68FuTeHZbOyS/hY4SDV83hRvmZ5xbLuEH/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=13jiiRO_Q7O2AJKFam_Jo775qQs="
   },
   {
    "k": "N",
-   "text": "En el año cuatrocientos cincuenta y uno llega el más temido: Atila, rey de los hunos. Un ejército de romanos y godos, juntos, le frena en los Campos Cataláunicos, en la Galia. Al año siguiente invade Italia y el papa León sale a su encuentro. Atila se retira. Al año siguiente muere... en su noche de bodas.",
+   "text": "En el año cuatrocientos cincuenta y uno llega el más temido: Atila, rey de los hunos. Un ejército de romanos y godos, juntos, le frena en los Campos Cataláunicos, en la Galia. Al año siguiente invade Italia y el papa León sale a su encuentro. Atila se retira. Y un año después muere... en su noche de bodas.",
    "voice": "ESP",
    "shots": [
     {
@@ -4558,7 +4940,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "el papa León"
     }
-   ]
+   ],
+   "gen": "vwSx263zVqicqySRwZTq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QZG0Lg1Fz4U9wj1EOXjP/vwSx263zVqicqySRwZTq/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=1mmIfEYf-WLqLvxaZq2MUiTdSAo="
   },
   {
    "k": "N",
@@ -4570,7 +4954,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "los vándalos saquean Roma"
     }
-   ]
+   ],
+   "gen": "LgwqIhM8ca4HI1gL7IzA",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gxQTcAlww4HwPw56fziy/LgwqIhM8ca4HI1gL7IzA/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=c6A5HbdJY3W-wNbLxPVa4B3axzA="
   },
   {
    "k": "N",
@@ -4595,7 +4981,9 @@
      "kw_at": 0.4,
      "kw_dur": 2.2
     }
-   ]
+   ],
+   "gen": "IhvTKe6fJAbbJlYxm1sN",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/c6enKQcdFTW35kIWRo4q/IhvTKe6fJAbbJlYxm1sN/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=1CvirAVl7zgfWoS23kIUoRnyv58="
   },
   {
    "k": "N",
@@ -4603,11 +4991,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "a messenger presenting a purple imperial cloak and a diadem ",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/91f6989f-8d7b-4159-84cf-e43c0af3a1a9.png",
      "at": "Envía las insignias"
     }
-   ]
+   ],
+   "gen": "qBPFo0MMsLn7PNkXTwsj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kDurGJn3BfEqEEfsdEWY/qBPFo0MMsLn7PNkXTwsj/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Of44p8yuDML2zbBqLDq81avfO6k="
   },
   {
    "k": "N",
@@ -4622,7 +5011,9 @@
      },
      "at": "lo más extraño de todo"
     }
-   ]
+   ],
+   "gen": "iG7N0dtocwqiJEc7Ihqe",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KPgAXe0m310wJdGILXrO/iG7N0dtocwqiJEc7Ihqe/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=KAYebLAhduKUO0thacFtTZSR2mU="
   },
   {
    "k": "N",
@@ -4646,7 +5037,9 @@
       "Historia de la decadencia y caída del Imperio romano · 1776 – 1789"
      ]
     }
-   ]
+   ],
+   "gen": "efVZ6JPLKQ9Cx08EZDzr",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tFSemWTlHbKI4sBNnPpK/efVZ6JPLKQ9Cx08EZDzr/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=B-vUHJKH8zNBSHcmAeYoeYABf6w="
   },
   {
    "k": "R",
@@ -4662,7 +5055,9 @@
      },
      "at": "La decadencia"
     }
-   ]
+   ],
+   "gen": "c5pw4zcVPD4WklGRFEXa",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5lrI5Hwi215J3XeNxlz0/c5pw4zcVPD4WklGRFEXa/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Hk1CR32x-Sa9n9fx0wp7wKCi7Fs="
   },
   {
    "k": "T",
@@ -4693,7 +5088,9 @@
       "Estambul · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "ba68Tq6kk3S6Lt077NoM",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OPPf807iOkUjsoo6lZme/ba68Tq6kk3S6Lt077NoM/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=2aLNuOUDZSuId4LmbZnnBjMNFIU="
   },
   {
    "k": "N",
@@ -4734,7 +5131,9 @@
      },
      "at": "más de dos mil doscientos años"
     }
-   ]
+   ],
+   "gen": "JIa8dTgc2VTMXT84EKHi",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HL4fvX8TmSLFumIgwES7/JIa8dTgc2VTMXT84EKHi/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Yh4S3Mhl0D-c-9raeeRtTzBGaVU="
   },
   {
    "k": "N",
@@ -4768,7 +5167,9 @@
       "Cáceres · 104-106 d. C."
      ]
     }
-   ]
+   ],
+   "gen": "GiGbDPUZZEzZ6dAJT46K",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Qemxi0ALjCPAiplk7VNf/GiGbDPUZZEzZ6dAJT46K/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=BGW_oWggK33R08uDjQbP9XuNa6E="
   },
   {
    "k": "N",
@@ -4790,7 +5191,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "plata"
     }
-   ]
+   ],
+   "gen": "pgouJqyuzvWjtKRjanS4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/L6cCSCqMfrZfjSTLdKsc/pgouJqyuzvWjtKRjanS4/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=eWZQ7OV1xnV8vSkOoEJPSSnAKTA="
   },
   {
    "k": "N",
@@ -4811,7 +5214,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "seguimos aquí"
     }
-   ]
+   ],
+   "gen": "mQcfOteSgvFIxCWhrHCW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vBoqBbRBFfl2S53oLIVg/mQcfOteSgvFIxCWhrHCW/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=Uw-EN1d_qguQ6OPnCHnVrdnX-G0="
   },
   {
    "k": "N",
@@ -4819,11 +5224,12 @@
    "voice": "ESP",
    "shots": [
     {
-     "photo": "a lone Roman legionary standing on a hill at sunset looking ",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://www.figma.com/api/mcp/asset/accb0de4-1419-4c81-8aa8-8f1b8a9fd0c5.png",
      "at": "Se convirtió en nosotros"
     }
-   ]
+   ],
+   "gen": "uFH1GuhGQg2KnjpwGI8e",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xetb3l5VBbCyNGCLNIQq/uFH1GuhGQg2KnjpwGI8e/content.mp3?Expires=1795161600&KeyName=assets-cdn-key-1&Signature=XoKRLibluXllsg3gT_nKXn7LWiQ="
   }
  ]
 }

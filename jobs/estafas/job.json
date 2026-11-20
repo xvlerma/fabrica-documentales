@@ -1,0 +1,3610 @@
+{
+ "permitir_sa": true,
+ "id": "estafas",
+ "title": "Las estafas más grandes de la historia: de Ponzi a Madoff",
+ "channel": "DocuVox",
+ "stage": "cast",
+ "align": true,
+ "align_model": "small",
+ "no_pad": true,
+ "reuse": {
+  "max": 1,
+  "gap": 99999
+ },
+ "auto_sfx": {},
+ "sfx_max": 5,
+ "max_shot": 7,
+ "min_shot": 1.6,
+ "anchor_lead": 0.1,
+ "bando": {
+  "estafa": [
+   196,
+   38,
+   34
+  ],
+  "victimas": [
+   80,
+   120,
+   168
+  ],
+  "autoridades": [
+   150,
+   144,
+   136
+  ]
+ },
+ "glossary": [
+  {
+   "term": "Esquema Ponzi",
+   "on": "esquema Ponzi",
+   "def": "pagar a los primeros inversores con el dinero de los que llegan después"
+  },
+  {
+   "term": "SEC",
+   "on": "nació la SEC",
+   "def": "Comisión de Bolsa y Valores: el vigilante de los mercados de EE. UU."
+  },
+  {
+   "term": "CNMV",
+   "on": "Comisión Nacional del Mercado de Valores",
+   "def": "el vigilante de la Bolsa en España"
+  },
+  {
+   "term": "Audiencia Nacional",
+   "on": "la Audiencia Nacional",
+   "def": "tribunal que juzga los grandes delitos económicos en España"
+  }
+ ],
+ "theme": {
+  "base": "crimen",
+  "grade": "frio"
+ },
+ "music": {
+  "tema": {
+   "mixkit": "https://assets.mixkit.co/music/597/597.mp3",
+   "title": "Vertigo"
+  },
+  "tension": {
+   "mixkit": "https://assets.mixkit.co/music/552/552.mp3",
+   "title": "Masking the Masters"
+  },
+  "drama": {
+   "mixkit": "https://assets.mixkit.co/music/546/546.mp3",
+   "title": "The Farewell"
+  },
+  "ironia": {
+   "mixkit": "https://assets.mixkit.co/music/647/647.mp3",
+   "title": "Fun Jazz"
+  },
+  "fondo": {
+   "mixkit": "https://assets.mixkit.co/music/565/565.mp3",
+   "title": "Fallen (Asper)"
+  }
+ },
+ "audio": {
+  "voice_db": -20,
+  "bed_db": {
+   "tema": -36,
+   "tension": -37,
+   "drama": -37,
+   "ironia": -37,
+   "fondo": -37
+  },
+  "inter_db": -22,
+  "pause_stretch": 0.45,
+  "pause_cap": 0.6,
+  "gap_n": 1.5,
+  "gap_q": 1.0
+ },
+ "tempo": 0.9,
+ "parts": 4,
+ "codec": "hevc",
+ "max_kbps": 750,
+ "audio_kbps": "112k",
+ "intro": [
+  "assets/intro/docuvox.mp4"
+ ],
+ "seed": 1920,
+ "qpicks": {},
+ "picks": {},
+ "rev": 1,
+ "units": [
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Nueva York, diez de diciembre de dos mil ocho. Wall Street se hunde en la peor crisis desde mil novecientos veintinueve. Y en una oficina del centro de Manhattan, uno de los financieros más respetados del mundo llama a sus dos hijos a su despacho.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Lipstick Building New York",
+     "src": "commons,loc,europeana",
+     "at": "Nueva York",
+     "lt": [
+      "El edificio Lipstick",
+      "Tercera Avenida, Nueva York · sede de la firma Madoff"
+     ]
+    },
+    {
+     "photo": "traders on a New York stock exchange floor in 2008 holding t",
+     "src": "commons,loc,europeana",
+     "at": "Wall Street se hunde"
+    },
+    {
+     "photo": "an executive office high in a Manhattan skyscraper at night,",
+     "src": "commons,loc,europeana",
+     "at": "llama a sus dos hijos"
+    }
+   ],
+   "gen": "KMJmQckb0ZSWEzT7v47m",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/a7dBOidNR3ZXNCmsZlnj/KMJmQckb0ZSWEzT7v47m/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=lShiUj52Ew-46CMuNq3IgUyslE0="
+  },
+  {
+   "k": "N",
+   "text": "Les dice que ya no puede más. Que no le queda nada. Y les dice una frase que ellos repetirán ante las autoridades al día siguiente.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "close-up of an old man's hands resting on a polished desk, a",
+     "src": "commons,loc,europeana",
+     "at": "ya no puede más"
+    },
+    {
+     "photo": "two men in suits standing frozen in a dark office doorway, b",
+     "src": "commons,loc,europeana",
+     "at": "les dice una frase"
+    }
+   ],
+   "gen": "yc0DK1v4yyXPQcsGe9v0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/14aZdJScc2YuUu8jluFL/yc0DK1v4yyXPQcsGe9v0/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=tL4uZl_QGkW_T4gseC6PiD6yYRQ="
+  },
+  {
+   "k": "R",
+   "text": "[softly] Todo es una gran mentira.",
+   "voice": "MAD",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Todo es una gran mentira.",
+      "attrib": "Bernard Madoff a sus hijos · 10 de diciembre de 2008, según la denuncia de la SEC"
+     },
+     "at": "Todo es"
+    }
+   ],
+   "gen": "Mgzw61EqX0IqttiaI8jg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XHFxil7GGtyC8ltvNQbU/Mgzw61EqX0IqttiaI8jg/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=7rWNpxtjWoiA9UZm-zoPLd1nJUk="
+  },
+  {
+   "k": "N",
+   "text": "[serious] Ese hombre se llamaba Bernard Madoff. Había presidido el Nasdaq, la bolsa tecnológica de Nueva York. Y durante décadas había dirigido la mayor estafa piramidal de la historia: sesenta y cinco mil millones de dólares en cuentas que, sobre el papel, existían. Y que en realidad no existían.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Bernard Madoff mugshot 2009",
+     "src": "commons,loc,europeana",
+     "at": "Bernard Madoff",
+     "lt": [
+      "Bernard Madoff",
+      "Financiero · expresidente del Nasdaq",
+      "estafa"
+     ]
+    },
+    {
+     "photo": "Nasdaq MarketSite Times Square",
+     "src": "commons,loc,europeana",
+     "at": "el Nasdaq"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 65000,
+      "label": "millones de dólares en cuentas que no existían",
+      "prefix": "$"
+     },
+     "at": "sesenta y cinco mil millones"
+    }
+   ],
+   "gen": "uusUC9Ljif7Rbs1nbIzG",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/caNVhDNUzoEO1eE9BRJu/uusUC9Ljif7Rbs1nbIzG/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=bnDAux5R-gb3TtdxG1FFvZq5ZGA="
+  },
+  {
+   "k": "N",
+   "text": "Apenas un año antes, en un debate público sobre los mercados, ese mismo hombre había dicho esto.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a small conference stage with a panel table and microphones ",
+     "src": "commons,loc,europeana",
+     "at": "en un debate público"
+    }
+   ],
+   "gen": "vFIvvGLpQ4AAbRKhkDne",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/u2lL919Av3LfuI5qm9f5/vFIvvGLpQ4AAbRKhkDne/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=MxfgNZosR6tfp8iTTTbcDpHtf3Q="
+  },
+  {
+   "k": "R",
+   "text": "En el entorno regulatorio actual, es prácticamente imposible violar las normas. Es imposible que una infracción pase desapercibida. Y desde luego, no durante mucho tiempo.",
+   "voice": "MAD",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Es imposible que una infracción pase desapercibida. Y desde luego, no durante mucho tiempo.",
+      "attrib": "Bernard Madoff · debate público, octubre de 2007"
+     },
+     "at": "En el entorno regulatorio"
+    }
+   ],
+   "gen": "21nMutKwQFPz05gj261l",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DyzTWy2NgOtktv7taC2U/21nMutKwQFPz05gj261l/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=5EP1-Chs3nhZb3iZ25LSPfKtG_0="
+  },
+  {
+   "k": "N",
+   "text": "Pero Madoff no inventó nada. Casi dos siglos antes, un escocés ya había vendido un país entero que no existía. Un inmigrante italiano dio su nombre a la estafa. Un conde falso vendió la Torre Eiffel. Dos veces. Y el hombre más poderoso de Suecia apareció muerto en París cuando su imperio de papel empezó a arder.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Gregor MacGregor portrait",
+     "src": "commons,loc,europeana",
+     "at": "un escocés"
+    },
+    {
+     "photo": "Charles Ponzi 1920",
+     "src": "commons,loc,europeana",
+     "at": "Un inmigrante italiano"
+    },
+    {
+     "photo": "Eiffel Tower 1920s",
+     "src": "commons,loc,europeana",
+     "at": "la Torre Eiffel"
+    },
+    {
+     "photo": "Ivar Kreuger",
+     "src": "commons,loc,europeana",
+     "at": "Suecia"
+    }
+   ],
+   "gen": "1gDnSfGN2Cd3YqbJcIPD",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QXUVPjxBIIXBnz6m5iqd/1gDnSfGN2Cd3YqbJcIPD/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=8R9AQ7OklABwodublLNp1b10Bf0="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Y en España, casi medio millón de familias metieron sus ahorros en algo tan inocente como un álbum de sellos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "an open stamp collection album on a kitchen table in a modes",
+     "src": "commons,loc,europeana",
+     "at": "un álbum de sellos"
+    }
+   ],
+   "gen": "wZgp5qXBJrYXCbQd2tzJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pwHZUmNuHqGospHBbO00/wZgp5qXBJrYXCbQd2tzJ/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=ORi5yXm97PNZy1g8dU_S6q4fdrU="
+  },
+  {
+   "k": "N",
+   "text": "Seis expedientes. Seis disfraces del mismo engaño. ¿Cómo se convence a miles de personas a la vez? ¿Por qué nadie lo vio venir, ni los bancos, ni los gobiernos, ni los expertos? [pause] ¿Y podría volver a pasarte a ti?",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "a row of six worn cardboard case files tied with red string ",
+     "src": "commons,loc,europeana",
+     "at": "Seis expedientes"
+    },
+    {
+     "photo": "a long queue of people in winter coats waiting outside a clo",
+     "src": "commons,loc,europeana",
+     "at": "podría volver"
+    }
+   ],
+   "gen": "V8MtHIVwMfHCP8WSoBAS",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/E26Q2ZDH9ZFlPmk6msYE/V8MtHIVwMfHCP8WSoBAS/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=x3IocFfbaF7wBahOfu79lHrOAxg="
+  },
+  {
+   "k": "T",
+   "secs": 5.5,
+   "sting": "tema",
+   "chapter": false,
+   "text": "[dramatically] Las estafas más grandes de la historia. De Ponzi a Madoff.",
+   "voice": "NAR",
+   "card": {
+    "type": "title",
+    "title": "Las estafas más grandes de la historia",
+    "sub": "De Ponzi a Madoff"
+   },
+   "gen": "64DRDoNCtYstBDU09gfr",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aEFQ7LkakNn1bq72rgWx/64DRDoNCtYstBDU09gfr/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=CufPoibFfCesMFMlMRzw5aQghXw="
+  },
+  {
+   "k": "B",
+   "track": "fondo"
+  },
+  {
+   "k": "N",
+   "text": "Antes de abrir el primer expediente, hay que entender el truco. Porque casi todas estas historias usan el mismo, con distinto disfraz.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a street hustler's hands moving three cups on a small foldin",
+     "src": "commons,loc,europeana",
+     "at": "el truco"
+    }
+   ],
+   "gen": "cWjiQDsU2WSjOh7dniUP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XyXpXaVY51OhgMJCgYOu/cWjiQDsU2WSjOh7dniUP/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=c_-R5d89WwDMx_RA9Rgfm_6UsbQ="
+  },
+  {
+   "k": "N",
+   "text": "Funciona así. Alguien te promete una rentabilidad alta y, sobre todo, segura. Le das tu dinero. Al cabo de unos meses, te paga lo prometido. Puntual. [short pause] Lo que no sabes es que ese dinero no sale de ningún negocio. Sale del bolsillo del siguiente que ha llegado.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Cómo funciona una pirámide",
+      "items": [
+       [
+        "La promesa",
+        "una rentabilidad alta y segura"
+       ],
+       [
+        "El pago puntual",
+        "con el dinero del que llega después"
+       ],
+       [
+        "El boca a boca",
+        "los primeros traen a otros"
+       ],
+       [
+        "El derrumbe",
+        "cuando dejan de entrar nuevos"
+       ]
+      ]
+     },
+     "at": "Funciona así"
+    }
+   ],
+   "gen": "zZA2ew4ctbXiPhDR06ML",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jpcKwMFCujrlo6Wl45lT/zZA2ew4ctbXiPhDR06ML/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=-KQRk2sgaOp4fpdBPNCpl55qnVM="
+  },
+  {
+   "k": "N",
+   "text": "Mientras entre dinero nuevo, la rueda gira. Los primeros cobran, les cuentan a sus amigos que funciona, y los amigos traen a más amigos. Pero cada promesa exige más dinero que la anterior. Y el día que dejan de llegar nuevos inversores, o que muchos piden su dinero a la vez, la pirámide se derrumba en cuestión de días.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "hands passing a thick envelope of banknotes across a table t",
+     "src": "commons,loc,europeana",
+     "at": "la rueda gira"
+    },
+    {
+     "photo": "friends around a dinner table raising glasses in a warm 1950",
+     "src": "commons,loc,europeana",
+     "at": "los amigos traen"
+    },
+    {
+     "photo": "a long line of falling dominoes on a dark wooden table, moti",
+     "src": "commons,loc,europeana",
+     "at": "se derrumba"
+    }
+   ],
+   "gen": "eYmjJBLAo9iEj0N6lJRg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6R5cZ7Pp4hbY5Xeg3IbC/eYmjJBLAo9iEj0N6lJRg/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=eN8GNuhe9JPekVHznFvX9BkzoSs="
+  },
+  {
+   "k": "N",
+   "text": "Hoy lo llamamos esquema Ponzi. Pero el primer gran maestro del engaño financiero moderno no fue Ponzi. Fue un soldado escocés que, un siglo antes, se coronó príncipe de un país imaginario.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Gregor MacGregor portrait",
+     "src": "commons,loc,europeana",
+     "at": "soldado escocés"
+    }
+   ],
+   "gen": "tWID9GAECpwUovPBqR2F",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/V8nKNVMKO3tdEyjtiQ8B/tWID9GAECpwUovPBqR2F/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=mx9Efo4Xyw8GNhIHgUV-1iawmaA="
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El país que no existía",
+    "sub": "Londres, 1822",
+    "num": "I"
+   }
+  },
+  {
+   "k": "R",
+   "text": "Expediente número uno. Sospechoso: Gregor MacGregor, militar escocés. Se hace llamar príncipe. Delito: vender bonos, tierras y cargos de un país que no existe. Víctimas: cientos de inversores y unos doscientos cincuenta colonos.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Gregor MacGregor",
+      "role": "Se hace llamar cacique de Poyais",
+      "group": "Expediente I · un país inventado",
+      "color": [
+       196,
+       38,
+       34
+      ]
+     },
+     "at": "Expediente"
+    },
+    {
+     "photo": "Gregor MacGregor portrait",
+     "src": "commons,loc,europeana",
+     "at": "Sospechoso"
+    }
+   ],
+   "gen": "6W1FmNnVgMV2zX0YzWDw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kbUdyQrNY30x2QIzFWky/6W1FmNnVgMV2zX0YzWDw/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=1pTc1EKLqCKKlPeUPxBgETNnyOk="
+  },
+  {
+   "k": "B",
+   "track": "ironia"
+  },
+  {
+   "k": "N",
+   "text": "Londres, mil ochocientos veintiuno. Llega a la ciudad un hombre de uniforme, con medallas, una historia de película y un título que nadie había oído jamás: cacique de Poyais.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "London 1820s engraving",
+     "src": "commons,loc,europeana",
+     "at": "Londres",
+     "lt": [
+      "Londres",
+      "Grabado de la época"
+     ]
+    },
+    {
+     "photo": "Gregor MacGregor portrait",
+     "src": "commons,loc,europeana",
+     "at": "un hombre de uniforme",
+     "lt": [
+      "Gregor MacGregor",
+      "Militar y aventurero escocés · 1786-1845",
+      "estafa"
+     ]
+    },
+    {
+     "photo": "a candlelit Regency-era London drawing room full of gentleme",
+     "src": "commons,loc,europeana",
+     "at": "una historia de película"
+    }
+   ],
+   "gen": "obsqcoYjYb7y3xHJfqNH",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/otqOPsltwyRW0M0ScNaK/obsqcoYjYb7y3xHJfqNH/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=okbo7AQiLnsJdSnj6AkmVzGKQB0="
+  },
+  {
+   "k": "N",
+   "text": "Se llamaba Gregor MacGregor. Era escocés y había luchado de verdad en las guerras de independencia de Sudamérica, a las órdenes de Simón Bolívar. Eso no era mentira. Lo que vino después, sí.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "a 19th-century South American independence war cavalry charg",
+     "src": "commons,loc,europeana",
+     "at": "guerras de independencia"
+    },
+    {
+     "photo": "Simon Bolivar portrait",
+     "src": "commons,loc,europeana",
+     "at": "Simón Bolívar",
+     "lt": [
+      "Simón Bolívar",
+      "Libertador sudamericano"
+     ]
+    }
+   ],
+   "gen": "gVumgtGllq8PNN9VYcqo",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RTOAMnItAqVAIR4H3cKf/gVumgtGllq8PNN9VYcqo/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=dWWDUHNpuNDDWY6JwzDx_sTSbNg="
+  },
+  {
+   "k": "N",
+   "text": "MacGregor contaba que el rey de la costa de los Mosquitos, en la actual Honduras, le había regalado un territorio enorme. Un país con su capital, su catedral, su teatro, su banco y ríos donde el oro se recogía casi con la mano. Un paraíso esperando a colonos británicos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "map",
+      "title": "La costa de los Mosquitos · 1820",
+      "bbox": [
+       -88.5,
+       13.0,
+       -82.5,
+       17.5
+      ],
+      "points": [
+       {
+        "name": "«Poyais»",
+        "lon": -84.9,
+        "lat": 15.9,
+        "big": 1
+       },
+       {
+        "name": "Belice",
+        "lon": -88.2,
+        "lat": 17.25
+       },
+       {
+        "name": "Golfo de Honduras",
+        "lon": -87.5,
+        "lat": 16.2
+       }
+      ]
+     },
+     "at": "costa de los Mosquitos"
+    },
+    {
+     "photo": "an idealised 19th-century view of a colonial tropical capita",
+     "src": "commons,loc,europeana",
+     "at": "su capital"
+    },
+    {
+     "photo": "a hand scooping gold nuggets from a crystal clear jungle riv",
+     "src": "commons,loc,europeana",
+     "at": "el oro se recogía"
+    }
+   ],
+   "gen": "mLGwDGxvKaybFcUl1EGl",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/b6J1gFLUKsA5ZaUJ6gco/mLGwDGxvKaybFcUl1EGl/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=vWuazJWGE6eCLt1vV7dQmYFlh0I="
+  },
+  {
+   "k": "R",
+   "text": "Esbozo de la costa de los Mosquitos y del territorio de Poyais. Por el capitán Thomas Strangeways. Londres, mil ochocientos veintidós.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Sketch of the Mosquito Shore",
+      "lines": [
+       "Guía del territorio de Poyais",
+       "Atribuida al «capitán Thomas Strangeways»",
+       "Londres, 1822"
+      ],
+      "source": "El autor no existía: el libro se atribuye al propio MacGregor"
+     },
+     "at": "Esbozo"
+    }
+   ],
+   "gen": "yhvDjFK9LqHcNYr0UaIh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/i9SI2LuSNwct8heGPLWA/yhvDjFK9LqHcNYr0UaIh/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=5Ai5iXfbpBiemsx6H5QB9TVS8tM="
+  },
+  {
+   "k": "N",
+   "text": "Ese libro de más de trescientas páginas describía el clima, los cultivos, las costumbres de los nativos. Su autor, el capitán Strangeways, no existía. Los historiadores lo atribuyen al propio MacGregor. [short pause] Era, quizá, la primera gran campaña de marketing de una estafa.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Sketch of the Mosquito Shore 1822 title page",
+     "src": "commons,loc,europeana",
+     "at": "Ese libro"
+    },
+    {
+     "photo": "a quill pen writing in a thick leather-bound manuscript by c",
+     "src": "commons,loc,europeana",
+     "at": "no existía"
+    },
+    {
+     "photo": "Poyais land grant certificate",
+     "src": "commons,loc,europeana",
+     "at": "campaña de marketing",
+     "kw": "MARKETING",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "xnXfKZ4paBBQi9lVxhhK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yVEVfDQhsrJHA7p9qhvc/xnXfKZ4paBBQi9lVxhhK/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=9GOD81xLrt16lh16TQIhNPrVDZU="
+  },
+  {
+   "k": "N",
+   "text": "Y funcionó. En octubre de mil ochocientos veintidós, la City de Londres le concedió un préstamo a nombre del gobierno de Poyais: doscientas mil libras. Vendía bonos del Estado, tierras a precio de saldo y hasta cargos de oficial en su ejército. Imprimió incluso billetes de su propio banco.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Royal Exchange London 19th century",
+     "src": "commons,loc,europeana",
+     "at": "la City de Londres",
+     "lt": [
+      "La Bolsa de Londres",
+      "Royal Exchange · siglo XIX"
+     ]
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 200000,
+      "label": "libras en bonos de un país inventado (1822)",
+      "prefix": "£"
+     },
+     "at": "doscientas mil libras"
+    },
+    {
+     "photo": "Poyais dollar banknote",
+     "src": "commons,loc,europeana",
+     "at": "billetes de su propio banco",
+     "lt": [
+      "Billete de Poyais",
+      "Dólar del «Banco de Poyais»"
+     ]
+    }
+   ],
+   "gen": "zZCSiQfsP79DxTnXoJkA",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MstNBvhFf8ZSKVVH8SL4/zZCSiQfsP79DxTnXoJkA/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=UD5wRpBnoPnf5Iglt7OsJuZmkco="
+  },
+  {
+   "k": "N",
+   "text": "[softly] Había para todos los gustos. Cargos en el banco de Poyais, grados de capitán en su guardia. Y un zapatero de Edimburgo fue nombrado, ni más ni menos, zapatero oficial de la corte del príncipe.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Poyais land grant certificate",
+     "src": "commons,loc,europeana",
+     "at": "ni más ni menos",
+     "kw": "ZAPATERO REAL",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    },
+    {
+     "photo": "a Scottish cobbler's workshop in 1822, leather boots on a be",
+     "src": "commons,loc,europeana",
+     "at": "zapatero oficial"
+    }
+   ],
+   "gen": "PbiVjVKsqU22Qja95Vkj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UhOnbvqjuKB7wAiE6Ji8/PbiVjVKsqU22Qja95Vkj/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=fTLZLAu5hhph8fD9oSCE3721akY="
+  },
+  {
+   "k": "N",
+   "text": "Muchos compradores eran escoceses de clase media. Gente que vendió lo que tenía para empezar de cero en el Nuevo Mundo. Cambiaron sus libras por dólares de Poyais, convencidos de que allí valdrían más.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a family's wooden trunks and a child's small suitcase on a f",
+     "src": "commons,loc,europeana",
+     "at": "empezar de cero"
+    },
+    {
+     "photo": "a bank counter in 1822 Edinburgh, a hand pushing gold sovere",
+     "src": "commons,loc,europeana",
+     "at": "Cambiaron sus libras"
+    }
+   ],
+   "gen": "AgpHwPwiDOsJJkaqssZ9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/iopdaMfAC6B4OZQMQeBP/AgpHwPwiDOsJJkaqssZ9/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=UV7_BqNqB4DnVTJFOrynP5E1pTk="
+  },
+  {
+   "k": "N",
+   "text": "[serious] En septiembre de mil ochocientos veintidós zarpó de Londres el primer barco, el Honduras Packet, con unos setenta colonos. En enero le siguió el Kennersley Castle, desde el puerto escocés de Leith, con casi doscientos más. Médicos, abogados, artesanos. Familias enteras.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a 19th-century sailing brig crossing a grey Atlantic sea und",
+     "src": "commons,loc,europeana",
+     "at": "el primer barco"
+    },
+    {
+     "photo": "Leith harbour 19th century",
+     "src": "commons,loc,europeana",
+     "at": "Leith",
+     "lt": [
+      "Puerto de Leith",
+      "Edimburgo, Escocia"
+     ]
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Los barcos de Poyais",
+      "events": [
+       [
+        "Sep 1822",
+        "Honduras Packet · unos 70 colonos"
+       ],
+       [
+        "Ene 1823",
+        "Kennersley Castle · casi 200"
+       ],
+       [
+        "1823",
+        "Lluvias, malaria y fiebre amarilla"
+       ]
+      ]
+     },
+     "at": "Familias enteras"
+    }
+   ],
+   "gen": "bnea774KpVCdQW3bY0g9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NNxb3PwZq41sS3vFVglw/bnea774KpVCdQW3bY0g9/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=ELi1d6IvqsP_e0t5EEmdgcnUFe4="
+  },
+  {
+   "k": "N",
+   "text": "Cuando llegaron a la costa, buscaron la capital. No había capital. No había catedral, ni teatro, ni banco. Había selva. Mosquitos. Un puñado de cabañas. Y unos nativos que no sabían nada de ningún príncipe de Poyais.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "settlers in 1820s clothes wading ashore from rowing boats on",
+     "src": "commons,loc,europeana",
+     "at": "buscaron la capital"
+    },
+    {
+     "photo": "an untouched tropical jungle coastline with a muddy river mo",
+     "src": "commons,loc,europeana",
+     "at": "Había selva"
+    },
+    {
+     "photo": "Mosquito Coast Honduras jungle river",
+     "src": "commons,loc,europeana",
+     "at": "Mosquitos",
+     "lt": [
+      "La Mosquitia",
+      "Honduras · hoy"
+     ]
+    }
+   ],
+   "gen": "phah2vk3HHdX1aNAuIfJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IdkXXo3dkXkGIjAGxKCP/phah2vk3HHdX1aNAuIfJ/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=Nj8uVUkqjJT0xKI5kZethML_geA="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Llegaron las lluvias. Y con ellas, la malaria y la fiebre amarilla. De los cerca de doscientos cincuenta colonos que viajaron a Poyais, más de la mitad murieron. El zapatero de la corte, desesperado, se quitó la vida.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "torrential tropical rain on a collapsing palm-leaf shelter a",
+     "src": "commons,loc,europeana",
+     "at": "Llegaron las lluvias"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 250,
+      "label": "colonos viajaron a Poyais · más de la mitad murieron"
+     },
+     "at": "doscientos cincuenta"
+    },
+    {
+     "photo": "simple wooden crosses on a rainy tropical beach at dusk, pal",
+     "src": "commons,loc,europeana",
+     "at": "más de la mitad murieron"
+    }
+   ],
+   "gen": "QRYmcwN4KPxl7MmwpG66",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9zjVZEycGnWGVcTszZjI/QRYmcwN4KPxl7MmwpG66/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=O6thlCYvtu85g5Xrj7TaCrI4KyQ="
+  },
+  {
+   "k": "N",
+   "text": "Los supervivientes fueron rescatados y llevados a la colonia británica de Belice. En octubre de mil ochocientos veintitrés, unos cincuenta volvieron a Londres. Y aquí viene lo más increíble: algunos seguían defendiendo a MacGregor. Pensaban que les habían fallado sus agentes, no él.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "a rescue ship's rowing boat taking exhausted ragged settlers",
+     "src": "commons,loc,europeana",
+     "at": "rescatados"
+    },
+    {
+     "photo": "a Londoner in a top hat reading a broadsheet newspaper on a ",
+     "src": "commons,loc,europeana",
+     "at": "volvieron a Londres"
+    },
+    {
+     "photo": "Gregor MacGregor portrait",
+     "src": "commons,loc,europeana",
+     "at": "seguían defendiendo",
+     "kw": "LO DEFENDÍAN",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "YEnTqgI7OdEtJcTHOTaT",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Pw3TGY1cfjxd4lctS96g/YEnTqgI7OdEtJcTHOTaT/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=qYOSWuZqhh9_7QerkRya3rDTGxk="
+  },
+  {
+   "k": "N",
+   "text": "MacGregor ya había huido a Francia, donde intentó el mismo golpe con inversores franceses. Lo juzgaron en París. Y salió absuelto. Volvió a Venezuela, que le reconoció su grado de general y una pensión, y murió en Caracas en mil ochocientos cuarenta y cinco. [short pause] Nunca fue condenado por nada.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a 1820s Paris courtroom with dark wood panelling and a judge",
+     "src": "commons,loc,europeana",
+     "at": "Lo juzgaron en París"
+    },
+    {
+     "photo": "Caracas 19th century",
+     "src": "commons,loc,europeana",
+     "at": "murió en Caracas"
+    },
+    {
+     "photo": "Gregor MacGregor portrait",
+     "src": "commons,loc,europeana",
+     "at": "Nunca fue condenado",
+     "kw": "NUNCA CONDENADO",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "t4dOuOh8JofdR1A58PPr",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/W0Ny3vuRapIjWe2k8jXP/t4dOuOh8JofdR1A58PPr/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=F6-rwMbrtqWzREyPbWnh9qrywo4="
+  },
+  {
+   "k": "N",
+   "text": "Poyais nos deja la primera lección de este expediente. A la gente no se la engaña con números. Se la engaña con una historia que quiere creer.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "A la gente no se la engaña con números. Se la engaña con una historia que quiere creer.",
+      "attrib": "Expediente I · Poyais · caso cerrado"
+     },
+     "at": "primera lección"
+    }
+   ],
+   "gen": "P91SzGqGz7b0zqI5u3Z1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5XhcLWLTwSPsHm8y2Tl5/P91SzGqGz7b0zqI5u3Z1/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=PO250ED4oY-z2Lb2HTmLa0FUnAI="
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El hombre que dio nombre a la estafa",
+    "sub": "Boston, 1920",
+    "num": "II"
+   }
+  },
+  {
+   "k": "R",
+   "text": "Expediente número dos. Sospechoso: Carlo Ponzi, también llamado Charles. Inmigrante italiano, antecedentes por falsificación. Delito: prometer un cincuenta por ciento en cuarenta y cinco días. Víctimas: decenas de miles.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Charles Ponzi",
+      "role": "Inmigrante italiano · antecedentes por falsificación",
+      "group": "Expediente II · 50 % en 45 días",
+      "color": [
+       196,
+       38,
+       34
+      ]
+     },
+     "at": "Expediente"
+    },
+    {
+     "photo": "Charles Ponzi mugshot",
+     "src": "commons,loc,europeana",
+     "at": "Sospechoso"
+    }
+   ],
+   "gen": "Jy0o7q7ESAiVdSnV5bsg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zKpDA6pD3tWwyytHS8TX/Jy0o7q7ESAiVdSnV5bsg/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=pxZEDFD5cbxbaf7pjrbra5G_ZGA="
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Boston, agosto de mil novecientos diecinueve. Un inmigrante italiano de poco más de metro y medio, elegante, sin un dólar en el bolsillo, abre una carta que le ha llegado desde España. Dentro hay un pequeño cupón de correos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Boston 1920 street",
+     "src": "commons,loc,europeana",
+     "at": "Boston",
+     "lt": [
+      "Boston",
+      "Estados Unidos · hacia 1920"
+     ]
+    },
+    {
+     "photo": "Charles Ponzi 1920",
+     "src": "commons,loc,europeana",
+     "at": "Un inmigrante italiano",
+     "lt": [
+      "Charles Ponzi",
+      "Inmigrante italiano · 1882-1949",
+      "estafa"
+     ]
+    },
+    {
+     "photo": "International reply coupon",
+     "src": "commons,loc,europeana",
+     "at": "un pequeño cupón"
+    }
+   ],
+   "gen": "Bjj1bJ00Cn0D0hqW7pqH",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/A11vIYuJ5NsvRuSyB3Hf/Bjj1bJ00Cn0D0hqW7pqH/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=djiSRlXr1qasWovQEWFDS5E4IUs="
+  },
+  {
+   "k": "N",
+   "text": "Se llamaba Carlo Ponzi, aunque en América todos le conocían como Charles. Allí había fregado platos, trabajado de camarero y pasado por la cárcel en Canadá por falsificar un cheque. [short pause] Y aquel cupón le dio una idea.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Charles Ponzi portrait",
+     "src": "commons,loc,europeana",
+     "at": "Carlo Ponzi"
+    },
+    {
+     "photo": "a young immigrant's hands washing dishes in a steaming resta",
+     "src": "commons,loc,europeana",
+     "at": "fregado platos"
+    }
+   ],
+   "gen": "qUHyXUsuxtlA9ewDVHmq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ydIMqIuAyilUfD9S3oyh/qUHyXUsuxtlA9ewDVHmq/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=U0RZDloL86nnxBn0-i2BKVx0Zig="
+  },
+  {
+   "k": "R",
+   "text": "Llegué a este país con dos dólares y cincuenta centavos en efectivo y un millón de dólares en esperanzas. Y esas esperanzas nunca me abandonaron.",
+   "voice": "PON",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Llegué a este país con 2,50 dólares en efectivo y un millón de dólares en esperanzas. Y esas esperanzas nunca me abandonaron.",
+      "attrib": "Charles Ponzi a The New York Times"
+     },
+     "at": "Llegué a este país"
+    },
+    {
+     "photo": "immigrants crowding the deck of a steamship arriving in Bost",
+     "src": "commons,loc,europeana",
+     "at": "dos dólares"
+    }
+   ],
+   "gen": "b5cNB0lGmmqIRnpIp9jn",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/40WAzUdBekdOi4nRJrLh/b5cNB0lGmmqIRnpIp9jn/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=344gJQMJg_Y0USfjXkWyLQAhhmA="
+  },
+  {
+   "k": "N",
+   "text": "Era un cupón de respuesta internacional. Se compraba en un país y se canjeaba en otro por sellos. Pero tras la Primera Guerra Mundial, las monedas europeas se habían hundido. Un cupón comprado barato en Italia o en España se canjeaba en Estados Unidos por sellos que valían bastante más.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "International reply coupon Universal Postal Union",
+     "src": "commons,loc,europeana",
+     "at": "cupón de respuesta internacional",
+     "lt": [
+      "Cupón de respuesta internacional",
+      "Unión Postal Universal"
+     ]
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Se compra en Europa",
+       "lines": [
+        "Moneda hundida tras la guerra",
+        "El cupón sale muy barato"
+       ]
+      },
+      "right": {
+       "title": "Se canjea en EE. UU.",
+       "lines": [
+        "Sellos en dólares",
+        "Valen varias veces más"
+       ]
+      },
+      "strike": false
+     },
+     "at": "las monedas europeas"
+    }
+   ],
+   "gen": "vNP4ghdH05F0MbW0U8w4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0IEGbIrrse4wDxRpNG0J/vNP4ghdH05F0MbW0U8w4/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=d-3q3aYov02Byg_-NEbU-O3i4sc="
+  },
+  {
+   "k": "N",
+   "text": "Sobre el papel, era un negocio legal. En la práctica, era imposible a gran escala: había que comprar, transportar y canjear millones de cupones, y el beneficio de cada uno se medía en céntimos. [pause] Ponzi nunca lo hizo de verdad.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "International reply coupon",
+     "src": "commons,loc,europeana",
+     "at": "imposible a gran escala",
+     "kw": "IMPOSIBLE",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "TUm0qlqN53nIiJP0mmAI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HDG0pIqAk3afH7kgE483/TUm0qlqN53nIiJP0mmAI/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=m9Wt_gxU8_9AKL2IJZPBtEp1Ze8="
+  },
+  {
+   "k": "N",
+   "text": "En enero de mil novecientos veinte fundó una empresa con un nombre imponente: Securities Exchange Company. Y lanzó una promesa que nadie había oído: un cincuenta por ciento de beneficio en cuarenta y cinco días.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Charles Ponzi office Boston",
+     "src": "commons,loc,europeana",
+     "at": "fundó una empresa"
+    },
+    {
+     "photo": "Boston 1920 bank",
+     "src": "commons,loc,europeana",
+     "at": "un cincuenta por ciento",
+     "kw": "50 % EN 45 DÍAS",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "CNhW6bvXVb15SNYVETNh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pZ0D3PuEJokeOdnOfRtV/CNhW6bvXVb15SNYVETNh/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=NHeAuVLyHudrnvk33SJZYuWfXSI="
+  },
+  {
+   "k": "N",
+   "text": "Para que te hagas una idea: los bancos pagaban entonces en torno a un cinco por ciento al año. Ponzi ofrecía diez veces más en seis semanas. Y lo más importante: los primeros clientes cobraron. Puntualmente.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Un banco de 1920",
+       "lines": [
+        "Cerca de un 5 % al año"
+       ]
+      },
+      "right": {
+       "title": "Charles Ponzi",
+       "lines": [
+        "50 % en 45 días",
+        "Pagado puntualmente… al principio"
+       ]
+      },
+      "strike": false
+     },
+     "at": "los bancos pagaban"
+    }
+   ],
+   "gen": "y0erUBVTq8Kn2EL7nD4K",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xUvXXnIzVljqbuwJsp57/y0erUBVTq8Kn2EL7nD4K/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=0clx41hAvJfrh7fj2-31am0oebk="
+  },
+  {
+   "k": "N",
+   "text": "Cobraron con el dinero de los que llegaban detrás. Pero eso nadie lo sabía. Lo que se sabía en Boston era que el italiano pagaba. Y el rumor corrió como la pólvora. En primavera entraban miles de dólares a la semana. En verano, cientos de miles al día.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a 1920s office desk drawer overflowing with crumpled dollar ",
+     "src": "commons,loc,europeana",
+     "at": "cientos de miles al día"
+    }
+   ],
+   "gen": "wlZJ1rwQw1sMLBQ61kti",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HkTv6IgjFG6KA2D46nsj/wlZJ1rwQw1sMLBQ61kti/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=a8uXlvDJ4l7F6MlCAx4537mDvM4="
+  },
+  {
+   "k": "N",
+   "text": "Las colas daban la vuelta a la manzana en Hanover Street. Según la revista Time, en los días de más jaleo hacían falta seis policías a caballo para ordenar a la multitud en la calle. En siete meses, unas treinta mil personas le confiaron más de diez millones de dólares. Se dijo incluso que buena parte de la policía de Boston había invertido con él.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Ponzi crowd Boston 1920",
+     "src": "commons,loc,europeana",
+     "at": "Las colas"
+    },
+    {
+     "photo": "Boston mounted police 1920",
+     "src": "commons,loc,europeana",
+     "at": "seis policías a caballo"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 10000000,
+      "label": "dólares de unas 30.000 personas en siete meses (1920)",
+      "prefix": "$"
+     },
+     "at": "diez millones"
+    }
+   ],
+   "gen": "0W9bbnWTi4IIr89Aov8H",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oqF5T1jGnXKaIQm09NvP/0W9bbnWTi4IIr89Aov8H/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=H-k4HJzkzNLkeoFu26HJ-a0ZMU0="
+  },
+  {
+   "k": "N",
+   "text": "Ponzi se compró una mansión con piscina climatizada, se hizo con una parte de un banco y paseaba en limusina. Los periódicos le llamaban mago de las finanzas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Ponzi mansion Lexington Massachusetts",
+     "src": "commons,loc,europeana",
+     "at": "una mansión"
+    },
+    {
+     "photo": "Charles Ponzi 1920 car",
+     "src": "commons,loc,europeana",
+     "at": "paseaba en limusina"
+    }
+   ],
+   "gen": "fd27DmWDK2VY0a7UOld8",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/M8y3ffDLPpH98q0IZdKG/fd27DmWDK2VY0a7UOld8/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=dKBRr8OdFcBQkpzQEkX6D62fmQM="
+  },
+  {
+   "k": "R",
+   "text": "Cuanto más compraba, más quería comprar. Era una manía.",
+   "voice": "PON",
+   "shots": [
+    {
+     "photo": "a velvet jewellery box overflowing with diamond necklaces an",
+     "src": "commons,loc,europeana",
+     "at": "Era una manía"
+    }
+   ],
+   "gen": "F7kRl14pLNzUx2MADNPy",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/48sY1QznsJn2aUUXegOU/F7kRl14pLNzUx2MADNPy/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=IhJOEOA4P1ido0MI1cs7rW0JOnQ="
+  },
+  {
+   "k": "R",
+   "text": "Cuando gane mi primer millón, todo lo que pase de ese millón lo gastaré en intentar hacer el bien en el mundo.",
+   "voice": "PON",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Todo lo que pase de mi primer millón lo gastaré en intentar hacer el bien en el mundo.",
+      "attrib": "Charles Ponzi a The New York Times · 1920"
+     },
+     "at": "hacer el bien"
+    }
+   ],
+   "gen": "AkdVSdwpmwFHa6GjpNU9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0vXaOHfwXhoItOLwaBR1/AkdVSdwpmwFHa6GjpNU9/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=4xR4xW7Jr1fp0uHbfn-UUqUR9OE="
+  },
+  {
+   "k": "N",
+   "text": "No todo el mundo se lo tragaba. Un veterano del oficio, William Miller, que en mil ochocientos noventa y nueve había estafado más de un millón de dólares en Brooklyn con un truco parecido, le dijo a un periodista de Nueva York una frase deliciosa.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "an older man in a 1920s suit reading a newspaper by a barred",
+     "src": "commons,loc,europeana",
+     "at": "William Miller"
+    }
+   ],
+   "gen": "IAULB02x1qItpBCdOKAW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZdTfpzW0Xc6VQa22e5mg/IAULB02x1qItpBCdOKAW/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=l2GAKWwGQvY3CHzbrkHXS-2LpSE="
+  },
+  {
+   "k": "R",
+   "text": "Puede que yo sea algo torpe, pero no entiendo cómo Ponzi ha ganado tanto dinero en tan poco tiempo.",
+   "voice": "JUE",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Puede que yo sea algo torpe, pero no entiendo cómo Ponzi ha ganado tanto dinero en tan poco tiempo.",
+      "attrib": "William «520 %» Miller, estafador, al New York Evening World · 1920"
+     },
+     "at": "Puede que"
+    }
+   ],
+   "gen": "ZWQLDbGt3wOfVRLHrWIl",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/L5mFozC2hHInahrhcvGh/ZWQLDbGt3wOfVRLHrWIl/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=OpWJlZOBKG-giancd_KToJz9Jvc="
+  },
+  {
+   "k": "N",
+   "text": "Cuando empezaron las dudas, cientos de clientes asustados se agolparon a la vez para pedir su dinero. Y Ponzi hizo algo genial: pagó a todos. Según las crónicas, devolvió unos dos millones de dólares en tres días. Y mientras la gente esperaba en la cola, mandó repartir café y rosquillas. Muchos, tranquilizados, volvieron a dejar su dinero.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 2000000,
+      "label": "dólares devueltos en tres días para calmar el pánico",
+      "prefix": "$"
+     },
+     "at": "dos millones de dólares"
+    },
+    {
+     "photo": "a 1920s Boston street queue of men in flat caps and coats, a",
+     "src": "commons,loc,europeana",
+     "at": "café y rosquillas"
+    }
+   ],
+   "gen": "7JP9DFOgZJdpZV3rJPV3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IHlSOt19ySB4EINVWMgb/7JP9DFOgZJdpZV3rJPV3/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=5thLP7cM_dAeummvUbChOPKGhfM="
+  },
+  {
+   "k": "R",
+   "text": "[serious] Duplica el dinero en tres meses. Cincuenta por ciento de interés pagado en cuarenta y cinco días por Ponzi. Tiene miles de inversores.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "The Boston Post · 24 de julio de 1920",
+      "lines": [
+       "«Duplica el dinero en tres meses»",
+       "«50 % de interés pagado en 45 días por Ponzi»",
+       "«Tiene miles de inversores»"
+      ],
+      "source": "Titular de portada · The Boston Post"
+     },
+     "at": "Duplica"
+    }
+   ],
+   "gen": "RT3DTzDTPs75ID3w8hfs",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/raaEgOxcTl23ZMfXlmnS/RT3DTzDTPs75ID3w8hfs/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=ncyUb12xxRhfgvxbBPONrita_5k="
+  },
+  {
+   "k": "N",
+   "text": "Ese titular de portada fue el principio del fin. Al Boston Post le olió raro. Encargó a expertos financieros que hicieran las cuentas, y las cuentas no salían: para cubrir lo prometido, Ponzi habría necesitado muchísimos más cupones de los que había en circulación en todo el mundo.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Boston Post 1920 newspaper",
+     "src": "commons,loc,europeana",
+     "at": "Boston Post"
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que prometía",
+       "lines": [
+        "Comprar cupones a millones",
+        "en toda Europa"
+       ]
+      },
+      "right": {
+       "title": "Lo que había",
+       "lines": [
+        "Muchos menos cupones",
+        "en circulación en todo el mundo"
+       ]
+      },
+      "strike": true
+     },
+     "at": "las cuentas no salían"
+    }
+   ],
+   "gen": "qixnfPM2RU9gxyz589AP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dGlI9A6vX25HsYka61pp/qixnfPM2RU9gxyz589AP/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=g0vco47vsKRNS4_7PxKDLmDLaCs="
+  },
+  {
+   "k": "N",
+   "text": "Y entonces llegó la traición que Ponzi no esperaba. Su propio jefe de prensa, William McMasters, el hombre que le había ayudado a fabricar su imagen, se pasó al bando contrario. A principios de agosto publicó en el Boston Post su veredicto: Ponzi estaba en quiebra sin remedio.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a 1920s newspaper newsroom at night, typewriters, a man in s",
+     "src": "commons,loc,europeana",
+     "at": "jefe de prensa"
+    },
+    {
+     "photo": "Boston Post 1920 newspaper",
+     "src": "commons,loc,europeana",
+     "at": "en quiebra",
+     "kw": "EN QUIEBRA",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "X9TM7cgGxvQP14M6IJzK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jmx52qUd0mT0klDna3bS/X9TM7cgGxvQP14M6IJzK/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=MNardToS18j7jyiKBKg_k5mfC4Q="
+  },
+  {
+   "k": "N",
+   "text": "[serious] En agosto de mil novecientos veinte, los auditores entraron en su empresa. Al final, cuando se contó todo, encontraron cupones por valor de sesenta y un dólares. Sesenta y uno. Por los millones que habían pasado por sus manos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "accountants in 1920s suits bent over large ledgers under gre",
+     "src": "commons,loc,europeana",
+     "at": "los auditores"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 61,
+      "label": "dólares en cupones encontrados por los auditores",
+      "prefix": "$"
+     },
+     "at": "sesenta y un dólares"
+    }
+   ],
+   "gen": "83aRtmjrHtj6R4VrrQB2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/urze0WQOiE6ckRoudDIa/83aRtmjrHtj6R4VrrQB2/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=TQK_l8Te29pBgT1dJv4K2GRClXE="
+  },
+  {
+   "k": "N",
+   "text": "La noticia corrió por Boston en horas. Esta vez, la multitud que rodeó su oficina no traía dinero. Según la revista Time, gritaba otra cosa: ¡Matadlo!",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "an angry 1920 crowd pressing against the glass door of a Bos",
+     "src": "commons,loc,europeana",
+     "at": "la multitud"
+    },
+    {
+     "photo": "Ponzi crowd Boston 1920",
+     "src": "commons,loc,europeana",
+     "at": "Matadlo",
+     "kw": "¡MATADLO!",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "Qg40LVHc4CH2z8Eh1keK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4zihnxhhACdfno2dWbbY/Qg40LVHc4CH2z8Eh1keK/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=nmp9qFW5RQjdWuoaN-RUMBxowgY="
+  },
+  {
+   "k": "N",
+   "text": "Ponzi fue detenido ese mismo mes. Varios bancos cayeron con él. El Boston Post ganó el premio Pulitzer por destaparlo. Ponzi pasó más de una década entre cárceles y juicios, volvió a estafar en Florida vendiendo terrenos que eran pantano, y en mil novecientos treinta y cuatro fue deportado a Italia.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Charles Ponzi mugshot",
+     "src": "commons,loc,europeana",
+     "at": "fue detenido"
+    },
+    {
+     "photo": "Florida swamp 1920s",
+     "src": "commons,loc,europeana",
+     "at": "terrenos que eran pantano"
+    }
+   ],
+   "gen": "GH9GRPS0dLlomEoS3rag",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rcKiwraY1JRWv0UeoT3y/GH9GRPS0dLlomEoS3rag/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=XuQaCqVH2ZorWmd1U6Qu-ZXc5g4="
+  },
+  {
+   "k": "N",
+   "text": "Murió en mil novecientos cuarenta y nueve en un hospital de caridad de Río de Janeiro, casi ciego y sin dinero. [pause] Su nombre, eso sí, sigue vivo. Cada vez que un juez describe una pirámide de inversores, dice la misma palabra: Ponzi.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Rio de Janeiro 1940s",
+     "src": "commons,loc,europeana",
+     "at": "Río de Janeiro"
+    },
+    {
+     "photo": "Charles Ponzi portrait",
+     "src": "commons,loc,europeana",
+     "at": "la misma palabra",
+     "kw": "PONZI",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "pSDXi28UwNo0MwwYIgo3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/v9KWz8F2UzhQuf2oRTUu/pSDXi28UwNo0MwwYIgo3/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=QYTYtOh8Ux6zl-m8_enpQDrOqBc="
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "ironia",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El hombre que vendió la Torre Eiffel",
+    "sub": "París, 1925",
+    "num": "III"
+   }
+  },
+  {
+   "k": "R",
+   "text": "Expediente número tres. Sospechoso: Victor Lustig, alias el conde. Al menos veinte nombres falsos, cinco idiomas. Delito: vender un monumento nacional. Dos veces.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Victor Lustig",
+      "role": "Alias «el conde» · cinco idiomas",
+      "group": "Expediente III · la Torre Eiffel",
+      "color": [
+       196,
+       38,
+       34
+      ]
+     },
+     "at": "Expediente"
+    },
+    {
+     "photo": "Victor Lustig mugshot",
+     "src": "commons,loc,europeana",
+     "at": "Sospechoso"
+    }
+   ],
+   "gen": "GTy0yp8XU2ZWCUrkRwKt",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UM36twysPTeaI3zpJeXk/GTy0yp8XU2ZWCUrkRwKt/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=hFnx6VUEECjVsgmI90VRIYTRvfA="
+  },
+  {
+   "k": "B",
+   "track": "ironia"
+  },
+  {
+   "k": "N",
+   "text": "Hay estafas que se hacen con miles de víctimas. Y hay estafas que solo necesitan una. Pero esa víctima tiene que comprar algo muy grande.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Eiffel Tower 1920s",
+     "src": "commons,loc,europeana",
+     "at": "algo muy grande"
+    }
+   ],
+   "gen": "p3KXmvG8Ye6ILZkh70Kf",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/d6SogS1hCRyJNFyooCPE/p3KXmvG8Ye6ILZkh70Kf/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=ZjN16tBjHGxYxlcfkbSbJdW9gvQ="
+  },
+  {
+   "k": "N",
+   "text": "París, mil novecientos veinticinco. La Torre Eiffel tiene treinta y seis años y no todos la quieren. Se construyó para una exposición universal y nunca se pensó que fuera eterna. Mantenerla cuesta una fortuna, y algún periódico se pregunta si no habría que desmontarla.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Paris 1925 street",
+     "src": "commons,loc,europeana",
+     "at": "París",
+     "lt": [
+      "París",
+      "Francia · hacia 1925"
+     ]
+    },
+    {
+     "photo": "Eiffel Tower Exposition Universelle 1889",
+     "src": "commons,loc,europeana",
+     "at": "una exposición universal"
+    },
+    {
+     "photo": "Eiffel Tower Citroen illumination 1925",
+     "src": "commons,loc,europeana",
+     "at": "Mantenerla"
+    }
+   ],
+   "gen": "KL6VYBOvYIQfC5A2dHHI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oPGGLvoeQkype16fXOpa/KL6VYBOvYIQfC5A2dHHI/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=JiW_Kri0I1z26MPf72hDxCShaVU="
+  },
+  {
+   "k": "N",
+   "text": "Victor Lustig lee esa noticia en un café. Lustig había nacido en el Imperio austrohúngaro, hablaba cinco idiomas y se hacía llamar conde. Llevaba años estafando a millonarios en los grandes transatlánticos. Y aquella noticia le pareció una invitación.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Victor Lustig",
+     "src": "commons,loc,europeana",
+     "at": "Victor Lustig",
+     "lt": [
+      "Victor Lustig",
+      "El «conde» Lustig · 1890-1947",
+      "estafa"
+     ]
+    },
+    {
+     "photo": "ocean liner 1920s",
+     "src": "commons,loc,europeana",
+     "at": "transatlánticos"
+    }
+   ],
+   "gen": "fo0qVHbdvg0htLIrHeiV",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4Msgc4vuI3QaHMhsrPoL/fo0qVHbdvg0htLIrHeiV/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=FCFfEXZ79Wxy2AwMM1Eyn3Wc8Z0="
+  },
+  {
+   "k": "N",
+   "text": "Encarga papel con membrete oficial del Ministerio de Correos y Telégrafos. Escribe a seis de los mayores chatarreros de París. Y los cita, con la máxima discreción, en uno de los hoteles más lujosos de la ciudad: el Hôtel de Crillon, en la plaza de la Concordia.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "a forged official French government letter with a wax seal a",
+     "src": "commons,loc,europeana",
+     "at": "papel con membrete"
+    },
+    {
+     "photo": "Hotel de Crillon Paris",
+     "src": "commons,loc,europeana",
+     "at": "Hôtel de Crillon",
+     "lt": [
+      "Hôtel de Crillon",
+      "Plaza de la Concordia, París · hoy"
+     ]
+    }
+   ],
+   "gen": "a7J65qYk21taRP4JjDep",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kU2Qe5HV2sFTIzRkWehm/a7J65qYk21taRP4JjDep/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=4yHS4SKFl8WmSgILzop03TU6794="
+  },
+  {
+   "k": "N",
+   "text": "[softly] Allí les cuenta un secreto de Estado. El Gobierno ha decidido desmontar la torre y vender sus siete mil toneladas de hierro. Como el asunto puede escandalizar a los parisinos, se hará en silencio. Les lleva en limusina a visitarla. Y les pide ofertas en sobre cerrado.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "six men in 1920s overcoats seated around a table in an opule",
+     "src": "commons,loc,europeana",
+     "at": "un secreto de Estado"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 7000,
+      "label": "toneladas de hierro «a la venta»"
+     },
+     "at": "siete mil toneladas"
+    },
+    {
+     "photo": "Eiffel Tower base 1920s",
+     "src": "commons,loc,europeana",
+     "at": "a visitarla"
+    }
+   ],
+   "gen": "uTNYeON9MSPmMnBR1eJw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fncnUegJrJepYEhGV2Yv/uTNYeON9MSPmMnBR1eJw/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=88HK3WdGLJW3xz87979GccNreMA="
+  },
+  {
+   "k": "N",
+   "text": "Lustig ya había elegido a su víctima: André Poisson, un empresario de provincias que soñaba con codearse con la alta sociedad de París. Poisson dudó un momento. Entonces Lustig hizo su jugada maestra.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "a nervous provincial businessman in a bowler hat seen from b",
+     "src": "commons,loc,europeana",
+     "at": "André Poisson"
+    }
+   ],
+   "gen": "Nhlq2x520zCOUFMlxeVg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hDEGuX1me7YUfQS94P0b/Nhlq2x520zCOUFMlxeVg/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=cUeSKPbdSMkpcnidYYn9lHvWAqQ="
+  },
+  {
+   "k": "N",
+   "text": "Le confesó, bajando la voz, que un alto funcionario cobra poco para la vida que se le exige. Y le pidió un soborno. [short pause] Poisson respiró tranquilo. Si el funcionario pedía una mordida, es que era un funcionario de verdad.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a thick envelope slid across a white tablecloth between two ",
+     "src": "commons,loc,europeana",
+     "at": "le pidió un soborno"
+    },
+    {
+     "photo": "Hotel de Crillon Paris",
+     "src": "commons,loc,europeana",
+     "at": "una mordida",
+     "kw": "LA MORDIDA",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "6kSP73m4OElCbfRnaFzd",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qWffBluECFeuJi1Xv348/6kSP73m4OElCbfRnaFzd/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=UWZjZjDVNF2DZY-UUabpFMJnLPU="
+  },
+  {
+   "k": "N",
+   "text": "Pagó la torre y pagó el soborno. Lustig cogió el dinero y se subió al primer tren a Viena. ¿Y Poisson? Le dio tanta vergüenza que nunca lo denunció.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Gare de l'Est Paris 1920s",
+     "src": "commons,loc,europeana",
+     "at": "primer tren a Viena"
+    }
+   ],
+   "gen": "MdPIwEZVNyoBJdpxKtao",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7L8LKIhpKKr7LTsu4ehb/MdPIwEZVNyoBJdpxKtao/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=cp3mASmDq-JoGP_zKg-LAKG7ziY="
+  },
+  {
+   "k": "N",
+   "text": "Medio año después, Lustig volvió a París. Y vendió la torre otra vez, a otro grupo de chatarreros. Esta vez el elegido sí fue a la policía, y Lustig tuvo que huir a Estados Unidos. [short pause] Allí acabó metido en el negocio de los billetes falsos, y en mil novecientos treinta y cinco cayó por fin.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Eiffel Tower 1920s",
+     "src": "commons,loc,europeana",
+     "at": "otra vez",
+     "kw": "DOS VECES",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    },
+    {
+     "photo": "Victor Lustig mugshot",
+     "src": "commons,loc,europeana",
+     "at": "cayó por fin"
+    }
+   ],
+   "gen": "Lmw1OM7mkbIbZTPRm0Hy",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tExF9VakLrnu8bxmVXm5/Lmw1OM7mkbIbZTPRm0Hy/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=br4NQ3MOYyjuegp-cjM1tH5WSck="
+  },
+  {
+   "k": "N",
+   "text": "Ni siquiera la cárcel le detuvo del todo. En septiembre de mil novecientos treinta y cinco, esperando juicio en Nueva York, se escapó de la prisión federal descolgándose por una ventana con una cuerda de sábanas. Mientras bajaba, según se cuenta, fingía limpiar los cristales ante los curiosos. Lo atraparon unas semanas después en Pittsburgh. Terminó en Alcatraz, y murió preso en mil novecientos cuarenta y siete.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Victor Lustig mugshot",
+     "src": "commons,loc,europeana",
+     "at": "se escapó",
+     "kw": "FUGA",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    },
+    {
+     "photo": "a rope of knotted bedsheets hanging down the brick facade of",
+     "src": "commons,loc,europeana",
+     "at": "cuerda de sábanas"
+    },
+    {
+     "photo": "Alcatraz Island",
+     "src": "commons,loc,europeana",
+     "at": "Alcatraz",
+     "lt": [
+      "Alcatraz",
+      "Bahía de San Francisco · hoy"
+     ]
+    }
+   ],
+   "gen": "QtE2w8iQ53SgXsgEQlnq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KlelaYZCED8Obkwf2nGt/QtE2w8iQ53SgXsgEQlnq/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=HsjoxR7Spj6Oe1Dnnxr1Teb8Rj0="
+  },
+  {
+   "k": "N",
+   "text": "[softly] Su truco más rentable, sin embargo, fue otro: la caja rumana. Una caja de madera con rodillos que, según él, imprimía billetes de cien dólares auténticos. Delante del comprador, la máquina soltaba uno, muy despacio. Lustig la vendía por miles de dólares. Cuando la caja empezaba a escupir papel en blanco, él ya estaba muy lejos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a polished mahogany box with brass rollers and cranks on a h",
+     "src": "commons,loc,europeana",
+     "at": "la caja rumana"
+    },
+    {
+     "photo": "Victor Lustig",
+     "src": "commons,loc,europeana",
+     "at": "papel en blanco",
+     "kw": "PAPEL EN BLANCO",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "CUmukCGC1XT8bR5vO0J6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/FDRb9Vsc04oPsLlM5QTN/CUmukCGC1XT8bR5vO0J6/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=o9Q07Qm6HV5mT180JrnrRefmjpY="
+  },
+  {
+   "k": "N",
+   "text": "Una advertencia de investigadora: casi todo lo que sabemos de la venta de la torre procede de los agentes que le persiguieron y de la prensa de la época. Las cifras varían según la fuente. Pero la lección es nítida: el estafador no vende un objeto. Vende la sensación de estar entre los elegidos.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "El estafador no vende un objeto. Vende la sensación de estar entre los elegidos.",
+      "attrib": "Lección del expediente Lustig"
+     },
+     "at": "la lección"
+    }
+   ],
+   "gen": "GNTD2wkvlvs98INaOKqN",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/odn3vHN63pceKyF8HDvs/GNTD2wkvlvs98INaOKqN/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=YuqAIW3_J3qlNnevEqhA1_D8xSw="
+  },
+  {
+   "k": "N",
+   "text": "A Lustig se le atribuyen incluso unos mandamientos del buen estafador. Nadie sabe si los escribió él. Pero suenan exactamente a él.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "an elegant 1930s leather notebook open on a hotel desk next ",
+     "src": "commons,loc,europeana",
+     "at": "mandamientos"
+    }
+   ],
+   "gen": "noWPkOVOHwbd65jADT8q",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6Bd6kDki6nvwHa5thZwK/noWPkOVOHwbd65jADT8q/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=aycORdCdxaLpwGmwN065jLlrmJA="
+  },
+  {
+   "k": "R",
+   "text": "[softly] Primero: sé un oyente paciente. Es eso, y no hablar deprisa, lo que le da sus golpes al estafador. Segundo: nunca parezcas aburrido. Espera a que el otro te diga sus ideas políticas, y dale la razón. Nunca presumas: deja que tu importancia se note sola. Nunca vayas desaliñado. [short pause] Y nunca te emborraches.",
+   "voice": "LUS",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Los mandamientos del estafador",
+      "items": [
+       [
+        "Sé un oyente paciente",
+        "no hables deprisa"
+       ],
+       [
+        "Nunca parezcas aburrido",
+        ""
+       ],
+       [
+        "Dale la razón",
+        "en política y en religión"
+       ],
+       [
+        "Nunca presumas",
+        "que tu importancia se note sola"
+       ],
+       [
+        "Nunca te emborraches",
+        ""
+       ]
+      ]
+     },
+     "at": "Primero"
+    },
+    {
+     "photo": "Victor Lustig",
+     "src": "commons,loc,europeana",
+     "at": "Nunca presumas"
+    }
+   ],
+   "gen": "ynNo52xYj67vBOP5laO3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5e2bm5NWZxmXkArrHe9e/ynNo52xYj67vBOP5laO3/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=ZhHgz83mTcNLfgXsEvwJz4hC7SY="
+  },
+  {
+   "k": "N",
+   "text": "Y hay otra historia que se cuenta de él, quizá la más audaz. Lustig le pidió a Al Capone cincuenta mil dólares para doblarlos en dos meses. Los guardó en una caja fuerte sin tocarlos. Pasado el plazo, se los devolvió enteros, avergonzado, diciendo que el negocio había fallado. Capone, impresionado por su honradez, le regaló cinco mil dólares. [pause] Que era exactamente lo que Lustig buscaba desde el principio.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Al Capone",
+     "src": "commons,loc,europeana",
+     "at": "Al Capone",
+     "lt": [
+      "Al Capone",
+      "Gánster de Chicago"
+     ]
+    },
+    {
+     "photo": "a heavy steel safe in a dim 1920s office with its door ajar ",
+     "src": "commons,loc,europeana",
+     "at": "caja fuerte"
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que pidió",
+       "lines": [
+        "50.000 dólares de Capone"
+       ]
+      },
+      "right": {
+       "title": "Lo que se llevó",
+       "lines": [
+        "5.000 dólares «de regalo»",
+        "sin arriesgar nada"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Que era exactamente"
+    }
+   ],
+   "gen": "Ajniar5FFzehFw986cpP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/sUZJRh0vvUDmjc5TVzCD/Ajniar5FFzehFw986cpP/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=ION-0XuxYomhB0Qk-5kqkHglpyQ="
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El rey de las cerillas",
+    "sub": "Estocolmo, 1932",
+    "num": "IV"
+   }
+  },
+  {
+   "k": "R",
+   "text": "Expediente número cuatro. Sospechoso: Ivar Kreuger, ingeniero y financiero sueco. Uno de los hombres más ricos del mundo. Delito: balances falsos, bonos falsificados y una pirámide de escala mundial.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Ivar Kreuger",
+      "role": "Financiero sueco · «el rey de las cerillas»",
+      "group": "Expediente IV · una pirámide mundial",
+      "color": [
+       196,
+       38,
+       34
+      ]
+     },
+     "at": "Expediente"
+    },
+    {
+     "photo": "Ivar Kreuger portrait",
+     "src": "commons,loc,europeana",
+     "at": "Sospechoso"
+    }
+   ],
+   "gen": "jGWUYm6AjEw87RXYnSWG",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/naA6T8bCqVv3OOAwRFK0/jGWUYm6AjEw87RXYnSWG/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=W-5PTJazsyEiOkfvbkXj7jDj7NM="
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Ahora cambiamos de escala. Porque el siguiente estafador no era un pícaro con un traje elegante. Era uno de los hombres más poderosos del planeta.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Ivar Kreuger",
+     "src": "commons,loc,europeana",
+     "at": "los hombres más poderosos"
+    }
+   ],
+   "gen": "oAgAQeozDu2kZtmXNn4H",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/I30HysLpbCxOUqR7JGBJ/oAgAQeozDu2kZtmXNn4H/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=Id_-qR082aW2VgglVY5UjAPa800="
+  },
+  {
+   "k": "N",
+   "text": "Ivar Kreuger, ingeniero sueco, nacido en Kalmar en mil ochocientos ochenta. Empezó construyendo edificios y acabó dominando un producto que había en cada casa del mundo: las cerillas. A finales de los años veinte, sus fábricas producían entre dos tercios y tres cuartas partes de todas las cerillas del planeta.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Ivar Kreuger portrait",
+     "src": "commons,loc,europeana",
+     "at": "Ivar Kreuger",
+     "lt": [
+      "Ivar Kreuger",
+      "«El rey de las cerillas» · 1880-1932",
+      "estafa"
+     ]
+    },
+    {
+     "photo": "Kalmar Sweden old town",
+     "src": "commons,loc,europeana",
+     "at": "Kalmar"
+    },
+    {
+     "photo": "Swedish Match matchbox",
+     "src": "commons,loc,europeana",
+     "at": "las cerillas"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 75,
+      "label": "% de las cerillas del mundo, en su punto más alto",
+      "prefix": ""
+     },
+     "at": "tres cuartas partes"
+    }
+   ],
+   "gen": "5qOYSY7CJO3cI7ow5Wpx",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/o95WRkWn2ZDdXmB7VRPk/5qOYSY7CJO3cI7ow5Wpx/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=oOlXgGSt6ezWY75vGcTG5VtHriY="
+  },
+  {
+   "k": "N",
+   "text": "Su fórmula era audaz. Después de la Primera Guerra Mundial, muchos gobiernos estaban arruinados. Kreuger les prestaba millones. A cambio, le daban el monopolio de las cerillas en su país. Francia, Alemania, Polonia y más de una docena de países firmaron con él.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "map",
+      "title": "El imperio de las cerillas · años 20",
+      "bbox": [
+       -10,
+       35,
+       40,
+       62
+      ],
+      "points": [
+       {
+        "name": "Estocolmo",
+        "lon": 18.07,
+        "lat": 59.33,
+        "big": 1
+       },
+       {
+        "name": "París",
+        "lon": 2.35,
+        "lat": 48.86
+       },
+       {
+        "name": "Berlín",
+        "lon": 13.4,
+        "lat": 52.52
+       },
+       {
+        "name": "Varsovia",
+        "lon": 21.01,
+        "lat": 52.23
+       }
+      ]
+     },
+     "at": "muchos gobiernos"
+    }
+   ],
+   "gen": "1GxsgOqqrWEmSJjBszd2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WHLbYuyUh4Gl6ddtdyBc/1GxsgOqqrWEmSJjBszd2/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=tryrgGFslsbUBIGHBZD8DLHZ21g="
+  },
+  {
+   "k": "N",
+   "text": "Era un hombre extraño. Soltero, discreto, obsesionado con el secreto. Tenía casas en Estocolmo, París, Berlín y Nueva York, y en las reuniones casi no hablaba. Sus colaboradores sabían solo la parte del negocio que les tocaba. Nadie, salvo él, veía el cuadro completo.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "a lone silhouetted financier standing at a tall window of a ",
+     "src": "commons,loc,europeana",
+     "at": "obsesionado con el secreto"
+    },
+    {
+     "photo": "a 1920s executive desk with several black bakelite telephone",
+     "src": "commons,loc,europeana",
+     "at": "la parte del negocio"
+    }
+   ],
+   "gen": "1wFAIOaqczaCFXJCUBRw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6jMwsasBcEUUX7fFhgrU/1wFAIOaqczaCFXJCUBRw/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=dT4938NO9AqxkOEHWFKoigSU4cw="
+  },
+  {
+   "k": "N",
+   "text": "Para conseguir ese dinero vendía acciones y bonos de sus empresas en Wall Street y en Europa. Pagaba dividendos altísimos, año tras año. Pero muchos de esos dividendos salían del dinero de los nuevos inversores. Es decir: una pirámide, con traje de multinacional.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Kreuger and Toll share certificate",
+     "src": "commons,loc,europeana",
+     "at": "acciones y bonos"
+    },
+    {
+     "photo": "New York Stock Exchange 1920s",
+     "src": "commons,loc,europeana",
+     "at": "una pirámide",
+     "kw": "UNA PIRÁMIDE",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "Com9gOYyUbv8Zi6roAk3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/24EYvyhZHSFh8RXH2hs0/Com9gOYyUbv8Zi6roAk3/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=qdze5tudKtoc8_BPhuL0dEJumSU="
+  },
+  {
+   "k": "N",
+   "text": "En octubre de mil novecientos veintinueve, la revista Time le dedicó su portada. Era el financiero del momento, el hombre que prestaba dinero a los países. Ese mismo mes, Wall Street se desplomó.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Time magazine cover Ivar Kreuger 1929",
+     "src": "commons,loc,europeana",
+     "at": "la revista Time"
+    },
+    {
+     "photo": "Wall Street crash 1929",
+     "src": "commons,loc,europeana",
+     "at": "Wall Street se desplomó"
+    }
+   ],
+   "gen": "HzI5jLzMcUTZF3IgUE7V",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4J4shbu8CWP2LxUOIefH/HzI5jLzMcUTZF3IgUE7V/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=k6iM1nkEVR5rJN0SGkWe2UTxh1o="
+  },
+  {
+   "k": "N",
+   "text": "[serious] Tras el crac, el dinero dejó de fluir. Kreuger necesitaba cada vez más crédito para tapar los agujeros, y empezó a falsificar balances. Incluso fabricó bonos falsos del Estado italiano para usarlos como garantía.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "ticker tape spilling onto the floor of a 1929 brokerage offi",
+     "src": "commons,loc,europeana",
+     "at": "Tras el crac"
+    },
+    {
+     "photo": "a stack of ornate engraved bond certificates under a desk la",
+     "src": "commons,loc,europeana",
+     "at": "bonos falsos"
+    }
+   ],
+   "gen": "R8CZ0I9HoE7h5vQqS6Vb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NtboDfGZ0fbgWO8rxSpS/R8CZ0I9HoE7h5vQqS6Vb/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=pH8brz79bm2SgUzfm00Abxts4Ds="
+  },
+  {
+   "k": "N",
+   "text": "París, doce de marzo de mil novecientos treinta y dos. Kreuger tenía una reunión con sus banqueros. No se presentó. Lo encontraron en la cama de su apartamento con un disparo en el pecho y una pistola al lado. [short pause] Hay quien todavía hoy sostiene que lo asesinaron. La versión oficial fue el suicidio.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "an elegant 1930s Paris apartment bedroom in morning light th",
+     "src": "commons,loc,europeana",
+     "at": "No se presentó"
+    }
+   ],
+   "gen": "iqrHjUKnfxjEeY0YG1Cs",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/lXuf4dzVnNn4IyNsd8ex/iqrHjUKnfxjEeY0YG1Cs/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=TH-VRlR7bocVsa6sBPh7kd0E9hY="
+  },
+  {
+   "k": "N",
+   "text": "Acababa de volver de Estados Unidos en barco, agotado. En el Hotel du Rhin le esperaban banqueros británicos y suecos para una reunión decisiva. Según la revista Time, aquella misma mañana todo París desfilaba ante el féretro de un ministro ilustre, Aristide Briand. Al día siguiente, los titulares ya no hablaban de Briand. Hablaban de él.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "bankers in 1930s overcoats waiting in an elegant Paris hotel",
+     "src": "commons,loc,europeana",
+     "at": "Hotel du Rhin"
+    },
+    {
+     "photo": "a 1932 Paris newspaper kiosk on a rainy boulevard with stack",
+     "src": "commons,loc,europeana",
+     "at": "los titulares"
+    }
+   ],
+   "gen": "HzMjWFGyaGrzAXgfXqUb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MIO38euPqHNkw5FGQAv9/HzMjWFGyaGrzAXgfXqUb/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=l2rlF9Pnyq2mZg2Mof7djDhnpbc="
+  },
+  {
+   "k": "R",
+   "text": "El rey de las cerillas, muerto en París. Lo encontraron con un revólver al lado. Curiosamente, no llevaba cerillas encima.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Prensa internacional · 14 de marzo de 1932",
+      "lines": [
+       "«El rey mundial de las cerillas, muerto en un piso de París»",
+       "«Encontrado con un revólver a su lado»",
+       "«Curiosamente, no llevaba cerillas encima»"
+      ],
+      "source": "Crónicas de agencia publicadas en la prensa de la época"
+     },
+     "at": "El rey de las cerillas"
+    }
+   ],
+   "gen": "MU4I5AB36xacFF04G0xR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dUPGUR28WXScqELJUgU5/MU4I5AB36xacFF04G0xR/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=3uZIiDiAsmRlWt9q_GkFidQtLII="
+  },
+  {
+   "k": "N",
+   "text": "Once días después, los auditores de Price Waterhouse abrieron sus libros. En pocas semanas lo declararon un estafador. Según la revista Time, había desviado más de mil cien millones de dólares de la época. La bolsa de Estocolmo tuvo que cerrar. Cayó el Gobierno sueco. Y miles de pequeños ahorradores, de Suecia a Estados Unidos, lo perdieron todo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 1168,
+      "label": "millones de dólares de 1932 desviados, según la revista Time",
+      "prefix": "$"
+     },
+     "at": "mil cien millones"
+    },
+    {
+     "photo": "Stockholm Stock Exchange building",
+     "src": "commons,loc,europeana",
+     "at": "La bolsa de Estocolmo",
+     "lt": [
+      "La Bolsa de Estocolmo",
+      "Suecia"
+     ]
+    },
+    {
+     "photo": "a crowd of worried small savers in 1932 coats and hats in fr",
+     "src": "commons,loc,europeana",
+     "at": "lo perdieron todo"
+    }
+   ],
+   "gen": "ysquWuToO3YPWBJCwK9h",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/D343Mqv6wbpW4eqwrUl3/ysquWuToO3YPWBJCwK9h/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=A81XtOKKbz8bmo0Am5xj6_qx2M4="
+  },
+  {
+   "k": "R",
+   "text": "Uno de los asuntos más feos de la historia de los negocios. Kreuger había sido el mayor estafador del mundo.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Revista Time · 1932",
+      "lines": [
+       "«Uno de los asuntos más feos de la historia de los negocios»",
+       "«El mayor estafador del mundo»"
+      ],
+      "source": "Así resumió la prensa estadounidense el caso Kreuger"
+     },
+     "at": "Uno de los asuntos"
+    }
+   ],
+   "gen": "8RTiqqWy9JEvFm2MwxQE",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gGmosrg7gDq1wRkVlhB7/8RTiqqWy9JEvFm2MwxQE/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=V1kudUV9kUE4jhHAY4-D0V7jU-8="
+  },
+  {
+   "k": "N",
+   "text": "Su caída pesó en la gran reforma financiera de Estados Unidos. En mil novecientos treinta y cuatro nació la SEC, la Comisión de Bolsa y Valores, el organismo que debía vigilar a los mercados para que algo así no volviera a pasar. [pause] Recuerda ese nombre. Volverá a salir.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Securities and Exchange Commission headquarters Washington",
+     "src": "commons,loc,europeana",
+     "at": "la SEC",
+     "lt": [
+      "La SEC",
+      "Comisión de Bolsa y Valores de EE. UU."
+     ]
+    },
+    {
+     "photo": "Securities and Exchange Commission seal",
+     "src": "commons,loc,europeana",
+     "at": "Recuerda ese nombre",
+     "kw": "LA SEC",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "EHtTKFFmKuyeFRZGmn6B",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/FgjLCKJTU88zANqmwCQn/EHtTKFFmKuyeFRZGmn6B/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=IqdJyRrfAQm2b04xrFVg9yqlIdw="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Expediente cuatro, caso cerrado.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Ivar Kreuger",
+     "src": "commons,loc,europeana",
+     "at": "caso cerrado",
+     "kw": "CASO CERRADO",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "7Sugua7wwIPbQfLAFz0R",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/O2MND8L6U7Cib47a44X6/7Sugua7wwIPbQfLAFz0R/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=FXWVdPuBTaftvpQyWpUHNvHv46g="
+  },
+  {
+   "k": "M",
+   "track": "fondo",
+   "secs": 6
+  },
+  {
+   "k": "N",
+   "text": "Hasta aquí, más de un siglo de engaños y una misma receta.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "title": "Hasta aquí",
+      "items": [
+       [
+        "Poyais · 1822",
+        "un país inventado y una historia irresistible"
+       ],
+       [
+        "Ponzi · 1920",
+        "pagar a los viejos con el dinero de los nuevos"
+       ],
+       [
+        "Lustig · 1925",
+        "la víctima quiere sentirse elegida"
+       ],
+       [
+        "Kreuger · 1932",
+        "la pirámide con traje de multinacional"
+       ]
+      ]
+     },
+     "at": "Hasta aquí"
+    }
+   ],
+   "gen": "ov8CZrZDKXKE13DaUw4Z",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IvezZeaVn54ixobSZbn7/ov8CZrZDKXKE13DaUw4Z/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=eUELitq5Y_SiywoNVoX7AIrb3jk="
+  },
+  {
+   "k": "N",
+   "text": "Ahora vamos a mirar más cerca. Primero, aquí, en España. Y después, al hombre que lo hizo todo a la vez, durante décadas, delante de las narices de todos.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Spain flag Madrid",
+     "src": "commons,loc,europeana",
+     "at": "en España"
+    }
+   ],
+   "gen": "ueaNQJxxOYGy0NvmkDKs",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/286drn3K0zcMfkixExlD/ueaNQJxxOYGy0NvmkDKs/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=ZE9zyQboYqoIUanRi68e5vPUlDk="
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "drama",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Los sellos que no valían nada",
+    "sub": "España, 2006",
+    "num": "V"
+   }
+  },
+  {
+   "k": "R",
+   "text": "Expediente número cinco. Sospechosos: los directivos de Fórum Filatélico y de Afinsa. Delito: estafa piramidal disfrazada de inversión en sellos. Víctimas: unos cuatrocientos sesenta mil clientes en toda España.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Fórum y Afinsa",
+      "role": "Las dos mayores filatélicas de España",
+      "group": "Expediente V · inversión en sellos",
+      "color": [
+       196,
+       38,
+       34
+      ]
+     },
+     "at": "Expediente"
+    },
+    {
+     "photo": "Spanish postage stamps collection",
+     "src": "commons,loc,europeana",
+     "at": "Sospechoso"
+    }
+   ],
+   "gen": "ool9N8aJpfqjLeFQALdY",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IuGKNYQAEEH8DsBK24ri/ool9N8aJpfqjLeFQALdY/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=ttRllx7Y5xscWp0rwI41EwhJXmg="
+  },
+  {
+   "k": "B",
+   "track": "drama"
+  },
+  {
+   "k": "N",
+   "text": "España también tiene su propia galería de estafas. En junio de dos mil uno, la Comisión Nacional del Mercado de Valores intervino una agencia de valores de Madrid llamada Gescartera. Faltaban cerca de noventa millones de euros de sus clientes, entre ellos instituciones como el arzobispado de Valladolid. Su dueño, Antonio Camacho, fue condenado a once años de cárcel.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "CNMV sede Madrid",
+     "src": "commons,loc,europeana",
+     "at": "la Comisión Nacional del Mercado de Valores",
+     "lt": [
+      "CNMV",
+      "Comisión Nacional del Mercado de Valores · Madrid"
+     ]
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 88,
+      "label": "millones de euros desaparecidos en Gescartera (2001)"
+     },
+     "at": "noventa millones"
+    },
+    {
+     "photo": "Audiencia Nacional Madrid",
+     "src": "commons,loc,europeana",
+     "at": "condenado a once años"
+    }
+   ],
+   "gen": "AQ89hIktDkIE5065PXFe",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ThkzrCG6iP9EOtHBDEY3/AQ89hIktDkIE5065PXFe/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=NF5bXJRyBSLe0cOVIrlBEu7mRI8="
+  },
+  {
+   "k": "N",
+   "text": "Pero lo de Gescartera, con ser grave, fue solo un aviso. Cinco años después estalló algo mucho más grande. Algo que no afectaba a grandes inversores, sino a la gente normal. A tus vecinos. Quizá a tus abuelos.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "an elderly couple's hands holding a folder of contracts at a",
+     "src": "commons,loc,europeana",
+     "at": "a tus abuelos"
+    }
+   ],
+   "gen": "UP9xjakJfUrB9V8OSxHs",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZYGHAoJzWkoqENLPGc9f/UP9xjakJfUrB9V8OSxHs/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=0oem-NjoMG0SxOdlTsxwwHV_vNY="
+  },
+  {
+   "k": "N",
+   "text": "[serious] Madrid, nueve de mayo de dos mil seis. Todavía no son las nueve de la mañana. La policía entra a la vez en las sedes de las dos mayores empresas filatélicas del país: Fórum Filatélico y Afinsa. Detienen a sus principales directivos. Precintan las oficinas. Bloquean las cuentas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Spanish police officers seen from behind entering a modern o",
+     "src": "commons,loc,europeana",
+     "at": "La policía entra"
+    },
+    {
+     "photo": "Forum Filatelico sede Madrid",
+     "src": "commons,loc,europeana",
+     "at": "Fórum Filatélico",
+     "lt": [
+      "Fórum Filatélico",
+      "Sociedad filatélica · Madrid"
+     ]
+    },
+    {
+     "photo": "Afinsa sede Madrid",
+     "src": "commons,loc,europeana",
+     "at": "Afinsa",
+     "lt": [
+      "Afinsa Bienes Tangibles",
+      "Sociedad filatélica · Madrid"
+     ]
+    }
+   ],
+   "gen": "u8CszZQNlYQyUUiTc8Qp",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4OrSYBqEkznK9ovZggiQ/u8CszZQNlYQyUUiTc8Qp/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=rnjdCRrp6jiyXR4OBqTYzKBK-F8="
+  },
+  {
+   "k": "N",
+   "text": "La operación la dirigía la Audiencia Nacional, a partir de una investigación de la Agencia Tributaria y de una querella de la Fiscalía Anticorrupción. Y la cifra de afectados dejó al país sin aliento: unos cuatrocientos sesenta mil clientes, con casi seis mil doscientos millones de euros invertidos.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Audiencia Nacional Madrid",
+     "src": "commons,loc,europeana",
+     "at": "la Audiencia Nacional",
+     "lt": [
+      "Audiencia Nacional",
+      "Madrid"
+     ]
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 460000,
+      "label": "clientes de Fórum Filatélico y Afinsa"
+     },
+     "at": "cuatrocientos sesenta mil"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 6200,
+      "label": "millones de euros invertidos, según la Agencia EFE"
+     },
+     "at": "seis mil doscientos millones"
+    }
+   ],
+   "gen": "uAkPYnsc3E0P60I5iE6W",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IyazKSiXnjs8RJgdgO8M/uAkPYnsc3E0P60I5iE6W/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=FrRsIDB3E_cHtz14zENO6zYTvDE="
+  },
+  {
+   "k": "N",
+   "text": "¿Cómo se llega ahí? Con una idea que sonaba a sentido común. Durante unos veinticinco años, Fórum y Afinsa vendieron lotes de sellos como inversión. El argumento era sencillo: un sello antiguo vale más cada año que pasa. Tú comprabas el lote, la empresa lo guardaba, y al cabo del plazo te lo recompraba con una rentabilidad fija, más alta que la de un depósito del banco.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Spanish postage stamps collection",
+     "src": "commons,loc,europeana",
+     "at": "lotes de sellos"
+    },
+    {
+     "photo": "stamp album collection magnifying glass",
+     "src": "commons,loc,europeana",
+     "at": "un sello antiguo"
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "El contrato filatélico",
+      "items": [
+       [
+        "Compras un lote de sellos",
+        "la empresa los guarda por ti"
+       ],
+       [
+        "Pasa el plazo pactado",
+        "el sello «se revaloriza»"
+       ],
+       [
+        "Te lo recompran",
+        "con una rentabilidad fija"
+       ]
+      ]
+     },
+     "at": "Tú comprabas"
+    }
+   ],
+   "gen": "oMaWsHOG8MUUMAF8DhTK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KNw0UcVK1dM7hQaaBDov/oMaWsHOG8MUUMAF8DhTK/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=kAOZnNIxNGYv4PL_eF7EQ0ndniw="
+  },
+  {
+   "k": "N",
+   "text": "El problema es que el precio de esos sellos lo fijaban ellos mismos. La investigación concluyó que muchos se habían comprado baratos y se valoraban entre cinco y diez veces más tras pasar por sociedades en el extranjero. Afinsa llegó a guardar ciento cincuenta millones de sellos en sus almacenes. Fuera de ese circuito, valían muy poco.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Precio en el contrato",
+       "lines": [
+        "Fijado por la propia empresa",
+        "Sube cada año"
+       ]
+      },
+      "right": {
+       "title": "Precio real de mercado",
+       "lines": [
+        "Entre cinco y diez veces menos",
+        "según la investigación"
+       ]
+      },
+      "strike": true
+     },
+     "at": "lo fijaban ellos mismos"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 150000000,
+      "label": "sellos en los almacenes de Afinsa"
+     },
+     "at": "ciento cincuenta millones"
+    }
+   ],
+   "gen": "BpUQukXIutRNILHDKBYh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Djet8RKIX2ReCx0lnVT8/BpUQukXIutRNILHDKBYh/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=xQlf3LanfzjPXgZ6gdlRj4ECPuI="
+  },
+  {
+   "k": "R",
+   "text": "Fórum Filatélico había construido un mercado cerrado, ajeno al del coleccionismo de sellos. Solo podía mantener su actividad reteniendo a sus inversores y captando otros nuevos. Es el paradigma de las estafas piramidales.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Sentencia de la Audiencia Nacional · julio de 2018",
+      "lines": [
+       "«Un mercado cerrado, ajeno al del coleccionismo»",
+       "«Captando nuevos inversores»",
+       "«El paradigma de las estafas piramidales»"
+      ],
+      "source": "Audiencia Nacional, Sala de lo Penal · caso Fórum Filatélico"
+     },
+     "at": "mercado cerrado"
+    }
+   ],
+   "gen": "dXe1YZNCNuSV4ZayoQfo",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vC7T1qGSWPfC8oIpmhEP/dXe1YZNCNuSV4ZayoQfo/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=UyqHpfI0b7WbORNcRp62rHtrkzg="
+  },
+  {
+   "k": "R",
+   "text": "Fórum Filatélico ofrecía al público la venta de lotes de sellos, asegurándole que, transcurrido el plazo fijado en el contrato, se encargaría de venderlos en el mercado a un precio superior.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Tribunal Supremo · sentencia del caso Fórum",
+      "lines": [
+       "«Ofrecía al público la venta de lotes de sellos»",
+       "«Se encargaría de venderlos en el mercado a un precio superior»"
+      ],
+      "source": "Sala Segunda del Tribunal Supremo · confirma la estafa piramidal"
+     },
+     "at": "ofrecía al público"
+    }
+   ],
+   "gen": "5qESE5zrkilDdf8Jufyq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mB4yy518Lq48SC1guILr/5qESE5zrkilDdf8Jufyq/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=BoQ2XqF4U8aCKEeB5LmHlzbzFPE="
+  },
+  {
+   "k": "N",
+   "text": "Es decir: Ponzi, ochenta años después, con sellos españoles. Y muchos de sus clientes no eran especuladores. Eran jubilados, autónomos, familias. Muchos habían metido más de cincuenta mil euros, los ahorros de toda una vida, porque los sellos parecían algo sólido. Algo que se podía tocar.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Spanish postage stamps collection",
+     "src": "commons,loc,europeana",
+     "at": "Ponzi, ochenta años después",
+     "kw": "PONZI CON SELLOS",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    },
+    {
+     "photo": "an old person's hands holding a single postage stamp with tw",
+     "src": "commons,loc,europeana",
+     "at": "Algo que se podía tocar"
+    }
+   ],
+   "gen": "060HOOOfbwAuBTenA0gP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mHFKQKx3Txwccnsjn8KY/060HOOOfbwAuBTenA0gP/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=pbZJLN6GhKWp--REXy3T1be-C64="
+  },
+  {
+   "k": "N",
+   "text": "Los juicios tardaron más de una década. En dos mil dieciséis, once directivos de Afinsa fueron condenados a penas de hasta doce años. En dos mil dieciocho llegó la sentencia de Fórum: doce años y cuatro meses para su expresidente, Francisco Briones, que el Tribunal Supremo rebajó después a once años y diez meses.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "timeline",
+      "header": "El caso Fórum-Afinsa",
+      "events": [
+       [
+        "2006",
+        "Intervención judicial"
+       ],
+       [
+        "2016",
+        "Condenados 11 directivos de Afinsa"
+       ],
+       [
+        "2018",
+        "Sentencia de Fórum"
+       ],
+       [
+        "Después",
+        "El Supremo confirma la estafa"
+       ]
+      ]
+     },
+     "at": "Los juicios"
+    },
+    {
+     "photo": "a modern Spanish courtroom with wooden benches full of elder",
+     "src": "commons,loc,europeana",
+     "at": "doce años y cuatro meses"
+    }
+   ],
+   "gen": "zmUZL9Pf6qnmwXHXMTB6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bVv4jMr286F4uJhfO5bl/zmUZL9Pf6qnmwXHXMTB6/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=tRFHLbXiJU99viHs8jmFWVb_wTs="
+  },
+  {
+   "k": "N",
+   "text": "Mientras tanto, los afectados se organizaron. Se manifestaron en Madrid y en decenas de ciudades, año tras año, cada nueve de mayo. Reclamaron al Estado que respondiera por no haber vigilado a tiempo. En dos mil diez, el Tribunal Supremo le eximió de pagar: no había, dijo, responsabilidad patrimonial.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a crowd of elderly protesters holding blank placards and umb",
+     "src": "commons,loc,europeana",
+     "at": "Se manifestaron"
+    },
+    {
+     "photo": "Tribunal Supremo Madrid",
+     "src": "commons,loc,europeana",
+     "at": "el Tribunal Supremo",
+     "lt": [
+      "Tribunal Supremo",
+      "Madrid"
+     ]
+    }
+   ],
+   "gen": "99ncEdcMX7uG4IvAVuTF",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vvSwUyrmSGkbDvYXAEFj/99ncEdcMX7uG4IvAVuTF/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=m1i_fbyu6v8DHjCfZwaQyNwkdJ0="
+  },
+  {
+   "k": "R",
+   "text": "Ha sido el mayor fraude de la historia de España.",
+   "voice": "JUE",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "El mayor fraude de la historia de España.",
+      "attrib": "El fiscal del caso Fórum Filatélico, según la prensa"
+     },
+     "at": "el mayor fraude"
+    }
+   ],
+   "gen": "xF1kczW5ud3NdxWXdViK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/be3mgdLmDlcPJxxhYC1a/xF1kczW5ud3NdxWXdViK/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=eBkXHqmUZbFhJWN-_O5MMe4BioQ="
+  },
+  {
+   "k": "R",
+   "text": "Un hecho insólito, incapaz de repetirse.",
+   "voice": "JUE",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Un hecho insólito, incapaz de repetirse.",
+      "attrib": "El fiscal del caso Fórum Filatélico, según la prensa"
+     },
+     "at": "Un hecho insólito"
+    }
+   ],
+   "gen": "gG7ja7oygF8bnTp8bcXX",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xklGLNHU9aW7SC7nQVxH/gG7ja7oygF8bnTp8bcXX/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=No4UvxEnpHJ_q8rOU9i2fJnCaAQ="
+  },
+  {
+   "k": "N",
+   "text": "[softly] Según las asociaciones de afectados, los clientes de Fórum han recuperado en torno a una quinta parte de lo invertido. Los de Afinsa, alrededor de un diez por ciento. Miles de ellos murieron esperando que acabaran los juicios.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Fórum Filatélico",
+       "lines": [
+        "En torno al 20 % recuperado"
+       ]
+      },
+      "right": {
+       "title": "Afinsa",
+       "lines": [
+        "Alrededor del 10 % recuperado"
+       ]
+      },
+      "strike": false
+     },
+     "at": "una quinta parte"
+    },
+    {
+     "photo": "a stack of unopened official letters on a hallway table in a",
+     "src": "commons,loc,europeana",
+     "at": "murieron esperando"
+    }
+   ],
+   "gen": "MffEoqtFxJuFYldmLxcR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aS85BXQ2ySWKpFtH7lD4/MffEoqtFxJuFYldmLxcR/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=iAp65DiBQSjRIRcc85vMfXL928g="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Expediente cinco, caso cerrado. Pero la herida no se ha cerrado. Cada nueve de mayo, todavía hoy, hay quien vuelve a recordar aquella mañana de dos mil seis.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Audiencia Nacional Madrid",
+     "src": "commons,loc,europeana",
+     "at": "caso cerrado",
+     "kw": "CASO CERRADO",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "yyRnwBPrcCv3Cwd68v3Z",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/a5LHBY9hkEUEZ1It7SMI/yyRnwBPrcCv3Cwd68v3Z/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=r3b_ECeytyPAbmQ0Jzu3G3A8FPo="
+  },
+  {
+   "k": "N",
+   "text": "Y aquí aparece la pregunta que se repite en todos los expedientes. Si tantos lo sabían, si había inspecciones, si había avisos, ¿por qué nadie lo paró antes? [pause] Para responderla, hay que volver al principio. A Nueva York.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Lipstick Building New York",
+     "src": "commons,loc,europeana",
+     "at": "A Nueva York"
+    }
+   ],
+   "gen": "3Sqoolknxtdjrssq2MXh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GkNB6mh9d6JYhX29bMy5/3Sqoolknxtdjrssq2MXh/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=PMpWWwT8z4dKwl0dcg64hOyOtts="
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "La gran mentira",
+    "sub": "Nueva York, 2008",
+    "num": "VI"
+   }
+  },
+  {
+   "k": "R",
+   "text": "Expediente número seis. Sospechoso: Bernard Lawrence Madoff, expresidente del Nasdaq. Delito: la mayor estafa piramidal conocida. Duración: décadas. Víctimas: miles, en todo el mundo.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Bernard Madoff",
+      "role": "Financiero · expresidente del Nasdaq",
+      "group": "Expediente VI · la mayor de la historia",
+      "color": [
+       196,
+       38,
+       34
+      ]
+     },
+     "at": "Expediente"
+    },
+    {
+     "photo": "Bernard Madoff mugshot 2009",
+     "src": "commons,loc,europeana",
+     "at": "Sospechoso"
+    }
+   ],
+   "gen": "D2wSKxIyhMLWoCQ7sk8W",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dAP9vKuUdyuNybRrTzLq/D2wSKxIyhMLWoCQ7sk8W/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=Xj_hvfuHlUxHtf_IlycWEBpsF4c="
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Bernard Madoff nació en Queens, en Nueva York, en mil novecientos treinta y ocho. En mil novecientos sesenta fundó su propia firma con unos cinco mil dólares que, según contaba, había ahorrado como socorrista y montando aspersores. Y durante décadas fue un pionero de verdad: su empresa ayudó a llevar la compraventa de acciones a la era de los ordenadores.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Queens New York 1940s",
+     "src": "commons,loc,europeana",
+     "at": "Queens"
+    },
+    {
+     "photo": "Bernard Madoff",
+     "src": "commons,loc,europeana",
+     "at": "fundó su propia firma"
+    },
+    {
+     "photo": "stock trading screens 1990s",
+     "src": "commons,loc,europeana",
+     "at": "la era de los ordenadores"
+    }
+   ],
+   "gen": "lfHCIHq4mQXeVKSgYgPc",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Lmvn5JyULBbGM2YWV9QM/lfHCIHq4mQXeVKSgYgPc/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=S6H0SgNrFztaVLXd487dHsHz3nc="
+  },
+  {
+   "k": "N",
+   "text": "Tenía dos negocios. Uno, legal y muy respetado: comprar y vender acciones para otros intermediarios. Lo dirigían sus hijos y su hermano. El otro, en otra planta del mismo edificio, gestionaba el dinero de inversores privados. Ahí no entraba casi nadie.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Planta de arriba",
+       "lines": [
+        "Negocio legal",
+        "compraventa de acciones",
+        "Hijos y hermano"
+       ]
+      },
+      "right": {
+       "title": "Otra planta",
+       "lines": [
+        "Gestión de fortunas",
+        "Muy pocos empleados",
+        "Nadie preguntaba"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Tenía dos negocios"
+    },
+    {
+     "photo": "Lipstick Building 885 Third Avenue",
+     "src": "commons,loc,europeana",
+     "at": "del mismo edificio"
+    }
+   ],
+   "gen": "g4LeHtLf884yuwW1kHIb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Lr6H1b5DMSj2sykC8idN/g4LeHtLf884yuwW1kHIb/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=HwgGPBhvpMApy_mM86mRq4OwoEg="
+  },
+  {
+   "k": "N",
+   "text": "Ese segundo negocio ofrecía algo que parecía mágico. No unos beneficios espectaculares, sino constantes. En torno a un diez por ciento al año, con muy pocos meses en negativo, fuera cual fuera la situación de la bolsa. [short pause] Ni Ponzi se había atrevido a tanta calma.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "La bolsa real",
+       "lines": [
+        "Años de subidas",
+        "y años de desplomes"
+       ]
+      },
+      "right": {
+       "title": "Madoff, sobre el papel",
+       "lines": [
+        "En torno al 10 % al año",
+        "Casi nunca un mes en negativo"
+       ]
+      },
+      "strike": false
+     },
+     "at": "algo que parecía mágico"
+    }
+   ],
+   "gen": "qecWN1LBnGMerRpLReZ1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kPSTgBr2UQrTHmL92cfc/qecWN1LBnGMerRpLReZ1/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=L3hTZjDz3jPZkep2AlzrLXQUBHI="
+  },
+  {
+   "k": "N",
+   "text": "Él lo llamaba su estrategia de conversión con opciones. Decía que compraba acciones de grandes empresas y se protegía con contratos que limitaban las pérdidas. Sonaba sofisticado. Sonaba imposible de comprobar para un cliente normal. Y precisamente por eso, casi nadie preguntaba.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que decía hacer",
+       "lines": [
+        "Comprar acciones de grandes empresas",
+        "Protegerse con opciones"
+       ]
+      },
+      "right": {
+       "title": "Lo que hacía",
+       "lines": [
+        "Nada",
+        "Pagar con el dinero de los nuevos"
+       ]
+      },
+      "strike": true
+     },
+     "at": "Él lo llamaba"
+    }
+   ],
+   "gen": "YyTe7e1mJRCqOeweB91p",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HHI2HUNJjJF22hPs5rDo/YyTe7e1mJRCqOeweB91p/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=Tmt97n340T6EetJ5l6k1KU0L1GI="
+  },
+  {
+   "k": "N",
+   "text": "Y Madoff no perseguía a los clientes. Los rechazaba. Hacía sentir que entrar en su fondo era un privilegio. Le llegaban por recomendación: clubs de campo, fundaciones benéficas, grandes fondos de inversión que le pasaban el dinero de sus propios clientes. También desde España, a través del fondo Optimal, del Banco Santander.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "a private country club lounge with leather armchairs and whi",
+     "src": "commons,loc,europeana",
+     "at": "clubs de campo"
+    },
+    {
+     "photo": "a discreet private banking office with a single armchair fac",
+     "src": "commons,loc,europeana",
+     "at": "desde España"
+    }
+   ],
+   "gen": "93flDxcqnSJGZ3oEp3rg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/CTaqh8TNVANSseOiXMsz/93flDxcqnSJGZ3oEp3rg/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=laD1RQk8X534tC3ZOYoFGexrvxc="
+  },
+  {
+   "k": "N",
+   "text": "Un analista que le investigó durante años lo explicaría después ante el Congreso: el mayor talento de Madoff era hacerse el difícil. Ofrecer la falsa seguridad de lo exclusivo. Porque cuando alguien te dice que no puedes entrar, de repente es lo único que quieres.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a velvet rope barrier in front of a closed mahogany door in ",
+     "src": "commons,loc,europeana",
+     "at": "hacerse el difícil"
+    }
+   ],
+   "gen": "AIWAelpbqbLDnaPaQJPH",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VIX8vP7Z1rRpr2dc3fwr/AIWAelpbqbLDnaPaQJPH/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=YbrzNu-L2g0ahDXcBRYeuQT11TI="
+  },
+  {
+   "k": "N",
+   "text": "Pero hubo alguien que hizo las cuentas. Harry Markopolos, un analista de Boston, recibió el encargo de copiar la estrategia de Madoff. Lo intentó. Y llegó a la conclusión de que era matemáticamente imposible. Solo había dos explicaciones: o Madoff usaba información privilegiada, o era un fraude.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Harry Markopolos",
+     "src": "commons,loc,europeana",
+     "at": "Harry Markopolos",
+     "lt": [
+      "Harry Markopolos",
+      "Analista financiero · Boston",
+      "autoridades"
+     ]
+    },
+    {
+     "photo": "Boston Financial District skyline",
+     "src": "commons,loc,europeana",
+     "at": "matemáticamente imposible",
+     "kw": "IMPOSIBLE",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "83Gj52Asqxh9Zl0Zbdv3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2ryiNl4Sp274ng8m5dvn/83Gj52Asqxh9Zl0Zbdv3/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=UP4akIEOG3O41zktddYpP1TBZlc="
+  },
+  {
+   "k": "N",
+   "text": "En el año dos mil lo denunció ante la SEC. Sí, la misma SEC que nació tras la caída del rey de las cerillas. No le hicieron caso. Insistió. Y en dos mil cinco envió un informe con veintinueve señales de alarma y un título que no dejaba lugar a dudas.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Securities and Exchange Commission headquarters Washington",
+     "src": "commons,loc,europeana",
+     "at": "la SEC"
+    }
+   ],
+   "gen": "odKiypGxwXRNixTuwqI1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/t1tWBMr5G3cmXuyaRMaU/odKiypGxwXRNixTuwqI1/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=C6HDMEjnsI8F8nMyAPZzlASaW8s="
+  },
+  {
+   "k": "R",
+   "text": "El mayor fondo de inversión del mundo es un fraude.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Informe de Harry Markopolos a la SEC · 2005",
+      "lines": [
+       "«El mayor fondo de inversión del mundo es un fraude»",
+       "Decenas de señales de alarma, una por una"
+      ],
+      "source": "The World's Largest Hedge Fund is a Fraud · noviembre de 2005"
+     },
+     "at": "El mayor fondo"
+    }
+   ],
+   "gen": "xA2QtfAvnUOxiFb9pgqg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cfcz9TeQdrkMmpwujfum/xA2QtfAvnUOxiFb9pgqg/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=JQdBmSthAxpvoDQIwZR7P4BtuHY="
+  },
+  {
+   "k": "N",
+   "text": "La SEC examinó a Madoff varias veces y no encontró nada. Un informe interno del propio organismo reconoció después sus errores: nunca comprobaron con terceros si las operaciones que Madoff decía hacer existían de verdad. [pause] No existían.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Securities and Exchange Commission seal",
+     "src": "commons,loc,europeana",
+     "at": "No existían",
+     "kw": "NO EXISTÍAN",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "t8L2ZfRp8GhmuMJRZNGK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Mq5V80fh0RF3IFVdu8jt/t8L2ZfRp8GhmuMJRZNGK/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=6OK7KWTnZMzgFNcqjLMhbJEf3NE="
+  },
+  {
+   "k": "N",
+   "text": "Markopolos llegó a temer por su vida y por la de su familia, convencido de que se estaba enfrentando a gente muy poderosa. Y cuando por fin todo estalló, en febrero de dos mil nueve, le dejaron hablar ante el Congreso de Estados Unidos.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "a man's silhouette looking through the blinds of a suburban ",
+     "src": "commons,loc,europeana",
+     "at": "temer por su vida"
+    },
+    {
+     "photo": "United States Capitol",
+     "src": "commons,loc,europeana",
+     "at": "el Congreso de Estados Unidos",
+     "lt": [
+      "Congreso de EE. UU.",
+      "Washington · 4 de febrero de 2009"
+     ]
+    }
+   ],
+   "gen": "QrnGfQMSFjCgNT6cyUzi",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/liKVwrCRkS5aYqoDCSUj/QrnGfQMSFjCgNT6cyUzi/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=zA8usch8-HTpY6tOEfwWIHJ135g="
+  },
+  {
+   "k": "R",
+   "text": "[serious] Les entregué en bandeja, envuelta para regalo, la mayor estafa piramidal de la historia. Y, de algún modo, no se molestaron en hacer una investigación a fondo, como es debido, porque estaban demasiado ocupados con asuntos más prioritarios.",
+   "voice": "MKP",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Les entregué en bandeja, envuelta para regalo, la mayor estafa piramidal de la historia.",
+      "attrib": "Harry Markopolos ante el Congreso de EE. UU. · 4 de febrero de 2009"
+     },
+     "at": "Les entregué"
+    }
+   ],
+   "gen": "q51YZ2INuPUdeUe825bV",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cJirF2MGBaYETgl4AQ5A/q51YZ2INuPUdeUe825bV/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=cmXxf10xG-CpG3bzxVx5nHeDcjE="
+  },
+  {
+   "k": "R",
+   "text": "Si una estafa piramidal de cincuenta mil millones de dólares no entra en la lista de prioridades de la SEC, entonces quiero saber quién fija sus prioridades.",
+   "voice": "MKP",
+   "shots": [
+    {
+     "photo": "Harry Markopolos",
+     "src": "commons,loc,europeana",
+     "at": "quiero saber",
+     "lt": [
+      "Harry Markopolos",
+      "Investigador de fraudes",
+      "autoridades"
+     ]
+    }
+   ],
+   "gen": "mJ3pxSvek2dwApRuI7zK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TlAlaOMNJylEvaAzPrYF/mJ3pxSvek2dwApRuI7zK/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=sdignwBrOgatY6r9fRkPXlD7kIY="
+  },
+  {
+   "k": "N",
+   "text": "Durante años, Madoff pagó a los que pedían su dinero con el dinero de los que llegaban. Exactamente lo que hizo Ponzi. Solo que durante mucho más tiempo, y con extractos impecables que se fabricaban en esa otra planta de la oficina.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "stacks of printed financial account statements coming out of",
+     "src": "commons,loc,europeana",
+     "at": "extractos impecables"
+    }
+   ],
+   "gen": "8rB9q5k8HhL8UrXOQGt9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZqlYbFSMoEpjMmyc0XzI/8rB9q5k8HhL8UrXOQGt9/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=fA0HI8zNlsl4WNAj0d_BLy9jucY="
+  },
+  {
+   "k": "N",
+   "text": "Según se supo en los juicios a sus colaboradores, en aquella planta se usaban ordenadores antiguos para imprimir confirmaciones de operaciones que nunca se habían hecho. Se elegían las cotizaciones del pasado que mejor cuadraban, y se inventaban las compras y las ventas a posteriori. Rentabilidades perfectas, fabricadas hacia atrás.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "an old beige office computer terminal with a green-text scre",
+     "src": "commons,loc,europeana",
+     "at": "ordenadores antiguos"
+    },
+    {
+     "photo": "stock trading screens 1990s",
+     "src": "commons,loc,europeana",
+     "at": "fabricadas hacia atrás",
+     "kw": "HACIA ATRÁS",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "yOZVwM0T0O4wROtpzVB5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/88vMavTOIQpBH8nXgdNq/yOZVwM0T0O4wROtpzVB5/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=MsMKroUTyoB3sa2jS5INeKpqj5k="
+  },
+  {
+   "k": "N",
+   "text": "[serious] Hasta que llegó el otoño de dos mil ocho. Quiebra Lehman Brothers. Los mercados se desploman. Y los clientes de Madoff, asustados, piden su dinero a la vez. Unos siete mil millones de dólares. Ese dinero no estaba.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Lehman Brothers headquarters 2008",
+     "src": "commons,loc,europeana",
+     "at": "Lehman Brothers"
+    },
+    {
+     "photo": "New York Stock Exchange 2008",
+     "src": "commons,loc,europeana",
+     "at": "Los mercados se desploman"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 7000,
+      "label": "millones de dólares que pidieron los clientes en 2008",
+      "prefix": "$"
+     },
+     "at": "siete mil millones"
+    }
+   ],
+   "gen": "K3eylPCdt6IxlqvcI9rB",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OZ6kLb3eZnEo5IJNDafm/K3eylPCdt6IxlqvcI9rB/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=R-RYx8dM7VoMSQjDlsgxRsfx34k="
+  },
+  {
+   "k": "N",
+   "text": "El diez de diciembre confesó a sus hijos. Ellos acudieron a sus abogados, y los abogados a las autoridades. A la mañana siguiente, los agentes del FBI se presentaron en su ático del Upper East Side. Según la agencia AP, les abrió un hombre derrotado, en albornoz, que sabía que se había acabado.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Upper East Side Manhattan",
+     "src": "commons,loc,europeana",
+     "at": "Upper East Side",
+     "lt": [
+      "Upper East Side",
+      "Manhattan, Nueva York"
+     ]
+    },
+    {
+     "photo": "an apartment door half open in a luxury Manhattan building h",
+     "src": "commons,loc,europeana",
+     "at": "en albornoz"
+    }
+   ],
+   "gen": "Tbkwct392wpZhzlYUXUQ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/urZUvvCB5ltrI5mmTBSn/Tbkwct392wpZhzlYUXUQ/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=N3bIcaKCJrGCiaqU6WtAhfFZkZE="
+  },
+  {
+   "k": "N",
+   "text": "Ese mismo día, la directora de Ejecución de la SEC lo resumió así: un fraude masivo, tanto por su alcance como por su duración.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Un fraude masivo, tanto por su alcance como por su duración.",
+      "attrib": "Linda Chatman Thomsen, directora de Ejecución de la SEC · 11 de diciembre de 2008"
+     },
+     "at": "un fraude masivo"
+    }
+   ],
+   "gen": "IxI1f9U5Dc2aasxfYidL",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1NTvsoWkM4YnMtlrLdqH/IxI1f9U5Dc2aasxfYidL/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=PhgrcnaQ1Ror5XzmzT4b_XZpDTk="
+  },
+  {
+   "k": "N",
+   "text": "El fraude cruzó el Atlántico. Cuando estalló, el Santander reconoció que sus clientes tenían dos mil trescientos treinta millones de euros expuestos a Madoff. Semanas después, el banco ofreció compensar a sus clientes particulares. Y al otro lado del océano, en México, Chile o Argentina, miles de ahorradores descubrieron que su dinero había acabado en el mismo agujero.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "Banco Santander headquarters Boadilla",
+     "src": "commons,loc,europeana",
+     "at": "el Santander",
+     "lt": [
+      "Banco Santander",
+      "Ciudad Financiera · Boadilla del Monte"
+     ]
+    },
+    {
+     "photo": "a bank branch waiting area in Latin America in 2008, worried",
+     "src": "commons,loc,europeana",
+     "at": "miles de ahorradores"
+    }
+   ],
+   "gen": "DfQFW4vrKKGlj3KHpPiB",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zASaSlpYL0oOOX76jUd7/DfQFW4vrKKGlj3KHpPiB/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=-Inhvix_wsb9pcESf7GxCMAn_80="
+  },
+  {
+   "k": "N",
+   "text": "Entre las víctimas había grandes fortunas, pero también fundaciones benéficas, fondos de pensiones y jubilados. La fundación del premio Nobel de la Paz Elie Wiesel, superviviente del Holocausto, perdió casi todo su patrimonio en el fondo de Madoff.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Elie Wiesel",
+     "src": "commons,loc,europeana",
+     "at": "Elie Wiesel",
+     "lt": [
+      "Elie Wiesel",
+      "Premio Nobel de la Paz 1986",
+      "victimas"
+     ]
+    },
+    {
+     "photo": "an empty charity foundation office with framed photographs o",
+     "src": "commons,loc,europeana",
+     "at": "perdió casi todo"
+    }
+   ],
+   "gen": "dMOljI6oaG94i9AOrU3C",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oKJYwxcUoPL2tOZA6onp/dMOljI6oaG94i9AOrU3C/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=tQTaEMoBJwIF9C0r1Xq4fI6HDMI="
+  },
+  {
+   "k": "N",
+   "text": "Tres meses después, el doce de marzo de dos mil nueve, Madoff se declaró culpable de once delitos. Leyó una declaración ante el juez.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Daniel Patrick Moynihan United States Courthouse",
+     "src": "commons,loc,europeana",
+     "at": "se declaró culpable",
+     "lt": [
+      "Tribunal federal",
+      "Manhattan · 12 de marzo de 2009"
+     ]
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 11,
+      "label": "delitos de los que se declaró culpable"
+     },
+     "at": "once delitos"
+    }
+   ],
+   "gen": "NN9DV2rTwaliUaTLEkgc",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YW1wPs2mIWgISj9hT9Mq/NN9DV2rTwaliUaTLEkgc/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=811xR-TETuD05wmcfysMoS0oKd8="
+  },
+  {
+   "k": "R",
+   "text": "Señoría, durante muchos años, hasta mi detención el once de diciembre de dos mil ocho, dirigí un esquema Ponzi a través del negocio de asesoría de inversiones de mi firma. No puedo expresar adecuadamente cuánto siento lo que he hecho.",
+   "voice": "MAD",
+   "shots": [
+    {
+     "photo": "a federal courtroom in Manhattan seen from the back rows, a ",
+     "src": "commons,loc,europeana",
+     "at": "Señoría"
+    },
+    {
+     "card": {
+      "type": "doc",
+      "title": "Declaración de culpabilidad · 12 de marzo de 2009",
+      "lines": [
+       "«Dirigí un esquema Ponzi»",
+       "«No puedo expresar adecuadamente cuánto siento lo que he hecho»"
+      ],
+      "source": "Tribunal federal del distrito sur de Nueva York"
+     },
+     "at": "cuánto siento"
+    }
+   ],
+   "gen": "gXmDcw6fWnMkjGCB4oir",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KcDjerXxxdZy3LKbpqhY/gXmDcw6fWnMkjGCB4oir/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=NGMYFlz0yTA5Azhw-QM4bIUIQ4w="
+  },
+  {
+   "k": "R",
+   "text": "[serious] Cuando empecé el esquema Ponzi, creí que terminaría pronto y que podría sacarnos de él, a mí y a mis clientes. Pero resultó difícil, y al final imposible. Y con los años me di cuenta de que mi detención y este día llegarían inevitablemente.",
+   "voice": "MAD",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Con los años me di cuenta de que mi detención y este día llegarían inevitablemente.",
+      "attrib": "Bernard Madoff ante el juez · 12 de marzo de 2009"
+     },
+     "at": "Cuando empecé"
+    }
+   ],
+   "gen": "IOEL6lLxbnxT75qfd5MQ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7ieP0femmT5ftFf4j5RT/IOEL6lLxbnxT75qfd5MQ/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=OTqX82xdWxctYpg4_MdgH8Q8JeI="
+  },
+  {
+   "k": "N",
+   "text": "El día de la sentencia, nueve víctimas hablaron en la sala. Ninguno de sus amigos ni de su familia había enviado una sola carta en su defensa. Madoff se giró hacia ellas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "rows of courtroom spectators seen from behind, an older woma",
+     "src": "commons,loc,europeana",
+     "at": "nueve víctimas"
+    }
+   ],
+   "gen": "SPYUHu7xZZ7xVlgquJGl",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MXu8ftwjWH6ItcmkEod3/SPYUHu7xZZ7xVlgquJGl/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=2ayQcsLPoPMhYr14WxMt2FyiH18="
+  },
+  {
+   "k": "R",
+   "text": "[softly] Vivo en un estado de tormento, sabiendo todo el dolor y el sufrimiento que he causado.",
+   "voice": "MAD",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Vivo en un estado de tormento, sabiendo todo el dolor y el sufrimiento que he causado.",
+      "attrib": "Bernard Madoff ante el tribunal · 29 de junio de 2009"
+     },
+     "at": "Vivo en un estado"
+    }
+   ],
+   "gen": "CIKM8TtJooXYD8PJdsLL",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZGrMAe8hunW0o1C1RzVs/CIKM8TtJooXYD8PJdsLL/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=49SAlQuWhW1Jdhg1vEWBKmV8DI4="
+  },
+  {
+   "k": "N",
+   "text": "El veintinueve de junio de dos mil nueve llegó la sentencia. Ciento cincuenta años de prisión, la pena máxima posible para un hombre de setenta y un años. El juez Denny Chin sabía que era simbólico. Y lo explicó así.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 150,
+      "label": "años de prisión · 29 de junio de 2009"
+     },
+     "at": "Ciento cincuenta años"
+    }
+   ],
+   "gen": "EsUpK6XcmDyAQ80a9Ppg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/S8IDtuSXIKMSvFGDt2YY/EsUpK6XcmDyAQ80a9Ppg/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=eBqiW9reFl_2caLAxLtWp2sHFL0="
+  },
+  {
+   "k": "R",
+   "text": "[serious] El simbolismo es importante. Hay que enviar el mensaje de que los delitos del señor Madoff fueron extraordinariamente malvados. Y de que este tipo de manipulación del sistema no es un delito incruento que ocurre sobre el papel, sino uno que causa un daño humano enorme.",
+   "voice": "JUE",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Los delitos del señor Madoff fueron extraordinariamente malvados.",
+      "attrib": "El juez Denny Chin al dictar sentencia · 29 de junio de 2009"
+     },
+     "at": "El simbolismo"
+    },
+    {
+     "photo": "the shadow of a judge raising a gavel cast on a wood-panelle",
+     "src": "commons,loc,europeana",
+     "at": "daño humano enorme"
+    }
+   ],
+   "gen": "yDMaDNBVglxumdxaTH3z",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2D4ZE1b1zEukXs4OctgH/yDMaDNBVglxumdxaTH3z/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=8oy1ggSJo1jTn3tRNQals6R5ukw="
+  },
+  {
+   "k": "N",
+   "text": "Las cuentas de sus clientes sumaban, sobre el papel, unos sesenta y cinco mil millones de dólares. El dinero que de verdad le habían entregado rondaba los dieciocho mil millones. El resto eran beneficios que nunca existieron. [pause] Madoff murió en una prisión de Carolina del Norte en abril de dos mil veintiuno. Tenía ochenta y dos años.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Sobre el papel",
+       "lines": [
+        "Unos 65.000 millones de dólares"
+       ]
+      },
+      "right": {
+       "title": "Dinero real entregado",
+       "lines": [
+        "Unos 18.000 millones",
+        "según el administrador judicial"
+       ]
+      },
+      "strike": false
+     },
+     "at": "sobre el papel"
+    },
+    {
+     "photo": "Butner Federal Correctional Complex",
+     "src": "commons,loc,europeana",
+     "at": "una prisión de Carolina del Norte"
+    }
+   ],
+   "gen": "8mb2KZo4YELmt8iMy1Rk",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2Anp4px77iAGNUwoLZRm/8mb2KZo4YELmt8iMy1Rk/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=csrT3Gfmgsh-f-Jz5lcvfVk_Yh8="
+  },
+  {
+   "k": "N",
+   "text": "Desde entonces, el administrador judicial del caso, Irving Picard, ha pasado años persiguiendo el dinero: demandando a bancos, fondos y a clientes que habían cobrado beneficios ficticios. Ha logrado recuperar una parte muy importante del dinero aportado. Pero nada devuelve los años de angustia de quienes lo perdieron todo.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "endless rows of archive boxes on metal shelves in a dim lega",
+     "src": "commons,loc,europeana",
+     "at": "persiguiendo el dinero"
+    }
+   ],
+   "gen": "3Ux0lH7oU3MNGPEkKwZU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cMPTW70eYJC3xKoNv3pZ/3Ux0lH7oU3MNGPEkKwZU/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=I6aG05Kj3emN3i2I9KYXJulFPpA="
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El mismo truco",
+    "sub": "Doscientos años de estafas"
+   }
+  },
+  {
+   "k": "B",
+   "track": "fondo"
+  },
+  {
+   "k": "N",
+   "text": "Un país inventado. Unos cupones de correos. Una torre. Unas cerillas. Unos sellos. Un fondo de inversión. Seis disfraces distintos. Y por debajo, el mismo truco.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "board",
+      "title": "Seis expedientes, un mismo truco",
+      "nodes": [
+       [
+        "Poyais",
+        "MacGregor · 1822"
+       ],
+       [
+        "Cupones",
+        "Ponzi · 1920"
+       ],
+       [
+        "Torre Eiffel",
+        "Lustig · 1925"
+       ],
+       [
+        "Cerillas",
+        "Kreuger · 1932"
+       ],
+       [
+        "Sellos",
+        "Fórum y Afinsa · 2006"
+       ],
+       [
+        "Fondo",
+        "Madoff · 2008"
+       ]
+      ],
+      "links": [
+       [
+        0,
+        1
+       ],
+       [
+        1,
+        2
+       ],
+       [
+        2,
+        3
+       ],
+       [
+        3,
+        4
+       ],
+       [
+        4,
+        5
+       ],
+       [
+        5,
+        0
+       ],
+       [
+        1,
+        5
+       ],
+       [
+        1,
+        4
+       ]
+      ]
+     },
+     "at": "Un país inventado"
+    }
+   ],
+   "gen": "Sl5zBcsSj8QkTSQFGBEo",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/CtWUFWQqhiYl3E3y1x6z/Sl5zBcsSj8QkTSQFGBEo/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=9tIOOaFFLjUyrWIJVqa6nIfUYWg="
+  },
+  {
+   "k": "N",
+   "text": "Si repasas los expedientes, las señales se repiten. Una rentabilidad alta y, sobre todo, demasiado regular. Un negocio que nadie sabe explicar del todo. La sensación de estar entre unos pocos elegidos. Los primeros que cobran y te lo cuentan. Y alguien, casi siempre, que avisó y no fue escuchado.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "title": "Las señales que se repiten",
+      "items": [
+       [
+        "Rentabilidad demasiado regular",
+        "alta y sin sobresaltos"
+       ],
+       [
+        "Nadie sabe explicarlo",
+        "el negocio es un misterio"
+       ],
+       [
+        "Exclusividad",
+        "te hacen sentir elegido"
+       ],
+       [
+        "Los primeros cobran",
+        "y traen a los demás"
+       ],
+       [
+        "Avisos ignorados",
+        "alguien lo vio antes"
+       ]
+      ]
+     },
+     "at": "las señales se repiten"
+    }
+   ],
+   "gen": "wyAlgvuswpaBBu4patop",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VPRHrtJBE8PAl3gh5C7T/wyAlgvuswpaBBu4patop/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=Ok3xGT2vrmam1_3PjXWLtAcs61o="
+  },
+  {
+   "k": "N",
+   "text": "[softly] Ninguna de estas estafas se apoyó solo en la codicia. Se apoyó en algo mucho más humano: la confianza. En un militar con medallas, en un vecino que cobraba puntual, en un banco de prestigio, en unos sellos que se podían tocar.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a firm handshake between two men in suits over a desk, warm ",
+     "src": "commons,loc,europeana",
+     "at": "la confianza"
+    }
+   ],
+   "gen": "DzSnGqLEkiOKN1Pdyfrg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/T1Xd8YVLDulO6uUjeSbT/DzSnGqLEkiOKN1Pdyfrg/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=9cweZ7Zd2L4Ye0vjGskIBzo0UCs="
+  },
+  {
+   "k": "N",
+   "text": "Y fíjate en algo. Los estafados no eran tontos. Había banqueros, abogados, médicos, grandes fondos de inversión, gobiernos enteros. Lo que tenían en común no era la ignorancia. Era que todos querían creer que esta vez sí, que esta vez habían encontrado la excepción.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "a well-dressed professional adjusting his tie in a mirror in",
+     "src": "commons,loc,europeana",
+     "at": "no eran tontos"
+    }
+   ],
+   "gen": "1ggXp1iExpynZinUReOu",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zOJhZmHtGmKkjvhrMUF7/1ggXp1iExpynZinUReOu/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=jchEertmZN5szjX8G5YqMYiNnOE="
+  },
+  {
+   "k": "N",
+   "text": "Por eso la próxima gran estafa no se parecerá a ninguna de estas. Llegará con otro disfraz, con otra tecnología, con otra palabra de moda. [pause] Pero hará la misma promesa.",
+   "voice": "INV",
+   "shots": [
+    {
+     "photo": "a smartphone glowing on a dark table at night, its screen sh",
+     "src": "commons,loc,europeana",
+     "at": "otro disfraz"
+    }
+   ],
+   "gen": "yXJ2hnzh2aT2bCtQXRoe",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IdVapvtjIv29CHQzp9hs/yXJ2hnzh2aT2bCtQXRoe/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=iMk5fJ_uBM_iD-T34tX8SYSnJZM="
+  },
+  {
+   "k": "N",
+   "text": "Hoy, la Comisión Nacional del Mercado de Valores publica cada semana advertencias sobre empresas que ofrecen invertir sin estar autorizadas. Los llaman chiringuitos financieros. Cambian de nombre, de web y de producto: criptomonedas, divisas, inmuebles, inteligencia artificial. El guion, en cambio, apenas cambia.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "CNMV sede Madrid",
+     "src": "commons,loc,europeana",
+     "at": "Comisión Nacional del Mercado de Valores"
+    },
+    {
+     "photo": "CNMV sede Madrid",
+     "src": "commons,loc,europeana",
+     "at": "chiringuitos financieros",
+     "kw": "CHIRINGUITOS",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    },
+    {
+     "photo": "a person on a night train scrolling a smartphone showing a f",
+     "src": "commons,loc,europeana",
+     "at": "criptomonedas"
+    }
+   ],
+   "gen": "HJHlhxaatpD5fh9FzvpL",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YF0LgP3lAAqf8eDuqReG/HJHlhxaatpD5fh9FzvpL/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=u5N0LSRyqNkh3zaNJzDz4OuuIBE="
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Y alguien, en algún lugar, volverá a decir esa misma frase. [pause] Todo es una gran mentira.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Lipstick Building New York",
+     "src": "commons,loc,europeana",
+     "at": "Todo es una gran mentira",
+     "kw": "TODO ES UNA GRAN MENTIRA",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "YDBIlk7TmYbBegEeDuyj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pScRssBlDbnytFImvAYD/YDBIlk7TmYbBegEeDuyj/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=lrl8XXZK4Lfl_Ufj574lQFLA2Vk="
+  },
+  {
+   "k": "N",
+   "text": "Y ahora, te toca a ti. ¿Cuál de estos seis expedientes te ha parecido más increíble? Te leemos en los comentarios.",
+   "voice": "INV",
+   "shots": [
+    {
+     "card": {
+      "type": "board",
+      "title": "¿Cuál es el más increíble?",
+      "nodes": [
+       [
+        "Poyais",
+        "1822"
+       ],
+       [
+        "Ponzi",
+        "1920"
+       ],
+       [
+        "Torre Eiffel",
+        "1925"
+       ],
+       [
+        "Kreuger",
+        "1932"
+       ],
+       [
+        "Fórum y Afinsa",
+        "2006"
+       ],
+       [
+        "Madoff",
+        "2008"
+       ]
+      ],
+      "links": []
+     },
+     "at": "te toca a ti"
+    }
+   ],
+   "gen": "WAym5hTDwccgdxPV9ddQ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/f643vWYQ4uuepIQGIsp0/WAym5hTDwccgdxPV9ddQ/content.mp3?Expires=1795201200&KeyName=assets-cdn-key-1&Signature=WHPUaGaqFBXMq_VvsjYjcTOEbNI="
+  }
+ ]
+}

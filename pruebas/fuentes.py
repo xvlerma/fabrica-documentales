@@ -1,6 +1,6 @@
 # Rama temporal: genera las miniaturas de «estafas» y las vuelca en base64 en el informe.
 import sys, os, base64
-import subprocess; subprocess.run([sys.executable, "-m", "pip", "install", "-q", "--user", "--break-system-packages", "pillow", "requests"]); import site; sys.path.append(site.getusersitepackages())
+import subprocess; r = subprocess.run("sudo apt-get install -y -q python3-pil python3-requests || pip3 install --break-system-packages pillow requests", shell=True, capture_output=True, text=True); print(r.stdout[-400:], r.stderr[-400:])
 sys.path.insert(0, 'fabrica')
 import sources as SRC, thumb as TH
 SRC.SEGURO = True

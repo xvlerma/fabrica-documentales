@@ -1,0 +1,162 @@
+# La Antigua Roma (Historia Completa) · paquete de YouTube
+
+**Título (recomendado):** La Antigua Roma: Historia Completa (sin mitos de Hollywood)  (59 caracteres)
+**Alternativas A/B:** Historia de Roma completa: lo que Hollywood no te contó · La Antigua Roma en 1 hora: la historia REAL
+
+**Miniatura B (subida):** «HOLLYWOOD / TE MINTIÓ», Pollice Verso de Gérôme a color · **Miniatura A:** «ROMA / NUNCA CAYÓ», Coliseo
+
+**Etiquetas** (465 caracteres): antigua roma, historia de roma, roma historia completa, imperio romano, república romana, historia antigua, julio césar, augusto, aníbal, cartago, nerón, calígula, coliseo, gladiadores, pompeya, caída de roma, caída del imperio romano, espartaco, cleopatra, marco aurelio, constantino, hispania romana, mitos de la historia, legiones romanas, senado romano, imperio romano de occidente, roma antigua documental, historia en español, historia real, documental, documental historia, documental roma
+
+**Ajustes:** Educación · Español (España) · no creado para niños · sin promoción pagada · Uso de IA: No (ilustraciones claramente dibujadas) · capítulos automáticos desactivados · remixes solo audio · subtítulos roma.srt · pantalla final 1 vídeo + suscribirse
+
+## Descripción (1695 caracteres)
+
+¿Y si casi todo lo que crees saber de la Antigua Roma viniera de Hollywood? La historia completa de Roma, de la loba a la caída, contada con las fuentes antiguas y separando cada mito de lo que de verdad pasó.
+
+En este documental:
+· Cómo una aldea de cabañas en el Palatino conquistó el Mediterráneo
+· Aníbal, Cannas y la guerra que casi borra a Roma del mapa
+· Julio César, los piratas, el Rubicón y los idus de marzo (y sus verdaderas últimas palabras)
+· Augusto, Calígula, Nerón y el incendio de Roma: lo que dicen Tácito y Suetonio
+· La Roma de la calle: grafitos de Pompeya, termas, esclavos, mujeres y pan y circo
+· La crisis del siglo III, Constantino y la caída de Occidente en 476… que casi nadie notó
+· Por qué Roma, en realidad, nunca murió
+
+Capítulos
+0:00 Introducción
+1:33 La loba y los reyes
+4:50 La República que no se rendía
+9:43 Aníbal a las puertas
+16:51 La República se devora
+26:51 El hombre que no quiso ser rey
+31:41 Locos, dioses y constructores
+40:02 La Roma de la calle
+45:05 Al borde del abismo
+50:24 La cruz y la espada
+53:05 La caída que nadie vio
+58:42 Epílogo
+
+Fuentes principales: Polibio, Tito Livio, Plutarco, Suetonio, Tácito, Plinio el Joven, Res Gestae Divi Augusti, Corpus Inscriptionum Latinarum (CIL IV y VI), Edward Gibbon y Mary Beard (SPQR).
+
+Música: Mixkit (licencia Mixkit). Imágenes de archivo de Wikimedia Commons y museos con licencias abiertas; la lista completa de autores y licencias está en el comentario fijado.
+Ilustraciones de escenas: recreaciones artísticas, no imágenes de época.
+
+Suscríbete a DocuVox para más historia real, sin mitos.
+
+#antiguaroma #historiaderoma #documental #imperioromano #juliocesar #historia #roma #historiaantigua
+
+## Comentario fijado (8104 caracteres)
+
+Si pudieras viajar a un momento de la historia de Roma, ¿cuál elegirías? 👇
+
+Créditos de imagen (autor y licencia):
+Foto aerea del Colosseo — Aeroshot.it (CC BY-SA 4.0)
+Nero 1 — cjh1452000 (CC BY-SA 3.0)
+Forum Romanum panorama — Hans E C Johansson (CC BY-SA 3.0)
+Forum Romanum panorama 2 — Wikimedia Commons (CC BY-SA 3.0)
+Funerary inscription of C Hostius Pamphilus (Rom — Mark Landon (User:Choliamb) (CC BY 4.0)
+Wall Decoration with Graffiti - Pompeii Antiquar — MumblerJamie (CC BY-SA 2.0)
+Palatine Hill from Circus Maximus (1) — Krzysztof Golik (CC BY-SA 4.0)
+Lupa Capitolina con sfondo bianco — Merulana (CC BY-SA 4.0)
+2024-10-12 Rome, Tiber Island — Alexkom000 (CC BY 4.0)
+Sarcofago degli Sposi Villa Giulia — Tutorialwiki (CC BY-SA 4.0)
+Tiber Embarkment Wall around an outlet of the Cl — Penelope Davies (CC BY-SA 4.0)
+Hígado de Piacenza. MARQ — Dorieo (CC BY-SA 4.0)
+Cabane le serment de Brutus — VladoubidoOo (CC BY-SA 3.0)
+Brutus Capitolin - détouré 04 — C.Salviani (CC BY 3.0)
+Dedicatory inscription Ostia Antica 2006-09-08 — Wikimedia Commons (CC BY 2.5)
+César (13667960455) — Gautier Poupeau from Paris, France (CC BY 2.0)
+SPQR — J. Miers - User: (WT-shared) Jtesla16 at (CC BY-SA 1.0)
+Manhole cap in Rome - 22101713900 — fishwasher (CC BY 2.0)
+Cincinnati night skyline from Covington, January — Jason Zhang (CC BY-SA 3.0)
+Dying Gaul-Musei CapitoliniI — Yair Haklai (CC BY-SA 3.0)
+Capitoline Hill Rome 1 — Pascal Reusch (CC BY-SA 3.0)
+Capsarius (Trajansäule) — Rabax63 (CC BY-SA 4.0)
+Roman , Military Diploma (FindID 212298-168007) — York Museums Trust, Liz Andrews-Wilson,  (CC BY-SA 4.0)
+Rome Lazio Via Appia Antica — Nicholas Hartmann (CC BY-SA 4.0)
+Bust of Pyrrhus of Epirus (Villa of the Papyri,  — See sourced file for original author(s) (CC BY-SA 4.0)
+Carthage Byrsa - more Roman ruins, with modern M — Tracey Hind from Aups, France (CC BY-SA 2.0)
+Castell de Sagunt Porta Almenara i Porta de Sant — Mike1979 Russia (CC BY-SA 3.0)
+Sagunto - Castle, Roman Forum & Citadel - 202002 — Pieter van Everdingen (CC BY-SA 4.0)
+Sagunto - Castle & Citadel - 20200225 PvE (Q2892 — Pieter van Everdingen (CC BY-SA 4.0)
+Castiglione del Lago, Lago Trasimeno — Adbar (CC BY-SA 3.0)
+Lago Trasimeno visto da Tuoro sul Trasimeno — PROPOLI87 (CC BY-SA 4.0)
+Annibal — Sébastien Slodtz (French, 1655–1726) (CC BY-SA 2.5)
+Bust of a priest of Isis. Naples, National Archa — Sergey Sosnovskiy from Saint-Petersburg, (CC BY-SA 2.0)
+Ports puniques de Carthage 32 — Noomen9 (CC BY-SA 4.0)
+Cato the Younger, Ny Carlsberg Glyptotek, Copenh — Carole Raddato from FRANKFURT, Germany (CC BY-SA 2.0)
+Esquina en Numancia — Javier Mediavilla Ezquibela (CC BY 2.5)
+Bust of Marius (GL 319) - Glyptothek - Munich -  — José Luiz (CC BY-SA 4.0)
+Spartacus by Denis Foyatier (31851397233) — Fred Romero from Paris, France (CC BY 2.0)
+Head of Marcus Licinius Crassus, middle of 1st c — Following Hadrian (CC BY-SA 2.0)
+Bust of Cicero, Capitoline Museums (31933016782) — Carole Raddato from FRANKFURT, Germany (CC BY-SA 2.0)
+Pompey the Great, mid 1st cent. BCE, Ny Carlsber — Richard Mortel from Riyadh, Saudi Arabia (CC BY 2.0)
+File-Alba ad Igea-Alba in contrasto — Roncon F. (CC BY-SA 4.0)
+Largo di Torre Argentina (31585540527) — Sonse (CC BY 2.0)
+Bust of Cicero (1st-cent. BC) - Palazzo Nuovo -  — José Luiz (CC BY-SA 4.0)
+Augustus Via Labicana (Palazzo Massimo alle Term — Iessi (CC BY 2.0)
+Marble bust of Mark Antony (Vatican Museums) — Bust: unknown ancient Roman artist of th (CC BY-SA 4.0)
+Augustus Prima Porta (cropped) — Wikimedia Commons (CC BY 2.5)
+The Temple of Augustus and Rome with the Res Ges — Carole Raddato from Frankfurt, Germany (CC BY-SA 2.0)
+Ara Pacis (SW) — Rabax63 (CC BY-SA 4.0)
+20140804 Forum of Augustus Rome 0679 — Jakub Hałun (CC BY-SA 4.0)
+Cavalry Face-Mask Helmet, Museum und Park Kalkri — Carole Raddato from FRANKFURT, Germany (CC BY-SA 2.0)
+Caligula, Roman emperor 37-41, Ny Carlsberg Glyp — Richard Mortel from Riyadh, Saudi Arabia (CC BY 2.0)
+Claudius MAN Napoli Inv6060 — Wikimedia Commons (CC BY 2.5)
+Boudica and Big Ben 2026-02-04 — Matt Brown (CC BY 4.0)
+Antica roma, testa di vespasiano, in marmo, da n — Francesco Bini (CC BY-SA 4.0)
+Colosseum-Rome-May-2009 — Acediscovery (CC BY 4.0)
+Colosseum exterior at night, Rome, Italy (Ank Ku — Ank Kumar (CC BY-SA 4.0)
+Colosseum exterior at night, Rome, Italy (Ank Ku — Ank Kumar (CC BY-SA 4.0)
+Hypogeum 1 (15005526662) — daryl_mitchell from Saskatoon, Saskatche (CC BY-SA 2.0)
+Vesuvius from Naples, 2007 — МаратД (CC BY-SA 4.0)
+Forum, Pompeii 03 — Adam Harangozó (CC BY-SA 4.0)
+1982-10-07 plaster cast from Pompeii (1) — Dave Cooper (CC BY-SA 4.0)
+Plaster casts of a man and his slave, Pompeii (s — Tracey Hind from Aups, France (CC BY-SA 2.0)
+Arch of Titus in Rome (1) — Tournasol7 (CC BY-SA 4.0)
+Bust of Trajan (GL 336) - Glyptothek - Munich -  — José Luiz (CC BY-SA 4.0)
+Insula Ara Coeli - Rome (IT62) - 2021-08-27 - 1 — Chabe01 (CC BY-SA 4.0)
+Insula Ara Coeli - Rome (IT62) - 2021-08-27 - 2 — Chabe01 (CC BY-SA 4.0)
+Pompeii Thermopolium 20240504 170558 — Rigorius (CC BY-SA 4.0)
+Wall Decoration with Graffiti - Pompeii Antiquar — MumblerJamie (CC BY-SA 2.0)
+Pompeia-ViaAbundancia-propagandaElectoral-5445 — Amadalvarez (CC BY 3.0)
+Wall Decoration with Graffiti - Pompeii Antiquar — MumblerJamie (CC BY-SA 2.0)
+Insegna di bottega con iscrizioni elettorali, da — Sailko (CC BY-SA 3.0)
+Part of the Baths of Caracalla November 2013 — Nick-D (CC BY-SA 3.0)
+Circus Maximus et Domus Augustana - Rome 111001 — Jean-Pol GRANDMONT (CC BY-SA 3.0)
+Collier d'ecollier d'esclave Empire, Peuples — Caroline Becker (CC BY 4.0)
+20160516 437 thessaloniki — Jean Housen (CC BY-SA 4.0)
+KMH - Grabstein — Wolfgang Sauber (CC BY-SA 3.0)
+Hadrian & Antinous, British Museum, London (1416 — Carole Raddato from FRANKFURT, Germany (CC BY-SA 2.0)
+Hadrian's Wall at Housesteads Fort - geograph.or — John Sutton (CC BY-SA 2.0)
+Equestrian Statue of Marcus Aurelius, copy of — BeEXT (CC BY-SA 4.0)
+Marcus Aurelius on Capitoline Hill (5986636647) — Erik Drost (CC BY 2.0)
+Bust of Commodus as Hercules (7556336188) — Institute for the Study of the Ancient W (CC BY 2.0)
+Arch of Septimius Severus in Leptis Magna, Libya — Assilinee Ali (CC BY-SA 4.0)
+Bust of Septimius Severus (GL 357) - Glyptothek  — José Luiz (CC BY-SA 4.0)
+Tempera painting on wood panel - Septimius Sever — ArchaiOptix (CC BY-SA 4.0)
+Archivo: Caracalla 6033 Museo Nazionale Napoli — This Photo was taken by Wolfgang Moroder.  
+Feel free to use my photos, but ple (CC BY-SA 3.0)
+AntoninianusProgression — MonaghanNumismatics (CC BY-SA 4.0)
+Naghsh-e rostam, Irán, 2016-09-24, DD 12 — Diego Delso (CC BY-SA 4.0)
+Aurelian Walls - Porta Asinaria — MrPanyGoff (CC BY-SA 4.0)
+Diocletian bust — Giovanni Dall'Orto (Attribution)
+Detail of the Four Tetrarchs, ca. 300; Venice (1 — Prof. Mortel (CC BY 2.0)
+Edict on Maximum Prices Diocletian piece in Berl — User:MatthiasKabel (CC BY-SA 3.0)
+Split BW 2024-10-02 11-16-50 — Berthold Werner (CC BY-SA 4.0)
+Split BW 2024-10-02 11-08-07 — Berthold Werner (CC BY-SA 4.0)
+0 Constantinus I - Palazzo dei Conservatori (1) — unknown (CC BY-SA 3.0)
+Hagia Sophia - coupole — Eusebius (CC BY 3.0)
+Roman coin, Siliqua of Julian (FindID 587373) — Salisbury and South Wiltshire Museum, Ri (CC BY-SA 4.0)
+Disco de Teodosio — Ángel M. Felicísimo (CC BY 3.0)
+Corona de (29049230050) — Ángel M. Felicísimo from Mérida, España (CC BY 2.0)
+Romulus Augustulus, RIC X 3419 (obverse) — CNG (CC BY-SA 2.5)
+Theodosian Walls of Constantinople, Istanbul (19 — Peter Christian Riemann (CC BY-SA 4.0)
+Theodosian Walls of Constantinople, Istanbul (24 — Carole Raddato from FRANKFURT, Germany (CC BY-SA 2.0)
+Theodosian Walls of Constantinople, Istanbul (37 — Carole Raddato from FRANKFURT, Germany (CC BY-SA 2.0)
+Acueducto, Segovia, España, 2024-06-14, DD 10 — Diego Delso (CC BY-SA 4.0)
+Ancient Roman theatre in Mérida 2023 — Fernando (CC BY-SA 4.0)
+Alcantara roman bridge — John Martin PERRY (CC BY-SA 3.0)
+Archivo: Buste de Sénèque à Cordoue (recadrage) — Sénèque_-_Cordoue.JPG: PRA
+derivative work: PRA (talk) (CC BY-SA 3.0)
+Interior oculus of the Rome Pantheon — T. Le Berre (CC BY-SA 4.0)

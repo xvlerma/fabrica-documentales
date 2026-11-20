@@ -1,3 +1,2 @@
-pollice.jpg domain
-muerte_cesar.jpg domain
-coliseo2.jpg BY-SA
+pollice.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Jean-Leon_Gerome_Pollice_Verso.jpg/1920px-Jean-Leon_Gerome_Pollice_Verso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+muerte_cesar.jpg https://upload.wikimedia.org/wikipedia/commons/a/aa/Gerome_Death_of_Caesar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled

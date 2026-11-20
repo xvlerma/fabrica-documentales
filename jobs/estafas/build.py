@@ -3,6 +3,7 @@
 import json, os, re, sys, importlib, unicodedata
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 import lib
+from lugares import L as LUG, PERMITIDAS as PERM
 for p in ('guion_p1', 'guion_p2', 'guion_p3'): importlib.import_module(p)
 U = lib.U; RES = lib.R_
 stage = sys.argv[1] if len(sys.argv) > 1 else 'cast'
@@ -41,7 +42,7 @@ for i, u in enumerate(U):
             last = p if p >= 0 else last + 0.01; keys.append(last)
         u['shots'] = [s for _, s in sorted(zip(keys, sh), key=lambda z: z[0])]
 job = {
-    'permitir_sa': True,
+    'permitir_sa': True, 'lugares': LUG, 'permitidas': PERM,
     'id': 'estafas', 'title': 'Las estafas más grandes de la historia: de Ponzi a Madoff', 'channel': 'DocuVox', 'stage': stage,
     'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 1, 'gap': 99999}, 'auto_sfx': {}, 'sfx_max': 5,
     'max_shot': 7, 'min_shot': 1.6, 'anchor_lead': 0.1,

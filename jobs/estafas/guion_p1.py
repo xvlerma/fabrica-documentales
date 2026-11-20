@@ -66,16 +66,16 @@ NAR("MacGregor contaba que el rey de la costa de los Mosquitos, en la actual Hon
 DOC("Esbozo de la costa de los Mosquitos y del territorio de Poyais. Por el capitán Thomas Strangeways. Londres, mil ochocientos veintidós.",
     cd(dict(type='doc', title='Sketch of the Mosquito Shore', lines=['Guía del territorio de Poyais', 'Atribuida al «capitán Thomas Strangeways»', 'Londres, 1822'], source='El autor no existía: el libro se atribuye al propio MacGregor'), at='Esbozo'))
 INV("Ese libro de más de trescientas páginas describía el clima, los cultivos, las costumbres de los nativos. Su autor, el capitán Strangeways, no existía. Los historiadores lo atribuyen al propio MacGregor. [short pause] Era, quizá, la primera gran campaña de marketing de una estafa.",
-    ph('Sketch of the Mosquito Shore 1822 title page', at='Ese libro'),
+    ai('libro_poyais', 'an old 1822 leather-bound guidebook lying open on a Regency writing desk, an engraved landscape illustration on the page, candlelight, no readable text', at='Ese libro'),
     ai('pluma_libro', 'a quill pen writing in a thick leather-bound manuscript by candlelight, ink pot, wax seal, Regency era desk', at='no existía'),
-    K('MARKETING', 'Poyais land grant certificate', at='campaña de marketing'))
+    KA('MARKETING', 'certificado_tierras', 'an ornate 19th-century land grant certificate with an engraved border and a red wax seal on a desk next to a quill, no readable text', at='campaña de marketing'))
 NAR("Y funcionó. En octubre de mil ochocientos veintidós, la City de Londres le concedió un préstamo a nombre del gobierno de Poyais: doscientas mil libras. Vendía bonos del Estado, tierras a precio de saldo y hasta cargos de oficial en su ejército. Imprimió incluso billetes de su propio banco.",
     ph('Royal Exchange London 19th century', at='la City de Londres', lt=['La Bolsa de Londres', 'Royal Exchange · siglo XIX']),
     cd(dict(type='counter', to=200000, label='libras en bonos de un país inventado (1822)', prefix='£'), at='doscientas mil libras'),
     ph('Poyais dollar banknote', at='billetes de su propio banco', lt=['Billete de Poyais', 'Dólar del «Banco de Poyais»']))
 INV("[softly] Había para todos los gustos. Cargos en el banco de Poyais, grados de capitán en su guardia. Y un zapatero de Edimburgo fue nombrado, ni más ni menos, zapatero oficial de la corte del príncipe.",
     ai('zapatero_taller', 'a Scottish cobbler\'s workshop in 1822, leather boots on a bench, tools hanging, a framed official-looking appointment certificate on the wall, warm window light', at='zapatero oficial'),
-    K('ZAPATERO REAL', 'Poyais land grant certificate', at='ni más ni menos'))
+    KA('ZAPATERO REAL', 'botas_reales', 'a pair of polished leather riding boots on a velvet cushion beside a parchment with a crown-shaped wax seal, Regency era, lamplight', at='ni más ni menos'))
 NAR("Muchos compradores eran escoceses de clase media. Gente que vendió lo que tenía para empezar de cero en el Nuevo Mundo. Cambiaron sus libras por dólares de Poyais, convencidos de que allí valdrían más.",
     ai('maletas_muelle', 'a family\'s wooden trunks and a child\'s small suitcase on a foggy 19th-century harbour quay, ship rigging behind, seen from behind', at='empezar de cero'),
     ai('cambio_billetes', 'a bank counter in 1822 Edinburgh, a hand pushing gold sovereigns under a brass grille and receiving colourful foreign banknotes, close-up', at='Cambiaron sus libras'))
@@ -86,7 +86,7 @@ NAR("[serious] En septiembre de mil ochocientos veintidós zarpó de Londres el 
 INV("Cuando llegaron a la costa, buscaron la capital. No había capital. No había catedral, ni teatro, ni banco. Había selva. Mosquitos. Un puñado de cabañas. Y unos nativos que no sabían nada de ningún príncipe de Poyais.",
     ai('desembarco', 'settlers in 1820s clothes wading ashore from rowing boats onto a desolate jungle beach, looking around in confusion, seen from behind', at='buscaron la capital'),
     ai('selva_costa', 'an untouched tropical jungle coastline with a muddy river mouth, a few makeshift palm-leaf shelters, heavy humid haze', at='Había selva'),
-    ph('Mosquito Coast Honduras jungle river', at='Mosquitos', lt=['La Mosquitia', 'Honduras · hoy']))
+    ai('selva_mosquitia', 'a muddy jungle river lined with mangroves under a heavy grey sky, swarms of insects over the water, untouched wilderness, no people', at='Mosquitos'))
 NAR("[pause] Llegaron las lluvias. Y con ellas, la malaria y la fiebre amarilla. De los cerca de doscientos cincuenta colonos que viajaron a Poyais, más de la mitad murieron. El zapatero de la corte, desesperado, se quitó la vida.",
     ai('lluvia_cabana', 'torrential tropical rain on a collapsing palm-leaf shelter at night, a lantern flickering inside, mud everywhere', at='Llegaron las lluvias'),
     cd(dict(type='counter', to=250, label='colonos viajaron a Poyais · más de la mitad murieron'), at='doscientos cincuenta'),

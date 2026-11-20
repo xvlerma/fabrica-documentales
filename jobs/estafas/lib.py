@@ -47,6 +47,8 @@ def ph(q, src=SRC, at=None, lt=None, **kw):
 def cd(card, at=None, lt=None): return _c(dict(card=card, at=at, lt=lt))
 def K(word, q, at=None, src=SRC):
     d = ph(q, src=src, at=at); d.update(kw=word, kw_at=0.4, kw_dur=2.2); return d
+def KA(word, key, prompt, at=None):
+    d = ai(key, prompt, at=at); d.update(kw=word, kw_at=0.4, kw_dur=2.2); return d
 AIP = {}
 STYLE = ('cinematic film still, film noir lighting, deep shadows, single hard key light, 35mm film grain, muted desaturated colors, '
          'documentary realism, no visible faces, no text, no letters, no logos')

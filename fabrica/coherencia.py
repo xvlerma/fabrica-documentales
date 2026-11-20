@@ -9,6 +9,7 @@ Uso (después del casting, antes del render):
 En el job:
     "lugares":    {"oymyakon": ["oymyakon", "oimiakon", "tomtor"], ...}   # palabras que identifican cada sitio
     "prohibidas": ["putin", "airbus", "stamp", ...]                     # temas que nunca deben salir
+    "permitidas": ["stamp", "portrait"]                                 # quita prohibidas genéricas cuando son el tema
     "permitir_sa": true                                                  # CC BY-SA permitido en imagen y vídeo (decisión del creador, 19-11-2026)
     plano:  {"photo": "Oymyakon winter", "lugar": "oymyakon"}           # opcional: fija el sitio del plano
             {"video": "snow storm", "generico": true}                   # solo si la frase NO habla de un sitio concreto (sin rótulo de lugar)
@@ -47,7 +48,8 @@ def lugar_de(t, lugares):
 def main(job_path, out):
     job = json.load(open(job_path))
     lugares = job.get('lugares', {})
-    prohib = PROHIBIDAS_BASE + [p.lower() for p in job.get('prohibidas', [])]
+    perm = {p.lower() for p in job.get('permitidas', [])}   # genéricas que en este tema SÍ son el asunto (p. ej. sellos)
+    prohib = [p for p in PROHIBIDAS_BASE if p not in perm] + [p.lower() for p in job.get('prohibidas', [])]
     permitir_sa = job.get('permitir_sa', True)
     castq = json.load(open(f'{out}/castq.json'))
     edl = json.load(open(f'{out}/edl.json'))

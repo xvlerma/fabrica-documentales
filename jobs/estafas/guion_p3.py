@@ -16,15 +16,14 @@ INV("Pero lo de Gescartera, con ser grave, fue solo un aviso. Cinco años despu�
     ai('abuelos_cocina', 'an elderly couple\'s hands holding a folder of contracts at a kitchen table in a Spanish apartment, a coffee cup, soft window light, faces not visible', at='a tus abuelos'))
 NAR("[serious] Madrid, nueve de mayo de dos mil seis. Todavía no son las nueve de la mañana. La policía entra a la vez en las sedes de las dos mayores empresas filatélicas del país: Fórum Filatélico y Afinsa. Detienen a sus principales directivos. Precintan las oficinas. Bloquean las cuentas.",
     ai('policia_amanecer', 'Spanish police officers seen from behind entering a modern office building lobby at dawn, blue light reflections on glass, 2006', at='La policía entra'),
-    ph('Forum Filatelico sede Madrid', at='Fórum Filatélico', lt=['Fórum Filatélico', 'Sociedad filatélica · Madrid']),
-    ph('Afinsa sede Madrid', at='Afinsa', lt=['Afinsa Bienes Tangibles', 'Sociedad filatélica · Madrid']))
+    cd(dict(type='split', left=dict(title='Fórum Filatélico', lines=['Sociedad filatélica', 'Inversión en sellos · Madrid']), right=dict(title='Afinsa', lines=['Afinsa Bienes Tangibles', 'Inversión en sellos · Madrid']), strike=False), at='Fórum Filatélico'))
 INV("La operación la dirigía la Audiencia Nacional, a partir de una investigación de la Agencia Tributaria y de una querella de la Fiscalía Anticorrupción. Y la cifra de afectados dejó al país sin aliento: unos cuatrocientos sesenta mil clientes, con casi seis mil doscientos millones de euros invertidos.",
     ph('Audiencia Nacional Madrid', at='la Audiencia Nacional', lt=['Audiencia Nacional', 'Madrid']),
     cd(dict(type='counter', to=460000, label='clientes de Fórum Filatélico y Afinsa'), at='cuatrocientos sesenta mil'),
     cd(dict(type='counter', to=6200, label='millones de euros invertidos, según la Agencia EFE'), at='seis mil doscientos millones'))
 NAR("¿Cómo se llega ahí? Con una idea que sonaba a sentido común. Durante unos veinticinco años, Fórum y Afinsa vendieron lotes de sellos como inversión. El argumento era sencillo: un sello antiguo vale más cada año que pasa. Tú comprabas el lote, la empresa lo guardaba, y al cabo del plazo te lo recompraba con una rentabilidad fija, más alta que la de un depósito del banco.",
     ph('Spanish postage stamps collection', at='lotes de sellos'),
-    ph('stamp album collection magnifying glass', at='un sello antiguo'),
+    ai('lupa_sellos', 'a magnifying glass over a page of an old stamp album with rows of colourful vintage postage stamps, desk lamp, close-up, no readable text', at='un sello antiguo'),
     cd(dict(type='list', header='El contrato filatélico', items=[('Compras un lote de sellos', 'la empresa los guarda por ti'), ('Pasa el plazo pactado', 'el sello «se revaloriza»'), ('Te lo recompran', 'con una rentabilidad fija')]), at='Tú comprabas'))
 INV("El problema es que el precio de esos sellos lo fijaban ellos mismos. La investigación concluyó que muchos se habían comprado baratos y se valoraban entre cinco y diez veces más tras pasar por sociedades en el extranjero. Afinsa llegó a guardar ciento cincuenta millones de sellos en sus almacenes. Fuera de ese circuito, valían muy poco.",
     cd(dict(type='split', left=dict(title='Precio en el contrato', lines=['Fijado por la propia empresa', 'Sube cada año']), right=dict(title='Precio real de mercado', lines=['Entre cinco y diez veces menos', 'según la investigación']), strike=True), at='lo fijaban ellos mismos'),
@@ -63,7 +62,7 @@ B('tension')
 NAR("Bernard Madoff nació en Queens, en Nueva York, en mil novecientos treinta y ocho. En mil novecientos sesenta fundó su propia firma con unos cinco mil dólares que, según contaba, había ahorrado como socorrista y montando aspersores. Y durante décadas fue un pionero de verdad: su empresa ayudó a llevar la compraventa de acciones a la era de los ordenadores.",
     ph('Queens New York 1940s', at='Queens'),
     ph('Bernard Madoff', at='fundó su propia firma'),
-    ph('stock trading screens 1990s', at='la era de los ordenadores'))
+    ai('pantallas_bolsa', 'a 1990s trading room with rows of glowing CRT monitors showing blurred green and red figures, empty chairs at night, no readable text', at='la era de los ordenadores'))
 INV("Tenía dos negocios. Uno, legal y muy respetado: comprar y vender acciones para otros intermediarios. Lo dirigían sus hijos y su hermano. El otro, en otra planta del mismo edificio, gestionaba el dinero de inversores privados. Ahí no entraba casi nadie.",
     cd(dict(type='split', left=dict(title='Planta de arriba', lines=['Negocio legal', 'compraventa de acciones', 'Hijos y hermano']), right=dict(title='Otra planta', lines=['Gestión de fortunas', 'Muy pocos empleados', 'Nadie preguntaba']), strike=False), at='Tenía dos negocios'),
     ph('Lipstick Building 885 Third Avenue', at='del mismo edificio'))
@@ -96,7 +95,7 @@ INV("Durante años, Madoff pagó a los que pedían su dinero con el dinero de lo
     ai('extractos_imprenta', 'stacks of printed financial account statements coming out of an old dot-matrix printer in a dim back office at night, no readable text', at='extractos impecables'))
 NAR("Según se supo en los juicios a sus colaboradores, en aquella planta se usaban ordenadores antiguos para imprimir confirmaciones de operaciones que nunca se habían hecho. Se elegían las cotizaciones del pasado que mejor cuadraban, y se inventaban las compras y las ventas a posteriori. Rentabilidades perfectas, fabricadas hacia atrás.",
     ai('ordenador_antiguo', 'an old beige office computer terminal with a green-text screen glowing in a dark back office at night, stacks of paper beside it, no readable text', at='ordenadores antiguos'),
-    K('HACIA ATRÁS', 'stock trading screens 1990s', at='fabricadas hacia atrás'))
+    KA('HACIA ATRÁS', 'sello_fechas', 'a hand pressing an old rubber date stamp onto a printed account statement, a pile of statements beside it, desk lamp, close-up, no readable text', at='fabricadas hacia atrás'))
 NAR("[serious] Hasta que llegó el otoño de dos mil ocho. Quiebra Lehman Brothers. Los mercados se desploman. Y los clientes de Madoff, asustados, piden su dinero a la vez. Unos siete mil millones de dólares. Ese dinero no estaba.",
     ph('Lehman Brothers headquarters 2008', at='Lehman Brothers'),
     ph('New York Stock Exchange 2008', at='Los mercados se desploman'),
@@ -107,7 +106,7 @@ INV("El diez de diciembre confesó a sus hijos. Ellos acudieron a sus abogados, 
 INV("Ese mismo día, la directora de Ejecución de la SEC lo resumió así: un fraude masivo, tanto por su alcance como por su duración.",
     cd(dict(type='quote', text='Un fraude masivo, tanto por su alcance como por su duración.', attrib='Linda Chatman Thomsen, directora de Ejecución de la SEC · 11 de diciembre de 2008'), at='un fraude masivo'))
 INV("El fraude cruzó el Atlántico. Cuando estalló, el Santander reconoció que sus clientes tenían dos mil trescientos treinta millones de euros expuestos a Madoff. Semanas después, el banco ofreció compensar a sus clientes particulares. Y al otro lado del océano, en México, Chile o Argentina, miles de ahorradores descubrieron que su dinero había acabado en el mismo agujero.",
-    ph('Banco Santander headquarters Boadilla', at='el Santander', lt=['Banco Santander', 'Ciudad Financiera · Boadilla del Monte']),
+    cd(dict(type='counter', to=2330, label='millones de euros de clientes del Santander expuestos a Madoff (2008)'), at='el Santander'),
     ai('ahorradores_latam', 'a bank branch waiting area in Latin America in 2008, worried customers seated with folders on their laps, seen from behind, fluorescent light', at='miles de ahorradores'))
 NAR("Entre las víctimas había grandes fortunas, pero también fundaciones benéficas, fondos de pensiones y jubilados. La fundación del premio Nobel de la Paz Elie Wiesel, superviviente del Holocausto, perdió casi todo su patrimonio en el fondo de Madoff.",
     ph('Elie Wiesel', at='Elie Wiesel', lt=['Elie Wiesel', 'Premio Nobel de la Paz 1986', 'victimas']),

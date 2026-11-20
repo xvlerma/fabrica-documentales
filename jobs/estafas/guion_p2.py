@@ -6,7 +6,7 @@ from lib import *
 T('El hombre que dio nombre a la estafa', 'Boston, 1920', num='II', sting='tema')
 DOC("Expediente número dos. Sospechoso: Carlo Ponzi, también llamado Charles. Inmigrante italiano, antecedentes por falsificación. Delito: prometer un cincuenta por ciento en cuarenta y cinco días. Víctimas: decenas de miles.",
     cd(dict(type='ficha', name='Charles Ponzi', role='Inmigrante italiano · antecedentes por falsificación', group='Expediente II · 50 % en 45 días', color=[196, 38, 34]), at='Expediente'),
-    ph('Charles Ponzi mugshot', at='Sospechoso'))
+    ph('Charles Ponzi 1920', at='Sospechoso'))
 B('tema')
 NAR("Boston, agosto de mil novecientos diecinueve. Un inmigrante italiano de poco más de metro y medio, elegante, sin un dólar en el bolsillo, abre una carta que le ha llegado desde España. Dentro hay un pequeño cupón de correos.",
     ph('Boston 1920 street', at='Boston', lt=['Boston', 'Estados Unidos · hacia 1920']),
@@ -14,10 +14,10 @@ NAR("Boston, agosto de mil novecientos diecinueve. Un inmigrante italiano de poc
     ph('International reply coupon', at='un pequeño cupón'))
 INV("Se llamaba Carlo Ponzi, aunque en América todos le conocían como Charles. Allí había fregado platos, trabajado de camarero y pasado por la cárcel en Canadá por falsificar un cheque. [short pause] Y aquel cupón le dio una idea.",
     ph('Charles Ponzi portrait', at='Carlo Ponzi'),
-    ph('restaurant kitchen dishwashers 1910s', at='fregado platos'))
+    ai('cocina_platos', 'a young immigrant seen from behind washing a mountain of dishes in a steaming 1910s restaurant kitchen sink, warm tungsten light', at='fregado platos'))
 PON("Llegué a este país con dos dólares y cincuenta centavos en efectivo y un millón de dólares en esperanzas. Y esas esperanzas nunca me abandonaron.",
     cd(dict(type='quote', text='Llegué a este país con 2,50 dólares en efectivo y un millón de dólares en esperanzas. Y esas esperanzas nunca me abandonaron.', attrib='Charles Ponzi a The New York Times'), at='Llegué a este país'),
-    ph('immigrants steamship deck 1900s', at='dos dólares'))
+    ai('barco_inmigrantes', 'immigrants with suitcases crowding the deck of a steamship arriving in Boston harbour in 1903, seen from behind, morning fog', at='dos dólares'))
 NAR("Era un cupón de respuesta internacional. Se compraba en un país y se canjeaba en otro por sellos. Pero tras la Primera Guerra Mundial, las monedas europeas se habían hundido. Un cupón comprado barato en Italia o en España se canjeaba en Estados Unidos por sellos que valían bastante más.",
     ph('International reply coupon Universal Postal Union', at='cupón de respuesta internacional', lt=['Cupón de respuesta internacional', 'Unión Postal Universal']),
     cd(dict(type='split', left=dict(title='Se compra en Europa', lines=['Moneda hundida tras la guerra', 'El cupón sale muy barato']), right=dict(title='Se canjea en EE. UU.', lines=['Sellos en dólares', 'Valen varias veces más']), strike=False), at='las monedas europeas'))
@@ -31,12 +31,12 @@ INV("Para que te hagas una idea: los bancos pagaban entonces en torno a un cinco
 NAR("Cobraron con el dinero de los que llegaban detrás. Pero eso nadie lo sabía. Lo que se sabía en Boston era que el italiano pagaba. Y el rumor corrió como la pólvora. En primavera entraban miles de dólares a la semana. En verano, cientos de miles al día.",
     ai('billetes_cajones', 'a 1920s office desk drawer overflowing with crumpled dollar banknotes, wastebaskets stuffed with money, dramatic side light', at='cientos de miles al día'))
 INV("Las colas daban la vuelta a la manzana en Hanover Street. Según la revista Time, en los días de más jaleo hacían falta seis policías a caballo para ordenar a la multitud en la calle. En siete meses, unas treinta mil personas le confiaron más de diez millones de dólares. Se dijo incluso que buena parte de la policía de Boston había invertido con él.",
-    ph('Ponzi crowd Boston 1920', at='Las colas'),
-    ph('Boston mounted police 1920', at='seis policías a caballo'),
+    ai('cola_ponzi', 'a long queue of men in 1920 hats and overcoats stretching along a Boston street to the door of a small office, seen from behind, morning light', at='Las colas'),
+    ai('policia_caballo', 'mounted policemen on horses in 1920 uniforms keeping order beside a crowded Boston street, seen from behind', at='seis policías a caballo'),
     cd(dict(type='counter', to=10000000, label='dólares de unas 30.000 personas en siete meses (1920)', prefix='$'), at='diez millones'))
 NAR("Ponzi se compró una mansión con piscina climatizada, se hizo con una parte de un banco y paseaba en limusina. Los periódicos le llamaban mago de las finanzas.",
-    ph('Ponzi mansion Lexington Massachusetts', at='una mansión'),
-    ph('Charles Ponzi 1920 car', at='paseaba en limusina'))
+    ai('mansion_1920', 'a large white colonial mansion with columns and a wide lawn in 1920 New England, a shiny black limousine in the driveway, golden afternoon light, no people', at='una mansión'),
+    ai('limusina_1920', 'a chauffeur-driven black 1920 limousine gliding along a Boston street, passersby turning to look, seen from the side, no visible faces', at='paseaba en limusina'))
 PON("Cuanto más compraba, más quería comprar. Era una manía.",
     ai('joyas_mesa', 'a velvet jewellery box overflowing with diamond necklaces and gold watches on a 1920s vanity table, mirror reflections', at='Era una manía'))
 PON("Cuando gane mi primer millón, todo lo que pase de ese millón lo gastaré en intentar hacer el bien en el mundo.",
@@ -57,13 +57,13 @@ NAR("Y entonces llegó la traición que Ponzi no esperaba. Su propio jefe de pre
     ph('newspaper city room 1920s', at='jefe de prensa'),
     K('EN QUIEBRA', 'Boston Post 1920 newspaper', at='en quiebra'))
 NAR("[serious] En agosto de mil novecientos veinte, los auditores entraron en su empresa. Al final, cuando se contó todo, encontraron cupones por valor de sesenta y un dólares. Sesenta y uno. Por los millones que habían pasado por sus manos.",
-    ph('accountants office ledgers 1920s', at='los auditores'),
+    ai('auditores_libros', 'accountants in 1920s suits bent over large ledgers under green desk lamps in a dark office, seen from behind', at='los auditores'),
     cd(dict(type='counter', to=61, label='dólares en cupones encontrados por los auditores', prefix='$'), at='sesenta y un dólares'))
 NAR("La noticia corrió por Boston en horas. Esta vez, la multitud que rodeó su oficina no traía dinero. Según la revista Time, gritaba otra cosa: ¡Matadlo!",
-    ph('Ponzi crowd Boston 1920', at='la multitud'),
-    K('¡MATADLO!', 'Ponzi crowd Boston 1920', at='Matadlo'))
+    ai('multitud_furiosa', 'an angry 1920 crowd pressing against the glass door of a Boston office, fists raised, police helmets visible, seen from inside the dark office', at='la multitud'),
+    KA('¡MATADLO!', 'punos_multitud', 'raised fists and hats of an angry 1920 street crowd against a grey sky, low angle, motion blur', at='Matadlo'))
 INV("Ponzi fue detenido ese mismo mes. Varios bancos cayeron con él. El Boston Post ganó el premio Pulitzer por destaparlo. Ponzi pasó más de una década entre cárceles y juicios, volvió a estafar en Florida vendiendo terrenos que eran pantano, y en mil novecientos treinta y cuatro fue deportado a Italia.",
-    ph('Charles Ponzi mugshot', at='fue detenido'),
+    ph('Charles Ponzi 1920', at='fue detenido'),
     ph('Florida swamp 1920s', at='terrenos que eran pantano'))
 NAR("Murió en mil novecientos cuarenta y nueve en un hospital de caridad de Río de Janeiro, casi ciego y sin dinero. [pause] Su nombre, eso sí, sigue vivo. Cada vez que un juez describe una pirámide de inversores, dice la misma palabra: Ponzi.",
     ph('Rio de Janeiro 1940s', at='Río de Janeiro'),
@@ -90,7 +90,7 @@ INV("Encarga papel con membrete oficial del Ministerio de Correos y Telégrafos.
 NAR("[softly] Allí les cuenta un secreto de Estado. El Gobierno ha decidido desmontar la torre y vender sus siete mil toneladas de hierro. Como el asunto puede escandalizar a los parisinos, se hará en silencio. Les lleva en limusina a visitarla. Y les pide ofertas en sobre cerrado.",
     ai('salon_hotel', 'six men in 1920s overcoats seated around a table in an opulent Paris hotel salon, cigar smoke, chandeliers, faces in shadow', at='un secreto de Estado'),
     cd(dict(type='counter', to=7000, label='toneladas de hierro «a la venta»'), at='siete mil toneladas'),
-    ph('Eiffel Tower base 1920s', at='a visitarla'))
+    ph('Eiffel Tower 1920s', at='a visitarla'))
 INV("Lustig ya había elegido a su víctima: André Poisson, un empresario de provincias que soñaba con codearse con la alta sociedad de París. Poisson dudó un momento. Entonces Lustig hizo su jugada maestra.",
     ai('hombre_sombrero', 'a nervous provincial businessman in a bowler hat seen from behind, looking up at the Eiffel Tower ironwork, overcast sky', at='André Poisson'))
 NAR("Le confesó, bajando la voz, que un alto funcionario cobra poco para la vida que se le exige. Y le pidió un soborno. [short pause] Poisson respiró tranquilo. Si el funcionario pedía una mordida, es que era un funcionario de verdad.",
@@ -100,10 +100,10 @@ INV("Pagó la torre y pagó el soborno. Lustig cogió el dinero y se subió al p
     ph('Gare de l\'Est Paris 1920s', at='primer tren a Viena'))
 NAR("Medio año después, Lustig volvió a París. Y vendió la torre otra vez, a otro grupo de chatarreros. Esta vez el elegido sí fue a la policía, y Lustig tuvo que huir a Estados Unidos. [short pause] Allí acabó metido en el negocio de los billetes falsos, y en mil novecientos treinta y cinco cayó por fin.",
     K('DOS VECES', 'Eiffel Tower 1920s', at='otra vez'),
-    ph('Victor Lustig mugshot', at='cayó por fin'))
+    ph('Victor Lustig', at='cayó por fin'))
 INV("Ni siquiera la cárcel le detuvo del todo. En septiembre de mil novecientos treinta y cinco, esperando juicio en Nueva York, se escapó de la prisión federal descolgándose por una ventana con una cuerda de sábanas. Mientras bajaba, según se cuenta, fingía limpiar los cristales ante los curiosos. Lo atraparon unas semanas después en Pittsburgh. Terminó en Alcatraz, y murió preso en mil novecientos cuarenta y siete.",
     ai('cuerda_sabanas', 'a rope of knotted bedsheets hanging down the brick facade of a 1930s New York jail, pedestrians far below on the street, high angle', at='cuerda de sábanas'),
-    K('FUGA', 'Victor Lustig mugshot', at='se escapó'),
+    K('FUGA', 'Victor Lustig', at='se escapó'),
     ph('Alcatraz Island', at='Alcatraz', lt=['Alcatraz', 'Bahía de San Francisco · hoy']))
 NAR("[softly] Su truco más rentable, sin embargo, fue otro: la caja rumana. Una caja de madera con rodillos que, según él, imprimía billetes de cien dólares auténticos. Delante del comprador, la máquina soltaba uno, muy despacio. Lustig la vendía por miles de dólares. Cuando la caja empezaba a escupir papel en blanco, él ya estaba muy lejos.",
     ai('caja_rumana', 'a polished mahogany box with brass rollers and cranks on a hotel table, a crisp banknote slowly emerging from a slot, dramatic lamplight, close-up', at='la caja rumana'),
@@ -151,13 +151,13 @@ INV("París, doce de marzo de mil novecientos treinta y dos. Kreuger tenía una 
     ai('dormitorio_paris', 'an elegant 1930s Paris apartment bedroom in morning light through tall shutters, an empty unmade bed, a revolver silhouette on the nightstand, no person visible', at='No se presentó'))
 NAR("Acababa de volver de Estados Unidos en barco, agotado. En el Hotel du Rhin le esperaban banqueros británicos y suecos para una reunión decisiva. Según la revista Time, aquella misma mañana todo París desfilaba ante el féretro de un ministro ilustre, Aristide Briand. Al día siguiente, los titulares ya no hablaban de Briand. Hablaban de él.",
     ai('vestibulo_hotel', 'bankers in 1930s overcoats waiting in an elegant Paris hotel lobby, pocket watches, cigarette smoke, nobody facing camera', at='Hotel du Rhin'),
-    ph('Paris newspaper kiosk 1930s', at='los titulares'))
+    ai('quiosco_prensa', 'a 1932 Paris newspaper kiosk on a rainy boulevard with stacks of newspapers and blurred headlines, passersby with umbrellas, no readable text', at='los titulares'))
 DOC("El rey de las cerillas, muerto en París. Lo encontraron con un revólver al lado. Curiosamente, no llevaba cerillas encima.",
     cd(dict(type='doc', title='Prensa internacional · 14 de marzo de 1932', lines=['«El rey mundial de las cerillas, muerto en un piso de París»', '«Encontrado con un revólver a su lado»', '«Curiosamente, no llevaba cerillas encima»'], source='Crónicas de agencia publicadas en la prensa de la época'), at='El rey de las cerillas'))
 NAR("Once días después, los auditores de Price Waterhouse abrieron sus libros. En pocas semanas lo declararon un estafador. Según la revista Time, había desviado más de mil cien millones de dólares de la época. La bolsa de Estocolmo tuvo que cerrar. Cayó el Gobierno sueco. Y miles de pequeños ahorradores, de Suecia a Estados Unidos, lo perdieron todo.",
     cd(dict(type='counter', to=1168, label='millones de dólares de 1932 desviados, según la revista Time', prefix='$'), at='mil cien millones'),
     ph('Stockholm Stock Exchange building', at='La bolsa de Estocolmo', lt=['La Bolsa de Estocolmo', 'Suecia']),
-    ph('bank run crowd 1930s', at='lo perdieron todo'))
+    ai('ahorradores_banco', 'a crowd of worried small savers in 1932 coats and hats in front of closed bank doors in the snow, seen from behind', at='lo perdieron todo'))
 DOC("Uno de los asuntos más feos de la historia de los negocios. Kreuger había sido el mayor estafador del mundo.",
     cd(dict(type='doc', title='Revista Time · 1932', lines=['«Uno de los asuntos más feos de la historia de los negocios»', '«El mayor estafador del mundo»'], source='Así resumió la prensa estadounidense el caso Kreuger'), at='Uno de los asuntos'))
 INV("Su caída pesó en la gran reforma financiera de Estados Unidos. En mil novecientos treinta y cuatro nació la SEC, la Comisión de Bolsa y Valores, el organismo que debía vigilar a los mercados para que algo así no volviera a pasar. [pause] Recuerda ese nombre. Volverá a salir.",

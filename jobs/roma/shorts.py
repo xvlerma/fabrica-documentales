@@ -59,8 +59,8 @@ def overlay_png(path, hook1, hook2, tag):
     cx = (SAFE_L + SAFE_R) / 2
     d.rectangle([cx - tw / 2 - 22, y + 8, cx + tw / 2 + 22, y + 8 + bb[3] - bb[1] + 34], fill=Y)
     d.text((cx - tw / 2, y + 25 - bb[1]), t2, font=f2, fill=(10, 10, 10))
-    if tag:  # mención fija pequeña, justo encima del vídeo
-        f3 = F('SemiBold', 34); centered(d, VID_Y - 46, tag.upper(), f3, (230, 230, 230))
+    if tag:  # mención fija pequeña, bajo los subtítulos (no pisa el gancho ni la UI)
+        f3 = F('SemiBold', 34); centered(d, SUB_Y + 200, tag.upper(), f3, (230, 230, 230))
     im.save(path)
 
 
@@ -106,7 +106,7 @@ def make(mp4, subs, out_dir, k, s, plat):
         if z <= a: continue
         p = f'{wd}/s{q}.png'; text_png(p, tx, 62, (255, 255, 255)); inputs += ['-loop', '1', '-i', p]
         chain += f";[{last}][{n}:v]overlay=0:0:enable='between(t,{a:.2f},{z:.2f})':shortest=1[w{q}]"; last = f'w{q}'; n += 1
-    chain += f';[{last}]fade=t=in:st=0:d=0.4,fade=t=out:st={dur - 0.6:.2f}:d=0.6,format=yuv420p[vout];[0:a]afade=t=in:st=0:d=0.3,afade=t=out:st={dur - 0.7:.2f}:d=0.7[aout]'
+    chain += f';[{last}]fade=t=out:st={dur - 0.6:.2f}:d=0.6,format=yuv420p[vout];[0:a]afade=t=in:st=0:d=0.3,afade=t=out:st={dur - 0.7:.2f}:d=0.7[aout]'
     out = os.path.join(out_dir, f"roma_short_{k + 1}_{plat}.mp4")
     subprocess.run(['ffmpeg', '-y', '-loglevel', 'error'] + inputs + ['-filter_complex', chain, '-map', '[vout]', '-map', '[aout]', '-t', f'{dur:.2f}',
                     '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '21', '-r', '30', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', out], check=True)
@@ -118,4 +118,4 @@ if __name__ == '__main__':
     only = sys.argv[4] if len(sys.argv) > 4 else None
     for k, s in enumerate(SHORTS):
         if only and str(k + 1) != only: continue
-        for plat in ('yt', 'ig'): print(make(mp4, subs, od, k, s, plat))
+        for plat in (os.environ.get('PLATS','yt,ig').split(',')): print(make(mp4, subs, od, k, s, plat))

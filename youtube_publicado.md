@@ -12,4 +12,5 @@
   3. https://youtube.com/shorts/gJVj4E4susU · Así se vendían los pisos en 2006
   4. https://youtube.com/shorts/psEoLLHupSc · La caída de Lehman Brothers en 60 segundos
   5. https://youtube.com/shorts/9kMNIWr1Ris · ¿Se repite la crisis de 2008?
-- Instagram/TikTok: PENDIENTE (sin sesión iniciada); los vídeos *_ig.mp4 están listos en la carpeta.
+- TikTok: 5 vídeos publicados para todo el mundo el 21-11-2026 (versión IG, 720p), con gancho, «busca DocuVox en YouTube» y 8 hashtags.
+- Instagram: PENDIENTE (sin sesión iniciada).

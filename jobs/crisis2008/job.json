@@ -1,0 +1,4492 @@
+{
+ "permitir_sa": true,
+ "lugares": {
+  "quinon": [
+   "quiñón",
+   "quinon",
+   "francisco hernando",
+   "residencial francisco"
+  ],
+  "sesena": [
+   "seseña",
+   "sesena"
+  ],
+  "hernando": [
+   "francisco hernando contreras",
+   "pocero"
+  ],
+  "lehman": [
+   "lehman"
+  ],
+  "fuld": [
+   "fuld"
+  ],
+  "wallst": [
+   "wall street",
+   "stock exchange",
+   "nyse"
+  ],
+  "bde": [
+   "banco de españa",
+   "banco_de_espa",
+   "bank of spain"
+  ],
+  "zapatero": [
+   "zapatero"
+  ],
+  "solbes": [
+   "solbes"
+  ],
+  "rajoy": [
+   "rajoy"
+  ],
+  "guindos": [
+   "guindos"
+  ],
+  "rato": [
+   "rato"
+  ],
+  "fabra": [
+   "fabra"
+  ],
+  "draghi": [
+   "draghi"
+  ],
+  "escriva": [
+   "escrivá",
+   "escriva"
+  ],
+  "castellon_air": [
+   "aeropuerto de castell",
+   "castellón airport",
+   "castellon airport",
+   "castelló",
+   "costa azahar"
+  ],
+  "ciudadreal_air": [
+   "ciudad real airport",
+   "aeropuerto de ciudad real",
+   "aeropuerto central"
+  ],
+  "sol15m": [
+   "15m",
+   "15-m",
+   "acampada",
+   "indignad",
+   "democracia real"
+  ],
+  "pah": [
+   "afectados por la hipoteca",
+   "stop desahucios",
+   "pah",
+   "desahucio"
+  ],
+  "bankia": [
+   "bankia",
+   "caja madrid",
+   "kio",
+   "puerta de europa"
+  ],
+  "ccm": [
+   "castilla-la mancha",
+   "castilla la mancha",
+   "ccm"
+  ],
+  "popular": [
+   "banco popular"
+  ],
+  "sareb": [
+   "sareb"
+  ],
+  "bolsa": [
+   "palacio de la bolsa",
+   "bolsa de madrid"
+  ],
+  "moncloa": [
+   "moncloa"
+  ],
+  "congreso": [
+   "congreso de los diputados",
+   "congreso"
+  ],
+  "tjue": [
+   "tribunal de justicia",
+   "court of justice",
+   "kirchberg",
+   "curia"
+  ],
+  "bnp": [
+   "bnp"
+  ],
+  "berlaymont": [
+   "berlaymont",
+   "european commission"
+  ],
+  "martinsa": [
+   "martinsa",
+   "fadesa"
+  ],
+  "cac": [
+   "ciudad de las artes",
+   "city of arts"
+  ],
+  "benidorm": [
+   "benidorm"
+  ],
+  "euro": [
+   "euro coin",
+   "euro_coin",
+   "monedas de euro",
+   "euro banknote",
+   "euro coins"
+  ],
+  "plane": [
+   "plan e",
+   "plan español para el estímulo"
+  ]
+ },
+ "permitidas": [
+  "portrait",
+  "president",
+  "politician",
+  "crane",
+  "grúa"
+ ],
+ "id": "crisis2008",
+ "title": "Crisis de 2008: así se arruinó España (y puede repetirse)",
+ "channel": "DocuVox",
+ "stage": "cast",
+ "align": true,
+ "align_model": "small",
+ "no_pad": true,
+ "reuse": {
+  "max": 1,
+  "gap": 99999
+ },
+ "auto_sfx": {},
+ "sfx_max": 5,
+ "max_shot": 7,
+ "min_shot": 1.6,
+ "anchor_lead": 0.1,
+ "bando": {
+  "gobierno": [
+   86,
+   140,
+   214
+  ],
+  "banca": [
+   236,
+   150,
+   62
+  ],
+  "ciudadanos": [
+   130,
+   186,
+   110
+  ]
+ },
+ "glossary": [
+  {
+   "term": "Euríbor",
+   "on": "el euríbor, el índice",
+   "def": "el tipo de interés al que se ata casi toda hipoteca variable"
+  },
+  {
+   "term": "Caja de ahorros",
+   "on": "las cajas de ahorros",
+   "def": "entidad sin accionistas, con consejos repartidos entre partidos, sindicatos y gobiernos"
+  },
+  {
+   "term": "Hipotecas subprime",
+   "on": "hipotecas basura",
+   "def": "préstamos a familias con poca capacidad de pago, empaquetados y vendidos por todo el mundo"
+  },
+  {
+   "term": "Ejecución hipotecaria",
+   "on": "ejecuciones hipotecarias",
+   "def": "el proceso judicial por el que el banco se queda con la casa si no se paga"
+  },
+  {
+   "term": "Prima de riesgo",
+   "on": "La prima de riesgo, lo que",
+   "def": "lo que España paga de más que Alemania por pedir prestado"
+  },
+  {
+   "term": "Sareb",
+   "on": "la Sareb",
+   "def": "el «banco malo»: se quedó los pisos y créditos tóxicos de las cajas"
+  }
+ ],
+ "theme": {
+  "base": "economia",
+  "grade": "neutro"
+ },
+ "music": {
+  "tema": {
+   "mixkit": "https://assets.mixkit.co/music/168/168.mp3",
+   "title": "Staring at the Night Sky"
+  },
+  "tension": {
+   "mixkit": "https://assets.mixkit.co/music/548/548.mp3",
+   "title": "A Voice from The Past"
+  },
+  "fiesta": {
+   "mixkit": "https://assets.mixkit.co/music/371/371.mp3",
+   "title": "Cat Walk"
+  },
+  "accion": {
+   "mixkit": "https://assets.mixkit.co/music/160/160.mp3",
+   "title": "Minimal Emotion"
+  },
+  "drama": {
+   "mixkit": "https://assets.mixkit.co/music/580/580.mp3",
+   "title": "Sun and His Daughter"
+  },
+  "ironia": {
+   "mixkit": "https://assets.mixkit.co/music/639/639.mp3",
+   "title": "Jazz 1"
+  },
+  "fondo": {
+   "mixkit": "https://assets.mixkit.co/music/570/570.mp3",
+   "title": "Sonor #2"
+  }
+ },
+ "audio": {
+  "voice_db": -20,
+  "bed_db": {
+   "tema": -36,
+   "tension": -37,
+   "fiesta": -37,
+   "accion": -36,
+   "drama": -37,
+   "ironia": -37,
+   "fondo": -37
+  },
+  "inter_db": -22,
+  "pause_stretch": 0.45,
+  "pause_cap": 0.6,
+  "gap_n": 1.5,
+  "gap_q": 1.0
+ },
+ "tempo": 0.9,
+ "parts": 4,
+ "codec": "hevc",
+ "max_kbps": 750,
+ "audio_kbps": "112k",
+ "intro": [
+  "assets/intro/docuvox.mp4"
+ ],
+ "seed": 2008,
+ "qpicks": {},
+ "split_still": 6.5,
+ "picks": {},
+ "rev": 1,
+ "units": [
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] La crisis de dos mil ocho dejó en España seis millones de parados, cientos de miles de familias sin casa y un rescate bancario de decenas de miles de millones de euros. Y empezó con algo que parecía imposible que saliera mal: un piso.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Residencial Francisco Hernando Seseña",
+     "src": "commons,loc,europeana",
+     "at": "La crisis de dos mil ocho",
+     "lt": [
+      "Seseña, Toledo",
+      "La urbanización de El Pocero"
+     ]
+    },
+    {
+     "photo": "a long queue of unemployed people in winter coats outside a ",
+     "src": "commons,loc,europeana",
+     "at": "seis millones de parados"
+    },
+    {
+     "photo": "a family carrying boxes and a child's bicycle down the stair",
+     "src": "commons,loc,europeana",
+     "at": "familias sin casa"
+    },
+    {
+     "photo": "a single tower crane over an unfinished brick apartment bloc",
+     "src": "commons,loc,europeana",
+     "at": "un piso"
+    }
+   ],
+   "gen": "jHR80L7dTThTLvawo8bS",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Ahora mira este dato. En dos mil siete, en lo más alto de la burbuja, el metro cuadrado de vivienda libre en España llegó a dos mil ochenta y cinco euros. A finales de dos mil veinticinco ha llegado a dos mil doscientos treinta. Nunca había costado tanto.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "2007 · máximo de la burbuja",
+       "lines": [
+        "2.085 €/m²",
+        "vivienda libre tasada"
+       ]
+      },
+      "right": {
+       "title": "2025 · último dato",
+       "lines": [
+        "2.230 €/m²",
+        "un 7 % por encima"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Ahora mira este dato"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 2085,
+      "to": 2230,
+      "label": "euros por metro cuadrado · vivienda libre, 2025",
+      "suffix": " €"
+     },
+     "at": "dos mil doscientos treinta"
+    }
+   ],
+   "gen": "EJtQdpJv9ju9XLpac7DE",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y entonces, como ahora, las familias se preguntaban lo mismo: si comprar ya, antes de que subiera más, o esperar. En dos mil siete, casi nadie esperó.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a young couple looking at apartment listings in the window o",
+     "src": "commons,loc,europeana",
+     "at": "si comprar ya"
+    },
+    {
+     "photo": "hands signing a thick mortgage contract at a notary desk, a ",
+     "src": "commons,loc,europeana",
+     "at": "casi nadie esperó"
+    }
+   ],
+   "gen": "Yzl80bWqjnZiD2NVXQDT",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] Para entender si estamos otra vez en el mismo punto, hay que volver al principio. A la década en la que España se convenció de que el ladrillo nunca baja. Al día en que un banco de Nueva York cayó y arrastró a medio mundo. Y a los años en los que este país aprendió, a golpes, palabras como desahucio, prima de riesgo o rescate.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Lehman Brothers headquarters 2008",
+     "src": "commons,loc,europeana",
+     "at": "un banco de Nueva York",
+     "lt": [
+      "Sede de Lehman Brothers",
+      "Nueva York · septiembre de 2008"
+     ]
+    },
+    {
+     "photo": "a huge crowd filling a Madrid square at night, thousands of ",
+     "src": "commons,loc,europeana",
+     "at": "aprendió, a golpes"
+    }
+   ],
+   "gen": "7szOa3b42YlZSlzue1Ck",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "¿Cómo llegó un país entero a construir más casas que nadie en Europa? ¿Quién lo vio venir y por qué nadie lo paró? [pause] Y la pregunta grande, la que responderemos al final: ¿se está repitiendo?",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a Spanish coastline seen from a plane covered with dozens of",
+     "src": "commons,loc,europeana",
+     "at": "más casas que nadie"
+    },
+    {
+     "photo": "a dark office of a central bank at night, a single desk lamp",
+     "src": "commons,loc,europeana",
+     "at": "Quién lo vio venir"
+    },
+    {
+     "photo": "a modern Spanish city street today with apartment blocks and",
+     "src": "commons,loc,europeana",
+     "at": "se está repitiendo"
+    }
+   ],
+   "gen": "mTSaOcnxuYWJaIwMMFH3",
+   "url": null
+  },
+  {
+   "k": "T",
+   "secs": 5.5,
+   "sting": "tema",
+   "chapter": false,
+   "text": "[dramatically] Crisis de dos mil ocho. Así se arruinó España.",
+   "voice": "NAR",
+   "card": {
+    "type": "title",
+    "title": "Crisis de 2008",
+    "sub": "Así se arruinó España (y puede repetirse)"
+   },
+   "gen": "MGL7f5bgGUDgpxf6aOdY",
+   "url": null
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "La fiesta del ladrillo",
+    "sub": "1997 · 2006",
+    "num": "I"
+   }
+  },
+  {
+   "k": "B",
+   "track": "fiesta"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Seseña, provincia de Toledo, dos mil tres. A cuarenta kilómetros de la Puerta del Sol, en mitad de un campo de cereal, un constructor hecho a sí mismo anuncia la mayor urbanización de España. Trece mil quinientos pisos. En un pueblo que entonces tenía unos diez mil habitantes.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Seseña Toledo",
+     "src": "commons,loc,europeana",
+     "at": "Seseña",
+     "lt": [
+      "Seseña",
+      "Toledo · La Sagra"
+     ]
+    },
+    {
+     "photo": "a vast wheat field on the plains south of Madrid with the fi",
+     "src": "commons,loc,europeana",
+     "at": "en mitad de un campo de cereal"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 13500,
+      "label": "pisos proyectados en El Quiñón, Seseña"
+     },
+     "at": "Trece mil quinientos pisos"
+    }
+   ],
+   "gen": "ZbMFCLWKAyZKy4ZJ0pwT",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Se llamaba Francisco Hernando, aunque toda España lo conocía por su apodo: El Pocero. Había empezado limpiando pozos negros en Madrid. Ahora levantaba una ciudad entera con su nombre.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Francisco Hernando Contreras",
+     "src": "commons,loc,europeana",
+     "at": "Francisco Hernando",
+     "lt": [
+      "Francisco Hernando, «El Pocero»",
+      "Promotor · Onde 2000",
+      "banca"
+     ]
+    },
+    {
+     "photo": "a powerful man in a suit seen from behind standing on a moun",
+     "src": "commons,loc,europeana",
+     "at": "levantaba una ciudad"
+    }
+   ],
+   "gen": "kDNuTlRpHLmDb9HWXYSs",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "No era una locura aislada. Era el espíritu de una época. Y para entenderla hay que conocer las tres piezas que encendieron la fiesta.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "three huge glowing objects on a dark table: a euro coin, a s",
+     "src": "commons,loc,europeana",
+     "at": "las tres piezas"
+    }
+   ],
+   "gen": "RDTqbjEX3HvjWtX4fbdI",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "La primera, el dinero barato. En mil novecientos noventa y nueve llega el euro y, con él, los tipos de interés de Alemania. De repente, una hipoteca en España cuesta la mitad que pocos años antes.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "DINERO BARATO"
+     },
+     "at": "La primera"
+    },
+    {
+     "photo": "Euro coins 2002",
+     "src": "commons,loc,europeana",
+     "at": "llega el euro"
+    },
+    {
+     "photo": "hands exchanging old Spanish peseta banknotes for brand new ",
+     "src": "commons,loc,europeana",
+     "at": "los tipos de interés de Alemania"
+    }
+   ],
+   "gen": "1NVMxnujDjgwiKsAm0qj",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "En junio de dos mil tres, el euríbor, el índice al que van atadas casi todas las hipotecas españolas, cae hasta el dos coma cero uno por ciento. El mínimo de su historia hasta entonces.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 2.01,
+      "dec": 2,
+      "suffix": " %",
+      "label": "euríbor · junio de 2003, mínimo de entonces"
+     },
+     "at": "cae hasta el dos coma cero uno"
+    }
+   ],
+   "gen": "x9dpz3x7OzADxsj0ReTj",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "La segunda pieza, el suelo. En mil novecientos noventa y ocho se aprueba una nueva ley que convierte en urbanizable casi todo lo que no esté protegido. La idea era sencilla: si hay más suelo para construir, las casas bajarán. Pasó justo lo contrario.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Ley 6/1998 sobre régimen del suelo y valoraciones",
+      "lines": [
+       "Todo el suelo que no esté protegido",
+       "podrá considerarse urbanizable"
+      ],
+      "source": "Boletín Oficial del Estado · 13 de abril de 1998"
+     },
+     "at": "se aprueba una nueva ley"
+    },
+    {
+     "photo": "a surveyor with a tripod measuring an empty dry hillside dot",
+     "src": "commons,loc,europeana",
+     "at": "convierte en urbanizable"
+    }
+   ],
+   "gen": "zIdMjMckpSpIiye0UQXt",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Exposición de motivos de la ley: la reforma pretende facilitar el aumento de la oferta de suelo, haciendo posible que todo el suelo que todavía no ha sido incorporado al proceso urbano, en el que no concurran razones para su preservación, pueda considerarse susceptible de ser urbanizado.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Ley 6/1998 · exposición de motivos",
+      "lines": [
+       "Facilitar el aumento de la oferta de suelo",
+       "Todo el suelo no protegido, susceptible de ser urbanizado"
+      ],
+      "source": "Boletín Oficial del Estado · 1998"
+     },
+     "at": "Exposición de motivos"
+    }
+   ],
+   "gen": "KCVAepVco0TE4NRT9Ke1",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y la tercera pieza, la más española de todas: las cajas de ahorros. Medio sistema financiero del país en manos de entidades sin accionistas, cuyos consejos repartían los partidos, los sindicatos y las administraciones. Ellas pusieron buena parte del dinero.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Caja Madrid sede",
+     "src": "commons,loc,europeana",
+     "at": "las cajas de ahorros"
+    },
+    {
+     "photo": "a long boardroom table with many empty leather chairs and na",
+     "src": "commons,loc,europeana",
+     "at": "cuyos consejos repartían"
+    }
+   ],
+   "gen": "HzlHgdKgRnx4m8W7KQuM",
+   "url": null
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Con el dinero barato, el suelo abierto y las cajas prestando, la máquina arrancó. Y ya no paró.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a line of concrete mixer trucks driving at speed on a dusty ",
+     "src": "commons,loc,europeana",
+     "at": "la máquina arrancó"
+    }
+   ],
+   "gen": "7JwSoZjJOL4tHx0ehiWi",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y hubo una cuarta pieza que nadie había previsto: la gente. En pocos años llegaron a España millones de personas de Ecuador, de Rumanía, de Marruecos, de Colombia, atraídas por el trabajo que daba la propia construcción. Y todas necesitaban un techo.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "newly arrived immigrant workers with backpacks walking out o",
+     "src": "commons,loc,europeana",
+     "at": "la gente"
+    }
+   ],
+   "gen": "HSpqEaVRWxdGYFq7JXp9",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Los datos del padrón lo dejan claro. En dos mil uno, España tenía unos cuarenta y un millones de habitantes. En dos mil ocho, más de cuarenta y seis. Cinco millones más en siete años. Casi tanto como toda la población de la Comunidad Valenciana.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 41000000,
+      "to": 46000000,
+      "label": "habitantes de España · de 2001 a 2008"
+     },
+     "at": "Los datos del padrón"
+    }
+   ],
+   "gen": "kW2gTyr2XrTbW6YotOFO",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Mil novecientos noventa y siete: el precio de la vivienda empieza a subir. En los nueve años siguientes sube más de un ciento ochenta por ciento. Los sueldos, en ese mismo tiempo, apenas se mueven en comparación.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Precio de la vivienda",
+      "events": [
+       [
+        "1997",
+        "empieza la subida"
+       ],
+       [
+        "2002",
+        "llega el euro en monedas"
+       ],
+       [
+        "2006",
+        "+183 % desde 1998"
+       ],
+       [
+        "2007",
+        "máximo de la burbuja"
+       ]
+      ]
+     },
+     "at": "Mil novecientos noventa y siete"
+    }
+   ],
+   "gen": "NFrBbx6x8i9HobkVR0LV",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y España empezó a construir como nadie. En dos mil seis se iniciaron más de ochocientas mil viviendas en un solo año.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a gigantic construction site lit by floodlights at night, do",
+     "src": "commons,loc,europeana",
+     "at": "a construir como nadie"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 800000,
+      "label": "viviendas iniciadas en 2006 · más de"
+     },
+     "at": "más de ochocientas mil viviendas"
+    }
+   ],
+   "gen": "sdxbEsYlMZ3HGMPkHJoJ",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] Algunos años de la burbuja, España empezó más viviendas que Alemania, Francia e Italia juntas. Tres países que sumaban más de cuatro veces su población.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "versus",
+      "title": "Viviendas nuevas en un año de la burbuja",
+      "left": {
+       "name": "España",
+       "lines": [
+        "Más de 800.000",
+        "44 millones de habitantes"
+       ],
+       "color": [
+        236,
+        150,
+        62
+       ]
+      },
+      "right": {
+       "name": "Alemania + Francia + Italia",
+       "lines": [
+        "Menos, entre los tres",
+        "Más de 200 millones de habitantes"
+       ],
+       "color": [
+        86,
+        140,
+        214
+       ]
+      }
+     },
+     "at": "más viviendas que Alemania"
+    }
+   ],
+   "gen": "H2DCsR7mbRcQVBs1c4j7",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "La construcción llegó a pesar más del doble que en la media de los grandes países europeos. Uno de cada ocho trabajadores españoles vivía del ladrillo. Y miles de chavales dejaban el instituto a los dieciséis años para subirse a un andamio. Algunos ganaban más que sus profesores.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "an empty high school classroom in Spain with half the chairs",
+     "src": "commons,loc,europeana",
+     "at": "dejaban el instituto"
+    },
+    {
+     "photo": "a teenage construction worker in a hard hat on scaffolding h",
+     "src": "commons,loc,europeana",
+     "at": "para subirse a un andamio"
+    }
+   ],
+   "gen": "ti6WwYXTUMBPnQnrp1ys",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "[softly] Y así se anunciaban los pisos en dos mil seis. Hipotecas a cuarenta años. Algunas cajas ya ofrecían hasta cincuenta, para menores de treinta y cinco, con el cien por cien del precio financiado y cinco años pagando solo intereses.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Así se vendía una hipoteca en 2006",
+      "items": [
+       [
+        "Hasta 50 años",
+        "para menores de 35"
+       ],
+       [
+        "100 % financiado",
+        "sin entrada"
+       ],
+       [
+        "5 años de carencia",
+        "pagando solo intereses"
+       ],
+       [
+        "Interés variable",
+        "atado al euríbor"
+       ]
+      ]
+     },
+     "at": "así se anunciaban"
+    },
+    {
+     "photo": "a glossy bank brochure with a smiling family drawn as abstra",
+     "src": "commons,loc,europeana",
+     "at": "Hipotecas a cuarenta años"
+    }
+   ],
+   "gen": "rAAJNAECcHy3npUDVT3S",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Los bancos y las cajas competían por darte el préstamo. Las tasadoras valoraban el piso por encima de lo que costaba, para que la hipoteca cubriera también los muebles, el coche y, a veces, las vacaciones.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a man with a clipboard and a measuring tape in an empty bran",
+     "src": "commons,loc,europeana",
+     "at": "Las tasadoras valoraban"
+    }
+   ],
+   "gen": "c1VDE5dXwXhlJRO9yWQS",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Hoy esto suena a otro planeta. En dos mil ocho, el noventa y siete por ciento de las hipotecas nuevas eran a tipo variable. A finales de dos mil veinticinco, solo cuatro de cada diez lo son. La mayoría de las familias que compran hoy pagan una cuota fija.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "2008",
+       "lines": [
+        "97 % de hipotecas variables",
+        "atadas al euríbor"
+       ]
+      },
+      "right": {
+       "title": "2025",
+       "lines": [
+        "6 de cada 10 a tipo fijo",
+        "cuota que no cambia"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Hoy esto suena a otro planeta"
+    }
+   ],
+   "gen": "Sn2MYA8KwnbCptqFj3sp",
+   "url": null
+  },
+  {
+   "k": "B",
+   "track": "fiesta"
+  },
+  {
+   "k": "N",
+   "text": "Y mientras tanto, la fiesta se extendía por todo el país. En la costa mediterránea, en los alrededores de Madrid, en pueblos de interior que nunca habían visto una grúa.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "map",
+      "title": "La burbuja en el mapa · 2006",
+      "bbox": [
+       -9.5,
+       36.0,
+       3.5,
+       43.8
+      ],
+      "points": [
+       {
+        "name": "Seseña",
+        "lon": -3.7,
+        "lat": 40.1,
+        "big": 1
+       },
+       {
+        "name": "Madrid",
+        "lon": -3.7,
+        "lat": 40.42
+       },
+       {
+        "name": "Valencia",
+        "lon": -0.38,
+        "lat": 39.47
+       },
+       {
+        "name": "Castellón",
+        "lon": -0.04,
+        "lat": 39.99
+       },
+       {
+        "name": "Ciudad Real",
+        "lon": -3.93,
+        "lat": 38.99
+       },
+       {
+        "name": "Marbella",
+        "lon": -4.88,
+        "lat": 36.51
+       },
+       {
+        "name": "Murcia",
+        "lon": -1.13,
+        "lat": 37.99
+       }
+      ]
+     },
+     "at": "se extendía por todo el país"
+    },
+    {
+     "photo": "Benidorm skyline",
+     "src": "commons,loc,europeana",
+     "at": "la costa mediterránea"
+    },
+    {
+     "photo": "a small whitewashed village on a dry Spanish plain with thre",
+     "src": "commons,loc,europeana",
+     "at": "pueblos de interior"
+    }
+   ],
+   "gen": "Pw5zi8MySP1nYeQwcVE2",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Ayuntamientos que firmaban recalificaciones a cambio de dinero para fiestas, polideportivos o rotondas. Rotondas con esculturas gigantes. Aeropuertos. Parques temáticos. Palacios de congresos.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a huge abstract metal sculpture in the middle of a brand new",
+     "src": "commons,loc,europeana",
+     "at": "Rotondas con esculturas gigantes"
+    },
+    {
+     "photo": "Ciudad de las Artes y las Ciencias Valencia",
+     "src": "commons,loc,europeana",
+     "at": "Palacios de congresos"
+    }
+   ],
+   "gen": "jJRZzbQA764Va6Cv1X0l",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Valencia tuvo la Copa América de vela y un circuito urbano de Fórmula Uno. Madrid, cuatro rascacielos nuevos en la Castellana. Y casi cada capital de provincia quiso su gran proyecto. Las obras se inauguraban con banda de música. Lo que costaban no se pagaría ya. Se pagaría después.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "Cuatro Torres Business Area Madrid",
+     "src": "commons,loc,europeana",
+     "at": "cuatro rascacielos nuevos"
+    },
+    {
+     "photo": "a municipal brass band playing at the ribbon cutting of a hu",
+     "src": "commons,loc,europeana",
+     "at": "con banda de música"
+    }
+   ],
+   "gen": "iko2IULo2PuJdb6ts45I",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Las cuentas de los ayuntamientos se volvieron adictas al ladrillo. Las licencias de obra, el impuesto sobre construcciones y las ventas de suelo llegaron a ser una parte enorme de sus ingresos. Cuando la construcción se paró, muchos se quedaron con polideportivos que no podían mantener y deudas que no podían pagar.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "photo": "a large modern municipal sports pavilion with a locked gate,",
+     "src": "commons,loc,europeana",
+     "at": "polideportivos que no podían mantener"
+    }
+   ],
+   "gen": "BNGB9rtfdwDrykHkdzgH",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Todo el mundo ganaba. O eso parecía. Porque nadie se hacía la pregunta incómoda: ¿quién iba a vivir en todas esas casas?",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "endless rows of identical new apartment blocks with no light",
+     "src": "commons,loc,europeana",
+     "at": "quién iba a vivir"
+    }
+   ],
+   "gen": "N5UhItOv0WdgZonDwehK",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Un estudio de la época lo calculó así: de las más de ochocientas mil viviendas construidas en un año, unas cuatrocientas cincuenta mil sobraban si se tenía en cuenta cuánta gente necesitaba casa de verdad.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Construidas en un año",
+       "lines": [
+        "Más de 800.000"
+       ]
+      },
+      "right": {
+       "title": "Sobraban",
+       "lines": [
+        "Unas 450.000",
+        "sin comprador real"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Un estudio de la época"
+    }
+   ],
+   "gen": "BplUqR4aViyPBGcnm0aa",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Muchas no se compraban para vivir. Se compraban para vender. Sobre plano, antes de que existieran. Y se revendían dos y tres veces antes de poner el último ladrillo.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a white architectural scale model of an apartment complex on",
+     "src": "commons,loc,europeana",
+     "at": "Sobre plano"
+    }
+   ],
+   "gen": "94xKWRujWilKgfV5RfJZ",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "[softly] En los telediarios de aquellos años se repetía una frase en bares, oficinas y comidas familiares: el piso nunca baja. Alquilar era tirar el dinero. Y el que no compraba, perdía.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "a crowded Spanish bar at lunchtime with a TV on the wall, me",
+     "src": "commons,loc,europeana",
+     "at": "en bares, oficinas"
+    }
+   ],
+   "gen": "gv6NnI92CX4jCj3EToXZ",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Y en parte tenían razón, porque durante una década fue verdad. Entre mil novecientos noventa y ocho y dos mil seis, el precio de la vivienda casi se triplicó. Quien compraba un piso en mil novecientos noventa y ocho y lo vendía en dos mil seis, ganaba casi tres veces lo invertido, sin haber hecho nada.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Piso comprado en 1998",
+       "lines": [
+        "100.000 euros"
+       ]
+      },
+      "right": {
+       "title": "El mismo piso en 2006",
+       "lines": [
+        "Unos 280.000 euros",
+        "sin tocar un ladrillo"
+       ]
+      },
+      "strike": false
+     },
+     "at": "casi se triplicó"
+    }
+   ],
+   "gen": "cPmOF6zKxwllFeim1uG0",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] Y en Seseña, la ciudad de El Pocero empezaba a tomar forma. Bloques y bloques de ladrillo rojo en mitad de la nada. Sin colegio. Sin centro de salud. Sin agua garantizada. [short pause] Pero eso daba igual. Mientras los precios subieran, todo valía.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "El Quiñón Seseña",
+     "src": "commons,loc,europeana",
+     "at": "la ciudad de El Pocero"
+    },
+    {
+     "photo": "dozens of identical red brick apartment blocks standing in t",
+     "src": "commons,loc,europeana",
+     "at": "en mitad de la nada"
+    }
+   ],
+   "gen": "qxCPbjOSXJcPtoPsp9TD",
+   "url": null
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Los que lo vieron venir",
+    "sub": "2006 · 2007",
+    "num": "II"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Madrid, mayo de dos mil seis. Un grupo de inspectores del Banco de España, los encargados de vigilar a los bancos desde dentro, envía un escrito al Gobierno. No hablan con medias palabras.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Banco de España edificio Cibeles",
+     "src": "commons,loc,europeana",
+     "at": "Banco de España",
+     "lt": [
+      "Banco de España",
+      "Madrid · Plaza de Cibeles"
+     ]
+    },
+    {
+     "photo": "an official envelope being placed on a large ministry desk b",
+     "src": "commons,loc,europeana",
+     "at": "envía un escrito al Gobierno"
+    }
+   ],
+   "gen": "AoOPqsbOSMiDxPcsnYUl",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Según la información publicada años después, los inspectores describían la situación de la economía como delicada. Y el sector inmobiliario, como frágil.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Escrito de los inspectores del Banco de España · 2006",
+      "lines": [
+       "La situación económica es «delicada»",
+       "El sector inmobiliario es «frágil»"
+      ],
+      "source": "Según la información publicada por El Mundo (2011)"
+     },
+     "at": "los inspectores describían"
+    }
+   ],
+   "gen": "G2QfpwI9xKXVpXpdehxx",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Advertían de algo que hoy parece evidente: que las cajas y los bancos estaban prestando demasiado, a demasiado plazo y a gente que quizá no podría devolverlo. Aquel escrito no cambió nada.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a thick folder being filed away in a dusty archive cabinet b",
+     "src": "commons,loc,europeana",
+     "at": "no cambió nada"
+    }
+   ],
+   "gen": "uZSa2BoO0LbIBdvElCUp",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "No eran los únicos. La palabra burbuja aparecía en la prensa económica desde dos mil tres. Algunos economistas y algunos libros lo advertían cada año. Y cada año, promotores, tasadoras y buena parte de los bancos respondían lo mismo: en España no hay burbuja, hay demanda. Y mientras la demanda siguiera, tenían razón.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "a stack of financial newspapers from different years on a de",
+     "src": "commons,loc,europeana",
+     "at": "La palabra burbuja aparecía"
+    }
+   ],
+   "gen": "ONZNeW63bDx5lNQrhOr5",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Porque en dos mil seis y dos mil siete, el discurso oficial era otro. España crecía más que nadie en Europa. Tenía superávit. Y el paro había bajado del ocho por ciento por primera vez en décadas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "José Luis Rodríguez Zapatero 2007",
+     "src": "commons,loc,europeana",
+     "at": "el discurso oficial",
+     "lt": [
+      "José Luis Rodríguez Zapatero",
+      "Presidente del Gobierno · 2004-2011",
+      "gobierno"
+     ]
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "España · 2007",
+      "items": [
+       [
+        "Crecimiento",
+        "por encima de la media europea"
+       ],
+       [
+        "Superávit",
+        "en las cuentas públicas"
+       ],
+       [
+        "Paro",
+        "por debajo del 8 %"
+       ]
+      ]
+     },
+     "at": "España crecía"
+    }
+   ],
+   "gen": "PxHI5pbQ6hJ5oaSUd2V2",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Al otro lado del Atlántico, sin embargo, algo empezaba a crujir. En Estados Unidos, millones de hipotecas concedidas a familias sin ingresos estables, las llamadas hipotecas basura o subprime, dejan de pagarse.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a suburban American street with foreclosure signs in front o",
+     "src": "commons,loc,europeana",
+     "at": "dejan de pagarse"
+    }
+   ],
+   "gen": "QNsrMpstdDsweyNCttPg",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Nueve de agosto de dos mil siete. El banco francés BNP Paribas congela tres de sus fondos. Dice que ya no puede saber cuánto valen. Los bancos de medio mundo dejan de prestarse dinero entre ellos de un día para otro.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "BNP Paribas siège Paris",
+     "src": "commons,loc,europeana",
+     "at": "BNP Paribas"
+    },
+    {
+     "photo": "traders on a European stock exchange floor watching walls of",
+     "src": "commons,loc,europeana",
+     "at": "dejan de prestarse dinero"
+    }
+   ],
+   "gen": "rV60vgmtgQgkN7JRLUVg",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Catorce de septiembre de dos mil siete. Reino Unido. Cientos de clientes hacen cola en la puerta de las oficinas del banco Northern Rock para sacar sus ahorros. Es la primera retirada masiva de depósitos en un banco británico en más de un siglo. Las imágenes dan la vuelta al mundo.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "a long queue of worried customers in coats outside a British",
+     "src": "commons,loc,europeana",
+     "at": "hacen cola"
+    },
+    {
+     "photo": "Northern Rock queue 2007",
+     "src": "commons,loc,europeana",
+     "at": "Northern Rock",
+     "lt": [
+      "Northern Rock",
+      "Reino Unido · septiembre de 2007",
+      "banca"
+     ]
+    }
+   ],
+   "gen": "AEwpV4FSQz0FYDG3Rjh6",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "En España, la reacción del Gobierno fue de calma. Agosto de dos mil siete. El vicepresidente económico, Pedro Solbes, sobre el efecto que tendría aquella crisis de las hipotecas americanas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Pedro Solbes",
+     "src": "commons,loc,europeana",
+     "at": "Pedro Solbes",
+     "lt": [
+      "Pedro Solbes",
+      "Vicepresidente y ministro de Economía",
+      "gobierno"
+     ]
+    }
+   ],
+   "gen": "9TCEPRFFl3bjjxCrBinW",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Tendrá un impacto relativamente pequeño en la economía española.",
+   "voice": "SOL",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Tendrá un impacto «relativamente pequeño» en la economía española.",
+      "attrib": "Pedro Solbes · 17 de agosto de 2007"
+     },
+     "at": "Tendrá un impacto"
+    }
+   ],
+   "gen": "R66NH0jxccj611bGY9ou",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Un mes después, el once de septiembre de dos mil siete, el presidente José Luis Rodríguez Zapatero dejó una frase para la historia.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Zapatero 2007 discurso",
+     "src": "commons,loc,europeana",
+     "at": "el once de septiembre"
+    }
+   ],
+   "gen": "4op7IgjuS3Od1eLpJm8x",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Haciendo uso de un símil futbolístico, se podría decir que España ha entrado en la Champions League de la economía mundial.",
+   "voice": "ZAP",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "España ha entrado en la Champions League de la economía mundial.",
+      "attrib": "José Luis Rodríguez Zapatero · 11 de septiembre de 2007"
+     },
+     "at": "Haciendo uso"
+    }
+   ],
+   "gen": "8w5yKlqEKLlXWx5ASiYl",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] En ese mismo momento, sin que nadie lo dijera en voz alta, la burbuja ya había tocado techo. Las ventas de pisos empezaban a caer. Los precios se frenaban. Y las grúas, sin que nadie lo notara, empezaban a quedarse quietas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a tower crane frozen above an unfinished concrete skeleton b",
+     "src": "commons,loc,europeana",
+     "at": "empezaban a quedarse quietas"
+    }
+   ],
+   "gen": "PpkvqgU0fhGPYnJxUxLC",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "En febrero de dos mil ocho, en plena campaña electoral, el vicepresidente Solbes y el candidato económico del Partido Popular, Manuel Pizarro, se enfrentaron en un debate televisado. Pizarro hablaba de crisis. Solbes, de un frenazo pasajero. En marzo, el Partido Socialista volvió a ganar las elecciones.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Manuel Pizarro",
+     "src": "commons,loc,europeana",
+     "at": "Manuel Pizarro",
+     "lt": [
+      "Manuel Pizarro",
+      "Candidato del PP · 2008",
+      "gobierno"
+     ]
+    },
+    {
+     "photo": "a television debate studio with two lecterns facing each oth",
+     "src": "commons,loc,europeana",
+     "at": "un debate televisado"
+    }
+   ],
+   "gen": "gsGMTZOfFSG8HOZCzUK7",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Las viviendas que se empezaron en dos mil siete fueron casi un veinticinco por ciento menos que el año anterior. Pero se terminaron más que nunca: casi seiscientas mil. Una bolsa enorme de pisos nuevos buscando dueño. Justo cuando los compradores empezaban a desaparecer.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "2007 · empezadas",
+       "lines": [
+        "Casi un 25 % menos"
+       ]
+      },
+      "right": {
+       "title": "2007 · terminadas",
+       "lines": [
+        "Casi 600.000",
+        "más que nunca"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Las viviendas que se empezaron"
+    }
+   ],
+   "gen": "zY7rAS40fyfNnuuUXYaO",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y había un detalle que casi nadie miraba. El euríbor llevaba meses subiendo. Y con él, la cuota de millones de hipotecas variables.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Euríbor a 12 meses",
+      "events": [
+       [
+        "2003",
+        "2,01 %"
+       ],
+       [
+        "2005",
+        "≈ 2,3 %"
+       ],
+       [
+        "2007",
+        "4,56 %"
+       ],
+       [
+        "julio 2008",
+        "5,39 %"
+       ]
+      ]
+     },
+     "at": "El euríbor llevaba meses subiendo"
+    }
+   ],
+   "gen": "AM1ZghaT84WsotSxKfyn",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "En julio de dos mil siete estaba en el cuatro coma cincuenta y seis por ciento. Un año después, en julio de dos mil ocho, en el cinco coma treinta y nueve: el máximo de su historia. Para una hipoteca media, casi mil euros más al año.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 4.56,
+      "to": 5.39,
+      "dec": 2,
+      "suffix": " %",
+      "label": "euríbor · julio de 2008, máximo histórico"
+     },
+     "at": "cinco coma treinta y nueve"
+    }
+   ],
+   "gen": "NiG561XYH7FwNApWKBZo",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[serious] Las familias que se habían hipotecado al límite empezaron a hacer cuentas a final de mes. Las promotoras, a no vender. Y los bancos, a mirar con miedo lo que tenían en sus balances. [pause] Pero el verdadero golpe todavía no había llegado. Vendría de Nueva York. Y tenía nombre de banco.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a couple at a kitchen table at night with bills and a calcul",
+     "src": "commons,loc,europeana",
+     "at": "hacer cuentas a final de mes"
+    },
+    {
+     "photo": "Lehman Brothers 745 Seventh Avenue",
+     "src": "commons,loc,europeana",
+     "at": "Vendría de Nueva York"
+    }
+   ],
+   "gen": "Fm2lcyt2NQepwFMb1jfH",
+   "url": null
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El día que cayó Lehman",
+    "sub": "2008",
+    "num": "III"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Nueva York, lunes quince de septiembre de dos mil ocho, una y cuarenta y cinco de la madrugada. Lehman Brothers, el cuarto banco de inversión de Estados Unidos, con ciento cincuenta y ocho años de historia, presenta la mayor quiebra de la historia del país.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a Manhattan skyscraper at night with only a few lit windows,",
+     "src": "commons,loc,europeana",
+     "at": "una y cuarenta y cinco de la madrugada"
+    },
+    {
+     "photo": "Lehman Brothers headquarters September 2008",
+     "src": "commons,loc,europeana",
+     "at": "Lehman Brothers",
+     "lt": [
+      "Lehman Brothers",
+      "Nueva York · 15 de septiembre de 2008",
+      "banca"
+     ]
+    }
+   ],
+   "gen": "qf5NTeTnkZfO9wLZ7NCv",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Deudas por más de seiscientos mil millones de dólares. Más que el producto interior bruto de muchos países enteros.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 600000,
+      "label": "millones de dólares en deudas · más de",
+      "prefix": "$"
+     },
+     "at": "seiscientos mil millones"
+    }
+   ],
+   "gen": "75iW8BuXu5WbcfcDfECL",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Por la mañana, las cámaras de televisión de todo el mundo graban la misma escena: empleados saliendo del edificio con sus cosas en cajas de cartón. Veinticinco mil personas se quedaban sin trabajo de golpe.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "office workers in suits carrying cardboard boxes out of a gl",
+     "src": "commons,loc,europeana",
+     "at": "empleados saliendo del edificio"
+    },
+    {
+     "photo": "Lehman Brothers employees leaving boxes 2008",
+     "src": "commons,loc,europeana",
+     "at": "cajas de cartón"
+    }
+   ],
+   "gen": "QtYiuIbC3cYxIId8Feqb",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "¿Cómo podía caer un gigante así? Porque llevaba años comprando, empaquetando y revendiendo lo mismo que había hundido las casas americanas: hipotecas que nunca se iban a pagar. Y cuando esos paquetes dejaron de valer nada, nadie quiso rescatarlo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a towering stack of bound mortgage files wrapped like gift p",
+     "src": "commons,loc,europeana",
+     "at": "empaquetando y revendiendo"
+    }
+   ],
+   "gen": "nowogtbVlaQXBz0H7whI",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Tres semanas después, su presidente, Richard Fuld, tuvo que explicarse ante el Congreso de los Estados Unidos.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Richard Fuld Congress 2008",
+     "src": "commons,loc,europeana",
+     "at": "Richard Fuld",
+     "lt": [
+      "Richard Fuld",
+      "Presidente de Lehman Brothers",
+      "banca"
+     ]
+    }
+   ],
+   "gen": "7dC1smZ77oWc7i00U0IJ",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Me despierto cada noche preguntándome qué podría haber hecho de otra manera.",
+   "voice": "USA",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Me despierto cada noche preguntándome qué podría haber hecho de otra manera.",
+      "attrib": "Richard Fuld ante el Congreso de EE. UU. · 6 de octubre de 2008 (traducción)"
+     },
+     "at": "Me despierto"
+    }
+   ],
+   "gen": "r2zza1BSw0AKrjxpvLO2",
+   "url": null
+  },
+  {
+   "k": "B",
+   "track": "accion"
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Lo que vino después se llamó pánico. Las bolsas se desploman. Los bancos dejan de fiarse unos de otros. En Estados Unidos, el Gobierno rescata a la mayor aseguradora del mundo. En Europa caen bancos en Islandia, en Irlanda, en Bélgica, en el Reino Unido.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a giant electronic stock board showing plunging red arrows o",
+     "src": "commons,loc,europeana",
+     "at": "Lo que vino después se llamó pánico"
+    },
+    {
+     "photo": "Wall Street October 2008",
+     "src": "commons,loc,europeana",
+     "at": "Las bolsas se desploman"
+    },
+    {
+     "card": {
+      "type": "map",
+      "title": "El contagio · otoño de 2008",
+      "bbox": [
+       -75,
+       25,
+       30,
+       66
+      ],
+      "points": [
+       {
+        "name": "Nueva York",
+        "lon": -74.0,
+        "lat": 40.7,
+        "big": 1
+       },
+       {
+        "name": "Reikiavik",
+        "lon": -21.9,
+        "lat": 64.1
+       },
+       {
+        "name": "Dublín",
+        "lon": -6.26,
+        "lat": 53.35
+       },
+       {
+        "name": "Londres",
+        "lon": -0.13,
+        "lat": 51.51
+       },
+       {
+        "name": "Bruselas",
+        "lon": 4.35,
+        "lat": 50.85
+       },
+       {
+        "name": "Madrid",
+        "lon": -3.7,
+        "lat": 40.42
+       }
+      ],
+      "arrows": [
+       {
+        "path": [
+         [
+          -74.0,
+          40.7
+         ],
+         [
+          -30,
+          50
+         ],
+         [
+          -6.26,
+          53.35
+         ]
+        ]
+       },
+       {
+        "path": [
+         [
+          -74.0,
+          40.7
+         ],
+         [
+          -35,
+          42
+         ],
+         [
+          -3.7,
+          40.42
+         ]
+        ]
+       }
+      ]
+     },
+     "at": "En Europa caen bancos"
+    }
+   ],
+   "gen": "Cg9Lr0RNqvwVVRU04ZRx",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "La Bolsa española no se libró. El Ibex treinta y cinco, el índice de las grandes empresas cotizadas, cerró dos mil ocho con una caída de casi el cuarenta por ciento. El peor año de su historia.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 39.4,
+      "dec": 1,
+      "prefix": "−",
+      "suffix": " %",
+      "label": "caída del Ibex 35 en 2008 · el peor año de su historia"
+     },
+     "at": "El Ibex treinta y cinco"
+    }
+   ],
+   "gen": "vnuRJwRR6W7fCdIhk78D",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Tres de octubre de dos mil ocho. El Congreso de Estados Unidos aprueba, al segundo intento, un plan de rescate de setecientos mil millones de dólares para comprar los activos tóxicos de los bancos. Unos días antes lo había rechazado y Wall Street había vivido su mayor caída en puntos de la historia.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "United States Capitol 2008",
+     "src": "commons,loc,europeana",
+     "at": "El Congreso de Estados Unidos"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 700000,
+      "label": "millones de dólares · plan de rescate de EE. UU. (TARP)",
+      "prefix": "$"
+     },
+     "at": "setecientos mil millones"
+    }
+   ],
+   "gen": "Je0RkjYT5InFZW7fG32c",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "En España, el Gobierno aprueba en octubre un fondo de hasta cincuenta mil millones de euros para comprar activos a los bancos y avales públicos de hasta cien mil millones para que pudieran seguir financiándose.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "España · octubre de 2008",
+      "items": [
+       [
+        "Fondo de Adquisición de Activos Financieros",
+        "hasta 50.000 millones"
+       ],
+       [
+        "Avales del Estado a la banca",
+        "hasta 100.000 millones"
+       ]
+      ]
+     },
+     "at": "En España, el Gobierno aprueba"
+    }
+   ],
+   "gen": "th1BarMcMOVHYJcfo7ER",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y España, que juraba estar a salvo, descubrió que el problema no era americano. Era suyo. Porque aquí no había hipotecas basura empaquetadas: había algo peor. Un país entero endeudado para comprar casas que valían mucho menos de lo que se había pagado por ellas.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "an old-fashioned balance scale with a stack of house keys on",
+     "src": "commons,loc,europeana",
+     "at": "era suyo"
+    }
+   ],
+   "gen": "ZxjMW3OCF4dBoMPdfcfc",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "En septiembre de dos mil ocho, el presidente del Gobierno llegó a presumir en Nueva York de que la banca española era probablemente la más sólida del mundo. Y en parte lo parecía: los grandes bancos no habían comprado apenas aquellos paquetes tóxicos americanos. El veneno estaba en otro sitio. En los balances de las cajas. Y en los pisos sin vender.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a cracked marble savings bank facade with dark water seeping",
+     "src": "commons,loc,europeana",
+     "at": "El veneno estaba en otro sitio"
+    }
+   ],
+   "gen": "59gePBpXF7NkqxRaQOsX",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "La deuda de las familias españolas superaba ya el ochenta por ciento de todo lo que producía el país en un año. Y el crédito a promotores y constructoras pasaba del cuarenta por ciento.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Deuda de las familias",
+       "lines": [
+        "Más del 80 % del PIB"
+       ]
+      },
+      "right": {
+       "title": "Crédito al ladrillo",
+       "lines": [
+        "Cerca del 42 % del PIB",
+        "a promotoras y constructoras"
+       ]
+      },
+      "strike": false
+     },
+     "at": "La deuda de las familias españolas"
+    }
+   ],
+   "gen": "FXAJ87azc2j5anqcp7BP",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "De hecho, el primer gran golpe había llegado aquí dos meses antes que Lehman. Julio de dos mil ocho. La inmobiliaria Martinsa-Fadesa, una de las mayores del país, se declara en concurso de acreedores. La mayor suspensión de pagos de la historia de España.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Martinsa Fadesa",
+     "src": "commons,loc,europeana",
+     "at": "Martinsa-Fadesa",
+     "lt": [
+      "Martinsa-Fadesa",
+      "Inmobiliaria · concurso en julio de 2008",
+      "banca"
+     ]
+    },
+    {
+     "photo": "a modern real estate company headquarters lobby with the lig",
+     "src": "commons,loc,europeana",
+     "at": "concurso de acreedores"
+    }
+   ],
+   "gen": "YONfHedpgNQLBAY5cwjz",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Mientras tanto, el Gobierno seguía evitando una palabra. Durante la primera mitad de dos mil ocho, el presidente habló de desaceleración, de dificultades, de un ajuste. Hasta el verano no pronunció en público la palabra crisis.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "«DESACELERACIÓN»",
+      "sub": "la palabra que se usó durante meses"
+     },
+     "at": "evitando una palabra"
+    },
+    {
+     "photo": "Zapatero 2008",
+     "src": "commons,loc,europeana",
+     "at": "el presidente habló de desaceleración"
+    }
+   ],
+   "gen": "yk6lnB2tD7NTO1pvJzkM",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] Pero ya daba igual cómo se llamara. Porque en las obras de toda España, una tras otra, las hormigoneras se paraban. Y lo que venía detrás de ellas era el paro.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "an abandoned concrete mixer truck in an empty construction s",
+     "src": "commons,loc,europeana",
+     "at": "las hormigoneras se paraban"
+    }
+   ],
+   "gen": "SDDAiY1f7qgXIeveBRj3",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Paradójicamente, las hipotecas pronto empezaron a bajar. Para frenar el desastre, el Banco Central Europeo recortó sus tipos de interés del cuatro coma veinticinco al uno por ciento en menos de un año. El euríbor se desplomó. Pero de poco sirve que baje la cuota si te quedas sin sueldo.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Julio de 2008",
+       "lines": [
+        "Tipo del BCE: 4,25 %"
+       ]
+      },
+      "right": {
+       "title": "Mayo de 2009",
+       "lines": [
+        "Tipo del BCE: 1 %",
+        "el euríbor se desploma"
+       ]
+      },
+      "strike": false
+     },
+     "at": "del cuatro coma veinticinco al uno"
+    }
+   ],
+   "gen": "cZ1pM7uAoeezpcJAirhO",
+   "url": null
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Seis millones",
+    "sub": "2008 · 2013",
+    "num": "IV"
+   }
+  },
+  {
+   "k": "B",
+   "track": "drama"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Una oficina de empleo de cualquier barrio de España, invierno de dos mil nueve. La cola sale por la puerta y da la vuelta a la esquina. Albañiles, encofradores, electricistas, administrativos de inmobiliaria, vendedores de pisos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a long line of men in work jackets and a few women waiting o",
+     "src": "commons,loc,europeana",
+     "at": "La cola sale por la puerta"
+    },
+    {
+     "photo": "a worn construction helmet and work gloves left on a park be",
+     "src": "commons,loc,europeana",
+     "at": "Albañiles, encofradores"
+    }
+   ],
+   "gen": "4ahF8EWGNJAeNkLPi3Qx",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "En el verano de dos mil siete, España tenía alrededor de un millón ochocientos mil parados. Era el mejor dato en casi treinta años.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 1800000,
+      "label": "parados en España · verano de 2007"
+     },
+     "at": "un millón ochocientos mil"
+    }
+   ],
+   "gen": "qvxVPeIbRWP1vQRybn5s",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "El ladrillo había creado millones de empleos. Y se los llevó con la misma velocidad. Más de la mitad de los puestos de trabajo de la construcción desaparecieron. Detrás cayeron las fábricas de cemento, de azulejos, de muebles, de electrodomésticos. Y los bares de las obras.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a ceramic tile factory with stacks of unsold tiles and silen",
+     "src": "commons,loc,europeana",
+     "at": "de azulejos"
+    },
+    {
+     "photo": "a roadside bar near a construction site with all chairs stac",
+     "src": "commons,loc,europeana",
+     "at": "Y los bares de las obras"
+    }
+   ],
+   "gen": "F2CQs1yuTuyJGYDAvYPO",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "La construcción llegó a dar trabajo a unos dos millones setecientas mil personas en dos mil siete. Seis años después, no llegaba a un millón.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Construcción · 2007",
+       "lines": [
+        "Unos 2,7 millones",
+        "de ocupados"
+       ]
+      },
+      "right": {
+       "title": "Construcción · 2013",
+       "lines": [
+        "Menos de 1 millón"
+       ]
+      },
+      "strike": false
+     },
+     "at": "dos millones setecientas mil"
+    }
+   ],
+   "gen": "BOIPQyTUiyj04ShNWDyn",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "El Gobierno intentó frenar la caída con obra pública. A finales de dos mil ocho lanza el Plan E: ocho mil millones de euros para que los ayuntamientos hicieran obras pequeñas y rápidas. Aceras, plazas, polideportivos. Dio trabajo durante unos meses. Pero cuando se acabó el dinero, el paro siguió subiendo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Plan E cartel obra",
+     "src": "commons,loc,europeana",
+     "at": "el Plan E"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 8000,
+      "label": "millones de euros · Fondo Estatal de Inversión Local (Plan E)"
+     },
+     "at": "ocho mil millones"
+    },
+    {
+     "photo": "workers repaving a town sidewalk with a large official sign ",
+     "src": "commons,loc,europeana",
+     "at": "Aceras, plazas"
+    }
+   ],
+   "gen": "SoBP74GBKYbhVYqJlSSs",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "En la primavera de dos mil nueve, la ministra de Economía, Elena Salgado, aseguró que ya se veían brotes verdes en la economía. La expresión se hizo tan famosa como la de la Champions. Y es que el paro siguió subiendo todavía cuatro años más.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "Elena Salgado",
+     "src": "commons,loc,europeana",
+     "at": "Elena Salgado",
+     "lt": [
+      "Elena Salgado",
+      "Ministra de Economía · 2009-2011",
+      "gobierno"
+     ]
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "«BROTES VERDES»",
+      "sub": "primavera de 2009"
+     },
+     "at": "brotes verdes"
+    }
+   ],
+   "gen": "xDBUYsiFl83tuDrGgbSH",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "El precio de aquel esfuerzo apareció en las cuentas públicas. En dos mil siete, el Estado tenía superávit y una deuda de apenas el treinta y seis por ciento del producto interior bruto. En dos mil nueve, el déficit superó el once por ciento. Y la deuda pública acabaría superando el cien por cien en dos mil catorce.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "2007",
+       "lines": [
+        "Superávit",
+        "Deuda pública: 36 % del PIB"
+       ]
+      },
+      "right": {
+       "title": "2009 · 2014",
+       "lines": [
+        "Déficit de más del 11 %",
+        "Deuda: más del 100 % del PIB"
+       ]
+      },
+      "strike": false
+     },
+     "at": "El precio de aquel esfuerzo"
+    }
+   ],
+   "gen": "VAgtEraU8QX2IiyI1X0o",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y llegó la segunda ola. En dos mil diez, la crisis de las hipotecas se convirtió en una crisis de deuda. Grecia pide un rescate. Los mercados empiezan a dudar de que España pueda pagar lo que debe.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a massive protest crowd in front of a parliament building wi",
+     "src": "commons,loc,europeana",
+     "at": "Grecia pide un rescate"
+    }
+   ],
+   "gen": "2GTE65OldgnlEmVMnlW1",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Doce de mayo de dos mil diez. El presidente sube a la tribuna del Congreso y anuncia lo que hasta pocos días antes había descartado: el mayor recorte de la democracia. Los sueldos de los funcionarios bajan un cinco por ciento. Las pensiones se congelan.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Congreso de los Diputados hemiciclo",
+     "src": "commons,loc,europeana",
+     "at": "la tribuna del Congreso"
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "Recortes de mayo de 2010",
+      "items": [
+       [
+        "Sueldos públicos",
+        "−5 % de media"
+       ],
+       [
+        "Pensiones",
+        "congeladas en 2011"
+       ],
+       [
+        "Cheque bebé",
+        "suprimido"
+       ]
+      ]
+     },
+     "at": "el mayor recorte de la democracia"
+    }
+   ],
+   "gen": "5u6gNdsT56vSDKTf0svW",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Un año después, en el verano de dos mil once, los dos grandes partidos se ponían de acuerdo en algo casi inédito: reformar la Constitución en pocas semanas para que el pago de la deuda pública tuviera prioridad absoluta.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Reforma del artículo 135 de la Constitución",
+      "lines": [
+       "Estabilidad presupuestaria",
+       "El pago de la deuda tendrá «prioridad absoluta»"
+      ],
+      "source": "Boletín Oficial del Estado · 27 de septiembre de 2011"
+     },
+     "at": "reformar la Constitución"
+    }
+   ],
+   "gen": "nBCfFfFTLly7Nt3oU5oa",
+   "url": null
+  },
+  {
+   "k": "B",
+   "track": "accion"
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Pero antes de eso, la calle ya había estallado. Quince de mayo de dos mil once. Miles de personas, muchas de ellas jóvenes, salen a manifestarse en decenas de ciudades. Y esa noche, unas cuantas se quedan a dormir en la Puerta del Sol de Madrid.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "thousands of young people sitting and standing in a Madrid s",
+     "src": "commons,loc,europeana",
+     "at": "la calle ya había estallado"
+    },
+    {
+     "photo": "Acampada Sol 15M 2011",
+     "src": "commons,loc,europeana",
+     "at": "la Puerta del Sol",
+     "lt": [
+      "Acampada de Sol",
+      "Madrid · mayo de 2011",
+      "ciudadanos"
+     ]
+    }
+   ],
+   "gen": "ADAXv3X8fBTFoT4OngKw",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "[softly] El lema de aquella primera manifestación lo resumía todo.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "15M Puerta del Sol pancartas",
+     "src": "commons,loc,europeana",
+     "at": "El lema"
+    }
+   ],
+   "gen": "3hlEOlDZyDa0mCmq2v0N",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "[serious] No somos mercancía en manos de políticos y banqueros.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "No somos mercancía en manos de políticos y banqueros.",
+      "attrib": "Lema de la manifestación del 15 de mayo de 2011 · Democracia Real Ya"
+     },
+     "at": "No somos mercancía"
+    }
+   ],
+   "gen": "C44fJhVU5VmCWWuDIdfG",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "La acampada de Sol duró casi un mes y se copió en plazas de toda España. Se la conoció como el movimiento del Quince M, o de los indignados. Y de aquel movimiento saldrían, años después, nuevos partidos que cambiaron el mapa político español.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a large open-air assembly in a city square, people sitting o",
+     "src": "commons,loc,europeana",
+     "at": "se copió en plazas de toda España"
+    },
+    {
+     "photo": "Movimiento 15M indignados",
+     "src": "commons,loc,europeana",
+     "at": "los indignados"
+    }
+   ],
+   "gen": "EgfzHLWQ1mLrXpjKqFiR",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Cuando levantaron el campamento, a mediados de junio, colgaron una pancarta enorme en la plaza. Decía: no nos vamos, nos mudamos a tu conciencia.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "No nos vamos. Nos mudamos a tu conciencia.",
+      "attrib": "Pancarta de la acampada de Sol · 12 de junio de 2011"
+     },
+     "at": "no nos vamos"
+    }
+   ],
+   "gen": "aMRS8t4ohDYCNfN8C7lz",
+   "url": null
+  },
+  {
+   "k": "B",
+   "track": "drama"
+  },
+  {
+   "k": "N",
+   "text": "[serious] En noviembre de dos mil once hubo elecciones y cambió el Gobierno. Pero el paro no dejó de subir. Hasta que en la primavera de dos mil trece llegó el peor dato de la historia de España.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Mariano Rajoy 2011",
+     "src": "commons,loc,europeana",
+     "at": "cambió el Gobierno",
+     "lt": [
+      "Mariano Rajoy",
+      "Presidente del Gobierno · 2011-2018",
+      "gobierno"
+     ]
+    }
+   ],
+   "gen": "4uCwr8Vrkso58duvLe2V",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "El nuevo Gobierno aprobó en febrero de dos mil doce una reforma laboral que abarataba el despido. Y en verano, más recortes: subió el IVA hasta el veintiuno por ciento y se suprimió la paga extra de Navidad de los funcionarios. Los dos grandes partidos, uno tras otro, acabaron aplicando el ajuste que pedía Europa.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Ajustes de 2012",
+      "items": [
+       [
+        "Reforma laboral",
+        "febrero de 2012"
+       ],
+       [
+        "IVA general",
+        "del 18 % al 21 %"
+       ],
+       [
+        "Paga extra de Navidad",
+        "suprimida a los funcionarios"
+       ]
+      ]
+     },
+     "at": "una reforma laboral"
+    }
+   ],
+   "gen": "78QFrQMLsDRiZJfZNA1s",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Y la calle respondió. Huelgas generales en marzo y en noviembre de dos mil doce. Las mareas: la verde de la educación, la blanca de la sanidad. Manifestaciones cada semana frente al Congreso.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "Huelga general 2012 España",
+     "src": "commons,loc,europeana",
+     "at": "Huelgas generales"
+    },
+    {
+     "photo": "a massive street demonstration of teachers in green t-shirts",
+     "src": "commons,loc,europeana",
+     "at": "Las mareas"
+    }
+   ],
+   "gen": "Q1dvVdQxg2LA8FksrA8p",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Seis millones doscientas dos mil setecientas personas en paro. El veintisiete por ciento de la población activa. Más de uno de cada cuatro españoles que querían trabajar.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 6202700,
+      "label": "parados · primer trimestre de 2013, récord histórico"
+     },
+     "at": "Seis millones doscientas dos mil"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 27.16,
+      "dec": 2,
+      "suffix": " %",
+      "label": "tasa de paro · récord desde 1976"
+     },
+     "at": "El veintisiete por ciento"
+    }
+   ],
+   "gen": "xWVToPBbAVbUaR6UMbkn",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Entre los menores de veinticinco años, el paro llegó al cincuenta y siete por ciento. Y había casi dos millones de hogares en los que no trabajaba nadie.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Paro juvenil",
+       "lines": [
+        "57 %",
+        "menores de 25 años"
+       ]
+      },
+      "right": {
+       "title": "Hogares sin ingresos de trabajo",
+       "lines": [
+        "Casi 2 millones",
+        "todos sus miembros en paro"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Entre los menores de veinticinco"
+    }
+   ],
+   "gen": "fXDF6BmSMd7VVSpqyEmU",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Fue la generación que había oído toda su vida que estudiar y comprarse un piso era el camino seguro. Muchos hicieron las maletas y se fueron a Alemania, al Reino Unido o a Francia a buscar lo que aquí no había.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a young woman with a large suitcase walking through an airpo",
+     "src": "commons,loc,europeana",
+     "at": "hicieron las maletas"
+    }
+   ],
+   "gen": "C17O6BooaeAkqI4lG57X",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] Seis millones de parados. Un país que había presumido de jugar la Champions League se había convertido, en apenas cinco años, en el segundo con más paro de toda la Unión Europea, solo por detrás de Grecia. [short pause] Y todavía faltaba la peor parte de la historia.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "SEGUNDO EN PARO DE LA UE",
+      "sub": "solo por detrás de Grecia · 2013"
+     },
+     "at": "el segundo con más paro"
+    }
+   ],
+   "gen": "rr7RaDFX04ZMu8i8IZLI",
+   "url": null
+  },
+  {
+   "k": "B",
+   "track": "fondo"
+  },
+  {
+   "k": "N",
+   "text": "[short pause] Antes de seguir, recapitulemos. Hasta aquí, cuatro claves.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "title": "Hasta aquí",
+      "items": [
+       [
+        "Dinero barato y suelo abierto",
+        "el euro y la ley de 1998"
+       ],
+       [
+        "Más de 800.000 casas al año",
+        "muchas sin comprador real"
+       ],
+       [
+        "Lehman cae en 2008",
+        "y el crédito se corta"
+       ],
+       [
+        "6,2 millones de parados",
+        "el peor dato de la historia"
+       ]
+      ]
+     },
+     "at": "recapitulemos"
+    }
+   ],
+   "gen": "lL6oT29dcn4IYr8Xdl2B",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y ahora viene lo que más dolió. Porque perder el trabajo es terrible. Pero perder el trabajo con una hipoteca a treinta años firmada en lo más alto de la burbuja era otra cosa. [pause] Era perder la casa. Y seguir debiéndola.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a set of house keys left on an empty kitchen counter of a va",
+     "src": "commons,loc,europeana",
+     "at": "Era perder la casa"
+    }
+   ],
+   "gen": "IeRzt8Il2bsJDxlO5Ure",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Por cierto, si te está gustando, en DocuVox preparamos la siguiente historia: Bankia, el banco que salió a bolsa y pidió el rescate diez meses después. Suscríbete para no perdértela.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Torre Bankia Madrid",
+     "src": "commons,loc,europeana",
+     "at": "Bankia, el banco"
+    }
+   ],
+   "gen": "8FhFnI6wwZWiRVD4xUkX",
+   "url": null
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Las casas vacías",
+    "sub": "2009 · 2014",
+    "num": "V"
+   }
+  },
+  {
+   "k": "B",
+   "track": "drama"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Una mañana cualquiera de dos mil doce, en un bloque de cualquier barrio obrero. Llega la comisión judicial. Llega la policía. Y delante del portal esperan decenas de vecinos con camisetas verdes, dispuestos a impedir que una familia se quede en la calle.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "dozens of neighbours wearing green t-shirts standing arm in ",
+     "src": "commons,loc,europeana",
+     "at": "esperan decenas de vecinos"
+    },
+    {
+     "photo": "Stop Desahucios PAH",
+     "src": "commons,loc,europeana",
+     "at": "camisetas verdes",
+     "lt": [
+      "Plataforma de Afectados por la Hipoteca",
+      "Stop Desahucios",
+      "ciudadanos"
+     ]
+    }
+   ],
+   "gen": "gpGTDr5xPdfai2xsl2gx",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Eran de la Plataforma de Afectados por la Hipoteca, la PAH, nacida en Barcelona en dos mil nueve. Su campaña Stop Desahucios convirtió en noticia diaria algo que hasta entonces pasaba en silencio.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Plataforma de Afectados por la Hipoteca manifestación",
+     "src": "commons,loc,europeana",
+     "at": "nacida en Barcelona"
+    }
+   ],
+   "gen": "GIEBzNF9aPsGepI1zAd8",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Las imágenes de aquellos desahucios se convirtieron en parte del paisaje: cerrajeros cambiando cerraduras, muebles en la acera, vecinos sentados en el portal. Muchas veces el desahucio se aplazaba en el último minuto. Muchas otras, no.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "household furniture, a mattress and cardboard boxes piled on",
+     "src": "commons,loc,europeana",
+     "at": "muebles en la acera"
+    }
+   ],
+   "gen": "02CEp4v6SeFGwkwH3PxP",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Las cifras del Consejo General del Poder Judicial dan la dimensión. En dos mil ocho se iniciaron cincuenta y ocho mil ejecuciones hipotecarias. En dos mil nueve, más de noventa y tres mil. Entre dos mil ocho y dos mil catorce, según los cálculos de Amnistía Internacional, más de medio millón.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Ejecuciones hipotecarias iniciadas",
+      "events": [
+       [
+        "2008",
+        "58.686"
+       ],
+       [
+        "2009",
+        "93.319"
+       ],
+       [
+        "2008-2014",
+        "más de medio millón"
+       ]
+      ]
+     },
+     "at": "Las cifras del Consejo General"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 578000,
+      "label": "ejecuciones hipotecarias iniciadas · 2008-2014 (estimación de Amnistía Internacional)"
+     },
+     "at": "más de medio millón"
+    }
+   ],
+   "gen": "0N0ZOpYImQSgJoaUgxj3",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Un dato para comparar con hoy. En aquellos años, la mayoría de los desahucios eran por no poder pagar la hipoteca. Desde dos mil quince, más de la mitad son por no poder pagar el alquiler.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Años de la crisis",
+       "lines": [
+        "La mayoría de desahucios",
+        "por hipoteca"
+       ]
+      },
+      "right": {
+       "title": "Desde 2015",
+       "lines": [
+        "Más de la mitad",
+        "por impago del alquiler"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Un dato para comparar con hoy"
+    }
+   ],
+   "gen": "ke2c4miDhWikINVBYPZa",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y había un detalle de la ley española que muchos desconocían cuando firmaron. Si el banco se quedaba con tu casa y la subastaba por menos de lo que debías, la diferencia la seguías debiendo tú. Te quedabas sin casa. Y con la deuda.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que muchos creían",
+       "lines": [
+        "Si no pago, entrego la casa",
+        "y la deuda se acaba"
+       ]
+      },
+      "right": {
+       "title": "Lo que decía la ley",
+       "lines": [
+        "El banco subasta la casa",
+        "lo que falte, lo sigues debiendo"
+       ]
+      },
+      "strike": true
+     },
+     "at": "un detalle de la ley española"
+    },
+    {
+     "photo": "a nearly empty courtroom auction with a clerk at a desk and ",
+     "src": "commons,loc,europeana",
+     "at": "la subastaba por menos"
+    }
+   ],
+   "gen": "xEuNih1b2II9MKVZbinj",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Lo dice el artículo mil novecientos once del Código Civil, vigente desde el siglo diecinueve: del cumplimiento de las obligaciones responde el deudor con todos sus bienes, presentes y futuros.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Código Civil · artículo 1911",
+      "lines": [
+       "Del cumplimiento de las obligaciones responde el deudor",
+       "con todos sus bienes, presentes y futuros"
+      ],
+      "source": "Código Civil español · 1889"
+     },
+     "at": "artículo mil novecientos once"
+    }
+   ],
+   "gen": "D8dYFO0LGjeZoy1JvC9c",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "En dos mil trece, una iniciativa legislativa popular para cambiar esa ley, la de la dación en pago, llegó al Congreso con casi un millón y medio de firmas. Ese mismo año, el Tribunal de Justicia de la Unión Europea dio la razón a un vecino de Martorell, en Barcelona, frente a las cláusulas de su hipoteca. La ley tuvo que cambiar.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "dozens of cardboard boxes full of signed petition sheets sta",
+     "src": "commons,loc,europeana",
+     "at": "casi un millón y medio de firmas"
+    },
+    {
+     "photo": "Tribunal de Justicia de la Unión Europea Luxemburgo",
+     "src": "commons,loc,europeana",
+     "at": "el Tribunal de Justicia de la Unión Europea"
+    }
+   ],
+   "gen": "SUMop43UjQNWFMFmy4Z9",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y a los desahucios se sumaron otros escándalos. Las cláusulas suelo, que impedían que la cuota de la hipoteca bajara aunque bajara el euríbor, fueron anuladas por el Tribunal Supremo en mayo de dos mil trece si no se habían explicado con claridad. Y las participaciones preferentes: productos complejos que las cajas vendieron como si fueran depósitos a cientos de miles de ahorradores, muchos de ellos jubilados.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Tribunal Supremo Madrid",
+     "src": "commons,loc,europeana",
+     "at": "el Tribunal Supremo"
+    },
+    {
+     "photo": "a group of elderly people with umbrellas protesting peaceful",
+     "src": "commons,loc,europeana",
+     "at": "muchos de ellos jubilados"
+    }
+   ],
+   "gen": "kXIGhzUJn9gbStFiIcVi",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Las cláusulas suelo estaban en una parte enorme de las hipotecas firmadas durante la burbuja. Años después, el Tribunal de Justicia de la Unión Europea obligó en dos mil dieciséis a devolver todo lo cobrado de más desde el principio.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "CLÁUSULA SUELO",
+      "sub": "anulada si no se explicó con claridad · Supremo, 2013 · TJUE, 2016"
+     },
+     "at": "Las cláusulas suelo estaban"
+    }
+   ],
+   "gen": "GoYSecGlmyUHXF3KdLr8",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] Mientras miles de familias perdían su casa, el país estaba lleno de casas vacías. El censo de dos mil once contó más de tres millones cuatrocientas mil viviendas sin nadie dentro.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a brand new apartment building at night with every window da",
+     "src": "commons,loc,europeana",
+     "at": "lleno de casas vacías"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 3400000,
+      "label": "viviendas vacías · Censo de 2011, más de"
+     },
+     "at": "tres millones cuatrocientas mil"
+    }
+   ],
+   "gen": "uFCWVDKcRERjo21SdWBJ",
+   "url": null
+  },
+  {
+   "k": "B",
+   "track": "ironia"
+  },
+  {
+   "k": "N",
+   "text": "Y luego estaban los monumentos de la burbuja. Castellón, veinticinco de marzo de dos mil once. Se inaugura un aeropuerto que ha costado más de ciento cincuenta millones de euros. Hay autobuses fletados, discursos y fanfarria. Lo único que no hay son aviones.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Aeropuerto de Castellón",
+     "src": "commons,loc,europeana",
+     "at": "Se inaugura un aeropuerto",
+     "lt": [
+      "Aeropuerto de Castellón",
+      "Vilanova d'Alcolea · inaugurado en 2011"
+     ]
+    },
+    {
+     "photo": "an enormous brand new airport runway completely empty under ",
+     "src": "commons,loc,europeana",
+     "at": "Lo único que no hay son aviones"
+    }
+   ],
+   "gen": "zLv8kdGb5s1Gr94qJ4I8",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Su gran impulsor, el presidente de la Diputación, Carlos Fabra, respondió así a las críticas aquel mismo día.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Carlos Fabra",
+     "src": "commons,loc,europeana",
+     "at": "Carlos Fabra",
+     "lt": [
+      "Carlos Fabra",
+      "Presidente de la Diputación de Castellón",
+      "gobierno"
+     ]
+    }
+   ],
+   "gen": "4UDk0WSsdMAJprRl7Xea",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Hay quien dice que estamos locos por inaugurar un aeropuerto sin aviones. No han entendido nada. Es un aeropuerto para las personas.",
+   "voice": "FAB",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Hay quien dice que estamos locos por inaugurar un aeropuerto sin aviones. No han entendido nada.",
+      "attrib": "Carlos Fabra · inauguración del aeropuerto de Castellón, 25 de marzo de 2011"
+     },
+     "at": "Hay quien dice"
+    }
+   ],
+   "gen": "ExWuQ5eyb5euETJfpOCL",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Aquel día invitó a los vecinos a pasear por las pistas. Junto a la entrada se levantó una escultura de veinticuatro metros en homenaje al impulsor de la obra. El primer vuelo comercial tardó cuatro años en llegar. Para entonces, Fabra ya estaba en prisión, condenado por fraude fiscal.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a 24 meter tall abstract metal sculpture of a giant figure b",
+     "src": "commons,loc,europeana",
+     "at": "una escultura de veinticuatro metros"
+    },
+    {
+     "photo": "a single passenger airplane landing at a lonely modern airpo",
+     "src": "commons,loc,europeana",
+     "at": "El primer vuelo comercial"
+    }
+   ],
+   "gen": "JyFQFXwdrQ8G28WG0k0z",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "No fue el único. El aeropuerto de Ciudad Real costó más de mil millones de euros, abrió en plena crisis y cerró en dos mil doce casi sin haber tenido pasajeros.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Aeropuerto de Ciudad Real",
+     "src": "commons,loc,europeana",
+     "at": "El aeropuerto de Ciudad Real",
+     "lt": [
+      "Aeropuerto de Ciudad Real",
+      "Castilla-La Mancha"
+     ]
+    }
+   ],
+   "gen": "56HyhIgWJcdBecXfBwgA",
+   "url": null
+  },
+  {
+   "k": "B",
+   "track": "drama"
+  },
+  {
+   "k": "N",
+   "text": "Y en Seseña, la ciudad de El Pocero se quedó a medias. De los trece mil quinientos pisos proyectados se terminaron unos cinco mil seiscientos. En aquellos años vivían allí poco más de dos mil personas. Bloques enteros vacíos, calles sin coches, locales con la persiana bajada. La prensa extranjera empezó a llamarla la ciudad fantasma.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Seseña Residencial Francisco Hernando vacío",
+     "src": "commons,loc,europeana",
+     "at": "se quedó a medias"
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Proyectados",
+       "lines": [
+        "13.500 pisos"
+       ]
+      },
+      "right": {
+       "title": "Terminados",
+       "lines": [
+        "Unos 5.600",
+        "y unos 2.300 vecinos"
+       ]
+      },
+      "strike": false
+     },
+     "at": "se terminaron unos cinco mil seiscientos"
+    },
+    {
+     "photo": "a wide empty avenue between red brick apartment blocks with ",
+     "src": "commons,loc,europeana",
+     "at": "la ciudad fantasma"
+    }
+   ],
+   "gen": "oilNHkz1T5eIEa5RQhEv",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "El director de comunicación del grupo de Francisco Hernando lo veía de otra manera.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a press conference table with microphones from several media",
+     "src": "commons,loc,europeana",
+     "at": "lo veía de otra manera"
+    }
+   ],
+   "gen": "JP1RDiNMLkKCn5JHUAYc",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Seseña tiene un futuro espléndido, aunque ahora viva un paréntesis.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Seseña tiene un futuro espléndido, aunque ahora viva un paréntesis.",
+      "attrib": "Alfredo Urdaci, director de comunicación del grupo de Francisco Hernando · en idealista"
+     },
+     "at": "Seseña tiene un futuro"
+    }
+   ],
+   "gen": "FiYIL7E2Wj1gOE7qmwIo",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] Aquel paréntesis iba a durar más de una década. Y para que el país no se hundiera del todo, faltaba todavía la factura más grande. La que no iban a pagar los bancos. [short pause] La íbamos a pagar todos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a gigantic paper bill unrolling down the steps of a classica",
+     "src": "commons,loc,europeana",
+     "at": "la factura más grande"
+    }
+   ],
+   "gen": "dPoZoAII0QBTaCyXL6Je",
+   "url": null
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El rescate",
+    "sub": "2009 · 2012",
+    "num": "VI"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Madrid, veinte de julio de dos mil once. Palacio de la Bolsa. Rodrigo Rato, exvicepresidente del Gobierno y exdirector gerente del Fondo Monetario Internacional, toca la campana. Bankia empieza a cotizar.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Bolsa de Madrid Palacio de la Bolsa",
+     "src": "commons,loc,europeana",
+     "at": "Palacio de la Bolsa",
+     "lt": [
+      "Palacio de la Bolsa",
+      "Madrid · 20 de julio de 2011"
+     ]
+    },
+    {
+     "photo": "Rodrigo Rato",
+     "src": "commons,loc,europeana",
+     "at": "Rodrigo Rato",
+     "lt": [
+      "Rodrigo Rato",
+      "Presidente de Bankia",
+      "banca"
+     ]
+    },
+    {
+     "photo": "a hand ringing a large brass bell on a stock exchange balcon",
+     "src": "commons,loc,europeana",
+     "at": "toca la campana"
+    }
+   ],
+   "gen": "pd8DWKKgetiyEpMpzyfp",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Para entender cómo se llegó hasta ahí hay que volver a las cajas. Cuando estalló la burbuja, eran ellas las que más ladrillo tenían. Una tras otra empezaron a caer. La primera, Caja Castilla-La Mancha, intervenida por el Banco de España en marzo de dos mil nueve. Después, CajaSur. Después, la Caja de Ahorros del Mediterráneo, vendida al Banco Sabadell por un euro.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "timeline",
+      "header": "La caída de las cajas",
+      "events": [
+       [
+        "2009",
+        "Caja Castilla-La Mancha"
+       ],
+       [
+        "2010",
+        "CajaSur"
+       ],
+       [
+        "2011",
+        "CAM, vendida por un euro"
+       ],
+       [
+        "2012",
+        "Bankia"
+       ]
+      ]
+     },
+     "at": "Una tras otra empezaron a caer"
+    },
+    {
+     "photo": "Caja Castilla La Mancha",
+     "src": "commons,loc,europeana",
+     "at": "Caja Castilla-La Mancha"
+    }
+   ],
+   "gen": "5lKZBCg6ebZymndqcnGE",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "En dos mil nueve había cuarenta y cinco cajas de ahorros en España. Hoy quedan dos pequeñas cajas que siguen siéndolo. Todas las demás desaparecieron, se fusionaron o se convirtieron en bancos.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "2009",
+       "lines": [
+        "45 cajas de ahorros"
+       ]
+      },
+      "right": {
+       "title": "Hoy",
+       "lines": [
+        "2 cajas",
+        "el resto, fusionadas o convertidas en bancos"
+       ]
+      },
+      "strike": false
+     },
+     "at": "cuarenta y cinco cajas"
+    }
+   ],
+   "gen": "otizlhWhPCZFnKjJ2W7K",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "La solución que se eligió fue juntarlas. Siete cajas, con Caja Madrid y Bancaja a la cabeza, se unieron para formar un gigante: Bankia. Y para conseguir capital, el gigante salió a bolsa.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "seven heavy old vault keys being joined on a single iron rin",
+     "src": "commons,loc,europeana",
+     "at": "Siete cajas"
+    },
+    {
+     "photo": "Torre Caja Madrid Bankia",
+     "src": "commons,loc,europeana",
+     "at": "Bankia"
+    }
+   ],
+   "gen": "9TfXSHyJGFM63q2b3ej2",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Para ordenar aquel proceso nació en junio de dos mil nueve el FROB, el Fondo de Reestructuración Ordenada Bancaria. Su misión: dar dinero público a las cajas que se fusionaran y tomar el control de las que no pudieran sobrevivir.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Real Decreto-ley 9/2009 · creación del FROB",
+      "lines": [
+       "Fondo de Reestructuración Ordenada Bancaria",
+       "ayudas a las entidades que se integren"
+      ],
+      "source": "Boletín Oficial del Estado · 27 de junio de 2009"
+     },
+     "at": "el FROB"
+    }
+   ],
+   "gen": "VzYR7WpuZILNJ2qArjEF",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Muchas fusiones se hicieron entre cajas de la misma comunidad, con sus mismos consejos y sus mismos problemas. Los analistas las llamaron fusiones frías. Juntar dos enfermos, decían algunos, no da un sano.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "two old bank headquarters buildings in a Spanish city connec",
+     "src": "commons,loc,europeana",
+     "at": "fusiones frías"
+    }
+   ],
+   "gen": "qCaLwfKsIicVEfutO26Y",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "La salida a Bolsa de Bankia es una decisión estratégica para hacer más fuerte la entidad y consolidar su papel de liderazgo.",
+   "voice": "RAT",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "La salida a Bolsa de Bankia es una decisión estratégica para hacer más fuerte la entidad.",
+      "attrib": "Rodrigo Rato · 20 de julio de 2011"
+     },
+     "at": "La salida a Bolsa"
+    }
+   ],
+   "gen": "yksir8C2kwiCPcm5GLen",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Más de trescientos cuarenta mil pequeños ahorradores compraron acciones a tres euros con setenta y cinco céntimos. Muchos eran clientes de toda la vida de su caja, que la habían visto anunciar en las sucursales.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 347000,
+      "label": "pequeños accionistas en la salida a bolsa de Bankia"
+     },
+     "at": "Más de trescientos cuarenta mil"
+    },
+    {
+     "photo": "elderly customers queuing inside a bank branch office in Spa",
+     "src": "commons,loc,europeana",
+     "at": "clientes de toda la vida"
+    }
+   ],
+   "gen": "bLpyxWPRlPiDc8KRznIK",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] Diez meses después, todo saltó por los aires. Siete de mayo de dos mil doce: Rato dimite. Dos días después, el Estado se queda con el banco. Y el veinticinco de mayo, Bankia pide diecinueve mil millones de euros más. Ese mismo día se suspende su cotización.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Bankia · diez meses",
+      "events": [
+       [
+        "20 jul 2011",
+        "sale a bolsa a 3,75 €"
+       ],
+       [
+        "7 may 2012",
+        "dimite Rato"
+       ],
+       [
+        "9 may 2012",
+        "el Estado toma el control"
+       ],
+       [
+        "25 may 2012",
+        "pide 19.000 millones"
+       ]
+      ]
+     },
+     "at": "Diez meses después"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 19000,
+      "label": "millones de euros pedidos por Bankia · 25 de mayo de 2012"
+     },
+     "at": "diecinueve mil millones"
+    }
+   ],
+   "gen": "0Alom30yuaUYEJ5yvbtS",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Bankia había salido a bolsa valorada en unos seis mil setecientos millones de euros. Cuando se suspendió su cotización, sus acciones ya habían perdido más de un tercio de su valor. Y lo peor estaba por llegar: en dos mil doce, ya nacionalizada, declaró pérdidas de más de diecinueve mil millones. Las mayores de la historia de una empresa española.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 19000,
+      "label": "millones de euros de pérdidas de Bankia en 2012 · más de"
+     },
+     "at": "declaró pérdidas"
+    }
+   ],
+   "gen": "Sn1CBFQs6U67J6NiNZpj",
+   "url": null
+  },
+  {
+   "k": "B",
+   "track": "accion"
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Y entonces España entró en pánico. Los inversores huyen de la deuda española. La prima de riesgo, lo que España paga de más por pedir prestado respecto a Alemania, se dispara. Y en Bruselas, Berlín y Washington empiezan a hablar en voz alta de algo que parecía impensable: el rescate de España.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a crowded government crisis room at night with officials aro",
+     "src": "commons,loc,europeana",
+     "at": "España entró en pánico"
+    },
+    {
+     "photo": "European Commission Berlaymont Brussels",
+     "src": "commons,loc,europeana",
+     "at": "Bruselas"
+    }
+   ],
+   "gen": "cFM79rGBUcGwWk9uyNsq",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Sábado nueve de junio de dos mil doce. Tras una videoconferencia con sus socios del euro, el ministro de Economía, Luis de Guindos, anuncia que España pedirá ayuda europea para sus bancos. Hasta cien mil millones de euros. Y lo explica así.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Luis de Guindos 2012",
+     "src": "commons,loc,europeana",
+     "at": "Luis de Guindos",
+     "lt": [
+      "Luis de Guindos",
+      "Ministro de Economía",
+      "gobierno"
+     ]
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 100000,
+      "label": "millones de euros · línea de ayuda europea para la banca"
+     },
+     "at": "Hasta cien mil millones"
+    }
+   ],
+   "gen": "ByAiJOPcw1GNo962mVCP",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "No tiene que ver con un rescate en absoluto. No hay el más mínimo rescate.",
+   "voice": "GUI",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "No tiene que ver con un rescate en absoluto. No hay el más mínimo rescate.",
+      "attrib": "Luis de Guindos · 9 de junio de 2012"
+     },
+     "at": "No tiene que ver"
+    }
+   ],
+   "gen": "tgIFuI0rkM6XsmRVMjw2",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Es un préstamo en condiciones extremadamente favorables.",
+   "voice": "GUI",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Es un préstamo en condiciones extremadamente favorables.",
+      "attrib": "Luis de Guindos · 9 de junio de 2012"
+     },
+     "at": "Es un préstamo"
+    }
+   ],
+   "gen": "RrdeWh2rCnEl1EFQ9Cnq",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Un detalle que hoy parece de guion: antes de ser ministro, Luis de Guindos había dirigido en España y Portugal el banco cuya caída lo empezó todo. Lehman Brothers.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Lehman Brothers logo building",
+     "src": "commons,loc,europeana",
+     "at": "Lehman Brothers"
+    }
+   ],
+   "gen": "noBaXDxwKTS2d36u1tL6",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Al día siguiente, el presidente Mariano Rajoy compareció en la Moncloa antes de viajar a Polonia para ver a la selección en la Eurocopa. Habló de una línea de crédito. Y defendió así lo que había hecho su Gobierno.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Palacio de la Moncloa",
+     "src": "commons,loc,europeana",
+     "at": "la Moncloa"
+    }
+   ],
+   "gen": "1WgnaDP46DAWCOsBKvDu",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Si no hubiésemos hecho los deberes, nos habrían intervenido.",
+   "voice": "RAJ",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Si no hubiésemos hecho los deberes, nos habrían intervenido.",
+      "attrib": "Mariano Rajoy · 10 de junio de 2012"
+     },
+     "at": "Si no hubiésemos"
+    }
+   ],
+   "gen": "V9FhVsPpHIGS1eb5piHD",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "La prensa internacional no tuvo dudas. Para casi todos los periódicos del mundo, aquel préstamo tenía un nombre: el rescate de la banca española.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "a newspaper kiosk in a European street with dozens of front ",
+     "src": "commons,loc,europeana",
+     "at": "La prensa internacional"
+    }
+   ],
+   "gen": "vufaBxlKG6DouIurKHCZ",
+   "url": null
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "R",
+   "text": "Veinticuatro de julio de dos mil doce. La prima de riesgo española llega a seiscientos treinta y ocho puntos básicos. El bono a diez años supera el siete por ciento. Es el nivel al que Grecia, Irlanda y Portugal habían tenido que pedir el rescate completo.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 638,
+      "label": "puntos básicos de prima de riesgo · 24 de julio de 2012"
+     },
+     "at": "seiscientos treinta y ocho"
+    }
+   ],
+   "gen": "qn2kmxsQZek0C6XMOVF4",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y entonces, dos días después, en Londres, un italiano pronunció una frase que lo cambió todo. Mario Draghi, presidente del Banco Central Europeo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Mario Draghi 2012",
+     "src": "commons,loc,europeana",
+     "at": "Mario Draghi",
+     "lt": [
+      "Mario Draghi",
+      "Presidente del Banco Central Europeo"
+     ]
+    }
+   ],
+   "gen": "LObQMZhNxgOGjz8GKF5X",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Dentro de nuestro mandato, el Banco Central Europeo está dispuesto a hacer lo que sea necesario para preservar el euro. Y créanme: será suficiente.",
+   "voice": "USA",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "El BCE está dispuesto a hacer lo que sea necesario para preservar el euro. Y créanme: será suficiente.",
+      "attrib": "Mario Draghi · Londres, 26 de julio de 2012 (traducción)"
+     },
+     "at": "Dentro de nuestro mandato"
+    }
+   ],
+   "gen": "Fhn22mXEklij6BTzT6y1",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Los mercados se lo creyeron. La prima empezó a bajar. España recibió algo más de cuarenta y un mil millones del préstamo europeo, se creó un banco malo, la Sareb, para quedarse con los pisos y los créditos tóxicos de las cajas, y el sistema no se hundió.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a vast warehouse wall covered with thousands of hanging apar",
+     "src": "commons,loc,europeana",
+     "at": "un banco malo"
+    },
+    {
+     "photo": "Sareb",
+     "src": "commons,loc,europeana",
+     "at": "la Sareb"
+    }
+   ],
+   "gen": "yxuHkOlJ2sUlRkxfospt",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "La Sareb recibió casi doscientos mil inmuebles y préstamos de las entidades rescatadas, pagados a unos cincuenta mil millones de euros. Pisos sin terminar, solares, urbanizaciones a medias. Buena parte de los restos de la burbuja acabaron en un solo cajón.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 200000,
+      "label": "activos traspasados a la Sareb · casi"
+     },
+     "at": "casi doscientos mil inmuebles"
+    }
+   ],
+   "gen": "eGC1zP2HO4IDtkDtXoHd",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Pero tuvo un precio. Según el Banco de España, entre dos mil nueve y dos mil dieciocho se inyectaron más de sesenta y cuatro mil millones de euros públicos en la banca. De ellos, solo se esperaban recuperar unos catorce mil ochocientos. Más de cincuenta mil millones no volverán.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Inyectado en la banca",
+       "lines": [
+        "64.098 millones de euros",
+        "2009-2018"
+       ]
+      },
+      "right": {
+       "title": "Recuperable",
+       "lines": [
+        "Unos 14.785 millones",
+        "más de 50.000 millones, perdidos"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Según el Banco de España"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 50000,
+      "label": "millones de euros de dinero público que no se recuperarán · más de"
+     },
+     "at": "Más de cincuenta mil millones"
+    }
+   ],
+   "gen": "Q4jub6qNxyAOl2jSkh4C",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "El préstamo europeo llegó con un documento de condiciones, el memorando de entendimiento firmado en julio de dos mil doce. Obligaba a los bancos rescatados a reducir su tamaño, a cerrar oficinas y a traspasar sus activos inmobiliarios al banco malo. Y obligaba a quienes tenían preferentes y deuda de esos bancos a asumir pérdidas.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Memorando de entendimiento · julio de 2012",
+      "lines": [
+       "Recapitalizar y reestructurar las entidades débiles",
+       "Traspasar los activos inmobiliarios a una sociedad de gestión",
+       "Reparto de pérdidas con preferentistas"
+      ],
+      "source": "Eurogrupo y Gobierno de España · 20 de julio de 2012"
+     },
+     "at": "el memorando de entendimiento"
+    }
+   ],
+   "gen": "NKfWG8MiRksHMqVVX3pm",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Desde entonces, España ha cerrado más de la mitad de sus oficinas bancarias. Había más de cuarenta y cinco mil en dos mil ocho. Hoy son menos de dieciocho mil.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Oficinas bancarias · 2008",
+       "lines": [
+        "Más de 45.000"
+       ]
+      },
+      "right": {
+       "title": "Hoy",
+       "lines": [
+        "Menos de 18.000",
+        "pueblos enteros sin banco"
+       ]
+      },
+      "strike": false
+     },
+     "at": "más de la mitad de sus oficinas"
+    }
+   ],
+   "gen": "kGDEHM86QXMB8TBEnh7g",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[short pause] ¿Y los responsables? Rato acabó en prisión, pero no por la salida a bolsa de Bankia, de la que fue absuelto junto a toda la cúpula: por las tarjetas opacas de Caja Madrid. Y cinco años después del rescate, en dos mil diecisiete, otro banco, el Popular, se hundió en una noche y fue vendido al Santander por un euro.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a heavy prison corridor door closing, seen from inside, a ma",
+     "src": "commons,loc,europeana",
+     "at": "Rato acabó en prisión"
+    },
+    {
+     "photo": "Banco Popular sede Madrid",
+     "src": "commons,loc,europeana",
+     "at": "el Popular"
+    }
+   ],
+   "gen": "AZsQ6xlwpayyjJzGLWiN",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y el propio Banco de España acabó haciendo examen de conciencia. En dos mil diecisiete publicó un largo informe sobre la crisis. Al presentarlo, su gobernador, Luis María Linde, reconoció lo que diez años antes casi nadie quería decir en voz alta.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Luis María Linde",
+     "src": "commons,loc,europeana",
+     "at": "Luis María Linde",
+     "lt": [
+      "Luis María Linde",
+      "Gobernador del Banco de España · 2012-2018",
+      "gobierno"
+     ]
+    }
+   ],
+   "gen": "fxXYa1M5H7HsOIzok7xm",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Este proceso se ajustó a una dinámica consistente con lo que puede considerarse una burbuja especulativa en el sector inmobiliario.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Una dinámica consistente con lo que puede considerarse una burbuja especulativa.",
+      "attrib": "Luis María Linde, gobernador del Banco de España · presentación del Informe sobre la crisis, 2017"
+     },
+     "at": "Este proceso se ajustó"
+    }
+   ],
+   "gen": "fytN6b3OD6GTMuwQyn07",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] España salió de aquello. La economía volvió a crecer a partir de dos mil catorce. El paro empezó a bajar. Los precios de los pisos tocaron fondo ese mismo año, un treinta por ciento por debajo del máximo. Y durante unos años pareció que la lección estaba aprendida. [dramatically] Hasta que los precios volvieron a subir.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Precio de la vivienda libre",
+      "events": [
+       [
+        "2007",
+        "2.085 €/m²"
+       ],
+       [
+        "2014",
+        "1.463 €/m² · el fondo"
+       ],
+       [
+        "2019",
+        "recuperación"
+       ],
+       [
+        "2025",
+        "2.230 €/m² · récord"
+       ]
+      ]
+     },
+     "at": "Los precios de los pisos tocaron fondo"
+    }
+   ],
+   "gen": "i2r9PgHQV16pNCX638Gh",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y llegó una década de dinero casi gratis. Entre dos mil dieciséis y dos mil veintiuno, el euríbor pasó meses enteros por debajo de cero. Nunca había sido tan barato pedir una hipoteca. [short pause] Y la historia empezó a rimar.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "EURÍBOR NEGATIVO",
+      "sub": "2016 · 2021"
+     },
+     "at": "por debajo de cero"
+    }
+   ],
+   "gen": "PYXzTlDmVEphTLx3QcHm",
+   "url": null
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "La vivienda hoy",
+    "sub": "¿Se está repitiendo?",
+    "num": "VII"
+   }
+  },
+  {
+   "k": "B",
+   "track": "fondo"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Seseña, hoy. Las mismas calles que la prensa extranjera fotografiaba vacías están hoy llenas de coches aparcados. Hay colegios, supermercados, parques infantiles. Cerca de cuatro mil pisos habitados.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "El Quiñón Seseña 2024",
+     "src": "commons,loc,europeana",
+     "at": "Las mismas calles",
+     "lt": [
+      "El Quiñón, Seseña",
+      "Hoy"
+     ]
+    },
+    {
+     "photo": "the same red brick apartment blocks now with children playin",
+     "src": "commons,loc,europeana",
+     "at": "llenas de coches aparcados"
+    }
+   ],
+   "gen": "mkruiLfc2E5P2G3TKqHx",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "¿Quién vive allí? En buena parte, familias jóvenes que no pueden pagar un piso en Madrid. La ciudad fantasma de la burbuja ha revivido gracias a lo contrario de una burbuja: a que faltan casas.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a young couple carrying moving boxes into an apartment build",
+     "src": "commons,loc,europeana",
+     "at": "familias jóvenes"
+    }
+   ],
+   "gen": "l7chLmTxxfbTTTcumMEa",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Y en dos mil veintidós, la prensa contaba que en el mismo municipio se planeaban casi catorce mil viviendas nuevas. Más que las que soñó El Pocero.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Seseña · 2022",
+      "lines": [
+       "Se planean 13.825 viviendas nuevas",
+       "«dejan pequeño el sueño de El Pocero»"
+      ],
+      "source": "El Periódico de España · 16 de enero de 2022"
+     },
+     "at": "casi catorce mil viviendas nuevas"
+    }
+   ],
+   "gen": "JPXQIoIBk8RUbcR5gHKC",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Y el aeropuerto sin aviones de Castellón tampoco es ya lo que era. Hoy tiene vuelos regulares, un negocio de mantenimiento de aviones y ha batido récords de pasajeros. Los monumentos de la burbuja, uno a uno, han encontrado uso. [short pause] Porque el país que tenía casas de más se ha quedado corto.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Castellón Costa Azahar Airport aircraft",
+     "src": "commons,loc,europeana",
+     "at": "Hoy tiene vuelos regulares"
+    }
+   ],
+   "gen": "QTmsKOdOH4E847hVR9En",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] Y aquí está la pregunta que nos trajo hasta aquí. Si el piso vuelve a costar más que nunca, ¿estamos otra vez en dos mil siete? Vamos a compararlo dato a dato.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "¿2007 OTRA VEZ?",
+      "sub": "dato a dato"
+     },
+     "at": "estamos otra vez en dos mil siete"
+    }
+   ],
+   "gen": "XIMLCTOenAaLd5p51jN5",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Primero, el precio. A finales de dos mil veinticinco, el metro cuadrado de vivienda libre marcó dos mil doscientos treinta euros, un siete por ciento por encima del máximo de dos mil siete. Pero eso es en euros de cada año. Si se descuenta lo que han subido los precios de todo lo demás desde entonces, la vivienda sigue en torno a un veinticinco por ciento por debajo de aquel máximo.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Precio nominal",
+       "lines": [
+        "2007: 2.085 €/m²",
+        "2025: 2.230 €/m²"
+       ]
+      },
+      "right": {
+       "title": "Descontada la inflación",
+       "lines": [
+        "Hoy, en torno a un 25 %",
+        "por debajo de 2007"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Primero, el precio"
+    }
+   ],
+   "gen": "yknjQvvxBHD29wiaeYFo",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Segundo, lo que cuesta en sueldos. En dos mil siete, comprar un piso exigía de media nueve años y medio de la renta bruta de un hogar. A finales de dos mil veinticinco, casi ocho. El esfuerzo más alto desde dos mil once.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "2007",
+       "lines": [
+        "9,5 años de renta",
+        "máximo histórico"
+       ]
+      },
+      "right": {
+       "title": "2025",
+       "lines": [
+        "7,98 años de renta",
+        "el más alto desde 2011"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Segundo, lo que cuesta en sueldos"
+    }
+   ],
+   "gen": "WbMvmLsC3EmHkvuZhVdD",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Tercero, y aquí está la gran diferencia: el crédito. En dos mil siete, lo que los bancos habían prestado a las familias para comprar casa equivalía al sesenta y dos por ciento de la economía española. Y lo prestado a promotores y constructoras, a otro cuarenta y dos. Hoy esas cifras son el treinta y uno y menos del seis por ciento.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Crédito en 2007",
+       "lines": [
+        "Hipotecas: 62 % del PIB",
+        "Promotores: 42 % del PIB"
+       ]
+      },
+      "right": {
+       "title": "Crédito en 2025",
+       "lines": [
+        "Hipotecas: 31 % del PIB",
+        "Promotores: menos del 6 %"
+       ]
+      },
+      "strike": false
+     },
+     "at": "el crédito"
+    }
+   ],
+   "gen": "xsVhMqL1Y0EU07Ue7ZAZ",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "El Banco de España lo resume en su último informe de estabilidad financiera: los criterios para conceder hipotecas se han relajado un poco, pero siguen muy lejos de sus máximos, y los riesgos inmobiliarios para la estabilidad financiera permanecen contenidos.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "photo": "Banco de España Cibeles",
+     "src": "commons,loc,europeana",
+     "at": "El Banco de España lo resume"
+    },
+    {
+     "card": {
+      "type": "doc",
+      "title": "Informe de Estabilidad Financiera · primavera de 2026",
+      "lines": [
+       "Los criterios de concesión se mantienen",
+       "«muy por debajo de sus máximos históricos»",
+       "Los riesgos inmobiliarios «permanecen contenidos»"
+      ],
+      "source": "Banco de España · mayo de 2026"
+     },
+     "at": "su último informe"
+    }
+   ],
+   "gen": "9Df6bHXRdGvIMUE8jtFi",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Cuarto, las casas que se construyen. En dos mil seis se empezaron más de ochocientas mil viviendas. En dos mil veinticinco se terminaron unas noventa y dos mil. Ese mismo año se crearon en España unos doscientos cuarenta mil hogares nuevos.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "2006",
+       "lines": [
+        "Más de 800.000 viviendas",
+        "empezadas en un año"
+       ]
+      },
+      "right": {
+       "title": "2025",
+       "lines": [
+        "92.000 terminadas",
+        "para 240.000 hogares nuevos"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Cuarto, las casas que se construyen"
+    }
+   ],
+   "gen": "gx4JA3hAg8cYhGiTWEEr",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Y el tipo de casa que se compra también ha cambiado. En los años de la burbuja, seis de cada diez viviendas vendidas eran nuevas. Hoy, solo algo más de dos de cada diez. Se compra sobre todo vivienda usada, porque no hay nueva.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Años 2000",
+       "lines": [
+        "6 de cada 10 ventas",
+        "vivienda nueva"
+       ]
+      },
+      "right": {
+       "title": "Hoy",
+       "lines": [
+        "Algo más de 2 de cada 10",
+        "vivienda nueva"
+       ]
+      },
+      "strike": false
+     },
+     "at": "el tipo de casa que se compra"
+    }
+   ],
+   "gen": "HDtUxRbI2sSFoT60z28T",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] En dos mil siete sobraban casas. Hoy faltan. El Banco de España calcula que solo entre dos mil veintiuno y dos mil veinticinco se ha acumulado un déficit de unas setecientas cincuenta mil viviendas. Concentrado en Madrid, Barcelona, Valencia, Alicante, Málaga y la costa.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 750000,
+      "label": "viviendas que faltan · déficit 2021-2025 según el Banco de España"
+     },
+     "at": "setecientas cincuenta mil"
+    },
+    {
+     "card": {
+      "type": "map",
+      "title": "Donde faltan casas · 2025",
+      "bbox": [
+       -9.5,
+       36.0,
+       3.5,
+       43.8
+      ],
+      "points": [
+       {
+        "name": "Madrid",
+        "lon": -3.7,
+        "lat": 40.42,
+        "big": 1
+       },
+       {
+        "name": "Barcelona",
+        "lon": 2.17,
+        "lat": 41.39,
+        "big": 1
+       },
+       {
+        "name": "Valencia",
+        "lon": -0.38,
+        "lat": 39.47
+       },
+       {
+        "name": "Alicante",
+        "lon": -0.48,
+        "lat": 38.35
+       },
+       {
+        "name": "Málaga",
+        "lon": -4.42,
+        "lat": 36.72
+       },
+       {
+        "name": "Murcia",
+        "lon": -1.13,
+        "lat": 37.99
+       }
+      ]
+     },
+     "at": "Concentrado en Madrid"
+    }
+   ],
+   "gen": "XLV05YAMf7BCRMaazkpf",
+   "url": null
+  },
+  {
+   "k": "R",
+   "text": "Y quinto, las hipotecas. En dos mil ocho, casi todas eran variables y el euríbor estaba por encima del cinco por ciento. Hoy seis de cada diez se firman a tipo fijo. El euríbor está en torno al tres coma tres por ciento, y noviembre de dos mil veintiséis va camino de ser su mes más caro del año.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "2008",
+       "lines": [
+        "97 % hipotecas variables",
+        "euríbor por encima del 5 %"
+       ]
+      },
+      "right": {
+       "title": "2026",
+       "lines": [
+        "6 de cada 10 a tipo fijo",
+        "euríbor ≈ 3,3 % y subiendo"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Y quinto, las hipotecas"
+    }
+   ],
+   "gen": "IPllv286SK0ddexeRcHv",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "Para entenderlo en euros: una hipoteca variable media, de ciento sesenta y siete mil euros a veinticinco años, que se revise en diciembre de dos mil veintiséis, pagará unos ochenta y siete euros más al mes que hace un año. Molesto, pero muy lejos de los golpes de dos mil ocho. El problema hoy no es la cuota de los que ya tienen hipoteca. Es la entrada que no pueden reunir los que quieren tenerla.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 87,
+      "prefix": "+",
+      "suffix": " €",
+      "label": "al mes · hipoteca variable media que se revisa en diciembre de 2026"
+     },
+     "at": "ochenta y siete euros más al mes"
+    }
+   ],
+   "gen": "0fgl0ijqd5sJdyR13UDO",
+   "url": null
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Entonces, ¿todo tranquilo? No del todo. Porque hay señales que recuerdan demasiado a aquellos años.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "dark storm clouds gathering over a modern Spanish city skyli",
+     "src": "commons,loc,europeana",
+     "at": "señales que recuerdan"
+    }
+   ],
+   "gen": "MFP5V7uk4llRNi2cB7Fl",
+   "url": null
+  },
+  {
+   "k": "N",
+   "text": "[pause] Y hay una lección de dos mil siete que conviene no olvidar: casi nadie vio venir el final de la subida. Ni los compradores, ni los bancos, ni los gobiernos. Las burbujas solo se ven con claridad cuando ya han estallado.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a giant soap bubble reflecting a city of cranes and apartmen",
+     "src": "commons,loc,europeana",
+     "at": "Las burbujas solo se ven"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Un estudio de la Fundación de las Cajas de Ahorros, Funcas, publicado en dos mil veintiséis, lo resume con una comparación: por número de compraventas y por precio real, el mercado se parece al de dos mil tres o dos mil cuatro, en plena subida. Pero por crédito y por riesgo de los bancos, se parece más al de mil novecientos noventa y nueve. Un ciclo de precios avanzado, con un sistema financiero mucho más sano.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Por precio y ventas",
+       "lines": [
+        "Como en 2003-2004",
+        "en plena subida"
+       ]
+      },
+      "right": {
+       "title": "Por crédito y riesgo",
+       "lines": [
+        "Como en 1999-2002",
+        "bancos mucho más sanos"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Un estudio de la Fundación"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Las compraventas superaron las setecientas mil en doce meses, el nivel más alto desde dos mil siete. Los pisos subieron en dos mil veinticinco por encima del siete por ciento. Y en dos mil veintiséis, con la inflación de nuevo en torno al cuatro por ciento, el Banco Central Europeo prepara nuevas subidas de tipos.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Las señales de alarma",
+      "items": [
+       [
+        "Más de 700.000 compraventas",
+        "en 12 meses · máximo desde 2007"
+       ],
+       [
+        "Precios +7 % en 2025",
+        "por encima de los sueldos"
+       ],
+       [
+        "Inflación en torno al 4 % en 2026",
+        "y el BCE preparando subidas"
+       ]
+      ]
+     },
+     "at": "Las compraventas superaron"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Y un dato pequeño pero significativo: en dos mil veinticinco, las ejecuciones hipotecarias iniciadas volvieron a subir, un doce por ciento, después de tres años bajando.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 12.4,
+      "dec": 1,
+      "suffix": " %",
+      "label": "subida de las ejecuciones hipotecarias iniciadas en 2025 · INE"
+     },
+     "at": "volvieron a subir"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Pero el mayor cambio no está en las hipotecas. Está en el alquiler. Quien hoy no puede comprar, alquila. Y alquilar se come en muchas ciudades más de un tercio del sueldo. El gobernador del Banco de España, José Luis Escrivá, llegó a describir la situación de la vivienda como una emergencia nacional.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "four young adults in their late twenties sharing a small ren",
+     "src": "commons,loc,europeana",
+     "at": "alquilar se come"
+    },
+    {
+     "photo": "José Luis Escrivá",
+     "src": "commons,loc,europeana",
+     "at": "José Luis Escrivá",
+     "lt": [
+      "José Luis Escrivá",
+      "Gobernador del Banco de España"
+     ]
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "EMERGENCIA NACIONAL",
+      "sub": "José Luis Escrivá, gobernador del Banco de España"
+     },
+     "at": "una emergencia nacional"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Los datos lo confirman. El porcentaje de hogares con casa en propiedad ha bajado al setenta por ciento. Los alquileres llevan más de una década creciendo más deprisa que los sueldos. Y los jóvenes españoles se emancipan, de media, después de los treinta años. De los más tarde de Europa.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "La crisis de hoy",
+      "items": [
+       [
+        "70 % de hogares en propiedad",
+        "y bajando"
+       ],
+       [
+        "Alquileres",
+        "creciendo más que los sueldos"
+       ],
+       [
+        "Emancipación",
+        "después de los 30 años de media"
+       ]
+      ]
+     },
+     "at": "Los datos lo confirman"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[softly] Y la vivienda ha vuelto a la calle. En mayo de dos mil veintiséis, miles de personas se manifestaron en Madrid contra el precio de la vivienda. Quince años después del Quince M, muchos de los que entonces acampaban en Sol vuelven a protestar. Ahora, por el alquiler.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "a large street protest in Madrid with thousands of young peo",
+     "src": "commons,loc,europeana",
+     "at": "la vivienda ha vuelto a la calle"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Las propuestas para salir de aquí dividen a los partidos. Unos piden liberar suelo, bajar impuestos y facilitar que se construya mucho más y más deprisa. Otros piden limitar los alquileres y levantar un gran parque de vivienda pública, como el que tienen otros países europeos. Y casi todos coinciden en el diagnóstico: faltan casas donde está el trabajo.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Una receta",
+       "lines": [
+        "Más suelo y menos trabas",
+        "construir mucho más"
+       ]
+      },
+      "right": {
+       "title": "Otra receta",
+       "lines": [
+        "Limitar alquileres",
+        "más vivienda pública"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Las propuestas para salir de aquí"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[short pause] Antes de la respuesta, recapitulemos cómo está todo, dato a dato.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "title": "2007 frente a hoy",
+      "items": [
+       [
+        "Precio",
+        "récord nominal · un 25 % menos en términos reales"
+       ],
+       [
+        "Esfuerzo",
+        "8 años de renta · 9,5 en 2007"
+       ],
+       [
+        "Crédito",
+        "la mitad que entonces"
+       ],
+       [
+        "Casas",
+        "en 2007 sobraban · hoy faltan 750.000"
+       ],
+       [
+        "Hipotecas",
+        "la mayoría a tipo fijo"
+       ]
+      ]
+     },
+     "at": "recapitulemos cómo está todo"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Así que, ¿se está repitiendo la crisis de dos mil ocho? [pause] La respuesta corta es no. No de la misma manera.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "¿SE REPITE?",
+      "sub": "la respuesta"
+     },
+     "at": "se está repitiendo la crisis"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "En dos mil siete, España construyó demasiadas casas con dinero prestado que no existía. Cuando el crédito se cortó, cayeron los bancos y, detrás de ellos, el empleo. Aquella fue una burbuja de crédito.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a tall house of cards built from bank papers and house keys ",
+     "src": "commons,loc,europeana",
+     "at": "Aquella fue una burbuja de crédito"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Hoy ocurre casi lo contrario: se construyen muy pocas casas para la gente que las necesita, y los bancos prestan con mucho más cuidado. Lo que hoy se repite no es la burbuja de los bancos. Es el precio.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "2007 · burbuja de crédito",
+       "lines": [
+        "Sobraban casas",
+        "Los bancos prestaban sin freno"
+       ]
+      },
+      "right": {
+       "title": "Hoy · crisis de acceso",
+       "lines": [
+        "Faltan casas",
+        "El crédito está contenido"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Hoy ocurre casi lo contrario"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[pause] Y eso tiene otra consecuencia. La crisis de dos mil ocho la sufrieron los que compraron. La de hoy la sufren, sobre todo, los que no pueden comprar. Una generación que tiene trabajo, que tiene estudios, y que a los treinta años sigue compartiendo piso o viviendo con sus padres.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a young woman in her thirties looking out of her childhood b",
+     "src": "commons,loc,europeana",
+     "at": "viviendo con sus padres"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Para comprar hoy un piso medio hacen falta ahorros que muchas familias jóvenes no tienen: la entrada, los impuestos, el notario. Los bancos ya no financian el cien por cien como en dos mil seis. Y esa es, precisamente, una de las razones por las que hoy hay menos riesgo de otro dos mil ocho. La misma prudencia que protege a los bancos deja fuera a muchos compradores.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a young person counting savings from a ceramic piggy bank on",
+     "src": "commons,loc,europeana",
+     "at": "hacen falta ahorros"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "¿Puede volver a estallar algo? Nadie lo sabe. Si los tipos suben mucho y el empleo cae, las familias más endeudadas volverán a sufrir. Pero los expertos coinciden en que el riesgo hoy no es que caigan los bancos. Es que la vivienda siga alejándose de los sueldos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a large balance scale with a small house on one side and a s",
+     "src": "commons,loc,europeana",
+     "at": "Nadie lo sabe"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Y si algo nos dejó dos mil ocho son tres señales para reconocer el peligro: que los precios suban mucho más deprisa que los sueldos durante años; que comprar parezca la única opción posible; y que todo el mundo, desde el banco hasta el vecino, te diga que esta vez es diferente.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Tres señales de peligro",
+      "items": [
+       [
+        "Precios que suben más que los sueldos",
+        "durante años"
+       ],
+       [
+        "Comprar como única opción",
+        "«alquilar es tirar el dinero»"
+       ],
+       [
+        "«Esta vez es diferente»",
+        "la frase de todas las burbujas"
+       ]
+      ]
+     },
+     "at": "tres señales para reconocer el peligro"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Dos mil ocho nos enseñó que el ladrillo sí puede bajar. Que un país puede quedarse con millones de casas vacías y cientos de miles de familias sin casa a la vez. [short pause] Y que cuando llega la factura, la pagan sobre todo los que menos margen tienen.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Residencial Francisco Hernando Seseña",
+     "src": "commons,loc,europeana",
+     "at": "el ladrillo sí puede bajar"
+    },
+    {
+     "photo": "split composition: on one side an empty dark apartment block",
+     "src": "commons,loc,europeana",
+     "at": "millones de casas vacías"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[pause] En el próximo documental de DocuVox: Bankia. El banco que salió a bolsa con trescientos cuarenta mil pequeños ahorradores y pidió el rescate diez meses después. Suscríbete para no perdértelo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Torre Bankia Plaza de Castilla",
+     "src": "commons,loc,europeana",
+     "at": "Bankia"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "PRÓXIMAMENTE: BANKIA",
+      "sub": "suscríbete a DocuVox"
+     },
+     "at": "Suscríbete"
+    }
+   ]
+  }
+ ]
+}

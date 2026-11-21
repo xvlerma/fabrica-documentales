@@ -632,5 +632,84 @@
   "tracking": 1.0,
   "rule": "bar",
   "grade": "calido"
+ },
+ "economia": {
+  "uso": "Economía contemporánea, crisis financieras, vivienda, mercados (siglos XX-XXI)",
+  "accent": [
+   236,
+   150,
+   62
+  ],
+  "text": [
+   236,
+   232,
+   224
+  ],
+  "dim": [
+   150,
+   146,
+   140
+  ],
+  "alert": [
+   218,
+   60,
+   44
+  ],
+  "bg0": [
+   12,
+   13,
+   16
+  ],
+  "bg1": [
+   34,
+   36,
+   42
+  ],
+  "sea": [
+   18,
+   24,
+   32
+  ],
+  "land": [
+   60,
+   58,
+   54
+  ],
+  "coast": [
+   160,
+   150,
+   138
+  ],
+  "river": [
+   80,
+   100,
+   120
+  ],
+  "paper": [
+   236,
+   230,
+   218
+  ],
+  "ink": [
+   22,
+   22,
+   24
+  ],
+  "string": [
+   218,
+   60,
+   44
+  ],
+  "fonts": {
+   "display": "gf:ofl/anton/Anton-Regular.ttf",
+   "display_light": "gf:ofl/oswald/Oswald[wght].ttf@400",
+   "body": "gf:ofl/sourceserif4/SourceSerif4[opsz,wght].ttf@400",
+   "italic": "gf:ofl/sourceserif4/SourceSerif4-Italic[opsz,wght].ttf@400",
+   "body_bold": "gf:ofl/sourceserif4/SourceSerif4[opsz,wght].ttf@600"
+  },
+  "case": "upper",
+  "tracking": 0.06,
+  "rule": "bar",
+  "grade": "neutro"
  }
 }

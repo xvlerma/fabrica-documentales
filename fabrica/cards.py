@@ -441,7 +441,9 @@ def f_board(spec, t, D):
 
 def f_counter(spec, t, D):
     fr = bg(spec.get('seed', 91)); k = ease(t / (D * .55)); v = _lerp(spec.get('from', 0), spec['to'], k)
-    txt = f"{int(round(v)):,}".replace(',', '.')
+    dec = int(spec.get('dec', 0))
+    txt = (f"{v:,.{dec}f}".replace(',', '_').replace('.', ',').replace('_', '.')) if dec else f"{int(round(v)):,}".replace(',', '.')
+    txt = txt + spec.get('suffix', '')
     put(fr, text_layer(spec.get('prefix', '') + txt, font('cinzel600', 200), GOLD, TR(0.04)), W / 2, H / 2 - 50, ease(t / .5))
     put(fr, rule_layer(420), W / 2, H / 2 + 80, ease((t - .4) / .8))
     put(fr, text_layer(spec.get('label', ''), font('corm500i', 60), CREAM), W / 2, H / 2 + 150, ease((t - .6) / .8))
@@ -463,7 +465,14 @@ def f_split(spec, t, D):
             if kk > 0: d.line([(cx - 330, 330), (cx - 330 + 660 * kk, 330 + (y - 360) * kk)], fill=RED + (200,), width=5)
     return fr
 
-KIND.update(mapfly=f_mapfly, scan=f_scan, doc=f_doc, board=f_board, counter=f_counter, split=f_split)
+def f_kw(spec, t, D):
+    fr = bg(spec.get('seed', 97)); w = CASE(spec['word']); k = ease(t / .6)
+    put(fr, text_layer(w, fit('cinzel600', 170, w, W - 200, TR(0.04)), GOLD, TR(0.04)), W / 2, H / 2 - 20, k, dy=int(30 * (1 - k)))
+    put(fr, rule_layer(360), W / 2, H / 2 + 110, ease((t - .4) / .8))
+    if spec.get('sub'): put(fr, text_layer(spec['sub'], font('corm500i', 54), CREAM), W / 2, H / 2 + 180, ease((t - .6) / .8))
+    return fr
+
+KIND.update(mapfly=f_mapfly, scan=f_scan, doc=f_doc, board=f_board, counter=f_counter, split=f_split, kw=f_kw)
 
 
 # ---------- v3: accesibilidad y grafismo explicativo ----------

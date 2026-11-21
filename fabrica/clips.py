@@ -57,8 +57,10 @@ def whisper_words(src, model='small'):
     from faster_whisper import WhisperModel
     wav = '/tmp/clips_audio.wav'
     subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', src, '-vn', '-ac', '1', '-ar', '16000', wav], check=True, timeout=5400)
+    import soundfile as sf, numpy as np
+    y, _ = sf.read(wav, dtype='float32')
     m = WhisperModel(model, device='cpu', compute_type='int8', cpu_threads=os.cpu_count() or 2)
-    segs, _ = m.transcribe(wav, language='es', word_timestamps=True, beam_size=1, vad_filter=True)
+    segs, _ = m.transcribe(y, language='es', word_timestamps=True, beam_size=1, vad_filter=True)
     W = []
     for s in segs:
         for w in (s.words or []):
@@ -78,7 +80,8 @@ def cut(src, t0, t1, out_mp4, pad=(1.2, 1.5)):
 def page_media(pg):
     txt = html.unescape(get(pg).decode('utf-8', 'ignore'))
     links = set(re.findall(r'''(https?:[^"'\s<>]+?\.(?:m3u8|mp4|vtt)(?:\?[^"'\s<>]*)?)''', txt))
-    links |= {'https://www.lamoncloa.gob.es' + r for r in re.findall(r'''["'](/[^"'\s<>]+?\.(?:vtt|mp4))["']''', txt)}
+    for r in re.findall(r'''["'](/[^"'\s<>]+?\.(?:vtt|mp4|m3u8))["']''', txt):
+        links.add('https:' + r if r.startswith('//') else 'https://www.lamoncloa.gob.es' + r)
     links = {re.sub(r'^https?://www\.lamoncloa\.gob\.es//', 'https://', l) for l in links}
     vids = {}
     for l in sorted(links):
@@ -93,15 +96,19 @@ def rtve_discover(queries, out_dir):
     res = {}
     for q in queries:
         qq = urllib.parse.quote(q); res[q] = {}
-        for ep in [f'https://www.rtve.es/api/videos.json?search={qq}&size=30',
-                   f'https://www.rtve.es/api/search/contents.json?search={qq}&context=tve&size=30',
-                   f'https://api2.rtve.es/api/search/contents?search={qq}&context=tve&size=30',
-                   f'https://www.rtve.es/buscador/?q={qq}&tipo=videos']:
+        for ep in [f'https://api2.rtve.es/api/search/contents?search={qq}&context=tve&type=video&size=40',
+                   f'https://api2.rtve.es/api/search/contents?search={qq}&size=40']:
             try:
                 b = get(ep, 40).decode('utf-8', 'ignore')
-                ids = sorted(set(re.findall(r'(?:/|"id"\s*:\s*"?)(1[0-9]{7}|[5-9][0-9]{6})(?:[/"?,])', b)))[:40]
-                tit = re.findall(r'"(?:title|longTitle)"\s*:\s*"([^"]{5,140})"', b)[:30]
-                res[q][ep] = dict(n=len(b), ids=ids, titles=tit)
+                items = []
+                try:
+                    j = json.loads(b); its = (j.get('page') or {}).get('items') or j.get('items') or []
+                    for it in its:
+                        items.append(dict(id=str(it.get('id')), t=it.get('longTitle') or it.get('title'), d=it.get('publicationDate') or it.get('dateOfEmission'),
+                                          dur=it.get('duration'), type=str(it.get('contentType') or it.get('type') or '')[:40],
+                                          url=it.get('htmlUrl') or it.get('url')))
+                except Exception: pass
+                res[q][ep] = dict(n=len(b), items=items[:40])
             except Exception as e: res[q][ep] = dict(error=str(e)[:200])
     json.dump(res, open(f'{out_dir}/discover.json', 'w'), ensure_ascii=False, indent=1)
 
@@ -152,8 +159,10 @@ def run(job, out_dir):
             for f in pj.get('find', []):
                 best = (0, 0, 0, None)
                 for k, W in WV.items():
+                    if f.get('video') and f['video'].lower() not in k: continue
                     sc, a, b = find_phrase(W, f['phrase'])
                     if sc > best[0]: best = (sc, a, b, k)
+                if f.get('at'): best = (1.0, f['at'][0], f['at'][1], f.get('video') or next(iter(vids)))
                 sc, a, b, k = best
                 r = dict(name=f['name'], phrase=f['phrase'], video=k, url=vids.get(k), score=round(sc, 3), t0=round(a, 2), t1=round(b, 2),
                          page=pj.get('page'), rtve=pj.get('rtve'))

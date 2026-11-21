@@ -1,7 +1,7 @@
 {
  "id": "e29n_clips",
  "stage": "clips",
- "rev": 1,
+ "rev": 2,
  "title": "clips",
  "units": [],
  "music": {},
@@ -164,46 +164,71 @@
    ]
   },
   {
-   "rtve": "6999732",
-   "find": [
-    {
-     "name": "34_necesidad_virtud",
-     "phrase": "hacer de la necesidad virtud",
-     "min": 0.55
-    }
-   ]
-  },
-  {
-   "rtve": "17126640",
-   "find": [
-    {
-     "name": "11_fallo_abalos",
-     "phrase": "condena a ábalos",
-     "min": 0.4
-    }
-   ]
-  },
-  {
-   "rtve": "17322393",
-   "find": []
-  },
-  {
    "rtve": "17322618",
    "find": [
     {
      "name": "02_millon_viviendas",
-     "phrase": "un millón de viviendas",
-     "min": 0.6
+     "phrase": "x",
+     "at": [
+      1004.5,
+      1014.5
+     ],
+     "pad": [
+      0.6,
+      0.8
+     ]
     },
     {
-     "name": "01_perdon",
-     "phrase": "pido perdón",
-     "min": 0.55
+     "name": "01b_pido_perdon_corrupcion",
+     "phrase": "x",
+     "at": [
+      3461.5,
+      3476
+     ],
+     "pad": [
+      0.5,
+      0.8
+     ]
+    },
+    {
+     "name": "01c_feijoo_perdon_toledo",
+     "phrase": "x",
+     "at": [
+      2603.5,
+      2614.5
+     ],
+     "pad": [
+      0.5,
+      0.8
+     ]
     },
     {
      "name": "20b_sumarios",
-     "phrase": "hay más viviendas en los sumarios de corrupción",
-     "min": 0.55
+     "phrase": "x",
+     "at": [
+      588,
+      606
+     ],
+     "pad": [
+      0.5,
+      0.8
+     ]
+    }
+   ]
+  },
+  {
+   "rtve": "6999732",
+   "transcribe": true,
+   "model": "small",
+   "find": [
+    {
+     "name": "34_necesidad_virtud",
+     "phrase": "hacer de la necesidad virtud",
+     "min": 0.55,
+     "pad": [
+      4,
+      1.5
+     ]
     }
    ]
   },
@@ -217,7 +242,7 @@
      "phrase": "pues ya está",
      "min": 0.6,
      "pad": [
-      6,
+      8,
       1.5
      ]
     }
@@ -225,20 +250,30 @@
   }
  ],
  "discover": [
-  "Sánchez La Revuelta",
-  "Sánchez Pepa Bueno entrevista",
-  "Sánchez Mañaneros",
-  "debate electoral 4 noviembre 2019",
-  "moción de censura Rajoy 2018",
-  "Paiporta Reyes Sánchez",
-  "Barbate guardias civiles narcolancha",
-  "Chaves Griñán Congreso Federal",
-  "Begoña Gómez mitin Sevilla",
-  "cara a cara Sánchez Feijóo",
-  "Óscar Puente Adamuz",
-  "Yolanda Díaz cohete",
-  "Maricarmen desahucio",
-  "Montero huelga oposición",
-  "Sánchez Puigdemont amnistía Comité Federal"
+  "Pedro Sánchez en La Revuelta",
+  "Pepa Bueno entrevista a Pedro Sánchez",
+  "Pedro Sánchez Mañaneros 360",
+  "debate electoral 2019 Puigdemont Sánchez traerlo",
+  "moción de censura Sánchez Rajoy dimita",
+  "Paiporta Sánchez abandona",
+  "Barbate narcolancha guardias civiles muertos",
+  "Chaves Griñán ovación Congreso Federal PSOE",
+  "Begoña Gómez señoras de mitin Sevilla",
+  "Óscar Puente Adamuz tranquilidad",
+  "Óscar Puente infalibilidad alta velocidad",
+  "Yolanda Díaz no va como un cohete",
+  "Maricarmen responsabilizo a Pedro Sánchez",
+  "Montero huelga contra la oposición",
+  "Sánchez no dormiría por la noche Podemos",
+  "Sánchez Bildu no vamos a pactar",
+  "Sánchez amnistía no cabe en la Constitución",
+  "Marlaska Barbate Congreso",
+  "La Palma Sánchez todos los recursos",
+  "Sánchez playlist verano",
+  "Sánchez funeral Urda Toledo",
+  "Ábalos moción de censura corrupción",
+  "Sánchez fiscalía de quién depende",
+  "Sánchez Delcy Rodríguez Barajas",
+  "Sánchez Ceuta vacaciones La Mareta"
  ]
 }

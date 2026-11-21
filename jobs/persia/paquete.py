@@ -85,7 +85,7 @@ md = f"""# El Imperio Persa · paquete de YouTube
 
 **Etiquetas** ({len(','.join(TAGS))} caracteres): {', '.join(TAGS)}
 
-**Ajustes:** Educación · Español (España) · no creado para niños · sin promoción pagada · Contenido alterado o sintético: Sí (ilustraciones IA de escenas y retrato) · capítulos automáticos desactivados · subtítulos persia.srt · lista «Civilizaciones antiguas» · pantalla final: Termópilas + suscribirse
+**Ajustes:** Educación · Español (España) · no creado para niños · sin promoción pagada · Contenido alterado o sintético: No · capítulos automáticos desactivados · subtítulos persia.srt · lista «Civilizaciones antiguas» · pantalla final: Termópilas + suscribirse
 
 ## Descripción ({len(desc)} caracteres)
 

@@ -42,7 +42,7 @@ Capítulos
 
 Fuentes principales: Banco de España (informes anuales e Informe sobre la crisis financiera y bancaria, 2017), INE (EPA, Censo 2011, estadística de ejecuciones hipotecarias), Ministerio de Vivienda (valor tasado de la vivienda libre), Consejo General del Poder Judicial, Eurostat, Tribunal de Cuentas, sentencia del TJUE Aziz (2013) y hemeroteca de El País, El Mundo, Expansión y RTVE.
 
-{CRED}
+{{CRED}}
 
 Este vídeo es divulgación, no asesoramiento financiero ni inmobiliario.
 

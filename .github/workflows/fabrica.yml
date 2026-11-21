@@ -101,6 +101,7 @@ jobs:
           pip install -q librosa soundfile numpy pillow opencv-python-headless
           pip install -q torch --index-url https://download.pytorch.org/whl/cpu
           pip install -q transformers faster-whisper
+          pip install -q -U yt-dlp
       - name: fabricar
         env:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}

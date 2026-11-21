@@ -116,3 +116,6 @@ Los créditos públicos no mencionan voces sintéticas ni ElevenLabs.
 ## Sin verificar (reglas prudentes ya aplicadas)
 - Si la licencia vigente de Sonniss es la v2.0 de agosto de 2026.
 - Si Incompetech exige locutar el crédito en pódcast.
+
+## Excepción · Edición Especial Elecciones (v7)
+Por decisión del dueño del canal, solo en los jobs `e29n_*` marcados con `"uso": "privado"`, la etapa `clips` puede descargar cortes de YouTube (canales oficiales de televisiones, podcasts y partidos) con yt-dlp. Ese material es de **uso privado y no se publica**. Si algún día se publicara, cada corte pasa a tratarse como cita (art. 32 LPI) y se revisa uno a uno. Sigue prohibido eludir DRM (Atresplayer, Mitele, plataformas de pago).

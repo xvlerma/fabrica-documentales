@@ -1,7 +1,7 @@
 {
  "id": "e29n_clips",
  "stage": "clips",
- "rev": 2,
+ "rev": 3,
  "title": "clips",
  "units": [],
  "music": {},
@@ -162,118 +162,425 @@
      "min": 0.55
     }
    ]
-  },
+  }
+ ],
+ "discover": [],
+ "youtube": [
   {
-   "rtve": "17322618",
+   "yt": "EbdUtjkprxc",
    "find": [
     {
-     "name": "02_millon_viviendas",
-     "phrase": "x",
-     "at": [
-      1004.5,
-      1014.5
-     ],
-     "pad": [
-      0.6,
-      0.8
-     ]
-    },
-    {
-     "name": "01b_pido_perdon_corrupcion",
-     "phrase": "x",
-     "at": [
-      3461.5,
-      3476
-     ],
-     "pad": [
-      0.5,
-      0.8
-     ]
-    },
-    {
-     "name": "01c_feijoo_perdon_toledo",
-     "phrase": "x",
-     "at": [
-      2603.5,
-      2614.5
-     ],
-     "pad": [
-      0.5,
-      0.8
-     ]
-    },
-    {
-     "name": "20b_sumarios",
-     "phrase": "x",
-     "at": [
-      588,
-      606
-     ],
-     "pad": [
-      0.5,
-      0.8
-     ]
+     "name": "31_no_dormiria",
+     "phrase": "sería un presidente del gobierno que no dormiría por la noche",
+     "min": 0.5
     }
    ]
   },
   {
-   "rtve": "6999732",
-   "transcribe": true,
-   "model": "small",
+   "search": "Pedro Sánchez no dormiría por la noche Podemos laSexta 2019",
+   "must": [],
    "find": [
     {
-     "name": "34_necesidad_virtud",
-     "phrase": "hacer de la necesidad virtud",
-     "min": 0.55,
+     "name": "31b_no_dormiria",
+     "phrase": "no dormiría por la noche junto con el 95 por ciento",
+     "min": 0.5
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez The Wild Project Jordi Wild",
+   "must": [
+    "wild"
+   ],
+   "find": [
+    {
+     "name": "14_mano_en_el_fuego",
+     "phrase": "yo pongo la mano en el fuego por josé luis",
+     "min": 0.55
+    },
+    {
+     "name": "25_no_estaba_de_vacaciones",
+     "phrase": "yo no estaba de vacaciones estaba trabajando",
+     "min": 0.55
+    },
+    {
+     "name": "25b_full_time",
+     "phrase": "estaba trabajando full time en resolver la crisis de ceuta",
+     "min": 0.5
+    }
+   ],
+   "try": 2
+  },
+  {
+   "search": "El Hormiguero Pablo Motos Pedro Sánchez cobardía noviembre 2026",
+   "must": [],
+   "find": [
+    {
+     "name": "07_cobardia",
+     "phrase": "a lo mejor es cobardía",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez laSexta aquí no hay caso hay fango",
+   "must": [],
+   "find": [
+    {
+     "name": "19_hay_fango",
+     "phrase": "aquí no hay caso hay fango",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez Navarra Televisión con Bildu no vamos a pactar",
+   "must": [],
+   "find": [
+    {
+     "name": "35_bildu",
+     "phrase": "con bildu no vamos a pactar",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "search": "debate 4N 2019 Sánchez Puigdemont me comprometo a traerlo de vuelta",
+   "must": [],
+   "find": [
+    {
+     "name": "32_traerlo",
+     "phrase": "me comprometo hoy y aquí a traerlo de vuelta a españa",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez 2022 amnistía no entra en la legislación ni en la Constitución",
+   "must": [],
+   "find": [
+    {
+     "name": "33_amnistia_no",
+     "phrase": "no entra en la legislación ni en la constitución",
+     "min": 0.5
+    }
+   ]
+  },
+  {
+   "search": "Alba Carrillo Pedro Sánchez chulazo La Séptima",
+   "must": [],
+   "find": [
+    {
+     "name": "05_chulazo",
+     "phrase": "chulazo",
+     "min": 0.8,
      "pad": [
       4,
-      1.5
+      3
      ]
     }
    ]
   },
   {
-   "src": "https://www.elindependiente.com/wp-content/uploads/2019/11/1573038200884.mp3",
-   "key": "rne2019",
-   "transcribe": true,
+   "search": "Franganillo Pedro Sánchez a lo mejor usted está mal informado",
+   "must": [],
    "find": [
     {
-     "name": "22_pues_ya_esta",
-     "phrase": "pues ya está",
+     "name": "05b_mal_informado",
+     "phrase": "a lo mejor usted está mal informado",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez playlist verano 2026 vídeo",
+   "must": [],
+   "find": [
+    {
+     "name": "24_playlist",
+     "phrase": "espero que os guste y que os acompañe durante las vacaciones feliz verano",
+     "min": 0.5,
+     "pad": [
+      12,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez La Revuelta iré a El Hormiguero",
+   "must": [],
+   "find": [
+    {
+     "name": "06_ire_al_hormiguero",
+     "phrase": "iré a el hormiguero y a donde haga falta",
+     "min": 0.5
+    }
+   ]
+  },
+  {
+   "search": "audio Ábalos Koldo a ti te gusta más Ariadna",
+   "must": [],
+   "find": [
+    {
+     "name": "18b_ariadna",
+     "phrase": "a ti te gusta más ariadna",
+     "min": 0.5,
+     "pad": [
+      4,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "search": "audio Leire Díez necesito a Balas",
+   "must": [],
+   "find": [
+    {
+     "name": "15_balas",
+     "phrase": "necesito a balas",
      "min": 0.6,
      "pad": [
-      8,
-      1.5
+      4,
+      2
      ]
+    }
+   ]
+  },
+  {
+   "search": "audio Lorena Suárez PSOE Argentina fotocopia del pasaporte",
+   "must": [],
+   "find": [
+    {
+     "name": "20c_lorena_suarez",
+     "phrase": "conseguir la fotocopia del pasaporte",
+     "min": 0.5,
+     "pad": [
+      6,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "search": "Begoña Gómez mitin Sevilla señoras de",
+   "must": [],
+   "find": [
+    {
+     "name": "19a_senoras_de",
+     "phrase": "durante demasiado tiempo hemos sido señoras de",
+     "min": 0.5
+    }
+   ]
+  },
+  {
+   "search": "Yolanda Díaz no va como un cohete salario mediano",
+   "must": [],
+   "find": [
+    {
+     "name": "37d_yolanda_cohete",
+     "phrase": "no es verdad no va como un cohete",
+     "min": 0.5,
+     "pad": [
+      1.5,
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "search": "Montero huelga general se convoca contra la oposición",
+   "must": [],
+   "find": [
+    {
+     "name": "37b_contra_oposicion",
+     "phrase": "en este caso se convoca contra la oposición",
+     "min": 0.5
+    }
+   ]
+  },
+  {
+   "search": "Óscar Puente accidente Adamuz tremendamente extraño",
+   "must": [],
+   "find": [
+    {
+     "name": "08_tremendamente_extrano",
+     "phrase": "tremendamente extraño",
+     "min": 0.6,
+     "pad": [
+      3,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "search": "Óscar Puente probabilidad muy baja bajísima tranquilidad",
+   "must": [],
+   "find": [
+    {
+     "name": "10b2_bajisima",
+     "phrase": "muy baja bajísima tranquilidad",
+     "min": 0.5
+    }
+   ]
+  },
+  {
+   "search": "Óscar Puente algo cercano a la infalibilidad alta velocidad",
+   "must": [],
+   "find": [
+    {
+     "name": "09_infalibilidad",
+     "phrase": "cercano a la infalibilidad",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez uno no elige con quién se hace una foto Aldama",
+   "must": [],
+   "find": [
+    {
+     "name": "17b_foto",
+     "phrase": "uno no elige con quién se hace una foto",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez indultos no niego que cambié de opinión",
+   "must": [],
+   "find": [
+    {
+     "name": "36_cambie_de_opinion",
+     "phrase": "no niego que cambié de opinión",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez La Palma volcán todos los recursos necesarios",
+   "must": [],
+   "find": [
+    {
+     "name": "28b_la_palma",
+     "phrase": "todos los recursos necesarios",
+     "min": 0.6
+    }
+   ]
+  },
+  {
+   "search": "moción de censura 2018 Pedro Sánchez Rajoy dimita y todo terminará",
+   "must": [],
+   "find": [
+    {
+     "name": "00a_dimita",
+     "phrase": "dimita señor rajoy",
+     "min": 0.55,
+     "pad": [
+      10,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "search": "Ábalos moción de censura 2018 discurso corrupción",
+   "must": [],
+   "find": [
+    {
+     "name": "38_abalos_mocion",
+     "phrase": "sacar de la política la corrupción",
+     "min": 0.5
+    }
+   ]
+  },
+  {
+   "search": "Rajoy moción censura Ábalos para dar lecciones hay que estar en condiciones",
+   "must": [],
+   "find": [
+    {
+     "name": "39_rajoy_lecciones",
+     "phrase": "para venir a dar lecciones hay que estar en condiciones de darlas",
+     "min": 0.5
+    }
+   ]
+  },
+  {
+   "search": "Maricarmen desahucio responsabilizo a Pedro Sánchez",
+   "must": [],
+   "find": [
+    {
+     "name": "37g_maricarmen",
+     "phrase": "responsabilizo a pedro sánchez",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "search": "Feijóo de qué prostíbulos ha vivido usted Congreso",
+   "must": [],
+   "find": [
+    {
+     "name": "18_prostibulos",
+     "phrase": "de qué prostíbulos ha vivido usted",
+     "min": 0.55,
+     "pad": [
+      2,
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez creo en la inocencia del fiscal general",
+   "must": [],
+   "find": [
+    {
+     "name": "21_fiscal_inocencia",
+     "phrase": "creo en la inocencia del fiscal general",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez eso a Vivas menores Ceuta Congreso",
+   "must": [],
+   "find": [
+    {
+     "name": "25c_eso_a_vivas",
+     "phrase": "eso a vivas",
+     "min": 0.6,
+     "pad": [
+      6,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "search": "Marlaska Congreso Barbate guardias civiles comparecencia",
+   "must": [],
+   "find": [
+    {
+     "name": "30c_marlaska_barbate",
+     "phrase": "guardias civiles barbate",
+     "min": 0.4
+    }
+   ]
+  },
+  {
+   "search": "Pedro Sánchez baila mitin Sevilla Begoña Montero 2026",
+   "must": [],
+   "find": [
+    {
+     "name": "04_baile_sevilla",
+     "phrase": "baile",
+     "min": 0.99
     }
    ]
   }
  ],
- "discover": [
-  "Pedro Sánchez en La Revuelta",
-  "Pepa Bueno entrevista a Pedro Sánchez",
-  "Pedro Sánchez Mañaneros 360",
-  "debate electoral 2019 Puigdemont Sánchez traerlo",
-  "moción de censura Sánchez Rajoy dimita",
-  "Paiporta Sánchez abandona",
-  "Barbate narcolancha guardias civiles muertos",
-  "Chaves Griñán ovación Congreso Federal PSOE",
-  "Begoña Gómez señoras de mitin Sevilla",
-  "Óscar Puente Adamuz tranquilidad",
-  "Óscar Puente infalibilidad alta velocidad",
-  "Yolanda Díaz no va como un cohete",
-  "Maricarmen responsabilizo a Pedro Sánchez",
-  "Montero huelga contra la oposición",
-  "Sánchez no dormiría por la noche Podemos",
-  "Sánchez Bildu no vamos a pactar",
-  "Sánchez amnistía no cabe en la Constitución",
-  "Marlaska Barbate Congreso",
-  "La Palma Sánchez todos los recursos",
-  "Sánchez playlist verano",
-  "Sánchez funeral Urda Toledo",
-  "Ábalos moción de censura corrupción",
-  "Sánchez fiscalía de quién depende",
-  "Sánchez Delcy Rodríguez Barajas",
-  "Sánchez Ceuta vacaciones La Mareta"
- ]
+ "uso": "privado — edición especial elecciones, no publicar"
 }

@@ -126,9 +126,66 @@ def rtve_meta(vid):
         return dict(title=it.get('title'), date=it.get('publicationDate'), dur=it.get('duration'), url=it.get('htmlUrl'))
     except Exception as e: return dict(error=str(e)[:200])
 
+YT = ['yt-dlp', '--no-warnings', '--extractor-args', 'youtube:player_client=web_safari,web,android']
+
+def yt_search(q, n=5):
+    r = subprocess.run(YT + ['--flat-playlist', '-J', f'ytsearch{n}:{q}'], capture_output=True, text=True, timeout=300)
+    if r.returncode: raise RuntimeError(r.stderr[-300:])
+    return [dict(id=e.get('id'), title=e.get('title'), channel=e.get('channel') or e.get('uploader'), dur=e.get('duration'))
+            for e in json.loads(r.stdout).get('entries', [])]
+
+def yt_subs(vid):
+    d = f'/tmp/yt_{vid}'; os.makedirs(d, exist_ok=True)
+    r = subprocess.run(YT + ['--skip-download', '--write-subs', '--write-auto-subs', '--sub-langs', 'es.*,es', '--sub-format', 'vtt',
+                             '-o', f'{d}/%(id)s.%(ext)s', f'https://www.youtube.com/watch?v={vid}'], capture_output=True, text=True, timeout=300)
+    fs = sorted([f for f in os.listdir(d) if f.endswith('.vtt')], key=lambda f: ('orig' not in f, len(f)))
+    if not fs: raise RuntimeError('sin subtítulos: ' + r.stderr[-300:])
+    return open(f'{d}/{fs[0]}', encoding='utf-8', errors='ignore').read()
+
+def yt_section(vid, a, b, out):
+    r = subprocess.run(YT + ['-f', 'bv*[height<=1080]+ba/b[height<=1080]/b', '--download-sections', f'*{a:.2f}-{b:.2f}', '--force-keyframes-at-cuts',
+                             '--merge-output-format', 'mp4', '-o', out, f'https://www.youtube.com/watch?v={vid}'], capture_output=True, text=True, timeout=1800)
+    if r.returncode or not os.path.exists(out): raise RuntimeError(r.stderr[-400:])
+    return out
+
+def run_yt(pj, out_dir, report):
+    """pj: {"yt": id | "search": query, "must": [palabras en título/canal], "find": [...]}  · solo uso privado (edición especial)"""
+    cands = [dict(id=pj['yt'], title='', channel='')] if pj.get('yt') else yt_search(pj['search'], pj.get('n', 6))
+    must = [m.lower() for m in pj.get('must', [])]
+    cands = [c for c in cands if all(m in f"{c.get('title')} {c.get('channel')}".lower() for m in must)] or cands[:1]
+    report.append(dict(search=pj.get('search') or pj.get('yt'), candidates=cands[:6]))
+    WV = {}
+    for c in cands[:pj.get('try', 3)]:
+        try:
+            WV[c['id']] = words_from_cues(parse_vtt(yt_subs(c['id'])))
+            open(f"{out_dir}/txt_yt_{c['id']}.txt", 'w').write('\n'.join(f'{a:8.1f} {w}' for w, a, _ in WV[c['id']]))
+        except Exception as e: log(f"  yt subs {c['id']}: {e}")
+    for f in pj.get('find', []):
+        best = (0, 0, 0, None)
+        for k, W in WV.items():
+            sc, a, b = find_phrase(W, f['phrase'])
+            if sc > best[0]: best = (sc, a, b, k)
+        if f.get('at') and cands: best = (1.0, f['at'][0], f['at'][1], cands[0]['id'])
+        sc, a, b, k = best; pad = f.get('pad', (1.5, 1.8))
+        r = dict(name=f['name'], phrase=f['phrase'], video=k, url=f'https://www.youtube.com/watch?v={k}' if k else None, score=round(sc, 3),
+                 t0=round(a, 2), t1=round(b, 2), uso='privado')
+        if k and sc >= f.get('min', 0.6):
+            try:
+                tmp = f"/tmp/ytsec_{f['name']}.mp4"; s0 = max(0, a - pad[0])
+                yt_section(k, s0, b + pad[1], tmp)
+                cut(tmp, a - s0, b - s0, f"{out_dir}/clip_{f['name']}.mp4", (min(pad[0], a - s0), pad[1]))
+                r.update(ok=True, ss=round(s0, 2))
+            except Exception as e: r.update(ok=False, error=str(e)[-300:])
+        else: r.update(ok=False, error='frase no encontrada con confianza suficiente')
+        log(f"  {f['name']}: {r.get('ok')} yt:{k} {sc:.2f} {a:.1f}-{b:.1f}"); report.append(r)
+
 def run(job, out_dir):
     os.makedirs(out_dir, exist_ok=True); report = []
     if job.get('discover'): rtve_discover(job['discover'], out_dir)
+    for pj in job.get('youtube', []):
+        try: run_yt(pj, out_dir, report)
+        except Exception as e: log(f'  youtube {pj.get("search") or pj.get("yt")}: {e}'); report.append(dict(youtube=pj, error=str(e)[-300:]))
+        json.dump(report, open(f'{out_dir}/clips.json', 'w'), ensure_ascii=False, indent=1)
     for pj in job.get('sources', []):
         # pj: {"page": url}  o  {"rtve": id}  o  {"src": m3u8/mp4}, con "find": [{"name","phrase","pad"}], "transcribe": bool
         try:

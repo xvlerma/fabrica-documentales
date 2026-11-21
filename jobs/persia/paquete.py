@@ -57,7 +57,7 @@ CRED = open(f'{OUT}/creditos_publicos.txt', encoding='utf-8').read().strip()
 desc = desc.replace('{CRED}', CRED)
 if len(desc) > 4950:   # límite de YouTube: créditos completos en el comentario fijado y enlace
     desc = desc.replace(CRED, 'Créditos de imagen y música (autor y licencia): en el comentario fijado y completos en ' + FULL)
-com = '¿Qué versión te habían contado tú, la de 300 o la de las piedras? Cuéntalo abajo 👇\n\nCréditos de imagen (autor y licencia):\n' + '\n'.join(compact(l) for l in cred)
+com = '¿Qué versión te habían contado a ti, la de 300 o la de las piedras? Cuéntalo abajo 👇\n\nCréditos de imagen (autor y licencia):\n' + '\n'.join(compact(l) for l in cred)
 com = com[:9800]
 
 dur = ''

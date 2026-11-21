@@ -1,0 +1,61 @@
+== piel: Egipto, Mesopotamia, Grecia, Roma, Persia · etalonaje calido
+== 1/5 audio: colocando voces, música y efectos
+voz: 50.2 min, 4498 palabras narrador, total 54.4 min
+   alineación: 172 unidades (172 con whisper, resto en caché o proporcional)
+== 2/5 guion visual
+  aviso anclas muy juntas en t=85.8s: se retrasa "las piedras"
+  aviso anclas muy juntas en t=194.8s: se retrasa "montañas de Fars"
+  aviso anclas muy juntas en t=999.0s: se retrasa "oro en polvo"
+  aviso anclas muy juntas en t=1070.0s: se retrasa "Ni la nieve"
+  aviso anclas muy juntas en t=1122.5s: se retrasa "túneles subterráneos"
+  aviso anclas muy juntas en t=1145.8s: se retrasa "columnas de veinte metros"
+  aviso anclas muy juntas en t=1147.8s: se retrasa "escaleras de peldaños"
+  aviso anclas muy juntas en t=1640.8s: se retrasa "el estrecho del Helesponto"
+  aviso anclas muy juntas en t=2532.6s: se retrasa "hasta llegar al mar Negro"
+  aviso anclas muy juntas en t=3142.4s: se retrasa "estrenó en Atenas"
+   partición de planos largos: 313 → 545 planos
+  aviso glosario: "Aqueménidas" cae en una tarjeta u otro glosario
+  aviso glosario: "Sátrapa" cae en una tarjeta u otro glosario
+  aviso glosario: "Elamita" cae en una tarjeta u otro glosario
+  sincronía: plano 56 t=266.4s: rótulo "Sardes" sin mención en ±2 s
+  sincronía: plano 135 t=738.5s: rótulo "Inscripción de Behistún" sin mención en ±2 s
+  sincronía: plano 146 t=800.5s: dura 7.2 s; añade un plano o una tarjeta
+  sincronía: plano 159 t=886.4s: rótulo "Monte Behistún" sin mención en ±2 s
+  sincronía: plano 197 t=1121.3s: rótulo "Qanat" sin mención en ±2 s
+  sincronía: plano 229 t=1316.3s: rótulo "Faravahar" sin mención en ±2 s
+  sincronía: plano 257 t=1494.6s: rótulo "El túmulo de Maratón" sin mención en ±2 s
+  sincronía: plano 327 t=1940.2s: rótulo "La Acrópolis" sin mención en ±2 s
+  sincronía: plano 383 t=2314.9s: rótulo "Escalera de la Apadana" sin mención en ±2 s
+  sincronía: plano 437 t=2638.0s: rótulo "Alejandro Magno" sin mención en ±2 s
+  sincronía: plano 513 t=3091.5s: rótulo "Jardín persa" sin mención en ±2 s
+   545 planos
+== 3/5 buscando y descargando material
+  aviso repetición: "photo:Croesus on the pyre amphora Louvre" en t=315s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Behistun relief" en t=867s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Behistun relief" en t=872s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Behistun relief" en t=877s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Behistun relief" en t=881s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Bisotun Kermanshah" en t=886s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Bisotun Kermanshah" en t=896s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Bisotun Kermanshah" en t=900s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Darius Susa foundation charter tablet Louvre" en t=1182s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Darius Susa foundation charter tablet Louvre" en t=1189s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Herodotus bust Metropolitan Museum" en t=1698s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Herodotus bust Metropolitan Museum" en t=1703s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Kritios Boy Acropolis Museum" en t=1966s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Artemisia I of Caria Salamis Kaulbach" en t=2051s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Artemisia I of Caria Salamis Kaulbach" en t=2056s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Persepolis Fortification Archive" en t=2250s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Persepolis Fortification Archive" en t=2256s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Persepolis Apadana relief Persian Median guards" en t=2379s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Alexander the Great bust Acropolis Museum" en t=2644s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Alexander the Great bust Acropolis Museum" en t=2649s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Persepolis Fortification Archive" en t=2908s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Persepolis Fortification Archive" en t=2913s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Alexander the Great bust Acropolis Museum" en t=3060s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Alexander the Great bust Acropolis Museum" en t=3065s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Bisotun Kermanshah" en t=3194s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Persepolis Fortification Archive" en t=3201s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Herodotus bust Metropolitan Museum" en t=3206s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Herodotus bust Metropolitan Museum" en t=3212s reutiliza un recurso (2.ª vez); añade candidatos
+FIN PREVIA: 46 hojas previa_NN.jpg · 130 avisos de repetición

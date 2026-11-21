@@ -1,0 +1,5 @@
+PUBLICAR: SÍ
+modo: seguro · recursos revisados: 132 · créditos públicos: 111
+
+Si llega una reclamación de Content ID: disputa con la ficha del recurso en licencias.json (página, licencia y fecha).
+Antes de publicar: pega creditos_publicos.txt en la descripción de YouTube y de iVoox, sube en privado y revisa las comprobaciones de Studio.

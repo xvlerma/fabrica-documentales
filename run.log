@@ -1,0 +1,66 @@
+== piel: Economía contemporánea, crisis financieras, vivienda, mercados (siglos XX-XXI) · etalonaje neutro
+== 1/5 audio: colocando voces, música y efectos
+voz: 46.4 min, 4117 palabras narrador, total 50.4 min
+   alineación: 178 unidades (178 con whisper, resto en caché o proporcional)
+== 2/5 guion visual
+  aviso anclas muy juntas en t=1215.4s: se retrasa "ocho mil millones"
+  aviso anclas muy juntas en t=2209.5s: se retrasa "la Sareb"
+   partición de planos largos: 262 → 358 planos
+  aviso glosario: "Hipotecas subprime" cae en una tarjeta u otro glosario
+  aviso glosario: "Ejecución hipotecaria" cae en una tarjeta u otro glosario
+  aviso glosario: "Prima de riesgo" cae en una tarjeta u otro glosario
+  sincronía: plano 0 t=0.0s: rótulo "Seseña, Toledo" sin mención en ±2 s
+  sincronía: plano 11 t=62.4s: rótulo "Sede de Lehman Brothers" sin mención en ±2 s
+  sincronía: plano 92 t=643.8s: rótulo "José Luis Rodríguez Zapatero" sin mención en ±2 s
+  sincronía: plano 140 t=1080.5s: rótulo "Martinsa-Fadesa" sin mención en ±2 s
+  sincronía: plano 174 t=1340.3s: rótulo "Acampada de Sol" sin mención en ±2 s
+  sincronía: plano 182 t=1387.2s: rótulo "Mariano Rajoy" sin mención en ±2 s
+  sincronía: plano 306 t=2395.7s: rótulo "El Quiñón, Seseña" sin mención en ±2 s
+   358 planos
+== 3/5 buscando y descargando material
+  aviso repetición: "photo:Seseña aerial view" en t=558s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Seseña aerial view" en t=565s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Northern Rock queue 2007" en t=713s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Lehman Brothers headquarters September 2008" en t=881s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Lehman Brothers employees leaving boxes 2008" en t=904s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Lehman Brothers employees leaving boxes 2008" en t=909s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Greek protests 2010 Syntagma" en t=1286s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Puerta del Sol 15-M acampada noche" en t=1336s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Mariano Rajoy 2011" en t=1396s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Marea verde manifestación educación" en t=1431s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Stop Desahucios PAH" en t=1560s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Plataforma de Afectados por la Hipoteca manifestación" en t=1576s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Aeropuerto de Castellón pista" en t=1765s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Bankia salida a bolsa 2011" en t=1899s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Caja Castilla La Mancha" en t=1918s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Torre Caja Madrid Bankia" en t=1952s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Palacio de la Moncloa" en t=2133s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Rodrigo Rato" en t=2309s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Banco de España edificio Cibeles" en t=2326s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:El Quiñón Seseña 2023" en t=2406s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Torre Bankia Plaza de Castilla" en t=3014s reutiliza un recurso (2.ª vez); añade candidatos
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/358
+   plano 20/358
+   plano 40/358
+   plano 60/358
+   plano 80/358
+   plano 100/358
+   plano 120/358
+   plano 140/358
+   plano 160/358
+   plano 180/358
+   plano 200/358
+   plano 220/358
+   plano 240/358
+   plano 260/358
+   plano 280/358
+   plano 300/358
+   plano 320/358
+   plano 340/358
+== 5/5 montaje final
+== licencias: PUBLICAR SÍ · 0 bloqueos · 0 avisos (licencias_estado.txt)
+   hojas de sincronía: 27
+   miniatura A: La Moncloa · Attribution
+FIN: jobs/crisis2008/out/crisis2008.mp4 · 50.8 min · 278 MB

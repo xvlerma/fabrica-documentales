@@ -1,0 +1,7 @@
+plano 0 t=0.0s: rótulo "Seseña, Toledo" sin mención en ±2 s
+plano 11 t=62.4s: rótulo "Sede de Lehman Brothers" sin mención en ±2 s
+plano 92 t=643.8s: rótulo "José Luis Rodríguez Zapatero" sin mención en ±2 s
+plano 140 t=1080.5s: rótulo "Martinsa-Fadesa" sin mención en ±2 s
+plano 174 t=1340.3s: rótulo "Acampada de Sol" sin mención en ±2 s
+plano 182 t=1387.2s: rótulo "Mariano Rajoy" sin mención en ±2 s
+plano 306 t=2395.7s: rótulo "El Quiñón, Seseña" sin mención en ±2 s

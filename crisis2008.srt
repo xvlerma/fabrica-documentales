@@ -1,0 +1,3007 @@
+1
+00:00:06,839 --> 00:00:12,070
+La crisis de dos mil ocho dejó en España seis millones de parados, cientos de miles
+
+2
+00:00:12,120 --> 00:00:17,829
+de familias sin casa y un rescate bancario de decenas de miles de millones de euros.
+
+3
+00:00:17,879 --> 00:00:21,909
+Y empezó con algo que parecía imposible que saliera mal:
+
+4
+00:00:21,960 --> 00:00:22,849
+un piso.
+
+5
+00:00:23,748 --> 00:00:25,939
+Ahora mira este dato.
+
+6
+00:00:25,989 --> 00:00:31,578
+En dos mil siete, en lo más alto de la burbuja, el metro cuadrado de vivienda libre
+
+7
+00:00:31,628 --> 00:00:35,579
+en España llegó a dos mil ochenta y cinco euros.
+
+8
+00:00:35,629 --> 00:00:41,079
+A finales de dos mil veinticinco ha llegado a dos mil doscientos treinta.
+
+9
+00:00:41,129 --> 00:00:43,263
+Nunca había costado tanto.
+
+10
+00:00:44,265 --> 00:00:49,275
+Y entonces, como ahora, las familias se preguntaban lo mismo:
+
+11
+00:00:49,325 --> 00:00:54,015
+si comprar ya, antes de que subiera más, o esperar.
+
+12
+00:00:54,064 --> 00:00:56,918
+En dos mil siete, casi nadie esperó.
+
+13
+00:00:58,418 --> 00:01:03,789
+Para entender si estamos otra vez en el mismo punto, hay que volver al principio.
+
+14
+00:01:03,838 --> 00:01:08,569
+A la década en la que España se convenció de que el ladrillo nunca baja.
+
+15
+00:01:08,618 --> 00:01:13,129
+Al día en que un banco de Nueva York cayó y arrastró a medio mundo.
+
+16
+00:01:13,179 --> 00:01:18,689
+Y a los años en los que este país aprendió, a golpes, palabras como desahucio, prima
+
+17
+00:01:18,739 --> 00:01:20,603
+de riesgo o rescate.
+
+18
+00:01:22,103 --> 00:01:27,394
+¿Cómo llegó un país entero a construir más casas que nadie en Europa?
+
+19
+00:01:27,444 --> 00:01:31,733
+¿Quién lo vio venir y por qué nadie lo paró?
+
+20
+00:01:31,783 --> 00:01:36,194
+Y la pregunta grande, la que responderemos al final:
+
+21
+00:01:36,243 --> 00:01:37,635
+¿se está repitiendo?
+
+22
+00:01:39,835 --> 00:01:42,065
+Crisis de dos mil ocho.
+
+23
+00:01:42,115 --> 00:01:45,169
+Así se arruinó España.
+
+24
+00:01:49,668 --> 00:01:53,798
+Seseña, provincia de Toledo, dos mil tres.
+
+25
+00:01:53,848 --> 00:01:59,099
+A cuarenta kilómetros de la Puerta del Sol, en mitad de un campo de cereal, un constructor
+
+26
+00:01:59,149 --> 00:02:02,819
+hecho a sí mismo anuncia la mayor urbanización de España.
+
+27
+00:02:02,868 --> 00:02:05,099
+Trece mil quinientos pisos.
+
+28
+00:02:05,149 --> 00:02:08,426
+En un pueblo que entonces tenía unos diez mil habitantes.
+
+29
+00:02:09,927 --> 00:02:15,577
+Se llamaba Francisco Hernando, aunque toda España lo conocía por su apodo:
+
+30
+00:02:15,627 --> 00:02:17,277
+El Pocero.
+
+31
+00:02:17,328 --> 00:02:20,937
+Había empezado limpiando pozos negros en Madrid.
+
+32
+00:02:20,987 --> 00:02:24,389
+Ahora levantaba una ciudad entera con su nombre.
+
+33
+00:02:25,890 --> 00:02:28,259
+No era una locura aislada.
+
+34
+00:02:28,310 --> 00:02:30,900
+Era el espíritu de una época.
+
+35
+00:02:30,950 --> 00:02:35,437
+Y para entenderla hay que conocer las tres piezas que encendieron la fiesta.
+
+36
+00:02:36,937 --> 00:02:40,287
+La primera, el dinero barato.
+
+37
+00:02:40,337 --> 00:02:45,426
+En mil novecientos noventa y nueve llega el euro y, con él, los tipos de interés
+
+38
+00:02:45,477 --> 00:02:46,866
+de Alemania.
+
+39
+00:02:46,917 --> 00:02:51,792
+De repente, una hipoteca en España cuesta la mitad que pocos años antes.
+
+40
+00:02:52,692 --> 00:02:58,322
+En junio de dos mil tres, el euríbor, el índice al que van atadas casi todas las
+
+41
+00:02:58,372 --> 00:03:03,421
+hipotecas españolas, cae hasta el dos coma cero uno por ciento.
+
+42
+00:03:03,472 --> 00:03:06,504
+El mínimo de su historia hasta entonces.
+
+43
+00:03:07,503 --> 00:03:10,613
+La segunda pieza, el suelo.
+
+44
+00:03:10,663 --> 00:03:15,553
+En mil novecientos noventa y ocho se aprueba una nueva ley que convierte en urbanizable
+
+45
+00:03:15,603 --> 00:03:18,693
+casi todo lo que no esté protegido.
+
+46
+00:03:18,743 --> 00:03:20,733
+La idea era sencilla:
+
+47
+00:03:20,783 --> 00:03:24,653
+si hay más suelo para construir, las casas bajarán.
+
+48
+00:03:24,703 --> 00:03:26,619
+Pasó justo lo contrario.
+
+49
+00:03:27,520 --> 00:03:30,150
+Exposición de motivos de la ley:
+
+50
+00:03:30,200 --> 00:03:34,949
+la reforma pretende facilitar el aumento de la oferta de suelo, haciendo posible
+
+51
+00:03:35,000 --> 00:03:39,909
+que todo el suelo que todavía no ha sido incorporado al proceso urbano, en el que
+
+52
+00:03:39,960 --> 00:03:45,109
+no concurran razones para su preservación, pueda considerarse susceptible de ser
+
+53
+00:03:45,159 --> 00:03:46,161
+urbanizado.
+
+54
+00:03:47,161 --> 00:03:51,350
+Y la tercera pieza, la más española de todas:
+
+55
+00:03:51,401 --> 00:03:53,411
+las cajas de ahorros.
+
+56
+00:03:53,461 --> 00:03:58,870
+Medio sistema financiero del país en manos de entidades sin accionistas, cuyos consejos
+
+57
+00:03:58,920 --> 00:04:03,570
+repartían los partidos, los sindicatos y las administraciones.
+
+58
+00:04:03,621 --> 00:04:06,073
+Ellas pusieron buena parte del dinero.
+
+59
+00:04:07,573 --> 00:04:13,483
+Con el dinero barato, el suelo abierto y las cajas prestando, la máquina arrancó.
+
+60
+00:04:13,533 --> 00:04:15,022
+Y ya no paró.
+
+61
+00:04:16,521 --> 00:04:20,411
+Y hubo una cuarta pieza que nadie había previsto:
+
+62
+00:04:20,461 --> 00:04:22,111
+la gente.
+
+63
+00:04:22,161 --> 00:04:27,011
+En pocos años llegaron a España millones de personas de Ecuador, de Rumanía, de
+
+64
+00:04:27,061 --> 00:04:32,871
+Marruecos, de Colombia, atraídas por el trabajo que daba la propia construcción.
+
+65
+00:04:32,921 --> 00:04:34,989
+Y todas necesitaban un techo.
+
+66
+00:04:35,888 --> 00:04:38,578
+Los datos del padrón lo dejan claro.
+
+67
+00:04:38,628 --> 00:04:43,558
+En dos mil uno, España tenía unos cuarenta y un millones de habitantes.
+
+68
+00:04:43,608 --> 00:04:46,611
+En dos mil ocho, más de cuarenta y seis.
+
+69
+00:04:46,661 --> 00:04:49,958
+Cinco millones más en siete años.
+
+70
+00:04:50,008 --> 00:04:53,975
+Casi tanto como toda la población de la Comunidad Valenciana.
+
+71
+00:04:55,655 --> 00:04:57,465
+Mil novecientos noventa y siete:
+
+72
+00:04:57,515 --> 00:05:00,845
+el precio de la vivienda empieza a subir.
+
+73
+00:05:00,895 --> 00:05:05,685
+En los nueve años siguientes sube más de un ciento ochenta por ciento.
+
+74
+00:05:05,735 --> 00:05:10,769
+Los sueldos, en ese mismo tiempo, apenas se mueven en comparación.
+
+75
+00:05:11,770 --> 00:05:15,520
+Y España empezó a construir como nadie.
+
+76
+00:05:15,570 --> 00:05:20,712
+En dos mil seis se iniciaron más de ochocientas mil viviendas en un solo año.
+
+77
+00:05:22,212 --> 00:05:27,762
+Algunos años de la burbuja, España empezó más viviendas que Alemania, Francia e
+
+78
+00:05:27,812 --> 00:05:29,482
+Italia juntas.
+
+79
+00:05:29,532 --> 00:05:33,180
+Tres países que sumaban más de cuatro veces su población.
+
+80
+00:05:34,679 --> 00:05:38,989
+La construcción llegó a pesar más del doble que en la media de los grandes países
+
+81
+00:05:39,039 --> 00:05:40,449
+europeos.
+
+82
+00:05:40,499 --> 00:05:44,949
+Uno de cada ocho trabajadores españoles vivía del ladrillo.
+
+83
+00:05:44,999 --> 00:05:49,409
+Y miles de chavales dejaban el instituto a los dieciséis años para subirse a un
+
+84
+00:05:49,459 --> 00:05:50,689
+andamio.
+
+85
+00:05:50,739 --> 00:05:53,196
+Algunos ganaban más que sus profesores.
+
+86
+00:05:54,097 --> 00:05:57,458
+Y así se anunciaban los pisos en dos mil seis.
+
+87
+00:05:57,508 --> 00:06:00,047
+Hipotecas a cuarenta años.
+
+88
+00:06:00,097 --> 00:06:05,007
+Algunas cajas ya ofrecían hasta cincuenta, para menores de treinta y cinco, con
+
+89
+00:06:05,057 --> 00:06:10,043
+el cien por cien del precio financiado y cinco años pagando solo intereses.
+
+90
+00:06:11,042 --> 00:06:14,912
+Los bancos y las cajas competían por darte el préstamo.
+
+91
+00:06:14,962 --> 00:06:19,772
+Las tasadoras valoraban el piso por encima de lo que costaba, para que la hipoteca
+
+92
+00:06:19,822 --> 00:06:24,732
+cubriera también los muebles, el coche y, a veces, las vacaciones.
+
+93
+00:06:25,632 --> 00:06:28,522
+Hoy esto suena a otro planeta.
+
+94
+00:06:28,572 --> 00:06:33,482
+En dos mil ocho, el noventa y siete por ciento de las hipotecas nuevas eran a tipo
+
+95
+00:06:33,532 --> 00:06:34,742
+variable.
+
+96
+00:06:34,793 --> 00:06:39,922
+A finales de dos mil veinticinco, solo cuatro de cada diez lo son.
+
+97
+00:06:39,972 --> 00:06:44,206
+La mayoría de las familias que compran hoy pagan una cuota fija.
+
+98
+00:06:45,206 --> 00:06:49,637
+Y mientras tanto, la fiesta se extendía por todo el país.
+
+99
+00:06:49,687 --> 00:06:54,616
+En la costa mediterránea, en los alrededores de Madrid, en pueblos de interior que
+
+100
+00:06:54,666 --> 00:06:56,610
+nunca habían visto una grúa.
+
+101
+00:06:58,109 --> 00:07:03,659
+Ayuntamientos que firmaban recalificaciones a cambio de dinero para fiestas, polideportivos
+
+102
+00:07:03,709 --> 00:07:05,279
+o rotondas.
+
+103
+00:07:05,329 --> 00:07:08,359
+Rotondas con esculturas gigantes.
+
+104
+00:07:08,409 --> 00:07:09,859
+Aeropuertos.
+
+105
+00:07:09,909 --> 00:07:11,519
+Parques temáticos.
+
+106
+00:07:11,569 --> 00:07:13,152
+Palacios de congresos.
+
+107
+00:07:14,053 --> 00:07:19,203
+Valencia tuvo la Copa América de vela y un circuito urbano de Fórmula Uno.
+
+108
+00:07:19,253 --> 00:07:22,883
+Madrid, cuatro rascacielos nuevos en la Castellana.
+
+109
+00:07:22,933 --> 00:07:26,903
+Y casi cada capital de provincia quiso su gran proyecto.
+
+110
+00:07:26,953 --> 00:07:30,103
+Las obras se inauguraban con banda de música.
+
+111
+00:07:30,153 --> 00:07:32,643
+Lo que costaban no se pagaría ya.
+
+112
+00:07:32,693 --> 00:07:34,226
+Se pagaría después.
+
+113
+00:07:35,126 --> 00:07:40,036
+Las cuentas de los ayuntamientos se volvieron adictas al ladrillo.
+
+114
+00:07:40,086 --> 00:07:45,836
+Las licencias de obra, el impuesto sobre construcciones y las ventas de suelo llegaron
+
+115
+00:07:45,886 --> 00:07:49,316
+a ser una parte enorme de sus ingresos.
+
+116
+00:07:49,366 --> 00:07:54,696
+Cuando la construcción se paró, muchos se quedaron con polideportivos que no podían
+
+117
+00:07:54,746 --> 00:07:58,229
+mantener y deudas que no podían pagar.
+
+118
+00:07:59,229 --> 00:08:01,479
+Todo el mundo ganaba.
+
+119
+00:08:01,529 --> 00:08:03,379
+O eso parecía.
+
+120
+00:08:03,429 --> 00:08:06,459
+Porque nadie se hacía la pregunta incómoda:
+
+121
+00:08:06,509 --> 00:08:09,187
+¿quién iba a vivir en todas esas casas?
+
+122
+00:08:10,087 --> 00:08:13,197
+Un estudio de la época lo calculó así:
+
+123
+00:08:13,247 --> 00:08:18,527
+de las más de ochocientas mil viviendas construidas en un año, unas cuatrocientas
+
+124
+00:08:18,577 --> 00:08:24,577
+cincuenta mil sobraban si se tenía en cuenta cuánta gente necesitaba casa de verdad.
+
+125
+00:08:25,633 --> 00:08:28,363
+Muchas no se compraban para vivir.
+
+126
+00:08:28,413 --> 00:08:30,843
+Se compraban para vender.
+
+127
+00:08:30,893 --> 00:08:34,024
+Sobre plano, antes de que existieran.
+
+128
+00:08:34,073 --> 00:08:38,463
+Y se revendían dos y tres veces antes de poner el último ladrillo.
+
+129
+00:08:39,364 --> 00:08:44,734
+En los telediarios de aquellos años se repetía una frase en bares, oficinas y comidas
+
+130
+00:08:44,783 --> 00:08:46,234
+familiares:
+
+131
+00:08:46,283 --> 00:08:48,754
+el piso nunca baja.
+
+132
+00:08:48,804 --> 00:08:51,274
+Alquilar era tirar el dinero.
+
+133
+00:08:51,324 --> 00:08:53,632
+Y el que no compraba, perdía.
+
+134
+00:08:54,532 --> 00:08:59,902
+Y en parte tenían razón, porque durante una década fue verdad.
+
+135
+00:08:59,951 --> 00:09:05,702
+Entre mil novecientos noventa y ocho y dos mil seis, el precio de la vivienda casi
+
+136
+00:09:05,752 --> 00:09:07,442
+se triplicó.
+
+137
+00:09:07,492 --> 00:09:11,965
+Quien compraba un piso en mil novecientos noventa y ocho y lo vendía en dos mil
+
+138
+00:09:12,014 --> 00:09:17,685
+seis, ganaba casi tres veces lo invertido, sin haber hecho nada.
+
+139
+00:09:18,685 --> 00:09:23,195
+Y en Seseña, la ciudad de El Pocero empezaba a tomar forma.
+
+140
+00:09:23,245 --> 00:09:27,195
+Bloques y bloques de ladrillo rojo en mitad de la nada.
+
+141
+00:09:27,245 --> 00:09:28,275
+Sin colegio.
+
+142
+00:09:28,325 --> 00:09:29,735
+Sin centro de salud.
+
+143
+00:09:29,785 --> 00:09:31,875
+Sin agua garantizada.
+
+144
+00:09:31,925 --> 00:09:33,575
+Pero eso daba igual.
+
+145
+00:09:33,625 --> 00:09:36,402
+Mientras los precios subieran, todo valía.
+
+146
+00:09:42,402 --> 00:09:45,652
+Madrid, mayo de dos mil seis.
+
+147
+00:09:45,701 --> 00:09:50,312
+Un grupo de inspectores del Banco de España, los encargados de vigilar a los bancos
+
+148
+00:09:50,362 --> 00:09:53,632
+desde dentro, envía un escrito al Gobierno.
+
+149
+00:09:53,682 --> 00:09:55,764
+No hablan con medias palabras.
+
+150
+00:09:56,665 --> 00:10:01,715
+Según la información publicada años después, los inspectores describían la situación
+
+151
+00:10:01,765 --> 00:10:04,035
+de la economía como delicada.
+
+152
+00:10:04,085 --> 00:10:07,339
+Y el sector inmobiliario, como frágil.
+
+153
+00:10:08,338 --> 00:10:11,788
+Advertían de algo que hoy parece evidente:
+
+154
+00:10:11,838 --> 00:10:17,428
+que las cajas y los bancos estaban prestando demasiado, a demasiado plazo y a gente
+
+155
+00:10:17,478 --> 00:10:20,528
+que quizá no podría devolverlo.
+
+156
+00:10:20,578 --> 00:10:22,900
+Aquel escrito no cambió nada.
+
+157
+00:10:23,800 --> 00:10:25,510
+No eran los únicos.
+
+158
+00:10:25,560 --> 00:10:30,450
+La palabra burbuja aparecía en la prensa económica desde dos mil tres.
+
+159
+00:10:30,500 --> 00:10:34,950
+Algunos economistas y algunos libros lo advertían cada año.
+
+160
+00:10:35,000 --> 00:10:41,230
+Y cada año, promotores, tasadoras y buena parte de los bancos respondían lo mismo:
+
+161
+00:10:41,280 --> 00:10:44,770
+en España no hay burbuja, hay demanda.
+
+162
+00:10:44,820 --> 00:10:47,636
+Y mientras la demanda siguiera, tenían razón.
+
+163
+00:10:48,636 --> 00:10:53,566
+Porque en dos mil seis y dos mil siete, el discurso oficial era otro.
+
+164
+00:10:53,616 --> 00:10:56,586
+España crecía más que nadie en Europa.
+
+165
+00:10:56,636 --> 00:10:58,326
+Tenía superávit.
+
+166
+00:10:58,376 --> 00:11:02,464
+Y el paro había bajado del ocho por ciento por primera vez en décadas.
+
+167
+00:11:03,965 --> 00:11:09,575
+Al otro lado del Atlántico, sin embargo, algo empezaba a crujir.
+
+168
+00:11:09,625 --> 00:11:14,995
+En Estados Unidos, millones de hipotecas concedidas a familias sin ingresos estables,
+
+169
+00:11:15,045 --> 00:11:19,687
+las llamadas hipotecas basura o subprime, dejan de pagarse.
+
+170
+00:11:20,586 --> 00:11:23,196
+Nueve de agosto de dos mil siete.
+
+171
+00:11:23,245 --> 00:11:28,096
+El banco francés BNP Paribas congela tres de sus fondos.
+
+172
+00:11:28,145 --> 00:11:30,996
+Dice que ya no puede saber cuánto valen.
+
+173
+00:11:31,046 --> 00:11:36,387
+Los bancos de medio mundo dejan de prestarse dinero entre ellos de un día para otro.
+
+174
+00:11:37,287 --> 00:11:39,937
+Catorce de septiembre de dos mil siete.
+
+175
+00:11:39,987 --> 00:11:41,457
+Reino Unido.
+
+176
+00:11:41,507 --> 00:11:46,097
+Cientos de clientes hacen cola en la puerta de las oficinas del banco Northern Rock
+
+177
+00:11:46,147 --> 00:11:48,017
+para sacar sus ahorros.
+
+178
+00:11:48,067 --> 00:11:53,717
+Es la primera retirada masiva de depósitos en un banco británico en más de un siglo.
+
+179
+00:11:53,767 --> 00:11:56,384
+Las imágenes dan la vuelta al mundo.
+
+180
+00:11:57,384 --> 00:12:01,254
+En España, la reacción del Gobierno fue de calma.
+
+181
+00:12:01,304 --> 00:12:03,355
+Agosto de dos mil siete.
+
+182
+00:12:03,404 --> 00:12:08,394
+El vicepresidente económico, Pedro Solbes, sobre el efecto que tendría aquella crisis
+
+183
+00:12:08,444 --> 00:12:10,295
+de las hipotecas americanas.
+
+184
+00:12:11,195 --> 00:12:15,265
+Tendrá un impacto relativamente pequeño en la economía española.
+
+185
+00:12:16,264 --> 00:12:21,575
+Un mes después, el once de septiembre de dos mil siete, el presidente José Luis
+
+186
+00:12:21,625 --> 00:12:25,194
+Rodríguez Zapatero dejó una frase para la historia.
+
+187
+00:12:26,095 --> 00:12:31,045
+Haciendo uso de un símil futbolístico, se podría decir que España ha entrado en
+
+188
+00:12:31,095 --> 00:12:33,734
+la Champions League de la economía mundial.
+
+189
+00:12:34,734 --> 00:12:40,364
+En ese mismo momento, sin que nadie lo dijera en voz alta, la burbuja ya había tocado
+
+190
+00:12:40,413 --> 00:12:41,604
+techo.
+
+191
+00:12:41,653 --> 00:12:44,544
+Las ventas de pisos empezaban a caer.
+
+192
+00:12:44,594 --> 00:12:46,604
+Los precios se frenaban.
+
+193
+00:12:46,653 --> 00:12:51,316
+Y las grúas, sin que nadie lo notara, empezaban a quedarse quietas.
+
+194
+00:12:52,816 --> 00:12:58,366
+En febrero de dos mil ocho, en plena campaña electoral, el vicepresidente Solbes
+
+195
+00:12:58,416 --> 00:13:03,726
+y el candidato económico del Partido Popular, Manuel Pizarro, se enfrentaron en
+
+196
+00:13:03,776 --> 00:13:05,986
+un debate televisado.
+
+197
+00:13:06,036 --> 00:13:08,366
+Pizarro hablaba de crisis.
+
+198
+00:13:08,416 --> 00:13:12,026
+Solbes, de un frenazo pasajero.
+
+199
+00:13:12,076 --> 00:13:16,576
+En marzo, el Partido Socialista volvió a ganar las elecciones.
+
+200
+00:13:17,475 --> 00:13:22,646
+Las viviendas que se empezaron en dos mil siete fueron casi un veinticinco por ciento
+
+201
+00:13:22,696 --> 00:13:24,886
+menos que el año anterior.
+
+202
+00:13:24,936 --> 00:13:27,766
+Pero se terminaron más que nunca:
+
+203
+00:13:27,816 --> 00:13:30,146
+casi seiscientas mil.
+
+204
+00:13:30,196 --> 00:13:34,086
+Una bolsa enorme de pisos nuevos buscando dueño.
+
+205
+00:13:34,135 --> 00:13:37,777
+Justo cuando los compradores empezaban a desaparecer.
+
+206
+00:13:38,777 --> 00:13:42,347
+Y había un detalle que casi nadie miraba.
+
+207
+00:13:42,397 --> 00:13:45,307
+El euríbor llevaba meses subiendo.
+
+208
+00:13:45,357 --> 00:13:49,345
+Y con él, la cuota de millones de hipotecas variables.
+
+209
+00:13:50,245 --> 00:13:55,455
+En julio de dos mil siete estaba en el cuatro coma cincuenta y seis por ciento.
+
+210
+00:13:55,504 --> 00:14:01,715
+Un año después, en julio de dos mil ocho, en el cinco coma treinta y nueve:
+
+211
+00:14:01,764 --> 00:14:04,015
+el máximo de su historia.
+
+212
+00:14:04,065 --> 00:14:08,015
+Para una hipoteca media, casi mil euros más al año.
+
+213
+00:14:09,016 --> 00:14:12,906
+Las familias que se habían hipotecado al límite empezaron a hacer cuentas a final
+
+214
+00:14:12,956 --> 00:14:14,066
+de mes.
+
+215
+00:14:14,116 --> 00:14:16,566
+Las promotoras, a no vender.
+
+216
+00:14:16,616 --> 00:14:21,366
+Y los bancos, a mirar con miedo lo que tenían en sus balances.
+
+217
+00:14:21,416 --> 00:14:25,106
+Pero el verdadero golpe todavía no había llegado.
+
+218
+00:14:25,156 --> 00:14:27,286
+Vendría de Nueva York.
+
+219
+00:14:27,336 --> 00:14:29,109
+Y tenía nombre de banco.
+
+220
+00:14:35,109 --> 00:14:40,399
+Nueva York, lunes quince de septiembre de dos mil ocho, una y cuarenta y cinco de
+
+221
+00:14:40,449 --> 00:14:41,679
+la madrugada.
+
+222
+00:14:41,729 --> 00:14:46,732
+Lehman Brothers, el cuarto banco de inversión de Estados Unidos, con ciento cincuenta
+
+223
+00:14:46,782 --> 00:14:51,559
+y ocho años de historia, presenta la mayor quiebra de la historia del país.
+
+224
+00:14:52,459 --> 00:14:56,589
+Deudas por más de seiscientos mil millones de dólares.
+
+225
+00:14:56,639 --> 00:15:01,002
+Más que el producto interior bruto de muchos países enteros.
+
+226
+00:15:02,003 --> 00:15:07,733
+Por la mañana, las cámaras de televisión de todo el mundo graban la misma escena:
+
+227
+00:15:07,783 --> 00:15:12,473
+empleados saliendo del edificio con sus cosas en cajas de cartón.
+
+228
+00:15:12,523 --> 00:15:16,225
+Veinticinco mil personas se quedaban sin trabajo de golpe.
+
+229
+00:15:17,724 --> 00:15:20,554
+¿Cómo podía caer un gigante así?
+
+230
+00:15:20,604 --> 00:15:25,314
+Porque llevaba años comprando, empaquetando y revendiendo lo mismo que había hundido
+
+231
+00:15:25,364 --> 00:15:27,374
+las casas americanas:
+
+232
+00:15:27,424 --> 00:15:30,334
+hipotecas que nunca se iban a pagar.
+
+233
+00:15:30,384 --> 00:15:35,000
+Y cuando esos paquetes dejaron de valer nada, nadie quiso rescatarlo.
+
+234
+00:15:36,500 --> 00:15:42,430
+Tres semanas después, su presidente, Richard Fuld, tuvo que explicarse ante el Congreso
+
+235
+00:15:42,480 --> 00:15:44,107
+de los Estados Unidos.
+
+236
+00:15:45,008 --> 00:15:49,973
+Me despierto cada noche preguntándome qué podría haber hecho de otra manera.
+
+237
+00:15:50,973 --> 00:15:53,843
+Lo que vino después se llamó pánico.
+
+238
+00:15:53,893 --> 00:15:55,703
+Las bolsas se desploman.
+
+239
+00:15:55,753 --> 00:15:58,623
+Los bancos dejan de fiarse unos de otros.
+
+240
+00:15:58,673 --> 00:16:03,283
+En Estados Unidos, el Gobierno rescata a la mayor aseguradora del mundo.
+
+241
+00:16:03,333 --> 00:16:09,333
+En Europa caen bancos en Islandia, en Irlanda, en Bélgica, en el Reino Unido.
+
+242
+00:16:10,245 --> 00:16:12,754
+La Bolsa española no se libró.
+
+243
+00:16:12,804 --> 00:16:18,203
+El Ibex treinta y cinco, el índice de las grandes empresas cotizadas, cerró dos
+
+244
+00:16:18,253 --> 00:16:22,504
+mil ocho con una caída de casi el cuarenta por ciento.
+
+245
+00:16:22,554 --> 00:16:24,674
+El peor año de su historia.
+
+246
+00:16:25,574 --> 00:16:28,024
+Tres de octubre de dos mil ocho.
+
+247
+00:16:28,074 --> 00:16:33,304
+El Congreso de Estados Unidos aprueba, al segundo intento, un plan de rescate de
+
+248
+00:16:33,354 --> 00:16:39,004
+setecientos mil millones de dólares para comprar los activos tóxicos de los bancos.
+
+249
+00:16:39,054 --> 00:16:44,424
+Unos días antes lo había rechazado y Wall Street había vivido su mayor caída en
+
+250
+00:16:44,474 --> 00:16:45,857
+puntos de la historia.
+
+251
+00:16:46,757 --> 00:16:51,887
+En España, el Gobierno aprueba en octubre un fondo de hasta cincuenta mil millones
+
+252
+00:16:51,937 --> 00:16:57,307
+de euros para comprar activos a los bancos y avales públicos de hasta cien mil millones
+
+253
+00:16:57,357 --> 00:16:59,891
+para que pudieran seguir financiándose.
+
+254
+00:17:00,891 --> 00:17:07,000
+Y España, que juraba estar a salvo, descubrió que el problema no era americano.
+
+255
+00:17:07,050 --> 00:17:08,701
+Era suyo.
+
+256
+00:17:08,750 --> 00:17:12,300
+Porque aquí no había hipotecas basura empaquetadas:
+
+257
+00:17:12,350 --> 00:17:14,121
+había algo peor.
+
+258
+00:17:14,171 --> 00:17:18,800
+Un país entero endeudado para comprar casas que valían mucho menos de lo que se
+
+259
+00:17:18,850 --> 00:17:20,406
+había pagado por ellas.
+
+260
+00:17:21,906 --> 00:17:26,396
+En septiembre de dos mil ocho, el presidente del Gobierno llegó a presumir en Nueva
+
+261
+00:17:26,446 --> 00:17:31,537
+York de que la banca española era probablemente la más sólida del mundo.
+
+262
+00:17:31,586 --> 00:17:33,537
+Y en parte lo parecía:
+
+263
+00:17:33,586 --> 00:17:38,596
+los grandes bancos no habían comprado apenas aquellos paquetes tóxicos americanos.
+
+264
+00:17:38,646 --> 00:17:40,956
+El veneno estaba en otro sitio.
+
+265
+00:17:41,006 --> 00:17:42,656
+En los balances de las cajas.
+
+266
+00:17:42,706 --> 00:17:44,996
+Y en los pisos sin vender.
+
+267
+00:17:45,896 --> 00:17:51,106
+La deuda de las familias españolas superaba ya el ochenta por ciento de todo lo
+
+268
+00:17:51,156 --> 00:17:53,567
+que producía el país en un año.
+
+269
+00:17:53,616 --> 00:17:58,627
+Y el crédito a promotores y constructoras pasaba del cuarenta por ciento.
+
+270
+00:17:59,628 --> 00:18:04,558
+De hecho, el primer gran golpe había llegado aquí dos meses antes que Lehman.
+
+271
+00:18:04,608 --> 00:18:06,618
+Julio de dos mil ocho.
+
+272
+00:18:06,668 --> 00:18:11,918
+La inmobiliaria Martinsa-Fadesa, una de las mayores del país, se declara en concurso
+
+273
+00:18:11,968 --> 00:18:13,378
+de acreedores.
+
+274
+00:18:13,428 --> 00:18:16,789
+La mayor suspensión de pagos de la historia de España.
+
+275
+00:18:18,288 --> 00:18:23,159
+Mientras tanto, el Gobierno seguía evitando una palabra.
+
+276
+00:18:23,209 --> 00:18:28,619
+Durante la primera mitad de dos mil ocho, el presidente habló de desaceleración,
+
+277
+00:18:28,669 --> 00:18:32,058
+de dificultades, de un ajuste.
+
+278
+00:18:32,108 --> 00:18:36,298
+Hasta el verano no pronunció en público la palabra crisis.
+
+279
+00:18:37,798 --> 00:18:40,307
+Pero ya daba igual cómo se llamara.
+
+280
+00:18:40,357 --> 00:18:46,048
+Porque en las obras de toda España, una tras otra, las hormigoneras se paraban.
+
+281
+00:18:46,097 --> 00:18:49,077
+Y lo que venía detrás de ellas era el paro.
+
+282
+00:18:49,978 --> 00:18:54,468
+Paradójicamente, las hipotecas pronto empezaron a bajar.
+
+283
+00:18:54,518 --> 00:18:59,748
+Para frenar el desastre, el Banco Central Europeo recortó sus tipos de interés del
+
+284
+00:18:59,798 --> 00:19:04,888
+cuatro coma veinticinco al uno por ciento en menos de un año.
+
+285
+00:19:04,938 --> 00:19:07,348
+El euríbor se desplomó.
+
+286
+00:19:07,398 --> 00:19:11,534
+Pero de poco sirve que baje la cuota si te quedas sin sueldo.
+
+287
+00:19:17,033 --> 00:19:22,503
+Una oficina de empleo de cualquier barrio de España, invierno de dos mil nueve.
+
+288
+00:19:22,553 --> 00:19:26,463
+La cola sale por la puerta y da la vuelta a la esquina.
+
+289
+00:19:26,513 --> 00:19:31,263
+Albañiles, encofradores, electricistas, administrativos de inmobiliaria, vendedores
+
+290
+00:19:31,313 --> 00:19:32,180
+de pisos.
+
+291
+00:19:33,081 --> 00:19:38,751
+En el verano de dos mil siete, España tenía alrededor de un millón ochocientos mil
+
+292
+00:19:38,801 --> 00:19:40,051
+parados.
+
+293
+00:19:40,101 --> 00:19:43,331
+Era el mejor dato en casi treinta años.
+
+294
+00:19:44,331 --> 00:19:47,041
+El ladrillo había creado millones de empleos.
+
+295
+00:19:47,091 --> 00:19:50,321
+Y se los llevó con la misma velocidad.
+
+296
+00:19:50,371 --> 00:19:55,162
+Más de la mitad de los puestos de trabajo de la construcción desaparecieron.
+
+297
+00:19:55,211 --> 00:20:00,942
+Detrás cayeron las fábricas de cemento, de azulejos, de muebles, de electrodomésticos.
+
+298
+00:20:00,991 --> 00:20:03,226
+Y los bares de las obras.
+
+299
+00:20:04,125 --> 00:20:09,076
+La construcción llegó a dar trabajo a unos dos millones setecientas mil personas
+
+300
+00:20:09,125 --> 00:20:10,904
+en dos mil siete.
+
+301
+00:20:10,954 --> 00:20:14,358
+Seis años después, no llegaba a un millón.
+
+302
+00:20:15,358 --> 00:20:19,068
+El Gobierno intentó frenar la caída con obra pública.
+
+303
+00:20:19,118 --> 00:20:22,288
+A finales de dos mil ocho lanza el Plan E:
+
+304
+00:20:22,338 --> 00:20:26,509
+ocho mil millones de euros para que los ayuntamientos hicieran obras pequeñas y
+
+305
+00:20:26,558 --> 00:20:27,668
+rápidas.
+
+306
+00:20:27,718 --> 00:20:30,668
+Aceras, plazas, polideportivos.
+
+307
+00:20:30,718 --> 00:20:33,168
+Dio trabajo durante unos meses.
+
+308
+00:20:33,218 --> 00:20:36,862
+Pero cuando se acabó el dinero, el paro siguió subiendo.
+
+309
+00:20:37,762 --> 00:20:43,093
+En la primavera de dos mil nueve, la ministra de Economía, Elena Salgado, aseguró
+
+310
+00:20:43,143 --> 00:20:46,633
+que ya se veían brotes verdes en la economía.
+
+311
+00:20:46,682 --> 00:20:49,772
+La expresión se hizo tan famosa como la de la Champions.
+
+312
+00:20:49,822 --> 00:20:54,464
+Y es que el paro siguió subiendo todavía cuatro años más.
+
+313
+00:20:55,365 --> 00:20:59,555
+El precio de aquel esfuerzo apareció en las cuentas públicas.
+
+314
+00:20:59,605 --> 00:21:05,113
+En dos mil siete, el Estado tenía superávit y una deuda de apenas el treinta y seis
+
+315
+00:21:05,163 --> 00:21:08,375
+por ciento del producto interior bruto.
+
+316
+00:21:08,424 --> 00:21:12,775
+En dos mil nueve, el déficit superó el once por ciento.
+
+317
+00:21:12,825 --> 00:21:18,166
+Y la deuda pública acabaría superando el cien por cien en dos mil catorce.
+
+318
+00:21:19,165 --> 00:21:21,536
+Y llegó la segunda ola.
+
+319
+00:21:21,586 --> 00:21:27,296
+En dos mil diez, la crisis de las hipotecas se convirtió en una crisis de deuda.
+
+320
+00:21:27,346 --> 00:21:29,895
+Grecia pide un rescate.
+
+321
+00:21:29,945 --> 00:21:33,946
+Los mercados empiezan a dudar de que España pueda pagar lo que debe.
+
+322
+00:21:35,446 --> 00:21:37,956
+Doce de mayo de dos mil diez.
+
+323
+00:21:38,006 --> 00:21:42,716
+El presidente sube a la tribuna del Congreso y anuncia lo que hasta pocos días antes
+
+324
+00:21:42,766 --> 00:21:44,576
+había descartado:
+
+325
+00:21:44,626 --> 00:21:47,516
+el mayor recorte de la democracia.
+
+326
+00:21:47,566 --> 00:21:50,656
+Los sueldos de los funcionarios bajan un cinco por ciento.
+
+327
+00:21:50,706 --> 00:21:53,101
+Las pensiones se congelan.
+
+328
+00:21:54,601 --> 00:22:00,051
+Un año después, en el verano de dos mil once, los dos grandes partidos se ponían
+
+329
+00:22:00,101 --> 00:22:03,351
+de acuerdo en algo casi inédito:
+
+330
+00:22:03,401 --> 00:22:08,751
+reformar la Constitución en pocas semanas para que el pago de la deuda pública tuviera
+
+331
+00:22:08,801 --> 00:22:10,391
+prioridad absoluta.
+
+332
+00:22:11,891 --> 00:22:15,981
+Pero antes de eso, la calle ya había estallado.
+
+333
+00:22:16,031 --> 00:22:18,301
+Quince de mayo de dos mil once.
+
+334
+00:22:18,351 --> 00:22:24,301
+Miles de personas, muchas de ellas jóvenes, salen a manifestarse en decenas de ciudades.
+
+335
+00:22:24,351 --> 00:22:29,024
+Y esa noche, unas cuantas se quedan a dormir en la Puerta del Sol de Madrid.
+
+336
+00:22:29,924 --> 00:22:34,183
+El lema de aquella primera manifestación lo resumía todo.
+
+337
+00:22:35,083 --> 00:22:38,947
+No somos mercancía en manos de políticos y banqueros.
+
+338
+00:22:39,947 --> 00:22:45,717
+La acampada de Sol duró casi un mes y se copió en plazas de toda España.
+
+339
+00:22:45,767 --> 00:22:50,997
+Se la conoció como el movimiento del Quince M, o de los indignados.
+
+340
+00:22:51,047 --> 00:22:56,397
+Y de aquel movimiento saldrían, años después, nuevos partidos que cambiaron el mapa
+
+341
+00:22:56,447 --> 00:22:57,818
+político español.
+
+342
+00:22:58,717 --> 00:23:04,007
+Cuando levantaron el campamento, a mediados de junio, colgaron una pancarta enorme
+
+343
+00:23:04,057 --> 00:23:05,387
+en la plaza.
+
+344
+00:23:05,437 --> 00:23:06,487
+Decía:
+
+345
+00:23:06,537 --> 00:23:10,217
+no nos vamos, nos mudamos a tu conciencia.
+
+346
+00:23:11,218 --> 00:23:16,068
+En noviembre de dos mil once hubo elecciones y cambió el Gobierno.
+
+347
+00:23:16,118 --> 00:23:18,648
+Pero el paro no dejó de subir.
+
+348
+00:23:18,698 --> 00:23:22,888
+Hasta que en la primavera de dos mil trece llegó el peor dato de la historia de
+
+349
+00:23:22,938 --> 00:23:23,738
+España.
+
+350
+00:23:25,214 --> 00:23:30,264
+El nuevo Gobierno aprobó en febrero de dos mil doce una reforma laboral que abarataba
+
+351
+00:23:30,314 --> 00:23:31,724
+el despido.
+
+352
+00:23:31,774 --> 00:23:34,184
+Y en verano, más recortes:
+
+353
+00:23:34,234 --> 00:23:38,825
+subió el IVA hasta el veintiuno por ciento y se suprimió la paga extra de Navidad
+
+354
+00:23:38,875 --> 00:23:40,484
+de los funcionarios.
+
+355
+00:23:40,534 --> 00:23:45,684
+Los dos grandes partidos, uno tras otro, acabaron aplicando el ajuste que pedía
+
+356
+00:23:45,734 --> 00:23:46,534
+Europa.
+
+357
+00:23:47,403 --> 00:23:49,473
+Y la calle respondió.
+
+358
+00:23:49,523 --> 00:23:53,453
+Huelgas generales en marzo y en noviembre de dos mil doce.
+
+359
+00:23:53,503 --> 00:23:54,594
+Las mareas:
+
+360
+00:23:54,644 --> 00:23:59,114
+la verde de la educación, la blanca de la sanidad.
+
+361
+00:23:59,163 --> 00:24:02,277
+Manifestaciones cada semana frente al Congreso.
+
+362
+00:24:03,176 --> 00:24:08,186
+Seis millones doscientas dos mil setecientas personas en paro.
+
+363
+00:24:08,236 --> 00:24:11,706
+El veintisiete por ciento de la población activa.
+
+364
+00:24:11,756 --> 00:24:15,606
+Más de uno de cada cuatro españoles que querían trabajar.
+
+365
+00:24:16,506 --> 00:24:21,856
+Entre los menores de veinticinco años, el paro llegó al cincuenta y siete por ciento.
+
+366
+00:24:21,906 --> 00:24:27,553
+Y había casi dos millones de hogares en los que no trabajaba nadie.
+
+367
+00:24:28,553 --> 00:24:33,563
+Fue la generación que había oído toda su vida que estudiar y comprarse un piso era
+
+368
+00:24:33,613 --> 00:24:35,443
+el camino seguro.
+
+369
+00:24:35,493 --> 00:24:40,823
+Muchos hicieron las maletas y se fueron a Alemania, al Reino Unido o a Francia a
+
+370
+00:24:40,873 --> 00:24:42,726
+buscar lo que aquí no había.
+
+371
+00:24:44,226 --> 00:24:46,796
+Seis millones de parados.
+
+372
+00:24:46,846 --> 00:24:51,156
+Un país que había presumido de jugar la Champions League se había convertido, en
+
+373
+00:24:51,206 --> 00:24:56,496
+apenas cinco años, en el segundo con más paro de toda la Unión Europea, solo por
+
+374
+00:24:56,546 --> 00:24:58,536
+detrás de Grecia.
+
+375
+00:24:58,586 --> 00:25:01,616
+Y todavía faltaba la peor parte de la historia.
+
+376
+00:25:03,115 --> 00:25:06,105
+Antes de seguir, recapitulemos.
+
+377
+00:25:06,155 --> 00:25:08,596
+Hasta aquí, cuatro claves.
+
+378
+00:25:10,096 --> 00:25:12,567
+Y ahora viene lo que más dolió.
+
+379
+00:25:12,616 --> 00:25:15,247
+Porque perder el trabajo es terrible.
+
+380
+00:25:15,297 --> 00:25:19,767
+Pero perder el trabajo con una hipoteca a treinta años firmada en lo más alto de
+
+381
+00:25:19,817 --> 00:25:23,007
+la burbuja era otra cosa.
+
+382
+00:25:23,057 --> 00:25:24,207
+Era perder la casa.
+
+383
+00:25:24,257 --> 00:25:26,607
+Y seguir debiéndola.
+
+384
+00:25:28,107 --> 00:25:33,938
+Por cierto, si te está gustando, en DocuVox preparamos la siguiente historia:
+
+385
+00:25:33,988 --> 00:25:39,857
+Bankia, el banco que salió a bolsa y pidió el rescate diez meses después.
+
+386
+00:25:39,907 --> 00:25:41,769
+Suscríbete para no perdértela.
+
+387
+00:25:47,769 --> 00:25:53,400
+Una mañana cualquiera de dos mil doce, en un bloque de cualquier barrio obrero.
+
+388
+00:25:53,450 --> 00:25:55,900
+Llega la comisión judicial.
+
+389
+00:25:55,950 --> 00:25:57,720
+Llega la policía.
+
+390
+00:25:57,769 --> 00:26:02,360
+Y delante del portal esperan decenas de vecinos con camisetas verdes, dispuestos
+
+391
+00:26:02,410 --> 00:26:05,108
+a impedir que una familia se quede en la calle.
+
+392
+00:26:06,608 --> 00:26:12,459
+Eran de la Plataforma de Afectados por la Hipoteca, la PAH, nacida en Barcelona
+
+393
+00:26:12,509 --> 00:26:14,318
+en dos mil nueve.
+
+394
+00:26:14,368 --> 00:26:20,178
+Su campaña Stop Desahucios convirtió en noticia diaria algo que hasta entonces pasaba
+
+395
+00:26:20,228 --> 00:26:21,170
+en silencio.
+
+396
+00:26:22,070 --> 00:26:27,140
+Las imágenes de aquellos desahucios se convirtieron en parte del paisaje:
+
+397
+00:26:27,190 --> 00:26:33,681
+cerrajeros cambiando cerraduras, muebles en la acera, vecinos sentados en el portal.
+
+398
+00:26:33,730 --> 00:26:37,961
+Muchas veces el desahucio se aplazaba en el último minuto.
+
+399
+00:26:38,010 --> 00:26:39,749
+Muchas otras, no.
+
+400
+00:26:40,648 --> 00:26:45,638
+Las cifras del Consejo General del Poder Judicial dan la dimensión.
+
+401
+00:26:45,688 --> 00:26:51,058
+En dos mil ocho se iniciaron cincuenta y ocho mil ejecuciones hipotecarias.
+
+402
+00:26:51,108 --> 00:26:56,268
+En dos mil nueve, más de noventa y tres mil.
+
+403
+00:26:56,317 --> 00:27:00,259
+Entre dos mil ocho y dos mil catorce, según los cálculos de Amnistía Internacional,
+
+404
+00:27:00,308 --> 00:27:02,070
+más de medio millón.
+
+405
+00:27:02,971 --> 00:27:05,341
+Un dato para comparar con hoy.
+
+406
+00:27:05,391 --> 00:27:11,381
+En aquellos años, la mayoría de los desahucios eran por no poder pagar la hipoteca.
+
+407
+00:27:11,431 --> 00:27:16,536
+Desde dos mil quince, más de la mitad son por no poder pagar el alquiler.
+
+408
+00:27:17,535 --> 00:27:22,745
+Y había un detalle de la ley española que muchos desconocían cuando firmaron.
+
+409
+00:27:22,795 --> 00:27:27,565
+Si el banco se quedaba con tu casa y la subastaba por menos de lo que debías, la
+
+410
+00:27:27,615 --> 00:27:30,465
+diferencia la seguías debiendo tú.
+
+411
+00:27:30,515 --> 00:27:31,585
+Te quedabas sin casa.
+
+412
+00:27:31,635 --> 00:27:33,562
+Y con la deuda.
+
+413
+00:27:34,462 --> 00:27:39,333
+Lo dice el artículo mil novecientos once del Código Civil, vigente desde el siglo
+
+414
+00:27:39,383 --> 00:27:40,692
+diecinueve:
+
+415
+00:27:40,742 --> 00:27:46,353
+del cumplimiento de las obligaciones responde el deudor con todos sus bienes, presentes
+
+416
+00:27:46,403 --> 00:27:47,437
+y futuros.
+
+417
+00:27:48,337 --> 00:27:53,567
+En dos mil trece, una iniciativa legislativa popular para cambiar esa ley, la de
+
+418
+00:27:53,617 --> 00:27:58,668
+la dación en pago, llegó al Congreso con casi un millón y medio de firmas.
+
+419
+00:27:58,718 --> 00:28:03,948
+Ese mismo año, el Tribunal de Justicia de la Unión Europea dio la razón a un vecino
+
+420
+00:28:03,998 --> 00:28:08,448
+de Martorell, en Barcelona, frente a las cláusulas de su hipoteca.
+
+421
+00:28:08,498 --> 00:28:10,378
+La ley tuvo que cambiar.
+
+422
+00:28:11,378 --> 00:28:14,888
+Y a los desahucios se sumaron otros escándalos.
+
+423
+00:28:14,938 --> 00:28:19,709
+Las cláusulas suelo, que impedían que la cuota de la hipoteca bajara aunque bajara
+
+424
+00:28:19,759 --> 00:28:24,808
+el euríbor, fueron anuladas por el Tribunal Supremo en mayo de dos mil trece si
+
+425
+00:28:24,858 --> 00:28:27,428
+no se habían explicado con claridad.
+
+426
+00:28:27,478 --> 00:28:29,888
+Y las participaciones preferentes:
+
+427
+00:28:29,938 --> 00:28:34,729
+productos complejos que las cajas vendieron como si fueran depósitos a cientos de
+
+428
+00:28:34,778 --> 00:28:38,122
+miles de ahorradores, muchos de ellos jubilados.
+
+429
+00:28:39,022 --> 00:28:44,133
+Las cláusulas suelo estaban en una parte enorme de las hipotecas firmadas durante
+
+430
+00:28:44,182 --> 00:28:45,792
+la burbuja.
+
+431
+00:28:45,842 --> 00:28:51,192
+Años después, el Tribunal de Justicia de la Unión Europea obligó en dos mil dieciséis
+
+432
+00:28:51,242 --> 00:28:55,281
+a devolver todo lo cobrado de más desde el principio.
+
+433
+00:28:56,281 --> 00:29:02,511
+Mientras miles de familias perdían su casa, el país estaba lleno de casas vacías.
+
+434
+00:29:02,561 --> 00:29:07,172
+El censo de dos mil once contó más de tres millones cuatrocientas mil viviendas
+
+435
+00:29:07,221 --> 00:29:08,567
+sin nadie dentro.
+
+436
+00:29:10,067 --> 00:29:13,757
+Y luego estaban los monumentos de la burbuja.
+
+437
+00:29:13,807 --> 00:29:17,836
+Castellón, veinticinco de marzo de dos mil once.
+
+438
+00:29:17,886 --> 00:29:23,356
+Se inaugura un aeropuerto que ha costado más de ciento cincuenta millones de euros.
+
+439
+00:29:23,406 --> 00:29:27,477
+Hay autobuses fletados, discursos y fanfarria.
+
+440
+00:29:27,527 --> 00:29:29,880
+Lo único que no hay son aviones.
+
+441
+00:29:31,380 --> 00:29:36,830
+Su gran impulsor, el presidente de la Diputación, Carlos Fabra, respondió así a
+
+442
+00:29:36,880 --> 00:29:38,720
+las críticas aquel mismo día.
+
+443
+00:29:39,619 --> 00:29:44,609
+Hay quien dice que estamos locos por inaugurar un aeropuerto sin aviones.
+
+444
+00:29:44,659 --> 00:29:46,710
+No han entendido nada.
+
+445
+00:29:46,759 --> 00:29:49,398
+Es un aeropuerto para las personas.
+
+446
+00:29:50,398 --> 00:29:54,648
+Aquel día invitó a los vecinos a pasear por las pistas.
+
+447
+00:29:54,698 --> 00:29:59,269
+Junto a la entrada se levantó una escultura de veinticuatro metros en homenaje al
+
+448
+00:29:59,318 --> 00:30:01,668
+impulsor de la obra.
+
+449
+00:30:01,718 --> 00:30:05,808
+El primer vuelo comercial tardó cuatro años en llegar.
+
+450
+00:30:05,858 --> 00:30:10,937
+Para entonces, Fabra ya estaba en prisión, condenado por fraude fiscal.
+
+451
+00:30:12,438 --> 00:30:14,188
+No fue el único.
+
+452
+00:30:14,238 --> 00:30:19,168
+El aeropuerto de Ciudad Real costó más de mil millones de euros, abrió en plena
+
+453
+00:30:19,218 --> 00:30:23,397
+crisis y cerró en dos mil doce casi sin haber tenido pasajeros.
+
+454
+00:30:24,897 --> 00:30:29,127
+Y en Seseña, la ciudad de El Pocero se quedó a medias.
+
+455
+00:30:29,177 --> 00:30:35,147
+De los trece mil quinientos pisos proyectados se terminaron unos cinco mil seiscientos.
+
+456
+00:30:35,197 --> 00:30:39,207
+En aquellos años vivían allí poco más de dos mil personas.
+
+457
+00:30:39,257 --> 00:30:45,988
+Bloques enteros vacíos, calles sin coches, locales con la persiana bajada.
+
+458
+00:30:46,038 --> 00:30:50,045
+La prensa extranjera empezó a llamarla la ciudad fantasma.
+
+459
+00:30:51,545 --> 00:30:56,769
+El director de comunicación del grupo de Francisco Hernando lo veía de otra manera.
+
+460
+00:30:57,669 --> 00:31:02,585
+Seseña tiene un futuro espléndido, aunque ahora viva un paréntesis.
+
+461
+00:31:03,586 --> 00:31:06,895
+Aquel paréntesis iba a durar más de una década.
+
+462
+00:31:06,945 --> 00:31:12,796
+Y para que el país no se hundiera del todo, faltaba todavía la factura más grande.
+
+463
+00:31:12,846 --> 00:31:16,375
+La que no iban a pagar los bancos.
+
+464
+00:31:16,425 --> 00:31:18,501
+La íbamos a pagar todos.
+
+465
+00:31:24,501 --> 00:31:27,912
+Madrid, veinte de julio de dos mil once.
+
+466
+00:31:27,961 --> 00:31:29,852
+Palacio de la Bolsa.
+
+467
+00:31:29,902 --> 00:31:35,071
+Rodrigo Rato, exvicepresidente del Gobierno y exdirector gerente del Fondo Monetario
+
+468
+00:31:35,121 --> 00:31:37,652
+Internacional, toca la campana.
+
+469
+00:31:37,701 --> 00:31:39,859
+Bankia empieza a cotizar.
+
+470
+00:31:41,359 --> 00:31:46,049
+Para entender cómo se llegó hasta ahí hay que volver a las cajas.
+
+471
+00:31:46,099 --> 00:31:50,889
+Cuando estalló la burbuja, eran ellas las que más ladrillo tenían.
+
+472
+00:31:50,939 --> 00:31:53,769
+Una tras otra empezaron a caer.
+
+473
+00:31:53,819 --> 00:31:59,230
+La primera, Caja Castilla-La Mancha, intervenida por el Banco de España en marzo
+
+474
+00:31:59,279 --> 00:32:00,849
+de dos mil nueve.
+
+475
+00:32:00,899 --> 00:32:03,129
+Después, CajaSur.
+
+476
+00:32:03,179 --> 00:32:08,736
+Después, la Caja de Ahorros del Mediterráneo, vendida al Banco Sabadell por un euro.
+
+477
+00:32:09,637 --> 00:32:14,847
+En dos mil nueve había cuarenta y cinco cajas de ahorros en España.
+
+478
+00:32:14,897 --> 00:32:18,528
+Hoy quedan dos pequeñas cajas que siguen siéndolo.
+
+479
+00:32:18,577 --> 00:32:23,970
+Todas las demás desaparecieron, se fusionaron o se convirtieron en bancos.
+
+480
+00:32:24,968 --> 00:32:28,078
+La solución que se eligió fue juntarlas.
+
+481
+00:32:28,128 --> 00:32:34,758
+Siete cajas, con Caja Madrid y Bancaja a la cabeza, se unieron para formar un gigante:
+
+482
+00:32:34,808 --> 00:32:36,238
+Bankia.
+
+483
+00:32:36,288 --> 00:32:39,900
+Y para conseguir capital, el gigante salió a bolsa.
+
+484
+00:32:40,800 --> 00:32:46,211
+Para ordenar aquel proceso nació en junio de dos mil nueve el FROB, el Fondo de
+
+485
+00:32:46,260 --> 00:32:48,931
+Reestructuración Ordenada Bancaria.
+
+486
+00:32:48,980 --> 00:32:50,431
+Su misión:
+
+487
+00:32:50,480 --> 00:32:54,931
+dar dinero público a las cajas que se fusionaran y tomar el control de las que no
+
+488
+00:32:54,980 --> 00:32:56,378
+pudieran sobrevivir.
+
+489
+00:32:57,278 --> 00:33:02,588
+Muchas fusiones se hicieron entre cajas de la misma comunidad, con sus mismos consejos
+
+490
+00:33:02,638 --> 00:33:04,689
+y sus mismos problemas.
+
+491
+00:33:04,739 --> 00:33:08,348
+Los analistas las llamaron fusiones frías.
+
+492
+00:33:08,398 --> 00:33:12,375
+Juntar dos enfermos, decían algunos, no da un sano.
+
+493
+00:33:13,273 --> 00:33:18,483
+La salida a Bolsa de Bankia es una decisión estratégica para hacer más fuerte la
+
+494
+00:33:18,533 --> 00:33:21,701
+entidad y consolidar su papel de liderazgo.
+
+495
+00:33:22,701 --> 00:33:28,922
+Más de trescientos cuarenta mil pequeños ahorradores compraron acciones a tres euros
+
+496
+00:33:28,971 --> 00:33:30,271
+con setenta y cinco céntimos.
+
+497
+00:33:30,321 --> 00:33:35,152
+Muchos eran clientes de toda la vida de su caja, que la habían visto anunciar en
+
+498
+00:33:35,201 --> 00:33:36,356
+las sucursales.
+
+499
+00:33:37,856 --> 00:33:42,106
+Diez meses después, todo saltó por los aires.
+
+500
+00:33:42,156 --> 00:33:44,487
+Siete de mayo de dos mil doce:
+
+501
+00:33:44,537 --> 00:33:45,967
+Rato dimite.
+
+502
+00:33:46,017 --> 00:33:49,366
+Dos días después, el Estado se queda con el banco.
+
+503
+00:33:49,416 --> 00:33:54,326
+Y el veinticinco de mayo, Bankia pide diecinueve mil millones de euros más.
+
+504
+00:33:54,376 --> 00:33:56,934
+Ese mismo día se suspende su cotización.
+
+505
+00:33:57,834 --> 00:34:03,984
+Bankia había salido a bolsa valorada en unos seis mil setecientos millones de euros.
+
+506
+00:34:04,034 --> 00:34:09,465
+Cuando se suspendió su cotización, sus acciones ya habían perdido más de un tercio
+
+507
+00:34:09,514 --> 00:34:10,784
+de su valor.
+
+508
+00:34:10,835 --> 00:34:13,284
+Y lo peor estaba por llegar:
+
+509
+00:34:13,335 --> 00:34:20,424
+en dos mil doce, ya nacionalizada, declaró pérdidas de más de diecinueve mil millones.
+
+510
+00:34:20,474 --> 00:34:23,722
+Las mayores de la historia de una empresa española.
+
+511
+00:34:24,722 --> 00:34:27,831
+Y entonces España entró en pánico.
+
+512
+00:34:27,882 --> 00:34:30,731
+Los inversores huyen de la deuda española.
+
+513
+00:34:30,782 --> 00:34:35,811
+La prima de riesgo, lo que España paga de más por pedir prestado respecto a Alemania,
+
+514
+00:34:35,862 --> 00:34:36,932
+se dispara.
+
+515
+00:34:36,982 --> 00:34:41,791
+Y en Bruselas, Berlín y Washington empiezan a hablar en voz alta de algo que parecía
+
+516
+00:34:41,842 --> 00:34:43,211
+impensable:
+
+517
+00:34:43,262 --> 00:34:45,066
+el rescate de España.
+
+518
+00:34:46,566 --> 00:34:50,175
+Sábado nueve de junio de dos mil doce.
+
+519
+00:34:50,226 --> 00:34:55,175
+Tras una videoconferencia con sus socios del euro, el ministro de Economía, Luis
+
+520
+00:34:55,226 --> 00:35:00,235
+de Guindos, anuncia que España pedirá ayuda europea para sus bancos.
+
+521
+00:35:00,286 --> 00:35:03,076
+Hasta cien mil millones de euros.
+
+522
+00:35:03,126 --> 00:35:04,531
+Y lo explica así.
+
+523
+00:35:05,431 --> 00:35:08,360
+No tiene que ver con un rescate en absoluto.
+
+524
+00:35:08,411 --> 00:35:10,956
+No hay el más mínimo rescate.
+
+525
+00:35:11,858 --> 00:35:15,897
+Es un préstamo en condiciones extremadamente favorables.
+
+526
+00:35:16,896 --> 00:35:19,446
+Un detalle que hoy parece de guion:
+
+527
+00:35:19,496 --> 00:35:24,666
+antes de ser ministro, Luis de Guindos había dirigido en España y Portugal el banco
+
+528
+00:35:24,717 --> 00:35:27,146
+cuya caída lo empezó todo.
+
+529
+00:35:27,197 --> 00:35:28,565
+Lehman Brothers.
+
+530
+00:35:30,065 --> 00:35:35,234
+Al día siguiente, el presidente Mariano Rajoy compareció en la Moncloa antes de
+
+531
+00:35:35,284 --> 00:35:39,134
+viajar a Polonia para ver a la selección en la Eurocopa.
+
+532
+00:35:39,184 --> 00:35:41,114
+Habló de una línea de crédito.
+
+533
+00:35:41,164 --> 00:35:44,789
+Y defendió así lo que había hecho su Gobierno.
+
+534
+00:35:45,689 --> 00:35:49,590
+Si no hubiésemos hecho los deberes, nos habrían intervenido.
+
+535
+00:35:50,490 --> 00:35:53,480
+La prensa internacional no tuvo dudas.
+
+536
+00:35:53,530 --> 00:35:58,721
+Para casi todos los periódicos del mundo, aquel préstamo tenía un nombre:
+
+537
+00:35:58,771 --> 00:36:01,088
+el rescate de la banca española.
+
+538
+00:36:02,088 --> 00:36:05,097
+Veinticuatro de julio de dos mil doce.
+
+539
+00:36:05,148 --> 00:36:10,978
+La prima de riesgo española llega a seiscientos treinta y ocho puntos básicos.
+
+540
+00:36:11,028 --> 00:36:14,077
+El bono a diez años supera el siete por ciento.
+
+541
+00:36:14,128 --> 00:36:20,018
+Es el nivel al que Grecia, Irlanda y Portugal habían tenido que pedir el rescate
+
+542
+00:36:20,068 --> 00:36:20,968
+completo.
+
+543
+00:36:21,968 --> 00:36:27,418
+Y entonces, dos días después, en Londres, un italiano pronunció una frase que lo
+
+544
+00:36:27,468 --> 00:36:28,978
+cambió todo.
+
+545
+00:36:29,028 --> 00:36:32,746
+Mario Draghi, presidente del Banco Central Europeo.
+
+546
+00:36:33,646 --> 00:36:38,496
+Dentro de nuestro mandato, el Banco Central Europeo está dispuesto a hacer lo que
+
+547
+00:36:38,546 --> 00:36:41,556
+sea necesario para preservar el euro.
+
+548
+00:36:41,606 --> 00:36:42,976
+Y créanme:
+
+549
+00:36:43,026 --> 00:36:44,461
+será suficiente.
+
+550
+00:36:45,461 --> 00:36:47,651
+Los mercados se lo creyeron.
+
+551
+00:36:47,701 --> 00:36:49,971
+La prima empezó a bajar.
+
+552
+00:36:50,021 --> 00:36:55,331
+España recibió algo más de cuarenta y un mil millones del préstamo europeo, se creó
+
+553
+00:36:55,382 --> 00:37:00,211
+un banco malo, la Sareb, para quedarse con los pisos y los créditos tóxicos de las
+
+554
+00:37:00,262 --> 00:37:03,259
+cajas, y el sistema no se hundió.
+
+555
+00:37:04,158 --> 00:37:10,368
+La Sareb recibió casi doscientos mil inmuebles y préstamos de las entidades rescatadas,
+
+556
+00:37:10,418 --> 00:37:14,327
+pagados a unos cincuenta mil millones de euros.
+
+557
+00:37:14,378 --> 00:37:19,068
+Pisos sin terminar, solares, urbanizaciones a medias.
+
+558
+00:37:19,118 --> 00:37:23,523
+Buena parte de los restos de la burbuja acabaron en un solo cajón.
+
+559
+00:37:24,423 --> 00:37:26,313
+Pero tuvo un precio.
+
+560
+00:37:26,363 --> 00:37:31,572
+Según el Banco de España, entre dos mil nueve y dos mil dieciocho se inyectaron
+
+561
+00:37:31,623 --> 00:37:36,472
+más de sesenta y cuatro mil millones de euros públicos en la banca.
+
+562
+00:37:36,523 --> 00:37:41,673
+De ellos, solo se esperaban recuperar unos catorce mil ochocientos.
+
+563
+00:37:41,723 --> 00:37:44,815
+Más de cincuenta mil millones no volverán.
+
+564
+00:37:45,713 --> 00:37:51,043
+El préstamo europeo llegó con un documento de condiciones, el memorando de entendimiento
+
+565
+00:37:51,094 --> 00:37:53,743
+firmado en julio de dos mil doce.
+
+566
+00:37:53,793 --> 00:37:59,303
+Obligaba a los bancos rescatados a reducir su tamaño, a cerrar oficinas y a traspasar
+
+567
+00:37:59,353 --> 00:38:02,263
+sus activos inmobiliarios al banco malo.
+
+568
+00:38:02,313 --> 00:38:07,563
+Y obligaba a quienes tenían preferentes y deuda de esos bancos a asumir pérdidas.
+
+569
+00:38:08,463 --> 00:38:13,973
+Desde entonces, España ha cerrado más de la mitad de sus oficinas bancarias.
+
+570
+00:38:14,023 --> 00:38:18,073
+Había más de cuarenta y cinco mil en dos mil ocho.
+
+571
+00:38:18,123 --> 00:38:20,898
+Hoy son menos de dieciocho mil.
+
+572
+00:38:21,898 --> 00:38:24,007
+¿Y los responsables?
+
+573
+00:38:24,057 --> 00:38:29,927
+Rato acabó en prisión, pero no por la salida a bolsa de Bankia, de la que fue absuelto
+
+574
+00:38:29,978 --> 00:38:31,947
+junto a toda la cúpula:
+
+575
+00:38:31,998 --> 00:38:35,547
+por las tarjetas opacas de Caja Madrid.
+
+576
+00:38:35,597 --> 00:38:41,987
+Y cinco años después del rescate, en dos mil diecisiete, otro banco, el Popular,
+
+577
+00:38:42,038 --> 00:38:46,143
+se hundió en una noche y fue vendido al Santander por un euro.
+
+578
+00:38:47,643 --> 00:38:52,232
+Y el propio Banco de España acabó haciendo examen de conciencia.
+
+579
+00:38:52,282 --> 00:38:56,752
+En dos mil diecisiete publicó un largo informe sobre la crisis.
+
+580
+00:38:56,802 --> 00:39:02,192
+Al presentarlo, su gobernador, Luis María Linde, reconoció lo que diez años antes
+
+581
+00:39:02,242 --> 00:39:04,708
+casi nadie quería decir en voz alta.
+
+582
+00:39:05,608 --> 00:39:10,257
+Este proceso se ajustó a una dinámica consistente con lo que puede considerarse
+
+583
+00:39:10,307 --> 00:39:13,676
+una burbuja especulativa en el sector inmobiliario.
+
+584
+00:39:14,675 --> 00:39:17,025
+España salió de aquello.
+
+585
+00:39:17,076 --> 00:39:20,685
+La economía volvió a crecer a partir de dos mil catorce.
+
+586
+00:39:20,735 --> 00:39:22,845
+El paro empezó a bajar.
+
+587
+00:39:22,895 --> 00:39:27,225
+Los precios de los pisos tocaron fondo ese mismo año, un treinta por ciento por
+
+588
+00:39:27,275 --> 00:39:28,745
+debajo del máximo.
+
+589
+00:39:28,795 --> 00:39:32,725
+Y durante unos años pareció que la lección estaba aprendida.
+
+590
+00:39:32,775 --> 00:39:35,572
+Hasta que los precios volvieron a subir.
+
+591
+00:39:37,073 --> 00:39:40,503
+Y llegó una década de dinero casi gratis.
+
+592
+00:39:40,553 --> 00:39:46,063
+Entre dos mil dieciséis y dos mil veintiuno, el euríbor pasó meses enteros por debajo
+
+593
+00:39:46,113 --> 00:39:47,202
+de cero.
+
+594
+00:39:47,253 --> 00:39:51,343
+Nunca había sido tan barato pedir una hipoteca.
+
+595
+00:39:51,393 --> 00:39:53,892
+Y la historia empezó a rimar.
+
+596
+00:40:00,392 --> 00:40:02,541
+Seseña, hoy.
+
+597
+00:40:02,592 --> 00:40:07,202
+Las mismas calles que la prensa extranjera fotografiaba vacías están hoy llenas
+
+598
+00:40:07,252 --> 00:40:08,902
+de coches aparcados.
+
+599
+00:40:08,952 --> 00:40:12,682
+Hay colegios, supermercados, parques infantiles.
+
+600
+00:40:12,732 --> 00:40:15,245
+Cerca de cuatro mil pisos habitados.
+
+601
+00:40:16,745 --> 00:40:18,575
+¿Quién vive allí?
+
+602
+00:40:18,625 --> 00:40:23,375
+En buena parte, familias jóvenes que no pueden pagar un piso en Madrid.
+
+603
+00:40:23,425 --> 00:40:28,995
+La ciudad fantasma de la burbuja ha revivido gracias a lo contrario de una burbuja:
+
+604
+00:40:29,045 --> 00:40:30,784
+a que faltan casas.
+
+605
+00:40:31,684 --> 00:40:36,114
+Y en dos mil veintidós, la prensa contaba que en el mismo municipio se planeaban
+
+606
+00:40:36,164 --> 00:40:38,954
+casi catorce mil viviendas nuevas.
+
+607
+00:40:39,004 --> 00:40:40,983
+Más que las que soñó El Pocero.
+
+608
+00:40:41,983 --> 00:40:46,733
+Y el aeropuerto sin aviones de Castellón tampoco es ya lo que era.
+
+609
+00:40:46,783 --> 00:40:52,233
+Hoy tiene vuelos regulares, un negocio de mantenimiento de aviones y ha batido récords
+
+610
+00:40:52,283 --> 00:40:54,032
+de pasajeros.
+
+611
+00:40:54,083 --> 00:40:59,512
+Los monumentos de la burbuja, uno a uno, han encontrado uso.
+
+612
+00:40:59,563 --> 00:41:03,740
+Porque el país que tenía casas de más se ha quedado corto.
+
+613
+00:41:05,240 --> 00:41:08,451
+Y aquí está la pregunta que nos trajo hasta aquí.
+
+614
+00:41:08,501 --> 00:41:13,890
+Si el piso vuelve a costar más que nunca, ¿estamos otra vez en dos mil siete?
+
+615
+00:41:13,940 --> 00:41:16,431
+Vamos a compararlo dato a dato.
+
+616
+00:41:17,332 --> 00:41:19,442
+Primero, el precio.
+
+617
+00:41:19,492 --> 00:41:24,698
+A finales de dos mil veinticinco, el metro cuadrado de vivienda libre marcó dos
+
+618
+00:41:24,748 --> 00:41:30,684
+mil doscientos treinta euros, un siete por ciento por encima del máximo de dos mil
+
+619
+00:41:30,735 --> 00:41:31,782
+siete.
+
+620
+00:41:31,832 --> 00:41:34,902
+Pero eso es en euros de cada año.
+
+621
+00:41:34,952 --> 00:41:39,902
+Si se descuenta lo que han subido los precios de todo lo demás desde entonces, la
+
+622
+00:41:39,952 --> 00:41:44,954
+vivienda sigue en torno a un veinticinco por ciento por debajo de aquel máximo.
+
+623
+00:41:45,954 --> 00:41:49,443
+Segundo, lo que cuesta en sueldos.
+
+624
+00:41:49,494 --> 00:41:54,844
+En dos mil siete, comprar un piso exigía de media nueve años y medio de la renta
+
+625
+00:41:54,894 --> 00:41:56,463
+bruta de un hogar.
+
+626
+00:41:56,514 --> 00:42:00,364
+A finales de dos mil veinticinco, casi ocho.
+
+627
+00:42:00,414 --> 00:42:03,167
+El esfuerzo más alto desde dos mil once.
+
+628
+00:42:04,067 --> 00:42:07,836
+Tercero, y aquí está la gran diferencia:
+
+629
+00:42:07,887 --> 00:42:09,596
+el crédito.
+
+630
+00:42:09,646 --> 00:42:14,076
+En dos mil siete, lo que los bancos habían prestado a las familias para comprar
+
+631
+00:42:14,126 --> 00:42:19,136
+casa equivalía al sesenta y dos por ciento de la economía española.
+
+632
+00:42:19,186 --> 00:42:24,356
+Y lo prestado a promotores y constructoras, a otro cuarenta y dos.
+
+633
+00:42:24,407 --> 00:42:29,233
+Hoy esas cifras son el treinta y uno y menos del seis por ciento.
+
+634
+00:42:30,134 --> 00:42:35,163
+El Banco de España lo resume en su último informe de estabilidad financiera:
+
+635
+00:42:35,213 --> 00:42:40,183
+los criterios para conceder hipotecas se han relajado un poco, pero siguen muy lejos
+
+636
+00:42:40,233 --> 00:42:45,443
+de sus máximos, y los riesgos inmobiliarios para la estabilidad financiera permanecen
+
+637
+00:42:45,494 --> 00:42:46,438
+contenidos.
+
+638
+00:42:47,338 --> 00:42:50,928
+Cuarto, las casas que se construyen.
+
+639
+00:42:50,978 --> 00:42:56,008
+En dos mil seis se empezaron más de ochocientas mil viviendas.
+
+640
+00:42:56,058 --> 00:43:00,608
+En dos mil veinticinco se terminaron unas noventa y dos mil.
+
+641
+00:43:00,659 --> 00:43:06,235
+Ese mismo año se crearon en España unos doscientos cuarenta mil hogares nuevos.
+
+642
+00:43:07,135 --> 00:43:10,865
+Y el tipo de casa que se compra también ha cambiado.
+
+643
+00:43:10,915 --> 00:43:16,545
+En los años de la burbuja, seis de cada diez viviendas vendidas eran nuevas.
+
+644
+00:43:16,595 --> 00:43:19,925
+Hoy, solo algo más de dos de cada diez.
+
+645
+00:43:19,975 --> 00:43:24,138
+Se compra sobre todo vivienda usada, porque no hay nueva.
+
+646
+00:43:25,137 --> 00:43:27,927
+En dos mil siete sobraban casas.
+
+647
+00:43:27,978 --> 00:43:29,447
+Hoy faltan.
+
+648
+00:43:29,498 --> 00:43:33,747
+El Banco de España calcula que solo entre dos mil veintiuno y dos mil veinticinco
+
+649
+00:43:33,797 --> 00:43:38,687
+se ha acumulado un déficit de unas setecientas cincuenta mil viviendas.
+
+650
+00:43:38,737 --> 00:43:44,605
+Concentrado en Madrid, Barcelona, Valencia, Alicante, Málaga y la costa.
+
+651
+00:43:45,505 --> 00:43:48,255
+Y quinto, las hipotecas.
+
+652
+00:43:48,305 --> 00:43:53,980
+En dos mil ocho, casi todas eran variables y el euríbor estaba por encima del cinco
+
+653
+00:43:54,030 --> 00:43:54,830
+por ciento.
+
+654
+00:43:54,845 --> 00:43:59,094
+Hoy seis de cada diez se firman a tipo fijo.
+
+655
+00:43:59,144 --> 00:44:04,654
+El euríbor está en torno al tres coma tres por ciento, y noviembre de dos mil veintiséis
+
+656
+00:44:04,704 --> 00:44:08,072
+va camino de ser su mes más caro del año.
+
+657
+00:44:09,071 --> 00:44:11,061
+Para entenderlo en euros:
+
+658
+00:44:11,111 --> 00:44:16,121
+una hipoteca variable media, de ciento sesenta y siete mil euros a veinticinco años,
+
+659
+00:44:16,171 --> 00:44:21,181
+que se revise en diciembre de dos mil veintiséis, pagará unos ochenta y siete euros
+
+660
+00:44:21,231 --> 00:44:23,521
+más al mes que hace un año.
+
+661
+00:44:23,571 --> 00:44:27,541
+Molesto, pero muy lejos de los golpes de dos mil ocho.
+
+662
+00:44:27,591 --> 00:44:31,701
+El problema hoy no es la cuota de los que ya tienen hipoteca.
+
+663
+00:44:31,751 --> 00:44:35,218
+Es la entrada que no pueden reunir los que quieren tenerla.
+
+664
+00:44:36,718 --> 00:44:39,327
+Entonces, ¿todo tranquilo?
+
+665
+00:44:39,378 --> 00:44:40,788
+No del todo.
+
+666
+00:44:40,838 --> 00:44:45,032
+Porque hay señales que recuerdan demasiado a aquellos años.
+
+667
+00:44:46,532 --> 00:44:50,621
+Y hay una lección de dos mil siete que conviene no olvidar:
+
+668
+00:44:50,672 --> 00:44:53,762
+casi nadie vio venir el final de la subida.
+
+669
+00:44:53,812 --> 00:44:57,742
+Ni los compradores, ni los bancos, ni los gobiernos.
+
+670
+00:44:57,792 --> 00:45:01,352
+Las burbujas solo se ven con claridad cuando ya han estallado.
+
+671
+00:45:02,253 --> 00:45:07,318
+Un estudio de la Fundación de las Cajas de Ahorros, Funcas, publicado en dos mil
+
+672
+00:45:07,369 --> 00:45:11,163
+veintiséis, lo resume con una comparación:
+
+673
+00:45:11,213 --> 00:45:16,625
+por número de compraventas y por precio real, el mercado se parece al de dos mil
+
+674
+00:45:16,675 --> 00:45:20,163
+tres o dos mil cuatro, en plena subida.
+
+675
+00:45:20,213 --> 00:45:25,603
+Pero por crédito y por riesgo de los bancos, se parece más al de mil novecientos
+
+676
+00:45:25,653 --> 00:45:27,463
+noventa y nueve.
+
+677
+00:45:27,513 --> 00:45:32,749
+Un ciclo de precios avanzado, con un sistema financiero mucho más sano.
+
+678
+00:45:33,749 --> 00:45:39,019
+Las compraventas superaron las setecientas mil en doce meses, el nivel más alto
+
+679
+00:45:39,069 --> 00:45:41,099
+desde dos mil siete.
+
+680
+00:45:41,149 --> 00:45:45,679
+Los pisos subieron en dos mil veinticinco por encima del siete por ciento.
+
+681
+00:45:45,729 --> 00:45:50,459
+Y en dos mil veintiséis, con la inflación de nuevo en torno al cuatro por ciento,
+
+682
+00:45:50,509 --> 00:45:54,549
+el Banco Central Europeo prepara nuevas subidas de tipos.
+
+683
+00:45:55,449 --> 00:45:58,478
+Y un dato pequeño pero significativo:
+
+684
+00:45:58,528 --> 00:46:04,358
+en dos mil veinticinco, las ejecuciones hipotecarias iniciadas volvieron a subir,
+
+685
+00:46:04,409 --> 00:46:08,376
+un doce por ciento, después de tres años bajando.
+
+686
+00:46:09,376 --> 00:46:12,506
+Pero el mayor cambio no está en las hipotecas.
+
+687
+00:46:12,556 --> 00:46:14,766
+Está en el alquiler.
+
+688
+00:46:14,817 --> 00:46:17,726
+Quien hoy no puede comprar, alquila.
+
+689
+00:46:17,777 --> 00:46:22,566
+Y alquilar se come en muchas ciudades más de un tercio del sueldo.
+
+690
+00:46:22,616 --> 00:46:27,646
+El gobernador del Banco de España, José Luis Escrivá, llegó a describir la situación
+
+691
+00:46:27,697 --> 00:46:30,885
+de la vivienda como una emergencia nacional.
+
+692
+00:46:31,786 --> 00:46:33,655
+Los datos lo confirman.
+
+693
+00:46:33,706 --> 00:46:39,435
+El porcentaje de hogares con casa en propiedad ha bajado al setenta por ciento.
+
+694
+00:46:39,485 --> 00:46:44,955
+Los alquileres llevan más de una década creciendo más deprisa que los sueldos.
+
+695
+00:46:45,005 --> 00:46:50,695
+Y los jóvenes españoles se emancipan, de media, después de los treinta años.
+
+696
+00:46:50,746 --> 00:46:52,860
+De los más tarde de Europa.
+
+697
+00:46:53,760 --> 00:46:56,850
+Y la vivienda ha vuelto a la calle.
+
+698
+00:46:56,900 --> 00:47:01,870
+En mayo de dos mil veintiséis, miles de personas se manifestaron en Madrid contra
+
+699
+00:47:01,920 --> 00:47:03,710
+el precio de la vivienda.
+
+700
+00:47:03,760 --> 00:47:09,170
+Quince años después del Quince M, muchos de los que entonces acampaban en Sol vuelven
+
+701
+00:47:09,221 --> 00:47:10,410
+a protestar.
+
+702
+00:47:10,460 --> 00:47:12,224
+Ahora, por el alquiler.
+
+703
+00:47:13,224 --> 00:47:17,333
+Las propuestas para salir de aquí dividen a los partidos.
+
+704
+00:47:17,384 --> 00:47:22,733
+Unos piden liberar suelo, bajar impuestos y facilitar que se construya mucho más
+
+705
+00:47:22,784 --> 00:47:24,653
+y más deprisa.
+
+706
+00:47:24,704 --> 00:47:29,733
+Otros piden limitar los alquileres y levantar un gran parque de vivienda pública,
+
+707
+00:47:29,784 --> 00:47:32,733
+como el que tienen otros países europeos.
+
+708
+00:47:32,784 --> 00:47:35,913
+Y casi todos coinciden en el diagnóstico:
+
+709
+00:47:35,963 --> 00:47:38,597
+faltan casas donde está el trabajo.
+
+710
+00:47:40,097 --> 00:47:45,460
+Antes de la respuesta, recapitulemos cómo está todo, dato a dato.
+
+711
+00:47:46,960 --> 00:47:51,929
+Así que, ¿se está repitiendo la crisis de dos mil ocho?
+
+712
+00:47:51,980 --> 00:47:54,309
+La respuesta corta es no.
+
+713
+00:47:54,360 --> 00:47:56,070
+No de la misma manera.
+
+714
+00:47:57,570 --> 00:48:03,800
+En dos mil siete, España construyó demasiadas casas con dinero prestado que no existía.
+
+715
+00:48:03,850 --> 00:48:09,300
+Cuando el crédito se cortó, cayeron los bancos y, detrás de ellos, el empleo.
+
+716
+00:48:09,350 --> 00:48:11,793
+Aquella fue una burbuja de crédito.
+
+717
+00:48:13,293 --> 00:48:15,882
+Hoy ocurre casi lo contrario:
+
+718
+00:48:15,932 --> 00:48:21,202
+se construyen muy pocas casas para la gente que las necesita, y los bancos prestan
+
+719
+00:48:21,253 --> 00:48:23,302
+con mucho más cuidado.
+
+720
+00:48:23,353 --> 00:48:27,103
+Lo que hoy se repite no es la burbuja de los bancos.
+
+721
+00:48:27,153 --> 00:48:28,489
+Es el precio.
+
+722
+00:48:29,990 --> 00:48:32,599
+Y eso tiene otra consecuencia.
+
+723
+00:48:32,650 --> 00:48:36,500
+La crisis de dos mil ocho la sufrieron los que compraron.
+
+724
+00:48:36,550 --> 00:48:40,920
+La de hoy la sufren, sobre todo, los que no pueden comprar.
+
+725
+00:48:40,970 --> 00:48:45,780
+Una generación que tiene trabajo, que tiene estudios, y que a los treinta años sigue
+
+726
+00:48:45,830 --> 00:48:48,743
+compartiendo piso o viviendo con sus padres.
+
+727
+00:48:50,242 --> 00:48:54,812
+Para comprar hoy un piso medio hacen falta ahorros que muchas familias jóvenes no
+
+728
+00:48:54,862 --> 00:48:55,892
+tienen:
+
+729
+00:48:55,942 --> 00:48:59,372
+la entrada, los impuestos, el notario.
+
+730
+00:48:59,422 --> 00:49:03,292
+Los bancos ya no financian el cien por cien como en dos mil seis.
+
+731
+00:49:03,342 --> 00:49:08,472
+Y esa es, precisamente, una de las razones por las que hoy hay menos riesgo de otro
+
+732
+00:49:08,523 --> 00:49:09,952
+dos mil ocho.
+
+733
+00:49:10,003 --> 00:49:14,712
+La misma prudencia que protege a los bancos deja fuera a muchos compradores.
+
+734
+00:49:16,213 --> 00:49:18,303
+¿Puede volver a estallar algo?
+
+735
+00:49:18,353 --> 00:49:20,043
+Nadie lo sabe.
+
+736
+00:49:20,094 --> 00:49:24,943
+Si los tipos suben mucho y el empleo cae, las familias más endeudadas volverán a
+
+737
+00:49:24,994 --> 00:49:26,223
+sufrir.
+
+738
+00:49:26,273 --> 00:49:31,003
+Pero los expertos coinciden en que el riesgo hoy no es que caigan los bancos.
+
+739
+00:49:31,054 --> 00:49:33,909
+Es que la vivienda siga alejándose de los sueldos.
+
+740
+00:49:35,409 --> 00:49:41,179
+Y si algo nos dejó dos mil ocho son tres señales para reconocer el peligro:
+
+741
+00:49:41,229 --> 00:49:45,958
+que los precios suban mucho más deprisa que los sueldos durante años;
+
+742
+00:49:46,009 --> 00:49:49,438
+que comprar parezca la única opción posible;
+
+743
+00:49:49,489 --> 00:49:55,287
+y que todo el mundo, desde el banco hasta el vecino, te diga que esta vez es diferente.
+
+744
+00:49:56,787 --> 00:50:00,797
+Dos mil ocho nos enseñó que el ladrillo sí puede bajar.
+
+745
+00:50:00,847 --> 00:50:05,876
+Que un país puede quedarse con millones de casas vacías y cientos de miles de familias
+
+746
+00:50:05,927 --> 00:50:07,456
+sin casa a la vez.
+
+747
+00:50:07,507 --> 00:50:12,668
+Y que cuando llega la factura, la pagan sobre todo los que menos margen tienen.
+
+748
+00:50:14,168 --> 00:50:16,797
+En el próximo documental de DocuVox:
+
+749
+00:50:16,847 --> 00:50:18,257
+Bankia.
+
+750
+00:50:18,307 --> 00:50:23,097
+El banco que salió a bolsa con trescientos cuarenta mil pequeños ahorradores y pidió
+
+751
+00:50:23,148 --> 00:50:25,538
+el rescate diez meses después.
+
+752
+00:50:25,588 --> 00:50:27,617
+Suscríbete para no perdértelo.

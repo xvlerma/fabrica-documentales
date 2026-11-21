@@ -44,7 +44,8 @@ for i, u in enumerate(U):
             last = p if p >= 0 else last + 0.01; keys.append(last)
         u['shots'] = [s for _, s in sorted(zip(keys, sh), key=lambda z: z[0])]
 job = {
-    'permitir_sa': True, 'export_voice': True, 'lugares': LUG, 'permitidas': PERM,
+    'permitir_sa': True, 'export_voice': True,
+    'thumbs': [dict(name='A', commons='Presidente José Luis Rodriguez Zapatero - La Moncloa 2011.jpg', grande='2008', caja='¿SE REPITE?', sub='LA BURBUJA QUE ARRUINÓ A ESPAÑA')], 'lugares': LUG, 'permitidas': PERM,
     'id': 'crisis2008', 'title': 'Crisis de 2008: así se arruinó España (y puede repetirse)', 'channel': 'DocuVox', 'stage': stage,
     'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 1, 'gap': 99999}, 'auto_sfx': {}, 'sfx_max': 5,
     'max_shot': 7, 'min_shot': 1.6, 'anchor_lead': 0.1,

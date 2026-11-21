@@ -107,7 +107,7 @@ def make(mp4, subs, out_dir, k, s, plat):
         p = f'{wd}/s{q}.png'; text_png(p, tx, 62, (255, 255, 255)); inputs += ['-loop', '1', '-i', p]
         chain += f";[{last}][{n}:v]overlay=0:0:enable='between(t,{a:.2f},{z:.2f})':shortest=1[w{q}]"; last = f'w{q}'; n += 1
     chain += f';[{last}]fade=t=out:st={dur - 0.6:.2f}:d=0.6,format=yuv420p[vout];[0:a]afade=t=in:st=0:d=0.3,afade=t=out:st={dur - 0.7:.2f}:d=0.7[aout]'
-    out = os.path.join(out_dir, f"estafas_short_{k + 1}_{plat}.mp4")
+    out = os.path.join(out_dir, f"crisis2008_short_{k + 1}_{plat}.mp4")
     subprocess.run(['ffmpeg', '-y', '-loglevel', 'error'] + inputs + ['-filter_complex', chain, '-map', '[vout]', '-map', '[aout]', '-t', f'{dur:.2f}',
                     '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '21', '-r', '30', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', out], check=True)
     return out

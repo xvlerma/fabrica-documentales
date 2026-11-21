@@ -1,6 +1,15 @@
 {
  "permitir_sa": true,
  "export_voice": true,
+ "thumbs": [
+  {
+   "name": "A",
+   "commons": "Presidente José Luis Rodriguez Zapatero - La Moncloa 2011.jpg",
+   "grande": "2008",
+   "caja": "¿SE REPITE?",
+   "sub": "LA BURBUJA QUE ARRUINÓ A ESPAÑA"
+  }
+ ],
  "lugares": {
   "quinon": [
    "quiñón",

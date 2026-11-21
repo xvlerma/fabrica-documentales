@@ -65,7 +65,10 @@ job = {
               'pause_stretch': 0.45, 'pause_cap': 0.6, 'gap_n': 1.5, 'gap_q': 1.0},
     'tempo': 0.9, 'parts': 4, 'codec': 'hevc', 'max_kbps': 750, 'audio_kbps': '112k',
     'intro': ['assets/intro/docuvox.mp4'], 'seed': 539,
-    'qpicks': json.load(open(os.path.join(HERE, 'qpicks_curado.json'))), 'split_still': 6.5, 'picks': RES.get('picks', {}), 'rev': RES.get('rev', 1),
+    'qpicks': json.load(open(os.path.join(HERE, 'qpicks_curado.json'))), 'split_still': 6.5,
+    'thumbs': [{'name': 'A', 'url': 'https://s3-alpha-sig.figma.com/img/0964/a10d/cc36f38b02bd325dbbf87eb0d80f2799.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=IWp3WY1pmSajxeo1qpkMfnVjc-6Otw8cc8xv1niL5vICLHE6MA2CXqvI4wYJDc0B7ZXgfoJnUaaL8HSS7fjLHLz~~aOaTYuJT8WyFCDPrO4BNsRcRJdRTBrW17TTzIFgADDxbYQDZDZCrErvfjvI-K3hkOsLRTMahPIAcxmqgtxVXoKbVCuTbCTQKCCDybMo7Hvnc673-Gm6tunWQE3Q360w8y~z8r3UYR9flcx6Wc85V9ei1GrThShXSDBmmQVIjcy4t~83QdC72DCdwB3GaaQmUZtMgI65r3EDRTg3uRjIwaZxkSVU5XWBuCYriwkYB69w0RcCjmEsp~VAqhSucw__', 'credit': 'Ilustración IA (recreación)', 'license': 'propia', 'grande': 'JERJES', 'caja': 'NO ERA ASÍ', 'sub': 'LA HISTORIA QUE 300 NO TE CONTÓ'},
+               {'name': 'B', 'commons': 'File:Left Section of the Treasury Reliefs (4735523887).jpg', 'grande': 'JERJES', 'caja': 'NO ERA ASÍ', 'sub': 'LA VERDAD DEL IMPERIO PERSA'},
+               {'name': 'C', 'commons': 'File:Xerxes Enthroned (4736067680).jpg', 'grande': 'JERJES', 'caja': 'NO ERA ASÍ', 'sub': 'LA HISTORIA QUE 300 NO TE CONTÓ'}], 'picks': RES.get('picks', {}), 'rev': RES.get('rev', 1),
     'units': U,
 }
 for g in job['glossary']: g['def'] = g.pop('def_')

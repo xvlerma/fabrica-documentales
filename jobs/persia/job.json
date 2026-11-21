@@ -644,7 +644,7 @@
  "id": "persia",
  "title": "El Imperio Persa: la historia que 300 no te contó",
  "channel": "DocuVox",
- "stage": "cast",
+ "stage": "render",
  "align": true,
  "align_model": "small",
  "no_pad": true,
@@ -1567,6 +1567,34 @@
     "id": "wm52070172"
    }
   ],
+  "photo:Ecbatana Hamadan ruins": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Archaeological_Site_of_Ecbatana_Achmetha_Palace_Ruins_Hamadan_Iran.jpg/1920px-Archaeological_Site_of_Ecbatana_Achmetha_Palace_Ruins_Hamadan_Iran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2560,
+    "h": 1920,
+    "dur": 0,
+    "title": "File:Archaeological Site of Ecbatana Achmetha Palace Ruins Hamadan Iran.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Archaeological_Site_of_Ecbatana_Achmetha_Palace_Ruins_Hamadan_Iran.jpg/1920px-Archaeological_Site_of_Ecbatana_Achmetha_Palace_Ruins_Hamadan_Iran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Ywpark2003 Prof. Yong Woo Park",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Archaeological_Site_of_Ecbatana_Achmetha_Palace_Ruins_Hamadan_Iran.jpg",
+    "id": "wm195263604"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ecbatane_-_excavated_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1024,
+    "h": 667,
+    "dur": 0,
+    "title": "File:Ecbatane - excavated house.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ecbatane_-_excavated_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Philippe Chavin (Simorg)",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ecbatane_-_excavated_house.jpg",
+    "id": "wm1187902"
+   }
+  ],
   "photo:Sardis ruins temple of Artemis": [
    {
     "kind": "image",
@@ -2317,6 +2345,21 @@
     "id": "wm43220193"
    }
   ],
+  "photo:Pasargadae tomb of Cyrus sunset": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sunset_in_Pasargadae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 735,
+    "h": 528,
+    "dur": 0,
+    "title": "File:Sunset in Pasargadae.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sunset_in_Pasargadae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Hossein Khosravi",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sunset_in_Pasargadae.jpg",
+    "id": "wm47877715"
+   }
+  ],
   "photo:Bastet cat statue bronze Egyptian": [
    {
     "kind": "image",
@@ -2600,6 +2643,49 @@
     "license": "CC BY 2.0",
     "page": "https://commons.wikimedia.org/wiki/File:The_Treasury_Reliefs_(Best_Viewed_in_%22Original%22_Size)_(4734172156).jpg",
     "id": "wm30191428"
+   }
+  ],
+  "photo:Behistun relief Darius captive kings": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Image_from_page_331_of_%22Persia_past_and_present%3B_a_book_of_travel_and_research%2C_with_more_than_two_hundred_illustrations_and_a_map%22_%281906%29_%2814802133933%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1050,
+    "h": 1008,
+    "dur": 0,
+    "title": "File:Image from page 331 of \"Persia past and present; a book of travel and research, with more than two hundred illustrations and a map\" (1906) (14802133933).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/33/Image_from_page_331_of_%22Persia_past_and_present%3B_a_book_of_travel_and_research%2C_with_more_than_two_hundred_illustrations_and_a_map%22_%281906%29_%2814802133933%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "page": "https://commons.wikimedia.org/wiki/File:Image_from_page_331_of_%22Persia_past_and_present;_a_book_of_travel_and_research,_with_more_than_two_hundred_illustrations_and_a_map%22_(1906)_(14802133933).jpg",
+    "id": "wm66948774"
+   }
+  ],
+  "photo:Behistun cliff Kermanshah": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Behistun_I_%26_II_%283948706622%29.jpg/1920px-Behistun_I_%26_II_%283948706622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3648,
+    "h": 2736,
+    "dur": 0,
+    "title": "File:Behistun I & II (3948706622).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Behistun_I_%26_II_%283948706622%29.jpg/1920px-Behistun_I_%26_II_%283948706622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "dynamosquito from France",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Behistun_I_%26_II_(3948706622).jpg",
+    "id": "wm32705007"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bisotun_Iran_Relief_Achamenid_Period.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1600,
+    "h": 1200,
+    "dur": 0,
+    "title": "File:Bisotun Iran Relief Achamenid Period.JPG",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bisotun_Iran_Relief_Achamenid_Period.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown artistUnknown artist ⧼for⧽ Darius I",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Bisotun_Iran_Relief_Achamenid_Period.JPG",
+    "id": "wm1090932"
    }
   ],
   "photo:Henry Rawlinson portrait": [
@@ -4106,6 +4192,21 @@
     "id": "wm1907517"
    }
   ],
+  "photo:Salamis strait Greece": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Plutarch%27s_lives_for_boys_and_girls_-_being_selected_lives_freely_retold_%281900%29_%2814778874012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1404,
+    "h": 2200,
+    "dur": 0,
+    "title": "File:Plutarch's lives for boys and girls - being selected lives freely retold (1900) (14778874012).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Plutarch%27s_lives_for_boys_and_girls_-_being_selected_lives_freely_retold_%281900%29_%2814778874012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "page": "https://commons.wikimedia.org/wiki/File:Plutarch%27s_lives_for_boys_and_girls_-_being_selected_lives_freely_retold_(1900)_(14778874012).jpg",
+    "id": "wm43969807"
+   }
+  ],
   "photo:Themistocles bust Ostia": [
    {
     "kind": "image",
@@ -4240,6 +4341,21 @@
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Wrath_of_Xerxes_at_Battle_of_Salamis_by_Wilhelm_von_Kaulbach.jpg",
     "id": "wm75925204"
+   }
+  ],
+  "photo:Susa palace ruins Shush": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Travels_and_researches_in_Chald%C3%A6a_and_Susiana%3B_with_an_account_of_excavations_at_Warka%2C_the_%22Erech%22_of_Nimrod%2C_and_Sh%C3%BAsh%2C_%22Shushan_the_Palace%22_of_Esther%2C_in_1849-52_%281857%29_%2814783588783%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1366,
+    "h": 750,
+    "dur": 0,
+    "title": "File:Travels and researches in Chaldæa and Susiana; with an account of excavations at Warka, the \"Erech\" of Nimrod, and Shúsh, \"Shushan the Palace\" of Esther, in 1849-52 (1857) (14783588783).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/54/Travels_and_researches_in_Chald%C3%A6a_and_Susiana%3B_with_an_account_of_excavations_at_Warka%2C_the_%22Erech%22_of_Nimrod%2C_and_Sh%C3%BAsh%2C_%22Shushan_the_Palace%22_of_Esther%2C_in_1849-52_%281857%29_%2814783588783%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "page": "https://commons.wikimedia.org/wiki/File:Travels_and_researches_in_Chald%C3%A6a_and_Susiana;_with_an_account_of_excavations_at_Warka,_the_%22Erech%22_of_Nimrod,_and_Sh%C3%BAsh,_%22Shushan_the_Palace%22_of_Esther,_in_1849-52_(1857)_(14783588783).jpg",
+    "id": "wm43210901"
    }
   ],
   "photo:Jane Dieulafoy portrait": [
@@ -4612,6 +4728,21 @@
     "license": "Public domain",
     "page": "https://commons.wikimedia.org/wiki/File:Cornelis_de_Bruijn_apadana.png",
     "id": "wm67974126"
+   }
+  ],
+  "photo:Persepolis Apadana relief Arab dromedary": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Arabian_Tribute-Bearer_on_the_Apadana_Staircase_4_%284685919183%29.jpg/1920px-Arabian_Tribute-Bearer_on_the_Apadana_Staircase_4_%284685919183%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2664,
+    "h": 2164,
+    "dur": 0,
+    "title": "File:Arabian Tribute-Bearer on the Apadana Staircase 4 (4685919183).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Arabian_Tribute-Bearer_on_the_Apadana_Staircase_4_%284685919183%29.jpg/1920px-Arabian_Tribute-Bearer_on_the_Apadana_Staircase_4_%284685919183%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "A.Davey from Portland, Oregon, EE UU",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Arabian_Tribute-Bearer_on_the_Apadana_Staircase_4_(4685919183).jpg",
+    "id": "wm30191500"
    }
   ],
   "photo:Persepolis Apadana relief Persian Median guards": [
@@ -5564,9 +5695,1097 @@
     "page": "https://commons.wikimedia.org/wiki/File:Carthage_Ruins.JPG",
     "id": "wm22934808"
    }
+  ],
+  "photo:Thermopylae": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Hot_spring_at_Thermopylae%2C_September_2022_01.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3264,
+    "h": 2448,
+    "dur": 0,
+    "title": "File:Hot spring at Thermopylae, September 2022 01.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Hot_spring_at_Thermopylae%2C_September_2022_01.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hot_spring_at_Thermopylae,_September_2022_01.jpg",
+    "id": "wm124218071"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hot_spring_at_Thermopylae%2C_September_2022_03.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3264,
+    "h": 2448,
+    "dur": 0,
+    "title": "File:Hot spring at Thermopylae, September 2022 03.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Hot_spring_at_Thermopylae%2C_September_2022_03.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hot_spring_at_Thermopylae,_September_2022_03.jpg",
+    "id": "wm124218072"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Hot_spring_at_Thermopylae%2C_September_2022_04.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3264,
+    "h": 2448,
+    "dur": 0,
+    "title": "File:Hot spring at Thermopylae, September 2022 04.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Hot_spring_at_Thermopylae%2C_September_2022_04.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hot_spring_at_Thermopylae,_September_2022_04.jpg",
+    "id": "wm124218089"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Hot_spring_at_Thermopylae%2C_September_2022_05.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2448,
+    "h": 3264,
+    "dur": 0,
+    "title": "File:Hot spring at Thermopylae, September 2022 05.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Hot_spring_at_Thermopylae%2C_September_2022_05.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hot_spring_at_Thermopylae,_September_2022_05.jpg",
+    "id": "wm124218334"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hot_spring_at_Thermopylae%2C_September_2022_06.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3264,
+    "h": 2448,
+    "dur": 0,
+    "title": "File:Hot spring at Thermopylae, September 2022 06.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Hot_spring_at_Thermopylae%2C_September_2022_06.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hot_spring_at_Thermopylae,_September_2022_06.jpg",
+    "id": "wm124218333"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hot_spring_at_Thermopylae%2C_September_2022_07.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3264,
+    "h": 2448,
+    "dur": 0,
+    "title": "File:Hot spring at Thermopylae, September 2022 07.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hot_spring_at_Thermopylae%2C_September_2022_07.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hot_spring_at_Thermopylae,_September_2022_07.jpg",
+    "id": "wm124218332"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Hot_spring_at_Thermopylae%2C_September_2022_09.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3264,
+    "h": 2448,
+    "dur": 0,
+    "title": "File:Hot spring at Thermopylae, September 2022 09.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Hot_spring_at_Thermopylae%2C_September_2022_09.jpg/1920px-Hot_spring_at_Thermopylae%2C_September_2022_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Calistemon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hot_spring_at_Thermopylae,_September_2022_09.jpg",
+    "id": "wm124218341"
+   }
+  ],
+  "photo:Persepolis": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_northeast%29.jpg/1920px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_northeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4288,
+    "h": 2848,
+    "dur": 0,
+    "title": "File:2018-09-21 Iran, Persepolis, Tachara (from the northeast).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_northeast%29.jpg/1920px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_northeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Laurens R. Krol",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_northeast).jpg",
+    "id": "wm112353626"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg/1920px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3909,
+    "h": 2590,
+    "dur": 0,
+    "title": "File:2018-09-21 Iran, Persepolis, Tachara (from the southeast).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg/1920px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Laurens R. Krol",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg",
+    "id": "wm112353627"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_west%29.jpg/1920px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_west%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2848,
+    "h": 4288,
+    "dur": 0,
+    "title": "File:2018-09-21 Iran, Persepolis, Tachara (from the west).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_west%29.jpg/1920px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_west%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Laurens R. Krol",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_west).jpg",
+    "id": "wm112353628"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Persepolis%2C_Iran_15.jpg/1920px-Persepolis%2C_Iran_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4574,
+    "h": 3050,
+    "dur": 0,
+    "title": "File:Persepolis, Iran 15.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Persepolis%2C_Iran_15.jpg/1920px-Persepolis%2C_Iran_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Persepolis,_Iran_15.jpg",
+    "id": "wm67648263"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Persepolis_24.11.2009_11-18-45.jpg/1920px-Persepolis_24.11.2009_11-18-45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2592,
+    "h": 1944,
+    "dur": 0,
+    "title": "File:Persepolis 24.11.2009 11-18-45.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Persepolis_24.11.2009_11-18-45.jpg/1920px-Persepolis_24.11.2009_11-18-45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Hansueli Krapf",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Persepolis_24.11.2009_11-18-45.jpg",
+    "id": "wm8656037"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Persepolis_Panorama_360_Virtual_Reality_Tachar_castle.jpg/1920px-Persepolis_Panorama_360_Virtual_Reality_Tachar_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 10622,
+    "h": 3731,
+    "dur": 0,
+    "title": "File:Persepolis Panorama 360 Virtual Reality Tachar castle.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Persepolis_Panorama_360_Virtual_Reality_Tachar_castle.jpg/1920px-Persepolis_Panorama_360_Virtual_Reality_Tachar_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Mshayati",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Persepolis_Panorama_360_Virtual_Reality_Tachar_castle.jpg",
+    "id": "wm82886724"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_15.jpg/1920px-Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 8568,
+    "h": 5033,
+    "dur": 0,
+    "title": "File:Persépolis, Irán, 2016-09-24, DD 15.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_15.jpg/1920px-Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pers%C3%A9polis,_Ir%C3%A1n,_2016-09-24,_DD_15.jpg",
+    "id": "wm52067088"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_53.jpg/1920px-Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_53.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 6961,
+    "h": 5231,
+    "dur": 0,
+    "title": "File:Persépolis, Irán, 2016-09-24, DD 53.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_53.jpg/1920px-Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_53.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pers%C3%A9polis,_Ir%C3%A1n,_2016-09-24,_DD_53.jpg",
+    "id": "wm52069355"
+   }
+  ],
+  "photo:Persepolis Fortification Archive": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/PTF_1208-101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1758,
+    "h": 1798,
+    "dur": 0,
+    "title": "File:PTF 1208-101.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4f/PTF_1208-101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "اردشیر خسروی",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:PTF_1208-101.jpg",
+    "id": "wm112695218"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Persepolis_clay_tablet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1024,
+    "h": 768,
+    "dur": 0,
+    "title": "File:Persepolis clay tablet.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/84/Persepolis_clay_tablet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Pentocelo",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Persepolis_clay_tablet.jpg",
+    "id": "wm2066342"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Persepolis_tablet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 615,
+    "h": 389,
+    "dur": 0,
+    "title": "File:Persepolis tablet.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/74/Persepolis_tablet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Pentocelo",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Persepolis_tablet.jpg",
+    "id": "wm74859948"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Tablilla_con_inscripci%C3%B3n_cuneiforme_en_lengua_elamita._Per%C3%ADodo_aquem%C3%A9nida_%28559-331_a._C.%29_-_MARQ.jpg/1920px-Tablilla_con_inscripci%C3%B3n_cuneiforme_en_lengua_elamita._Per%C3%ADodo_aquem%C3%A9nida_%28559-331_a._C.%29_-_MARQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4000,
+    "h": 2667,
+    "dur": 0,
+    "title": "File:Tablilla con inscripción cuneiforme en lengua elamita. Período aqueménida (559-331 a. C.) - MARQ.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Tablilla_con_inscripci%C3%B3n_cuneiforme_en_lengua_elamita._Per%C3%ADodo_aquem%C3%A9nida_%28559-331_a._C.%29_-_MARQ.jpg/1920px-Tablilla_con_inscripci%C3%B3n_cuneiforme_en_lengua_elamita._Per%C3%ADodo_aquem%C3%A9nida_%28559-331_a._C.%29_-_MARQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Dorieo",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Tablilla_con_inscripci%C3%B3n_cuneiforme_en_lengua_elamita._Per%C3%ADodo_aquem%C3%A9nida_(559-331_a._C.)_-_MARQ.jpg",
+    "id": "wm83716449"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Persia_past_and_present%3B_a_book_of_travel_and_research%2C_with_more_than_two_hundred_illustrations_and_a_map_%281906%29_%2814763923265%29.jpg/1920px-Persia_past_and_present%3B_a_book_of_travel_and_research%2C_with_more_than_two_hundred_illustrations_and_a_map_%281906%29_%2814763923265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2688,
+    "h": 1680,
+    "dur": 0,
+    "title": "File:Persia past and present; a book of travel and research, with more than two hundred illustrations and a map (1906) (14763923265).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Persia_past_and_present%3B_a_book_of_travel_and_research%2C_with_more_than_two_hundred_illustrations_and_a_map_%281906%29_%2814763923265%29.jpg/1920px-Persia_past_and_present%3B_a_book_of_travel_and_research%2C_with_more_than_two_hundred_illustrations_and_a_map_%281906%29_%2814763923265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "page": "https://commons.wikimedia.org/wiki/File:Persia_past_and_present;_a_book_of_travel_and_research,_with_more_than_two_hundred_illustrations_and_a_map_(1906)_(14763923265).jpg",
+    "id": "wm43933382"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/A_history_of_all_nations_from_the_earliest_times%3B_being_a_universal_historical_library_%281905%29_%2814779078041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1500,
+    "h": 2746,
+    "dur": 0,
+    "title": "File:A history of all nations from the earliest times; being a universal historical library (1905) (14779078041).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f2/A_history_of_all_nations_from_the_earliest_times%3B_being_a_universal_historical_library_%281905%29_%2814779078041%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "page": "https://commons.wikimedia.org/wiki/File:A_history_of_all_nations_from_the_earliest_times;_being_a_universal_historical_library_(1905)_(14779078041).jpg",
+    "id": "wm42035052"
+   }
+  ],
+  "photo:Hegmataneh": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ecbatana%2C_Iran.jpg/1920px-Ecbatana%2C_Iran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4928,
+    "h": 3264,
+    "dur": 0,
+    "title": "File:Ecbatana, Iran.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ecbatana%2C_Iran.jpg/1920px-Ecbatana%2C_Iran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Carole Raddato from Frankfurt, Germany",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ecbatana,_Iran.jpg",
+    "id": "wm102682983"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Excavations_in_Ecbatana.jpg/1920px-Excavations_in_Ecbatana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2784,
+    "h": 1856,
+    "dur": 0,
+    "title": "File:Excavations in Ecbatana.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Excavations_in_Ecbatana.jpg/1920px-Excavations_in_Ecbatana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "ninara",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Excavations_in_Ecbatana.jpg",
+    "id": "wm14748063"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Hegmataneh.jpg/1920px-Hegmataneh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4320,
+    "h": 3240,
+    "dur": 0,
+    "title": "File:Hegmataneh.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Hegmataneh.jpg/1920px-Hegmataneh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Behzad39",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hegmataneh.jpg",
+    "id": "wm62323173"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hegmataneh_Museum%2C_Ecbatana%2C_Iran.jpg/1920px-Hegmataneh_Museum%2C_Ecbatana%2C_Iran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4928,
+    "h": 3264,
+    "dur": 0,
+    "title": "File:Hegmataneh Museum, Ecbatana, Iran.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Hegmataneh_Museum%2C_Ecbatana%2C_Iran.jpg/1920px-Hegmataneh_Museum%2C_Ecbatana%2C_Iran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Carole Raddato from Frankfurt, Germany",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hegmataneh_Museum,_Ecbatana,_Iran.jpg",
+    "id": "wm102682990"
+   }
+  ],
+  "photo:Pasargadae": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_04.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 8688,
+    "h": 5792,
+    "dur": 0,
+    "title": "File:Pasargadae, Irán, 2016-09-24, DD 04.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_04.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pasargadae,_Ir%C3%A1n,_2016-09-24,_DD_04.jpg",
+    "id": "wm52070159"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_06.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 8046,
+    "h": 5570,
+    "dur": 0,
+    "title": "File:Pasargadae, Irán, 2016-09-24, DD 06.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_06.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pasargadae,_Ir%C3%A1n,_2016-09-24,_DD_06.jpg",
+    "id": "wm52070164"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_08.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 8688,
+    "h": 5792,
+    "dur": 0,
+    "title": "File:Pasargadae, Irán, 2016-09-24, DD 08.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_08.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pasargadae,_Ir%C3%A1n,_2016-09-24,_DD_08.jpg",
+    "id": "wm52070169"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_09.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 7293,
+    "h": 3730,
+    "dur": 0,
+    "title": "File:Pasargadae, Irán, 2016-09-24, DD 09.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_09.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pasargadae,_Ir%C3%A1n,_2016-09-24,_DD_09.jpg",
+    "id": "wm52070176"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_11.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4967,
+    "h": 6662,
+    "dur": 0,
+    "title": "File:Pasargadae, Irán, 2016-09-24, DD 11.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_11.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pasargadae,_Ir%C3%A1n,_2016-09-24,_DD_11.jpg",
+    "id": "wm52070183"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_12.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 8486,
+    "h": 5557,
+    "dur": 0,
+    "title": "File:Pasargadae, Irán, 2016-09-24, DD 12.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_12.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pasargadae,_Ir%C3%A1n,_2016-09-24,_DD_12.jpg",
+    "id": "wm52070181"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_13.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 8251,
+    "h": 3507,
+    "dur": 0,
+    "title": "File:Pasargadae, Irán, 2016-09-24, DD 13.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_13.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pasargadae,_Ir%C3%A1n,_2016-09-24,_DD_13.jpg",
+    "id": "wm52070189"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_14.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 7645,
+    "h": 3544,
+    "dur": 0,
+    "title": "File:Pasargadae, Irán, 2016-09-24, DD 14.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_14.jpg/1920px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pasargadae,_Ir%C3%A1n,_2016-09-24,_DD_14.jpg",
+    "id": "wm52070188"
+   }
+  ],
+  "photo:Bisotun": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Bisotun.jpg/1920px-Bisotun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 6000,
+    "h": 3375,
+    "dur": 0,
+    "title": "File:Bisotun.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Bisotun.jpg/1920px-Bisotun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "ClassicZires",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bisotun.jpg",
+    "id": "wm73005304"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg/1920px-History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2784,
+    "h": 1537,
+    "dur": 0,
+    "title": "File:History History IMG 7762 Bisotun, Iran (12864252555).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg/1920px-History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Ninara from Helsinki, Finland",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:History_History_IMG_7762_Bisotun,_Iran_(12864252555).jpg",
+    "id": "wm69184147"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarab_Bisotun_2015.jpg/1920px-Sarab_Bisotun_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2500,
+    "h": 1630,
+    "dur": 0,
+    "title": "File:Sarab Bisotun 2015.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Sarab_Bisotun_2015.jpg/1920px-Sarab_Bisotun_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "ئاسۆ",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Sarab_Bisotun_2015.jpg",
+    "id": "wm39637910"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87.jpg/1920px-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 5184,
+    "h": 3456,
+    "dur": 0,
+    "title": "File:دریاچه.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87.jpg/1920px-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "فرشید منتخب",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87.jpg",
+    "id": "wm73326743"
+   }
+  ],
+  "photo:Behistun relief": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Behistun_Relief%2C_Fr%C3%A2da_-_Skunkha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 401,
+    "h": 600,
+    "dur": 0,
+    "title": "File:Behistun Relief, Frâda - Skunkha.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/de/Behistun_Relief%2C_Fr%C3%A2da_-_Skunkha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Leen van Dorp",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Behistun_Relief,_Fr%C3%A2da_-_Skunkha.jpg",
+    "id": "wm75789298"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Behistun_relief_Skunkha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 624,
+    "h": 1868,
+    "dur": 0,
+    "title": "File:Behistun relief Skunkha.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Behistun_relief_Skunkha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Leen van Dorp",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Behistun_relief_Skunkha.jpg",
+    "id": "wm75789466"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Behistun_Relief%2C_Martiya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 401,
+    "h": 600,
+    "dur": 0,
+    "title": "File:Behistun Relief, Martiya.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Behistun_Relief%2C_Martiya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Leen van Dorp",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Behistun_Relief,_Martiya.jpg",
+    "id": "wm75788644"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Behistun_Relief_Phraortes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 401,
+    "h": 600,
+    "dur": 0,
+    "title": "File:Behistun Relief Phraortes.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Behistun_Relief_Phraortes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Leen van Dorp",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Behistun_Relief_Phraortes.jpg",
+    "id": "wm75788427"
+   }
+  ],
+  "photo:Apadana Indians": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Apadana_Palace_Indians.jpg/1920px-Apadana_Palace_Indians.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2100,
+    "h": 666,
+    "dur": 0,
+    "title": "File:Apadana Palace Indians.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Apadana_Palace_Indians.jpg/1920px-Apadana_Palace_Indians.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jona Lendering",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Apadana_Palace_Indians.jpg",
+    "id": "wm73582650"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Apadana_relief_of_Indian_emissaries._Middle_East%2C_52_Ancient_Iran_-_42047606641.jpg/1920px-Apadana_relief_of_Indian_emissaries._Middle_East%2C_52_Ancient_Iran_-_42047606641.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4896,
+    "h": 3264,
+    "dur": 0,
+    "title": "File:Apadana relief of Indian emissaries. Middle East, 52 Ancient Iran - 42047606641.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Apadana_relief_of_Indian_emissaries._Middle_East%2C_52_Ancient_Iran_-_42047606641.jpg/1920px-Apadana_relief_of_Indian_emissaries._Middle_East%2C_52_Ancient_Iran_-_42047606641.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Anthony Huan",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Apadana_relief_of_Indian_emissaries._Middle_East,_52_Ancient_Iran_-_42047606641.jpg",
+    "id": "wm95209535"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Indian_Tribute_Bearers_on_the_Apadana_Staircase_8_%28Best_Viewed_Size_%22Large%22%29_%284688525278%29.jpg/1920px-Indian_Tribute_Bearers_on_the_Apadana_Staircase_8_%28Best_Viewed_Size_%22Large%22%29_%284688525278%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2794,
+    "h": 1517,
+    "dur": 0,
+    "title": "File:Indian Tribute Bearers on the Apadana Staircase 8 (Best Viewed Size \"Large\") (4688525278).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Indian_Tribute_Bearers_on_the_Apadana_Staircase_8_%28Best_Viewed_Size_%22Large%22%29_%284688525278%29.jpg/1920px-Indian_Tribute_Bearers_on_the_Apadana_Staircase_8_%28Best_Viewed_Size_%22Large%22%29_%284688525278%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "A.Davey from Portland, Oregon, EE UU",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_Tribute_Bearers_on_the_Apadana_Staircase_8_(Best_Viewed_Size_%22Large%22)_(4688525278).jpg",
+    "id": "wm30191512"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Indian_gold_tribute_donor_Apadana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1126,
+    "h": 1517,
+    "dur": 0,
+    "title": "File:Indian gold tribute donor Apadana.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Indian_gold_tribute_donor_Apadana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "A.Davey from Portland, Oregon, EE UU",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_gold_tribute_donor_Apadana.jpg",
+    "id": "wm74361171"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Indian_tribute_bearers_at_Apadana_Palace.jpg/1920px-Indian_tribute_bearers_at_Apadana_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2794,
+    "h": 1517,
+    "dur": 0,
+    "title": "File:Indian tribute bearers at Apadana Palace.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Indian_tribute_bearers_at_Apadana_Palace.jpg/1920px-Indian_tribute_bearers_at_Apadana_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "A.Davey from Portland, Oregon, EE UU",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_tribute_bearers_at_Apadana_Palace.jpg",
+    "id": "wm73445781"
+   }
+  ],
+  "photo:Marathon Greece": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ac.marathon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 497,
+    "h": 308,
+    "dur": 0,
+    "title": "File:Ac.marathon.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ac.marathon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Adam Carr",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ac.marathon.jpg",
+    "id": "wm1418213"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Battle_of_Marathon_%E2%80%93_deployment_of_Greek_and_Persian_armies_%28Kromayer_%26_Veith_1926%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1175,
+    "h": 802,
+    "dur": 0,
+    "title": "File:Battle of Marathon – deployment of Greek and Persian armies (Kromayer & Veith 1926).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Battle_of_Marathon_%E2%80%93_deployment_of_Greek_and_Persian_armies_%28Kromayer_%26_Veith_1926%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Johannes Kromayer",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Marathon_%E2%80%93_deployment_of_Greek_and_Persian_armies_(Kromayer_%26_Veith_1926).jpg",
+    "id": "wm198055103"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Marathonn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1800,
+    "h": 1350,
+    "dur": 0,
+    "title": "File:Marathonn.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Marathonn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "VasiliosGavrilis",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Marathonn.jpg",
+    "id": "wm73165894"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/TYMVOS_MARATHONA.jpg/1920px-TYMVOS_MARATHONA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4608,
+    "h": 3456,
+    "dur": 0,
+    "title": "File:TYMVOS MARATHONA.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/TYMVOS_MARATHONA.jpg/1920px-TYMVOS_MARATHONA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "KAMINSKA JOANNA",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:TYMVOS_MARATHONA.jpg",
+    "id": "wm51876736"
+   }
+  ],
+  "photo:Naqsh-e Rustam": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/20101229_Naqsh_e_Rostam_Shiraz_Iran_more_Panoramic.jpg/1920px-20101229_Naqsh_e_Rostam_Shiraz_Iran_more_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 9500,
+    "h": 2641,
+    "dur": 0,
+    "title": "File:20101229 Naqsh e Rostam Shiraz Iran more Panoramic.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/20101229_Naqsh_e_Rostam_Shiraz_Iran_more_Panoramic.jpg/1920px-20101229_Naqsh_e_Rostam_Shiraz_Iran_more_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "User:Ggia",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:20101229_Naqsh_e_Rostam_Shiraz_Iran_more_Panoramic.jpg",
+    "id": "wm17422810"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/2018-09-20_Iran%2C_Naqsh-e_Rostam.jpg/1920px-2018-09-20_Iran%2C_Naqsh-e_Rostam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2848,
+    "h": 4288,
+    "dur": 0,
+    "title": "File:2018-09-20 Iran, Naqsh-e Rostam.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/2018-09-20_Iran%2C_Naqsh-e_Rostam.jpg/1920px-2018-09-20_Iran%2C_Naqsh-e_Rostam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Laurens R. Krol",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2018-09-20_Iran,_Naqsh-e_Rostam.jpg",
+    "id": "wm112353617"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_01-05_PAN.jpg/1920px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_01-05_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 18239,
+    "h": 4733,
+    "dur": 0,
+    "title": "File:Naghsh-e rostam, Irán, 2016-09-24, DD 01-05 PAN.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_01-05_PAN.jpg/1920px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_01-05_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Naghsh-e_rostam,_Ir%C3%A1n,_2016-09-24,_DD_01-05_PAN.jpg",
+    "id": "wm52061179"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_07.jpg/1920px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 7532,
+    "h": 4002,
+    "dur": 0,
+    "title": "File:Naghsh-e rostam, Irán, 2016-09-24, DD 07.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_07.jpg/1920px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Naghsh-e_rostam,_Ir%C3%A1n,_2016-09-24,_DD_07.jpg",
+    "id": "wm52061174"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_19.jpg/1920px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 8287,
+    "h": 4760,
+    "dur": 0,
+    "title": "File:Naghsh-e rostam, Irán, 2016-09-24, DD 19.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_19.jpg/1920px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Naghsh-e_rostam,_Ir%C3%A1n,_2016-09-24,_DD_19.jpg",
+    "id": "wm52061196"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_20-24_PAN.jpg/1920px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_20-24_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 18256,
+    "h": 4844,
+    "dur": 0,
+    "title": "File:Naghsh-e rostam, Irán, 2016-09-24, DD 20-24 PAN.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_20-24_PAN.jpg/1920px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_20-24_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Naghsh-e_rostam,_Ir%C3%A1n,_2016-09-24,_DD_20-24_PAN.jpg",
+    "id": "wm52061199"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_26.jpg/1920px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 8040,
+    "h": 5360,
+    "dur": 0,
+    "title": "File:Naghsh-e rostam, Irán, 2016-09-24, DD 26.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_26.jpg/1920px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Naghsh-e_rostam,_Ir%C3%A1n,_2016-09-24,_DD_26.jpg",
+    "id": "wm52061202"
+   }
+  ],
+  "photo:Salamis Island": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Salamis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1024,
+    "h": 688,
+    "dur": 0,
+    "title": "File:Salamis.png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Salamis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Salamis.png",
+    "id": "wm2700930"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/View_of_Attica%2C_the_Saronic_Gulf_and_the_island_of_Salamis_from_Mount_Hymettus_on_March_17%2C_2020.jpg/1920px-View_of_Attica%2C_the_Saronic_Gulf_and_the_island_of_Salamis_from_Mount_Hymettus_on_March_17%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 6000,
+    "h": 4000,
+    "dur": 0,
+    "title": "File:View of Attica, the Saronic Gulf and the island of Salamis from Mount Hymettus on March 17, 2020.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/View_of_Attica%2C_the_Saronic_Gulf_and_the_island_of_Salamis_from_Mount_Hymettus_on_March_17%2C_2020.jpg/1920px-View_of_Attica%2C_the_Saronic_Gulf_and_the_island_of_Salamis_from_Mount_Hymettus_on_March_17%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "George E. Koronaios",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Attica,_the_Saronic_Gulf_and_the_island_of_Salamis_from_Mount_Hymettus_on_March_17,_2020.jpg",
+    "id": "wm88225190"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Athens%2C_Piraeus_and_Salamis_from_Mount_Hymettus_on_September_28%2C_2019.jpg/1920px-Athens%2C_Piraeus_and_Salamis_from_Mount_Hymettus_on_September_28%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 5984,
+    "h": 3989,
+    "dur": 0,
+    "title": "File:Athens, Piraeus and Salamis from Mount Hymettus on September 28, 2019.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Athens%2C_Piraeus_and_Salamis_from_Mount_Hymettus_on_September_28%2C_2019.jpg/1920px-Athens%2C_Piraeus_and_Salamis_from_Mount_Hymettus_on_September_28%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "George E. Koronaios",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Athens,_Piraeus_and_Salamis_from_Mount_Hymettus_on_September_28,_2019.jpg",
+    "id": "wm82618657"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Kaki_vigla_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1024,
+    "h": 768,
+    "dur": 0,
+    "title": "File:Kaki vigla 02.JPG",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/09/Kaki_vigla_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Papatrexas at English Wikipedia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Kaki_vigla_02.JPG",
+    "id": "wm6078502"
+   }
+  ],
+  "photo:Susa archaeological site": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Palace_of_Darius_in_Susa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1707,
+    "h": 1280,
+    "dur": 0,
+    "title": "File:Palace of Darius in Susa2.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Palace_of_Darius_in_Susa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Saeedhamedian",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Darius_in_Susa2.jpg",
+    "id": "wm140262605"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Susa_house_drawing.jpg/1920px-Susa_house_drawing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2451,
+    "h": 1818,
+    "dur": 0,
+    "title": "File:Susa house drawing.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Susa_house_drawing.jpg/1920px-Susa_house_drawing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Udimu",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Susa_house_drawing.jpg",
+    "id": "wm3906727"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Susa_map.jpg/1920px-Susa_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2774,
+    "h": 1968,
+    "dur": 0,
+    "title": "File:Susa map.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Susa_map.jpg/1920px-Susa_map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Udimu",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Susa_map.jpg",
+    "id": "wm3907191"
+   }
+  ],
+  "photo:Apadana Arabs": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Susian_Tribute_Bearers_on_the_Apadana_Staircase_21_%28Best_Viewed_Size_%22Large%22%29_%284688619059%29.jpg/1920px-Susian_Tribute_Bearers_on_the_Apadana_Staircase_21_%28Best_Viewed_Size_%22Large%22%29_%284688619059%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2608,
+    "h": 1796,
+    "dur": 0,
+    "title": "File:Susian Tribute Bearers on the Apadana Staircase 21 (Best Viewed Size \"Large\") (4688619059).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Susian_Tribute_Bearers_on_the_Apadana_Staircase_21_%28Best_Viewed_Size_%22Large%22%29_%284688619059%29.jpg/1920px-Susian_Tribute_Bearers_on_the_Apadana_Staircase_21_%28Best_Viewed_Size_%22Large%22%29_%284688619059%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "A.Davey from Portland, Oregon, EE UU",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Susian_Tribute_Bearers_on_the_Apadana_Staircase_21_(Best_Viewed_Size_%22Large%22)_(4688619059).jpg",
+    "id": "wm30191538"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Figures_on_the_Apadana_Staircase_%28Best_Viewed_Size_%22Large%22%29_%284688678112%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1834,
+    "h": 2609,
+    "dur": 0,
+    "title": "File:Figures on the Apadana Staircase (Best Viewed Size \"Large\") (4688678112).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Figures_on_the_Apadana_Staircase_%28Best_Viewed_Size_%22Large%22%29_%284688678112%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "A.Davey from Portland, Oregon, EE UU",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Figures_on_the_Apadana_Staircase_(Best_Viewed_Size_%22Large%22)_(4688678112).jpg",
+    "id": "wm30191521"
+   }
+  ],
+  "photo:Gaugamela": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Battle_gaugamela_decisive.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 721,
+    "h": 547,
+    "dur": 0,
+    "title": "File:Battle gaugamela decisive.png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Battle_gaugamela_decisive.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Frank Martini. Cartographer, Department of books, United States Military Academy",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Battle_gaugamela_decisive.png",
+    "id": "wm34909044"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Battle_of_Gaugamela.jpg/1920px-Battle_of_Gaugamela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 5591,
+    "h": 3546,
+    "dur": 0,
+    "title": "File:Battle of Gaugamela.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Battle_of_Gaugamela.jpg/1920px-Battle_of_Gaugamela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jan Brueghel the Elder",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Gaugamela.jpg",
+    "id": "wm294968"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Battle_of_Gaugamela%2C_331_BC_-_Opening_movements.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 739,
+    "h": 561,
+    "dur": 0,
+    "title": "File:Battle of Gaugamela, 331 BC - Opening movements.png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Battle_of_Gaugamela%2C_331_BC_-_Opening_movements.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Gaugamela,_331_BC_-_Opening_movements.png",
+    "id": "wm34909452"
+   }
+  ],
+  "photo:Bisotun Kermanshah": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg/1920px-History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2784,
+    "h": 1537,
+    "dur": 0,
+    "title": "File:History History IMG 7762 Bisotun, Iran (12864252555).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg/1920px-History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Ninara from Helsinki, Finland",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:History_History_IMG_7762_Bisotun,_Iran_(12864252555).jpg",
+    "id": "wm69184147"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Behistun_I_%26_II_%283948706622%29.jpg/1920px-Behistun_I_%26_II_%283948706622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3648,
+    "h": 2736,
+    "dur": 0,
+    "title": "File:Behistun I & II (3948706622).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Behistun_I_%26_II_%283948706622%29.jpg/1920px-Behistun_I_%26_II_%283948706622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "dynamosquito from France",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Behistun_I_%26_II_(3948706622).jpg",
+    "id": "wm32705007"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bisotun_Iran_Relief_Achamenid_Period.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1600,
+    "h": 1200,
+    "dur": 0,
+    "title": "File:Bisotun Iran Relief Achamenid Period.JPG",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bisotun_Iran_Relief_Achamenid_Period.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown artistUnknown artist ⧼for⧽ Darius I",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Bisotun_Iran_Relief_Achamenid_Period.JPG",
+    "id": "wm1090932"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Behistun_inscription_reliefs.jpg/1920px-Behistun_inscription_reliefs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2892,
+    "h": 1780,
+    "dur": 0,
+    "title": "File:Behistun inscription reliefs.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Behistun_inscription_reliefs.jpg/1920px-Behistun_inscription_reliefs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Unknown artistUnknown artist",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Behistun_inscription_reliefs.jpg",
+    "id": "wm75781418"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Darius_I_the_Great%27s_inscription_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 640,
+    "h": 353,
+    "dur": 0,
+    "title": "File:Darius I the Great's inscription (edit).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Darius_I_the_Great%27s_inscription_%28edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Darius_I_the_Great's_inscription.jpg: Original uploader was Aryobarzan at en.wik",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Darius_I_the_Great%27s_inscription_(edit).jpg",
+    "id": "wm16306428"
+   }
+  ],
+  "photo:Pella": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/017MA_Head_of_Alexander.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 671,
+    "h": 800,
+    "dur": 0,
+    "title": "File:017MA Head of Alexander.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/eb/017MA_Head_of_Alexander.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:017MA_Head_of_Alexander.jpg",
+    "id": "wm3123879"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/ACMA_1331_Alexander_1.JPG/1920px-ACMA_1331_Alexander_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2004,
+    "h": 2700,
+    "dur": 0,
+    "title": "File:ACMA 1331 Alexander 1.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/ACMA_1331_Alexander_1.JPG/1920px-ACMA_1331_Alexander_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wikimedia Commons",
+    "license": "CC BY-SA 2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:ACMA_1331_Alexander_1.JPG",
+    "id": "wm1908750"
+   }
+  ],
+  "photo:Persepolis seal impression": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cylinder_Seal%2C_Achaemenid%2C_Linescan_image_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1854,
+    "h": 846,
+    "dur": 0,
+    "title": "File:Cylinder Seal, Achaemenid, Linescan image 06.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cylinder_Seal%2C_Achaemenid%2C_Linescan_image_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Hjaltland Collection",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cylinder_Seal,_Achaemenid,_Linescan_image_06.jpg",
+    "id": "wm31748874"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Cylinder_Seal%2C_Achaemenid%2C_modern_impression_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1493,
+    "h": 891,
+    "dur": 0,
+    "title": "File:Cylinder Seal, Achaemenid, modern impression 05.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Cylinder_Seal%2C_Achaemenid%2C_modern_impression_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Hjaltland Collection",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cylinder_Seal,_Achaemenid,_modern_impression_05.jpg",
+    "id": "wm31748861"
+   }
+  ],
+  "photo:Herzfeld Persepolis excavation": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Persia_past_and_present%3B_a_book_of_travel_and_research%2C_with_more_than_two_hundred_illustrations_and_a_map_%281906%29_%2814763923265%29.jpg/1920px-Persia_past_and_present%3B_a_book_of_travel_and_research%2C_with_more_than_two_hundred_illustrations_and_a_map_%281906%29_%2814763923265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2688,
+    "h": 1680,
+    "dur": 0,
+    "title": "File:Persia past and present; a book of travel and research, with more than two hundred illustrations and a map (1906) (14763923265).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Persia_past_and_present%3B_a_book_of_travel_and_research%2C_with_more_than_two_hundred_illustrations_and_a_map_%281906%29_%2814763923265%29.jpg/1920px-Persia_past_and_present%3B_a_book_of_travel_and_research%2C_with_more_than_two_hundred_illustrations_and_a_map_%281906%29_%2814763923265%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Internet Archive Book Images",
+    "license": "No restrictions",
+    "page": "https://commons.wikimedia.org/wiki/File:Persia_past_and_present;_a_book_of_travel_and_research,_with_more_than_two_hundred_illustrations_and_a_map_(1906)_(14763923265).jpg",
+    "id": "wm43933382"
+   }
   ]
  },
  "split_still": 6.5,
+ "thumbs": [
+  {
+   "name": "A",
+   "url": "https://s3-alpha-sig.figma.com/img/0964/a10d/cc36f38b02bd325dbbf87eb0d80f2799.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=IWp3WY1pmSajxeo1qpkMfnVjc-6Otw8cc8xv1niL5vICLHE6MA2CXqvI4wYJDc0B7ZXgfoJnUaaL8HSS7fjLHLz~~aOaTYuJT8WyFCDPrO4BNsRcRJdRTBrW17TTzIFgADDxbYQDZDZCrErvfjvI-K3hkOsLRTMahPIAcxmqgtxVXoKbVCuTbCTQKCCDybMo7Hvnc673-Gm6tunWQE3Q360w8y~z8r3UYR9flcx6Wc85V9ei1GrThShXSDBmmQVIjcy4t~83QdC72DCdwB3GaaQmUZtMgI65r3EDRTg3uRjIwaZxkSVU5XWBuCYriwkYB69w0RcCjmEsp~VAqhSucw__",
+   "credit": "Ilustración IA (recreación)",
+   "license": "propia",
+   "grande": "JERJES",
+   "caja": "NO ERA ASÍ",
+   "sub": "LA HISTORIA QUE 300 NO TE CONTÓ"
+  },
+  {
+   "name": "B",
+   "commons": "File:Left Section of the Treasury Reliefs (4735523887).jpg",
+   "grande": "JERJES",
+   "caja": "NO ERA ASÍ",
+   "sub": "LA VERDAD DEL IMPERIO PERSA"
+  },
+  {
+   "name": "C",
+   "commons": "File:Xerxes Enthroned (4736067680).jpg",
+   "grande": "JERJES",
+   "caja": "NO ERA ASÍ",
+   "sub": "LA HISTORIA QUE 300 NO TE CONTÓ"
+  }
+ ],
  "picks": {},
  "rev": 3,
  "units": [
@@ -9083,11 +10302,7 @@
     {
      "photo": "Pella",
      "src": "commons,met,cleveland,europeana",
-     "at": "en Pela",
-     "lt": [
-      "Pela",
-      "Capital de Macedonia · Grecia, hoy"
-     ]
+     "at": "en Pela"
     },
     {
      "photo": "Alexander the Great bust Acropolis Museum",
@@ -9476,8 +10691,7 @@
    "voice": "HER",
    "shots": [
     {
-     "photo": "the great columned hall of Persepolis engulfed in flames at ",
-     "src": "commons,met,cleveland,europeana",
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/780e/32c0/dd80d186cad1925eed52f6c75e16991d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261119%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261119T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=954e68f0699dc5ece399bb23132f3edb560e69c7358710b71fcbabb051127955",
      "at": "una antorcha en la mano"
     },
     {

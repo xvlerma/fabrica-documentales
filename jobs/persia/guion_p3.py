@@ -69,7 +69,7 @@ NEW("Heródoto cierra su libro con un consejo que pone en boca de Ciro el Grande
 CIR("[serious] Las tierras blandas suelen criar hombres blandos. No es posible que una misma tierra dé frutos maravillosos y hombres valientes en la guerra.",
     PAP('Las tierras blandas suelen criar hombres blandos.', 'Ciro, según Heródoto', 'Historias, IX, 122', at='Las tierras blandas'))
 NAR("[dramatically] Persia parecía eterna. Y sus reyes vivían en los palacios más ricos de la Tierra. [pause] Pero en el año trescientos cincuenta y seis, en Pela, la capital de un reino del norte de Grecia que los griegos consideraban casi bárbaro, nació un niño. [short pause] Su padre se llamaba Filipo de Macedonia. Al niño lo llamaron Alejandro.",
-    ph('Pella', at='en Pela', lt=['Pela', 'Capital de Macedonia · Grecia, hoy']),
+    ph('Pella', at='en Pela'),
     ph('Alexander the Great bust Acropolis Museum', at='Al niño lo llamaron Alejandro'))
 
 # ---------------- VIII · ALEJANDRO ----------------

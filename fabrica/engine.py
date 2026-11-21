@@ -657,7 +657,9 @@ def make_thumbs(job, out_dir):
     import thumb as TH
     for t in job.get('thumbs', []):
         try:
-            c = SRC.commons_file(t['commons']); p = SRC.download(c['url'], '.jpg')
+            if t.get('url'): c = {'url': t['url'], 'credit': t.get('credit', ''), 'license': t.get('license', '')}
+            else: c = SRC.commons_file(t['commons'])
+            p = SRC.download(c['url'], '.jpg')
             out = f"{out_dir}/{job['id']}_miniatura_{t['name']}.jpg"
             TH.make(out, p, t['grande'], t['caja'], t.get('sub', ''), None, tuple(t['recorte']) if t.get('recorte') else None)
             log(f'   miniatura {t["name"]}: {c.get("credit", "")} · {c.get("license", "")}')

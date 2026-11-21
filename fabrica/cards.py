@@ -466,7 +466,7 @@ def f_split(spec, t, D):
     return fr
 
 def f_kw(spec, t, D):
-    fr = bg(spec.get('seed', 97)); w = CASE(spec['word']); k = ease(t / .6)
+    fr = bg(spec.get('seed', 97)); w = CASE(spec['word'].replace('«', '').replace('»', '')); k = ease(t / .6)
     put(fr, text_layer(w, fit('cinzel600', 170, w, W - 200, TR(0.04)), GOLD, TR(0.04)), W / 2, H / 2 - 20, k, dy=int(30 * (1 - k)))
     put(fr, rule_layer(360), W / 2, H / 2 + 110, ease((t - .4) / .8))
     if spec.get('sub'): put(fr, text_layer(spec['sub'], font('corm500i', 54), CREAM), W / 2, H / 2 + 180, ease((t - .6) / .8))

@@ -74,3 +74,7 @@ def ai(key, prompt, at=None, move=None):
     if s and s[0] == 'ph': return ph(s[1], at=at)
     if s and s[0] == 'kw': return cd(dict(type='kw', word=s[1], sub=s[2]), at=at)
     return _c(dict(ai_pending=key, photo=prompt[:60], src=SRC, at=at))
+
+def AIR(key, at=None, move=None):
+    """Reutiliza una escena IA ya generada."""
+    return _c(dict(ai=AI[key], at=at, move=move))

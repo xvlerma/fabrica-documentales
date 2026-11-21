@@ -73,6 +73,7 @@ NEW("[short pause] ¿Y los responsables? Rato acabó en prisión, pero no por la
     ai('celda_puerta', 'a heavy prison corridor door closing, seen from inside, a man\'s shadow on the floor, cold light, symbolic close-up', at='Rato acabó en prisión'),
     ph('Banco Popular sede Madrid', at='el Popular'))
 NAR("Y el propio Banco de España acabó haciendo examen de conciencia. En dos mil diecisiete publicó un largo informe sobre la crisis. Al presentarlo, su gobernador, Luis María Linde, reconoció lo que diez años antes casi nadie quería decir en voz alta.",
+    ph('Banco de España edificio Cibeles', at='el propio Banco de España'),
     ph('Luis María Linde', at='Luis María Linde', lt=['Luis María Linde', 'Gobernador del Banco de España · 2012-2018', 'gobierno']))
 DOC("Este proceso se ajustó a una dinámica consistente con lo que puede considerarse una burbuja especulativa en el sector inmobiliario.",
     cd(dict(type='quote', text='Una dinámica consistente con lo que puede considerarse una burbuja especulativa.', attrib='Luis María Linde, gobernador del Banco de España · presentación del Informe sobre la crisis, 2017'), at='Este proceso se ajustó'))
@@ -92,8 +93,10 @@ NEW("¿Quién vive allí? En buena parte, familias jóvenes que no pueden pagar 
 DOC("Y en dos mil veintidós, la prensa contaba que en el mismo municipio se planeaban casi catorce mil viviendas nuevas. Más que las que soñó El Pocero.",
     cd(dict(type='doc', title='Seseña · 2022', lines=['Se planean 13.825 viviendas nuevas', '«dejan pequeño el sueño de El Pocero»'], source='El Periódico de España · 16 de enero de 2022'), at='casi catorce mil viviendas nuevas'))
 NEW("Y el aeropuerto sin aviones de Castellón tampoco es ya lo que era. Hoy tiene vuelos regulares, un negocio de mantenimiento de aviones y ha batido récords de pasajeros. Los monumentos de la burbuja, uno a uno, han encontrado uso. [short pause] Porque el país que tenía casas de más se ha quedado corto.",
-    ph('Castellón Costa Azahar Airport aircraft', at='Hoy tiene vuelos regulares'))
+    ph('Castellón Costa Azahar Airport aircraft', at='Hoy tiene vuelos regulares'),
+    AIR('cruce_hoy', at='se ha quedado corto'))
 NAR("[pause] Y aquí está la pregunta que nos trajo hasta aquí. Si el piso vuelve a costar más que nunca, ¿estamos otra vez en dos mil siete? Vamos a compararlo dato a dato.",
+    AIR('pareja_escaparate', at='Y aquí está la pregunta'),
     cd(dict(type='kw', word='¿2007 OTRA VEZ?', sub='dato a dato'), at='estamos otra vez en dos mil siete'))
 DAT("Primero, el precio. A finales de dos mil veinticinco, el metro cuadrado de vivienda libre marcó dos mil doscientos treinta euros, un siete por ciento por encima del máximo de dos mil siete. Pero eso es en euros de cada año. Si se descuenta lo que han subido los precios de todo lo demás desde entonces, la vivienda sigue en torno a un veinticinco por ciento por debajo de aquel máximo.",
     HOY(['Precio nominal', '2007: 2.085 €/m²', '2025: 2.230 €/m²'], ['Descontada la inflación', 'Hoy, en torno a un 25 %', 'por debajo de 2007'], at='Primero, el precio'))

@@ -127,7 +127,7 @@ PRE("Las imágenes de aquellos desahucios se convirtieron en parte del paisaje: 
     ai('muebles_acera', 'household furniture, a mattress and cardboard boxes piled on a city sidewalk in front of an apartment building, a locksmith working at the door in the background, overcast morning', at='muebles en la acera'))
 DAT("Las cifras del Consejo General del Poder Judicial dan la dimensión. En dos mil ocho se iniciaron cincuenta y ocho mil ejecuciones hipotecarias. En dos mil nueve, más de noventa y tres mil. Entre dos mil ocho y dos mil catorce, según los cálculos de Amnistía Internacional, más de medio millón.",
     cd(dict(type='timeline', header='Ejecuciones hipotecarias iniciadas', events=[('2008', '58.686'), ('2009', '93.319'), ('2008-2014', 'más de medio millón')]), at='Las cifras del Consejo General'),
-    cd(dict(type='counter', to=578000, label='ejecuciones hipotecarias iniciadas · 2008-2014 (estimación de Amnistía Internacional)'), at='más de medio millón'))
+    cd(dict(type='counter', to=578000, label='ejecuciones hipotecarias iniciadas · 2008-2014'), at='más de medio millón'))
 DAT("Un dato para comparar con hoy. En aquellos años, la mayoría de los desahucios eran por no poder pagar la hipoteca. Desde dos mil quince, más de la mitad son por no poder pagar el alquiler.",
     HOY(['Años de la crisis', 'La mayoría de desahucios', 'por hipoteca'], ['Desde 2015', 'Más de la mitad', 'por impago del alquiler'], at='Un dato para comparar con hoy'))
 NEW("Y había un detalle de la ley española que muchos desconocían cuando firmaron. Si el banco se quedaba con tu casa y la subastaba por menos de lo que debías, la diferencia la seguías debiendo tú. Te quedabas sin casa. Y con la deuda.",

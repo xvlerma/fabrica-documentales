@@ -5,7 +5,7 @@ SUB = {
  'inauguracion_banda': ('ph','Ciudad de la Cultura de Galicia'),
  'polideportivo_cerrado': ('kw','DEUDAS','polideportivos que no se podían mantener'),
  'urbanizacion_vacia': ('ai','mapa_gruas'),
- 'maqueta': ('ph','Maqueta urbanización'),
+ 'maqueta': ('kw','SOBRE PLANO','pisos vendidos antes de existir'),
  'bar_tele': ('kw','«EL PISO NUNCA BAJA»','la frase de aquellos años'),
  'bloques_nada': ('ph','Seseña aerial view'),
  'sobre_ministerio': ('kw','EL AVISO','los inspectores escriben al Gobierno'),

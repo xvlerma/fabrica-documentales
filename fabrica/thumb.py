@@ -4,7 +4,7 @@ Uso:
   python fabrica/thumb.py salida.jpg --foto retrato.png --fondo documento.png \
       --grande "PUCHERAZO" --caja "DEL 36" --sub "LAS ELECCIONES DE FEBRERO" [--recorte x0,y0,x1,y1]
 
-Reglas: foto real de archivo en B/N a la derecha; palabra grande blanca (Barlow Condensed Black) y segunda
+Reglas: foto real de archivo A COLOR a la derecha (--bn para blanco y negro; decisión del creador 20-11-2026); palabra grande blanca (Barlow Condensed Black) y segunda
 parte en la caja amarilla #F2FF00 con letra negra; línea secundaria gris con el punto amarillo; logo arriba a la
 izquierda; esquina inferior derecha libre (duración de YouTube). Comprueba la lectura a 320×180 (se guarda _mini)."""
 import os, sys, argparse
@@ -13,20 +13,21 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageEnhance, ImageOps
 HERE = os.path.dirname(os.path.abspath(__file__)); KIT = os.path.join(os.path.dirname(HERE), 'assets', 'brand')
 W, H, Y = 1280, 720, (242, 255, 0)
 
-def make(out, foto, grande, caja, sub='', fondo=None, recorte=None, fondo_recorte=None):
+def make(out, foto, grande, caja, sub='', fondo=None, recorte=None, fondo_recorte=None, color=True):
     if fondo:
         bg = Image.open(fondo).convert('L')
         if fondo_recorte: bg = bg.crop(fondo_recorte)
         bg = ImageOps.fit(bg, (W, H)); bg = ImageEnhance.Brightness(bg).enhance(0.38).filter(ImageFilter.GaussianBlur(1.2))
     else: bg = Image.new('L', (W, H), 18)
     im = Image.merge('RGB', [bg] * 3)
-    p = Image.open(foto).convert('L')
+    p = Image.open(foto).convert('RGB' if color else 'L')
     if recorte: p = p.crop(recorte)
-    p = ImageEnhance.Contrast(ImageOps.autocontrast(p, cutoff=1)).enhance(1.25)
+    p = ImageEnhance.Contrast(ImageOps.autocontrast(p, cutoff=1)).enhance(1.2)
+    if color: p = ImageEnhance.Color(p).enhance(1.35)
     ph = 760; p = p.resize((int(p.width * ph / p.height), ph), Image.LANCZOS)
     m = Image.new('L', p.size, 255); md = ImageDraw.Draw(m)
     for x in range(260): md.line([(x, 0), (x, p.height)], fill=int(255 * x / 260))
-    im.paste(Image.merge('RGB', [p] * 3), (W - p.width + 60, -10), m)
+    im.paste(p if color else Image.merge('RGB', [p] * 3), (W - p.width + 60, -10), m)
     v = Image.new('L', (W, H), 0); ImageDraw.Draw(v).ellipse([-300, -250, W + 300, H + 250], fill=255)
     im = Image.composite(im, Image.new('RGB', (W, H)), v.filter(ImageFilter.GaussianBlur(160)))
     g = Image.new('L', (W, H)); gd = ImageDraw.Draw(g)
@@ -51,6 +52,6 @@ def make(out, foto, grande, caja, sub='', fondo=None, recorte=None, fondo_recort
 
 if __name__ == '__main__':
     a = argparse.ArgumentParser(); a.add_argument('out'); a.add_argument('--foto', required=True); a.add_argument('--grande', required=True)
-    a.add_argument('--caja', required=True); a.add_argument('--sub', default=''); a.add_argument('--fondo'); a.add_argument('--recorte'); a.add_argument('--fondo_recorte')
+    a.add_argument('--caja', required=True); a.add_argument('--sub', default=''); a.add_argument('--fondo'); a.add_argument('--recorte'); a.add_argument('--fondo_recorte'); a.add_argument('--bn', action='store_true')
     r = a.parse_args(); tup = lambda s: tuple(int(v) for v in s.split(',')) if s else None
-    print(make(r.out, r.foto, r.grande, r.caja, r.sub, r.fondo, tup(r.recorte), tup(r.fondo_recorte)))
+    print(make(r.out, r.foto, r.grande, r.caja, r.sub, r.fondo, tup(r.recorte), tup(r.fondo_recorte), color=not r.bn))

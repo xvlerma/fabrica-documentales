@@ -20,7 +20,7 @@ jobs:
         if: always()
         run: |
           git config --global user.name fabrica; git config --global user.email fabrica@users.noreply.github.com
-          mkdir /tmp/r && cd /tmp/r && git init -q && git checkout -q -b out-pruebas
-          cp /tmp/informe_fuentes.txt . ; cp /tmp/pc/*.json . 2>/dev/null || true
+          mkdir /tmp/r && cd /tmp/r && git init -q && git checkout -q -b out-mini-crisis2008
+          cp /tmp/informe_fuentes.txt . ; cp /tmp/pc/*.json /tmp/pc/*.jpg . 2>/dev/null || true
           git add -A; git commit -qm "pruebas de fuentes"
-          git push -f https://x-access-token:${{ github.token }}@github.com/${{ github.repository }} out-pruebas
+          git push -f https://x-access-token:${{ github.token }}@github.com/${{ github.repository }} out-mini-crisis2008

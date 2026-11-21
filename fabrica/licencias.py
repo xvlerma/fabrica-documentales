@@ -12,6 +12,19 @@ import json, re, datetime
 # credito: plantilla del crédito público ({title}, {author}, {license}); None = no exige crédito.
 # multi: vale para YouTube + iVoox. solo_yt: solo YouTube (prohibido en el audio del máster).
 FUENTES = {
+    # 0 · v7 (especial elecciones): fuentes institucionales y cita audiovisual
+    'moncloa':      dict(nombre='La Moncloa', dominios=('lamoncloa.gob.es',), licencia='Reutilización con cita de la fuente (aviso legal de La Moncloa)',
+                         credito='Imágenes y declaraciones: La Moncloa ({title})', multi=True),
+    'congreso':     dict(nombre='Congreso de los Diputados', dominios=('congreso.es',), licencia='Reutilización con cita de la fuente (Ley 37/2007)',
+                         credito='Archivo audiovisual del Congreso de los Diputados ({title})', multi=True),
+    'senado':       dict(nombre='Senado de España', dominios=('senado.es',), licencia='Reutilización con cita de la fuente (Ley 37/2007)',
+                         credito='Archivo audiovisual del Senado ({title})', multi=True),
+    'poder_judicial': dict(nombre='Poder Judicial', dominios=('poderjudicial.es',), licencia='Reutilización con cita de la fuente (CENDOJ / CGPJ)',
+                         credito='Fuente: Poder Judicial ({title})', multi=True),
+    'boe':          dict(nombre='BOE', dominios=('boe.es',), licencia='Reutilización con cita de la fuente', credito='Fuente: BOE ({title})', multi=True),
+    'cita':         dict(nombre='Cita audiovisual (art. 32 LPI)', dominios=(), licencia='Cita con fin de análisis y crítica (art. 32 LPI)',
+                         credito='Fragmento citado con fin de análisis: {title}', multi=True,
+                         nota='fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID'),
     # 1-2 · lugar o hecho real y archivo español
     'wikimedia':    dict(nombre='Wikimedia Commons', dominios=('wikimedia.org', 'wikipedia.org'), licencia='', credito='por_licencia'),
     'bne':          dict(nombre='Biblioteca Nacional de España', dominios=('bne.es',), licencia='CC BY 4.0',

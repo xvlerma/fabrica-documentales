@@ -93,6 +93,28 @@ def music_file(v, credits, name=''):
         p = q
     MUSIC_PATHS[name] = p; return p
 
+CLIPS = []; JOBU = []
+def clip_src(u):
+    """v7: archivo local del corte. Acepta mp4/mp3 directos, listas HLS (.m3u8) o ruta del repo/carpeta."""
+    s = u['src']
+    if s.startswith('http') and '.m3u8' in s:
+        out = f"{SRC.CACHE}/hls_{abs(hash(s)) % 10**12}.mp4"
+        if not os.path.exists(out):
+            a0 = max(0, float(u.get('in', 0)) - 5); d0 = float(u.get('out', 0)) - a0 + 5
+            sh(['ffmpeg', '-loglevel', 'error', '-y', '-ss', f'{a0:.2f}', '-i', s, '-t', f'{d0:.2f}', '-c', 'copy', out])
+        return out
+    return fetch(s, os.path.splitext(s.split('?')[0])[1] or '.mp4')
+
+def clip_in(u):
+    """Segundo de entrada dentro del archivo local (las listas HLS se descargan desde 5 s antes del corte)."""
+    a = float(u.get('in', 0))
+    return a - max(0, a - 5) if ('.m3u8' in u['src']) else a
+
+def clip_credit(u):
+    f = u.get('fuente') or ('cita' if not any(d in u['src'] for d in ('lamoncloa', 'congreso', 'senado', 'poderjudicial')) else None)
+    return SRC.manual(dict(url=u['src'], fuente=f, title=u.get('title') or ' · '.join(u.get('lt') or []), page=u.get('page') or u['src'],
+                           revisado=True), 'audio' if u.get('audio_only') else 'video')
+
 def build_audio(job, U):
     """Coloca voces, interludios, camas y efectos. Devuelve timeline de unidades y lista de eventos de audio."""
     A = job.get('audio', {}); credits = []
@@ -146,6 +168,21 @@ def build_audio(job, U):
                 src = music[u['sting']]; o = u.get('offset', 0); seg = src[:, int(o * SR):int((o + secs + 1.5) * SR)]
                 events.append((int(t * SR), fade(gain_to(seg, INTER + u.get('sting_db', 0)), 0.05, 1.6)))
             tl.append(dict(i=i, k='T', t=round(t, 3), d=secs, va=va)); t += secs
+        elif k == 'C':  # v7: corte de archivo real (vídeo o audio) con su propio sonido, de "in" a "out" segundos
+            d = float(u['out']) - float(u['in'])
+            try:
+                src = clip_src(u)
+                cp = f"{src}.a{clip_in(u):.2f}_{d:.2f}.wav"
+                if not os.path.exists(cp):
+                    sh(['ffmpeg', '-loglevel', 'error', '-y', '-ss', f"{clip_in(u):.3f}", '-t', f'{d:.3f}', '-i', src, '-vn', '-ac', '2', '-ar', str(SR),
+                        '-af', 'highpass=f=80,dynaudnorm=f=150:g=7', cp])
+                y = fade(gain_to(load(cp), VOICE + u.get('db', 0)), 0.04, 0.12); d = y.shape[1] / SR
+                credits.append(('vídeo' if not u.get('audio_only') else 'sonido', clip_credit(u)))
+            except Exception as e:
+                if job.get('stage') not in ('cast', 'recon'): raise
+                log(f'  aviso corte {i} ({u.get("src", "")[:60]}): {e} (silencio en el casting)'); y = np.zeros((2, int(SR * d)), np.float32) + 1e-6
+            events.append((int(t * SR), y)); tl.append(dict(i=i, k='C', t=round(t, 3), d=round(d, 3))); CLIPS.append(i)
+            t += d + u.get('gap', 0.45)
         elif k == 'S':
             y = fade(gain_to(load(sfx_file(u['sfx'], credits)), u.get('db', -29)), 0.3, 1.0)
             events.append((int(t * SR), y)); tl.append(dict(i=i, k='S', t=round(t, 3), d=1.2)); t += 1.2
@@ -245,6 +282,7 @@ def resolve(spec, need, credits, pick=None, t=0.0):
                 for v in o: walk(v)
         walk(c)
         return dict(kind='card', card=c)
+    if 'clipv' in spec: return dict(kind='clip', path=clip_src(JOBU[spec['clip_unit']]), ss=spec.get('_ss', 0))
     if 'ai' in spec: return dict(kind='image', path=fetch(spec['ai'], '.jpg'), ai=True, move=spec.get('move'))
     if 'image' in spec: return dict(kind='image', path=fetch(spec['image'], '.jpg'), move=spec.get('move'))
     if 'file' in spec: p = fetch(spec['file']); return dict(kind='video' if p.endswith(('.mp4', '.webm', '.mov')) else 'image', path=p)
@@ -316,6 +354,12 @@ def build_edl_sync(job, U, A):
         if pend: t, d = pend[0], d + pend[1]; pend = None
         u = U[i]
         if e['k'] == 'T': specs = u.get('shots') or [dict(card=u.get('card') or {'type': 'title', 'title': job.get('title', '')}, tr=u.get('tr'))]
+        elif e['k'] == 'C':
+            if u.get('audio_only'):  # radio o audio sin imagen: cita en pantalla con foto del que habla
+                specs = u.get('shots') or [dict(card=dict(type='quote', text=u.get('quote', ''), author=' · '.join(u.get('lt') or []),
+                                                          **({'commons': u['photo']} if u.get('photo') else {})))]
+            else:
+                specs = [dict(clipv=u['src'], _ss=clip_in(u), lt=u.get('lt'), clip_unit=i, grade=u.get('grade', True))] + (u.get('shots') or [])
         else: specs = u.get('shots') or [{'card': {'type': 'title', 'title': job.get('channel', ''), 'sub': job.get('title', '')}}]
         wu = W_.get(i); pos = 0
         for m, s in enumerate(specs):
@@ -346,7 +390,7 @@ def build_edl_sync(job, U, A):
         end = items[k + 1]['t'] if k + 1 < len(items) else A['end'] + 3
         s = it['spec']; d = end - it['t']
         if d <= 0.2: log(f'  aviso plano descartado por falta de hueco: {list(s)[0]}'); continue
-        shots.append(dict(spec=s, t=it['t'], d=d, unit=it['unit'], k=it['k'], lt=s.get('lt'), tr_in=s.get('tr'),
+        shots.append(dict(spec=s, t=it['t'], d=d, unit=it['unit'], k=it['k'], lt=s.get('lt'), tr_in=s.get('tr'), clip_off=max(0, it['t'] - it['ustart']) if 'clipv' in s else 0,
                           fadein=.8 if (it['k'] == 'M' and it['m'] == 0) else 0, fadeout=1.2 if (it['k'] == 'M' and it['m'] == it['n_in'] - 1) else 0))
     shots[-1]['fadeout'] = 3.0
     for a_, b_ in zip(shots, shots[1:]):
@@ -435,6 +479,9 @@ def render_shot(sh_, out, workdir):
         tmp = out + '.card.mp4'
         if not os.path.exists(tmp): CARDS.render_card(R['card'], dur, tmp, fade_in=0, fade_out=0)
         base = ['-i', tmp]; vf = 'null'
+    elif R['kind'] == 'clip':  # v7: corte real, empieza exactamente en su punto de entrada y a velocidad normal
+        base = ['-ss', f"{R['ss'] + sh_.get('clip_off', 0):.3f}", '-i', R['path']]
+        vf = f'scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS},eq=contrast=1.04:saturation=0.92'
     elif R['kind'] == 'video':
         L = R.get('dur') or float(sh(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', R['path']]).strip() or 0)
         slow = min(1.6, max(1.0, dur / max(.5, L - 1.5))) if L else 1.0
@@ -645,8 +692,38 @@ def make_thumbs(job, out_dir):
         except Exception as e: log('  aviso miniatura', t.get('name'), e)
 
 # ================= PRINCIPAL =================
+def recon(job, out_dir):
+    """v7: etapa de reconocimiento. Abre las páginas de archivo oficial (Moncloa, Congreso, Senado, RTVE...) desde el runner,
+    lista sus enlaces de vídeo/audio y prueba cada corte declarado (duración y un fotograma en recon_NN.jpg)."""
+    import urllib.request, html as _h
+    os.makedirs(out_dir, exist_ok=True); res = {}
+    for pg in job.get('pages', []):
+        try:
+            req = urllib.request.Request(pg, headers={'User-Agent': 'Mozilla/5.0 (DocuVox recon)'})
+            txt = urllib.request.urlopen(req, timeout=40).read().decode('utf-8', 'ignore'); txt = _h.unescape(txt)
+            links = sorted(set(re.findall(r'''(https?:[^"'\s<>]+?\.(?:mp4|m3u8|mp3|m4a|webm|vtt|srt)(?:\?[^"'\s<>]*)?)''', txt)))
+            rel = sorted(set(re.findall(r'''["'](/[^"'\s<>]+?\.(?:mp4|m3u8|mp3|m4a))["']''', txt)))
+            base = re.match(r'https?://[^/]+', pg).group(0)
+            links += [base + r for r in rel]
+            title = re.search(r'<title>(.*?)</title>', txt, re.S)
+            res[pg] = dict(title=(title.group(1).strip() if title else ''), media=links[:60],
+                           iframes=sorted(set(re.findall(r'<iframe[^>]+src=["\']([^"\']+)', txt)))[:20])
+            log(f'recon {pg}: {len(links)} medios')
+        except Exception as e: res[pg] = dict(error=str(e)[:300]); log(f'recon {pg}: error {e}')
+    probes = []
+    for n, u in enumerate([u for u in job.get('units', []) if u.get('k') == 'C']):
+        try:
+            p = clip_src(u); L = float(sh(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', p]).strip() or 0)
+            jp = f'{out_dir}/recon_{n:02d}.jpg'
+            if not u.get('audio_only'): sh(['ffmpeg', '-loglevel', 'error', '-y', '-ss', f'{clip_in(u) + 0.5:.2f}', '-i', p, '-frames:v', '1', '-vf', 'scale=640:-2', jp])
+            probes.append(dict(n=n, src=u['src'], ok=True, dur=L, lt=u.get('lt')))
+        except Exception as e: probes.append(dict(n=n, src=u.get('src'), ok=False, error=str(e)[:300]))
+    json.dump(dict(pages=res, clips=probes), open(f'{out_dir}/recon.json', 'w'), ensure_ascii=False, indent=1)
+    open(f'{out_dir}/run.log', 'w').write('\n'.join(LOG))
+
 def run(job_dir):
-    job = json.load(open(f'{job_dir}/job.json')); U = job['units']
+    job = json.load(open(f'{job_dir}/job.json')); U = job['units']; JOBU[:] = U
+    if job.get('stage') == 'recon': return recon(job, out_dir=f'{job_dir}/out')
     out_dir = f'{job_dir}/out'; wd = '/tmp/fabrica_work'; os.makedirs(out_dir, exist_ok=True); os.makedirs(f'{wd}/shots', exist_ok=True)
     random.seed(job.get('seed', 7)); credits = []; MUST[:] = job.get('must', [])
     SRC.SEGURO = job.get('seguro', True)  # modo seguro por defecto (docs/RECURSOS.md)

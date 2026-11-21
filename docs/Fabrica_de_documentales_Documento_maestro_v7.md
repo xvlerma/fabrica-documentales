@@ -750,3 +750,11 @@ Lo único fijo en cualquier nicho es la capa DocuVox (intro, mosca, punto amaril
 | Locución | — | Narrador sólido | Monótono, pocas voces → Manual de voces |
 | Música | — | Albéniz muy acertado | Golpe de aire chirriante en cada tarjeta → `auto_sfx` desactivado |
 | Intro | — | Intro DocuVox con locución, muy bien | — |
+
+### Nota operativa (Persia, 21-11-2026): subida de Shorts en Studio con vidIQ instalado
+- El paso «Visibilidad» del diálogo de subida carga un iframe `chrome-extension://` de vidIQ que bloquea la automatización del navegador.
+- Solución: antes de abrir el diálogo, ejecutar en la página un `MutationObserver` + `setInterval(50 ms)` que elimine todo `iframe` cuyo `src` empiece por `chrome-extension://`.
+- «Mostrar más» se abre pulsando el `button` interno de `#toggle-button` (si no, no aparece «Contenido alterado o sintético»).
+- Si sale «Aún estamos comprobando tu contenido», elegir «Publicar de todas formas».
+- El «Vídeo relacionado» no aparece en el diálogo de subida: se fija después en la página de edición de cada Short.
+- Shorts sin IA: `shorts.json` admite `parts` (varios tramos) para saltar planos IA sin romper la frase.

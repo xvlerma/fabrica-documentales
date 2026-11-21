@@ -1,1 +1,28 @@
-{"ai":{},"img":{}}
+{
+ "ai": {
+  "cola_paro": "https://www.figma.com/api/mcp/asset/9549e278-6093-40ce-8e4c-cbb054b6cc74.png",
+  "desahucio_puerta": "https://www.figma.com/api/mcp/asset/e0ba05df-1da6-49a5-a27c-c4f06c734c38.png",
+  "grua_atardecer": "https://www.figma.com/api/mcp/asset/80f6f6ae-7b8c-401a-87aa-1e863af39959.png",
+  "pareja_escaparate": "https://www.figma.com/api/mcp/asset/d56a248d-5b3e-426e-a6f2-a8c619700eea.png",
+  "firma_notaria": "https://www.figma.com/api/mcp/asset/ce60f8e8-08d0-4672-8296-e86f4d7bd230.png",
+  "multitud_sol": "https://www.figma.com/api/mcp/asset/f412b25f-6bbc-4d54-96c0-f7bc8bca3471.png",
+  "mapa_gruas": "https://www.figma.com/api/mcp/asset/29dcef3a-af29-41fe-9fe8-fe36a9f310ec.png",
+  "reloj_oficina": "https://www.figma.com/api/mcp/asset/17ed8462-e5f5-4057-ab8e-a74191f2097c.png",
+  "cruce_hoy": "https://www.figma.com/api/mcp/asset/e169598d-ad5e-44eb-b360-3a0b2d377908.png",
+  "campo_cereal": "https://www.figma.com/api/mcp/asset/ecef8cc3-f616-4c7a-9e18-aac7145d5ea4.png",
+  "pocero_obra": "https://www.figma.com/api/mcp/asset/deb1189f-d92b-4b16-aade-db5ef1a8d7b1.png",
+  "tres_piezas": "https://www.figma.com/api/mcp/asset/eedbb653-08d4-423c-82fb-2319d53d3417.png",
+  "cambio_pesetas": "https://www.figma.com/api/mcp/asset/3ec457f6-0edc-43f5-9787-6efbf631953f.png",
+  "topografo": "https://www.figma.com/api/mcp/asset/606e64dd-e185-461f-ba9d-cf6495b1469f.png",
+  "consejo_caja": "https://www.figma.com/api/mcp/asset/49be11ba-9707-4418-892f-6440055b996c.png",
+  "hormigonera": "https://www.figma.com/api/mcp/asset/066824dc-d230-4cf3-825a-1724a5bd1a5b.png",
+  "llegada_inmigrantes": "https://www.figma.com/api/mcp/asset/369e5679-71fe-432f-8860-15c4314a572a.png",
+  "obra_noche": "https://www.figma.com/api/mcp/asset/043dd749-5d9c-4d20-b260-f3ff7cd4584e.png",
+  "chaval_andamio": "https://www.figma.com/api/mcp/asset/af546ce3-8b4f-4dfb-b4e0-4e105c0be956.png",
+  "aula_vacia": "https://www.figma.com/api/mcp/asset/f68fc3e0-292c-4f90-91af-200c7907bd94.png",
+  "folleto_banco": "https://www.figma.com/api/mcp/asset/36f0162a-6e63-48f4-b028-95d2d7b2fbf3.png",
+  "tasador": "https://www.figma.com/api/mcp/asset/af164b05-fbb5-4f33-b4e2-4354cdd4f14e.png",
+  "pueblo_grua": "https://www.figma.com/api/mcp/asset/ec452a9c-dd23-4a76-8e9e-e91a418cdba4.png"
+ },
+ "img": {}
+}

@@ -68,4 +68,9 @@ def ai(key, prompt, at=None, move=None):
     """Escena IA (ilustración editorial a gouache, sin caras ni letras). Si aún no está generada, queda pendiente."""
     AIP[key] = prompt + ', ' + STYLE
     if AI.get(key): return _c(dict(ai=AI[key], at=at, move=move))
+    from sub import SUB
+    s = SUB.get(key)
+    if s and s[0] == 'ai' and AI.get(s[1]): return _c(dict(ai=AI[s[1]], at=at, move=move))
+    if s and s[0] == 'ph': return ph(s[1], at=at)
+    if s and s[0] == 'kw': return cd(dict(type='kw', word=s[1], sub=s[2]), at=at)
     return _c(dict(ai_pending=key, photo=prompt[:60], src=SRC, at=at))

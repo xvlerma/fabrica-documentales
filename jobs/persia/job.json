@@ -644,7 +644,7 @@
  "id": "persia",
  "title": "El Imperio Persa: la historia que 300 no te contó",
  "channel": "DocuVox",
- "stage": "previa",
+ "stage": "render",
  "align": true,
  "align_model": "small",
  "no_pad": true,
@@ -6123,19 +6123,6 @@
    }
   ],
   "photo:Bisotun": [
-   {
-    "kind": "image",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg/1920px-History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "w": 2784,
-    "h": 1537,
-    "dur": 0,
-    "title": "File:History History IMG 7762 Bisotun, Iran (12864252555).jpg",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg/1920px-History_History_IMG_7762_Bisotun%2C_Iran_%2812864252555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "credit": "Ninara from Helsinki, Finland",
-    "license": "CC BY 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:History_History_IMG_7762_Bisotun,_Iran_(12864252555).jpg",
-    "id": "wm69184147"
-   },
    {
     "kind": "image",
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Behistun_I_%26_II_%283948706622%29.jpg/1920px-Behistun_I_%26_II_%283948706622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",

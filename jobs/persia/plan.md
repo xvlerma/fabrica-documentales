@@ -1,0 +1,9 @@
+# Plan · El Imperio Persa: la historia que 300 no te contó (ep. 7)
+- Piel `antiguo` con acento oro aqueménida y azul lapislázuli, etalonaje cálido. Música Mixkit: Gold Virginia (tema), Epical Drums 04 (batallas), Nield Grohm Hanging 1 (tensión), Charlotte (maravilla: Persépolis, Susa), Silent Descent (drama).
+- Formato D crónica cronológica con recurso propio «la otra versión»: tarjeta split «Lo que contó Grecia / Lo que dicen las piedras» en cada capítulo. Distinto de Roma (mito/realidad, novela gráfica) y de Estafas (expedientes, cine negro).
+- Voces: Narrador Top (NAR, ganchos y clímax) y Narrador New (NEW, contexto) alternando por bloques; entre los dos 65 %. Reparto: Heródoto y fuentes clásicas (HER, misma voz que en Termópilas), «lo que dicen las piedras» (PIE, tablillas e inscripciones), Ciro, Darío, Jerjes (misma voz que en Termópilas), voces griegas (Demarato, Esquilo, Jenofonte), voz épica para batallas (ESP) y Alejandro.
+- Imagen: archivo real solo si enseña lo que se dice (relieves de Persépolis, Behistún, Cilindro de Ciro, friso de los arqueros, tumbas, lugares de hoy). Acción con ~100 ilustraciones IA al óleo (pintura de historia académica, luz dorada, sin caras reconocibles ni letras), una por escena.
+- Grafismo: imperio (expansión de Ciro y Darío), mapfly (Camino Real, campaña de Alejandro), mapas (Babilonia, Egipto, Maratón, revuelta jonia), contadores, versus (Maratón), split, papiros con citas, doc (Crónica de Nabonido, archivo de Persépolis, Paz del Rey), recap a mitad, timeline final.
+- Ganchos: cada capítulo cierra en tensión (el hijo que muere dos veces, la pared de Behistún, Maratón, el asesinato de Jerjes, el oro, el niño de Pela, «aquí viene lo más inesperado»). Micro-ganchos cada 2-3 min.
+- Humor solo puntual: los gatos de Pelusio, el caballo de Darío, deliberar borrachos.
+- Duración: ~60 min (6.912 palabras, ~41.000 caracteres).

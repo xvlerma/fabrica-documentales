@@ -1,0 +1,4782 @@
+{
+ "permitir_sa": true,
+ "lugares": {
+  "Thermopylae pass Leonidas monument": [
+   "thermopyl",
+   "termópilas",
+   "leonidas",
+   "θερμοπ"
+  ],
+  "Persepolis Apadana relief soldiers": [
+   "persepolis",
+   "persépolis",
+   "takht-e jamshid",
+   "takht",
+   "parsa",
+   "apadana"
+  ],
+  "Frieze of Archers Susa Louvre": [
+   "archer",
+   "archers",
+   "archers",
+   "susa",
+   "frise des archers",
+   "immortal"
+  ],
+  "Frieze of Archers Susa Louvre detail": [
+   "archer",
+   "susa",
+   "frise",
+   "immortal"
+  ],
+  "Persepolis ruins aerial view": [
+   "persepolis",
+   "persépolis",
+   "takht-e jamshid",
+   "takht",
+   "parsa"
+  ],
+  "Persepolis ruins sunset": [
+   "persepolis",
+   "persépolis",
+   "takht-e jamshid",
+   "takht",
+   "parsa"
+  ],
+  "Persepolis Tachara palace ruins": [
+   "persepolis",
+   "persépolis",
+   "takht-e jamshid",
+   "takht",
+   "parsa",
+   "tachara"
+  ],
+  "Persepolis Apadana columns": [
+   "persepolis",
+   "persépolis",
+   "takht-e jamshid",
+   "takht",
+   "parsa",
+   "apadana"
+  ],
+  "Persepolis grand staircase": [
+   "persepolis",
+   "persépolis",
+   "takht-e jamshid",
+   "takht",
+   "parsa",
+   "stair",
+   "escalera"
+  ],
+  "Persepolis Fortification tablet Elamite": [
+   "fortification tablet",
+   "persepolis fortification",
+   "elamite tablet",
+   "elamite",
+   "pf ",
+   "fortification_tablet"
+  ],
+  "Persepolis Fortification tablet seal impression": [
+   "fortification",
+   "seal",
+   "pfs",
+   "elamite"
+  ],
+  "Persepolis excavation Herzfeld 1930s": [
+   "herzfeld",
+   "oriental institute",
+   "excavation",
+   "persepolis"
+  ],
+  "Persepolis treasury relief king audience": [
+   "treasury relief",
+   "audience relief",
+   "persepolis",
+   "audience"
+  ],
+  "Persepolis Apadana relief Indian delegation gold": [
+   "persepolis",
+   "persépolis",
+   "takht-e jamshid",
+   "takht",
+   "parsa",
+   "apadana",
+   "indian",
+   "delegation",
+   "tribute"
+  ],
+  "Persepolis Apadana relief Lydian delegation": [
+   "persepolis",
+   "persépolis",
+   "takht-e jamshid",
+   "takht",
+   "parsa",
+   "apadana",
+   "lydian",
+   "delegation",
+   "tribute"
+  ],
+  "Persepolis Apadana relief Arab dromedary": [
+   "persepolis",
+   "persépolis",
+   "takht-e jamshid",
+   "takht",
+   "parsa",
+   "apadana",
+   "arab",
+   "dromedar",
+   "camel"
+  ],
+  "Persepolis Apadana relief Persian Median guards": [
+   "persepolis",
+   "persépolis",
+   "takht-e jamshid",
+   "takht",
+   "parsa",
+   "apadana",
+   "median",
+   "guard"
+  ],
+  "Apadana staircase delegations Persepolis": [
+   "persepolis",
+   "persépolis",
+   "takht-e jamshid",
+   "takht",
+   "parsa",
+   "apadana",
+   "delegation",
+   "tribute"
+  ],
+  "Gate of All Nations Persepolis": [
+   "gate of all nations",
+   "gate of nations",
+   "xerxes gate",
+   "gate_of_all_nations",
+   "gate of xerxes"
+  ],
+  "Gate of All Nations lamassu Persepolis": [
+   "gate of all nations",
+   "lamassu",
+   "gate of nations",
+   "xerxes gate"
+  ],
+  "Xerxes relief Persepolis": [
+   "xerxes",
+   "jerjes",
+   "persepolis"
+  ],
+  "Darius the Great relief Persepolis treasury": [
+   "darius",
+   "darío",
+   "treasury",
+   "persepolis"
+  ],
+  "Behistun inscription relief Darius": [
+   "behistun",
+   "bisotun",
+   "bisutun",
+   "bistun",
+   "behistún"
+  ],
+  "Behistun inscription Old Persian cuneiform": [
+   "behistun",
+   "bisotun",
+   "bisutun",
+   "old persian",
+   "cuneiform"
+  ],
+  "Behistun relief Gaumata under foot": [
+   "behistun",
+   "bisotun",
+   "bisutun",
+   "gaumata"
+  ],
+  "Behistun relief Darius captive kings": [
+   "behistun",
+   "bisotun",
+   "bisutun"
+  ],
+  "Behistun cliff Kermanshah": [
+   "behistun",
+   "bisotun",
+   "bisutun",
+   "kermanshah"
+  ],
+  "Herodotus bust Metropolitan Museum": [
+   "herodot",
+   "heródoto",
+   "erodoto"
+  ],
+  "Cyrus Cylinder British Museum": [
+   "cyrus cylinder",
+   "cyrus_cylinder",
+   "cylinder of cyrus",
+   "cilindro de ciro",
+   "cyrus-cylinder"
+  ],
+  "Naqsh-e Rostam tombs": [
+   "naqsh",
+   "naqš",
+   "rostam",
+   "rustam"
+  ],
+  "Naqsh-e Rostam tomb of Darius": [
+   "naqsh",
+   "rostam",
+   "rustam"
+  ],
+  "Tomb of Xerxes Naqsh-e Rostam throne bearers": [
+   "naqsh",
+   "rostam",
+   "rustam",
+   "throne bearer",
+   "xerxes"
+  ],
+  "Ishtar Gate Pergamon Museum": [
+   "ishtar",
+   "ištar"
+  ],
+  "Nabonidus Chronicle British Museum": [
+   "nabonidus chronicle",
+   "nabonidus",
+   "chronicle"
+  ],
+  "Nabonidus stele British Museum": [
+   "nabonidus",
+   "nabonido"
+  ],
+  "Zagros mountains Fars Iran": [
+   "zagros",
+   "fars",
+   "shiraz"
+  ],
+  "Pasargadae tomb of Cyrus": [
+   "pasargad",
+   "tomb of cyrus",
+   "cyrus tomb"
+  ],
+  "Pasargadae tomb of Cyrus sunset": [
+   "pasargad",
+   "tomb of cyrus",
+   "cyrus tomb"
+  ],
+  "Pasargadae palace ruins": [
+   "pasargad"
+  ],
+  "Ecbatana Hamadan ruins": [
+   "ecbatana",
+   "hamadan",
+   "hegmataneh",
+   "hamedan"
+  ],
+  "Sardis ruins temple of Artemis": [
+   "sardis",
+   "sardes",
+   "sart"
+  ],
+  "Sardis acropolis": [
+   "sardis",
+   "sardes",
+   "sart"
+  ],
+  "Croeseid gold coin Lydia": [
+   "croes",
+   "lydia",
+   "lydian"
+  ],
+  "Delphi temple of Apollo ruins": [
+   "delphi",
+   "delfos",
+   "δελφ"
+  ],
+  "Croesus on the pyre amphora Louvre": [
+   "croesus",
+   "kroisos",
+   "croesus",
+   "myson"
+  ],
+  "Tayma oasis Saudi Arabia": [
+   "tayma",
+   "teima",
+   "tema"
+  ],
+  "United Nations headquarters New York": [
+   "united nations",
+   "un headquarters",
+   "naciones unidas"
+  ],
+  "Isaiah Scroll Dead Sea": [
+   "isaiah",
+   "dead sea scroll"
+  ],
+  "Tomyris Rubens head of Cyrus painting": [
+   "tomyris",
+   "tomiris",
+   "thomyris"
+  ],
+  "Bastet cat statue bronze Egyptian": [
+   "bastet",
+   "cat"
+  ],
+  "Apis bull statue Serapeum Louvre": [
+   "apis"
+  ],
+  "Serapeum Saqqara Apis tomb": [
+   "serapeum",
+   "saqqara",
+   "sakkara"
+  ],
+  "Apis stele Cambyses Louvre": [
+   "apis",
+   "cambyses",
+   "stele",
+   "stela"
+  ],
+  "Siwa oasis desert": [
+   "siwa"
+  ],
+  "Henry Rawlinson portrait": [
+   "rawlinson"
+  ],
+  "Rosetta Stone British Museum": [
+   "rosetta"
+  ],
+  "Daric gold coin Achaemenid": [
+   "daric",
+   "darike",
+   "dareikos",
+   "achaemenid coin"
+  ],
+  "James Farley Post Office New York inscription": [
+   "farley",
+   "post office",
+   "general post office"
+  ],
+  "Darius Suez canal stele Chalouf": [
+   "suez",
+   "chalouf",
+   "kabret",
+   "canal stele",
+   "darius"
+  ],
+  "Qanat Iran underground channel": [
+   "qanat",
+   "kariz",
+   "kareez",
+   "qanāt"
+  ],
+  "Darius Susa foundation charter tablet Louvre": [
+   "foundation charter",
+   "charte de fondation",
+   "susa",
+   "dsf",
+   "foundation tablet"
+  ],
+  "Achaemenid cylinder seal impression": [
+   "cylinder seal",
+   "seal",
+   "achaemenid"
+  ],
+  "Faravahar Persepolis relief": [
+   "faravahar",
+   "farvahar",
+   "fravahar",
+   "ahura mazda",
+   "ahuramazda"
+  ],
+  "Marathon bay beach Greece": [
+   "marathon",
+   "μαραθ"
+  ],
+  "Marathon tumulus Soros": [
+   "marathon",
+   "soros",
+   "tumulus",
+   "tymvos"
+  ],
+  "Mount Athos peninsula": [
+   "athos",
+   "άθω"
+  ],
+  "Dardanelles strait Canakkale": [
+   "dardanel",
+   "çanakkale",
+   "canakkale",
+   "hellespont"
+  ],
+  "Leonidas statue Thermopylae": [
+   "leonidas",
+   "leónidas",
+   "λεωνίδ"
+  ],
+  "Acropolis of Athens view": [
+   "acropolis",
+   "acrópolis",
+   "parthenon"
+  ],
+  "Kritios Boy Acropolis Museum": [
+   "kritios",
+   "acropolis museum",
+   "kore",
+   "kouros"
+  ],
+  "Salamis strait Greece": [
+   "salamis",
+   "salamina",
+   "σαλαμ"
+  ],
+  "Themistocles bust Ostia": [
+   "themistocl",
+   "temístocles"
+  ],
+  "Artemisia I of Caria Salamis Kaulbach": [
+   "artemisia",
+   "kaulbach",
+   "salamis"
+  ],
+  "Battle of Salamis Kaulbach painting": [
+   "salamis",
+   "kaulbach",
+   "salamina"
+  ],
+  "Susa palace ruins Shush": [
+   "susa",
+   "shush",
+   "suse"
+  ],
+  "Jane Dieulafoy portrait": [
+   "dieulafoy"
+  ],
+  "Achaemenid gold rhyton": [
+   "rhyton",
+   "achaemenid"
+  ],
+  "Babylon ruins Iraq": [
+   "babylon",
+   "babilonia"
+  ],
+  "Oxus Treasure gold chariot British Museum": [
+   "oxus"
+  ],
+  "Xenophon bust": [
+   "xenophon",
+   "jenofonte",
+   "xenofon"
+  ],
+  "Artaxerxes II tomb Persepolis": [
+   "artaxerxes",
+   "persepolis",
+   "tomb"
+  ],
+  "Pella Macedonia ruins mosaics": [
+   "pella"
+  ],
+  "Alexander the Great bust Acropolis Museum": [
+   "alexander",
+   "alejandro",
+   "alexandre"
+  ],
+  "Alexander Mosaic Darius III Naples": [
+   "alexander mosaic",
+   "mosaic",
+   "darius iii",
+   "issus"
+  ],
+  "Alexander Mosaic Naples": [
+   "alexander mosaic",
+   "issus",
+   "mosaic"
+  ],
+  "Gaugamela plain Iraq": [
+   "gaugamela",
+   "gaugamel",
+   "tell gomel"
+  ],
+  "Taq-e Kasra Ctesiphon": [
+   "ctesiphon",
+   "taq-e kasra",
+   "taq kasra",
+   "kisra"
+  ],
+  "Eram Garden Shiraz Persian garden": [
+   "eram",
+   "persian garden",
+   "bagh",
+   "garden"
+  ],
+  "Aeschylus bust Capitoline": [
+   "aeschylus",
+   "esquilo",
+   "aischylos"
+  ],
+  "Theatre of Dionysus Athens": [
+   "theatre of dionysus",
+   "theater of dionysus",
+   "dionysus"
+  ],
+  "Carthage ruins Byrsa": [
+   "carthage",
+   "cartago",
+   "byrsa",
+   "carthago"
+  ]
+ },
+ "permitidas": [
+  "relief",
+  "coin",
+  "statue",
+  "bust",
+  "portrait",
+  "painting"
+ ],
+ "id": "persia",
+ "title": "El Imperio Persa: la historia que 300 no te contó",
+ "channel": "DocuVox",
+ "stage": "cast",
+ "align": true,
+ "align_model": "small",
+ "no_pad": true,
+ "reuse": {
+  "max": 1,
+  "gap": 99999
+ },
+ "auto_sfx": {},
+ "sfx_max": 5,
+ "max_shot": 7,
+ "min_shot": 1.6,
+ "anchor_lead": 0.1,
+ "bando": {
+  "persia": [
+   196,
+   150,
+   60
+  ],
+  "griegos": [
+   64,
+   112,
+   168
+  ],
+  "otros": [
+   150,
+   144,
+   136
+  ],
+  "macedonia": [
+   176,
+   26,
+   32
+  ]
+ },
+ "glossary": [
+  {
+   "term": "Aqueménidas",
+   "on": "Imperio Aqueménida",
+   "def": "la dinastía de Ciro y Darío, 550 – 330 a. C."
+  },
+  {
+   "term": "Sátrapa",
+   "on": "un sátrapa",
+   "def": "gobernador de una provincia del imperio persa"
+  },
+  {
+   "term": "Ahuramazda",
+   "on": "adoraban a Ahuramazda",
+   "def": "el dios sabio de la luz y la verdad de los reyes persas"
+  },
+  {
+   "term": "Cuneiforme",
+   "on": "la escritura cuneiforme",
+   "def": "escritura en forma de cuñas sobre barro o piedra"
+  },
+  {
+   "term": "Elamita",
+   "on": "Escritas en elamita",
+   "def": "la lengua de la administración persa en Persépolis"
+  }
+ ],
+ "theme": {
+  "base": "antiguo",
+  "grade": "calido",
+  "accent": [
+   214,
+   170,
+   70
+  ],
+  "alert": [
+   40,
+   80,
+   150
+  ]
+ },
+ "music": {
+  "tema": {
+   "mixkit": "https://assets.mixkit.co/music/578/578.mp3",
+   "title": "Gold Virginia"
+  },
+  "batalla": {
+   "mixkit": "https://assets.mixkit.co/music/679/679.mp3",
+   "title": "Epical Drums 04"
+  },
+  "tension": {
+   "mixkit": "https://assets.mixkit.co/music/538/538.mp3",
+   "title": "Nield Grohm Hanging 1"
+  },
+  "maravilla": {
+   "mixkit": "https://assets.mixkit.co/music/586/586.mp3",
+   "title": "Charlotte"
+  },
+  "drama": {
+   "mixkit": "https://assets.mixkit.co/music/614/614.mp3",
+   "title": "Silent Descent"
+  }
+ },
+ "audio": {
+  "voice_db": -20,
+  "bed_db": {
+   "tema": -36,
+   "batalla": -34,
+   "tension": -37,
+   "maravilla": -36,
+   "drama": -37
+  },
+  "inter_db": -22,
+  "pause_stretch": 0.45,
+  "pause_cap": 0.6,
+  "gap_n": 1.5,
+  "gap_q": 1.0
+ },
+ "tempo": 0.9,
+ "parts": 4,
+ "codec": "hevc",
+ "max_kbps": 750,
+ "audio_kbps": "112k",
+ "intro": [
+  "assets/intro/docuvox.mp4"
+ ],
+ "seed": 539,
+ "qpicks": {},
+ "split_still": 6.5,
+ "picks": {},
+ "rev": 1,
+ "units": [
+  {
+   "k": "B",
+   "track": "batalla"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Termópilas, año cuatrocientos ochenta antes de Cristo. Trescientos espartanos frente a un ejército sin fin. Así lo cuenta la película 300: los persas son monstruos, esclavos con máscaras de metal, y su rey es un gigante cubierto de oro y cadenas. [short pause] Esta es la historia de esos monstruos. Contada, por una vez, desde el otro lado.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Thermopylae pass Leonidas monument",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Termópilas",
+     "lt": [
+      "Las Termópilas",
+      "Grecia · hoy"
+     ]
+    },
+    {
+     "photo": "a phalanx of Greek hoplites with bronze shields clashing aga",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Trescientos espartanos"
+    },
+    {
+     "photo": "an immense Persian army stretching to the horizon across a p",
+     "src": "commons,met,cleveland,europeana",
+     "at": "un ejército sin fin"
+    },
+    {
+     "photo": "Persepolis Apadana relief soldiers",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la película 300",
+     "kw": "300",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    },
+    {
+     "photo": "Frieze of Archers Susa Louvre",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Esta es la historia"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Porque en Persépolis, la capital de esos monstruos, han aparecido decenas de miles de tablillas de barro. Son las cuentas del imperio. Y cuentan que los obreros cobraban un salario, que las mujeres podían dirigir talleres y que las que acababan de dar a luz recibían raciones extra.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Persepolis ruins aerial view",
+     "src": "commons,met,cleveland,europeana",
+     "at": "en Persépolis",
+     "lt": [
+      "Persépolis",
+      "Irán"
+     ]
+    },
+    {
+     "photo": "Persepolis Fortification tablet Elamite",
+     "src": "commons,met,cleveland,europeana",
+     "at": "tablillas de barro"
+    },
+    {
+     "photo": "workers in a vast stone quarry at sunset lining up to receiv",
+     "src": "commons,met,cleveland,europeana",
+     "at": "cobraban un salario"
+    },
+    {
+     "photo": "a young mother holding a swaddled newborn receives a basket ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "acababan de dar a luz"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Persia fue el imperio más grande que el mundo había visto. Del Danubio al río Indo. De Egipto a Asia Central. [short pause] Y casi todo lo que sabemos de él lo escribieron sus enemigos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 5500000,
+      "label": "kilómetros cuadrados: el imperio persa en su apogeo, hacia 500 a. C."
+     },
+     "at": "el imperio más grande"
+    },
+    {
+     "photo": "Behistun inscription relief Darius",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Del Danubio"
+    },
+    {
+     "photo": "Herodotus bust Metropolitan Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "lo escribieron sus enemigos"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] ¿Quién era de verdad el rey que azotó el mar? ¿Por qué un pueblo de pastores de las montañas llegó a gobernar el mundo conocido? [pause] ¿Y por qué Alejandro Magno, después de quemar su capital, acabó vistiéndose como un persa?",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a lone royal figure in a purple cloak standing on a rocky he",
+     "src": "commons,met,cleveland,europeana",
+     "at": "azotó el mar"
+    },
+    {
+     "photo": "nomadic herders with horses and sheep crossing a high mounta",
+     "src": "commons,met,cleveland,europeana",
+     "at": "un pueblo de pastores"
+    },
+    {
+     "photo": "towering stone columns of a palace standing black against a ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "quemar su capital"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Esta es la otra versión. La de las tablillas, los cilindros y las piedras que los persas dejaron escritas. [short pause] La historia que 300 no te contó.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Cyrus Cylinder British Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "los cilindros"
+    },
+    {
+     "photo": "Naqsh-e Rostam tombs",
+     "src": "commons,met,cleveland,europeana",
+     "at": "las piedras"
+    }
+   ]
+  },
+  {
+   "k": "T",
+   "secs": 5.5,
+   "sting": "tema",
+   "chapter": false,
+   "text": "[dramatically] El Imperio Persa. La historia que trescientos no te contó.",
+   "voice": "NAR",
+   "card": {
+    "type": "title",
+    "title": "El Imperio Persa",
+    "sub": "La historia que 300 no te contó"
+   }
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El rey que entró sin luchar",
+    "sub": "559 – 530 a. C.",
+    "num": "I"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Babilonia, octubre del año quinientos treinta y nueve antes de Cristo. La ciudad más rica del mundo tiene murallas tan anchas que, según los griegos, por encima podía pasar un carro de cuatro caballos. [short pause] Y aun así, esa noche cae.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Ishtar Gate Pergamon Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Babilonia",
+     "lt": [
+      "Babilonia",
+      "Puerta de Ishtar · Museo de Pérgamo, Berlín"
+     ]
+    },
+    {
+     "photo": "the colossal walls of ancient Babylon at night lit by torche",
+     "src": "commons,met,cleveland,europeana",
+     "at": "murallas tan anchas"
+    },
+    {
+     "photo": "Persian soldiers wading through a lowered river into a sleep",
+     "src": "commons,met,cleveland,europeana",
+     "at": "esa noche cae"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Ciro desvió el río hacia un lago y, cuando el agua bajó, sus hombres entraron por el cauce. Los babilonios estaban de fiesta, bailando, y los que vivían en el centro no se enteraron de que los extremos de la ciudad ya habían caído.",
+   "voice": "HER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Los babilonios estaban de fiesta, bailando, y los que vivían en el centro no se enteraron de que los extremos de la ciudad ya habían caído.",
+      "autor": "Heródoto",
+      "obra": "Historias, I, 191"
+     },
+     "at": "desvió el río"
+    },
+    {
+     "photo": "a lavish night banquet in a Babylonian palace hall, dancers ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "estaban de fiesta"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Así lo cuenta Heródoto, el historiador griego que escribió casi un siglo después. Pero los propios babilonios dejaron otra versión, grabada en una tablilla que hoy está en el Museo Británico. Y es mucho más extraña.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Herodotus bust Metropolitan Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Heródoto",
+     "lt": [
+      "Heródoto",
+      "Historiador griego · hacia 484 – 425 a. C.",
+      "griegos"
+     ]
+    },
+    {
+     "photo": "Nabonidus Chronicle British Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "grabada en una tablilla"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "El día dieciséis, Ugbaru, gobernador de Gutium, y el ejército de Ciro entraron en Babilonia sin combatir. [pause] Ciro entró en Babilonia. Ramas verdes se extendían ante él. La paz se impuso en la ciudad.",
+   "voice": "PIE",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Crónica de Nabonido",
+      "lines": [
+       "El ejército de Ciro entró en Babilonia sin combatir",
+       "Ramas verdes se extendían ante él",
+       "Octubre de 539 a. C."
+      ],
+      "source": "Tablilla babilonia · Museo Británico",
+      "hl": "sin combatir"
+     },
+     "at": "El día dieciséis"
+    },
+    {
+     "photo": "crowds laying green palm branches on the street before a Per",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Ramas verdes"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Sin combatir. La ciudad más poderosa de la Tierra abrió las puertas a un extranjero. [short pause] Para entender por qué, hay que conocer al hombre que llegaba. Y al pueblo del que venía.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que contó Grecia",
+       "lines": [
+        "Un río desviado",
+        "Un asalto por sorpresa",
+        "Una ciudad borracha de fiesta"
+       ]
+      },
+      "right": {
+       "title": "Lo que dicen las piedras",
+       "lines": [
+        "Una entrada sin combate",
+        "Ramas verdes al paso del rey",
+        "La paz en la ciudad"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Sin combatir"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Los persas eran entonces un pueblo menor. Pastores y jinetes de las montañas de Fars, en el suroeste del actual Irán, sometidos a un reino vecino más fuerte: el de los medos. Hacia el año quinientos cincuenta y nueve, su pequeño rey se llamaba Ciro.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "map",
+      "title": "Hacia 560 a. C.",
+      "bbox": [
+       38,
+       24,
+       62,
+       40
+      ],
+      "points": [
+       {
+        "name": "Persia (Fars)",
+        "lon": 53.0,
+        "lat": 29.6,
+        "big": 1
+       },
+       {
+        "name": "Ecbatana, capital meda",
+        "lon": 48.5,
+        "lat": 34.8
+       },
+       {
+        "name": "Babilonia",
+        "lon": 44.4,
+        "lat": 32.5
+       },
+       {
+        "name": "Susa",
+        "lon": 48.25,
+        "lat": 32.19
+       }
+      ]
+     },
+     "at": "las montañas de Fars"
+    },
+    {
+     "photo": "Zagros mountains Fars Iran",
+     "src": "commons,met,cleveland,europeana",
+     "at": "montañas de Fars"
+    },
+    {
+     "photo": "Pasargadae tomb of Cyrus",
+     "src": "commons,met,cleveland,europeana",
+     "at": "se llamaba Ciro",
+     "lt": [
+      "Ciro II el Grande",
+      "Rey de Persia · hacia 559 – 530 a. C.",
+      "persia"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Astiages, rey de los medos, soñó que de su nieta nacería una vid que cubriría toda Asia. Asustado, ordenó matar al niño nada más nacer. Pero el hombre encargado no se atrevió, y un pastor lo crió como si fuera suyo.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "an old king asleep on a canopied bed while above him a giant",
+     "src": "commons,met,cleveland,europeana",
+     "at": "soñó que"
+    },
+    {
+     "photo": "a shepherd and his wife in a simple mountain hut holding a n",
+     "src": "commons,met,cleveland,europeana",
+     "at": "un pastor lo crió"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[softly] Es una leyenda, claro: casi todos los fundadores de imperios tienen una parecida. Lo que sí es historia es lo que pasó en el año quinientos cincuenta. Ciro se rebeló contra su abuelo. Y el ejército de los medos, en mitad de la batalla, se pasó a su bando.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a young Persian king on a rearing horse leading horsemen acr",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Ciro se rebeló"
+    },
+    {
+     "photo": "Ecbatana Hamadan ruins",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el ejército de los medos"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Aquí aparece la primera idea que hizo grande a Persia. Ciro no arrasó Ecbatana, la capital meda. No mató a su abuelo. Lo mantuvo en su corte, y a los nobles medos les dio cargos en su gobierno. Los vencidos pasaron a ser socios.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Ecbatana Hamadan ruins",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Ecbatana"
+    },
+    {
+     "photo": "Median and Persian noblemen in long robes and tall felt hats",
+     "src": "commons,met,cleveland,europeana",
+     "at": "les dio cargos"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Al oeste, en la actual Turquía, reinaba el hombre más rico de su tiempo: Creso de Lidia. Tan rico que su nombre todavía se usa como sinónimo de fortuna. Antes de atacar a Ciro, Creso preguntó al oráculo de Delfos qué pasaría.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Sardis ruins temple of Artemis",
+     "src": "commons,met,cleveland,europeana",
+     "at": "en la actual Turquía",
+     "lt": [
+      "Sardes",
+      "Capital de Lidia · Turquía, hoy"
+     ]
+    },
+    {
+     "photo": "Croeseid gold coin Lydia",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el hombre más rico"
+    },
+    {
+     "photo": "Delphi temple of Apollo ruins",
+     "src": "commons,met,cleveland,europeana",
+     "at": "oráculo de Delfos"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Si Creso hace la guerra a los persas, destruirá un gran imperio.",
+   "voice": "HER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Si Creso hace la guerra a los persas, destruirá un gran imperio.",
+      "autor": "Respuesta del oráculo de Delfos, según Heródoto",
+      "obra": "Historias, I, 53"
+     },
+     "at": "Si Creso"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[short pause] Creso lo entendió a su favor. Cruzó el río Halis, atacó... y el imperio que destruyó fue el suyo. En el año quinientos cuarenta y seis, Ciro tomó Sardes, su capital, en pleno invierno, cuando nadie hacía la guerra.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Sardis acropolis",
+     "src": "commons,met,cleveland,europeana",
+     "at": "tomó Sardes"
+    },
+    {
+     "photo": "Persian cavalry with camels charging through snow toward a h",
+     "src": "commons,met,cleveland,europeana",
+     "at": "en pleno invierno"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Heródoto cuenta que Ciro mandó quemar a Creso en una pira. Hay un vaso griego que lo pinta sentado en lo alto de la hoguera.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a dethroned king sitting on top of a large wooden pyre about",
+     "src": "commons,met,cleveland,europeana",
+     "at": "quemar a Creso"
+    },
+    {
+     "photo": "Croesus on the pyre amphora Louvre",
+     "src": "commons,met,cleveland,europeana",
+     "at": "un vaso griego",
+     "lt": [
+      "Creso en la pira",
+      "Ánfora ática · hacia 500 a. C. · Louvre"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "En lo alto de la pira, Creso suspiró y gritó tres veces un nombre: «¡Solón!». Ciro quiso saber qué significaba. Y Creso le contó que aquel sabio de Atenas le había advertido que a ningún hombre se le puede llamar feliz hasta el día de su muerte. Ciro, pensando que él también era un hombre, mandó apagar el fuego.",
+   "voice": "HER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "A ningún hombre se le puede llamar feliz hasta el día de su muerte.",
+      "autor": "Solón a Creso, según Heródoto",
+      "obra": "Historias, I, 86"
+     },
+     "at": "gritó tres veces"
+    },
+    {
+     "photo": "a burning pyre being doused by a sudden torrential rain, sol",
+     "src": "commons,met,cleveland,europeana",
+     "at": "mandó apagar el fuego"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[short pause] Sea verdad o no, Creso acabó como consejero del rey persa. Otra vez: el vencido, convertido en socio.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Sardis acropolis",
+     "src": "commons,met,cleveland,europeana",
+     "at": "consejero del rey persa"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Faltaba la gran presa: Babilonia. Su último rey, Nabonido, se había pasado diez años fuera, en un oasis de Arabia, y había molestado a los sacerdotes del dios Marduk. Cuando Ciro llegó, en el año quinientos treinta y nueve, muchos babilonios lo esperaban como a un libertador.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Nabonidus stele British Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Nabonido",
+     "lt": [
+      "Nabonido",
+      "Último rey de Babilonia · 556 – 539 a. C.",
+      "otros"
+     ]
+    },
+    {
+     "photo": "Tayma oasis Saudi Arabia",
+     "src": "commons,met,cleveland,europeana",
+     "at": "un oasis de Arabia"
+    },
+    {
+     "photo": "Ishtar Gate Pergamon Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "como a un libertador"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Yo soy Ciro, rey del universo, el gran rey, el rey poderoso, rey de Babilonia, rey de Sumer y Acad, rey de las cuatro partes del mundo. [pause] A los dioses que allí vivían los devolví a sus casas. Reuní a todos sus pueblos y les devolví sus moradas.",
+   "voice": "CIR",
+   "shots": [
+    {
+     "photo": "Cyrus Cylinder British Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Yo soy Ciro",
+     "lt": [
+      "Cilindro de Ciro",
+      "539 a. C. · Museo Británico"
+     ]
+    },
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Reuní a todos sus pueblos y les devolví sus moradas.",
+      "autor": "Ciro el Grande",
+      "obra": "Cilindro de Ciro · 539 a. C."
+     },
+     "at": "Reuní a todos"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Es el Cilindro de Ciro, encontrado en las ruinas de Babilonia en el año mil ochocientos setenta y nueve. Una réplica está en la sede de la ONU, y en el siglo veinte se le llamó la primera declaración de derechos humanos de la historia.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Cyrus Cylinder British Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "encontrado en las ruinas"
+    },
+    {
+     "photo": "United Nations headquarters New York",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la sede de la ONU"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[short pause] Los historiadores no lo ven así. Irving Finkel, el experto del Museo Británico que lo ha traducido, lo resume en una frase: en la Antigüedad no existían los derechos humanos. Es propaganda. Un rey presumiendo de ser mejor que el anterior. [short pause] Pero es una propaganda que dice algo enorme: que el nuevo rey quería ganarse a los vencidos, no aplastarlos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que contó Grecia",
+       "lines": [
+        "«Primera carta de derechos humanos»",
+        "Ciro, un rey santo"
+       ]
+      },
+      "right": {
+       "title": "Lo que dicen las piedras",
+       "lines": [
+        "Propaganda real babilonia",
+        "Un rey que devuelve dioses y pueblos",
+        "Y que quiere ganarse a los vencidos"
+       ]
+      },
+      "strike": false
+     },
+     "at": "Los historiadores"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Entre esos pueblos devueltos había uno pequeño, deportado a Babilonia medio siglo antes: los judíos. Ciro les dejó volver a Jerusalén y reconstruir su templo. Por eso la Biblia, que no tiene piedad con casi ningún rey extranjero, lo trata de un modo único.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a long caravan of families with donkeys and carts walking th",
+     "src": "commons,met,cleveland,europeana",
+     "at": "volver a Jerusalén"
+    },
+    {
+     "photo": "Isaiah Scroll Dead Sea",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la Biblia"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Así dice Jehová a su ungido, a Ciro, al cual tomé yo por su mano derecha, para sujetar gentes delante de él.",
+   "voice": "HER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Así dice Jehová a su ungido, a Ciro, al cual tomé yo por su mano derecha, para sujetar gentes delante de él.",
+      "autor": "Libro de Isaías, 45, 1",
+      "obra": "Biblia · traducción Reina-Valera, 1909"
+     },
+     "at": "Así dice Jehová"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Su ungido. En hebreo, mesías. Es el único extranjero de toda la Biblia al que se le da ese nombre. [short pause] Y mientras tanto, Ciro seguía conquistando hacia el este, hasta Asia Central. Allí, en el año quinientos treinta, encontró por fin a alguien que no quiso ser su socio.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "imperio",
+      "title": "El imperio de Ciro",
+      "bbox": [
+       20,
+       22,
+       75,
+       46
+      ],
+      "stages": [
+       {
+        "year": "550 a. C.",
+        "label": "Persia y el reino medo",
+        "zona": [
+         {
+          "c": "IRN",
+          "box": [
+           44.0,
+           26.0,
+           61.0,
+           39.5
+          ]
+         }
+        ]
+       },
+       {
+        "year": "546 a. C.",
+        "label": "Lidia y Asia Menor",
+        "zona": [
+         {
+          "c": "IRN",
+          "box": [
+           44.0,
+           26.0,
+           61.0,
+           39.5
+          ]
+         },
+         "TUR",
+         "ARM",
+         "AZE"
+        ]
+       },
+       {
+        "year": "539 a. C.",
+        "label": "Babilonia, Siria y Palestina",
+        "zona": [
+         {
+          "c": "IRN",
+          "box": [
+           44.0,
+           26.0,
+           61.0,
+           39.5
+          ]
+         },
+         "TUR",
+         "ARM",
+         "AZE",
+         "IRQ",
+         "SYR",
+         "LBN",
+         "ISR",
+         "JOR",
+         "PSE"
+        ]
+       },
+       {
+        "year": "530 a. C.",
+        "label": "Hasta Asia Central",
+        "zona": [
+         "IRN",
+         "TUR",
+         "ARM",
+         "AZE",
+         "IRQ",
+         "SYR",
+         "LBN",
+         "ISR",
+         "JOR",
+         "PSE",
+         "TKM",
+         "AFG",
+         {
+          "c": "UZB",
+          "box": [
+           56.0,
+           37.0,
+           68.0,
+           42.0
+          ]
+         }
+        ]
+       }
+      ]
+     },
+     "at": "seguía conquistando"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Tomiris, reina de los masagetas, le advirtió: «Vuelve a tu reino. Y si no, te juro por el sol que te saciaré de sangre, por muy insaciable que seas».",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "a warrior queen on horseback in scale armor at the head of a",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Tomiris"
+    },
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Te juro por el sol que te saciaré de sangre, por muy insaciable que seas.",
+      "autor": "Tomiris, reina de los masagetas, según Heródoto",
+      "obra": "Historias, I, 212"
+     },
+     "at": "te juro por el sol"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] Hubo batalla. La más feroz entre bárbaros, dice Heródoto. Primero, flechas. Después, lanzas y espadas, cuerpo a cuerpo, durante horas. Nadie quería huir. [short pause] Y cuando terminó, el ejército persa estaba deshecho. Y Ciro, el rey del universo, había muerto.",
+   "voice": "ESP",
+   "shots": [
+    {
+     "photo": "a ferocious battle on the steppe, Persian infantry and nomad",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Hubo batalla"
+    },
+    {
+     "photo": "a fallen king lying on the battlefield among broken spears a",
+     "src": "commons,met,cleveland,europeana",
+     "at": "había muerto"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Heródoto añade que Tomiris metió su cabeza en un odre lleno de sangre. Otras fuentes antiguas cuentan una muerte distinta. [short pause] Lo seguro es que su cuerpo volvió a Persia y que su tumba sigue en pie en Pasargadas, la ciudad que fundó. Es una casa de piedra, sencilla, sobre seis escalones.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Tomyris Rubens head of Cyrus painting",
+     "src": "commons,met,cleveland,europeana",
+     "at": "metió su cabeza"
+    },
+    {
+     "photo": "Pasargadae tomb of Cyrus",
+     "src": "commons,met,cleveland,europeana",
+     "at": "su tumba sigue en pie",
+     "lt": [
+      "Tumba de Ciro",
+      "Pasargadas, Irán"
+     ]
+    },
+    {
+     "photo": "Pasargadae palace ruins",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la ciudad que fundó"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Ciro dejó el imperio más grande hasta entonces y una forma nueva de gobernar: respetar los dioses y las costumbres de cada pueblo, mientras paguen y obedezcan. [short pause] Pero dejó también dos hijos. [pause] Y uno de ellos iba a morir dos veces.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Pasargadae tomb of Cyrus sunset",
+     "src": "commons,met,cleveland,europeana",
+     "at": "una forma nueva de gobernar"
+    },
+    {
+     "photo": "two young princes in purple robes standing apart in a shadow",
+     "src": "commons,met,cleveland,europeana",
+     "at": "dos hijos"
+    }
+   ]
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El hermano que volvió de la tumba",
+    "sub": "530 – 522 a. C.",
+    "num": "II"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Pelusio, en la frontera de Egipto, año quinientos veinticinco antes de Cristo. El hijo mayor de Ciro, Cambises, se enfrenta al último faraón de la dinastía de Sais. [short pause] Y gana. Egipto, la civilización más antigua del mundo, pasa a ser una provincia persa.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "map",
+      "title": "525 a. C.: Cambises en Egipto",
+      "bbox": [
+       24,
+       22,
+       40,
+       34
+      ],
+      "points": [
+       {
+        "name": "Pelusio",
+        "lon": 32.57,
+        "lat": 31.04,
+        "big": 1
+       },
+       {
+        "name": "Menfis",
+        "lon": 31.25,
+        "lat": 29.85
+       },
+       {
+        "name": "Oasis de Siwa",
+        "lon": 25.52,
+        "lat": 29.2
+       },
+       {
+        "name": "Tebas",
+        "lon": 32.65,
+        "lat": 25.7
+       }
+      ]
+     },
+     "at": "Pelusio"
+    },
+    {
+     "photo": "Persian and Egyptian armies clashing in the desert near the ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Y gana"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[softly] Siglos más tarde, un escritor griego contó que los persas ganaron gracias a los gatos: los pusieron delante de sus filas, y los egipcios, que los adoraban, no se atrevieron a disparar. [short pause] Es una anécdota estupenda. Y casi seguro inventada.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Persian soldiers advancing in the desert with cats walking b",
+     "src": "commons,met,cleveland,europeana",
+     "at": "gracias a los gatos"
+    },
+    {
+     "photo": "Bastet cat statue bronze Egyptian",
+     "src": "commons,met,cleveland,europeana",
+     "at": "que los adoraban"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "La leyenda negra de Cambises viene de Heródoto, que lo pinta como un loco: dice que se burló de los dioses de Egipto y que, con su daga, mató al toro sagrado Apis.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Apis bull statue Serapeum Louvre",
+     "src": "commons,met,cleveland,europeana",
+     "at": "toro sagrado Apis"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Pero en el Serapeo de Menfis, donde se enterraba a los toros sagrados, los arqueólogos encontraron la lápida de un Apis muerto en tiempos de Cambises. Fue enterrado con todos los honores. Y la lápida muestra al propio rey persa arrodillado ante él.",
+   "voice": "PIE",
+   "shots": [
+    {
+     "photo": "Serapeum Saqqara Apis tomb",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el Serapeo de Menfis",
+     "lt": [
+      "El Serapeo",
+      "Saqqara, Egipto"
+     ]
+    },
+    {
+     "photo": "Apis stele Cambyses Louvre",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la lápida de un Apis"
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que contó Grecia",
+       "lines": [
+        "Cambises mató al toro sagrado",
+        "Un rey loco y sacrílego"
+       ]
+      },
+      "right": {
+       "title": "Lo que dicen las piedras",
+       "lines": [
+        "El Apis fue enterrado con honores",
+        "Cambises, arrodillado ante él"
+       ]
+      },
+      "strike": false
+     },
+     "at": "arrodillado"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Lo que sí parece cierto es el desastre del desierto. Cambises envió a cincuenta mil hombres contra el oasis de Siwa. A mitad de camino, mientras comían, se levantó una tormenta de arena. [pause] Nunca más se supo de ellos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Siwa oasis desert",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el oasis de Siwa"
+    },
+    {
+     "photo": "a long column of ancient soldiers swallowed by a gigantic wa",
+     "src": "commons,met,cleveland,europeana",
+     "at": "una tormenta de arena"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Los arqueólogos llevan más de un siglo buscando ese ejército perdido. Nadie lo ha encontrado. [short pause] Y mientras Cambises estaba en Egipto, en el año quinientos veintidós, le llegó desde Persia una noticia imposible. Su hermano pequeño, Bardiya, se había proclamado rey.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "an exhausted messenger kneeling before a king in a tent in E",
+     "src": "commons,met,cleveland,europeana",
+     "at": "una noticia imposible"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Imposible, porque Bardiya estaba muerto. [short pause] Cambises lo había mandado matar en secreto años atrás. Eso, al menos, es lo que contaría después el siguiente rey. Cambises salió hacia Persia a toda prisa. Al montar, se hirió en el muslo con su propia espada. [pause] La herida se gangrenó, y murió en Siria.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "two hooded men carrying a wrapped body out of a palace at ni",
+     "src": "commons,met,cleveland,europeana",
+     "at": "en secreto"
+    },
+    {
+     "photo": "a king mounting a horse in haste, his sword slipping from it",
+     "src": "commons,met,cleveland,europeana",
+     "at": "se hirió en el muslo"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Durante siete meses, Persia tuvo un rey que se llamaba Bardiya, que decía ser hijo de Ciro, y al que el pueblo aceptaba encantado: perdonó los impuestos y el servicio militar durante tres años. [short pause] ¿Era el verdadero hermano? ¿O un impostor?",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a young king on a throne seen from behind, receiving cheerin",
+     "src": "commons,met,cleveland,europeana",
+     "at": "un rey que se llamaba Bardiya"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Dice Darío el rey: había un mago llamado Gaumata. Mintió al pueblo así: «Yo soy Bardiya, el hijo de Ciro». Entonces todo el pueblo se rebeló y se pasó a él. [short pause] No había nadie, ni persa ni medo, que se atreviera a quitarle el reino a ese Gaumata. Hasta que llegué yo.",
+   "voice": "DAR",
+   "shots": [
+    {
+     "photo": "Behistun inscription relief Darius",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Dice Darío el rey",
+     "lt": [
+      "Inscripción de Behistún",
+      "Darío I · hacia 520 a. C. · Irán"
+     ]
+    },
+    {
+     "photo": "Behistun relief Gaumata under foot",
+     "src": "commons,met,cleveland,europeana",
+     "at": "un mago llamado Gaumata"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Es la versión oficial. La que escribió Darío, un noble de una rama lejana de la familia real, que con otros seis conspiradores entró en la fortaleza donde estaba el rey y lo mató. [short pause] Heródoto cuenta incluso cómo eligieron, entre los siete, a quién le tocaba reinar.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Darius the Great relief Persepolis treasury",
+     "src": "commons,met,cleveland,europeana",
+     "at": "La que escribió Darío",
+     "lt": [
+      "Darío I el Grande",
+      "Rey de Persia · 522 – 486 a. C.",
+      "persia"
+     ]
+    },
+    {
+     "photo": "seven armed noblemen bursting into a fortress bedchamber at ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "otros seis conspiradores"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Acordaron que sería rey aquel cuyo caballo relinchara primero al salir el sol. El mozo de cuadra de Darío, Ebares, la noche antes llevó allí a una yegua... y el caballo de Darío, al llegar al mismo sitio por la mañana, relinchó.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "six noblemen on horseback at dawn outside a city, one black ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "al salir el sol"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Dice Darío el rey: entonces yo, con unos pocos hombres, maté a ese Gaumata el mago y a sus principales seguidores. Le quité el reino. Por la gracia de Ahuramazda, me convertí en rey.",
+   "voice": "DAR",
+   "shots": [
+    {
+     "photo": "Behistun relief Gaumata under foot",
+     "src": "commons,met,cleveland,europeana",
+     "at": "maté a ese Gaumata"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[softly] Truco o leyenda, la mayoría de los historiadores de hoy sospecha otra cosa: que el muerto de aquella noche era el verdadero Bardiya. Que el impostor de esta historia no era Gaumata. [pause] Que el usurpador era el propio Darío.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que contó Grecia",
+       "lines": [
+        "El rey era un mago impostor",
+        "Darío salvó el trono de Ciro"
+       ]
+      },
+      "right": {
+       "title": "Lo que dicen las piedras",
+       "lines": [
+        "Solo tenemos la versión de Darío",
+        "Muchos historiadores sospechan",
+        "que mató al verdadero hermano"
+       ]
+      },
+      "strike": false
+     },
+     "at": "la mayoría de los historiadores"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] Lo cierto es que el imperio no se lo creyó. Babilonia, Media, Elam, Armenia, incluso la propia Persia: todas se rebelaron. Durante un año entero, Darío corrió de una punta a otra del imperio, apagando incendios.",
+   "voice": "ESP",
+   "shots": [
+    {
+     "card": {
+      "type": "map",
+      "title": "522 – 521 a. C.: el imperio en llamas",
+      "bbox": [
+       36,
+       24,
+       66,
+       42
+      ],
+      "points": [
+       {
+        "name": "Babilonia",
+        "lon": 44.4,
+        "lat": 32.5
+       },
+       {
+        "name": "Media",
+        "lon": 48.5,
+        "lat": 34.8
+       },
+       {
+        "name": "Elam",
+        "lon": 48.25,
+        "lat": 32.19
+       },
+       {
+        "name": "Armenia",
+        "lon": 44.5,
+        "lat": 40.1
+       },
+       {
+        "name": "Persia",
+        "lon": 53.0,
+        "lat": 29.6
+       },
+       {
+        "name": "Partia",
+        "lon": 57.5,
+        "lat": 36.5
+       }
+      ]
+     },
+     "at": "todas se rebelaron"
+    },
+    {
+     "photo": "a Persian king in a war chariot racing at the head of cavalr",
+     "src": "commons,met,cleveland,europeana",
+     "at": "apagando incendios"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[serious] Dice Darío el rey: esto es lo que hice, por la gracia de Ahuramazda, en un mismo año desde que fui rey. Libré diecinueve batallas. Capturé a nueve reyes.",
+   "voice": "DAR",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 19,
+      "label": "batallas en un solo año, según la inscripción de Behistún"
+     },
+     "at": "diecinueve batallas"
+    },
+    {
+     "photo": "Behistun relief Darius captive kings",
+     "src": "commons,met,cleveland,europeana",
+     "at": "capturé a nueve reyes"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Nueve reyes, atados por el cuello, uno detrás de otro. Así los mandó esculpir Darío, y debajo mandó escribir su versión de los hechos. En tres idiomas. [short pause] Y eligió un lugar donde nadie pudiera borrarla jamás: una pared de roca, a cien metros de altura.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Behistun relief Darius captive kings",
+     "src": "commons,met,cleveland,europeana",
+     "at": "atados por el cuello"
+    },
+    {
+     "photo": "Behistun cliff Kermanshah",
+     "src": "commons,met,cleveland,europeana",
+     "at": "una pared de roca",
+     "lt": [
+      "Monte Behistún",
+      "Kermanshah, Irán"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "La máquina de Darío",
+    "sub": "522 – 490 a. C.",
+    "num": "III"
+   }
+  },
+  {
+   "k": "B",
+   "track": "maravilla"
+  },
+  {
+   "k": "N",
+   "text": "Kermanshah, en el oeste de Irán, año mil ochocientos treinta y cinco. Un oficial británico, Henry Rawlinson, se cuelga de una cuerda en la pared de Behistún para copiar, letra a letra, la inscripción de Darío. [short pause] Le llevará más de diez años.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Behistun cliff Kermanshah",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Kermanshah"
+    },
+    {
+     "photo": "Henry Rawlinson portrait",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Henry Rawlinson",
+     "lt": [
+      "Henry Rawlinson",
+      "Oficial y orientalista británico · 1810 – 1895",
+      "otros"
+     ]
+    },
+    {
+     "photo": "a nineteenth-century explorer hanging from ropes on a sheer ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "se cuelga de una cuerda"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Gracias a esa copia se descifró la escritura cuneiforme, con la que se escribió durante tres mil años en Mesopotamia. Behistún hizo con ella lo que la piedra de Rosetta con los jeroglíficos. [short pause] El mentiroso de Behistún, si lo era, nos dejó la llave de toda una civilización.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Behistun inscription Old Persian cuneiform",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la escritura cuneiforme"
+    },
+    {
+     "photo": "Rosetta Stone British Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la piedra de Rosetta"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[serious] Dice Darío el rey: tú que seas rey en adelante, guárdate mucho de la mentira. Al hombre que sea seguidor de la mentira, castígalo bien.",
+   "voice": "DAR",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Tú que seas rey en adelante, guárdate mucho de la mentira.",
+      "autor": "Darío I",
+      "obra": "Inscripción de Behistún"
+     },
+     "at": "guárdate mucho de la mentira"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Dice Darío el gran rey: este es el reino que tengo. Desde los escitas que viven más allá de Sogdiana, hasta Kush. Desde la India, hasta Sardes. Me lo concedió Ahuramazda, el más grande de los dioses.",
+   "voice": "DAR",
+   "shots": [
+    {
+     "card": {
+      "type": "imperio",
+      "title": "El imperio de Darío, hacia 500 a. C.",
+      "bbox": [
+       18,
+       12,
+       80,
+       48
+      ],
+      "stages": [
+       {
+        "year": "Oeste",
+        "label": "De Libia y Tracia al Egeo",
+        "zona": [
+         "EGY",
+         "TUR",
+         "LBY",
+         "CYP",
+         {
+          "c": "BGR",
+          "box": [
+           25.0,
+           41.2,
+           28.6,
+           42.6
+          ]
+         }
+        ]
+       },
+       {
+        "year": "Centro",
+        "label": "Mesopotamia, Levante e Irán",
+        "zona": [
+         "EGY",
+         "TUR",
+         "LBY",
+         "CYP",
+         "IRQ",
+         "SYR",
+         "LBN",
+         "ISR",
+         "JOR",
+         "PSE",
+         "IRN",
+         "ARM",
+         "AZE"
+        ]
+       },
+       {
+        "year": "Este",
+        "label": "Hasta Asia Central y el Indo",
+        "zona": [
+         "EGY",
+         "TUR",
+         "LBY",
+         "CYP",
+         "IRQ",
+         "SYR",
+         "LBN",
+         "ISR",
+         "JOR",
+         "PSE",
+         "IRN",
+         "ARM",
+         "AZE",
+         "TKM",
+         "UZB",
+         "TJK",
+         "AFG",
+         "PAK"
+        ]
+       }
+      ]
+     },
+     "at": "este es el reino que tengo"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Y es que Darío, usurpador o no, resultó un genio de la organización. Dividió el imperio en unas veinte provincias, las satrapías. Al frente de cada una puso a un sátrapa, un gobernador. Pero al lado le dejó un secretario y un jefe militar que respondían directamente ante el rey.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Apadana staircase delegations Persepolis",
+     "src": "commons,met,cleveland,europeana",
+     "at": "unas veinte provincias"
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "Cómo se gobernaba una satrapía",
+      "items": [
+       "El sátrapa: gobierna y recauda",
+       "El secretario real: escribe al rey",
+       "El jefe de la guarnición: responde ante el rey",
+       "Los «ojos y oídos del rey»: inspectores por sorpresa"
+      ]
+     },
+     "at": "las satrapías"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Los indios, el pueblo más numeroso de todos los que conocemos, pagaban el tributo más alto: trescientos sesenta talentos de oro en polvo. Babilonia y el resto de Asiria, mil talentos de plata y quinientos niños eunucos.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "Persepolis Apadana relief Indian delegation gold",
+     "src": "commons,met,cleveland,europeana",
+     "at": "trescientos sesenta talentos"
+    },
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Los indios pagaban el tributo más alto: trescientos sesenta talentos de oro en polvo.",
+      "autor": "Heródoto, sobre los tributos de Darío",
+      "obra": "Historias, III, 92 – 94"
+     },
+     "at": "oro en polvo"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Y por encima de todos, unos inspectores que los griegos llamaban los ojos y los oídos del rey. Llegaban sin avisar. [short pause] Un sátrapa podía ser el hombre más poderoso de su provincia, pero nunca sabía quién estaba escribiendo sobre él.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a cloaked royal inspector arriving unannounced at a governor",
+     "src": "commons,met,cleveland,europeana",
+     "at": "los ojos y los oídos del rey"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Para pagar todo eso hacía falta dinero. Darío acuñó una moneda de oro casi puro, el dárico, con el rey arrodillado tirando con arco. Los griegos la llamaban «los arqueros». [short pause] Con ella, como veremos, Persia compraría más ciudades griegas que con todos sus ejércitos.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Daric gold coin Achaemenid",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el dárico",
+     "lt": [
+      "Dárico de oro",
+      "Hacia 500 a. C."
+     ]
+    },
+    {
+     "photo": "a heap of ancient gold coins spilling from a leather bag ont",
+     "src": "commons,met,cleveland,europeana",
+     "at": "compraría más ciudades"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Y para que las órdenes llegaran a tiempo, construyó carreteras. La más famosa, el Camino Real, unía Susa, en Irán, con Sardes, junto al mar Egeo. Dos mil quinientos kilómetros, con una posta cada jornada de camino.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "El Camino Real de Darío",
+      "keys": [
+       [
+        24,
+        26,
+        56,
+        42
+       ],
+       [
+        26,
+        28,
+        54,
+        41
+       ]
+      ],
+      "points": [
+       {
+        "name": "Sardes",
+        "lon": 28.04,
+        "lat": 38.49,
+        "at": 0.1
+       },
+       {
+        "name": "Puertas Cilicias",
+        "lon": 34.77,
+        "lat": 37.3,
+        "at": 0.35
+       },
+       {
+        "name": "Nínive",
+        "lon": 43.15,
+        "lat": 36.36,
+        "at": 0.6
+       },
+       {
+        "name": "Susa",
+        "lon": 48.25,
+        "lat": 32.19,
+        "at": 0.85
+       },
+       {
+        "name": "Persépolis",
+        "lon": 52.89,
+        "lat": 29.93,
+        "at": 0.95
+       }
+      ],
+      "arrows": [
+       {
+        "path": [
+         [
+          28.04,
+          38.49
+         ],
+         [
+          32.0,
+          39.6
+         ],
+         [
+          35.5,
+          39.0
+         ],
+         [
+          34.77,
+          37.3
+         ],
+         [
+          38.3,
+          37.1
+         ],
+         [
+          43.15,
+          36.36
+         ],
+         [
+          45.4,
+          34.3
+         ],
+         [
+          48.25,
+          32.19
+         ]
+        ],
+        "color": [
+         196,
+         150,
+         60
+        ],
+        "at": 0.2,
+        "dur": 3.0
+       }
+      ]
+     },
+     "at": "el Camino Real"
+    },
+    {
+     "photo": "a royal courier galloping into a stone relay station at nigh",
+     "src": "commons,met,cleveland,europeana",
+     "at": "una posta cada jornada"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "No hay nada mortal que viaje más rápido que estos mensajeros. Ni la nieve, ni la lluvia, ni el calor, ni la noche les impiden cumplir a toda velocidad la etapa que tienen asignada.",
+   "voice": "HER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Ni la nieve, ni la lluvia, ni el calor, ni la noche les impiden cumplir a toda velocidad la etapa que tienen asignada.",
+      "autor": "Heródoto, sobre los correos persas",
+      "obra": "Historias, VIII, 98"
+     },
+     "at": "Ni la nieve"
+    },
+    {
+     "photo": "a Persian horseman riding hard through a blizzard on a mount",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Ni la nieve"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Lo que a pie costaba unos noventa días, el correo del rey lo hacía en una semana o poco más. [short pause] Veinticuatro siglos después, esa frase de Heródoto se grabó en la fachada de la gran oficina de correos de Nueva York. Allí sigue.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 90,
+      "label": "días a pie de Sardes a Susa · el correo real: una semana o poco más"
+     },
+     "at": "unos noventa días"
+    },
+    {
+     "photo": "James Farley Post Office New York inscription",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la gran oficina de correos de Nueva York",
+     "lt": [
+      "Oficina de correos James A. Farley",
+      "Nueva York · hoy"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Dice Darío el rey: soy persa. Desde Persia conquisté Egipto. Ordené cavar este canal, desde el río llamado Nilo, que corre en Egipto, hasta el mar que viene de Persia.",
+   "voice": "DAR",
+   "shots": [
+    {
+     "photo": "Darius Suez canal stele Chalouf",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Ordené cavar este canal"
+    },
+    {
+     "card": {
+      "type": "map",
+      "title": "El canal de Darío",
+      "bbox": [
+       28,
+       26,
+       36,
+       33
+      ],
+      "points": [
+       {
+        "name": "Nilo",
+        "lon": 31.25,
+        "lat": 30.05
+       },
+       {
+        "name": "Mar Rojo",
+        "lon": 32.55,
+        "lat": 29.95,
+        "big": 1
+       },
+       {
+        "name": "Lagos Amargos",
+        "lon": 32.4,
+        "lat": 30.35
+       }
+      ]
+     },
+     "at": "hasta el mar"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Un canal del Nilo al mar Rojo. Casi dos mil cuatrocientos años antes que el de Suez. Y en los desiertos de Irán, los persas perfeccionaron los qanats: túneles subterráneos de kilómetros que llevan el agua de las montañas a los campos sin que el sol la evapore. Algunos todavía funcionan.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Qanat Iran underground channel",
+     "src": "commons,met,cleveland,europeana",
+     "at": "los qanats",
+     "lt": [
+      "Qanat",
+      "Irán · hoy"
+     ]
+    },
+    {
+     "photo": "ancient diggers lowering baskets into a deep vertical shaft ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "túneles subterráneos"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "maravilla"
+  },
+  {
+   "k": "N",
+   "text": "Y luego estaba la capital. Hacia el año quinientos dieciocho, Darío empezó a levantar Persépolis: una terraza artificial del tamaño de diecisiete campos de fútbol, palacios con columnas de veinte metros y escaleras de peldaños tan bajos que, según se dice, se podían subir a caballo.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Persepolis ruins aerial view",
+     "src": "commons,met,cleveland,europeana",
+     "at": "levantar Persépolis"
+    },
+    {
+     "photo": "the full splendor of Persepolis at its height, painted palac",
+     "src": "commons,met,cleveland,europeana",
+     "at": "palacios con columnas"
+    },
+    {
+     "photo": "Persepolis Apadana columns",
+     "src": "commons,met,cleveland,europeana",
+     "at": "columnas de veinte metros"
+    },
+    {
+     "photo": "Persepolis grand staircase",
+     "src": "commons,met,cleveland,europeana",
+     "at": "escaleras de peldaños"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Dice Darío el rey: los materiales de este palacio vinieron de lejos. La madera de cedro la trajeron de un monte llamado Líbano. El oro, de Sardes y de Bactria. El lapislázuli, de Sogdiana. El marfil, de Etiopía, de la India y de Aracosia. Los canteros que labraron la piedra eran jonios y sardianos. Los orfebres, medos y egipcios. Los que cocieron los ladrillos, babilonios.",
+   "voice": "DAR",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Quién construyó el palacio de Darío",
+      "items": [
+       "Cedro: del Líbano",
+       "Oro: de Sardes y Bactria",
+       "Canteros: jonios y sardianos",
+       "Orfebres: medos y egipcios",
+       "Ladrillos: babilonios"
+      ]
+     },
+     "at": "vinieron de lejos"
+    },
+    {
+     "photo": "Darius Susa foundation charter tablet Louvre",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Los canteros"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] ¿Quién la construyó? Durante siglos se dio por hecho la respuesta: esclavos. Como en las películas. [pause] Hasta que en mil novecientos treinta y tres los arqueólogos de la Universidad de Chicago abrieron un cuarto de la muralla. Y encontraron decenas de miles de tablillas de barro.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a stereotypical Hollywood-like vision of slaves dragging hug",
+     "src": "commons,met,cleveland,europeana",
+     "at": "esclavos"
+    },
+    {
+     "photo": "Persepolis excavation Herzfeld 1930s",
+     "src": "commons,met,cleveland,europeana",
+     "at": "abrieron un cuarto de la muralla"
+    },
+    {
+     "photo": "Persepolis Fortification tablet Elamite",
+     "src": "commons,met,cleveland,europeana",
+     "at": "decenas de miles de tablillas"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Son el archivo de la Fortificación de Persépolis. Escritas en elamita, entre los años quinientos nueve y cuatrocientos noventa y cuatro antes de Cristo. Cebada, vino, cerveza, ovejas. Quién las recibe, cuánto, en qué mes. Y quién lo firma con su sello.",
+   "voice": "PIE",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Archivo de la Fortificación de Persépolis",
+      "lines": [
+       "Tablillas de barro en elamita",
+       "509 – 494 a. C.",
+       "Raciones de cebada, vino, cerveza y ganado"
+      ],
+      "source": "Instituto de Estudios Antiguos · Universidad de Chicago",
+      "hl": "Raciones"
+     },
+     "at": "Son el archivo"
+    },
+    {
+     "photo": "Persepolis Fortification tablet seal impression",
+     "src": "commons,met,cleveland,europeana",
+     "at": "firma con su sello"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[serious] Y lo que cuentan no es una obra de esclavos. Miles de trabajadores, llegados de todo el imperio, cobran cada mes una paga en especie, según su oficio. Los más cualificados, hombres o mujeres, cobran lo mismo. [short pause] Hay mujeres al frente de equipos de trabajo, con el título de jefa.",
+   "voice": "PIE",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que contó Grecia",
+       "lines": [
+        "Una capital levantada a latigazos",
+        "Esclavos sin nombre"
+       ]
+      },
+      "right": {
+       "title": "Lo que dicen las piedras",
+       "lines": [
+        "Trabajadores con nombre y paga",
+        "Mujeres jefas de equipo",
+        "Raciones extra por maternidad"
+       ]
+      },
+      "strike": false
+     },
+     "at": "no es una obra de esclavos"
+    },
+    {
+     "photo": "women artisans weaving and dyeing textiles in a large worksh",
+     "src": "commons,met,cleveland,europeana",
+     "at": "mujeres al frente"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Y hay raciones especiales para las madres. Las que acaban de dar a luz reciben cereal y vino o cerveza de más durante un tiempo. [short pause] Aunque no todo es moderno: si el bebé es un niño, la ración extra es el doble que si es una niña.",
+   "voice": "PIE",
+   "shots": [
+    {
+     "photo": "a storehouse scribe pressing a seal on a clay tablet while s",
+     "src": "commons,met,cleveland,europeana",
+     "at": "raciones especiales para las madres"
+    },
+    {
+     "photo": "Persepolis Fortification tablet Elamite",
+     "src": "commons,met,cleveland,europeana",
+     "at": "si el bebé es un niño"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Las tablillas tienen también a las reinas. Irdabama, una gran dama de la corte, gestiona sus propias tierras, con cientos de trabajadores a su cargo y su propio sello. Artistona, la esposa favorita de Darío, recibe vino y ovejas para sus banquetes. [short pause] Nada que ver con las mujeres encerradas de un harén de película.",
+   "voice": "PIE",
+   "shots": [
+    {
+     "photo": "an elegant Persian noblewoman in fine robes inspecting viney",
+     "src": "commons,met,cleveland,europeana",
+     "at": "gestiona sus propias tierras"
+    },
+    {
+     "photo": "Achaemenid cylinder seal impression",
+     "src": "commons,met,cleveland,europeana",
+     "at": "su propio sello"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[serious] Dice Darío el rey: no es mi deseo que el débil sufra injusticia por culpa del fuerte. Ni que el fuerte sufra injusticia por culpa del débil. Lo que es justo, eso es lo que deseo. No soy amigo del hombre que sigue la mentira.",
+   "voice": "DAR",
+   "shots": [
+    {
+     "photo": "Naqsh-e Rostam tomb of Darius",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Dice Darío el rey",
+     "lt": [
+      "Tumba de Darío",
+      "Naqsh-e Rostam, Irán"
+     ]
+    },
+    {
+     "card": {
+      "type": "papiro",
+      "text": "No es mi deseo que el débil sufra injusticia por culpa del fuerte. Lo que es justo, eso es lo que deseo.",
+      "autor": "Darío I",
+      "obra": "Inscripción de su tumba en Naqsh-e Rostam"
+     },
+     "at": "no es mi deseo"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "La verdad contra la mentira. Es el corazón de la religión de los reyes persas, que adoraban a Ahuramazda, el dios sabio de la luz, frente a las fuerzas del engaño. [short pause] El propio Heródoto, que no era su amigo, lo vio así.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Faravahar Persepolis relief",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Ahuramazda",
+     "lt": [
+      "Faravahar",
+      "Símbolo alado · Persépolis"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "A sus hijos, desde los cinco hasta los veinte años, solo les enseñan tres cosas: a montar a caballo, a tirar con arco y a decir la verdad. Lo más vergonzoso para ellos es mentir. Y lo segundo, tener deudas.",
+   "voice": "HER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Solo les enseñan tres cosas: a montar a caballo, a tirar con arco y a decir la verdad.",
+      "autor": "Heródoto, sobre los persas",
+      "obra": "Historias, I, 136"
+     },
+     "at": "solo les enseñan tres cosas"
+    },
+    {
+     "photo": "Persian boys learning to shoot bows from galloping horses on",
+     "src": "commons,met,cleveland,europeana",
+     "at": "tirar con arco"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Darío reunió a unos griegos de su corte y les preguntó por cuánto dinero estarían dispuestos a comerse a sus padres muertos. Dijeron que por nada del mundo. Entonces llamó a unos indios, los calatias, que sí se comen a sus padres, y les preguntó por cuánto aceptarían quemarlos. Se pusieron a gritar horrorizados. Así es la costumbre: la reina de todas las cosas.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "a Persian king on a throne questioning two groups of foreign",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Darío reunió a unos griegos"
+    },
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Así es la costumbre: la reina de todas las cosas.",
+      "autor": "Heródoto, sobre Darío y las costumbres de los pueblos",
+      "obra": "Historias, III, 38"
+     },
+     "at": "la reina de todas las cosas"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Un imperio que respeta a sus pueblos, paga a sus obreros y presume de no mentir. Pero también un imperio que no perdona una rebelión. [pause] Y en el año cuatrocientos noventa y nueve, al otro extremo del mapa, las ciudades griegas de la costa de Asia se rebelaron.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "map",
+      "title": "499 a. C.: la revuelta jonia",
+      "bbox": [
+       20,
+       34,
+       32,
+       42
+      ],
+      "points": [
+       {
+        "name": "Mileto",
+        "lon": 27.28,
+        "lat": 37.53,
+        "big": 1
+       },
+       {
+        "name": "Sardes",
+        "lon": 28.04,
+        "lat": 38.49
+       },
+       {
+        "name": "Atenas",
+        "lon": 23.73,
+        "lat": 37.98
+       },
+       {
+        "name": "Éfeso",
+        "lon": 27.34,
+        "lat": 37.94
+       }
+      ]
+     },
+     "at": "se rebelaron"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Pidieron ayuda a Grecia. Atenas mandó veinte barcos. Y en el año cuatrocientos noventa y ocho, jonios y atenienses entraron en Sardes, la gran capital persa del oeste, y la incendiaron. Ardieron las casas, el mercado y el templo de la diosa Cibeles.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a city of mud-brick and reed houses burning at night, Greek ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la incendiaron"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Cuando Darío se enteró, pidió un arco y disparó una flecha al cielo. Y ordenó a uno de sus criados que, cada vez que le sirvieran la cena, le repitiera tres veces: «Señor, acuérdate de los atenienses».",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "a king in royal robes on a palace terrace shooting an arrow ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "disparó una flecha al cielo"
+    },
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Señor, acuérdate de los atenienses.",
+      "autor": "Lo que un criado repetía a Darío en cada cena, según Heródoto",
+      "obra": "Historias, V, 105"
+     },
+     "at": "acuérdate de los atenienses"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Darío no lo olvidó. [pause] Ocho años después, una flota persa cruzó el Egeo con una misión: castigar a Atenas. Y desembarcó en una playa a cuarenta kilómetros de la ciudad. Una playa llamada Maratón.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a vast Persian fleet of hundreds of warships with dark sails",
+     "src": "commons,met,cleveland,europeana",
+     "at": "una flota persa"
+    },
+    {
+     "photo": "Marathon bay beach Greece",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Maratón",
+     "lt": [
+      "Bahía de Maratón",
+      "Ática, Grecia · hoy"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "batalla",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Maratón, vista desde Persia",
+    "sub": "490 a. C.",
+    "num": "IV"
+   }
+  },
+  {
+   "k": "B",
+   "track": "batalla"
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] Septiembre del año cuatrocientos noventa antes de Cristo. Durante días, los dos ejércitos se miran sin moverse. Y de pronto, los atenienses cargan. Corriendo. Con treinta kilos de bronce encima, a través de la llanura, directos contra los arqueros persas.",
+   "voice": "ESP",
+   "shots": [
+    {
+     "photo": "Greek hoplites charging at a run across a coastal plain unde",
+     "src": "commons,met,cleveland,europeana",
+     "at": "los atenienses cargan"
+    },
+    {
+     "photo": "ranks of Persian archers behind wicker shields loosing volle",
+     "src": "commons,met,cleveland,europeana",
+     "at": "los arqueros persas"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Los persas no se lo esperaban. Nadie cargaba así contra ellos. El centro persa aguantó, pero las alas griegas lo rodearon. Y la batalla se convirtió en una huida hacia los barcos, entre las marismas.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "map",
+      "title": "Maratón, 490 a. C.",
+      "bbox": [
+       23.88,
+       38.08,
+       24.06,
+       38.2
+      ],
+      "points": [
+       {
+        "name": "Campamento ateniense",
+        "lon": 23.94,
+        "lat": 38.15
+       },
+       {
+        "name": "Playa y flota persa",
+        "lon": 24.0,
+        "lat": 38.12,
+        "big": 1
+       },
+       {
+        "name": "Gran marisma",
+        "lon": 24.03,
+        "lat": 38.15
+       }
+      ]
+     },
+     "at": "las alas griegas"
+    },
+    {
+     "photo": "Persian soldiers fleeing through marshes toward beached wars",
+     "src": "commons,met,cleveland,europeana",
+     "at": "una huida hacia los barcos"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "En esta batalla de Maratón murieron unos seis mil cuatrocientos bárbaros, y de los atenienses, ciento noventa y dos.",
+   "voice": "HER",
+   "shots": [
+    {
+     "card": {
+      "type": "versus",
+      "title": "Maratón, según Heródoto",
+      "left": {
+       "name": "Persas",
+       "color": [
+        196,
+        150,
+        60
+       ],
+       "lines": [
+        "unos 6.400 muertos",
+        "la flota escapa casi intacta"
+       ]
+      },
+      "right": {
+       "name": "Atenienses",
+       "color": [
+        64,
+        112,
+        168
+       ],
+       "lines": [
+        "192 muertos",
+        "enterrados en un túmulo"
+       ]
+      }
+     },
+     "at": "En esta batalla"
+    },
+    {
+     "photo": "Marathon tumulus Soros",
+     "src": "commons,met,cleveland,europeana",
+     "at": "ciento noventa y dos",
+     "lt": [
+      "El túmulo de Maratón",
+      "Tumba de los 192 atenienses · hoy"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Para Atenas fue el nacimiento de una leyenda. El soldado que corrió hasta la ciudad para anunciar la victoria y murió al llegar es el origen de la carrera de maratón, aunque esa historia la cuentan autores muy posteriores. [short pause] Pero ¿y para Persia?",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a lone exhausted runner arriving at the gates of an ancient ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "El soldado que corrió"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Para Persia, Maratón fue una expedición de castigo que salió mal en una frontera lejana. Ninguna crónica persa la menciona. El imperio no perdió una sola provincia. Y la flota volvió casi entera a Asia. [short pause] Lo que sí cambió fue algo más difícil de medir: el orgullo del rey.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que contó Grecia",
+       "lines": [
+        "La victoria que salvó a Occidente",
+        "El fin de la amenaza persa"
+       ]
+      },
+      "right": {
+       "title": "Lo que dicen las piedras",
+       "lines": [
+        "Una expedición de castigo fallida",
+        "Ninguna crónica persa la menciona",
+        "El imperio, intacto"
+       ]
+      },
+      "strike": false
+     },
+     "at": "una expedición de castigo"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Darío empezó a preparar una invasión mucho mayor. Pero entonces se rebeló Egipto. Y en el año cuatrocientos ochenta y seis, con unos sesenta y cuatro años, el gran organizador murió. [pause] La venganza quedó en herencia. Para su hijo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Naqsh-e Rostam tomb of Darius",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el gran organizador murió"
+    },
+    {
+     "photo": "Xerxes relief Persepolis",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Para su hijo"
+    }
+   ]
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Jerjes y las Termópilas",
+    "sub": "486 – 479 a. C.",
+    "num": "V"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Jerjes tenía treinta y dos años cuando subió al trono. No era el primogénito de Darío. Pero era el nieto de Ciro el Grande por parte de madre, la reina Atosa, y eso pesaba más. [short pause] En 300 es un gigante de casi tres metros, calvo, cubierto de piercings y cadenas de oro, que se cree un dios.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Xerxes relief Persepolis",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Jerjes",
+     "lt": [
+      "Jerjes I",
+      "Rey de Persia · 486 – 465 a. C.",
+      "persia"
+     ]
+    },
+    {
+     "photo": "Persepolis treasury relief king audience",
+     "src": "commons,met,cleveland,europeana",
+     "at": "En 300",
+     "kw": "300",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Los relieves de Persépolis muestran otra cosa: un hombre con barba larga y rizada, una túnica hasta los pies y una corona. Y los reyes persas nunca dijeron ser dioses. Se presentaban como los elegidos de Ahuramazda. Que no es lo mismo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Persepolis treasury relief king audience",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Los relieves de Persépolis"
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que contó Grecia",
+       "lines": [
+        "Un dios-rey gigante y salvaje",
+        "Piercings, cadenas y máscaras"
+       ]
+      },
+      "right": {
+       "title": "Lo que dicen las piedras",
+       "lines": [
+        "Un rey con barba y túnica larga",
+        "Elegido de Ahuramazda, no dios",
+        "Como lo esculpieron los persas"
+       ]
+      },
+      "strike": false
+     },
+     "at": "nunca dijeron ser dioses"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Dice Jerjes el rey: por la gracia de Ahuramazda construí esta Puerta de Todos los Países. Mucho más, que es bello, se construyó en Persépolis, y lo construimos yo y mi padre.",
+   "voice": "JER",
+   "shots": [
+    {
+     "photo": "Gate of All Nations Persepolis",
+     "src": "commons,met,cleveland,europeana",
+     "at": "esta Puerta de Todos los Países",
+     "lt": [
+      "Puerta de Todos los Países",
+      "Persépolis · Jerjes I"
+     ]
+    },
+    {
+     "photo": "Gate of All Nations lamassu Persepolis",
+     "src": "commons,met,cleveland,europeana",
+     "at": "que es bello"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Jerjes pasó cuatro años preparando la invasión de Grecia. Hizo excavar un canal a través de la península del monte Athos, para que sus barcos no tuvieran que rodear un cabo donde una flota persa ya había naufragado. Y mandó tender dos puentes de barcos sobre el estrecho del Helesponto, entre Asia y Europa.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Mount Athos peninsula",
+     "src": "commons,met,cleveland,europeana",
+     "at": "monte Athos"
+    },
+    {
+     "photo": "two immense pontoon bridges made of hundreds of ships lashed",
+     "src": "commons,met,cleveland,europeana",
+     "at": "dos puentes de barcos"
+    },
+    {
+     "photo": "Dardanelles strait Canakkale",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el estrecho del Helesponto",
+     "lt": [
+      "El Helesponto",
+      "Los Dardanelos, Turquía · hoy"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Cuando los puentes estuvieron terminados, se levantó una gran tormenta que lo rompió y lo deshizo todo. Al enterarse, Jerjes ordenó que el Helesponto recibiera trescientos azotes y que arrojaran al mar un par de grilletes.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "a violent storm tearing apart a bridge of boats across a str",
+     "src": "commons,met,cleveland,europeana",
+     "at": "una gran tormenta"
+    },
+    {
+     "photo": "soldiers whipping the stormy sea with long lashes from a roc",
+     "src": "commons,met,cleveland,europeana",
+     "at": "trescientos azotes"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Agua amarga, tu señor te impone este castigo porque lo ofendiste sin haber recibido de él ofensa alguna. El rey Jerjes te cruzará, quieras o no.",
+   "voice": "JER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Agua amarga, tu señor te impone este castigo porque lo ofendiste. El rey Jerjes te cruzará, quieras o no.",
+      "autor": "Palabras de los azotadores del mar, según Heródoto",
+      "obra": "Historias, VII, 35"
+     },
+     "at": "Agua amarga"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[softly] Es el episodio que todo el mundo recuerda: el rey loco que azota el mar. Pero en el mundo antiguo, castigar a un río o a un mar era un ritual, no una locura. [short pause] Y Heródoto, en el mismo libro, cuenta otra escena de Jerjes que casi nadie recuerda.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Herodotus bust Metropolitan Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Heródoto, en el mismo libro"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "En Abidos, Jerjes quiso ver a todo su ejército. Desde un trono de mármol blanco miró el Helesponto cubierto de barcos y las llanuras llenas de hombres. Primero se sintió feliz. Y después, se echó a llorar.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "a king seated on a white marble throne on a hilltop, seen fr",
+     "src": "commons,met,cleveland,europeana",
+     "at": "se echó a llorar"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[softly] Me ha venido a la mente la compasión, al pensar qué breve es la vida del hombre. De toda esta multitud, dentro de cien años no quedará ni uno vivo.",
+   "voice": "JER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "De toda esta multitud, dentro de cien años no quedará ni uno vivo.",
+      "autor": "Jerjes en Abidos, según Heródoto",
+      "obra": "Historias, VII, 46"
+     },
+     "at": "Me ha venido a la mente"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] ¿Cuántos eran? Heródoto da una cifra imposible: un millón setecientos mil soldados de infantería. Los historiadores modernos la reducen mucho: quizá entre cien mil y trescientos mil hombres, según quién haga la cuenta. [short pause] Aun así, el ejército más grande que había visto Europa.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Heródoto",
+       "lines": [
+        "1.700.000 de infantería",
+        "Ríos bebidos hasta secarse"
+       ]
+      },
+      "right": {
+       "title": "Historiadores de hoy",
+       "lines": [
+        "Entre 100.000 y 300.000",
+        "Un ejército enorme, pero posible"
+       ]
+      },
+      "strike": true
+     },
+     "at": "Cuántos eran"
+    },
+    {
+     "photo": "a procession of soldiers from dozens of nations of the Persi",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el ejército más grande"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "¿Qué pueblo de Asia no llevó Jerjes contra Grecia? ¿Qué río no se secó al beber su ejército, salvo los más grandes?",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "an army of thousands drinking from a river until it runs dry",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Qué río no se secó"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Venían de casi cincuenta pueblos distintos: persas y medos, pero también egipcios, indios, escitas, etíopes, fenicios… y muchos griegos. [short pause] Porque esto casi nunca se cuenta: buena parte de Grecia ya estaba del lado de Persia, o se negó a luchar contra ella.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Tomb of Xerxes Naqsh-e Rostam throne bearers",
+     "src": "commons,met,cleveland,europeana",
+     "at": "casi cincuenta pueblos distintos"
+    },
+    {
+     "photo": "Greek soldiers and Persian officers sharing a campfire in a ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "muchos griegos"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "batalla"
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] Agosto del año cuatrocientos ochenta. Las Termópilas. Un paso entre la montaña y el mar tan estrecho que, en algunos puntos, solo cabía un carro. Allí esperan unos siete mil griegos, con el rey de Esparta, Leónidas, y sus trescientos.",
+   "voice": "ESP",
+   "shots": [
+    {
+     "photo": "Thermopylae pass Leonidas monument",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Las Termópilas"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 7000,
+      "label": "griegos en las Termópilas, según las cifras de Heródoto: no solo trescientos"
+     },
+     "at": "unos siete mil griegos"
+    },
+    {
+     "photo": "Leonidas statue Thermopylae",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Leónidas",
+     "lt": [
+      "Leónidas I",
+      "Rey de Esparta",
+      "griegos"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Jerjes esperó cuatro días. Pensaba que se retirarían. A su lado estaba un rey espartano en el exilio, Demarato, y el rey persa le preguntó cómo era posible que tan pocos hombres, y libres, se enfrentaran a él.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a Persian king and an exiled Greek king in a red cloak talki",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Demarato"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Son libres, pero no del todo. Tienen un amo, la ley, a la que temen mucho más de lo que tus súbditos te temen a ti. Y la ley les ordena siempre lo mismo: no huir ante ninguna multitud, sino vencer o morir en su puesto.",
+   "voice": "GRI",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Tienen un amo, la ley, a la que temen mucho más de lo que tus súbditos te temen a ti.",
+      "autor": "Demarato a Jerjes, según Heródoto",
+      "obra": "Historias, VII, 104"
+     },
+     "at": "Son libres"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] Al quinto día, Jerjes atacó. Primero, medos. Después, su guardia de élite: los Inmortales. Y en aquel embudo de roca, sus lanzas cortas no podían con las largas de los griegos. Dos días de matanza. [short pause] Heródoto dice que Jerjes saltó tres veces de su trono, temiendo por su ejército.",
+   "voice": "ESP",
+   "shots": [
+    {
+     "photo": "Persian elite infantry in colorful robes and wicker shields ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "los Inmortales"
+    },
+    {
+     "photo": "a king leaping up from his throne on a hill above a battle i",
+     "src": "commons,met,cleveland,europeana",
+     "at": "saltó tres veces de su trono"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Y entonces, la traición. Un griego de la zona, Efialtes, le vendió a Jerjes un sendero por las montañas. Esa noche, los Inmortales lo cruzaron con antorchas. Al amanecer, los griegos estaban rodeados.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a long column of soldiers with torches winding along a narro",
+     "src": "commons,met,cleveland,europeana",
+     "at": "un sendero por las montañas"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] Leónidas mandó retirarse a casi todos. Él se quedó con sus trescientos y unos pocos aliados. Cuando se les rompieron las lanzas, lucharon con espadas. Cuando se rompieron las espadas, con las manos y los dientes. [pause] Ninguno sobrevivió.",
+   "voice": "ESP",
+   "shots": [
+    {
+     "photo": "the last stand of a few hundred Greek warriors on a small hi",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Ninguno sobrevivió"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Es la escena que 300 convirtió en mito. Pero visto desde el otro lado, hay algo que la película no cuenta: en ese combate murieron también dos hermanos de Jerjes, Abrocomes e Hiperantes, hijos de Darío. [short pause] Para el rey persa, las Termópilas fueron una victoria. Y una tragedia familiar.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que contó Grecia",
+       "lines": [
+        "Monstruos contra héroes",
+        "Una derrota moral persa"
+       ]
+      },
+      "right": {
+       "title": "Lo que dicen las piedras",
+       "lines": [
+        "Una victoria persa en el campo",
+        "Dos hermanos del rey, muertos",
+        "El paso abierto hacia Atenas"
+       ]
+      },
+      "strike": false
+     },
+     "at": "visto desde el otro lado"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Jerjes recorrió el campo entre los muertos. Al llegar al cuerpo de Leónidas, ordenó cortarle la cabeza y clavarla en un palo. Es la prueba de que el rey estaba más irritado con Leónidas que con ningún otro hombre: los persas suelen honrar, más que nadie, a los guerreros valientes.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "a king walking slowly among the fallen after a battle in a m",
+     "src": "commons,met,cleveland,europeana",
+     "at": "entre los muertos"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[short pause] Después, el camino a Atenas quedó abierto. La ciudad estaba vacía: sus habitantes habían huido a las islas.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Acropolis of Athens view",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el camino a Atenas",
+     "lt": [
+      "La Acrópolis",
+      "Atenas · hoy"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] Los persas subieron a la Acrópolis y la quemaron. Templos, estatuas, todo. [short pause] Dieciocho años después de que Atenas incendiara Sardes, el criado de Darío ya podía callarse.",
+   "voice": "ESP",
+   "shots": [
+    {
+     "photo": "the Acropolis of Athens burning at night, ancient temples en",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la quemaron"
+    },
+    {
+     "photo": "Kritios Boy Acropolis Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "estatuas"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Pero desde la Acrópolis en llamas, los atenienses podían ver otra cosa. Su flota. Escondida en el estrecho de Salamina, a pocos kilómetros. [pause] Y su jefe, Temístocles, acababa de enviar a Jerjes un mensaje secreto.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Salamis strait Greece",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el estrecho de Salamina",
+     "lt": [
+      "Estrecho de Salamina",
+      "Grecia · hoy"
+     ]
+    },
+    {
+     "photo": "Themistocles bust Ostia",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Temístocles",
+     "lt": [
+      "Temístocles",
+      "Estratega ateniense",
+      "griegos"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] El mensaje decía que los griegos iban a huir por la noche, y que era el momento de atacarlos. Era mentira. Jerjes mandó a su flota entrar en el estrecho. [short pause] Y en aquel canal tan estrecho, cientos de barcos persas no podían maniobrar. Uno de los griegos que lucharon aquel día, el poeta Esquilo, recordaría el grito que se oyó al amanecer.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a secret messenger in a small rowing boat crossing a dark ba",
+     "src": "commons,met,cleveland,europeana",
+     "at": "por la noche"
+    },
+    {
+     "photo": "a massive naval battle in a narrow strait, Greek triremes ra",
+     "src": "commons,met,cleveland,europeana",
+     "at": "no podían maniobrar"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] ¡Adelante, hijos de los griegos! Liberad la patria, liberad a vuestros hijos y a vuestras mujeres, los templos de los dioses de vuestros padres y las tumbas de vuestros antepasados. ¡Ahora se lucha por todo!",
+   "voice": "GRI",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "¡Adelante, hijos de los griegos! Liberad la patria. ¡Ahora se lucha por todo!",
+      "autor": "Esquilo, que luchó en Salamina",
+      "obra": "Los persas, 402 – 405"
+     },
+     "at": "Adelante, hijos de los griegos"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Jerjes contemplaba la batalla sentado al pie del monte Egaleo. Cada vez que veía a uno de los suyos hacer algo notable, preguntaba quién era, y sus escribas anotaban el nombre del capitán y de su ciudad.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "a king seated on a golden throne on a hillside, scribes besi",
+     "src": "commons,met,cleveland,europeana",
+     "at": "sus escribas anotaban"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Entre sus capitanes había una mujer: Artemisia, reina de Halicarnaso, la ciudad natal de Heródoto. Había aconsejado a Jerjes no luchar en el mar. En plena batalla, para escapar, embistió a un barco de su propio bando. Jerjes, desde lejos, creyó que había hundido uno griego.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Artemisia I of Caria Salamis Kaulbach",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Artemisia",
+     "lt": [
+      "Artemisia I",
+      "Reina de Halicarnaso · aliada de Jerjes",
+      "persia"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[serious] Mis hombres se han convertido en mujeres. Y mis mujeres, en hombres.",
+   "voice": "JER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Mis hombres se han convertido en mujeres, y mis mujeres, en hombres.",
+      "autor": "Jerjes en Salamina, según Heródoto",
+      "obra": "Historias, VIII, 88"
+     },
+     "at": "Mis hombres"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Salamina fue un desastre para Persia. Jerjes volvió a Asia y dejó en Grecia a su mejor general, Mardonio, con un ejército escogido.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Battle of Salamis Kaulbach painting",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Salamina fue un desastre"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] Platea, verano del año cuatrocientos setenta y nueve. Mardonio lucha en primera fila, sobre un caballo blanco, rodeado de mil persas escogidos. Mientras él sigue vivo, los persas aguantan. Entonces un espartano llamado Arimnesto lo derriba. [pause] Mardonio cae. Y con él, todo el ejército. Persia nunca volvería a invadir Grecia.",
+   "voice": "ESP",
+   "shots": [
+    {
+     "photo": "a great land battle on a wide plain below a mountain, Sparta",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Platea"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Pero conviene mirar el mapa. Para los griegos, aquello fue la guerra que salvó su mundo. Para Persia, fue un fracaso en el extremo occidental de un imperio que seguía llegando hasta la India. No perdió Egipto, ni Babilonia, ni Asia Menor. [short pause] Jerjes siguió reinando catorce años más.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "imperio",
+      "title": "479 a. C.: después de Platea",
+      "bbox": [
+       10,
+       12,
+       80,
+       48
+      ],
+      "stages": [
+       {
+        "year": "Grecia",
+        "label": "Lo que Persia no consiguió",
+        "zona": [
+         "GRC"
+        ]
+       },
+       {
+        "year": "Persia",
+        "label": "Lo que Persia conservó",
+        "zona": [
+         "TUR",
+         "EGY",
+         "IRQ",
+         "SYR",
+         "IRN",
+         "AFG",
+         "PAK",
+         "LBN",
+         "ISR",
+         "JOR",
+         "ARM",
+         "AZE",
+         "TKM",
+         "UZB",
+         "CYP",
+         "PSE"
+        ]
+       }
+      ]
+     },
+     "at": "conviene mirar el mapa"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Hasta una noche de agosto del año cuatrocientos sesenta y cinco. [pause] Jerjes dormía en su palacio. Y el hombre que entró en su habitación no era un enemigo. Era el jefe de su propia guardia.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a shadowy armed figure entering a royal bedchamber at night ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "entró en su habitación"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Recapitulemos, antes de cruzar al otro lado del mito. Ciro fundó el imperio ganándose a los vencidos. Darío lo organizó con provincias, caminos y moneda. Y Jerjes cruzó a Europa, ganó en las Termópilas y perdió en Salamina. [short pause] Ahora toca mirar dentro. A los soldados, a la corte y a los mitos.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "title": "Hasta aquí",
+      "items": [
+       [
+        "550 a. C.",
+        "Ciro funda el imperio"
+       ],
+       [
+        "522 a. C.",
+        "Darío lo organiza"
+       ],
+       [
+        "480 a. C.",
+        "Termópilas y Salamina"
+       ],
+       [
+        "465 a. C.",
+        "Jerjes, asesinado"
+       ]
+      ]
+     },
+     "at": "Recapitulemos"
+    }
+   ]
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Los Inmortales",
+    "sub": "Y otros mitos",
+    "num": "VI"
+   }
+  },
+  {
+   "k": "B",
+   "track": "maravilla"
+  },
+  {
+   "k": "N",
+   "text": "Susa, en el suroeste de Irán, año mil ochocientos ochenta y cinco. Una pareja de arqueólogos franceses, Marcel y Jane Dieulafoy, encuentra entre las ruinas del palacio de Darío miles de ladrillos vidriados de colores. Al montarlos, aparece un desfile de soldados a tamaño casi natural.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Susa palace ruins Shush",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Susa",
+     "lt": [
+      "Susa",
+      "Irán"
+     ]
+    },
+    {
+     "photo": "Jane Dieulafoy portrait",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Marcel y Jane Dieulafoy",
+     "lt": [
+      "Jane Dieulafoy",
+      "Arqueóloga francesa · 1851 – 1916",
+      "otros"
+     ]
+    },
+    {
+     "photo": "Frieze of Archers Susa Louvre",
+     "src": "commons,met,cleveland,europeana",
+     "at": "un desfile de soldados"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Hoy está en el Louvre: el friso de los arqueros. Túnicas bordadas, lanzas con una granada en el extremo, el carcaj a la espalda, la barba rizada. [short pause] Es lo más parecido que tenemos a una foto de la guardia del rey persa. La que los griegos llamaron los Inmortales.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Frieze of Archers Susa Louvre detail",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el friso de los arqueros",
+     "lt": [
+      "Friso de los arqueros",
+      "Susa, hacia 510 a. C. · Louvre"
+     ]
+    },
+    {
+     "photo": "Persepolis Apadana relief soldiers",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la guardia del rey persa"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Eran diez mil, y se les llamaba Inmortales porque, si alguno moría o caía enfermo, otro ocupaba su lugar. Así nunca eran ni más ni menos de diez mil. Llevaban más oro encima que nadie y viajaban con sus mujeres y sus criados.",
+   "voice": "HER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Si alguno moría o caía enfermo, otro ocupaba su lugar. Así nunca eran ni más ni menos de diez mil.",
+      "autor": "Heródoto, sobre los Inmortales",
+      "obra": "Historias, VII, 83"
+     },
+     "at": "Eran diez mil"
+    },
+    {
+     "photo": "ranks of elite Persian guardsmen in embroidered robes with s",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Llevaban más oro"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "En 300, los Inmortales son monstruos sin rostro, con máscaras de metal y dientes afilados. [short pause] En las tablillas de Persépolis, en cambio, no aparecen por ningún lado con ese nombre. Y hay una teoría curiosa: que Heródoto, o quien le informó, entendió mal una palabra persa.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que contó Grecia",
+       "lines": [
+        "Monstruos enmascarados",
+        "Soldados sin rostro ni nombre"
+       ]
+      },
+      "right": {
+       "title": "Lo que dicen las piedras",
+       "lines": [
+        "Guardia de élite de la nobleza",
+        "Barba rizada, túnica bordada",
+        "Quizá ni se llamaban así"
+       ]
+      },
+      "strike": false
+     },
+     "at": "monstruos sin rostro"
+    },
+    {
+     "photo": "Persepolis Fortification tablet Elamite",
+     "src": "commons,met,cleveland,europeana",
+     "at": "En las tablillas de Persépolis"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] En persa antiguo, anusiya significa compañeros, los del séquito del rey. Y anausa, casi igual, significa inmortales. [short pause] Es solo una hipótesis, y hay expertos que la rechazan. Pero sería una ironía perfecta: que el cuerpo militar más temido de la Antigüedad deba su nombre a un error de traducción.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "anusiya",
+       "lines": [
+        "«compañeros»",
+        "el séquito del rey"
+       ]
+      },
+      "right": {
+       "title": "anausa",
+       "lines": [
+        "«inmortales»",
+        "lo que quizá entendieron los griegos"
+       ]
+      },
+      "strike": false
+     },
+     "at": "anusiya"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Suelen deliberar sobre los asuntos más serios estando borrachos. Al día siguiente, ya sobrios, el dueño de la casa donde deliberaron les vuelve a plantear lo decidido. Si sobrios les sigue pareciendo bien, lo hacen. Si no, lo dejan. Y lo que han decidido sobrios, lo vuelven a examinar borrachos.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "Persian noblemen reclining on cushions around low tables wit",
+     "src": "commons,met,cleveland,europeana",
+     "at": "estando borrachos"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[softly] Un sistema de doble control que más de un gobierno debería probar.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Achaemenid gold rhyton",
+     "src": "commons,met,cleveland,europeana",
+     "at": "doble control"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "El otro gran mito es el del déspota oriental rodeado de esclavos. Las escaleras de la sala de audiencias de Persépolis cuentan otra historia: veintitrés pueblos del imperio subiendo en fila con regalos. Lidios con jarrones, indios con hachas y oro en polvo, etíopes con un colmillo de elefante, árabes con un dromedario.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Apadana staircase delegations Persepolis",
+     "src": "commons,met,cleveland,europeana",
+     "at": "las escaleras de la sala de audiencias",
+     "lt": [
+      "Escalera de la Apadana",
+      "Persépolis"
+     ]
+    },
+    {
+     "photo": "Persepolis Apadana relief Lydian delegation",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Lidios con jarrones"
+    },
+    {
+     "photo": "Persepolis Apadana relief Arab dromedary",
+     "src": "commons,met,cleveland,europeana",
+     "at": "árabes con un dromedario"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Y algo llama la atención: en esos relieves nadie lleva cadenas, nadie se arrodilla ante un látigo. Muchos van de la mano de un oficial persa o medo, que los guía hacia el rey. [short pause] Es propaganda, claro. Pero es la imagen que Persia quería dar de sí misma: un imperio de pueblos que se presentan juntos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Persepolis Apadana relief Persian Median guards",
+     "src": "commons,met,cleveland,europeana",
+     "at": "de la mano de un oficial persa"
+    },
+    {
+     "photo": "colorful delegations of many nations in different costumes c",
+     "src": "commons,met,cleveland,europeana",
+     "at": "un imperio de pueblos"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Los persas son, de todos los hombres, los que más adoptan las costumbres extranjeras. Visten el traje de los medos, porque lo consideran más bello que el suyo. Y para la guerra usan la coraza de los egipcios.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "Persepolis Apadana relief Persian Median guards",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Visten el traje de los medos"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Lo vemos también en el ejército. El general que conquistó Jonia para Persia era un medo. En Salamina, una de las capitanas de Jerjes era una reina caria. Y en Babilonia, el gobernador persa convivía con los sacerdotes de siempre, los mismos jueces y la misma lengua. [short pause] Mientras pagaran, cada pueblo seguía siendo él mismo.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Babylon ruins Iraq",
+     "src": "commons,met,cleveland,europeana",
+     "at": "en Babilonia"
+    },
+    {
+     "photo": "a Babylonian scribe writing cuneiform on a wet clay tablet b",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la misma lengua"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Dice Jerjes el rey: entre estos países había un lugar donde antes se adoraba a los falsos dioses. Por la gracia de Ahuramazda destruí aquel santuario, y proclamé: los falsos dioses no serán adorados.",
+   "voice": "JER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Destruí aquel santuario, y proclamé: los falsos dioses no serán adorados.",
+      "autor": "Jerjes I",
+      "obra": "Inscripción de los daivas · Persépolis"
+     },
+     "at": "destruí aquel santuario"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Pero que nadie se confunda: era un imperio. Tolerante mientras le convenía. Con impuestos duros, deportaciones de pueblos rebeldes y castigos atroces para los traidores. [short pause] La diferencia es que su arma favorita no fue la espada. [pause] Fue el oro.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "rebel prisoners in chains led away from a burned city by Per",
+     "src": "commons,met,cleveland,europeana",
+     "at": "deportaciones de pueblos rebeldes"
+    },
+    {
+     "photo": "Oxus Treasure gold chariot British Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Fue el oro"
+    }
+   ]
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El oro del Gran Rey",
+    "sub": "479 – 336 a. C.",
+    "num": "VII"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Tras la muerte de Jerjes, Persia dejó de mandar ejércitos a Grecia. Ya no le hacía falta. Los griegos se estaban matando entre ellos: Atenas contra Esparta, en una guerra que duró casi treinta años. [short pause] Y Persia descubrió que podía decidir quién la ganaba.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Athenian and Spartan hoplites fighting each other among burn",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Atenas contra Esparta"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Al final de la guerra del Peloponeso, Esparta no tenía flota ni dinero para vencer a Atenas en el mar. Un joven príncipe persa, Ciro el Joven, le dio el oro para construirla y pagar a los remeros. [short pause] En el año cuatrocientos cuatro, Atenas se rindió. Los dáricos persas habían hecho lo que no lograron los Inmortales.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Daric gold coin Achaemenid",
+     "src": "commons,met,cleveland,europeana",
+     "at": "le dio el oro"
+    },
+    {
+     "photo": "Spartan warships being built in a busy harbor, a Persian pri",
+     "src": "commons,met,cleveland,europeana",
+     "at": "pagar a los remeros"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Ese mismo príncipe quiso después ser rey en lugar de su hermano. Contrató a diez mil mercenarios griegos y marchó hasta el corazón de Mesopotamia. En Cunaxa, cerca de Babilonia, en el año cuatrocientos uno, Ciro el Joven murió en la batalla.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a young Persian prince charging on horseback straight at the",
+     "src": "commons,met,cleveland,europeana",
+     "at": "En Cunaxa"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Ciro, al ver al rey y la escolta que lo rodeaba, no pudo contenerse y gritó: «¡Lo veo!». Se lanzó contra él y le golpeó en el pecho, hiriéndolo a través de la coraza. Pero en ese momento alguien le clavó una jabalina bajo el ojo.",
+   "voice": "GRI",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Ciro, al ver al rey, no pudo contenerse y gritó: «¡Lo veo!», y se lanzó contra él.",
+      "autor": "Jenofonte, testigo de la batalla",
+      "obra": "Anábasis, I, 8"
+     },
+     "at": "Lo veo"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Quien lo cuenta es Jenofonte, uno de aquellos diez mil griegos. Atrapados en mitad del imperio, sin jefe, cruzaron las montañas del Kurdistán y de Armenia en pleno invierno hasta llegar al mar Negro. [short pause] Su relato, la Anábasis, demostró a los griegos una cosa peligrosa: que se podía llegar al corazón de Persia. Y volver.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Xenophon bust",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Jenofonte",
+     "lt": [
+      "Jenofonte",
+      "Soldado e historiador ateniense · hacia 430 – 354 a. C.",
+      "griegos"
+     ]
+    },
+    {
+     "photo": "a column of Greek mercenaries struggling through deep snow i",
+     "src": "commons,met,cleveland,europeana",
+     "at": "en pleno invierno"
+    },
+    {
+     "photo": "exhausted soldiers on a mountain ridge shouting and raising ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "hasta llegar al mar Negro"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Aun así, quien mandaba seguía siendo el Gran Rey. En el año trescientos ochenta y siete, las ciudades griegas firmaron un tratado que se conoce con un nombre elocuente: la Paz del Rey. Las condiciones las dictó Artajerjes II desde Susa. [short pause] Un siglo después de Maratón, los griegos de Asia volvían a ser persas.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "La Paz del Rey · 387 a. C.",
+      "lines": [
+       "El rey Artajerjes considera justo",
+       "que las ciudades de Asia sean suyas",
+       "y que las demás ciudades griegas sean autónomas"
+      ],
+      "source": "Texto del tratado, según Jenofonte, Helénicas, V, 1",
+      "hl": "sean suyas"
+     },
+     "at": "la Paz del Rey"
+    },
+    {
+     "photo": "Artaxerxes II tomb Persepolis",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Artajerjes II",
+     "lt": [
+      "Artajerjes II",
+      "Rey de Persia · 404 – 358 a. C.",
+      "persia"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Heródoto cierra su libro con un consejo que pone en boca de Ciro el Grande, cuando los persas le pidieron dejar sus montañas pobres por tierras más ricas.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Zagros mountains Fars Iran",
+     "src": "commons,met,cleveland,europeana",
+     "at": "sus montañas pobres"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[serious] Las tierras blandas suelen criar hombres blandos. No es posible que una misma tierra dé frutos maravillosos y hombres valientes en la guerra.",
+   "voice": "CIR",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Las tierras blandas suelen criar hombres blandos.",
+      "autor": "Ciro, según Heródoto",
+      "obra": "Historias, IX, 122"
+     },
+     "at": "Las tierras blandas"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Persia parecía eterna. Y sus reyes vivían en los palacios más ricos de la Tierra. [pause] Pero en el año trescientos cincuenta y seis, en Pela, la capital de un reino del norte de Grecia que los griegos consideraban casi bárbaro, nació un niño. [short pause] Su padre se llamaba Filipo de Macedonia. Al niño lo llamaron Alejandro.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Pella Macedonia ruins mosaics",
+     "src": "commons,met,cleveland,europeana",
+     "at": "en Pela",
+     "lt": [
+      "Pela",
+      "Capital de Macedonia · Grecia, hoy"
+     ]
+    },
+    {
+     "photo": "Alexander the Great bust Acropolis Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Al niño lo llamaron Alejandro"
+    }
+   ]
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "batalla",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Alejandro",
+    "sub": "336 – 330 a. C.",
+    "num": "VIII"
+   }
+  },
+  {
+   "k": "B",
+   "track": "batalla"
+  },
+  {
+   "k": "N",
+   "text": "En el año trescientos treinta y cuatro, Alejandro cruzó el Helesponto, el mismo estrecho que Jerjes había azotado ciento cincuenta años antes. Tenía veintidós años y un ejército de unos cuarenta mil hombres. [short pause] Su excusa era la venganza por los templos que quemó Jerjes.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Dardanelles strait Canakkale",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el mismo estrecho"
+    },
+    {
+     "photo": "Alexander the Great bust Acropolis Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Tenía veintidós años",
+     "lt": [
+      "Alejandro Magno",
+      "Rey de Macedonia · 356 – 323 a. C.",
+      "macedonia"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] En el Gránico, Alejandro cruza el río a caballo bajo una lluvia de flechas. Un noble persa le parte el casco de un hachazo. Otro levanta la espada para rematarlo. Y un oficial macedonio, Clito el Negro, le corta el brazo justo a tiempo.",
+   "voice": "ESP",
+   "shots": [
+    {
+     "photo": "a cavalry battle in a river, a young commander with a broken",
+     "src": "commons,met,cleveland,europeana",
+     "at": "le parte el casco"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Enfrente tenía a Darío III, un rey que había llegado al trono tras una cadena de asesinatos en palacio. Valiente en la guerra, decían. [short pause] En el río Gránico, en Asia Menor, los sátrapas persas perdieron la primera batalla. Y en Isos, en el año trescientos treinta y tres, el propio Darío.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Alexander Mosaic Darius III Naples",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Darío III",
+     "lt": [
+      "Darío III",
+      "Rey de Persia · 336 – 330 a. C.",
+      "persia"
+     ]
+    },
+    {
+     "card": {
+      "type": "mapfly",
+      "title": "La campaña de Alejandro, 334 – 330 a. C.",
+      "keys": [
+       [
+        20,
+        24,
+        60,
+        44
+       ],
+       [
+        26,
+        26,
+        58,
+        40
+       ]
+      ],
+      "points": [
+       {
+        "name": "Gránico",
+        "lon": 27.4,
+        "lat": 40.2,
+        "at": 0.1
+       },
+       {
+        "name": "Isos",
+        "lon": 36.2,
+        "lat": 36.85,
+        "at": 0.3
+       },
+       {
+        "name": "Gaugamela",
+        "lon": 43.5,
+        "lat": 36.36,
+        "at": 0.6
+       },
+       {
+        "name": "Babilonia",
+        "lon": 44.4,
+        "lat": 32.5,
+        "at": 0.7
+       },
+       {
+        "name": "Persépolis",
+        "lon": 52.89,
+        "lat": 29.93,
+        "at": 0.9
+       }
+      ],
+      "arrows": [
+       {
+        "path": [
+         [
+          26.4,
+          40.15
+         ],
+         [
+          27.4,
+          40.2
+         ],
+         [
+          30.5,
+          37.9
+         ],
+         [
+          34.0,
+          36.9
+         ],
+         [
+          36.2,
+          36.85
+         ],
+         [
+          38.5,
+          36.6
+         ],
+         [
+          43.5,
+          36.36
+         ],
+         [
+          44.4,
+          32.5
+         ],
+         [
+          48.25,
+          32.19
+         ],
+         [
+          52.89,
+          29.93
+         ]
+        ],
+        "color": [
+         176,
+         26,
+         32
+        ],
+        "at": 0.15,
+        "dur": 3.5
+       }
+      ]
+     },
+     "at": "En el río Gránico"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] En Isos, Alejandro cargó directamente contra el carro del rey. Darío dio la vuelta y huyó. Dejó atrás su arco, su escudo, su manto. [pause] Y a su madre, a su esposa y a sus hijas.",
+   "voice": "ESP",
+   "shots": [
+    {
+     "photo": "Alexander Mosaic Naples",
+     "src": "commons,met,cleveland,europeana",
+     "at": "En Isos",
+     "lt": [
+      "Mosaico de Alejandro",
+      "Pompeya · hacia 100 a. C. · Nápoles"
+     ]
+    },
+    {
+     "photo": "a young cavalry commander on a black horse charging through ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "contra el carro del rey"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Alejandro las trató como a reinas. Sisigambis, la madre de Darío, acabaría tan unida a él que, según cuentan los autores antiguos, cuando Alejandro murió dejó de comer hasta morir. [short pause] Pero eso llegaría años después. Antes faltaba la batalla final.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a dignified elderly queen in dark robes seated in a tent sur",
+     "src": "commons,met,cleveland,europeana",
+     "at": "las trató como a reinas"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Al entrar en la tienda, Sisigambis se arrodilló ante Hefestión, el amigo de Alejandro, porque era más alto y lo confundió con el rey. Al darse cuenta, quiso morirse de vergüenza. Y Alejandro la levantó.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "an elderly queen kneeling by mistake before a tall officer i",
+     "src": "commons,met,cleveland,europeana",
+     "at": "lo confundió con el rey"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[softly] No te has equivocado, madre. También él es Alejandro.",
+   "voice": "ALE",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "No te has equivocado, madre. También él es Alejandro.",
+      "autor": "Alejandro a Sisigambis, según Arriano y Diodoro",
+      "obra": "Anábasis de Alejandro, II, 12"
+     },
+     "at": "No te has equivocado"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "La noche antes de la última batalla, su general Parmenión le aconsejó atacar a oscuras, por sorpresa. La respuesta de Alejandro se hizo famosa.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "two commanders talking in a dark camp before a battle, thous",
+     "src": "commons,met,cleveland,europeana",
+     "at": "atacar a oscuras"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[serious] No robaré la victoria.",
+   "voice": "ALE",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "No robaré la victoria.",
+      "autor": "Alejandro a Parmenión, según Plutarco",
+      "obra": "Vida de Alejandro, 31"
+     },
+     "at": "No robaré la victoria"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[dramatically] Gaugamela, cerca de la actual Mosul, uno de octubre del año trescientos treinta y uno. Darío ha reunido al mayor ejército que le queda: carros con cuchillas en las ruedas, elefantes de la India, caballería de todo el imperio. [pause] Y vuelve a pasar lo mismo. Alejandro abre un hueco, carga hacia el rey. Y el rey huye.",
+   "voice": "ESP",
+   "shots": [
+    {
+     "photo": "Gaugamela plain Iraq",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Gaugamela",
+     "lt": [
+      "Gaugamela",
+      "Cerca de Mosul, Irak"
+     ]
+    },
+    {
+     "photo": "Persian scythed chariots charging across a flat plain toward",
+     "src": "commons,met,cleveland,europeana",
+     "at": "carros con cuchillas"
+    },
+    {
+     "photo": "a royal chariot fleeing through clouds of dust away from a c",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el rey huye"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Babilonia y Susa abrieron sus puertas. Y a principios del año trescientos treinta, Alejandro llegó a Persépolis. Plutarco cuenta que, para llevarse el tesoro, hicieron falta diez mil parejas de mulas y cinco mil camellos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Persepolis ruins aerial view",
+     "src": "commons,met,cleveland,europeana",
+     "at": "llegó a Persépolis"
+    },
+    {
+     "photo": "an endless caravan of mules and camels loaded with chests of",
+     "src": "commons,met,cleveland,europeana",
+     "at": "cinco mil camellos"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[serious] ¿Debo pasar de largo y dejarte tirado, por la guerra que hiciste a los griegos? ¿O levantarte, por tu grandeza de espíritu y tu virtud?",
+   "voice": "ALE",
+   "shots": [
+    {
+     "photo": "a young conqueror standing before a toppled colossal stone s",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Debo pasar de largo"
+    },
+    {
+     "card": {
+      "type": "papiro",
+      "text": "¿Debo pasar de largo y dejarte tirado, por la guerra que hiciste a los griegos? ¿O levantarte, por tu grandeza de espíritu?",
+      "autor": "Alejandro ante una estatua caída de Jerjes, según Plutarco",
+      "obra": "Vida de Alejandro, 37"
+     },
+     "at": "O levantarte"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Así le habló Alejandro, según Plutarco, a una estatua de Jerjes derribada por sus soldados. Se quedó un buen rato en silencio, mirándola. Y siguió su camino. [pause] Unos meses después, Persépolis ardió.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Persepolis Apadana columns",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Persépolis ardió"
+    }
+   ]
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Cómo empezó el fuego es uno de los grandes misterios de la Antigüedad. Plutarco y Diodoro cuentan una fiesta. Alejandro y sus oficiales bebiendo. Y una cortesana ateniense, Tais, que propone vengar a Atenas quemando el palacio de Jerjes.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a drunken banquet in a columned palace hall at night, a woma",
+     "src": "commons,met,cleveland,europeana",
+     "at": "una cortesana ateniense"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Alejandro se puso en pie, con una corona en la cabeza y una antorcha en la mano, y fue el primero. Los demás lo siguieron entre gritos, y rodearon el palacio.",
+   "voice": "HER",
+   "shots": [
+    {
+     "photo": "the great columned hall of Persepolis engulfed in flames at ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "una antorcha en la mano"
+    },
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Alejandro se puso en pie, con una corona en la cabeza y una antorcha en la mano, y fue el primero.",
+      "autor": "Plutarco",
+      "obra": "Vida de Alejandro, 38"
+     },
+     "at": "fue el primero"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Arriano, otro historiador antiguo que se basa en generales de Alejandro, da una versión más fría: fue una decisión política. Castigar a los persas por la quema de Atenas. [short pause] La arqueología apunta a algo planeado: el tesoro se vació antes, y el fuego arrasó sobre todo los grandes salones de Darío y de Jerjes.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que contó Grecia",
+       "lines": [
+        "Una borrachera y una cortesana",
+        "Un incendio por capricho"
+       ]
+      },
+      "right": {
+       "title": "Lo que dicen las piedras",
+       "lines": [
+        "Una decisión política",
+        "El fuego, en los palacios de Jerjes",
+        "Venganza por la Acrópolis"
+       ]
+      },
+      "strike": false
+     },
+     "at": "una versión más fría"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Pero hubo algo que el fuego no alcanzó. [short pause] En un cuarto de la muralla, lejos de los palacios, seguían guardadas miles de tablillas de barro con las cuentas del imperio. Allí se quedaron, enterradas, durante veintitrés siglos. [pause] El incendio que debía borrar Persia no pudo con su contabilidad.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "stacks of clay tablets lying untouched in a dark storeroom i",
+     "src": "commons,met,cleveland,europeana",
+     "at": "el fuego no alcanzó"
+    },
+    {
+     "photo": "Persepolis Fortification tablet Elamite",
+     "src": "commons,met,cleveland,europeana",
+     "at": "veintitrés siglos"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Darío III huía hacia el este. En julio del año trescientos treinta, sus propios sátrapas, encabezados por Beso, lo encadenaron y lo apuñalaron. Alejandro llegó tarde. Según Plutarco, se quitó su manto y cubrió con él el cadáver de su enemigo.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a dying king lying in an abandoned wagon in the desert, a yo",
+     "src": "commons,met,cleveland,europeana",
+     "at": "cubrió con él el cadáver"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Lo mandó enterrar con honores reales, junto a los reyes persas. Y persiguió a Beso hasta capturarlo. [short pause] Ahí termina, oficialmente, el Imperio Aqueménida. Doscientos veinte años después de que Ciro se rebelara contra los medos. [pause] Pero aquí viene lo más inesperado.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "timeline",
+      "header": "El Imperio Aqueménida",
+      "events": [
+       [
+        "550 a. C.",
+        "Ciro se rebela contra los medos"
+       ],
+       [
+        "522 a. C.",
+        "Darío llega al trono"
+       ],
+       [
+        "480 a. C.",
+        "Termópilas y Salamina"
+       ],
+       [
+        "330 a. C.",
+        "Muerte de Darío III"
+       ]
+      ]
+     },
+     "at": "termina, oficialmente"
+    }
+   ]
+  },
+  {
+   "k": "T",
+   "secs": 5.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Lo que dejó Persia",
+    "sub": "El conquistador conquistado",
+    "num": "IX"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Pasargadas, año trescientos veinticuatro. Alejandro vuelve de la India y encuentra la tumba de Ciro saqueada. [short pause] Manda castigar al saqueador, ordena restaurarla y pide que le lean la inscripción que había en ella.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Pasargadae tomb of Cyrus",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la tumba de Ciro saqueada"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[serious] Hombre, quienquiera que seas y de dondequiera que vengas, porque sé que vendrás: yo soy Ciro, el que dio a los persas su imperio. No me envidies este poco de tierra que cubre mi cuerpo.",
+   "voice": "CIR",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Hombre, quienquiera que seas y de dondequiera que vengas: yo soy Ciro, el que dio a los persas su imperio. No me envidies este poco de tierra que cubre mi cuerpo.",
+      "autor": "Inscripción de la tumba de Ciro, según Plutarco",
+      "obra": "Vida de Alejandro, 69"
+     },
+     "at": "quienquiera que seas"
+    },
+    {
+     "photo": "a lone conqueror standing before a simple stone tomb on six ",
+     "src": "commons,met,cleveland,europeana",
+     "at": "No me envidies"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[softly] Plutarco dice que aquellas palabras conmovieron profundamente a Alejandro. [short pause] Y quizá explican lo que hizo después. Porque el hombre que vino a vengar a Grecia acabó adoptando la túnica de los reyes persas, su ceremonial y sus costumbres de corte, ante el escándalo de sus generales macedonios.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "a young king wearing Persian royal robes and diadem receivin",
+     "src": "commons,met,cleveland,europeana",
+     "at": "adoptando la túnica"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "En Opis, según el historiador Arriano, Alejandro celebró un banquete con nueve mil invitados, macedonios y persas sentados juntos. Y rezó a los dioses por la concordia entre los dos pueblos, y por que gobernaran el imperio como socios.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "an enormous banquet under a vast canopy with thousands of Ma",
+     "src": "commons,met,cleveland,europeana",
+     "at": "nueve mil invitados"
+    },
+    {
+     "photo": "Alexander the Great bust Acropolis Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "como socios"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "En Susa, en el año trescientos veinticuatro, organizó una boda colectiva: él mismo y unos ochenta de sus oficiales se casaron con mujeres de la nobleza persa y meda. Alejandro, con Estatira, la hija de Darío III. [short pause] El conquistador quería un imperio mixto. Persa y griego a la vez.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Susa palace ruins Shush",
+     "src": "commons,met,cleveland,europeana",
+     "at": "En Susa"
+    },
+    {
+     "photo": "a grand mass wedding ceremony in a huge tent at Susa, dozens",
+     "src": "commons,met,cleveland,europeana",
+     "at": "una boda colectiva"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Murió un año después, en Babilonia, con treinta y dos años. Su imperio se partió entre sus generales. Pero la máquina que montaron Ciro y Darío siguió funcionando: las satrapías, los caminos, la moneda, la idea de gobernar a muchos pueblos sin borrarlos. Los seléucidas, los partos y los sasánidas la heredaron.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Lo que heredaron los siguientes imperios",
+      "items": [
+       "Provincias con gobernador: las satrapías",
+       "Caminos y correo con postas",
+       "Una moneda de oro para todo el imperio",
+       "Tolerancia con dioses y leyes locales"
+      ]
+     },
+     "at": "la máquina que montaron"
+    },
+    {
+     "photo": "Taq-e Kasra Ctesiphon",
+     "src": "commons,met,cleveland,europeana",
+     "at": "los sasánidas"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Y nos dejó palabras. Los persas llamaban pairidaeza a sus jardines cerrados, llenos de árboles y agua. Los griegos la convirtieron en parádeisos. [short pause] Y de ahí viene la palabra que usamos hoy para el lugar más feliz que podemos imaginar: paraíso. [short pause] Jenofonte cuenta que el espartano Lisandro visitó uno, en Sardes.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Eram Garden Shiraz Persian garden",
+     "src": "commons,met,cleveland,europeana",
+     "at": "sus jardines cerrados",
+     "lt": [
+      "Jardín persa",
+      "Irán · hoy"
+     ]
+    },
+    {
+     "photo": "a walled Persian garden with long water channels, cypress an",
+     "src": "commons,met,cleveland,europeana",
+     "at": "paraíso",
+     "kw": "PARAÍSO",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "Lisandro se quedó admirado de la belleza de los árboles, plantados a la misma distancia, en filas rectas, y del perfume que lo envolvía al pasear. Ciro le dijo: «Todo esto lo he medido y ordenado yo. Y algunos de estos árboles los planté con mis propias manos».",
+   "voice": "GRI",
+   "shots": [
+    {
+     "photo": "a Persian prince in fine robes walking with a Spartan genera",
+     "src": "commons,met,cleveland,europeana",
+     "at": "plantados a la misma distancia"
+    },
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Todo esto lo he medido y ordenado yo. Y algunos de estos árboles los planté con mis propias manos.",
+      "autor": "Ciro el Joven a Lisandro, según Jenofonte",
+      "obra": "Económico, IV, 21 – 22"
+     },
+     "at": "los planté con mis propias manos"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Incluso los griegos que lo combatieron lo sabían. Ocho años después de Salamina, un veterano de Maratón, el dramaturgo Esquilo, estrenó en Atenas una tragedia llamada Los persas. [short pause] No celebra la victoria griega. Llora la derrota persa. La cuenta desde la corte de Susa, a través de la madre de Jerjes.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Aeschylus bust Capitoline",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Esquilo",
+     "lt": [
+      "Esquilo",
+      "Dramaturgo ateniense · veterano de Maratón",
+      "griegos"
+     ]
+    },
+    {
+     "photo": "Theatre of Dionysus Athens",
+     "src": "commons,met,cleveland,europeana",
+     "at": "estrenó en Atenas"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[softly] ¡Oh, ciudades de toda la tierra de Asia! ¡Oh, tierra de Persia, gran puerto de riqueza! ¡Cómo, de un solo golpe, se ha destruido tanta prosperidad!",
+   "voice": "GRI",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "¡Oh, tierra de Persia, gran puerto de riqueza! ¡Cómo, de un solo golpe, se ha destruido tanta prosperidad!",
+      "autor": "Esquilo",
+      "obra": "Los persas, 472 a. C."
+     },
+     "at": "Oh, tierra de Persia"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] La primera obra de teatro que se conserva en la historia de Occidente está contada desde el lado persa. [pause] Los que vinieron después, empezando por Hollywood, prefirieron otra cosa: un enemigo sin rostro. Monstruos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Theatre of Dionysus Athens",
+     "src": "commons,met,cleveland,europeana",
+     "at": "La primera obra de teatro"
+    },
+    {
+     "photo": "a menacing silhouette of a faceless dark army against a bloo",
+     "src": "commons,met,cleveland,europeana",
+     "at": "un enemigo sin rostro"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Pero las piedras no cambian de bando. Siguen ahí: la tumba de Ciro en Pasargadas, la pared de Behistún, los palacios quemados de Persépolis. Y en Chicago y en Teherán, decenas de miles de tablillas que todavía se están leyendo.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Pasargadae tomb of Cyrus sunset",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la tumba de Ciro"
+    },
+    {
+     "photo": "Behistun cliff Kermanshah",
+     "src": "commons,met,cleveland,europeana",
+     "at": "la pared de Behistún"
+    },
+    {
+     "photo": "Persepolis Tachara palace ruins",
+     "src": "commons,met,cleveland,europeana",
+     "at": "los palacios quemados"
+    },
+    {
+     "photo": "Persepolis Fortification tablet Elamite",
+     "src": "commons,met,cleveland,europeana",
+     "at": "decenas de miles de tablillas"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] El propio Heródoto, el griego que nos contó a Jerjes azotando el mar, empezó su libro con una frase que hoy parece escrita para este documental. [pause]",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Herodotus bust Metropolitan Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "El propio Heródoto"
+    }
+   ]
+  },
+  {
+   "k": "R",
+   "text": "[softly] Escribo esto para que el tiempo no borre lo que hicieron los hombres, y para que las grandes y maravillosas hazañas, tanto de los griegos como de los bárbaros, no se queden sin gloria.",
+   "voice": "HER",
+   "shots": [
+    {
+     "card": {
+      "type": "papiro",
+      "text": "Para que las grandes y maravillosas hazañas, tanto de los griegos como de los bárbaros, no se queden sin gloria.",
+      "autor": "Heródoto",
+      "obra": "Historias, I, 1"
+     },
+     "at": "para que el tiempo no borre"
+    },
+    {
+     "photo": "Persepolis ruins sunset",
+     "src": "commons,met,cleveland,europeana",
+     "at": "no se queden sin gloria"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "[serious] Tanto de los griegos como de los bárbaros. [short pause] Ni siquiera el primer historiador de Occidente creía que los persas fueran monstruos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Persepolis Apadana relief soldiers",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Ni siquiera el primer historiador"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "text": "Si viste nuestro documental sobre las Termópilas, ahora conoces la otra mitad. [short pause] En el próximo episodio de DocuVox: Cartago, la ciudad que Roma necesitó borrar del mapa. Suscríbete para no perdértelo.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Thermopylae pass Leonidas monument",
+     "src": "commons,met,cleveland,europeana",
+     "at": "las Termópilas"
+    },
+    {
+     "photo": "Carthage ruins Byrsa",
+     "src": "commons,met,cleveland,europeana",
+     "at": "Cartago",
+     "lt": [
+      "Cartago",
+      "Túnez · hoy"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "tema",
+   "secs": 8
+  }
+ ]
+}

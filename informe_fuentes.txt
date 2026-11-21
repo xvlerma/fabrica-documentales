@@ -1,0 +1,9 @@
+FOTO A None | La Moncloa | Attribution | https://commons.wikimedia.org/wiki/File:Presidente_Jos%C3%A9_Luis_Rodriguez_Zapatero_-_La_Moncloa_2011.jpg
+tam (645, 954)
+grua 200 2940440
+crisis2008_miniatura_A.jpg
+crisis2008_miniatura_A_mini.jpg
+crisis2008_miniatura_B.jpg
+crisis2008_miniatura_B_mini.jpg
+foto_A.json
+fdec5dfdad8b78dc.jpg

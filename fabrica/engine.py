@@ -710,6 +710,13 @@ def recon(job, out_dir):
                            iframes=sorted(set(re.findall(r'<iframe[^>]+src=["\']([^"\']+)', txt)))[:20])
             log(f'recon {pg}: {len(links)} medios')
         except Exception as e: res[pg] = dict(error=str(e)[:300]); log(f'recon {pg}: error {e}')
+    # v7: descarga los subtítulos .vtt (dan el segundo exacto de cada frase) y los .vtt pedidos en job['vtt']
+    vtts = [l for v in res.values() for l in v.get('media', []) if l.endswith('.vtt')] + job.get('vtt', [])
+    for v in sorted(set(vtts)):
+        try:
+            req = urllib.request.Request(v, headers={'User-Agent': 'Mozilla/5.0 (DocuVox recon)'})
+            open(f"{out_dir}/vtt_{v.rsplit('/', 1)[-1]}", 'wb').write(urllib.request.urlopen(req, timeout=40).read())
+        except Exception as e: log(f'vtt {v}: {e}')
     probes = []
     for n, u in enumerate([u for u in job.get('units', []) if u.get('k') == 'C']):
         try:

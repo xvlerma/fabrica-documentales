@@ -1,0 +1,89 @@
+== https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/280224-sanchez-sesion-control-congreso.aspx: 3 vídeos, 0 subtítulos
+  transcribiendo 20240228-video-corte-sc1…
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[0;93m2026-11-21 22:05:35.334262291 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+  transcribiendo 20240228-video-corte-sc2…
+[tcp @ 0x61e7fa07f800] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+[in#0 @ 0x61e7fa07bc80] Error opening input: Connection timed out
+Error opening input file https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20240228-Video-Corte-SC2__300.mp4/playlist.m3u8.
+Error opening input files: Connection timed out
+  whisper 20240228-video-corte-sc2: Command '['ffmpeg', '-loglevel', 'error', '-y', '-reconnect', '1', '-reconnect_streamed', '1', '-rw_timeout', '60000000', '-i', 'https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20240228-Video-Corte-SC2__300.mp4/playlist.m3u8', '-vn', '-ac', '1', '-ar', '16000', '/tmp/clips_audio.wav']' returned non-zero exit status 146.
+  transcribiendo 20240228-video-corte-sc3…
+  41_desterrar: False 20240228-video-corte-sc1 0.40 0.7-3.0
+[tcp @ 0x5c88cbc31980] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+[in#0 @ 0x5c88cbc2dd40] Error opening input: Connection timed out
+Error opening input file https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20240228-Video-Corte-SC1__300.mp4/playlist.m3u8.
+Error opening input files: Connection timed out
+   reintento 1 corte: b:a', '192k', '-movflags', '+faststart', 'jobs/e29n_clips/out/clip_41b_no_tapa.mp4']' returned non-zero exit status 146.
+[tcp @ 0x5c68d8fc9980] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+[in#0 @ 0x5c68d8fc5d40] Error opening input: Connection timed out
+Error opening input file https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20240228-Video-Corte-SC1__300.mp4/playlist.m3u8.
+Error opening input files: Connection timed out
+   reintento 2 corte: b:a', '192k', '-movflags', '+faststart', 'jobs/e29n_clips/out/clip_41b_no_tapa.mp4']' returned non-zero exit status 146.
+[tcp @ 0x5c3775229980] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+[in#0 @ 0x5c3775225d40] Error opening input: Connection timed out
+Error opening input file https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20240228-Video-Corte-SC1__300.mp4/playlist.m3u8.
+Error opening input files: Connection timed out
+   reintento 3 corte: b:a', '192k', '-movflags', '+faststart', 'jobs/e29n_clips/out/clip_41b_no_tapa.mp4']' returned non-zero exit status 146.
+[tcp @ 0x63fc0cf78980] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+[in#0 @ 0x63fc0cf74d40] Error opening input: Connection timed out
+Error opening input file https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20240228-Video-Corte-SC1__300.mp4/playlist.m3u8.
+Error opening input files: Connection timed out
+  41b_no_tapa: False 20240228-video-corte-sc1 1.00 8.1-10.1
+== https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/030926-sanchez-comparecencia-ceuta.aspx: 9 vídeos, 9 subtítulos
+[tcp @ 0x5c2b4e018940] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+    Last message repeated 1 times
+[out#0/mp4 @ 0x5c2b4e017f40] Output file does not contain any stream
+Error opening output file jobs/e29n_clips/out/clip_26_aviso_rutinario.mp4.
+Error opening output files: Invalid argument
+   reintento 1 corte: 192k', '-movflags', '+faststart', 'jobs/e29n_clips/out/clip_26_aviso_rutinario.mp4']' returned non-zero exit status 234.
+[tcp @ 0x60d92d435940] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+[tcp @ 0x60d92d745c40] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+    Last message repeated 1 times
+[h264 @ 0x60d92dbfd640] mmco: unref short failure
+[out#0/image2 @ 0x5d771a380b40] Output file does not contain any stream
+Error opening output file jobs/e29n_clips/out/clip_26_aviso_rutinario.jpg.
+Error opening output files: Invalid argument
+  26_aviso_rutinario: True 20260903-total3 0.93 18.8-23.6
+== https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2025/290425-sanchez-comparecencia.aspx: 3 vídeos, 1 subtítulos
+  transcribiendo 20250429-csn_29_web…
+[tcp @ 0x608795b6b780] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+[in#0 @ 0x608795b67c80] Error opening input: Connection timed out
+Error opening input file https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20250429-CSN_29_WEB__300.mp4/playlist.m3u8.
+Error opening input files: Connection timed out
+  whisper 20250429-csn_29_web: Command '['ffmpeg', '-loglevel', 'error', '-y', '-reconnect', '1', '-reconnect_streamed', '1', '-rw_timeout', '60000000', '-i', 'https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20250429-CSN_29_WEB__300.mp4/playlist.m3u8', '-vn', '-ac', '1', '-ar', '16000', '/tmp/clips_audio.wav']' returned non-zero exit status 146.
+  transcribiendo 20250429-respuestas_pg_web…
+[tcp @ 0x6545a44397c0] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+[in#0 @ 0x6545a4424c80] Error opening input: Connection timed out
+Error opening input file https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20250429-Respuestas_PG_WEB__300.mp4/playlist.m3u8.
+Error opening input files: Connection timed out
+  whisper 20250429-respuestas_pg_web: Command '['ffmpeg', '-loglevel', 'error', '-y', '-reconnect', '1', '-reconnect_streamed', '1', '-rw_timeout', '60000000', '-i', 'https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20250429-Respuestas_PG_WEB__300.mp4/playlist.m3u8', '-vn', '-ac', '1', '-ar', '16000', '/tmp/clips_audio.wav']' returned non-zero exit status 146.
+  transcribiendo 20250529-declaracion_pg_ok…
+[tcp @ 0x56c27aa39180] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+  29_operadores_privados: True 20250529-declaracion_pg_ok 0.91 471.3-476.4
+== https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/181224-sanchez-sesion-control-congreso.aspx: 3 vídeos, 3 subtítulos
+  36b_bulo_boe: False 20241218-corte_01_congreso 0.17 0.0-3.7
+== https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/160524-sanchez-foro-fondos-europeos.aspx: 1 vídeos, 0 subtítulos
+  transcribiendo 20240516-video-fondos_europeos…
+  37c_cohete: False 20240516-video-fondos_europeos 0.14 0.5-3.9
+== https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2025/180625-sanchez-sesion-control-congreso.aspx: 3 vídeos, 3 subtítulos
+  15d_ningun_indicio: False 20250618-respuesta_vox 0.27 1.9-5.1
+  15e_corrupcion_cero: True 20250618-respuesta_pp 1.00 2.6-5.0
+== https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/281026-sanchez-visita-accidente-tren.aspx: 2 vídeos, 0 subtítulos
+  transcribiendo 20261028-intervencion_pg…
+[tcp @ 0x559e5ee157c0] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+    Last message repeated 1 times
+[out#0/wav @ 0x559e5f131d80] Output file does not contain any stream
+Error opening output file /tmp/clips_audio.wav.
+Error opening output files: Invalid argument
+  whisper 20261028-intervencion_pg: Command '['ffmpeg', '-loglevel', 'error', '-y', '-reconnect', '1', '-reconnect_streamed', '1', '-rw_timeout', '60000000', '-i', 'https://smultimedia.lamoncloa.gob.es/presidencia/smil/videos/smil:20261028-Intervencion_PG.smil/playlist.m3u8', '-vn', '-ac', '1', '-ar', '16000', '/tmp/clips_audio.wav']' returned non-zero exit status 234.
+  10_no_es_asumible: False None 0.00 0.0-0.0
+== https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/110226-sanchez-sesion-control-congreso.aspx: 2 vídeos, 2 subtítulos
+  10c_habrian_mentido: False 20260211-respuesta_abascal_sc 0.17 1.4-3.3
+== https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/240626-sanchez-comparecencia-asuntos-judiciales.aspx: 7 vídeos, 7 subtítulos
+  15f_no_financiado: True 20260624-intervencion_comparecencia 1.00 464.3-466.6
+== https://www.lamoncloa.gob.es/multimedia/videos/presidente/Paginas/2024/021124-sanchez-dana.aspx: 0 vídeos, 0 subtítulos
+  27_que_los_pida: False None 0.00 0.0-0.0
+== https://www.elindependiente.com/wp-content/uploads/2019/11/1573038200884.mp3: 1 vídeos, 0 subtítulos
+  transcribiendo rne2019…
+  22_pues_ya_esta: True rne2019 1.00 55.8-56.1

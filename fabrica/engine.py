@@ -110,6 +110,11 @@ def build_audio(job, U):
         if not u.get('url'):  # casting sin voz todavía: silencio estimado por longitud del texto
             return np.zeros((2, int(SR * max(2, len(re.sub(r'\[[^\]]*\]', '', u.get('text', ''))) / 14.5))), np.float32) + 1e-6, False
         src = fetch(u['url'], '.mp3')
+        if job.get('export_voice') and u.get('gen') and u['url'].startswith('http'):
+            try:
+                import shutil; _od = job.get('_out_dir') or os.environ.get('FABRICA_OUT')
+                if _od: os.makedirs(_od, exist_ok=True); shutil.copy(src, f"{_od}/voz_{u['gen']}.mp3")
+            except Exception as e: log(f'  aviso export voz: {e}')
         if u.get('clip'):  # v3.1: voz empaquetada en un solo archivo; cada unidad es un tramo [inicio, duración]
             a_, d_ = u['clip']; cp = f"{src}.c{a_:.3f}_{d_:.3f}.wav"
             if not os.path.exists(cp): sh(['ffmpeg', '-loglevel', 'error', '-y', '-ss', f'{a_:.3f}', '-t', f'{d_:.3f}', '-i', src, '-ar', str(SR), cp])
@@ -667,6 +672,7 @@ def make_thumbs(job, out_dir):
 def run(job_dir):
     job = json.load(open(f'{job_dir}/job.json')); U = job['units']
     out_dir = f'{job_dir}/out'; wd = '/tmp/fabrica_work'; os.makedirs(out_dir, exist_ok=True); os.makedirs(f'{wd}/shots', exist_ok=True)
+    job['_out_dir'] = out_dir
     random.seed(job.get('seed', 7)); credits = []; MUST[:] = job.get('must', [])
     SRC.SEGURO = job.get('seguro', True)  # modo seguro por defecto (docs/RECURSOS.md)
     global GRADE

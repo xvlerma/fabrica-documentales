@@ -30,7 +30,9 @@ URLS = json.load(open(os.path.join(HERE, 'urls.json')))
 for i, u in enumerate(U):
     if u.get('text'):
         g = GT.get(u['text'])
-        if g: u['gen'] = g; u['url'] = URLS.get(g)
+        if g:
+            u['gen'] = g; loc = os.path.join(HERE, 'voz', g + '.mp3')
+            u['url'] = f'jobs/crisis2008/voz/{g}.mp3' if os.path.exists(loc) else URLS.get(g)
     for sh in u.get('shots', []):
         sh.pop('ai_pending', None)
         if 'ai' in sh: sh.pop('lt', None)
@@ -42,7 +44,7 @@ for i, u in enumerate(U):
             last = p if p >= 0 else last + 0.01; keys.append(last)
         u['shots'] = [s for _, s in sorted(zip(keys, sh), key=lambda z: z[0])]
 job = {
-    'permitir_sa': True, 'lugares': LUG, 'permitidas': PERM,
+    'permitir_sa': True, 'export_voice': True, 'lugares': LUG, 'permitidas': PERM,
     'id': 'crisis2008', 'title': 'Crisis de 2008: así se arruinó España (y puede repetirse)', 'channel': 'DocuVox', 'stage': stage,
     'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 1, 'gap': 99999}, 'auto_sfx': {}, 'sfx_max': 5,
     'max_shot': 7, 'min_shot': 1.6, 'anchor_lead': 0.1,

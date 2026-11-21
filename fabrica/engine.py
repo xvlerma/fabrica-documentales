@@ -731,6 +731,8 @@ def recon(job, out_dir):
 def run(job_dir):
     job = json.load(open(f'{job_dir}/job.json')); U = job['units']; JOBU[:] = U
     if job.get('stage') == 'recon': return recon(job, out_dir=f'{job_dir}/out')
+    if job.get('stage') == 'clips':
+        import clips as CL; return CL.run(job, out_dir=f'{job_dir}/out')
     out_dir = f'{job_dir}/out'; wd = '/tmp/fabrica_work'; os.makedirs(out_dir, exist_ok=True); os.makedirs(f'{wd}/shots', exist_ok=True)
     random.seed(job.get('seed', 7)); credits = []; MUST[:] = job.get('must', [])
     SRC.SEGURO = job.get('seguro', True)  # modo seguro por defecto (docs/RECURSOS.md)

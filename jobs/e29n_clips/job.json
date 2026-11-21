@@ -1,0 +1,244 @@
+{
+ "id": "e29n_clips",
+ "stage": "clips",
+ "rev": 1,
+ "title": "clips",
+ "units": [],
+ "music": {},
+ "sources": [
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2025/090725-sanchez-comparecencia-congreso.aspx",
+   "find": [
+    {
+     "name": "16_me_equivoque",
+     "phrase": "es evidente que me equivoqué al confiar"
+    },
+    {
+     "name": "17_politico_limpio",
+     "phrase": "de ser un político limpio y con el orgullo de quien lidera un partido ejemplar",
+     "pad": [
+      1.5,
+      1.5
+     ]
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/280224-sanchez-sesion-control-congreso.aspx",
+   "find": [
+    {
+     "name": "41_desterrar",
+     "phrase": "llegamos para desterrar la corrupción"
+    },
+    {
+     "name": "41b_no_tapa",
+     "phrase": "este es un gobierno que no tapa la corrupción"
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/030926-sanchez-comparecencia-ceuta.aspx",
+   "find": [
+    {
+     "name": "26_aviso_rutinario",
+     "phrase": "ninguno iba más allá de la descripción de los datos o del aviso rutinario",
+     "pad": [
+      1.5,
+      1.5
+     ]
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2025/290425-sanchez-comparecencia.aspx",
+   "find": [
+    {
+     "name": "29_operadores_privados",
+     "phrase": "vamos a exigir todas las responsabilidades pertinentes a los operadores privados"
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/181224-sanchez-sesion-control-congreso.aspx",
+   "find": [
+    {
+     "name": "36b_bulo_boe",
+     "phrase": "acabamos como empezamos el año ustedes con el bulo y nosotros con el boletín oficial del estado"
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/160524-sanchez-foro-fondos-europeos.aspx",
+   "find": [
+    {
+     "name": "37c_cohete",
+     "phrase": "si me permiten el énfasis la economía española va como un cohete"
+    },
+    {
+     "name": "37c2_moto",
+     "phrase": "nuestra economía no es que fuera bien es que iba como una moto"
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2025/180625-sanchez-sesion-control-congreso.aspx",
+   "find": [
+    {
+     "name": "15d_ningun_indicio",
+     "phrase": "no hay ningún apunte ningún indicio que mire al partido socialista en cuanto a la financiación irregular"
+    },
+    {
+     "name": "15e_corrupcion_cero",
+     "phrase": "la corrupción cero no existe"
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/281026-sanchez-visita-accidente-tren.aspx",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "10_quebrada",
+     "phrase": "la confianza está quebrada",
+     "min": 0.5
+    },
+    {
+     "name": "10b_inasumible",
+     "phrase": "es inasumible",
+     "min": 0.5
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2022/240622-sanchez-consejo-eu.aspx",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "30b_bien_resuelto",
+     "phrase": "bien resuelto",
+     "min": 0.5
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/110226-sanchez-sesion-control-congreso.aspx",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "10c_habrian_mentido",
+     "phrase": "habrían mentido a la opinión pública",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/021124-sanchez-declaracion-dana.aspx",
+   "find": [
+    {
+     "name": "27_que_los_pida",
+     "phrase": "si necesita más recursos que los pida"
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/multimedia/galeriasfotograficas/presidente/Paginas/2024/021124-sanchez-declaracion-dana.aspx",
+   "find": [
+    {
+     "name": "27b_que_los_pida",
+     "phrase": "si necesita más recursos que los pida"
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/240626-sanchez-comparecencia-asuntos-judiciales.aspx",
+   "find": [
+    {
+     "name": "15f_no_financiado",
+     "phrase": "el partido socialista no se ha financiado irregularmente"
+    },
+    {
+     "name": "15g_caso_flagrante",
+     "phrase": "caso flagrante y grave de corrupción",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "rtve": "6999732",
+   "find": [
+    {
+     "name": "34_necesidad_virtud",
+     "phrase": "hacer de la necesidad virtud",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "rtve": "17126640",
+   "find": [
+    {
+     "name": "11_fallo_abalos",
+     "phrase": "condena a ábalos",
+     "min": 0.4
+    }
+   ]
+  },
+  {
+   "rtve": "17322393",
+   "find": []
+  },
+  {
+   "rtve": "17322618",
+   "find": [
+    {
+     "name": "02_millon_viviendas",
+     "phrase": "un millón de viviendas",
+     "min": 0.6
+    },
+    {
+     "name": "01_perdon",
+     "phrase": "pido perdón",
+     "min": 0.55
+    },
+    {
+     "name": "20b_sumarios",
+     "phrase": "hay más viviendas en los sumarios de corrupción",
+     "min": 0.55
+    }
+   ]
+  },
+  {
+   "src": "https://www.elindependiente.com/wp-content/uploads/2019/11/1573038200884.mp3",
+   "key": "rne2019",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "22_pues_ya_esta",
+     "phrase": "pues ya está",
+     "min": 0.6,
+     "pad": [
+      6,
+      1.5
+     ]
+    }
+   ]
+  }
+ ],
+ "discover": [
+  "Sánchez La Revuelta",
+  "Sánchez Pepa Bueno entrevista",
+  "Sánchez Mañaneros",
+  "debate electoral 4 noviembre 2019",
+  "moción de censura Rajoy 2018",
+  "Paiporta Reyes Sánchez",
+  "Barbate guardias civiles narcolancha",
+  "Chaves Griñán Congreso Federal",
+  "Begoña Gómez mitin Sevilla",
+  "cara a cara Sánchez Feijóo",
+  "Óscar Puente Adamuz",
+  "Yolanda Díaz cohete",
+  "Maricarmen desahucio",
+  "Montero huelga oposición",
+  "Sánchez Puigdemont amnistía Comité Federal"
+ ]
+}

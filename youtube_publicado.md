@@ -5,7 +5,7 @@
   - B: «La burbuja que arruinó a España (y vuelve a crecer)» + miniatura grúa
   - Créditos completos en el comentario fijado
 - Spotify: publicado en «DocuVox | Documentales sonoros en español»
-- iVoox: PENDIENTE (la sesión de iVoox estaba cerrada en Chrome y en el navegador integrado)
+- iVoox: publicado (episodio 7, id 184163767, «Actualidad y Sociedad / Política, economía y opinión», Uso de IA «Sí»). La descripción va sin la lista de créditos: con los 111 enlaces el filtro de iVoox la bloqueaba.
 - Shorts (públicos, con el documental como «Vídeo relacionado»):
   1. https://youtube.com/shorts/yA5h-TRk5II · Un aeropuerto de 150 millones sin aviones
   2. https://youtube.com/shorts/nGPVR4hh6b4 · Seseña: 13.500 pisos en un campo de cereal

@@ -1,0 +1,11 @@
+plano 56 t=266.4s: rótulo "Sardes" sin mención en ±2 s
+plano 135 t=738.5s: rótulo "Inscripción de Behistún" sin mención en ±2 s
+plano 146 t=800.5s: dura 7.2 s; añade un plano o una tarjeta
+plano 159 t=886.4s: rótulo "Monte Behistún" sin mención en ±2 s
+plano 197 t=1121.3s: rótulo "Qanat" sin mención en ±2 s
+plano 229 t=1316.3s: rótulo "Faravahar" sin mención en ±2 s
+plano 257 t=1494.6s: rótulo "El túmulo de Maratón" sin mención en ±2 s
+plano 327 t=1940.2s: rótulo "La Acrópolis" sin mención en ±2 s
+plano 383 t=2314.9s: rótulo "Escalera de la Apadana" sin mención en ±2 s
+plano 437 t=2638.0s: rótulo "Alejandro Magno" sin mención en ±2 s
+plano 514 t=3091.5s: rótulo "Jardín persa" sin mención en ±2 s

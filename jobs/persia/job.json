@@ -657,7 +657,7 @@
  "qpicks": {},
  "split_still": 6.5,
  "picks": {},
- "rev": 1,
+ "rev": 2,
  "units": [
   {
    "k": "B",
@@ -665,7 +665,7 @@
   },
   {
    "k": "N",
-   "text": "[serious] Termópilas, año cuatrocientos ochenta antes de Cristo. Trescientos espartanos frente a un ejército sin fin. Así lo cuenta la película 300: los persas son monstruos, esclavos con máscaras de metal, y su rey es un gigante cubierto de oro y cadenas. [short pause] Esta es la historia de esos monstruos. Contada, por una vez, desde el otro lado.",
+   "text": "[serious] Termópilas, año cuatrocientos ochenta antes de Cristo. Trescientos espartanos frente a un ejército sin fin. Así lo cuenta la película Trescientos: los persas son monstruos, esclavos con máscaras de metal, y su rey es un gigante cubierto de oro y cadenas. [short pause] Esta es la historia de esos monstruos. Contada, por una vez, desde el otro lado.",
    "voice": "NAR",
    "shots": [
     {
@@ -690,7 +690,7 @@
     {
      "photo": "Persepolis Apadana relief soldiers",
      "src": "commons,met,cleveland,europeana",
-     "at": "la película 300",
+     "at": "la película Trescientos",
      "kw": "300",
      "kw_at": 0.4,
      "kw_dur": 2.2
@@ -700,7 +700,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Esta es la historia"
     }
-   ]
+   ],
+   "gen": "WiKk1dWgehx4xlwRw4sU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GxrCSPrABlDieO1DC1hH/WiKk1dWgehx4xlwRw4sU/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=opumvUgjDIFlkFgVov5Kd0efJ6Q="
   },
   {
    "k": "N",
@@ -731,7 +733,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "acababan de dar a luz"
     }
-   ]
+   ],
+   "gen": "kbDPqn1LZwRUTOx4NI8E",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/947WW9cSWVog9ynSVU8V/kbDPqn1LZwRUTOx4NI8E/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=FistkJ4FvE-KY3-trDc2Nn4soCw="
   },
   {
    "k": "N",
@@ -756,7 +760,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "lo escribieron sus enemigos"
     }
-   ]
+   ],
+   "gen": "qNFSb7e0X8FYS4spTQFi",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bk3E7fuRcdaPPmofdqkp/qNFSb7e0X8FYS4spTQFi/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=LhZGi63JEzfJ3KR-O4IErhrkD5U="
   },
   {
    "k": "N",
@@ -778,11 +784,13 @@
      "src": "commons,met,cleveland,europeana",
      "at": "quemar su capital"
     }
-   ]
+   ],
+   "gen": "tDxXWIESYaKEOAyfiEQz",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Ix8D3TPpBsBG2fVgHGaE/tDxXWIESYaKEOAyfiEQz/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=WnO0Nyk-CyUeLuAWo9N8tfsrsxI="
   },
   {
    "k": "N",
-   "text": "[serious] Esta es la otra versión. La de las tablillas, los cilindros y las piedras que los persas dejaron escritas. [short pause] La historia que 300 no te contó.",
+   "text": "[serious] Esta es la otra versión. La de las tablillas, los cilindros y las piedras que los persas dejaron escritas. [short pause] La historia que Trescientos no te contó.",
    "voice": "NAR",
    "shots": [
     {
@@ -795,20 +803,24 @@
      "src": "commons,met,cleveland,europeana",
      "at": "las piedras"
     }
-   ]
+   ],
+   "gen": "p9moCAmsGAJVTfStGoYs",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/iuGoro2gH50HPGFo80fv/p9moCAmsGAJVTfStGoYs/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=gbB4t9O_vD-1ncKAfkeYvNIq2VQ="
   },
   {
    "k": "T",
    "secs": 5.5,
    "sting": "tema",
    "chapter": false,
-   "text": "[dramatically] El Imperio Persa. La historia que trescientos no te contó.",
+   "text": "[dramatically] El Imperio Persa. La historia que Trescientos no te contó.",
    "voice": "NAR",
    "card": {
     "type": "title",
     "title": "El Imperio Persa",
     "sub": "La historia que 300 no te contó"
-   }
+   },
+   "gen": "l6nRvV9Ras6yHdh15PcM",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jj5Mg1NiijiD3k7GcY3B/l6nRvV9Ras6yHdh15PcM/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=UYrkpTHoJDPG7zWIXndPjxn01XQ="
   },
   {
    "k": "T",
@@ -850,7 +862,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "esa noche cae"
     }
-   ]
+   ],
+   "gen": "Wt6hd9WcwMZPQ9NkhwUl",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RtbZxepCMrmRvWUcoiYi/Wt6hd9WcwMZPQ9NkhwUl/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=qWb6vfaYgb-wQtU8Zg2B3x7GuKo="
   },
   {
    "k": "R",
@@ -871,7 +885,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "estaban de fiesta"
     }
-   ]
+   ],
+   "gen": "R6AIsj5TEsiXsJueB4CM",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Ldl8LQsTki7LR9bzfMJa/R6AIsj5TEsiXsJueB4CM/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=l5KkjJLs1J0jlfk24_CuY5clRY8="
   },
   {
    "k": "N",
@@ -893,7 +909,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "grabada en una tablilla"
     }
-   ]
+   ],
+   "gen": "8UqGLeMmTe6Q8eXCPPEe",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GLoCksec39hOuVAbiCrq/8UqGLeMmTe6Q8eXCPPEe/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=UhZPyCkWmw_IPJdyjjZn026191c="
   },
   {
    "k": "R",
@@ -919,7 +937,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Ramas verdes"
     }
-   ]
+   ],
+   "gen": "bNZLwVOSZj4Xt1w5y0xp",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hR92aZR1UKqfp2GGEIi0/bNZLwVOSZj4Xt1w5y0xp/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=qub-b3Y5Z5hIVVTIH1slQvSYtto="
   },
   {
    "k": "N",
@@ -949,7 +969,9 @@
      },
      "at": "Sin combatir"
     }
-   ]
+   ],
+   "gen": "P0kUak7SWLWtt9Av6ISX",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Y21ZyeBVBOBlMgHhp8nM/P0kUak7SWLWtt9Av6ISX/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=OAfyB1rvz86cxZpxCiZnCzshV8E="
   },
   {
    "k": "N",
@@ -1007,7 +1029,9 @@
       "persia"
      ]
     }
-   ]
+   ],
+   "gen": "HRQlJtzSsmRIIGBhteYm",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/a4xt7OcX4bqFCqwPErOx/HRQlJtzSsmRIIGBhteYm/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=0Id-Di2BLvHWYv79WhzgFuFNQWo="
   },
   {
    "k": "R",
@@ -1024,7 +1048,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "un pastor lo crió"
     }
-   ]
+   ],
+   "gen": "0gL9OVbXOgEszzzaT8yY",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0boZ4mihA3Ae7fJSh3ho/0gL9OVbXOgEszzzaT8yY/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=rGs7hK8ezYdx2uYtp_-M8FiIlXc="
   },
   {
    "k": "N",
@@ -1041,7 +1067,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "el ejército de los medos"
     }
-   ]
+   ],
+   "gen": "pcR0TombUmAyGtUksQKO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Gfd695GLKwgdIM4AyxRH/pcR0TombUmAyGtUksQKO/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=TNsCqvzF_1U5-ZoA9hNymdsMfX0="
   },
   {
    "k": "N",
@@ -1058,7 +1086,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "les dio cargos"
     }
-   ]
+   ],
+   "gen": "WjydOwVz0S6Rlj85n5Rq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zPHfISpxxdNUo6HBv2WL/WjydOwVz0S6Rlj85n5Rq/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=TttUbM5zPHm93n_Z-5aFLlZGcbs="
   },
   {
    "k": "N",
@@ -1084,7 +1114,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "oráculo de Delfos"
     }
-   ]
+   ],
+   "gen": "U6GFN94pelGdgogChi3f",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0nTEZwD5ZjsF956g5tCW/U6GFN94pelGdgogChi3f/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=Wc3vObEt6-mT9g7NjBtd7av55so="
   },
   {
    "k": "R",
@@ -1100,7 +1132,9 @@
      },
      "at": "Si Creso"
     }
-   ]
+   ],
+   "gen": "tE9kzWjeFoVhq4DUJkO1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ErfPV00QTGfgYYUF44CM/tE9kzWjeFoVhq4DUJkO1/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=J6-9rU5ZJa9SnGyrezpYpocAOYI="
   },
   {
    "k": "N",
@@ -1117,7 +1151,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "en pleno invierno"
     }
-   ]
+   ],
+   "gen": "cqef9TKEIbfM7SekBLMl",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XtbLwSowoPMUYuHGJiET/cqef9TKEIbfM7SekBLMl/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=e60zxjqxvtJUgRXnKmmVk0iIE34="
   },
   {
    "k": "N",
@@ -1138,7 +1174,9 @@
       "Ánfora ática · hacia 500 a. C. · Louvre"
      ]
     }
-   ]
+   ],
+   "gen": "0VImXPuLsmxi0nkPBWcG",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PW9pmgTMZNl3KujOzt4A/0VImXPuLsmxi0nkPBWcG/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=7ER4tn7qs82kFG4QxyDIgyp-ipc="
   },
   {
    "k": "R",
@@ -1159,7 +1197,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "mandó apagar el fuego"
     }
-   ]
+   ],
+   "gen": "BWreJAauJ1Hy0Yh3xGjt",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MZ0KavfVYKiu2uCqQLZN/BWreJAauJ1Hy0Yh3xGjt/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=D6J_0wdSIHpYVihQhygdQtsfKqo="
   },
   {
    "k": "N",
@@ -1171,7 +1211,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "consejero del rey persa"
     }
-   ]
+   ],
+   "gen": "oucjiV2rOv1Lpe4M135f",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1gJ027g3dBhyLYgmugIl/oucjiV2rOv1Lpe4M135f/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=4V_DL2Vu3m8m5zknpyVxCTyKTcM="
   },
   {
    "k": "N",
@@ -1198,7 +1240,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "como a un libertador"
     }
-   ]
+   ],
+   "gen": "91wRwuwAo9F7BawjBrKs",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3B6xEdiDcdl9CTlLWFMC/91wRwuwAo9F7BawjBrKs/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=jypsEeLB7nios97JDWr-ubBf7Mc="
   },
   {
    "k": "R",
@@ -1223,7 +1267,9 @@
      },
      "at": "Reuní a todos"
     }
-   ]
+   ],
+   "gen": "8t7SViGrFMipnmChMM6i",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/sOeFCfnUBRNGfsY8W5OR/8t7SViGrFMipnmChMM6i/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=itEsCJHz0AmdIg3CNE43uoGhHOQ="
   },
   {
    "k": "N",
@@ -1240,7 +1286,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "la sede de la ONU"
     }
-   ]
+   ],
+   "gen": "8yn2cgAAbuoKjMuiZ66S",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/A0kAueU3d7YUNFpVkcdL/8yn2cgAAbuoKjMuiZ66S/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=VQ0gq93gz1Xt6sh36-VAdpCLvNE="
   },
   {
    "k": "N",
@@ -1269,7 +1317,9 @@
      },
      "at": "Los historiadores"
     }
-   ]
+   ],
+   "gen": "VipVJ9dgzJUELRVeTuhD",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XKRWxfg6vJs2bRoFaXlr/VipVJ9dgzJUELRVeTuhD/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=8fI84LZKK40f6vxMJLj6uqzLoNw="
   },
   {
    "k": "N",
@@ -1286,7 +1336,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "la Biblia"
     }
-   ]
+   ],
+   "gen": "wWPADIi8vZm5KzWnHdyJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ONAm6UNPp82lbNDv8HGG/wWPADIi8vZm5KzWnHdyJ/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=DxAeQU7nx49pKRXbSu_-OrWPzGg="
   },
   {
    "k": "R",
@@ -1302,7 +1354,9 @@
      },
      "at": "Así dice Jehová"
     }
-   ]
+   ],
+   "gen": "Sc6L4TZKw6hvJvuMHVgW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/o8iYr7zAcBN36RnCUu3F/Sc6L4TZKw6hvJvuMHVgW/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=ZSI4DmVWKFIGwiLPxiMSAw-jXCg="
   },
   {
    "k": "N",
@@ -1408,7 +1462,9 @@
      },
      "at": "seguía conquistando"
     }
-   ]
+   ],
+   "gen": "yUlhbLkreihpcvVJ8mdB",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GcGZFapLmjpbCWkCEvyM/yUlhbLkreihpcvVJ8mdB/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=4wuR8e-kUJPgeDaXYc_vVMtQkOg="
   },
   {
    "k": "R",
@@ -1429,7 +1485,9 @@
      },
      "at": "te juro por el sol"
     }
-   ]
+   ],
+   "gen": "J4So5IlHkGExkIbeOi9x",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fAbQDIIrefxlhbBbZh0K/J4So5IlHkGExkIbeOi9x/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=CMiKMa-rlgF1WNfk0A5WH2cJ6Ac="
   },
   {
    "k": "R",
@@ -1446,7 +1504,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "había muerto"
     }
-   ]
+   ],
+   "gen": "sVieWt10jLA8sxsdr4LG",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/akuzx9zOIGEOkGHkuCRS/sVieWt10jLA8sxsdr4LG/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=aO_M0hIGrAdzTbNdQaTv0hitkm8="
   },
   {
    "k": "N",
@@ -1472,7 +1532,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "la ciudad que fundó"
     }
-   ]
+   ],
+   "gen": "qF5PseHGY2eZ4g5YWNUy",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GPP6PTFucgrn3k7UCREw/qF5PseHGY2eZ4g5YWNUy/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=7LNCXqxae8L6LcE7eEPQjrNl0qs="
   },
   {
    "k": "N",
@@ -1489,7 +1551,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "dos hijos"
     }
-   ]
+   ],
+   "gen": "lCPN63SPe3aQqd7rRy3H",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/U47L69TZyJh3NOc6V73w/lCPN63SPe3aQqd7rRy3H/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=ad1W_CmPW4bJytSRSctMxs3flDs="
   },
   {
    "k": "T",
@@ -1553,7 +1617,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Y gana"
     }
-   ]
+   ],
+   "gen": "8k02Fw8Xm2If6TTsz2f2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6kj8uGgXyVG7nEOkurQ1/8k02Fw8Xm2If6TTsz2f2/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=GmtdynlxSvtc6tYAKDbG9iJJuuQ="
   },
   {
    "k": "N",
@@ -1570,7 +1636,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "que los adoraban"
     }
-   ]
+   ],
+   "gen": "BpOWtyW6YiLcMu94wiI6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jlf8h8g0K5K79vbJJEvg/BpOWtyW6YiLcMu94wiI6/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=EywZHdLnBPLSKiaksxKhFs9qHLE="
   },
   {
    "k": "N",
@@ -1582,7 +1650,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "toro sagrado Apis"
     }
-   ]
+   ],
+   "gen": "rFFMu5EABEPQYrpvVioB",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/h5uaLv3JJ5FTnnFwnqzG/rFFMu5EABEPQYrpvVioB/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=VEUwebVCB0NY8tTZIweN_VLJSTM="
   },
   {
    "k": "R",
@@ -1624,7 +1694,9 @@
      },
      "at": "arrodillado"
     }
-   ]
+   ],
+   "gen": "1uFRmFZvkGlWJCoHv4Z3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dJ7ApQVBCaMTIr7rmD4g/1uFRmFZvkGlWJCoHv4Z3/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=hHukeaHOXwwSKN-y3ohIJsMK7Q4="
   },
   {
    "k": "N",
@@ -1641,7 +1713,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "una tormenta de arena"
     }
-   ]
+   ],
+   "gen": "QZ1RDZTCFC8ObDwhuXcT",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VaXiO8kFbOJbQXlMsNGX/QZ1RDZTCFC8ObDwhuXcT/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=RhYdwzyPoJ48H_1CxB5dQ0L1pCU="
   },
   {
    "k": "N",
@@ -1653,7 +1727,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "una noticia imposible"
     }
-   ]
+   ],
+   "gen": "gz3qEgGINCzu9mulwhlt",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ox5sveokRVjaT5zsQ81B/gz3qEgGINCzu9mulwhlt/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=gtzBziAQr7MahhaEZ85hCMfIAZQ="
   },
   {
    "k": "N",
@@ -1670,7 +1746,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "se hirió en el muslo"
     }
-   ]
+   ],
+   "gen": "NxovwxWxMuo0NLEyp5Nu",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gsuTfih4MWkoH1p5c1MD/NxovwxWxMuo0NLEyp5Nu/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=5F9WpRRgOMdqpobmtXZckvaJ0Ko="
   },
   {
    "k": "N",
@@ -1682,7 +1760,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "un rey que se llamaba Bardiya"
     }
-   ]
+   ],
+   "gen": "fb0o2qYSI0xqxmmViZEM",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dMW50lizu9MWZxnVmpbM/fb0o2qYSI0xqxmmViZEM/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=2aASfyvzFgHPq_Y0Qx4Q4XqZ6KA="
   },
   {
    "k": "R",
@@ -1703,7 +1783,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "un mago llamado Gaumata"
     }
-   ]
+   ],
+   "gen": "RSBis3pu9XPQIzrcllzP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/22zA5t5mgViE8SfWGFeH/RSBis3pu9XPQIzrcllzP/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=zfkqIZFbChhcdifOVLtf_Lk9SoQ="
   },
   {
    "k": "N",
@@ -1725,7 +1807,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "otros seis conspiradores"
     }
-   ]
+   ],
+   "gen": "9xAzCVIkheIzIm66FnVI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fBG64bCRBbZIDiRkOWKr/9xAzCVIkheIzIm66FnVI/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=a8Z0oH3DZwqSttpU49GYJ5raNF4="
   },
   {
    "k": "R",
@@ -1737,7 +1821,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "al salir el sol"
     }
-   ]
+   ],
+   "gen": "dzvYXUK25LdVowvlYq9Y",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jApVkGB93sCJSOghdZTw/dzvYXUK25LdVowvlYq9Y/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=fRbh24RqZU8SZ894tbFhBciKnlw="
   },
   {
    "k": "R",
@@ -1749,7 +1835,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "maté a ese Gaumata"
     }
-   ]
+   ],
+   "gen": "DTde1Uw3F3a2iDQekOwQ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rYVCUOn7dhSGtKHL3AeP/DTde1Uw3F3a2iDQekOwQ/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=2x_vwYc9-PqyRFmYr1IxPuLLZy0="
   },
   {
    "k": "N",
@@ -1778,7 +1866,9 @@
      },
      "at": "la mayoría de los historiadores"
     }
-   ]
+   ],
+   "gen": "7Zx7w5PCYLL9xAmIDABS",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/H1w9yYhxRT7K2kmTjlgl/7Zx7w5PCYLL9xAmIDABS/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=wPsDPphjc5caeyDfYsyzvccV3u0="
   },
   {
    "k": "R",
@@ -1835,7 +1925,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "apagando incendios"
     }
-   ]
+   ],
+   "gen": "khocoCZgyk92P5Mr2KMn",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MXsMfaOs9klIeDDIyTcB/khocoCZgyk92P5Mr2KMn/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=-zv5OIUMeP9E_oKCOy2tUUAEsak="
   },
   {
    "k": "R",
@@ -1855,7 +1947,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "capturé a nueve reyes"
     }
-   ]
+   ],
+   "gen": "5fFgxcMkDRQw7ve9ujbJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HsFoBEx6zGfYjCPDAXXb/5fFgxcMkDRQw7ve9ujbJ/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=B1PMX6uh4-1WNHBEa4l4Gkhbg2c="
   },
   {
    "k": "N",
@@ -1876,7 +1970,9 @@
       "Kermanshah, Irán"
      ]
     }
-   ]
+   ],
+   "gen": "JljbBVfHNJeONsgsmTTY",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/skSLsgqmuoAHOH1OZJHI/JljbBVfHNJeONsgsmTTY/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=HVD2Gl5S1JUY5feMPKYk08JgyAI="
   },
   {
    "k": "T",
@@ -1919,7 +2015,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "se cuelga de una cuerda"
     }
-   ]
+   ],
+   "gen": "8xDlFW61UkQOW9ypMqfC",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/B3RBTAMpcoQXMTWXacWm/8xDlFW61UkQOW9ypMqfC/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=nsi5pgGPZsrVoSgk0M5sXXo_pSQ="
   },
   {
    "k": "N",
@@ -1936,7 +2034,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "la piedra de Rosetta"
     }
-   ]
+   ],
+   "gen": "Ui9R8SWnvhTrZtApufxi",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PEfcl5h0J5Cruspn5LiY/Ui9R8SWnvhTrZtApufxi/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=WTk-LFHoWAoom4IAIiaikykpEgQ="
   },
   {
    "k": "R",
@@ -1952,7 +2052,9 @@
      },
      "at": "guárdate mucho de la mentira"
     }
-   ]
+   ],
+   "gen": "089ZrzljfBIbHNmPQF3R",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mry32vxzHZ5DiWcuHGql/089ZrzljfBIbHNmPQF3R/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=sMvz-XqixUVeeoOHU5fWpBGvODw="
   },
   {
    "k": "R",
@@ -2036,7 +2138,9 @@
      },
      "at": "este es el reino que tengo"
     }
-   ]
+   ],
+   "gen": "gSSXcR3t9YHjybQprKsk",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aJBgJ7cI0AX5rWybiGun/gSSXcR3t9YHjybQprKsk/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=g-6EqlAywll3QXv54aUzMv-mBXg="
   },
   {
    "k": "N",
@@ -2061,7 +2165,9 @@
      },
      "at": "las satrapías"
     }
-   ]
+   ],
+   "gen": "ksMFnjtMZsj5z3i7Iq9s",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9hJvoxlBqgyWKWaQEhlO/ksMFnjtMZsj5z3i7Iq9s/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=dR9O1vr-MFr79PXc2IexHqizJQI="
   },
   {
    "k": "R",
@@ -2082,7 +2188,9 @@
      },
      "at": "oro en polvo"
     }
-   ]
+   ],
+   "gen": "o0uugme4yeUiBtK7hKa6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9FQrj6ITJ8EOXgooZJ3x/o0uugme4yeUiBtK7hKa6/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=QSuMgQDd-HtS3UWDt3srdLn79N4="
   },
   {
    "k": "N",
@@ -2094,7 +2202,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "los ojos y los oídos del rey"
     }
-   ]
+   ],
+   "gen": "xj5qr2nBQYrBgSXYuNfa",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8Hfk7sS49vJaIFhMSgul/xj5qr2nBQYrBgSXYuNfa/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=wcWbRuhTJbILhRXxo1D7IyDjGO8="
   },
   {
    "k": "N",
@@ -2115,7 +2225,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "compraría más ciudades"
     }
-   ]
+   ],
+   "gen": "90vyGBaampH73xKEY3Lr",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oiHaRJCgZVUtFABTELkJ/90vyGBaampH73xKEY3Lr/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=aJnPxInQjgayLL3RszZ5QYPoEJw="
   },
   {
    "k": "B",
@@ -2229,7 +2341,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "una posta cada jornada"
     }
-   ]
+   ],
+   "gen": "bwxniJBbHiLAoA2Je4xP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OQSgAm4Ym4mMn1B8xiZv/bwxniJBbHiLAoA2Je4xP/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=LJtEhf3G0h-ucG6En42CCqU0Obk="
   },
   {
    "k": "R",
@@ -2250,7 +2364,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Ni la nieve"
     }
-   ]
+   ],
+   "gen": "SlQ0Rwm27NX6pXJkFX7e",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tRj7ZGIXRoVDDN3WFi6h/SlQ0Rwm27NX6pXJkFX7e/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=_RY3zyo3zXrG5phW-CBPMpQQyXU="
   },
   {
    "k": "N",
@@ -2274,7 +2390,9 @@
       "Nueva York · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "pHf9iSuRJVmyGFckaErP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MCt0moGg6foZOkjfUacl/pHf9iSuRJVmyGFckaErP/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=0kxS6esA7Y0Dm2tRYR2ykWkTamg="
   },
   {
    "k": "R",
@@ -2317,7 +2435,9 @@
      },
      "at": "hasta el mar"
     }
-   ]
+   ],
+   "gen": "4vG6gArH1yi9EX4jJ3Ba",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PsiKSU7SSSZaS6xR7bNM/4vG6gArH1yi9EX4jJ3Ba/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=9DNpsK51SzHMncSInDh7i7mm1PM="
   },
   {
    "k": "N",
@@ -2338,7 +2458,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "túneles subterráneos"
     }
-   ]
+   ],
+   "gen": "2OzWyEzA2HLWLsMEJa53",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/faLQ4rHysikZBEdhasfe/2OzWyEzA2HLWLsMEJa53/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=ZQy6KzWiwkvw6fPK7g_pktTTeWU="
   },
   {
    "k": "B",
@@ -2369,7 +2491,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "escaleras de peldaños"
     }
-   ]
+   ],
+   "gen": "vKqrhsjmjPste9GoLSoO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/CSenx4yZub95RDLTHKNZ/vKqrhsjmjPste9GoLSoO/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=oAv0KNRcI8xB_W4RxqH8P_g-joc="
   },
   {
    "k": "R",
@@ -2395,7 +2519,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Los canteros"
     }
-   ]
+   ],
+   "gen": "oRCKahRIErwsveBF7Vw7",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0dgIcPV1UObXHvr5SN7B/oRCKahRIErwsveBF7Vw7/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=Qiu7zjbnOQvVfLVcsGqrezi0tY4="
   },
   {
    "k": "N",
@@ -2417,7 +2543,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "decenas de miles de tablillas"
     }
-   ]
+   ],
+   "gen": "XUzejiOlIW97cp4lcPiK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1fWjL9YrSj3WDAjrGpiH/XUzejiOlIW97cp4lcPiK/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=Q49RoJR3LlYd3ilahnlp3mj7AQY="
   },
   {
    "k": "R",
@@ -2443,7 +2571,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "firma con su sello"
     }
-   ]
+   ],
+   "gen": "uEgzEWklHc2BYBzBtZds",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ruElDh8Eti7UlRClwlrE/uEgzEWklHc2BYBzBtZds/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=r5IrOqdjwTDZi0KpljwIWXG9qR4="
   },
   {
    "k": "R",
@@ -2477,7 +2607,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "mujeres al frente"
     }
-   ]
+   ],
+   "gen": "2EQN9SqoEwqsrm2R8s6P",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bAr4Gn9sIHoUHaDQj809/2EQN9SqoEwqsrm2R8s6P/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=V2n8-OBfES4DwJ247TgfyqFXRN8="
   },
   {
    "k": "R",
@@ -2494,7 +2626,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "si el bebé es un niño"
     }
-   ]
+   ],
+   "gen": "KoEJBt6Kd0YZGRxnFmbC",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/EfOpWH8CZRZeykipQjwV/KoEJBt6Kd0YZGRxnFmbC/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=Fn_6JPIBWjuVdrhy2ZBE8L34Bww="
   },
   {
    "k": "R",
@@ -2511,7 +2645,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "su propio sello"
     }
-   ]
+   ],
+   "gen": "1NNY9sjJCBVL6CPv0hfF",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9uxoupWvbiZW6ID5S6r7/1NNY9sjJCBVL6CPv0hfF/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=It8FCt0K4R5ofcWyUoFEfetEZj4="
   },
   {
    "k": "R",
@@ -2536,7 +2672,9 @@
      },
      "at": "no es mi deseo"
     }
-   ]
+   ],
+   "gen": "ezkNkSNNidjru88GrYcn",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6k5cIKsJwfniVhagXbvQ/ezkNkSNNidjru88GrYcn/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=3ZfXkl0mNaBZkU6EkqIzBhnkAIA="
   },
   {
    "k": "N",
@@ -2552,7 +2690,9 @@
       "Símbolo alado · Persépolis"
      ]
     }
-   ]
+   ],
+   "gen": "ozaHb8MqBY8IUtoOlEki",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SXHCEyBZGBsRBN63T4jj/ozaHb8MqBY8IUtoOlEki/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=vt6Y3AimrugmyfsfuqqMAOgVGJ4="
   },
   {
    "k": "R",
@@ -2573,7 +2713,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "tirar con arco"
     }
-   ]
+   ],
+   "gen": "locRmuLuJdABZNmzKt3W",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/LHk2safJhXEolT9mNppv/locRmuLuJdABZNmzKt3W/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=A8xQFWuq22WqnwCi72dhArXzMbU="
   },
   {
    "k": "R",
@@ -2594,7 +2736,9 @@
      },
      "at": "la reina de todas las cosas"
     }
-   ]
+   ],
+   "gen": "Nzg2PEuKo4F1zsBEphLp",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VoyNhBYzGrwqRT5AHvcn/Nzg2PEuKo4F1zsBEphLp/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=aYoLE2VSSJNWT3qM2nWv8Z24dck="
   },
   {
    "k": "N",
@@ -2637,7 +2781,9 @@
      },
      "at": "se rebelaron"
     }
-   ]
+   ],
+   "gen": "5nt16OOFbCTh5cn0HQOO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2FJ7FRbLPgEELuN7LX0K/5nt16OOFbCTh5cn0HQOO/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=weR73RYkFU6OaXdxP0hVmNbOGWw="
   },
   {
    "k": "N",
@@ -2649,7 +2795,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "la incendiaron"
     }
-   ]
+   ],
+   "gen": "Ripa3jvoEAT1xzPNS5UD",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oY28GEqneKSnFo9LsAEz/Ripa3jvoEAT1xzPNS5UD/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=I8Ay2uDgrTbjJ1xkpugnzZz02R8="
   },
   {
    "k": "R",
@@ -2670,7 +2818,9 @@
      },
      "at": "acuérdate de los atenienses"
     }
-   ]
+   ],
+   "gen": "QmNkSMMZ2TMLIvPMgT1F",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zucOq1w6NlfEP9tLEFXu/QmNkSMMZ2TMLIvPMgT1F/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=1GLurUI2WnkOutz0swPjGAwpWNY="
   },
   {
    "k": "N",
@@ -2691,7 +2841,9 @@
       "Ática, Grecia · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "gUZMr05YaNQx2Bt0sklt",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oA4GypsauiyHZIGJpBod/gUZMr05YaNQx2Bt0sklt/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=QAC64un-iaOH59T-7SAF5WA7LPQ="
   },
   {
    "k": "T",
@@ -2724,7 +2876,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "los arqueros persas"
     }
-   ]
+   ],
+   "gen": "PVOiJuO5VFTaY8XB7HoI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tvPL27T1kCzvVes5XHUq/PVOiJuO5VFTaY8XB7HoI/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=OGCh4UIt6umZl2hucx-n8HXvjV0="
   },
   {
    "k": "N",
@@ -2767,7 +2921,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "una huida hacia los barcos"
     }
-   ]
+   ],
+   "gen": "3qDMrduEnDt5vuER8LcZ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aSt2FxJEfRQWdjTbTo6T/3qDMrduEnDt5vuER8LcZ/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=9ZHYsca0se6zdd_FgXD-QQ3prQk="
   },
   {
    "k": "R",
@@ -2814,7 +2970,9 @@
       "Tumba de los 192 atenienses · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "THi2j9b7ZJjxdiNbRaOh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uO0YcGIlFhk8uq8JQgyA/THi2j9b7ZJjxdiNbRaOh/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=YnjTmWEw2CqY0j0mnkMl17tJmWE="
   },
   {
    "k": "N",
@@ -2826,7 +2984,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "El soldado que corrió"
     }
-   ]
+   ],
+   "gen": "Y8ZZ4J0pXTU8b3f2dfXb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ITBsOZDf6ZdAtwB7ll6S/Y8ZZ4J0pXTU8b3f2dfXb/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=MDDx8nlAlGnXYcA4DCp8MeVgfYA="
   },
   {
    "k": "N",
@@ -2855,7 +3015,9 @@
      },
      "at": "una expedición de castigo"
     }
-   ]
+   ],
+   "gen": "Ke8sVQMq3F5IREYX3WbR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yNaFoNDVk2Plb7j6Fjkb/Ke8sVQMq3F5IREYX3WbR/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=1d3sO1MU_V4l5TV2qhaXXoRsWSs="
   },
   {
    "k": "N",
@@ -2872,7 +3034,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Para su hijo"
     }
-   ]
+   ],
+   "gen": "hg2X40hpKKEErXcQeWtI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SEdTA1UHDOblaGeBhlL6/hg2X40hpKKEErXcQeWtI/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=l1o7to34Awc1pgIxWfBlcJCLmz8="
   },
   {
    "k": "T",
@@ -2892,7 +3056,7 @@
   },
   {
    "k": "N",
-   "text": "Jerjes tenía treinta y dos años cuando subió al trono. No era el primogénito de Darío. Pero era el nieto de Ciro el Grande por parte de madre, la reina Atosa, y eso pesaba más. [short pause] En 300 es un gigante de casi tres metros, calvo, cubierto de piercings y cadenas de oro, que se cree un dios.",
+   "text": "Jerjes tenía treinta y dos años cuando subió al trono. No era el primogénito de Darío. Pero era el nieto de Ciro el Grande por parte de madre, la reina Atosa, y eso pesaba más. [short pause] En Trescientos es un gigante de casi tres metros, calvo, cubierto de piercings y cadenas de oro, que se cree un dios.",
    "voice": "NEW",
    "shots": [
     {
@@ -2908,12 +3072,14 @@
     {
      "photo": "Persepolis treasury relief king audience",
      "src": "commons,met,cleveland,europeana",
-     "at": "En 300",
+     "at": "En Trescientos",
      "kw": "300",
      "kw_at": 0.4,
      "kw_dur": 2.2
     }
-   ]
+   ],
+   "gen": "M9jC55ZOYORGSB4jHSqy",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cgG2xIiHxxI6BkSigxkp/M9jC55ZOYORGSB4jHSqy/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=Hrc7s5OMmneXLYqXxMbKnxCaEKw="
   },
   {
    "k": "N",
@@ -2947,7 +3113,9 @@
      },
      "at": "nunca dijeron ser dioses"
     }
-   ]
+   ],
+   "gen": "mWhYfvFWAEQ3NU0ZuiXN",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9YEWpVpRWDUGZAiwBX9l/mWhYfvFWAEQ3NU0ZuiXN/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=PDyOp8cXmRguUI9WQ5N1I9GlF0Q="
   },
   {
    "k": "R",
@@ -2968,7 +3136,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "que es bello"
     }
-   ]
+   ],
+   "gen": "T46c3E1xQjJl8BaIYyXm",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xABZjdJTvPaZSRiNt6Ex/T46c3E1xQjJl8BaIYyXm/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=26v04cVQ1UfbICdN80VXuH0heSg="
   },
   {
    "k": "N",
@@ -2994,7 +3164,9 @@
       "Los Dardanelos, Turquía · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "5Na1MaMJIYdZAY4rGZFZ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pIpGn5HUG7VqhtBYwQPM/5Na1MaMJIYdZAY4rGZFZ/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=GOVmF1_sdUrpf9QWrIVF22nf6rA="
   },
   {
    "k": "R",
@@ -3011,7 +3183,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "trescientos azotes"
     }
-   ]
+   ],
+   "gen": "b3lywYrV2vGJ3snqfxTu",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6OJBNEbzZiJH6VAnvWEA/b3lywYrV2vGJ3snqfxTu/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=CYys4ztzh--uQPTPP3JWNTe4nZM="
   },
   {
    "k": "R",
@@ -3027,7 +3201,9 @@
      },
      "at": "Agua amarga"
     }
-   ]
+   ],
+   "gen": "XSMtE93koXHsll1I7Mmo",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XsbrvbRF6blXhakPTJWi/XSMtE93koXHsll1I7Mmo/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=elmW_5maI7w_WSGaYCfUIJkl_oM="
   },
   {
    "k": "N",
@@ -3039,7 +3215,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Heródoto, en el mismo libro"
     }
-   ]
+   ],
+   "gen": "jIAqzvUG69jF6Mvg4Mne",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yScci0KXnlmZ7bgF7kv3/jIAqzvUG69jF6Mvg4Mne/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=CEwqTCJTL5D_yOnUcc-Lr-c1azE="
   },
   {
    "k": "R",
@@ -3051,7 +3229,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "se echó a llorar"
     }
-   ]
+   ],
+   "gen": "TSJCkhjrf9yIo34CRgtc",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zVx9YcOvFDidWPN1HMyw/TSJCkhjrf9yIo34CRgtc/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=gXpvlrvLgj2twC51XnU8hIW1le4="
   },
   {
    "k": "R",
@@ -3067,7 +3247,9 @@
      },
      "at": "Me ha venido a la mente"
     }
-   ]
+   ],
+   "gen": "cA5zSC3T3CcLpDpH72aO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jpZtHKh5rVCxk0EIr0iO/cA5zSC3T3CcLpDpH72aO/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=RRNQVHpU-kBoZzjtD5ZiJLbFDF4="
   },
   {
    "k": "N",
@@ -3100,7 +3282,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "el ejército más grande"
     }
-   ]
+   ],
+   "gen": "Dz8IPlCV8txQsGRY8dbh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NQVJXBCiy7m4bfPtRQZu/Dz8IPlCV8txQsGRY8dbh/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=ouY4kwdvWGpvVAiLekbDM8ktb5E="
   },
   {
    "k": "R",
@@ -3112,7 +3296,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Qué río no se secó"
     }
-   ]
+   ],
+   "gen": "mNLQy1hmoshZMSIlvzXW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yqkfkLHIFTRA9wPccum4/mNLQy1hmoshZMSIlvzXW/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=Bs4pZ0svzew4R49LTvsrd-sXGR8="
   },
   {
    "k": "N",
@@ -3129,7 +3315,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "muchos griegos"
     }
-   ]
+   ],
+   "gen": "Zm8jWLrwurvY6uP5faK9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rQRiRYbJVvsvM5bYzbno/Zm8jWLrwurvY6uP5faK9/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=LZF6X1d6zEM8shiqkFeibQtZE48="
   },
   {
    "k": "B",
@@ -3163,7 +3351,9 @@
       "griegos"
      ]
     }
-   ]
+   ],
+   "gen": "3kdjJj6dD8syJxU7joxO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/06DaYtOmsFxRdGGvdlOk/3kdjJj6dD8syJxU7joxO/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=5rltFENikIQooX9YNQkNgwKz43U="
   },
   {
    "k": "N",
@@ -3175,7 +3365,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Demarato"
     }
-   ]
+   ],
+   "gen": "L0dI3cj1SlTli7CT8YdW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dawsrskZ7GNHLELSFf88/L0dI3cj1SlTli7CT8YdW/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=cz9yt30m1liYraHjM8sTOO9V_nE="
   },
   {
    "k": "R",
@@ -3191,7 +3383,9 @@
      },
      "at": "Son libres"
     }
-   ]
+   ],
+   "gen": "i49rC69JgUaovAGtWaI5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NYYkLcow8qe3XkeUnwyh/i49rC69JgUaovAGtWaI5/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=WuESH_ANAwrqby2hLiZdnLgXUMo="
   },
   {
    "k": "R",
@@ -3208,7 +3402,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "saltó tres veces de su trono"
     }
-   ]
+   ],
+   "gen": "GRHNy8mCRbYgNdx3nKgg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WCNIOD6XrbyJYQOy5Nv5/GRHNy8mCRbYgNdx3nKgg/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=y-XborwC7734OBSZqZX4r_FNi8Q="
   },
   {
    "k": "N",
@@ -3220,7 +3416,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "un sendero por las montañas"
     }
-   ]
+   ],
+   "gen": "0m17cMa9uqufHo0pjs5L",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zWWjv501TjyI7JvsyVFx/0m17cMa9uqufHo0pjs5L/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=dmFxFv9C6Bg3SZM-uVAp9VJ73eQ="
   },
   {
    "k": "R",
@@ -3232,11 +3430,13 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Ninguno sobrevivió"
     }
-   ]
+   ],
+   "gen": "el0vBxalEqFkMDoyopr6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/C2hShsWfSMijvbg4C8x6/el0vBxalEqFkMDoyopr6/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=_0eZvAfd-rMQ4hL7qgzDrPNuQK0="
   },
   {
    "k": "N",
-   "text": "[serious] Es la escena que 300 convirtió en mito. Pero visto desde el otro lado, hay algo que la película no cuenta: en ese combate murieron también dos hermanos de Jerjes, Abrocomes e Hiperantes, hijos de Darío. [short pause] Para el rey persa, las Termópilas fueron una victoria. Y una tragedia familiar.",
+   "text": "[serious] Es la escena que Trescientos convirtió en mito. Pero visto desde el otro lado, hay algo que la película no cuenta: en ese combate murieron también dos hermanos de Jerjes, Abrocomes e Hiperantes, hijos de Darío. [short pause] Para el rey persa, las Termópilas fueron una victoria. Y una tragedia familiar.",
    "voice": "NEW",
    "shots": [
     {
@@ -3261,7 +3461,9 @@
      },
      "at": "visto desde el otro lado"
     }
-   ]
+   ],
+   "gen": "jUxTm8drSQngeP8aBtd0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Fs5c3eJJHMANBzgXzQbK/jUxTm8drSQngeP8aBtd0/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=DVFr5xT_LK874WRs7ONPmgf3hG4="
   },
   {
    "k": "R",
@@ -3273,7 +3475,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "entre los muertos"
     }
-   ]
+   ],
+   "gen": "Ai9HgKjPp0GX46R8a5fp",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uFm2PGbhQSEYwU244uZP/Ai9HgKjPp0GX46R8a5fp/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=OC6M3yZ4P9MGcTQlTsvtJ0psonU="
   },
   {
    "k": "N",
@@ -3289,7 +3493,9 @@
       "Atenas · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "GmcWbAK2YPvrD1JSKl1k",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Jruaf47Je2C3jxwGd3Zv/GmcWbAK2YPvrD1JSKl1k/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=SqFvK_gPRUAP8JVbF5THLXoI7sk="
   },
   {
    "k": "R",
@@ -3306,7 +3512,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "estatuas"
     }
-   ]
+   ],
+   "gen": "cZZwTF6G7kRnEqHWC7Nw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Of3bygc1UY1GEHDmd4F0/cZZwTF6G7kRnEqHWC7Nw/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=AZhkYsKcUUe1JILVdl4mCTFzB4U="
   },
   {
    "k": "N",
@@ -3332,7 +3540,9 @@
       "griegos"
      ]
     }
-   ]
+   ],
+   "gen": "IjpIT20M7O4fxWvC6MEp",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tT1K3FxV3tK4qOiNavcC/IjpIT20M7O4fxWvC6MEp/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=W-tWZ48UlejiyIMU413vlycO6yE="
   },
   {
    "k": "B",
@@ -3353,7 +3563,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "no podían maniobrar"
     }
-   ]
+   ],
+   "gen": "hILXmRzD3v8UcCrnyeWH",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/x4W8FdYnNVdNOsbTL9bO/hILXmRzD3v8UcCrnyeWH/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=enPBG6RrARKXdXS84LZaaBGr7W4="
   },
   {
    "k": "R",
@@ -3369,7 +3581,9 @@
      },
      "at": "Adelante, hijos de los griegos"
     }
-   ]
+   ],
+   "gen": "x2n6ppq0c9eUzAtq6NF5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OIzHRro7YDwvzFhRIgkS/x2n6ppq0c9eUzAtq6NF5/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=NA22gs_CBncV_X2E0bUNpklnzyI="
   },
   {
    "k": "R",
@@ -3381,7 +3595,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "sus escribas anotaban"
     }
-   ]
+   ],
+   "gen": "2y1ZHa9eS10pnioyZ0eg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/68RVdjrJssEDwHuonAgi/2y1ZHa9eS10pnioyZ0eg/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=8YC26tfK1221kO8EsqoBppockxI="
   },
   {
    "k": "N",
@@ -3398,7 +3614,9 @@
       "persia"
      ]
     }
-   ]
+   ],
+   "gen": "F8oMETt14LV0FSXNxgGV",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cV4DmRoSa3F9MVo7sX0R/F8oMETt14LV0FSXNxgGV/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=dxKmq7DWK0mL7vwHlrEU-CNwLig="
   },
   {
    "k": "R",
@@ -3414,7 +3632,9 @@
      },
      "at": "Mis hombres"
     }
-   ]
+   ],
+   "gen": "ZYFmIIgsy8xeulenhbTE",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/M3Fe7wpNq3MZW3Gc74yL/ZYFmIIgsy8xeulenhbTE/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=a38i69k1rhgktIpVQnOQwlgMpx4="
   },
   {
    "k": "N",
@@ -3426,7 +3646,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Salamina fue un desastre"
     }
-   ]
+   ],
+   "gen": "QMpfhvAFAdCcpoc65wDA",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7PTv1Sqt9nEfTVkFUYyF/QMpfhvAFAdCcpoc65wDA/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=tESJsY0ksnhvm0Z5meZTkCRo7w4="
   },
   {
    "k": "R",
@@ -3438,7 +3660,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Platea"
     }
-   ]
+   ],
+   "gen": "EqBZZSlGpyAGTnu18QOO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TRFgUCu5e0fjXadW4JN8/EqBZZSlGpyAGTnu18QOO/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=fahSb7tuRajsoiALwyHEazUR1dE="
   },
   {
    "k": "N",
@@ -3489,7 +3713,9 @@
      },
      "at": "conviene mirar el mapa"
     }
-   ]
+   ],
+   "gen": "gZGCIzkr202KpcrSUDXe",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2B1VCPxTiHKJ5fUe8UQW/gZGCIzkr202KpcrSUDXe/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=122wtgHulJ4sWdmAuqx7KVwQLEY="
   },
   {
    "k": "N",
@@ -3501,7 +3727,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "entró en su habitación"
     }
-   ]
+   ],
+   "gen": "jpjABoUfJx8uSdKl5Vd6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/LbOs9rRYRunTtL1sLlDn/jpjABoUfJx8uSdKl5Vd6/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=zefLAoxdi4b5u8hYAVxTw-2AR4M="
   },
   {
    "k": "N",
@@ -3533,7 +3761,9 @@
      },
      "at": "Recapitulemos"
     }
-   ]
+   ],
+   "gen": "FxnbkhBvVC8IwUsjXX1i",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/l9JQiD3KfPGdZLOkiNG1/FxnbkhBvVC8IwUsjXX1i/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=Feo354U1xsEdSD8hhOsIm-Da0SQ="
   },
   {
    "k": "T",
@@ -3580,7 +3810,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "un desfile de soldados"
     }
-   ]
+   ],
+   "gen": "flP2CtkiRt1wQNhGo69w",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3HBLQajs6rhcdTL2viyr/flP2CtkiRt1wQNhGo69w/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=YvKycsfdMSCgKpFoRLh29SKBSBo="
   },
   {
    "k": "N",
@@ -3601,7 +3833,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "la guardia del rey persa"
     }
-   ]
+   ],
+   "gen": "2Oz8FnVzQxnPhQKLjGoP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Mmm8ZcLSpL0bU3mflSpU/2Oz8FnVzQxnPhQKLjGoP/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=pMvKjHVUgCt-IfHxrLK3lJoYHt4="
   },
   {
    "k": "R",
@@ -3622,11 +3856,13 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Llevaban más oro"
     }
-   ]
+   ],
+   "gen": "X244R3jlfWkmpL9LpFIe",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Ma5vbDeQfRKseo1qWdmT/X244R3jlfWkmpL9LpFIe/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=15beiYweTgstB7sAVw-g8JXCUbk="
   },
   {
    "k": "N",
-   "text": "En 300, los Inmortales son monstruos sin rostro, con máscaras de metal y dientes afilados. [short pause] En las tablillas de Persépolis, en cambio, no aparecen por ningún lado con ese nombre. Y hay una teoría curiosa: que Heródoto, o quien le informó, entendió mal una palabra persa.",
+   "text": "En Trescientos, los Inmortales son monstruos sin rostro, con máscaras de metal y dientes afilados. [short pause] En las tablillas de Persépolis, en cambio, no aparecen por ningún lado con ese nombre. Y hay una teoría curiosa: que Heródoto, o quien le informó, entendió mal una palabra persa.",
    "voice": "NEW",
    "shots": [
     {
@@ -3656,7 +3892,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "En las tablillas de Persépolis"
     }
-   ]
+   ],
+   "gen": "Y2igpFkAw3ZGry5Sy53f",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rPBL6uV1XP8PuYvKmkSW/Y2igpFkAw3ZGry5Sy53f/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=tfo4YQ-dTApJl0Cdl1xFQMy1hYY="
   },
   {
    "k": "N",
@@ -3684,7 +3922,9 @@
      },
      "at": "anusiya"
     }
-   ]
+   ],
+   "gen": "hMKFDfiYSRO6bCAC4ZjD",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aZyy7Nr7J2Q68sogFm4F/hMKFDfiYSRO6bCAC4ZjD/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=rba6REVRHReQ5xR25FCoCfLmrmg="
   },
   {
    "k": "R",
@@ -3696,7 +3936,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "estando borrachos"
     }
-   ]
+   ],
+   "gen": "nsvzMPeh11s6vPlRLGq8",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5iWL6sCPWPv4m0HmHbEc/nsvzMPeh11s6vPlRLGq8/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=v-gMeTsV9mOXvQuOAMc9UzbNpMk="
   },
   {
    "k": "N",
@@ -3708,7 +3950,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "doble control"
     }
-   ]
+   ],
+   "gen": "BAhTL2OlfAqAyVml5L7L",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KhUbxgWEvvbNKlyZoQGw/BAhTL2OlfAqAyVml5L7L/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=AU4cAFffzaZuGhTTdVJNJnPojQE="
   },
   {
    "k": "N",
@@ -3734,7 +3978,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "árabes con un dromedario"
     }
-   ]
+   ],
+   "gen": "A3qcHWVUYxaQ0wKDe1Nb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZHT62wBk9NFJYXQBb6Ll/A3qcHWVUYxaQ0wKDe1Nb/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=bmtB6NdfBlvpGOGoYsuOJKG45co="
   },
   {
    "k": "N",
@@ -3751,7 +3997,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "un imperio de pueblos"
     }
-   ]
+   ],
+   "gen": "ZfrowoTTgGcStQVFMN1m",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vtMxXxOWJ79NkMhINndk/ZfrowoTTgGcStQVFMN1m/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=QkrCPhxJYyKrT_iQ14O31vXTmNs="
   },
   {
    "k": "R",
@@ -3763,7 +4011,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Visten el traje de los medos"
     }
-   ]
+   ],
+   "gen": "JFfAGhtj0xRktgwoAR4d",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/evY6WPxgvcZg6xVlrYTd/JFfAGhtj0xRktgwoAR4d/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=gQ92XGgZ0-g9PyTuiw3DLeC_Dwc="
   },
   {
    "k": "N",
@@ -3780,7 +4030,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "la misma lengua"
     }
-   ]
+   ],
+   "gen": "EIh8xb0TZFFBrp2mFfug",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dsFKBI9xpTg31mW4SClr/EIh8xb0TZFFBrp2mFfug/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=SCUbDrfaSVnQoXs2y-RxiyH-6OA="
   },
   {
    "k": "R",
@@ -3796,7 +4048,9 @@
      },
      "at": "destruí aquel santuario"
     }
-   ]
+   ],
+   "gen": "MfasprY1L2nXQ2CsiTPY",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VlJxUhvcc4wOVxj1NcmZ/MfasprY1L2nXQ2CsiTPY/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=GjB3bAreYYTAR2ROC5hOAINRCQc="
   },
   {
    "k": "N",
@@ -3813,7 +4067,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Fue el oro"
     }
-   ]
+   ],
+   "gen": "JoO6Pc9YPb0NnaA73gbk",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/okVz9dOX8uxCTqqb8jQh/JoO6Pc9YPb0NnaA73gbk/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=XU2om_A113nePkCk6cjGWFdE7ow="
   },
   {
    "k": "T",
@@ -3841,7 +4097,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Atenas contra Esparta"
     }
-   ]
+   ],
+   "gen": "RsVAUSeoqnc61ASf7QNT",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VMgR3eobXqhLwTOaAfGr/RsVAUSeoqnc61ASf7QNT/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=bvq94xmYV0am1WsdvP-YjnJGlfg="
   },
   {
    "k": "N",
@@ -3858,7 +4116,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "pagar a los remeros"
     }
-   ]
+   ],
+   "gen": "DDO8MxOb5ahWZtCZvUE0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UukUJlUSDhQNuN2stsUP/DDO8MxOb5ahWZtCZvUE0/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=3WUmzOu1B0cFx34L_XzQr31j0rQ="
   },
   {
    "k": "N",
@@ -3870,7 +4130,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "En Cunaxa"
     }
-   ]
+   ],
+   "gen": "5kfgC5RpqJFpxec8QOfH",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GUgghQmG5vxLZdFVdtbK/5kfgC5RpqJFpxec8QOfH/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=eAVzUR8HYiPqQ6ScIfT49fFjIkA="
   },
   {
    "k": "R",
@@ -3886,7 +4148,9 @@
      },
      "at": "Lo veo"
     }
-   ]
+   ],
+   "gen": "uFjNFnvm41rrlLlucc9a",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZNbDTYqa8kxs1wpU1slC/uFjNFnvm41rrlLlucc9a/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=xYP_50i5XW-LzrX90fjP42gThDw="
   },
   {
    "k": "N",
@@ -3913,7 +4177,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "hasta llegar al mar Negro"
     }
-   ]
+   ],
+   "gen": "bRzmDHHlxhxTgK6Ok9xh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/eBm01y3qLaVc7aqJcWu9/bRzmDHHlxhxTgK6Ok9xh/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=FQ1Ob03rFzhGf3kJc4X2gI9GGb8="
   },
   {
    "k": "N",
@@ -3944,7 +4210,9 @@
       "persia"
      ]
     }
-   ]
+   ],
+   "gen": "4XpDsThN5BNfKYBEj3bU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/i5JKLF4QmzUmj2tWxvsb/4XpDsThN5BNfKYBEj3bU/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=RFmIFA1RYMS3TAL79fYam204rE4="
   },
   {
    "k": "N",
@@ -3956,7 +4224,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "sus montañas pobres"
     }
-   ]
+   ],
+   "gen": "bP2nNEF6xio7FgVDEc2Q",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/o9AuqCioF1OVgVVMoNY8/bP2nNEF6xio7FgVDEc2Q/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=_HD-V6VyhtQIrf3BOsVRm943JhQ="
   },
   {
    "k": "R",
@@ -3972,7 +4242,9 @@
      },
      "at": "Las tierras blandas"
     }
-   ]
+   ],
+   "gen": "ua6kae3vA3XEevYMWKcX",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZDgB8rpdCjxi4zDeIL2b/ua6kae3vA3XEevYMWKcX/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=_F5TNX7KfuV4IuIoe8eSWqaJN5A="
   },
   {
    "k": "N",
@@ -3993,7 +4265,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Al niño lo llamaron Alejandro"
     }
-   ]
+   ],
+   "gen": "p9QcyQ0ImgWlKolDnP5h",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZbP4xhx7nZO48jVOClQO/p9QcyQ0ImgWlKolDnP5h/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=slcYaTSYt1ApHPHI8JPkEOF2TxI="
   },
   {
    "k": "T",
@@ -4031,7 +4305,9 @@
       "macedonia"
      ]
     }
-   ]
+   ],
+   "gen": "62DYquT8OWD6bsBAmgvv",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KxA8yFGGvGosb0gJlY5c/62DYquT8OWD6bsBAmgvv/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=g9tsXMyyB1Cl_VUlMuJnoG1Rm0o="
   },
   {
    "k": "R",
@@ -4043,7 +4319,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "le parte el casco"
     }
-   ]
+   ],
+   "gen": "dN1Puvj3c5im5vXvlquj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8i75AHUG5KeHtEmcjdgt/dN1Puvj3c5im5vXvlquj/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=V-m6wqQ9mI7TvIxAUuCsBh7NfaA="
   },
   {
    "k": "N",
@@ -4166,7 +4444,9 @@
      },
      "at": "En el río Gránico"
     }
-   ]
+   ],
+   "gen": "yvZ3khy8R4wO2EOFR7f3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BZ6dh7OSw4uv0xA5iYK5/yvZ3khy8R4wO2EOFR7f3/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=dP54W4HxUzMnhU_aGRY3LQrqf2U="
   },
   {
    "k": "R",
@@ -4187,19 +4467,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "contra el carro del rey"
     }
-   ]
-  },
-  {
-   "k": "N",
-   "text": "[serious] Alejandro las trató como a reinas. Sisigambis, la madre de Darío, acabaría tan unida a él que, según cuentan los autores antiguos, cuando Alejandro murió dejó de comer hasta morir. [short pause] Pero eso llegaría años después. Antes faltaba la batalla final.",
-   "voice": "NEW",
-   "shots": [
-    {
-     "photo": "a dignified elderly queen in dark robes seated in a tent sur",
-     "src": "commons,met,cleveland,europeana",
-     "at": "las trató como a reinas"
-    }
-   ]
+   ],
+   "gen": "u1op3JOrTXVzuAas9poc",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yvZbDnksopleDtLi7wb0/u1op3JOrTXVzuAas9poc/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=Ft5dHSuEPxVDV-5W69Om3XQ84OY="
   },
   {
    "k": "R",
@@ -4211,7 +4481,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "lo confundió con el rey"
     }
-   ]
+   ],
+   "gen": "Mz3nVyLNda7qpXInOpeq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SLwqEMUH6wE0ahof0EMq/Mz3nVyLNda7qpXInOpeq/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=LJ_0rCo4toqF2CBbDTWN5b3OhP0="
   },
   {
    "k": "R",
@@ -4227,7 +4499,23 @@
      },
      "at": "No te has equivocado"
     }
-   ]
+   ],
+   "gen": "qjrzAmWrabXQuZgf3q0R",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GBdmZ5ZSBiNNc6tDywvs/qjrzAmWrabXQuZgf3q0R/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=n9DnB_hG9f9wQNsCHWfSkuAe_wA="
+  },
+  {
+   "k": "N",
+   "text": "[serious] Alejandro las trató como a reinas. Sisigambis, la madre de Darío, acabaría tan unida a él que, según cuentan los autores antiguos, cuando Alejandro murió dejó de comer hasta morir. [short pause] Pero eso llegaría años después. Antes faltaba la batalla final.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "a dignified elderly queen in dark robes seated in a tent sur",
+     "src": "commons,met,cleveland,europeana",
+     "at": "las trató como a reinas"
+    }
+   ],
+   "gen": "0TtAEzU6EuVr63Z31QpZ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pbg9rRHQ6YNRQCjTBKTe/0TtAEzU6EuVr63Z31QpZ/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=UakAc1DYzyABxOILBSqiLW265KA="
   },
   {
    "k": "N",
@@ -4239,7 +4527,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "atacar a oscuras"
     }
-   ]
+   ],
+   "gen": "TZAFBPgkyjccG8ktqsXd",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qOWk7YsHq9dSVz87lmot/TZAFBPgkyjccG8ktqsXd/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=Dx7A0u9kJ7cKXtUkjxR2-iIAoiE="
   },
   {
    "k": "R",
@@ -4255,7 +4545,9 @@
      },
      "at": "No robaré la victoria"
     }
-   ]
+   ],
+   "gen": "qkyw2oHsPNACExIUWHRO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zOwj3nSLjYiNtOXhxZke/qkyw2oHsPNACExIUWHRO/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=yZ0lWd5SUD6XaXWtNKC7_lB3Raw="
   },
   {
    "k": "R",
@@ -4281,7 +4573,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "el rey huye"
     }
-   ]
+   ],
+   "gen": "gVEAexG7p24FLZNzkY7r",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JDzimW9OyFSBwiF1vhIx/gVEAexG7p24FLZNzkY7r/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=DFzovM8M8RXiTqY6JxGf3EJvcLg="
   },
   {
    "k": "N",
@@ -4298,7 +4592,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "cinco mil camellos"
     }
-   ]
+   ],
+   "gen": "QyttMTMcDX1FRsQzE3uh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7eeYXH3HipPXKAlSkHPm/QyttMTMcDX1FRsQzE3uh/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=ec1ni4FgTJKa2a31ZtRPmFuA3wU="
   },
   {
    "k": "R",
@@ -4319,7 +4615,9 @@
      },
      "at": "O levantarte"
     }
-   ]
+   ],
+   "gen": "Ae2yAsqGrRDlbCVQMwAA",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jCL0A3JSUPG04rRKcQik/Ae2yAsqGrRDlbCVQMwAA/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=Fg1u2zSzodRi6HnsW2yhQtRa_vU="
   },
   {
    "k": "N",
@@ -4331,7 +4629,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Persépolis ardió"
     }
-   ]
+   ],
+   "gen": "StkXUXYXtUtCK5AzllQD",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1H05XDgz4CcaIu8aZ5fm/StkXUXYXtUtCK5AzllQD/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=LeSkQnxbsvQlZ-M9C13aYSUGk1U="
   },
   {
    "k": "B",
@@ -4347,7 +4647,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "una cortesana ateniense"
     }
-   ]
+   ],
+   "gen": "whDuPn1tDlyUohA8RCCs",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/km7l3prlnkxffZ6Z45Pa/whDuPn1tDlyUohA8RCCs/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=vsoz_KPuIPBwQDxgAZ1snXK1TMc="
   },
   {
    "k": "R",
@@ -4368,7 +4670,9 @@
      },
      "at": "fue el primero"
     }
-   ]
+   ],
+   "gen": "9oOQzxKGYAL6vc5KvMh5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GwUmDzdIbrKlEXs0nJme/9oOQzxKGYAL6vc5KvMh5/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=aK-dSyQLPR-Bum0Ptz8inVSKE2o="
   },
   {
    "k": "N",
@@ -4397,7 +4701,9 @@
      },
      "at": "una versión más fría"
     }
-   ]
+   ],
+   "gen": "DPoF8QoHZ1bUumTZIxrZ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wulWQRCQcMUNRup8d5t3/DPoF8QoHZ1bUumTZIxrZ/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=P5dDeiA4qwhg4eX0Vz57JTZbd1E="
   },
   {
    "k": "N",
@@ -4414,7 +4720,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "veintitrés siglos"
     }
-   ]
+   ],
+   "gen": "biXLcMbINxVHGGwcCOWd",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WQxLeAW27LHCoXDhER0N/biXLcMbINxVHGGwcCOWd/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=tGbQv4expdUyIOzcUCt21GMMsxg="
   },
   {
    "k": "N",
@@ -4426,7 +4734,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "cubrió con él el cadáver"
     }
-   ]
+   ],
+   "gen": "irNJF6u1Mnh8k6LuaQlN",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/eRXb7wy6DUopORfeZFeY/irNJF6u1Mnh8k6LuaQlN/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=IBjCe3nBh3W__1qdAHgyfZu-LrA="
   },
   {
    "k": "N",
@@ -4458,7 +4768,9 @@
      },
      "at": "termina, oficialmente"
     }
-   ]
+   ],
+   "gen": "KaCSLvvCTvdN2YPFLrFX",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/r5mExpmwEhIULOXPYUe1/KaCSLvvCTvdN2YPFLrFX/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=bGGSjzSwR_Mlbpg2_Jqz1z5MTp8="
   },
   {
    "k": "T",
@@ -4486,7 +4798,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "la tumba de Ciro saqueada"
     }
-   ]
+   ],
+   "gen": "CYQxXndMFEj41zXzuHYA",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2j7yiGUw3ITPq8QKp1tf/CYQxXndMFEj41zXzuHYA/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=wm6LGvDjn6viM6X-GWsq9B3Jdac="
   },
   {
    "k": "R",
@@ -4507,7 +4821,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "No me envidies"
     }
-   ]
+   ],
+   "gen": "GokO4RAfEP4MelZbrGpz",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/iRhvjzIpPlbMJ3SjaxcR/GokO4RAfEP4MelZbrGpz/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=zHCQuvYfXwskYZ9u1LEOcFUzq1s="
   },
   {
    "k": "N",
@@ -4519,24 +4835,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "adoptando la túnica"
     }
-   ]
-  },
-  {
-   "k": "N",
-   "text": "En Opis, según el historiador Arriano, Alejandro celebró un banquete con nueve mil invitados, macedonios y persas sentados juntos. Y rezó a los dioses por la concordia entre los dos pueblos, y por que gobernaran el imperio como socios.",
-   "voice": "NEW",
-   "shots": [
-    {
-     "photo": "an enormous banquet under a vast canopy with thousands of Ma",
-     "src": "commons,met,cleveland,europeana",
-     "at": "nueve mil invitados"
-    },
-    {
-     "photo": "Alexander the Great bust Acropolis Museum",
-     "src": "commons,met,cleveland,europeana",
-     "at": "como socios"
-    }
-   ]
+   ],
+   "gen": "irJcNrKthTRdRWYd2fUx",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/i0GUjds9tXwVmYK2oL67/irJcNrKthTRdRWYd2fUx/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=peXD_lnfHEE81qdLJxjIyYP3hcs="
   },
   {
    "k": "N",
@@ -4553,7 +4854,28 @@
      "src": "commons,met,cleveland,europeana",
      "at": "una boda colectiva"
     }
-   ]
+   ],
+   "gen": "1M2BTBbZgB3Z4qgIfHMI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/EK0CP05hm7uuSlyoZ8pp/1M2BTBbZgB3Z4qgIfHMI/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=3emFvv75JRLbcZHbRW8ldAyt6hw="
+  },
+  {
+   "k": "N",
+   "text": "En Opis, según el historiador Arriano, Alejandro celebró un banquete con nueve mil invitados, macedonios y persas sentados juntos. Y rezó a los dioses por la concordia entre los dos pueblos, y por que gobernaran el imperio como socios.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "an enormous banquet under a vast canopy with thousands of Ma",
+     "src": "commons,met,cleveland,europeana",
+     "at": "nueve mil invitados"
+    },
+    {
+     "photo": "Alexander the Great bust Acropolis Museum",
+     "src": "commons,met,cleveland,europeana",
+     "at": "como socios"
+    }
+   ],
+   "gen": "CNHWZeNcVY26Rs8LKjaj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oaj1nwwpueBQWGn7Iodi/CNHWZeNcVY26Rs8LKjaj/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=tyPGE8vkPZA5mq54HZcmGopv7lI="
   },
   {
    "k": "N",
@@ -4578,7 +4900,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "los sasánidas"
     }
-   ]
+   ],
+   "gen": "uEXxyKDsyeZsxaY8VlB1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3LAuVv2dlJu8Ezmn4zsV/uEXxyKDsyeZsxaY8VlB1/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=ri_OoRdoozRv3LDVu-2XQBQqj3s="
   },
   {
    "k": "N",
@@ -4602,7 +4926,9 @@
      "kw_at": 0.4,
      "kw_dur": 2.2
     }
-   ]
+   ],
+   "gen": "UcYGOhfwSXppZdrNySEw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qEsxCanDhGXZEujLv5lG/UcYGOhfwSXppZdrNySEw/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=EoTGFAgcEy2-ZtHBJMBy-dm9PhQ="
   },
   {
    "k": "R",
@@ -4623,7 +4949,9 @@
      },
      "at": "los planté con mis propias manos"
     }
-   ]
+   ],
+   "gen": "PS8lBZP9K46Lc6a7eY8l",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/r1FFZqXEywqcgQtjONBe/PS8lBZP9K46Lc6a7eY8l/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=5bNLAMg1Q0e9HXj2BaqC2Vs6F1w="
   },
   {
    "k": "N",
@@ -4645,7 +4973,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "estrenó en Atenas"
     }
-   ]
+   ],
+   "gen": "cchm0Pd8GMMI9dQbS4py",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jmnRImYe5QTRgVc3mNk2/cchm0Pd8GMMI9dQbS4py/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=rres6uFM5dvzJQfSBMgaD2ta8ic="
   },
   {
    "k": "R",
@@ -4661,7 +4991,9 @@
      },
      "at": "Oh, tierra de Persia"
     }
-   ]
+   ],
+   "gen": "8kDAllxDDIUT9oTFNIM0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vhpAv4eczZLzs8fjiEQR/8kDAllxDDIUT9oTFNIM0/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=MBU5eWmYV4oi2GiIWgsi2JZ9pIE="
   },
   {
    "k": "N",
@@ -4678,7 +5010,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "un enemigo sin rostro"
     }
-   ]
+   ],
+   "gen": "rQ1YusxUvQHfxtE5V4TN",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ylYrlBWPrcwSQOVT8uhv/rQ1YusxUvQHfxtE5V4TN/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=aGMGiBPqxM3RwAaL9m66wZMIb1Q="
   },
   {
    "k": "N",
@@ -4705,7 +5039,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "decenas de miles de tablillas"
     }
-   ]
+   ],
+   "gen": "8KMsd6ZRhZhYca8Y4xar",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GgacuvYFRJl4ERaR3JDG/8KMsd6ZRhZhYca8Y4xar/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=pNWIVHmzHfz8jAUioKAvyhNfI3k="
   },
   {
    "k": "N",
@@ -4717,7 +5053,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "El propio Heródoto"
     }
-   ]
+   ],
+   "gen": "jHgrlKEykVOPIMEORHes",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GJrMXwlq9FTygA0a7kwd/jHgrlKEykVOPIMEORHes/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=XMj2u6qbLBGM0PXQNa8Sasb0Rvg="
   },
   {
    "k": "R",
@@ -4738,7 +5076,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "no se queden sin gloria"
     }
-   ]
+   ],
+   "gen": "ggEwULbXTIIxl7tSpYsM",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/64ZIHsw2fDR5sV3x5ATo/ggEwULbXTIIxl7tSpYsM/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=XPQ-LuiJVsJOSlQZBur5iEB9uHM="
   },
   {
    "k": "N",
@@ -4750,7 +5090,9 @@
      "src": "commons,met,cleveland,europeana",
      "at": "Ni siquiera el primer historiador"
     }
-   ]
+   ],
+   "gen": "76obTuxRrQlyfS76S7PI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RuraUm4aIDc63ThDw4sZ/76obTuxRrQlyfS76S7PI/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=tIOpixuIh_V5EYixGZC4luj-AB8="
   },
   {
    "k": "N",
@@ -4771,7 +5113,9 @@
       "Túnez · hoy"
      ]
     }
-   ]
+   ],
+   "gen": "GFRtVAHUIEOScu8Sj5Bf",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dytP9MNQ2NNJDpMhZyIP/GFRtVAHUIEOScu8Sj5Bf/content.mp3?Expires=1795262400&KeyName=assets-cdn-key-1&Signature=r4Tm3mni3yWj6tV4h1rL-YWFFso="
   },
   {
    "k": "M",

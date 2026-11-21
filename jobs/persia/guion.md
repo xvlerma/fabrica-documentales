@@ -1,8 +1,8 @@
 # El Imperio Persa · guion
 
-Palabras: **6922** (objetivo 6.960 ±3 %) · caracteres: 41116 · por voz: NAR 2166 (31 %), NEW 2342 (34 %), HER 893 (13 %), PIE 270 (4 %), CIR 106 (2 %), ESP 455 (7 %), DAR 317 (5 %), JER 134 (2 %), GRI 201 (3 %), ALE 38 (1 %)
+Palabras: **6922** (objetivo 6.960 ±3 %) · caracteres: 41156 · por voz: NAR 2166 (31 %), NEW 2342 (34 %), HER 893 (13 %), PIE 270 (4 %), CIR 106 (2 %), ESP 455 (7 %), DAR 317 (5 %), JER 134 (2 %), GRI 201 (3 %), ALE 38 (1 %)
 
-**NARRADOR TOP** · Termópilas, año cuatrocientos ochenta antes de Cristo. Trescientos espartanos frente a un ejército sin fin. Así lo cuenta la película 300: los persas son monstruos, esclavos con máscaras de metal, y su rey es un gigante cubierto de oro y cadenas. Esta es la historia de esos monstruos. Contada, por una vez, desde el otro lado.
+**NARRADOR TOP** · Termópilas, año cuatrocientos ochenta antes de Cristo. Trescientos espartanos frente a un ejército sin fin. Así lo cuenta la película Trescientos: los persas son monstruos, esclavos con máscaras de metal, y su rey es un gigante cubierto de oro y cadenas. Esta es la historia de esos monstruos. Contada, por una vez, desde el otro lado.
 
 **NARRADOR NEW** · Porque en Persépolis, la capital de esos monstruos, han aparecido decenas de miles de tablillas de barro. Son las cuentas del imperio. Y cuentan que los obreros cobraban un salario, que las mujeres podían dirigir talleres y que las que acababan de dar a luz recibían raciones extra.
 
@@ -10,7 +10,7 @@ Palabras: **6922** (objetivo 6.960 ±3 %) · caracteres: 41116 · por voz: NAR 2
 
 **NARRADOR NEW** · ¿Quién era de verdad el rey que azotó el mar? ¿Por qué un pueblo de pastores de las montañas llegó a gobernar el mundo conocido? ¿Y por qué Alejandro Magno, después de quemar su capital, acabó vistiéndose como un persa?
 
-**NARRADOR TOP** · Esta es la otra versión. La de las tablillas, los cilindros y las piedras que los persas dejaron escritas. La historia que 300 no te contó.
+**NARRADOR TOP** · Esta es la otra versión. La de las tablillas, los cilindros y las piedras que los persas dejaron escritas. La historia que Trescientos no te contó.
 
 
 ## El Imperio Persa  ·  _La historia que 300 no te contó_
@@ -182,7 +182,7 @@ Palabras: **6922** (objetivo 6.960 ±3 %) · caracteres: 41116 · por voz: NAR 2
 
 ## V · Jerjes y las Termópilas  ·  _486 – 479 a. C._
 
-**NARRADOR NEW** · Jerjes tenía treinta y dos años cuando subió al trono. No era el primogénito de Darío. Pero era el nieto de Ciro el Grande por parte de madre, la reina Atosa, y eso pesaba más. En 300 es un gigante de casi tres metros, calvo, cubierto de piercings y cadenas de oro, que se cree un dios.
+**NARRADOR NEW** · Jerjes tenía treinta y dos años cuando subió al trono. No era el primogénito de Darío. Pero era el nieto de Ciro el Grande por parte de madre, la reina Atosa, y eso pesaba más. En Trescientos es un gigante de casi tres metros, calvo, cubierto de piercings y cadenas de oro, que se cree un dios.
 
 **NARRADOR TOP** · Los relieves de Persépolis muestran otra cosa: un hombre con barba larga y rizada, una túnica hasta los pies y una corona. Y los reyes persas nunca dijeron ser dioses. Se presentaban como los elegidos de Ahuramazda. Que no es lo mismo.
 
@@ -218,7 +218,7 @@ Palabras: **6922** (objetivo 6.960 ±3 %) · caracteres: 41116 · por voz: NAR 2
 
 **VOZ ÉPICA** · Leónidas mandó retirarse a casi todos. Él se quedó con sus trescientos y unos pocos aliados. Cuando se les rompieron las lanzas, lucharon con espadas. Cuando se rompieron las espadas, con las manos y los dientes. Ninguno sobrevivió.
 
-**NARRADOR NEW** · Es la escena que 300 convirtió en mito. Pero visto desde el otro lado, hay algo que la película no cuenta: en ese combate murieron también dos hermanos de Jerjes, Abrocomes e Hiperantes, hijos de Darío. Para el rey persa, las Termópilas fueron una victoria. Y una tragedia familiar.
+**NARRADOR NEW** · Es la escena que Trescientos convirtió en mito. Pero visto desde el otro lado, hay algo que la película no cuenta: en ese combate murieron también dos hermanos de Jerjes, Abrocomes e Hiperantes, hijos de Darío. Para el rey persa, las Termópilas fueron una victoria. Y una tragedia familiar.
 
 **HERÓDOTO Y FUENTES CLÁSICAS** · Jerjes recorrió el campo entre los muertos. Al llegar al cuerpo de Leónidas, ordenó cortarle la cabeza y clavarla en un palo. Es la prueba de que el rey estaba más irritado con Leónidas que con ningún otro hombre: los persas suelen honrar, más que nadie, a los guerreros valientes.
 
@@ -257,7 +257,7 @@ Palabras: **6922** (objetivo 6.960 ±3 %) · caracteres: 41116 · por voz: NAR 2
 
 **HERÓDOTO Y FUENTES CLÁSICAS** · Eran diez mil, y se les llamaba Inmortales porque, si alguno moría o caía enfermo, otro ocupaba su lugar. Así nunca eran ni más ni menos de diez mil. Llevaban más oro encima que nadie y viajaban con sus mujeres y sus criados.
 
-**NARRADOR NEW** · En 300, los Inmortales son monstruos sin rostro, con máscaras de metal y dientes afilados. En las tablillas de Persépolis, en cambio, no aparecen por ningún lado con ese nombre. Y hay una teoría curiosa: que Heródoto, o quien le informó, entendió mal una palabra persa.
+**NARRADOR NEW** · En Trescientos, los Inmortales son monstruos sin rostro, con máscaras de metal y dientes afilados. En las tablillas de Persépolis, en cambio, no aparecen por ningún lado con ese nombre. Y hay una teoría curiosa: que Heródoto, o quien le informó, entendió mal una palabra persa.
 
 **NARRADOR TOP** · En persa antiguo, anusiya significa compañeros, los del séquito del rey. Y anausa, casi igual, significa inmortales. Es solo una hipótesis, y hay expertos que la rechazan. Pero sería una ironía perfecta: que el cuerpo militar más temido de la Antigüedad deba su nombre a un error de traducción.
 
@@ -309,11 +309,11 @@ Palabras: **6922** (objetivo 6.960 ±3 %) · caracteres: 41116 · por voz: NAR 2
 
 **VOZ ÉPICA** · En Isos, Alejandro cargó directamente contra el carro del rey. Darío dio la vuelta y huyó. Dejó atrás su arco, su escudo, su manto. Y a su madre, a su esposa y a sus hijas.
 
-**NARRADOR NEW** · Alejandro las trató como a reinas. Sisigambis, la madre de Darío, acabaría tan unida a él que, según cuentan los autores antiguos, cuando Alejandro murió dejó de comer hasta morir. Pero eso llegaría años después. Antes faltaba la batalla final.
-
 **HERÓDOTO Y FUENTES CLÁSICAS** · Al entrar en la tienda, Sisigambis se arrodilló ante Hefestión, el amigo de Alejandro, porque era más alto y lo confundió con el rey. Al darse cuenta, quiso morirse de vergüenza. Y Alejandro la levantó.
 
 **ALEJANDRO** · No te has equivocado, madre. También él es Alejandro.
+
+**NARRADOR NEW** · Alejandro las trató como a reinas. Sisigambis, la madre de Darío, acabaría tan unida a él que, según cuentan los autores antiguos, cuando Alejandro murió dejó de comer hasta morir. Pero eso llegaría años después. Antes faltaba la batalla final.
 
 **NARRADOR NEW** · La noche antes de la última batalla, su general Parmenión le aconsejó atacar a oscuras, por sorpresa. La respuesta de Alejandro se hizo famosa.
 
@@ -348,9 +348,9 @@ Palabras: **6922** (objetivo 6.960 ±3 %) · caracteres: 41116 · por voz: NAR 2
 
 **NARRADOR TOP** · Plutarco dice que aquellas palabras conmovieron profundamente a Alejandro. Y quizá explican lo que hizo después. Porque el hombre que vino a vengar a Grecia acabó adoptando la túnica de los reyes persas, su ceremonial y sus costumbres de corte, ante el escándalo de sus generales macedonios.
 
-**NARRADOR NEW** · En Opis, según el historiador Arriano, Alejandro celebró un banquete con nueve mil invitados, macedonios y persas sentados juntos. Y rezó a los dioses por la concordia entre los dos pueblos, y por que gobernaran el imperio como socios.
-
 **NARRADOR NEW** · En Susa, en el año trescientos veinticuatro, organizó una boda colectiva: él mismo y unos ochenta de sus oficiales se casaron con mujeres de la nobleza persa y meda. Alejandro, con Estatira, la hija de Darío III. El conquistador quería un imperio mixto. Persa y griego a la vez.
+
+**NARRADOR NEW** · En Opis, según el historiador Arriano, Alejandro celebró un banquete con nueve mil invitados, macedonios y persas sentados juntos. Y rezó a los dioses por la concordia entre los dos pueblos, y por que gobernaran el imperio como socios.
 
 **NARRADOR TOP** · Murió un año después, en Babilonia, con treinta y dos años. Su imperio se partió entre sus generales. Pero la máquina que montaron Ciro y Darío siguió funcionando: las satrapías, los caminos, la moneda, la idea de gobernar a muchos pueblos sin borrarlos. Los seléucidas, los partos y los sasánidas la heredaron.
 

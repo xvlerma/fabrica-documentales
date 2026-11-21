@@ -18,7 +18,7 @@ NAR("[serious] Hoy está en el Louvre: el friso de los arqueros. Túnicas bordad
 HER("Eran diez mil, y se les llamaba Inmortales porque, si alguno moría o caía enfermo, otro ocupaba su lugar. Así nunca eran ni más ni menos de diez mil. Llevaban más oro encima que nadie y viajaban con sus mujeres y sus criados.",
     PAP('Si alguno moría o caía enfermo, otro ocupaba su lugar. Así nunca eran ni más ni menos de diez mil.', 'Heródoto, sobre los Inmortales', 'Historias, VII, 83', at='Eran diez mil'),
     ai('inmortales_desfile', 'ranks of elite Persian guardsmen in embroidered robes with spears and quivers marching through a palace gate in perfect formation, golden morning light', at='Llevaban más oro'))
-NEW("En 300, los Inmortales son monstruos sin rostro, con máscaras de metal y dientes afilados. [short pause] En las tablillas de Persépolis, en cambio, no aparecen por ningún lado con ese nombre. Y hay una teoría curiosa: que Heródoto, o quien le informó, entendió mal una palabra persa.",
+NEW("En Trescientos, los Inmortales son monstruos sin rostro, con máscaras de metal y dientes afilados. [short pause] En las tablillas de Persépolis, en cambio, no aparecen por ningún lado con ese nombre. Y hay una teoría curiosa: que Heródoto, o quien le informó, entendió mal una palabra persa.",
     OTRA(['Monstruos enmascarados', 'Soldados sin rostro ni nombre'], ['Guardia de élite de la nobleza', 'Barba rizada, túnica bordada', 'Quizá ni se llamaban así'], at='monstruos sin rostro'),
     ph('Persepolis Fortification tablet Elamite', at='En las tablillas de Persépolis'))
 NAR("[serious] En persa antiguo, anusiya significa compañeros, los del séquito del rey. Y anausa, casi igual, significa inmortales. [short pause] Es solo una hipótesis, y hay expertos que la rechazan. Pero sería una ironía perfecta: que el cuerpo militar más temido de la Antigüedad deba su nombre a un error de traducción.",
@@ -88,12 +88,12 @@ NAR("Enfrente tenía a Darío III, un rey que había llegado al trono tras una c
 ESP("[dramatically] En Isos, Alejandro cargó directamente contra el carro del rey. Darío dio la vuelta y huyó. Dejó atrás su arco, su escudo, su manto. [pause] Y a su madre, a su esposa y a sus hijas.",
     ph('Alexander Mosaic Naples', at='En Isos', lt=['Mosaico de Alejandro', 'Pompeya · hacia 100 a. C. · Nápoles']),
     ai('carga_isos', 'a young cavalry commander on a black horse charging through a mass of soldiers straight toward a royal war chariot that turns to flee, spears and dust, epic battle', at='contra el carro del rey'))
-NEW("[serious] Alejandro las trató como a reinas. Sisigambis, la madre de Darío, acabaría tan unida a él que, según cuentan los autores antiguos, cuando Alejandro murió dejó de comer hasta morir. [short pause] Pero eso llegaría años después. Antes faltaba la batalla final.",
-    ai('sisigambis', 'a dignified elderly queen in dark robes seated in a tent surrounded by princesses, a young conqueror bowing slightly before her, lamp light, seen from behind', at='las trató como a reinas'))
 HER("Al entrar en la tienda, Sisigambis se arrodilló ante Hefestión, el amigo de Alejandro, porque era más alto y lo confundió con el rey. Al darse cuenta, quiso morirse de vergüenza. Y Alejandro la levantó.",
     ai('hefestion_error', 'an elderly queen kneeling by mistake before a tall officer in a tent while a younger man beside him smiles and reaches out to lift her, attendants gasping', at='lo confundió con el rey'))
 ALE("[softly] No te has equivocado, madre. También él es Alejandro.",
     PAP('No te has equivocado, madre. También él es Alejandro.', 'Alejandro a Sisigambis, según Arriano y Diodoro', 'Anábasis de Alejandro, II, 12', at='No te has equivocado'))
+NEW("[serious] Alejandro las trató como a reinas. Sisigambis, la madre de Darío, acabaría tan unida a él que, según cuentan los autores antiguos, cuando Alejandro murió dejó de comer hasta morir. [short pause] Pero eso llegaría años después. Antes faltaba la batalla final.",
+    ai('sisigambis', 'a dignified elderly queen in dark robes seated in a tent surrounded by princesses, a young conqueror bowing slightly before her, lamp light, seen from behind', at='las trató como a reinas'))
 NEW("La noche antes de la última batalla, su general Parmenión le aconsejó atacar a oscuras, por sorpresa. La respuesta de Alejandro se hizo famosa.",
     ai('noche_gaugamela', 'two commanders talking in a dark camp before a battle, thousands of enemy campfires glittering across the plain in the distance, tension', at='atacar a oscuras'))
 ALE("[serious] No robaré la victoria.",
@@ -136,12 +136,12 @@ CIR("[serious] Hombre, quienquiera que seas y de dondequiera que vengas, porque 
     ai('alejandro_tumba', 'a lone conqueror standing before a simple stone tomb on six steps in a windswept plain at sunset, his helmet in his hands, his face turned away', at='No me envidies'))
 NAR("[softly] Plutarco dice que aquellas palabras conmovieron profundamente a Alejandro. [short pause] Y quizá explican lo que hizo después. Porque el hombre que vino a vengar a Grecia acabó adoptando la túnica de los reyes persas, su ceremonial y sus costumbres de corte, ante el escándalo de sus generales macedonios.",
     ai('alejandro_persa', 'a young king wearing Persian royal robes and diadem receiving bowing courtiers in a Persian palace, Macedonian officers watching with disapproval in the shadows', at='adoptando la túnica'))
-NEW("En Opis, según el historiador Arriano, Alejandro celebró un banquete con nueve mil invitados, macedonios y persas sentados juntos. Y rezó a los dioses por la concordia entre los dos pueblos, y por que gobernaran el imperio como socios.",
-    ai('banquete_opis', 'an enormous banquet under a vast canopy with thousands of Macedonian and Persian guests seated together, a king raising a golden cup in a libation, torches and evening sky', at='nueve mil invitados'),
-    ph('Alexander the Great bust Acropolis Museum', at='como socios'))
 NEW("En Susa, en el año trescientos veinticuatro, organizó una boda colectiva: él mismo y unos ochenta de sus oficiales se casaron con mujeres de la nobleza persa y meda. Alejandro, con Estatira, la hija de Darío III. [short pause] El conquistador quería un imperio mixto. Persa y griego a la vez.",
     ai('bodas_susa', 'a grand mass wedding ceremony in a huge tent at Susa, dozens of couples in Greek and Persian dress seated side by side, gold and purple canopies, festive torchlight', at='una boda colectiva'),
     ph('Susa palace ruins Shush', at='En Susa'))
+NEW("En Opis, según el historiador Arriano, Alejandro celebró un banquete con nueve mil invitados, macedonios y persas sentados juntos. Y rezó a los dioses por la concordia entre los dos pueblos, y por que gobernaran el imperio como socios.",
+    ai('banquete_opis', 'an enormous banquet under a vast canopy with thousands of Macedonian and Persian guests seated together, a king raising a golden cup in a libation, torches and evening sky', at='nueve mil invitados'),
+    ph('Alexander the Great bust Acropolis Museum', at='como socios'))
 NAR("[serious] Murió un año después, en Babilonia, con treinta y dos años. Su imperio se partió entre sus generales. Pero la máquina que montaron Ciro y Darío siguió funcionando: las satrapías, los caminos, la moneda, la idea de gobernar a muchos pueblos sin borrarlos. Los seléucidas, los partos y los sasánidas la heredaron.",
     cd(dict(type='list', header='Lo que heredaron los siguientes imperios', items=['Provincias con gobernador: las satrapías', 'Caminos y correo con postas', 'Una moneda de oro para todo el imperio', 'Tolerancia con dioses y leyes locales']), at='la máquina que montaron'),
     ph('Taq-e Kasra Ctesiphon', at='los sasánidas'))

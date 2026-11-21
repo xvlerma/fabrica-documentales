@@ -118,9 +118,9 @@ NAR("Darío empezó a preparar una invasión mucho mayor. Pero entonces se rebel
 # ---------------- V · JERJES Y LAS TERMÓPILAS ----------------
 T('Jerjes y las Termópilas', '486 – 479 a. C.', num='V', sting='tema')
 B('tension')
-NEW("Jerjes tenía treinta y dos años cuando subió al trono. No era el primogénito de Darío. Pero era el nieto de Ciro el Grande por parte de madre, la reina Atosa, y eso pesaba más. [short pause] En 300 es un gigante de casi tres metros, calvo, cubierto de piercings y cadenas de oro, que se cree un dios.",
+NEW("Jerjes tenía treinta y dos años cuando subió al trono. No era el primogénito de Darío. Pero era el nieto de Ciro el Grande por parte de madre, la reina Atosa, y eso pesaba más. [short pause] En Trescientos es un gigante de casi tres metros, calvo, cubierto de piercings y cadenas de oro, que se cree un dios.",
     ph('Xerxes relief Persepolis', at='Jerjes', lt=['Jerjes I', 'Rey de Persia · 486 – 465 a. C.', 'persia']),
-    K('300', 'Persepolis treasury relief king audience', at='En 300'))
+    K('300', 'Persepolis treasury relief king audience', at='En Trescientos'))
 NAR("[serious] Los relieves de Persépolis muestran otra cosa: un hombre con barba larga y rizada, una túnica hasta los pies y una corona. Y los reyes persas nunca dijeron ser dioses. Se presentaban como los elegidos de Ahuramazda. Que no es lo mismo.",
     ph('Persepolis treasury relief king audience', at='Los relieves de Persépolis'),
     OTRA(['Un dios-rey gigante y salvaje', 'Piercings, cadenas y máscaras'], ['Un rey con barba y túnica larga', 'Elegido de Ahuramazda, no dios', 'Como lo esculpieron los persas'], at='nunca dijeron ser dioses'))
@@ -166,7 +166,7 @@ NAR("[serious] Y entonces, la traición. Un griego de la zona, Efialtes, le vend
     ai('sendero_noche', 'a long column of soldiers with torches winding along a narrow mountain path through an oak forest at night, a local guide leading them', at='un sendero por las montañas'))
 ESP("[dramatically] Leónidas mandó retirarse a casi todos. Él se quedó con sus trescientos y unos pocos aliados. Cuando se les rompieron las lanzas, lucharon con espadas. Cuando se rompieron las espadas, con las manos y los dientes. [pause] Ninguno sobrevivió.",
     ai('ultima_resistencia', 'the last stand of a few hundred Greek warriors on a small hill surrounded by an overwhelming army, broken spears, a hail of arrows darkening the sun', at='Ninguno sobrevivió'))
-NEW("[serious] Es la escena que 300 convirtió en mito. Pero visto desde el otro lado, hay algo que la película no cuenta: en ese combate murieron también dos hermanos de Jerjes, Abrocomes e Hiperantes, hijos de Darío. [short pause] Para el rey persa, las Termópilas fueron una victoria. Y una tragedia familiar.",
+NEW("[serious] Es la escena que Trescientos convirtió en mito. Pero visto desde el otro lado, hay algo que la película no cuenta: en ese combate murieron también dos hermanos de Jerjes, Abrocomes e Hiperantes, hijos de Darío. [short pause] Para el rey persa, las Termópilas fueron una victoria. Y una tragedia familiar.",
     OTRA(['Monstruos contra héroes', 'Una derrota moral persa'], ['Una victoria persa en el campo', 'Dos hermanos del rey, muertos', 'El paso abierto hacia Atenas'], at='visto desde el otro lado'))
 HER("Jerjes recorrió el campo entre los muertos. Al llegar al cuerpo de Leónidas, ordenó cortarle la cabeza y clavarla en un palo. Es la prueba de que el rey estaba más irritado con Leónidas que con ningún otro hombre: los persas suelen honrar, más que nadie, a los guerreros valientes.",
     ai('campo_muertos', 'a king walking slowly among the fallen after a battle in a mountain pass at dusk, broken shields and spears, crows circling, guards with torches', at='entre los muertos'))

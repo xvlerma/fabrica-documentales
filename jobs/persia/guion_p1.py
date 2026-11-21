@@ -4,11 +4,11 @@ from lib import *
 
 # ---------------- APERTURA ----------------
 B('batalla')
-NAR("[serious] Termópilas, año cuatrocientos ochenta antes de Cristo. Trescientos espartanos frente a un ejército sin fin. Así lo cuenta la película 300: los persas son monstruos, esclavos con máscaras de metal, y su rey es un gigante cubierto de oro y cadenas. [short pause] Esta es la historia de esos monstruos. Contada, por una vez, desde el otro lado.",
+NAR("[serious] Termópilas, año cuatrocientos ochenta antes de Cristo. Trescientos espartanos frente a un ejército sin fin. Así lo cuenta la película Trescientos: los persas son monstruos, esclavos con máscaras de metal, y su rey es un gigante cubierto de oro y cadenas. [short pause] Esta es la historia de esos monstruos. Contada, por una vez, desde el otro lado.",
     ph('Thermopylae pass Leonidas monument', at='Termópilas', lt=['Las Termópilas', 'Grecia · hoy']),
     ai('falange_carga', 'a phalanx of Greek hoplites with bronze shields clashing against a wave of Persian infantry in a narrow mountain pass by the sea, dust and spears, seen from behind the Greek line', at='Trescientos espartanos'),
     ai('ejercito_sin_fin', 'an immense Persian army stretching to the horizon across a plain at dawn, banners, cavalry and chariots, seen from a hilltop behind a lone rider', at='un ejército sin fin'),
-    K('300', 'Persepolis Apadana relief soldiers', at='la película 300'),
+    K('300', 'Persepolis Apadana relief soldiers', at='la película Trescientos'),
     ph('Frieze of Archers Susa Louvre', at='Esta es la historia'))
 NEW("Porque en Persépolis, la capital de esos monstruos, han aparecido decenas de miles de tablillas de barro. Son las cuentas del imperio. Y cuentan que los obreros cobraban un salario, que las mujeres podían dirigir talleres y que las que acababan de dar a luz recibían raciones extra.",
     ph('Persepolis ruins aerial view', at='en Persépolis', lt=['Persépolis', 'Irán']),
@@ -23,10 +23,10 @@ NEW("[serious] ¿Quién era de verdad el rey que azotó el mar? ¿Por qué un pu
     ai('rey_olas', 'a lone royal figure in a purple cloak standing on a rocky headland facing a raging sea, shipwreck debris in the waves, lightning', at='azotó el mar'),
     ai('pastores_montes', 'nomadic herders with horses and sheep crossing a high mountain pass of the Zagros at dawn, snow peaks, ancient Iran', at='un pueblo de pastores'),
     ai('columnas_humo', 'towering stone columns of a palace standing black against a red night sky full of smoke and sparks, a young conqueror on horseback watching from below', at='quemar su capital'))
-NAR("[serious] Esta es la otra versión. La de las tablillas, los cilindros y las piedras que los persas dejaron escritas. [short pause] La historia que 300 no te contó.",
+NAR("[serious] Esta es la otra versión. La de las tablillas, los cilindros y las piedras que los persas dejaron escritas. [short pause] La historia que Trescientos no te contó.",
     ph('Cyrus Cylinder British Museum', at='los cilindros'),
     ph('Naqsh-e Rostam tombs', at='las piedras'))
-T('El Imperio Persa', 'La historia que 300 no te contó', secs=5.5, sting='tema', text='[dramatically] El Imperio Persa. La historia que trescientos no te contó.', chapter=False)
+T('El Imperio Persa', 'La historia que 300 no te contó', secs=5.5, sting='tema', text='[dramatically] El Imperio Persa. La historia que Trescientos no te contó.', chapter=False)
 
 # ---------------- I · EL REY QUE ENTRÓ SIN LUCHAR ----------------
 T('El rey que entró sin luchar', '559 – 530 a. C.', num='I', sting='tema')

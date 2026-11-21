@@ -5,14 +5,14 @@ from lib import *
 # ---------------- APERTURA ----------------
 B('batalla')
 NAR("[serious] Termópilas, año cuatrocientos ochenta antes de Cristo. Trescientos espartanos frente a un ejército sin fin. Así lo cuenta la película Trescientos: los persas son monstruos, esclavos con máscaras de metal, y su rey es un gigante cubierto de oro y cadenas. [short pause] Esta es la historia de esos monstruos. Contada, por una vez, desde el otro lado.",
-    ph('Thermopylae pass Leonidas monument', at='Termópilas', lt=['Las Termópilas', 'Grecia · hoy']),
+    ph('Thermopylae', at='Termópilas', lt=['Las Termópilas', 'Grecia · hoy']),
     ai('falange_carga', 'a phalanx of Greek hoplites with bronze shields clashing against a wave of Persian infantry in a narrow mountain pass by the sea, dust and spears, seen from behind the Greek line', at='Trescientos espartanos'),
     ai('ejercito_sin_fin', 'an immense Persian army stretching to the horizon across a plain at dawn, banners, cavalry and chariots, seen from a hilltop behind a lone rider', at='un ejército sin fin'),
     K('300', 'Persepolis Apadana relief soldiers', at='la película Trescientos'),
     ph('Frieze of Archers Susa Louvre', at='Esta es la historia'))
 NEW("Porque en Persépolis, la capital de esos monstruos, han aparecido decenas de miles de tablillas de barro. Son las cuentas del imperio. Y cuentan que los obreros cobraban un salario, que las mujeres podían dirigir talleres y que las que acababan de dar a luz recibían raciones extra.",
-    ph('Persepolis ruins aerial view', at='en Persépolis', lt=['Persépolis', 'Irán']),
-    ph('Persepolis Fortification tablet Elamite', at='tablillas de barro'),
+    ph('Persepolis', at='en Persépolis', lt=['Persépolis', 'Irán']),
+    ph('Persepolis Fortification Archive', at='tablillas de barro'),
     ai('obreros_paga', 'workers in a vast stone quarry at sunset lining up to receive measured jars of barley from a scribe holding a clay tablet, Persepolis under construction behind', at='cobraban un salario'),
     ai('madre_racion', 'a young mother holding a swaddled newborn receives a basket of grain and a jar of wine from a storehouse official, warm interior light, ancient Persia', at='acababan de dar a luz'))
 NAR("[dramatically] Persia fue el imperio más grande que el mundo había visto. Del Danubio al río Indo. De Egipto a Asia Central. [short pause] Y casi todo lo que sabemos de él lo escribieron sus enemigos.",
@@ -55,9 +55,9 @@ HER("Astiages, rey de los medos, soñó que de su nieta nacería una vid que cub
     ai('pastor_nino', 'a shepherd and his wife in a simple mountain hut holding a newborn baby wrapped in royal cloth, firelight, sheep outside', at='un pastor lo crió'))
 NAR("[softly] Es una leyenda, claro: casi todos los fundadores de imperios tienen una parecida. Lo que sí es historia es lo que pasó en el año quinientos cincuenta. Ciro se rebeló contra su abuelo. Y el ejército de los medos, en mitad de la batalla, se pasó a su bando.",
     ai('ciro_rebelion', 'a young Persian king on a rearing horse leading horsemen across a plain while an opposing army lowers its spears and turns to join him, dust, sunset', at='Ciro se rebeló'),
-    ph('Ecbatana Hamadan ruins', at='el ejército de los medos'))
+    ph('Hegmataneh', at='el ejército de los medos'))
 NEW("[serious] Aquí aparece la primera idea que hizo grande a Persia. Ciro no arrasó Ecbatana, la capital meda. No mató a su abuelo. Lo mantuvo en su corte, y a los nobles medos les dio cargos en su gobierno. Los vencidos pasaron a ser socios.",
-    ph('Ecbatana Hamadan ruins', at='Ecbatana'),
+    ph('Hegmataneh', at='Ecbatana'),
     ai('nobles_medos', 'Median and Persian noblemen in long robes and tall felt hats standing together in a royal audience hall, a king receiving them, warm lamplight', at='les dio cargos'))
 NAR("Al oeste, en la actual Turquía, reinaba el hombre más rico de su tiempo: Creso de Lidia. Tan rico que su nombre todavía se usa como sinónimo de fortuna. Antes de atacar a Ciro, Creso preguntó al oráculo de Delfos qué pasaría.",
     ph('Sardis ruins temple of Artemis', at='en la actual Turquía', lt=['Sardes', 'Capital de Lidia · Turquía, hoy']),
@@ -110,7 +110,7 @@ NEW("Heródoto añade que Tomiris metió su cabeza en un odre lleno de sangre. O
     ph('Pasargadae tomb of Cyrus', at='su tumba sigue en pie', lt=['Tumba de Ciro', 'Pasargadas, Irán']),
     ph('Pasargadae palace ruins', at='la ciudad que fundó'))
 NAR("[serious] Ciro dejó el imperio más grande hasta entonces y una forma nueva de gobernar: respetar los dioses y las costumbres de cada pueblo, mientras paguen y obedezcan. [short pause] Pero dejó también dos hijos. [pause] Y uno de ellos iba a morir dos veces.",
-    ph('Pasargadae tomb of Cyrus sunset', at='una forma nueva de gobernar'),
+    ph('Pasargadae', at='una forma nueva de gobernar'),
     ai('dos_hijos', 'two young princes in purple robes standing apart in a shadowy palace corridor, one glancing back at the other, tension, torchlight', at='dos hijos'))
 
 # ---------------- II · EL HERMANO QUE VOLVIÓ DE LA TUMBA ----------------
@@ -140,22 +140,22 @@ NEW("Durante siete meses, Persia tuvo un rey que se llamaba Bardiya, que decía 
     ai('rey_impostor', 'a young king on a throne seen from behind, receiving cheering crowds in a courtyard, scrolls of tax tablets being broken, ambiguous shadow over his face', at='un rey que se llamaba Bardiya'))
 DAR("Dice Darío el rey: había un mago llamado Gaumata. Mintió al pueblo así: «Yo soy Bardiya, el hijo de Ciro». Entonces todo el pueblo se rebeló y se pasó a él. [short pause] No había nadie, ni persa ni medo, que se atreviera a quitarle el reino a ese Gaumata. Hasta que llegué yo.",
     ph('Behistun inscription relief Darius', at='Dice Darío el rey', lt=['Inscripción de Behistún', 'Darío I · hacia 520 a. C. · Irán']),
-    ph('Behistun relief Gaumata under foot', at='un mago llamado Gaumata'))
+    ph('Bisotun', at='un mago llamado Gaumata'))
 NEW("Es la versión oficial. La que escribió Darío, un noble de una rama lejana de la familia real, que con otros seis conspiradores entró en la fortaleza donde estaba el rey y lo mató. [short pause] Heródoto cuenta incluso cómo eligieron, entre los siete, a quién le tocaba reinar.",
     ai('siete_conjurados', 'seven armed noblemen bursting into a fortress bedchamber at night with daggers drawn, a figure rising from the bed, torchlight and chaos', at='otros seis conspiradores'),
     ph('Darius the Great relief Persepolis treasury', at='La que escribió Darío', lt=['Darío I el Grande', 'Rey de Persia · 522 – 486 a. C.', 'persia']))
 HER("Acordaron que sería rey aquel cuyo caballo relinchara primero al salir el sol. El mozo de cuadra de Darío, Ebares, la noche antes llevó allí a una yegua... y el caballo de Darío, al llegar al mismo sitio por la mañana, relinchó.",
     ai('caballo_relincha', 'six noblemen on horseback at dawn outside a city, one black stallion rearing and neighing, lightning in the sky, the others turning to look', at='al salir el sol'))
 DAR("Dice Darío el rey: entonces yo, con unos pocos hombres, maté a ese Gaumata el mago y a sus principales seguidores. Le quité el reino. Por la gracia de Ahuramazda, me convertí en rey.",
-    ph('Behistun relief Gaumata under foot', at='maté a ese Gaumata'))
+    ph('Bisotun', at='maté a ese Gaumata'))
 NAR("[softly] Truco o leyenda, la mayoría de los historiadores de hoy sospecha otra cosa: que el muerto de aquella noche era el verdadero Bardiya. Que el impostor de esta historia no era Gaumata. [pause] Que el usurpador era el propio Darío.",
     OTRA(['El rey era un mago impostor', 'Darío salvó el trono de Ciro'], ['Solo tenemos la versión de Darío', 'Muchos historiadores sospechan', 'que mató al verdadero hermano'], at='la mayoría de los historiadores'))
 ESP("[dramatically] Lo cierto es que el imperio no se lo creyó. Babilonia, Media, Elam, Armenia, incluso la propia Persia: todas se rebelaron. Durante un año entero, Darío corrió de una punta a otra del imperio, apagando incendios.",
     cd(dict(type='map', title='522 – 521 a. C.: el imperio en llamas', bbox=[36, 24, 66, 42], points=[dict(name='Babilonia', lon=44.4, lat=32.5), dict(name='Media', lon=48.5, lat=34.8), dict(name='Elam', lon=48.25, lat=32.19), dict(name='Armenia', lon=44.5, lat=40.1), dict(name='Persia', lon=53.0, lat=29.6), dict(name='Partia', lon=57.5, lat=36.5)]), at='todas se rebelaron'),
     ai('dario_campana', 'a Persian king in a war chariot racing at the head of cavalry across a burning plain, rebel city on fire in the distance, night sky glowing', at='apagando incendios'))
 DAR("[serious] Dice Darío el rey: esto es lo que hice, por la gracia de Ahuramazda, en un mismo año desde que fui rey. Libré diecinueve batallas. Capturé a nueve reyes.",
-    ph('Behistun relief Darius captive kings', at='capturé a nueve reyes'),
+    ph('Behistun relief', at='capturé a nueve reyes'),
     cd(dict(type='counter', to=19, label='batallas en un solo año, según la inscripción de Behistún'), at='diecinueve batallas'))
 NAR("[serious] Nueve reyes, atados por el cuello, uno detrás de otro. Así los mandó esculpir Darío, y debajo mandó escribir su versión de los hechos. En tres idiomas. [short pause] Y eligió un lugar donde nadie pudiera borrarla jamás: una pared de roca, a cien metros de altura.",
-    ph('Behistun relief Darius captive kings', at='atados por el cuello'),
-    ph('Behistun cliff Kermanshah', at='una pared de roca', lt=['Monte Behistún', 'Kermanshah, Irán']))
+    ph('Behistun relief', at='atados por el cuello'),
+    ph('Bisotun Kermanshah', at='una pared de roca', lt=['Monte Behistún', 'Kermanshah, Irán']))

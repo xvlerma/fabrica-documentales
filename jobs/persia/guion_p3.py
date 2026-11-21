@@ -9,7 +9,7 @@ NEW("[serious] Recapitulemos, antes de cruzar al otro lado del mito. Ciro fundó
 T('Los Inmortales', 'Y otros mitos', num='VI', sting='tema')
 B('maravilla')
 NEW("Susa, en el suroeste de Irán, año mil ochocientos ochenta y cinco. Una pareja de arqueólogos franceses, Marcel y Jane Dieulafoy, encuentra entre las ruinas del palacio de Darío miles de ladrillos vidriados de colores. Al montarlos, aparece un desfile de soldados a tamaño casi natural.",
-    ph('Susa palace ruins Shush', at='Susa', lt=['Susa', 'Irán']),
+    ph('Susa archaeological site', at='Susa', lt=['Susa', 'Irán']),
     ph('Jane Dieulafoy portrait', at='Marcel y Jane Dieulafoy', lt=['Jane Dieulafoy', 'Arqueóloga francesa · 1851 – 1916', 'otros']),
     ph('Frieze of Archers Susa Louvre', at='un desfile de soldados'))
 NAR("[serious] Hoy está en el Louvre: el friso de los arqueros. Túnicas bordadas, lanzas con una granada en el extremo, el carcaj a la espalda, la barba rizada. [short pause] Es lo más parecido que tenemos a una foto de la guardia del rey persa. La que los griegos llamaron los Inmortales.",
@@ -20,7 +20,7 @@ HER("Eran diez mil, y se les llamaba Inmortales porque, si alguno moría o caía
     ai('inmortales_desfile', 'ranks of elite Persian guardsmen in embroidered robes with spears and quivers marching through a palace gate in perfect formation, golden morning light', at='Llevaban más oro'))
 NEW("En Trescientos, los Inmortales son monstruos sin rostro, con máscaras de metal y dientes afilados. [short pause] En las tablillas de Persépolis, en cambio, no aparecen por ningún lado con ese nombre. Y hay una teoría curiosa: que Heródoto, o quien le informó, entendió mal una palabra persa.",
     OTRA(['Monstruos enmascarados', 'Soldados sin rostro ni nombre'], ['Guardia de élite de la nobleza', 'Barba rizada, túnica bordada', 'Quizá ni se llamaban así'], at='monstruos sin rostro'),
-    ph('Persepolis Fortification tablet Elamite', at='En las tablillas de Persépolis'))
+    ph('Persepolis Fortification Archive', at='En las tablillas de Persépolis'))
 NAR("[serious] En persa antiguo, anusiya significa compañeros, los del séquito del rey. Y anausa, casi igual, significa inmortales. [short pause] Es solo una hipótesis, y hay expertos que la rechazan. Pero sería una ironía perfecta: que el cuerpo militar más temido de la Antigüedad deba su nombre a un error de traducción.",
     cd(dict(type='split', left=dict(title='anusiya', lines=['«compañeros»', 'el séquito del rey']), right=dict(title='anausa', lines=['«inmortales»', 'lo que quizá entendieron los griegos']), strike=False), at='anusiya'))
 HER("Suelen deliberar sobre los asuntos más serios estando borrachos. Al día siguiente, ya sobrios, el dueño de la casa donde deliberaron les vuelve a plantear lo decidido. Si sobrios les sigue pareciendo bien, lo hacen. Si no, lo dejan. Y lo que han decidido sobrios, lo vuelven a examinar borrachos.",
@@ -30,7 +30,7 @@ NAR("[softly] Un sistema de doble control que más de un gobierno debería proba
 NEW("El otro gran mito es el del déspota oriental rodeado de esclavos. Las escaleras de la sala de audiencias de Persépolis cuentan otra historia: veintitrés pueblos del imperio subiendo en fila con regalos. Lidios con jarrones, indios con hachas y oro en polvo, etíopes con un colmillo de elefante, árabes con un dromedario.",
     ph('Apadana staircase delegations Persepolis', at='las escaleras de la sala de audiencias', lt=['Escalera de la Apadana', 'Persépolis']),
     ph('Persepolis Apadana relief Lydian delegation', at='Lidios con jarrones'),
-    ph('Persepolis Apadana relief Arab dromedary', at='árabes con un dromedario'))
+    ph('Apadana Arabs', at='árabes con un dromedario'))
 NAR("[serious] Y algo llama la atención: en esos relieves nadie lleva cadenas, nadie se arrodilla ante un látigo. Muchos van de la mano de un oficial persa o medo, que los guía hacia el rey. [short pause] Es propaganda, claro. Pero es la imagen que Persia quería dar de sí misma: un imperio de pueblos que se presentan juntos.",
     ph('Persepolis Apadana relief Persian Median guards', at='de la mano de un oficial persa'),
     ai('delegaciones_suben', 'colorful delegations of many nations in different costumes climbing a great stone staircase carrying gifts, vases, textiles, a camel and a horse, toward a columned hall, festive morning', at='un imperio de pueblos'))
@@ -69,7 +69,7 @@ NEW("Heródoto cierra su libro con un consejo que pone en boca de Ciro el Grande
 CIR("[serious] Las tierras blandas suelen criar hombres blandos. No es posible que una misma tierra dé frutos maravillosos y hombres valientes en la guerra.",
     PAP('Las tierras blandas suelen criar hombres blandos.', 'Ciro, según Heródoto', 'Historias, IX, 122', at='Las tierras blandas'))
 NAR("[dramatically] Persia parecía eterna. Y sus reyes vivían en los palacios más ricos de la Tierra. [pause] Pero en el año trescientos cincuenta y seis, en Pela, la capital de un reino del norte de Grecia que los griegos consideraban casi bárbaro, nació un niño. [short pause] Su padre se llamaba Filipo de Macedonia. Al niño lo llamaron Alejandro.",
-    ph('Pella Macedonia ruins mosaics', at='en Pela', lt=['Pela', 'Capital de Macedonia · Grecia, hoy']),
+    ph('Pella', at='en Pela', lt=['Pela', 'Capital de Macedonia · Grecia, hoy']),
     ph('Alexander the Great bust Acropolis Museum', at='Al niño lo llamaron Alejandro'))
 
 # ---------------- VIII · ALEJANDRO ----------------
@@ -99,11 +99,11 @@ NEW("La noche antes de la última batalla, su general Parmenión le aconsejó at
 ALE("[serious] No robaré la victoria.",
     PAP('No robaré la victoria.', 'Alejandro a Parmenión, según Plutarco', 'Vida de Alejandro, 31', at='No robaré la victoria'))
 ESP("[dramatically] Gaugamela, cerca de la actual Mosul, uno de octubre del año trescientos treinta y uno. Darío ha reunido al mayor ejército que le queda: carros con cuchillas en las ruedas, elefantes de la India, caballería de todo el imperio. [pause] Y vuelve a pasar lo mismo. Alejandro abre un hueco, carga hacia el rey. Y el rey huye.",
-    ph('Gaugamela plain Iraq', at='Gaugamela', lt=['Gaugamela', 'Cerca de Mosul, Irak']),
+    ph('Gaugamela', at='Gaugamela', lt=['Gaugamela', 'Cerca de Mosul, Irak']),
     ai('carros_cuchillas', 'Persian scythed chariots charging across a flat plain toward Macedonian infantry that opens lanes to let them pass, blades spinning on the wheels, dust storm', at='carros con cuchillas'),
     ai('dario_huye', 'a royal chariot fleeing through clouds of dust away from a collapsing battle line, a cavalry charge closing in behind, sunset', at='el rey huye'))
 NAR("[serious] Babilonia y Susa abrieron sus puertas. Y a principios del año trescientos treinta, Alejandro llegó a Persépolis. Plutarco cuenta que, para llevarse el tesoro, hicieron falta diez mil parejas de mulas y cinco mil camellos.",
-    ph('Persepolis ruins aerial view', at='llegó a Persépolis'),
+    ph('Persepolis', at='llegó a Persépolis'),
     ai('tesoro_mulas', 'an endless caravan of mules and camels loaded with chests of gold and silver leaving a palace city, soldiers guarding it, dust and evening light', at='cinco mil camellos'))
 ALE("[serious] ¿Debo pasar de largo y dejarte tirado, por la guerra que hiciste a los griegos? ¿O levantarte, por tu grandeza de espíritu y tu virtud?",
     ai('estatua_caida', 'a young conqueror standing before a toppled colossal stone statue of a Persian king lying on the floor of a palace hall, soldiers looting in the background, contemplative', at='Debo pasar de largo'),
@@ -120,7 +120,7 @@ NEW("Arriano, otro historiador antiguo que se basa en generales de Alejandro, da
     OTRA(['Una borrachera y una cortesana', 'Un incendio por capricho'], ['Una decisión política', 'El fuego, en los palacios de Jerjes', 'Venganza por la Acrópolis'], at='una versión más fría'))
 NAR("[serious] Pero hubo algo que el fuego no alcanzó. [short pause] En un cuarto de la muralla, lejos de los palacios, seguían guardadas miles de tablillas de barro con las cuentas del imperio. Allí se quedaron, enterradas, durante veintitrés siglos. [pause] El incendio que debía borrar Persia no pudo con su contabilidad.",
     ai('tablillas_fuego', 'stacks of clay tablets lying untouched in a dark storeroom inside a thick mud-brick wall while the glow of a distant fire flickers through a crack, smoke outside', at='el fuego no alcanzó'),
-    ph('Persepolis Fortification tablet Elamite', at='veintitrés siglos'))
+    ph('Persepolis Fortification Archive', at='veintitrés siglos'))
 NEW("Darío III huía hacia el este. En julio del año trescientos treinta, sus propios sátrapas, encabezados por Beso, lo encadenaron y lo apuñalaron. Alejandro llegó tarde. Según Plutarco, se quitó su manto y cubrió con él el cadáver de su enemigo.",
     ai('dario_muerto', 'a dying king lying in an abandoned wagon in the desert, a young conqueror kneeling and covering him with his own red cloak, soldiers standing back, dawn', at='cubrió con él el cadáver'))
 NAR("[serious] Lo mandó enterrar con honores reales, junto a los reyes persas. Y persiguió a Beso hasta capturarlo. [short pause] Ahí termina, oficialmente, el Imperio Aqueménida. Doscientos veinte años después de que Ciro se rebelara contra los medos. [pause] Pero aquí viene lo más inesperado.",
@@ -138,7 +138,7 @@ NAR("[softly] Plutarco dice que aquellas palabras conmovieron profundamente a Al
     ai('alejandro_persa', 'a young king wearing Persian royal robes and diadem receiving bowing courtiers in a Persian palace, Macedonian officers watching with disapproval in the shadows', at='adoptando la túnica'))
 NEW("En Susa, en el año trescientos veinticuatro, organizó una boda colectiva: él mismo y unos ochenta de sus oficiales se casaron con mujeres de la nobleza persa y meda. Alejandro, con Estatira, la hija de Darío III. [short pause] El conquistador quería un imperio mixto. Persa y griego a la vez.",
     ai('bodas_susa', 'a grand mass wedding ceremony in a huge tent at Susa, dozens of couples in Greek and Persian dress seated side by side, gold and purple canopies, festive torchlight', at='una boda colectiva'),
-    ph('Susa palace ruins Shush', at='En Susa'))
+    ph('Susa archaeological site', at='En Susa'))
 NEW("En Opis, según el historiador Arriano, Alejandro celebró un banquete con nueve mil invitados, macedonios y persas sentados juntos. Y rezó a los dioses por la concordia entre los dos pueblos, y por que gobernaran el imperio como socios.",
     ai('banquete_opis', 'an enormous banquet under a vast canopy with thousands of Macedonian and Persian guests seated together, a king raising a golden cup in a libation, torches and evening sky', at='nueve mil invitados'),
     ph('Alexander the Great bust Acropolis Museum', at='como socios'))
@@ -160,18 +160,18 @@ NAR("[serious] La primera obra de teatro que se conserva en la historia de Occid
     ph('Theatre of Dionysus Athens', at='La primera obra de teatro'),
     ai('sombras_ejercito', 'a menacing silhouette of a faceless dark army against a blood red sky, exaggerated and theatrical like an old movie poster but without any text', at='un enemigo sin rostro'))
 NEW("[serious] Pero las piedras no cambian de bando. Siguen ahí: la tumba de Ciro en Pasargadas, la pared de Behistún, los palacios quemados de Persépolis. Y en Chicago y en Teherán, decenas de miles de tablillas que todavía se están leyendo.",
-    ph('Pasargadae tomb of Cyrus sunset', at='la tumba de Ciro'),
-    ph('Behistun cliff Kermanshah', at='la pared de Behistún'),
+    ph('Pasargadae', at='la tumba de Ciro'),
+    ph('Bisotun Kermanshah', at='la pared de Behistún'),
     ph('Persepolis Tachara palace ruins', at='los palacios quemados'),
-    ph('Persepolis Fortification tablet Elamite', at='decenas de miles de tablillas'))
+    ph('Persepolis Fortification Archive', at='decenas de miles de tablillas'))
 NAR("[serious] El propio Heródoto, el griego que nos contó a Jerjes azotando el mar, empezó su libro con una frase que hoy parece escrita para este documental. [pause]",
     ph('Herodotus bust Metropolitan Museum', at='El propio Heródoto'))
 HER("[softly] Escribo esto para que el tiempo no borre lo que hicieron los hombres, y para que las grandes y maravillosas hazañas, tanto de los griegos como de los bárbaros, no se queden sin gloria.",
     PAP('Para que las grandes y maravillosas hazañas, tanto de los griegos como de los bárbaros, no se queden sin gloria.', 'Heródoto', 'Historias, I, 1', at='para que el tiempo no borre'),
-    ph('Persepolis ruins sunset', at='no se queden sin gloria'))
+    ph('Persepolis Tachara palace ruins', at='no se queden sin gloria'))
 NAR("[serious] Tanto de los griegos como de los bárbaros. [short pause] Ni siquiera el primer historiador de Occidente creía que los persas fueran monstruos.",
     ph('Persepolis Apadana relief soldiers', at='Ni siquiera el primer historiador'))
 NEW("Si viste nuestro documental sobre las Termópilas, ahora conoces la otra mitad. [short pause] En el próximo episodio de DocuVox: Cartago, la ciudad que Roma necesitó borrar del mapa. Suscríbete para no perdértelo.",
-    ph('Thermopylae pass Leonidas monument', at='las Termópilas'),
+    ph('Thermopylae', at='las Termópilas'),
     ph('Carthage ruins Byrsa', at='Cartago', lt=['Cartago', 'Túnez · hoy']))
 M('tema', 8)

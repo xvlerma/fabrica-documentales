@@ -6,7 +6,7 @@ from lib import *
 T('La máquina de Darío', '522 – 490 a. C.', num='III', sting='tema')
 B('maravilla')
 NEW("Kermanshah, en el oeste de Irán, año mil ochocientos treinta y cinco. Un oficial británico, Henry Rawlinson, se cuelga de una cuerda en la pared de Behistún para copiar, letra a letra, la inscripción de Darío. [short pause] Le llevará más de diez años.",
-    ph('Behistun cliff Kermanshah', at='Kermanshah'),
+    ph('Bisotun Kermanshah', at='Kermanshah'),
     ph('Henry Rawlinson portrait', at='Henry Rawlinson', lt=['Henry Rawlinson', 'Oficial y orientalista británico · 1810 – 1895', 'otros']),
     ai('rawlinson_cuerda', 'a nineteenth-century explorer hanging from ropes on a sheer limestone cliff copying ancient carved script into a notebook, a ladder below, vast Iranian plain behind', at='se cuelga de una cuerda'))
 NAR("[serious] Gracias a esa copia se descifró la escritura cuneiforme, con la que se escribió durante tres mil años en Mesopotamia. Behistún hizo con ella lo que la piedra de Rosetta con los jeroglíficos. [short pause] El mentiroso de Behistún, si lo era, nos dejó la llave de toda una civilización.",
@@ -24,7 +24,7 @@ NEW("Y es que Darío, usurpador o no, resultó un genio de la organización. Div
     ph('Apadana staircase delegations Persepolis', at='unas veinte provincias'))
 HER("Los indios, el pueblo más numeroso de todos los que conocemos, pagaban el tributo más alto: trescientos sesenta talentos de oro en polvo. Babilonia y el resto de Asiria, mil talentos de plata y quinientos niños eunucos.",
     PAP('Los indios pagaban el tributo más alto: trescientos sesenta talentos de oro en polvo.', 'Heródoto, sobre los tributos de Darío', 'Historias, III, 92 – 94', at='oro en polvo'),
-    ph('Persepolis Apadana relief Indian delegation gold', at='trescientos sesenta talentos'))
+    ph('Apadana Indians', at='trescientos sesenta talentos'))
 NAR("Y por encima de todos, unos inspectores que los griegos llamaban los ojos y los oídos del rey. Llegaban sin avisar. [short pause] Un sátrapa podía ser el hombre más poderoso de su provincia, pero nunca sabía quién estaba escribiendo sobre él.",
     ai('ojos_oidos', 'a cloaked royal inspector arriving unannounced at a governor palace at dusk, guards stepping aside, the governor freezing at the top of the stairs', at='los ojos y los oídos del rey'))
 NEW("Para pagar todo eso hacía falta dinero. Darío acuñó una moneda de oro casi puro, el dárico, con el rey arrodillado tirando con arco. Los griegos la llamaban «los arqueros». [short pause] Con ella, como veremos, Persia compraría más ciudades griegas que con todos sus ejércitos.",
@@ -50,7 +50,7 @@ NAR("[serious] Un canal del Nilo al mar Rojo. Casi dos mil cuatrocientos años a
     ai('qanat_construccion', 'ancient diggers lowering baskets into a deep vertical shaft in the Iranian desert, a line of shafts stretching toward distant mountains, sunrise', at='túneles subterráneos'))
 B('maravilla')
 NEW("Y luego estaba la capital. Hacia el año quinientos dieciocho, Darío empezó a levantar Persépolis: una terraza artificial del tamaño de diecisiete campos de fútbol, palacios con columnas de veinte metros y escaleras de peldaños tan bajos que, según se dice, se podían subir a caballo.",
-    ph('Persepolis ruins aerial view', at='levantar Persépolis'),
+    ph('Persepolis', at='levantar Persépolis'),
     ph('Persepolis Apadana columns', at='columnas de veinte metros'),
     ph('Persepolis grand staircase', at='escaleras de peldaños'),
     ai('persepolis_esplendor', 'the full splendor of Persepolis at its height, painted palaces with colored reliefs and cedar roofs, crowds of delegations climbing the great staircase, golden afternoon', at='palacios con columnas'))
@@ -59,17 +59,17 @@ DAR("Dice Darío el rey: los materiales de este palacio vinieron de lejos. La ma
     ph('Darius Susa foundation charter tablet Louvre', at='Los canteros'))
 NAR("[dramatically] ¿Quién la construyó? Durante siglos se dio por hecho la respuesta: esclavos. Como en las películas. [pause] Hasta que en mil novecientos treinta y tres los arqueólogos de la Universidad de Chicago abrieron un cuarto de la muralla. Y encontraron decenas de miles de tablillas de barro.",
     ai('esclavos_latigo', 'a stereotypical Hollywood-like vision of slaves dragging huge stones under whips, deliberately theatrical and false, red dramatic light, blurred', at='esclavos'),
-    ph('Persepolis Fortification tablet Elamite', at='decenas de miles de tablillas'),
-    ph('Persepolis excavation Herzfeld 1930s', at='abrieron un cuarto de la muralla'))
+    ph('Persepolis Fortification Archive', at='decenas de miles de tablillas'),
+    ph('Herzfeld Persepolis excavation', at='abrieron un cuarto de la muralla'))
 PIE("Son el archivo de la Fortificación de Persépolis. Escritas en elamita, entre los años quinientos nueve y cuatrocientos noventa y cuatro antes de Cristo. Cebada, vino, cerveza, ovejas. Quién las recibe, cuánto, en qué mes. Y quién lo firma con su sello.",
     cd(dict(type='doc', title='Archivo de la Fortificación de Persépolis', lines=['Tablillas de barro en elamita', '509 – 494 a. C.', 'Raciones de cebada, vino, cerveza y ganado'], source='Instituto de Estudios Antiguos · Universidad de Chicago', hl='Raciones'), at='Son el archivo'),
-    ph('Persepolis Fortification tablet seal impression', at='firma con su sello'))
+    ph('Persepolis seal impression', at='firma con su sello'))
 PIE("[serious] Y lo que cuentan no es una obra de esclavos. Miles de trabajadores, llegados de todo el imperio, cobran cada mes una paga en especie, según su oficio. Los más cualificados, hombres o mujeres, cobran lo mismo. [short pause] Hay mujeres al frente de equipos de trabajo, con el título de jefa.",
     ai('taller_mujeres', 'women artisans weaving and dyeing textiles in a large workshop at Persepolis, a woman supervisor holding a clay tablet directing them, sunlight through columns', at='mujeres al frente'),
     OTRA(['Una capital levantada a latigazos', 'Esclavos sin nombre'], ['Trabajadores con nombre y paga', 'Mujeres jefas de equipo', 'Raciones extra por maternidad'], at='no es una obra de esclavos'))
 PIE("Y hay raciones especiales para las madres. Las que acaban de dar a luz reciben cereal y vino o cerveza de más durante un tiempo. [short pause] Aunque no todo es moderno: si el bebé es un niño, la ración extra es el doble que si es una niña.",
     ai('madre_registro', 'a storehouse scribe pressing a seal on a clay tablet while several mothers with infants wait in line holding baskets, grain sacks and wine jars, soft morning light', at='raciones especiales para las madres'),
-    ph('Persepolis Fortification tablet Elamite', at='si el bebé es un niño'))
+    ph('Persepolis Fortification Archive', at='si el bebé es un niño'))
 PIE("Las tablillas tienen también a las reinas. Irdabama, una gran dama de la corte, gestiona sus propias tierras, con cientos de trabajadores a su cargo y su propio sello. Artistona, la esposa favorita de Darío, recibe vino y ovejas para sus banquetes. [short pause] Nada que ver con las mujeres encerradas de un harén de película.",
     ph('Achaemenid cylinder seal impression', at='su propio sello'),
     ai('reina_hacienda', 'an elegant Persian noblewoman in fine robes inspecting vineyards and storehouses on horseback with scribes and stewards, her face turned away, golden hour', at='gestiona sus propias tierras'))
@@ -93,7 +93,7 @@ HER("Cuando Darío se enteró, pidió un arco y disparó una flecha al cielo. Y 
     PAP('Señor, acuérdate de los atenienses.', 'Lo que un criado repetía a Darío en cada cena, según Heródoto', 'Historias, V, 105', at='acuérdate de los atenienses'))
 NAR("[dramatically] Darío no lo olvidó. [pause] Ocho años después, una flota persa cruzó el Egeo con una misión: castigar a Atenas. Y desembarcó en una playa a cuarenta kilómetros de la ciudad. Una playa llamada Maratón.",
     ai('flota_egeo', 'a vast Persian fleet of hundreds of warships with dark sails crossing the Aegean sea at dawn, horses on transport ships, islands on the horizon', at='una flota persa'),
-    ph('Marathon bay beach Greece', at='Maratón', lt=['Bahía de Maratón', 'Ática, Grecia · hoy']))
+    ph('Marathon Greece', at='Maratón', lt=['Bahía de Maratón', 'Ática, Grecia · hoy']))
 
 # ---------------- IV · MARATÓN, VISTA DESDE PERSIA ----------------
 T('Maratón, vista desde Persia', '490 a. C.', num='IV', sting='batalla')
@@ -148,11 +148,11 @@ NEW("[serious] ¿Cuántos eran? Heródoto da una cifra imposible: un millón set
 HER("¿Qué pueblo de Asia no llevó Jerjes contra Grecia? ¿Qué río no se secó al beber su ejército, salvo los más grandes?",
     ai('rio_seco', 'an army of thousands drinking from a river until it runs dry, horses and men crowding the cracked muddy riverbed, heat haze', at='Qué río no se secó'))
 NAR("Venían de casi cincuenta pueblos distintos: persas y medos, pero también egipcios, indios, escitas, etíopes, fenicios… y muchos griegos. [short pause] Porque esto casi nunca se cuenta: buena parte de Grecia ya estaba del lado de Persia, o se negó a luchar contra ella.",
-    ph('Tomb of Xerxes Naqsh-e Rostam throne bearers', at='casi cincuenta pueblos distintos'),
+    ph('Naqsh-e Rustam', at='casi cincuenta pueblos distintos'),
     ai('griegos_aliados', 'Greek soldiers and Persian officers sharing a campfire in a large camp at night, Greek helmets beside Persian bows, an uneasy alliance', at='muchos griegos'))
 B('batalla')
 ESP("[dramatically] Agosto del año cuatrocientos ochenta. Las Termópilas. Un paso entre la montaña y el mar tan estrecho que, en algunos puntos, solo cabía un carro. Allí esperan unos siete mil griegos, con el rey de Esparta, Leónidas, y sus trescientos.",
-    ph('Thermopylae pass Leonidas monument', at='Las Termópilas'),
+    ph('Thermopylae', at='Las Termópilas'),
     ph('Leonidas statue Thermopylae', at='Leónidas', lt=['Leónidas I', 'Rey de Esparta', 'griegos']),
     cd(dict(type='counter', to=7000, label='griegos en las Termópilas, según las cifras de Heródoto: no solo trescientos'), at='unos siete mil griegos'))
 NEW("Jerjes esperó cuatro días. Pensaba que se retirarían. A su lado estaba un rey espartano en el exilio, Demarato, y el rey persa le preguntó cómo era posible que tan pocos hombres, y libres, se enfrentaran a él.",
@@ -176,7 +176,7 @@ ESP("[dramatically] Los persas subieron a la Acrópolis y la quemaron. Templos, 
     ai('acropolis_arde', 'the Acropolis of Athens burning at night, ancient temples engulfed in flames, Persian soldiers silhouetted on the rock, smoke against the stars', at='la quemaron'),
     ph('Kritios Boy Acropolis Museum', at='estatuas'))
 NEW("Pero desde la Acrópolis en llamas, los atenienses podían ver otra cosa. Su flota. Escondida en el estrecho de Salamina, a pocos kilómetros. [pause] Y su jefe, Temístocles, acababa de enviar a Jerjes un mensaje secreto.",
-    ph('Salamis strait Greece', at='el estrecho de Salamina', lt=['Estrecho de Salamina', 'Grecia · hoy']),
+    ph('Salamis Island', at='el estrecho de Salamina', lt=['Estrecho de Salamina', 'Grecia · hoy']),
     ph('Themistocles bust Ostia', at='Temístocles', lt=['Temístocles', 'Estratega ateniense', 'griegos']))
 B('tension')
 NAR("[serious] El mensaje decía que los griegos iban a huir por la noche, y que era el momento de atacarlos. Era mentira. Jerjes mandó a su flota entrar en el estrecho. [short pause] Y en aquel canal tan estrecho, cientos de barcos persas no podían maniobrar. Uno de los griegos que lucharon aquel día, el poeta Esquilo, recordaría el grito que se oyó al amanecer.",

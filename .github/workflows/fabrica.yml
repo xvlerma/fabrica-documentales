@@ -28,7 +28,7 @@ jobs:
         run: |
           if [ -n "${{ github.event.inputs.job }}" ]; then J="${{ github.event.inputs.job }}";
           else J=$(git diff --name-only HEAD~1 HEAD | grep -m1 '^jobs/.*/job.json$' | cut -d/ -f2); fi
-          P=$(python3 -c "import json;j=json.load(open('jobs/$J/job.json'));print(j.get('parts',1) if j.get('stage')!='cast' else 1)")
+          P=$(python3 -c "import json;j=json.load(open('jobs/$J/job.json'));print(j.get('parts',1) if j.get('stage') not in ('cast','previa') else 1)")
           L=$(python3 -c "print(list(range($P)))")
           echo "id=$J" >> $GITHUB_OUTPUT; echo "parts=$P" >> $GITHUB_OUTPUT; echo "list=$L" >> $GITHUB_OUTPUT
           echo "trabajo: $J · partes: $P"
@@ -114,8 +114,9 @@ jobs:
         run: |
           J=${{ needs.setup.outputs.id }}; O=jobs/$J/out; mkdir -p $O
           git config --global user.name fabrica; git config --global user.email fabrica@users.noreply.github.com
-          mkdir /tmp/r && cd /tmp/r && git init -q && git checkout -q -b out-$J
+          B=out-$J; [ "$(python3 -c "import json;print(json.load(open('jobs/$J/job.json')).get('stage'))")" = previa ] && B=out-$J-previa
+          mkdir /tmp/r && cd /tmp/r && git init -q && git checkout -q -b $B
           cp $GITHUB_WORKSPACE/$O/* . 2>/dev/null || true; cp /tmp/run.log . 2>/dev/null || true
           if [ -f $J.mp4 ]; then split -b 90M -d $J.mp4 $J.mp4.part; rm $J.mp4; fi
           git add -A; git commit -qm "salida $J"
-          git push -f https://x-access-token:${{ github.token }}@github.com/${{ github.repository }} out-$J
+          git push -f https://x-access-token:${{ github.token }}@github.com/${{ github.repository }} $B

@@ -559,6 +559,38 @@ def sync_sheets(shots, wd, out_dir):
         sheet.save(f'{out_dir}/sincronia_{k // per:02d}.jpg', quality=78)
     log(f'   hojas de sincronía: {(len(sel) + per - 1) // per}')
 
+def previa_sheets(shots, wd, out_dir):
+    """Previa barata (sin render): la imagen EXACTA que llevará cada plano junto a lo que se oye. Se revisa entera antes de renderizar."""
+    from PIL import ImageDraw, ImageFont, ImageOps
+    F = ImageFont.truetype(os.path.join(os.path.dirname(__file__), 'fonts', 'corm600.ttf'), 20)
+    per = 12; seen = {}; avisos = []
+    for s in shots:
+        r = s['res']; p = r.get('path')
+        if p: seen.setdefault(p, []).append(s['n'])
+    for p, ns in seen.items():
+        for a, b in zip(ns, ns[1:]):
+            if b - a <= 3: avisos.append(f'plano {b}: repite la imagen del plano {a}')
+    for k in range(0, len(shots), per):
+        ch = shots[k:k + per]; sheet = Image.new('RGB', (3 * 640, ((len(ch) + 2) // 3) * 440), (12, 12, 12)); d = ImageDraw.Draw(sheet)
+        for j, s in enumerate(ch):
+            x, y = (j % 3) * 640, (j // 3) * 440; r = s['res']
+            try:
+                if r['kind'] == 'card': raise ValueError
+                src = r['path']
+                if r['kind'] == 'video':
+                    im = f'{wd}/pv_{s["n"]}.jpg'; sh(['ffmpeg', '-loglevel', 'error', '-y', '-ss', '2', '-i', src, '-frames:v', '1', im]); src = im
+                sheet.paste(ImageOps.fit(Image.open(src).convert('RGB'), (620, 349)), (x + 10, y + 10))
+            except Exception:
+                c = r.get('card', {}); d.rectangle([x + 10, y + 10, x + 630, y + 359], fill=(40, 34, 24))
+                d.text((x + 30, y + 150), f'TARJETA {c.get("type", "")}: {c.get("title") or c.get("text") or c.get("header") or ""}'[:60], font=F, fill=(240, 200, 120))
+            tag = s['spec'].get('at') or s['spec'].get('photo') or s['spec'].get('commons') or ('IA' if 'ai' in s['spec'] else '')
+            d.text((x + 12, y + 362), f'#{s["n"]} {s["t"]:.1f}s {s["d"]:.1f}s · {tag}'[:62], font=F, fill=(240, 200, 120))
+            hd = s.get('heard', '')
+            d.text((x + 12, y + 388), '«' + hd[:58], font=F, fill=(200, 230, 255)); d.text((x + 12, y + 412), hd[58:116] + '»', font=F, fill=(200, 230, 255))
+        sheet.save(f'{out_dir}/previa_{k // per:02d}.jpg', quality=78)
+    open(f'{out_dir}/previa_avisos.txt', 'w').write('\n'.join(avisos) + '\n')
+    log(f'FIN PREVIA: {(len(shots) + per - 1) // per} hojas previa_NN.jpg · {len(avisos)} avisos de repetición')
+
 def srt_time(x):
     h = int(x // 3600); m = int(x % 3600 // 60); s = x % 60; return f'{h:02d}:{m:02d}:{int(s):02d},{int((s % 1) * 1000):03d}'
 
@@ -704,6 +736,8 @@ def run(job_dir):
             alt = job.get('fallback') or [{'card': {'type': 'title', 'title': job.get('channel', ''), 'sub': job.get('title', '')}}]
             s['res'] = resolve(alt[n % len(alt)], s['d'], credits)
         mv = random.choice([m for m in range(len(MOVES)) if m != last]); s['move'] = last = mv; s['n'] = n
+    if job.get('stage') == 'previa':
+        previa_sheets(shots, wd, out_dir); open(f'{out_dir}/informe.txt', 'w').write('\n'.join(LOG) + '\n'); return
     for name, q in job.get('overlays', {}).items():
         try:
             c = q if isinstance(q, dict) else candidates({'video': q, 'free': True}, n=1)[0]

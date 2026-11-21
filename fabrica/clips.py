@@ -56,7 +56,7 @@ def find_phrase(W, phrase):
 def whisper_words(src, model='small'):
     from faster_whisper import WhisperModel
     wav = '/tmp/clips_audio.wav'
-    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', src, '-vn', '-ac', '1', '-ar', '16000', wav], check=True, timeout=5400)
+    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', *(['-reconnect', '1', '-reconnect_streamed', '1', '-rw_timeout', '60000000'] if src.startswith('http') else []), '-i', src, '-vn', '-ac', '1', '-ar', '16000', wav], check=True, timeout=5400)
     import soundfile as sf, numpy as np
     y, _ = sf.read(wav, dtype='float32')
     m = WhisperModel(model, device='cpu', compute_type='int8', cpu_threads=os.cpu_count() or 2)
@@ -69,11 +69,25 @@ def whisper_words(src, model='small'):
 
 def cut(src, t0, t1, out_mp4, pad=(1.2, 1.5)):
     a = max(0, t0 - pad[0]); d = (t1 + pad[1]) - a
-    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-ss', f'{a:.2f}', '-i', src, '-t', f'{d:.2f}',
+    net = ['-reconnect', '1', '-reconnect_streamed', '1', '-reconnect_delay_max', '10', '-rw_timeout', '60000000'] if src.startswith('http') else []
+    if re.search(r'\.(mp3|m4a|wav)(\?|$)', src):   # audio sin imagen: fondo negro (la imagen la pone el montaje)
+        subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', *net, '-ss', f'{a:.2f}', '-i', src, '-f', 'lavfi', '-i', 'color=c=black:s=1920x1080:r=25',
+                        '-t', f'{d:.2f}', '-map', '1:v', '-map', '0:a', '-c:v', 'libx264', '-preset', 'veryfast', '-c:a', 'aac', '-b:a', '192k', '-shortest', out_mp4],
+                       check=True, timeout=600)
+        return a, d
+    for k in range(3):
+        try:
+            return _cut(src, a, d, out_mp4, net)
+        except Exception as e:
+            log(f'   reintento {k + 1} corte: {str(e)[-120:]}')
+    return _cut(src, a, d, out_mp4, net)
+
+def _cut(src, a, d, out_mp4, net):
+    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', *net, '-ss', f'{a:.2f}', '-i', src, '-t', f'{d:.2f}',
                     '-vf', 'scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2',
                     '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '19', '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', out_mp4],
                    check=True, timeout=1200)
-    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-ss', f'{min(d, pad[0] + 0.6):.2f}', '-i', out_mp4, '-frames:v', '1', '-vf', 'scale=640:-2',
+    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-ss', f'{min(d, 1.5):.2f}', '-i', out_mp4, '-frames:v', '1', '-vf', 'scale=640:-2',
                     out_mp4[:-4] + '.jpg'], timeout=120)
     return a, d
 

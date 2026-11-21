@@ -90,7 +90,24 @@ def cta_png(path, plat):
     im.save(path)
 
 
+def join_parts(mp4, subs, out_dir, k, parts):
+    """Une varios tramos sin IA en un mp4 temporal y devuelve (mp4, subs remapeados, duración)."""
+    wd = os.path.abspath(os.path.join(out_dir, f'parts{k}')); os.makedirs(wd, exist_ok=True); lst, nsubs, off = [], [], 0.0
+    for q, (a, z) in enumerate(parts):
+        f = f'{wd}/p{q}.mp4'
+        subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-ss', f'{a:.2f}', '-t', f'{z - a:.2f}', '-i', mp4, '-c:v', 'libx264', '-preset', 'veryfast',
+                        '-crf', '16', '-r', '30', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', f], check=True)
+        lst.append(f"file '{f}'")
+        nsubs += [(max(a, x) - a + off, min(z, y) - a + off, t) for x, y, t in subs if y > a and x < z]
+        off += z - a
+    open(f'{wd}/l.txt', 'w').write('\n'.join(lst)); out = f'{wd}/joined.mp4'
+    subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', f'{wd}/l.txt', '-c', 'copy', out], check=True)
+    return out, nsubs, off
+
+
 def make(mp4, subs, out_dir, k, s, plat):
+    if s.get('parts'):
+        mp4, subs, d = join_parts(mp4, subs, out_dir, k, s['parts']); s = dict(s, start=0.0, end=d)
     t0, t1 = s['start'], s['end']; dur = t1 - t0; wd = os.path.join(out_dir, f'tmp{k}{plat}'); os.makedirs(wd, exist_ok=True)
     tail = 4.5 if plat == 'ig' else 6.0
     overlay_png(f'{wd}/ov.png', s['hook1'], s['hook2'], 'DocuVox · ' + s['tag'] if plat == 'ig' else '')
@@ -107,7 +124,7 @@ def make(mp4, subs, out_dir, k, s, plat):
         p = f'{wd}/s{q}.png'; text_png(p, tx, 62, (255, 255, 255)); inputs += ['-loop', '1', '-i', p]
         chain += f";[{last}][{n}:v]overlay=0:0:enable='between(t,{a:.2f},{z:.2f})':shortest=1[w{q}]"; last = f'w{q}'; n += 1
     chain += f';[{last}]fade=t=out:st={dur - 0.6:.2f}:d=0.6,format=yuv420p[vout];[0:a]afade=t=in:st=0:d=0.3,afade=t=out:st={dur - 0.7:.2f}:d=0.7[aout]'
-    out = os.path.join(out_dir, f"estafas_short_{k + 1}_{plat}.mp4")
+    out = os.path.join(out_dir, f"{os.environ.get('JOB', 'short')}_short_{k + 1}_{plat}.mp4")
     subprocess.run(['ffmpeg', '-y', '-loglevel', 'error'] + inputs + ['-filter_complex', chain, '-map', '[vout]', '-map', '[aout]', '-t', f'{dur:.2f}',
                     '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '21', '-r', '30', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart', out], check=True)
     return out

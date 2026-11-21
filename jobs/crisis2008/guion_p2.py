@@ -16,7 +16,7 @@ NEW("Por la mañana, las cámaras de televisión de todo el mundo graban la mism
 NAR("¿Cómo podía caer un gigante así? Porque llevaba años comprando, empaquetando y revendiendo lo mismo que había hundido las casas americanas: hipotecas que nunca se iban a pagar. Y cuando esos paquetes dejaron de valer nada, nadie quiso rescatarlo.",
     ai('paquetes_hipotecas', 'a towering stack of bound mortgage files wrapped like gift packages collapsing on a trading desk, papers flying, dramatic motion', at='empaquetando y revendiendo'))
 NEW("Tres semanas después, su presidente, Richard Fuld, tuvo que explicarse ante el Congreso de los Estados Unidos.",
-    ph('Richard Fuld Congress 2008', at='Richard Fuld', lt=['Richard Fuld', 'Presidente de Lehman Brothers', 'banca']))
+    ph('United States Capitol 2008', at='el Congreso de los Estados Unidos'))
 USA("Me despierto cada noche preguntándome qué podría haber hecho de otra manera.",
     cd(dict(type='quote', text='Me despierto cada noche preguntándome qué podría haber hecho de otra manera.', attrib='Richard Fuld ante el Congreso de EE. UU. · 6 de octubre de 2008 (traducción)'), at='Me despierto'))
 B('accion')
@@ -62,7 +62,7 @@ NEW("El ladrillo había creado millones de empleos. Y se los llevó con la misma
 DAT("La construcción llegó a dar trabajo a unos dos millones setecientas mil personas en dos mil siete. Seis años después, no llegaba a un millón.",
     cd(dict(type='split', left=dict(title='Construcción · 2007', lines=['Unos 2,7 millones', 'de ocupados']), right=dict(title='Construcción · 2013', lines=['Menos de 1 millón']), strike=False), at='dos millones setecientas mil'))
 NAR("El Gobierno intentó frenar la caída con obra pública. A finales de dos mil ocho lanza el Plan E: ocho mil millones de euros para que los ayuntamientos hicieran obras pequeñas y rápidas. Aceras, plazas, polideportivos. Dio trabajo durante unos meses. Pero cuando se acabó el dinero, el paro siguió subiendo.",
-    ph('Plan E cartel obra', at='el Plan E'),
+    cd(dict(type='kw', word='PLAN E', sub='Fondo Estatal de Inversión Local · 2009'), at='el Plan E'),
     cd(dict(type='counter', to=8000, label='millones de euros · Fondo Estatal de Inversión Local (Plan E)'), at='ocho mil millones'),
     ai('obra_acera', 'workers repaving a town sidewalk with a large official sign board without readable text, orange safety fences, sunny, busy', at='Aceras, plazas'))
 PRE("En la primavera de dos mil nueve, la ministra de Economía, Elena Salgado, aseguró que ya se veían brotes verdes en la economía. La expresión se hizo tan famosa como la de la Champions. Y es que el paro siguió subiendo todavía cuatro años más.",

@@ -57,7 +57,7 @@ if len(desc) > 4950:   # límite de YouTube: créditos completos en el comentari
 com = '¿Crees que se está repitiendo? ¿Cómo viviste tú 2008? Cuéntalo abajo 👇\n\nCréditos de imagen (autor y licencia):\n' + '\n'.join(compact(l) for l in cred)
 com = com[:9800]
 
-pod = f"""Crisis de 2008 en España: la burbuja inmobiliaria, el crédito fácil y el rescate bancario. ¿Se está repitiendo hoy con el precio de la vivienda? De El Quiñón de Seseña a Lehman Brothers, de los seis millones de parados a los desahucios, el aeropuerto de Castellón y el rescate de Bankia. Y al final, la respuesta: ¿estamos otra vez en el mismo punto? Documental sonoro de una hora.
+pod = f"""Crisis de 2008 en España: la burbuja inmobiliaria, el crédito fácil y el rescate bancario. ¿Se está repitiendo hoy con el precio de la vivienda? De El Quiñón de Seseña a Lehman Brothers, de los seis millones de parados a los desahucios, el aeropuerto de Castellón y el rescate de Bankia. Y al final, la respuesta: ¿estamos otra vez en el mismo punto? Documental sonoro de 50 minutos.
 
 {caps}
 

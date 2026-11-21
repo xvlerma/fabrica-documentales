@@ -1,26 +1,70 @@
 {
  "id": "e29n_recon",
  "stage": "recon",
- "rev": 2,
+ "rev": 3,
  "title": "recon",
  "music": {},
  "units": [
   {
    "k": "C",
-   "src": "https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20241102-Declaracion_DANA__300.mp4/playlist.m3u8",
+   "src": "https://ztnr.rtve.es/ztnr/6999732.m3u8",
+   "in": 5,
+   "out": 8,
+   "lt": [
+    "RTVE",
+    "6999732"
+   ]
+  },
+  {
+   "k": "C",
+   "src": "https://ztnr.rtve.es/ztnr/16824703.m3u8",
+   "in": 5,
+   "out": 8,
+   "lt": [
+    "RTVE",
+    "16824703"
+   ]
+  },
+  {
+   "k": "C",
+   "src": "https://ztnr.rtve.es/ztnr/17126640.m3u8",
+   "in": 5,
+   "out": 8,
+   "lt": [
+    "RTVE",
+    "17126640"
+   ]
+  },
+  {
+   "k": "C",
+   "src": "https://ztnr.rtve.es/ztnr/17322393.m3u8",
+   "in": 5,
+   "out": 8,
+   "lt": [
+    "RTVE",
+    "17322393"
+   ]
+  },
+  {
+   "k": "C",
+   "src": "https://www.elindependiente.com/wp-content/uploads/2019/11/1573038200884-1.mp3",
    "in": 0,
-   "out": 8
+   "out": 5,
+   "audio_only": true
+  },
+  {
+   "k": "C",
+   "src": "https://www.elindependiente.com/wp-content/uploads/2019/11/1573038200884.mp3",
+   "in": 0,
+   "out": 5,
+   "audio_only": true
   }
  ],
  "pages": [
-  "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/0211024-sanchez-declaracion-dana.aspx",
-  "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/030926-sanchez-comparecencia-ceuta.aspx",
+  "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2024/280224-sanchez-sesion-control-congreso.aspx",
+  "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2025/090725-sanchez-comparecencia-congreso.aspx",
   "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/281026-sanchez-visita-accidente-tren.aspx",
-  "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/310726-sanchez-visita-ceuta.aspx",
-  "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/010826-sanchez-playlist-verano.aspx",
-  "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/031124-sanchez-visita-paiporta.aspx",
-  "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2025/090725-sanchez-comparecencia-congreso-corrupcion.aspx",
-  "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/280224-sanchez-sesion-control.aspx",
-  "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/180126-sanchez-accidente-adamuz.aspx"
+  "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2026/240626-sanchez-comparecencia-asuntos-judiciales.aspx",
+  "https://www.rtve.es/play/videos/telediario-fin-de-semana/sanchez-defiende-amnistia-ante-comite-federal-del-psoe/6999732/"
  ]
 }

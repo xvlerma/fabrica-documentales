@@ -26,6 +26,12 @@ after(isC('clip_19d_1_vinculacion.mp4'),
 for u in U:
     if u['k'] in ('N', 'R') and 'registra la oficina' in u.get('text', ''):
         u['shots'].insert(1, {'file': 'media/e29n90/broll/ul_zapatero_registro__01.mp4', 'start': 3, 'at': 'registra'})
+HLS_CUT = json.load(open(os.path.join(HERE, 'hls_cuts.json'))) if os.path.exists(os.path.join(HERE, 'hls_cuts.json')) else {}
+for u in U:
+    if u['k'] == 'C' and '/hls/' in u['src']:
+        n = os.path.basename(u['src'])[:-4]
+        if n in HLS_CUT: u.update(HLS_CUT[n])
+        else: u['in'], u['out'] = 0, 8.0  # provisional para el casting
 faltan = []
 for i, u in enumerate(U):
     for s in u.get('shots', []):

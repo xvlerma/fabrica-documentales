@@ -1,0 +1,24 @@
+name: voz
+on:
+  push:
+    paths: ['voz/run.txt']
+permissions:
+  contents: write
+jobs:
+  voz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - name: dependencias
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q faster-whisper
+      - name: cortar
+        run: mkdir -p /tmp/vo && python3 voz/voz.py /tmp/vo 2>&1 | tee /tmp/vo/log.txt
+      - name: entregar
+        if: always()
+        run: |
+          git config --global user.name fabrica; git config --global user.email fabrica@users.noreply.github.com
+          cd /tmp/vo && git init -q && B=out-e29n90_voz_$(sed -n 1p $GITHUB_WORKSPACE/voz/run.txt); git checkout -q -b $B
+          git add -A && git commit -qm voz && git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" $B

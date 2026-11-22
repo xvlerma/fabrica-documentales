@@ -57,11 +57,11 @@ C('clip_39c_feijoo_decente.mp4', 'Alberto Núñez Feijóo a Pedro Sánchez', 'Ca
 N('TOP', "[serious] La misma palabra. [pause] Once años después. [short pause] Con los papeles cambiados.",
   [card(type='aviso', lines=['14/12/2015', '19/11/2026'], size=60)])
 N('NEW', "Jueves, diecinueve de noviembre de dos mil veintiséis. Madrid. Faltan diez días para las elecciones generales. "
-         "Es el único cara a cara de la campaña. Y en el bloque dedicado a la corrupción, el presidente del Gobierno hace algo que no había hecho nunca en un debate.",
+         "Es el único cara a cara de la campaña. Y en el bloque dedicado a la corrupción, el presidente del Gobierno empieza con dos palabras.",
   [ai('plato_debate'), ai('atriles', at='cara a cara')])
 C('clip_01b_pido_perdon_corrupcion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · RTVE · Cara a cara · 19/11/2026', 0, 15.8)
 N('TOP', "[serious] Pide perdón. [short pause] Y en la misma frase se declara limpio. [pause] "
-         "Las dos cosas a la vez. Así ha gobernado ocho años: pidiendo comprensión por lo que pasó a su alrededor, y defendiendo que nada de eso le toca a él.",
+         "Las dos cosas a la vez. Es una fórmula que ha repetido en estos ocho años: disculpas por lo ocurrido a su alrededor, y la defensa firme de su integridad personal.",
   [ai('congreso_noche'), ai('pasillo_vacio', at='ocho años')])
 N('NEW', "Sus defensores dicen que ha sacado adelante el país en la década más difícil que se recuerda: una pandemia, un volcán, una riada, una guerra en Europa. "
          "Sus críticos dicen que ha sobrevivido a costa de casi todo lo que prometió. [short pause] Este documental no le va a pedir que elija. Le va a poner delante sus propias palabras.",
@@ -69,6 +69,13 @@ N('NEW', "Sus defensores dicen que ha sacado adelante el país en la década má
 N('TOP', "[softly] Hay preguntas que nadie le hizo así, una detrás de otra. [pause] Se las vamos a hacer. [short pause] "
          "Y le vamos a dejar contestar a él. Con sus respuestas reales. Con su fecha. Y con lo que pasó después.",
   [AVISO])
+B('pulso')
+C('clip_35_bildu_no_vamos_a_pactar.mp4', 'Pedro Sánchez', '2015', 1.4, 4.1)
+C('clip_31_no_dormiria.mp4', 'Pedro Sánchez', '19/09/2019', 4.7, 10.5)
+C('clip_32_traerlo_de_vuelta.mp4', 'Pedro Sánchez', '04/11/2019', 0, 3.2)
+C('clip_22_pues_ya_esta.mp4', 'Pedro Sánchez', 'RNE · 06/11/2019 (audio)', 0, 8.3, audio_only=True, quote='¿La Fiscalía de quién depende? (…) Pues ya está.')
+C('clip_25_no_estaba_de_vacaciones.mp4', 'Pedro Sánchez', '13/11/2026', 3.5, 8.7)
+C('clip_14_mano_en_el_fuego.mp4', 'Pedro Sánchez', '13/11/2026', 3.7, 8.2)
 U.append(dict(k='T', voice='TOP', text="Pedro Sánchez. [pause] La entrevista que nadie le hizo.", secs=6.0, voice_at=0.8, sting='golpe',
               card=dict(type='title', title='Pedro Sánchez', sub='La entrevista que nadie le hizo')))
 M('tema', 4, [card(type='aviso', lines=['Todas sus respuestas son reales.'], size=54)])
@@ -78,12 +85,12 @@ M('tema', 4, [card(type='aviso', lines=['Todas sus respuestas son reales.'], siz
 # =====================================================================================
 Q(1, '¿Por qué tendríamos que creerle?', 'Presidente, ¿por qué tendríamos que creerle?')
 B('pulso')
-N('NEW', "Pamplona, abril de dos mil quince. Pedro Sánchez lleva diez meses al frente del Partido Socialista. En un plató de la televisión navarra, le preguntan si su partido pactaría con EH Bildu para gobernar en Navarra.",
+N('NEW', "Pamplona, abril de dos mil quince. Pedro Sánchez lleva menos de un año al frente del Partido Socialista. En un plató de la televisión navarra, le preguntan si su partido pactaría con EH Bildu para gobernar en Navarra.",
   [ai('pamplona_noche'), card(type='aviso', lines=['NAVARRA TV · ABRIL DE 2015'], size=46)])
 C('clip_35_bildu_no_vamos_a_pactar.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Navarra TV · 2015', 1.4, 5.5)
-N('TOP', "[serious] Cinco veces, si hacía falta. [pause] El veinte de mayo de dos mil veinte, en plena pandemia, el PSOE firmó con Unidas Podemos y con EH Bildu un acuerdo para derogar la reforma laboral. Bildu se convirtió después en uno de los apoyos estables de su Gobierno en el Congreso.",
+N('TOP', "[serious] Cinco veces, si hacía falta. [pause] El veinte de mayo de dos mil veinte, en plena pandemia, el PSOE firmó con Unidas Podemos y con EH Bildu un acuerdo para derogar la reforma laboral. Bildu se convirtió después en uno de los apoyos estables de su Gobierno en el Congreso. Y en diciembre de dos mil veintitrés, el PSOE facilitó con su voto que EH Bildu lograra la alcaldía de Pamplona.",
   [dijo('2015 · NAVARRA TV', '«Con Bildu no vamos a pactar»', '20/05/2020', 'Acuerdo firmado por PSOE, Unidas Podemos y EH Bildu para derogar la reforma laboral', 'Fuente: El País · Maldita.es')])
-N('NEW', "Septiembre de dos mil diecinueve. España va camino de su cuarta repetición electoral en cuatro años. Sánchez explica en laSexta por qué no quiere un Gobierno de coalición con Pablo Iglesias.",
+N('NEW', "Septiembre de dos mil diecinueve. España va camino de su cuarta elección general en cuatro años. Sánchez explica en laSexta por qué no quiere un Gobierno de coalición con Pablo Iglesias.",
   [ai('urnas_repeticion'), card(type='aviso', lines=['LASEXTA · 19/09/2019'], size=46)])
 C('clip_31_no_dormiria.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · laSexta · 19/09/2019', 0, 10.5)
 N('TOP', "Siete semanas después, el diez de noviembre, se celebran las elecciones. [short pause] Cuarenta y ocho horas más tarde, el doce de noviembre, Sánchez e Iglesias firman un preacuerdo de Gobierno. Y se abrazan.",
@@ -94,13 +101,19 @@ C('co_cumplimiento_integro__02.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · La Mon
 N('TOP', "Y tres semanas después, en el debate electoral de Televisión Española, fue más lejos. Habló de Carles Puigdemont, que había huido a Bélgica.",
   [ai('plato_debate_2019')])
 C('clip_32_traerlo_de_vuelta.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate electoral · RTVE · 04/11/2019', 0, 3.2)
-C('co_referendum_ilegal__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate electoral · 04/11/2019', 0, 9, base=DE)
+C('co_referendum_ilegal__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate electoral · 04/11/2019', 0, 11.9, base=DE)
+N('TOP', "Y año y medio antes, en mayo de dos mil dieciocho, todavía en la oposición, le habían preguntado en Antena Tres si lo ocurrido en el Parlamento catalán era rebelión.",
+  [card(type='aviso', lines=['ESPEJO PÚBLICO · ANTENA 3 · 17/05/2018'], size=44)])
+C('co_rebelion_2018__01.mp4', 'Pedro Sánchez (incluye la pregunta)', 'RESPUESTA REAL · Espejo Público · Antena 3 · 17/05/2018', 15.4, 35.1, base=DE)
 N('NEW', "[serious] Íntegro cumplimiento. Traerlo de vuelta. Un nuevo delito para los referéndums ilegales. [pause] "
          "Lo que vino después está en el Boletín Oficial del Estado. En junio de dos mil veintiuno, el Gobierno indultó a los nueve líderes del procés condenados a prisión. "
-         "En diciembre de dos mil veintidós, las Cortes suprimieron el delito de sedición. El delito para los referéndums ilegales nunca llegó.",
+         "En diciembre de dos mil veintidós, las Cortes suprimieron el delito de sedición. El delito para los referéndums ilegales nunca llegó. "
+         "Y aquel delito de rebelión que veía clarísimo terminó en una amnistía.",
   [dijo('14/10/2019', '«El acatamiento significa su íntegro cumplimiento»', 'JUNIO DE 2021', 'El Gobierno indulta a los nueve condenados a prisión por el procés', 'Fuente: BOE · El País'),
    dijo('04/11/2019', '«Un nuevo delito para prohibir los referéndums ilegales»', 'DICIEMBRE DE 2022', 'Se suprime el delito de sedición. El nuevo delito nunca se aprobó', 'Fuente: BOE', at='sedición')])
-N('TOP', "Cuando le preguntaron por los indultos, el veintiocho de junio de dos mil veintiuno, dio esta respuesta.")
+N('NEW', "El Gobierno defendió los indultos como una apuesta por la concordia: sacar el conflicto de los tribunales y devolverlo a la política. Es su argumento, y lo ha mantenido. Sostiene que hoy Cataluña está más tranquila que en dos mil diecisiete.",
+  [card(type='aviso', lines=['LA DEFENSA', 'Los indultos, una apuesta por la concordia.'], head=True)])
+N('TOP', "Cuando le preguntaron por ellos, el veintiocho de junio de dos mil veintiuno, dio esta respuesta.")
 C('clip_36_indultos_nunca_cambie.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · 28/06/2021', 5.8, 19.4)
 N('NEW', "Faltaba la amnistía. [short pause] En noviembre de dos mil veintidós, en Al Rojo Vivo, le preguntaron qué pedía el independentismo. Esta fue su respuesta, según la transcripción oficial de La Moncloa.",
   [card(type='aviso', lines=['LASEXTA · AL ROJO VIVO · 10/11/2022'], size=46)])
@@ -117,11 +130,19 @@ N('NEW', "La ley de amnistía se publicó en el BOE el diez de junio de dos mil 
 N('TOP', "Junts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, rompió con el Gobierno. Su portavoz en el Congreso, Míriam Nogueras, lo dijo así.",
   [ai('congreso_escalinata')])
 C('clip_36b_nogueras_bloqueado.mp4', 'Míriam Nogueras (Junts)', 'Congreso de los Diputados', 0, 12.0)
-N('NEW', "Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España».",
+N('NEW', "Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España». Feijóo abrió con Puigdemont el cara a cara.",
   [card(type='quote', text='Nos hemos aprovechado de la ambición de Sánchez para derrotar a España', attrib='Carles Puigdemont · según El Mundo · noviembre de 2026')])
+C('co_feijoo_decente__01.mp4', 'Alberto Núñez Feijóo', 'Cara a cara · RTVE · 19/11/2026', 1.6, 21.1, base=DE)
 N('TOP', "[serious] El trece de noviembre, en un pódcast con millones de seguidores, le preguntaron por todos estos giros. Por qué un votante debería creer lo que promete ahora.")
 C('clip_35c_derecho_a_cambiar_de_opinion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · The Wild Project · 13/11/2026', 26.6, 36.0)
 C('clip_35d_horizonte_coherencia.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Informativos Telecinco · 16/11/2026', 0, 23.6)
+N('TOP', "No era una idea nueva. En julio de dos mil veintitrés, en plena campaña, se sentó en El Hormiguero. Pablo Motos le preguntó por qué decían que mentía tanto. Esta fue su definición de mentir.",
+  [card(type='aviso', lines=['EL HORMIGUERO · ANTENA 3 · JULIO DE 2023'], size=44)])
+C('ul_cambiado_opinion__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · El Hormiguero · Antena 3 · julio de 2023', 24.5, 36.2, base=DE)
+C('ul_cambiado_opinion__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · El Hormiguero · Antena 3 · julio de 2023', 57.5, 72.2, base=DE)
+N('NEW', "Y en la misma entrevista, sobre Cataluña, lo dijo sin rodeos.")
+C('ul_cambiado_opinion__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · El Hormiguero · Antena 3 · julio de 2023', 176.2, 191.9, base=DE)
+N('TOP', "[serious] Decisiones diferentes a las que dijo antes de las elecciones. [pause] Él lo llama rectificar. Lo que el votante escuchó antes de votar fue otra cosa.")
 N('NEW', "[softly] Un horizonte que no cambia. Y unas posiciones que sí. [pause] Él lo llama coherencia. Sus socios de investidura, en el Congreso, lo llamaron de otra manera.")
 C('clip_36c_nogueras_cinico.mp4', 'Míriam Nogueras (Junts)', 'Congreso de los Diputados · 12/11/2025', 0, 18.7)
 N('TOP', "[serious] Pero el cambio de opinión que más caro le ha salido no fue sobre una ley. [pause] Fue sobre un hombre. Un hombre al que eligió él. [short pause] Y que hoy está condenado a veinticuatro años de prisión.",
@@ -142,13 +163,16 @@ N('TOP', "[serious] Veintidós de junio de dos mil veintiséis. Tribunal Supremo
 R('DOC', "Sentencia del Tribunal Supremo. Al valorar la confesión de Aldama, el tribunal habla de una «corrupción orgánica, organizada y continuada».",
   [card(type='quote', text='corrupción orgánica, organizada y continuada', attrib='STS 418/2026 · al valorar la confesión de Aldama')])
 N('NEW', "La defensa de Ábalos ve arbitrariedad en la sentencia y ha anunciado que acudirá a la justicia europea. [short pause] Pedro Sánchez no está imputado en esta causa. Ni en ninguna otra. "
-         "Pero la pregunta de este capítulo no es judicial. Es política. ¿Cómo llegó Ábalos hasta ahí? [pause] Para responderla hay que volver a un coche.",
+         "Pero la pregunta de este capítulo no es judicial. Es política. ¿Cómo llegó Ábalos hasta ahí? [pause] Para responderla hay que volver atrás. Y subir a un coche.",
   [card(type='aviso', lines=['LA DEFENSA', 'El abogado de Ábalos recurrirá. Pedro Sánchez no está imputado en ninguna causa.'], head=True)])
+N('NEW', "Pedro Sánchez llega a la secretaría general del PSOE en julio de dos mil catorce, tras ganar unas primarias que casi nadie esperaba. En diciembre de dos mil quince logra noventa escaños, el peor resultado de su partido hasta entonces. En junio de dos mil dieciséis, ochenta y cinco. "
+         "España lleva casi un año sin Gobierno. Sánchez se niega a facilitar la investidura de Rajoy: «No es no». [pause] El uno de octubre de dos mil dieciséis, un Comité Federal a gritos le obliga a dimitir. Semanas después renuncia a su escaño para no abstenerse en la investidura de Rajoy.",
+  [ai('urnas'), card(type='timeline', title='La caída', items=[['2014', 'Secretario general'], ['2015', '90 escaños'], ['2016', '85 escaños'], ['01/10/2016', 'Dimite tras el Comité Federal']], at='noventa escaños')])
 N('TOP', "Otoño de dos mil dieciséis. Sánchez acaba de perder la secretaría general del PSOE tras un Comité Federal a gritos. Sin cargo, decide recorrer España en su coche para recuperar el partido, agrupación por agrupación. "
          "Él mismo lo contó en su libro, Manual de resistencia. En ese Peugeot viajaban cuatro hombres. [pause] Pedro Sánchez. José Luis Ábalos. Santos Cerdán. Y Koldo García.",
   [ai('carretera_noche'), ai('coche_lluvia', at='Peugeot'),
    card(type='board', title='El Peugeot · 2016', nodes=[['Pedro Sánchez', 'candidato'], ['José Luis Ábalos', 'condenado'], ['Santos Cerdán', 'investigado'], ['Koldo García', 'condenado']], links=[[0, 1], [0, 2], [0, 3], [1, 3]], center=True, at='cuatro hombres')])
-N('NEW', "En mayo de dos mil diecisiete, Sánchez gana las primarias. Un mes después, el dieciocho de junio, elige a su equipo. El secretario de Organización, el número tres del partido, el que controla el aparato, será José Luis Ábalos. Y en su área entra Santos Cerdán.",
+N('NEW', "El veintiuno de mayo de dos mil diecisiete, contra pronóstico, Sánchez derrota a Susana Díaz y recupera el partido. Un mes después, el dieciocho de junio, elige a su equipo. El secretario de Organización, el número tres del partido, el que controla el aparato, será José Luis Ábalos. Y en su área entra Santos Cerdán.",
   [doc('doc_cierre_Abalos_secretario_Organizacion_EFE_18-06-2017.jpg', 'EFE · 18/06/2017', ['Sánchez elige a Ábalos para Organización'], 'Valencia Plaza (EFE)'),
    doc('doc_cierre_Abalos_Cerdan_area_Organizacion_EFE_18-06-2017.jpg', 'EL ÁREA DE ORGANIZACIÓN', ['Ábalos, con Cerdán dentro'], 'Valencia Plaza (EFE)', at='Santos Cerdán')])
 N('TOP', "[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, Sánchez defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel. Y le exige lo que él llama decencia.",
@@ -192,9 +216,16 @@ B('pulso')
 N('NEW', "Madrid, calle Ferraz, número setenta. Sede federal del Partido Socialista. Miércoles, veintisiete de mayo de dos mil veintiséis. "
          "Agentes de la Unidad Central Operativa de la Guardia Civil entran en el edificio. Se quedan doce horas. [short pause] El PSOE insiste en que no fue un registro, sino un requerimiento de documentación. Es exacto: fue un requerimiento.",
   [ai('ferraz_fachada_dia'), card(type='aviso', lines=['27/05/2026 · FERRAZ, 70', 'Requerimiento de la UCO · 12 horas'], head=True, at='doce horas')])
+N('NEW', "Todo empezó dos años antes, con mascarillas. Febrero de dos mil veinticuatro: la UCO detiene a Koldo García por presuntas comisiones en contratos de material sanitario firmados en lo peor de la pandemia con organismos que dependían del Ministerio de Transportes. "
+         "El PSOE pide a Ábalos que entregue su escaño. Él se niega, se marcha al Grupo Mixto y conserva el acta de diputado.",
+  [ai('expediente_mesa'), card(type='aviso', lines=['FEBRERO DE 2024', 'Detención de Koldo García · contratos de mascarillas'], head=True, at='Koldo García')])
 N('TOP', "[serious] Para entender por qué la UCO llegó hasta allí, hay que volver a junio de dos mil veinticinco. El juez del Supremo ve «consistentes indicios» contra Santos Cerdán, el número tres del partido. Cerdán dimite de todos sus cargos. Pasará cuatro meses y veinte días en prisión provisional.",
   [doc('doc_03b_cerdan_auto_indicios_CGPJ_12-06-2025.jpg', 'AUTO DEL TRIBUNAL SUPREMO', ['«Consistentes indicios» contra Santos Cerdán'], 'CGPJ · 12/06/2025'),
    card(type='ficha', name='Santos Cerdán', role='Exsecretario de Organización · INVESTIGADO · presunción de inocencia', at='Cerdán dimite')])
+N('TOP', "En el centro de la trama aparece un empresario: Víctor de Aldama, el comisionista que acabó confesando. En octubre de dos mil veinticuatro, El Mundo publicó una foto suya con el presidente, tomada en febrero de dos mil diecinueve en un acto del PSOE en Madrid. "
+         "Sánchez respondió que nunca había hablado con él, y que uno no elige con quién se hace una foto. Semanas después, Aldama declaró ante el juez que fue el presidente quien le pidió aquella foto. Es la palabra de un acusado que buscaba rebajar su condena. Sánchez lo niega.",
+  [vid('ul_foto_aldama__01.mp4', 6), card(type='quote', text='Uno no elige con quién se hace una foto.', attrib='Pedro Sánchez · 27/10/2024 · según The Objective', at='uno no elige'),
+   card(type='aviso', lines=['LA DEFENSA', 'Sánchez niega haber hablado nunca con Aldama.'], head=True, at='Sánchez lo niega')])
 N('NEW', "Según publicó Voz Pópuli, Cerdán había declarado dos reuniones con un empresario de la trama. Los investigadores le atribuyen treinta y nueve. Cerdán niega haber cometido ningún delito.",
   [card(type='counter', **{'from': 2, 'to': 39, 'label': 'reuniones localizadas por los investigadores, según Voz Pópuli'})])
 N('TOP', "Aquel mismo verano salió a la luz otra figura. Leire Díez, militante del PSOE. El Confidencial publicó la grabación de una reunión de febrero de dos mil veinticinco, en la que hablaba de conseguir información contra mandos de la Guardia Civil que investigaban al partido. Ella reconoció que la voz era suya.",
@@ -213,6 +244,8 @@ C('clip_15e_corrupcion_cero.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso 
 N('NEW', "Junio de dos mil veintiséis, dos días después de la sentencia del Supremo.")
 C('clip_15g_caso_flagrante.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso · 24/06/2026', 0, 5.0)
 C('h15f_no_financiado.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso · 24/06/2026', None, None, base='media/e29n90/hls/')
+N('NEW', "Y en septiembre, en Televisión Española, fue más allá.")
+C('ul_manyaneros_chantaje__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026', 141.5, 171.6, base=DE)
 N('TOP', "[serious] El Partido Socialista no se ha financiado irregularmente. [pause] Es lo que sostiene el PSOE. Y aquí está lo que dicen los documentos: "
          "en octubre de dos mil veintiséis, la Fiscalía Anticorrupción vio indicios contra el partido, pero consideró prematuro imputarlo. El PSOE, como organización, no está imputado.",
   [card(type='dijo', left=dict(label='LO QUE DICE EL PSOE', date='24/06/2026', text='«No hay financiación irregular»'),
@@ -232,7 +265,10 @@ N('TOP', "[serious] Miércoles, veinticuatro de abril de dos mil veinticuatro. U
          "Esa misma tarde, Sánchez publica una carta a la ciudadanía. Anuncia que se toma cinco días para pensar si sigue. Y escribe: «¿Merece la pena todo esto? Sinceramente, no lo sé».",
   [ai('carta_escritorio'), card(type='quote', text='¿Merece la pena todo esto? Sinceramente, no lo sé.', attrib='Carta a la ciudadanía · 24/04/2024', at='Merece')])
 N('NEW', "Cinco días después, se queda. Y tres semanas más tarde, en laSexta, deja la frase que marcaría su defensa.")
-C('ul_hay_fango__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · laSexta · 17/05/2024', None, None, base=DE)
+R('DOC', "Diecisiete de mayo de dos mil veinticuatro. laSexta. Palabras del presidente: «Aquí no hay caso. Hay fango».",
+  [card(type='quote', text='Aquí no hay caso, hay fango.', attrib='Pedro Sánchez · laSexta · 17/05/2024')])
+N('NEW', "El juez Juan Carlos Peinado ha investigado a Begoña Gómez por tráfico de influencias, corrupción en los negocios, apropiación indebida e intrusismo. En el centro, su cátedra en la Universidad Complutense y un programa informático desarrollado para ella con patrocinio privado. Ella niega cualquier delito.",
+  [ai('expediente_mesa'), card(type='list', header='Lo investigado', items=['Tráfico de influencias', 'Corrupción en los negocios', 'Apropiación indebida', 'Intrusismo'])])
 N('TOP', "Noviembre de dos mil veinticuatro. Asamblea de Madrid. Begoña Gómez comparece ante una comisión de investigación impulsada por el Partido Popular sobre su relación con la Universidad Complutense. La diputada popular Mercedes Zarzalejo le pregunta durante más de dieciséis minutos.",
   [ai('sala_comision_vacia')])
 C('clip_19d_1_vinculacion.mp4', 'Mercedes Zarzalejo (PP)', 'Asamblea de Madrid · 13/11/2024', 3.0, 14.7)
@@ -254,15 +290,20 @@ N('NEW', "Y hay una tercera historia, más pequeña, publicada por la prensa. Ca
          "Según el contrato que publicó El Debate, la familia de Begoña Gómez alquila allí un ático desde mil novecientos ochenta y seis: entonces, doscientos setenta y dos euros al mes; en dos mil veinticinco, ochocientos ochenta y dos. Cuando el Senado pidió los datos de esos pisos, el Gobierno no los entregó, según The Objective.",
   [doc('doc_18_muface_contrato_atico_1986_pag1_ElDebate_02-09-2025.jpg', 'CONTRATO DEL ÁTICO · 1986', ['San Bernardo, 38 · Madrid'], 'El Debate · 02/09/2025'),
    doc('doc_18_muface_TheObjective_titular_01-10-2025.jpg', 'RESPUESTA AL SENADO', ['El Gobierno no da al Senado los datos de los pisos'], 'The Objective · 01/10/2025', at='Senado')])
+N('NEW', "Tras los cinco días de reflexión, el Gobierno presentó un plan de acción por la democracia, con medidas sobre los medios de comunicación y la publicidad institucional. El presidente lo resumió con una idea que repetiría: no se puede confundir la libertad de información con la libertad de difamar. "
+         "Sus críticos vieron en el plan un intento de señalar a la prensa que publicaba las investigaciones sobre su entorno. El Gobierno lo defendió como una adaptación a la normativa europea de libertad de medios.",
+  [ai('grabadora_mesa'), card(type='aviso', lines=['LA DEFENSA', 'El plan adapta la normativa europea de libertad de medios.'], head=True, at='defendió')])
 N('TOP', "[serious] Para defender a su familia, el presidente ha cargado contra una parte de los jueces. El uno de septiembre de dos mil veinticinco, en Televisión Española, le preguntaron si había jueces en guerra con su Gobierno.")
 C('clip_23_jueces_minoria.mp4', 'Pedro Sánchez (incluye la pregunta)', 'RESPUESTA REAL · TVE · 01/09/2025', 0, 19.3)
-N('NEW', "Tres asociaciones de jueces le respondieron públicamente. [short pause] Y hay otra frase suya, de hace siete años, que explica por qué la relación del Gobierno con la justicia es una de las preguntas de esta campaña. Seis de noviembre de dos mil diecinueve. Radio Nacional.",
+N('NEW', "Tres asociaciones de jueces le respondieron públicamente. [short pause] En enero de dos mil veinticinco, el PSOE registró una reforma para limitar la acusación popular que podía aplicarse a causas ya abiertas, entre ellas las que afectaban a su entorno. En noviembre de ese año la retiró. El Gobierno la defendía como una respuesta al abuso de las acusaciones populares. [pause] Y hay otra frase suya, de hace siete años, que explica por qué la relación del Gobierno con la justicia es una de las preguntas de esta campaña. Seis de noviembre de dos mil diecinueve. Radio Nacional.",
   [card(type='aviso', lines=['RNE · 06/11/2019'], size=50)])
 C('clip_22_pues_ya_esta.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · RNE · 06/11/2019 (audio)', 0, 9.8, audio_only=True,
   quote='¿La Fiscalía de quién depende? ¿De quién depende? Del Gobierno. Pues ya está.')
+N('NEW', "La causa contra el fiscal general nació de la filtración de un correo electrónico sobre la pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, investigada por fraude fiscal. El fiscal general defendió que actuó para desmentir un bulo.",
+  [ai('supremo_fachada')])
 N('TOP', "Al día siguiente rectificó: dijo que no había sido preciso. [pause] Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Hubo votos particulares. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden.",
   [card(type='dijo', left=dict(date='06/11/2019 · RNE', text='«¿La Fiscalía de quién depende? (…) Pues ya está»'), right=dict(date='20/11/2025', text='El Supremo condena al fiscal general del Estado a dos años de inhabilitación', source='Fuente: Poder Judicial · RTVE'))])
-N('NEW', "Tres días después de esa condena, desde la cumbre del G20 en Johannesburgo, el presidente dijo esto.")
+N('NEW', "Tres días después de esa condena, desde la cumbre del G veinte en Johannesburgo, el presidente dijo esto.")
 C('clip_21_creo_inocencia_fiscal.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · G20 Johannesburgo · 23/11/2025', 0.4, 5.4)
 N('TOP', "[serious] Cree en su inocencia. Y la defiende. [pause] Pero en el verano de dos mil veintiséis la pregunta dejó de ser qué decía el presidente. Pasó a ser dónde estaba.",
   [ai('playa_noche_generica')])
@@ -271,6 +312,9 @@ M('tension', 4)
 # =====================================================================================
 # PREGUNTA 5 · ¿DÓNDE ESTABA USTED?
 # =====================================================================================
+N('NEW', "[softly] Recapitulemos. Un presidente que prometió no pactar con Bildu, no dormir con Podemos y traer a Puigdemont, y que hizo lo contrario por necesidad, según sus palabras. Un secretario de Organización elegido por él, hoy condenado. Su sucesor, investigado. Su esposa, procesada. Su hermano, condenado sin sentencia firme. Su fiscal general, condenado. Él, sin imputación alguna.",
+  [card(type='recap', title='Hasta aquí', items=['Promesas cambiadas: Bildu, Podemos, Puigdemont, amnistía', 'Ábalos · CONDENADO', 'Cerdán · INVESTIGADO', 'Begoña Gómez · PROCESADA', 'Fiscal general · CONDENADO', 'Pedro Sánchez · NO IMPUTADO'])])
+M('tension', 3)
 Q(5, '¿Dónde estaba usted?', 'Presidente, ¿dónde estaba usted?')
 B('noche')
 R('DOC', "Mensaje del Centro Nacional de Inteligencia. Veintinueve de julio de dos mil veintiséis. Trece horas, cincuenta y dos minutos. «Llamamiento para asalto por valla y mar mañana a las veinte horas».",
@@ -289,13 +333,16 @@ C('clip_26_aviso_rutinario.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso �
 N('TOP', "[serious] Un aviso rutinario. [pause] Seis días después, el propio Gobierno publicó todos los informes. Entre ellos, el mensaje del día veintinueve. «Asalto por valla y mar. Mañana. Veinte horas».",
   [doc('doc_26_ceuta_cabecera_Moncloa_09-09-2026.jpg', 'LOS INFORMES DESCLASIFICADOS', ['Publicados por La Moncloa'], 'La Moncloa · 09/09/2026'),
    doc('doc_26_ceuta_whatsapp_CNI_Moncloa_29-07-2026.jpg', 'CNI · 29/07/2026', ['«asalto por valla y mar mañana las 20h»'], 'La Moncloa', at='Asalto')])
-C("ul_ceuta_evidencias__01.mp4", "Pedro Sánchez", "RESPUESTA REAL · septiembre de 2026", None, None, base=DE)
 N('NEW', "La defensa del Gobierno: que ningún informe previó ni la escala ni la probabilidad de lo que ocurrió, y que el presidente trabajó desde la residencia oficial con el ministro del Interior al frente. Ese mismo día, en Televisión Española, lo explicó así.",
   [card(type='aviso', lines=['LA DEFENSA', 'Ningún informe previó la escala ni la probabilidad de lo ocurrido.'], head=True)])
-C('ul_manyaneros_chantaje__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026', None, None, base=DE)
+C('ul_manyaneros_chantaje__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026', 0, 13.7, base=DE)
 C('clip_25_no_estaba_de_vacaciones.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · The Wild Project · 13/11/2026', 3.5, 15.7)
 N('TOP', "Dieciséis de septiembre. Pasillos del Congreso. Un periodista le pregunta por los menores que siguen en las calles de Ceuta.")
 C('clip_25c_eso_a_vivas.mp4', 'Pedro Sánchez (incluye la pregunta)', 'RESPUESTA REAL · Congreso · 16/09/2026', 0.6, 5.8)
+N('TOP', "[serious] Detrás de Ceuta está siempre la misma relación. En marzo de dos mil veintidós, con una carta al rey Mohamed sexto, Sánchez cambió cuarenta años de posición española sobre el Sáhara Occidental: el plan de autonomía marroquí pasó a ser, para el Gobierno, «la base más seria, realista y creíble». "
+         "Lo decidió sin pasar por el Congreso. En abril, el Congreso aprobó una resolución contra ese giro; solo votó en contra el PSOE. El Gobierno lo defiende como una apuesta por la estabilidad y la cooperación migratoria.",
+  [ai('valla_frontera_niebla'), card(type='quote', text='La base más seria, realista y creíble', attrib='Carta del Gobierno a Mohamed VI sobre el plan de autonomía · marzo de 2022'),
+   card(type='aviso', lines=['LA DEFENSA', 'Estabilidad y cooperación migratoria con Marruecos.'], head=True, at='defiende')])
 N('NEW', "Juan Jesús Vivas es el presidente de Ceuta. [short pause] La Casa Real hizo saber que el Rey seguía la situación con preocupación e indignación. Y el presidente anunció una visita del jefe del Estado.",
   [vid('ar_rey_ceuta_indignacion__02.mp4', 5)])
 C('clip_28b_rey_ceuta_melilla.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Cadena SER · 31/08/2026', 0, 20.8)
@@ -307,7 +354,9 @@ N('NEW', "En esa misma comparecencia anunció diez mil efectivos más. Y la vers
          "Pero la ley permite al Gobierno declarar una emergencia de interés nacional por iniciativa propia. No la declaró. Su defensa: era una facultad, no una obligación, y la gestión correspondía a la Generalitat Valenciana.",
   [card(type='aviso', lines=['LEY 17/2015', 'Emergencia de interés nacional: a iniciativa propia. No se declaró.'], head=True),
    card(type='aviso', lines=['LA DEFENSA', 'Era una facultad, no una obligación. La competencia era de la Generalitat.'], head=True, at='defensa')])
-N('TOP', "Al día siguiente, en Paiporta, la comitiva oficial entra en una calle llena de barro. Los vecinos gritan. Lanzan objetos. El coche del presidente es golpeado. Sánchez se va. Los Reyes se quedan.",
+N('NEW', "La Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios. En Madrid nadie dimitió.",
+  [ai('portal_madrid_desahucio_generico'), card(type='aviso', lines=['03/11/2025', 'Carlos Mazón dimite como presidente de la Generalitat'], head=True, at='dimitió')])
+N("TOP", "El tres de noviembre de dos mil veinticuatro, en Paiporta, la comitiva oficial entra en una calle llena de barro. Los vecinos gritan. Lanzan objetos. El coche del presidente es golpeado. Sánchez se va. Los Reyes se quedan.",
   [vid('ar_paiporta_coche__01.mp4', 3), vid('ar_paiporta_salida__01.mp4', 8, at='Sánchez se va'), vid('ar_paiporta_reyes__03.mp4', 6, at='Los Reyes')])
 N('NEW', "El Gobierno atribuyó la agresión a grupos ultras organizados, y defendió que la seguridad aconsejaba sacar al presidente. [pause] Y tres años antes, en La Palma, con el volcán en erupción, la promesa había sido esta.",
   [card(type='aviso', lines=['LA DEFENSA', 'Grupos ultras organizados y razones de seguridad.'], head=True)])
@@ -315,6 +364,10 @@ C('clip_28bx_la_palma_recursos.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · La Pal
 N('TOP', "[serious] Todos los recursos del Estado. [pause] Melilla, junio de dos mil veintidós: al menos veintitrés migrantes mueren en la valla. El presidente, desde Bruselas, valoró así la actuación.",
   [ai('valla_frontera_niebla')])
 C('clip_30b_bien_resuelto.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Bruselas · 24/06/2022', 0, 3.6)
+N('NEW', "Barbate, nueve de febrero de dos mil veinticuatro. Una narcolancha embiste a una embarcación de la Guardia Civil en el puerto. Mueren dos agentes. Las imágenes, grabadas desde el muelle, recorren el país. Según la prensa, el Ministerio del Interior había desmantelado poco antes la unidad especial de coordinación contra el narcotráfico en el Campo de Gibraltar, el OCON-Sur. "
+         "Interior defendió que sus funciones se integraron en otras estructuras. El ministro Fernando Grande-Marlaska siguió en su puesto.",
+  [ai('pista_aeropuerto_noche'), card(type='aviso', lines=['BARBATE · 09/02/2024', 'Dos guardias civiles muertos'], head=True, at='Mueren dos agentes'),
+   card(type='aviso', lines=['LA DEFENSA', 'Interior: las funciones del OCON-Sur se integraron en otras unidades.'], head=True, at='Interior defendió')])
 N('NEW', "Y tras el gran apagón del veintiocho de abril de dos mil veinticinco, la responsabilidad tenía destinatario.")
 C('clip_29_operadores_privados.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · La Moncloa · 29/04/2025', 0, 6.5)
 N('TOP', "[softly] Siempre hay un recurso que pedir. Un informe rutinario. Un operador privado. Un presidente autonómico al que preguntar. [pause] Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles.",
@@ -330,6 +383,8 @@ N('NEW', "Enero de dos mil veintiséis. Adamuz, Córdoba. Un tren de alta veloci
   [ai('vias_recta_amanecer'), card(type='ficha', name='Óscar Puente', role='Ministro de Transportes (2023-2026)', at='Óscar Puente')])
 C('clip_08_tremendamente_extrano.mp4', 'Óscar Puente', 'Ministro de Transportes · 18/01/2026', 0, 4.9)
 C('clip_10b2_bajisima.mp4', 'Óscar Puente', 'Onda Cero · enero de 2026', 0, 9.9)
+R('DOC', "Dos días después, el veinte de enero, el ministro añadió: «Si hay algo cercano a la infalibilidad, es la alta velocidad española».",
+  [card(type='quote', text='Si hay algo cercano a la infalibilidad, es la alta velocidad española.', attrib='Óscar Puente · 20/01/2026')])
 N('TOP', "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. "
          "Ese día el presidente viaja a Urda y habla de una confianza quebrada.",
   [ai('estacion_noche_vacia'), card(type='counter', **{'to': 69, 'label': 'muertos en Urda · 28/10/2026'}, at='Sesenta y nueve')])
@@ -373,7 +428,7 @@ N('NEW', "El auto del diecinueve de mayo le investiga por tráfico de influencia
   [card(type='ficha', name='José Luis Rodríguez Zapatero', role='Expresidente del Gobierno · INVESTIGADO · presunción de inocencia'),
    vid('ar_zapatero_audiencia__01.mp4', 6, at='nulidad')])
 N('TOP', "Antes de todo esto, en un mitin, Zapatero había resumido así lo que significa ser socialista.")
-C('ul_zapatero_tener_poco__02.mp4', 'José Luis Rodríguez Zapatero', 'Mitin del PSOE', None, None, base=DE)
+C('ul_zapatero_tener_poco__02.mp4', 'José Luis Rodríguez Zapatero', 'Mitin del PSOE', 0, 9.9, base=DE)
 N('NEW', "[serious] El rescate. Nueve de marzo de dos mil veintiuno. El Consejo de Ministros aprueba cincuenta y tres millones de euros para Plus Ultra, una aerolínea pequeña, con capital venezolano. La Moncloa lo anunció así.",
   [doc('doc_08_plusultra_moncloa_09-03-2021_cabecera.jpg', 'CONSEJO DE MINISTROS · 09/03/2021', ['Rescate de 53 millones a Plus Ultra'], 'La Moncloa'),
    card(type='counter', **{'to': 53, 'label': 'millones de euros para Plus Ultra · 09/03/2021'}, at='cincuenta y tres')])
@@ -381,6 +436,10 @@ N('TOP', "Zapatero, en una entrevista en Televisión Española, negó haber inte
 C('clip_14b_no_hable_con_nadie.mp4', 'José Luis Rodríguez Zapatero', 'Entrevista · TVE', 0, 12.8)
 N('NEW', "Y el presidente, preguntado por esa entrevista, defendió el expediente.")
 C('clip_14c_perifrastica.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · La Moncloa · 2026', 0, 7.8)
+N('NEW', "Después de que Zapatero declarara como investigado ante el juez, en junio, el presidente fijó la posición del Gobierno y del partido.")
+C('ar_sanchez_apoyo_zp__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · junio de 2026', 0, 45.3, base=DE)
+N('NEW', "Y sobre Plus Ultra, añadió su defensa de fondo: que no fue un rescate, sino un préstamo, dentro de un fondo que, según el Gobierno, salvó sesenta mil empleos durante la pandemia.")
+C('ar_sanchez_perifrastica__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · 2026', 73.4, 89.8, base=DE)
 N('TOP', "[serious] Con su mentor ya investigado, el nueve de septiembre, le preguntaron si Zapatero estaría en la campaña.")
 C('clip_14a_contar_con_jose_luis.mp4', 'Pedro Sánchez (incluye la pregunta)', 'RESPUESTA REAL · TVE · 09/09/2026', 0, 7.9)
 N('NEW', "Y el trece de noviembre, a dieciséis días de las elecciones, en The Wild Project, fue más allá.")
@@ -400,6 +459,9 @@ M('tema', 4)
 # =====================================================================================
 # PREGUNTA 8 · ¿SE PUEDE GOBERNAR SIN EL PARLAMENTO?
 # =====================================================================================
+N('NEW', "[softly] Recapitulemos de nuevo. Una frontera desbordada con un aviso del CNI que el presidente calificó de rutinario. Una riada con doscientos treinta muertos. Dos tragedias ferroviarias y un ministro dimitido. Y un expresidente investigado por el que él pone la mano en el fuego.",
+  [card(type='recap', title='Hasta aquí', items=['Ceuta · aviso «rutinario»', 'DANA · 230 muertos', 'Adamuz y Urda · el ministro dimite', 'Zapatero · INVESTIGADO · «la mano en el fuego»'])])
+M('tension', 3)
 Q(8, '¿Se puede gobernar sin el Parlamento?', 'Presidente, ¿se puede gobernar sin el Parlamento?')
 B('pulso')
 N('NEW', "La Constitución, en su artículo ciento treinta y cuatro, obliga al Gobierno a presentar cada año los Presupuestos Generales del Estado. "
@@ -408,13 +470,19 @@ N('NEW', "La Constitución, en su artículo ciento treinta y cuatro, obliga al G
 N('TOP', "[serious] Su defensa: la prórroga es legal, también lo dice la Constitución. [pause] Y en septiembre de dos mil veinticuatro, ante el Comité Federal de su partido, el presidente avisó de cómo pensaba gobernar: «con o sin un concurso de un poder legislativo».",
   [card(type='aviso', lines=['LA DEFENSA', 'La prórroga presupuestaria es legal (art. 134.4).'], head=True),
    card(type='quote', text='Vamos a avanzar con determinación, con o sin apoyo de la oposición, con o sin un concurso de un poder legislativo.', attrib='Pedro Sánchez · Comité Federal del PSOE · 07/09/2024', at='septiembre')])
+N('NEW', "La tensión con los límites venía de lejos. En la pandemia, el Gobierno gobernó por estado de alarma. El veintitrés de mayo de dos mil veinte, en La Moncloa, el presidente dio por ganada la primera batalla.")
+C('co_vencido_virus__02.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · La Moncloa · 23/05/2020', 0, 14.3, base=DE)
+N('TOP', "[serious] Un año después, en julio de dos mil veintiuno, el Tribunal Constitucional declaró inconstitucional el confinamiento de aquel primer estado de alarma. Y en octubre, la prórroga de seis meses del segundo, aprobada sin control parlamentario intermedio. "
+         "Las dos sentencias se decidieron por mayorías ajustadas. El Gobierno sostiene que aquellas medidas salvaron vidas.",
+  [ai('constitucion_libro'), card(type='dijo', left=dict(date='23/05/2020', text='«Hemos derrotado al virus»'), right=dict(date='JULIO Y OCTUBRE DE 2021', text='El Constitucional anula el confinamiento y la prórroga de seis meses del estado de alarma', source='Fuente: STC 148/2021 · STC 183/2021')),
+   card(type='aviso', lines=['LA DEFENSA', 'El Gobierno sostiene que las medidas salvaron vidas.'], head=True, at='salvaron vidas')])
 N('NEW', "Diciembre de dos mil veinticuatro. Última sesión de control del año.")
 C('clip_36bx_bulo_boe.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso · 18/12/2024', 0, 9.4)
 N('TOP', "El BOE como respuesta. [pause] Para seguir en el poder, el Gobierno necesitaba a sus socios cada semana. Con Esquerra Republicana pactó la condonación de diecisiete mil cien millones de euros de deuda de Cataluña. El Gobierno la defendió como una medida abierta a todas las comunidades.",
   [card(type='counter', **{'to': 17104, 'label': 'millones de euros de deuda condonada pactada con ERC (Cataluña)'}),
    card(type='aviso', lines=['LA DEFENSA', 'El Gobierno: la condonación está abierta a todas las comunidades.'], head=True, at='defendió')])
 N('NEW', "Pero Junts ya se había ido. Y desde el Congreso, Míriam Nogueras le recordó al presidente de quién dependía.")
-C('ul_nogueras_bloqueada__02.mp4', 'Míriam Nogueras (Junts)', 'Congreso de los Diputados', None, None, base=DE)
+C('ul_nogueras_bloqueada__02.mp4', 'Míriam Nogueras (Junts)', 'Congreso de los Diputados', 3.3, 29.1, base=DE)
 N('TOP', "[serious] Con Junts votando junto al Partido Popular y a Vox, el Congreso llegó a aprobar una moción que pedía al presidente someterse a una cuestión de confianza. No era vinculante. No se sometió.",
   [vid('ul_junts_mocion_pp__02.mp4', 4), card(type='aviso', lines=['MOCIÓN APROBADA', 'Pedía al presidente una cuestión de confianza. No era vinculante.'], head=True, at='No era vinculante')])
 N('NEW', "El diecinueve de junio de dos mil veintiséis, el presidente aseguró que presentaría presupuestos en dos mil veintiséis y que habría elecciones en dos mil veintisiete. [pause] El cinco de octubre disolvió las Cortes. Elecciones, veintinueve de noviembre.",
@@ -439,7 +507,7 @@ R('DOC', "Días después, dirigentes de Podemos explicaron que aquellas palabras
   [card(type='aviso', lines=['LA DEFENSA', 'Podemos: las palabras de Montero eran irónicas.'], head=True)])
 N('NEW', "[serious] Gobernar así tiene costes. A veces los paga el propio Gobierno. En abril de dos mil veintitrés, tras cientos de rebajas de condena a agresores sexuales por la ley del solo sí es sí, el presidente pidió perdón a las víctimas.",
   [card(type='aviso', lines=['LEY DEL «SOLO SÍ ES SÍ»'], size=50)])
-C('co_si_es_si_perdon__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · abril de 2023', None, None, base=DE)
+C('co_si_es_si_perdon__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · abril de 2023', 7.5, 13.9, base=DE)
 N('TOP', "[softly] Otro perdón. [pause] Y entre perdón y perdón, una promesa que se repitió en todas las campañas. Quizá la que más afecta a la vida diaria. [short pause] La vivienda. Y la economía.",
   [ai('edificio_obra_parada')])
 M('tema', 4)
@@ -453,11 +521,11 @@ N('NEW', "Dieciséis de mayo de dos mil veinticuatro. Foro sobre fondos europeos
 C('clip_37c_cohete.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · La Moncloa · 16/05/2024', 1.9, 7.1)
 N('TOP', "[serious] Los datos que él cita existen. En dos mil veinticinco, el PIB creció un dos coma seis por ciento, según el INE. España superó los veintidós millones de ocupados. Es la defensa de su gestión, y es sólida.",
   [card(type='counter', **{'to': 22460000, 'label': 'ocupados · INE'}), card(type='aviso', lines=['LA DEFENSA', 'PIB +2,6 % en 2025 · más de 22 millones de ocupados (INE)'], head=True, at='defensa')])
-N('NEW', "Pero no todos en su propio Gobierno lo vieron igual. Su vicepresidenta segunda, Yolanda Díaz, le contestó en público.")
-C('ul_yolanda_cohete__03.mp4', 'Yolanda Díaz', 'Vicepresidenta segunda del Gobierno', None, None, base=DE)
+N('NEW', "Pero no todos en su propio Gobierno lo vieron igual. Su vicepresidenta segunda, Yolanda Díaz, le contestó en laSexta, según recogió Europa Press: no es verdad que la economía vaya como un cohete cuando el salario mediano es de mil quinientos cuarenta y cinco euros al mes.",
+  [card(type='quote', text='No es verdad, no va como un cohete. Cuando el salario mediano en España es de 1.545 euros al mes, no va como un cohete.', attrib='Yolanda Díaz · laSexta · vía Europa Press')])
 N('TOP', "[serious] Y luego está la vivienda. En el debate del diecinueve de noviembre, el presidente dio esta cifra.")
 C('clip_02_millon_viviendas.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Cara a cara · RTVE · 19/11/2026', 0.5, 10.5)
-N('NEW', "Un millón de viviendas en ocho años. [pause] Según los datos recopilados por Idealista y publicados por Artículo14, las viviendas terminadas en ese periodo rondan las setecientas cinco mil; unas setecientas cincuenta y dos mil si se cuenta dos mil dieciocho entero. "
+N('NEW', "Un millón de viviendas en ocho años. [pause] Según los datos recopilados por Idealista y publicados por Artículo Catorce, las viviendas terminadas en ese periodo rondan las setecientas cinco mil; unas setecientas cincuenta y dos mil si se cuenta dos mil dieciocho entero. "
          "Y Feijóo le recordó en el debate otra cifra: la vivienda pública estatal entregada frente a la prometida.",
   [card(type='dijo', left=dict(date='19/11/2026', text='«Hemos construido un millón de viviendas»'), right=dict(date='DATOS', text='Unas 705.000 viviendas terminadas (752.000 contando 2018)', source='Fuente: Idealista vía Artículo14 · Maldita.es'), red=True)])
 R('DOC', "Feijóo, por su parte, negó haber prometido él mismo un millón de viviendas, aunque la medida ciento cuarenta y cuatro de su programa hablaba de esa cifra.",
@@ -490,6 +558,9 @@ N('NEW', "Ocho años. Una pandemia, un volcán, una riada, dos tragedias ferrovi
          "Un exministro y su asesor, condenados. Su secretario de Organización, investigado. Su mentor, investigado. Su esposa, procesada. Su hermano, condenado en primera instancia. El fiscal general que defendió, condenado. [pause] "
          "Y él, sin imputación alguna. Así lo recuerda siempre. Y es verdad.",
   [card(type='recap', title='Ocho años', items=['Ábalos y Koldo · CONDENADOS', 'Cerdán · INVESTIGADO', 'Zapatero · INVESTIGADO', 'Begoña Gómez · PROCESADA', 'David Sánchez · condena recurrida', 'Fiscal general · CONDENADO', 'Pedro Sánchez · NO IMPUTADO'])])
+N('TOP', "[serious] Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. [pause] "
+         "Quienes le defienden ven en eso resistencia: un presidente que no se rinde y que ha llevado a España a crecer más que sus vecinos. Quienes le critican ven otra cosa: un presidente que siempre encuentra a otro responsable. [short pause] Este documental no ha querido decidir entre unos y otros. Solo ha puesto, una al lado de otra, sus palabras y los hechos.",
+  [ai('congreso_tribuna_vacia_luz')])
 N('TOP', "[serious] Aquel treinta y uno de mayo de dos mil dieciocho, desde la tribuna del Congreso, Pedro Sánchez le explicó a Mariano Rajoy qué hace un presidente cuando la corrupción llega a su partido.",
   [ai('congreso_tribuna')])
 C('clip_38_abalos_decencia_mocion.mp4', 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018', 11.2, 32.7)
@@ -497,6 +568,27 @@ N('NEW', "[softly] Aquel día, la moción salió adelante. Rajoy dejó de ser pr
 C('clip_01b_pido_perdon_corrupcion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Cara a cara · RTVE · 19/11/2026', 0, 11.0)
 M('nada', 2, [card(type='aviso', lines=[''], size=40)])
 N('TOP', "[serious] Pedro Sánchez no ha participado en este documental. Todas sus respuestas son reales, públicas y tienen fecha. Las preguntas eran nuestras. [pause] "
-         "Las conclusiones no. [short pause] Esas, el veintinueve de noviembre, son suyas.",
+         "Las conclusiones no. [short pause] Esas, el veintinueve de noviembre, son de quien vota.",
   [AVISO])
-U.append(dict(k='T', secs=8.0, sting='golpe', card=dict(type='aviso', head=True, lines=['DOCUVOX', 'Fuentes completas en la descripción.', 'Ninguna encuesta electoral aparece en este documental.'])))
+M('tema', 30, [dijo('2015', '«Con Bildu no vamos a pactar»', '2020', 'Acuerdo con EH Bildu'),
+               dijo('19/09/2019', '«No dormiría por la noche»', '12/11/2019', 'Preacuerdo con Unidas Podemos'),
+               dijo('04/11/2019', '«Traerlo de vuelta a España»', '10/06/2024', 'Ley de amnistía en el BOE'),
+               dijo('31/05/2018', '«Ni la decencia política de, al menos, dimitir»', '22/06/2026', 'Ábalos, condenado a 24 años'),
+               dijo('06/11/2019', '«¿La Fiscalía de quién depende?»', '20/11/2025', 'Fiscal general, condenado'),
+               dijo('22/10/2026', '«Iré al Hormiguero»', '11/11/2026', 'No fue')])
+M('tema', 40, [card(type='list', header='Fuentes principales', items=['Tribunal Supremo · CGPJ · BOE · La Moncloa', 'Congreso de los Diputados · INE', 'RTVE · laSexta · Antena 3 · Telecinco · TVE', 'Maldita.es · El País · El Mundo · elDiario.es', 'Ara · El Español · Voz Pópuli · The Objective', 'El Debate · El Confidencial · Artículo14 · Euronews']),
+               card(type='list', header='Cortes de archivo', items=['Fragmentos citados con fin de análisis y crítica (art. 32 LPI)', 'Fuente y fecha en pantalla en cada corte', 'Pedro Sánchez no ha participado en este documental']),
+               card(type='aviso', head=True, lines=['DOCUVOX', 'Especial Elecciones 29N', 'Ninguna encuesta electoral aparece en este documental.'])])
+
+# ---- respiraciones musicales (v6: 6-15 s cada 1-2 min, tras los cortes fuertes) ----
+def _breaths(U, every=9, secs=7):
+    out, bed, since = [], 'tension', 0
+    for i, u in enumerate(U):
+        out.append(u); since += 1
+        if u['k'] == 'B': bed = u['track']
+        nxt = U[i + 1] if i + 1 < len(U) else None
+        if u['k'] == 'C' and nxt and nxt['k'] == 'N' and since >= every:
+            out.append(dict(k='M', track=bed, secs=secs, shots=[])); since = 0
+        if u['k'] in ('T', 'M'): since = 0
+    return out
+U[:] = _breaths(U)

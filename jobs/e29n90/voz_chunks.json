@@ -1,0 +1,746 @@
+[
+ {
+  "voice": "TOP",
+  "units": [
+   {
+    "key": "2eccf2f251",
+    "text": "[serious] La misma palabra. [pause] Once años después. [short pause] Con los papeles cambiados."
+   },
+   {
+    "key": "9b0a8b130b",
+    "text": "[serious] Pide perdón. [short pause] Y en la misma frase se declara limpio. [pause] Las dos cosas a la vez. Es una fórmula que ha repetido en estos ocho años: disculpas por lo ocurrido a su alrededor, y la defensa firme de su integridad personal."
+   },
+   {
+    "key": "845c556f55",
+    "text": "[softly] Hay preguntas que nadie le hizo así, una detrás de otra. [pause] Se las vamos a hacer. [short pause] Y le vamos a dejar contestar a él. Con sus respuestas reales. Con su fecha. Y con lo que pasó después."
+   },
+   {
+    "key": "5883267bd2",
+    "text": "Pedro Sánchez. [pause] La entrevista que nadie le hizo."
+   },
+   {
+    "key": "f4e027abd3",
+    "text": "[serious] Cinco veces, si hacía falta. [pause] El veinte de mayo de dos mil veinte, en plena pandemia, el PSOE firmó con Unidas Podemos y con EH Bildu un acuerdo para derogar la reforma laboral. Bildu se convirtió después en uno de los apoyos estables de su Gobierno en el Congreso. Y en diciembre de dos mil veintitrés, el PSOE facilitó con su voto que EH Bildu lograra la alcaldía de Pamplona."
+   },
+   {
+    "key": "417c731b7a",
+    "text": "Siete semanas después, el diez de noviembre, se celebran las elecciones. [short pause] Cuarenta y ocho horas más tarde, el doce de noviembre, Sánchez e Iglesias firman un preacuerdo de Gobierno. Y se abrazan."
+   },
+   {
+    "key": "7c7eb7045d",
+    "text": "Y tres semanas después, en el debate electoral de Televisión Española, fue más lejos. Habló de Carles Puigdemont, que había huido a Bélgica."
+   },
+   {
+    "key": "aef00bb094",
+    "text": "Y año y medio antes, en mayo de dos mil dieciocho, todavía en la oposición, le habían preguntado en Antena Tres si lo ocurrido en el Parlamento catalán era rebelión."
+   },
+   {
+    "key": "873e42b7dd",
+    "text": "Cuando le preguntaron por ellos, el veintiocho de junio de dos mil veintiuno, dio esta respuesta."
+   },
+   {
+    "key": "fd66a85d0d",
+    "text": "[serious] Ocho meses después, el veintitrés de julio de dos mil veintitrés, Sánchez pierde las elecciones frente al Partido Popular. Pero puede seguir gobernando. Le faltan siete votos: los de Junts, el partido de Puigdemont. [pause] El veintiocho de octubre, ante el Comité Federal del PSOE, anuncia la amnistía con una frase que él mismo recordaría tres años después."
+   },
+   {
+    "key": "e4bf012afe",
+    "text": "Junts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, rompió con el Gobierno. Su portavoz en el Congreso, Míriam Nogueras, lo dijo así."
+   },
+   {
+    "key": "9eb5c8c656",
+    "text": "[serious] El trece de noviembre, en un pódcast con millones de seguidores, le preguntaron por todos estos giros. Por qué un votante debería creer lo que promete ahora."
+   },
+   {
+    "key": "0fb61d89f1",
+    "text": "No era una idea nueva. En julio de dos mil veintitrés, en plena campaña, se sentó en El Hormiguero. Pablo Motos le preguntó por qué decían que mentía tanto. Esta fue su definición de mentir."
+   },
+   {
+    "key": "ccd4e058ba",
+    "text": "[serious] Decisiones diferentes a las que dijo antes de las elecciones. [pause] Él lo llama rectificar. Lo que el votante escuchó antes de votar fue otra cosa."
+   },
+   {
+    "key": "397bd0afee",
+    "text": "[serious] Pero el cambio de opinión que más caro le ha salido no fue sobre una ley. [pause] Fue sobre un hombre. Un hombre al que eligió él. [short pause] Y que hoy está condenado a veinticuatro años de prisión."
+   },
+   {
+    "key": "62223bcafe",
+    "text": "[serious] Veintidós de junio de dos mil veintiséis. Tribunal Supremo. Siete magistrados, por unanimidad. José Luis Ábalos, exministro de Transportes y exsecretario de Organización del PSOE: veinticuatro años y tres meses de prisión. Koldo García, su asesor: diecinueve años y ocho meses. El empresario Víctor de Aldama, que confesó: cuatro años y medio."
+   },
+   {
+    "key": "6887fd7dbc",
+    "text": "Otoño de dos mil dieciséis. Sánchez acaba de perder la secretaría general del PSOE tras un Comité Federal a gritos. Sin cargo, decide recorrer España en su coche para recuperar el partido, agrupación por agrupación. Él mismo lo contó en su libro, Manual de resistencia. En ese Peugeot viajaban cuatro hombres. [pause] Pedro Sánchez. José Luis Ábalos. Santos Cerdán. Y Koldo García."
+   },
+   {
+    "key": "c1da05ea93",
+    "text": "[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, Sánchez defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel. Y le exige lo que él llama decencia."
+   }
+  ],
+  "prompt": "[serious] La misma palabra. [pause] Once años después. [short pause] Con los papeles cambiados.\n\n[pause] [pause]\n\n[serious] Pide perdón. [short pause] Y en la misma frase se declara limpio. [pause] Las dos cosas a la vez. Es una fórmula que ha repetido en estos ocho años: disculpas por lo ocurrido a su alrededor, y la defensa firme de su integridad personal.\n\n[pause] [pause]\n\n[softly] Hay preguntas que nadie le hizo así, una detrás de otra. [pause] Se las vamos a hacer. [short pause] Y le vamos a dejar contestar a él. Con sus respuestas reales. Con su fecha. Y con lo que pasó después.\n\n[pause] [pause]\n\nPedro Sánchez. [pause] La entrevista que nadie le hizo.\n\n[pause] [pause]\n\n[serious] Cinco veces, si hacía falta. [pause] El veinte de mayo de dos mil veinte, en plena pandemia, el PSOE firmó con Unidas Podemos y con EH Bildu un acuerdo para derogar la reforma laboral. Bildu se convirtió después en uno de los apoyos estables de su Gobierno en el Congreso. Y en diciembre de dos mil veintitrés, el PSOE facilitó con su voto que EH Bildu lograra la alcaldía de Pamplona.\n\n[pause] [pause]\n\nSiete semanas después, el diez de noviembre, se celebran las elecciones. [short pause] Cuarenta y ocho horas más tarde, el doce de noviembre, Sánchez e Iglesias firman un preacuerdo de Gobierno. Y se abrazan.\n\n[pause] [pause]\n\nY tres semanas después, en el debate electoral de Televisión Española, fue más lejos. Habló de Carles Puigdemont, que había huido a Bélgica.\n\n[pause] [pause]\n\nY año y medio antes, en mayo de dos mil dieciocho, todavía en la oposición, le habían preguntado en Antena Tres si lo ocurrido en el Parlamento catalán era rebelión.\n\n[pause] [pause]\n\nCuando le preguntaron por ellos, el veintiocho de junio de dos mil veintiuno, dio esta respuesta.\n\n[pause] [pause]\n\n[serious] Ocho meses después, el veintitrés de julio de dos mil veintitrés, Sánchez pierde las elecciones frente al Partido Popular. Pero puede seguir gobernando. Le faltan siete votos: los de Junts, el partido de Puigdemont. [pause] El veintiocho de octubre, ante el Comité Federal del PSOE, anuncia la amnistía con una frase que él mismo recordaría tres años después.\n\n[pause] [pause]\n\nJunts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, rompió con el Gobierno. Su portavoz en el Congreso, Míriam Nogueras, lo dijo así.\n\n[pause] [pause]\n\n[serious] El trece de noviembre, en un pódcast con millones de seguidores, le preguntaron por todos estos giros. Por qué un votante debería creer lo que promete ahora.\n\n[pause] [pause]\n\nNo era una idea nueva. En julio de dos mil veintitrés, en plena campaña, se sentó en El Hormiguero. Pablo Motos le preguntó por qué decían que mentía tanto. Esta fue su definición de mentir.\n\n[pause] [pause]\n\n[serious] Decisiones diferentes a las que dijo antes de las elecciones. [pause] Él lo llama rectificar. Lo que el votante escuchó antes de votar fue otra cosa.\n\n[pause] [pause]\n\n[serious] Pero el cambio de opinión que más caro le ha salido no fue sobre una ley. [pause] Fue sobre un hombre. Un hombre al que eligió él. [short pause] Y que hoy está condenado a veinticuatro años de prisión.\n\n[pause] [pause]\n\n[serious] Veintidós de junio de dos mil veintiséis. Tribunal Supremo. Siete magistrados, por unanimidad. José Luis Ábalos, exministro de Transportes y exsecretario de Organización del PSOE: veinticuatro años y tres meses de prisión. Koldo García, su asesor: diecinueve años y ocho meses. El empresario Víctor de Aldama, que confesó: cuatro años y medio.\n\n[pause] [pause]\n\nOtoño de dos mil dieciséis. Sánchez acaba de perder la secretaría general del PSOE tras un Comité Federal a gritos. Sin cargo, decide recorrer España en su coche para recuperar el partido, agrupación por agrupación. Él mismo lo contó en su libro, Manual de resistencia. En ese Peugeot viajaban cuatro hombres. [pause] Pedro Sánchez. José Luis Ábalos. Santos Cerdán. Y Koldo García.\n\n[pause] [pause]\n\n[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, Sánchez defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel. Y le exige lo que él llama decencia.",
+  "id": "v00"
+ },
+ {
+  "voice": "NEW",
+  "units": [
+   {
+    "key": "7dbb1a7cf8",
+    "text": "Jueves, diecinueve de noviembre de dos mil veintiséis. Madrid. Faltan diez días para las elecciones generales. Es el único cara a cara de la campaña. Y en el bloque dedicado a la corrupción, el presidente del Gobierno empieza con dos palabras."
+   },
+   {
+    "key": "26b67e641f",
+    "text": "Sus defensores dicen que ha sacado adelante el país en la década más difícil que se recuerda: una pandemia, un volcán, una riada, una guerra en Europa. Sus críticos dicen que ha sobrevivido a costa de casi todo lo que prometió. [short pause] Este documental no le va a pedir que elija. Le va a poner delante sus propias palabras."
+   },
+   {
+    "key": "b56ea1357a",
+    "text": "Pamplona, abril de dos mil quince. Pedro Sánchez lleva menos de un año al frente del Partido Socialista. En un plató de la televisión navarra, le preguntan si su partido pactaría con EH Bildu para gobernar en Navarra."
+   },
+   {
+    "key": "2eadcd1311",
+    "text": "Septiembre de dos mil diecinueve. España va camino de su cuarta elección general en cuatro años. Sánchez explica en laSexta por qué no quiere un Gobierno de coalición con Pablo Iglesias."
+   },
+   {
+    "key": "3f470ad424",
+    "text": "En aquella misma campaña, Cataluña era el gran tema. Un mes antes, el catorce de octubre, el Tribunal Supremo había condenado a los líderes del proceso independentista. Sánchez, en funciones, compareció para fijar la posición del Gobierno."
+   },
+   {
+    "key": "1ee64e4660",
+    "text": "[serious] Íntegro cumplimiento. Traerlo de vuelta. Un nuevo delito para los referéndums ilegales. [pause] Lo que vino después está en el Boletín Oficial del Estado. En junio de dos mil veintiuno, el Gobierno indultó a los nueve líderes del procés condenados a prisión. En diciembre de dos mil veintidós, las Cortes suprimieron el delito de sedición. El delito para los referéndums ilegales nunca llegó. Y aquel delito de rebelión que veía clarísimo terminó en una amnistía."
+   },
+   {
+    "key": "852cb5b41f",
+    "text": "El Gobierno defendió los indultos como una apuesta por la concordia: sacar el conflicto de los tribunales y devolverlo a la política. Es su argumento, y lo ha mantenido. Sostiene que hoy Cataluña está más tranquila que en dos mil diecisiete."
+   },
+   {
+    "key": "7a7eb29a48",
+    "text": "Faltaba la amnistía. [short pause] En noviembre de dos mil veintidós, en Al Rojo Vivo, le preguntaron qué pedía el independentismo. Esta fue su respuesta, según la transcripción oficial de La Moncloa."
+   },
+   {
+    "key": "8bc2338924",
+    "text": "La ley de amnistía se publicó en el BOE el diez de junio de dos mil veinticuatro. [short pause] Y aquí está la defensa del Gobierno, con un documento detrás: en julio de dos mil veinticinco, el Tribunal Constitucional concluyó que la Constitución no prohíbe una amnistía, aunque anuló algunos puntos de la ley. Hubo votos particulares en contra."
+   },
+   {
+    "key": "a131f210d5",
+    "text": "Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España». Feijóo abrió con Puigdemont el cara a cara."
+   },
+   {
+    "key": "a4ec720ce2",
+    "text": "Y en la misma entrevista, sobre Cataluña, lo dijo sin rodeos."
+   },
+   {
+    "key": "2fc68e556b",
+    "text": "[softly] Un horizonte que no cambia. Y unas posiciones que sí. [pause] Él lo llama coherencia. Sus socios de investidura, en el Congreso, lo llamaron de otra manera."
+   },
+   {
+    "key": "5e3b43e387",
+    "text": "La defensa de Ábalos ve arbitrariedad en la sentencia y ha anunciado que acudirá a la justicia europea. [short pause] Pedro Sánchez no está imputado en esta causa. Ni en ninguna otra. Pero la pregunta de este capítulo no es judicial. Es política. ¿Cómo llegó Ábalos hasta ahí? [pause] Para responderla hay que volver atrás. Y subir a un coche."
+   },
+   {
+    "key": "051da3390f",
+    "text": "Pedro Sánchez llega a la secretaría general del PSOE en julio de dos mil catorce, tras ganar unas primarias que casi nadie esperaba. En diciembre de dos mil quince logra noventa escaños, el peor resultado de su partido hasta entonces. En junio de dos mil dieciséis, ochenta y cinco. España lleva casi un año sin Gobierno. Sánchez se niega a facilitar la investidura de Rajoy: «No es no». [pause] El uno de octubre de dos mil dieciséis, un Comité Federal a gritos le obliga a dimitir. Semanas después renuncia a su escaño para no abstenerse en la investidura de Rajoy."
+   }
+  ],
+  "prompt": "Jueves, diecinueve de noviembre de dos mil veintiséis. Madrid. Faltan diez días para las elecciones generales. Es el único cara a cara de la campaña. Y en el bloque dedicado a la corrupción, el presidente del Gobierno empieza con dos palabras.\n\n[pause] [pause]\n\nSus defensores dicen que ha sacado adelante el país en la década más difícil que se recuerda: una pandemia, un volcán, una riada, una guerra en Europa. Sus críticos dicen que ha sobrevivido a costa de casi todo lo que prometió. [short pause] Este documental no le va a pedir que elija. Le va a poner delante sus propias palabras.\n\n[pause] [pause]\n\nPamplona, abril de dos mil quince. Pedro Sánchez lleva menos de un año al frente del Partido Socialista. En un plató de la televisión navarra, le preguntan si su partido pactaría con EH Bildu para gobernar en Navarra.\n\n[pause] [pause]\n\nSeptiembre de dos mil diecinueve. España va camino de su cuarta elección general en cuatro años. Sánchez explica en laSexta por qué no quiere un Gobierno de coalición con Pablo Iglesias.\n\n[pause] [pause]\n\nEn aquella misma campaña, Cataluña era el gran tema. Un mes antes, el catorce de octubre, el Tribunal Supremo había condenado a los líderes del proceso independentista. Sánchez, en funciones, compareció para fijar la posición del Gobierno.\n\n[pause] [pause]\n\n[serious] Íntegro cumplimiento. Traerlo de vuelta. Un nuevo delito para los referéndums ilegales. [pause] Lo que vino después está en el Boletín Oficial del Estado. En junio de dos mil veintiuno, el Gobierno indultó a los nueve líderes del procés condenados a prisión. En diciembre de dos mil veintidós, las Cortes suprimieron el delito de sedición. El delito para los referéndums ilegales nunca llegó. Y aquel delito de rebelión que veía clarísimo terminó en una amnistía.\n\n[pause] [pause]\n\nEl Gobierno defendió los indultos como una apuesta por la concordia: sacar el conflicto de los tribunales y devolverlo a la política. Es su argumento, y lo ha mantenido. Sostiene que hoy Cataluña está más tranquila que en dos mil diecisiete.\n\n[pause] [pause]\n\nFaltaba la amnistía. [short pause] En noviembre de dos mil veintidós, en Al Rojo Vivo, le preguntaron qué pedía el independentismo. Esta fue su respuesta, según la transcripción oficial de La Moncloa.\n\n[pause] [pause]\n\nLa ley de amnistía se publicó en el BOE el diez de junio de dos mil veinticuatro. [short pause] Y aquí está la defensa del Gobierno, con un documento detrás: en julio de dos mil veinticinco, el Tribunal Constitucional concluyó que la Constitución no prohíbe una amnistía, aunque anuló algunos puntos de la ley. Hubo votos particulares en contra.\n\n[pause] [pause]\n\nEste mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España». Feijóo abrió con Puigdemont el cara a cara.\n\n[pause] [pause]\n\nY en la misma entrevista, sobre Cataluña, lo dijo sin rodeos.\n\n[pause] [pause]\n\n[softly] Un horizonte que no cambia. Y unas posiciones que sí. [pause] Él lo llama coherencia. Sus socios de investidura, en el Congreso, lo llamaron de otra manera.\n\n[pause] [pause]\n\nLa defensa de Ábalos ve arbitrariedad en la sentencia y ha anunciado que acudirá a la justicia europea. [short pause] Pedro Sánchez no está imputado en esta causa. Ni en ninguna otra. Pero la pregunta de este capítulo no es judicial. Es política. ¿Cómo llegó Ábalos hasta ahí? [pause] Para responderla hay que volver atrás. Y subir a un coche.\n\n[pause] [pause]\n\nPedro Sánchez llega a la secretaría general del PSOE en julio de dos mil catorce, tras ganar unas primarias que casi nadie esperaba. En diciembre de dos mil quince logra noventa escaños, el peor resultado de su partido hasta entonces. En junio de dos mil dieciséis, ochenta y cinco. España lleva casi un año sin Gobierno. Sánchez se niega a facilitar la investidura de Rajoy: «No es no». [pause] El uno de octubre de dos mil dieciséis, un Comité Federal a gritos le obliga a dimitir. Semanas después renuncia a su escaño para no abstenerse en la investidura de Rajoy.",
+  "id": "v01"
+ },
+ {
+  "voice": "ENT",
+  "units": [
+   {
+    "key": "6987f26fa3",
+    "text": "Presidente, ¿por qué tendríamos que creerle?"
+   },
+   {
+    "key": "d8d4ca75d4",
+    "text": "Presidente, ¿quién eligió a José Luis Ábalos?"
+   },
+   {
+    "key": "c820cb1519",
+    "text": "Presidente, ¿sabía usted lo que pasaba en Ferraz?"
+   },
+   {
+    "key": "0330029961",
+    "text": "Presidente, ¿por qué su familia está en los tribunales?"
+   },
+   {
+    "key": "a324ed15e0",
+    "text": "Presidente, ¿dónde estaba usted?"
+   },
+   {
+    "key": "8ce7bbbb61",
+    "text": "Presidente, ¿quién responde por las vías?"
+   },
+   {
+    "key": "4650dd5cee",
+    "text": "Presidente, ¿por qué sigue defendiendo a José Luis Rodríguez Zapatero?"
+   },
+   {
+    "key": "2e31d184c5",
+    "text": "Presidente, ¿se puede gobernar sin el Parlamento?"
+   },
+   {
+    "key": "034299fc24",
+    "text": "Presidente, ¿va la economía como un cohete para todos?"
+   },
+   {
+    "key": "b1f24eece5",
+    "text": "Presidente, ¿qué le diría hoy el Pedro Sánchez de dos mil dieciocho?"
+   }
+  ],
+  "prompt": "Presidente, ¿por qué tendríamos que creerle?\n\n[pause] [pause]\n\nPresidente, ¿quién eligió a José Luis Ábalos?\n\n[pause] [pause]\n\nPresidente, ¿sabía usted lo que pasaba en Ferraz?\n\n[pause] [pause]\n\nPresidente, ¿por qué su familia está en los tribunales?\n\n[pause] [pause]\n\nPresidente, ¿dónde estaba usted?\n\n[pause] [pause]\n\nPresidente, ¿quién responde por las vías?\n\n[pause] [pause]\n\nPresidente, ¿por qué sigue defendiendo a José Luis Rodríguez Zapatero?\n\n[pause] [pause]\n\nPresidente, ¿se puede gobernar sin el Parlamento?\n\n[pause] [pause]\n\nPresidente, ¿va la economía como un cohete para todos?\n\n[pause] [pause]\n\nPresidente, ¿qué le diría hoy el Pedro Sánchez de dos mil dieciocho?",
+  "id": "v02"
+ },
+ {
+  "voice": "DOC",
+  "units": [
+   {
+    "key": "54163d8f0d",
+    "text": "Sentencia del Tribunal Supremo. Al valorar la confesión de Aldama, el tribunal habla de una «corrupción orgánica, organizada y continuada»."
+   },
+   {
+    "key": "65c7b1e5cb",
+    "text": "Es una acusación política, pronunciada en la tribuna del Congreso. Ningún tribunal ha juzgado al presidente por ello."
+   },
+   {
+    "key": "37958121c3",
+    "text": "Diecisiete de mayo de dos mil veinticuatro. laSexta. Palabras del presidente: «Aquí no hay caso. Hay fango»."
+   },
+   {
+    "key": "3e8edaef51",
+    "text": "Mensaje del Centro Nacional de Inteligencia. Veintinueve de julio de dos mil veintiséis. Trece horas, cincuenta y dos minutos. «Llamamiento para asalto por valla y mar mañana a las veinte horas»."
+   },
+   {
+    "key": "f4e2a06f15",
+    "text": "Dos de noviembre de dos mil veinticuatro. Comparecencia del presidente: «El Gobierno central está listo para ayudar. Si necesita más recursos, que los pida»."
+   },
+   {
+    "key": "608281654d",
+    "text": "Dos días después, el veinte de enero, el ministro añadió: «Si hay algo cercano a la infalibilidad, es la alta velocidad española»."
+   },
+   {
+    "key": "70fb6c494a",
+    "text": "Ángel Víctor Torres no ha sido condenado por ningún delito."
+   },
+   {
+    "key": "6d0197deee",
+    "text": "Días después, dirigentes de Podemos explicaron que aquellas palabras eran irónicas, una burla de la teoría del reemplazo."
+   },
+   {
+    "key": "2f7f6fdc6e",
+    "text": "Feijóo, por su parte, negó haber prometido él mismo un millón de viviendas, aunque la medida ciento cuarenta y cuatro de su programa hablaba de esa cifra."
+   }
+  ],
+  "prompt": "Sentencia del Tribunal Supremo. Al valorar la confesión de Aldama, el tribunal habla de una «corrupción orgánica, organizada y continuada».\n\n[pause] [pause]\n\nEs una acusación política, pronunciada en la tribuna del Congreso. Ningún tribunal ha juzgado al presidente por ello.\n\n[pause] [pause]\n\nDiecisiete de mayo de dos mil veinticuatro. laSexta. Palabras del presidente: «Aquí no hay caso. Hay fango».\n\n[pause] [pause]\n\nMensaje del Centro Nacional de Inteligencia. Veintinueve de julio de dos mil veintiséis. Trece horas, cincuenta y dos minutos. «Llamamiento para asalto por valla y mar mañana a las veinte horas».\n\n[pause] [pause]\n\nDos de noviembre de dos mil veinticuatro. Comparecencia del presidente: «El Gobierno central está listo para ayudar. Si necesita más recursos, que los pida».\n\n[pause] [pause]\n\nDos días después, el veinte de enero, el ministro añadió: «Si hay algo cercano a la infalibilidad, es la alta velocidad española».\n\n[pause] [pause]\n\nÁngel Víctor Torres no ha sido condenado por ningún delito.\n\n[pause] [pause]\n\nDías después, dirigentes de Podemos explicaron que aquellas palabras eran irónicas, una burla de la teoría del reemplazo.\n\n[pause] [pause]\n\nFeijóo, por su parte, negó haber prometido él mismo un millón de viviendas, aunque la medida ciento cuarenta y cuatro de su programa hablaba de esa cifra.",
+  "id": "v03"
+ },
+ {
+  "voice": "NEW",
+  "units": [
+   {
+    "key": "08740b958d",
+    "text": "El veintiuno de mayo de dos mil diecisiete, contra pronóstico, Sánchez derrota a Susana Díaz y recupera el partido. Un mes después, el dieciocho de junio, elige a su equipo. El secretario de Organización, el número tres del partido, el que controla el aparato, será José Luis Ábalos. Y en su área entra Santos Cerdán."
+   },
+   {
+    "key": "2b6b03e918",
+    "text": "Quien defendió aquella moción desde la tribuna en nombre del PSOE fue José Luis Ábalos. Según recuerda Maldita.es, dijo que la presentaban para sacar de la política la corrupción. Rajoy le contestó así."
+   },
+   {
+    "key": "08d3b56453",
+    "text": "Enero de dos mil veinte. Aeropuerto de Barajas, de madrugada. Ábalos se reúne en un avión con Delcy Rodríguez, vicepresidenta de Venezuela, que tenía prohibida la entrada en el espacio Schengen. Durante semanas, el ministro dio versiones distintas de aquel encuentro. Maldita.es las contó. Y el Gobierno negó, con estas palabras, que el presidente hubiera hablado por teléfono con ella."
+   },
+   {
+    "key": "a30c0113c8",
+    "text": "[serious] Años después, el sumario del caso Koldo y los audios publicados por la prensa describirían otra cosa. Según las informaciones basadas en los informes de la UCO, la trama pagaba viajes y alojamientos a mujeres de su entorno. Feijóo lo usó en el Congreso como arma contra el presidente."
+   },
+   {
+    "key": "9bb06b6df4",
+    "text": "El PSOE sostiene que lo apartó en cuanto supo. Que lo expulsó. Que colaboró con la justicia. El nueve de julio de dos mil veinticinco, en el Congreso, Sánchez dio su versión."
+   },
+   {
+    "key": "568a71a14c",
+    "text": "Madrid, calle Ferraz, número setenta. Sede federal del Partido Socialista. Miércoles, veintisiete de mayo de dos mil veintiséis. Agentes de la Unidad Central Operativa de la Guardia Civil entran en el edificio. Se quedan doce horas. [short pause] El PSOE insiste en que no fue un registro, sino un requerimiento de documentación. Es exacto: fue un requerimiento."
+   },
+   {
+    "key": "2f6bf0117a",
+    "text": "Todo empezó dos años antes, con mascarillas. Febrero de dos mil veinticuatro: la UCO detiene a Koldo García por presuntas comisiones en contratos de material sanitario firmados en lo peor de la pandemia con organismos que dependían del Ministerio de Transportes. El PSOE pide a Ábalos que entregue su escaño. Él se niega, se marcha al Grupo Mixto y conserva el acta de diputado."
+   },
+   {
+    "key": "67a13a9530",
+    "text": "Según publicó Voz Pópuli, Cerdán había declarado dos reuniones con un empresario de la trama. Los investigadores le atribuyen treinta y nueve. Cerdán niega haber cometido ningún delito."
+   },
+   {
+    "key": "d60c43234b",
+    "text": "Balas es el apellido de un teniente coronel de la UCO. Según el juez Santiago Pedraz, Leire Díez formaba parte de una red para obstaculizar causas judiciales. Según el sumario publicado por la prensa, recibía unos cuatro mil euros al mes, y la gerente del PSOE está imputada. [short pause] El PSOE dice que Leire Díez «nada tiene que ver» con la organización. Ella niega haber actuado en su nombre. Está investigada; no condenada."
+   },
+   {
+    "key": "d894dc710b",
+    "text": "Junio de dos mil veinticinco, tras el auto contra Cerdán."
+   },
+   {
+    "key": "f50bda2c24",
+    "text": "Junio de dos mil veintiséis, dos días después de la sentencia del Supremo."
+   },
+   {
+    "key": "67f55d37cd",
+    "text": "Y en septiembre, en Televisión Española, fue más allá."
+   },
+   {
+    "key": "33a234bc60",
+    "text": "Y en el debate del diecinueve de noviembre, Feijóo resumió la ofensiva de su partido con una sola frase sobre la política de vivienda."
+   },
+   {
+    "key": "f41b3feed6",
+    "text": "Cinco días después, se queda. Y tres semanas más tarde, en laSexta, deja la frase que marcaría su defensa."
+   },
+   {
+    "key": "bf4af31908",
+    "text": "El juez Juan Carlos Peinado ha investigado a Begoña Gómez por tráfico de influencias, corrupción en los negocios, apropiación indebida e intrusismo. En el centro, su cátedra en la Universidad Complutense y un programa informático desarrollado para ella con patrocinio privado. Ella niega cualquier delito."
+   },
+   {
+    "key": "c22fbf24e0",
+    "text": "Hoy, Begoña Gómez está procesada. Irá a juicio con jurado, previsto para dos mil veintisiete. [short pause] Y aquí está su defensa, que también consta en la causa: la Fiscalía pide su absolución. Ella sostiene que es víctima de una persecución por ser la mujer del presidente."
+   },
+   {
+    "key": "5845657b84",
+    "text": "Seis días después, el presidente era portada de la revista Lecturas. El titular: «No imagino mi vida sin Begoña»."
+   }
+  ],
+  "prompt": "El veintiuno de mayo de dos mil diecisiete, contra pronóstico, Sánchez derrota a Susana Díaz y recupera el partido. Un mes después, el dieciocho de junio, elige a su equipo. El secretario de Organización, el número tres del partido, el que controla el aparato, será José Luis Ábalos. Y en su área entra Santos Cerdán.\n\n[pause] [pause]\n\nQuien defendió aquella moción desde la tribuna en nombre del PSOE fue José Luis Ábalos. Según recuerda Maldita.es, dijo que la presentaban para sacar de la política la corrupción. Rajoy le contestó así.\n\n[pause] [pause]\n\nEnero de dos mil veinte. Aeropuerto de Barajas, de madrugada. Ábalos se reúne en un avión con Delcy Rodríguez, vicepresidenta de Venezuela, que tenía prohibida la entrada en el espacio Schengen. Durante semanas, el ministro dio versiones distintas de aquel encuentro. Maldita.es las contó. Y el Gobierno negó, con estas palabras, que el presidente hubiera hablado por teléfono con ella.\n\n[pause] [pause]\n\n[serious] Años después, el sumario del caso Koldo y los audios publicados por la prensa describirían otra cosa. Según las informaciones basadas en los informes de la UCO, la trama pagaba viajes y alojamientos a mujeres de su entorno. Feijóo lo usó en el Congreso como arma contra el presidente.\n\n[pause] [pause]\n\nEl PSOE sostiene que lo apartó en cuanto supo. Que lo expulsó. Que colaboró con la justicia. El nueve de julio de dos mil veinticinco, en el Congreso, Sánchez dio su versión.\n\n[pause] [pause]\n\nMadrid, calle Ferraz, número setenta. Sede federal del Partido Socialista. Miércoles, veintisiete de mayo de dos mil veintiséis. Agentes de la Unidad Central Operativa de la Guardia Civil entran en el edificio. Se quedan doce horas. [short pause] El PSOE insiste en que no fue un registro, sino un requerimiento de documentación. Es exacto: fue un requerimiento.\n\n[pause] [pause]\n\nTodo empezó dos años antes, con mascarillas. Febrero de dos mil veinticuatro: la UCO detiene a Koldo García por presuntas comisiones en contratos de material sanitario firmados en lo peor de la pandemia con organismos que dependían del Ministerio de Transportes. El PSOE pide a Ábalos que entregue su escaño. Él se niega, se marcha al Grupo Mixto y conserva el acta de diputado.\n\n[pause] [pause]\n\nSegún publicó Voz Pópuli, Cerdán había declarado dos reuniones con un empresario de la trama. Los investigadores le atribuyen treinta y nueve. Cerdán niega haber cometido ningún delito.\n\n[pause] [pause]\n\nBalas es el apellido de un teniente coronel de la UCO. Según el juez Santiago Pedraz, Leire Díez formaba parte de una red para obstaculizar causas judiciales. Según el sumario publicado por la prensa, recibía unos cuatro mil euros al mes, y la gerente del PSOE está imputada. [short pause] El PSOE dice que Leire Díez «nada tiene que ver» con la organización. Ella niega haber actuado en su nombre. Está investigada; no condenada.\n\n[pause] [pause]\n\nJunio de dos mil veinticinco, tras el auto contra Cerdán.\n\n[pause] [pause]\n\nJunio de dos mil veintiséis, dos días después de la sentencia del Supremo.\n\n[pause] [pause]\n\nY en septiembre, en Televisión Española, fue más allá.\n\n[pause] [pause]\n\nY en el debate del diecinueve de noviembre, Feijóo resumió la ofensiva de su partido con una sola frase sobre la política de vivienda.\n\n[pause] [pause]\n\nCinco días después, se queda. Y tres semanas más tarde, en laSexta, deja la frase que marcaría su defensa.\n\n[pause] [pause]\n\nEl juez Juan Carlos Peinado ha investigado a Begoña Gómez por tráfico de influencias, corrupción en los negocios, apropiación indebida e intrusismo. En el centro, su cátedra en la Universidad Complutense y un programa informático desarrollado para ella con patrocinio privado. Ella niega cualquier delito.\n\n[pause] [pause]\n\nHoy, Begoña Gómez está procesada. Irá a juicio con jurado, previsto para dos mil veintisiete. [short pause] Y aquí está su defensa, que también consta en la causa: la Fiscalía pide su absolución. Ella sostiene que es víctima de una persecución por ser la mujer del presidente.\n\n[pause] [pause]\n\nSeis días después, el presidente era portada de la revista Lecturas. El titular: «No imagino mi vida sin Begoña».",
+  "id": "v04"
+ },
+ {
+  "voice": "TOP",
+  "units": [
+   {
+    "key": "7f719f1614",
+    "text": "Una semana después, el siete de junio, el Boletín Oficial del Estado publica el nombramiento. Ministro de Fomento: José Luis Ábalos Meco. Firma el real decreto el presidente del Gobierno."
+   },
+   {
+    "key": "eff300806a",
+    "text": "En marzo de dos mil veinte, en vísperas del ocho de marzo, el PSOE publicó una campaña en redes. Uno de sus protagonistas era su secretario de Organización."
+   },
+   {
+    "key": "d3c4b7a182",
+    "text": "Julio de dos mil veintiuno. Sánchez remodela su Gobierno y saca a Ábalos del Ministerio y de la secretaría de Organización. En aquel momento no explicó en público por qué. Su sustituto al frente de la Organización del PSOE es Santos Cerdán. [pause] Y dos años después, en las elecciones de dos mil veintitrés, Ábalos vuelve: número dos de la lista del PSOE por Valencia."
+   },
+   {
+    "key": "19a7e5352b",
+    "text": "[serious] Me equivoqué al confiar en Ábalos. [short pause] Y en Santos Cerdán. [pause] El hombre que vino después. El que estaba en el coche. El que heredó las llaves de Ferraz."
+   },
+   {
+    "key": "e4ead9e9d2",
+    "text": "[serious] Para entender por qué la UCO llegó hasta allí, hay que volver a junio de dos mil veinticinco. El juez del Supremo ve «consistentes indicios» contra Santos Cerdán, el número tres del partido. Cerdán dimite de todos sus cargos. Pasará cuatro meses y veinte días en prisión provisional."
+   },
+   {
+    "key": "d5f2920975",
+    "text": "En el centro de la trama aparece un empresario: Víctor de Aldama, el comisionista que acabó confesando. En octubre de dos mil veinticuatro, El Mundo publicó una foto suya con el presidente, tomada en febrero de dos mil diecinueve en un acto del PSOE en Madrid. Sánchez respondió que nunca había hablado con él, y que uno no elige con quién se hace una foto. Semanas después, Aldama declaró ante el juez que fue el presidente quien le pidió aquella foto. Es la palabra de un acusado que buscaba rebajar su condena. Sánchez lo niega."
+   },
+   {
+    "key": "df1ccea1ff",
+    "text": "Aquel mismo verano salió a la luz otra figura. Leire Díez, militante del PSOE. El Confidencial publicó la grabación de una reunión de febrero de dos mil veinticinco, en la que hablaba de conseguir información contra mandos de la Guardia Civil que investigaban al partido. Ella reconoció que la voz era suya."
+   },
+   {
+    "key": "79d21cfb0f",
+    "text": "[serious] Y ahora, las respuestas. Porque el presidente ha hablado mucho de corrupción. [pause] Febrero de dos mil veinticuatro, recién estallado el caso Koldo."
+   },
+   {
+    "key": "88c21ff0c8",
+    "text": "[serious] El Partido Socialista no se ha financiado irregularmente. [pause] Es lo que sostiene el PSOE. Y aquí está lo que dicen los documentos: en octubre de dos mil veintiséis, la Fiscalía Anticorrupción vio indicios contra el partido, pero consideró prematuro imputarlo. El PSOE, como organización, no está imputado."
+   },
+   {
+    "key": "b2bab4971e",
+    "text": "[softly] Pisos en los sumarios. Viviendas prometidas. [pause] De las viviendas hablaremos. [short pause] Pero antes hay otra pregunta. Porque las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa."
+   },
+   {
+    "key": "394159232c",
+    "text": "[serious] Miércoles, veinticuatro de abril de dos mil veinticuatro. Un juzgado de Madrid abre diligencias contra Begoña Gómez, la esposa del presidente, por su actividad profesional. Esa misma tarde, Sánchez publica una carta a la ciudadanía. Anuncia que se toma cinco días para pensar si sigue. Y escribe: «¿Merece la pena todo esto? Sinceramente, no lo sé»."
+   },
+   {
+    "key": "c113c39698",
+    "text": "Noviembre de dos mil veinticuatro. Asamblea de Madrid. Begoña Gómez comparece ante una comisión de investigación impulsada por el Partido Popular sobre su relación con la Universidad Complutense. La diputada popular Mercedes Zarzalejo le pregunta durante más de dieciséis minutos."
+   },
+   {
+    "key": "0c283a68ea",
+    "text": "[serious] Doce de noviembre de dos mil veintiséis. Mitin de arranque de campaña en Sevilla. Begoña Gómez sube al escenario."
+   },
+   {
+    "key": "6210b94829",
+    "text": "En casa de los Sánchez hay otra causa. David Sánchez, hermano del presidente, que trabajaba para la Diputación de Badajoz. Un tribunal le ha condenado a nueve años de inhabilitación como cooperador necesario de un delito de prevaricación, y le ha absuelto del de tráfico de influencias. La sentencia está recurrida. No es firme."
+   },
+   {
+    "key": "b18dcbacf8",
+    "text": "[serious] Para defender a su familia, el presidente ha cargado contra una parte de los jueces. El uno de septiembre de dos mil veinticinco, en Televisión Española, le preguntaron si había jueces en guerra con su Gobierno."
+   }
+  ],
+  "prompt": "Una semana después, el siete de junio, el Boletín Oficial del Estado publica el nombramiento. Ministro de Fomento: José Luis Ábalos Meco. Firma el real decreto el presidente del Gobierno.\n\n[pause] [pause]\n\nEn marzo de dos mil veinte, en vísperas del ocho de marzo, el PSOE publicó una campaña en redes. Uno de sus protagonistas era su secretario de Organización.\n\n[pause] [pause]\n\nJulio de dos mil veintiuno. Sánchez remodela su Gobierno y saca a Ábalos del Ministerio y de la secretaría de Organización. En aquel momento no explicó en público por qué. Su sustituto al frente de la Organización del PSOE es Santos Cerdán. [pause] Y dos años después, en las elecciones de dos mil veintitrés, Ábalos vuelve: número dos de la lista del PSOE por Valencia.\n\n[pause] [pause]\n\n[serious] Me equivoqué al confiar en Ábalos. [short pause] Y en Santos Cerdán. [pause] El hombre que vino después. El que estaba en el coche. El que heredó las llaves de Ferraz.\n\n[pause] [pause]\n\n[serious] Para entender por qué la UCO llegó hasta allí, hay que volver a junio de dos mil veinticinco. El juez del Supremo ve «consistentes indicios» contra Santos Cerdán, el número tres del partido. Cerdán dimite de todos sus cargos. Pasará cuatro meses y veinte días en prisión provisional.\n\n[pause] [pause]\n\nEn el centro de la trama aparece un empresario: Víctor de Aldama, el comisionista que acabó confesando. En octubre de dos mil veinticuatro, El Mundo publicó una foto suya con el presidente, tomada en febrero de dos mil diecinueve en un acto del PSOE en Madrid. Sánchez respondió que nunca había hablado con él, y que uno no elige con quién se hace una foto. Semanas después, Aldama declaró ante el juez que fue el presidente quien le pidió aquella foto. Es la palabra de un acusado que buscaba rebajar su condena. Sánchez lo niega.\n\n[pause] [pause]\n\nAquel mismo verano salió a la luz otra figura. Leire Díez, militante del PSOE. El Confidencial publicó la grabación de una reunión de febrero de dos mil veinticinco, en la que hablaba de conseguir información contra mandos de la Guardia Civil que investigaban al partido. Ella reconoció que la voz era suya.\n\n[pause] [pause]\n\n[serious] Y ahora, las respuestas. Porque el presidente ha hablado mucho de corrupción. [pause] Febrero de dos mil veinticuatro, recién estallado el caso Koldo.\n\n[pause] [pause]\n\n[serious] El Partido Socialista no se ha financiado irregularmente. [pause] Es lo que sostiene el PSOE. Y aquí está lo que dicen los documentos: en octubre de dos mil veintiséis, la Fiscalía Anticorrupción vio indicios contra el partido, pero consideró prematuro imputarlo. El PSOE, como organización, no está imputado.\n\n[pause] [pause]\n\n[softly] Pisos en los sumarios. Viviendas prometidas. [pause] De las viviendas hablaremos. [short pause] Pero antes hay otra pregunta. Porque las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa.\n\n[pause] [pause]\n\n[serious] Miércoles, veinticuatro de abril de dos mil veinticuatro. Un juzgado de Madrid abre diligencias contra Begoña Gómez, la esposa del presidente, por su actividad profesional. Esa misma tarde, Sánchez publica una carta a la ciudadanía. Anuncia que se toma cinco días para pensar si sigue. Y escribe: «¿Merece la pena todo esto? Sinceramente, no lo sé».\n\n[pause] [pause]\n\nNoviembre de dos mil veinticuatro. Asamblea de Madrid. Begoña Gómez comparece ante una comisión de investigación impulsada por el Partido Popular sobre su relación con la Universidad Complutense. La diputada popular Mercedes Zarzalejo le pregunta durante más de dieciséis minutos.\n\n[pause] [pause]\n\n[serious] Doce de noviembre de dos mil veintiséis. Mitin de arranque de campaña en Sevilla. Begoña Gómez sube al escenario.\n\n[pause] [pause]\n\nEn casa de los Sánchez hay otra causa. David Sánchez, hermano del presidente, que trabajaba para la Diputación de Badajoz. Un tribunal le ha condenado a nueve años de inhabilitación como cooperador necesario de un delito de prevaricación, y le ha absuelto del de tráfico de influencias. La sentencia está recurrida. No es firme.\n\n[pause] [pause]\n\n[serious] Para defender a su familia, el presidente ha cargado contra una parte de los jueces. El uno de septiembre de dos mil veinticinco, en Televisión Española, le preguntaron si había jueces en guerra con su Gobierno.",
+  "id": "v05"
+ },
+ {
+  "voice": "NEW",
+  "units": [
+   {
+    "key": "7f66c56863",
+    "text": "Y hay una tercera historia, más pequeña, publicada por la prensa. Calle San Bernardo, número treinta y ocho, Madrid. El edificio es de Muface, la mutualidad pública de los funcionarios. Según el contrato que publicó El Debate, la familia de Begoña Gómez alquila allí un ático desde mil novecientos ochenta y seis: entonces, doscientos setenta y dos euros al mes; en dos mil veinticinco, ochocientos ochenta y dos. Cuando el Senado pidió los datos de esos pisos, el Gobierno no los entregó, según The Objective."
+   },
+   {
+    "key": "97a3920158",
+    "text": "Tras los cinco días de reflexión, el Gobierno presentó un plan de acción por la democracia, con medidas sobre los medios de comunicación y la publicidad institucional. El presidente lo resumió con una idea que repetiría: no se puede confundir la libertad de información con la libertad de difamar. Sus críticos vieron en el plan un intento de señalar a la prensa que publicaba las investigaciones sobre su entorno. El Gobierno lo defendió como una adaptación a la normativa europea de libertad de medios."
+   },
+   {
+    "key": "fb534e972b",
+    "text": "Tres asociaciones de jueces le respondieron públicamente. [short pause] En enero de dos mil veinticinco, el PSOE registró una reforma para limitar la acusación popular que podía aplicarse a causas ya abiertas, entre ellas las que afectaban a su entorno. En noviembre de ese año la retiró. El Gobierno la defendía como una respuesta al abuso de las acusaciones populares. [pause] Y hay otra frase suya, de hace siete años, que explica por qué la relación del Gobierno con la justicia es una de las preguntas de esta campaña. Seis de noviembre de dos mil diecinueve. Radio Nacional."
+   },
+   {
+    "key": "306c1b727c",
+    "text": "La causa contra el fiscal general nació de la filtración de un correo electrónico sobre la pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, investigada por fraude fiscal. El fiscal general defendió que actuó para desmentir un bulo."
+   },
+   {
+    "key": "0e6d89ff41",
+    "text": "Tres días después de esa condena, desde la cumbre del G veinte en Johannesburgo, el presidente dijo esto."
+   },
+   {
+    "key": "9e3b8bd035",
+    "text": "[softly] Recapitulemos. Un presidente que prometió no pactar con Bildu, no dormir con Podemos y traer a Puigdemont, y que hizo lo contrario por necesidad, según sus palabras. Un secretario de Organización elegido por él, hoy condenado. Su sucesor, investigado. Su esposa, procesada. Su hermano, condenado sin sentencia firme. Su fiscal general, condenado. Él, sin imputación alguna."
+   },
+   {
+    "key": "bdbf5ed896",
+    "text": "El treinta de julio, según recogió Maldita.es, el Ministerio del Interior sostiene que no es posible declarar la situación de emergencia nacional. El treinta y uno, el presidente viaja a Ceuta. La visita dura hora y media. Le reciben con pitos."
+   },
+   {
+    "key": "bf1c68fdca",
+    "text": "El Consejo de Seguridad Nacional no se reunió hasta veinticinco días después. [short pause] El tres de septiembre, de vuelta en el Congreso, el presidente explicó qué decían los informes de inteligencia que había recibido."
+   },
+   {
+    "key": "69060a441b",
+    "text": "La defensa del Gobierno: que ningún informe previó ni la escala ni la probabilidad de lo que ocurrió, y que el presidente trabajó desde la residencia oficial con el ministro del Interior al frente. Ese mismo día, en Televisión Española, lo explicó así."
+   },
+   {
+    "key": "98e2ab6140",
+    "text": "Juan Jesús Vivas es el presidente de Ceuta. [short pause] La Casa Real hizo saber que el Rey seguía la situación con preocupación e indignación. Y el presidente anunció una visita del jefe del Estado."
+   },
+   {
+    "key": "0fde3992a8",
+    "text": "En esa misma comparecencia anunció diez mil efectivos más. Y la versión de la frase que circuló después por redes, recortada, era falsa, como comprobó Maldita.es. Pero la ley permite al Gobierno declarar una emergencia de interés nacional por iniciativa propia. No la declaró. Su defensa: era una facultad, no una obligación, y la gestión correspondía a la Generalitat Valenciana."
+   },
+   {
+    "key": "a538129fb4",
+    "text": "La Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios. En Madrid nadie dimitió."
+   }
+  ],
+  "prompt": "Y hay una tercera historia, más pequeña, publicada por la prensa. Calle San Bernardo, número treinta y ocho, Madrid. El edificio es de Muface, la mutualidad pública de los funcionarios. Según el contrato que publicó El Debate, la familia de Begoña Gómez alquila allí un ático desde mil novecientos ochenta y seis: entonces, doscientos setenta y dos euros al mes; en dos mil veinticinco, ochocientos ochenta y dos. Cuando el Senado pidió los datos de esos pisos, el Gobierno no los entregó, según The Objective.\n\n[pause] [pause]\n\nTras los cinco días de reflexión, el Gobierno presentó un plan de acción por la democracia, con medidas sobre los medios de comunicación y la publicidad institucional. El presidente lo resumió con una idea que repetiría: no se puede confundir la libertad de información con la libertad de difamar. Sus críticos vieron en el plan un intento de señalar a la prensa que publicaba las investigaciones sobre su entorno. El Gobierno lo defendió como una adaptación a la normativa europea de libertad de medios.\n\n[pause] [pause]\n\nTres asociaciones de jueces le respondieron públicamente. [short pause] En enero de dos mil veinticinco, el PSOE registró una reforma para limitar la acusación popular que podía aplicarse a causas ya abiertas, entre ellas las que afectaban a su entorno. En noviembre de ese año la retiró. El Gobierno la defendía como una respuesta al abuso de las acusaciones populares. [pause] Y hay otra frase suya, de hace siete años, que explica por qué la relación del Gobierno con la justicia es una de las preguntas de esta campaña. Seis de noviembre de dos mil diecinueve. Radio Nacional.\n\n[pause] [pause]\n\nLa causa contra el fiscal general nació de la filtración de un correo electrónico sobre la pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, investigada por fraude fiscal. El fiscal general defendió que actuó para desmentir un bulo.\n\n[pause] [pause]\n\nTres días después de esa condena, desde la cumbre del G veinte en Johannesburgo, el presidente dijo esto.\n\n[pause] [pause]\n\n[softly] Recapitulemos. Un presidente que prometió no pactar con Bildu, no dormir con Podemos y traer a Puigdemont, y que hizo lo contrario por necesidad, según sus palabras. Un secretario de Organización elegido por él, hoy condenado. Su sucesor, investigado. Su esposa, procesada. Su hermano, condenado sin sentencia firme. Su fiscal general, condenado. Él, sin imputación alguna.\n\n[pause] [pause]\n\nEl treinta de julio, según recogió Maldita.es, el Ministerio del Interior sostiene que no es posible declarar la situación de emergencia nacional. El treinta y uno, el presidente viaja a Ceuta. La visita dura hora y media. Le reciben con pitos.\n\n[pause] [pause]\n\nEl Consejo de Seguridad Nacional no se reunió hasta veinticinco días después. [short pause] El tres de septiembre, de vuelta en el Congreso, el presidente explicó qué decían los informes de inteligencia que había recibido.\n\n[pause] [pause]\n\nLa defensa del Gobierno: que ningún informe previó ni la escala ni la probabilidad de lo que ocurrió, y que el presidente trabajó desde la residencia oficial con el ministro del Interior al frente. Ese mismo día, en Televisión Española, lo explicó así.\n\n[pause] [pause]\n\nJuan Jesús Vivas es el presidente de Ceuta. [short pause] La Casa Real hizo saber que el Rey seguía la situación con preocupación e indignación. Y el presidente anunció una visita del jefe del Estado.\n\n[pause] [pause]\n\nEn esa misma comparecencia anunció diez mil efectivos más. Y la versión de la frase que circuló después por redes, recortada, era falsa, como comprobó Maldita.es. Pero la ley permite al Gobierno declarar una emergencia de interés nacional por iniciativa propia. No la declaró. Su defensa: era una facultad, no una obligación, y la gestión correspondía a la Generalitat Valenciana.\n\n[pause] [pause]\n\nLa Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios. En Madrid nadie dimitió.",
+  "id": "v06"
+ },
+ {
+  "voice": "TOP",
+  "units": [
+   {
+    "key": "ef5f6f6a0d",
+    "text": "Al día siguiente rectificó: dijo que no había sido preciso. [pause] Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Hubo votos particulares. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden."
+   },
+   {
+    "key": "9979a5d790",
+    "text": "[serious] Cree en su inocencia. Y la defiende. [pause] Pero en el verano de dos mil veintiséis la pregunta dejó de ser qué decía el presidente. Pasó a ser dónde estaba."
+   },
+   {
+    "key": "449b0838f3",
+    "text": "[serious] Al día siguiente, miles de personas entran en Ceuta a nado y saltando el espigón. Según los datos recogidos por Maldita.es y elDiario.es, unas setenta y dos mil entradas. Y al menos setenta y dos muertos, según la Delegación del Gobierno."
+   },
+   {
+    "key": "bb61b1c5cd",
+    "text": "Y después, se marcha a La Mareta, la residencia oficial de Lanzarote, para sus vacaciones de verano. [pause] El uno de agosto, sus redes sociales publican este vídeo."
+   },
+   {
+    "key": "748408ec84",
+    "text": "[serious] Un aviso rutinario. [pause] Seis días después, el propio Gobierno publicó todos los informes. Entre ellos, el mensaje del día veintinueve. «Asalto por valla y mar. Mañana. Veinte horas»."
+   },
+   {
+    "key": "2f9ff7ec68",
+    "text": "Dieciséis de septiembre. Pasillos del Congreso. Un periodista le pregunta por los menores que siguen en las calles de Ceuta."
+   },
+   {
+    "key": "ddccf908bf",
+    "text": "[serious] Detrás de Ceuta está siempre la misma relación. En marzo de dos mil veintidós, con una carta al rey Mohamed sexto, Sánchez cambió cuarenta años de posición española sobre el Sáhara Occidental: el plan de autonomía marroquí pasó a ser, para el Gobierno, «la base más seria, realista y creíble». Lo decidió sin pasar por el Congreso. En abril, el Congreso aprobó una resolución contra ese giro; solo votó en contra el PSOE. El Gobierno lo defiende como una apuesta por la estabilidad y la cooperación migratoria."
+   },
+   {
+    "key": "54a2a964a3",
+    "text": "[serious] No era la primera vez que una catástrofe le preguntaba al presidente dónde estaba. [pause] Veintinueve de octubre de dos mil veinticuatro. Valencia. La DANA. Doscientos treinta muertos en tres comunidades, según el balance oficial de La Moncloa de diciembre."
+   },
+   {
+    "key": "be4ddfbd36",
+    "text": "El tres de noviembre de dos mil veinticuatro, en Paiporta, la comitiva oficial entra en una calle llena de barro. Los vecinos gritan. Lanzan objetos. El coche del presidente es golpeado. Sánchez se va. Los Reyes se quedan."
+   },
+   {
+    "key": "d652aeec64",
+    "text": "[serious] Todos los recursos del Estado. [pause] Melilla, junio de dos mil veintidós: al menos veintitrés migrantes mueren en la valla. El presidente, desde Bruselas, valoró así la actuación."
+   },
+   {
+    "key": "9c80bbca0a",
+    "text": "[softly] Siempre hay un recurso que pedir. Un informe rutinario. Un operador privado. Un presidente autonómico al que preguntar. [pause] Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles."
+   },
+   {
+    "key": "1d3fe915d2",
+    "text": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. Ese día el presidente viaja a Urda y habla de una confianza quebrada."
+   },
+   {
+    "key": "321571bea7",
+    "text": "El BOE del día siguiente publica su cese, «agradeciéndole los servicios prestados»."
+   },
+   {
+    "key": "877d946849",
+    "text": "En el archivo hay otras imágenes del presidente. [short pause] En el funeral de Montserrat Caballé, en dos mil dieciocho. En el funeral de Estado de David Sassoli, en Roma, en dos mil veintidós. En el de Guillermo Fernández Vara, en dos mil veinticinco. Y en la misa del papa León catorce en la Sagrada Familia, en junio de este año."
+   },
+   {
+    "key": "809bc18a06",
+    "text": "[serious] Una semana después, en el cara a cara, Feijóo se lo reprochó."
+   },
+   {
+    "key": "6a53833ee0",
+    "text": "[serious] Madrid. Despacho de José Luis Rodríguez Zapatero. Primavera de dos mil veintiséis. La Policía registra la oficina del expresidente del Gobierno. En una caja fuerte aparecen joyas. The Objective publicó las fotografías, en las bolsas de la Policía."
+   },
+   {
+    "key": "8ae3da5bbc",
+    "text": "Antes de todo esto, en un mitin, Zapatero había resumido así lo que significa ser socialista."
+   },
+   {
+    "key": "26bc842e90",
+    "text": "Zapatero, en una entrevista en Televisión Española, negó haber intervenido."
+   }
+  ],
+  "prompt": "Al día siguiente rectificó: dijo que no había sido preciso. [pause] Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Hubo votos particulares. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden.\n\n[pause] [pause]\n\n[serious] Cree en su inocencia. Y la defiende. [pause] Pero en el verano de dos mil veintiséis la pregunta dejó de ser qué decía el presidente. Pasó a ser dónde estaba.\n\n[pause] [pause]\n\n[serious] Al día siguiente, miles de personas entran en Ceuta a nado y saltando el espigón. Según los datos recogidos por Maldita.es y elDiario.es, unas setenta y dos mil entradas. Y al menos setenta y dos muertos, según la Delegación del Gobierno.\n\n[pause] [pause]\n\nY después, se marcha a La Mareta, la residencia oficial de Lanzarote, para sus vacaciones de verano. [pause] El uno de agosto, sus redes sociales publican este vídeo.\n\n[pause] [pause]\n\n[serious] Un aviso rutinario. [pause] Seis días después, el propio Gobierno publicó todos los informes. Entre ellos, el mensaje del día veintinueve. «Asalto por valla y mar. Mañana. Veinte horas».\n\n[pause] [pause]\n\nDieciséis de septiembre. Pasillos del Congreso. Un periodista le pregunta por los menores que siguen en las calles de Ceuta.\n\n[pause] [pause]\n\n[serious] Detrás de Ceuta está siempre la misma relación. En marzo de dos mil veintidós, con una carta al rey Mohamed sexto, Sánchez cambió cuarenta años de posición española sobre el Sáhara Occidental: el plan de autonomía marroquí pasó a ser, para el Gobierno, «la base más seria, realista y creíble». Lo decidió sin pasar por el Congreso. En abril, el Congreso aprobó una resolución contra ese giro; solo votó en contra el PSOE. El Gobierno lo defiende como una apuesta por la estabilidad y la cooperación migratoria.\n\n[pause] [pause]\n\n[serious] No era la primera vez que una catástrofe le preguntaba al presidente dónde estaba. [pause] Veintinueve de octubre de dos mil veinticuatro. Valencia. La DANA. Doscientos treinta muertos en tres comunidades, según el balance oficial de La Moncloa de diciembre.\n\n[pause] [pause]\n\nEl tres de noviembre de dos mil veinticuatro, en Paiporta, la comitiva oficial entra en una calle llena de barro. Los vecinos gritan. Lanzan objetos. El coche del presidente es golpeado. Sánchez se va. Los Reyes se quedan.\n\n[pause] [pause]\n\n[serious] Todos los recursos del Estado. [pause] Melilla, junio de dos mil veintidós: al menos veintitrés migrantes mueren en la valla. El presidente, desde Bruselas, valoró así la actuación.\n\n[pause] [pause]\n\n[softly] Siempre hay un recurso que pedir. Un informe rutinario. Un operador privado. Un presidente autonómico al que preguntar. [pause] Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles.\n\n[pause] [pause]\n\n[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. Ese día el presidente viaja a Urda y habla de una confianza quebrada.\n\n[pause] [pause]\n\nEl BOE del día siguiente publica su cese, «agradeciéndole los servicios prestados».\n\n[pause] [pause]\n\nEn el archivo hay otras imágenes del presidente. [short pause] En el funeral de Montserrat Caballé, en dos mil dieciocho. En el funeral de Estado de David Sassoli, en Roma, en dos mil veintidós. En el de Guillermo Fernández Vara, en dos mil veinticinco. Y en la misa del papa León catorce en la Sagrada Familia, en junio de este año.\n\n[pause] [pause]\n\n[serious] Una semana después, en el cara a cara, Feijóo se lo reprochó.\n\n[pause] [pause]\n\n[serious] Madrid. Despacho de José Luis Rodríguez Zapatero. Primavera de dos mil veintiséis. La Policía registra la oficina del expresidente del Gobierno. En una caja fuerte aparecen joyas. The Objective publicó las fotografías, en las bolsas de la Policía.\n\n[pause] [pause]\n\nAntes de todo esto, en un mitin, Zapatero había resumido así lo que significa ser socialista.\n\n[pause] [pause]\n\nZapatero, en una entrevista en Televisión Española, negó haber intervenido.",
+  "id": "v07"
+ },
+ {
+  "voice": "NEW",
+  "units": [
+   {
+    "key": "4e6f66b335",
+    "text": "El Gobierno atribuyó la agresión a grupos ultras organizados, y defendió que la seguridad aconsejaba sacar al presidente. [pause] Y tres años antes, en La Palma, con el volcán en erupción, la promesa había sido esta."
+   },
+   {
+    "key": "c90f47097e",
+    "text": "Barbate, nueve de febrero de dos mil veinticuatro. Una narcolancha embiste a una embarcación de la Guardia Civil en el puerto. Mueren dos agentes. Las imágenes, grabadas desde el muelle, recorren el país. Según la prensa, el Ministerio del Interior había desmantelado poco antes la unidad especial de coordinación contra el narcotráfico en el Campo de Gibraltar, el OCON-Sur. Interior defendió que sus funciones se integraron en otras estructuras. El ministro Fernando Grande-Marlaska siguió en su puesto."
+   },
+   {
+    "key": "2a9f1c11f2",
+    "text": "Y tras el gran apagón del veintiocho de abril de dos mil veinticinco, la responsabilidad tenía destinatario."
+   },
+   {
+    "key": "d7413fbe2f",
+    "text": "Enero de dos mil veintiséis. Adamuz, Córdoba. Un tren de alta velocidad sufre un accidente. Según el propio ministro, en una recta y en una vía renovada. El ministro de Transportes, Óscar Puente, comparece."
+   },
+   {
+    "key": "fd90c02162",
+    "text": "El tres de noviembre, ante la Diputación Permanente del Congreso, Óscar Puente anuncia que se va."
+   },
+   {
+    "key": "f1aa15865a",
+    "text": "[serious] Martes, diez de noviembre. Catedral de Toledo. Funeral por las víctimas de Urda. [pause] El presidente del Gobierno no está. Fuentes de La Moncloa explicaron a la prensa que no acostumbra a asistir a ceremonias religiosas."
+   },
+   {
+    "key": "2e145be6f7",
+    "text": "Dos días después del funeral de Toledo, el doce de noviembre, arranca la campaña. Mitin del PSOE en Sevilla."
+   },
+   {
+    "key": "32a78aa6e4",
+    "text": "Y el presidente pidió perdón a las familias. Dijo que es un dolor que llevará siempre con él. [pause] Es su respuesta. [short pause] La siguiente pregunta lleva a otro hombre en el que dijo confiar. Su mentor."
+   },
+   {
+    "key": "d175bd9b38",
+    "text": "El auto del diecinueve de mayo le investiga por tráfico de influencias, organización criminal y falsedad documental, en la causa que examina el rescate público de la aerolínea Plus Ultra. Y hay una pieza separada, por contrabando y delito fiscal, por las joyas. Zapatero defiende su inocencia. Pidió la nulidad de la causa, y le fue rechazada."
+   },
+   {
+    "key": "46b2010b6b",
+    "text": "[serious] El rescate. Nueve de marzo de dos mil veintiuno. El Consejo de Ministros aprueba cincuenta y tres millones de euros para Plus Ultra, una aerolínea pequeña, con capital venezolano. La Moncloa lo anunció así."
+   },
+   {
+    "key": "d046bd468e",
+    "text": "Y el presidente, preguntado por esa entrevista, defendió el expediente."
+   },
+   {
+    "key": "3ed9f8c3ba",
+    "text": "Después de que Zapatero declarara como investigado ante el juez, en junio, el presidente fijó la posición del Gobierno y del partido."
+   },
+   {
+    "key": "454da08e61",
+    "text": "Y sobre Plus Ultra, añadió su defensa de fondo: que no fue un rescate, sino un préstamo, dentro de un fondo que, según el Gobierno, salvó sesenta mil empleos durante la pandemia."
+   },
+   {
+    "key": "5772b21cf7",
+    "text": "Y el trece de noviembre, a dieciséis días de las elecciones, en The Wild Project, fue más allá."
+   },
+   {
+    "key": "fde1a09118",
+    "text": "Dentro del partido hubo quien le advirtió. En febrero de este año, en el Ateneo de Madrid, Felipe González dijo que votaría en blanco y que no pensaba irse del PSOE: «Si alguien tiene que dejarlo, que lo deje el que lo destroza». Y el presidente de Castilla-La Mancha, Emiliano García-Page, lo dijo en televisión."
+   },
+   {
+    "key": "a15de42c75",
+    "text": "[softly] Recapitulemos de nuevo. Una frontera desbordada con un aviso del CNI que el presidente calificó de rutinario. Una riada con doscientos treinta muertos. Dos tragedias ferroviarias y un ministro dimitido. Y un expresidente investigado por el que él pone la mano en el fuego."
+   },
+   {
+    "key": "5063f6739e",
+    "text": "La Constitución, en su artículo ciento treinta y cuatro, obliga al Gobierno a presentar cada año los Presupuestos Generales del Estado. España llega a estas elecciones con los presupuestos de dos mil veintitrés, prorrogados en dos mil veinticuatro, en dos mil veinticinco y en dos mil veintiséis."
+   },
+   {
+    "key": "ffdb0c4e9f",
+    "text": "La tensión con los límites venía de lejos. En la pandemia, el Gobierno gobernó por estado de alarma. El veintitrés de mayo de dos mil veinte, en La Moncloa, el presidente dio por ganada la primera batalla."
+   },
+   {
+    "key": "3ecf5842fc",
+    "text": "Diciembre de dos mil veinticuatro. Última sesión de control del año."
+   }
+  ],
+  "prompt": "El Gobierno atribuyó la agresión a grupos ultras organizados, y defendió que la seguridad aconsejaba sacar al presidente. [pause] Y tres años antes, en La Palma, con el volcán en erupción, la promesa había sido esta.\n\n[pause] [pause]\n\nBarbate, nueve de febrero de dos mil veinticuatro. Una narcolancha embiste a una embarcación de la Guardia Civil en el puerto. Mueren dos agentes. Las imágenes, grabadas desde el muelle, recorren el país. Según la prensa, el Ministerio del Interior había desmantelado poco antes la unidad especial de coordinación contra el narcotráfico en el Campo de Gibraltar, el OCON-Sur. Interior defendió que sus funciones se integraron en otras estructuras. El ministro Fernando Grande-Marlaska siguió en su puesto.\n\n[pause] [pause]\n\nY tras el gran apagón del veintiocho de abril de dos mil veinticinco, la responsabilidad tenía destinatario.\n\n[pause] [pause]\n\nEnero de dos mil veintiséis. Adamuz, Córdoba. Un tren de alta velocidad sufre un accidente. Según el propio ministro, en una recta y en una vía renovada. El ministro de Transportes, Óscar Puente, comparece.\n\n[pause] [pause]\n\nEl tres de noviembre, ante la Diputación Permanente del Congreso, Óscar Puente anuncia que se va.\n\n[pause] [pause]\n\n[serious] Martes, diez de noviembre. Catedral de Toledo. Funeral por las víctimas de Urda. [pause] El presidente del Gobierno no está. Fuentes de La Moncloa explicaron a la prensa que no acostumbra a asistir a ceremonias religiosas.\n\n[pause] [pause]\n\nDos días después del funeral de Toledo, el doce de noviembre, arranca la campaña. Mitin del PSOE en Sevilla.\n\n[pause] [pause]\n\nY el presidente pidió perdón a las familias. Dijo que es un dolor que llevará siempre con él. [pause] Es su respuesta. [short pause] La siguiente pregunta lleva a otro hombre en el que dijo confiar. Su mentor.\n\n[pause] [pause]\n\nEl auto del diecinueve de mayo le investiga por tráfico de influencias, organización criminal y falsedad documental, en la causa que examina el rescate público de la aerolínea Plus Ultra. Y hay una pieza separada, por contrabando y delito fiscal, por las joyas. Zapatero defiende su inocencia. Pidió la nulidad de la causa, y le fue rechazada.\n\n[pause] [pause]\n\n[serious] El rescate. Nueve de marzo de dos mil veintiuno. El Consejo de Ministros aprueba cincuenta y tres millones de euros para Plus Ultra, una aerolínea pequeña, con capital venezolano. La Moncloa lo anunció así.\n\n[pause] [pause]\n\nY el presidente, preguntado por esa entrevista, defendió el expediente.\n\n[pause] [pause]\n\nDespués de que Zapatero declarara como investigado ante el juez, en junio, el presidente fijó la posición del Gobierno y del partido.\n\n[pause] [pause]\n\nY sobre Plus Ultra, añadió su defensa de fondo: que no fue un rescate, sino un préstamo, dentro de un fondo que, según el Gobierno, salvó sesenta mil empleos durante la pandemia.\n\n[pause] [pause]\n\nY el trece de noviembre, a dieciséis días de las elecciones, en The Wild Project, fue más allá.\n\n[pause] [pause]\n\nDentro del partido hubo quien le advirtió. En febrero de este año, en el Ateneo de Madrid, Felipe González dijo que votaría en blanco y que no pensaba irse del PSOE: «Si alguien tiene que dejarlo, que lo deje el que lo destroza». Y el presidente de Castilla-La Mancha, Emiliano García-Page, lo dijo en televisión.\n\n[pause] [pause]\n\n[softly] Recapitulemos de nuevo. Una frontera desbordada con un aviso del CNI que el presidente calificó de rutinario. Una riada con doscientos treinta muertos. Dos tragedias ferroviarias y un ministro dimitido. Y un expresidente investigado por el que él pone la mano en el fuego.\n\n[pause] [pause]\n\nLa Constitución, en su artículo ciento treinta y cuatro, obliga al Gobierno a presentar cada año los Presupuestos Generales del Estado. España llega a estas elecciones con los presupuestos de dos mil veintitrés, prorrogados en dos mil veinticuatro, en dos mil veinticinco y en dos mil veintiséis.\n\n[pause] [pause]\n\nLa tensión con los límites venía de lejos. En la pandemia, el Gobierno gobernó por estado de alarma. El veintitrés de mayo de dos mil veinte, en La Moncloa, el presidente dio por ganada la primera batalla.\n\n[pause] [pause]\n\nDiciembre de dos mil veinticuatro. Última sesión de control del año.",
+  "id": "v08"
+ },
+ {
+  "voice": "TOP",
+  "units": [
+   {
+    "key": "219ab3e5e9",
+    "text": "[serious] Con su mentor ya investigado, el nueve de septiembre, le preguntaron si Zapatero estaría en la campaña."
+   },
+   {
+    "key": "1dc4a0599e",
+    "text": "[pause] La mano en el fuego. [short pause] Es la misma expresión de confianza que, por otros hombres, ya le había costado cara. En enero de dos mil veinticinco, en Tenerife, dedicó otra a su ministro Ángel Víctor Torres, cuyo nombre aparecía entonces en informaciones de prensa sobre el caso Koldo."
+   },
+   {
+    "key": "58bd08b671",
+    "text": "[serious] La Moncloa respondió que González es solo «una voz más». [pause] Pero había otras voces que el presidente sí escuchaba. Las de sus socios. Y con ellas, la pregunta de si se puede gobernar sin el Parlamento."
+   },
+   {
+    "key": "29f5fb5da5",
+    "text": "[serious] Su defensa: la prórroga es legal, también lo dice la Constitución. [pause] Y en septiembre de dos mil veinticuatro, ante el Comité Federal de su partido, el presidente avisó de cómo pensaba gobernar: «con o sin un concurso de un poder legislativo»."
+   },
+   {
+    "key": "4d2e5b75c6",
+    "text": "[serious] Un año después, en julio de dos mil veintiuno, el Tribunal Constitucional declaró inconstitucional el confinamiento de aquel primer estado de alarma. Y en octubre, la prórroga de seis meses del segundo, aprobada sin control parlamentario intermedio. Las dos sentencias se decidieron por mayorías ajustadas. El Gobierno sostiene que aquellas medidas salvaron vidas."
+   },
+   {
+    "key": "7ee5c100c1",
+    "text": "El BOE como respuesta. [pause] Para seguir en el poder, el Gobierno necesitaba a sus socios cada semana. Con Esquerra Republicana pactó la condonación de diecisiete mil cien millones de euros de deuda de Cataluña. El Gobierno la defendió como una medida abierta a todas las comunidades."
+   },
+   {
+    "key": "049ec3d660",
+    "text": "[serious] Con Junts votando junto al Partido Popular y a Vox, el Congreso llegó a aprobar una moción que pedía al presidente someterse a una cuestión de confianza. No era vinculante. No se sometió."
+   },
+   {
+    "key": "a76846588e",
+    "text": "Al día siguiente, el seis de octubre, la dirigente socialista María Jesús Montero habló de la huelga general convocada para noviembre."
+   },
+   {
+    "key": "f9b160774e",
+    "text": "[serious] El nueve de septiembre de dos mil veintiséis, en plena crisis de Ceuta, Santiago Abascal le preguntó en el Congreso si Marruecos le estaba chantajeando. La respuesta del presidente se hizo viral."
+   },
+   {
+    "key": "e1df580d8d",
+    "text": "Horas después, Trump dijo que España se había «redimido por completo». [pause] Y en casa, los socios marcaban su propio rumbo. En enero de este año, en un mitin de Podemos en Zaragoza, Irene Montero celebraba la regularización extraordinaria de inmigrantes."
+   },
+   {
+    "key": "98d84c9ffe",
+    "text": "[softly] Otro perdón. [pause] Y entre perdón y perdón, una promesa que se repitió en todas las campañas. Quizá la que más afecta a la vida diaria. [short pause] La vivienda. Y la economía."
+   },
+   {
+    "key": "9786e10d1e",
+    "text": "[serious] Los datos que él cita existen. En dos mil veinticinco, el PIB creció un dos coma seis por ciento, según el INE. España superó los veintidós millones de ocupados. Es la defensa de su gestión, y es sólida."
+   },
+   {
+    "key": "d71d0a0191",
+    "text": "[serious] Y luego está la vivienda. En el debate del diecinueve de noviembre, el presidente dio esta cifra."
+   },
+   {
+    "key": "d41d9ca290",
+    "text": "Septiembre de dos mil veintiséis. El desahucio de Maricarmen, una vecina de Madrid de ochenta y siete años, abre los informativos. Una cámara le pregunta a quién responsabiliza."
+   },
+   {
+    "key": "9c2b3c53b4",
+    "text": "[serious] Y para explicar todo esto, en campaña, el presidente eligió sus escenarios. En octubre, en La Revuelta, de Televisión Española, prometió esto."
+   },
+   {
+    "key": "f098389e6f",
+    "text": "En cambio, el presidente sí fue a The Wild Project, y a programas de entretenimiento en otras cadenas. En La Séptima, la colaboradora Alba Carrillo le preguntó por su vida sentimental."
+   },
+   {
+    "key": "a0c14de295",
+    "text": "[softly] Mal informado. [pause] Queda una última pregunta. Es la más sencilla de todas. Y él mismo la formuló, palabra por palabra, hace ocho años. [short pause] Solo que entonces se la hizo a otro."
+   }
+  ],
+  "prompt": "[serious] Con su mentor ya investigado, el nueve de septiembre, le preguntaron si Zapatero estaría en la campaña.\n\n[pause] [pause]\n\n[pause] La mano en el fuego. [short pause] Es la misma expresión de confianza que, por otros hombres, ya le había costado cara. En enero de dos mil veinticinco, en Tenerife, dedicó otra a su ministro Ángel Víctor Torres, cuyo nombre aparecía entonces en informaciones de prensa sobre el caso Koldo.\n\n[pause] [pause]\n\n[serious] La Moncloa respondió que González es solo «una voz más». [pause] Pero había otras voces que el presidente sí escuchaba. Las de sus socios. Y con ellas, la pregunta de si se puede gobernar sin el Parlamento.\n\n[pause] [pause]\n\n[serious] Su defensa: la prórroga es legal, también lo dice la Constitución. [pause] Y en septiembre de dos mil veinticuatro, ante el Comité Federal de su partido, el presidente avisó de cómo pensaba gobernar: «con o sin un concurso de un poder legislativo».\n\n[pause] [pause]\n\n[serious] Un año después, en julio de dos mil veintiuno, el Tribunal Constitucional declaró inconstitucional el confinamiento de aquel primer estado de alarma. Y en octubre, la prórroga de seis meses del segundo, aprobada sin control parlamentario intermedio. Las dos sentencias se decidieron por mayorías ajustadas. El Gobierno sostiene que aquellas medidas salvaron vidas.\n\n[pause] [pause]\n\nEl BOE como respuesta. [pause] Para seguir en el poder, el Gobierno necesitaba a sus socios cada semana. Con Esquerra Republicana pactó la condonación de diecisiete mil cien millones de euros de deuda de Cataluña. El Gobierno la defendió como una medida abierta a todas las comunidades.\n\n[pause] [pause]\n\n[serious] Con Junts votando junto al Partido Popular y a Vox, el Congreso llegó a aprobar una moción que pedía al presidente someterse a una cuestión de confianza. No era vinculante. No se sometió.\n\n[pause] [pause]\n\nAl día siguiente, el seis de octubre, la dirigente socialista María Jesús Montero habló de la huelga general convocada para noviembre.\n\n[pause] [pause]\n\n[serious] El nueve de septiembre de dos mil veintiséis, en plena crisis de Ceuta, Santiago Abascal le preguntó en el Congreso si Marruecos le estaba chantajeando. La respuesta del presidente se hizo viral.\n\n[pause] [pause]\n\nHoras después, Trump dijo que España se había «redimido por completo». [pause] Y en casa, los socios marcaban su propio rumbo. En enero de este año, en un mitin de Podemos en Zaragoza, Irene Montero celebraba la regularización extraordinaria de inmigrantes.\n\n[pause] [pause]\n\n[softly] Otro perdón. [pause] Y entre perdón y perdón, una promesa que se repitió en todas las campañas. Quizá la que más afecta a la vida diaria. [short pause] La vivienda. Y la economía.\n\n[pause] [pause]\n\n[serious] Los datos que él cita existen. En dos mil veinticinco, el PIB creció un dos coma seis por ciento, según el INE. España superó los veintidós millones de ocupados. Es la defensa de su gestión, y es sólida.\n\n[pause] [pause]\n\n[serious] Y luego está la vivienda. En el debate del diecinueve de noviembre, el presidente dio esta cifra.\n\n[pause] [pause]\n\nSeptiembre de dos mil veintiséis. El desahucio de Maricarmen, una vecina de Madrid de ochenta y siete años, abre los informativos. Una cámara le pregunta a quién responsabiliza.\n\n[pause] [pause]\n\n[serious] Y para explicar todo esto, en campaña, el presidente eligió sus escenarios. En octubre, en La Revuelta, de Televisión Española, prometió esto.\n\n[pause] [pause]\n\nEn cambio, el presidente sí fue a The Wild Project, y a programas de entretenimiento en otras cadenas. En La Séptima, la colaboradora Alba Carrillo le preguntó por su vida sentimental.\n\n[pause] [pause]\n\n[softly] Mal informado. [pause] Queda una última pregunta. Es la más sencilla de todas. Y él mismo la formuló, palabra por palabra, hace ocho años. [short pause] Solo que entonces se la hizo a otro.",
+  "id": "v09"
+ },
+ {
+  "voice": "NEW",
+  "units": [
+   {
+    "key": "f1cb3a45d5",
+    "text": "Pero Junts ya se había ido. Y desde el Congreso, Míriam Nogueras le recordó al presidente de quién dependía."
+   },
+   {
+    "key": "8a4ecde4ff",
+    "text": "El diecinueve de junio de dos mil veintiséis, el presidente aseguró que presentaría presupuestos en dos mil veintiséis y que habría elecciones en dos mil veintisiete. [pause] El cinco de octubre disolvió las Cortes. Elecciones, veintinueve de noviembre."
+   },
+   {
+    "key": "99b6c85ed3",
+    "text": "Una huelga contra la oposición. [short pause] El presidente, en cambio, dijo que no era «una huelga contra nadie». [pause] Pero es un lenguaje que el presidente ya había usado para referirse a una parte de los medios y de las redes. Febrero de dos mil veinticuatro, laSexta."
+   },
+   {
+    "key": "1c6f11f7f5",
+    "text": "Dos meses antes, en la cumbre de la OTAN en Ankara, Donald Trump había cargado contra España por su gasto militar."
+   },
+   {
+    "key": "05b557525d",
+    "text": "[serious] Gobernar así tiene costes. A veces los paga el propio Gobierno. En abril de dos mil veintitrés, tras cientos de rebajas de condena a agresores sexuales por la ley del solo sí es sí, el presidente pidió perdón a las víctimas."
+   },
+   {
+    "key": "3ff5b6a8fd",
+    "text": "Dieciséis de mayo de dos mil veinticuatro. Foro sobre fondos europeos. El presidente presume de datos."
+   },
+   {
+    "key": "e67d049d4e",
+    "text": "Pero no todos en su propio Gobierno lo vieron igual. Su vicepresidenta segunda, Yolanda Díaz, le contestó en laSexta, según recogió Europa Press: no es verdad que la economía vaya como un cohete cuando el salario mediano es de mil quinientos cuarenta y cinco euros al mes."
+   },
+   {
+    "key": "b5a5de3f91",
+    "text": "Un millón de viviendas en ocho años. [pause] Según los datos recopilados por Idealista y publicados por Artículo Catorce, las viviendas terminadas en ese periodo rondan las setecientas cinco mil; unas setecientas cincuenta y dos mil si se cuenta dos mil dieciocho entero. Y Feijóo le recordó en el debate otra cifra: la vivienda pública estatal entregada frente a la prometida."
+   },
+   {
+    "key": "fdc8d9e84d",
+    "text": "El presidente habló de una tragedia social y pidió apoyo para su decreto de vivienda. En el debate, Feijóo le preguntó si Maricarmen era la persona que le había escrito una carta que no respondió."
+   },
+   {
+    "key": "8bd16d9282",
+    "text": "No fue. [short pause] Pablo Motos lo comentó en su programa el once de noviembre."
+   },
+   {
+    "key": "1e8e7c22eb",
+    "text": "Y al día siguiente, en Telecinco, cuando el periodista Carlos Franganillo le apretó con un dato, le respondió así."
+   },
+   {
+    "key": "011803d1b7",
+    "text": "Ocho años. Una pandemia, un volcán, una riada, dos tragedias ferroviarias, una crisis en la frontera de Ceuta. Una amnistía. Tres presupuestos prorrogados. Un exministro y su asesor, condenados. Su secretario de Organización, investigado. Su mentor, investigado. Su esposa, procesada. Su hermano, condenado en primera instancia. El fiscal general que defendió, condenado. [pause] Y él, sin imputación alguna. Así lo recuerda siempre. Y es verdad."
+   },
+   {
+    "key": "f97dce6e89",
+    "text": "[softly] Aquel día, la moción salió adelante. Rajoy dejó de ser presidente. [pause] Y en el debate de este mes, ocho años y medio después, el presidente que la ganó contestó así a la pregunta de la corrupción."
+   }
+  ],
+  "prompt": "Pero Junts ya se había ido. Y desde el Congreso, Míriam Nogueras le recordó al presidente de quién dependía.\n\n[pause] [pause]\n\nEl diecinueve de junio de dos mil veintiséis, el presidente aseguró que presentaría presupuestos en dos mil veintiséis y que habría elecciones en dos mil veintisiete. [pause] El cinco de octubre disolvió las Cortes. Elecciones, veintinueve de noviembre.\n\n[pause] [pause]\n\nUna huelga contra la oposición. [short pause] El presidente, en cambio, dijo que no era «una huelga contra nadie». [pause] Pero es un lenguaje que el presidente ya había usado para referirse a una parte de los medios y de las redes. Febrero de dos mil veinticuatro, laSexta.\n\n[pause] [pause]\n\nDos meses antes, en la cumbre de la OTAN en Ankara, Donald Trump había cargado contra España por su gasto militar.\n\n[pause] [pause]\n\n[serious] Gobernar así tiene costes. A veces los paga el propio Gobierno. En abril de dos mil veintitrés, tras cientos de rebajas de condena a agresores sexuales por la ley del solo sí es sí, el presidente pidió perdón a las víctimas.\n\n[pause] [pause]\n\nDieciséis de mayo de dos mil veinticuatro. Foro sobre fondos europeos. El presidente presume de datos.\n\n[pause] [pause]\n\nPero no todos en su propio Gobierno lo vieron igual. Su vicepresidenta segunda, Yolanda Díaz, le contestó en laSexta, según recogió Europa Press: no es verdad que la economía vaya como un cohete cuando el salario mediano es de mil quinientos cuarenta y cinco euros al mes.\n\n[pause] [pause]\n\nUn millón de viviendas en ocho años. [pause] Según los datos recopilados por Idealista y publicados por Artículo Catorce, las viviendas terminadas en ese periodo rondan las setecientas cinco mil; unas setecientas cincuenta y dos mil si se cuenta dos mil dieciocho entero. Y Feijóo le recordó en el debate otra cifra: la vivienda pública estatal entregada frente a la prometida.\n\n[pause] [pause]\n\nEl presidente habló de una tragedia social y pidió apoyo para su decreto de vivienda. En el debate, Feijóo le preguntó si Maricarmen era la persona que le había escrito una carta que no respondió.\n\n[pause] [pause]\n\nNo fue. [short pause] Pablo Motos lo comentó en su programa el once de noviembre.\n\n[pause] [pause]\n\nY al día siguiente, en Telecinco, cuando el periodista Carlos Franganillo le apretó con un dato, le respondió así.\n\n[pause] [pause]\n\nOcho años. Una pandemia, un volcán, una riada, dos tragedias ferroviarias, una crisis en la frontera de Ceuta. Una amnistía. Tres presupuestos prorrogados. Un exministro y su asesor, condenados. Su secretario de Organización, investigado. Su mentor, investigado. Su esposa, procesada. Su hermano, condenado en primera instancia. El fiscal general que defendió, condenado. [pause] Y él, sin imputación alguna. Así lo recuerda siempre. Y es verdad.\n\n[pause] [pause]\n\n[softly] Aquel día, la moción salió adelante. Rajoy dejó de ser presidente. [pause] Y en el debate de este mes, ocho años y medio después, el presidente que la ganó contestó así a la pregunta de la corrupción.",
+  "id": "v10"
+ },
+ {
+  "voice": "TOP",
+  "units": [
+   {
+    "key": "893532dcee",
+    "text": "[serious] Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. [pause] Quienes le defienden ven en eso resistencia: un presidente que no se rinde y que ha llevado a España a crecer más que sus vecinos. Quienes le critican ven otra cosa: un presidente que siempre encuentra a otro responsable. [short pause] Este documental no ha querido decidir entre unos y otros. Solo ha puesto, una al lado de otra, sus palabras y los hechos."
+   },
+   {
+    "key": "e816c63fba",
+    "text": "[serious] Aquel treinta y uno de mayo de dos mil dieciocho, desde la tribuna del Congreso, Pedro Sánchez le explicó a Mariano Rajoy qué hace un presidente cuando la corrupción llega a su partido."
+   },
+   {
+    "key": "3e8fd41440",
+    "text": "[serious] Pedro Sánchez no ha participado en este documental. Todas sus respuestas son reales, públicas y tienen fecha. Las preguntas eran nuestras. [pause] Las conclusiones no. [short pause] Esas, el veintinueve de noviembre, son de quien vota."
+   }
+  ],
+  "prompt": "[serious] Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. [pause] Quienes le defienden ven en eso resistencia: un presidente que no se rinde y que ha llevado a España a crecer más que sus vecinos. Quienes le critican ven otra cosa: un presidente que siempre encuentra a otro responsable. [short pause] Este documental no ha querido decidir entre unos y otros. Solo ha puesto, una al lado de otra, sus palabras y los hechos.\n\n[pause] [pause]\n\n[serious] Aquel treinta y uno de mayo de dos mil dieciocho, desde la tribuna del Congreso, Pedro Sánchez le explicó a Mariano Rajoy qué hace un presidente cuando la corrupción llega a su partido.\n\n[pause] [pause]\n\n[serious] Pedro Sánchez no ha participado en este documental. Todas sus respuestas son reales, públicas y tienen fecha. Las preguntas eran nuestras. [pause] Las conclusiones no. [short pause] Esas, el veintinueve de noviembre, son de quien vota.",
+  "id": "v11"
+ }
+]

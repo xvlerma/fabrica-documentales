@@ -1,4 +1,8 @@
-import sys, os, json, glob
+import sys, os, json, glob, subprocess
+import numpy as np
+def pcm(f):
+    b = subprocess.run(['ffmpeg','-loglevel','error','-i',f,'-vn','-ac','1','-ar','16000','-f','f32le','-'],capture_output=True).stdout
+    return np.frombuffer(b, np.float32)
 from faster_whisper import WhisperModel
 src, out = sys.argv[1], sys.argv[2]; os.makedirs(out, exist_ok=True)
 m = WhisperModel(os.environ.get('STT_MODEL', 'small'), device='cpu', compute_type='int8')
@@ -6,7 +10,7 @@ res = {}
 for f in sorted(glob.glob(f'{src}/*.mp4')):
     n = os.path.basename(f)
     try:
-        segs, info = m.transcribe(f, language='es', word_timestamps=True, vad_filter=False, beam_size=5)
+        segs, info = m.transcribe(pcm(f), language='es', word_timestamps=True, vad_filter=False, beam_size=5)
         S = [dict(s=round(s.start, 2), e=round(s.end, 2), t=s.text.strip(), w=[[round(w.start, 2), round(w.end, 2), w.word] for w in (s.words or [])]) for s in segs]
         res[n] = dict(dur=info.duration, segs=S)
         print(n, round(info.duration, 1), ' '.join(s['t'] for s in S)[:200], flush=True)

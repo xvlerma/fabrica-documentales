@@ -552,5 +552,84 @@
   "tracking": 0.5,
   "rule": "line",
   "grade": "neutro"
+ },
+ "plataforma": {
+  "uso": "Especial de investigación política, estilo serie de plataforma",
+  "accent": [
+   237,
+   234,
+   228
+  ],
+  "text": [
+   237,
+   234,
+   228
+  ],
+  "dim": [
+   138,
+   138,
+   134
+  ],
+  "alert": [
+   178,
+   58,
+   46
+  ],
+  "bg0": [
+   11,
+   11,
+   12
+  ],
+  "bg1": [
+   26,
+   26,
+   28
+  ],
+  "sea": [
+   14,
+   16,
+   18
+  ],
+  "land": [
+   44,
+   44,
+   46
+  ],
+  "coast": [
+   150,
+   150,
+   146
+  ],
+  "river": [
+   91,
+   124,
+   153
+  ],
+  "paper": [
+   232,
+   229,
+   222
+  ],
+  "ink": [
+   20,
+   20,
+   22
+  ],
+  "string": [
+   178,
+   58,
+   46
+  ],
+  "fonts": {
+   "display": "gf:ofl/intertight/InterTight[wght].ttf@800",
+   "display_light": "gf:ofl/ibmplexmono/IBMPlexMono-Medium.ttf",
+   "body": "gf:ofl/inter/Inter[opsz,wght].ttf@400",
+   "italic": "gf:ofl/inter/Inter[opsz,wght].ttf@400",
+   "body_bold": "gf:ofl/inter/Inter[opsz,wght].ttf@600"
+  },
+  "case": "upper",
+  "tracking": 0.25,
+  "rule": "bar",
+  "grade": "frio"
  }
 }

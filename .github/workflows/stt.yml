@@ -16,7 +16,9 @@ jobs:
           pip install -q faster-whisper
       - name: transcribir
         run: |
-          mkdir -p /tmp/stt_out; D=$(head -1 stt/run.txt); python3 stt/stt.py "$D" /tmp/stt_out 2>&1 | tee /tmp/stt_out/log.txt || true
+          mkdir -p /tmp/stt_out; D=$(head -1 stt/run.txt)
+          if [ "$D" = "hls" ]; then python3 stt/hls.py stt/hls.json /tmp/hls; D=/tmp/hls; mkdir -p /tmp/stt_out; cp /tmp/hls/*.mp4 /tmp/stt_out/ 2>/dev/null; fi
+          python3 stt/stt.py "$D" /tmp/stt_out 2>&1 | tee /tmp/stt_out/log.txt || true
       - name: entregar
         if: always()
         run: |

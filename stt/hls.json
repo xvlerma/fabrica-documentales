@@ -1,0 +1,38 @@
+[
+ {
+  "name": "h16_me_equivoque",
+  "src": "https://smultimedia.lamoncloa.gob.es/presidencia/smil/videos/smil:25/20250709-Comaprecencia_Congreso_Nueve.smil/playlist.m3u8",
+  "ss": 500,
+  "dur": 40
+ },
+ {
+  "name": "h17_politico_limpio",
+  "src": "https://smultimedia.lamoncloa.gob.es/presidencia/smil/videos/smil:25/20250709-Comaprecencia_Congreso_Nueve.smil/playlist.m3u8",
+  "ss": 145,
+  "dur": 40
+ },
+ {
+  "name": "h17b_continuar",
+  "src": "https://smultimedia.lamoncloa.gob.es/presidencia/smil/videos/smil:25/20250709-Comaprecencia_Congreso_Nueve.smil/playlist.m3u8",
+  "ss": 612,
+  "dur": 30
+ },
+ {
+  "name": "h15f_no_financiado",
+  "src": "https://smultimedia.lamoncloa.gob.es/presidencia/smil/videos/smil:20260624-Intervencion_Comparecencia.smil/playlist.m3u8",
+  "ss": 420,
+  "dur": 90
+ },
+ {
+  "name": "h10_urda",
+  "src": "https://smultimedia.lamoncloa.gob.es/presidencia/smil/videos/smil:20261028-Intervencion_PG.smil/playlist.m3u8",
+  "ss": 0,
+  "dur": 900
+ },
+ {
+  "name": "h15d_indicio",
+  "src": "https://smultimedia.lamoncloa.gob.es/presidencia/smil/videos/smil:25/20250618-Respuesta_Vox.smil/playlist.m3u8",
+  "ss": 0,
+  "dur": 300
+ }
+]

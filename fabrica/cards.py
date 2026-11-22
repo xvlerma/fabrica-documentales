@@ -668,3 +668,53 @@ def end_screen(out, bg_path=None, kit=None):
     for w_, c_ in (('Y ', (244, 243, 238)), ('ESCUCHA', BRAND_DOT), (' MÁS.', (244, 243, 238))):
         d.text((x, 962), w_, font=f2, fill=c_, anchor='lm'); x += d.textlength(w_, font=f2)
     fr.convert('RGB').save(out, quality=95)
+
+# ---------- e29n90: piel de plataforma (la entrevista) ----------
+def _flat(seed=5):
+    """Negro plano con grano fino: el fondo de la entrevista."""
+    k = ('flat', seed)
+    if k not in _bgcache:
+        rng = np.random.default_rng(seed); base = np.array(BG0, np.float32)
+        rgb = np.clip(base + rng.normal(0, 2.4, (H, W, 1)).astype(np.float32), 0, 255)
+        _bgcache[k] = Image.fromarray(rgb.astype('uint8')).convert('RGBA')
+    return _bgcache[k].copy()
+
+def f_pregunta(spec, t, D):
+    """LA PREGUNTA: número arriba en mono, la pregunta se teclea letra a letra con cursor; nada más en pantalla."""
+    fr = _flat(spec.get('seed', 5)); q = spec['text']; cps = spec.get('cps', 16)
+    hdr = spec.get('n', '')
+    if hdr: put(fr, text_layer(hdr, font('display_light', 30), DIM, 0.12), 160, 150, ease(t / .5), anchor='lm')
+    f = font('cinzel600', spec.get('size', 84)); lines = wrap(q, f, 1600); n = int(max(0, t - .35) * cps)
+    y0 = H / 2 - (len(lines) * 112) / 2; shown = 0; cur = None
+    for i, l in enumerate(lines):
+        vis = l[:max(0, n - shown)]; shown += len(l) + 1
+        if vis: put(fr, text_layer(vis, f, CREAM), 160, y0 + i * 112, 1, anchor='lm')
+        if len(vis) < len(l) and cur is None: cur = (i, vis)
+    if cur is None: cur = (len(lines) - 1, lines[-1])
+    if (int(t * 2.2) % 2 == 0) or n < sum(len(l) + 1 for l in lines):
+        d0 = ImageDraw.Draw(Image.new('RGBA', (1, 1))); cx = 160 + d0.textlength(cur[1], font=f) + 14
+        ImageDraw.Draw(fr).rectangle([cx, y0 + cur[0] * 112 - 44, cx + 22, y0 + cur[0] * 112 + 46], fill=CREAM)
+    if spec.get('foot'): put(fr, text_layer(spec['foot'], font('display_light', 26), DIM, 0.12), 160, H - 140, ease((t - .3) / .6), anchor='lm')
+    return fr
+
+def f_aviso(spec, t, D):
+    """Aviso legal sobrio: líneas cortas en mono, centradas, sobre negro."""
+    fr = _flat(spec.get('seed', 6)); f = font('display_light', spec.get('size', 38)); lh = int(f.size * 1.6)
+    lines = [l for x in spec['lines'] for l in wrap(x, f, 1500)]; y0 = H / 2 - len(lines) * lh / 2
+    for i, l in enumerate(lines): put(fr, text_layer(l, f, CREAM if i == 0 and spec.get('head') else DIM), W / 2, y0 + i * lh, ease((t - .2 - i * .15) / .6))
+    return fr
+
+def f_dijo(spec, t, D):
+    """LO QUE DIJO / LO QUE PASÓ: dos columnas sobre negro, fecha en mono, la segunda entra a mitad."""
+    fr = _flat(spec.get('seed', 7)); d = ImageDraw.Draw(fr); k = ease((t - .1) / .6)
+    d.line([(W / 2, H / 2 - 360 * k), (W / 2, H / 2 + 360 * k)], fill=CREAM + (255,), width=2)
+    for side, x0, at in (('left', 140, .2), ('right', W / 2 + 100, D * .45)):
+        s_ = spec[side]; a = ease((t - at) / .6)
+        put(fr, text_layer(s_.get('label', 'LO QUE DIJO' if side == 'left' else 'LO QUE PASÓ'), font('display_light', 30), DIM, 0.14), x0, 250, a, anchor='lm')
+        put(fr, text_layer(s_.get('date', ''), font('display_light', 34), RED if (side == 'right' and spec.get('red')) else CREAM, 0.06), x0, 305, a, anchor='lm')
+        y = 400; fz = font('cinzel600', s_.get('size', 54))
+        for ww in wrap(s_['text'], fz, 760): put(fr, text_layer(ww, fz, CREAM), x0, y, a, anchor='lm'); y += int(fz.size * 1.25)
+        if s_.get('source'): put(fr, text_layer(s_['source'], font('display_light', 26), DIM, 0.08), x0, H - 200, a, anchor='lm')
+    return fr
+
+KIND.update(pregunta=f_pregunta, aviso=f_aviso, dijo=f_dijo)

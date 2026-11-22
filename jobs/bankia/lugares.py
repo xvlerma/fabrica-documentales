@@ -1,0 +1,25 @@
+# Palabras que identifican lo que DEBE salir en cada búsqueda (coherencia imagen-locución).
+L = {
+ 'kio': ['puerta de europa', 'torres kio', 'kio towers', 'torre kio', 'plaza de castilla', 'gate of europe'],
+ 'bolsa': ['palacio de la bolsa', 'bolsa de madrid', 'madrid stock exchange'],
+ 'bde': ['banco de españa', 'banco_de_espa', 'bank of spain'],
+ 'cajamadrid': ['caja madrid', 'monte de piedad', 'castellana 189', 'torre caja madrid', 'torre cepsa', 'bankia'],
+ 'bancaja': ['bancaja', 'pintor sorolla'],
+ 'goiri': ['goirigolzarri'],
+ 'rato': ['rodrigo rato', 'rato'],
+ 'olivas': ['olivas'],
+ 'blesa': ['blesa'],
+ 'rajoy': ['rajoy'],
+ 'guindos': ['guindos'],
+ 'fmi': ['international monetary fund', 'fondo monetario', 'imf headquarters', 'imf hq', 'imf building'],
+ 'moncloa': ['moncloa'],
+ 'cnmv': ['cnmv', 'comisión nacional del mercado de valores', 'mercado de valores'],
+ 'bruselas': ['justus lipsius', 'europa building', 'council of the european union', 'consejo de la unión'],
+ 'berlaymont': ['berlaymont', 'european commission'],
+ 'preferentes': ['preferentes', 'preferentista', 'participaciones preferentes'],
+ 'audiencia': ['audiencia nacional'],
+ 'supremo': ['tribunal supremo', 'supreme court of spain', 'palacio de justicia', 'salesas'],
+ 'soto': ['soto del real', 'madrid v'],
+ 'caixabank': ['caixabank'],
+}
+PERMITIDAS = ['portrait', 'president', 'politician', 'minister']

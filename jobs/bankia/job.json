@@ -1,0 +1,3800 @@
+{
+ "permitir_sa": true,
+ "export_voice": true,
+ "thumbs": [
+  {
+   "name": "A",
+   "commons": "Puerta de Europa (Madrid) 05.jpg",
+   "grande": "BANKIA",
+   "caja": "10 MESES",
+   "sub": "SALIÓ A BOLSA Y PIDIÓ EL RESCATE"
+  }
+ ],
+ "lugares": {
+  "kio": [
+   "puerta de europa",
+   "torres kio",
+   "kio towers",
+   "torre kio",
+   "plaza de castilla",
+   "gate of europe"
+  ],
+  "bolsa": [
+   "palacio de la bolsa",
+   "bolsa de madrid",
+   "madrid stock exchange"
+  ],
+  "bde": [
+   "banco de españa",
+   "banco_de_espa",
+   "bank of spain"
+  ],
+  "cajamadrid": [
+   "caja madrid",
+   "monte de piedad",
+   "castellana 189",
+   "torre caja madrid",
+   "torre cepsa",
+   "bankia"
+  ],
+  "bancaja": [
+   "bancaja",
+   "pintor sorolla"
+  ],
+  "goiri": [
+   "goirigolzarri"
+  ],
+  "rato": [
+   "rodrigo rato",
+   "rato"
+  ],
+  "olivas": [
+   "olivas"
+  ],
+  "blesa": [
+   "blesa"
+  ],
+  "rajoy": [
+   "rajoy"
+  ],
+  "guindos": [
+   "guindos"
+  ],
+  "fmi": [
+   "international monetary fund",
+   "fondo monetario",
+   "imf headquarters",
+   "imf hq",
+   "imf building"
+  ],
+  "moncloa": [
+   "moncloa"
+  ],
+  "cnmv": [
+   "cnmv",
+   "comisión nacional del mercado de valores",
+   "mercado de valores"
+  ],
+  "bruselas": [
+   "justus lipsius",
+   "europa building",
+   "council of the european union",
+   "consejo de la unión"
+  ],
+  "berlaymont": [
+   "berlaymont",
+   "european commission"
+  ],
+  "preferentes": [
+   "preferentes",
+   "preferentista",
+   "participaciones preferentes"
+  ],
+  "audiencia": [
+   "audiencia nacional"
+  ],
+  "supremo": [
+   "tribunal supremo",
+   "supreme court of spain",
+   "palacio de justicia",
+   "salesas"
+  ],
+  "soto": [
+   "soto del real",
+   "madrid v"
+  ],
+  "caixabank": [
+   "caixabank"
+  ]
+ },
+ "permitidas": [
+  "portrait",
+  "president",
+  "politician",
+  "minister"
+ ],
+ "id": "bankia",
+ "title": "Bankia: salió a bolsa y 10 meses después pidió el rescate",
+ "channel": "DocuVox",
+ "stage": "cast",
+ "align": true,
+ "align_model": "small",
+ "no_pad": true,
+ "reuse": {
+  "max": 1,
+  "gap": 99999
+ },
+ "auto_sfx": {},
+ "sfx_max": 5,
+ "max_shot": 6,
+ "min_shot": 1.6,
+ "anchor_lead": 0.1,
+ "bando": {
+  "gobierno": [
+   86,
+   140,
+   214
+  ],
+  "banca": [
+   86,
+   206,
+   142
+  ],
+  "ciudadanos": [
+   236,
+   170,
+   70
+  ],
+  "justicia": [
+   200,
+   200,
+   210
+  ]
+ },
+ "glossary": [
+  {
+   "term": "Caja de ahorros",
+   "on": "Una caja de ahorros no tenía",
+   "def": "entidad sin accionistas, con consejos repartidos entre gobiernos, partidos y sindicatos"
+  },
+  {
+   "term": "BFA",
+   "on": "por sus siglas, BFA",
+   "def": "Banco Financiero y de Ahorros: la matriz que unió a las siete cajas"
+  },
+  {
+   "term": "FROB",
+   "on": "el FROB",
+   "def": "Fondo de Reestructuración Ordenada Bancaria: el fondo público de rescate"
+  },
+  {
+   "term": "CNMV",
+   "on": "Comisión Nacional del Mercado de Valores registra",
+   "def": "el supervisor de la bolsa: registra los folletos de las ofertas"
+  },
+  {
+   "term": "Preferentes",
+   "on": "las participaciones preferentes",
+   "def": "deuda perpetua y sin garantía, vendida en oficinas como si fuera un depósito"
+  },
+  {
+   "term": "Prima de riesgo",
+   "on": "La prima de riesgo de España",
+   "def": "lo que España paga de más que Alemania por pedir prestado"
+  }
+ ],
+ "theme": {
+  "base": "bolsa",
+  "grade": "frio"
+ },
+ "music": {
+  "tema": {
+   "mixkit": "https://assets.mixkit.co/music/605/605.mp3",
+   "title": "Delirium"
+  },
+  "tension": {
+   "mixkit": "https://assets.mixkit.co/music/188/188.mp3",
+   "title": "Echoes"
+  },
+  "fiesta": {
+   "mixkit": "https://assets.mixkit.co/music/322/322.mp3",
+   "title": "Life's a Movie"
+  },
+  "accion": {
+   "mixkit": "https://assets.mixkit.co/music/678/678.mp3",
+   "title": "Epical Drums 03"
+  },
+  "drama": {
+   "mixkit": "https://assets.mixkit.co/music/614/614.mp3",
+   "title": "Silent Descent"
+  },
+  "ironia": {
+   "mixkit": "https://assets.mixkit.co/music/1136/1136.mp3",
+   "title": "Daylight Robbery"
+  },
+  "juicio": {
+   "mixkit": "https://assets.mixkit.co/music/591/591.mp3",
+   "title": "Kroks"
+  },
+  "fondo": {
+   "mixkit": "https://assets.mixkit.co/music/540/540.mp3",
+   "title": "Nield Grohm Hanging 3"
+  }
+ },
+ "audio": {
+  "voice_db": -20,
+  "bed_db": {
+   "tema": -36,
+   "tension": -36,
+   "fiesta": -37,
+   "accion": -35,
+   "drama": -37,
+   "ironia": -37,
+   "juicio": -36,
+   "fondo": -37
+  },
+  "inter_db": -22,
+  "pause_stretch": 0.45,
+  "pause_cap": 0.6,
+  "gap_n": 1.2,
+  "gap_q": 0.9
+ },
+ "tempo": 0.92,
+ "parts": 4,
+ "codec": "hevc",
+ "max_kbps": 750,
+ "audio_kbps": "112k",
+ "intro": [
+  "assets/intro/docuvox.mp4"
+ ],
+ "seed": 2012,
+ "qpicks": {},
+ "split_still": 5.0,
+ "picks": {},
+ "rev": 1,
+ "units": [
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Madrid. Viernes, veinticinco de mayo de dos mil doce. Cuatro y media de la tarde. En la sede de Bankia, el consejo de administración se encierra en una sala.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Puerta de Europa towers Madrid",
+     "src": "commons,loc,europeana",
+     "at": "Madrid",
+     "lt": [
+      "Torres Puerta de Europa",
+      "Madrid"
+     ],
+     "lugar": "kio"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "consejo_noche"
+     },
+     "at": "el consejo de administración"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "reloj_sala"
+     },
+     "at": "se encierra en una sala"
+    }
+   ],
+   "gen": "bxh0SE8GAuiYWFs6VFAw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0qbniY1ZCD1JQSG2GXrj/bxh0SE8GAuiYWFs6VFAw/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=-q1PhxoVsfxLh-s9aPHCstlRmr8="
+  },
+  {
+   "k": "N",
+   "text": "Al frente de la mesa hay un hombre que lleva solo dieciséis días en el cargo. Tiene una cifra apuntada. Y cuando la dice en voz alta, nadie en la sala habla.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "José Ignacio Goirigolzarri",
+     "src": "commons,loc,europeana",
+     "at": "un hombre que lleva solo",
+     "lt": [
+      "José Ignacio Goirigolzarri",
+      "Presidente de Bankia desde mayo de 2012",
+      "banca"
+     ],
+     "lugar": "goiri"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "papel_cifra"
+     },
+     "at": "Tiene una cifra apuntada"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "silencio_mesa"
+     },
+     "at": "nadie en la sala habla"
+    }
+   ],
+   "gen": "NdP4a0K8XR6wwuCZ7Cor",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zfTvjIDJjWpKArzJzcNR/NdP4a0K8XR6wwuCZ7Cor/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=yHgdibatzcjqY4Rl92zVGXKRnIU="
+  },
+  {
+   "k": "R",
+   "text": "Diecinueve mil millones de euros. Es lo que el banco tiene que pedir al Estado para no hundirse. El mayor rescate de la historia de España.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 19000,
+      "label": "millones de euros que pide Bankia al Estado",
+      "suffix": " M€"
+     },
+     "at": "Diecinueve mil millones"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "oro_derrumbe"
+     },
+     "at": "para no hundirse"
+    }
+   ],
+   "gen": "39sbp09qcFaGVGAHRA9y",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/e01192uU4FVsQXuXXhsK/39sbp09qcFaGVGAHRA9y/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=OFjuWxMiwqnWbnO9bDb0o4T_T_M="
+  },
+  {
+   "k": "N",
+   "text": "Esa misma tarde, el banco rehace sus cuentas del año anterior. Donde decía que había ganado trescientos nueve millones, ahora reconoce que perdió casi tres mil. Y el consejo entero, salvo el presidente y el consejero delegado, dimite.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Cuentas de 2011 · febrero",
+       "lines": [
+        "+309 millones",
+        "de beneficio"
+       ]
+      },
+      "right": {
+       "title": "Cuentas de 2011 · 25 de mayo",
+       "lines": [
+        "−2.979 millones",
+        "de pérdidas"
+       ]
+      }
+     },
+     "at": "Donde decía"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "sillas_vacias"
+     },
+     "at": "dimite"
+    }
+   ],
+   "gen": "bYB9oe92lqcs3qnK1Xcm",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qUfydtrgLkALNQWQx6XM/bYB9oe92lqcs3qnK1Xcm/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=mF07vkB6BuLHFSRa5xvSuJ7J4CE="
+  },
+  {
+   "k": "N",
+   "text": "Pero lo más increíble no es la cifra. Es la fecha. Porque apenas diez meses antes, este mismo banco había tocado la campana en la Bolsa de Madrid. Y trescientas cuarenta y siete mil personas le habían confiado sus ahorros.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "campana_bolsa"
+     },
+     "at": "había tocado la campana"
+    },
+    {
+     "photo": "Palacio de la Bolsa de Madrid",
+     "src": "commons,loc,europeana",
+     "at": "la Bolsa de Madrid",
+     "lt": [
+      "Palacio de la Bolsa",
+      "Madrid"
+     ],
+     "lugar": "bolsa"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cola_oficina"
+     },
+     "at": "trescientas cuarenta y siete mil personas"
+    }
+   ],
+   "gen": "Zqc7rxEXiPmNrdpoXMN0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jit1wqHMZT0VKAhWwAl0/Zqc7rxEXiPmNrdpoXMN0/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=ODldP8Sr7kkxhU1Z_ChF4AAX_hk="
+  },
+  {
+   "k": "R",
+   "text": "Tres con setenta y cinco euros. A ese precio se vendió cada acción aquel verano. El jueves veinticuatro de mayo, la víspera del rescate, la acción cerró a uno con cincuenta y siete. Ya había perdido más de la mitad. Y lo peor aún no había llegado.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 1.57,
+      "label": "cierre de Bankia · 24 de mayo de 2012",
+      "suffix": " €",
+      "dec": 2,
+      "from": 3.75
+     },
+     "at": "uno con cincuenta y siete"
+    }
+   ],
+   "gen": "Nosu8jMBwUb17PFbyWy5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rC8OlQnMorjKCnpXLHKm/Nosu8jMBwUb17PFbyWy5/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=9WeQ5BaImptRH2ESEiGLDSrMQI0="
+  },
+  {
+   "k": "N",
+   "text": "[pause] ¿Cómo puede un banco que sale a bolsa como una cuestión de Estado necesitar el mayor rescate de la historia en menos de un año? ¿Quién sabía lo que había dentro? Y la pregunta que todavía hoy no tiene una respuesta cómoda: ¿quién pagó la factura?",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "pasillo_sombra"
+     },
+     "at": "Quién sabía"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cartera_vacia"
+     },
+     "at": "quién pagó la factura"
+    }
+   ],
+   "gen": "9wqezbCAEglIYXXZOZBD",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MjJWEo2XSyCcQGhrfPmG/9wqezbCAEglIYXXZOZBD/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=nbAgQ9wIKILMRoquV-0Qts8mxX4="
+  },
+  {
+   "k": "N",
+   "text": "Esta es la historia de los diez meses que hundieron a Bankia. Contada día a día, desde la campana hasta el rescate. Y de lo que vino después: los tribunales, la cárcel y una sentencia que nadie esperaba.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 298,
+      "to": 310,
+      "label": "del toque de campana al rescate",
+      "prefix": "DÍA "
+     },
+     "at": "los diez meses"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "mazo_sombra"
+     },
+     "at": "la cárcel"
+    }
+   ],
+   "gen": "NAxRR1SiJ00AuhzRpkIa",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RG5wnBVb5oXiCld2XpTL/NAxRR1SiJ00AuhzRpkIa/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=_juPadhJi8nwA2TrndSu2hbC7BA="
+  },
+  {
+   "k": "T",
+   "secs": 5.5,
+   "sting": "tema",
+   "chapter": false,
+   "text": "[dramatically] Bankia. Diez meses.",
+   "voice": "NAR",
+   "card": {
+    "type": "title",
+    "title": "Bankia",
+    "sub": "Salió a bolsa. Diez meses después pidió el rescate"
+   },
+   "gen": "PrnWDrT6WnkXIKeG8y5F",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8XDewbLpIv5EQ0NVu9DR/PrnWDrT6WnkXIKeG8y5F/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=BK6FkwPMXpFJqRYxlVKDjzxByXw="
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Siete cajas y una torre",
+    "sub": "2010",
+    "num": "I"
+   }
+  },
+  {
+   "k": "B",
+   "track": "fondo"
+  },
+  {
+   "k": "N",
+   "text": "Para entender cómo se llegó a esa sala, hay que retroceder dos años. Dos mil diez. La burbuja inmobiliaria ha reventado y las cajas de ahorros, las entidades que durante un siglo guardaron el dinero de los españoles, están llenas de pisos que nadie compra y de préstamos a promotores que ya no pueden pagar.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "grua_parada"
+     },
+     "at": "La burbuja inmobiliaria ha reventado"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "libreta_caja"
+     },
+     "at": "las cajas de ahorros"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "bloques_vacios"
+     },
+     "at": "llenas de pisos que nadie compra"
+    }
+   ],
+   "gen": "orhzAGyl7cQVec2EtLOI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2X6kkVqipwqze1qXbXnO/orhzAGyl7cQVec2EtLOI/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=ylzV5M36GzOcV2gBVIT41YkAEuA="
+  },
+  {
+   "k": "R",
+   "text": "Una caja de ahorros no tenía dueños ni accionistas. Sus consejos se repartían entre gobiernos autonómicos, ayuntamientos, partidos y sindicatos. Y en dos mil diez, el Banco de España las empuja a fusionarse para sobrevivir.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "consejo_caja"
+     },
+     "at": "Sus consejos se repartían"
+    },
+    {
+     "photo": "Banco de España Madrid edificio",
+     "src": "commons,loc,europeana",
+     "at": "el Banco de España",
+     "lt": [
+      "Banco de España",
+      "Madrid"
+     ],
+     "lugar": "bde"
+    }
+   ],
+   "gen": "AvsylWt8vQAPFuCBpLtb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Hp7LVbD3dDPsi13Ub4Oo/AvsylWt8vQAPFuCBpLtb/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=WRt7Q_viinqyrhYh23ujfpwConQ="
+  },
+  {
+   "k": "R",
+   "text": "La más grande de todas tenía casi tres siglos de historia. Caja Madrid nació del Monte de Piedad que fundó el sacerdote Francisco Piquer en mil setecientos dos, para prestar a los pobres sin usura. En dos mil nueve manejaba unos ciento ochenta mil millones de euros.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "photo": "Monte de Piedad Madrid Descalzas",
+     "src": "commons,loc,europeana",
+     "at": "Monte de Piedad",
+     "lt": [
+      "Antiguo Monte de Piedad",
+      "Madrid"
+     ],
+     "lugar": "cajamadrid"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "monte_piedad"
+     },
+     "at": "para prestar a los pobres"
+    }
+   ],
+   "gen": "8axiVamMlQt9i0Qlg6eu",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/inC5ngAYqN1bSNh3VIb6/8axiVamMlQt9i0Qlg6eu/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=421Pc_ZbKzwg5M6c60BWRbxU2wA="
+  },
+  {
+   "k": "N",
+   "text": "La mayor de todas esas uniones nace el treinta de julio de dos mil diez. Siete cajas firman un contrato de integración. Dos gigantes, Caja Madrid y Bancaja. Y cinco pequeñas: la Caja Insular de Canarias, Caja de Ávila, Caixa Laietana, Caja Segovia y Caja Rioja.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "firma_siete"
+     },
+     "at": "Siete cajas firman"
+    },
+    {
+     "photo": "Caja Madrid sede Paseo de la Castellana",
+     "src": "commons,loc,europeana",
+     "at": "Caja Madrid",
+     "lt": [
+      "Caja Madrid",
+      "Madrid"
+     ],
+     "lugar": "cajamadrid"
+    },
+    {
+     "photo": "Bancaja sede Valencia",
+     "src": "commons,loc,europeana",
+     "at": "Bancaja",
+     "lt": [
+      "Bancaja",
+      "Valencia"
+     ],
+     "lugar": "bancaja"
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "Las siete cajas de Bankia",
+      "items": [
+       [
+        "Caja Madrid",
+        "Madrid"
+       ],
+       [
+        "Bancaja",
+        "Valencia"
+       ],
+       [
+        "Caja Insular de Canarias",
+        "Las Palmas"
+       ],
+       [
+        "Caja de Ávila · Caja Segovia",
+        "Castilla y León"
+       ],
+       [
+        "Caixa Laietana · Caja Rioja",
+        "Mataró · Logroño"
+       ]
+      ]
+     },
+     "at": "cinco pequeñas"
+    }
+   ],
+   "gen": "qIH2pjX0ygvUmoUUgKHz",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Qum4zXHKYp5egwhbMSa9/qIH2pjX0ygvUmoUUgKHz/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=3wdOa5MxdzVM67nrtHkdIKzBrfs="
+  },
+  {
+   "k": "N",
+   "text": "Lo llaman fusión fría. Cada caja sigue existiendo, pero el negocio pasa a una sociedad central: el Banco Financiero y de Ahorros, que todo el mundo conocerá por sus siglas, BFA. Para arrancar, el Estado le presta cuatro mil cuatrocientos sesenta y cinco millones de euros del fondo de rescate bancario, el FROB.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "engranajes"
+     },
+     "at": "Lo llaman fusión fría"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 4465,
+      "label": "millones prestados por el FROB a BFA · diciembre de 2010",
+      "suffix": " M€"
+     },
+     "at": "cuatro mil cuatrocientos sesenta y cinco millones"
+    }
+   ],
+   "gen": "b0abuWF2CCILf3pUaaT0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/X0IZldBuFlmuLFSkdeD0/b0abuWF2CCILf3pUaaT0/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Ta1gBUJtWRCsxXxY4Bidr9aTdec="
+  },
+  {
+   "k": "N",
+   "text": "Sobre el papel, la idea tenía lógica: siete entidades débiles juntas pesan más que por separado. Pero dentro de ese gigante convivían siete culturas, siete consejos, siete redes de oficinas solapadas y, sobre todo, siete carteras de préstamos al ladrillo. Juntarlas no las hacía más sanas. Solo las hacía más grandes.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "siete_barcos"
+     },
+     "at": "siete entidades débiles juntas"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ladrillos_pila"
+     },
+     "at": "Solo las hacía más grandes"
+    }
+   ],
+   "gen": "PuwS8fsu0LqTn5zpnkN4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gz3Q96cKoP9XCIvNnjcH/PuwS8fsu0LqTn5zpnkN4/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=5kHbBCH9xe6uAsvE8VolWLA9HbM="
+  },
+  {
+   "k": "R",
+   "text": "El nuevo grupo arranca con más de trescientos mil millones de euros en balance. Es el tercer banco de España. Y tiene un presidente con un currículum que pocos banqueros del mundo pueden igualar.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "torre_noche"
+     },
+     "at": "el tercer banco de España"
+    }
+   ],
+   "gen": "3N7pYMCO3vWgerGNvcuN",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/A2aQAeapzV7l2GmcKlLH/3N7pYMCO3vWgerGNvcuN/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=4UqSJZyed9s1jBmYuXenUfPSBGY="
+  },
+  {
+   "k": "N",
+   "text": "Rodrigo Rato. Vicepresidente económico en los gobiernos de José María Aznar. Director gerente del Fondo Monetario Internacional entre dos mil cuatro y dos mil siete. Ahora preside el grupo entero.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Rodrigo Rato",
+     "src": "commons,loc,europeana",
+     "at": "Rodrigo Rato",
+     "lt": [
+      "Rodrigo Rato",
+      "Presidente de Caja Madrid, BFA y Bankia (2010-2012)",
+      "banca"
+     ],
+     "lugar": "rato"
+    },
+    {
+     "photo": "International Monetary Fund headquarters Washington",
+     "src": "commons,loc,europeana",
+     "at": "Fondo Monetario Internacional",
+     "lt": [
+      "Sede del FMI",
+      "Washington"
+     ],
+     "lugar": "fmi"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "despacho_rato"
+     },
+     "at": "Ahora preside el grupo entero"
+    }
+   ],
+   "gen": "l2W3xsD5SVFKDRKy4PpL",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HbBWnhSbDQ8lJZh0trJo/l2W3xsD5SVFKDRKy4PpL/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=wABs6C3UmIjRqwNvDMkmsq2MTrI="
+  },
+  {
+   "k": "R",
+   "text": "Su llegada no fue sencilla. Durante casi un año, el Partido Popular de Madrid libró una guerra interna por el control de la caja. La presidenta de la Comunidad, Esperanza Aguirre, quería a su número dos, Ignacio González. El alcalde, Alberto Ruiz-Gallardón, se oponía. Y el líder nacional del partido lo dijo en televisión.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "pulso_mesa"
+     },
+     "at": "una guerra interna"
+    },
+    {
+     "photo": "Esperanza Aguirre",
+     "src": "commons,loc,europeana",
+     "at": "Esperanza Aguirre",
+     "lt": [
+      "Esperanza Aguirre",
+      "Presidenta de la Comunidad de Madrid (2003-2012)",
+      "gobierno"
+     ],
+     "lugar": "aguirre"
+    },
+    {
+     "photo": "Alberto Ruiz-Gallardón",
+     "src": "commons,loc,europeana",
+     "at": "Alberto Ruiz-Gallardón",
+     "lt": [
+      "Alberto Ruiz-Gallardón",
+      "Alcalde de Madrid (2003-2011)",
+      "gobierno"
+     ],
+     "lugar": "gallardon"
+    }
+   ],
+   "gen": "ArlRHWuDh6ZUMmGJKlx4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QoGoXfnJaVPysHALcwZO/ArlRHWuDh6ZUMmGJKlx4/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=k-VmdaNQ9Y3a0F1fgDN0_WhjIos="
+  },
+  {
+   "k": "R",
+   "text": "Si yo tuviera que nombrar a un presidente de Caja Madrid, ése sería Rato.",
+   "voice": "RAJ",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Si yo tuviera que nombrar a un presidente de Caja Madrid, ése sería Rato.",
+      "attrib": "Mariano Rajoy · entrevista en Antena 3, octubre de 2009"
+     },
+     "at": "Si yo tuviera que nombrar"
+    }
+   ],
+   "gen": "Nydli06o7YUIqcnIP0uR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qXuPMsHtAdK3Yzmo0MGR/Nydli06o7YUIqcnIP0uR/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=d6Hw2ZqDvPeZIeK0KUGnqJ3TPbE="
+  },
+  {
+   "k": "R",
+   "text": "El veintiocho de enero de dos mil diez, Rato es elegido presidente de Caja Madrid por unanimidad. Sustituye a Miguel Blesa, que llevaba catorce años al frente.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "votacion_manos"
+     },
+     "at": "por unanimidad"
+    }
+   ],
+   "gen": "SWrUkk5m18gvyMI9N9Pk",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/chm85yL43KbFzt5ygiVU/SWrUkk5m18gvyMI9N9Pk/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=tmYq7PRxQp6vZITUN7byT3N3I4g="
+  },
+  {
+   "k": "N",
+   "text": "A su lado, como vicepresidente, el hombre fuerte de Bancaja: José Luis Olivas, que había sido presidente de la Generalitat Valenciana. Y como consejero delegado, Francisco Verdú. Madrid y Valencia, los dos grandes feudos del ladrillo, en una misma mesa.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "José Luis Olivas",
+     "src": "commons,loc,europeana",
+     "at": "José Luis Olivas",
+     "lt": [
+      "José Luis Olivas",
+      "Vicepresidente de Bankia · expresidente de Bancaja",
+      "banca"
+     ],
+     "lugar": "olivas"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "mapa_feudos"
+     },
+     "at": "Madrid y Valencia"
+    }
+   ],
+   "gen": "dSA7QXhF3GwzpsQrabJO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UyLG0OCucQs9QkcfT1OV/dSA7QXhF3GwzpsQrabJO/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=wBvabplfVvER_gGrlOn0NEE2XEE="
+  },
+  {
+   "k": "R",
+   "text": "En la prensa económica se repite una frase: nace un gigante. Pero dentro del Banco de España hay quien no lo ve así. Y lo deja por escrito.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "periodicos"
+     },
+     "at": "nace un gigante"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "carta_sobre"
+     },
+     "at": "Y lo deja por escrito"
+    }
+   ],
+   "gen": "XgXPUD1gojZwHHReFvtG",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jMUOi4SSwHPq7CAsftjp/XgXPUD1gojZwHHReFvtG/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Zrs8GZ9tTLsDX6LX_gzS7qOlA5w="
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El inspector",
+    "sub": "Abril y mayo de 2011",
+    "num": "II"
+   }
+  },
+  {
+   "k": "R",
+   "text": "Real Decreto-ley de dieciocho de febrero de dos mil once, para el reforzamiento del sistema financiero. Capital principal mínimo del ocho por ciento. Del diez por ciento para las entidades que dependan de los mercados mayoristas y no tengan al menos un veinte por ciento de su capital en manos privadas. Plazo: treinta de septiembre.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Real Decreto-ley 2/2011",
+      "lines": [
+       "para el reforzamiento del sistema financiero",
+       "Capital principal: 8 % · 10 % sin inversores privados"
+      ],
+      "source": "Boletín Oficial del Estado · 19 de febrero de 2011"
+     },
+     "at": "Real Decreto-ley de dieciocho de febrero"
+    }
+   ],
+   "gen": "fanIiKrLZBH2scNm2eIT",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ShoMWoOjk0aceOc5Grss/fanIiKrLZBH2scNm2eIT/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=XHhKt8RHkSC8KxuroidMESLGlzc="
+  },
+  {
+   "k": "R",
+   "text": "El diez de marzo, el Banco de España comunica a doce entidades que les falta capital. Unos quince mil millones de euros para todo el sector. En la lista está BFA.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 12,
+      "label": "entidades a las que les falta capital · 10 de marzo de 2011"
+     },
+     "at": "a doce entidades"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "lista_nombres"
+     },
+     "at": "En la lista está BFA"
+    }
+   ],
+   "gen": "mmkiot3Kc0f5MQLApVQh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IKOPBwUHr3f0HWBTxdGM/mmkiot3Kc0f5MQLApVQh/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=YsAp40L2JqMtgFr5eK2KU-1ZXoY="
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Primavera de dos mil once. Para BFA quedan dos caminos. Salir a bolsa y captar dinero de inversores. O ser intervenida.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cruce_caminos"
+     },
+     "at": "quedan dos caminos"
+    },
+    {
+     "card": {
+      "type": "versus",
+      "left": {
+       "title": "Salir a bolsa",
+       "lines": [
+        "captar capital de inversores",
+        "mantener el control"
+       ]
+      },
+      "right": {
+       "title": "Ser intervenida",
+       "lines": [
+        "el Estado entra",
+        "los gestores salen"
+       ]
+      }
+     },
+     "at": "Salir a bolsa y captar"
+    }
+   ],
+   "gen": "hs7Gnm9x7iKMlZnPhZE2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/463uDBjEA4Xtf49U4joZ/hs7Gnm9x7iKMlZnPhZE2/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Z9aLz42cxtXiRC6D7347iFCZqM8="
+  },
+  {
+   "k": "N",
+   "text": "La fórmula que se elige tiene truco. No saldrá a bolsa todo el grupo. Se crea un banco nuevo, Bankia, que se queda con el negocio de las oficinas, los clientes y los depósitos. Y la matriz, BFA, se queda con buena parte de lo más tóxico: el suelo, los préstamos dudosos y las participaciones en otras empresas.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "dos_cajas_fuertes"
+     },
+     "at": "La fórmula que se elige tiene truco"
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "La estructura de doble banco",
+      "items": [
+       [
+        "Bankia",
+        "oficinas, clientes y depósitos · sale a bolsa"
+       ],
+       [
+        "BFA, la matriz",
+        "suelo, préstamos dudosos y participadas · se queda fuera"
+       ]
+      ]
+     },
+     "at": "Se crea un banco nuevo, Bankia"
+    }
+   ],
+   "gen": "Gkixxl4xvMzh5kFJAsCy",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DZwNimOVyQ9jhGeBZHIm/Gkixxl4xvMzh5kFJAsCy/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=xIe4I1bPQVBH85THHPwFvCrjgv4="
+  },
+  {
+   "k": "R",
+   "text": "A esto se le llamó estructura de doble banco. Bankia sería el escaparate. BFA, la trastienda.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "escaparate"
+     },
+     "at": "Bankia sería el escaparate"
+    }
+   ],
+   "gen": "ac5wNmD5xwTqktPLyVae",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Ms1A5gOdw40T4cfyrfLU/ac5wNmD5xwTqktPLyVae/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=30G9ZxbdP-tWtFdbb8QlsEXEbGg="
+  },
+  {
+   "k": "N",
+   "text": "Y aquí entra en escena un hombre que casi nadie conocía. José Antonio Casaus, jefe del equipo de inspectores del Banco de España que vigila día a día al grupo. Entre abril y mayo de dos mil once envía cuatro correos electrónicos a sus superiores.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "inspector_pantalla"
+     },
+     "at": "José Antonio Casaus"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "correo_enviar"
+     },
+     "at": "cuatro correos electrónicos"
+    }
+   ],
+   "gen": "ljEwGE8MxePIHBr2w9Ku",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ksayRv86ddtfaUC89109/ljEwGE8MxePIHBr2w9Ku/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=TWN9aMO_BRW62dkH2aT4yjo66f4="
+  },
+  {
+   "k": "R",
+   "text": "Correo de dieciséis de mayo de dos mil once. El inspector describe a Bankia con una debilísima y decreciente capacidad para generar resultados. Y añade que el grupo tiene un consejo muy politizado y poco profesional.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Correo interno del Banco de España",
+      "lines": [
+       "«debilísima y decreciente capacidad",
+       "para generar resultados»",
+       "«consejo muy politizado y poco profesional»"
+      ],
+      "source": "José Antonio Casaus, inspector · 16 de mayo de 2011"
+     },
+     "at": "Correo de dieciséis de mayo"
+    }
+   ],
+   "gen": "l8JJdrfQoGEYamSG36XB",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kOdya28t364YLt1IFFwL/l8JJdrfQoGEYamSG36XB/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=dp8M2sVarhHUzr_NjYS48-G-k9g="
+  },
+  {
+   "k": "R",
+   "text": "La salida a bolsa con la estructura de doble banco, sin hacer cambios estructurales, sólo es una bombona de oxígeno.",
+   "voice": "CAS",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "La salida a bolsa con la estructura de doble banco (…) sólo es una bombona de oxígeno.",
+      "attrib": "José Antonio Casaus, inspector del Banco de España · correo de 2011"
+     },
+     "at": "bombona de oxígeno"
+    }
+   ],
+   "gen": "W6s3ng8J6lsypABmEvel",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WbzqwkESbHArxOaY3cP2/W6s3ng8J6lsypABmEvel/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=-nySBUYU8nq5I_tH3fr9rokgd4s="
+  },
+  {
+   "k": "N",
+   "text": "Una bombona de oxígeno. Es decir: aire para aguantar unos meses, no una cura. Casaus no estaba diciendo que la salida a bolsa fuera ilegal. Estaba diciendo que no resolvía el problema. Que el enfermo seguía enfermo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "bombona"
+     },
+     "at": "aire para aguantar unos meses"
+    }
+   ],
+   "gen": "DlaVIfvpxayXf0VzNgiv",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/CMIO93JKSgKyO7QlucXp/DlaVIfvpxayXf0VzNgiv/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=PLmT1TwkPF_jn5Am0f5LZmCRAVA="
+  },
+  {
+   "k": "N",
+   "text": "Casaus propone otra salida: que un gran banco, preferiblemente extranjero, absorba al grupo. Y apunta por qué cree que no ocurrirá. Según escribió, los políticos que gestionan la entidad no querrán perder su herramienta de financiación.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "banco_extranjero"
+     },
+     "at": "preferiblemente extranjero"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ajedrez"
+     },
+     "at": "herramienta de financiación"
+    }
+   ],
+   "gen": "CcozgrLN5OMPQx4NBAnW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8wZu3WSa90llLyoYkKvN/CcozgrLN5OMPQx4NBAnW/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=UwnQ6sf4guyD6lxpsKqA9yb5H4I="
+  },
+  {
+   "k": "N",
+   "text": "Sus correos llegan a su jefe de grupo. Lo que pasó después lo discutirían durante años los tribunales. Ante el juez, quien los recibió los llamó meras opiniones. El gobernador aseguró que nunca le llegaron. La operación siguió adelante.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "carpeta_cerrada"
+     },
+     "at": "meras opiniones"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "pasos_escalera"
+     },
+     "at": "La operación siguió adelante"
+    }
+   ],
+   "gen": "2NayUn8lyLIPoNcZbnEH",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7sHDwhN4VMRfAtfRUA7E/2NayUn8lyLIPoNcZbnEH/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Z91UKhSs4bqjtKOB61xqBldKKuw="
+  },
+  {
+   "k": "R",
+   "text": "En los despachos de Madrid se decía que la salida a bolsa de Bankia era una cuestión de Estado. Si fracasaba, el mensaje a los mercados sería terrible: que el sistema financiero español no podía sostenerse solo.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "Palacio de la Moncloa",
+     "src": "commons,loc,europeana",
+     "at": "En los despachos de Madrid",
+     "lt": [
+      "Palacio de la Moncloa",
+      "Madrid"
+     ],
+     "lugar": "moncloa"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "mercados_pantallas"
+     },
+     "at": "el mensaje a los mercados"
+    }
+   ],
+   "gen": "dEQJ5EGchB8gFQwuhXW7",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zDW5CKnjVuRqPvZmDWaj/dEQJ5EGchB8gFQwuhXW7/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=MJSiB3FSjXJrKjlpaju7juLzCRU="
+  },
+  {
+   "k": "R",
+   "text": "Y mientras tanto, en la calle, el país hierve. El quince de mayo de dos mil once, miles de personas acampan en la Puerta del Sol. Una de sus pancartas se repetiría por toda España: no somos mercancía en manos de políticos y banqueros.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "Acampada Sol 15M Madrid 2011",
+     "src": "commons,loc,europeana",
+     "at": "acampan en la Puerta del Sol",
+     "lt": [
+      "Puerta del Sol, Madrid",
+      "Mayo de 2011"
+     ],
+     "lugar": "sol15m"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "plaza_noche"
+     },
+     "at": "en manos de políticos y banqueros"
+    }
+   ],
+   "gen": "ylDcoaXrSXm0lzzraWU4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cxkkiGGFMzLqOXFbJfti/ylDcoaXrSXm0lzzraWU4/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=otMjPIbNu5Co0zbEvHku9snZoCI="
+  },
+  {
+   "k": "N",
+   "text": "Así que el veintinueve de junio de dos mil once, la Comisión Nacional del Mercado de Valores registra el folleto de la oferta. Cientos de páginas. Cifras, riesgos, cuentas. Un documento que, años después, el Tribunal Supremo examinaría frase a frase.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Comisión Nacional del Mercado de Valores sede Madrid",
+     "src": "commons,loc,europeana",
+     "at": "la Comisión Nacional del Mercado de Valores",
+     "lt": [
+      "CNMV",
+      "Madrid"
+     ],
+     "lugar": "cnmv"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "folleto_grueso"
+     },
+     "at": "registra el folleto"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "lupa_juez"
+     },
+     "at": "frase a frase"
+    }
+   ],
+   "gen": "2aMjZlJmDUhY46sfwrrP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DwittY1Tmte7PZUhsVIm/2aMjZlJmDUhY46sfwrrP/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=HOnalHED4hcImNYJ7G6Bjxk8V3A="
+  },
+  {
+   "k": "N",
+   "text": "[softly] En ese folleto había un número. Un beneficio. Y ese número iba a viajar a trescientas cuarenta y siete mil casas.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "numero_luz"
+     },
+     "at": "En ese folleto había un número"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ventanas_casas"
+     },
+     "at": "trescientas cuarenta y siete mil casas"
+    }
+   ],
+   "gen": "3rPReSTZoED0QYgpUi95",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tQzNtnz48XxIWBAS7ckE/3rPReSTZoED0QYgpUi95/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=mPbiUVok7UQr6HCXXysD5DuTr1o="
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 5
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "La campana",
+    "sub": "Junio y julio de 2011",
+    "num": "III"
+   }
+  },
+  {
+   "k": "B",
+   "track": "fiesta"
+  },
+  {
+   "k": "N",
+   "text": "Junio de dos mil once. Bankia lanza una de las mayores campañas publicitarias que ha visto la banca española. Anuncios en televisión, en la radio, en las marquesinas. El mensaje invita a hacerse accionista. A ser, como decían los propios anuncios, bankero.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "tele_salon"
+     },
+     "at": "Anuncios en televisión"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "marquesina"
+     },
+     "at": "en las marquesinas"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cartel_gigante"
+     },
+     "at": "bankero",
+     "kw": "«BANKEROS»",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "ZnLQbe2bt9vlhNvqfrbT",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/O0OrWT6RpVJq6Ru3yXZM/ZnLQbe2bt9vlhNvqfrbT/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=83QN-Br4mcTS9yvcvc2yNz9mJBI="
+  },
+  {
+   "k": "N",
+   "text": "Pero la campaña más eficaz no estaba en la televisión. Estaba en las miles de oficinas del grupo. Allí, empleados que conocían a sus clientes de toda la vida les ofrecían las acciones. Jubilados, familias, pequeños ahorradores que nunca habían comprado una acción en su vida.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "oficina_mesa"
+     },
+     "at": "les ofrecían las acciones"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "jubilado_firma"
+     },
+     "at": "Jubilados, familias"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "pareja_joven"
+     },
+     "at": "pequeños ahorradores"
+    }
+   ],
+   "gen": "zKgYNshPyM0gtpr3D8Lq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/w85xLNRUDmX0yjWLq5z7/zKgYNshPyM0gtpr3D8Lq/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=IrCtebMoUg1-39mKEX0n-rcjENI="
+  },
+  {
+   "k": "R",
+   "text": "Mientras tanto, los grandes inversores internacionales no se fían. La demanda no llega. Y el diecinueve de julio, la víspera del estreno, Bankia tiene que rebajar el precio. La horquilla inicial iba de cuatro con cuarenta y uno a cinco con cero cinco euros por acción. El precio final se queda en tres con setenta y cinco.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "traders_dudan"
+     },
+     "at": "los grandes inversores internacionales no se fían"
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Horquilla inicial",
+       "lines": [
+        "4,41 € — 5,05 €",
+        "por acción"
+       ]
+      },
+      "right": {
+       "title": "Precio final · 19 de julio",
+       "lines": [
+        "3,75 €",
+        "por acción"
+       ]
+      }
+     },
+     "at": "tiene que rebajar el precio"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 3.75,
+      "label": "precio de salida de cada acción de Bankia",
+      "suffix": " €",
+      "dec": 2,
+      "from": 5.05
+     },
+     "at": "tres con setenta y cinco"
+    }
+   ],
+   "gen": "Rdkzpx4I4pVcXyu6cjQb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QIhZjL2ziYnZNQe93daF/Rdkzpx4I4pVcXyu6cjQb/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=-nYM2Rugm6QLDBtOd614G8CckzE="
+  },
+  {
+   "k": "R",
+   "text": "Folleto de la oferta. Cuenta de resultados del primer trimestre de dos mil once: beneficio pro forma, no auditado, de noventa y un millones de euros. Las advertencias sobre riesgos ocupan decenas de páginas.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Folleto de la oferta pública de Bankia",
+      "lines": [
+       "Primer trimestre de 2011",
+       "Beneficio pro forma no auditado: 91 millones"
+      ],
+      "source": "Registrado en la CNMV · 29 de junio de 2011"
+     },
+     "at": "Folleto de la oferta"
+    }
+   ],
+   "gen": "JrNfRidB2anA43ABGeJ5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nNuwKnJPTV18zqQpLUCy/JrNfRidB2anA43ABGeJ5/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=FuavfrnPwCnCdPmvA9nwrG0N68U="
+  },
+  {
+   "k": "N",
+   "text": "Aun así, la operación se cierra. Bankia capta tres mil noventa y dos millones de euros. Y la mayor parte de ese dinero no viene de fondos ni de bancos de inversión. Viene de la gente de a pie.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 3092,
+      "label": "millones captados en la salida a bolsa",
+      "suffix": " M€"
+     },
+     "at": "tres mil noventa y dos millones"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "hucha_rota"
+     },
+     "at": "Viene de la gente de a pie"
+    }
+   ],
+   "gen": "7EwMjZZFxqQWuleOWVTL",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wg3iL0qGMobRK1WlMV01/7EwMjZZFxqQWuleOWVTL/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Q8y7pbY1caaR_MlFGVjdEVQXkOI="
+  },
+  {
+   "k": "N",
+   "text": "Piensa en lo que significaba para muchos de ellos. No eran inversores profesionales. Eran personas que confiaban en la caja de su barrio, la misma de la libreta de ahorros y la hipoteca. Si el empleado de toda la vida decía que era buena idea, ¿por qué iban a dudar?",
+   "voice": "NAR",
+   "shots": [
+    {
+     "at": "No eran inversores profesionales"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "barrio_caja"
+     },
+     "at": "la caja de su barrio"
+    }
+   ],
+   "gen": "IiUq3nNkNm5pQkZ1u0Wj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/imgK4QodI5SzjhlVTHDD/IiUq3nNkNm5pQkZ1u0Wj/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=ENzEGvkS5tFKC9ip_u3vi0yccdY="
+  },
+  {
+   "k": "R",
+   "text": "Trescientos cuarenta y siete mil trescientos treinta y ocho accionistas individuales. Frente a solo doscientos ochenta inversores institucionales. Más de la mitad del dinero, unos mil ochocientos millones, lo pusieron pequeños ahorradores.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "versus",
+      "left": {
+       "title": "Accionistas individuales",
+       "lines": [
+        "347.338"
+       ]
+      },
+      "right": {
+       "title": "Inversores institucionales",
+       "lines": [
+        "280"
+       ]
+      }
+     },
+     "at": "Trescientos cuarenta y siete mil"
+    }
+   ],
+   "gen": "W77RieOEBsdQLjPWG0df",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2D2hTINfYFkK42gG3IjS/W77RieOEBsdQLjPWG0df/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=9KWXXq50hzbfRHPDvLxSF6jQXog="
+  },
+  {
+   "k": "B",
+   "track": "accion"
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Veinte de julio de dos mil once. Nueve de la mañana. Palacio de la Bolsa de Madrid. Banqueros, empresarios y políticos llenan el parqué. Y Rodrigo Rato sube a tocar la campana.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 1,
+      "label": "Bankia empieza a cotizar · 20 de julio de 2011",
+      "prefix": "DÍA "
+     },
+     "at": "Veinte de julio de dos mil once"
+    },
+    {
+     "photo": "Palacio de la Bolsa de Madrid interior",
+     "src": "commons,loc,europeana",
+     "at": "Palacio de la Bolsa de Madrid",
+     "lt": [
+      "Palacio de la Bolsa",
+      "Madrid · 20 de julio de 2011"
+     ],
+     "lugar": "bolsa"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "parque_lleno"
+     },
+     "at": "llenan el parqué"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "mano_campana"
+     },
+     "at": "sube a tocar la campana"
+    }
+   ],
+   "gen": "SwIYv6wJcSSJDETP8yaq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9G8etA1sIign3PHAYKGW/SwIYv6wJcSSJDETP8yaq/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=-5disKf2pxD4aKJoEwYa6MKLrvM="
+  },
+  {
+   "k": "R",
+   "text": "Es una satisfacción compartir con más de trescientos cuarenta y siete mil accionistas este momento histórico.",
+   "voice": "RAT",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Es una satisfacción compartir con más de 347.000 accionistas este momento histórico.",
+      "attrib": "Rodrigo Rato · Bolsa de Madrid, 20 de julio de 2011"
+     },
+     "at": "Es una satisfacción"
+    }
+   ],
+   "gen": "s0l8qmcATP7Bawy9vckR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/iw3aPQ5rcz4pEu2MQqEJ/s0l8qmcATP7Bawy9vckR/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=NyvkcpRjRkhrztG5SOKXLxuAGHQ="
+  },
+  {
+   "k": "N",
+   "text": "La primera hora es un mal presagio. La acción llega a caer más de un cinco por ciento. Rato habla de una auténtica tormenta financiera en Europa. Y al cierre, la cotización termina exactamente donde empezó: tres con setenta y cinco. La prensa señala que los bancos que colocaron la oferta compraron para sostener el precio.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "pantalla_roja"
+     },
+     "at": "La acción llega a caer"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "tormenta_madrid"
+     },
+     "at": "una auténtica tormenta financiera"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 3.75,
+      "label": "cierre del primer día · 20 de julio de 2011",
+      "suffix": " €",
+      "dec": 2,
+      "from": 3.55
+     },
+     "at": "termina exactamente donde empezó"
+    }
+   ],
+   "gen": "SaqYLfZZoA0c2H23wMJZ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bMatGpUD6pV2VB45fMAA/SaqYLfZZoA0c2H23wMJZ/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=w-BTXV2O70wez_Jz1-LfP3FzfUQ="
+  },
+  {
+   "k": "R",
+   "text": "Las crónicas de ese día se llenan con la imagen de la campana. Bankia ya es el cuarto banco del país por tamaño. En octubre entrará en el Ibex treinta y cinco, el club de las mayores empresas de la bolsa española.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "telediario"
+     },
+     "at": "Las crónicas de ese día"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ibex_club"
+     },
+     "at": "el Ibex treinta y cinco",
+     "kw": "IBEX 35",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "hNW2Hd61LdQKK6tGJkj3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HvLQXh6YcO8i4dQ1YLsm/hNW2Hd61LdQKK6tGJkj3/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=X04Ic8zTZktWmMk8teexWVp4O4g="
+  },
+  {
+   "k": "N",
+   "text": "Trescientas cuarenta y siete mil personas creían haber comprado un trozo de un banco sólido. Lo que no sabían es que el reloj ya había empezado a correr.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "reloj_arena"
+     },
+     "at": "el reloj ya había empezado a correr"
+    }
+   ],
+   "gen": "m4PLTpJio7Ig7hd7bGKu",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rerEpUV6kzNlRC4pXAPg/m4PLTpJio7Ig7hd7bGKu/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=pbNe0s6MiJFgQBJ7l7gatJlSh0I="
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El castillo de naipes",
+    "sub": "Agosto de 2011 · abril de 2012",
+    "num": "IV"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "R",
+   "text": "El verano de dos mil once es el de la crisis de la deuda europea. Grecia se tambalea. Italia y España pagan cada vez más por pedir prestado. Y la acción de Bankia empieza a bajar. Despacio. Sin pausa.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "europa_tormenta"
+     },
+     "at": "la crisis de la deuda europea"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "escalera_baja"
+     },
+     "at": "Despacio. Sin pausa"
+    }
+   ],
+   "gen": "jf5ZHuxC4lDYwlbZ3jc6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VFe69QNIvah0MawNVSlA/jf5ZHuxC4lDYwlbZ3jc6/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=mwR5BQNP4jZhXit0eXz6ruM_1A8="
+  },
+  {
+   "k": "N",
+   "text": "En noviembre, España vota. Mariano Rajoy gana con mayoría absoluta. Su ministro de Economía, Luis de Guindos, llega con una prioridad: limpiar los balances de los bancos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Mariano Rajoy 2011",
+     "src": "commons,loc,europeana",
+     "at": "Mariano Rajoy",
+     "lt": [
+      "Mariano Rajoy",
+      "Presidente del Gobierno desde diciembre de 2011",
+      "gobierno"
+     ],
+     "lugar": "rajoy"
+    },
+    {
+     "photo": "Luis de Guindos",
+     "src": "commons,loc,europeana",
+     "at": "Luis de Guindos",
+     "lt": [
+      "Luis de Guindos",
+      "Ministro de Economía (2011-2018)",
+      "gobierno"
+     ],
+     "lugar": "guindos"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "escoba_balance"
+     },
+     "at": "limpiar los balances"
+    }
+   ],
+   "gen": "NXLdI4ABnYleOJ4ztTLT",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wkBr7L4GsXXp6nL9xhc0/NXLdI4ABnYleOJ4ztTLT/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=_UAf2BQZx5xug_i0NyxD9IRmXGM="
+  },
+  {
+   "k": "R",
+   "text": "Y el veintiuno de noviembre, el día siguiente a las elecciones, el Banco de España interviene el Banco de Valencia. Su mayor accionista era Bancaja, una de las siete cajas de Bankia. Es la primera grieta visible dentro del grupo.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "photo": "Banco de Valencia sede",
+     "src": "commons,loc,europeana",
+     "at": "el Banco de Valencia",
+     "lt": [
+      "Banco de Valencia",
+      "Valencia"
+     ],
+     "lugar": "bancovalencia"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "grieta_marmol"
+     },
+     "at": "la primera grieta visible"
+    }
+   ],
+   "gen": "jP46Qn4dKLkxi9cewVi2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BqDKACQaRBjrWf8yiPCe/jP46Qn4dKLkxi9cewVi2/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=cf8SZ4a6-Od1J8FIo7EsaUR3Zbk="
+  },
+  {
+   "k": "R",
+   "text": "Real Decreto-ley de febrero de dos mil doce. Las entidades deberán provisionar sus créditos al ladrillo, es decir, apartar dinero para cubrir lo que probablemente nunca cobrarán. En mayo llegará un segundo decreto que exigirá todavía más.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Real Decreto-ley 2/2012",
+      "lines": [
+       "de saneamiento del sector financiero",
+       "Provisiones por los activos inmobiliarios"
+      ],
+      "source": "Boletín Oficial del Estado · 4 de febrero de 2012"
+     },
+     "at": "Real Decreto-ley de febrero"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "caja_monedas"
+     },
+     "at": "apartar dinero para cubrir"
+    }
+   ],
+   "gen": "GGRMjw5e6oMyACnyp88T",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tUMZJWYOJLO6swz7Xqyd/GGRMjw5e6oMyACnyp88T/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=vN7zRmNunGavBZ4RW8IGYhwrwGA="
+  },
+  {
+   "k": "N",
+   "text": "Y sin embargo, ese mismo febrero, Bankia presenta resultados. Asegura que en dos mil once ganó trescientos nueve millones de euros. Sobre el papel, todo va bien.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 309,
+      "label": "millones de beneficio que Bankia anuncia para 2011 · febrero de 2012",
+      "suffix": " M€",
+      "prefix": "+"
+     },
+     "at": "trescientos nueve millones"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "papel_sonrisa"
+     },
+     "at": "Sobre el papel, todo va bien"
+    }
+   ],
+   "gen": "NHhdDCfKT8vMCPbecEt0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VcFtP6s89Y8QTq5BKLSK/NHhdDCfKT8vMCPbecEt0/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=gucO1WtLf67f06WkQZmZqyYn1fI="
+  },
+  {
+   "k": "R",
+   "text": "En la bolsa, el mercado piensa otra cosa. En marzo, la acción ya ronda los tres euros. Más de un veinte por ciento por debajo del precio de salida.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 3.0,
+      "label": "cotización de Bankia · marzo de 2012",
+      "suffix": " €",
+      "dec": 2,
+      "from": 3.75
+     },
+     "at": "ronda los tres euros"
+    }
+   ],
+   "gen": "aW3a2UHKywYqMz6h5B7I",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gjPjlCrkPJvYW0p7MVEd/aW3a2UHKywYqMz6h5B7I/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=DTUVA4g-WhaUxueLip4JEab_XUg="
+  },
+  {
+   "k": "N",
+   "text": "Y entonces aparece el hombre que cambia la historia. No es un juez ni un político. Es el socio de la auditora Deloitte responsable de las cuentas de Bankia: Francisco Celma. Tiene que firmar las cuentas de dos mil once. Y no lo ve claro.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "auditor_noche"
+     },
+     "at": "Francisco Celma"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "firma_suspendida"
+     },
+     "at": "Y no lo ve claro"
+    }
+   ],
+   "gen": "5HeakgrQWuscJC0taX4O",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/q6sR9Mbu9pZWOKE5cqMX/5HeakgrQWuscJC0taX4O/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=VLdGiR7zOn9_LobbbTPJgOClKMc="
+  },
+  {
+   "k": "N",
+   "text": "El problema está en BFA, la matriz. Según contaría Celma en el juicio, el valor al que BFA tenía apuntada su participación en Bankia era muy superior a lo que de verdad valía en bolsa. Reconocerlo suponía pérdidas multimillonarias.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "balanza"
+     },
+     "at": "era muy superior"
+    }
+   ],
+   "gen": "9u4srbSjdCGqAeWWlgjM",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VO4FrHHWCOcwYrDYLwIa/9u4srbSjdCGqAeWWlgjM/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=DPAKL8XZCtE-F8zYHRMjXq_VZqg="
+  },
+  {
+   "k": "N",
+   "text": "Pero el agujero de fondo no era contable. Era de ladrillo. Préstamos a promotores que no iban a devolverse, suelo que ya no valía lo que decían los libros, pisos embargados que nadie quería. Cada mes que pasaba, ese agujero se hacía más grande. Y cada nuevo decreto del Gobierno obligaba a mirarlo de frente.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "at": "Era de ladrillo"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "pozo_oscuro"
+     },
+     "at": "ese agujero se hacía más grande"
+    }
+   ],
+   "gen": "tDebJ3mRqrqajb3tKy2b",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/lWpzEVuTkqwO6R1IbE61/tDebJ3mRqrqajb3tKy2b/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=qxNiJRH42k4r3OuoHPGIHVtzMTU="
+  },
+  {
+   "k": "R",
+   "text": "Presidente, no va.",
+   "voice": "CEL",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Presidente, no va.",
+      "attrib": "Francisco Celma (Deloitte) a Rodrigo Rato, 13 de abril de 2012 · según su declaración en el juicio"
+     },
+     "at": "Presidente, no va"
+    }
+   ],
+   "gen": "78GBgBYKhb9obpiw2R6G",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/t1cZfRhDPZ2xsdznqdFh/78GBgBYKhb9obpiw2R6G/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=XrizIC_VqKCtm3kvSaQ_avFrpak="
+  },
+  {
+   "k": "N",
+   "text": "Trece de abril de dos mil doce. Eso es lo que Celma recordó haberle dicho a Rato. Cuatro días después, el Banco de España aprueba el plan de saneamiento que presenta Rato. Pero Deloitte sigue sin dar su visto bueno. Y el treinta de abril, último día del plazo, el grupo envía sus cuentas a la Comisión Nacional del Mercado de Valores. Sin la firma del auditor.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "sello_lacre"
+     },
+     "at": "el Banco de España aprueba el plan"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 273,
+      "to": 285,
+      "label": "cuentas enviadas sin la firma del auditor · 30 de abril de 2012",
+      "prefix": "DÍA "
+     },
+     "at": "El treinta de abril"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "sobre_sin_firma"
+     },
+     "at": "Sin la firma del auditor"
+    }
+   ],
+   "gen": "nS7EPWDD8EYeyLIVYVQs",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pOQ7cx6rUEHGT7HGoX38/nS7EPWDD8EYeyLIVYVQs/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=fuOEz3kr_ZHFIugkWm4Ovvbz9l4="
+  },
+  {
+   "k": "R",
+   "text": "En el sector financiero, aquello suena a alarma. Presentar las cuentas sin el informe del auditor no es lo normal en un banco que cotiza en el Ibex. Las llamadas entre Bankia, el Banco de España y el Ministerio de Economía se multiplican.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "telefonos"
+     },
+     "at": "Las llamadas entre Bankia"
+    }
+   ],
+   "gen": "alkE15ShUSuCXGGrd8Uw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/M8apjE76tDEivC3Ialqo/alkE15ShUSuCXGGrd8Uw/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=NRIrs5DGAeASbHdQDh11-rCmbZU="
+  },
+  {
+   "k": "N",
+   "text": "[softly] Al castillo de naipes le quedaba una semana en pie.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "naipes"
+     },
+     "at": "Al castillo de naipes"
+    }
+   ],
+   "gen": "EXJ4tlf3TTmqvljniQJl",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bP6pDAVHqDFlaizMq2Do/EXJ4tlf3TTmqvljniQJl/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=1m87SnrERtV7IebpfN0LfmaPE34="
+  },
+  {
+   "k": "N",
+   "text": "Y si este documental te está atrapando, es buen momento para suscribirte a DocuVox. Porque lo que viene ahora es la semana más vertiginosa de la historia de la banca española.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "vertigo_torre"
+     },
+     "at": "la semana más vertiginosa"
+    }
+   ],
+   "gen": "MlcwKVeYN8GfCAty0m08",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vGGfFFtGiScJt8xR5WfX/MlcwKVeYN8GfCAty0m08/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=owgrGBjUcJP2x8_OnUkcAUX1lIw="
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Diecinueve mil millones",
+    "sub": "Mayo y junio de 2012",
+    "num": "V"
+   }
+  },
+  {
+   "k": "B",
+   "track": "accion"
+  },
+  {
+   "k": "N",
+   "text": "Lunes, siete de mayo de dos mil doce. A media mañana llega un comunicado. Rodrigo Rato dimite como presidente de Bankia y de BFA.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 280,
+      "to": 292,
+      "label": "dimite Rodrigo Rato · 7 de mayo de 2012",
+      "prefix": "DÍA "
+     },
+     "at": "siete de mayo de dos mil doce"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "reporteros"
+     },
+     "at": "llega un comunicado"
+    },
+    {
+     "photo": "Rodrigo Rato 2012",
+     "src": "commons,loc,europeana",
+     "at": "Rodrigo Rato dimite",
+     "lt": [
+      "Rodrigo Rato",
+      "Dimite el 7 de mayo de 2012",
+      "banca"
+     ],
+     "lugar": "rato"
+    }
+   ],
+   "gen": "LY9rpefg2fyqHqOVvFEQ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/83tjXDipNupZa0VdcNaN/LY9rpefg2fyqHqOVvFEQ/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=voIva6AIxh8T8UE6-OTK1JyHAlo="
+  },
+  {
+   "k": "R",
+   "text": "En su nota, Rato explica que su salida es lo más conveniente para esta entidad. Y propone a su sucesor: José Ignacio Goirigolzarri, el que había sido consejero delegado del BBVA durante años.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Lo más conveniente para esta entidad.",
+      "attrib": "Comunicado de Rodrigo Rato · 7 de mayo de 2012"
+     },
+     "at": "lo más conveniente para esta entidad"
+    },
+    {
+     "photo": "José Ignacio Goirigolzarri 2012",
+     "src": "commons,loc,europeana",
+     "at": "José Ignacio Goirigolzarri",
+     "lt": [
+      "José Ignacio Goirigolzarri",
+      "Ex consejero delegado del BBVA",
+      "banca"
+     ],
+     "lugar": "goiri"
+    }
+   ],
+   "gen": "8aHvoa6wbn9MBRnCTGAt",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QnfOFUZKB3l4iEL1vZgq/8aHvoa6wbn9MBRnCTGAt/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=6nC8a3T3OR1BuJ4FTbEXLisIpQM="
+  },
+  {
+   "k": "N",
+   "text": "Ese mismo día se sabe que el Gobierno y el Banco de España preparan una inyección de entre siete mil y diez mil millones de euros. La cifra se quedará muy corta.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "maletin_oro"
+     },
+     "at": "preparan una inyección"
+    }
+   ],
+   "gen": "PAiKWegt72f1UgYYF582",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Hge9asXsVkudzW56T6hb/PAiKWegt72f1UgYYF582/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=TjuRSHZr1s1wpwWFDajnvVeKWxg="
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Miércoles, nueve de mayo. Goirigolzarri toma posesión. Esa misma tarde, el consejo de BFA pide al Estado que convierta en acciones los cuatro mil cuatrocientos sesenta y cinco millones que le había prestado. Traducido: BFA pasa a ser del Estado. Bankia queda nacionalizada de hecho.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "llave_entrega"
+     },
+     "at": "Goirigolzarri toma posesión"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "NACIONALIZADA",
+      "sub": "el Estado se queda con BFA y controla el 45 % de Bankia"
+     },
+     "at": "Bankia queda nacionalizada"
+    }
+   ],
+   "gen": "y0c2nQE9Nk2ouE57aMiT",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ye8SOyoK3BoEo8MfW3dc/y0c2nQE9Nk2ouE57aMiT/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=-TB5AwR6iofiuRtBoip04glmXQM="
+  },
+  {
+   "k": "R",
+   "text": "En tres días, la acción pierde un trece por ciento. Y los clientes empiezan a hacer la pregunta que ningún banco quiere oír: ¿está seguro mi dinero?",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cajero_cola"
+     },
+     "at": "está seguro mi dinero"
+    }
+   ],
+   "gen": "pvxIDsJP6yO2tqOrpSns",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/03Mc6u4xQAWVYsg5sHqd/pvxIDsJP6yO2tqOrpSns/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=w1nStQBIGGXw68xbUMNWFLkO0qE="
+  },
+  {
+   "k": "R",
+   "text": "El Gobierno responde que los depósitos están garantizados. Y es cierto: quien tenía una cuenta o un depósito no perdió nada. Pero los accionistas y los que tenían preferentes eran otra historia.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "candado"
+     },
+     "at": "los depósitos están garantizados"
+    }
+   ],
+   "gen": "feI7x7FfAdK7fUbIvwc9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/n4BUGRMFNID3v41bWmv2/feI7x7FfAdK7fUbIvwc9/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Fn_16qGRMzbHIVPSNbjJ_eQie6k="
+  },
+  {
+   "k": "N",
+   "text": "Y llegamos a donde empezamos. Viernes, veinticinco de mayo. Por la mañana, la Comisión Nacional del Mercado de Valores suspende la cotización de Bankia. A las cuatro y media se reúne el consejo. Y Goirigolzarri pone la cifra sobre la mesa.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 298,
+      "to": 310,
+      "label": "Bankia pide el rescate · 25 de mayo de 2012",
+      "prefix": "DÍA "
+     },
+     "at": "Viernes, veinticinco de mayo"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "pantalla_negra"
+     },
+     "at": "suspende la cotización"
+    },
+    {
+     "at": "A las cuatro y media"
+    }
+   ],
+   "gen": "cPVW3QngRUSTfNNh6usQ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rbOoRekbZS19EapX5fnA/cPVW3QngRUSTfNNh6usQ/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Hqhv2uVALTjP5m6beI02mAJIsC4="
+  },
+  {
+   "k": "R",
+   "text": "Diecinueve mil millones para BFA y Bankia. Sumados a los préstamos anteriores, las ayudas públicas acabarán en veintidós mil cuatrocientos veinticuatro millones de euros. Y las cuentas de dos mil once, rehechas: pérdidas de dos mil novecientos setenta y nueve millones en Bankia. Tres mil trescientos dieciocho en BFA.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 19000,
+      "to": 22424,
+      "label": "millones de euros en ayudas públicas a BFA-Bankia",
+      "suffix": " M€"
+     },
+     "at": "veintidós mil cuatrocientos veinticuatro millones"
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Bankia · 2011",
+       "lines": [
+        "−2.979 millones"
+       ]
+      },
+      "right": {
+       "title": "BFA · 2011",
+       "lines": [
+        "−3.318 millones"
+       ]
+      }
+     },
+     "at": "Y las cuentas de dos mil once, rehechas"
+    }
+   ],
+   "gen": "E7z5nCshonNVdnQBKOlH",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IdJ6E6QKVrroR3EjnpPA/E7z5nCshonNVdnQBKOlH/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=JWm2vg2MxD_WRIreLLGXCFSaqiU="
+  },
+  {
+   "k": "R",
+   "text": "¿Cómo se pasa de ganar trescientos nueve millones a perder casi tres mil? El nuevo equipo revisa los préstamos y los inmuebles uno por uno. Y decide apartar ocho mil quinientos millones en provisiones, por encima incluso de lo que exigían los dos decretos del Gobierno.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 8500,
+      "label": "millones en provisiones adicionales · mayo de 2012",
+      "suffix": " M€"
+     },
+     "at": "ocho mil quinientos millones"
+    }
+   ],
+   "gen": "u2WyTskW1GyjPMANVjKP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DQ3HzE2soOcGDOmDyP41/u2WyTskW1GyjPMANVjKP/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=weuZMWTJSsMZ7bfZ-0ReP1LSkiQ="
+  },
+  {
+   "k": "N",
+   "text": "Para hacerse una idea: con veintidós mil millones se podría pagar el sueldo de un año de casi un millón de trabajadores en España. Las pérdidas de BFA fueron las segundas mayores de la historia de la banca española, solo por detrás de las de Banesto en mil novecientos noventa y tres.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "estadio_gente"
+     },
+     "at": "casi un millón de trabajadores"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "banesto_eco"
+     },
+     "at": "Banesto",
+     "kw": "BANESTO, 1993",
+     "kw_at": 0.4,
+     "kw_dur": 2.2
+    }
+   ],
+   "gen": "4waRxtFmHS8RmtetFrCP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3nEsV1igXtYDHTsdPZ0y/4waRxtFmHS8RmtetFrCP/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=GNWpro374UwsgTCxTfNmAXvinAo="
+  },
+  {
+   "k": "N",
+   "text": "Esa noche, el rescate de un banco dejó de ser un problema de un banco. Pasó a ser un problema de un país. Porque si la cuarta entidad de España necesitaba diecinueve mil millones, ¿cuánto necesitaban las demás? Esa era la pregunta que se hacían en Londres, en Fráncfort y en Washington.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "mapa_europa_luz"
+     },
+     "at": "un problema de un país"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "fondos_extranjeros"
+     },
+     "at": "en Londres, en Fráncfort y en Washington"
+    }
+   ],
+   "gen": "XV12GKIwzgXP80i3nN7z",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tkvzBfzTvV6c5vDgv5k3/XV12GKIwzgXP80i3nN7z/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=9iCP6XUM9k27uYIVU4Udz6AggGY="
+  },
+  {
+   "k": "R",
+   "text": "El lunes, cuando Bankia vuelve a cotizar, la acción se hunde: llega a caer cerca de un veinticinco por ciento en los primeros minutos. La prima de riesgo de España, lo que el país paga de más que Alemania por pedir prestado, supera los quinientos puntos. Y ese mismo lunes, el presidente del Gobierno comparece ante la prensa.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "desplome"
+     },
+     "at": "la acción se hunde"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 400,
+      "to": 500,
+      "label": "puntos de prima de riesgo · 28 de mayo de 2012"
+     },
+     "at": "supera los quinientos puntos"
+    }
+   ],
+   "gen": "GW5qkK2MeossF3b3f4PE",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/huYnG3IFHnCWjdcl8JZl/GW5qkK2MeossF3b3f4PE/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=qc57bCHaw9ecsVfOETRkDjJf-j4="
+  },
+  {
+   "k": "R",
+   "text": "No va a haber ningún rescate de la banca española.",
+   "voice": "RAJ",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "No va a haber ningún rescate de la banca española.",
+      "attrib": "Mariano Rajoy · rueda de prensa, 28 de mayo de 2012"
+     },
+     "at": "No va a haber ningún rescate"
+    }
+   ],
+   "gen": "JtVt1LSI4D1wB9I7E2t9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0miGjciD6cnRd36tWMnt/JtVt1LSI4D1wB9I7E2t9/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=7JRy2mFee_hrkc9QcqgOj9MWGbg="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Doce días después, el sábado nueve de junio, el Eurogrupo acuerda prestar a España hasta cien mil millones de euros para sanear sus bancos. El Gobierno lo llama línea de crédito. En toda Europa se le llama rescate.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Justus Lipsius building Brussels",
+     "src": "commons,loc,europeana",
+     "at": "el Eurogrupo",
+     "lt": [
+      "Consejo de la UE",
+      "Bruselas"
+     ],
+     "lugar": "bruselas"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 100000,
+      "label": "millones · préstamo europeo para la banca española · 9 de junio de 2012",
+      "suffix": " M€"
+     },
+     "at": "hasta cien mil millones"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "bandera_ue_lluvia"
+     },
+     "at": "En toda Europa se le llama rescate"
+    }
+   ],
+   "gen": "dwXFZCWFAaVRSfK7hbjP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WIHCRyk2spLw3xMuDuci/dwXFZCWFAaVRSfK7hbjP/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=xM__3PMh55uekQ-U93YOKwrzMdY="
+  },
+  {
+   "k": "R",
+   "text": "El crédito es a la banca y lo va a pagar la banca.",
+   "voice": "RAJ",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "El crédito es a la banca y lo va a pagar la banca.",
+      "attrib": "Mariano Rajoy · Congreso de los Diputados, junio de 2012"
+     },
+     "at": "lo va a pagar la banca"
+    }
+   ],
+   "gen": "eN9GCzWgtlRQRdvHE8f3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Nkb9erd0wpVoQ21Xytrf/eN9GCzWgtlRQRdvHE8f3/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=URoxaLIFlEGXu46_sGuRKpUnIjU="
+  },
+  {
+   "k": "R",
+   "text": "Antes, el veintiuno de junio, dos consultoras independientes, Oliver Wyman y Roland Berger, habían calculado lo que necesitaba toda la banca española en el peor escenario: hasta sesenta y dos mil millones de euros.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 62000,
+      "label": "millones que necesitaría la banca española en el peor escenario · junio de 2012",
+      "suffix": " M€"
+     },
+     "at": "hasta sesenta y dos mil millones"
+    }
+   ],
+   "gen": "gxx1hHCCBeeEhs1uJ34o",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Twpe8nH7WMkTh9nBwZsW/gxx1hHCCBeeEhs1uJ34o/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=zJrJBw77mBZUqEq68VaP5cpLlCY="
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Y el veinte de julio de dos mil doce, el Eurogrupo aprueba definitivamente el memorando del rescate bancario español. La fecha no es casualidad del guion. Es un año exacto, día por día, después de que sonara la campana de Bankia.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "calendario"
+     },
+     "at": "un año exacto, día por día"
+    },
+    {
+     "at": "sonara la campana de Bankia"
+    }
+   ],
+   "gen": "MbWXLGlFiaMonLTGE8UA",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uBCCyorjaFQnlwGg6SCA/MbWXLGlFiaMonLTGE8UA/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=b38OfzHuAJ3c8aEdo8en2qGwo50="
+  },
+  {
+   "k": "R",
+   "text": "De ese préstamo europeo, al grupo BFA-Bankia le tocaron casi dieciocho mil millones. El mayor pedazo de todos.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 17959,
+      "label": "millones del rescate europeo para BFA-Bankia",
+      "suffix": " M€"
+     },
+     "at": "casi dieciocho mil millones"
+    }
+   ],
+   "gen": "XdO3ucYyq3hCTQ3nbrGY",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GwilmuyCy5maxp00naZ7/XdO3ucYyq3hCTQ3nbrGY/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=rVQZwjtMicWDYUzuasl_nIhKXsw="
+  },
+  {
+   "k": "N",
+   "text": "[softly] Faltaba saber quién iba a pagar de verdad. Y la respuesta estaba en las oficinas de siempre. En los mismos mostradores donde, un año antes, se habían vendido las acciones.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "at": "quién iba a pagar de verdad"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "mostrador_vacio"
+     },
+     "at": "En los mismos mostradores"
+    }
+   ],
+   "gen": "tBz4uyMqk2gr8XiCOQDO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ifDTV07sp4xc97RluoKn/tBz4uyMqk2gr8XiCOQDO/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Ktit_6xWpNcdd74M9cuYI45CuYI="
+  },
+  {
+   "k": "M",
+   "track": "drama",
+   "secs": 6
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "La factura",
+    "sub": "2012 · 2013",
+    "num": "VI"
+   }
+  },
+  {
+   "k": "B",
+   "track": "drama"
+  },
+  {
+   "k": "N",
+   "text": "Para entender quién pagó, hay que hablar de un producto con nombre amable: las participaciones preferentes. Durante años, las cajas que formaron Bankia las vendieron en sus oficinas como si fueran depósitos a plazo. Pero no lo eran.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "preferentes_mesa"
+     },
+     "at": "las participaciones preferentes"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "PREFERENTES",
+      "sub": "un producto complejo y perpetuo vendido como si fuera un depósito"
+     },
+     "at": "como si fueran depósitos a plazo"
+    }
+   ],
+   "gen": "ZesnzZpaiNVKEagYm0GF",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/b405KfB3jGiomcQGKEMk/ZesnzZpaiNVKEagYm0GF/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=3kIxNaSYDwubs9X_kkVSjD9c85s="
+  },
+  {
+   "k": "R",
+   "text": "Las preferentes eran deuda perpetua de la entidad. Sin fecha de devolución y sin garantía. Los afectados por las preferentes y la deuda subordinada de las cajas de Bankia rondaban los trescientos mil.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 300000,
+      "label": "afectados por preferentes y deuda subordinada de las cajas de Bankia"
+     },
+     "at": "rondaban los trescientos mil"
+    }
+   ],
+   "gen": "KsN7enpmxNJIWtggcxB5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6zInMEAqxCkebRCJWtfe/KsN7enpmxNJIWtggcxB5/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=JTc6I1wP9fI98lOs5SSBBufG0T4="
+  },
+  {
+   "k": "N",
+   "text": "Pongamos un ejemplo. Una jubilada con veinte mil euros ahorrados va a su oficina de siempre. Le ofrecen un producto que paga más que un depósito. Firma. Lo que no le explican es que, si la entidad se hunde, ese dinero puede quedar atrapado sin fecha de salida. Eso es lo que descubrieron, de golpe, cientos de miles de familias.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "at": "Pongamos un ejemplo"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cocina_noche"
+     },
+     "at": "cientos de miles de familias"
+    }
+   ],
+   "gen": "XpKDjcSsHkYmQSGGu68r",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nP0zNLIEu0H6yNHn6zqo/XpKDjcSsHkYmQSGGu68r/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=VUvdgHBE28HnnW_TmtphW-l7rLg="
+  },
+  {
+   "k": "N",
+   "text": "Como condición del rescate europeo, Bruselas impone en dos mil trece que esos inversores asuman pérdidas. Sus preferentes se convierten a la fuerza en acciones de Bankia, con una quita. Y por las calles de media España empieza a verse algo que no se había visto nunca: jubilados manifestándose frente a los bancos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Berlaymont building European Commission Brussels",
+     "src": "commons,loc,europeana",
+     "at": "Bruselas impone",
+     "lt": [
+      "Comisión Europea",
+      "Bruselas"
+     ],
+     "lugar": "berlaymont"
+    },
+    {
+     "photo": "manifestación preferentes",
+     "src": "commons,loc,europeana",
+     "at": "jubilados manifestándose",
+     "lt": [
+      "Protesta de afectados por las preferentes",
+      "España, 2013"
+     ],
+     "lugar": "preferentes"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "pancarta_jubilados"
+     },
+     "at": "frente a los bancos"
+    }
+   ],
+   "gen": "ktnzoR4F5l66heC6GBN3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/c6sIQ8T37l2gxpKqKHue/ktnzoR4F5l66heC6GBN3/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=20ZzckQOwhrg8eRs8chqAHsbgFw="
+  },
+  {
+   "k": "N",
+   "text": "Se abre un arbitraje para quienes demuestren que se les vendió un producto que no entendían. Se presentan más de ciento ochenta mil solicitudes. Unas ciento treinta y siete mil son aceptadas. El resto, a los tribunales.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cola_arbitraje"
+     },
+     "at": "Se abre un arbitraje"
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Solicitudes de arbitraje",
+       "lines": [
+        "182.951"
+       ]
+      },
+      "right": {
+       "title": "Aceptadas",
+       "lines": [
+        "137.359"
+       ]
+      }
+     },
+     "at": "Unas ciento treinta y siete mil"
+    }
+   ],
+   "gen": "ckOlQigXNMiCaDzxTcCG",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/upiWWRSuBwoLIUo7WRQE/ckOlQigXNMiCaDzxTcCG/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=gZ9MjkTI2VX9NgBXm-Zqb3bcZTM="
+  },
+  {
+   "k": "R",
+   "text": "Bankia nunca emitió preferentes: las heredó de las cajas. Pero fue Bankia quien tuvo que pagar. Entre arbitrajes y sentencias, acabó devolviendo unos dos mil ochocientos millones de euros a sus titulares.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 2800,
+      "label": "millones devueltos a titulares de preferentes y subordinadas",
+      "suffix": " M€"
+     },
+     "at": "unos dos mil ochocientos millones"
+    }
+   ],
+   "gen": "9sPYKzMmac9ReqtDkXI1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZxuUv24t6ka0WDPca8WX/9sPYKzMmac9ReqtDkXI1/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=fkKAEQobrITm7hEXKDJmzIVRFK0="
+  },
+  {
+   "k": "R",
+   "text": "Y los accionistas de la salida a bolsa lo ven desde la primera fila. En abril de dos mil trece, el FROB reduce el valor nominal de cada acción a un céntimo y agrupa cien acciones antiguas en una nueva. Justo antes, en marzo, la acción comprada a tres con setenta y cinco rondaba los quince céntimos. Una pérdida del noventa y seis por ciento.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 0.15,
+      "label": "cotización de Bankia · marzo de 2013",
+      "suffix": " €",
+      "dec": 2,
+      "from": 3.75
+     },
+     "at": "rondaba los quince céntimos"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "−96 %",
+      "sub": "lo que perdió una acción comprada en la salida a bolsa"
+     },
+     "at": "Una pérdida del noventa y seis por ciento"
+    }
+   ],
+   "gen": "xXgS09rcR1C9Z41HOSh6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/p3S3Bsq4m8yAYrHGWFaR/xXgS09rcR1C9Z41HOSh6/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=o3ujCXBLe-oDQBYszb3kf1GOM3A="
+  },
+  {
+   "k": "N",
+   "text": "Mil euros invertidos aquel veinte de julio se habían convertido en unos cuarenta. Para muchas familias no era dinero para especular. Eran los ahorros de una vida.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "billete_quema"
+     },
+     "at": "en unos cuarenta"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "foto_familia"
+     },
+     "at": "Eran los ahorros de una vida"
+    }
+   ],
+   "gen": "iA1p4NbUvXjq0P29Ika1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MpQKhDveWvFBJQFNGAwC/iA1p4NbUvXjq0P29Ika1/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=nAXm1T7TLqlhHj9y9pkieEYvvHY="
+  },
+  {
+   "k": "R",
+   "text": "Mientras tanto, el banco se transforma por dentro. En dos mil doce el grupo pierde unos diecinueve mil millones de euros. Traspasa a la Sareb, el llamado banco malo, diecinueve mil trescientos cuarenta y siete millones en pisos, suelo y préstamos. Y su plan anuncia más de seis mil despidos, el veintiocho por ciento de la plantilla, y el cierre de unas mil cien oficinas.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "carpetas_camion"
+     },
+     "at": "la Sareb"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "persiana_baja"
+     },
+     "at": "el cierre de unas mil cien oficinas"
+    }
+   ],
+   "gen": "ly4ElxiWZEihO7m1EPr9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/r6N0csaCwssjS72zrxwq/ly4ElxiWZEihO7m1EPr9/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=5Y8Hcw7_2K_Os2-OsLKqwFN4j2w="
+  },
+  {
+   "k": "N",
+   "text": "Goirigolzarri tiene un encargo: que Bankia sobreviva para que el Estado pueda recuperar algo algún día. Muchos analistas de la época no le daban ninguna posibilidad.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "timon_tormenta"
+     },
+     "at": "que Bankia sobreviva"
+    }
+   ],
+   "gen": "o8TUd2X1l95bbZje3zEt",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VYVk4VlCReErNmWnwxDa/o8TUd2X1l95bbZje3zEt/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=4blDnZJvo4-pkznErrJ7zCb6_WI="
+  },
+  {
+   "k": "N",
+   "text": "Pero la pregunta de fondo seguía en el aire. Si las cuentas con las que Bankia salió a bolsa no reflejaban la realidad, ¿alguien lo sabía? ¿Alguien iba a responder por ello?",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "balanza_justicia"
+     },
+     "at": "Alguien iba a responder por ello"
+    }
+   ],
+   "gen": "8U4ATLH8X87wUKaMB96D",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TCDRAgCSI8hDblqgSPfv/8U4ATLH8X87wUKaMB96D/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=ZCw_H137tHEpdOKVKfCA7pmsesQ="
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El juicio",
+    "sub": "2012 · 2022",
+    "num": "VII"
+   }
+  },
+  {
+   "k": "B",
+   "track": "juicio"
+  },
+  {
+   "k": "N",
+   "text": "Junio de dos mil doce. Un partido político, UPyD, presenta una querella ante la Audiencia Nacional por la salida a bolsa. Poco después se suma una iniciativa ciudadana financiada con pequeñas donaciones, el grupo conocido como Quince eme pa Rato. El juez Fernando Andreu imputa a Rato y a una treintena de antiguos consejeros.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "querella_mesa"
+     },
+     "at": "presenta una querella"
+    },
+    {
+     "photo": "Audiencia Nacional Madrid",
+     "src": "commons,loc,europeana",
+     "at": "la Audiencia Nacional",
+     "lt": [
+      "Audiencia Nacional",
+      "Madrid"
+     ],
+     "lugar": "audiencia"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "donaciones"
+     },
+     "at": "financiada con pequeñas donaciones"
+    }
+   ],
+   "gen": "euRb4wjgf1AGVbFifORv",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IBYda67FgXhRw8AR9vCx/euRb4wjgf1AGVbFifORv/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=I50CmRx8b5wlkAj1RIBwl1Mx1m0="
+  },
+  {
+   "k": "N",
+   "text": "Para la acusación, la idea era sencilla. Si las cuentas de dos mil once tuvieron que rehacerse con casi tres mil millones de pérdidas pocas semanas después, esas pérdidas ya estaban ahí cuando se vendieron las acciones. Para las defensas, todo lo contrario: las cuentas cumplían las normas, estaban supervisadas, y lo que hundió al banco fue la crisis y las nuevas exigencias del Gobierno.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "versus",
+      "left": {
+       "title": "Acusación",
+       "lines": [
+        "las pérdidas ya existían",
+        "cuando se vendieron las acciones"
+       ]
+      },
+      "right": {
+       "title": "Defensas",
+       "lines": [
+        "cuentas supervisadas y legales",
+        "lo hundieron la crisis y los decretos"
+       ]
+      }
+     },
+     "at": "Para la acusación, la idea era sencilla"
+    }
+   ],
+   "gen": "FpCl7z6FKoSb4BDCiT8p",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jYidoEyu9gGLYkqVwJpx/FpCl7z6FKoSb4BDCiT8p/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=FqRuxKAwkTPMkqnCS7FwBtnrLno="
+  },
+  {
+   "k": "R",
+   "text": "Diciembre de dos mil catorce. Dos inspectores del Banco de España, nombrados peritos por el juez, entregan su informe. Concluyen que las cuentas de dos mil once no reflejaban la imagen fiel de la entidad y que parte de los deterioros eran anteriores a la reformulación.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "perito_papeles"
+     },
+     "at": "Dos inspectores del Banco de España"
+    },
+    {
+     "card": {
+      "type": "doc",
+      "title": "Informe pericial",
+      "lines": [
+       "Las cuentas de 2011 no expresaban",
+       "la imagen fiel de BFA y Bankia"
+      ],
+      "source": "Peritos del Banco de España · Audiencia Nacional, diciembre de 2014"
+     },
+     "at": "entregan su informe"
+    }
+   ],
+   "gen": "c5YM1VkUgKXchWwdzqaI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/E4U1ZbMA7BBBAXsaFuPx/c5YM1VkUgKXchWwdzqaI/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=A9WVzhcQdvDSh23hpzOm_NZ16Nw="
+  },
+  {
+   "k": "N",
+   "text": "Mientras la vía penal avanza despacio, miles de pequeños accionistas eligen otro camino: la vía civil. Demandan a Bankia para que se anule la compra de sus acciones. Y en enero de dos mil dieciséis llega el golpe definitivo.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "abogado_maletin"
+     },
+     "at": "la vía civil"
+    },
+    {
+     "photo": "Tribunal Supremo Madrid",
+     "src": "commons,loc,europeana",
+     "at": "en enero de dos mil dieciséis",
+     "lt": [
+      "Tribunal Supremo",
+      "Madrid"
+     ],
+     "lugar": "supremo"
+    }
+   ],
+   "gen": "iIKS7OD3ldVrXUKWHgAd",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IAn0iA7aluR7YEXiHXI3/iIKS7OD3ldVrXUKWHgAd/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=2P8Rn6ierg5gyNOyP3qU-GIBGGQ="
+  },
+  {
+   "k": "R",
+   "text": "El Pleno de la Sala de lo Civil del Tribunal Supremo confirma que el folleto contenía graves inexactitudes. Según el alto tribunal, los pequeños inversores compraron valores de una entidad al borde de la insolvencia, con pérdidas multimillonarias no confesadas.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Compraron valores de una entidad al borde de la insolvencia y pérdidas multimillonarias no confesadas.",
+      "attrib": "Tribunal Supremo, Sala de lo Civil · sentencias de 3 de febrero de 2016"
+     },
+     "at": "al borde de la insolvencia"
+    }
+   ],
+   "gen": "s0kM53fFjVj2221gg0rY",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wkkc2HHQR0ltLK7LXa6Z/s0kM53fFjVj2221gg0rY/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=vlHFHTeOUyzH9AiV-BCpnm3XwxM="
+  },
+  {
+   "k": "R",
+   "text": "Y añade algo que apunta más arriba. Los pequeños inversores no tenían medios para conocer la verdadera situación del banco. Y el folleto había sido autorizado por un organismo público, lo que contribuyó a generar confianza en ellos.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "at": "Los pequeños inversores no tenían medios"
+    }
+   ],
+   "gen": "LSH7E4emHhKEODzZbwMK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TnPYYQvsAIfSNl9WzQMk/LSH7E4emHhKEODzZbwMK/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=KvITjBdU4MRtoRNivVxfKuglk8M="
+  },
+  {
+   "k": "R",
+   "text": "Bankia decide devolver a todos los minoristas de la salida a bolsa su inversión íntegra, más un uno por ciento de interés anual. En pocos meses ya ha devuelto unos mil doscientos millones de euros a más de ciento noventa mil personas.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "carta_buzon"
+     },
+     "at": "su inversión íntegra"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 190000,
+      "label": "pequeños accionistas que recuperan su dinero · 2016",
+      "prefix": "+"
+     },
+     "at": "más de ciento noventa mil personas"
+    }
+   ],
+   "gen": "klnLmCs9YAPB9xvUCchL",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UfNdhI2FYTWFgjtzTEpp/klnLmCs9YAPB9xvUCchL/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=YhYwLy8_RKzOcbgG1eHt5tV9VKg="
+  },
+  {
+   "k": "N",
+   "text": "Pero hay un detalle que muchos pasaron por alto. El dinero para devolver esas acciones salió de un banco que ya era, en su mayoría, del Estado. Es decir, en buena parte, de todos los contribuyentes.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "monedas_mano"
+     },
+     "at": "de todos los contribuyentes"
+    }
+   ],
+   "gen": "oD79urk3JRWuHAgPMRGQ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/t1bWymt9rogkYtYgNUYh/oD79urk3JRWuHAgPMRGQ/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=NyZvmmeHxhxkkcBsrQTrMNWBaK8="
+  },
+  {
+   "k": "B",
+   "track": "ironia"
+  },
+  {
+   "k": "N",
+   "text": "Y en medio de todo esto, estalla otro escándalo. Otoño de dos mil catorce. Se descubre que durante años decenas de consejeros y directivos de Caja Madrid y Bankia usaron tarjetas de crédito que no aparecían en la contabilidad oficial. Las llamarán tarjetas black.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "compras_lujo"
+     },
+     "at": "usaron tarjetas de crédito"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "tarjeta_negra"
+     },
+     "at": "tarjetas black"
+    }
+   ],
+   "gen": "vvC2QfpC25WVlc6u2Gbv",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/u8poZjqqgJrmX8tb4PWZ/vvC2QfpC25WVlc6u2Gbv/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=I7gJcXoYvYs9ew3Dvr0_TmS1VcU="
+  },
+  {
+   "k": "R",
+   "text": "Sesenta y cinco condenados en dos mil diecisiete. Unos doce millones de euros gastados entre dos mil tres y dos mil doce. Joyas, viajes, restaurantes, ropa. Había usuarios propuestos por el Partido Popular, por el PSOE, por Izquierda Unida, por los sindicatos y por la patronal.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Tarjetas black · sentencia de 2017",
+      "items": [
+       [
+        "Condenados",
+        "65"
+       ],
+       [
+        "Miguel Blesa",
+        "6 años de prisión"
+       ],
+       [
+        "Rodrigo Rato",
+        "4 años y medio"
+       ]
+      ]
+     },
+     "at": "Sesenta y cinco condenados"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 12,
+      "label": "millones de euros gastados con las tarjetas black · 2003-2012",
+      "suffix": " M€"
+     },
+     "at": "Unos doce millones de euros"
+    }
+   ],
+   "gen": "YdbRmkN9XmR8QqTo0tOh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KUI8NFpQ2pNxvVY2bMWa/YdbRmkN9XmR8QqTo0tOh/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=bj1udFNScfBtviS5ksm1RfChzzU="
+  },
+  {
+   "k": "R",
+   "text": "Según la sentencia, los consejeros propuestos por el PP gastaron más de dos coma nueve millones. Los propuestos por el PSOE, uno coma tres. Los de Izquierda Unida, más de ochocientos mil euros. El resto, directivos y representantes de otras organizaciones.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Gasto con las tarjetas black por origen del consejero",
+      "items": [
+       [
+        "Propuestos por el PP",
+        "más de 2,9 millones"
+       ],
+       [
+        "Propuestos por el PSOE",
+        "1,34 millones"
+       ],
+       [
+        "Propuestos por IU",
+        "más de 818.000 euros"
+       ]
+      ]
+     },
+     "at": "Según la sentencia, los consejeros"
+    }
+   ],
+   "gen": "58CfR0QFaiZAbKHRQt9p",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GnlflekN6QYCJLrAjEMh/58CfR0QFaiZAbKHRQt9p/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Q_oQtOjj7NncoE44Lu4-MYJH_-o="
+  },
+  {
+   "k": "N",
+   "text": "Miguel Blesa, el antecesor de Rato en Caja Madrid, es condenado a seis años. Fallecerá en dos mil diecisiete, antes de que su condena sea firme. Rato, a cuatro años y medio. El Supremo lo confirma en octubre de dos mil dieciocho.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Miguel Blesa",
+     "src": "commons,loc,europeana",
+     "at": "Miguel Blesa",
+     "lt": [
+      "Miguel Blesa",
+      "Presidente de Caja Madrid (1996-2010)",
+      "banca"
+     ],
+     "lugar": "blesa"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "pasillo_tribunal"
+     },
+     "at": "El Supremo lo confirma"
+    }
+   ],
+   "gen": "2XyU6LEDnHi7luYPNkaR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XMvuSz6t1zZ9VjcQbizc/2XyU6LEDnHi7luYPNkaR/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=_NnRr0ZFpfgXnhfeH066o3clDIU="
+  },
+  {
+   "k": "R",
+   "text": "De los doce millones, nueve coma tres se gastaron en la etapa de Blesa. Dos coma seis, cuando el presidente era Rato. Él mismo, según la sentencia, gastó con su tarjeta casi cien mil euros.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "at": "De los doce millones"
+    }
+   ],
+   "gen": "Q0QjyvNv97kAorR3Eztt",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jwgTpdx2KACIvLkgQSrZ/Q0QjyvNv97kAorR3Eztt/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=376YSO5PRepNhO5ahzWqKmD74dM="
+  },
+  {
+   "k": "B",
+   "track": "drama"
+  },
+  {
+   "k": "N",
+   "text": "[pause] Veinticinco de octubre de dos mil dieciocho. Prisión de Soto del Real, Madrid. El hombre que había dirigido el Fondo Monetario Internacional se para ante las cámaras antes de entrar.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Centro penitenciario Soto del Real",
+     "src": "commons,loc,europeana",
+     "at": "Prisión de Soto del Real",
+     "lt": [
+      "Centro penitenciario Madrid V",
+      "Soto del Real"
+     ],
+     "lugar": "soto"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "puerta_prision"
+     },
+     "at": "se para ante las cámaras"
+    }
+   ],
+   "gen": "ar2WsnTiVIgQlxtlzV15",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/L1S6FO9BnyVy7mJxyz34/ar2WsnTiVIgQlxtlzV15/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=SUuFm2BRUdrczV3BqNXoTlubt48="
+  },
+  {
+   "k": "N",
+   "text": "De vicepresidente del Gobierno a director del Fondo Monetario Internacional. De ahí, a presidente del cuarto banco de España. Y ahora, a una celda. Pocas caídas en la historia reciente de España han sido tan largas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "celda_luz"
+     },
+     "at": "a una celda"
+    }
+   ],
+   "gen": "V3RKrqe5j0Xgq8jgWeiZ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nc4G5suwrJkuaRS1H4Yr/V3RKrqe5j0Xgq8jgWeiZ/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=KJmXp88KWN9mvcR0Njyn3gq0N6I="
+  },
+  {
+   "k": "R",
+   "text": "Pido perdón a la sociedad y a las personas que se hayan podido sentir decepcionadas o afectadas.",
+   "voice": "RAT",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Pido perdón a la sociedad y a las personas que se hayan podido sentir decepcionadas o afectadas.",
+      "attrib": "Rodrigo Rato · Soto del Real, 25 de octubre de 2018"
+     },
+     "at": "Pido perdón"
+    }
+   ],
+   "gen": "wUyyuyG0wl6ohSAl7dW2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IKyjaipVqhlw47lpSPIn/wUyyuyG0wl6ohSAl7dW2/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=r1aqGJWnxbQu7uuoK4Ovl2qzlO4="
+  },
+  {
+   "k": "N",
+   "text": "Ese perdón era por las tarjetas. Por la salida a bolsa, Rato siempre defendió su inocencia. Y ese juicio, el gran juicio de Bankia, empieza en noviembre de dos mil dieciocho, en la sede de la Audiencia Nacional en San Fernando de Henares. Treinta y cuatro acusados. La Fiscalía Anticorrupción pide para Rato ocho años y medio de cárcel.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Audiencia Nacional San Fernando de Henares",
+     "src": "commons,loc,europeana",
+     "at": "San Fernando de Henares",
+     "lt": [
+      "Audiencia Nacional",
+      "San Fernando de Henares"
+     ],
+     "lugar": "audiencia"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "sala_juicio"
+     },
+     "at": "Treinta y cuatro acusados"
+    }
+   ],
+   "gen": "Xh2O6ZcW1ADZJPDuUEmV",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SVI534XiwnPL7K8AGx6P/Xh2O6ZcW1ADZJPDuUEmV/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=3rGQxjT4E-mpmwVDcVdJOH4HKJI="
+  },
+  {
+   "k": "B",
+   "track": "juicio"
+  },
+  {
+   "k": "N",
+   "text": "Por la sala desfilan supervisores, auditores e inspectores. Celma, el auditor, repite ante el tribunal aquella frase: presidente, no va. Y Casaus, el inspector de los correos, describe la salida a bolsa con una imagen muy gráfica.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "at": "Celma, el auditor"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "testigo_estrado"
+     },
+     "at": "Casaus, el inspector de los correos"
+    }
+   ],
+   "gen": "yHMyaCP8CxtLEl5IwQGI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rN81RuxJJftRDEF0IGRg/yHMyaCP8CxtLEl5IwQGI/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=1mOxWVpy8y7lIev5CBmqdjkgFRI="
+  },
+  {
+   "k": "R",
+   "text": "Metes el chute, parece que cumples el capital, pero es un banco que destruía valor cada día.",
+   "voice": "CAS",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Metes el chute, parece que cumples el capital, pero es un banco que destruía valor cada día.",
+      "attrib": "José Antonio Casaus · declaración como testigo, abril de 2019"
+     },
+     "at": "destruía valor cada día"
+    }
+   ],
+   "gen": "5QvjPdyljconHPBEYOWl",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XISrZygKfy1OYvajsN90/5QvjPdyljconHPBEYOWl/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=1mFocWZp0APgcL5ZZBJRSi1bhYU="
+  },
+  {
+   "k": "R",
+   "text": "El exgobernador del Banco de España Miguel Ángel Fernández Ordóñez niega haber recibido aquellos correos. Y Javier Aríztegui, que había sido subgobernador, defiende ante el tribunal que Bankia era un banco importante, con negocio en toda España, que tenía futuro.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "photo": "Miguel Ángel Fernández Ordóñez",
+     "src": "commons,loc,europeana",
+     "at": "Miguel Ángel Fernández Ordóñez",
+     "lt": [
+      "Miguel Ángel Fernández Ordóñez",
+      "Gobernador del Banco de España (2006-2012)",
+      "gobierno"
+     ],
+     "lugar": "mafo"
+    },
+    {
+     "at": "defiende ante el tribunal"
+    }
+   ],
+   "gen": "fOgZDv1PHwcJcLrMrUaU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BW6P9GRawxisVIqL5ApT/fOgZDv1PHwcJcLrMrUaU/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=PNL77as03CAOkdRfJdIHv5EriYY="
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] El juicio termina en octubre de dos mil diecinueve. La sentencia tarda casi un año en llegar. Veintinueve de septiembre de dos mil veinte. La Audiencia Nacional dicta sentencia. Cuatrocientas cuarenta y dos páginas. Y un fallo que sorprende a casi todo el país.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "juez_lee"
+     },
+     "at": "La Audiencia Nacional dicta sentencia"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "folios_sentencia"
+     },
+     "at": "Cuatrocientas cuarenta y dos páginas"
+    }
+   ],
+   "gen": "PSB6tEs7zGvadQzjBm6M",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/29MYoY9JGQgRdpa55ybD/PSB6tEs7zGvadQzjBm6M/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=XlmNmuUXMovu7fnjujgQTYyuBTk="
+  },
+  {
+   "k": "M",
+   "track": "juicio",
+   "secs": 2
+  },
+  {
+   "k": "R",
+   "text": "Absueltos. Los treinta y cuatro. Rato, Olivas, el auditor Celma y todos los consejeros.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "ABSUELTOS",
+      "sub": "los 34 acusados por la salida a bolsa · 29 de septiembre de 2020"
+     },
+     "at": "Absueltos"
+    }
+   ],
+   "gen": "wob0i00xxscIChWJEEg0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zpl3hyQ3ppqLxDFFzLD4/wob0i00xxscIChWJEEg0/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=4EyBrzY2n-6wUE8gPxAb3n_diBc="
+  },
+  {
+   "k": "R",
+   "text": "El tribunal destaca que la salida a bolsa contó con la aprobación de todos los supervisores: el Banco de España, la Comisión Nacional del Mercado de Valores, el FROB y la Autoridad Bancaria Europea. Y sobre Rato escribe que la descripción de hechos concretos y suficientemente acreditados contra él brilla por su ausencia.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "La salida a bolsa contó con el visto bueno de",
+      "items": [
+       [
+        "Banco de España",
+        "supervisor bancario"
+       ],
+       [
+        "CNMV",
+        "supervisor de los mercados"
+       ],
+       [
+        "FROB",
+        "fondo de rescate"
+       ],
+       [
+        "Autoridad Bancaria Europea",
+        "EBA"
+       ]
+      ]
+     },
+     "at": "la aprobación de todos los supervisores"
+    },
+    {
+     "card": {
+      "type": "quote",
+      "text": "La descripción de hechos concretos y suficientemente acreditados (…) brilla por su ausencia.",
+      "attrib": "Sentencia de la Audiencia Nacional · 29 de septiembre de 2020"
+     },
+     "at": "brilla por su ausencia"
+    }
+   ],
+   "gen": "f4tqioPiIpYZ6t0na5mz",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YW0jMyyEgTRxk8eEYXly/f4tqioPiIpYZ6t0na5mz/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=GLU1xashrYPfjggY6IsamB1DOd4="
+  },
+  {
+   "k": "N",
+   "text": "Dos años después, en octubre de dos mil veintidós, el Tribunal Supremo confirma las absoluciones. Ya es firme. Nadie ha sido condenado penalmente por la salida a bolsa de Bankia.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "at": "el Tribunal Supremo confirma las absoluciones"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "FIRME",
+      "sub": "el Supremo confirma las absoluciones · octubre de 2022"
+     },
+     "at": "Ya es firme"
+    }
+   ],
+   "gen": "kDl9bnvE1hIXWP3wFnwR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8jYPm5gb8g3yv3Y6oud5/kDl9bnvE1hIXWP3wFnwR/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=ntOQiYz_DjxO0BoIhzf1ZLrr144="
+  },
+  {
+   "k": "R",
+   "text": "El Supremo escribe que no advierte error palmario alguno en el razonamiento de la Audiencia. Aunque admite que son posibles otras valoraciones de los mismos hechos.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "No se advierte error palmario alguno.",
+      "attrib": "Tribunal Supremo, Sala de lo Penal · octubre de 2022"
+     },
+     "at": "no advierte error palmario alguno"
+    }
+   ],
+   "gen": "7WG1v0udPIDSXZqeBLCw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/K5l11azMmwVPLtFqhALU/7WG1v0udPIDSXZqeBLCw/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=fJe7bbLGVx5-B8zNa8r145ZAI8Y="
+  },
+  {
+   "k": "R",
+   "text": "Ya en dos mil veinte, al conocer la absolución, la plataforma ciudadana que había impulsado la causa reaccionó con un comunicado que pedía un cambio en las leyes y resumía el sentimiento de muchos afectados en una frase: nunca más un caso Bankia.",
+   "voice": "PRE",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "asamblea_vecinal"
+     },
+     "at": "nunca más un caso Bankia"
+    }
+   ],
+   "gen": "An5QWsjSab0xIZoxPWYb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VNOlak60b0kwDsOMnr9D/An5QWsjSab0xIZoxPWYb/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=xYWtMa6JFuJEVIHjWO_wvdT2dLM="
+  },
+  {
+   "k": "N",
+   "text": "[softly] Y así queda una paradoja difícil de explicar. La justicia civil dijo que el folleto engañó a los pequeños inversores y obligó a devolverles el dinero. La justicia penal dijo que no se probó que nadie cometiera un delito. Las dos sentencias son firmes. Y las dos conviven.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Vía civil · 2016",
+       "lines": [
+        "El folleto indujo a error",
+        "Hay que devolver el dinero"
+       ]
+      },
+      "right": {
+       "title": "Vía penal · 2020-2022",
+       "lines": [
+        "No se prueba ningún delito",
+        "Los 34, absueltos"
+       ]
+      },
+      "strike": false
+     },
+     "at": "una paradoja difícil de explicar"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "dos_puertas"
+     },
+     "at": "Y las dos conviven"
+    }
+   ],
+   "gen": "Tm4gYNNl0QZGoGCwie34",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/j3Fh1tnUyIjuiNmLAdv2/Tm4gYNNl0QZGoGCwie34/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=9lsULhQpmBcORRlkzxUMgrpNjsc="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Y la historia de Rato con Bankia todavía guardaba un capítulo más. ¿Recuerdas la gran campaña publicitaria de la salida a bolsa?",
+   "voice": "NEW",
+   "shots": [
+    {
+     "at": "la gran campaña publicitaria"
+    }
+   ],
+   "gen": "Fdf8cCqW8Cj9Bw4fa8xW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Xw0hqKgA7Bv96lPCHXCY/Fdf8cCqW8Cj9Bw4fa8xW/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=DdnpJPXjbi9LueLBQJDX5Muf5Xc="
+  },
+  {
+   "k": "R",
+   "text": "Diciembre de dos mil veinticuatro. La Audiencia Provincial de Madrid condena a Rodrigo Rato a cuatro años, nueve meses y un día de prisión por tres delitos fiscales, blanqueo de capitales y corrupción entre particulares. Entre los hechos que da por probados: que impuso que Bankia contratara a dos agencias de publicidad, Publicis y Zenith, a cambio de comisiones.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Sentencia de la Audiencia Provincial de Madrid",
+      "lines": [
+       "4 años, 9 meses y 1 día de prisión",
+       "Delitos fiscales, blanqueo y corrupción entre particulares"
+      ],
+      "source": "20 de diciembre de 2024 · recurrida ante el Tribunal Supremo"
+     },
+     "at": "Diciembre de dos mil veinticuatro"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "agencia_contrato"
+     },
+     "at": "a cambio de comisiones"
+    }
+   ],
+   "gen": "7VGx6bNneGNgsss7fgYk",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Yl7eGsAB6n3ocMArvfQZ/7VGx6bNneGNgsss7fgYk/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=NLyQcFjq6r2pDU5Z6_b-abUVUDo="
+  },
+  {
+   "k": "N",
+   "text": "La Fiscalía pedía muchos más años. Rato anunció que recurriría la sentencia ante el Tribunal Supremo, por lo que no es firme mientras el alto tribunal no se pronuncie.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "escalones_supremo"
+     },
+     "at": "no es firme"
+    }
+   ],
+   "gen": "c0Zg8Ae8YDwNVvkDQ2qO",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/v5rfsr3gGLcm8ogEI9YB/c0Zg8Ae8YDwNVvkDQ2qO/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=7ZxsOe_vuxR5Qr8w3pvsnWmx4Tg="
+  },
+  {
+   "k": "T",
+   "secs": 4.5,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El final",
+    "sub": "2013 · 2021",
+    "num": "VIII"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "¿Y Bankia? Contra casi todos los pronósticos, sobrevivió. Con Goirigolzarri al frente volvió a dar beneficios y empezó a devolver dividendos a su principal accionista, el Estado.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "amanecer_torres"
+     },
+     "at": "sobrevivió"
+    },
+    {
+     "photo": "José Ignacio Goirigolzarri",
+     "src": "commons,loc,europeana",
+     "at": "Con Goirigolzarri al frente",
+     "lt": [
+      "José Ignacio Goirigolzarri",
+      "Presidente de Bankia (2012-2021)",
+      "banca"
+     ],
+     "lugar": "goiri"
+    }
+   ],
+   "gen": "nOGdQdrSOriWhN7KJSw2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/J0CUKqnP7ClM9jBHPvJx/nOGdQdrSOriWhN7KJSw2/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=JYHujBndDicKODLJHyumnPYiKio="
+  },
+  {
+   "k": "R",
+   "text": "En dos mil dieciocho absorbe a otra entidad rescatada, Banco Mare Nostrum. Y en dos mil veinte, en plena pandemia, llega la noticia que cierra el círculo.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "fusion_puentes"
+     },
+     "at": "Banco Mare Nostrum"
+    }
+   ],
+   "gen": "etjdjEx0rFEAkj7KUfey",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RfFUz4W45K2ZjzKJrXkD/etjdjEx0rFEAkj7KUfey/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=hm7EGfJU7e5f1QpVq9ot_gsh4IU="
+  },
+  {
+   "k": "N",
+   "text": "En septiembre de dos mil veinte se anuncia: CaixaBank absorbe a Bankia. El veintiséis de marzo de dos mil veintiuno, la acción cotiza por última vez. Tres mil quinientos treinta y siete días después de aquella campana.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "CaixaBank sede Valencia",
+     "src": "commons,loc,europeana",
+     "at": "CaixaBank absorbe a Bankia",
+     "lt": [
+      "CaixaBank",
+      "sede social en Valencia"
+     ],
+     "lugar": "caixabank"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 3400,
+      "to": 3537,
+      "label": "días cotizó Bankia en bolsa · 2011-2021"
+     },
+     "at": "Tres mil quinientos treinta y siete días"
+    }
+   ],
+   "gen": "PJULNNpp3oLHiMHd0MA1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JmY5tHSPE5AblX4Lru5k/PJULNNpp3oLHiMHd0MA1/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=pGJ4e8Mb6O8RA_aO-gLkfZrho5k="
+  },
+  {
+   "k": "R",
+   "text": "El Estado se queda con algo más del dieciséis por ciento del nuevo CaixaBank. Ha cobrado dividendos durante estos años. Pero de los más de veintidós mil millones que puso en Bankia, la mayor parte sigue sin recuperarse. Y el propio Gobierno ha reconocido que se está lejos de recuperarlo. Goirigolzarri, por su parte, pasa a presidir el nuevo gigante.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "16 %",
+      "sub": "participación del Estado en CaixaBank tras la fusión"
+     },
+     "at": "algo más del dieciséis por ciento"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "caja_vacia_luz"
+     },
+     "at": "la mayor parte sigue sin recuperarse"
+    }
+   ],
+   "gen": "6FgCrnSsgsQ4zS882Xd5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Pi6WY7RretmajzuPGTLC/6FgCrnSsgsQ4zS882Xd5/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=hE6Su9jpSmratOFE448cHIT5VhA="
+  },
+  {
+   "k": "N",
+   "text": "Recapitulemos. Siete cajas se unieron porque no podían sobrevivir solas. Un banco salió a bolsa con el aval de todos los supervisores. Trescientas cuarenta y siete mil personas compraron. Diez meses después, el Estado tuvo que poner veintidós mil millones. Los tribunales civiles devolvieron el dinero a los pequeños accionistas. Los penales no condenaron a nadie.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "title": "Diez meses que costaron 22.424 millones",
+      "items": [
+       [
+        "Siete cajas, un banco",
+        "julio de 2010"
+       ],
+       [
+        "La campana",
+        "20 de julio de 2011 · 3,75 €"
+       ],
+       [
+        "El rescate",
+        "25 de mayo de 2012 · 19.000 millones"
+       ],
+       [
+        "Los tribunales",
+        "devolución en 2016 · absolución en 2020"
+       ]
+      ]
+     },
+     "at": "Recapitulemos"
+    }
+   ],
+   "gen": "3yhjl0drxSRcISlcZbNy",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PetQgSupcZwLV3pnDNsb/3yhjl0drxSRcISlcZbNy/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=VSiOJ2lp1liiypi8H46Mcg2p-n0="
+  },
+  {
+   "k": "N",
+   "text": "Quedan las preguntas. ¿Por qué se ignoraron los avisos? ¿Por qué nadie paró una operación que un inspector ya llamaba bombona de oxígeno? ¿Y por qué, cuando todo se vino abajo, la factura acabó repartida entre los ahorradores y los contribuyentes?",
+   "voice": "NAR",
+   "shots": [
+    {
+     "at": "Por qué se ignoraron los avisos"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ahorradores_contribuyentes"
+     },
+     "at": "entre los ahorradores y los contribuyentes"
+    }
+   ],
+   "gen": "6NCOhHj4rdGK8fBpT31s",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9UPzAL84RaqF2nLbHx0R/6NCOhHj4rdGK8fBpT31s/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=WJ5c8MxGhfGbZkUoIVbrwzbuShA="
+  },
+  {
+   "k": "N",
+   "text": "Hay una lección que sirve para cualquiera que tenga unos ahorros. Que una inversión la venda tu oficina de siempre, que la anuncie la televisión y que la apruebe el supervisor, no la convierte en segura. Leer la letra pequeña, y preguntar por ella, sigue siendo tu mejor protección.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "lupa_letra"
+     },
+     "at": "Leer la letra pequeña"
+    }
+   ],
+   "gen": "FDRYweXkjvTIcOUNAORV",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oNOgz3ePci77w1Rb04Zf/FDRYweXkjvTIcOUNAORV/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=N0LSkqYVSUjy6EEYfPj4ovGtmJ8="
+  },
+  {
+   "k": "N",
+   "text": "Algunas cosas sí cambiaron. Las cajas de ahorros, tal y como existían, desaparecieron: se convirtieron en bancos o en fundaciones. Y desde noviembre de dos mil catorce, los grandes bancos de la zona euro los supervisa directamente el Banco Central Europeo, desde Fráncfort.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "European Central Bank headquarters Frankfurt",
+     "src": "commons,loc,europeana",
+     "at": "el Banco Central Europeo",
+     "lt": [
+      "Banco Central Europeo",
+      "Fráncfort"
+     ],
+     "lugar": "bce"
+    }
+   ],
+   "gen": "UUMuPfUmVVOwgP6WDB6e",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Z592rmcv5GVpdTo9SFRT/UUMuPfUmVVOwgP6WDB6e/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=YQMsBRE_MbiXrSdst5qBaYVZwUA="
+  },
+  {
+   "k": "N",
+   "text": "Muchos de aquellos trescientos cuarenta y siete mil accionistas recuperaron su dinero gracias a los tribunales civiles. Otros, los que compraron más tarde en la bolsa, no tuvieron esa suerte. Y todos, como contribuyentes, pagaron una parte del rescate. Sin haber firmado nada.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "at": "Sin haber firmado nada"
+    }
+   ],
+   "gen": "m8rtkt7FeXuX0paahG9H",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/LqzpzH7OrNudd46ZniTD/m8rtkt7FeXuX0paahG9H/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Ko6U0GnnzEMByTvvuuoVlenxkdQ="
+  },
+  {
+   "k": "N",
+   "text": "[pause] El veinte de julio de dos mil once, una campana sonó en la Bolsa de Madrid. Prometía un banco nuevo, sólido y de todos. En cierto modo, la promesa se cumplió. Bankia acabó siendo de todos. Pero no como nadie había imaginado.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "at": "una campana sonó en la Bolsa de Madrid"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "campana_silencio"
+     },
+     "at": "Pero no como nadie había imaginado"
+    }
+   ],
+   "gen": "w8ni4b15LlnpfHdUJEE2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BjOeZXklVS7kkXPQVwod/w8ni4b15LlnpfHdUJEE2/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=If188LNCrkv9nHUnpMlkKwAqY1A="
+  },
+  {
+   "k": "N",
+   "text": "Si este documental te ha hecho pensar, suscríbete a DocuVox y cuéntanos en los comentarios: ¿tú o alguien de tu familia compró acciones o preferentes de Bankia?",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "salon_noche"
+     },
+     "at": "suscríbete a DocuVox"
+    }
+   ],
+   "gen": "Wu5sPZ7nfRtwcIyCIoO5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4b0VBQ6SPntjfxm7WSKS/Wu5sPZ7nfRtwcIyCIoO5/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=0cKwY4tIb7CP5RIiCHarCbBeqt0="
+  }
+ ]
+}

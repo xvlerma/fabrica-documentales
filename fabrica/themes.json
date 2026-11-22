@@ -711,5 +711,84 @@
   "tracking": 0.06,
   "rule": "bar",
   "grade": "neutro"
+ },
+ "bolsa": {
+  "uso": "Thriller financiero contemporáneo: bolsa, bancos, juicios (siglo XXI)",
+  "accent": [
+   86,
+   206,
+   142
+  ],
+  "text": [
+   236,
+   236,
+   228
+  ],
+  "dim": [
+   150,
+   156,
+   150
+  ],
+  "alert": [
+   226,
+   62,
+   54
+  ],
+  "bg0": [
+   8,
+   12,
+   11
+  ],
+  "bg1": [
+   26,
+   36,
+   32
+  ],
+  "sea": [
+   14,
+   22,
+   20
+  ],
+  "land": [
+   52,
+   60,
+   56
+  ],
+  "coast": [
+   150,
+   160,
+   150
+  ],
+  "river": [
+   80,
+   110,
+   100
+  ],
+  "paper": [
+   234,
+   230,
+   220
+  ],
+  "ink": [
+   18,
+   22,
+   20
+  ],
+  "string": [
+   226,
+   62,
+   54
+  ],
+  "fonts": {
+   "display": "gf:ofl/bebasneue/BebasNeue-Regular.ttf",
+   "display_light": "gf:ofl/librefranklin/LibreFranklin[wght].ttf@500",
+   "body": "gf:ofl/librefranklin/LibreFranklin[wght].ttf@400",
+   "italic": "gf:ofl/librefranklin/LibreFranklin-Italic[wght].ttf@400",
+   "body_bold": "gf:ofl/librefranklin/LibreFranklin[wght].ttf@700"
+  },
+  "case": "upper",
+  "tracking": 0.08,
+  "rule": "bar",
+  "grade": "frio"
  }
 }

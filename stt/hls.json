@@ -27,12 +27,6 @@
   "name": "h10_urda",
   "src": "https://smultimedia.lamoncloa.gob.es/presidencia/smil/videos/smil:20261028-Intervencion_PG.smil/playlist.m3u8",
   "ss": 0,
-  "dur": 900
- },
- {
-  "name": "h15d_indicio",
-  "src": "https://smultimedia.lamoncloa.gob.es/presidencia/smil/videos/smil:25/20250618-Respuesta_Vox.smil/playlist.m3u8",
-  "ss": 0,
-  "dur": 300
+  "dur": 260
  }
 ]

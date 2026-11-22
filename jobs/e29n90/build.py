@@ -8,6 +8,24 @@ U = copy.deepcopy(G.U); AI = json.load(open(os.path.join(HERE, 'ai_urls.json')))
 H = lambda t: hashlib.md5(t.encode()).hexdigest()[:10]
 EXTRA = {57: ['«Rectificar»', 'Decisiones diferentes a las que dijo antes de las elecciones'],
          226: ['Plus Ultra · 53 millones de euros', 'Préstamo del Fondo de apoyo a la solvencia (SEPI)', 'Defensa del Gobierno: «salvó 60.000 empleos»']}
+# cortes del inventario que faltaban (todos verificados por transcripción)
+def after(pred, new):
+    j = next(k for k, u in enumerate(U) if pred(u)); U[j + 1:j + 1] = new
+isC = lambda name: (lambda u: u['k'] == 'C' and u['src'].endswith(name))
+after(lambda u: u['k'] == 'C' and u['src'].endswith('clip_35_bildu_no_vamos_a_pactar.mp4') and u.get('out') == 5.5,
+      [dict(k='C', src='media/e29n90/cortes/clip_35b_bildu_navarratv.mp4', lt=['Pedro Sánchez', 'RESPUESTA REAL · Navarra TV · 2015'], fuente='cita', **{'in': 2.3, 'out': 7.3})])
+after(isC('clip_33_no_entra_constitucion.mp4'),
+      [dict(k='M', track='tension', secs=3, shots=[{'card': {'type': 'aviso', 'lines': ['Un año después', '15/11/2023 · Debate de investidura'], 'head': True, 'size': 52}}]),
+       dict(k='C', src='media/e29n90/cortes/clip_33b_acorde_constitucion.mp4', audio_only=True, quote='La amnistía que planteamos es perfectamente legal. Es acorde con la Constitución.',
+            lt=['Pedro Sánchez', 'RESPUESTA REAL · Debate de investidura · Congreso · 15/11/2023 (audio)'], fuente='cita', **{'in': 0.0, 'out': 5.9})])
+after(isC('clip_36b_nogueras_bloqueado.mp4'),
+      [dict(k='C', src='media/e29n90/decl/ul_puigdemont_perpinan__02.mp4', lt=['Carles Puigdemont (Junts)', 'Perpiñán · octubre de 2025 · anuncia la ruptura con el PSOE'], fuente='cita', **{'in': 88.3, 'out': 123.7}),
+       dict(k='M', track='tension', secs=4.5, shots=[{'card': {'type': 'quote', 'text': '«Romper el apoyo al Partido Socialista. Ejercer la oposición.»', 'attrib': 'Carles Puigdemont · Perpiñán · octubre de 2025 · traducido del catalán'}}])])
+after(isC('clip_19d_1_vinculacion.mp4'),
+      [dict(k='C', src='media/e29n90/cortes/clip_19d_2_aldama.mp4', lt=['Mercedes Zarzalejo (PP)', 'Asamblea de Madrid · 13/11/2024 · pregunta'], fuente='cita', **{'in': 0.4, 'out': 16.2})])
+for u in U:
+    if u['k'] in ('N', 'R') and 'registra la oficina' in u.get('text', ''):
+        u['shots'].insert(1, {'file': 'media/e29n90/broll/ul_zapatero_registro__01.mp4', 'start': 3, 'at': 'registra'})
 faltan = []
 for i, u in enumerate(U):
     for s in u.get('shots', []):

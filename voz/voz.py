@@ -4,8 +4,12 @@ import numpy as np
 from faster_whisper import WhisperModel
 chunks = json.load(open('jobs/e29n90/voz_chunks.json')); urls = json.load(open('voz_urls.json'))
 OUT = sys.argv[1]; os.makedirs(f'{OUT}/media/e29n90/voz', exist_ok=True); os.makedirs('/tmp/vz', exist_ok=True)
+from num2words import num2words
 def norm(t):
-    t = re.sub(r'\[[^\]]*\]', ' ', t); t = unicodedata.normalize('NFD', t.lower())
+    t = re.sub(r'\[[^\]]*\]', ' ', t)
+    t = re.sub(r'(\d+)[.,](\d+)', lambda m: m.group(1) + ' coma ' + m.group(2), t)
+    t = re.sub(r'\d+', lambda m: ' ' + num2words(int(m.group()), lang='es') + ' ', t)
+    t = unicodedata.normalize('NFD', t.lower())
     t = ''.join(c for c in t if unicodedata.category(c) != 'Mn')
     return re.findall(r'[a-z0-9]+', t)
 def pcm(f):
@@ -46,9 +50,10 @@ for c in chunks:
         a = tpos(starts[n] - 1, False); b = tpos(starts[n], True)
         ea = W[ti[a]][1] if a is not None else cuts[-1]; sb = W[ti[b]][0] if b is not None else dur
         est = (ea + sb) / 2
-        cand = [(abs((s + e) / 2 - est), s, e) for s, e in S if e - s >= 0.6 and (s + e) / 2 > cuts[-1] + 0.5]
-        cand.sort()
-        cut = (cand[0][1] + cand[0][2]) / 2 if cand and cand[0][0] < 4 else est
+        cand = sorted([(e - s, s, e) for s, e in S if e > ea - 0.05 and s < sb + 0.05 and (s + e) / 2 > cuts[-1] + 0.5], reverse=True)
+        if cand: s_, e_ = max(cand[0][1], ea - 0.05), min(cand[0][2], sb + 0.05); cut = (s_ + e_) / 2
+        else: cut = est
+        if a is None or b is None: print(cid, 'aviso: sin anclas en unidad', n, flush=True)
         cuts.append(cut)
     cuts.append(dur); r = []
     for n, un in enumerate(c['units']):

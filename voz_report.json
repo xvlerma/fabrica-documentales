@@ -1,0 +1,1382 @@
+{
+ "v00": {
+  "dur": 221.44,
+  "units": [
+   {
+    "key": "2eccf2f251",
+    "a": 0.0,
+    "b": 5.51,
+    "ratio": 1.0,
+    "oye": "La  misma  palabra,  once  años  después,  con  los  papeles  cambiados.",
+    "txt": "[serious] La misma palabra. [pause] Once años después. [short pause] Con los papeles cambiados."
+   },
+   {
+    "key": "9b0a8b130b",
+    "a": 5.51,
+    "b": 19.66,
+    "ratio": 1.0,
+    "oye": "Pide  perdón,  y  en  la  misma  frase  se  declara  limpio,  las  dos  cosas  a  la  vez.  Es  una  fórmula  que  ha  repetido  en  estos  ocho  años,  disculpas  por  lo  ocurrido  a  su  alrededor  y  la  defensa  firme  de  su  integridad  personal.",
+    "txt": "[serious] Pide perdón. [short pause] Y en la misma frase se declara limpio. [pause] Las dos cosas a la vez. Es una fórmula que ha repetido en estos ocho años: disculpas por lo ocurrido a su alrededor, y la defensa firme de su integridad personal."
+   },
+   {
+    "key": "845c556f55",
+    "a": 19.66,
+    "b": 31.83,
+    "ratio": 1.0,
+    "oye": "Hay  preguntas  que  nadie  le  hizo  así,  una  detrás  de  otra.  Se  las  vamos  a  hacer,  y  le  vamos  a  dejar  contestar  a  él,  con  sus  respuestas  reales,  con  su  fecha,  y  con  lo  que  pasó  después.",
+    "txt": "[softly] Hay preguntas que nadie le hizo así, una detrás de otra. [pause] Se las vamos a hacer. [short pause] Y le vamos a dejar contestar a él. Con sus respuestas reales. Con su fecha. Y con lo que pasó después."
+   },
+   {
+    "key": "5883267bd2",
+    "a": 31.83,
+    "b": 35.63,
+    "ratio": 1.0,
+    "oye": "Pedro  Sánchez,  la  entrevista  que  nadie  le  hizo,",
+    "txt": "Pedro Sánchez. [pause] La entrevista que nadie le hizo."
+   },
+   {
+    "key": "f4e027abd3",
+    "a": 35.63,
+    "b": 57.28,
+    "ratio": 0.96,
+    "oye": "cinco  veces,  si  hacía  falta.  El  20  de  mayo  de  2020,  en  plena  pandemia,  el  PSOE  firmó  con  Unidas  Podemos  y  con  E .H.  Bildu  un  acuerdo  para  derogar  la  reforma  laboral.  Bildu  se  convirtió  después  en  uno  de  los  apoyos  estables  de  su  gobierno  en  el  Congreso. ",
+    "txt": "[serious] Cinco veces, si hacía falta. [pause] El veinte de mayo de dos mil veinte, en plena pandemia, el PSOE firmó con Unidas Podemos y con EH Bildu un acuerdo para derogar la reforma laboral. Bildu se convirtió después en uno de los apoyos estables de su Gobierno en el Congreso. Y en diciembre de"
+   },
+   {
+    "key": "417c731b7a",
+    "a": 57.28,
+    "b": 69.26,
+    "ratio": 1.0,
+    "oye": "Siete  semanas  después,  el  10  de  noviembre,  se  celebran  las  elecciones.  48  horas  más  tarde,  el  12  de  noviembre,  Sánchez  e  Iglesias  firman  un  preacuerdo  de  gobierno.  Y  se  abrazan.",
+    "txt": "Siete semanas después, el diez de noviembre, se celebran las elecciones. [short pause] Cuarenta y ocho horas más tarde, el doce de noviembre, Sánchez e Iglesias firman un preacuerdo de Gobierno. Y se abrazan."
+   },
+   {
+    "key": "7c7eb7045d",
+    "a": 69.26,
+    "b": 77.29,
+    "ratio": 1.0,
+    "oye": "Y  tres  semanas  después,  en  el  debate  electoral  de  televisión  española,  fue  más  lejos.  Habló  de  Carles  Puigdemont,  que  había  huido  a  Bélgica.",
+    "txt": "Y tres semanas después, en el debate electoral de Televisión Española, fue más lejos. Habló de Carles Puigdemont, que había huido a Bélgica."
+   },
+   {
+    "key": "aef00bb094",
+    "a": 77.29,
+    "b": 86.34,
+    "ratio": 1.0,
+    "oye": "Y  año  y  medio  antes,  en  mayo  de  2018,  todavía  en  la  oposición,  le  habían  preguntado  en  Antena  3  si  lo  ocurrido  en  el  Parlamento  catalán  era  rebelión.",
+    "txt": "Y año y medio antes, en mayo de dos mil dieciocho, todavía en la oposición, le habían preguntado en Antena Tres si lo ocurrido en el Parlamento catalán era rebelión."
+   },
+   {
+    "key": "873e42b7dd",
+    "a": 86.34,
+    "b": 92.08,
+    "ratio": 1.0,
+    "oye": "Cuando  le  preguntaron  por  ellos,  el  28  de  junio  de  2021  dio  esta  respuesta.",
+    "txt": "Cuando le preguntaron por ellos, el veintiocho de junio de dos mil veintiuno, dio esta respuesta."
+   },
+   {
+    "key": "fd66a85d0d",
+    "a": 92.08,
+    "b": 112.48,
+    "ratio": 0.98,
+    "oye": "Ocho  meses  después,  el  23  de  julio  de  2023,  Sánchez  pierde  las  elecciones  frente  al  Partido  Popular.  Pero  puede  seguir  gobernando.  Le  faltan  siete  votos.  Los  de  Junz,  el  partido  de  Puigdemont.  El  28  de  octubre,  ante  el  Comité  Federal  del  PSOE,  anuncia  la  a",
+    "txt": "[serious] Ocho meses después, el veintitrés de julio de dos mil veintitrés, Sánchez pierde las elecciones frente al Partido Popular. Pero puede seguir gobernando. Le faltan siete votos: los de Junts, el partido de Puigdemont. [pause] El veintiocho de octubre, ante el Comité Federal del PSOE, anuncia"
+   },
+   {
+    "key": "e4bf012afe",
+    "a": 112.48,
+    "b": 122.27,
+    "ratio": 0.98,
+    "oye": "votó  la  investidura.  Y  dos  años  después,  en  octubre  de  2025,  rompió  con  el  gobierno.  Su  portavoz  en  el  Congreso,  Miriam  Nogueras,  lo  dijo  así.",
+    "txt": "Junts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, rompió con el Gobierno. Su portavoz en el Congreso, Míriam Nogueras, lo dijo así."
+   },
+   {
+    "key": "9eb5c8c656",
+    "a": 122.27,
+    "b": 130.75,
+    "ratio": 1.0,
+    "oye": "El  13  de  noviembre,  en  un  podcast  con  millones  de  seguidores,  le  preguntaron  por  todos  estos  giros.  ¿Por  qué  un  votante  debería  creer  lo  que  promete  ahora?",
+    "txt": "[serious] El trece de noviembre, en un pódcast con millones de seguidores, le preguntaron por todos estos giros. Por qué un votante debería creer lo que promete ahora."
+   },
+   {
+    "key": "0fb61d89f1",
+    "a": 130.75,
+    "b": 142.3,
+    "ratio": 1.0,
+    "oye": "No  era  una  idea  nueva.  En  julio  de  2023,  en  plena  campaña,  se  sentó  en  el  hormiguero.  Pablo  Motos  le  preguntó  por  qué  decían  que  mentía  tanto.  Esta  fue  su  definición  de  mentir.",
+    "txt": "No era una idea nueva. En julio de dos mil veintitrés, en plena campaña, se sentó en El Hormiguero. Pablo Motos le preguntó por qué decían que mentía tanto. Esta fue su definición de mentir."
+   },
+   {
+    "key": "ccd4e058ba",
+    "a": 142.3,
+    "b": 151.56,
+    "ratio": 1.0,
+    "oye": "Decisiones  diferentes  a  las  que  dijo  antes  de  las  elecciones.  Él  lo  llama  rectificar.  Lo  que  el  votante  escuchó  antes  de  votar  fue  otra  cosa.",
+    "txt": "[serious] Decisiones diferentes a las que dijo antes de las elecciones. [pause] Él lo llama rectificar. Lo que el votante escuchó antes de votar fue otra cosa."
+   },
+   {
+    "key": "397bd0afee",
+    "a": 151.56,
+    "b": 163.27,
+    "ratio": 1.0,
+    "oye": "Pero  el  cambio  de  opinión  que  más  caro  le  ha  salido  no  fue  sobre  una  ley.  Fue  sobre  un  hombre,  un  hombre  al  que  eligió  él.  Y  que  hoy  está  condenado  a  24  años  de  prisión.",
+    "txt": "[serious] Pero el cambio de opinión que más caro le ha salido no fue sobre una ley. [pause] Fue sobre un hombre. Un hombre al que eligió él. [short pause] Y que hoy está condenado a veinticuatro años de prisión."
+   },
+   {
+    "key": "62223bcafe",
+    "a": 163.27,
+    "b": 185.45,
+    "ratio": 0.91,
+    "oye": "22  de  junio  de  2026,  Tribunal  Supremo,  siete  magistrados  por  unanimidad.  José  Luis  Ávalos,  ex  ministro  de  transportes  y  ex  secretario  de  organización  del  PSOE.  24  años  y  tres  meses  de  prisión.  Coldo  García,  su  asesor.  19  años  y  ocho  meses.  El  empresario  Víc",
+    "txt": "[serious] Veintidós de junio de dos mil veintiséis. Tribunal Supremo. Siete magistrados, por unanimidad. José Luis Ábalos, exministro de Transportes y exsecretario de Organización del PSOE: veinticuatro años y tres meses de prisión. Koldo García, su asesor: diecinueve años y ocho meses. El empresari"
+   },
+   {
+    "key": "6887fd7dbc",
+    "a": 185.45,
+    "b": 209.48,
+    "ratio": 0.95,
+    "oye": "Otoño  de  2016.  Sánchez  acaba  de  perder  la  Secretaría  General  del  PSOE  tras  un  comité  federal  a  gritos.  Sin  cargo,  decide  recorrer  España  en  su  coche  para  recuperar  el  partido.  Agrupación  por  agrupación.  Él  mismo  lo  contó  en  su  libro,  Manual  de  Resistencia.  ",
+    "txt": "Otoño de dos mil dieciséis. Sánchez acaba de perder la secretaría general del PSOE tras un Comité Federal a gritos. Sin cargo, decide recorrer España en su coche para recuperar el partido, agrupación por agrupación. Él mismo lo contó en su libro, Manual de resistencia. En ese Peugeot viajaban cuatro"
+   },
+   {
+    "key": "c1da05ea93",
+    "a": 209.48,
+    "b": 221.44,
+    "ratio": 1.0,
+    "oye": "Un  año  después,  el  31  de  mayo  de  2018,  Sánchez  defiende  en  el  Congreso  la  moción  de  censura  contra  Mariano  Rajoy  tras  la  sentencia  del  caso  Gurtel  y  le  exige  lo  que  él  llama  decencia.",
+    "txt": "[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, Sánchez defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel. Y le exige lo que él llama decencia."
+   }
+  ]
+ },
+ "v01": {
+  "dur": 245.2,
+  "units": [
+   {
+    "key": "7dbb1a7cf8",
+    "a": 0.0,
+    "b": 16.39,
+    "ratio": 1.0,
+    "oye": "Jueves,  19  de  noviembre  de  2026,  Madrid.  Faltan  diez  días  para  las  elecciones  generales.  Es  el  único  cara  a  cara  de  la  campaña.  Y  en  el  bloque  dedicado  a  la  corrupción,  el  presidente  del  gobierno  empieza  con  dos  palabras.",
+    "txt": "Jueves, diecinueve de noviembre de dos mil veintiséis. Madrid. Faltan diez días para las elecciones generales. Es el único cara a cara de la campaña. Y en el bloque dedicado a la corrupción, el presidente del Gobierno empieza con dos palabras."
+   },
+   {
+    "key": "26b67e641f",
+    "a": 16.39,
+    "b": 38.65,
+    "ratio": 1.0,
+    "oye": "Sus  defensores  dicen  que  ha  sacado  adelante  el  país  en  la  década  más  difícil  que  se  recuerda.  Una  pandemia,  un  volcán,  una  riada,  una  guerra  en  Europa.  Sus  críticos  dicen  que  ha  sobrevivido  a  costa  de  casi  todo  lo  que  prometió.  Este  documental  no  le  va  a",
+    "txt": "Sus defensores dicen que ha sacado adelante el país en la década más difícil que se recuerda: una pandemia, un volcán, una riada, una guerra en Europa. Sus críticos dicen que ha sobrevivido a costa de casi todo lo que prometió. [short pause] Este documental no le va a pedir que elija. Le va a poner "
+   },
+   {
+    "key": "b56ea1357a",
+    "a": 38.65,
+    "b": 53.07,
+    "ratio": 0.94,
+    "oye": "Pamplona,  abril  de  2015.  Pedro  Sánchez  lleva  menos  de  un  año  al  frente  del  partido  socialista.  En  un  plato  de  la  televisión  Navarra,  le  preguntan  si  su  partido  pactaría  con  E .H.  Vildu  para  gobernar  en  Navarra.",
+    "txt": "Pamplona, abril de dos mil quince. Pedro Sánchez lleva menos de un año al frente del Partido Socialista. En un plató de la televisión navarra, le preguntan si su partido pactaría con EH Bildu para gobernar en Navarra."
+   },
+   {
+    "key": "2eadcd1311",
+    "a": 53.07,
+    "b": 65.7,
+    "ratio": 0.95,
+    "oye": "Septiembre  de  2019.  España  va  camino  de  su  cuarta  elección  general  en  cuatro  años.  Sánchez  explica  en  la  sexta  por  qué  no  quiere  un  gobierno  de  coalición  con  Pablo  Iglesias.",
+    "txt": "Septiembre de dos mil diecinueve. España va camino de su cuarta elección general en cuatro años. Sánchez explica en laSexta por qué no quiere un Gobierno de coalición con Pablo Iglesias."
+   },
+   {
+    "key": "3f470ad424",
+    "a": 65.7,
+    "b": 81.69,
+    "ratio": 1.0,
+    "oye": "En  aquella  misma  campaña,  Cataluña  era  el  gran  tema.  Un  mes  antes,  el  14  de  octubre,  el  Tribunal  Supremo  había  condenado  a  los  líderes  del  proceso  independentista.  Sánchez,  en  funciones,  compareció  para  fijar  la  posición  del  gobierno.",
+    "txt": "En aquella misma campaña, Cataluña era el gran tema. Un mes antes, el catorce de octubre, el Tribunal Supremo había condenado a los líderes del proceso independentista. Sánchez, en funciones, compareció para fijar la posición del Gobierno."
+   },
+   {
+    "key": "1ee64e4660",
+    "a": 81.69,
+    "b": 112.0,
+    "ratio": 0.99,
+    "oye": "Íntegro  cumplimiento.  Traerlo  de  vuelta.  Un  nuevo  delito  para  los  referéndums  ilegales.  Lo  que  vino  después  está  en  el  boletín  oficial  del  Estado.  En  junio  de  2021,  el  gobierno  indultó  a  los  nueve  líderes  del  prusés  condenados  a  prisión.  En  diciembre  de  2022",
+    "txt": "[serious] Íntegro cumplimiento. Traerlo de vuelta. Un nuevo delito para los referéndums ilegales. [pause] Lo que vino después está en el Boletín Oficial del Estado. En junio de dos mil veintiuno, el Gobierno indultó a los nueve líderes del procés condenados a prisión. En diciembre de dos mil veintid"
+   },
+   {
+    "key": "852cb5b41f",
+    "a": 112.0,
+    "b": 127.47,
+    "ratio": 1.0,
+    "oye": "El  gobierno  defendió  los  indultos  como  una  apuesta  por  la  Concordia,  sacar  el  conflicto  de  los  tribunales  y  devolverlo  a  la  política.  Es  su  argumento  y  lo  ha  mantenido.  Sostiene  que  hoy  Cataluña  está  más  tranquila  que  en  2017.",
+    "txt": "El Gobierno defendió los indultos como una apuesta por la concordia: sacar el conflicto de los tribunales y devolverlo a la política. Es su argumento, y lo ha mantenido. Sostiene que hoy Cataluña está más tranquila que en dos mil diecisiete."
+   },
+   {
+    "key": "7a7eb29a48",
+    "a": 127.47,
+    "b": 140.58,
+    "ratio": 1.0,
+    "oye": "Faltaba  la  amnistía.  En  noviembre  de  2022,  en  Al  Rojo  Vivo,  le  preguntaron  qué  pedía  el  independentismo.  Esta  fue  su  respuesta,  según  la  transcripción  oficial  de  la  Moncloa.",
+    "txt": "Faltaba la amnistía. [short pause] En noviembre de dos mil veintidós, en Al Rojo Vivo, le preguntaron qué pedía el independentismo. Esta fue su respuesta, según la transcripción oficial de La Moncloa."
+   },
+   {
+    "key": "8bc2338924",
+    "a": 140.58,
+    "b": 160.87,
+    "ratio": 1.0,
+    "oye": "La  Ley  de  Amnistía  se  publicó  en  el  BOE  el  10  de  junio  de  2024.  Y  aquí  está  la  defensa  del  gobierno,  con  un  documento  detrás.  En  julio  de  2025,  el  Tribunal  Constitucional  concluyó  que  la  Constitución  no  prohíbe  una  amnistía,  aunque  anuló  algunos  puntos  de",
+    "txt": "La ley de amnistía se publicó en el BOE el diez de junio de dos mil veinticuatro. [short pause] Y aquí está la defensa del Gobierno, con un documento detrás: en julio de dos mil veinticinco, el Tribunal Constitucional concluyó que la Constitución no prohíbe una amnistía, aunque anuló algunos puntos "
+   },
+   {
+    "key": "a131f210d5",
+    "a": 160.87,
+    "b": 174.4,
+    "ratio": 0.92,
+    "oye": "Este  mes,  en  plena  campaña,  el  propio  Puigdemón  lo  resumió  con  una  frase  que  publicó  el  mundo.  Nos  hemos  aprovechado  de  la  ambición  de  Sánchez  para  derrotar  a  España.  Feijó  abrió  con  Puigdemón  el  cara  a  cara.",
+    "txt": "Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España». Feijóo abrió con Puigdemont el cara a cara."
+   },
+   {
+    "key": "a4ec720ce2",
+    "a": 174.4,
+    "b": 178.78,
+    "ratio": 1.0,
+    "oye": "Y  en  la  misma  entrevista,  sobre  Cataluña,  lo  dijo  sin  rodeos.",
+    "txt": "Y en la misma entrevista, sobre Cataluña, lo dijo sin rodeos."
+   },
+   {
+    "key": "2fc68e556b",
+    "a": 178.78,
+    "b": 189.18,
+    "ratio": 1.0,
+    "oye": "Un  horizonte  que  no  cambia.  Y  unas  posiciones  que  sí.  Él  lo  llama  coherencia.  Sus  socios  de  investidura,  en  el  Congreso,  lo  llamaron  de  otra  manera.",
+    "txt": "[softly] Un horizonte que no cambia. Y unas posiciones que sí. [pause] Él lo llama coherencia. Sus socios de investidura, en el Congreso, lo llamaron de otra manera."
+   },
+   {
+    "key": "5e3b43e387",
+    "a": 189.18,
+    "b": 210.55,
+    "ratio": 0.96,
+    "oye": "La  defensa  de  Ávalos  ve  arbitrariedad  en  la  sentencia  y  ha  anunciado  que  acudirá  a  la  justicia  europea.  Pedro  Sánchez  no  está  imputado  en  esta  causa,  ni  en  ninguna  otra.  Pero  la  pregunta  de  este  capítulo  no  es  judicial.  Es  política.  ¿Cómo  llegó  Ávalos  hast",
+    "txt": "La defensa de Ábalos ve arbitrariedad en la sentencia y ha anunciado que acudirá a la justicia europea. [short pause] Pedro Sánchez no está imputado en esta causa. Ni en ninguna otra. Pero la pregunta de este capítulo no es judicial. Es política. ¿Cómo llegó Ábalos hasta ahí? [pause] Para responderl"
+   },
+   {
+    "key": "051da3390f",
+    "a": 210.55,
+    "b": 245.2,
+    "ratio": 0.97,
+    "oye": "Pedro  Sánchez  llega  a  la  Secretaría  General  del  Pessoe  en  julio  de  2014,  tras  ganar  unas  primarias  que  casi  nadie  esperaba.  En  diciembre  de  2015,  logra  90  escaños.  El  peor  resultado  de  su  partido  hasta  entonces.  En  junio  de  2016,  85.  España  lleva  casi  un  ",
+    "txt": "Pedro Sánchez llega a la secretaría general del PSOE en julio de dos mil catorce, tras ganar unas primarias que casi nadie esperaba. En diciembre de dos mil quince logra noventa escaños, el peor resultado de su partido hasta entonces. En junio de dos mil dieciséis, ochenta y cinco. España lleva casi"
+   }
+  ]
+ },
+ "v02": {
+  "dur": 36.48,
+  "units": [
+   {
+    "key": "6987f26fa3",
+    "a": 0.0,
+    "b": 3.11,
+    "ratio": 1.0,
+    "oye": "Presidente,  ¿por  qué  tendríamos  que  creerle?",
+    "txt": "Presidente, ¿por qué tendríamos que creerle?"
+   },
+   {
+    "key": "d8d4ca75d4",
+    "a": 3.11,
+    "b": 6.79,
+    "ratio": 0.86,
+    "oye": "Presidente,  ¿quién  eligió  a  José  Luis  Sábalos?",
+    "txt": "Presidente, ¿quién eligió a José Luis Ábalos?"
+   },
+   {
+    "key": "c820cb1519",
+    "a": 6.79,
+    "b": 10.39,
+    "ratio": 1.0,
+    "oye": "Presidente,  ¿sabía  usted  lo  que  pasaba  en  Ferraz?",
+    "txt": "Presidente, ¿sabía usted lo que pasaba en Ferraz?"
+   },
+   {
+    "key": "0330029961",
+    "a": 10.39,
+    "b": 14.15,
+    "ratio": 1.0,
+    "oye": "Presidente,  ¿por  qué  su  familia  está  en  los  tribunales?",
+    "txt": "Presidente, ¿por qué su familia está en los tribunales?"
+   },
+   {
+    "key": "a324ed15e0",
+    "a": 14.15,
+    "b": 16.94,
+    "ratio": 1.0,
+    "oye": "Presidente,  ¿dónde  estaba  usted?",
+    "txt": "Presidente, ¿dónde estaba usted?"
+   },
+   {
+    "key": "8ce7bbbb61",
+    "a": 16.94,
+    "b": 20.14,
+    "ratio": 1.0,
+    "oye": "Presidente,  ¿quién  responde  por  las  vías?",
+    "txt": "Presidente, ¿quién responde por las vías?"
+   },
+   {
+    "key": "4650dd5cee",
+    "a": 20.14,
+    "b": 24.63,
+    "ratio": 1.0,
+    "oye": "Presidente,  ¿por  qué  sigue  defendiendo  a  José  Luis  Rodríguez  Zapatero?",
+    "txt": "Presidente, ¿por qué sigue defendiendo a José Luis Rodríguez Zapatero?"
+   },
+   {
+    "key": "2e31d184c5",
+    "a": 24.63,
+    "b": 28.17,
+    "ratio": 1.0,
+    "oye": "Presidente,  ¿se  puede  gobernar  sin  el  Parlamento?",
+    "txt": "Presidente, ¿se puede gobernar sin el Parlamento?"
+   },
+   {
+    "key": "034299fc24",
+    "a": 28.17,
+    "b": 32.11,
+    "ratio": 1.0,
+    "oye": "Presidente,  ¿va  la  economía  como  un  cohete  para  todos?",
+    "txt": "Presidente, ¿va la economía como un cohete para todos?"
+   },
+   {
+    "key": "b1f24eece5",
+    "a": 32.11,
+    "b": 36.48,
+    "ratio": 1.0,
+    "oye": "Presidente,  ¿qué  le  diría  hoy  el  Pedro  Sánchez  de  2018?",
+    "txt": "Presidente, ¿qué le diría hoy el Pedro Sánchez de dos mil dieciocho?"
+   }
+  ]
+ },
+ "v03": {
+  "dur": 83.36,
+  "units": [
+   {
+    "key": "54163d8f0d",
+    "a": 0.0,
+    "b": 9.93,
+    "ratio": 1.0,
+    "oye": "sentencia  del  Tribunal  Supremo.  Al  valorar  la  confesión  de  Aldama,  el  tribunal  habla  de  una  corrupción  orgánica,  organizada  y  continuada.",
+    "txt": "Sentencia del Tribunal Supremo. Al valorar la confesión de Aldama, el tribunal habla de una «corrupción orgánica, organizada y continuada»."
+   },
+   {
+    "key": "65c7b1e5cb",
+    "a": 9.93,
+    "b": 18.26,
+    "ratio": 1.0,
+    "oye": "Es  una  acusación  política,  pronunciada  en  la  tribuna  del  Congreso.  Ningún  tribunal  ha  juzgado  al  presidente  por  ello.",
+    "txt": "Es una acusación política, pronunciada en la tribuna del Congreso. Ningún tribunal ha juzgado al presidente por ello."
+   },
+   {
+    "key": "37958121c3",
+    "a": 18.26,
+    "b": 27.37,
+    "ratio": 0.91,
+    "oye": "17  de  mayo  de  2024.  La  sexta.  Palabras  del  presidente.  Aquí  no  hay  caso.  Hay  fango.",
+    "txt": "Diecisiete de mayo de dos mil veinticuatro. laSexta. Palabras del presidente: «Aquí no hay caso. Hay fango»."
+   },
+   {
+    "key": "3e8edaef51",
+    "a": 27.37,
+    "b": 40.49,
+    "ratio": 1.0,
+    "oye": "Mensaje  del  Centro  Nacional  de  Inteligencia,  29  de  julio  de  2026,  13  horas  52  minutos.  Llamamiento  para  asalto  por  valla  y  mar  mañana  a  las  20  horas.",
+    "txt": "Mensaje del Centro Nacional de Inteligencia. Veintinueve de julio de dos mil veintiséis. Trece horas, cincuenta y dos minutos. «Llamamiento para asalto por valla y mar mañana a las veinte horas»."
+   },
+   {
+    "key": "f4e2a06f15",
+    "a": 40.49,
+    "b": 50.72,
+    "ratio": 0.96,
+    "oye": "2  de  noviembre  de  2024,  comparecencia  del  presidente.  El  gobierno  central  está  listo  para  ayudar,  si  necesita  más  recursos,  que  lo  pida.",
+    "txt": "Dos de noviembre de dos mil veinticuatro. Comparecencia del presidente: «El Gobierno central está listo para ayudar. Si necesita más recursos, que los pida»."
+   },
+   {
+    "key": "608281654d",
+    "a": 50.72,
+    "b": 60.3,
+    "ratio": 1.0,
+    "oye": "Dos  días  después,  el  20  de  enero,  el  ministro  añadió,  si  hay  algo  cercano  a  la  infalibilidad,  es  la  alta  velocidad  española.",
+    "txt": "Dos días después, el veinte de enero, el ministro añadió: «Si hay algo cercano a la infalibilidad, es la alta velocidad española»."
+   },
+   {
+    "key": "70fb6c494a",
+    "a": 60.3,
+    "b": 65.31,
+    "ratio": 1.0,
+    "oye": "Ángel  Víctor  Torres  no  ha  sido  condenado  por  ningún  delito.",
+    "txt": "Ángel Víctor Torres no ha sido condenado por ningún delito."
+   },
+   {
+    "key": "6d0197deee",
+    "a": 65.31,
+    "b": 73.83,
+    "ratio": 1.0,
+    "oye": "Días  después,  dirigentes  de  Podemos  explicaron  que  aquellas  palabras  eran  irónicas,  una  burla  de  la  teoría  del  reemplazo.",
+    "txt": "Días después, dirigentes de Podemos explicaron que aquellas palabras eran irónicas, una burla de la teoría del reemplazo."
+   },
+   {
+    "key": "2f7f6fdc6e",
+    "a": 73.83,
+    "b": 83.36,
+    "ratio": 0.96,
+    "oye": "Feijó,  por  su  parte,  negó  haber  prometido  él  mismo  un  millón  de  viviendas,  aunque  la  medida  144  de  su  programa  hablaba  de  esa  cifra.",
+    "txt": "Feijóo, por su parte, negó haber prometido él mismo un millón de viviendas, aunque la medida ciento cuarenta y cuatro de su programa hablaba de esa cifra."
+   }
+  ]
+ },
+ "v04": {
+  "dur": 256.72,
+  "units": [
+   {
+    "key": "08740b958d",
+    "a": 0.0,
+    "b": 21.1,
+    "ratio": 0.98,
+    "oye": "El  21  de  mayo  de  2017,  contra  pronóstico,  Sánchez  derrota  a  Susana  Díaz  y  recupera  el  partido.  Un  mes  después,  el  18  de  junio,  elige  a  su  equipo.  El  secretario  de  Organización,  el  número  3  del  partido,  el  que  controla  el  aparato,  será  José  Luis  Ávalos  y ",
+    "txt": "El veintiuno de mayo de dos mil diecisiete, contra pronóstico, Sánchez derrota a Susana Díaz y recupera el partido. Un mes después, el dieciocho de junio, elige a su equipo. El secretario de Organización, el número tres del partido, el que controla el aparato, será José Luis Ábalos. Y en su área ent"
+   },
+   {
+    "key": "2b6b03e918",
+    "a": 21.1,
+    "b": 35.4,
+    "ratio": 0.97,
+    "oye": "Quien  defendió  aquella  moción  desde  la  tribuna  en  nombre  del  PSOE  fue  José  Luis  Ávalos.  Según  Recuerda  Maldita .es,  dijo  que  la  presentaban  para  sacar  de  la  política  la  corrupción.  Rajoy  le  contestó  así.",
+    "txt": "Quien defendió aquella moción desde la tribuna en nombre del PSOE fue José Luis Ábalos. Según recuerda Maldita.es, dijo que la presentaban para sacar de la política la corrupción. Rajoy le contestó así."
+   },
+   {
+    "key": "08d3b56453",
+    "a": 35.4,
+    "b": 60.41,
+    "ratio": 0.97,
+    "oye": "Enero  de  2020,  Aeropuerto  de  Barajas,  de  madrugada.  Ávalos  se  reúne  en  un  avión  con  Delsi  Rodríguez,  vicepresidenta  de  Venezuela,  que  tenía  prohibida  la  entrada  en  el  espacio  Schengen.  Durante  semanas,  el  ministro  dio  versiones  distintas  de  aquel  encuentro.  Mal",
+    "txt": "Enero de dos mil veinte. Aeropuerto de Barajas, de madrugada. Ábalos se reúne en un avión con Delcy Rodríguez, vicepresidenta de Venezuela, que tenía prohibida la entrada en el espacio Schengen. Durante semanas, el ministro dio versiones distintas de aquel encuentro. Maldita.es las contó. Y el Gobie"
+   },
+   {
+    "key": "a30c0113c8",
+    "a": 60.41,
+    "b": 78.3,
+    "ratio": 0.96,
+    "oye": "Años  después,  el  Sumario  del  Caso  Caldo  y  los  audios  publicados  por  la  prensa  describirían  otra  cosa.  Según  las  informaciones  basadas  en  los  informes  de  la  UCO,  la  trama  pagaba  viajes  y  alojamientos  a  mujeres  de  su  entorno.  Feijó  lo  usó  en  el  Congreso  como",
+    "txt": "[serious] Años después, el sumario del caso Koldo y los audios publicados por la prensa describirían otra cosa. Según las informaciones basadas en los informes de la UCO, la trama pagaba viajes y alojamientos a mujeres de su entorno. Feijóo lo usó en el Congreso como arma contra el presidente."
+   },
+   {
+    "key": "9bb06b6df4",
+    "a": 78.3,
+    "b": 90.54,
+    "ratio": 1.0,
+    "oye": "El  PSOE  sostiene  que  lo  apartó  en  cuanto  supo,  que  lo  expulsó,  que  colaboró  con  la  justicia.  El  9  de  julio  de  2025,  en  el  Congreso,  Sánchez  dio  su  versión.",
+    "txt": "El PSOE sostiene que lo apartó en cuanto supo. Que lo expulsó. Que colaboró con la justicia. El nueve de julio de dos mil veinticinco, en el Congreso, Sánchez dio su versión."
+   },
+   {
+    "key": "568a71a14c",
+    "a": 90.54,
+    "b": 114.78,
+    "ratio": 1.0,
+    "oye": "Madrid.  Calle  Ferraz,  número  70.  Sede  Federal  del  Partido  Socialista.  Miércoles,  27  de  mayo  de  2026.  Agentes  de  la  Unidad  Central  Operativa  de  la  Guardia  Civil  entran  en  el  edificio.  Se  quedan  12  horas.  El  PSOE  insiste  en  que  no  fue  un  registro,  sino  un  r",
+    "txt": "Madrid, calle Ferraz, número setenta. Sede federal del Partido Socialista. Miércoles, veintisiete de mayo de dos mil veintiséis. Agentes de la Unidad Central Operativa de la Guardia Civil entran en el edificio. Se quedan doce horas. [short pause] El PSOE insiste en que no fue un registro, sino un re"
+   },
+   {
+    "key": "2f6bf0117a",
+    "a": 114.78,
+    "b": 139.7,
+    "ratio": 0.97,
+    "oye": "Todo  empezó  dos  años  antes,  con  mascarillas.  Febrero  de  2024,  la  UCO  detiene  a  Coldo  García  por  presuntas  comisiones  en  contratos  de  material  sanitario  firmados  en  lo  peor  de  la  pandemia,  con  organismos  que  dependían  del  Ministerio  de  Transportes.  El  PSOE  pid",
+    "txt": "Todo empezó dos años antes, con mascarillas. Febrero de dos mil veinticuatro: la UCO detiene a Koldo García por presuntas comisiones en contratos de material sanitario firmados en lo peor de la pandemia con organismos que dependían del Ministerio de Transportes. El PSOE pide a Ábalos que entregue su"
+   },
+   {
+    "key": "67a13a9530",
+    "a": 139.7,
+    "b": 152.07,
+    "ratio": 0.96,
+    "oye": "Según  publicó  Boz  Populi,  Cerdán  había  declarado  dos  reuniones  con  un  empresario  de  la  trama.  Los  investigadores  le  atribuyen  39.  Cerdán  niega  haber  cometido  ningún  delito.",
+    "txt": "Según publicó Voz Pópuli, Cerdán había declarado dos reuniones con un empresario de la trama. Los investigadores le atribuyen treinta y nueve. Cerdán niega haber cometido ningún delito."
+   },
+   {
+    "key": "d60c43234b",
+    "a": 152.07,
+    "b": 180.69,
+    "ratio": 0.99,
+    "oye": "Balas  es  el  apellido  de  un  teniente  coronel  de  la  UCO.  Según  el  juez  Santiago  Pedraz,  Leire  Diez  formaba  parte  de  una  red  para  obstaculizar  causas  judiciales.  Según  el  sumario  publicado  por  la  prensa,  recibía  unos  4 .000  euros  al  mes  y  la  gerente  del  PSOE ",
+    "txt": "Balas es el apellido de un teniente coronel de la UCO. Según el juez Santiago Pedraz, Leire Díez formaba parte de una red para obstaculizar causas judiciales. Según el sumario publicado por la prensa, recibía unos cuatro mil euros al mes, y la gerente del PSOE está imputada. [short pause] El PSOE di"
+   },
+   {
+    "key": "d894dc710b",
+    "a": 180.69,
+    "b": 185.26,
+    "ratio": 1.0,
+    "oye": "Junio  de  2025,  tras  el  auto  contra  Cerdán.",
+    "txt": "Junio de dos mil veinticinco, tras el auto contra Cerdán."
+   },
+   {
+    "key": "f50bda2c24",
+    "a": 185.26,
+    "b": 190.47,
+    "ratio": 1.0,
+    "oye": "Junio  de  2026,  dos  días  después  de  la  sentencia  del  Supremo.",
+    "txt": "Junio de dos mil veintiséis, dos días después de la sentencia del Supremo."
+   },
+   {
+    "key": "67f55d37cd",
+    "a": 190.47,
+    "b": 194.9,
+    "ratio": 1.0,
+    "oye": "Y  en  septiembre,  en  Televisión  Española,  fue  más  allá.",
+    "txt": "Y en septiembre, en Televisión Española, fue más allá."
+   },
+   {
+    "key": "33a234bc60",
+    "a": 194.9,
+    "b": 203.02,
+    "ratio": 0.96,
+    "oye": "Y  en  el  debate  del  19  de  noviembre,  Feijó  resumió  la  ofensiva  de  su  partido  con  una  sola  frase  sobre  la  política  de  vivienda.",
+    "txt": "Y en el debate del diecinueve de noviembre, Feijóo resumió la ofensiva de su partido con una sola frase sobre la política de vivienda."
+   },
+   {
+    "key": "f41b3feed6",
+    "a": 203.02,
+    "b": 211.34,
+    "ratio": 0.92,
+    "oye": "Cinco  días  después,  se  queda.  Y  tres  semanas  más  tarde,  en  la  sexta,  deja  la  frase  que  marcaría  su  defensa.",
+    "txt": "Cinco días después, se queda. Y tres semanas más tarde, en laSexta, deja la frase que marcaría su defensa."
+   },
+   {
+    "key": "bf4af31908",
+    "a": 211.34,
+    "b": 230.06,
+    "ratio": 1.0,
+    "oye": "El  juez  Juan  Carlos  Peinado  ha  investigado  a  Begoña  Gómez  por  tráfico  de  influencias,  corrupción  en  los  negocios,  apropiación  indebida  e  intrusismo.  En  el  centro,  su  cátedra  en  la  Universidad  Complutense  y  un  programa  informático  desarrollado  para  ella  con  patr",
+    "txt": "El juez Juan Carlos Peinado ha investigado a Begoña Gómez por tráfico de influencias, corrupción en los negocios, apropiación indebida e intrusismo. En el centro, su cátedra en la Universidad Complutense y un programa informático desarrollado para ella con patrocinio privado. Ella niega cualquier de"
+   },
+   {
+    "key": "c22fbf24e0",
+    "a": 230.06,
+    "b": 248.75,
+    "ratio": 0.97,
+    "oye": "Hoy,  Begoña  Gómez  está  procesada.  Irá  a  juicio  conjurado,  previsto  para  2027.  Y  aquí  está  su  defensa,  que  también  consta  en  la  causa.  La  Fiscalía  pide  su  absolución.  Ella  sostiene  que  es  víctima  de  una  persecución  por  ser  la  mujer  del  presidente.",
+    "txt": "Hoy, Begoña Gómez está procesada. Irá a juicio con jurado, previsto para dos mil veintisiete. [short pause] Y aquí está su defensa, que también consta en la causa: la Fiscalía pide su absolución. Ella sostiene que es víctima de una persecución por ser la mujer del presidente."
+   },
+   {
+    "key": "5845657b84",
+    "a": 248.75,
+    "b": 256.72,
+    "ratio": 1.0,
+    "oye": "Seis  días  después,  el  presidente  era  portada  de  la  revista  Lecturas.  El  titular  No  imagino  mi  vida  sin  Begoña.",
+    "txt": "Seis días después, el presidente era portada de la revista Lecturas. El titular: «No imagino mi vida sin Begoña»."
+   }
+  ]
+ },
+ "v05": {
+  "dur": 244.64,
+  "units": [
+   {
+    "key": "7f719f1614",
+    "a": 0.0,
+    "b": 12.2,
+    "ratio": 0.97,
+    "oye": "Una  semana  después,  el  7  de  junio,  el  Boletín  Oficial  del  Estado  publica  el  nombramiento.  Ministro  de  Fomento,  José  Luis  Ávalos  Meco,  firma  el  Real  Decreto  el  presidente  del  Gobierno.",
+    "txt": "Una semana después, el siete de junio, el Boletín Oficial del Estado publica el nombramiento. Ministro de Fomento: José Luis Ábalos Meco. Firma el real decreto el presidente del Gobierno."
+   },
+   {
+    "key": "eff300806a",
+    "a": 12.2,
+    "b": 22.64,
+    "ratio": 1.0,
+    "oye": "En  marzo  de  2020,  en  vísperas  del  8  de  marzo,  el  PSOE  publicó  una  campaña  en  redes.  Uno  de  sus  protagonistas  era  su  secretario  de  organización.",
+    "txt": "En marzo de dos mil veinte, en vísperas del ocho de marzo, el PSOE publicó una campaña en redes. Uno de sus protagonistas era su secretario de Organización."
+   },
+   {
+    "key": "d3c4b7a182",
+    "a": 22.64,
+    "b": 45.8,
+    "ratio": 0.97,
+    "oye": "Julio  de  2021,  Sánchez  remodela  su  gobierno  y  saca  a  Ávalos  del  Ministerio  y  de  la  Secretaría  de  Organización.  En  aquel  momento  no  explicó  en  público  por  qué.  Su  sustituto  al  frente  de  la  organización  del  PSOE  es  Santos  Cerdán.  Y  dos  años  después,  en  las ",
+    "txt": "Julio de dos mil veintiuno. Sánchez remodela su Gobierno y saca a Ábalos del Ministerio y de la secretaría de Organización. En aquel momento no explicó en público por qué. Su sustituto al frente de la Organización del PSOE es Santos Cerdán. [pause] Y dos años después, en las elecciones de dos mil ve"
+   },
+   {
+    "key": "19a7e5352b",
+    "a": 45.8,
+    "b": 57.92,
+    "ratio": 0.96,
+    "oye": "Me  equivoqué  al  confiar  en  Ávalos,  y  en  Santos  Cerdán.  El  hombre  que  vino  después,  el  que  estaba  en  el  coche,  el  que  heredó  las  llaves  de  ferraz.",
+    "txt": "[serious] Me equivoqué al confiar en Ábalos. [short pause] Y en Santos Cerdán. [pause] El hombre que vino después. El que estaba en el coche. El que heredó las llaves de Ferraz."
+   },
+   {
+    "key": "e4ead9e9d2",
+    "a": 57.92,
+    "b": 75.57,
+    "ratio": 1.0,
+    "oye": "Para  entender  por  qué  la  UCO  llegó  hasta  allí,  hay  que  volver  a  junio  de  2025.  El  juez  del  Supremo  ve  consistentes  indicios  contra  Santos  Cerdán,  el  número  3  del  partido.  Cerdán  dimite  de  todos  sus  cargos.  Pasará  4  meses  y  20  días  en  prisión  provisional.",
+    "txt": "[serious] Para entender por qué la UCO llegó hasta allí, hay que volver a junio de dos mil veinticinco. El juez del Supremo ve «consistentes indicios» contra Santos Cerdán, el número tres del partido. Cerdán dimite de todos sus cargos. Pasará cuatro meses y veinte días en prisión provisional."
+   },
+   {
+    "key": "d5f2920975",
+    "a": 75.57,
+    "b": 107.47,
+    "ratio": 1.0,
+    "oye": "En  el  centro  de  la  trama  aparece  un  empresario,  Víctor  de  Aldama,  el  comisionista  que  acabó  confesando.  En  octubre  de  2024,  el  mundo  publicó  una  foto  suya  con  el  presidente,  tomada  en  febrero  de  2019  en  un  acto  del  PSOE  en  Madrid.  Sánchez  respondió  que  nu",
+    "txt": "En el centro de la trama aparece un empresario: Víctor de Aldama, el comisionista que acabó confesando. En octubre de dos mil veinticuatro, El Mundo publicó una foto suya con el presidente, tomada en febrero de dos mil diecinueve en un acto del PSOE en Madrid. Sánchez respondió que nunca había habla"
+   },
+   {
+    "key": "df1ccea1ff",
+    "a": 107.47,
+    "b": 125.92,
+    "ratio": 1.0,
+    "oye": "Aquel  mismo  verano  salió  a  la  luz  otra  figura,  Leire  10,  militante  del  PSOE.  El  Confidencial  publicó  la  grabación  de  una  reunión  de  febrero  de  2025  en  la  que  hablaba  de  conseguir  información  contra  mandos  de  la  Guardia  Civil  que  investigaban  al  partido.  Ell",
+    "txt": "Aquel mismo verano salió a la luz otra figura. Leire Díez, militante del PSOE. El Confidencial publicó la grabación de una reunión de febrero de dos mil veinticinco, en la que hablaba de conseguir información contra mandos de la Guardia Civil que investigaban al partido. Ella reconoció que la voz er"
+   },
+   {
+    "key": "79d21cfb0f",
+    "a": 125.92,
+    "b": 135.88,
+    "ratio": 0.95,
+    "oye": "Y  ahora  las  respuestas.  Porque  el  presidente  ha  hablado  mucho  de  corrupción.  Febrero  de  2024,  recién  estallado  el  caso  coldo.",
+    "txt": "[serious] Y ahora, las respuestas. Porque el presidente ha hablado mucho de corrupción. [pause] Febrero de dos mil veinticuatro, recién estallado el caso Koldo."
+   },
+   {
+    "key": "88c21ff0c8",
+    "a": 135.88,
+    "b": 155.19,
+    "ratio": 1.0,
+    "oye": "El  partido  socialista  no  se  ha  financiado  irregularmente.  Es  lo  que  sostiene  el  PSOE.  Y  aquí  está  lo  que  dicen  los  documentos.  En  octubre  de  2026,  la  Fiscalía  Anticorrupción  vio  indicios  contra  el  partido,  pero  consideró  prematuro  imputarlo.  El  PSOE,  como  org",
+    "txt": "[serious] El Partido Socialista no se ha financiado irregularmente. [pause] Es lo que sostiene el PSOE. Y aquí está lo que dicen los documentos: en octubre de dos mil veintiséis, la Fiscalía Anticorrupción vio indicios contra el partido, pero consideró prematuro imputarlo. El PSOE, como organización"
+   },
+   {
+    "key": "b2bab4971e",
+    "a": 155.19,
+    "b": 167.56,
+    "ratio": 1.0,
+    "oye": "PISOS  EN  LOS  SUMARIOS  VIVIENDAS  PROMETIDAS  De  las  viviendas  hablaremos.  Pero  antes  hay  otra  pregunta.  Porque  las  causas  no  se  quedaron  en  la  sede  del  partido.  Llegaron  a  su  casa.",
+    "txt": "[softly] Pisos en los sumarios. Viviendas prometidas. [pause] De las viviendas hablaremos. [short pause] Pero antes hay otra pregunta. Porque las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa."
+   },
+   {
+    "key": "394159232c",
+    "a": 167.56,
+    "b": 189.1,
+    "ratio": 1.0,
+    "oye": "Miércoles  24  de  abril  de  2024.  Un  juzgado  de  Madrid  abre  diligencias  contra  Begoña  Gómez,  la  esposa  del  presidente,  por  su  actividad  profesional.  Esa  misma  tarde,  Sánchez  publica  una  carta  a  la  ciudadanía.  Anuncia  que  se  toma  cinco  días  para  pensar  si  sigue.",
+    "txt": "[serious] Miércoles, veinticuatro de abril de dos mil veinticuatro. Un juzgado de Madrid abre diligencias contra Begoña Gómez, la esposa del presidente, por su actividad profesional. Esa misma tarde, Sánchez publica una carta a la ciudadanía. Anuncia que se toma cinco días para pensar si sigue. Y es"
+   },
+   {
+    "key": "c113c39698",
+    "a": 189.1,
+    "b": 206.01,
+    "ratio": 1.0,
+    "oye": "NOVIEMBRE  DE  2024  ASAMBLEA  DE  MADRID  Begoña  Gómez  comparece  ante  una  comisión  de  investigación  impulsada  por  el  Partido  Popular  sobre  su  relación  con  la  Universidad  Complutense.  La  diputada  popular  Mercedes  Zarzalejo  le  pregunta  durante  más  de  16  minutos.",
+    "txt": "Noviembre de dos mil veinticuatro. Asamblea de Madrid. Begoña Gómez comparece ante una comisión de investigación impulsada por el Partido Popular sobre su relación con la Universidad Complutense. La diputada popular Mercedes Zarzalejo le pregunta durante más de dieciséis minutos."
+   },
+   {
+    "key": "0c283a68ea",
+    "a": 206.01,
+    "b": 213.7,
+    "ratio": 0.95,
+    "oye": "12  DE  NOVIEMBRE  DE  2026  MITING  DE  ARRANQUE  DE  CAMPAÑA  EN  SEVILLA  Begoña  Gómez  sube  al  escenario.",
+    "txt": "[serious] Doce de noviembre de dos mil veintiséis. Mitin de arranque de campaña en Sevilla. Begoña Gómez sube al escenario."
+   },
+   {
+    "key": "6210b94829",
+    "a": 213.7,
+    "b": 233.1,
+    "ratio": 0.97,
+    "oye": "En  casa  de  los  Sánchez  hay  otra  causa.  David  Sánchez,  hermano  del  presidente,  que  trabajaba  para  la  diputación  de  Badajoz.  Un  tribunal  le  ha  condenado  a  nueve  años  de  inhabilitación  como  co -operador  necesario  de  un  delito  de  prevaricación  y  le  ha  absuelto  d",
+    "txt": "En casa de los Sánchez hay otra causa. David Sánchez, hermano del presidente, que trabajaba para la Diputación de Badajoz. Un tribunal le ha condenado a nueve años de inhabilitación como cooperador necesario de un delito de prevaricación, y le ha absuelto del de tráfico de influencias. La sentencia "
+   },
+   {
+    "key": "b18dcbacf8",
+    "a": 233.1,
+    "b": 244.64,
+    "ratio": 1.0,
+    "oye": "Para  defender  a  su  familia,  el  presidente  ha  cargado  contra  una  parte  de  los  jueces.  El  1  de  septiembre  de  2025,  en  Televisión  Española,  le  preguntaron  si  había  jueces  en  guerra  con  su  gobierno.",
+    "txt": "[serious] Para defender a su familia, el presidente ha cargado contra una parte de los jueces. El uno de septiembre de dos mil veinticinco, en Televisión Española, le preguntaron si había jueces en guerra con su Gobierno."
+   }
+  ]
+ },
+ "v06": {
+  "dur": 250.64,
+  "units": [
+   {
+    "key": "7f66c56863",
+    "a": 0.0,
+    "b": 31.74,
+    "ratio": 1.0,
+    "oye": "y  hay  una  tercera  historia,  más  pequeña,  publicada  por  la  prensa.  Calle  San  Bernardo  número  38,  Madrid.  El  edificio  es  de  Muface,  la  mutualidad  pública  de  los  funcionarios.  Según  el  contrato  que  publicó  el  debate,  la  familia  de  Begoña  Gómez  alquila  allí  un  ",
+    "txt": "Y hay una tercera historia, más pequeña, publicada por la prensa. Calle San Bernardo, número treinta y ocho, Madrid. El edificio es de Muface, la mutualidad pública de los funcionarios. Según el contrato que publicó El Debate, la familia de Begoña Gómez alquila allí un ático desde mil novecientos oc"
+   },
+   {
+    "key": "97a3920158",
+    "a": 31.74,
+    "b": 61.69,
+    "ratio": 1.0,
+    "oye": "Tras  los  cinco  días  de  reflexión,  el  gobierno  presentó  un  plan  de  acción  por  la  democracia,  con  medidas  sobre  los  medios  de  comunicación  y  la  publicidad  institucional.  El  presidente  lo  resumió  con  una  idea  que  repetiría.  No  se  puede  confundir  la  libertad  de ",
+    "txt": "Tras los cinco días de reflexión, el Gobierno presentó un plan de acción por la democracia, con medidas sobre los medios de comunicación y la publicidad institucional. El presidente lo resumió con una idea que repetiría: no se puede confundir la libertad de información con la libertad de difamar. Su"
+   },
+   {
+    "key": "fb534e972b",
+    "a": 61.69,
+    "b": 98.09,
+    "ratio": 1.0,
+    "oye": "Tres  asociaciones  de  jueces  le  respondieron  públicamente.  En  enero  de  2025,  el  PSOE  registró  una  reforma  para  limitar  la  acusación  popular  que  podía  aplicarse  a  causas  ya  abiertas,  entre  ellas,  las  que  afectaban  a  su  entorno.  En  noviembre  de  ese  año  la  retir",
+    "txt": "Tres asociaciones de jueces le respondieron públicamente. [short pause] En enero de dos mil veinticinco, el PSOE registró una reforma para limitar la acusación popular que podía aplicarse a causas ya abiertas, entre ellas las que afectaban a su entorno. En noviembre de ese año la retiró. El Gobierno"
+   },
+   {
+    "key": "306c1b727c",
+    "a": 98.09,
+    "b": 112.94,
+    "ratio": 1.0,
+    "oye": "La  causa  contra  el  fiscal  general  nació  de  la  filtración  de  un  correo  electrónico  sobre  la  pareja  de  la  presidenta  de  la  Comunidad  de  Madrid,  Isabel  Díaz  Ayuso,  investigada  por  fraude  fiscal.  El  fiscal  general  defendió  que  actuó  para  desmentir  un  bulo.",
+    "txt": "La causa contra el fiscal general nació de la filtración de un correo electrónico sobre la pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, investigada por fraude fiscal. El fiscal general defendió que actuó para desmentir un bulo."
+   },
+   {
+    "key": "0e6d89ff41",
+    "a": 112.94,
+    "b": 120.09,
+    "ratio": 1.0,
+    "oye": "Tres  días  después  de  esa  condena,  desde  la  cumbre  del  G20  en  Johannesburgo,  el  presidente  dijo  esto.",
+    "txt": "Tres días después de esa condena, desde la cumbre del G veinte en Johannesburgo, el presidente dijo esto."
+   },
+   {
+    "key": "9e3b8bd035",
+    "a": 120.09,
+    "b": 147.03,
+    "ratio": 0.98,
+    "oye": "Recapitulemos.  Un  presidente  que  prometió  no  pactar  con  Bildu,  no  dormir  con  Podemos  y  traer  a  Puigdemón,  y  que  hizo  lo  contrario  por  necesidad,  según  sus  palabras.  Un  secretario  de  organización  elegido  por  él,  hoy  condenado.  Su  sucesor,  investigado.  Su  esposa",
+    "txt": "[softly] Recapitulemos. Un presidente que prometió no pactar con Bildu, no dormir con Podemos y traer a Puigdemont, y que hizo lo contrario por necesidad, según sus palabras. Un secretario de Organización elegido por él, hoy condenado. Su sucesor, investigado. Su esposa, procesada. Su hermano, conde"
+   },
+   {
+    "key": "bdbf5ed896",
+    "a": 147.03,
+    "b": 162.81,
+    "ratio": 0.96,
+    "oye": "El  30  de  julio,  según  recogió  Maldita .es,  el  Ministerio  del  Interior  sostiene  que  no  es  posible  declarar  la  situación  de  emergencia  nacional.  El  31,  el  presidente  viaja  a  Ceuta.  La  visita  dura  hora  y  media.  Le  reciben  compitos.",
+    "txt": "El treinta de julio, según recogió Maldita.es, el Ministerio del Interior sostiene que no es posible declarar la situación de emergencia nacional. El treinta y uno, el presidente viaja a Ceuta. La visita dura hora y media. Le reciben con pitos."
+   },
+   {
+    "key": "bf1c68fdca",
+    "a": 162.81,
+    "b": 175.97,
+    "ratio": 1.0,
+    "oye": "El  Consejo  de  Seguridad  Nacional  no  se  reunió  hasta  25  días  después.  El  3  de  septiembre,  de  vuelta  en  el  Congreso,  el  presidente  explicó  qué  decían  los  informes  de  inteligencia  que  había  recibido.",
+    "txt": "El Consejo de Seguridad Nacional no se reunió hasta veinticinco días después. [short pause] El tres de septiembre, de vuelta en el Congreso, el presidente explicó qué decían los informes de inteligencia que había recibido."
+   },
+   {
+    "key": "69060a441b",
+    "a": 175.97,
+    "b": 191.34,
+    "ratio": 1.0,
+    "oye": "La  defensa  del  gobierno.  Que  ningún  informe  previo  ni  la  escala  ni  la  probabilidad  de  lo  que  ocurrió,  y  que  el  presidente  trabajó  desde  la  residencia  oficial  con  el  ministro  del  Interior  al  frente.  Ese  mismo  día,  en  Televisión  Española,  lo  explicó  así.",
+    "txt": "La defensa del Gobierno: que ningún informe previó ni la escala ni la probabilidad de lo que ocurrió, y que el presidente trabajó desde la residencia oficial con el ministro del Interior al frente. Ese mismo día, en Televisión Española, lo explicó así."
+   },
+   {
+    "key": "98e2ab6140",
+    "a": 191.34,
+    "b": 203.75,
+    "ratio": 1.0,
+    "oye": "Juan  Jesús  Vivas  es  el  presidente  de  Ceuta.  La  Casa  Real  hizo  saber  que  el  rey  seguía  la  situación  con  preocupación  e  indignación,  y  el  presidente  anunció  una  visita  del  jefe  del  Estado.",
+    "txt": "Juan Jesús Vivas es el presidente de Ceuta. [short pause] La Casa Real hizo saber que el Rey seguía la situación con preocupación e indignación. Y el presidente anunció una visita del jefe del Estado."
+   },
+   {
+    "key": "0fde3992a8",
+    "a": 203.75,
+    "b": 228.8,
+    "ratio": 0.98,
+    "oye": "En  esa  misma  comparecencia,  anunció  10 .000  efectivos  más.  Y  la  versión  de  la  frase  que  circuló  después  por  redes,  recortada,  era  falsa,  como  comprobó  Maldita .es.  Pero  la  ley  permite  al  gobierno  declarar  una  emergencia  de  interés  nacional  por  iniciativa  propia",
+    "txt": "En esa misma comparecencia anunció diez mil efectivos más. Y la versión de la frase que circuló después por redes, recortada, era falsa, como comprobó Maldita.es. Pero la ley permite al Gobierno declarar una emergencia de interés nacional por iniciativa propia. No la declaró. Su defensa: era una fac"
+   },
+   {
+    "key": "a538129fb4",
+    "a": 228.8,
+    "b": 250.64,
+    "ratio": 1.0,
+    "oye": "La  Generalitat  Valenciana,  gobernada  por  el  Partido  Popular,  también  tuvo  que  responder  por  aquel  día.  La  alerta  a  los  móviles  llegó  cuando  muchos  pueblos  ya  estaban  inundados.  Un  año  después,  el  3  de  noviembre  de  2025,  el  presidente  valenciano,  Carlos  Mazón, ",
+    "txt": "La Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo e"
+   }
+  ]
+ },
+ "v07": {
+  "dur": 236.0,
+  "units": [
+   {
+    "key": "ef5f6f6a0d",
+    "a": 0.0,
+    "b": 22.11,
+    "ratio": 1.0,
+    "oye": "Al  día  siguiente  rectificó.  Dijo  que  no  había  sido  preciso.  Seis  años  después,  el  20  de  noviembre  de  2025,  el  Tribunal  Supremo  condenó  al  Fiscal  General  del  Estado  a  dos  años  de  inhabilitación  y  a  una  multa  por  revelación  de  datos  reservados.  Hubo  votos  pa",
+    "txt": "Al día siguiente rectificó: dijo que no había sido preciso. [pause] Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Hubo votos particulares. Y el "
+   },
+   {
+    "key": "9979a5d790",
+    "a": 22.11,
+    "b": 33.56,
+    "ratio": 1.0,
+    "oye": "Cree  en  su  inocencia  y  la  defiende.  Pero  en  el  verano  de  2026,  la  pregunta  dejó  de  ser  qué  decía  el  presidente.  Pasó  a  ser  dónde  estaba.",
+    "txt": "[serious] Cree en su inocencia. Y la defiende. [pause] Pero en el verano de dos mil veintiséis la pregunta dejó de ser qué decía el presidente. Pasó a ser dónde estaba."
+   },
+   {
+    "key": "449b0838f3",
+    "a": 33.56,
+    "b": 49.12,
+    "ratio": 0.91,
+    "oye": "Al  día  siguiente,  miles  de  personas  entran  en  Ceuta  anado  y  saltando  el  espigón.  Según  los  datos  recogidos  por  Maldita .es  y  el  Diario .es,  unas  72 .000  entradas  y,  al  menos,  72  muertos,  según  la  delegación  del  gobierno.",
+    "txt": "[serious] Al día siguiente, miles de personas entran en Ceuta a nado y saltando el espigón. Según los datos recogidos por Maldita.es y elDiario.es, unas setenta y dos mil entradas. Y al menos setenta y dos muertos, según la Delegación del Gobierno."
+   },
+   {
+    "key": "bb61b1c5cd",
+    "a": 49.12,
+    "b": 59.31,
+    "ratio": 1.0,
+    "oye": "Y  después  se  marcha  a  la  mareta,  la  Residencia  Oficial  de  Lanzarote  para  sus  vacaciones  de  verano.  El  1  de  agosto,  sus  redes  sociales  publican  este  vídeo.",
+    "txt": "Y después, se marcha a La Mareta, la residencia oficial de Lanzarote, para sus vacaciones de verano. [pause] El uno de agosto, sus redes sociales publican este vídeo."
+   },
+   {
+    "key": "748408ec84",
+    "a": 59.31,
+    "b": 72.94,
+    "ratio": 0.96,
+    "oye": "Un  aviso  rutinario.  Seis  días  después,  el  propio  gobierno  publicó  todos  los  informes.  Entre  ellos,  el  mensaje  del  día  29.  Asalto  por  Vaya  y  Mar,  mañana,  20  horas.",
+    "txt": "[serious] Un aviso rutinario. [pause] Seis días después, el propio Gobierno publicó todos los informes. Entre ellos, el mensaje del día veintinueve. «Asalto por valla y mar. Mañana. Veinte horas»."
+   },
+   {
+    "key": "2f9ff7ec68",
+    "a": 72.94,
+    "b": 80.3,
+    "ratio": 1.0,
+    "oye": "16  de  septiembre,  pasillos  del  Congreso.  Un  periodista  le  pregunta  por  los  menores  que  siguen  en  las  calles  de  Ceuta.",
+    "txt": "Dieciséis de septiembre. Pasillos del Congreso. Un periodista le pregunta por los menores que siguen en las calles de Ceuta."
+   },
+   {
+    "key": "ddccf908bf",
+    "a": 80.3,
+    "b": 111.58,
+    "ratio": 0.99,
+    "oye": "Detrás  de  Ceuta  está  siempre  la  misma  relación.  En  marzo  de  2022,  con  una  carta  al  rey  Mohamed  VI,  Sánchez  cambió  40  años  de  posición  española  sobre  el  Sáhara  Occidental.  El  plan  de  autonomía  marroquí  pasó  a  ser,  para  el  gobierno,  la  base  más  seria,  reali",
+    "txt": "[serious] Detrás de Ceuta está siempre la misma relación. En marzo de dos mil veintidós, con una carta al rey Mohamed sexto, Sánchez cambió cuarenta años de posición española sobre el Sáhara Occidental: el plan de autonomía marroquí pasó a ser, para el Gobierno, «la base más seria, realista y creíbl"
+   },
+   {
+    "key": "54a2a964a3",
+    "a": 111.58,
+    "b": 126.96,
+    "ratio": 0.96,
+    "oye": "No  era  la  primera  vez  que  una  catástrofe  le  preguntaba  al  presidente  dónde  estaba.  29  de  octubre  de  2024,  Valencia,  Ladana,  230  muertos  en  tres  comunidades,  según  el  balance  oficial  de  la  Moncloa  de  diciembre.",
+    "txt": "[serious] No era la primera vez que una catástrofe le preguntaba al presidente dónde estaba. [pause] Veintinueve de octubre de dos mil veinticuatro. Valencia. La DANA. Doscientos treinta muertos en tres comunidades, según el balance oficial de La Moncloa de diciembre."
+   },
+   {
+    "key": "be4ddfbd36",
+    "a": 126.96,
+    "b": 141.39,
+    "ratio": 1.0,
+    "oye": "El  3  de  noviembre  de  2024,  en  Paiporta,  la  comitiva  oficial  entra  en  una  calle  llena  de  barro.  Los  vecinos  gritan,  lanzan  objetos.  El  coche  del  presidente  es  golpeado.  Sánchez  se  va.  Los  reyes  se  quedan.",
+    "txt": "El tres de noviembre de dos mil veinticuatro, en Paiporta, la comitiva oficial entra en una calle llena de barro. Los vecinos gritan. Lanzan objetos. El coche del presidente es golpeado. Sánchez se va. Los Reyes se quedan."
+   },
+   {
+    "key": "d652aeec64",
+    "a": 141.39,
+    "b": 152.57,
+    "ratio": 1.0,
+    "oye": "Todos  los  recursos  del  estado.  Melilla,  junio  de  2022.  Al  menos  23  migrantes  mueren  en  la  valla.  El  presidente,  desde  Bruselas,  valoró  así  la  actuación.",
+    "txt": "[serious] Todos los recursos del Estado. [pause] Melilla, junio de dos mil veintidós: al menos veintitrés migrantes mueren en la valla. El presidente, desde Bruselas, valoró así la actuación."
+   },
+   {
+    "key": "9c80bbca0a",
+    "a": 152.57,
+    "b": 166.54,
+    "ratio": 0.97,
+    "oye": "Siempre  hay  un  recurso  que  pedir.  Un  informe  rutinario,  un  operador  privado,  un  presidente  autonómico  al  que  preguntar.  Y  en  enero  de  2026  llegó  la  jedia  que  tocaría  a  su  propio  gobierno.  Sobre  raíles.",
+    "txt": "[softly] Siempre hay un recurso que pedir. Un informe rutinario. Un operador privado. Un presidente autonómico al que preguntar. [pause] Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles."
+   },
+   {
+    "key": "1d3fe915d2",
+    "a": 166.54,
+    "b": 182.24,
+    "ratio": 1.0,
+    "oye": "Muy  baja.  Bajísima.  28  de  octubre  de  2026,  Urda,  Toledo,  otro  accidente  ferroviario,  69  muertos,  según  la  información  publicada.  Ese  día  el  presidente  viaja  a  Urda  y  habla  de  una  confianza  quebrada.",
+    "txt": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. Ese día el presidente viaja a Urda y habla de una confianza quebrada."
+   },
+   {
+    "key": "321571bea7",
+    "a": 182.24,
+    "b": 187.49,
+    "ratio": 0.87,
+    "oye": "El  boe  del  día  siguiente  publica  sucese,  agradeciéndole  los  servicios  prestados.",
+    "txt": "El BOE del día siguiente publica su cese, «agradeciéndole los servicios prestados»."
+   },
+   {
+    "key": "877d946849",
+    "a": 187.49,
+    "b": 206.71,
+    "ratio": 0.98,
+    "oye": "En  el  archivo  hay  otras  imágenes  del  presidente.  En  el  funeral  de  Montserrat  Caballé  en  2018.  En  el  funeral  de  estado  de  David  Sasoli  en  Roma  en  2022.  En  el  de  Guillermo  Fernández  Vara  en  2025.  Y  en  la  misa  del  Papa  León  14  en  la  Sagrada  Familia  en  ju",
+    "txt": "En el archivo hay otras imágenes del presidente. [short pause] En el funeral de Montserrat Caballé, en dos mil dieciocho. En el funeral de Estado de David Sassoli, en Roma, en dos mil veintidós. En el de Guillermo Fernández Vara, en dos mil veinticinco. Y en la misa del papa León catorce en la Sagra"
+   },
+   {
+    "key": "809bc18a06",
+    "a": 206.71,
+    "b": 210.83,
+    "ratio": 0.87,
+    "oye": "Una  semana  después,  en  el  cara  a  cara,  Feijose  lo  reprochó.",
+    "txt": "[serious] Una semana después, en el cara a cara, Feijóo se lo reprochó."
+   },
+   {
+    "key": "6a53833ee0",
+    "a": 210.83,
+    "b": 225.74,
+    "ratio": 1.0,
+    "oye": "Madrid,  despacho  de  José  Luis  Rodríguez  Zapatero,  primavera  de  2026.  La  policía  registra  la  oficina  del  expresidente  del  gobierno.  En  una  caja  fuerte  aparecen  joyas.  The  Objective  publicó  las  fotografías  en  las  bolsas  de  la  policía.",
+    "txt": "[serious] Madrid. Despacho de José Luis Rodríguez Zapatero. Primavera de dos mil veintiséis. La Policía registra la oficina del expresidente del Gobierno. En una caja fuerte aparecen joyas. The Objective publicó las fotografías, en las bolsas de la Policía."
+   },
+   {
+    "key": "8ae3da5bbc",
+    "a": 225.74,
+    "b": 231.44,
+    "ratio": 0.94,
+    "oye": "Antes  de  todo  esto,  en  un  meeting,  Zapatero  había  resumido  así  lo  que  significa  ser  socialista.",
+    "txt": "Antes de todo esto, en un mitin, Zapatero había resumido así lo que significa ser socialista."
+   },
+   {
+    "key": "26bc842e90",
+    "a": 231.44,
+    "b": 236.0,
+    "ratio": 1.0,
+    "oye": "Zapatero,  en  una  entrevista  en  televisión  española,  negó  haber  intervenido.",
+    "txt": "Zapatero, en una entrevista en Televisión Española, negó haber intervenido."
+   }
+  ]
+ },
+ "v08": {
+  "dur": 242.48,
+  "units": [
+   {
+    "key": "4e6f66b335",
+    "a": 0.0,
+    "b": 13.57,
+    "ratio": 1.0,
+    "oye": "El  gobierno  atribuyó  la  agresión  a  grupos  ultras  organizados  y  defendió  que  la  seguridad  aconsejaba  sacar  al  presidente.  Y  tres  años  antes,  en  La  Palma,  con  el  volcán  en  erupción,  la  promesa  había  sido  esta.",
+    "txt": "El Gobierno atribuyó la agresión a grupos ultras organizados, y defendió que la seguridad aconsejaba sacar al presidente. [pause] Y tres años antes, en La Palma, con el volcán en erupción, la promesa había sido esta."
+   },
+   {
+    "key": "c90f47097e",
+    "a": 13.57,
+    "b": 44.49,
+    "ratio": 0.96,
+    "oye": "Barbate,  9  de  febrero  de  2024.  Una  narcolacha  enviste  a  una  embarcación  de  la  Guardia  Civil  en  el  puerto.  Mueren  dos  agentes.  Las  imágenes,  grabadas  desde  el  muelle,  recorren  el  país.  Según  la  prensa,  el  Ministerio  del  Interior  había  desmantelado  poco  antes  ",
+    "txt": "Barbate, nueve de febrero de dos mil veinticuatro. Una narcolancha embiste a una embarcación de la Guardia Civil en el puerto. Mueren dos agentes. Las imágenes, grabadas desde el muelle, recorren el país. Según la prensa, el Ministerio del Interior había desmantelado poco antes la unidad especial de"
+   },
+   {
+    "key": "2a9f1c11f2",
+    "a": 44.49,
+    "b": 51.19,
+    "ratio": 1.0,
+    "oye": "Y  tras  el  gran  apagón  del  28  de  abril  de  2025,  la  responsabilidad  tenía  destinatario.",
+    "txt": "Y tras el gran apagón del veintiocho de abril de dos mil veinticinco, la responsabilidad tenía destinatario."
+   },
+   {
+    "key": "d7413fbe2f",
+    "a": 51.19,
+    "b": 65.49,
+    "ratio": 1.0,
+    "oye": "Enero  de  2026,  Adamuz,  Córdoba.  Un  tren  de  alta  velocidad  sufre  un  accidente,  según  el  propio  ministro,  en  una  recta  y  en  una  vía  renovada.  El  ministro  de  Transportes,  Óscar  Puente,  comparece.",
+    "txt": "Enero de dos mil veintiséis. Adamuz, Córdoba. Un tren de alta velocidad sufre un accidente. Según el propio ministro, en una recta y en una vía renovada. El ministro de Transportes, Óscar Puente, comparece."
+   },
+   {
+    "key": "fd90c02162",
+    "a": 65.49,
+    "b": 71.63,
+    "ratio": 1.0,
+    "oye": "El  3  de  noviembre,  ante  la  Diputación  Permanente  del  Congreso,  Óscar  Puente  anuncia  que  se  va.",
+    "txt": "El tres de noviembre, ante la Diputación Permanente del Congreso, Óscar Puente anuncia que se va."
+   },
+   {
+    "key": "f1aa15865a",
+    "a": 71.63,
+    "b": 85.9,
+    "ratio": 1.0,
+    "oye": "Martes,  10  de  noviembre,  Catedral  de  Toledo,  funeral  por  las  víctimas  de  Urda.  El  presidente  del  gobierno  no  está.  Fuentes  de  la  Moncloa  explicaron  a  la  prensa  que  no  acostumbra  a  asistir  a  ceremonias  religiosas.",
+    "txt": "[serious] Martes, diez de noviembre. Catedral de Toledo. Funeral por las víctimas de Urda. [pause] El presidente del Gobierno no está. Fuentes de La Moncloa explicaron a la prensa que no acostumbra a asistir a ceremonias religiosas."
+   },
+   {
+    "key": "2e145be6f7",
+    "a": 85.9,
+    "b": 93.19,
+    "ratio": 0.89,
+    "oye": "Dos  días  después  del  funeral  de  Toledo,  el  12  de  noviembre,  arranca  la  campaña.  Meeting  del  Pesoe  en  Sevilla.",
+    "txt": "Dos días después del funeral de Toledo, el doce de noviembre, arranca la campaña. Mitin del PSOE en Sevilla."
+   },
+   {
+    "key": "32a78aa6e4",
+    "a": 93.19,
+    "b": 106.87,
+    "ratio": 1.0,
+    "oye": "Y  el  presidente  pidió  perdón  a  las  familias.  Dijo  que  es  un  dolor  que  llevará  siempre  con  él.  Es  su  respuesta.  La  siguiente  pregunta  lleva  a  otro  hombre  en  el  que  dijo  confiar,  su  mentor.",
+    "txt": "Y el presidente pidió perdón a las familias. Dijo que es un dolor que llevará siempre con él. [pause] Es su respuesta. [short pause] La siguiente pregunta lleva a otro hombre en el que dijo confiar. Su mentor."
+   },
+   {
+    "key": "d175bd9b38",
+    "a": 106.87,
+    "b": 127.68,
+    "ratio": 0.98,
+    "oye": "El  auto  del  19  de  mayo  le  investiga  por  tráfico  de  influencias,  organización  criminal  y  falsedad  documental,  en  la  causa  que  examina  el  rescate  público  de  la  aerolínea  Plus  Ultra.  Y  hay  una  pieza  separada,  por  contrabando  y  delito  fiscal,  por  las  joyas.  Zap",
+    "txt": "El auto del diecinueve de mayo le investiga por tráfico de influencias, organización criminal y falsedad documental, en la causa que examina el rescate público de la aerolínea Plus Ultra. Y hay una pieza separada, por contrabando y delito fiscal, por las joyas. Zapatero defiende su inocencia. Pidió "
+   },
+   {
+    "key": "46b2010b6b",
+    "a": 127.68,
+    "b": 140.84,
+    "ratio": 1.0,
+    "oye": "El  rescate,  9  de  marzo  de  2021.  El  Consejo  de  Ministros  aprueba  53  millones  de  euros  para  Plus  Ultra,  una  aerolínea  pequeña,  con  capital  venezolano.  La  Moncloa  lo  anunció  así.",
+    "txt": "[serious] El rescate. Nueve de marzo de dos mil veintiuno. El Consejo de Ministros aprueba cincuenta y tres millones de euros para Plus Ultra, una aerolínea pequeña, con capital venezolano. La Moncloa lo anunció así."
+   },
+   {
+    "key": "d046bd468e",
+    "a": 140.84,
+    "b": 145.49,
+    "ratio": 1.0,
+    "oye": "Y  el  presidente,  preguntado  por  esa  entrevista,  defendió  el  expediente.",
+    "txt": "Y el presidente, preguntado por esa entrevista, defendió el expediente."
+   },
+   {
+    "key": "3ed9f8c3ba",
+    "a": 145.49,
+    "b": 153.2,
+    "ratio": 1.0,
+    "oye": "Después  de  que  Zapatero  declarara  como  investigado  ante  el  juez,  en  junio,  el  presidente  fijó  la  posición  del  gobierno  y  del  partido.",
+    "txt": "Después de que Zapatero declarara como investigado ante el juez, en junio, el presidente fijó la posición del Gobierno y del partido."
+   },
+   {
+    "key": "454da08e61",
+    "a": 153.2,
+    "b": 164.54,
+    "ratio": 0.97,
+    "oye": "Y  sobre  Plus  Ultra,  añadió  su  defensa  de  fondo,  que  no  fue  un  rescate,  sino  un  préstamo,  dentro  de  un  fondo  que,  según  el  gobierno,  salvó  60 .000  empleos  durante  la  pandemia.",
+    "txt": "Y sobre Plus Ultra, añadió su defensa de fondo: que no fue un rescate, sino un préstamo, dentro de un fondo que, según el Gobierno, salvó sesenta mil empleos durante la pandemia."
+   },
+   {
+    "key": "5772b21cf7",
+    "a": 164.54,
+    "b": 170.94,
+    "ratio": 1.0,
+    "oye": "Y  el  13  de  noviembre,  a  16  días  de  las  elecciones,  en  The  Wild  Project,  fue  más  allá.",
+    "txt": "Y el trece de noviembre, a dieciséis días de las elecciones, en The Wild Project, fue más allá."
+   },
+   {
+    "key": "fde1a09118",
+    "a": 170.94,
+    "b": 189.73,
+    "ratio": 0.98,
+    "oye": "Dentro  del  partido,  hubo  quien  le  advirtió.  En  febrero  de  este  año,  en  el  Ateneo  de  Madrid,  Felipe  González  dijo  que  votaría  en  blanco  y  que  no  pensaba  irse  del  PSOE.  Si  alguien  tiene  que  dejarlo,  que  lo  deje  el  que  lo  destroza.  Y  el  presidente  de  Casti",
+    "txt": "Dentro del partido hubo quien le advirtió. En febrero de este año, en el Ateneo de Madrid, Felipe González dijo que votaría en blanco y que no pensaba irse del PSOE: «Si alguien tiene que dejarlo, que lo deje el que lo destroza». Y el presidente de Castilla-La Mancha, Emiliano García-Page, lo dijo e"
+   },
+   {
+    "key": "a15de42c75",
+    "a": 189.73,
+    "b": 208.47,
+    "ratio": 1.0,
+    "oye": "Recapitulemos  de  nuevo.  Una  frontera  desbordada  con  un  aviso  del  CNI  que  el  presidente  calificó  de  rutinario.  Una  riada  con  230  muertos,  dos  tragedias  ferroviarias  y  un  ministro  dimitido.  Y  un  expresidente  investigado  por  el  que  él  pone  la  mano  en  el  fuego.",
+    "txt": "[softly] Recapitulemos de nuevo. Una frontera desbordada con un aviso del CNI que el presidente calificó de rutinario. Una riada con doscientos treinta muertos. Dos tragedias ferroviarias y un ministro dimitido. Y un expresidente investigado por el que él pone la mano en el fuego."
+   },
+   {
+    "key": "5063f6739e",
+    "a": 208.47,
+    "b": 225.5,
+    "ratio": 1.0,
+    "oye": "La  Constitución,  en  su  artículo  134,  obliga  al  Gobierno  a  presentar  cada  año  los  presupuestos  generales  del  Estado.  España  llega  a  estas  elecciones  con  los  presupuestos  de  2023,  prorrogados  en  2024,  en  2025  y  en  2026.",
+    "txt": "La Constitución, en su artículo ciento treinta y cuatro, obliga al Gobierno a presentar cada año los Presupuestos Generales del Estado. España llega a estas elecciones con los presupuestos de dos mil veintitrés, prorrogados en dos mil veinticuatro, en dos mil veinticinco y en dos mil veintiséis."
+   },
+   {
+    "key": "ffdb0c4e9f",
+    "a": 225.5,
+    "b": 237.85,
+    "ratio": 1.0,
+    "oye": "La  tensión  con  los  límites  venía  de  lejos.  En  la  pandemia,  el  Gobierno  gobernó  por  estado  de  alarma.  El  23  de  mayo  de  2020,  en  la  Moncloa,  el  presidente  dio  por  ganada  la  primera  batalla.",
+    "txt": "La tensión con los límites venía de lejos. En la pandemia, el Gobierno gobernó por estado de alarma. El veintitrés de mayo de dos mil veinte, en La Moncloa, el presidente dio por ganada la primera batalla."
+   },
+   {
+    "key": "3ecf5842fc",
+    "a": 237.85,
+    "b": 242.48,
+    "ratio": 1.0,
+    "oye": "Diciembre  de  2024,  última  sesión  de  control  del  año.",
+    "txt": "Diciembre de dos mil veinticuatro. Última sesión de control del año."
+   }
+  ]
+ },
+ "v09": {
+  "dur": 199.36,
+  "units": [
+   {
+    "key": "219ab3e5e9",
+    "a": 0.0,
+    "b": 5.85,
+    "ratio": 1.0,
+    "oye": "Con  su  mentor  ya  investigado,  el  9  de  septiembre,  le  preguntaron  si  Zapatero  estaría  en  la  campaña.",
+    "txt": "[serious] Con su mentor ya investigado, el nueve de septiembre, le preguntaron si Zapatero estaría en la campaña."
+   },
+   {
+    "key": "1dc4a0599e",
+    "a": 5.85,
+    "b": 22.55,
+    "ratio": 0.95,
+    "oye": "La  mano  en  el  fuego.  Es  la  misma  expresión  de  confianza  que,  por  otros  hombres,  ya  le  había  costado  cara.  En  enero  de  2025,  en  Tenerife,  dedicó  otra  a  suministro  Ángel  Víctor  Torres,  cuyo  nombre  aparecía  entonces  en  informaciones  de  prensa  sobre  el  caso  co",
+    "txt": "[pause] La mano en el fuego. [short pause] Es la misma expresión de confianza que, por otros hombres, ya le había costado cara. En enero de dos mil veinticinco, en Tenerife, dedicó otra a su ministro Ángel Víctor Torres, cuyo nombre aparecía entonces en informaciones de prensa sobre el caso Koldo."
+   },
+   {
+    "key": "58bd08b671",
+    "a": 22.55,
+    "b": 34.93,
+    "ratio": 1.0,
+    "oye": "La  Moncloa  respondió  que  González  es  sólo  una  voz  más.  Pero  había  otras  voces  que  el  presidente  sí  escuchaba.  Las  de  sus  socios.  Y  con  ellas,  la  pregunta  de  si  se  puede  gobernar  sin  el  parlamento.",
+    "txt": "[serious] La Moncloa respondió que González es solo «una voz más». [pause] Pero había otras voces que el presidente sí escuchaba. Las de sus socios. Y con ellas, la pregunta de si se puede gobernar sin el Parlamento."
+   },
+   {
+    "key": "29f5fb5da5",
+    "a": 34.93,
+    "b": 49.27,
+    "ratio": 1.0,
+    "oye": "Su  defensa?  La  prórroga  es  legal.  También  lo  dice  la  Constitución.  Y  en  septiembre  de  2024,  ante  el  Comité  Federal  de  su  partido,  el  presidente  avisó  de  cómo  pensaba  gobernar,  con  o  sin  un  concurso  de  un  poder  legislativo.",
+    "txt": "[serious] Su defensa: la prórroga es legal, también lo dice la Constitución. [pause] Y en septiembre de dos mil veinticuatro, ante el Comité Federal de su partido, el presidente avisó de cómo pensaba gobernar: «con o sin un concurso de un poder legislativo»."
+   },
+   {
+    "key": "4d2e5b75c6",
+    "a": 49.27,
+    "b": 69.81,
+    "ratio": 1.0,
+    "oye": "Un  año  después,  en  julio  de  2021,  el  Tribunal  Constitucional  declaró  inconstitucional  el  confinamiento  de  aquel  primer  estado  de  alarma.  Y  en  octubre,  la  prórroga  de  seis  meses  del  segundo,  aprobada  sin  control  parlamentario  intermedio.  Las  dos  sentencias  se  de",
+    "txt": "[serious] Un año después, en julio de dos mil veintiuno, el Tribunal Constitucional declaró inconstitucional el confinamiento de aquel primer estado de alarma. Y en octubre, la prórroga de seis meses del segundo, aprobada sin control parlamentario intermedio. Las dos sentencias se decidieron por may"
+   },
+   {
+    "key": "7ee5c100c1",
+    "a": 69.81,
+    "b": 85.85,
+    "ratio": 0.99,
+    "oye": "El  BOE  como  respuesta.  Para  seguir  en  el  poder,  el  gobierno  necesitaba  a  sus  socios  cada  semana.  Con  Esquerra  Republicana  pactó  la  condonación  de  17 .100  millones  de  euros  de  deuda  de  Cataluña.  El  gobierno  la  defendió  como  una  medida  abierta  a  todas  las  com",
+    "txt": "El BOE como respuesta. [pause] Para seguir en el poder, el Gobierno necesitaba a sus socios cada semana. Con Esquerra Republicana pactó la condonación de diecisiete mil cien millones de euros de deuda de Cataluña. El Gobierno la defendió como una medida abierta a todas las comunidades."
+   },
+   {
+    "key": "049ec3d660",
+    "a": 85.85,
+    "b": 96.71,
+    "ratio": 0.97,
+    "oye": "Con  Junz  votando  junto  al  Partido  Popular  y  a  Vox,  el  Congreso  llegó  a  aprobar  una  moción  que  pedía  al  presidente  someterse  a  una  cuestión  de  confianza.  No  era  vinculante,  no  se  sometió.",
+    "txt": "[serious] Con Junts votando junto al Partido Popular y a Vox, el Congreso llegó a aprobar una moción que pedía al presidente someterse a una cuestión de confianza. No era vinculante. No se sometió."
+   },
+   {
+    "key": "a76846588e",
+    "a": 96.71,
+    "b": 103.96,
+    "ratio": 1.0,
+    "oye": "Al  día  siguiente,  el  6  de  octubre,  la  dirigente  socialista  María  Jesús  Montero  habló  de  la  huelga  general  convocada  para  noviembre.",
+    "txt": "Al día siguiente, el seis de octubre, la dirigente socialista María Jesús Montero habló de la huelga general convocada para noviembre."
+   },
+   {
+    "key": "f9b160774e",
+    "a": 103.96,
+    "b": 114.28,
+    "ratio": 1.0,
+    "oye": "El  9  de  septiembre  de  2026,  en  plena  crisis  de  Ceuta,  Santiago  Abascal  le  preguntó  en  el  Congreso  si  Marruecos  le  estaba  chantajeando.  La  respuesta  del  presidente  se  hizo  viral.",
+    "txt": "[serious] El nueve de septiembre de dos mil veintiséis, en plena crisis de Ceuta, Santiago Abascal le preguntó en el Congreso si Marruecos le estaba chantajeando. La respuesta del presidente se hizo viral."
+   },
+   {
+    "key": "e1df580d8d",
+    "a": 114.28,
+    "b": 129.63,
+    "ratio": 0.97,
+    "oye": "Horas  después,  Trump  dijo  que  España  se  había  redimido  por  completo.  Y  en  casa,  los  socios  marcaban  su  propio  rumbo.  En  enero  de  este  año,  en  un  meeting  de  Podemos  en  Zaragoza,  Irene  Montero  celebraba  la  regularización  extraordinaria  de  inmigrantes.",
+    "txt": "Horas después, Trump dijo que España se había «redimido por completo». [pause] Y en casa, los socios marcaban su propio rumbo. En enero de este año, en un mitin de Podemos en Zaragoza, Irene Montero celebraba la regularización extraordinaria de inmigrantes."
+   },
+   {
+    "key": "98d84c9ffe",
+    "a": 129.63,
+    "b": 140.65,
+    "ratio": 1.0,
+    "oye": "Otro  perdón.  Y  entre  perdón  y  perdón,  una  promesa  que  se  repitió  en  todas  las  campañas.  Quizá  la  que  más  afecta  a  la  vida  diaria,  la  vivienda  y  la  economía.",
+    "txt": "[softly] Otro perdón. [pause] Y entre perdón y perdón, una promesa que se repitió en todas las campañas. Quizá la que más afecta a la vida diaria. [short pause] La vivienda. Y la economía."
+   },
+   {
+    "key": "9786e10d1e",
+    "a": 140.65,
+    "b": 153.14,
+    "ratio": 0.99,
+    "oye": "Los  datos  que  él  cita  existen.  En  2025,  el  PIB  creció  un  2 ,6  por  ciento,  según  el  INE.  España  superó  los  22  millones  de  ocupados.  Es  la  defensa  de  su  gestión  y  es  sólida.",
+    "txt": "[serious] Los datos que él cita existen. En dos mil veinticinco, el PIB creció un dos coma seis por ciento, según el INE. España superó los veintidós millones de ocupados. Es la defensa de su gestión, y es sólida."
+   },
+   {
+    "key": "d71d0a0191",
+    "a": 153.14,
+    "b": 158.82,
+    "ratio": 1.0,
+    "oye": "Y  luego  está  la  vivienda.  En  el  debate  del  19  de  noviembre,  el  presidente  dio  esta  cifra.",
+    "txt": "[serious] Y luego está la vivienda. En el debate del diecinueve de noviembre, el presidente dio esta cifra."
+   },
+   {
+    "key": "d41d9ca290",
+    "a": 158.82,
+    "b": 169.12,
+    "ratio": 0.95,
+    "oye": "Septiembre  de  2026,  el  desahucio  de  Mari  Carmen,  una  vecina  de  Madrid  de  87  años,  abre  los  informativos.  Una  cámara  le  pregunta  a  quién  responsabiliza.",
+    "txt": "Septiembre de dos mil veintiséis. El desahucio de Maricarmen, una vecina de Madrid de ochenta y siete años, abre los informativos. Una cámara le pregunta a quién responsabiliza."
+   },
+   {
+    "key": "9c2b3c53b4",
+    "a": 169.12,
+    "b": 177.68,
+    "ratio": 1.0,
+    "oye": "Y  para  explicar  todo  esto  en  campaña,  el  presidente  eligió  sus  escenarios.  En  octubre,  en  la  revuelta  de  televisión  española  prometió  esto.",
+    "txt": "[serious] Y para explicar todo esto, en campaña, el presidente eligió sus escenarios. En octubre, en La Revuelta, de Televisión Española, prometió esto."
+   },
+   {
+    "key": "f098389e6f",
+    "a": 177.68,
+    "b": 188.03,
+    "ratio": 1.0,
+    "oye": "En  cambio,  el  presidente  sí  fue  a  The  Wild  Project  y  a  programas  de  entretenimiento  en  otras  cadenas.  En  la  séptima,  la  colaboradora  Alba  Carrillo  le  preguntó  por  su  vida  sentimental.",
+    "txt": "En cambio, el presidente sí fue a The Wild Project, y a programas de entretenimiento en otras cadenas. En La Séptima, la colaboradora Alba Carrillo le preguntó por su vida sentimental."
+   },
+   {
+    "key": "a0c14de295",
+    "a": 188.03,
+    "b": 199.36,
+    "ratio": 1.0,
+    "oye": "Mal  informado.  Queda  una  última  pregunta.  Es  la  más  sencilla  de  todas.  Y  él  mismo  la  formuló  palabra  por  palabra  hace  ocho  años.  Sólo  que  entonces  se  la  hizo  a  otro.",
+    "txt": "[softly] Mal informado. [pause] Queda una última pregunta. Es la más sencilla de todas. Y él mismo la formuló, palabra por palabra, hace ocho años. [short pause] Solo que entonces se la hizo a otro."
+   }
+  ]
+ },
+ "v10": {
+  "dur": 181.68,
+  "units": [
+   {
+    "key": "f1cb3a45d5",
+    "a": 0.0,
+    "b": 7.14,
+    "ratio": 0.95,
+    "oye": "Pero  Junz  ya  se  había  ido.  Y  desde  el  Congreso,  Miriam  Nogueras  le  recordó  al  presidente  de  quién  dependía.",
+    "txt": "Pero Junts ya se había ido. Y desde el Congreso, Míriam Nogueras le recordó al presidente de quién dependía."
+   },
+   {
+    "key": "8a4ecde4ff",
+    "a": 7.14,
+    "b": 23.36,
+    "ratio": 1.0,
+    "oye": "El  19  de  junio  de  2026,  el  presidente  aseguró  que  presentaría  presupuestos  en  2026  y  que  habría  elecciones  en  2027.  El  5  de  octubre  disolvió  las  Cortes,  elecciones  29  de  noviembre.",
+    "txt": "El diecinueve de junio de dos mil veintiséis, el presidente aseguró que presentaría presupuestos en dos mil veintiséis y que habría elecciones en dos mil veintisiete. [pause] El cinco de octubre disolvió las Cortes. Elecciones, veintinueve de noviembre."
+   },
+   {
+    "key": "99b6c85ed3",
+    "a": 23.36,
+    "b": 40.63,
+    "ratio": 0.95,
+    "oye": "Una  huelga  contra  la  oposición.  El  presidente,  en  cambio,  dijo  que  no  era  una  huelga  contra  nadie.  Pero  es  un  lenguaje  que  el  presidente  ya  había  usado  para  referirse  a  una  parte  de  los  medios  y  de  las  redes.  February  de  2024,  la  sexta.",
+    "txt": "Una huelga contra la oposición. [short pause] El presidente, en cambio, dijo que no era «una huelga contra nadie». [pause] Pero es un lenguaje que el presidente ya había usado para referirse a una parte de los medios y de las redes. Febrero de dos mil veinticuatro, laSexta."
+   },
+   {
+    "key": "1c6f11f7f5",
+    "a": 40.63,
+    "b": 48.07,
+    "ratio": 1.0,
+    "oye": "Dos  meses  antes,  en  la  cumbre  de  la  OTAN  en  Ankara,  Donald  Trump  había  cargado  contra  España  por  su  gasto  militar.",
+    "txt": "Dos meses antes, en la cumbre de la OTAN en Ankara, Donald Trump había cargado contra España por su gasto militar."
+   },
+   {
+    "key": "05b557525d",
+    "a": 48.07,
+    "b": 63.04,
+    "ratio": 1.0,
+    "oye": "Gobernar  así  tiene  costes.  A  veces  los  paga  el  propio  gobierno.  En  abril  de  2023,  tras  cientos  de  rebajas  de  condena  a  agresores  sexuales  por  la  ley  del  solo  sí  es  sí,  el  presidente  pidió  perdón  a  las  víctimas.",
+    "txt": "[serious] Gobernar así tiene costes. A veces los paga el propio Gobierno. En abril de dos mil veintitrés, tras cientos de rebajas de condena a agresores sexuales por la ley del solo sí es sí, el presidente pidió perdón a las víctimas."
+   },
+   {
+    "key": "3ff5b6a8fd",
+    "a": 63.04,
+    "b": 70.26,
+    "ratio": 1.0,
+    "oye": "16  de  mayo  de  2024,  foro  sobre  fondos  europeos.  El  presidente  presume  de  datos.",
+    "txt": "Dieciséis de mayo de dos mil veinticuatro. Foro sobre fondos europeos. El presidente presume de datos."
+   },
+   {
+    "key": "e67d049d4e",
+    "a": 70.26,
+    "b": 86.92,
+    "ratio": 0.93,
+    "oye": "Pero  no  todos  en  su  propio  gobierno  lo  vieron  igual.  Su  vicepresidenta  segunda,  Yolanda  Díaz,  le  contestó  en  la  sexta  según  recogió  Europa  Pres.  No  es  verdad  que  la  economía  vaya  como  un  cohete,  cuando  el  salario  mediano  es  de  1 .545  euros  al  mes.",
+    "txt": "Pero no todos en su propio Gobierno lo vieron igual. Su vicepresidenta segunda, Yolanda Díaz, le contestó en laSexta, según recogió Europa Press: no es verdad que la economía vaya como un cohete cuando el salario mediano es de mil quinientos cuarenta y cinco euros al mes."
+   },
+   {
+    "key": "b5a5de3f91",
+    "a": 86.92,
+    "b": 109.76,
+    "ratio": 0.91,
+    "oye": "Un  millón  de  viviendas  en  ocho  años.  Según  los  datos  recopilados  por  Idealista  y  publicados  por  artículo  14,  las  viviendas  terminadas  en  ese  periodo  rondan  las  705 .000,  unas  752 .000,  si  se  cuenta  2 .018  entero.  Y  Feijó  le  recordó  en  el  debate  otra  cifra.  ",
+    "txt": "Un millón de viviendas en ocho años. [pause] Según los datos recopilados por Idealista y publicados por Artículo Catorce, las viviendas terminadas en ese periodo rondan las setecientas cinco mil; unas setecientas cincuenta y dos mil si se cuenta dos mil dieciocho entero. Y Feijóo le recordó en el de"
+   },
+   {
+    "key": "fdc8d9e84d",
+    "a": 109.76,
+    "b": 121.66,
+    "ratio": 0.93,
+    "oye": "El  presidente  habló  de  una  tragedia  social  y  pidió  apoyo  para  su  decreto  de  vivienda.  En  el  debate,  Feijó  le  preguntó  si  Mari  Carmen  era  la  persona  que  le  había  escrito  una  carta  que  no  respondió.",
+    "txt": "El presidente habló de una tragedia social y pidió apoyo para su decreto de vivienda. En el debate, Feijóo le preguntó si Maricarmen era la persona que le había escrito una carta que no respondió."
+   },
+   {
+    "key": "8bd16d9282",
+    "a": 121.66,
+    "b": 126.9,
+    "ratio": 1.0,
+    "oye": "No  fue.  Pablo  Motos  lo  comentó  en  su  programa  el  11  de  noviembre.",
+    "txt": "No fue. [short pause] Pablo Motos lo comentó en su programa el once de noviembre."
+   },
+   {
+    "key": "1e8e7c22eb",
+    "a": 126.9,
+    "b": 168.2,
+    "ratio": 0.92,
+    "oye": "Y  al  día  siguiente,  en  Tele5,  cuando  el  periodista  Carlos  Franganillo  le  apretó  con  un  dato,  le  respondió  así.",
+    "txt": "Y al día siguiente, en Telecinco, cuando el periodista Carlos Franganillo le apretó con un dato, le respondió así."
+   },
+   {
+    "key": "011803d1b7",
+    "a": 168.2,
+    "b": 152.36,
+    "ratio": 0.0,
+    "oye": "",
+    "txt": "Ocho años. Una pandemia, un volcán, una riada, dos tragedias ferroviarias, una crisis en la frontera de Ceuta. Una amnistía. Tres presupuestos prorrogados. Un exministro y su asesor, condenados. Su secretario de Organización, investigado. Su mentor, investigado. Su esposa, procesada. Su hermano, con"
+   },
+   {
+    "key": "f97dce6e89",
+    "a": 152.36,
+    "b": 181.68,
+    "ratio": 0.8,
+    "oye": "En  el  debate  de  este  mes,  ocho  años  y  medio  después,  el  presidente  que  la  ganó  contestó  así  a  la  pregunta  de  la  corrupción.",
+    "txt": "[softly] Aquel día, la moción salió adelante. Rajoy dejó de ser presidente. [pause] Y en el debate de este mes, ocho años y medio después, el presidente que la ganó contestó así a la pregunta de la corrupción."
+   }
+  ]
+ },
+ "v11": {
+  "dur": 61.04,
+  "units": [
+   {
+    "key": "893532dcee",
+    "a": 0.0,
+    "b": 36.93,
+    "ratio": 1.0,
+    "oye": "Hay  presidentes  que  caen  por  una  sola  cosa.  Él  ha  sobrevivido  a  todas,  a  un  partido  que  le  echó  y  al  que  volvió  a  ganar,  a  cuatro  elecciones  generales  en  cuatro  años,  a  una  pandemia,  a  sus  socios,  a  los  escándalos  de  los  hombres  que  eligió.  Quienes  le  ",
+    "txt": "[serious] Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. [pause] Quienes le defienden ven en eso resistenc"
+   },
+   {
+    "key": "e816c63fba",
+    "a": 36.93,
+    "b": 47.06,
+    "ratio": 1.0,
+    "oye": "Aquel  31  de  mayo  de  2018,  desde  la  tribuna  del  Congreso,  Pedro  Sánchez  le  explicó  a  Mariano  Rajoy  qué  hace  un  presidente  cuando  la  corrupción  llega  a  su  partido.",
+    "txt": "[serious] Aquel treinta y uno de mayo de dos mil dieciocho, desde la tribuna del Congreso, Pedro Sánchez le explicó a Mariano Rajoy qué hace un presidente cuando la corrupción llega a su partido."
+   },
+   {
+    "key": "3e8fd41440",
+    "a": 47.06,
+    "b": 61.04,
+    "ratio": 1.0,
+    "oye": "Pedro  Sánchez  no  ha  participado  en  este  documental.  Todas  sus  respuestas  son  reales,  públicas  y  tienen  fecha.  Las  preguntas  eran  nuestras.  Las  conclusiones  no.  Esas,  el  29  de  noviembre,  son  de  quién  vota.",
+    "txt": "[serious] Pedro Sánchez no ha participado en este documental. Todas sus respuestas son reales, públicas y tienen fecha. Las preguntas eran nuestras. [pause] Las conclusiones no. [short pause] Esas, el veintinueve de noviembre, son de quien vota."
+   }
+  ]
+ }
+}

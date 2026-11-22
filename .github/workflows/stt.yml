@@ -23,6 +23,6 @@ jobs:
         if: always()
         run: |
           git config --global user.name fabrica; git config --global user.email fabrica@users.noreply.github.com
-          mkdir /tmp/r && cd /tmp/r && git init -q && git checkout -q -b out-e29n90_stt
+          mkdir /tmp/r && cd /tmp/r && git init -q && B=out-e29n90_stt_$(sed -n 2p $GITHUB_WORKSPACE/stt/run.txt); git checkout -q -b $B
           cp /tmp/stt_out/* . 2>/dev/null || true
-          git add -A && git commit -qm "stt" && git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" out-e29n90_stt
+          git add -A && git commit -qm "stt" && git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" $B

@@ -486,6 +486,7 @@ def render_shot(sh_, out, workdir):
         L = R.get('dur') or float(sh(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', R['path']]).strip() or 0)
         slow = min(1.6, max(1.0, dur / max(.5, L - 1.5))) if L else 1.0
         start = max(0, min(L - dur / slow - .2, 1.0 + (L - dur / slow) * random.random() * .5)) if L else 0
+        if sp.get('start') is not None: start = float(sp['start']); slow = 1.0  # e29n90: tramo elegido a mano
         base = ['-ss', f'{start:.2f}', '-stream_loop', '-1', '-i', R['path']]
         crop = sp.get('crop')  # recorte de franjas negras de origen: [x, y, w, h] relativos
         cf = f'crop=iw*{crop[2]}:ih*{crop[3]}:iw*{crop[0]}:ih*{crop[1]},' if crop else 'cropdetect=limit=24:round=2:reset=0,' if False else ''

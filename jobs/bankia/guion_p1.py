@@ -33,12 +33,19 @@ NAR("Esta es la historia de los diez meses que hundieron a Bankia. Contada día 
 T('Bankia', 'Salió a bolsa. Diez meses después pidió el rescate', secs=5.5, sting='tema', text='[dramatically] Bankia. Diez meses.', chapter=False)
 
 # ---------------- I · SIETE CAJAS Y UNA TORRE ----------------
-T('Siete cajas y una torre', '2010', num='I', secs=4.5, sting='tema')
+T('Siete cajas y una torre', '2010', num='I', secs=6.0, sting='tema')
 B('fondo')
 NEW("Para entender cómo se llegó a esa sala, hay que retroceder dos años. Dos mil diez. La burbuja inmobiliaria ha reventado y las cajas de ahorros, las entidades que durante un siglo guardaron el dinero de los españoles, están llenas de pisos que nadie compra y de préstamos a promotores que ya no pueden pagar.",
     ai('grua_parada', 'abandoned tower cranes over a half-built housing development on the outskirts of a Spanish city at dusk, empty concrete skeletons, long shadows, melancholic', at='La burbuja inmobiliaria ha reventado'),
     ai('libreta_caja', 'an old-fashioned savings passbook and a few coins on a wooden counter of a traditional Spanish savings bank, warm nostalgic light, hands of an elderly customer', at='las cajas de ahorros'),
     ai('bloques_vacios', 'rows of brand new empty apartment blocks with no lights on at night, a single streetlight, unfinished landscaping, ghost town atmosphere', at='llenas de pisos que nadie compra'))
+DAT("Para medir la burbuja basta un dato. En dos mil seis se empezaron a construir en España más viviendas que en Alemania, Francia e Italia juntas. Y una parte enorme de ese ladrillo se pagó con crédito de las cajas.",
+    ai('obra_europa', 'endless rows of identical half-built apartment blocks stretching to the horizon under a stormy sky, tower cranes, bare concrete skeletons, aerial view, cinematic', at='Para medir'),
+    cd(dict(type='kw', word='MÁS VIVIENDAS', sub='que Alemania, Francia e Italia juntas · 2006'), at='más viviendas'))
+NEW("Hasta que en septiembre de dos mil ocho quiebra Lehman Brothers en Nueva York. El grifo del dinero internacional se cierra de golpe. Y las cajas, que pedían prestado en esos mercados para prestar a los promotores, se quedan con dos cosas: pisos sin vender y deudas que pagar.",
+    ph('Lehman Brothers headquarters New York 2008', at='Lehman Brothers', lt=['Sede de Lehman Brothers', 'Nueva York'], lugar='lehman'),
+    ai('grifo_cerrado', 'a heavy brass tap on a marble bank wall turned shut, the last drop of liquid gold falling into an empty basin, dramatic close-up', at='El grifo'),
+    ai('pisos_vacios', 'a brand-new empty apartment building at dusk with every window dark, unsold, weeds growing at the entrance, lonely streetlight', at='pisos sin vender'))
 DAT("Una caja de ahorros no tenía dueños ni accionistas. Sus consejos se repartían entre gobiernos autonómicos, ayuntamientos, partidos y sindicatos. Y en dos mil diez, el Banco de España las empuja a fusionarse para sobrevivir.",
     ai('consejo_caja', 'a crowded old-fashioned boardroom of a savings bank with wood panelling, men of different ages arguing across the table, seen from behind, cigarette smoke and warm lamplight', at='Sus consejos se repartían'),
     ph('Banco de España Madrid edificio', at='el Banco de España', lt=['Banco de España', 'Madrid'], lugar='bde'))
@@ -47,7 +54,7 @@ DAT("La más grande de todas tenía casi tres siglos de historia. Caja Madrid na
     ai('monte_piedad', 'an eighteenth-century Madrid pawn office interior, poor families in period clothes handing over bundles to a clerk behind a wooden counter by candlelight, oil painting, faces in shadow', at='para prestar a los pobres'))
 NAR("La mayor de todas esas uniones nace el treinta de julio de dos mil diez. Siete cajas firman un contrato de integración. Dos gigantes, Caja Madrid y Bancaja. Y cinco pequeñas: la Caja Insular de Canarias, Caja de Ávila, Caixa Laietana, Caja Segovia y Caja Rioja.",
     ai('firma_siete', 'seven fountain pens laid side by side on a long contract on a polished table, hands reaching for them, dramatic overhead light, emerald and gold tones', at='Siete cajas firman'),
-    ph('Caja Madrid sede Paseo de la Castellana', at='Caja Madrid', lt=['Caja Madrid', 'Madrid'], lugar='cajamadrid'),
+    cd(dict(type='kw', word='CAJA MADRID', sub='nacida del Monte de Piedad de 1702'), at='Caja Madrid'),
     ph('Bancaja sede Valencia', at='Bancaja', lt=['Bancaja', 'Valencia'], lugar='bancaja'),
     cd(dict(type='list', header='Las siete cajas de Bankia', items=[('Caja Madrid', 'Madrid'), ('Bancaja', 'Valencia'), ('Caja Insular de Canarias', 'Las Palmas'), ('Caja de Ávila · Caja Segovia', 'Castilla y León'), ('Caixa Laietana · Caja Rioja', 'Mataró · Logroño')]), at='cinco pequeñas'))
 NEW("Lo llaman fusión fría. Cada caja sigue existiendo, pero el negocio pasa a una sociedad central: el Banco Financiero y de Ahorros, que todo el mundo conocerá por sus siglas, BFA. Para arrancar, el Estado le presta cuatro mil cuatrocientos sesenta y cinco millones de euros del fondo de rescate bancario, el FROB.",
@@ -58,6 +65,9 @@ NAR("Sobre el papel, la idea tenía lógica: siete entidades débiles juntas pes
     ai('ladrillos_pila', 'a giant unstable tower of red bricks stacked inside a grand marble bank hall, workers in suits looking up at it, cracks forming, dramatic chiaroscuro', at='Solo las hacía más grandes'))
 DAT("El nuevo grupo arranca con más de trescientos mil millones de euros en balance. Es el tercer banco de España. Y tiene un presidente con un currículum que pocos banqueros del mundo pueden igualar.",
     ai('torre_noche', 'two leaning glass office towers facing each other over a busy roundabout in Madrid at night, light trails of cars below, emerald and gold reflections, cinematic wide shot', at='el tercer banco de España'))
+NAR("Un gigante, sí. Pero con pies de barro. Y dentro de ese barro había una pregunta que nadie quería hacer en voz alta: cuánto valía de verdad todo el ladrillo que las cajas guardaban en sus balances.",
+    ai('pies_barro', 'a colossal golden statue of a banker standing on cracked crumbling clay feet, small figures below looking up, chiaroscuro', at='Un gigante'),
+    ai('ladrillo_balanza', 'a stack of red bricks piled on one side of an old brass scale weighing against gold coins, dim vault', at='cuánto valía'))
 NAR("Rodrigo Rato. Vicepresidente económico en los gobiernos de José María Aznar. Director gerente del Fondo Monetario Internacional entre dos mil cuatro y dos mil siete. Ahora preside el grupo entero.",
     ph('Rodrigo Rato', at='Rodrigo Rato', lt=['Rodrigo Rato', 'Presidente de Caja Madrid, BFA y Bankia (2010-2012)', 'banca'], lugar='rato'),
     ph('International Monetary Fund headquarters Washington', at='Fondo Monetario Internacional', lt=['Sede del FMI', 'Washington'], lugar='fmi'),
@@ -78,7 +88,8 @@ PRE("En la prensa económica se repite una frase: nace un gigante. Pero dentro d
     ai('carta_sobre', 'a sealed manila envelope lying alone on a desk inside a dark government office, a beam of light from a window falling on it, ominous', at='Y lo deja por escrito'))
 
 # ---------------- II · EL INSPECTOR ----------------
-T('El inspector', 'Abril y mayo de 2011', num='II', secs=4.5, sting='tema')
+M('tension', 6)
+T('El inspector', 'Abril y mayo de 2011', num='II', secs=6.0, sting='tema')
 DOC("Real Decreto-ley de dieciocho de febrero de dos mil once, para el reforzamiento del sistema financiero. Capital principal mínimo del ocho por ciento. Del diez por ciento para las entidades que dependan de los mercados mayoristas y no tengan al menos un veinte por ciento de su capital en manos privadas. Plazo: treinta de septiembre.",
     cd(dict(type='doc', title='Real Decreto-ley 2/2011', lines=['para el reforzamiento del sistema financiero', 'Capital principal: 8 % · 10 % sin inversores privados'], source='Boletín Oficial del Estado · 19 de febrero de 2011'), at='Real Decreto-ley de dieciocho de febrero'))
 DAT("El diez de marzo, el Banco de España comunica a doce entidades que les falta capital. Unos quince mil millones de euros para todo el sector. En la lista está BFA.",
@@ -93,6 +104,8 @@ NEW("La fórmula que se elige tiene truco. No saldrá a bolsa todo el grupo. Se 
     cd(dict(type='list', header='La estructura de doble banco', items=[('Bankia', 'oficinas, clientes y depósitos · sale a bolsa'), ('BFA, la matriz', 'suelo, préstamos dudosos y participadas · se queda fuera')]), at='Se crea un banco nuevo, Bankia'))
 DAT("A esto se le llamó estructura de doble banco. Bankia sería el escaparate. BFA, la trastienda.",
     ai('escaparate', 'a brightly lit luxurious shop window at night on a Madrid street, and behind it through a half-open door a dark cluttered storeroom piled with boxes, chiaroscuro', at='Bankia sería el escaparate'))
+NEW("Para que te hagas una idea: es como poner en la calle una tienda reluciente y guardar los muebles rotos en el almacén de atrás. El cliente solo ve el escaparate.",
+    ai('tienda_almacen', 'a gleaming lit shop window on a Madrid street at night, and through a half-open back door a dark storeroom full of broken furniture, cinematic', at='Para que te hagas'))
 NAR("Y aquí entra en escena un hombre que casi nadie conocía. José Antonio Casaus, jefe del equipo de inspectores del Banco de España que vigila día a día al grupo. Entre abril y mayo de dos mil once envía cuatro correos electrónicos a sus superiores.",
     ai('inspector_pantalla', 'a middle-aged man in shirtsleeves typing at a computer late at night in a dim office, only the glow of the screen on his tired face seen in profile and shadow, stacks of files around', at='José Antonio Casaus'),
     ai('correo_enviar', 'close-up of a finger pressing a key on an old office keyboard in the dark, the cold blue glow of a monitor, tension', at='cuatro correos electrónicos'))
@@ -114,6 +127,10 @@ PRE("En los despachos de Madrid se decía que la salida a bolsa de Bankia era un
 PRE("Y mientras tanto, en la calle, el país hierve. El quince de mayo de dos mil once, miles de personas acampan en la Puerta del Sol. Una de sus pancartas se repetiría por toda España: no somos mercancía en manos de políticos y banqueros.",
     ph('Acampada Sol 15M Madrid 2011', at='acampan en la Puerta del Sol', lt=['Puerta del Sol, Madrid', 'Mayo de 2011'], lugar='sol15m'),
     ai('plaza_noche', 'a vast crowd of young people camped in a city square at night under tarps and lights, banners without readable text, warm glow, seen from above, oil painting', at='en manos de políticos y banqueros'))
+NEW("En las pancartas de Sol hay una frase que se repite. No somos mercancía en manos de políticos y banqueros. Muy cerca de allí, en las oficinas del nuevo banco, se prepara la mayor colocación de acciones del año.",
+    ph('Acampada Sol 15M Madrid 2011', at='En las pancartas', lt=['Acampada del 15-M', 'Puerta del Sol, Madrid'], lugar='sol15m'),
+    cd(dict(type='quote', text='No somos mercancía en manos de políticos y banqueros', attrib='Lema de Democracia Real Ya · 2011'), at='No somos'),
+    ai('oficina_preparativos', 'inside a bank branch after hours, stacks of glossy brochures being unpacked onto desks, green lamps, figures seen from behind', at='Muy cerca'))
 NAR("Así que el veintinueve de junio de dos mil once, la Comisión Nacional del Mercado de Valores registra el folleto de la oferta. Cientos de páginas. Cifras, riesgos, cuentas. Un documento que, años después, el Tribunal Supremo examinaría frase a frase.",
     ph('Comisión Nacional del Mercado de Valores sede Madrid', at='la Comisión Nacional del Mercado de Valores', lt=['CNMV', 'Madrid'], lugar='cnmv'),
     ai('folleto_grueso', 'a thick bound prospectus document dropped heavily onto a desk, pages fluttering, dust in a shaft of light, no readable text', at='registra el folleto'),

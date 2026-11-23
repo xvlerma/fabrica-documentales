@@ -3,7 +3,8 @@
 from lib import *
 
 # ---------------- VI · LA FACTURA ----------------
-T('La factura', '2012 · 2013', num='VI', secs=4.5, sting='tema')
+M('tension', 6)
+T('La factura', '2012 · 2013', num='VI', secs=6.0, sting='tema')
 B('drama')
 NEW("Para entender quién pagó, hay que hablar de un producto con nombre amable: las participaciones preferentes. Durante años, las cajas que formaron Bankia las vendieron en sus oficinas como si fueran depósitos a plazo. Pero no lo eran.",
     ai('preferentes_mesa', 'an elderly woman at a savings bank desk being handed a contract, the employee pointing where to sign, warm deceptive light, seen from the side, faces turned away', at='las participaciones preferentes'),
@@ -13,6 +14,9 @@ DAT("Las preferentes eran deuda perpetua de la entidad. Sin fecha de devolución
 NEW("Pongamos un ejemplo. Una jubilada con veinte mil euros ahorrados va a su oficina de siempre. Le ofrecen un producto que paga más que un depósito. Firma. Lo que no le explican es que, si la entidad se hunde, ese dinero puede quedar atrapado sin fecha de salida. Eso es lo que descubrieron, de golpe, cientos de miles de familias.",
     AIR('preferentes_mesa', at='Pongamos un ejemplo'),
     ai('cocina_noche', 'an elderly woman sitting alone at her kitchen table late at night with a pile of bank letters and a calculator, a single lamp, her face hidden in her hands, seen from the side in shadow', at='cientos de miles de familias'))
+NAR("En los juzgados aparecieron historias difíciles de creer. Clientes que no sabían leer ni escribir y que habían firmado igualmente. Personas de más de ochenta años con un producto perpetuo. Ahorros de toda una vida, atrapados en un papel que no se podía vender.",
+    ai('firma_temblorosa', 'an elderly wrinkled hand signing a long contract with a trembling pen at a bank desk, face out of frame, warm lamp light', at='Clientes que no'),
+    ai('papel_atrapado', 'a savings passbook locked inside a small glass case with chains around it, dust, single beam of light', at='Ahorros de toda'))
 NAR("Como condición del rescate europeo, Bruselas impone en dos mil trece que esos inversores asuman pérdidas. Sus preferentes se convierten a la fuerza en acciones de Bankia, con una quita. Y por las calles de media España empieza a verse algo que no se había visto nunca: jubilados manifestándose frente a los bancos.",
     ph('Berlaymont building European Commission Brussels', at='Bruselas impone', lt=['Comisión Europea', 'Bruselas'], lugar='berlaymont'),
     ph('manifestación preferentes', at='jubilados manifestándose', lt=['Protesta de afectados por las preferentes', 'España, 2013'], lugar='preferentes'),
@@ -36,8 +40,11 @@ NEW("Goirigolzarri tiene un encargo: que Bankia sobreviva para que el Estado pue
 NEW("Pero la pregunta de fondo seguía en el aire. Si las cuentas con las que Bankia salió a bolsa no reflejaban la realidad, ¿alguien lo sabía? ¿Alguien iba a responder por ello?",
     ai('balanza_justicia', 'a bronze statue of blind Justice holding scales in a dark courthouse hall, a beam of cold light falling on the scales, dust in the air', at='Alguien iba a responder por ello'))
 
+NAR("Antes de seguir, una pregunta para ti. ¿Quién crees que debería haber respondido ante la justicia? Déjalo en los comentarios. Porque lo que decidieron los tribunales sorprendió a casi todo el mundo.",
+    ai('balanza_niebla', 'golden scales of justice standing alone in thick fog inside an empty courtroom, dramatic backlight', at='Antes de seguir'))
 # ---------------- VII · EL JUICIO ----------------
-T('El juicio', '2012 · 2022', num='VII', secs=4.5, sting='tema')
+M('tension', 6)
+T('El juicio', '2012 · 2022', num='VII', secs=6.0, sting='tema')
 B('juicio')
 NAR("Junio de dos mil doce. Un partido político, UPyD, presenta una querella ante la Audiencia Nacional por la salida a bolsa. Poco después se suma una iniciativa ciudadana financiada con pequeñas donaciones, el grupo conocido como Quince eme pa Rato. El juez Fernando Andreu imputa a Rato y a una treintena de antiguos consejeros.",
     ph('Audiencia Nacional Madrid', at='la Audiencia Nacional', lt=['Audiencia Nacional', 'Madrid'], lugar='audiencia'),
@@ -62,11 +69,14 @@ NAR("Pero hay un detalle que muchos pasaron por alto. El dinero para devolver es
     ai('monedas_mano', 'hands of many different people pouring coins into one large pile on a dark marble floor, the pile glowing gold, symbolic, top-down view', at='de todos los contribuyentes'))
 B('ironia')
 NEW("Y en medio de todo esto, estalla otro escándalo. Otoño de dos mil catorce. Se descubre que durante años decenas de consejeros y directivos de Caja Madrid y Bankia usaron tarjetas de crédito que no aparecían en la contabilidad oficial. Las llamarán tarjetas black.",
-    ai('tarjeta_negra', 'a matte black credit card lying on a white tablecloth in a luxury restaurant next to a glass of wine, candlelight, close-up, no readable text or logos', at='tarjetas black'),
+    ai('tarjeta_mantel', 'a matte black credit card lying on a white tablecloth in a luxury restaurant next to a glass of wine, candlelight, close-up, no readable text or logos', at='tarjetas black'),
     ai('compras_lujo', 'a hand in a dark suit sleeve sliding a black card across the glass counter of a jewelry shop, gold watches under the glass, warm seductive light, no readable text', at='usaron tarjetas de crédito'))
 DAT("Sesenta y cinco condenados en dos mil diecisiete. Unos doce millones de euros gastados entre dos mil tres y dos mil doce. Joyas, viajes, restaurantes, ropa. Había usuarios propuestos por el Partido Popular, por el PSOE, por Izquierda Unida, por los sindicatos y por la patronal.",
     cd(dict(type='counter', **{'from': 0}, to=12, label='millones de euros gastados con las tarjetas black · 2003-2012', suffix=' M€'), at='Unos doce millones de euros'),
     cd(dict(type='list', header='Tarjetas black · sentencia de 2017', items=[('Condenados', '65'), ('Miguel Blesa', '6 años de prisión'), ('Rodrigo Rato', '4 años y medio')]), at='Sesenta y cinco condenados'))
+DAT("Los cargos eran de todo tipo. Restaurantes, viajes, ropa, joyas, retiradas de dinero en cajeros. Gastos que no se declaraban a Hacienda como lo que en realidad eran: un sobresueldo.",
+    ai('tarjeta_mantel', 'a matte black credit card lying on a white tablecloth among restaurant receipts, champagne glasses and a jewellery box, dim candlelight', at='Los cargos'),
+    cd(dict(type='kw', word='SOBRESUELDO', sub='gastos sin declarar a Hacienda'), at='un sobresueldo'))
 DAT("Según la sentencia, los consejeros propuestos por el PP gastaron más de dos coma nueve millones. Los propuestos por el PSOE, uno coma tres. Los de Izquierda Unida, más de ochocientos mil euros. El resto, directivos y representantes de otras organizaciones.",
     cd(dict(type='list', header='Gasto con las tarjetas black por origen del consejero', items=[('Propuestos por el PP', 'más de 2,9 millones'), ('Propuestos por el PSOE', '1,34 millones'), ('Propuestos por IU', 'más de 818.000 euros')]), at='Según la sentencia, los consejeros'))
 NAR("Miguel Blesa, el antecesor de Rato en Caja Madrid, es condenado a seis años. Fallecerá en dos mil diecisiete, antes de que su condena sea firme. Rato, a cuatro años y medio. El Supremo lo confirma en octubre de dos mil dieciocho.",
@@ -115,6 +125,8 @@ NAR("[softly] Y así queda una paradoja difícil de explicar. La justicia civil 
     cd(dict(type='split', left=dict(title='Vía civil · 2016', lines=['El folleto indujo a error', 'Hay que devolver el dinero']), right=dict(title='Vía penal · 2020-2022', lines=['No se prueba ningún delito', 'Los 34, absueltos']), strike=False), at='una paradoja difícil de explicar'),
     ai('dos_puertas', 'two identical heavy wooden courtroom doors side by side in a marble hall, one lit warm gold, the other cold blue, a lone figure standing between them seen from behind', at='Y las dos conviven'))
 
+NEW("Dicho de otro modo. Para la justicia civil, el folleto engañaba. Para la justicia penal, nadie cometió un delito al redactarlo. Son dos jurisdicciones distintas, con exigencias distintas. Pero para un pequeño ahorrador, la diferencia es muy difícil de entender.",
+    cd(dict(type='list', header='Dos justicias, dos respuestas', items=[('Vía civil · Supremo 2016', 'El folleto engañaba'), ('Vía penal · Audiencia 2020', 'Ningún delito')]), at='Dicho de otro modo'))
 NEW("[pause] Y la historia de Rato con Bankia todavía guardaba un capítulo más. ¿Recuerdas la gran campaña publicitaria de la salida a bolsa?",
     AIR('marquesina', at='la gran campaña publicitaria'))
 DOC("Diciembre de dos mil veinticuatro. La Audiencia Provincial de Madrid condena a Rodrigo Rato a cuatro años, nueve meses y un día de prisión por tres delitos fiscales, blanqueo de capitales y corrupción entre particulares. Entre los hechos que da por probados: que impuso que Bankia contratara a dos agencias de publicidad, Publicis y Zenith, a cambio de comisiones.",
@@ -123,7 +135,8 @@ DOC("Diciembre de dos mil veinticuatro. La Audiencia Provincial de Madrid conden
 NEW("La Fiscalía pedía muchos más años. Rato anunció que recurriría la sentencia ante el Tribunal Supremo, por lo que no es firme mientras el alto tribunal no se pronuncie.",
     ai('escalones_supremo', 'an old man in a dark coat walking slowly up the wide stone steps of a neoclassical courthouse alone at dusk, seen from behind, long shadow', at='no es firme'))
 # ---------------- VIII · EL FINAL ----------------
-T('El final', '2013 · 2021', num='VIII', secs=4.5, sting='tema')
+M('tension', 6)
+T('El final', '2013 · 2021', num='VIII', secs=6.0, sting='tema')
 B('tema')
 NEW("¿Y Bankia? Contra casi todos los pronósticos, sobrevivió. Con Goirigolzarri al frente volvió a dar beneficios y empezó a devolver dividendos a su principal accionista, el Estado.",
     ph('José Ignacio Goirigolzarri', at='Con Goirigolzarri al frente', lt=['José Ignacio Goirigolzarri', 'Presidente de Bankia (2012-2021)', 'banca'], lugar='goiri'),
@@ -131,12 +144,18 @@ NEW("¿Y Bankia? Contra casi todos los pronósticos, sobrevivió. Con Goirigolza
 DAT("En dos mil dieciocho absorbe a otra entidad rescatada, Banco Mare Nostrum. Y en dos mil veinte, en plena pandemia, llega la noticia que cierra el círculo.",
     ai('fusion_puentes', 'two old stone bridges converging into one over a river at dawn in mist, golden light, symbolic, oil painting', at='Banco Mare Nostrum'))
 NAR("En septiembre de dos mil veinte se anuncia: CaixaBank absorbe a Bankia. El veintiséis de marzo de dos mil veintiuno, la acción cotiza por última vez. Tres mil quinientos treinta y siete días después de aquella campana.",
-    ph('CaixaBank sede Valencia', at='CaixaBank absorbe a Bankia', lt=['CaixaBank', 'sede social en Valencia'], lugar='caixabank'),
+    cd(dict(type='kw', word='CAIXABANK', sub='absorbe a Bankia · marzo de 2021'), at='CaixaBank absorbe a Bankia'),
     cd(dict(type='counter', **{'from': 3400}, to=3537, label='días cotizó Bankia en bolsa · 2011-2021'), at='Tres mil quinientos treinta y siete días'))
 
 DAT("El Estado se queda con algo más del dieciséis por ciento del nuevo CaixaBank. Ha cobrado dividendos durante estos años. Pero de los más de veintidós mil millones que puso en Bankia, la mayor parte sigue sin recuperarse. Y el propio Gobierno ha reconocido que se está lejos de recuperarlo. Goirigolzarri, por su parte, pasa a presidir el nuevo gigante.",
     cd(dict(type='kw', word='16 %', sub='participación del Estado en CaixaBank tras la fusión'), at='algo más del dieciséis por ciento'),
     ai('caja_vacia_luz', 'an open empty steel safe in a dark vault with a single coin left inside catching the light, cinematic, melancholic', at='la mayor parte sigue sin recuperarse'))
+DAT("La cuenta del rescate, en cambio, nunca se cerró. En dos mil catorce, el FROB vendió un siete y medio por ciento de Bankia por unos mil trescientos millones. En dos mil diecisiete, otro siete por ciento por unos ochocientos dieciocho. Muy lejos de los más de veintidós mil millones que se metieron.",
+    cd(dict(type='list', header='Lo que recuperó el FROB vendiendo acciones', items=[('2014 · 7,5 %', '≈ 1.300 M€'), ('2017 · 7 %', '≈ 818 M€'), ('Inyectado', '22.424 M€')]), at='La cuenta del rescate'))
+NAR("Y ese mismo año, el Banco de España hizo su propio cálculo para todo el sector. De todo el dinero público que se puso en la banca española durante la crisis, unos sesenta mil millones se daban ya por perdidos. Lo pagaron los contribuyentes.",
+    ph('Banco de España Madrid edificio', at='el Banco de España', lugar='bde'),
+    cd(dict(type='kw', word='60.000 M€', sub='ayudas públicas a la banca dadas por perdidas · Banco de España, 2017'), at='sesenta mil millones'),
+    ai('hucha_suelo', 'a shattered ceramic piggy bank on a dark marble floor, a few coins scattered, spotlight from above', at='Lo pagaron'))
 NEW("Recapitulemos. Siete cajas se unieron porque no podían sobrevivir solas. Un banco salió a bolsa con el aval de todos los supervisores. Trescientas cuarenta y siete mil personas compraron. Diez meses después, el Estado tuvo que poner veintidós mil millones. Los tribunales civiles devolvieron el dinero a los pequeños accionistas. Los penales no condenaron a nadie.",
     cd(dict(type='recap', title='Diez meses que costaron 22.424 millones', items=[('Siete cajas, un banco', 'julio de 2010'), ('La campana', '20 de julio de 2011 · 3,75 €'), ('El rescate', '25 de mayo de 2012 · 19.000 millones'), ('Los tribunales', 'devolución en 2016 · absolución en 2020')]), at='Recapitulemos'))
 NAR("Quedan las preguntas. ¿Por qué se ignoraron los avisos? ¿Por qué nadie paró una operación que un inspector ya llamaba bombona de oxígeno? ¿Y por qué, cuando todo se vino abajo, la factura acabó repartida entre los ahorradores y los contribuyentes?",

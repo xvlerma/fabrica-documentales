@@ -4,7 +4,7 @@
  "thumbs": [
   {
    "name": "A",
-   "commons": "Puerta de Europa (Madrid) 05.jpg",
+   "commons": "Bolsa de Madrid edited.jpg",
    "grande": "BANKIA",
    "caja": "10 MESES",
    "sub": "SALIÓ A BOLSA Y PIDIÓ EL RESCATE"
@@ -105,6 +105,56 @@
   ],
   "caixabank": [
    "caixabank"
+  ],
+  "aguirre": [
+   "esperanza aguirre",
+   "aguirre"
+  ],
+  "gallardon": [
+   "gallardón",
+   "gallardon"
+  ],
+  "sol15m": [
+   "puerta del sol",
+   "acampada sol",
+   "15-m",
+   "15m",
+   "indignados",
+   "spanish revolution"
+  ],
+  "bancovalencia": [
+   "banco de valencia"
+  ],
+  "mafo": [
+   "fernández ordóñez",
+   "fernandez ordonez",
+   "mafo"
+  ],
+  "lehman": [
+   "lehman brothers",
+   "lehman"
+  ],
+  "congreso": [
+   "congreso de los diputados",
+   "palacio de las cortes",
+   "congress of deputies"
+  ],
+  "gdansk": [
+   "gdańsk",
+   "gdansk",
+   "pge arena",
+   "stadion energa",
+   "baltic arena"
+  ],
+  "draghi": [
+   "draghi"
+  ],
+  "bce": [
+   "european central bank",
+   "banco central europeo",
+   "ecb",
+   "eurotower",
+   "grossmarkthalle"
   ]
  },
  "permitidas": [
@@ -116,7 +166,7 @@
  "id": "bankia",
  "title": "Bankia: salió a bolsa y 10 meses después pidió el rescate",
  "channel": "DocuVox",
- "stage": "cast",
+ "stage": "render",
  "align": true,
  "align_model": "small",
  "no_pad": true,
@@ -234,10 +284,10 @@
    "fondo": -37
   },
   "inter_db": -22,
-  "pause_stretch": 0.45,
-  "pause_cap": 0.6,
-  "gap_n": 1.2,
-  "gap_q": 0.9
+  "pause_stretch": 0.55,
+  "pause_cap": 0.7,
+  "gap_n": 1.5,
+  "gap_q": 1.0
  },
  "tempo": 0.92,
  "parts": 4,
@@ -248,10 +298,146 @@
   "assets/intro/docuvox.mp4"
  ],
  "seed": 2012,
- "qpicks": {},
+ "qpicks": {
+  "photo:Puerta de Europa towers Madrid": [
+   0,
+   3,
+   7
+  ],
+  "photo:José Ignacio Goirigolzarri": [
+   1,
+   2
+  ],
+  "photo:Palacio de la Bolsa de Madrid": [
+   0,
+   1,
+   2
+  ],
+  "photo:Banco de España Madrid edificio": [
+   0,
+   4,
+   5
+  ],
+  "photo:Monte de Piedad Madrid Descalzas": [
+   5,
+   6,
+   3
+  ],
+  "photo:Bancaja sede Valencia": [
+   0
+  ],
+  "photo:Rodrigo Rato": [
+   4,
+   0,
+   6
+  ],
+  "photo:International Monetary Fund headquarters Washington": [
+   4,
+   5,
+   0
+  ],
+  "photo:Esperanza Aguirre": [
+   1,
+   2,
+   6
+  ],
+  "photo:Alberto Ruiz-Gallardón": [
+   0,
+   7,
+   3
+  ],
+  "photo:José Luis Olivas": [
+   4
+  ],
+  "photo:Palacio de la Moncloa": [
+   4,
+   0
+  ],
+  "photo:Acampada Sol 15M Madrid 2011": [
+   4,
+   5,
+   2,
+   7
+  ],
+  "photo:Comisión Nacional del Mercado de Valores sede Madrid": [
+   2,
+   1,
+   0
+  ],
+  "photo:Palacio de la Bolsa de Madrid interior": [
+   0,
+   1,
+   2,
+   7
+  ],
+  "photo:Mariano Rajoy 2011": [
+   0,
+   7,
+   5
+  ],
+  "photo:Luis de Guindos": [
+   0,
+   6,
+   3
+  ],
+  "photo:Banco de Valencia sede": [
+   2,
+   3,
+   1
+  ],
+  "photo:Justus Lipsius building Brussels": [
+   0,
+   2,
+   3,
+   4
+  ],
+  "photo:Berlaymont building European Commission Brussels": [
+   1,
+   3,
+   6
+  ],
+  "photo:manifestación preferentes": [
+   0,
+   1,
+   3
+  ],
+  "photo:Audiencia Nacional Madrid": [
+   0,
+   1
+  ],
+  "photo:Tribunal Supremo Madrid": [
+   0,
+   3,
+   4,
+   6
+  ],
+  "photo:Miguel Blesa": [
+   6,
+   4,
+   5
+  ],
+  "photo:Centro penitenciario Soto del Real": [
+   0,
+   1,
+   7
+  ],
+  "photo:Audiencia Nacional San Fernando de Henares": [
+   1
+  ],
+  "photo:Miguel Ángel Fernández Ordóñez": [
+   3,
+   7,
+   0
+  ],
+  "photo:European Central Bank headquarters Frankfurt": [
+   6,
+   7,
+   4
+  ]
+ },
  "split_still": 5.0,
  "picks": {},
- "rev": 1,
+ "rev": 2,
  "units": [
   {
    "k": "B",
@@ -273,24 +459,16 @@
      "lugar": "kio"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "consejo_noche"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/160f/b98d/b8b6d5c2bc24f6d5848742cfdbce3b97.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=DnkQ2WrvuVl2AraflzKTsDGS4lHzX365XyJhYDefM0FtZde0Y8j8HeZZFh2X4hFAvFluIbtHscOC5WwH0-cuQSH8Lw4l7C2tIGO75htmcLY7SrEmWKu6q6bYfHIO1gLFTjZ5lMinLS5WMoy1UnmUEwIcP2MNsRMOngJkZ-JDjL6BN9~g8~Dl25ViofIcaqIazpq1EwIhdOQTrHV4DuxdXSEB-M5ABg84jK2pJob3WuGmRpvCked2q0MvNEcoe-AYiPpfqDiJVrNmTJnyyypM8QEJIWza2hYBCmz1tM~I9YyW1U1Ij-PvJ-09Bmn4fy31DGtAtLsMEklhpDxZBg5xkw__",
      "at": "el consejo de administración"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "reloj_sala"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/774f/269c/43d4dc3b0e6e64721887817ce8eff610.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=uIT2Mwiw7yq5x6-zadlt7Keqrp6hHNtogU1M6Saofodk2-xn4joHaZDkLOsJM5miLH5oG2S6R89JEzJYhsSY~BClvjZoS98zydgsOxggmyqgXqIDA3VWBzLQANyKJa1TsYxoeE734jpEygtUgZEKYEBwyIB9iEjPnmk9zOS4zImqQ63TVXatWkvl0h61ww4vuLqM94KWHuTIKKqN7pFhH5BgDRiRve~6LX8DOR3rkl8bQiq4J7K25dUfZuSjKYr5jVTJ6DtkilzWwkAK~5inGvwysanGe073zjHvSe0pkwwnhIGCahQa3zoL3cBXdbiNgLVEAhjQwGHM4bkK0I5xRA__",
      "at": "se encierra en una sala"
     }
    ],
    "gen": "bxh0SE8GAuiYWFs6VFAw",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0qbniY1ZCD1JQSG2GXrj/bxh0SE8GAuiYWFs6VFAw/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=-q1PhxoVsfxLh-s9aPHCstlRmr8="
+   "url": "jobs/bankia/voz/bxh0SE8GAuiYWFs6VFAw.mp3"
   },
   {
    "k": "N",
@@ -309,24 +487,16 @@
      "lugar": "goiri"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "papel_cifra"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/22d0/16be/f8248e381263484bc413afb4b23ac46a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cb1ac558ae3ca26c0eec7c1626f4b5b31405a2b1735aac8ade3eda04f5b53b66",
      "at": "Tiene una cifra apuntada"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "silencio_mesa"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1ad0/e273/f86a79f5b2f6ad385fed78ff38fbf617.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b20d4829d6acecc994ef261773e2681e62b9e20407f6dc408a0a9fa64e5b131",
      "at": "nadie en la sala habla"
     }
    ],
    "gen": "NdP4a0K8XR6wwuCZ7Cor",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zfTvjIDJjWpKArzJzcNR/NdP4a0K8XR6wwuCZ7Cor/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=yHgdibatzcjqY4Rl92zVGXKRnIU="
+   "url": "jobs/bankia/voz/NdP4a0K8XR6wwuCZ7Cor.mp3"
   },
   {
    "k": "R",
@@ -344,16 +514,12 @@
      "at": "Diecinueve mil millones"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "oro_derrumbe"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/d89e/127f/0d6aaed1c8e7b81b0d5bf33ac9468faf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a88dd385925b46478408f721137efa6b79862ba76f71e9aa6c505b0d69931f8f",
      "at": "para no hundirse"
     }
    ],
    "gen": "39sbp09qcFaGVGAHRA9y",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/e01192uU4FVsQXuXXhsK/39sbp09qcFaGVGAHRA9y/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=OFjuWxMiwqnWbnO9bDb0o4T_T_M="
+   "url": "jobs/bankia/voz/39sbp09qcFaGVGAHRA9y.mp3"
   },
   {
    "k": "N",
@@ -381,16 +547,12 @@
      "at": "Donde decía"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "sillas_vacias"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8b73/8ec3/cafa0bb871e4ea7bc7f462831dc9a5e5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9e7ec1ab6154ce6bfa09c0504c09d0b6f14ebdefe26cc32510ecef34790e9be3",
      "at": "dimite"
     }
    ],
    "gen": "bYB9oe92lqcs3qnK1Xcm",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qUfydtrgLkALNQWQx6XM/bYB9oe92lqcs3qnK1Xcm/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=mF07vkB6BuLHFSRa5xvSuJ7J4CE="
+   "url": "jobs/bankia/voz/bYB9oe92lqcs3qnK1Xcm.mp3"
   },
   {
    "k": "N",
@@ -398,11 +560,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "campana_bolsa"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2539/6516/c9764f86ade7e7a427e729dab8a6ad80.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=540ce997ae8430ea77a5dd7355fcf02a4635b80923c4575591cac35b517b13c6",
      "at": "había tocado la campana"
     },
     {
@@ -416,16 +574,12 @@
      "lugar": "bolsa"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cola_oficina"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8a20/1d43/a3f535e1b3758b72a2486101300e8dea.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5da1e7d03a8f936e237c320218e804bc6a6b253401c8c9d05e688f2be52012dc",
      "at": "trescientas cuarenta y siete mil personas"
     }
    ],
    "gen": "Zqc7rxEXiPmNrdpoXMN0",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jit1wqHMZT0VKAhWwAl0/Zqc7rxEXiPmNrdpoXMN0/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=ODldP8Sr7kkxhU1Z_ChF4AAX_hk="
+   "url": "jobs/bankia/voz/Zqc7rxEXiPmNrdpoXMN0.mp3"
   },
   {
    "k": "R",
@@ -445,7 +599,7 @@
     }
    ],
    "gen": "Nosu8jMBwUb17PFbyWy5",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rC8OlQnMorjKCnpXLHKm/Nosu8jMBwUb17PFbyWy5/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=9WeQ5BaImptRH2ESEiGLDSrMQI0="
+   "url": "jobs/bankia/voz/Nosu8jMBwUb17PFbyWy5.mp3"
   },
   {
    "k": "N",
@@ -453,24 +607,16 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "pasillo_sombra"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/43e1/48db/f223ce49946d13d29eca8b6526e01e6d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b4b0e65c9300191d1bed9e23abd7cf2ea1542a89619af1300d971f3667e4636a",
      "at": "Quién sabía"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cartera_vacia"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b5e6/02c9/e8a94a0274c5d746b75a5f92ebc96624.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=57d6ca0a885290de6868495eb305469887043b41aad65375da8854bdd9c58414",
      "at": "quién pagó la factura"
     }
    ],
    "gen": "9wqezbCAEglIYXXZOZBD",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MjJWEo2XSyCcQGhrfPmG/9wqezbCAEglIYXXZOZBD/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=nbAgQ9wIKILMRoquV-0Qts8mxX4="
+   "url": "jobs/bankia/voz/9wqezbCAEglIYXXZOZBD.mp3"
   },
   {
    "k": "N",
@@ -488,16 +634,12 @@
      "at": "los diez meses"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "mazo_sombra"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/e4a6/1450/b18c21faabf8496dc4464de0342d4ec9.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=qNGVke4l9PjmtIDagQ-wRhucQ7qpWXF0gJrcIC1c9vIcbsGt6lbWhELvbtrfDUOu98SyU7GJurlaGtYlDsF~i3Ggy~mX99kdsLE5BMjaVKq7kkdxXb-FygLsjVgrOXA~VhHU2bNLDnKE-khqmsDiUqm0K4PK~09dSamfBKMggR8HC-XmmJBYx-hymxciXYQV6YaCvBEbcykNaI4ekkq6YhXZPtuxmsd7y~22gehEtguV2KvELU55CT-Jfjwp-h0DjpJl5R1hMaBkYDnU0xcr4qi-2VtRgd55tcIo-b4qSTSYw9cEBmWgbpdj~i6jVeLnkwyEP0z4eM8CCiVTREfzNQ__",
      "at": "la cárcel"
     }
    ],
    "gen": "NAxRR1SiJ00AuhzRpkIa",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RG5wnBVb5oXiCld2XpTL/NAxRR1SiJ00AuhzRpkIa/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=_juPadhJi8nwA2TrndSu2hbC7BA="
+   "url": "jobs/bankia/voz/NAxRR1SiJ00AuhzRpkIa.mp3"
   },
   {
    "k": "T",
@@ -512,11 +654,11 @@
     "sub": "Salió a bolsa. Diez meses después pidió el rescate"
    },
    "gen": "PrnWDrT6WnkXIKeG8y5F",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8XDewbLpIv5EQ0NVu9DR/PrnWDrT6WnkXIKeG8y5F/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=BK6FkwPMXpFJqRYxlVKDjzxByXw="
+   "url": "jobs/bankia/voz/PrnWDrT6WnkXIKeG8y5F.mp3"
   },
   {
    "k": "T",
-   "secs": 4.5,
+   "secs": 6.0,
    "sting": "tema",
    "chapter": true,
    "card": {
@@ -536,32 +678,68 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "grua_parada"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/59c7/e9ca/ed4d04615eb12ad0a14814900cff5afe.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Tv2fh2cV6Tw~blNyPKAsIb9cXW9SmmtLl5PCQBFUuzLJERCWgHSfW0v1g1aFoeWQeM9Y1~4sh7XriofG76ziGdPPnjlbM3pRlcM-smoPSgVdhoNne4CyZsd3YbBugJlHJbnaZRn5DbTmIvL0HcQFRS~fO9GlI7ImX94P6fevTBFfyv~~kd04JC~turj5~~eTfiMYquIoF0zCfEvJUsHj1DYu43iqyLp9BeQ3SebwLAqPg0enHKl3EmjotSw2HgcukEvoWaT7hV4HOKFtzorDVDq30HPf4O89izvFajxOa8SV1V8yUsm632ze8Uj3Om6KwRTpBV5lCOWdQQm4aVxpHw__",
      "at": "La burbuja inmobiliaria ha reventado"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "libreta_caja"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/8aa9/0c20/20caada5001cd7329b160fb7eae2f5f7.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=at11Weoi1yvvm8n2jQLKoj8MMYlyoVD7R76SFNu8QuIfzAyQEvnMxrqVGZoxoTVpgvyDRbV1KvRIo3pMfNrf7XjpVVCCAhihvplZ0puEP4mNc-m~pO4O3vSlFsgswaJKTDqLYMzvpXQ~0XQYFIqiwoeJwH3lfJZ11cE1H48ENhxBCq5r0L5IR3hO3LqTNUgsAAD9onV9bgu8HL13tFJMnLwTbUKou59zsJl3otf0XDJpAmUiur99cEB~1NG6o2B8giJjH5KqI~KiHi7rFdo0Q0w6fy5LJPnzMHkW9tJjvBZTA7mIlWBa55CfXel~5lboBLpzDQSPPJlhXlJRjfNRuw__",
      "at": "las cajas de ahorros"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "bloques_vacios"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/747d/aabe/1dd18ad3171fa86865d5615a87c61f75.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=uN1WqQjDGO2cniRRnwA8ZMMVMsQ999W21uuZqFEpLq4uvbxNg~kZa-WlG4RSxxLdrIKBN4~qKWY2dRCxYDpDOBqb3ROWzQBDcflyvjby7Q7qXj-gXDKpwv32Xxq4aRTNT8RAIp1RFp84CE55lUtQ-E-SXkccYN6SGOP0ymbnsgLuumdcSCaeV3eoqnb9XAFnoCOuniCdBKs3csAk~ULeaKkwBNz8asEsPvEd2E1tvQo682ZeTbXpWMni9ze5imoxWj~t007hm6teOnnaqfcFQy-rFRU8EGz98HU24LwGC8oZBryB8nyR7~4C88Xeu2wZFMF4qdoXYq10zbfsYm96Ww__",
      "at": "llenas de pisos que nadie compra"
     }
    ],
    "gen": "orhzAGyl7cQVec2EtLOI",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2X6kkVqipwqze1qXbXnO/orhzAGyl7cQVec2EtLOI/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=ylzV5M36GzOcV2gBVIT41YkAEuA="
+   "url": "jobs/bankia/voz/orhzAGyl7cQVec2EtLOI.mp3"
+  },
+  {
+   "k": "R",
+   "text": "Para medir la burbuja basta un dato. En dos mil seis se empezaron a construir en España más viviendas que en Alemania, Francia e Italia juntas. Y una parte enorme de ese ladrillo se pagó con crédito de las cajas.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/0fe1/4105/d062ad45aeba0c85db92f0805197f972.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=34e50f34228951fd60e63d04baf36457386d3871a4dbf2d78a0cecb36d761483",
+     "at": "Para medir"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "MÁS VIVIENDAS",
+      "sub": "que Alemania, Francia e Italia juntas · 2006"
+     },
+     "at": "más viviendas"
+    }
+   ],
+   "gen": "rEcfmBOvqN4k3JcUL0ZP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vHCv036k4qFvDLMXTejk/rEcfmBOvqN4k3JcUL0ZP/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=1dgLPVyb4CzyLk8auuUJ2gOIJEQ="
+  },
+  {
+   "k": "N",
+   "text": "Hasta que en septiembre de dos mil ocho quiebra Lehman Brothers en Nueva York. El grifo del dinero internacional se cierra de golpe. Y las cajas, que pedían prestado en esos mercados para prestar a los promotores, se quedan con dos cosas: pisos sin vender y deudas que pagar.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Lehman Brothers headquarters New York 2008",
+     "src": "commons,loc,europeana",
+     "at": "Lehman Brothers",
+     "lt": [
+      "Sede de Lehman Brothers",
+      "Nueva York"
+     ],
+     "lugar": "lehman"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1997/e5db/658b3610c0bcaed705c42aa0d98b6529.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=edcae09ff6e32725dd96ac24b1d6f3a3d76b9aaaaccb5b9735ce6a0c6d02fc85",
+     "at": "El grifo"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7f44/7673/d2711b8d43b2209c997db3e5d4bc4d3f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d28c949615e921a20c70e984711b36b2222822bbd69dfb6fe8975148182eaae2",
+     "at": "pisos sin vender"
+    }
+   ],
+   "gen": "LYp01yso0B3vUASCNgED",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZM6vGg4clcXwJiJmRgSz/LYp01yso0B3vUASCNgED/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=laYbVYYrWA1nDJTHRT-gddOYl2U="
   },
   {
    "k": "R",
@@ -569,11 +747,7 @@
    "voice": "DAT",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "consejo_caja"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/e5ca/83e0/a4fa39558d51ae9c7577d1dd4fed1691.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=etAoPfTNo6NUBhHdMbxEiBFQSrfjD2fmZ0PQbVkKhNJrpDFNy9igKyIc1iee3oWrZGOYkalPcv5wgCYfomPosHvyjapz~ljM8RMcgNHMxhCx1RPDPgsEsh9cwl8uBVYYhwjGws8JYXSPRpyYKOUHUC45ufcqLNYhEcVGtJ7rjofR4c6gVX1HhIW95ZBYl5ILLpBtHCNdrnOwLAWtNbobuJJler6zrOC6v8FjHeDuMkzcRcgkeW9QBPC930ZlGuL7uBgdaPb1ZpwpVAuN5gqiX5FEMW7vKXZ~Lvgr2XuF6VR~rS0pKzzeL-l3xm-O9~Y6-Vj~5tFm-7khihtqoBek~w__",
      "at": "Sus consejos se repartían"
     },
     {
@@ -588,7 +762,7 @@
     }
    ],
    "gen": "AvsylWt8vQAPFuCBpLtb",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Hp7LVbD3dDPsi13Ub4Oo/AvsylWt8vQAPFuCBpLtb/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=WRt7Q_viinqyrhYh23ujfpwConQ="
+   "url": "jobs/bankia/voz/AvsylWt8vQAPFuCBpLtb.mp3"
   },
   {
    "k": "R",
@@ -606,16 +780,12 @@
      "lugar": "cajamadrid"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "monte_piedad"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/448a/8827/f0b085751ea331fa823b6c1b7be8745c.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=gFwoBgnXFJ1lUpJI1I4BczqEblZBpY47rnYJGfx7d7lF68yYhoMZ~QA59An6MJsk5QAjCHRR6D2CLKOvXQ766M4QZ9iOczsx4m9NA52iVIPwGKs-eMgePasMAAu5BP9~2FP2~hzcvC4r-QrLiRbGtyrGC8qN24yk9v2ZNxCY~bZa7X0dZnH94Krs6HPxqK5gNvAFRKHwGgMe-fGyu8x5DGWyMtcCeJqipSuwv59Qtrr2Q8g0817CI0NyL9hlsyjIApdJ5-pPnt6fR2N7JF0jYevEK8AUIKg2wPpC1E4EjhwO9ClD86G34Ew9NjP~Y9kilk3yKvtyP~NQnxwiFBy6nA__",
      "at": "para prestar a los pobres"
     }
    ],
    "gen": "8axiVamMlQt9i0Qlg6eu",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/inC5ngAYqN1bSNh3VIb6/8axiVamMlQt9i0Qlg6eu/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=421Pc_ZbKzwg5M6c60BWRbxU2wA="
+   "url": "jobs/bankia/voz/8axiVamMlQt9i0Qlg6eu.mp3"
   },
   {
    "k": "N",
@@ -623,22 +793,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "firma_siete"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/0c3d/bf44/b98cb2f2b5bff1fdecd5af9103cf73f9.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=XvLC8z9Z~m2yUfz2aa-3jm5PE4svOOiK6mbMY7KoYvmBNtaz0RlQm~Z5N8IY-xORHUNdvHiykIff3dsdhMkjOHqJumk8j2FfPQzFy44FhLxWvbZAGQOjcHAmhEA52kECAuKeItIs8alrvBw6zwTi~X3KYxpYwgP-BHXAzibwYWF57Kyf~wDlYIZAWVF7wuAbNrbG-j5ohGVO0m~e8B5qo2PyGMSG1U~Q9Z0c54oH5yqG7FxBzY88zPOE6YMxzF9xh~A0j~AU~Ci0glae1pNupjkIlWZjvbal5KSHK1Vymae4k0tF7oRzTu1oGDPGkxdF4IivjClFigXGlritxAWACw__",
      "at": "Siete cajas firman"
     },
     {
-     "photo": "Caja Madrid sede Paseo de la Castellana",
-     "src": "commons,loc,europeana",
-     "at": "Caja Madrid",
-     "lt": [
-      "Caja Madrid",
-      "Madrid"
-     ],
-     "lugar": "cajamadrid"
+     "card": {
+      "type": "kw",
+      "word": "CAJA MADRID",
+      "sub": "nacida del Monte de Piedad de 1702"
+     },
+     "at": "Caja Madrid"
     },
     {
      "photo": "Bancaja sede Valencia",
@@ -681,7 +845,7 @@
     }
    ],
    "gen": "qIH2pjX0ygvUmoUUgKHz",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Qum4zXHKYp5egwhbMSa9/qIH2pjX0ygvUmoUUgKHz/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=3wdOa5MxdzVM67nrtHkdIKzBrfs="
+   "url": "jobs/bankia/voz/qIH2pjX0ygvUmoUUgKHz.mp3"
   },
   {
    "k": "N",
@@ -689,11 +853,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "engranajes"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/b89f/4866/6e57533d2ce543a4aa31bdff08973c10.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=MjecOmLLtzJyQvdGBYN2d4A7krCePzSQ-bHaIZ1JbT99J7DF1T5emAvllxNwi0CpM9ycBeSUJ-8twaZgBh8IeM3WhtCIaKvDEpO3-M6eoTPugsrs~XOKt5lSuGK2RyTuNo-yfNWs0vJI4SErq5JFX9QQOHs50a64VBUIQ8Psd3sTJoxAm~z3efuTu9-IVUCrU7O8Z1pvRBgyzrvcNl6~uy62CGNT80PNCQyWDVrmTVQNIPJzaTYzu~e3zB80dKBvQnV1076REcc--ttaXYLDN-bF~VJHDaplp9-GsnoAqqVi~JyiOiEvaxPWcAjHRcL2xR24ijNvKE8OQZwSMne55Q__",
      "at": "Lo llaman fusión fría"
     },
     {
@@ -708,7 +868,7 @@
     }
    ],
    "gen": "b0abuWF2CCILf3pUaaT0",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/X0IZldBuFlmuLFSkdeD0/b0abuWF2CCILf3pUaaT0/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Ta1gBUJtWRCsxXxY4Bidr9aTdec="
+   "url": "jobs/bankia/voz/b0abuWF2CCILf3pUaaT0.mp3"
   },
   {
    "k": "N",
@@ -716,24 +876,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "siete_barcos"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/3b57/527c/e836ac88491d08d4cc787d8e4a909a64.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=OJ7sdejEnqZXSV8w2iJYBDisr0Mvzw57p330-xTtdyrFvxjHH66YVAgDdxzdaErOh0OgZ4ml~wRIKH7AEf7dxa4QldslvlsYNN5qjrgQTJBgG9tbEfB-4JuAWKIsfh1fzxy4oXyHGFwB918u4ANDiz~imGwBWRg5SWocgiwGw9t6gtkWPFpwEYV4EM1YV6TP8k~B9gdtwgLQ55MflRyU4-ecw2G7kC3FANYysAx62qBZDE65-lOH-WKccEm8aXs5911scvmzpF9iV6PFd1XrjQaweaAnTV-Jj4yvmYYA58~YWC7pz6F9rpoNcmICQ830SM6Kpz~Mf-vttJ64aBdYog__",
      "at": "siete entidades débiles juntas"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ladrillos_pila"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/90cb/f38f/592e50cf7ca4baf6e6b2a786c9f50ebc.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=HbFGJtevj5uOmLicv2tm0GlICTnpSUc3j3Jn1-j8zCIrirGzamJ6g-EkwT3rGu7qFxjvjHQ0z0hoE9qUWhPfVVzV0lqOpMLWVR4KOLOu4eYXIMliwzi3uVmdv0qDuyCNY0nQVRg5YGbjJhGRdK5Fvk3VpVE-MnMiBbzBc4O~DaIaqkqQSpY3Iu8q-xJnPHxIDGYWZWEyLXqxPVvbupFV~d8nN~2LcDHOlnMWuZ0uw39yBqFOdhB8k~0OLZNQWgFY8mIs6b3GWk6G7sH502mzr0AnT0YAl-12s-SvCaqFabz9a5R5BAsdY4dbtW0ukljqYHD2iHhDm9YVvHhuoFyeUQ__",
      "at": "Solo las hacía más grandes"
     }
    ],
    "gen": "PuwS8fsu0LqTn5zpnkN4",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gz3Q96cKoP9XCIvNnjcH/PuwS8fsu0LqTn5zpnkN4/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=5kHbBCH9xe6uAsvE8VolWLA9HbM="
+   "url": "jobs/bankia/voz/PuwS8fsu0LqTn5zpnkN4.mp3"
   },
   {
    "k": "R",
@@ -741,16 +893,29 @@
    "voice": "DAT",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "torre_noche"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/a658/bec4/e5b23763de133220708517b397aa23ec.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=GOwqiaIfXDn2JtHGBKUlOtpmPcXsoqwdLZKEug0yA4swLBf6Ey0~AZZ2pog~7AC36SZvQz-gwU9OEfI8E8dAv8dR46Y4w~LH77y6i7XBzAMbgkjWji1hXxzKawty600SRWpApZfH8ccdr8u2UeHRxbR6sjTv3RgMopqamD9M0hxM3TKH4GxSNlxQpptzREZqdVygImHoz84mtJvs2venBocONqLX-YuHa9hUaDRGbwgQDMOEwRBRwXZxRahae63ePRqfyy5wox0Jncn4MKtqYOMkVOlhJsT3NqLqlNrrynd1MjggdOrfZzF0e-qjvQKHq8PEOIg2ExlZrCV3xZg76w__",
      "at": "el tercer banco de España"
     }
    ],
    "gen": "3N7pYMCO3vWgerGNvcuN",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/A2aQAeapzV7l2GmcKlLH/3N7pYMCO3vWgerGNvcuN/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=4UqSJZyed9s1jBmYuXenUfPSBGY="
+   "url": "jobs/bankia/voz/3N7pYMCO3vWgerGNvcuN.mp3"
+  },
+  {
+   "k": "N",
+   "text": "Un gigante, sí. Pero con pies de barro. Y dentro de ese barro había una pregunta que nadie quería hacer en voz alta: cuánto valía de verdad todo el ladrillo que las cajas guardaban en sus balances.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2da1/04d8/5d8d1ccf36b02875e6a71c6c1b2e9011.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dabc5f4ed4901cc805b58c91e554e6cce5d158ec5f4f7fdfea822a1e4671f6c0",
+     "at": "Un gigante"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2fda/9e01/9ec061728ba51aaf3582f944619957a2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c35d3db6292852ff8bb0d9a66ae00a4b0f996bf768dfb72f96a7f1c0962f33ad",
+     "at": "cuánto valía"
+    }
+   ],
+   "gen": "7OMuvoKc3ehgC8eKHA85",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/y6WRhq32e0lgzKyLHc2z/7OMuvoKc3ehgC8eKHA85/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=GZgSxAOqhzQMJgkc_VQ7ujc18LI="
   },
   {
    "k": "N",
@@ -779,16 +944,12 @@
      "lugar": "fmi"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "despacho_rato"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/1fb9/a017/cc7b2380e0804e18f464433e47b86f6c.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=c3HB6gpYScPsVpmgOv5m4~RLJJF7TZhMUXjWl~EhoQ26MaVojTbPWh949CYcy82BXnfqdq~X83GP1kuzTWO2AuzOJQGrlUDBMJWOWGlMcM30-ckUFmomQqGPJsJyQSZ02t6gDDYrILD524PLPaWCwyWMXCG32LNBEmtfJmlCluLY-stfiAOgYxO42ZI10VtKPpnnJduGimxlmw7HyV5Rig6ZXI~zqn336W0j0TIMh5hmVX2AcNxNUSevOBc5RJYIePMn6~em0ecdBej~z49fYWXEATbysw0CwNR85S3NaOyJD9KD6DDKmInNBAehaZ6zkjTJFYzu3yV43bRVihFK~Q__",
      "at": "Ahora preside el grupo entero"
     }
    ],
    "gen": "l2W3xsD5SVFKDRKy4PpL",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HbBWnhSbDQ8lJZh0trJo/l2W3xsD5SVFKDRKy4PpL/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=wABs6C3UmIjRqwNvDMkmsq2MTrI="
+   "url": "jobs/bankia/voz/l2W3xsD5SVFKDRKy4PpL.mp3"
   },
   {
    "k": "R",
@@ -796,11 +957,7 @@
    "voice": "PRE",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "pulso_mesa"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/6ca0/ce10/15fdceebf593a05c47c82fad441be98a.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Wo1KSCuGQpG~b-WwNNc7IXPOy24ZmIg6EuPWA8Qu7zYc6CxXNpDHNOMztR--oc8--4ij7Rg-20Z1Q1UrkAbQ~CPuI9Hw3Tgu7AQXdgqLUH51XMTvqmZ~XexXbXOs0LI-du6~3YfwfZQ43PpT3wElbOBqaF~bHcay6lsHolVJJ7Vw8T3zRhpqk2RnCg1b3~~44QX~3tCpzYnOc1vhGDva4jkc1WxqvFLrSl0zzhEN3S5CjE9qVTul1qRdATxEf4uKsWUA9cu2FYhRyp~RZm8ZDY1QM5ogoGS-yfojOdv0sgeuX1yQCbyGDU2Kzi2xHn51kndWVCivm7NLRtIqiTk9Kw__",
      "at": "una guerra interna"
     },
     {
@@ -827,7 +984,7 @@
     }
    ],
    "gen": "ArlRHWuDh6ZUMmGJKlx4",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QoGoXfnJaVPysHALcwZO/ArlRHWuDh6ZUMmGJKlx4/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=k-VmdaNQ9Y3a0F1fgDN0_WhjIos="
+   "url": "jobs/bankia/voz/ArlRHWuDh6ZUMmGJKlx4.mp3"
   },
   {
    "k": "R",
@@ -844,7 +1001,7 @@
     }
    ],
    "gen": "Nydli06o7YUIqcnIP0uR",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qXuPMsHtAdK3Yzmo0MGR/Nydli06o7YUIqcnIP0uR/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=d6Hw2ZqDvPeZIeK0KUGnqJ3TPbE="
+   "url": "jobs/bankia/voz/Nydli06o7YUIqcnIP0uR.mp3"
   },
   {
    "k": "R",
@@ -852,16 +1009,12 @@
    "voice": "DAT",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "votacion_manos"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/bd8a/09e7/2c85470143dad47f79438617504c85eb.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kk5sLM14XzBQMgSLQssMtARGER2jtBDJfrbqDK2iLVjAhUkerDncM53EB2J0Lov1pasPRa~BzPNMKS4YQ8u65cDtXW4-uwEXmVPPzOGA8jXWuE6L4T2KvHQlbjdGs1hppUMCKW2vaw1ks5NsjeYmV4wOYVc61-~KnPZr~-JMsTGzqQYEu7Yx7PDDiF7jbAEhoRryOec4iqttpdwHqCzJl5yD00MW75mtYWOkjXdM2ym8Vsa-TKblcz26I0TXkzcYK7m2QNlxv3LZ7iE2z95VJvYRnvOWsPfuYpiqaVEHicbg8KOKM6uyYepjarETdsy3g~rYzUbBAV051-UDog2l5w__",
      "at": "por unanimidad"
     }
    ],
    "gen": "SWrUkk5m18gvyMI9N9Pk",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/chm85yL43KbFzt5ygiVU/SWrUkk5m18gvyMI9N9Pk/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=tmYq7PRxQp6vZITUN7byT3N3I4g="
+   "url": "jobs/bankia/voz/SWrUkk5m18gvyMI9N9Pk.mp3"
   },
   {
    "k": "N",
@@ -880,16 +1033,12 @@
      "lugar": "olivas"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "mapa_feudos"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/7b5e/bef5/49328c60816351829f23c13971ce1b70.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=gDYKJuh~3OuNi8bTRON9bvb9jbvsukC2K3atbmiEw27-vJ-KpIJ5eqKFcBhQmRIE2aBseZoAdRYYC4MQcuSIrArjamEraUU7hfIBmV93xnbE1F3plXJ0OU5P3HyAvme42EnzkvTInktBasCX4IhAqzCa2lzi4LYI7bG8yCUrOo2cOUNWHNEksLtppLxgHwxsCg8N~ygIPR8vSwp1xio~-QbwDSUuBdhlQIDRWVSA9OmqjGenzcj9w2Ln5L4UP8TT5BK4vxxemcwygpJ8vHN93VudiHadZmbYvs~V6gXmzSslNbc~w-MhKyAsrDwxZ6F9XBI9gUw01j-v1tR2cdWJ8A__",
      "at": "Madrid y Valencia"
     }
    ],
    "gen": "dSA7QXhF3GwzpsQrabJO",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UyLG0OCucQs9QkcfT1OV/dSA7QXhF3GwzpsQrabJO/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=wBvabplfVvER_gGrlOn0NEE2XEE="
+   "url": "jobs/bankia/voz/dSA7QXhF3GwzpsQrabJO.mp3"
   },
   {
    "k": "R",
@@ -897,28 +1046,25 @@
    "voice": "PRE",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "periodicos"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/ba3a/f80c/0f0723326e6a613919cd732bbca84968.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=k05Xf7b7UItnPpELnLb27edsnRa51v7dsMqr0kDsons2qwB864O-NJh0P~oDPXPEuT80xz~pHvJ6PttVi0r2aTCKPovbO3Nb5k~km~M9oljC8FmkaflLXuxAgOhk8Ilv~tywroSYO3Xqsw5Vq7dI8IXUw1SPYxPCTdBUl~ldS1FO0bHiOw61CimAUecfvIDX5P5a-flkSN8TrtXw5W6REUtRFIYbN2d1~0Jx0VATTmN5PYC~xFWp-Sm90Uy03Z7GVahkfkovrNZnIp~gYDr6TELd5gwZVnPMfcX6-0pnYwEc4WxW5eaUfrS~WVIHT0sU8dzp-6I~oNdhoyhaszwx-Q__",
      "at": "nace un gigante"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "carta_sobre"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/50ff/f65c/11c61f8211ae09d6764c0594b0af5b74.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=GHFJ9Xm0JsFqRr8C8ZVQBi7~UZ0XK-wvDdIokDJEm0AeDmV2h2gfk2SDAu3C6GDYl~0uLbosuPDI4Lzo6hWZIOS04ANyUsjWanddRpfjzgUThjNPxWkUjfR-9umbfio9KpE3SFIYAcSNxF19wDF25U-5~p3DsrqkBvG8AMocCzF8rwHFDaz49L3fJOSl2IERpaNjZkgIxSLaGs9Jxpz0TbyM8v07zVP8Kf6RjThLH19n82fwTeR9BI4HUrxJ8qAMavp2hsiW~JboWkWss9vC3SAl8J~EfLWeLpMscY33y4iRyB3q~2YMUUhRnuBzZsAAtTa7qvG2yHNP0BRx11vAYQ__",
      "at": "Y lo deja por escrito"
     }
    ],
    "gen": "XgXPUD1gojZwHHReFvtG",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jMUOi4SSwHPq7CAsftjp/XgXPUD1gojZwHHReFvtG/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Zrs8GZ9tTLsDX6LX_gzS7qOlA5w="
+   "url": "jobs/bankia/voz/XgXPUD1gojZwHHReFvtG.mp3"
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 6
   },
   {
    "k": "T",
-   "secs": 4.5,
+   "secs": 6.0,
    "sting": "tema",
    "chapter": true,
    "card": {
@@ -947,7 +1093,7 @@
     }
    ],
    "gen": "fanIiKrLZBH2scNm2eIT",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ShoMWoOjk0aceOc5Grss/fanIiKrLZBH2scNm2eIT/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=XHhKt8RHkSC8KxuroidMESLGlzc="
+   "url": "jobs/bankia/voz/fanIiKrLZBH2scNm2eIT.mp3"
   },
   {
    "k": "R",
@@ -964,16 +1110,12 @@
      "at": "a doce entidades"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "lista_nombres"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/66ee/bd20/b06bd701f67940ad16465d76e9e7c4a9.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=LCEBYI3~qS2WTi40LDvweUSmTfFdynkzJegTsPll5iwZ4SZpiHBTQGdEiZV9CvuVRHiUhFl7yVGKtrofciS1bqhb3tZ-QGYPvUZiXQQS5UsfRsd6ReVMGZwqS9XOF2n7l~YCsEdgebTFtaxYskU~BLF4~K05zg8hhVX9QnjePoUfy7Y97WJ2iEHH6DS~WYmYgQG7GRrN-EfZ~~8MbwQgvItVU~iVZD~usOyyjlFqf979WTIYknk-b4xu2T9TddeX89aOp-dWXaS48ZnWw1p~VfDhADIzCQ7J3YynrnUacuTQoydnslenwYgwVRpls3JVFG~YS4~yNdYtL2vkbVaxhw__",
      "at": "En la lista está BFA"
     }
    ],
    "gen": "mmkiot3Kc0f5MQLApVQh",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IKOPBwUHr3f0HWBTxdGM/mmkiot3Kc0f5MQLApVQh/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=YsAp40L2JqMtgFr5eK2KU-1ZXoY="
+   "url": "jobs/bankia/voz/mmkiot3Kc0f5MQLApVQh.mp3"
   },
   {
    "k": "B",
@@ -985,11 +1127,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cruce_caminos"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/b9a9/1944/e8e937955dafb865865e4fa1fba60666.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Sw2tjW7VvDUyFygAmimfvSE7ye1Sgwt7BlR22P1EDK~7b0j-FniQxIX24poR02Uuw2779wyCLsmnpwxfxCm45T1moTBF~ADsCdidEIEhiX0o9E3MDl3BcZw9vX9JQgmAYa-CRHskoDs5cPkUKKPqvlmr3LQh04L94fUTqYQ1bf0B9vpnmjujSZdwxjrnKE~1dgI-d4CejVc6KR9S1BDQTRw-UcidHOHfG3dIPaCjomOjEODuP25J-uZAJ1QPFRkMATsq5Zcf64MoGzJymNZb5rsEaiy-PyJK9Ofb4U0yYRcOMjLaCbmrQRRBD3GamCfQICFjjIg82fxCj7bAKwMCPA__",
      "at": "quedan dos caminos"
     },
     {
@@ -1014,7 +1152,7 @@
     }
    ],
    "gen": "hs7Gnm9x7iKMlZnPhZE2",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/463uDBjEA4Xtf49U4joZ/hs7Gnm9x7iKMlZnPhZE2/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Z9aLz42cxtXiRC6D7347iFCZqM8="
+   "url": "jobs/bankia/voz/hs7Gnm9x7iKMlZnPhZE2.mp3"
   },
   {
    "k": "N",
@@ -1022,11 +1160,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "dos_cajas_fuertes"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/736f/7161/bdb8c5f8b32f9014e494d16ae8069748.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=eZjCMtqSqvGibhnRhEQvIEaoFisgoL3v7A9oiYF~0vOkr5PGEBGXpzmnte8U6SD4FqrHgifpBw1CX9AxLH5CPF9ePltOwq2XdWZFqp3lDQmc3Z0Mv8K3BlJvhV2TxqO6vf91-qseDCflVjfKd3J40oJBmJIrPRhZRFbLv5ENDIxZNrNRvBHJULoSw0iOwrRhh0TKfGZ~dCZf~T-XZJ05qYsNgYM9ixgZHCoYmWXLoRaQI1h0MDPAb1yvd7yOaHqe2cN8sF0DbLWbS2vbI0rGiwoIzzRn52iuR~oik7h24OSQEr3v-sjWsbKn~2qNnarm8jHGIB34mnIW3-3pJON4mw__",
      "at": "La fórmula que se elige tiene truco"
     },
     {
@@ -1048,7 +1182,7 @@
     }
    ],
    "gen": "Gkixxl4xvMzh5kFJAsCy",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DZwNimOVyQ9jhGeBZHIm/Gkixxl4xvMzh5kFJAsCy/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=xIe4I1bPQVBH85THHPwFvCrjgv4="
+   "url": "jobs/bankia/voz/Gkixxl4xvMzh5kFJAsCy.mp3"
   },
   {
    "k": "R",
@@ -1056,16 +1190,25 @@
    "voice": "DAT",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "escaparate"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/9232/ef36/88c6f442df2af923b445ff59115c6375.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=oKCyYN02fWZHF0aiXAk~w1DltO1bSld2Sc8shyP6tkWRSNeGKiWPvzb1v5SkKSUwa8CBLx3FcEC0mfY76QxPOhSAGLCOZ7gvtankfA0SO-0AY1Hhe2Z0TW3XpRx98ALSLwg4yaN70d58~5kgZnZNmnWezx6zjEHM2G1ZacxniZCdDfdsK0IyUi1MAr4Sciwv0wmftJYJNMozJgIAhUF0F27EKw6WdtPGQWcn3ra-XWQnO4yoy~eph-d6nloOvds2fV-MVbba5o7B7IXnBD~hp6JCQKnM62TZXZywVL4XFjqf6rFCpQsYw3AwS7N~Qq7rGeQCCwElr2mJxPLWF3Ptrg__",
      "at": "Bankia sería el escaparate"
     }
    ],
    "gen": "ac5wNmD5xwTqktPLyVae",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Ms1A5gOdw40T4cfyrfLU/ac5wNmD5xwTqktPLyVae/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=30G9ZxbdP-tWtFdbb8QlsEXEbGg="
+   "url": "jobs/bankia/voz/ac5wNmD5xwTqktPLyVae.mp3"
+  },
+  {
+   "k": "N",
+   "text": "Para que te hagas una idea: es como poner en la calle una tienda reluciente y guardar los muebles rotos en el almacén de atrás. El cliente solo ve el escaparate.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2ad7/e502/ddddfa97ffd6e56a53cc2a18a01953d5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cd350eef58781bc5401583b6fc9ce4a618fc4ee40f748d4f38cf6e368a875c5d",
+     "at": "Para que te hagas"
+    }
+   ],
+   "gen": "6LZypkCrTEk2i4qGStXV",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XV1pqdEDUW2mxQE1oReq/6LZypkCrTEk2i4qGStXV/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=AvmHjyw3c7pmWSIfQ3Tuxza1mDA="
   },
   {
    "k": "N",
@@ -1073,24 +1216,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "inspector_pantalla"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/1857/cd84/2bde82206a3978c04f75d1d2dd1a918a.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=IpZwqtQSZuHkgrmWzMJaomMb82Hw5SJD~7u4~rdSzxvxJDl3T8fWlG7uB06HTMOsbUaP54-oOYx44-gsk7PH1ipzduO4ztSMchB5T1EyICPFUdZMErDbPDpg9qhybmVhv0baI6jojew9XqzmyjSMwYtGxVAQmxfYSSFs~eIxzsqRgXK-WF-9D1qKnxogeyd36n3FsroeDVTalmnPTxR2jPmSoCAaDTcbemLCOh2m9yI0uR-kGj3SDczFz1ux3OxZr7j3JZQGjUsR8S~EDKEjJ~FmIxIcwoGtdTqDsp~BP1V25DIs9231wD-WDa8kWmI42IpS9CE0MHafnO24GUEJtQ__",
      "at": "José Antonio Casaus"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "correo_enviar"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/467c/90fc/80a7fb0245a10a1bc9866a1b4800b09b.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=gTaAOyASO52LuyZrtIVkzskHfHsDMcz7wpXzUc5FdpyjDRrwSuD79V0FTTrdB6cU0YqNvCWkmE8sjr~01e2xjftgDWi~xEH53Uf5jtH-zrI0Byh0w6D1PUeLbRD-SVzxoQyP7EylLWy6NrWm3rIt2fxCbP1L-i14~-wjiGwC0GB3WjJ2jgEYy8MX36ezqIPQa8F9w-3A-QClEkEE-bcyCknWvDlJzyN9Ou3045BIx-SbNX1KBNzH~q4o2oGvxHFEHzAlAZqnAkzANqkCBbZmVxaSS1NaeHyHdXJxgrMie-RwKTRQszW3IWvkr7Br9zF5JIhsCPHICxVPxtax8n0vrg__",
      "at": "cuatro correos electrónicos"
     }
    ],
    "gen": "ljEwGE8MxePIHBr2w9Ku",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ksayRv86ddtfaUC89109/ljEwGE8MxePIHBr2w9Ku/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=TWN9aMO_BRW62dkH2aT4yjo66f4="
+   "url": "jobs/bankia/voz/ljEwGE8MxePIHBr2w9Ku.mp3"
   },
   {
    "k": "R",
@@ -1112,7 +1247,7 @@
     }
    ],
    "gen": "l8JJdrfQoGEYamSG36XB",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kOdya28t364YLt1IFFwL/l8JJdrfQoGEYamSG36XB/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=dp8M2sVarhHUzr_NjYS48-G-k9g="
+   "url": "jobs/bankia/voz/l8JJdrfQoGEYamSG36XB.mp3"
   },
   {
    "k": "R",
@@ -1129,7 +1264,7 @@
     }
    ],
    "gen": "W6s3ng8J6lsypABmEvel",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WbzqwkESbHArxOaY3cP2/W6s3ng8J6lsypABmEvel/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=-nySBUYU8nq5I_tH3fr9rokgd4s="
+   "url": "jobs/bankia/voz/W6s3ng8J6lsypABmEvel.mp3"
   },
   {
    "k": "N",
@@ -1137,16 +1272,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "bombona"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/992b/07f0/7004f189a37339e702414c8148dfafac.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=XxlsLk~kqiLHExlScHZ1qSwuY6~KejBin0cINNZoIIyzd9cDTU7yRS4jLb0Jsha2FVbES~shb56fqMtpAUoamZC~6GdhPGt1q7lkZ2Sp0qg8BHFaZM6VeIapva2g1wIm2jsXS2zjdEP1Fp24Khdlze3oR3JO9txBhRB3hvDnxjb41U1vvPh5X6ylZvDdmVNnJZxKI5jg5JjfHpf6U~7UsOot6Zol99TRd~xvYNcTCKOo5ULVVgLvXzdxntwY2Mw8pQPWUZfMzdB~YpDlbiCJeIzctxiThpWY6YzFjVKiIougsbeBVxU3~poLNfbqOJ6wBeCYKd4kLQbhrxjoGcfnfw__",
      "at": "aire para aguantar unos meses"
     }
    ],
    "gen": "DlaVIfvpxayXf0VzNgiv",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/CMIO93JKSgKyO7QlucXp/DlaVIfvpxayXf0VzNgiv/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=PLmT1TwkPF_jn5Am0f5LZmCRAVA="
+   "url": "jobs/bankia/voz/DlaVIfvpxayXf0VzNgiv.mp3"
   },
   {
    "k": "N",
@@ -1154,24 +1285,16 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "banco_extranjero"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/7db7/c359/d10cde77adbbc8bb76026ba379a1fb6e.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=V2jj4tuak6riQEttfVf~vv5yugTKhCQR3N7oQ5KKIl1UEWcJiD5Emib~SUiU-zrpfFNXWpHxmQONF7q86W3Jm-2PyLmEwY4mBogsE84UbCxcZEtPWqgrRJJPl6aYvwYikTmH-rgVn7ThGRojhmL4UJmhx~JNwh4wFBRbMyMDhL0zYgccuzO9xjwjFOI69OB-VFtRbUk~YQJWbl6HRiuMh4pUaeOKkWwSFrvPZJLCSq7cdB2ShLShPpSBlLsr84PLiIzJ4sBubKHxikOMOvjkbOawUTc8hQJl0guItG8M~9DgdCMfOF0f7xBUVjPtYH76e6ziptcfgNjiuvjKJyzMrA__",
      "at": "preferiblemente extranjero"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ajedrez"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/494c/bb81/81d726e24374f9fab52b330e60ed653d.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=lq5wNoL4NYsle5n2k~RPiqRVva3ywpsn0xZbPXwDmgFs346kN3d9m4nDiaTXFLilIaRMsy2q4PlbpMYqTB7RaZKF-GYqCa0l9YBJa6Q8VbUFqorTQkSm1m52E21ahXoGpiKpb5-elHcAKw9QOpXTPdJImju5egCPvbJtyLSO8OS0V-Txglg8GpSWXiYLEJfBYZXfAsrFs-mogwEymXRY59AaOHNBTTesC3IkOheQMWL8HC803rFsvJXjPCCtEqArjiUPJ4ewHsFsXKDl~pkuVQggnelLp8UhfFAAKUHDdCQnHoV5F-yu95uzVtHrH3kRFW-7USMJMp7wDvs~a0dKHA__",
      "at": "herramienta de financiación"
     }
    ],
    "gen": "CcozgrLN5OMPQx4NBAnW",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8wZu3WSa90llLyoYkKvN/CcozgrLN5OMPQx4NBAnW/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=UwnQ6sf4guyD6lxpsKqA9yb5H4I="
+   "url": "jobs/bankia/voz/CcozgrLN5OMPQx4NBAnW.mp3"
   },
   {
    "k": "N",
@@ -1179,24 +1302,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "carpeta_cerrada"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/66eb/8b28/d480215eeb081f8c2954e8fefbdc2432.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=K7BANj-vxVioJXTfZj3vrcX9OjnXZUwpTEnzH~3iForKTOCF7Qxfd6OlmbTESb4OUWP-QedtU8jhF1A3Y4Z9HfBwzhI9ZC-LRG1yWfsUzlM41KeK3W4BQ-68zJP-zoSgvsCS5FkPKF8SKSERoIX18M-tqyUvIHxAlVBJLerQYwrb8bop1SYYftw8NU-UdJOabXXcwnFjS~2l7236pefiV8gr1ggxWrKF8cSwraZVtY71YwwYUHMs7-Zu5q68b-bejKtscyTMx0ZwcBy2lKITb-bt29TVWma-ruUwWYz6bGjLkGTAxx0HuDPfX5212txEanLee2UpXWNU-VZN3Mk5VQ__",
      "at": "meras opiniones"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "pasos_escalera"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/e892/0e09/5f39569858e012ff02651ef513eae029.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Im5JfFsrdxnjLJrZBJ7eScFIpD6Oz8INwCDw0EQQ23C8hWQ~8HW2QmGyOevn1IHZ1BtI7lBec8PSec-XQW~~QzDknw6UwRH~m9QqTnKJaXCYMDYqD~NSnGJE0b68-5fnNhbYzQL1LYBZw9~BeT5NesvpSvO~fUUgwaN5rL0NTBfENMwlhi1tNrIPojcarxlMWO-fettXYJtmbm3lH0LSPZvAjGcZF7gk5XyNS73TrGAyxkqp81-0FvTaRQQvYuxHK859F7LSgc1IZUsRsoZ~E18WAHTLQAQOw3BfFas2~oL8on7vUL5h~w4sVAKDS7EOU5-ZzY06FwBpjv9GwiTYhw__",
      "at": "La operación siguió adelante"
     }
    ],
    "gen": "2NayUn8lyLIPoNcZbnEH",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7sHDwhN4VMRfAtfRUA7E/2NayUn8lyLIPoNcZbnEH/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Z91UKhSs4bqjtKOB61xqBldKKuw="
+   "url": "jobs/bankia/voz/2NayUn8lyLIPoNcZbnEH.mp3"
   },
   {
    "k": "R",
@@ -1214,16 +1329,12 @@
      "lugar": "moncloa"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "mercados_pantallas"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/5d47/b7ed/ee71fdb3d30a4bd85425a189ec5e3845.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Zz2RB-3r1-m5quY5Hq1QIHwwn1knR7yT50RNxCkQKln04sMMVPjDaBy~L~yKOV1wi019g0Eb9mFMcsdA-73hckwJbopG7jN--2oHcjxLOVlr-m7t56W0L~u5PiTQfUYomd9JprBvzRvhfn~WUasOYQVon0iFH0-55MFUGwRiYseGhBeEwenTGlDqHOwMrAU2nlEBJqN9KsnVaMdswI9c54iicZw~S4aIAdysgFjBy8nh5tuN3aMy~trldkdn27AF-6NoqjBrw~Umn5eqH2ShX1zAcwN2Yzcw9omY5eqv75~fkAOcDQOGT~NtprVouSOGtq~CIY3vRyXTM7W2HJb1rA__",
      "at": "el mensaje a los mercados"
     }
    ],
    "gen": "dEQJ5EGchB8gFQwuhXW7",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zDW5CKnjVuRqPvZmDWaj/dEQJ5EGchB8gFQwuhXW7/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=MJSiB3FSjXJrKjlpaju7juLzCRU="
+   "url": "jobs/bankia/voz/dEQJ5EGchB8gFQwuhXW7.mp3"
   },
   {
    "k": "R",
@@ -1241,16 +1352,43 @@
      "lugar": "sol15m"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "plaza_noche"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/e1e6/c66b/98d50ccf007526b68c6d5f1b92ed33db.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=A81N6hpofUUg-UI-j-nYtckp~1vvOji0Z11KNy2CzUsWWNJfqRW1au1xHo6wKCOkOGd8Bk9u-v37M1RW~hkdUSn0VRSP2nprDav-kVYMUCOf9sdfqCY7B0aB9WekuA1AxDfjsg-YXKi2pINvVZE78E440LtHphBlpG3UWjD9WiEBvnlPWpkjPMlVZt-KIrAQzyTT-CSjt0tIqkiYsnZn9UTDSxF~r1Aoq1lhPZhuB1V4-Yu5lqfTPefaq8~jfMAljtUtHlzedCPOxECkiMqKvt7N3k55Paf9eFyiBvLjFa4ww5MsVXUwytxH2KOvUpri6FVfLkEEcmp88jCJVA7xuA__",
      "at": "en manos de políticos y banqueros"
     }
    ],
    "gen": "ylDcoaXrSXm0lzzraWU4",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cxkkiGGFMzLqOXFbJfti/ylDcoaXrSXm0lzzraWU4/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=otMjPIbNu5Co0zbEvHku9snZoCI="
+   "url": "jobs/bankia/voz/ylDcoaXrSXm0lzzraWU4.mp3"
+  },
+  {
+   "k": "N",
+   "text": "En las pancartas de Sol hay una frase que se repite. No somos mercancía en manos de políticos y banqueros. Muy cerca de allí, en las oficinas del nuevo banco, se prepara la mayor colocación de acciones del año.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Acampada Sol 15M Madrid 2011",
+     "src": "commons,loc,europeana",
+     "at": "En las pancartas",
+     "lt": [
+      "Acampada del 15-M",
+      "Puerta del Sol, Madrid"
+     ],
+     "lugar": "sol15m"
+    },
+    {
+     "card": {
+      "type": "quote",
+      "text": "No somos mercancía en manos de políticos y banqueros",
+      "attrib": "Lema de Democracia Real Ya · 2011"
+     },
+     "at": "No somos"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/3c1c/5546/d6b69544e29e20f3c5ea1cf0b2e56d52.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fcbccf2998eee371ba35f8dc21bdf1079ea3c6a15876a4ae56c2a9fc132ddb5e",
+     "at": "Muy cerca"
+    }
+   ],
+   "gen": "pWYdXS9sSC5GURFtO8HT",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2d5ZQBZv0jQMDpbpkU1z/pWYdXS9sSC5GURFtO8HT/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=I59oLViZJ9kD88s-ETIGnN5UAPA="
   },
   {
    "k": "N",
@@ -1268,24 +1406,16 @@
      "lugar": "cnmv"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "folleto_grueso"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/34e3/71ed/4d19e9ce8c1469bea11f12ea7bdc8209.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=m7grhBrRfL7317Y4RF4Yq-K9ExPFO15kUtKzQLmxgXAEz2MoWA1quSuFHDTSLfIjHVSmsSOY9-TBwEc1cZ3Bcl0AHWiDZJijekdt7SlVAkrctzqfZLVGrlH3FpKMIrEEhylppqrP0-ZLUhoYbCd1CH8J1idGqEP5zM-1qJwOgA7r7Cel0Dacg3-PN5rybER2jWyiXy8vyIUMrsjhfmow8qzUtSWD0lw-hx-8GxZJAEHKtcKrqXbDpe6H3vcK8a0OBjfbYY6iRsFblTUc--79mfY4IpEvLZoLD~SF4ZjL-r5qCkGvteqfUBGY80hAeJc1~meKZR4eWdYaWIFyfwhmNw__",
      "at": "registra el folleto"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "lupa_juez"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/9d8c/a408/e441861bf56db739d5b4611c26187329.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=YguJn~30L5XFOwf6GTHxAdDKfO6eITJtAYUmv0xafMnHDrKJSU7ZT8GXIxW7JTie~NxERKVD-ffK5CBKaH2MaiHsripdk3hITqsUY~zHZgR5KoUpTqiVk4c9rj0jFwebuvJ0Oh5P-2A4wLlnUFEWFMI-l1H47HfGGQoyxg8mJDwL-z4qQ6S-8BiE6VviH1wi-NKLlyH8xUFf2EqOh3TAbz0CyNCUu~SeNIAIMtc-nirvHrBRiR4ZFOoItAAn-CuwkhWo6izITZc6QU-YtznKgUJx8DYq32bvrGoKHfDV0gDNc0~rQaHUWbf~wvahZa72H8bFFXk3QagKgyTuUqs5Tw__",
      "at": "frase a frase"
     }
    ],
    "gen": "2aMjZlJmDUhY46sfwrrP",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DwittY1Tmte7PZUhsVIm/2aMjZlJmDUhY46sfwrrP/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=HOnalHED4hcImNYJ7G6Bjxk8V3A="
+   "url": "jobs/bankia/voz/2aMjZlJmDUhY46sfwrrP.mp3"
   },
   {
    "k": "N",
@@ -1293,24 +1423,16 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "numero_luz"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7410/bf01/cf0d2d2c5ebf26c999d52a960330fe4a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f7a881fc6df1e63cb2278a2260aeb9bf1e98e1f9819730a84cf1df416a94df7b",
      "at": "En ese folleto había un número"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ventanas_casas"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a1d1/9d30/e2e605828d43f4d3197e2142f7187d16.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0979ffa742abad014f29e6bffc16f31ab039ef363259d8bed59de2177f5f2b9b",
      "at": "trescientas cuarenta y siete mil casas"
     }
    ],
    "gen": "3rPReSTZoED0QYgpUi95",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tQzNtnz48XxIWBAS7ckE/3rPReSTZoED0QYgpUi95/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=mPbiUVok7UQr6HCXXysD5DuTr1o="
+   "url": "jobs/bankia/voz/3rPReSTZoED0QYgpUi95.mp3"
   },
   {
    "k": "M",
@@ -1318,8 +1440,13 @@
    "secs": 5
   },
   {
+   "k": "M",
+   "track": "tension",
+   "secs": 6
+  },
+  {
    "k": "T",
-   "secs": 4.5,
+   "secs": 6.0,
    "sting": "tema",
    "chapter": true,
    "card": {
@@ -1339,27 +1466,15 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "tele_salon"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/178b/bec1/ab1243dd30b73c1d184382a2bb7624f1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=87c1c4e352d257b1f8b0e3405c12a491810aa28b368f866b0722be57362d540f",
      "at": "Anuncios en televisión"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "marquesina"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1160/edcd/de70cd0d3c25d382fc92e268e15adadc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ce7a96c7717d55664fea54a4d18044d0b7d823126e0763c5dcfadf9dfbe2c9a3",
      "at": "en las marquesinas"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cartel_gigante"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/ec5f/215a/1c9fb7c3d1bd4a0c943377610fde50e5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=febe6cac989a9cbb1b562ac7450d3855206486558030e55ac9ad058d4a0cafdd",
      "at": "bankero",
      "kw": "«BANKEROS»",
      "kw_at": 0.4,
@@ -1367,7 +1482,7 @@
     }
    ],
    "gen": "ZnLQbe2bt9vlhNvqfrbT",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/O0OrWT6RpVJq6Ru3yXZM/ZnLQbe2bt9vlhNvqfrbT/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=83QN-Br4mcTS9yvcvc2yNz9mJBI="
+   "url": "jobs/bankia/voz/ZnLQbe2bt9vlhNvqfrbT.mp3"
   },
   {
    "k": "N",
@@ -1375,32 +1490,20 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "oficina_mesa"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/4b81/14bf/b3704d54f9784ddd12c22c1b99e7035e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=30b18b957e3964fcb81e8c3354e4c783206e49499057e6b0002c117663aa9edd",
      "at": "les ofrecían las acciones"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "jubilado_firma"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/0a04/411c/fd1a8802852e5f453516c982f85a1f26.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f8df630063674c5b1fc857fef42dece7e5428adc516c8889a2e5e9fb02ed97ad",
      "at": "Jubilados, familias"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "pareja_joven"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/baae/7578/e81de7aca754f460962430ec003251af.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cef29ac6b6ed8f8c418bd8614bec201a2f71d4e14227a1a6a2c7fe689f60d7a2",
      "at": "pequeños ahorradores"
     }
    ],
    "gen": "zKgYNshPyM0gtpr3D8Lq",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/w85xLNRUDmX0yjWLq5z7/zKgYNshPyM0gtpr3D8Lq/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=IrCtebMoUg1-39mKEX0n-rcjENI="
+   "url": "jobs/bankia/voz/zKgYNshPyM0gtpr3D8Lq.mp3"
   },
   {
    "k": "R",
@@ -1408,11 +1511,7 @@
    "voice": "DAT",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "traders_dudan"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/47f9/0939/e77e7f1841028fb94c5956a576241ebd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b5d92bd07166a32c139cd13238881a57c5afe37cf7719ff881f86a345e43e045",
      "at": "los grandes inversores internacionales no se fían"
     },
     {
@@ -1448,7 +1547,7 @@
     }
    ],
    "gen": "Rdkzpx4I4pVcXyu6cjQb",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QIhZjL2ziYnZNQe93daF/Rdkzpx4I4pVcXyu6cjQb/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=-nYM2Rugm6QLDBtOd614G8CckzE="
+   "url": "jobs/bankia/voz/Rdkzpx4I4pVcXyu6cjQb.mp3"
   },
   {
    "k": "R",
@@ -1469,7 +1568,7 @@
     }
    ],
    "gen": "JrNfRidB2anA43ABGeJ5",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nNuwKnJPTV18zqQpLUCy/JrNfRidB2anA43ABGeJ5/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=FuavfrnPwCnCdPmvA9nwrG0N68U="
+   "url": "jobs/bankia/voz/JrNfRidB2anA43ABGeJ5.mp3"
   },
   {
    "k": "N",
@@ -1487,16 +1586,12 @@
      "at": "tres mil noventa y dos millones"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "hucha_rota"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a8be/ff55/084a4eb393363ae0ea5f1ac7c65c861d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8e5babd5c3afd348de3c02ab45262180653a038920e598e64d1b5af53b0e474c",
      "at": "Viene de la gente de a pie"
     }
    ],
    "gen": "7EwMjZZFxqQWuleOWVTL",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wg3iL0qGMobRK1WlMV01/7EwMjZZFxqQWuleOWVTL/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Q8y7pbY1caaR_MlFGVjdEVQXkOI="
+   "url": "jobs/bankia/voz/7EwMjZZFxqQWuleOWVTL.mp3"
   },
   {
    "k": "N",
@@ -1504,19 +1599,16 @@
    "voice": "NAR",
    "shots": [
     {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/0a04/411c/fd1a8802852e5f453516c982f85a1f26.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f8df630063674c5b1fc857fef42dece7e5428adc516c8889a2e5e9fb02ed97ad",
      "at": "No eran inversores profesionales"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "barrio_caja"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/76aa/c0c1/a5cc67e114a6999eb2a17ad42bd05e21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b6dc7a73acb69fdcfed9b626c88cf72963a46ef94aefe3407325e20a85732ba4",
      "at": "la caja de su barrio"
     }
    ],
    "gen": "IiUq3nNkNm5pQkZ1u0Wj",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/imgK4QodI5SzjhlVTHDD/IiUq3nNkNm5pQkZ1u0Wj/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=ENzEGvkS5tFKC9ip_u3vi0yccdY="
+   "url": "jobs/bankia/voz/IiUq3nNkNm5pQkZ1u0Wj.mp3"
   },
   {
    "k": "R",
@@ -1543,7 +1635,7 @@
     }
    ],
    "gen": "W77RieOEBsdQLjPWG0df",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2D2hTINfYFkK42gG3IjS/W77RieOEBsdQLjPWG0df/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=9KWXXq50hzbfRHPDvLxSF6jQXog="
+   "url": "jobs/bankia/voz/W77RieOEBsdQLjPWG0df.mp3"
   },
   {
    "k": "B",
@@ -1575,24 +1667,16 @@
      "lugar": "bolsa"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "parque_lleno"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/5d36/0ead/e3e60d55aabfe3974b254c067871f8b6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ba47d632286bb405271a117b80e4901c34e121593c89873523e8dc53ff5c3577",
      "at": "llenan el parqué"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "mano_campana"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/aa47/f793/764f52541545158eff6ddbbd8fde43b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1a1c2c2e94557301e7779f1b9eebec61a4f97ef812a3f2a8fb3f7564ff19571e",
      "at": "sube a tocar la campana"
     }
    ],
    "gen": "SwIYv6wJcSSJDETP8yaq",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9G8etA1sIign3PHAYKGW/SwIYv6wJcSSJDETP8yaq/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=-5disKf2pxD4aKJoEwYa6MKLrvM="
+   "url": "jobs/bankia/voz/SwIYv6wJcSSJDETP8yaq.mp3"
   },
   {
    "k": "R",
@@ -1609,7 +1693,7 @@
     }
    ],
    "gen": "s0l8qmcATP7Bawy9vckR",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/iw3aPQ5rcz4pEu2MQqEJ/s0l8qmcATP7Bawy9vckR/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=NyvkcpRjRkhrztG5SOKXLxuAGHQ="
+   "url": "jobs/bankia/voz/s0l8qmcATP7Bawy9vckR.mp3"
   },
   {
    "k": "N",
@@ -1617,19 +1701,11 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "pantalla_roja"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/ef9b/548d/3f4f77726fa18760c26d810c70998bf6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c58db48762123b94322ce717283a85daaed661732df9256f7422f9e0e4605835",
      "at": "La acción llega a caer"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "tormenta_madrid"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/42e6/4425/468acc14942c50e4bb14341ee8b81946.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=72446b0859af2a76755d1507244df90d1b272dcca6287b2aadc982a84005eec0",
      "at": "una auténtica tormenta financiera"
     },
     {
@@ -1645,7 +1721,7 @@
     }
    ],
    "gen": "SaqYLfZZoA0c2H23wMJZ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bMatGpUD6pV2VB45fMAA/SaqYLfZZoA0c2H23wMJZ/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=w-BTXV2O70wez_Jz1-LfP3FzfUQ="
+   "url": "jobs/bankia/voz/SaqYLfZZoA0c2H23wMJZ.mp3"
   },
   {
    "k": "R",
@@ -1653,19 +1729,11 @@
    "voice": "PRE",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "telediario"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a58d/9ded/586b996dbdb68b2c475a85df37a2d863.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cecf7ac0a411e3e69c482a6b171e707a60a3e7163941f4106c66d3f01fd11b7d",
      "at": "Las crónicas de ese día"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ibex_club"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a19e/69c0/95cdde7f7cacf168359f5ca43824e0b6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e8f66609718aaceb334227b1cb694f54610780c6ce0d02bf49480c0c910e358c",
      "at": "el Ibex treinta y cinco",
      "kw": "IBEX 35",
      "kw_at": 0.4,
@@ -1673,7 +1741,7 @@
     }
    ],
    "gen": "hNW2Hd61LdQKK6tGJkj3",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HvLQXh6YcO8i4dQ1YLsm/hNW2Hd61LdQKK6tGJkj3/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=X04Ic8zTZktWmMk8teexWVp4O4g="
+   "url": "jobs/bankia/voz/hNW2Hd61LdQKK6tGJkj3.mp3"
   },
   {
    "k": "N",
@@ -1681,20 +1749,21 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "reloj_arena"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/e707/43fa/1dad6158abf90ff78624fb409c331252.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=166d66d3a7f32fb4292e3b6729a6f40af51942cfcef187a550456e465705bbb1",
      "at": "el reloj ya había empezado a correr"
     }
    ],
    "gen": "m4PLTpJio7Ig7hd7bGKu",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rerEpUV6kzNlRC4pXAPg/m4PLTpJio7Ig7hd7bGKu/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=pbNe0s6MiJFgQBJ7l7gatJlSh0I="
+   "url": "jobs/bankia/voz/m4PLTpJio7Ig7hd7bGKu.mp3"
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 6
   },
   {
    "k": "T",
-   "secs": 4.5,
+   "secs": 6.0,
    "sting": "tema",
    "chapter": true,
    "card": {
@@ -1714,24 +1783,49 @@
    "voice": "PRE",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "europa_tormenta"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/607b/eada/c4f27fc5c29ba8ac8aa49a2e3da7aa4f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3a6a34bb4f48b411e40a8e4d999a0dd2e7a1172e65224defeb18b5d5894e7f57",
      "at": "la crisis de la deuda europea"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "escalera_baja"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1448/cb6b/8cfef73bdd1078bb90e7e1de80322824.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7f15d994eda0c75d5aff596bbc44ba7a17ac85eef64ab7a8625445d6973d75cd",
      "at": "Despacio. Sin pausa"
     }
    ],
    "gen": "jf5ZHuxC4lDYwlbZ3jc6",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VFe69QNIvah0MawNVSlA/jf5ZHuxC4lDYwlbZ3jc6/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=mwR5BQNP4jZhXit0eXz6ruM_1A8="
+   "url": "jobs/bankia/voz/jf5ZHuxC4lDYwlbZ3jc6.mp3"
+  },
+  {
+   "k": "N",
+   "text": "En agosto, el Banco Central Europeo empieza a comprar deuda española e italiana para frenar la sangría. Y en septiembre, en apenas unas semanas, PSOE y PP reforman el artículo ciento treinta y cinco de la Constitución para fijar por escrito el límite al déficit. El país entero vive en modo emergencia.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "European Central Bank headquarters Frankfurt",
+     "src": "commons,loc,europeana",
+     "at": "Banco Central Europeo",
+     "lt": [
+      "Banco Central Europeo",
+      "Fráncfort"
+     ],
+     "lugar": "bce"
+    },
+    {
+     "photo": "Congreso de los Diputados Madrid fachada",
+     "src": "commons,loc,europeana",
+     "at": "reforman",
+     "lt": [
+      "Congreso de los Diputados",
+      "Madrid"
+     ],
+     "lugar": "congreso"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/e121/8044/4fd3bd8f80c5e349b9e23f9df2b01b4c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9cb68e7ab1aa441b1003ddf7435fe0b4d5695d6b8bd2a8e06edf58e21a722fd5",
+     "at": "modo emergencia"
+    }
+   ],
+   "gen": "zqRfsMLitDzLyuRSxbK8",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YWJkFgE6OgVpR1T2pwWo/zqRfsMLitDzLyuRSxbK8/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=J3sHzbH-c1k_BF9Lb9KteysU7wQ="
   },
   {
    "k": "N",
@@ -1761,16 +1855,12 @@
      "lugar": "guindos"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "escoba_balance"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b8f0/c654/1a28e512acdae0d0efb8e075a028d403.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eef8b0d8b42fc0e49d9b06fbf21872ffb41d5c1eac13c4b252c9e0c303861864",
      "at": "limpiar los balances"
     }
    ],
    "gen": "NXLdI4ABnYleOJ4ztTLT",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wkBr7L4GsXXp6nL9xhc0/NXLdI4ABnYleOJ4ztTLT/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=_UAf2BQZx5xug_i0NyxD9IRmXGM="
+   "url": "jobs/bankia/voz/NXLdI4ABnYleOJ4ztTLT.mp3"
   },
   {
    "k": "R",
@@ -1788,16 +1878,12 @@
      "lugar": "bancovalencia"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "grieta_marmol"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/15a5/bfc2/1614cbc86e5e03d1b71a83dd737cf1ff.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d6d9fd773a7c6a374659e01b9c252cb33f701f3c0bfb90b2f79a2ee36ee90d9e",
      "at": "la primera grieta visible"
     }
    ],
    "gen": "jP46Qn4dKLkxi9cewVi2",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BqDKACQaRBjrWf8yiPCe/jP46Qn4dKLkxi9cewVi2/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=cf8SZ4a6-Od1J8FIo7EsaUR3Zbk="
+   "url": "jobs/bankia/voz/jP46Qn4dKLkxi9cewVi2.mp3"
   },
   {
    "k": "R",
@@ -1817,16 +1903,12 @@
      "at": "Real Decreto-ley de febrero"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "caja_monedas"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2bac/5a4f/c475c10f509850ee35b4323c05f85a90.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d0ba79f0c90aa1f3dd3f7f0e4539bbbd92901875ad5435596c93b00f04d368c3",
      "at": "apartar dinero para cubrir"
     }
    ],
    "gen": "GGRMjw5e6oMyACnyp88T",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tUMZJWYOJLO6swz7Xqyd/GGRMjw5e6oMyACnyp88T/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=vN7zRmNunGavBZ4RW8IGYhwrwGA="
+   "url": "jobs/bankia/voz/GGRMjw5e6oMyACnyp88T.mp3"
   },
   {
    "k": "N",
@@ -1845,16 +1927,12 @@
      "at": "trescientos nueve millones"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "papel_sonrisa"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7f00/c801/eed2aa847cd9728355d703df0ca036f2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b873b505339ba9826640abdd5468a9452544f6e2484ead42dd8306515e03cc20",
      "at": "Sobre el papel, todo va bien"
     }
    ],
    "gen": "NHhdDCfKT8vMCPbecEt0",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VcFtP6s89Y8QTq5BKLSK/NHhdDCfKT8vMCPbecEt0/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=gucO1WtLf67f06WkQZmZqyYn1fI="
+   "url": "jobs/bankia/voz/NHhdDCfKT8vMCPbecEt0.mp3"
   },
   {
    "k": "R",
@@ -1874,7 +1952,28 @@
     }
    ],
    "gen": "aW3a2UHKywYqMz6h5B7I",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gjPjlCrkPJvYW0p7MVEd/aW3a2UHKywYqMz6h5B7I/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=DTUVA4g-WhaUxueLip4JEab_XUg="
+   "url": "jobs/bankia/voz/aW3a2UHKywYqMz6h5B7I.mp3"
+  },
+  {
+   "k": "N",
+   "text": "Y mientras la acción baja, dentro del banco corre otro reloj. La ley da tres meses para formular las cuentas del año. Las de dos mil once tienen que estar listas a finales de marzo. Y alguien tiene que firmarlas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a733/9132/39992f7c9726ddf5670e8babd682364f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=89b90fe0603b264d8b9f7ec961dfeea667a18e6833ae2b244f1879213161d2c7",
+     "at": "otro reloj"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "31 DE MARZO",
+      "sub": "plazo para formular las cuentas de 2011"
+     },
+     "at": "finales de marzo"
+    }
+   ],
+   "gen": "dEZixwACM2X8hhIWWuCI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wDWxRSrjXp8jYgDuCPs2/dEZixwACM2X8hhIWWuCI/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=rQQuCLctuf8mlsg44ardDwKdVsg="
   },
   {
    "k": "N",
@@ -1882,24 +1981,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "auditor_noche"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1df6/623c/7d17d4c2746766178b0c0fa7d9768ec0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=13f776f3b9db88e12829724b7c2fcd7dcdd6eea5b9a74dc484adabe0e2c16a3e",
      "at": "Francisco Celma"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "firma_suspendida"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/3a59/0cd4/c3821aa6ad6d3106a8ced4a9b57759d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=beffb8d838676b0e6798a5120aa915db134ba4c562320d6705976db943f0d68f",
      "at": "Y no lo ve claro"
     }
    ],
    "gen": "5HeakgrQWuscJC0taX4O",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/q6sR9Mbu9pZWOKE5cqMX/5HeakgrQWuscJC0taX4O/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=VLdGiR7zOn9_LobbbTPJgOClKMc="
+   "url": "jobs/bankia/voz/5HeakgrQWuscJC0taX4O.mp3"
   },
   {
    "k": "N",
@@ -1907,16 +1998,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "balanza"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/0a66/f651/eb6e758a5caa630772184434dadd3e8a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a5189aa9e877cf918707d3419bc547de27975ea7293d0181935f7f68a1bccf0e",
      "at": "era muy superior"
     }
    ],
    "gen": "9u4srbSjdCGqAeWWlgjM",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VO4FrHHWCOcwYrDYLwIa/9u4srbSjdCGqAeWWlgjM/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=DPAKL8XZCtE-F8zYHRMjXq_VZqg="
+   "url": "jobs/bankia/voz/9u4srbSjdCGqAeWWlgjM.mp3"
   },
   {
    "k": "N",
@@ -1924,19 +2011,16 @@
    "voice": "NEW",
    "shots": [
     {
+     "ai": "https://s3-alpha-sig.figma.com/img/747d/aabe/1dd18ad3171fa86865d5615a87c61f75.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=uN1WqQjDGO2cniRRnwA8ZMMVMsQ999W21uuZqFEpLq4uvbxNg~kZa-WlG4RSxxLdrIKBN4~qKWY2dRCxYDpDOBqb3ROWzQBDcflyvjby7Q7qXj-gXDKpwv32Xxq4aRTNT8RAIp1RFp84CE55lUtQ-E-SXkccYN6SGOP0ymbnsgLuumdcSCaeV3eoqnb9XAFnoCOuniCdBKs3csAk~ULeaKkwBNz8asEsPvEd2E1tvQo682ZeTbXpWMni9ze5imoxWj~t007hm6teOnnaqfcFQy-rFRU8EGz98HU24LwGC8oZBryB8nyR7~4C88Xeu2wZFMF4qdoXYq10zbfsYm96Ww__",
      "at": "Era de ladrillo"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "pozo_oscuro"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7d9a/6245/9913bfd322d73f50ddfe81aeab45b9ee.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=198da71dcafb6ba243985bceba4ce0db5d8ac373a916e59d91bf17b9f039fd08",
      "at": "ese agujero se hacía más grande"
     }
    ],
    "gen": "tDebJ3mRqrqajb3tKy2b",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/lWpzEVuTkqwO6R1IbE61/tDebJ3mRqrqajb3tKy2b/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=qxNiJRH42k4r3OuoHPGIHVtzMTU="
+   "url": "jobs/bankia/voz/tDebJ3mRqrqajb3tKy2b.mp3"
   },
   {
    "k": "R",
@@ -1953,7 +2037,7 @@
     }
    ],
    "gen": "78GBgBYKhb9obpiw2R6G",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/t1cZfRhDPZ2xsdznqdFh/78GBgBYKhb9obpiw2R6G/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=XrizIC_VqKCtm3kvSaQ_avFrpak="
+   "url": "jobs/bankia/voz/78GBgBYKhb9obpiw2R6G.mp3"
   },
   {
    "k": "N",
@@ -1961,11 +2045,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "sello_lacre"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b402/7a77/f6294783647bacaab308665af2ae4762.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=38eb1ff237595cf22893eb6149225e844bdb43db218f1c62b656c91026ab15d3",
      "at": "el Banco de España aprueba el plan"
     },
     {
@@ -1979,16 +2059,12 @@
      "at": "El treinta de abril"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "sobre_sin_firma"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/4d1b/e9f7/c987b8aab2dd19fe61d453722fed6f3c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7b94543b6a753fab53a9296ddb6168b17a65b3990c15ebf990942e860fecb568",
      "at": "Sin la firma del auditor"
     }
    ],
    "gen": "nS7EPWDD8EYeyLIVYVQs",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pOQ7cx6rUEHGT7HGoX38/nS7EPWDD8EYeyLIVYVQs/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=fuOEz3kr_ZHFIugkWm4Ovvbz9l4="
+   "url": "jobs/bankia/voz/nS7EPWDD8EYeyLIVYVQs.mp3"
   },
   {
    "k": "R",
@@ -1996,16 +2072,12 @@
    "voice": "PRE",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "telefonos"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/5cf4/b7f5/c51c90557f6b564aa06aa65e26b9a850.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3671393d85648e0c701787143886be1e70eb86f7d99d0111093513d34ed771ff",
      "at": "Las llamadas entre Bankia"
     }
    ],
    "gen": "alkE15ShUSuCXGGrd8Uw",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/M8apjE76tDEivC3Ialqo/alkE15ShUSuCXGGrd8Uw/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=NRIrs5DGAeASbHdQDh11-rCmbZU="
+   "url": "jobs/bankia/voz/alkE15ShUSuCXGGrd8Uw.mp3"
   },
   {
    "k": "N",
@@ -2013,16 +2085,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "naipes"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7057/dc06/b40bee8278095a1ca1d939cc31d90fdf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=731b3db578410aa45879533d7b9fe24e5256b060a65b0168387cc12fee1da28f",
      "at": "Al castillo de naipes"
     }
    ],
    "gen": "EXJ4tlf3TTmqvljniQJl",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bP6pDAVHqDFlaizMq2Do/EXJ4tlf3TTmqvljniQJl/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=1m87SnrERtV7IebpfN0LfmaPE34="
+   "url": "jobs/bankia/voz/EXJ4tlf3TTmqvljniQJl.mp3"
   },
   {
    "k": "N",
@@ -2030,20 +2098,21 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "vertigo_torre"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f684/bd99/43a1e92cb53cc9d33f65afb99fdac8f5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7b9c10759607e2ad381492f20a444b299170f4c875cb3ef14716430f73ab7a1f",
      "at": "la semana más vertiginosa"
     }
    ],
    "gen": "MlcwKVeYN8GfCAty0m08",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vGGfFFtGiScJt8xR5WfX/MlcwKVeYN8GfCAty0m08/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=owgrGBjUcJP2x8_OnUkcAUX1lIw="
+   "url": "jobs/bankia/voz/MlcwKVeYN8GfCAty0m08.mp3"
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 6
   },
   {
    "k": "T",
-   "secs": 4.5,
+   "secs": 6.0,
    "sting": "tema",
    "chapter": true,
    "card": {
@@ -2073,15 +2142,11 @@
      "at": "siete de mayo de dos mil doce"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "reporteros"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/bb51/23b1/83428361395cb6c216b0ddae0c7b0ae8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9fe3279e91d6ffa74e8bf11deae7741caf76225a411575ae2c296aa761510955",
      "at": "llega un comunicado"
     },
     {
-     "photo": "Rodrigo Rato 2012",
+     "photo": "Rodrigo Rato",
      "src": "commons,loc,europeana",
      "at": "Rodrigo Rato dimite",
      "lt": [
@@ -2093,7 +2158,7 @@
     }
    ],
    "gen": "LY9rpefg2fyqHqOVvFEQ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/83tjXDipNupZa0VdcNaN/LY9rpefg2fyqHqOVvFEQ/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=voIva6AIxh8T8UE6-OTK1JyHAlo="
+   "url": "jobs/bankia/voz/LY9rpefg2fyqHqOVvFEQ.mp3"
   },
   {
    "k": "R",
@@ -2109,7 +2174,7 @@
      "at": "lo más conveniente para esta entidad"
     },
     {
-     "photo": "José Ignacio Goirigolzarri 2012",
+     "photo": "José Ignacio Goirigolzarri",
      "src": "commons,loc,europeana",
      "at": "José Ignacio Goirigolzarri",
      "lt": [
@@ -2121,7 +2186,7 @@
     }
    ],
    "gen": "8aHvoa6wbn9MBRnCTGAt",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QnfOFUZKB3l4iEL1vZgq/8aHvoa6wbn9MBRnCTGAt/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=6nC8a3T3OR1BuJ4FTbEXLisIpQM="
+   "url": "jobs/bankia/voz/8aHvoa6wbn9MBRnCTGAt.mp3"
   },
   {
    "k": "N",
@@ -2129,16 +2194,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "maletin_oro"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7ea9/fe26/5debc3920b8b23150a4ca8556ed797d1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4bf852c4c5b62d4c5568fcfe05f3c9bf5252b99b522792d26007edc53e1a2cbb",
      "at": "preparan una inyección"
     }
    ],
    "gen": "PAiKWegt72f1UgYYF582",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Hge9asXsVkudzW56T6hb/PAiKWegt72f1UgYYF582/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=TjuRSHZr1s1wpwWFDajnvVeKWxg="
+   "url": "jobs/bankia/voz/PAiKWegt72f1UgYYF582.mp3"
   },
   {
    "k": "N",
@@ -2146,11 +2207,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "llave_entrega"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/82a2/bd63/a5c5b6f57eb49a14f01f17ef5dcd45c3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=24fc3e325b818055b1ae23cde3a098e47a304c08e5f85b8088150921b1d7b6a0",
      "at": "Goirigolzarri toma posesión"
     },
     {
@@ -2163,7 +2220,7 @@
     }
    ],
    "gen": "y0c2nQE9Nk2ouE57aMiT",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ye8SOyoK3BoEo8MfW3dc/y0c2nQE9Nk2ouE57aMiT/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=-TB5AwR6iofiuRtBoip04glmXQM="
+   "url": "jobs/bankia/voz/y0c2nQE9Nk2ouE57aMiT.mp3"
   },
   {
    "k": "R",
@@ -2171,16 +2228,12 @@
    "voice": "DAT",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cajero_cola"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c1d9/8e70/b25a30234e2a5a9cc248345c1f27eb88.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=92001486f3e2907052042e9914fc5254d02c11e0a6ac1e97486f1c980e7e7f67",
      "at": "está seguro mi dinero"
     }
    ],
    "gen": "pvxIDsJP6yO2tqOrpSns",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/03Mc6u4xQAWVYsg5sHqd/pvxIDsJP6yO2tqOrpSns/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=w1nStQBIGGXw68xbUMNWFLkO0qE="
+   "url": "jobs/bankia/voz/pvxIDsJP6yO2tqOrpSns.mp3"
   },
   {
    "k": "R",
@@ -2188,16 +2241,12 @@
    "voice": "DAT",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "candado"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/e525/0745/fef4aa58d9d0db825f261725bc8911d8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d17de92461be756034579481428dbcb641bb8ad0dffa95e08b688dbd3f8c9772",
      "at": "los depósitos están garantizados"
     }
    ],
    "gen": "feI7x7FfAdK7fUbIvwc9",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/n4BUGRMFNID3v41bWmv2/feI7x7FfAdK7fUbIvwc9/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Fn_16qGRMzbHIVPSNbjJ_eQie6k="
+   "url": "jobs/bankia/voz/feI7x7FfAdK7fUbIvwc9.mp3"
   },
   {
    "k": "N",
@@ -2215,19 +2264,16 @@
      "at": "Viernes, veinticinco de mayo"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "pantalla_negra"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1ae3/ef80/d100c1e76c7aebd5cbf343d994842fe3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=64ca55ec910eeb15948d87e96fab83ed4349c28bea053b396f8478a4d982fde9",
      "at": "suspende la cotización"
     },
     {
+     "ai": "https://s3-alpha-sig.figma.com/img/160f/b98d/b8b6d5c2bc24f6d5848742cfdbce3b97.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=DnkQ2WrvuVl2AraflzKTsDGS4lHzX365XyJhYDefM0FtZde0Y8j8HeZZFh2X4hFAvFluIbtHscOC5WwH0-cuQSH8Lw4l7C2tIGO75htmcLY7SrEmWKu6q6bYfHIO1gLFTjZ5lMinLS5WMoy1UnmUEwIcP2MNsRMOngJkZ-JDjL6BN9~g8~Dl25ViofIcaqIazpq1EwIhdOQTrHV4DuxdXSEB-M5ABg84jK2pJob3WuGmRpvCked2q0MvNEcoe-AYiPpfqDiJVrNmTJnyyypM8QEJIWza2hYBCmz1tM~I9YyW1U1Ij-PvJ-09Bmn4fy31DGtAtLsMEklhpDxZBg5xkw__",
      "at": "A las cuatro y media"
     }
    ],
    "gen": "cPVW3QngRUSTfNNh6usQ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rbOoRekbZS19EapX5fnA/cPVW3QngRUSTfNNh6usQ/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Hqhv2uVALTjP5m6beI02mAJIsC4="
+   "url": "jobs/bankia/voz/cPVW3QngRUSTfNNh6usQ.mp3"
   },
   {
    "k": "R",
@@ -2264,7 +2310,7 @@
     }
    ],
    "gen": "E7z5nCshonNVdnQBKOlH",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IdJ6E6QKVrroR3EjnpPA/E7z5nCshonNVdnQBKOlH/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=JWm2vg2MxD_WRIreLLGXCFSaqiU="
+   "url": "jobs/bankia/voz/E7z5nCshonNVdnQBKOlH.mp3"
   },
   {
    "k": "R",
@@ -2283,7 +2329,7 @@
     }
    ],
    "gen": "u2WyTskW1GyjPMANVjKP",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DQ3HzE2soOcGDOmDyP41/u2WyTskW1GyjPMANVjKP/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=weuZMWTJSsMZ7bfZ-0ReP1LSkiQ="
+   "url": "jobs/bankia/voz/u2WyTskW1GyjPMANVjKP.mp3"
   },
   {
    "k": "N",
@@ -2291,19 +2337,11 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "estadio_gente"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/4ce9/177b/3ad04ac21a922ec78aa8325b8c77e6b1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0721bb170bd8aeef3f4742dd9cbeb9150d33d2afee32389167c1aa5d7480154",
      "at": "casi un millón de trabajadores"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "banesto_eco"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/4061/bc1f/8c9b546696cf8de7effcb993cd8e498e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4e2bf258f344e9ab432be587bbdd3a110d728127c393bd1a6c3f0776ff563074",
      "at": "Banesto",
      "kw": "BANESTO, 1993",
      "kw_at": 0.4,
@@ -2311,7 +2349,7 @@
     }
    ],
    "gen": "4waRxtFmHS8RmtetFrCP",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3nEsV1igXtYDHTsdPZ0y/4waRxtFmHS8RmtetFrCP/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=GNWpro374UwsgTCxTfNmAXvinAo="
+   "url": "jobs/bankia/voz/4waRxtFmHS8RmtetFrCP.mp3"
   },
   {
    "k": "N",
@@ -2319,24 +2357,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "mapa_europa_luz"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/143e/6a10/7fce50acf6870a5e2d4656cead31e5d2.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=biw0eXwXTI0m25Xydbh54ESStUpzSauobTxfp0Ynhh1EflDFDeFApyvS4kHTalx2~jVVHYYsPVBP4DZEbFbb9h24Mjo6mFPpyOd8gBRxKzGbO3Ujt6Osu-ETDFC72~jA9CGH-9hsc4ReALXJeC~YeNEj8kl8T7x49EK1U3LTSMNAfdZ5BlvPadRnBVKy2QnRfLslYchhqU2CT2kvOu4KlCTk5ueL1ffukAhYvNHOz7ZoXH0VDOWDivZBLE62LzTzBgaZrHe6y9EtNU47vd~zk-~xDFJtJeeaQ~JJ~QKQivHWQJg7QchnWtEdWHrEZCKAhRkPNh8aA7rVh9pVdAZ68A__",
      "at": "un problema de un país"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "fondos_extranjeros"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/fa2c/bfb1/cafffe774b11d8ebf3987f8a6b54767b.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=qqeh3Mo4l6ooDUa6IehbuV7s1YniLUrHZ-YTJZ1Z4pBGYTXS2oir5AUCWjAKJkEbn~w8tsdDMwtVhjE9uP6A~M9aVl0Vkl64HQI2zrbIMICnAnibZmbi5Nf7kchrDSmZqe1Wov~h-xtsWxojwkwA2~SRrF~dXjByucjg-pF9ClnF3Z3whEQle~l54iuFVAyM7FLziuptuhfex8oEcldJ4-GY9dcFR8U3fllpJdH0RNKRC8P3CCqUkG1OCaA9z-9B2md7ehLT9yxTce~E9Eb~PN3n2NjWYbgOH4ex75yODbygTH2-3jnGHr~ID~tatZxWv-fjMXNjh3tvF6nahR4iDg__",
      "at": "en Londres, en Fráncfort y en Washington"
     }
    ],
    "gen": "XV12GKIwzgXP80i3nN7z",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/tkvzBfzTvV6c5vDgv5k3/XV12GKIwzgXP80i3nN7z/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=9iCP6XUM9k27uYIVU4Udz6AggGY="
+   "url": "jobs/bankia/voz/XV12GKIwzgXP80i3nN7z.mp3"
   },
   {
    "k": "R",
@@ -2344,11 +2374,7 @@
    "voice": "PRE",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "desplome"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/489f/aff5/1c9f68b72d7fe827d0234b0586107f32.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=AYmkbf4c8XmMWJgGsESKo70NWBHlfldyGzsk0gInqufWBmqkGGMbCEX26xzdm1uAc726i3uOiEAsmu-0Zpq9nGcqMlFnYpKY-V--PFbhgxJ~sVVDJFPhEh54WP4W64Pd3MIqS16W3NI2rTVPv3lm~GviofzJPN6vmMq~7RU9tTMqns-J7QTmqY7OhRaF6NHnsJx8ToQ9dY8kkKcKgUy2UaYSlLx4lSA4lOabzXHs1FocUnAt9xPLGMek9aPlEjT6l6ri1~HWjdQtJT~doPD~V-aXADXb6acqb74fnzdNxtGPRgAfGLi2dtNKwckyLqNLBvCHjUf5EJSMolHRxuYWOw__",
      "at": "la acción se hunde"
     },
     {
@@ -2362,7 +2388,7 @@
     }
    ],
    "gen": "GW5qkK2MeossF3b3f4PE",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/huYnG3IFHnCWjdcl8JZl/GW5qkK2MeossF3b3f4PE/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=qc57bCHaw9ecsVfOETRkDjJf-j4="
+   "url": "jobs/bankia/voz/GW5qkK2MeossF3b3f4PE.mp3"
   },
   {
    "k": "R",
@@ -2379,7 +2405,7 @@
     }
    ],
    "gen": "JtVt1LSI4D1wB9I7E2t9",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0miGjciD6cnRd36tWMnt/JtVt1LSI4D1wB9I7E2t9/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=7JRy2mFee_hrkc9QcqgOj9MWGbg="
+   "url": "jobs/bankia/voz/JtVt1LSI4D1wB9I7E2t9.mp3"
   },
   {
    "k": "N",
@@ -2407,16 +2433,12 @@
      "at": "hasta cien mil millones"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "bandera_ue_lluvia"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/6034/55ec/c64bd7aa3f12fdd8a99c191e3f6fac89.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=WtBnYOPDlkPumPzM5-ZobKH0TanDH7tsuuvnw3J34eFex5jMip46PyNC41V7lI8Ju82TbL0PLwR21Qd5ViMLovS5jZaCpTMwR7naEndTzWjpKd0o1BzrHfqwTcrkKlL1MrqOl2YiI-sEkXQYIYbG13QhFC3uzUMEa6RvzshAxfIK7MiQCwHGUWJk0qVjEJl-l1BnTw2Xy4fJUQiibErEN0eEO2PeeHFsWt743Iq49RNfae62Fel-ezlj8p1PVb4OEtv8YMK8FamrbsxMj0578wgLiFUN21wC1HCJcZUxujXiAQODrrtYYUv-izKDDIg8e~dqgD6D32i3JMXuUXRA6w__",
      "at": "En toda Europa se le llama rescate"
     }
    ],
    "gen": "dwXFZCWFAaVRSfK7hbjP",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WIHCRyk2spLw3xMuDuci/dwXFZCWFAaVRSfK7hbjP/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=xM__3PMh55uekQ-U93YOKwrzMdY="
+   "url": "jobs/bankia/voz/dwXFZCWFAaVRSfK7hbjP.mp3"
   },
   {
    "k": "R",
@@ -2433,7 +2455,30 @@
     }
    ],
    "gen": "eN9GCzWgtlRQRdvHE8f3",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Nkb9erd0wpVoQ21Xytrf/eN9GCzWgtlRQRdvHE8f3/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=URoxaLIFlEGXu46_sGuRKpUnIjU="
+   "url": "jobs/bankia/voz/eN9GCzWgtlRQRdvHE8f3.mp3"
+  },
+  {
+   "k": "N",
+   "text": "Al día siguiente, el domingo diez de junio, Rajoy viaja a Gdansk, en Polonia, para ver a la selección española debutar en la Eurocopa contra Italia. La imagen del presidente en el palco, un día después de pedir ayuda para la banca, da la vuelta a Europa.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "PGE Arena Gdańsk stadium",
+     "src": "commons,loc,europeana",
+     "at": "Gdansk",
+     "lt": [
+      "Estadio de Gdansk",
+      "Polonia"
+     ],
+     "lugar": "gdansk"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1bfa/7843/624bc2f5fb553040aaef448061025ed7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e8db98cfafe1534f39fb8e2c33af1578a64e732421fe7b075650dd9c775be781",
+     "at": "La imagen"
+    }
+   ],
+   "gen": "85xkVmKcbKMLNHmPnLl9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HapXB83yU7M9UnVBpUcU/85xkVmKcbKMLNHmPnLl9/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=dF-P2RwZ3Sa2qJ_GTRb_qsDCXU0="
   },
   {
    "k": "R",
@@ -2452,7 +2497,7 @@
     }
    ],
    "gen": "gxx1hHCCBeeEhs1uJ34o",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Twpe8nH7WMkTh9nBwZsW/gxx1hHCCBeeEhs1uJ34o/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=zJrJBw77mBZUqEq68VaP5cpLlCY="
+   "url": "jobs/bankia/voz/gxx1hHCCBeeEhs1uJ34o.mp3"
   },
   {
    "k": "N",
@@ -2460,19 +2505,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "calendario"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/e4c9/1500/ecfdf857dd91d881c9f15f609f5d0001.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=U0p8Kx5nHldWNL-O7C7L5350-sgRdgKFFHXCST9TxKTTLqVK0327mSgijqEaqA28qDnn4gmcnA1TU-QqlxDp0SkkfV3CJvMKsp8suVCnbtXw6Z5oX0l3wb4~emS6A3mJh3SmVUJPHvjGPwhhHQcfzFltwwERUCv12rrrUmUkM0YCyHu7L~PlcbN6Y8Ax~PUwsWdeilMvWhdgYoRwVfBrbs-XRqcow6QK58YXhEABY-pTzyYEw6MM4E3eV0SFvy~KcxmGKjbVp9ndU0V51yXDOSF0dJgrXzU8TgmN2yi-s5junlbhXfVasxfzegM01AMmMTPTk8NpdATPwicQQnm1OQ__",
      "at": "un año exacto, día por día"
     },
     {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/aa47/f793/764f52541545158eff6ddbbd8fde43b2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1a1c2c2e94557301e7779f1b9eebec61a4f97ef812a3f2a8fb3f7564ff19571e",
      "at": "sonara la campana de Bankia"
     }
    ],
    "gen": "MbWXLGlFiaMonLTGE8UA",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/uBCCyorjaFQnlwGg6SCA/MbWXLGlFiaMonLTGE8UA/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=b38OfzHuAJ3c8aEdo8en2qGwo50="
+   "url": "jobs/bankia/voz/MbWXLGlFiaMonLTGE8UA.mp3"
   },
   {
    "k": "R",
@@ -2491,7 +2533,60 @@
     }
    ],
    "gen": "XdO3ucYyq3hCTQ3nbrGY",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GwilmuyCy5maxp00naZ7/XdO3ucYyq3hCTQ3nbrGY/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=rVQZwjtMicWDYUzuasl_nIhKXsw="
+   "url": "jobs/bankia/voz/XdO3ucYyq3hCTQ3nbrGY.mp3"
+  },
+  {
+   "k": "R",
+   "text": "Ese verano, el euro está al borde del abismo. A finales de julio, la prima de riesgo española supera los seiscientos puntos básicos. Es el récord desde que existe la moneda única. Financiar al país cuesta más que nunca.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/acdf/8808/b9351fe95f755ad0543d9e31b066d3aa.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ca8f73a8c0dfc5458cfecf54535afd0d71acb659db67733c840b5d4a4e7caff",
+     "at": "Ese verano"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "+600",
+      "sub": "puntos básicos de prima de riesgo · julio de 2012"
+     },
+     "at": "supera los seiscientos"
+    }
+   ],
+   "gen": "bFTgSpgw8Nd00YJfxzXd",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DtnuB9YcPwZuVpp7MzTf/bFTgSpgw8Nd00YJfxzXd/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=Fr1TIxOui34vDo0dqIv3rCAeHiU="
+  },
+  {
+   "k": "N",
+   "text": "Y entonces, el veintiséis de julio, en Londres, el presidente del Banco Central Europeo, Mario Draghi, pronuncia una frase de solo tres palabras: whatever it takes. Hará lo que sea necesario para salvar el euro. Los mercados le creen. La prima empieza a bajar. Pero para los accionistas de Bankia ya es tarde.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Mario Draghi",
+     "src": "commons,loc,europeana",
+     "at": "Mario Draghi",
+     "lt": [
+      "Mario Draghi",
+      "Presidente del BCE (2011-2019)",
+      "gobierno"
+     ],
+     "lugar": "draghi"
+    },
+    {
+     "card": {
+      "type": "quote",
+      "text": "Whatever it takes",
+      "attrib": "Mario Draghi · Londres, 26 de julio de 2012"
+     },
+     "at": "whatever it takes"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/913b/ad5d/e253c84e70039cd8f2477f40f21c7b06.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d5d35d4d7d1cd99a9b53bcc2a396a28d57d7f0266921ec495d198f5105ec31b2",
+     "at": "Los mercados"
+    }
+   ],
+   "gen": "6NEXR5AvEDGX9pxQAeDS",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5OWO2nKIf9Y7F6Mvx3Y2/6NEXR5AvEDGX9pxQAeDS/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=N7RX2HZYbxSmBQQSX_kmap1mX8Y="
   },
   {
    "k": "N",
@@ -2499,19 +2594,16 @@
    "voice": "NAR",
    "shots": [
     {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/4b81/14bf/b3704d54f9784ddd12c22c1b99e7035e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=30b18b957e3964fcb81e8c3354e4c783206e49499057e6b0002c117663aa9edd",
      "at": "quién iba a pagar de verdad"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "mostrador_vacio"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/4644/1b3c/f85ba0ef822b881d591e85eb6661bb76.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ou0hocgNFIBc-sRDoEn3ZVK8vrnz~moKK2fACldY7V2L0prT7LLmJ9QiKtY6dTBbJBtCVatbYy~~JmP8TbwE4rKk3TjJhZnDZEswPk2wYwERpUy1n1JQKUkDperGaAWakSFFuMHrJpPNIz3J-lrSqs1cW-CM7gOgipVVbbtoc0zER3sa-C-m6RdbvzsqRolN~RLkD3tCM8Tzcaljxwr1iWKWGgAe6mVAkcN-EpvVG2mQc5dfDYX7y3TJ8hnzFo0gWjCXMnNkuBn~UkmwGw-c36L-3H-DsKhI05EWY2MOntAGE2NLix6AUUvn-v6xYtNLno~FBhXxoKVL0D~tn4N~WA__",
      "at": "En los mismos mostradores"
     }
    ],
    "gen": "tBz4uyMqk2gr8XiCOQDO",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ifDTV07sp4xc97RluoKn/tBz4uyMqk2gr8XiCOQDO/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Ktit_6xWpNcdd74M9cuYI45CuYI="
+   "url": "jobs/bankia/voz/tBz4uyMqk2gr8XiCOQDO.mp3"
   },
   {
    "k": "M",
@@ -2519,8 +2611,13 @@
    "secs": 6
   },
   {
+   "k": "M",
+   "track": "tension",
+   "secs": 6
+  },
+  {
    "k": "T",
-   "secs": 4.5,
+   "secs": 6.0,
    "sting": "tema",
    "chapter": true,
    "card": {
@@ -2540,11 +2637,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "preferentes_mesa"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/2285/8c07/8d67c448f248e9b6665fab071498498e.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Exc1Y5eZZe6W-cuEYhp639BJ0jrFJOrLolqWyAANk4985Siiu9OB33xW2wld2DdVpZcrUUjA7raatnkW6Erbc8rHO2KVEfzieCIUZgeE1ZQvhf-iiCswbkXMEQpTuFCzqEyf1tybfb-cWlvYy6sIdqZCdM89aXWbiMCnWBnTPiYm7R5uOrde6UCrKgzsVk9p3NZsFqYlSc2KkAL1RHaLzj7s6leW~hBoQJHU-ezPJriGfgWxLhotv6L~jdbr0ssCUX2tYD~pnIeCgUGUTKLySrUvjdBYiZ9Yqaxvmx8XpRpGdA2Rju9hgfjlft41gUK76sy9qYtSxyviFy5pNCF3CA__",
      "at": "las participaciones preferentes"
     },
     {
@@ -2557,7 +2650,7 @@
     }
    ],
    "gen": "ZesnzZpaiNVKEagYm0GF",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/b405KfB3jGiomcQGKEMk/ZesnzZpaiNVKEagYm0GF/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=3kIxNaSYDwubs9X_kkVSjD9c85s="
+   "url": "jobs/bankia/voz/ZesnzZpaiNVKEagYm0GF.mp3"
   },
   {
    "k": "R",
@@ -2575,7 +2668,7 @@
     }
    ],
    "gen": "KsN7enpmxNJIWtggcxB5",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/6zInMEAqxCkebRCJWtfe/KsN7enpmxNJIWtggcxB5/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=JTc6I1wP9fI98lOs5SSBBufG0T4="
+   "url": "jobs/bankia/voz/KsN7enpmxNJIWtggcxB5.mp3"
   },
   {
    "k": "N",
@@ -2583,19 +2676,33 @@
    "voice": "NEW",
    "shots": [
     {
+     "ai": "https://s3-alpha-sig.figma.com/img/2285/8c07/8d67c448f248e9b6665fab071498498e.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Exc1Y5eZZe6W-cuEYhp639BJ0jrFJOrLolqWyAANk4985Siiu9OB33xW2wld2DdVpZcrUUjA7raatnkW6Erbc8rHO2KVEfzieCIUZgeE1ZQvhf-iiCswbkXMEQpTuFCzqEyf1tybfb-cWlvYy6sIdqZCdM89aXWbiMCnWBnTPiYm7R5uOrde6UCrKgzsVk9p3NZsFqYlSc2KkAL1RHaLzj7s6leW~hBoQJHU-ezPJriGfgWxLhotv6L~jdbr0ssCUX2tYD~pnIeCgUGUTKLySrUvjdBYiZ9Yqaxvmx8XpRpGdA2Rju9hgfjlft41gUK76sy9qYtSxyviFy5pNCF3CA__",
      "at": "Pongamos un ejemplo"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cocina_noche"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/3874/0ba1/e89d654dfbc233f109cb5f81e9113229.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=DNFALjytHjhsJcxNpyTQrLUgIMH0NPNE1DJj1Im3ft-p9gho84CI8zE0Nc6eosU-FxuAOBxN7cXD17sHYEsy~hfUM5MVGtw5RA52kFdaBNeJKVjZOXcdE9Agn2Lf8-9RfkEmcpEksckw36rM6mPWRCiHjIEAS1DEO75YU-wjymk2dtBSw7kfeCMEcb7k6tdtRJuMO5v7CVtlyQQ4jojorESQqUWxOAtLHHSatndqLwruEmHTfB2dX0NntNCrUDJ0JI9x-hbrkk~AbdNZJj74MIOGOdFsWkclYp79m4YX7StuwnY1GZLlOXeWVujnxz~QKFkNb8nCY28K9G3GjikTBQ__",
      "at": "cientos de miles de familias"
     }
    ],
    "gen": "XpKDjcSsHkYmQSGGu68r",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nP0zNLIEu0H6yNHn6zqo/XpKDjcSsHkYmQSGGu68r/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=VUvdgHBE28HnnW_TmtphW-l7rLg="
+   "url": "jobs/bankia/voz/XpKDjcSsHkYmQSGGu68r.mp3"
+  },
+  {
+   "k": "N",
+   "text": "En los juzgados aparecieron historias difíciles de creer. Clientes que no sabían leer ni escribir y que habían firmado igualmente. Personas de más de ochenta años con un producto perpetuo. Ahorros de toda una vida, atrapados en un papel que no se podía vender.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/0c66/b7df/b6fc09748707ec17e65552ec670ff05b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6f28776da6ae9f30f00b08e477e25e63a56cb521a269f8333e8e26742c18cf35",
+     "at": "Clientes que no"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/bc6b/d25b/e6310eaa3a903dc007770cb6a5a44b07.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=02ffeac06b20eb8c2c97ee8f4972fc8e0beeaad8e17f39233dda101d5ca4ae98",
+     "at": "Ahorros de toda"
+    }
+   ],
+   "gen": "nu5mf6vNE2icbyDkoyRM",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8M7P8AyOj9j8yiU7umcA/nu5mf6vNE2icbyDkoyRM/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=MsCfF9gVyT6Ur0WwR0H19kcp3bg="
   },
   {
    "k": "N",
@@ -2623,16 +2730,12 @@
      "lugar": "preferentes"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "pancarta_jubilados"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/b63b/7089/953ae49f53e581afb6a37635c33e15aa.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=NebBr3i-aQQIH~PbE28luMA~44oBICZc0V1PU~h7oqNK6d~lrZt~KJw8WP3tvWL8XBEX5Sss0UiZiobCV4wzzgNaUp1sY8LpQlemOLxISiIakgTdL5VlZCRlkM5I0YtZnr39gEUFe54x22OyStAmCP-sXqLmj4fGN7ayAUBvw6Xu~uhUidLhw5pSXGIaQYtdv~~TERwYQyCHGrVbZ5i~daJEUzgH8xWe2ajeVR9saoL8R9lnJtVrrLarho3vSr-MZNqiFr8HaDkG-IabqGVtLMnwf5Kmqsaa~XkWaLuUmQ-ciKvpjTTL-AfS3PYoCavtClUtvT1Q4rKxxYN6qrn0bQ__",
      "at": "frente a los bancos"
     }
    ],
    "gen": "ktnzoR4F5l66heC6GBN3",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/c6sIQ8T37l2gxpKqKHue/ktnzoR4F5l66heC6GBN3/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=20ZzckQOwhrg8eRs8chqAHsbgFw="
+   "url": "jobs/bankia/voz/ktnzoR4F5l66heC6GBN3.mp3"
   },
   {
    "k": "N",
@@ -2640,11 +2743,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cola_arbitraje"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/81b3/1b7a/87c105751a493f360da1fdc80f5caf9d.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=PpQTgrTB--FRREjJTxGprKvzEoq7vWRqPFh-hHRrBTO~oZ7jl9gTNvxXkvaRuDUclRdf3MhIc6nE6GEcz5kXghCx4GEBquZnLq8t1nfCmtM9cZDjeYOJZHGCZXQcONKry488Og~MGVkxWD9V3QUlxmc5VMnTOu~50AkQvMIkOkbK7yfZrEUSZNZlUJI0UNQybGy0~x6781Zg~yla156Z67nlxGkr4f~KeZfM7430eVPuxqUT-02X024dShHDJpyOBraPrS6ly5hYSKhrSiIixHCJ3y6vvrRIQFtGuuvD2itU2gV1oIXyOAraYH-xUUmM1JXxeMrJnBd0uKr9hJcZgQ__",
      "at": "Se abre un arbitraje"
     },
     {
@@ -2667,7 +2766,7 @@
     }
    ],
    "gen": "ckOlQigXNMiCaDzxTcCG",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/upiWWRSuBwoLIUo7WRQE/ckOlQigXNMiCaDzxTcCG/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=gZ9MjkTI2VX9NgBXm-Zqb3bcZTM="
+   "url": "jobs/bankia/voz/ckOlQigXNMiCaDzxTcCG.mp3"
   },
   {
    "k": "R",
@@ -2686,7 +2785,7 @@
     }
    ],
    "gen": "9sPYKzMmac9ReqtDkXI1",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZxuUv24t6ka0WDPca8WX/9sPYKzMmac9ReqtDkXI1/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=fkKAEQobrITm7hEXKDJmzIVRFK0="
+   "url": "jobs/bankia/voz/9sPYKzMmac9ReqtDkXI1.mp3"
   },
   {
    "k": "R",
@@ -2714,7 +2813,7 @@
     }
    ],
    "gen": "xXgS09rcR1C9Z41HOSh6",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/p3S3Bsq4m8yAYrHGWFaR/xXgS09rcR1C9Z41HOSh6/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=o3ujCXBLe-oDQBYszb3kf1GOM3A="
+   "url": "jobs/bankia/voz/xXgS09rcR1C9Z41HOSh6.mp3"
   },
   {
    "k": "N",
@@ -2722,24 +2821,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "billete_quema"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/2de3/f4f1/070c4c376bd276af554e8908c524630c.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=fCIqEqj2QT05GTpc~tiUPpWdM3b72~eKHCuVuv9Ht62FRoXpNmNbtOQEz5CYY-nHt6xjTBzTq6T5IhAQHA6TsTf44XVKhRAJRuiyfwi9xyyB7FLbsDEAFPzug0vVlVwPt3hqqCT9Cv2vFsk5hRGhMYSgX8ngpeOo8SszC5c27FUrjlmizQoQn38hepLD~by09MYDN4QjiWMBCH-86E-FePjt5pcjycF4FJlJIMd9HRiZ3OovYEqI8WJrBiFLebtaiL3we0dow0cxrWYzY2JXwfoNc0TC-PAtZu3y6YHnLGDO~ybBCHvcOe2jXkqTYEXB26hjucnTbTxvtUhVWINMuQ__",
      "at": "en unos cuarenta"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "foto_familia"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/581f/1796/d31400c8b4b96cb6d2822670bff71ebf.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=R7cB4BCSBOuCW37-Z7v9JDDi6BPgh2B1shUX2LHcv29tzWRkvjDl-3CBuSGGNNvCkufRGgCVdkIpckeZY3dC7IHITpqHaIMj8XX3uHwrJEW8qJRVenGJuLnxeEBpYoz9x6ZbBAYrXS9iYM3R~YUMeo5TlBWESmt-Lk2NYDJo4rmo3kq1~6BsUJpCA~x12iBghsUnGSn3ncPpod~n05BwTBO3XuM0wCrTYmBHmHbwLqI-JwXklzGBHlDlciXoI7wHN2XVxbvl8QTT-QKc~QZDdMLVYtlOk1Apw2JY45uixjTSMgVPfZafM4n5x3lC6GlxkcJhDv7bmWr7J2aL~of~VQ__",
      "at": "Eran los ahorros de una vida"
     }
    ],
    "gen": "iA1p4NbUvXjq0P29Ika1",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/MpQKhDveWvFBJQFNGAwC/iA1p4NbUvXjq0P29Ika1/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=nAXm1T7TLqlhHj9y9pkieEYvvHY="
+   "url": "jobs/bankia/voz/iA1p4NbUvXjq0P29Ika1.mp3"
   },
   {
    "k": "R",
@@ -2747,24 +2838,16 @@
    "voice": "DAT",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "carpetas_camion"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/c0b5/dc98/66060133985f777ecf5580f11b20c91b.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kyihinn-n6ickeC302-Y0SNBTAWcuXDmFvbIYciNAfNQn2ZLWaCzWjnDWqb2Lr-9FM3fbU-lXNMwPKAD2LEholv6ITXYbRBoJhKGkeTWINyZSMZWxOnrnwQEo2fKoDki9yIB78zxlOfJuYshiPrsNAtvmlcg~ASWBRD3BYwSJElAvytjzBBZP6x9rhPyOpV8pMoWESK3WqKGYV~9gvMi04JebVzkrKRFKCzSf-2RciTpRK92lp-oiSMrFGv8rzi4dWb0pQeKudzJc9dvGJD-nHmYPHFKAlahrC7jqK0Xs7U7JSGPYCQ1DLAripQYBudQt3epDjjHfV~vEFOFQ5lV1w__",
      "at": "la Sareb"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "persiana_baja"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/fcb8/181d/0d74c1e30a6a2c32f37236ba3a46d085.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=aKQKB2nRYqmaY2upm326bKUOBgSpH5KmdUXySp5PilGlbjy-heb7A2PR3P2ALl~4OC~BAzkQKI-m61bhSNr9VuGRUaC~~c~Xuiyw14Eyq6RvbtE1DOsKVFUjhY1EXsxp9XST5WnzcJGKSwwDk8sVA1HOFvQ5ftr5YPH7QoNdB3C-t3r2FEOOpUfMqyMLzG8~lXrTsVS5bbeqop~VJjUYT0n54XyW3WGYykT12~2JncKKVwWOVj7-6k8Eu6vMUg3k0KZ5jRtJrYwki-j0qa6ST5ZGVmPXiaNaL3MHHgxZr8zCQHrOnBLTlbYrZHSOI7ErQTT~nFKnJ41BWyAd57Uogw__",
      "at": "el cierre de unas mil cien oficinas"
     }
    ],
    "gen": "ly4ElxiWZEihO7m1EPr9",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/r6N0csaCwssjS72zrxwq/ly4ElxiWZEihO7m1EPr9/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=5Y8Hcw7_2K_Os2-OsLKqwFN4j2w="
+   "url": "jobs/bankia/voz/ly4ElxiWZEihO7m1EPr9.mp3"
   },
   {
    "k": "N",
@@ -2772,16 +2855,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "timon_tormenta"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/7004/11e5/998736d5f350258507462b5e5ee914ca.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=p-p7QhPRKhEy9emmdIkX8kzVVGztAcpnOoDKZkEbwmeyPSVooXk2p14Cu5Iqsv1hYNHkSOz2zcDOd7KRDlLF57KUU5CiK~Gtf3sV4rZc8TNvzLyW7Qb7L9f8he5xyb4jvBMeup-M9ZvCgk002HLJSjVAVU8iDDvUamii0zV9Hqe1sIK~ygaHHMpkH3Gq19ZbfJM1GWvdxwOA6Euy6L3fkyLYZQhzyyReV7GBzG1J~vlKgztkYhitfZtclLAotbQhpelN2K4vwBH8HCRPcQzTVLTft8KNdVjshUwyhSoWRGNXG4E4oOZJi6tRBPvr0ZVyTYEugrx5xuAomLMqGT-D4w__",
      "at": "que Bankia sobreviva"
     }
    ],
    "gen": "o8TUd2X1l95bbZje3zEt",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VYVk4VlCReErNmWnwxDa/o8TUd2X1l95bbZje3zEt/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=4blDnZJvo4-pkznErrJ7zCb6_WI="
+   "url": "jobs/bankia/voz/o8TUd2X1l95bbZje3zEt.mp3"
   },
   {
    "k": "N",
@@ -2789,20 +2868,34 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "balanza_justicia"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/6cec/1ec5/cd8f8c33336114175b36cda6c1cf11b9.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=iXRmzUiwS9n06XIGZxF-G4tMzWFzCBfXPFYXe818z-34idGEVle5Mq2lzuzQRekgAVIDAFrAolWw19Y3h1-KQ7WTnM3XqFZSWAT0qaKHaigpBO~QJKPRAY2WURPIuRuBoyeHU3uizMLVT5sHT2d1ptLMcZv7Pink6mQ-mc2vIfoPtwDU3egE28CXmI59BFtw0~ZkNa6KSxnxLvApDUB6NBQp9Sw98sftFN6zQaWPMDyofycwg-3KfiPwPDhJej~q2TtVU6YjT5uBjAsKb6yz0I-cyQDfFcBgjSVz6R-DJ2hHwBhgR6NvhxkUBR0JdPhlCltWOKfPZSy2S3eQMqsv2g__",
      "at": "Alguien iba a responder por ello"
     }
    ],
    "gen": "8U4ATLH8X87wUKaMB96D",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TCDRAgCSI8hDblqgSPfv/8U4ATLH8X87wUKaMB96D/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=ZCw_H137tHEpdOKVKfCA7pmsesQ="
+   "url": "jobs/bankia/voz/8U4ATLH8X87wUKaMB96D.mp3"
+  },
+  {
+   "k": "N",
+   "text": "Antes de seguir, una pregunta para ti. ¿Quién crees que debería haber respondido ante la justicia? Déjalo en los comentarios. Porque lo que decidieron los tribunales sorprendió a casi todo el mundo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/bc04/c924/43331046b1933112d82f739168c73f73.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=36ce4d1935e9a0af83f86c5e46abc6c5ae71306ae9f2ad12ae74b9ec7010192c",
+     "at": "Antes de seguir"
+    }
+   ],
+   "gen": "NQaGsdEujQRQ57lKWcJc",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bGI5S8rL4KwX8IkaXUUL/NQaGsdEujQRQ57lKWcJc/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=1WmD6p2D9MNabqgNxtMSd3U7ZE0="
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 6
   },
   {
    "k": "T",
-   "secs": 4.5,
+   "secs": 6.0,
    "sting": "tema",
    "chapter": true,
    "card": {
@@ -2822,11 +2915,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "querella_mesa"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/bca4/fb44/99e630de40a8c4846baee71a16fcd613.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6a420409a57ee6ac29a9486181812b697bb8a923366a5aee03c2a0dfed4c1f46",
      "at": "presenta una querella"
     },
     {
@@ -2840,16 +2929,12 @@
      "lugar": "audiencia"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "donaciones"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1dc4/b0f6/373192a9fc6dcee6f7ffa9448d9954c0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=edc80ebee8fba1e0af4f45c4348c379c2f40a9e4a6a15f95c8761a3cc9a9e5cd",
      "at": "financiada con pequeñas donaciones"
     }
    ],
    "gen": "euRb4wjgf1AGVbFifORv",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IBYda67FgXhRw8AR9vCx/euRb4wjgf1AGVbFifORv/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=I50CmRx8b5wlkAj1RIBwl1Mx1m0="
+   "url": "jobs/bankia/voz/euRb4wjgf1AGVbFifORv.mp3"
   },
   {
    "k": "N",
@@ -2878,7 +2963,7 @@
     }
    ],
    "gen": "FpCl7z6FKoSb4BDCiT8p",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jYidoEyu9gGLYkqVwJpx/FpCl7z6FKoSb4BDCiT8p/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=FqRuxKAwkTPMkqnCS7FwBtnrLno="
+   "url": "jobs/bankia/voz/FpCl7z6FKoSb4BDCiT8p.mp3"
   },
   {
    "k": "R",
@@ -2886,11 +2971,7 @@
    "voice": "DOC",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "perito_papeles"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/0f3c/6802/966cf33aa37261a4708fb67c54e946c3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=010a762ca33aa523c9431d2a90493a21042a9a0932ba7cf6ce14702f4b371135",
      "at": "Dos inspectores del Banco de España"
     },
     {
@@ -2907,7 +2988,7 @@
     }
    ],
    "gen": "c5YM1VkUgKXchWwdzqaI",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/E4U1ZbMA7BBBAXsaFuPx/c5YM1VkUgKXchWwdzqaI/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=A9WVzhcQdvDSh23hpzOm_NZ16Nw="
+   "url": "jobs/bankia/voz/c5YM1VkUgKXchWwdzqaI.mp3"
   },
   {
    "k": "N",
@@ -2915,11 +2996,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "abogado_maletin"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1b11/dadb/eeed0437f018599aa4925f2deafa90c6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=929db328129a7dcaaef168dc66ec68a24bb375bb61e5ff2c913af1ad53dff510",
      "at": "la vía civil"
     },
     {
@@ -2934,7 +3011,7 @@
     }
    ],
    "gen": "iIKS7OD3ldVrXUKWHgAd",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IAn0iA7aluR7YEXiHXI3/iIKS7OD3ldVrXUKWHgAd/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=2P8Rn6ierg5gyNOyP3qU-GIBGGQ="
+   "url": "jobs/bankia/voz/iIKS7OD3ldVrXUKWHgAd.mp3"
   },
   {
    "k": "R",
@@ -2951,7 +3028,7 @@
     }
    ],
    "gen": "s0kM53fFjVj2221gg0rY",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wkkc2HHQR0ltLK7LXa6Z/s0kM53fFjVj2221gg0rY/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=vlHFHTeOUyzH9AiV-BCpnm3XwxM="
+   "url": "jobs/bankia/voz/s0kM53fFjVj2221gg0rY.mp3"
   },
   {
    "k": "R",
@@ -2959,11 +3036,12 @@
    "voice": "DOC",
    "shots": [
     {
+     "ai": "https://s3-alpha-sig.figma.com/img/9d8c/a408/e441861bf56db739d5b4611c26187329.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=YguJn~30L5XFOwf6GTHxAdDKfO6eITJtAYUmv0xafMnHDrKJSU7ZT8GXIxW7JTie~NxERKVD-ffK5CBKaH2MaiHsripdk3hITqsUY~zHZgR5KoUpTqiVk4c9rj0jFwebuvJ0Oh5P-2A4wLlnUFEWFMI-l1H47HfGGQoyxg8mJDwL-z4qQ6S-8BiE6VviH1wi-NKLlyH8xUFf2EqOh3TAbz0CyNCUu~SeNIAIMtc-nirvHrBRiR4ZFOoItAAn-CuwkhWo6izITZc6QU-YtznKgUJx8DYq32bvrGoKHfDV0gDNc0~rQaHUWbf~wvahZa72H8bFFXk3QagKgyTuUqs5Tw__",
      "at": "Los pequeños inversores no tenían medios"
     }
    ],
    "gen": "LSH7E4emHhKEODzZbwMK",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/TnPYYQvsAIfSNl9WzQMk/LSH7E4emHhKEODzZbwMK/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=KvITjBdU4MRtoRNivVxfKuglk8M="
+   "url": "jobs/bankia/voz/LSH7E4emHhKEODzZbwMK.mp3"
   },
   {
    "k": "R",
@@ -2971,11 +3049,7 @@
    "voice": "DAT",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "carta_buzon"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1871/2a10/1da7bf37b51d7eecc2292ce332dd1a15.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=734320141d4dedbc33afa27c5e61460233afa4ad3994b68d1f1ba2be586d2a91",
      "at": "su inversión íntegra"
     },
     {
@@ -2990,7 +3064,7 @@
     }
    ],
    "gen": "klnLmCs9YAPB9xvUCchL",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UfNdhI2FYTWFgjtzTEpp/klnLmCs9YAPB9xvUCchL/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=YhYwLy8_RKzOcbgG1eHt5tV9VKg="
+   "url": "jobs/bankia/voz/klnLmCs9YAPB9xvUCchL.mp3"
   },
   {
    "k": "N",
@@ -2998,16 +3072,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "monedas_mano"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/fc96/48f3/8878192e3f96feb9961e94112b0d337e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=93fe4631ecd49837647bd1ba383935fc14c1e586129f8e76bf235dacb6ad9567",
      "at": "de todos los contribuyentes"
     }
    ],
    "gen": "oD79urk3JRWuHAgPMRGQ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/t1bWymt9rogkYtYgNUYh/oD79urk3JRWuHAgPMRGQ/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=NyZvmmeHxhxkkcBsrQTrMNWBaK8="
+   "url": "jobs/bankia/voz/oD79urk3JRWuHAgPMRGQ.mp3"
   },
   {
    "k": "B",
@@ -3019,24 +3089,16 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "compras_lujo"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8894/855c/59d328861cae309f42116b0d76c80186.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=24bb69e248036c542abfa73e4c3162f58436ec84bf0663a9ab540d0ee70a56ba",
      "at": "usaron tarjetas de crédito"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "tarjeta_negra"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c244/2bf0/6992d122807edf2d3dafc3a00b434afb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=95e47f04dfef7ae79a45a52dd12c86bab608929ed37602b70db29597003a4aa1",
      "at": "tarjetas black"
     }
    ],
    "gen": "vvC2QfpC25WVlc6u2Gbv",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/u8poZjqqgJrmX8tb4PWZ/vvC2QfpC25WVlc6u2Gbv/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=I7gJcXoYvYs9ew3Dvr0_TmS1VcU="
+   "url": "jobs/bankia/voz/vvC2QfpC25WVlc6u2Gbv.mp3"
   },
   {
    "k": "R",
@@ -3076,7 +3138,28 @@
     }
    ],
    "gen": "YdbRmkN9XmR8QqTo0tOh",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KUI8NFpQ2pNxvVY2bMWa/YdbRmkN9XmR8QqTo0tOh/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=bj1udFNScfBtviS5ksm1RfChzzU="
+   "url": "jobs/bankia/voz/YdbRmkN9XmR8QqTo0tOh.mp3"
+  },
+  {
+   "k": "R",
+   "text": "Los cargos eran de todo tipo. Restaurantes, viajes, ropa, joyas, retiradas de dinero en cajeros. Gastos que no se declaraban a Hacienda como lo que en realidad eran: un sobresueldo.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c244/2bf0/6992d122807edf2d3dafc3a00b434afb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=95e47f04dfef7ae79a45a52dd12c86bab608929ed37602b70db29597003a4aa1",
+     "at": "Los cargos"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "SOBRESUELDO",
+      "sub": "gastos sin declarar a Hacienda"
+     },
+     "at": "un sobresueldo"
+    }
+   ],
+   "gen": "QIbHBsHbg1Dis3hz0ZAB",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Ns2deYBP6df92b6fum5G/QIbHBsHbg1Dis3hz0ZAB/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=pOjAW0cPpRs0XqDeykXU9C9P0vk="
   },
   {
    "k": "R",
@@ -3106,7 +3189,7 @@
     }
    ],
    "gen": "58CfR0QFaiZAbKHRQt9p",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GnlflekN6QYCJLrAjEMh/58CfR0QFaiZAbKHRQt9p/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Q_oQtOjj7NncoE44Lu4-MYJH_-o="
+   "url": "jobs/bankia/voz/58CfR0QFaiZAbKHRQt9p.mp3"
   },
   {
    "k": "N",
@@ -3125,16 +3208,12 @@
      "lugar": "blesa"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "pasillo_tribunal"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8f8b/4aca/60d26c4f7e8ccfd849441e15b02126c1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cc9f6da6add51270d6032c2526e6067a7a614714739893db315c331f2ced8cf7",
      "at": "El Supremo lo confirma"
     }
    ],
    "gen": "2XyU6LEDnHi7luYPNkaR",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XMvuSz6t1zZ9VjcQbizc/2XyU6LEDnHi7luYPNkaR/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=_NnRr0ZFpfgXnhfeH066o3clDIU="
+   "url": "jobs/bankia/voz/2XyU6LEDnHi7luYPNkaR.mp3"
   },
   {
    "k": "R",
@@ -3142,11 +3221,12 @@
    "voice": "DAT",
    "shots": [
     {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c437/904f/d78518d56d1330fdce729294f9c20bcd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5be2e0c15dd2aa5c66373344511433488bb400b69e7258fa4ef19ea4cd0395ed",
      "at": "De los doce millones"
     }
    ],
    "gen": "Q0QjyvNv97kAorR3Eztt",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jwgTpdx2KACIvLkgQSrZ/Q0QjyvNv97kAorR3Eztt/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=376YSO5PRepNhO5ahzWqKmD74dM="
+   "url": "jobs/bankia/voz/Q0QjyvNv97kAorR3Eztt.mp3"
   },
   {
    "k": "B",
@@ -3168,16 +3248,12 @@
      "lugar": "soto"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "puerta_prision"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/d005/b0fc/d1286e9e0aee8083c56351f36c9f5d24.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=56d8bea56818da6ee74fa03c47d40e5a7a2a1ba07373136201144cbb1d58ff8c",
      "at": "se para ante las cámaras"
     }
    ],
    "gen": "ar2WsnTiVIgQlxtlzV15",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/L1S6FO9BnyVy7mJxyz34/ar2WsnTiVIgQlxtlzV15/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=SUuFm2BRUdrczV3BqNXoTlubt48="
+   "url": "jobs/bankia/voz/ar2WsnTiVIgQlxtlzV15.mp3"
   },
   {
    "k": "N",
@@ -3185,16 +3261,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "celda_luz"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c09d/b39e/4c91f2a61e1f1b04625585203f8b0481.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=244ecc1ad859349b12869b1164cf6c2059d59c8518456eb63ab7249cb3c9c14d",
      "at": "a una celda"
     }
    ],
    "gen": "V3RKrqe5j0Xgq8jgWeiZ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nc4G5suwrJkuaRS1H4Yr/V3RKrqe5j0Xgq8jgWeiZ/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=KJmXp88KWN9mvcR0Njyn3gq0N6I="
+   "url": "jobs/bankia/voz/V3RKrqe5j0Xgq8jgWeiZ.mp3"
   },
   {
    "k": "R",
@@ -3211,7 +3283,7 @@
     }
    ],
    "gen": "wUyyuyG0wl6ohSAl7dW2",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IKyjaipVqhlw47lpSPIn/wUyyuyG0wl6ohSAl7dW2/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=r1aqGJWnxbQu7uuoK4Ovl2qzlO4="
+   "url": "jobs/bankia/voz/wUyyuyG0wl6ohSAl7dW2.mp3"
   },
   {
    "k": "N",
@@ -3229,16 +3301,12 @@
      "lugar": "audiencia"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "sala_juicio"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/9e39/fc4a/7182591352f90e556b4422a3abf91c14.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2a044bfeb0173739d912006ad47eab0ec596fdf4ce67d3cf631afe1eac65bdb5",
      "at": "Treinta y cuatro acusados"
     }
    ],
    "gen": "Xh2O6ZcW1ADZJPDuUEmV",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SVI534XiwnPL7K8AGx6P/Xh2O6ZcW1ADZJPDuUEmV/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=3rGQxjT4E-mpmwVDcVdJOH4HKJI="
+   "url": "jobs/bankia/voz/Xh2O6ZcW1ADZJPDuUEmV.mp3"
   },
   {
    "k": "B",
@@ -3250,19 +3318,16 @@
    "voice": "NEW",
    "shots": [
     {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1df6/623c/7d17d4c2746766178b0c0fa7d9768ec0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=13f776f3b9db88e12829724b7c2fcd7dcdd6eea5b9a74dc484adabe0e2c16a3e",
      "at": "Celma, el auditor"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "testigo_estrado"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/3ce0/9372/2b0ff522c8580eb601cce701ec352ef1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6dc3a4cef6114aa98e3219194c1bd78e881292e8503c7233e9bd2f909659cb59",
      "at": "Casaus, el inspector de los correos"
     }
    ],
    "gen": "yHMyaCP8CxtLEl5IwQGI",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rN81RuxJJftRDEF0IGRg/yHMyaCP8CxtLEl5IwQGI/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=1mOxWVpy8y7lIev5CBmqdjkgFRI="
+   "url": "jobs/bankia/voz/yHMyaCP8CxtLEl5IwQGI.mp3"
   },
   {
    "k": "R",
@@ -3279,7 +3344,7 @@
     }
    ],
    "gen": "5QvjPdyljconHPBEYOWl",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/XISrZygKfy1OYvajsN90/5QvjPdyljconHPBEYOWl/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=1mFocWZp0APgcL5ZZBJRSi1bhYU="
+   "url": "jobs/bankia/voz/5QvjPdyljconHPBEYOWl.mp3"
   },
   {
    "k": "R",
@@ -3298,11 +3363,12 @@
      "lugar": "mafo"
     },
     {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/3ce0/9372/2b0ff522c8580eb601cce701ec352ef1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6dc3a4cef6114aa98e3219194c1bd78e881292e8503c7233e9bd2f909659cb59",
      "at": "defiende ante el tribunal"
     }
    ],
    "gen": "fOgZDv1PHwcJcLrMrUaU",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BW6P9GRawxisVIqL5ApT/fOgZDv1PHwcJcLrMrUaU/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=PNL77as03CAOkdRfJdIHv5EriYY="
+   "url": "jobs/bankia/voz/fOgZDv1PHwcJcLrMrUaU.mp3"
   },
   {
    "k": "N",
@@ -3310,24 +3376,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "juez_lee"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/e1fe/a13d/c1f17938647cb5e3ad6b87b68dec8ceb.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Rzf4wAClObxixffd0WdyukyhbOiMolSzHYkf~mig1A7mvgqR1g0Q1OtWJY-9cGY4N5C1WPa~zWLfGhGSfmspfvSyY5Dw8llTPgTYYly~2COzz~v2-OR0U-v2bjY7LHM~U5U-9Nv6iV6nK0Hjso2QrlFUaMu9eeLU5uEAdLrdd54D3fUs5Is-e4JyqHJyHWM5raFOiqO1lx-C~dVHYy9pVsDjwK2vq7EpAfEuP6zl6DZ1bFScor6GUYZ4NkTU2vKP73i2lJnifuHU66y4Mo9vZsObh4i6M0I~RM9qCr7R-iO8cC95-tS54flCggz8Xtp0wQ0XGQ04a8FugqfZJVLiUQ__",
      "at": "La Audiencia Nacional dicta sentencia"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "folios_sentencia"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/77e7/5588/d2d41c74961c458ac715d660a5a46312.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=E6uyTFjL55XyXZVYc8plTVi0QHZkK3gSPePehhz5E15oJNvE1lIyRHf30zHBSmiDTuFXLlgeDUrQppJP9MVt~ObrPUAko03ByAnJcJbZnNNlE2ngEdbsXiZPGyOyHzm1DILtX4P4Zz1bBCTA1t6g4Fa0YmK3-J~QNmOEaUuBMdtMfolQIaUlZ8RBImdyDKRe95pSK49mCsWb2OpgeuLE55DTfsyaTGIwIBkA6-ujOXi-MFKr-n6P2OTvVy0uee52PKHk9bi4DQfs8djBGMynkA31Rkjrv8ijCqcrWv8H7WCZUafyy6~XGRc16VKGLqgp5fjiJK~S12XBJbNENnEO2Q__",
      "at": "Cuatrocientas cuarenta y dos páginas"
     }
    ],
    "gen": "PSB6tEs7zGvadQzjBm6M",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/29MYoY9JGQgRdpa55ybD/PSB6tEs7zGvadQzjBm6M/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=XlmNmuUXMovu7fnjujgQTYyuBTk="
+   "url": "jobs/bankia/voz/PSB6tEs7zGvadQzjBm6M.mp3"
   },
   {
    "k": "M",
@@ -3349,7 +3407,7 @@
     }
    ],
    "gen": "wob0i00xxscIChWJEEg0",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/zpl3hyQ3ppqLxDFFzLD4/wob0i00xxscIChWJEEg0/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=4EyBrzY2n-6wUE8gPxAb3n_diBc="
+   "url": "jobs/bankia/voz/wob0i00xxscIChWJEEg0.mp3"
   },
   {
    "k": "R",
@@ -3391,7 +3449,7 @@
     }
    ],
    "gen": "f4tqioPiIpYZ6t0na5mz",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YW0jMyyEgTRxk8eEYXly/f4tqioPiIpYZ6t0na5mz/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=GLU1xashrYPfjggY6IsamB1DOd4="
+   "url": "jobs/bankia/voz/f4tqioPiIpYZ6t0na5mz.mp3"
   },
   {
    "k": "N",
@@ -3399,6 +3457,7 @@
    "voice": "NEW",
    "shots": [
     {
+     "ai": "https://s3-alpha-sig.figma.com/img/6cec/1ec5/cd8f8c33336114175b36cda6c1cf11b9.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=iXRmzUiwS9n06XIGZxF-G4tMzWFzCBfXPFYXe818z-34idGEVle5Mq2lzuzQRekgAVIDAFrAolWw19Y3h1-KQ7WTnM3XqFZSWAT0qaKHaigpBO~QJKPRAY2WURPIuRuBoyeHU3uizMLVT5sHT2d1ptLMcZv7Pink6mQ-mc2vIfoPtwDU3egE28CXmI59BFtw0~ZkNa6KSxnxLvApDUB6NBQp9Sw98sftFN6zQaWPMDyofycwg-3KfiPwPDhJej~q2TtVU6YjT5uBjAsKb6yz0I-cyQDfFcBgjSVz6R-DJ2hHwBhgR6NvhxkUBR0JdPhlCltWOKfPZSy2S3eQMqsv2g__",
      "at": "el Tribunal Supremo confirma las absoluciones"
     },
     {
@@ -3411,7 +3470,7 @@
     }
    ],
    "gen": "kDl9bnvE1hIXWP3wFnwR",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8jYPm5gb8g3yv3Y6oud5/kDl9bnvE1hIXWP3wFnwR/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=ntOQiYz_DjxO0BoIhzf1ZLrr144="
+   "url": "jobs/bankia/voz/kDl9bnvE1hIXWP3wFnwR.mp3"
   },
   {
    "k": "R",
@@ -3428,7 +3487,7 @@
     }
    ],
    "gen": "7WG1v0udPIDSXZqeBLCw",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/K5l11azMmwVPLtFqhALU/7WG1v0udPIDSXZqeBLCw/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=fJe7bbLGVx5-B8zNa8r145ZAI8Y="
+   "url": "jobs/bankia/voz/7WG1v0udPIDSXZqeBLCw.mp3"
   },
   {
    "k": "R",
@@ -3436,16 +3495,12 @@
    "voice": "PRE",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "asamblea_vecinal"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/b276/5258/29ff3209ccfaec853449eae9e3b55e72.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=dtCA3yr-Yyrof6pRcxE~di5raqN28b8BkGlOMKV7SMiQCO81Nn9ZmPX3VzAw--9lXpf6Jl8agUoNfqtYfFWuJT~zNX-rpF42PJn36Is5NzJmfm3PRnbjfFsNNpIRFlYQjMjL~W5pCdA8R1wZ0pFWSyVk8K4sclzQaduOEQwSLijJDEROWpdYDURplaJL~0nAFG-pFVQOK7bgMYfhYRIn1iFwPjw90NujyMaH4qWS-wWBrlPSqkXdIrtLww6Mcx8ayXNxCDAvgEqXva9767WEP6X02N6u2fW720-qKymbBME4d5ztpsWBfTu5E~dnzWulWD78uKGZ-Qd2DZy7YfjyPA__",
      "at": "nunca más un caso Bankia"
     }
    ],
    "gen": "An5QWsjSab0xIZoxPWYb",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VNOlak60b0kwDsOMnr9D/An5QWsjSab0xIZoxPWYb/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=xYWtMa6JFuJEVIHjWO_wvdT2dLM="
+   "url": "jobs/bankia/voz/An5QWsjSab0xIZoxPWYb.mp3"
   },
   {
    "k": "N",
@@ -3474,16 +3529,38 @@
      "at": "una paradoja difícil de explicar"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "dos_puertas"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/666e/e794/526ea21e160891b50f230cf1b5b54dde.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=L5bowUvdW5U71xc~jMUMyVJ4tHYFJ0Mj-~l2mrQAcsNmdCJCtUFFIPzcKtSnmrmVa6QT-MLOk2wD4hypAqke~4GtyqEofLOSv7sDjXzaBmgo8PRc9lirs-BrirFlEUb6TS7aAsBncScxgg0UBUxdwSuzlNE3FuxjhRJNsm7y9gzNeQMmi~qg1JeAs5tMvXsAGZBs0K5ZeDarROGWy4FVY9v71z5tP2dfTopTiBi4miNUgzyPe5SZ9NnGhgXkqQ5qkt28TOUXMn5Db98pme4W3WWCyd6czKja1RqSbxjDSeimqYUm~-pD1J7t4WqMMC74fte3ANci0BFpN5UjE4zUlQ__",
      "at": "Y las dos conviven"
     }
    ],
    "gen": "Tm4gYNNl0QZGoGCwie34",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/j3Fh1tnUyIjuiNmLAdv2/Tm4gYNNl0QZGoGCwie34/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=9lsULhQpmBcORRlkzxUMgrpNjsc="
+   "url": "jobs/bankia/voz/Tm4gYNNl0QZGoGCwie34.mp3"
+  },
+  {
+   "k": "N",
+   "text": "Dicho de otro modo. Para la justicia civil, el folleto engañaba. Para la justicia penal, nadie cometió un delito al redactarlo. Son dos jurisdicciones distintas, con exigencias distintas. Pero para un pequeño ahorrador, la diferencia es muy difícil de entender.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Dos justicias, dos respuestas",
+      "items": [
+       [
+        "Vía civil · Supremo 2016",
+        "El folleto engañaba"
+       ],
+       [
+        "Vía penal · Audiencia 2020",
+        "Ningún delito"
+       ]
+      ]
+     },
+     "at": "Dicho de otro modo"
+    }
+   ],
+   "gen": "KfkC82faFKihe2Xji13W",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/g6YibvkAgPFDB1hirk61/KfkC82faFKihe2Xji13W/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=5ELuo3QOtxjGnWd1NViXHU8J6Rs="
   },
   {
    "k": "N",
@@ -3491,11 +3568,12 @@
    "voice": "NEW",
    "shots": [
     {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1160/edcd/de70cd0d3c25d382fc92e268e15adadc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ce7a96c7717d55664fea54a4d18044d0b7d823126e0763c5dcfadf9dfbe2c9a3",
      "at": "la gran campaña publicitaria"
     }
    ],
    "gen": "Fdf8cCqW8Cj9Bw4fa8xW",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Xw0hqKgA7Bv96lPCHXCY/Fdf8cCqW8Cj9Bw4fa8xW/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=DdnpJPXjbi9LueLBQJDX5Muf5Xc="
+   "url": "jobs/bankia/voz/Fdf8cCqW8Cj9Bw4fa8xW.mp3"
   },
   {
    "k": "R",
@@ -3515,16 +3593,12 @@
      "at": "Diciembre de dos mil veinticuatro"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "agencia_contrato"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/2c1e/261e/f38201127695e4b0bc8ae94a02279941.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Xrm2fNeJPTOjUJaCiWX7JO65ZegIJAwLwN7BcUEXtFDDVGLLQWI8km7n6KmcFht6BGvYaMk2lcoRmYjdMaVOSntC-LUo6hg-R14KxYxCb-UNP-sSr9Fx5w1Z4TmGc~8Yjf1dvySChh4EU5n46Qb-b6zi5ihYcuSyriJRjNttwqRRstzfYFwEnCVKWdKs79SwOQ9fg-YfZS5gN5MIZnsu7FqS8br2JaexeTfCky45Uok~hoTsXL~5Mvi58Pleb8FAO37EN5mGMcdkYVTw6Z3sgMP3YRPykEcNFQbKPjFYbsx7QifyyfGACx448MB81RJBVUCdSs-lQRBNWcl8zPyEeg__",
      "at": "a cambio de comisiones"
     }
    ],
    "gen": "7VGx6bNneGNgsss7fgYk",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Yl7eGsAB6n3ocMArvfQZ/7VGx6bNneGNgsss7fgYk/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=NLyQcFjq6r2pDU5Z6_b-abUVUDo="
+   "url": "jobs/bankia/voz/7VGx6bNneGNgsss7fgYk.mp3"
   },
   {
    "k": "N",
@@ -3532,20 +3606,21 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "escalones_supremo"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/5f0d/21bf/c37429d56cabde52fc0fdc8bc7b0d6fc.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=tIAk0i480meD5~Y10sJ5WcQjJ82iXhBMdgdIouaP0es3ymYGd3dBr9o~TRZOZ-YAtJsRhrbrXK4O9o-hO3Exg868fQqLov-sDxHjVNMIn2fzPxix7KVycmJKHCZRIt~b8BsXuJiaH4YiuRhJa8FENsP~fSi621nskdWDzpT5FZPybkxTOLrzL3~VXe~YjiY1SHxc0JiElBnpP5u12f1A6oIcr7trBf9le2IGqzA~7bBjvnodIyYVwR5rdq17IaGSPveEhxpALg7UER5XyiNH-ycrfbqa9LWBoAQV1t53Beio56W1vkZlH16TOIRcnKsB0Tfqqk-oEenPhWXS~D~9gA__",
      "at": "no es firme"
     }
    ],
    "gen": "c0Zg8Ae8YDwNVvkDQ2qO",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/v5rfsr3gGLcm8ogEI9YB/c0Zg8Ae8YDwNVvkDQ2qO/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=7ZxsOe_vuxR5Qr8w3pvsnWmx4Tg="
+   "url": "jobs/bankia/voz/c0Zg8Ae8YDwNVvkDQ2qO.mp3"
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 6
   },
   {
    "k": "T",
-   "secs": 4.5,
+   "secs": 6.0,
    "sting": "tema",
    "chapter": true,
    "card": {
@@ -3565,11 +3640,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "amanecer_torres"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/7b75/777b/2796b8705363c0729bafd14d9dceb257.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Nz59AZU-27nwhNWucYgPaNZcXbDZah~imKeogrnvk8ukGp0RuqDQ3RpMdhQrbzUKNcHNnrfHYr3IDPxh9IlbeQFtZ0ITWF~Tp3WkXKugJ7iYz~ETwkjPvltgjutMIfmQIu~kcMYjwvuPgxBpT6IlvY1yihwnEkiEKh0U6JrSVQ78bYIfzMBB3GTpb5y0h9xfNbrxak~zmJY4sWqOCzp5MIxx5USxpQ9ezmFR06eW9U2WhbGzxU~xcloJIORUzdE7skSwxTJ86sTJKrq0s5Y2Qf0ObaWF6kLTihBRlZ4QGW7rxduta0WYyla1yMEiOrGHzBksCmLCONL-kgWuBvpwXw__",
      "at": "sobrevivió"
     },
     {
@@ -3585,7 +3656,7 @@
     }
    ],
    "gen": "nOGdQdrSOriWhN7KJSw2",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/J0CUKqnP7ClM9jBHPvJx/nOGdQdrSOriWhN7KJSw2/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=JYHujBndDicKODLJHyumnPYiKio="
+   "url": "jobs/bankia/voz/nOGdQdrSOriWhN7KJSw2.mp3"
   },
   {
    "k": "R",
@@ -3593,16 +3664,12 @@
    "voice": "DAT",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "fusion_puentes"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/5f22/b9bb/bb29d3e414354ad6098455008a66ee32.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Tyy8qjiPGCeTIylztj1x6PhVzk~YGUDh2jGcgWZFTJdhG3~7No9UusqHPwP7ogWcHdEIPv7HcPGXcHDzbq1DGTNW4OyT7U0X-bK4Tk~XVHcdo6hKwak1U6xSWwyxe~jodOrtrA3wFTywmfGpj1p1-38bEWw-ssS7QORzL-tByIf6FY-5gQPIPH3JIVmZlOTvK5Me2xEA8kpCAzMyCrNSYAm1NU8B9JOnGvrJkaif1PCVZgzp1RRnwvOLOUyZCCuSysEQ0SodkvuRqg8QUIB8MiTnosaDRKRo4zb6baWkFNRYZ6RQIlxk5ruxLFKxDz4PGLxt7nUAhgXG7KyKNR5Elw__",
      "at": "Banco Mare Nostrum"
     }
    ],
    "gen": "etjdjEx0rFEAkj7KUfey",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RfFUz4W45K2ZjzKJrXkD/etjdjEx0rFEAkj7KUfey/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=hm7EGfJU7e5f1QpVq9ot_gsh4IU="
+   "url": "jobs/bankia/voz/etjdjEx0rFEAkj7KUfey.mp3"
   },
   {
    "k": "N",
@@ -3610,14 +3677,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "CaixaBank sede Valencia",
-     "src": "commons,loc,europeana",
-     "at": "CaixaBank absorbe a Bankia",
-     "lt": [
-      "CaixaBank",
-      "sede social en Valencia"
-     ],
-     "lugar": "caixabank"
+     "card": {
+      "type": "kw",
+      "word": "CAIXABANK",
+      "sub": "absorbe a Bankia · marzo de 2021"
+     },
+     "at": "CaixaBank absorbe a Bankia"
     },
     {
      "card": {
@@ -3630,7 +3695,7 @@
     }
    ],
    "gen": "PJULNNpp3oLHiMHd0MA1",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JmY5tHSPE5AblX4Lru5k/PJULNNpp3oLHiMHd0MA1/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=pGJ4e8Mb6O8RA_aO-gLkfZrho5k="
+   "url": "jobs/bankia/voz/PJULNNpp3oLHiMHd0MA1.mp3"
   },
   {
    "k": "R",
@@ -3646,16 +3711,69 @@
      "at": "algo más del dieciséis por ciento"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "caja_vacia_luz"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/7334/3d42/6dcbffd38f037d12e4cf4acc0ae03087.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sfCdKoidMsqbagImj8~QKWcyhyhsPgGUuwL8QhTbpibM1sYYdXZwDrB394TLQdMZ~OuibLTixSSjaQ5RDvtsFPdP23kiYmbVuIU3luPIv93pmpjYWatFck~Mx6kNZkxf77aCCNhWphe7pBBuEjU8BDTtGEfL1fvfl1Q8TzmJ~iIdhuz0gDn42M8thj3coSj7Opf6n-D-ySgJcZo8u1cm5Toz0cNiSIzowIyk4tcpDWWyw44Q2hoePiya7avQ0CrygwIRYLuZAI-AwFFKL8egtrzhcgOrtIR1JgGtWc~X81npw8bql4MEyp~5TiWxehBBSBkxl9zHp2j~wSgWFek1hQ__",
      "at": "la mayor parte sigue sin recuperarse"
     }
    ],
    "gen": "6FgCrnSsgsQ4zS882Xd5",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Pi6WY7RretmajzuPGTLC/6FgCrnSsgsQ4zS882Xd5/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=hE6Su9jpSmratOFE448cHIT5VhA="
+   "url": "jobs/bankia/voz/6FgCrnSsgsQ4zS882Xd5.mp3"
+  },
+  {
+   "k": "R",
+   "text": "La cuenta del rescate, en cambio, nunca se cerró. En dos mil catorce, el FROB vendió un siete y medio por ciento de Bankia por unos mil trescientos millones. En dos mil diecisiete, otro siete por ciento por unos ochocientos dieciocho. Muy lejos de los más de veintidós mil millones que se metieron.",
+   "voice": "DAT",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Lo que recuperó el FROB vendiendo acciones",
+      "items": [
+       [
+        "2014 · 7,5 %",
+        "≈ 1.300 M€"
+       ],
+       [
+        "2017 · 7 %",
+        "≈ 818 M€"
+       ],
+       [
+        "Inyectado",
+        "22.424 M€"
+       ]
+      ]
+     },
+     "at": "La cuenta del rescate"
+    }
+   ],
+   "gen": "KuaKdfs9MNBACHCLUqSf",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UR9ay2zZA2hKTAnsgrDp/KuaKdfs9MNBACHCLUqSf/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=2mMguTqVZrlILIlZG0veGvJruy8="
+  },
+  {
+   "k": "N",
+   "text": "Y ese mismo año, el Banco de España hizo su propio cálculo para todo el sector. De todo el dinero público que se puso en la banca española durante la crisis, unos sesenta mil millones se daban ya por perdidos. Lo pagaron los contribuyentes.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Banco de España Madrid edificio",
+     "src": "commons,loc,europeana",
+     "at": "el Banco de España",
+     "lugar": "bde"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "60.000 M€",
+      "sub": "ayudas públicas a la banca dadas por perdidas · Banco de España, 2017"
+     },
+     "at": "sesenta mil millones"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/5f07/35cb/e6caa1807a8c356b8fdfab04527c5503.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b7322a385d784f57240140b25f4651b2419e44e8435e8d1e1b8a8d98eda6c631",
+     "at": "Lo pagaron"
+    }
+   ],
+   "gen": "c9w57u7ole68hpladlZ2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ZZaazFqDTKh9Q033kDDV/c9w57u7ole68hpladlZ2/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=zgS_1WvYH6_O3q_4k4JNPRQNcxM="
   },
   {
    "k": "N",
@@ -3689,7 +3807,7 @@
     }
    ],
    "gen": "3yhjl0drxSRcISlcZbNy",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/PetQgSupcZwLV3pnDNsb/3yhjl0drxSRcISlcZbNy/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=VSiOJ2lp1liiypi8H46Mcg2p-n0="
+   "url": "jobs/bankia/voz/3yhjl0drxSRcISlcZbNy.mp3"
   },
   {
    "k": "N",
@@ -3697,19 +3815,16 @@
    "voice": "NAR",
    "shots": [
     {
+     "ai": "https://s3-alpha-sig.figma.com/img/1857/cd84/2bde82206a3978c04f75d1d2dd1a918a.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=IpZwqtQSZuHkgrmWzMJaomMb82Hw5SJD~7u4~rdSzxvxJDl3T8fWlG7uB06HTMOsbUaP54-oOYx44-gsk7PH1ipzduO4ztSMchB5T1EyICPFUdZMErDbPDpg9qhybmVhv0baI6jojew9XqzmyjSMwYtGxVAQmxfYSSFs~eIxzsqRgXK-WF-9D1qKnxogeyd36n3FsroeDVTalmnPTxR2jPmSoCAaDTcbemLCOh2m9yI0uR-kGj3SDczFz1ux3OxZr7j3JZQGjUsR8S~EDKEjJ~FmIxIcwoGtdTqDsp~BP1V25DIs9231wD-WDa8kWmI42IpS9CE0MHafnO24GUEJtQ__",
      "at": "Por qué se ignoraron los avisos"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ahorradores_contribuyentes"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/22f7/8c54/06a2362cc6484a983e10de1f50d1a2d9.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=MB-~RlpN1LjbvjmHCA03rj40alcIBrj-EabS39Cbbp4~hAFDAAXOv3RiE6FdWkJf4i7feDuZXhWydnGFOjW9QYMITxzTxXThiZ2UmMzN3Gu15fubqcItjUgLxGafLtqm~WSfVXlLdoq0jM782sgkeDE8R7sAt4~1ngDhhZ9FMHGtHB27fUdD-d1Dntky2EQVDlmQesduQ~-I6W8JAKX0nVz0MW2Et8z6~G1nv3zsbJU3bSSqdsQwBvzfRLGMdiCAzJ9y7ZHMQ5pm6aZwsPcWCJQHDVOZ4cYDMElZAJqjUI32AJXVnsFL-WMd0PDtn2Y8epiYEiG2NNHL6xEs-cnhSg__",
      "at": "entre los ahorradores y los contribuyentes"
     }
    ],
    "gen": "6NCOhHj4rdGK8fBpT31s",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9UPzAL84RaqF2nLbHx0R/6NCOhHj4rdGK8fBpT31s/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=WJ5c8MxGhfGbZkUoIVbrwzbuShA="
+   "url": "jobs/bankia/voz/6NCOhHj4rdGK8fBpT31s.mp3"
   },
   {
    "k": "N",
@@ -3717,16 +3832,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "lupa_letra"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/cad7/5e77/6cee0b73895f7c694a91b27ea05abc2c.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=fmqkReXfLE2GD3vWlwlf8Nk0Th2MHmWXMtG1iA9~WHKzFn8HO8mM9z~Evs4VQepQBfZH~hm8OIhc2jbnbElq5a3NRo87EcGxdKYR~3TM5rmkO~mjntYfBSlvhPoKSsguZJvwYnO7REuNvBv3Phpfaeq69DbOjwDruh2uL09F9yKU33P5~pLhQ2UVl47r8QPXZochUeTos7OCiC2MMe30m5Apg-VQbJ9YYiVEx-5kBzDcsWf6JHWYhwvsGXHZQEMqbgx7xEOxg8PsOtaUoa7DnME5i~yIrL39dyiiFXP-lSIWcb8FFy08nyeLEwSrwwmtprN5ZnAUo18w8W7nGzLrgA__",
      "at": "Leer la letra pequeña"
     }
    ],
    "gen": "FDRYweXkjvTIcOUNAORV",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/oNOgz3ePci77w1Rb04Zf/FDRYweXkjvTIcOUNAORV/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=N0LSkqYVSUjy6EEYfPj4ovGtmJ8="
+   "url": "jobs/bankia/voz/FDRYweXkjvTIcOUNAORV.mp3"
   },
   {
    "k": "N",
@@ -3745,7 +3856,7 @@
     }
    ],
    "gen": "UUMuPfUmVVOwgP6WDB6e",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Z592rmcv5GVpdTo9SFRT/UUMuPfUmVVOwgP6WDB6e/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=YQMsBRE_MbiXrSdst5qBaYVZwUA="
+   "url": "jobs/bankia/voz/UUMuPfUmVVOwgP6WDB6e.mp3"
   },
   {
    "k": "N",
@@ -3753,11 +3864,12 @@
    "voice": "NAR",
    "shots": [
     {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a1d1/9d30/e2e605828d43f4d3197e2142f7187d16.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0979ffa742abad014f29e6bffc16f31ab039ef363259d8bed59de2177f5f2b9b",
      "at": "Sin haber firmado nada"
     }
    ],
    "gen": "m8rtkt7FeXuX0paahG9H",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/LqzpzH7OrNudd46ZniTD/m8rtkt7FeXuX0paahG9H/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=Ko6U0GnnzEMByTvvuuoVlenxkdQ="
+   "url": "jobs/bankia/voz/m8rtkt7FeXuX0paahG9H.mp3"
   },
   {
    "k": "N",
@@ -3765,19 +3877,16 @@
    "voice": "NAR",
    "shots": [
     {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2539/6516/c9764f86ade7e7a427e729dab8a6ad80.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=540ce997ae8430ea77a5dd7355fcf02a4635b80923c4575591cac35b517b13c6",
      "at": "una campana sonó en la Bolsa de Madrid"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "campana_silencio"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/ce6f/7dcf/1c47e72b3b1fecd5289c5916b2bc1861.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Zff2IwBfSS4e246yCzPAYII2EXzlR6GuHbL~y-aS~fGMs3nhnKefqhywEDx~1cYCVR6a2yTNyoNkdPSP3rG470kV7io8PJXr8C9BhnKxiXRq3arRVVWhAf~nwKSk2rGLpqNMo9yv1tJrY1SOTBc6yfaDOMirmnGhhxNyI1vTRpV~W-Nov4GC6mWUW0agjpCf~xpGHeFcysFi196Thr~FpdVX90~ohjZ6HxlfhsVyJACoTLWbrrC-DwuBUQb2kK2VUuijjS1oiRaxtpfAVMxPUSb3BhAvMWET~BsqqXYlXqPpK1JfijcTIbBgoOcHMuv0qiTF8QEkEXfmyCG1w4GUeQ__",
      "at": "Pero no como nadie había imaginado"
     }
    ],
    "gen": "w8ni4b15LlnpfHdUJEE2",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BjOeZXklVS7kkXPQVwod/w8ni4b15LlnpfHdUJEE2/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=If188LNCrkv9nHUnpMlkKwAqY1A="
+   "url": "jobs/bankia/voz/w8ni4b15LlnpfHdUJEE2.mp3"
   },
   {
    "k": "N",
@@ -3785,16 +3894,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "salon_noche"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/e230/ad7f/5bc9285e5bef34572eb13a1c97621a22.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=WOZUeMqbDPvRF0jvsHtIBytC2jqi4suqyHWmEWA6pIuhbLEbJ47WfsDde7nc782nDzL7J2n3b2h-7QFK7NrsrgHoOWkD8FRFhqTpNqjo4NZ2esozG9giPuWQHFKAR6FCuHkib7~AMY3tgnXXRQOf9oY7Ac3UiGa-k5XhlRAQ0UA6cgDhMrupvNQuwuDk2lVI9Kj4rBsFPDhrmoToU7rwMBdB5INf0JBZV~FKqEnABW-SYR9cCsNThVC32pjTnP23pEjR0IEYL94ZyvrnI95YkkanQW4OQQbSrvtNn8LvvQuX7HNQ5SRuZsckiMNZjGZmBfHKrlSKJqVAw8UNUvGVTA__",
      "at": "suscríbete a DocuVox"
     }
    ],
    "gen": "Wu5sPZ7nfRtwcIyCIoO5",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4b0VBQ6SPntjfxm7WSKS/Wu5sPZ7nfRtwcIyCIoO5/content.mp3?Expires=1795399200&KeyName=assets-cdn-key-1&Signature=0cKwY4tIb7CP5RIiCHarCbBeqt0="
+   "url": "jobs/bankia/voz/Wu5sPZ7nfRtwcIyCIoO5.mp3"
   }
  ]
 }

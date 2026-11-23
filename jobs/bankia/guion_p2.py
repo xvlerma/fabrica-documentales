@@ -3,7 +3,8 @@
 from lib import *
 
 # ---------------- III · LA CAMPANA ----------------
-T('La campana', 'Junio y julio de 2011', num='III', secs=4.5, sting='tema')
+M('tension', 6)
+T('La campana', 'Junio y julio de 2011', num='III', secs=6.0, sting='tema')
 B('fiesta')
 NEW("Junio de dos mil once. Bankia lanza una de las mayores campañas publicitarias que ha visto la banca española. Anuncios en televisión, en la radio, en las marquesinas. El mensaje invita a hacerse accionista. A ser, como decían los propios anuncios, bankero.",
     ai('marquesina', 'a glowing advertising billboard at a bus stop on a busy Madrid avenue at night, pedestrians walking past with umbrellas, the billboard showing only an abstract emerald green glow, no text', at='en las marquesinas'),
@@ -46,12 +47,17 @@ NAR("Trescientas cuarenta y siete mil personas creían haber comprado un trozo d
     ai('reloj_arena', 'a large antique clock face on the wall of a dark bank hall, its hands moving, a sliver of green light across it, ominous', at='el reloj ya había empezado a correr'))
 
 # ---------------- IV · EL CASTILLO DE NAIPES ----------------
-T('El castillo de naipes', 'Agosto de 2011 · abril de 2012', num='IV', secs=4.5, sting='tema')
+M('tension', 6)
+T('El castillo de naipes', 'Agosto de 2011 · abril de 2012', num='IV', secs=6.0, sting='tema')
 B('tension')
 PRE("El verano de dos mil once es el de la crisis de la deuda europea. Grecia se tambalea. Italia y España pagan cada vez más por pedir prestado. Y la acción de Bankia empieza a bajar. Despacio. Sin pausa.",
     ai('europa_tormenta', 'a stormy sea crashing against a lighthouse on a rocky European coast at night, the light beam struggling through the rain, oil painting, epic', at='la crisis de la deuda europea'),
     ai('escalera_baja', 'a man in a suit descending a long spiral staircase into darkness, seen from above, his figure getting smaller, green light fading', at='Despacio. Sin pausa'))
 
+NEW("En agosto, el Banco Central Europeo empieza a comprar deuda española e italiana para frenar la sangría. Y en septiembre, en apenas unas semanas, PSOE y PP reforman el artículo ciento treinta y cinco de la Constitución para fijar por escrito el límite al déficit. El país entero vive en modo emergencia.",
+    ph('European Central Bank headquarters Frankfurt', at='Banco Central Europeo', lt=['Banco Central Europeo', 'Fráncfort'], lugar='bce'),
+    ph('Congreso de los Diputados Madrid fachada', at='reforman', lt=['Congreso de los Diputados', 'Madrid'], lugar='congreso'),
+    ai('modo_emergencia', 'red emergency light sweeping across a dark government corridor, papers flying, figures rushing away from camera', at='modo emergencia'))
 NAR("En noviembre, España vota. Mariano Rajoy gana con mayoría absoluta. Su ministro de Economía, Luis de Guindos, llega con una prioridad: limpiar los balances de los bancos.",
     ph('Mariano Rajoy 2011', at='Mariano Rajoy', lt=['Mariano Rajoy', 'Presidente del Gobierno desde diciembre de 2011', 'gobierno'], lugar='rajoy'),
     ph('Luis de Guindos', at='Luis de Guindos', lt=['Luis de Guindos', 'Ministro de Economía (2011-2018)', 'gobierno'], lugar='guindos'),
@@ -67,6 +73,9 @@ NEW("Y sin embargo, ese mismo febrero, Bankia presenta resultados. Asegura que e
     ai('papel_sonrisa', 'a glossy annual report lying on a polished table under bright light, a hand placing a gold pen on top, everything gleaming, hollow luxury, no readable text', at='Sobre el papel, todo va bien'))
 DAT("En la bolsa, el mercado piensa otra cosa. En marzo, la acción ya ronda los tres euros. Más de un veinte por ciento por debajo del precio de salida.",
     BOLSA(3.0, 'cotización de Bankia · marzo de 2012', at='ronda los tres euros', frm=3.75))
+NAR("Y mientras la acción baja, dentro del banco corre otro reloj. La ley da tres meses para formular las cuentas del año. Las de dos mil once tienen que estar listas a finales de marzo. Y alguien tiene que firmarlas.",
+    ai('reloj_cuentas', 'a thick leather-bound ledger closed on a mahogany desk beside an antique clock, a fountain pen waiting, late night lamp light', at='otro reloj'),
+    cd(dict(type='kw', word='31 DE MARZO', sub='plazo para formular las cuentas de 2011'), at='finales de marzo'))
 NAR("Y entonces aparece el hombre que cambia la historia. No es un juez ni un político. Es el socio de la auditora Deloitte responsable de las cuentas de Bankia: Francisco Celma. Tiene que firmar las cuentas de dos mil once. Y no lo ve claro.",
     ai('auditor_noche', 'a man in shirtsleeves alone in a glass office at night surrounded by binders, rubbing his temples, seen from behind, the city lights below, emerald desk lamp', at='Francisco Celma'),
     ai('firma_suspendida', 'a fountain pen hovering above the signature line of a thick bound document, the hand hesitating, extreme close-up, dramatic chiaroscuro', at='Y no lo ve claro'))
@@ -89,15 +98,16 @@ NEW("[softly] Al castillo de naipes le quedaba una semana en pie.",
 NEW("Y si este documental te está atrapando, es buen momento para suscribirte a DocuVox. Porque lo que viene ahora es la semana más vertiginosa de la historia de la banca española.",
     ai('vertigo_torre', 'looking straight down from the top of a leaning glass skyscraper at night, the city lights far below, vertigo, emerald reflections, cinematic', at='la semana más vertiginosa'))
 # ---------------- V · DIECINUEVE MIL MILLONES ----------------
-T('Diecinueve mil millones', 'Mayo y junio de 2012', num='V', secs=4.5, sting='tema')
+M('tension', 6)
+T('Diecinueve mil millones', 'Mayo y junio de 2012', num='V', secs=6.0, sting='tema')
 B('accion')
 NAR("Lunes, siete de mayo de dos mil doce. A media mañana llega un comunicado. Rodrigo Rato dimite como presidente de Bankia y de BFA.",
     DIA(292, 310, 'dimite Rodrigo Rato · 7 de mayo de 2012', at='siete de mayo de dos mil doce'),
     ai('reporteros', 'a crowd of reporters with microphones and cameras pressing against the glass doors of a corporate headquarters in Madrid, flashes, chaos, seen from inside', at='llega un comunicado'),
-    ph('Rodrigo Rato 2012', at='Rodrigo Rato dimite', lt=['Rodrigo Rato', 'Dimite el 7 de mayo de 2012', 'banca'], lugar='rato'))
+    ph('Rodrigo Rato', at='Rodrigo Rato dimite', lt=['Rodrigo Rato', 'Dimite el 7 de mayo de 2012', 'banca'], lugar='rato'))
 DOC("En su nota, Rato explica que su salida es lo más conveniente para esta entidad. Y propone a su sucesor: José Ignacio Goirigolzarri, el que había sido consejero delegado del BBVA durante años.",
     cd(dict(type='quote', text='Lo más conveniente para esta entidad.', attrib='Comunicado de Rodrigo Rato · 7 de mayo de 2012'), at='lo más conveniente para esta entidad'),
-    ph('José Ignacio Goirigolzarri 2012', at='José Ignacio Goirigolzarri', lt=['José Ignacio Goirigolzarri', 'Ex consejero delegado del BBVA', 'banca'], lugar='goiri'))
+    ph('José Ignacio Goirigolzarri', at='José Ignacio Goirigolzarri', lt=['José Ignacio Goirigolzarri', 'Ex consejero delegado del BBVA', 'banca'], lugar='goiri'))
 NEW("Ese mismo día se sabe que el Gobierno y el Banco de España preparan una inyección de entre siete mil y diez mil millones de euros. La cifra se quedará muy corta.",
     ai('maletin_oro', 'a heavy leather briefcase being opened on a table in a dim government office, golden light spilling out from inside, men leaning over it in shadow', at='preparan una inyección'))
 NAR("[dramatically] Miércoles, nueve de mayo. Goirigolzarri toma posesión. Esa misma tarde, el consejo de BFA pide al Estado que convierta en acciones los cuatro mil cuatrocientos sesenta y cinco millones que le había prestado. Traducido: BFA pasa a ser del Estado. Bankia queda nacionalizada de hecho.",
@@ -134,6 +144,9 @@ NEW("[pause] Doce días después, el sábado nueve de junio, el Eurogrupo acuerd
     ai('bandera_ue_lluvia', 'a row of flags in front of a modern glass government building in Brussels in heavy rain at night, blurred, cold, no symbols readable', at='En toda Europa se le llama rescate'))
 RAJ("El crédito es a la banca y lo va a pagar la banca.",
     cd(dict(type='quote', text='El crédito es a la banca y lo va a pagar la banca.', attrib='Mariano Rajoy · Congreso de los Diputados, junio de 2012'), at='lo va a pagar la banca'))
+NAR("Al día siguiente, el domingo diez de junio, Rajoy viaja a Gdansk, en Polonia, para ver a la selección española debutar en la Eurocopa contra Italia. La imagen del presidente en el palco, un día después de pedir ayuda para la banca, da la vuelta a Europa.",
+    ph('PGE Arena Gdańsk stadium', at='Gdansk', lt=['Estadio de Gdansk', 'Polonia'], lugar='gdansk'),
+    ai('palco_futbol', 'a VIP box high above a floodlit football stadium at night, silhouettes of men in suits seen from behind, crowd lights below', at='La imagen'))
 DAT("Antes, el veintiuno de junio, dos consultoras independientes, Oliver Wyman y Roland Berger, habían calculado lo que necesitaba toda la banca española en el peor escenario: hasta sesenta y dos mil millones de euros.",
     cd(dict(type='counter', **{'from': 0}, to=62000, label='millones que necesitaría la banca española en el peor escenario · junio de 2012', suffix=' M€'), at='hasta sesenta y dos mil millones'))
 NAR("[dramatically] Y el veinte de julio de dos mil doce, el Eurogrupo aprueba definitivamente el memorando del rescate bancario español. La fecha no es casualidad del guion. Es un año exacto, día por día, después de que sonara la campana de Bankia.",
@@ -141,6 +154,13 @@ NAR("[dramatically] Y el veinte de julio de dos mil doce, el Eurogrupo aprueba d
     AIR('mano_campana', at='sonara la campana de Bankia'))
 DAT("De ese préstamo europeo, al grupo BFA-Bankia le tocaron casi dieciocho mil millones. El mayor pedazo de todos.",
     cd(dict(type='counter', **{'from': 0}, to=17959, label='millones del rescate europeo para BFA-Bankia', suffix=' M€'), at='casi dieciocho mil millones'))
+DAT("Ese verano, el euro está al borde del abismo. A finales de julio, la prima de riesgo española supera los seiscientos puntos básicos. Es el récord desde que existe la moneda única. Financiar al país cuesta más que nunca.",
+    ai('grafica_roja', 'a glowing red line climbing steeply across dark trading screens in an empty trading room, reflections on glass, tension', at='Ese verano'),
+    cd(dict(type='kw', word='+600', sub='puntos básicos de prima de riesgo · julio de 2012'), at='supera los seiscientos'))
+NEW("Y entonces, el veintiséis de julio, en Londres, el presidente del Banco Central Europeo, Mario Draghi, pronuncia una frase de solo tres palabras: whatever it takes. Hará lo que sea necesario para salvar el euro. Los mercados le creen. La prima empieza a bajar. Pero para los accionistas de Bankia ya es tarde.",
+    ph('Mario Draghi', at='Mario Draghi', lt=['Mario Draghi', 'Presidente del BCE (2011-2019)', 'gobierno'], lugar='draghi'),
+    cd(dict(type='quote', text='Whatever it takes', attrib='Mario Draghi · Londres, 26 de julio de 2012'), at='whatever it takes'),
+    ai('grafica_baja', 'the same red line on dark trading screens now bending downward, first light of dawn through the windows of an empty trading room', at='Los mercados'))
 NAR("[softly] Faltaba saber quién iba a pagar de verdad. Y la respuesta estaba en las oficinas de siempre. En los mismos mostradores donde, un año antes, se habían vendido las acciones.",
     AIR('oficina_mesa', at='quién iba a pagar de verdad'),
     ai('mostrador_vacio', 'an empty bank counter in a small Spanish branch after closing time, a single chair, a forgotten umbrella, cold fluorescent light, melancholy', at='En los mismos mostradores'))

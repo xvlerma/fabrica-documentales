@@ -1,6 +1,6 @@
 # Bankia · guion
 
-Palabras: **5083** (objetivo 5.220 ±3 %) · caracteres: 29645 · por voz: NAR 1513 (30 %), DAT 1087 (21 %), NEW 1488 (29 %), PRE 428 (8 %), RAJ 37 (1 %), DOC 457 (9 %), CAS 37 (1 %), RAT 33 (1 %), CEL 3 (0 %)
+Palabras: **5753** (objetivo 5.220 ±3 %) · caracteres: 33434 · por voz: NAR 1757 (31 %), DAT 1249 (22 %), NEW 1752 (30 %), PRE 428 (7 %), RAJ 37 (1 %), DOC 457 (8 %), CAS 37 (1 %), RAT 33 (1 %), CEL 3 (0 %)
 
 **NARRADOR (TOP)** · Madrid. Viernes, veinticinco de mayo de dos mil doce. Cuatro y media de la tarde. En la sede de Bankia, el consejo de administración se encierra en una sala.
 
@@ -26,6 +26,10 @@ Palabras: **5083** (objetivo 5.220 ±3 %) · caracteres: 29645 · por voz: NAR 1
 
 **NARRADOR (NEW)** · Para entender cómo se llegó a esa sala, hay que retroceder dos años. Dos mil diez. La burbuja inmobiliaria ha reventado y las cajas de ahorros, las entidades que durante un siglo guardaron el dinero de los españoles, están llenas de pisos que nadie compra y de préstamos a promotores que ya no pueden pagar.
 
+**EL MARCADOR** · Para medir la burbuja basta un dato. En dos mil seis se empezaron a construir en España más viviendas que en Alemania, Francia e Italia juntas. Y una parte enorme de ese ladrillo se pagó con crédito de las cajas.
+
+**NARRADOR (NEW)** · Hasta que en septiembre de dos mil ocho quiebra Lehman Brothers en Nueva York. El grifo del dinero internacional se cierra de golpe. Y las cajas, que pedían prestado en esos mercados para prestar a los promotores, se quedan con dos cosas: pisos sin vender y deudas que pagar.
+
 **EL MARCADOR** · Una caja de ahorros no tenía dueños ni accionistas. Sus consejos se repartían entre gobiernos autonómicos, ayuntamientos, partidos y sindicatos. Y en dos mil diez, el Banco de España las empuja a fusionarse para sobrevivir.
 
 **EL MARCADOR** · La más grande de todas tenía casi tres siglos de historia. Caja Madrid nació del Monte de Piedad que fundó el sacerdote Francisco Piquer en mil setecientos dos, para prestar a los pobres sin usura. En dos mil nueve manejaba unos ciento ochenta mil millones de euros.
@@ -37,6 +41,8 @@ Palabras: **5083** (objetivo 5.220 ±3 %) · caracteres: 29645 · por voz: NAR 1
 **NARRADOR (TOP)** · Sobre el papel, la idea tenía lógica: siete entidades débiles juntas pesan más que por separado. Pero dentro de ese gigante convivían siete culturas, siete consejos, siete redes de oficinas solapadas y, sobre todo, siete carteras de préstamos al ladrillo. Juntarlas no las hacía más sanas. Solo las hacía más grandes.
 
 **EL MARCADOR** · El nuevo grupo arranca con más de trescientos mil millones de euros en balance. Es el tercer banco de España. Y tiene un presidente con un currículum que pocos banqueros del mundo pueden igualar.
+
+**NARRADOR (TOP)** · Un gigante, sí. Pero con pies de barro. Y dentro de ese barro había una pregunta que nadie quería hacer en voz alta: cuánto valía de verdad todo el ladrillo que las cajas guardaban en sus balances.
 
 **NARRADOR (TOP)** · Rodrigo Rato. Vicepresidente económico en los gobiernos de José María Aznar. Director gerente del Fondo Monetario Internacional entre dos mil cuatro y dos mil siete. Ahora preside el grupo entero.
 
@@ -50,6 +56,8 @@ Palabras: **5083** (objetivo 5.220 ±3 %) · caracteres: 29645 · por voz: NAR 1
 
 **PRENSA** · En la prensa económica se repite una frase: nace un gigante. Pero dentro del Banco de España hay quien no lo ve así. Y lo deja por escrito.
 
+_[música sola · 6 s]_
+
 
 ## II · El inspector  ·  _Abril y mayo de 2011_
 
@@ -62,6 +70,8 @@ Palabras: **5083** (objetivo 5.220 ±3 %) · caracteres: 29645 · por voz: NAR 1
 **NARRADOR (NEW)** · La fórmula que se elige tiene truco. No saldrá a bolsa todo el grupo. Se crea un banco nuevo, Bankia, que se queda con el negocio de las oficinas, los clientes y los depósitos. Y la matriz, BFA, se queda con buena parte de lo más tóxico: el suelo, los préstamos dudosos y las participaciones en otras empresas.
 
 **EL MARCADOR** · A esto se le llamó estructura de doble banco. Bankia sería el escaparate. BFA, la trastienda.
+
+**NARRADOR (NEW)** · Para que te hagas una idea: es como poner en la calle una tienda reluciente y guardar los muebles rotos en el almacén de atrás. El cliente solo ve el escaparate.
 
 **NARRADOR (TOP)** · Y aquí entra en escena un hombre que casi nadie conocía. José Antonio Casaus, jefe del equipo de inspectores del Banco de España que vigila día a día al grupo. Entre abril y mayo de dos mil once envía cuatro correos electrónicos a sus superiores.
 
@@ -79,11 +89,15 @@ Palabras: **5083** (objetivo 5.220 ±3 %) · caracteres: 29645 · por voz: NAR 1
 
 **PRENSA** · Y mientras tanto, en la calle, el país hierve. El quince de mayo de dos mil once, miles de personas acampan en la Puerta del Sol. Una de sus pancartas se repetiría por toda España: no somos mercancía en manos de políticos y banqueros.
 
+**NARRADOR (NEW)** · En las pancartas de Sol hay una frase que se repite. No somos mercancía en manos de políticos y banqueros. Muy cerca de allí, en las oficinas del nuevo banco, se prepara la mayor colocación de acciones del año.
+
 **NARRADOR (TOP)** · Así que el veintinueve de junio de dos mil once, la Comisión Nacional del Mercado de Valores registra el folleto de la oferta. Cientos de páginas. Cifras, riesgos, cuentas. Un documento que, años después, el Tribunal Supremo examinaría frase a frase.
 
 **NARRADOR (NEW)** · En ese folleto había un número. Un beneficio. Y ese número iba a viajar a trescientas cuarenta y siete mil casas.
 
 _[música sola · 5 s]_
+
+_[música sola · 6 s]_
 
 
 ## III · La campana  ·  _Junio y julio de 2011_
@@ -112,10 +126,14 @@ _[música sola · 5 s]_
 
 **NARRADOR (TOP)** · Trescientas cuarenta y siete mil personas creían haber comprado un trozo de un banco sólido. Lo que no sabían es que el reloj ya había empezado a correr.
 
+_[música sola · 6 s]_
+
 
 ## IV · El castillo de naipes  ·  _Agosto de 2011 · abril de 2012_
 
 **PRENSA** · El verano de dos mil once es el de la crisis de la deuda europea. Grecia se tambalea. Italia y España pagan cada vez más por pedir prestado. Y la acción de Bankia empieza a bajar. Despacio. Sin pausa.
+
+**NARRADOR (NEW)** · En agosto, el Banco Central Europeo empieza a comprar deuda española e italiana para frenar la sangría. Y en septiembre, en apenas unas semanas, PSOE y PP reforman el artículo ciento treinta y cinco de la Constitución para fijar por escrito el límite al déficit. El país entero vive en modo emergencia.
 
 **NARRADOR (TOP)** · En noviembre, España vota. Mariano Rajoy gana con mayoría absoluta. Su ministro de Economía, Luis de Guindos, llega con una prioridad: limpiar los balances de los bancos.
 
@@ -126,6 +144,8 @@ _[música sola · 5 s]_
 **NARRADOR (NEW)** · Y sin embargo, ese mismo febrero, Bankia presenta resultados. Asegura que en dos mil once ganó trescientos nueve millones de euros. Sobre el papel, todo va bien.
 
 **EL MARCADOR** · En la bolsa, el mercado piensa otra cosa. En marzo, la acción ya ronda los tres euros. Más de un veinte por ciento por debajo del precio de salida.
+
+**NARRADOR (TOP)** · Y mientras la acción baja, dentro del banco corre otro reloj. La ley da tres meses para formular las cuentas del año. Las de dos mil once tienen que estar listas a finales de marzo. Y alguien tiene que firmarlas.
 
 **NARRADOR (TOP)** · Y entonces aparece el hombre que cambia la historia. No es un juez ni un político. Es el socio de la auditora Deloitte responsable de las cuentas de Bankia: Francisco Celma. Tiene que firmar las cuentas de dos mil once. Y no lo ve claro.
 
@@ -142,6 +162,8 @@ _[música sola · 5 s]_
 **NARRADOR (NEW)** · Al castillo de naipes le quedaba una semana en pie.
 
 **NARRADOR (NEW)** · Y si este documental te está atrapando, es buen momento para suscribirte a DocuVox. Porque lo que viene ahora es la semana más vertiginosa de la historia de la banca española.
+
+_[música sola · 6 s]_
 
 
 ## V · Diecinueve mil millones  ·  _Mayo y junio de 2012_
@@ -176,13 +198,21 @@ _[música sola · 5 s]_
 
 **MARIANO RAJOY** · El crédito es a la banca y lo va a pagar la banca.
 
+**NARRADOR (TOP)** · Al día siguiente, el domingo diez de junio, Rajoy viaja a Gdansk, en Polonia, para ver a la selección española debutar en la Eurocopa contra Italia. La imagen del presidente en el palco, un día después de pedir ayuda para la banca, da la vuelta a Europa.
+
 **EL MARCADOR** · Antes, el veintiuno de junio, dos consultoras independientes, Oliver Wyman y Roland Berger, habían calculado lo que necesitaba toda la banca española en el peor escenario: hasta sesenta y dos mil millones de euros.
 
 **NARRADOR (TOP)** · Y el veinte de julio de dos mil doce, el Eurogrupo aprueba definitivamente el memorando del rescate bancario español. La fecha no es casualidad del guion. Es un año exacto, día por día, después de que sonara la campana de Bankia.
 
 **EL MARCADOR** · De ese préstamo europeo, al grupo BFA-Bankia le tocaron casi dieciocho mil millones. El mayor pedazo de todos.
 
+**EL MARCADOR** · Ese verano, el euro está al borde del abismo. A finales de julio, la prima de riesgo española supera los seiscientos puntos básicos. Es el récord desde que existe la moneda única. Financiar al país cuesta más que nunca.
+
+**NARRADOR (NEW)** · Y entonces, el veintiséis de julio, en Londres, el presidente del Banco Central Europeo, Mario Draghi, pronuncia una frase de solo tres palabras: whatever it takes. Hará lo que sea necesario para salvar el euro. Los mercados le creen. La prima empieza a bajar. Pero para los accionistas de Bankia ya es tarde.
+
 **NARRADOR (TOP)** · Faltaba saber quién iba a pagar de verdad. Y la respuesta estaba en las oficinas de siempre. En los mismos mostradores donde, un año antes, se habían vendido las acciones.
+
+_[música sola · 6 s]_
 
 _[música sola · 6 s]_
 
@@ -194,6 +224,8 @@ _[música sola · 6 s]_
 **EL MARCADOR** · Las preferentes eran deuda perpetua de la entidad. Sin fecha de devolución y sin garantía. Los afectados por las preferentes y la deuda subordinada de las cajas de Bankia rondaban los trescientos mil.
 
 **NARRADOR (NEW)** · Pongamos un ejemplo. Una jubilada con veinte mil euros ahorrados va a su oficina de siempre. Le ofrecen un producto que paga más que un depósito. Firma. Lo que no le explican es que, si la entidad se hunde, ese dinero puede quedar atrapado sin fecha de salida. Eso es lo que descubrieron, de golpe, cientos de miles de familias.
+
+**NARRADOR (TOP)** · En los juzgados aparecieron historias difíciles de creer. Clientes que no sabían leer ni escribir y que habían firmado igualmente. Personas de más de ochenta años con un producto perpetuo. Ahorros de toda una vida, atrapados en un papel que no se podía vender.
 
 **NARRADOR (TOP)** · Como condición del rescate europeo, Bruselas impone en dos mil trece que esos inversores asuman pérdidas. Sus preferentes se convierten a la fuerza en acciones de Bankia, con una quita. Y por las calles de media España empieza a verse algo que no se había visto nunca: jubilados manifestándose frente a los bancos.
 
@@ -210,6 +242,10 @@ _[música sola · 6 s]_
 **NARRADOR (NEW)** · Goirigolzarri tiene un encargo: que Bankia sobreviva para que el Estado pueda recuperar algo algún día. Muchos analistas de la época no le daban ninguna posibilidad.
 
 **NARRADOR (NEW)** · Pero la pregunta de fondo seguía en el aire. Si las cuentas con las que Bankia salió a bolsa no reflejaban la realidad, ¿alguien lo sabía? ¿Alguien iba a responder por ello?
+
+**NARRADOR (TOP)** · Antes de seguir, una pregunta para ti. ¿Quién crees que debería haber respondido ante la justicia? Déjalo en los comentarios. Porque lo que decidieron los tribunales sorprendió a casi todo el mundo.
+
+_[música sola · 6 s]_
 
 
 ## VII · El juicio  ·  _2012 · 2022_
@@ -233,6 +269,8 @@ _[música sola · 6 s]_
 **NARRADOR (NEW)** · Y en medio de todo esto, estalla otro escándalo. Otoño de dos mil catorce. Se descubre que durante años decenas de consejeros y directivos de Caja Madrid y Bankia usaron tarjetas de crédito que no aparecían en la contabilidad oficial. Las llamarán tarjetas black.
 
 **EL MARCADOR** · Sesenta y cinco condenados en dos mil diecisiete. Unos doce millones de euros gastados entre dos mil tres y dos mil doce. Joyas, viajes, restaurantes, ropa. Había usuarios propuestos por el Partido Popular, por el PSOE, por Izquierda Unida, por los sindicatos y por la patronal.
+
+**EL MARCADOR** · Los cargos eran de todo tipo. Restaurantes, viajes, ropa, joyas, retiradas de dinero en cajeros. Gastos que no se declaraban a Hacienda como lo que en realidad eran: un sobresueldo.
 
 **EL MARCADOR** · Según la sentencia, los consejeros propuestos por el PP gastaron más de dos coma nueve millones. Los propuestos por el PSOE, uno coma tres. Los de Izquierda Unida, más de ochocientos mil euros. El resto, directivos y representantes de otras organizaciones.
 
@@ -270,11 +308,15 @@ _[música sola · 2 s]_
 
 **NARRADOR (TOP)** · Y así queda una paradoja difícil de explicar. La justicia civil dijo que el folleto engañó a los pequeños inversores y obligó a devolverles el dinero. La justicia penal dijo que no se probó que nadie cometiera un delito. Las dos sentencias son firmes. Y las dos conviven.
 
+**NARRADOR (NEW)** · Dicho de otro modo. Para la justicia civil, el folleto engañaba. Para la justicia penal, nadie cometió un delito al redactarlo. Son dos jurisdicciones distintas, con exigencias distintas. Pero para un pequeño ahorrador, la diferencia es muy difícil de entender.
+
 **NARRADOR (NEW)** · Y la historia de Rato con Bankia todavía guardaba un capítulo más. ¿Recuerdas la gran campaña publicitaria de la salida a bolsa?
 
 **DOCUMENTOS** · Diciembre de dos mil veinticuatro. La Audiencia Provincial de Madrid condena a Rodrigo Rato a cuatro años, nueve meses y un día de prisión por tres delitos fiscales, blanqueo de capitales y corrupción entre particulares. Entre los hechos que da por probados: que impuso que Bankia contratara a dos agencias de publicidad, Publicis y Zenith, a cambio de comisiones.
 
 **NARRADOR (NEW)** · La Fiscalía pedía muchos más años. Rato anunció que recurriría la sentencia ante el Tribunal Supremo, por lo que no es firme mientras el alto tribunal no se pronuncie.
+
+_[música sola · 6 s]_
 
 
 ## VIII · El final  ·  _2013 · 2021_
@@ -286,6 +328,10 @@ _[música sola · 2 s]_
 **NARRADOR (TOP)** · En septiembre de dos mil veinte se anuncia: CaixaBank absorbe a Bankia. El veintiséis de marzo de dos mil veintiuno, la acción cotiza por última vez. Tres mil quinientos treinta y siete días después de aquella campana.
 
 **EL MARCADOR** · El Estado se queda con algo más del dieciséis por ciento del nuevo CaixaBank. Ha cobrado dividendos durante estos años. Pero de los más de veintidós mil millones que puso en Bankia, la mayor parte sigue sin recuperarse. Y el propio Gobierno ha reconocido que se está lejos de recuperarlo. Goirigolzarri, por su parte, pasa a presidir el nuevo gigante.
+
+**EL MARCADOR** · La cuenta del rescate, en cambio, nunca se cerró. En dos mil catorce, el FROB vendió un siete y medio por ciento de Bankia por unos mil trescientos millones. En dos mil diecisiete, otro siete por ciento por unos ochocientos dieciocho. Muy lejos de los más de veintidós mil millones que se metieron.
+
+**NARRADOR (TOP)** · Y ese mismo año, el Banco de España hizo su propio cálculo para todo el sector. De todo el dinero público que se puso en la banca española durante la crisis, unos sesenta mil millones se daban ya por perdidos. Lo pagaron los contribuyentes.
 
 **NARRADOR (NEW)** · Recapitulemos. Siete cajas se unieron porque no podían sobrevivir solas. Un banco salió a bolsa con el aval de todos los supervisores. Trescientas cuarenta y siete mil personas compraron. Diez meses después, el Estado tuvo que poner veintidós mil millones. Los tribunales civiles devolvieron el dinero a los pequeños accionistas. Los penales no condenaron a nadie.
 

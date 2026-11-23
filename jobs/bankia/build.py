@@ -45,7 +45,7 @@ for i, u in enumerate(U):
         u['shots'] = [s for _, s in sorted(zip(keys, sh), key=lambda z: z[0])]
 job = {
     'permitir_sa': True, 'export_voice': True,
-    'thumbs': [dict(name='A', commons=RES.get('thumb_commons', 'Puerta de Europa (Madrid) 05.jpg'), grande='BANKIA', caja='10 MESES', sub='SALIÓ A BOLSA Y PIDIÓ EL RESCATE')], 'lugares': LUG, 'permitidas': PERM,
+    'thumbs': [dict(name='A', commons=RES.get('thumb_commons', 'Bolsa de Madrid edited.jpg'), grande='BANKIA', caja='10 MESES', sub='SALIÓ A BOLSA Y PIDIÓ EL RESCATE')], 'lugares': LUG, 'permitidas': PERM,
     'id': 'bankia', 'title': 'Bankia: salió a bolsa y 10 meses después pidió el rescate', 'channel': 'DocuVox', 'stage': stage,
     'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 1, 'gap': 99999}, 'auto_sfx': {}, 'sfx_max': 5,
     'max_shot': 6, 'min_shot': 1.6, 'anchor_lead': 0.1,
@@ -69,7 +69,7 @@ job = {
         'juicio': {'mixkit': 'https://assets.mixkit.co/music/591/591.mp3', 'title': 'Kroks'},
         'fondo': {'mixkit': 'https://assets.mixkit.co/music/540/540.mp3', 'title': 'Nield Grohm Hanging 3'}},
     'audio': {'voice_db': -20, 'bed_db': {'tema': -36, 'tension': -36, 'fiesta': -37, 'accion': -35, 'drama': -37, 'ironia': -37, 'juicio': -36, 'fondo': -37}, 'inter_db': -22,
-              'pause_stretch': 0.45, 'pause_cap': 0.6, 'gap_n': 1.2, 'gap_q': 0.9},
+              'pause_stretch': 0.55, 'pause_cap': 0.7, 'gap_n': 1.5, 'gap_q': 1.0},
     'tempo': 0.92, 'parts': 4, 'codec': 'hevc', 'max_kbps': 750, 'audio_kbps': '112k',
     'intro': ['assets/intro/docuvox.mp4'], 'seed': 2012,
     'qpicks': json.load(open(os.path.join(HERE, 'qpicks_curado.json'))) if os.path.exists(os.path.join(HERE, 'qpicks_curado.json')) else {}, 'split_still': 5.0, 'picks': RES.get('picks', {}), 'rev': RES.get('rev', 1),

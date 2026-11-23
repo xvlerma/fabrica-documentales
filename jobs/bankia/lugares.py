@@ -21,5 +21,15 @@ L = {
  'supremo': ['tribunal supremo', 'supreme court of spain', 'palacio de justicia', 'salesas'],
  'soto': ['soto del real', 'madrid v'],
  'caixabank': ['caixabank'],
+ 'aguirre': ['esperanza aguirre', 'aguirre'],
+ 'gallardon': ['gallardón', 'gallardon'],
+ 'sol15m': ['puerta del sol', 'acampada sol', '15-m', '15m', 'indignados', 'spanish revolution'],
+ 'bancovalencia': ['banco de valencia'],
+ 'mafo': ['fernández ordóñez', 'fernandez ordonez', 'mafo'],
+ 'lehman': ['lehman brothers', 'lehman'],
+ 'congreso': ['congreso de los diputados', 'palacio de las cortes', 'congress of deputies'],
+ 'gdansk': ['gdańsk', 'gdansk', 'pge arena', 'stadion energa', 'baltic arena'],
+ 'draghi': ['draghi'],
+ 'bce': ['european central bank', 'banco central europeo', 'ecb', 'eurotower', 'grossmarkthalle'],
 }
 PERMITIDAS = ['portrait', 'president', 'politician', 'minister']

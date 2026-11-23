@@ -29,6 +29,22 @@ def _whisper(y, sr, model_name):
                                             condition_on_previous_text=False, vad_filter=False)
     return [(w.word, float(w.start), float(w.end)) for s in segs for w in (s.words or [])]
 
+def transcribe(y, sr, model_name='small', cache_dir='/tmp'):
+    """e29n90: transcripción palabra a palabra de un corte real (para subtítulos de los cortes)."""
+    key = hashlib.sha1(('c1' + str(y.shape) + str(float(np.abs(y).sum()))[:12] + model_name).encode()).hexdigest()[:16]
+    cp = f'{cache_dir}/clipw_{key}.json'
+    if os.path.exists(cp): return json.load(open(cp))
+    from faster_whisper import WhisperModel
+    import librosa
+    if model_name not in _MODEL:
+        _MODEL[model_name] = WhisperModel(model_name, device='cpu', compute_type='int8', cpu_threads=os.cpu_count() or 2)
+    a = y.mean(0) if y.ndim == 2 else y
+    a = librosa.resample(a.astype(np.float32), orig_sr=sr, target_sr=16000)
+    segs, _ = _MODEL[model_name].transcribe(a, language='es', word_timestamps=True, beam_size=5, condition_on_previous_text=False)
+    out = [dict(w=w.word.strip(), n=norm(w.word), t=round(float(w.start), 3), e=round(float(w.end), 3)) for s_ in segs for w in (s_.words or []) if norm(w.word)]
+    json.dump(out, open(cp, 'w'), ensure_ascii=False)
+    return out
+
 def proportional(text, d):
     """Sin voz real (casting) o si falla whisper: reparto por caracteres."""
     tk = tokens(text); tot = sum(len(o) + 1 for o, _ in tk) or 1; acc = 0; out = []

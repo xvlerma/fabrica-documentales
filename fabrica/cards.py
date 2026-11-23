@@ -637,12 +637,12 @@ def lower_third(a, b, out, color=None):
     """Rótulo inferior. `color`: color del bando o grupo (barra vertical), para reconocerlo en todo el episodio."""
     im = Image.new('RGBA', (W, H), (0, 0, 0, 0))
     g = Image.new('RGBA', (W, H), (0, 0, 0, 0)); gd = ImageDraw.Draw(g)
-    gd.rectangle([0, H - 260, 1100, H - 90], fill=(0, 0, 0, 150)); im.alpha_composite(g.filter(ImageFilter.GaussianBlur(40)))
-    d = ImageDraw.Draw(im); d.line([(144, H - 205), (214, H - 205)], fill=GOLD, width=3)
-    if color: d.rectangle([104, H - 212, 112, H - 100], fill=tuple(color))
-    if THEME.get('brand_dot', True): d.ellipse([122, H - 211, 134, H - 199], fill=BRAND_DOT)  # firma DocuVox: el punto
-    im.alpha_composite(text_layer(CASE(a), fit('cinzel600', 52, CASE(a), W - 300, TR(0.10)), GOLD, TR(0.10)), (142, H - 200))
-    if b: im.alpha_composite(text_layer(b, fit('corm500i', 40, b, W - 300), CREAM), (144, H - 138))
+    gd.rectangle([0, H - 340, 1100, H - 170], fill=(0, 0, 0, 150)); im.alpha_composite(g.filter(ImageFilter.GaussianBlur(40)))
+    d = ImageDraw.Draw(im); d.line([(144, H - 285), (214, H - 285)], fill=GOLD, width=3)
+    if color: d.rectangle([104, H - 292, 112, H - 180], fill=tuple(color))
+    if THEME.get('brand_dot', True): d.ellipse([122, H - 291, 134, H - 279], fill=BRAND_DOT)  # firma DocuVox: el punto
+    im.alpha_composite(text_layer(CASE(a), fit('cinzel600', 52, CASE(a), W - 300, TR(0.10)), GOLD, TR(0.10)), (142, H - 280))
+    if b: im.alpha_composite(text_layer(b, fit('corm500i', 40, b, W - 300), CREAM), (144, H - 218))
     im.save(out)
 
 def end_screen(out, bg_path=None, kit=None):
@@ -738,5 +738,45 @@ KIND.update(pregunta=f_pregunta, aviso=f_aviso, dijo=f_dijo)
 def badge(text, out):
     """Etiqueta fija arriba a la izquierda para imágenes generadas con IA (exigencia de YouTube y de honestidad)."""
     im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im); f = font('display_light', 34)
-    tw = d.textlength(text, font=f); d.rounded_rectangle([60, 52, 60 + tw + 44, 52 + 58], 8, fill=(0, 0, 0, 170))
-    d.text((82, 60), text, font=f, fill=(237, 234, 228, 255)); im.save(out)
+    tw = d.textlength(text, font=f); d.rounded_rectangle([60, 122, 60 + tw + 44, 122 + 58], 8, fill=(0, 0, 0, 170))
+    d.text((82, 130), text, font=f, fill=(237, 234, 228, 255)); im.save(out)
+
+
+def stamp(text, color, out, sub=''):
+    """Sello de estado procesal: rectángulo girado con borde, a la derecha del plano."""
+    col = {'red': (205, 40, 40), 'amber': (230, 160, 20), 'grey': (175, 175, 170)}.get(color, (205, 40, 40))
+    f = font('cinzel600', 64); f2 = font('display_light', 30)
+    d0 = ImageDraw.Draw(Image.new('RGBA', (1, 1))); tw = d0.textlength(text, font=f); sw = d0.textlength(sub, font=f2) if sub else 0
+    bw = int(max(tw, sw) + 80); bh = 130 if sub else 104
+    S = Image.new('RGBA', (bw + 20, bh + 20), (0, 0, 0, 0)); d = ImageDraw.Draw(S)
+    d.rounded_rectangle([10, 10, 10 + bw, 10 + bh], 10, fill=(0, 0, 0, 140), outline=col + (255,), width=7)
+    d.text((10 + bw / 2, 10 + (52 if sub else bh / 2)), text, font=f, fill=col + (255,), anchor='mm')
+    if sub: d.text((10 + bw / 2, 10 + 104), sub, font=f2, fill=(236, 234, 228, 255), anchor='mm')
+    S = S.rotate(-8, expand=True, resample=Image.BICUBIC)
+    im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); im.alpha_composite(S, (W - S.width - 110, 190)); im.save(out)
+
+_envc = {}
+def _env(path, ss, dur):
+    k = (path, ss)
+    if k not in _envc:
+        raw = subprocess.run(['ffmpeg', '-loglevel', 'error', '-ss', f'{ss:.3f}', '-t', f'{dur + 1:.3f}', '-i', path, '-vn', '-ac', '1', '-ar', '8000', '-f', 's16le', '-'], capture_output=True).stdout
+        a = np.frombuffer(raw, np.int16).astype(np.float32) / 32768; hop = 8000 // 50
+        n = max(1, len(a) // hop); r = np.sqrt(np.array([np.mean(a[i * hop:(i + 1) * hop] ** 2) for i in range(n)]) + 1e-9)
+        _envc[k] = r / (np.percentile(r, 98) + 1e-6)
+    return _envc[k]
+
+def f_audiograma(spec, t, D):
+    """Corte que solo es audio: fondo real oscurecido, onda en amarillo que se mueve con la voz, la frase en grande y la fuente."""
+    fr = _flat(9, spec); d = ImageDraw.Draw(fr)
+    if spec.get('_audio'):
+        env = _env(spec['_audio'], spec.get('ss', 0), D); c = int(t * 50); nb = 64; bw = 14; x0 = W / 2 - nb * (bw + 8) / 2
+        for b in range(nb):
+            j = c - nb // 2 + b; v = float(env[j]) if 0 <= j < len(env) else 0.0
+            h = 10 + min(1.0, v) * 150 * (1 - abs(b - nb / 2) / (nb / 2)) ** 0.6
+            x = x0 + b * (bw + 8); d.rounded_rectangle([x, 300 - h / 2, x + bw, 300 + h / 2], 6, fill=BRAND_DOT + (235,))
+    fz = font('cinzel600', spec.get('size', 58)); y = 470; a = ease(t / .5)
+    for ww in wrap(spec.get('text', ''), fz, 1560)[:4]: put(fr, text_layer(ww, fz, CREAM), W / 2, y, a); y += int(fz.size * 1.3)
+    if spec.get('attrib'): put(fr, text_layer(spec['attrib'], font('display_light', 38), CREAM, 0.06), W / 2, min(y + 50, H - 230), a)
+    put(fr, text_layer('AUDIO ORIGINAL', font('display_light', 32), BRAND_DOT, 0.18), W / 2, 170, a)
+    return fr
+KIND.update(audiograma=f_audiograma)

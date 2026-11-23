@@ -1,6 +1,6 @@
 """Fábrica de documentales: del manifiesto (job.json) al MP4 final.
 Uso: python fabrica/engine.py jobs/<id>"""
-import os, sys, json, glob, math, random, re, subprocess, shutil, traceback
+import math, os, sys, json, glob, math, random, re, subprocess, shutil, traceback
 from concurrent.futures import ThreadPoolExecutor
 import numpy as np, librosa, soundfile as sf
 from PIL import Image, ImageFilter, ImageEnhance
@@ -127,7 +127,7 @@ def build_audio(job, U):
             log(f'  aviso música {k}: {e} (silencio en el casting)'); return np.zeros((2, SR * 90), np.float32)
     music = {k: ld(k, v) for k, v in job['music'].items()}
     beds = {k: ld(k, v) for k, v in job.get('beds', {}).items()}; beds.update({k: v for k, v in music.items() if k not in beds})
-    events, tl, bedspans = [], [], []; VY = {}
+    events, tl, bedspans = [], [], []; VY = {}; CY = {}
     def voice(u):
         if not u.get('url'):  # casting sin voz todavía: silencio estimado por longitud del texto
             return np.zeros((2, int(SR * max(2, len(re.sub(r'\[[^\]]*\]', '', u.get('text', ''))) / 14.5))), np.float32) + 1e-6, False
@@ -181,14 +181,14 @@ def build_audio(job, U):
             except Exception as e:
                 if job.get('stage') not in ('cast', 'recon'): raise
                 log(f'  aviso corte {i} ({u.get("src", "")[:60]}): {e} (silencio en el casting)'); y = np.zeros((2, int(SR * d)), np.float32) + 1e-6
-            events.append((int(t * SR), y)); tl.append(dict(i=i, k='C', t=round(t, 3), d=round(d, 3))); CLIPS.append(i)
+            events.append((int(t * SR), y)); tl.append(dict(i=i, k='C', t=round(t, 3), d=round(d, 3))); CLIPS.append(i); CY[i] = y
             t += d + u.get('gap', 0.45)
         elif k == 'S':
             y = fade(gain_to(load(sfx_file(u['sfx'], credits)), u.get('db', -29)), 0.3, 1.0)
             events.append((int(t * SR), y)); tl.append(dict(i=i, k='S', t=round(t, 3), d=1.2)); t += 1.2
     if bed is not None: bedspans.append((bed, bedstart, t))
     log(f'voz: {vsec/60:.1f} min, {words} palabras narrador, total {t/60:.1f} min')
-    return dict(events=events, bedspans=bedspans, beds=beds, BED=BED, end=t, tl=tl, credits=credits, VY=VY)
+    return dict(events=events, bedspans=bedspans, beds=beds, BED=BED, end=t, tl=tl, credits=credits, VY=VY, CY=CY)
 
 def align_audio(job, U, A, job_dir, out_dir):
     """Marca de tiempo de cada palabra del guion (absoluta en la línea de tiempo). Se guarda en align.json."""
@@ -204,6 +204,18 @@ def align_audio(job, U, A, job_dir, out_dir):
         elif real and job.get('align', False): ws = AL.align_unit(u['text'], y, SR, model, SRC.CACHE); n_wh += 1
         else: ws = AL.proportional(u['text'], y.shape[1] / SR)
         words[i] = dict(key=key, off=off, words=ws)
+    # e29n90: los cortes también se transcriben (subtítulos de los cortes y karaoke)
+    if job.get('clip_subs'):
+        for e in A['tl']:
+            i = e['i']; u = U[i]
+            if e['k'] != 'C' or i not in A.get('CY', {}): continue
+            key = f"c:{u.get('src', '')[-50:]}:{u.get('in')}:{u.get('out')}"
+            if str(i) in pre and pre[str(i)].get('key') == key: ws = pre[str(i)]['words']
+            elif u.get('subs') is not None: ws = u['subs']
+            else:
+                try: ws = AL.transcribe(A['CY'][i], SR, job.get('clip_model', 'small'), SRC.CACHE); n_wh += 1
+                except Exception as ex: log(f'  aviso transcripción corte {i}: {ex}'); continue
+            words[i] = dict(key=key, off=e['t'], words=ws, clip=True)
     json.dump({str(k): dict(key=v['key'], words=v['words']) for k, v in words.items()}, open(f'{out_dir}/align.json', 'w'), ensure_ascii=False)
     log(f'   alineación: {len(words)} unidades ({n_wh} con whisper, resto en caché o proporcional)')
     A['words'] = words
@@ -277,6 +289,7 @@ def resolve(spec, need, credits, pick=None, t=0.0):
                 if o.get('commons'):
                     m = SRC.commons_file(o['commons']); credits.append(('archivo', m)); o['_path'] = SRC.download(m['url'], '.jpg')
                 elif o.get('image'): o['_path'] = fetch(o['image'], '.jpg')
+                if o.get('audio') and not o.get('_audio'): o['_audio'] = fetch(o['audio'])
                 if o.get('bgimg') and not o.get('_bg'):
                     bp = fetch(o['bgimg'], '.jpg')
                     if bp.endswith(('.mp4', '.mov', '.webm')):
@@ -337,6 +350,23 @@ def build_edl(job, U, A):
             shots.append(dict(spec=s, t=acc, d=dd, unit=i, k=e['k'], lt=s.get('lt'), tr_in=s.get('tr'),
                               fadein=.8 if (e['k'] == 'M' and m == 0) else 0, fadeout=1.2 if (e['k'] == 'M' and m == n - 1) else 0))
             acc += dd
+    # e29n90: ningún plano de imagen o recurso de más de ~6 s durante la locución (ritmo de YouTube): se parte en tomas del mismo plano
+    MAXS = job.get('max_still', 0)
+    if MAXS:
+        out_ = []
+        for s in shots:
+            sp = s['spec']
+            if s['k'] in ('N', 'R', 'M') and s['d'] > MAXS + 1.5 and 'card' not in sp and 'clipv' not in sp:
+                n_ = int(math.ceil(s['d'] / MAXS)); pd = s['d'] / n_
+                for q in range(n_):
+                    sp2 = dict(sp)
+                    if q and 'file' in sp: sp2['start'] = float(sp.get('start') or 0) + q * pd
+                    if q: sp2.pop('lt', None); sp2.pop('sfx', None)
+                    s2 = dict(s, spec=sp2, t=s['t'] + q * pd, d=pd, lt=s.get('lt') if q == 0 else None,
+                              tr_in=s.get('tr_in') if q == 0 else None, fadein=s.get('fadein') if q == 0 else 0, fadeout=s.get('fadeout') if q == n_ - 1 else 0)
+                    out_.append(s2)
+            else: out_.append(s)
+        shots = out_
     shots[-1]['fadeout'] = 3.0
     for a_, b_ in zip(shots, shots[1:]):
         if b_.get('tr_in'): a_['tr_out'] = b_['tr_in']
@@ -366,7 +396,7 @@ def build_edl_sync(job, U, A):
                 specs = u.get('shots') or [dict(card=dict(type='quote', text=u.get('quote', ''), author=' · '.join(u.get('lt') or []),
                                                           **({'commons': u['photo']} if u.get('photo') else {})))]
             else:
-                specs = [dict(clipv=u['src'], _ss=clip_in(u), lt=u.get('lt'), clip_unit=i, grade=u.get('grade', True), **({'lt_at': u['lt_at']} if u.get('lt_at') is not None else {}))] + (u.get('shots') or [])
+                specs = [dict(clipv=u['src'], _ss=clip_in(u), lt=u.get('lt'), clip_unit=i, grade=u.get('grade', True), **({'lt_at': u['lt_at']} if u.get('lt_at') is not None else {}), **({'stamp': u['stamp'], 'stamp_at': u.get('stamp_at', 1.0)} if u.get('stamp') else {}))] + (u.get('shots') or [])
         else: specs = u.get('shots') or [{'card': {'type': 'title', 'title': job.get('channel', ''), 'sub': job.get('title', '')}}]
         wu = W_.get(i); pos = 0
         for m, s in enumerate(specs):
@@ -470,6 +500,60 @@ def prep_still(path, out, BW=2880, BH=1620):
     c.save(out, quality=94)
 
 OVERLAYS = {}
+KARA = {}; FONTS_DIR = os.path.join(ROOT, 'assets/brand')
+def build_karaoke(job, U, A):
+    """e29n90: subtítulos incrustados tipo karaoke (locución y cortes) y la barra «Pregunta X / N»."""
+    lines = []; MAXC = job.get('kara_chars', 40)
+    for i, wu in sorted(A.get('words', {}).items(), key=lambda x: x[1]['off']):
+        u = U[i]
+        if u['k'] == 'T' or u.get('audio_only') or u.get('no_subs'): continue
+        ws = wu['words']; off = wu['off']; cur = []
+        for j, w in enumerate(ws):
+            t = off + w['t']; e = off + (w.get('e') or (ws[j + 1]['t'] if j + 1 < len(ws) else w['t'] + 0.5))
+            e = min(e, t + 0.9) if w.get('e') is None else e
+            if cur and (len(' '.join(x[2] for x in cur) + ' ' + w['w']) > MAXC or t - cur[-1][1] > 0.8):
+                lines.append(cur); cur = []
+            cur.append((t, max(e, t + 0.08), w['w']))
+            if re.search(r'[.!?…:;]$', w['w']): lines.append(cur); cur = []
+        if cur: lines.append(cur)
+    lines.sort(key=lambda l: l[0][0]); L = []
+    for k, l in enumerate(lines):
+        a = l[0][0] - 0.05; b = l[-1][1] + 0.35
+        if k + 1 < len(lines): b = min(b, lines[k + 1][0][0] - 0.03)
+        L.append((a, max(b, a + 0.3), l))
+    KARA['lines'] = L
+    ch = [(e['t'], (U[e['i']].get('card') or {}).get('n', '')) for e in A['tl'] if e['k'] == 'T' and U[e['i']].get('chapter')]
+    ends = [c[0] for c in ch[1:]] + [A['end'] - job.get('chip_tail', 25)]
+    KARA['chips'] = [(a, b, n) for (a, n), b in zip(ch, ends) if n]
+    KARA['on'] = True
+
+def _ass_t(x):
+    x = max(0, x); return f"{int(x // 3600)}:{int(x % 3600 // 60):02d}:{x % 60:05.2f}"
+
+def karaoke_ass(sh_, workdir):
+    t0, d = sh_['t'], sh_['d']; t1 = t0 + d; ev = []
+    u = JOBU[sh_['unit']] if sh_.get('unit') is not None else {}
+    HL = '&H0000D4FF&'
+    if sh_.get('k') != 'T' and not u.get('audio_only'):
+        for a, b, l in KARA.get('lines', []):
+            if b <= t0 or a >= t1: continue
+            for q, (wt, we, ww) in enumerate(l):
+                s0 = a if q == 0 else wt; s1 = l[q + 1][0] if q + 1 < len(l) else b
+                if s1 <= t0 or s0 >= t1: continue
+                txt = ' '.join(('{\\c' + HL + '}' + x[2] + '{\\c&H00FFFFFF&}') if r == q else x[2] for r, x in enumerate(l))
+                ev.append(f"Dialogue: 0,{_ass_t(s0 - t0)},{_ass_t(min(s1, t1) - t0)},Sub,,0,0,0,,{txt}")
+    if sh_.get('k') != 'T':
+        for a, b, n in KARA.get('chips', []):
+            if b <= t0 or a >= t1: continue
+            ev.append(f"Dialogue: 1,{_ass_t(a - t0)},{_ass_t(min(b, t1) - t0)},Chip,,0,0,0,,{n}")
+    if not ev: return None
+    hdr = ("[Script Info]\nScriptType: v4.00+\nPlayResX: 1920\nPlayResY: 1080\nWrapStyle: 2\n\n[V4+ Styles]\n"
+           "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n"
+           "Style: Sub,Barlow Condensed ExtraBold,64,&H00FFFFFF,&H00FFFFFF,&H00101010,&H90000000,0,0,0,0,100,100,0.5,0,1,4,2,2,120,120,48,1\n"
+           "Style: Chip,Barlow Condensed SemiBold,36,&H00FFFFFF,&H00FFFFFF,&H70000000,&H70000000,0,0,0,0,100,100,2,0,3,10,0,7,64,64,52,1\n\n"
+           "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
+    p = f"{workdir}/k_{sh_['n']:04d}.ass"; open(p, 'w').write(hdr + '\n'.join(ev) + '\n'); return p
+
 def render_shot(sh_, out, workdir):
     if os.path.exists(out): return out
     f0 = round(sh_['t'] * FPS); f1 = round((sh_['t'] + sh_['d']) * FPS); N = max(1, f1 - f0); dur = N / FPS
@@ -490,6 +574,7 @@ def render_shot(sh_, out, workdir):
         base = ['-ss', f"{R['ss'] + sh_.get('clip_off', 0):.3f}", '-i', R['path']]
         cu = JOBU[sp['clip_unit']] if sp.get('clip_unit') is not None else {}
         crop = cu.get('crop'); cf = f'crop=iw*{crop[2]}:ih*{crop[3]}:iw*{crop[0]}:ih*{crop[1]},' if crop else ''
+        if cu.get('hflip'): cf = 'hflip,' + cf
         bl = f",gblur=sigma={cu['blur']}" if cu.get('blur') else ''
         vf = f'{cf}scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS},eq=contrast=1.04:saturation=0.92{bl}'
         if cu.get('fit'):  # vertical u otro formato: entero, centrado, sobre una copia desenfocada (sin barras negras)
@@ -557,10 +642,19 @@ def render_shot(sh_, out, workdir):
         if not os.path.exists(rp): CARDS.badge('RECREACIÓN', rp)
         ins += ['-loop', '1', '-framerate', str(FPS), '-i', rp]
         chain += f';[{last}][{k}:v]overlay=0:0:shortest=1[b{k}]'; last = f'b{k}'; k += 1
+    if sp.get('stamp'):  # e29n90: sello de estado procesal (CONDENADO, PROCESADA, INVESTIGADO, NO IMPUTADO)
+        st = sp['stamp']; spth = f'{workdir}/st_{abs(hash(tuple(st)))}.png'
+        if not os.path.exists(spth): CARDS.stamp(st[0], st[1] if len(st) > 1 else 'red', spth, st[2] if len(st) > 2 else '')
+        s0 = sp.get('stamp_at', 0.6)
+        ins += ['-loop', '1', '-framerate', str(FPS), '-i', spth]
+        chain += f';[{k}:v]format=rgba,fade=t=in:st={s0}:d=0.12:alpha=1[o{k}];[{last}][o{k}]overlay=0:0:shortest=1[b{k}]'
+        last = f'b{k}'; k += 1
     if BRAND.get('mosca') and R['kind'] != 'card':
         ins += ['-loop', '1', '-framerate', str(FPS), '-i', BRAND['mosca']]
         chain += f';[{last}][{k}:v]overlay=0:0:shortest=1[b{k}]'; last = f'b{k}'; k += 1
     # e29n90: si la fuente se acaba antes que el plano, se congela el último fotograma (si no, el plano sale corto y el vídeo se adelanta al audio)
+    ap = karaoke_ass(sh_, workdir) if KARA.get('on') else None
+    if ap: chain += f';[{last}]ass={ap}:fontsdir={FONTS_DIR}[kk]'; last = 'kk'
     chain += f';[{last}]tpad=stop_mode=clone:stop_duration=600,' + (','.join(fx) if fx else 'null') + '[v]'
     cmd = ['ffmpeg', '-loglevel', 'error', '-y', *base, *ins, '-filter_complex', chain, '-map', '[v]', '-frames:v', str(N), '-r', str(FPS), *ENC, out + '.tmp.mp4']
     if gen is None: sh(cmd)
@@ -772,6 +866,7 @@ def run(job_dir):
     align_audio(job, U, A, job_dir, out_dir)
     BANDO.clear(); BANDO.update({k: tuple(v) for k, v in job.get('bando', {}).items()}); REUSE.update(job.get('reuse', {}))
     log('== 2/5 guion visual'); shots = build_edl_sync(job, U, A) if job.get('align') else build_edl(job, U, A)
+    if job.get('karaoke'): build_karaoke(job, U, A)
     if SYNC: open(f'{out_dir}/sincronia.txt', 'w').write('\n'.join(SYNC) + '\n')
     log(f'   {len(shots)} planos')
     qp = job.get('qpicks', {}); qsrc = {}
@@ -877,8 +972,9 @@ def run(job_dir):
     srt = []; n = 1
     for e in A['tl']:
         u = U[e['i']]
-        if e['k'] not in ('N', 'P', 'R', 'T') or not u.get('text'): continue
         wu = A.get('words', {}).get(e['i'])
+        if e['k'] == 'C' and not (wu and wu.get('clip')): continue
+        if e['k'] not in ('N', 'P', 'R', 'T', 'C') or (e['k'] != 'C' and not u.get('text')): continue
         if wu and wu['words']:  # subtítulos a la palabra: cada frase empieza cuando se dice
             ws = wu['words']; chunks = []; cur = []
             for w in ws:

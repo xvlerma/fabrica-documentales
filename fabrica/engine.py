@@ -530,7 +530,7 @@ def build_karaoke(job, U, A):
     ch = [(e['t'], (U[e['i']].get('card') or {}).get('n', '')) for e in A['tl'] if e['k'] == 'T' and U[e['i']].get('chapter')]
     ends = [c[0] for c in ch[1:]] + [A['end'] - job.get('chip_tail', 25)]
     KARA['chips'] = [(a, b, n) for (a, n), b in zip(ch, ends) if n]
-    KARA['on'] = True
+    KARA['subs'] = job.get('kara_subs', True); KARA['on'] = True
 
 def _ass_t(x):
     x = max(0, x); return f"{int(x // 3600)}:{int(x % 3600 // 60):02d}:{x % 60:05.2f}"
@@ -539,7 +539,7 @@ def karaoke_ass(sh_, workdir):
     t0, d = sh_['t'], sh_['d']; t1 = t0 + d; ev = []
     u = JOBU[sh_['unit']] if sh_.get('unit') is not None else {}
     HL = '&H0000D4FF&'
-    if sh_.get('k') != 'T' and not u.get('audio_only'):
+    if KARA.get('subs', True) and sh_.get('k') != 'T' and not u.get('audio_only'):
         for a, b, l in KARA.get('lines', []):
             if b <= t0 or a >= t1: continue
             for q, (wt, we, ww) in enumerate(l):

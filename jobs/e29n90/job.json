@@ -74,8 +74,15 @@
  "audio_kbps": "128k",
  "intro": [],
  "seed": 2911,
- "rev": 6,
+ "rev": 7,
  "clip_subs": true,
+ "kara_subs": false,
+ "inserts": [
+  {
+   "after_unit": 3,
+   "file": "assets/intro/docuvox.mp4"
+  }
+ ],
  "clip_model": "small",
  "karaoke": true,
  "max_still": 6,

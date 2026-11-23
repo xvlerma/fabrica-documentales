@@ -1,0 +1,2535 @@
+1
+00:00:06,839 --> 00:00:08,089
+Madrid.
+
+2
+00:00:08,140 --> 00:00:10,862
+Viernes, veinticinco de mayo de dos mil doce.
+
+3
+00:00:10,913 --> 00:00:13,330
+Cuatro y media de la tarde.
+
+4
+00:00:13,379 --> 00:00:17,896
+En la sede de Bankia, el consejo de administración se encierra en una sala.
+
+5
+00:00:19,396 --> 00:00:24,126
+Al frente de la mesa hay un hombre que lleva solo dieciséis días en el cargo.
+
+6
+00:00:24,176 --> 00:00:26,567
+Tiene una cifra apuntada.
+
+7
+00:00:26,617 --> 00:00:30,327
+Y cuando la dice en voz alta, nadie en la sala habla.
+
+8
+00:00:31,225 --> 00:00:34,095
+Diecinueve mil millones de euros.
+
+9
+00:00:34,146 --> 00:00:38,355
+Es lo que el banco tiene que pedir al Estado para no hundirse.
+
+10
+00:00:38,405 --> 00:00:41,408
+El mayor rescate de la historia de España.
+
+11
+00:00:42,409 --> 00:00:46,779
+Esa misma tarde, el banco rehace sus cuentas del año anterior.
+
+12
+00:00:46,829 --> 00:00:51,719
+Donde decía que había ganado trescientos nueve millones, ahora reconoce que perdió
+
+13
+00:00:51,769 --> 00:00:53,359
+casi tres mil.
+
+14
+00:00:53,409 --> 00:00:58,325
+Y el consejo entero, salvo el presidente y el consejero delegado, dimite.
+
+15
+00:00:59,825 --> 00:01:02,575
+Pero lo más increíble no es la cifra.
+
+16
+00:01:02,625 --> 00:01:04,314
+Es la fecha.
+
+17
+00:01:04,364 --> 00:01:09,094
+Porque apenas diez meses antes, este mismo banco había tocado la campana en la Bolsa
+
+18
+00:01:09,144 --> 00:01:10,195
+de Madrid.
+
+19
+00:01:10,245 --> 00:01:14,896
+Y trescientas cuarenta y siete mil personas le habían confiado sus ahorros.
+
+20
+00:01:15,796 --> 00:01:18,306
+Tres con setenta y cinco euros.
+
+21
+00:01:18,356 --> 00:01:22,066
+A ese precio se vendió cada acción aquel verano.
+
+22
+00:01:22,116 --> 00:01:27,481
+El jueves veinticuatro de mayo, la víspera del rescate, la acción cerró a uno con
+
+23
+00:01:27,531 --> 00:01:29,306
+cincuenta y siete.
+
+24
+00:01:29,356 --> 00:01:32,086
+Ya había perdido más de la mitad.
+
+25
+00:01:32,136 --> 00:01:34,834
+Y lo peor aún no había llegado.
+
+26
+00:01:35,834 --> 00:01:40,464
+¿Cómo puede un banco que sale a bolsa como una cuestión de Estado necesitar el mayor
+
+27
+00:01:40,514 --> 00:01:43,544
+rescate de la historia en menos de un año?
+
+28
+00:01:43,594 --> 00:01:46,004
+¿Quién sabía lo que había dentro?
+
+29
+00:01:46,054 --> 00:01:50,024
+Y la pregunta que todavía hoy no tiene una respuesta cómoda:
+
+30
+00:01:50,073 --> 00:01:51,993
+¿quién pagó la factura?
+
+31
+00:01:53,493 --> 00:01:57,463
+Esta es la historia de los diez meses que hundieron a Bankia.
+
+32
+00:01:57,513 --> 00:02:01,384
+Contada día a día, desde la campana hasta el rescate.
+
+33
+00:02:01,433 --> 00:02:03,103
+Y de lo que vino después:
+
+34
+00:02:03,153 --> 00:02:07,676
+los tribunales, la cárcel y una sentencia que nadie esperaba.
+
+35
+00:02:09,876 --> 00:02:10,864
+Bankia.
+
+36
+00:02:10,913 --> 00:02:14,675
+Diez meses.
+
+37
+00:02:20,676 --> 00:02:26,066
+Para entender cómo se llegó a esa sala, hay que retroceder dos años.
+
+38
+00:02:26,116 --> 00:02:27,586
+Dos mil diez.
+
+39
+00:02:27,636 --> 00:02:32,566
+La burbuja inmobiliaria ha reventado y las cajas de ahorros, las entidades que durante
+
+40
+00:02:32,616 --> 00:02:37,765
+un siglo guardaron el dinero de los españoles, están llenas de pisos que nadie compra
+
+41
+00:02:37,816 --> 00:02:41,323
+y de préstamos a promotores que ya no pueden pagar.
+
+42
+00:02:42,222 --> 00:02:45,192
+Para medir la burbuja basta un dato.
+
+43
+00:02:45,242 --> 00:02:50,671
+En dos mil seis se empezaron a construir en España más viviendas que en Alemania,
+
+44
+00:02:50,722 --> 00:02:53,412
+Francia e Italia juntas.
+
+45
+00:02:53,462 --> 00:02:57,947
+Y una parte enorme de ese ladrillo se pagó con crédito de las cajas.
+
+46
+00:02:58,947 --> 00:03:03,716
+Hasta que en septiembre de dos mil ocho quiebra Lehman Brothers en Nueva York.
+
+47
+00:03:03,766 --> 00:03:07,356
+El grifo del dinero internacional se cierra de golpe.
+
+48
+00:03:07,407 --> 00:03:11,917
+Y las cajas, que pedían prestado en esos mercados para prestar a los promotores,
+
+49
+00:03:11,967 --> 00:03:14,396
+se quedan con dos cosas:
+
+50
+00:03:14,447 --> 00:03:17,493
+pisos sin vender y deudas que pagar.
+
+51
+00:03:18,394 --> 00:03:22,524
+Una caja de ahorros no tenía dueños ni accionistas.
+
+52
+00:03:22,574 --> 00:03:28,163
+Sus consejos se repartían entre gobiernos autonómicos, ayuntamientos, partidos y
+
+53
+00:03:28,213 --> 00:03:29,623
+sindicatos.
+
+54
+00:03:29,674 --> 00:03:35,030
+Y en dos mil diez, el Banco de España las empuja a fusionarse para sobrevivir.
+
+55
+00:03:35,931 --> 00:03:40,281
+La más grande de todas tenía casi tres siglos de historia.
+
+56
+00:03:40,331 --> 00:03:45,540
+Caja Madrid nació del Monte de Piedad que fundó el sacerdote Francisco Piquer en
+
+57
+00:03:45,591 --> 00:03:50,320
+mil setecientos dos, para prestar a los pobres sin usura.
+
+58
+00:03:50,371 --> 00:03:55,387
+En dos mil nueve manejaba unos ciento ochenta mil millones de euros.
+
+59
+00:03:56,385 --> 00:04:01,135
+La mayor de todas esas uniones nace el treinta de julio de dos mil diez.
+
+60
+00:04:01,186 --> 00:04:04,395
+Siete cajas firman un contrato de integración.
+
+61
+00:04:04,445 --> 00:04:07,775
+Dos gigantes, Caja Madrid y Bancaja.
+
+62
+00:04:07,825 --> 00:04:09,195
+Y cinco pequeñas:
+
+63
+00:04:09,246 --> 00:04:14,655
+la Caja Insular de Canarias, Caja de Ávila, Caixa Laietana, Caja Segovia y Caja
+
+64
+00:04:14,705 --> 00:04:15,580
+Rioja.
+
+65
+00:04:17,081 --> 00:04:19,591
+Lo llaman fusión fría.
+
+66
+00:04:19,641 --> 00:04:24,850
+Cada caja sigue existiendo, pero el negocio pasa a una sociedad central:
+
+67
+00:04:24,901 --> 00:04:31,390
+el Banco Financiero y de Ahorros, que todo el mundo conocerá por sus siglas, BFA.
+
+68
+00:04:31,440 --> 00:04:35,830
+Para arrancar, el Estado le presta cuatro mil cuatrocientos sesenta y cinco millones
+
+69
+00:04:35,880 --> 00:04:39,733
+de euros del fondo de rescate bancario, el FROB.
+
+70
+00:04:41,233 --> 00:04:44,643
+Sobre el papel, la idea tenía lógica:
+
+71
+00:04:44,693 --> 00:04:48,623
+siete entidades débiles juntas pesan más que por separado.
+
+72
+00:04:48,673 --> 00:04:54,243
+Pero dentro de ese gigante convivían siete culturas, siete consejos, siete redes
+
+73
+00:04:54,293 --> 00:05:00,043
+de oficinas solapadas y, sobre todo, siete carteras de préstamos al ladrillo.
+
+74
+00:05:00,093 --> 00:05:02,703
+Juntarlas no las hacía más sanas.
+
+75
+00:05:02,753 --> 00:05:05,065
+Solo las hacía más grandes.
+
+76
+00:05:05,966 --> 00:05:11,416
+El nuevo grupo arranca con más de trescientos mil millones de euros en balance.
+
+77
+00:05:11,466 --> 00:05:14,076
+Es el tercer banco de España.
+
+78
+00:05:14,127 --> 00:05:19,558
+Y tiene un presidente con un currículum que pocos banqueros del mundo pueden igualar.
+
+79
+00:05:20,557 --> 00:05:22,687
+Un gigante, sí.
+
+80
+00:05:22,737 --> 00:05:24,927
+Pero con pies de barro.
+
+81
+00:05:24,978 --> 00:05:30,287
+Y dentro de ese barro había una pregunta que nadie quería hacer en voz alta:
+
+82
+00:05:30,337 --> 00:05:35,010
+cuánto valía de verdad todo el ladrillo que las cajas guardaban en sus balances.
+
+83
+00:05:36,510 --> 00:05:38,000
+Rodrigo Rato.
+
+84
+00:05:38,050 --> 00:05:41,960
+Vicepresidente económico en los gobiernos de José María Aznar.
+
+85
+00:05:42,010 --> 00:05:46,631
+Director gerente del Fondo Monetario Internacional entre dos mil cuatro y dos mil
+
+86
+00:05:46,681 --> 00:05:48,060
+siete.
+
+87
+00:05:48,110 --> 00:05:50,022
+Ahora preside el grupo entero.
+
+88
+00:05:50,923 --> 00:05:53,152
+Su llegada no fue sencilla.
+
+89
+00:05:53,202 --> 00:05:58,152
+Durante casi un año, el Partido Popular de Madrid libró una guerra interna por el
+
+90
+00:05:58,202 --> 00:05:59,692
+control de la caja.
+
+91
+00:05:59,742 --> 00:06:04,832
+La presidenta de la Comunidad, Esperanza Aguirre, quería a su número dos, Ignacio
+
+92
+00:06:04,882 --> 00:06:05,913
+González.
+
+93
+00:06:05,963 --> 00:06:09,332
+El alcalde, Alberto Ruiz-Gallardón, se oponía.
+
+94
+00:06:09,382 --> 00:06:12,968
+Y el líder nacional del partido lo dijo en televisión.
+
+95
+00:06:13,867 --> 00:06:18,939
+Si yo tuviera que nombrar a un presidente de Caja Madrid, ése sería Rato.
+
+96
+00:06:19,838 --> 00:06:25,509
+El veintiocho de enero de dos mil diez, Rato es elegido presidente de Caja Madrid
+
+97
+00:06:25,559 --> 00:06:27,269
+por unanimidad.
+
+98
+00:06:27,319 --> 00:06:31,853
+Sustituye a Miguel Blesa, que llevaba catorce años al frente.
+
+99
+00:06:32,854 --> 00:06:37,424
+A su lado, como vicepresidente, el hombre fuerte de Bancaja:
+
+100
+00:06:37,474 --> 00:06:41,844
+José Luis Olivas, que había sido presidente de la Generalitat Valenciana.
+
+101
+00:06:41,894 --> 00:06:45,704
+Y como consejero delegado, Francisco Verdú.
+
+102
+00:06:45,754 --> 00:06:51,437
+Madrid y Valencia, los dos grandes feudos del ladrillo, en una misma mesa.
+
+103
+00:06:52,336 --> 00:06:55,626
+En la prensa económica se repite una frase:
+
+104
+00:06:55,676 --> 00:06:57,566
+nace un gigante.
+
+105
+00:06:57,616 --> 00:07:01,326
+Pero dentro del Banco de España hay quien no lo ve así.
+
+106
+00:07:01,377 --> 00:07:03,055
+Y lo deja por escrito.
+
+107
+00:07:16,054 --> 00:07:20,424
+Real Decreto-ley de dieciocho de febrero de dos mil once, para el reforzamiento
+
+108
+00:07:20,474 --> 00:07:22,324
+del sistema financiero.
+
+109
+00:07:22,374 --> 00:07:25,124
+Capital principal mínimo del ocho por ciento.
+
+110
+00:07:25,174 --> 00:07:29,704
+Del diez por ciento para las entidades que dependan de los mercados mayoristas y
+
+111
+00:07:29,754 --> 00:07:34,124
+no tengan al menos un veinte por ciento de su capital en manos privadas.
+
+112
+00:07:34,174 --> 00:07:34,974
+Plazo:
+
+113
+00:07:34,614 --> 00:07:36,605
+treinta de septiembre.
+
+114
+00:07:37,505 --> 00:07:43,155
+El diez de marzo, el Banco de España comunica a doce entidades que les falta capital.
+
+115
+00:07:43,205 --> 00:07:47,375
+Unos quince mil millones de euros para todo el sector.
+
+116
+00:07:47,425 --> 00:07:49,896
+En la lista está BFA.
+
+117
+00:07:50,896 --> 00:07:53,086
+Primavera de dos mil once.
+
+118
+00:07:53,137 --> 00:07:56,067
+Para BFA quedan dos caminos.
+
+119
+00:07:56,117 --> 00:07:59,426
+Salir a bolsa y captar dinero de inversores.
+
+120
+00:07:59,476 --> 00:08:01,163
+O ser intervenida.
+
+121
+00:08:02,663 --> 00:08:05,533
+La fórmula que se elige tiene truco.
+
+122
+00:08:05,584 --> 00:08:08,433
+No saldrá a bolsa todo el grupo.
+
+123
+00:08:08,483 --> 00:08:13,834
+Se crea un banco nuevo, Bankia, que se queda con el negocio de las oficinas, los
+
+124
+00:08:13,884 --> 00:08:16,113
+clientes y los depósitos.
+
+125
+00:08:16,163 --> 00:08:21,193
+Y la matriz, BFA, se queda con buena parte de lo más tóxico:
+
+126
+00:08:21,243 --> 00:08:26,524
+el suelo, los préstamos dudosos y las participaciones en otras empresas.
+
+127
+00:08:27,424 --> 00:08:31,074
+A esto se le llamó estructura de doble banco.
+
+128
+00:08:31,124 --> 00:08:33,894
+Bankia sería el escaparate.
+
+129
+00:08:33,944 --> 00:08:36,624
+BFA, la trastienda.
+
+130
+00:08:37,624 --> 00:08:39,614
+Para que te hagas una idea:
+
+131
+00:08:39,663 --> 00:08:44,274
+es como poner en la calle una tienda reluciente y guardar los muebles rotos en el
+
+132
+00:08:44,324 --> 00:08:46,034
+almacén de atrás.
+
+133
+00:08:46,084 --> 00:08:48,427
+El cliente solo ve el escaparate.
+
+134
+00:08:49,927 --> 00:08:53,798
+Y aquí entra en escena un hombre que casi nadie conocía.
+
+135
+00:08:53,847 --> 00:08:58,798
+José Antonio Casaus, jefe del equipo de inspectores del Banco de España que vigila
+
+136
+00:08:58,847 --> 00:09:00,858
+día a día al grupo.
+
+137
+00:09:00,908 --> 00:09:06,216
+Entre abril y mayo de dos mil once envía cuatro correos electrónicos a sus superiores.
+
+138
+00:09:07,115 --> 00:09:10,485
+Correo de dieciséis de mayo de dos mil once.
+
+139
+00:09:10,535 --> 00:09:15,485
+El inspector describe a Bankia con una debilísima y decreciente capacidad para generar
+
+140
+00:09:15,535 --> 00:09:16,886
+resultados.
+
+141
+00:09:16,936 --> 00:09:21,629
+Y añade que el grupo tiene un consejo muy politizado y poco profesional.
+
+142
+00:09:22,530 --> 00:09:27,440
+La salida a bolsa con la estructura de doble banco, sin hacer cambios estructurales,
+
+143
+00:09:27,490 --> 00:09:29,564
+sólo es una bombona de oxígeno.
+
+144
+00:09:30,565 --> 00:09:32,615
+Una bombona de oxígeno.
+
+145
+00:09:32,665 --> 00:09:33,675
+Es decir:
+
+146
+00:09:33,725 --> 00:09:37,675
+aire para aguantar unos meses, no una cura.
+
+147
+00:09:37,725 --> 00:09:41,595
+Casaus no estaba diciendo que la salida a bolsa fuera ilegal.
+
+148
+00:09:41,645 --> 00:09:44,535
+Estaba diciendo que no resolvía el problema.
+
+149
+00:09:44,585 --> 00:09:46,837
+Que el enfermo seguía enfermo.
+
+150
+00:09:48,336 --> 00:09:50,887
+Casaus propone otra salida:
+
+151
+00:09:50,937 --> 00:09:55,966
+que un gran banco, preferiblemente extranjero, absorba al grupo.
+
+152
+00:09:56,016 --> 00:09:59,206
+Y apunta por qué cree que no ocurrirá.
+
+153
+00:09:59,256 --> 00:10:04,647
+Según escribió, los políticos que gestionan la entidad no querrán perder su herramienta
+
+154
+00:10:04,697 --> 00:10:06,034
+de financiación.
+
+155
+00:10:07,535 --> 00:10:10,265
+Sus correos llegan a su jefe de grupo.
+
+156
+00:10:10,315 --> 00:10:14,545
+Lo que pasó después lo discutirían durante años los tribunales.
+
+157
+00:10:14,595 --> 00:10:18,605
+Ante el juez, quien los recibió los llamó meras opiniones.
+
+158
+00:10:18,655 --> 00:10:21,525
+El gobernador aseguró que nunca le llegaron.
+
+159
+00:10:21,575 --> 00:10:23,716
+La operación siguió adelante.
+
+160
+00:10:24,615 --> 00:10:29,546
+En los despachos de Madrid se decía que la salida a bolsa de Bankia era una cuestión
+
+161
+00:10:29,596 --> 00:10:30,646
+de Estado.
+
+162
+00:10:30,696 --> 00:10:34,886
+Si fracasaba, el mensaje a los mercados sería terrible:
+
+163
+00:10:34,936 --> 00:10:39,009
+que el sistema financiero español no podía sostenerse solo.
+
+164
+00:10:39,908 --> 00:10:43,939
+Y mientras tanto, en la calle, el país hierve.
+
+165
+00:10:43,989 --> 00:10:49,278
+El quince de mayo de dos mil once, miles de personas acampan en la Puerta del Sol.
+
+166
+00:10:49,328 --> 00:10:53,099
+Una de sus pancartas se repetiría por toda España:
+
+167
+00:10:53,149 --> 00:10:57,124
+no somos mercancía en manos de políticos y banqueros.
+
+168
+00:10:58,123 --> 00:11:02,693
+Así que el veintinueve de junio de dos mil once, la Comisión Nacional del Mercado
+
+169
+00:11:02,743 --> 00:11:05,873
+de Valores registra el folleto de la oferta.
+
+170
+00:11:05,923 --> 00:11:07,653
+Cientos de páginas.
+
+171
+00:11:07,703 --> 00:11:10,693
+Cifras, riesgos, cuentas.
+
+172
+00:11:10,743 --> 00:11:16,070
+Un documento que, años después, el Tribunal Supremo examinaría frase a frase.
+
+173
+00:11:17,570 --> 00:11:20,160
+En ese folleto había un número.
+
+174
+00:11:20,210 --> 00:11:21,880
+Un beneficio.
+
+175
+00:11:21,930 --> 00:11:26,879
+Y ese número iba a viajar a trescientas cuarenta y siete mil casas.
+
+176
+00:11:45,379 --> 00:11:47,321
+Junio de dos mil once.
+
+177
+00:11:47,370 --> 00:11:52,910
+Bankia lanza una de las mayores campañas publicitarias que ha visto la banca española.
+
+178
+00:11:52,960 --> 00:11:57,190
+Anuncios en televisión, en la radio, en las marquesinas.
+
+179
+00:11:57,240 --> 00:12:00,230
+El mensaje invita a hacerse accionista.
+
+180
+00:12:00,279 --> 00:12:04,373
+A ser, como decían los propios anuncios, bankero.
+
+181
+00:12:05,873 --> 00:12:09,363
+Pero la campaña más eficaz no estaba en la televisión.
+
+182
+00:12:09,413 --> 00:12:12,743
+Estaba en las miles de oficinas del grupo.
+
+183
+00:12:12,793 --> 00:12:18,423
+Allí, empleados que conocían a sus clientes de toda la vida les ofrecían las acciones.
+
+184
+00:12:18,473 --> 00:12:23,283
+Jubilados, familias, pequeños ahorradores que nunca habían comprado una acción en
+
+185
+00:12:23,333 --> 00:12:24,133
+su vida.
+
+186
+00:12:25,028 --> 00:12:29,859
+Mientras tanto, los grandes inversores internacionales no se fían.
+
+187
+00:12:29,908 --> 00:12:31,919
+La demanda no llega.
+
+188
+00:12:31,969 --> 00:12:38,079
+Y el diecinueve de julio, la víspera del estreno, Bankia tiene que rebajar el precio.
+
+189
+00:12:38,129 --> 00:12:42,959
+La horquilla inicial iba de cuatro con cuarenta y uno a cinco con cero cinco euros
+
+190
+00:12:43,009 --> 00:12:44,379
+por acción.
+
+191
+00:12:44,428 --> 00:12:48,130
+El precio final se queda en tres con setenta y cinco.
+
+192
+00:12:49,031 --> 00:12:50,821
+Folleto de la oferta.
+
+193
+00:12:50,871 --> 00:12:54,821
+Cuenta de resultados del primer trimestre de dos mil once:
+
+194
+00:12:54,871 --> 00:12:59,921
+beneficio pro forma, no auditado, de noventa y un millones de euros.
+
+195
+00:12:59,971 --> 00:13:04,018
+Las advertencias sobre riesgos ocupan decenas de páginas.
+
+196
+00:13:05,018 --> 00:13:07,948
+Aun así, la operación se cierra.
+
+197
+00:13:07,998 --> 00:13:11,768
+Bankia capta tres mil noventa y dos millones de euros.
+
+198
+00:13:11,817 --> 00:13:16,788
+Y la mayor parte de ese dinero no viene de fondos ni de bancos de inversión.
+
+199
+00:13:16,838 --> 00:13:18,681
+Viene de la gente de a pie.
+
+200
+00:13:20,180 --> 00:13:23,350
+Piensa en lo que significaba para muchos de ellos.
+
+201
+00:13:23,400 --> 00:13:25,950
+No eran inversores profesionales.
+
+202
+00:13:26,000 --> 00:13:30,730
+Eran personas que confiaban en la caja de su barrio, la misma de la libreta de ahorros
+
+203
+00:13:30,780 --> 00:13:32,330
+y la hipoteca.
+
+204
+00:13:32,380 --> 00:13:37,397
+Si el empleado de toda la vida decía que era buena idea, ¿por qué iban a dudar?
+
+205
+00:13:40,017 --> 00:13:43,667
+Trescientos cuarenta y siete mil trescientos treinta y ocho accionistas individuales.
+
+206
+00:13:43,716 --> 00:13:48,347
+Frente a solo doscientos ochenta inversores institucionales.
+
+207
+00:13:48,397 --> 00:13:53,527
+Más de la mitad del dinero, unos mil ochocientos millones, lo pusieron pequeños
+
+208
+00:13:53,576 --> 00:13:54,705
+ahorradores.
+
+209
+00:13:55,705 --> 00:13:58,078
+Veinte de julio de dos mil once.
+
+210
+00:13:58,128 --> 00:13:59,775
+Nueve de la mañana.
+
+211
+00:13:59,825 --> 00:14:01,855
+Palacio de la Bolsa de Madrid.
+
+212
+00:14:01,905 --> 00:14:05,095
+Banqueros, empresarios y políticos llenan el parqué.
+
+213
+00:14:05,145 --> 00:14:08,548
+Y Rodrigo Rato sube a tocar la campana.
+
+214
+00:14:09,447 --> 00:14:14,378
+Es una satisfacción compartir con más de trescientos cuarenta y siete mil accionistas
+
+215
+00:14:14,427 --> 00:14:16,386
+este momento histórico.
+
+216
+00:14:17,386 --> 00:14:20,256
+La primera hora es un mal presagio.
+
+217
+00:14:20,306 --> 00:14:23,156
+La acción llega a caer más de un cinco por ciento.
+
+218
+00:14:23,206 --> 00:14:28,056
+Rato habla de una auténtica tormenta financiera en Europa.
+
+219
+00:14:28,106 --> 00:14:32,316
+Y al cierre, la cotización termina exactamente donde empezó:
+
+220
+00:14:32,366 --> 00:14:34,456
+tres con setenta y cinco.
+
+221
+00:14:34,506 --> 00:14:38,856
+La prensa señala que los bancos que colocaron la oferta compraron para sostener
+
+222
+00:14:38,906 --> 00:14:39,996
+el precio.
+
+223
+00:14:40,896 --> 00:14:45,126
+Las crónicas de ese día se llenan con la imagen de la campana.
+
+224
+00:14:45,176 --> 00:14:48,926
+Bankia ya es el cuarto banco del país por tamaño.
+
+225
+00:14:48,976 --> 00:14:54,186
+En octubre entrará en el Ibex treinta y cinco, el club de las mayores empresas de
+
+226
+00:14:54,236 --> 00:14:55,523
+la bolsa española.
+
+227
+00:14:57,302 --> 00:15:01,013
+Trescientas cuarenta y siete mil personas creían haber comprado un trozo de un banco
+
+228
+00:15:01,062 --> 00:15:02,373
+sólido.
+
+229
+00:15:02,423 --> 00:15:06,389
+Lo que no sabían es que el reloj ya había empezado a correr.
+
+230
+00:15:19,889 --> 00:15:24,200
+El verano de dos mil once es el de la crisis de la deuda europea.
+
+231
+00:15:24,250 --> 00:15:26,000
+Grecia se tambalea.
+
+232
+00:15:26,049 --> 00:15:29,899
+Italia y España pagan cada vez más por pedir prestado.
+
+233
+00:15:29,949 --> 00:15:32,879
+Y la acción de Bankia empieza a bajar.
+
+234
+00:15:32,929 --> 00:15:34,100
+Despacio.
+
+235
+00:15:34,149 --> 00:15:35,362
+Sin pausa.
+
+236
+00:15:36,363 --> 00:15:41,253
+En agosto, el Banco Central Europeo empieza a comprar deuda española e italiana
+
+237
+00:15:41,303 --> 00:15:43,493
+para frenar la sangría.
+
+238
+00:15:43,543 --> 00:15:49,296
+Y en septiembre, en apenas unas semanas, PSOE y PP reforman el artículo ciento treinta
+
+239
+00:15:49,346 --> 00:15:54,493
+y cinco de la Constitución para fijar por escrito el límite al déficit.
+
+240
+00:15:54,543 --> 00:15:57,278
+El país entero vive en modo emergencia.
+
+241
+00:15:58,778 --> 00:16:01,288
+En noviembre, España vota.
+
+242
+00:16:01,337 --> 00:16:04,528
+Mariano Rajoy gana con mayoría absoluta.
+
+243
+00:16:04,577 --> 00:16:08,828
+Su ministro de Economía, Luis de Guindos, llega con una prioridad:
+
+244
+00:16:08,878 --> 00:16:11,451
+limpiar los balances de los bancos.
+
+245
+00:16:12,350 --> 00:16:17,360
+Y el veintiuno de noviembre, el día siguiente a las elecciones, el Banco de España
+
+246
+00:16:17,410 --> 00:16:20,100
+interviene el Banco de Valencia.
+
+247
+00:16:20,150 --> 00:16:25,341
+Su mayor accionista era Bancaja, una de las siete cajas de Bankia.
+
+248
+00:16:25,390 --> 00:16:28,554
+Es la primera grieta visible dentro del grupo.
+
+249
+00:16:29,456 --> 00:16:32,826
+Real Decreto-ley de febrero de dos mil doce.
+
+250
+00:16:32,875 --> 00:16:38,186
+Las entidades deberán provisionar sus créditos al ladrillo, es decir, apartar dinero
+
+251
+00:16:38,235 --> 00:16:41,906
+para cubrir lo que probablemente nunca cobrarán.
+
+252
+00:16:41,956 --> 00:16:46,125
+En mayo llegará un segundo decreto que exigirá todavía más.
+
+253
+00:16:47,125 --> 00:16:52,055
+Y sin embargo, ese mismo febrero, Bankia presenta resultados.
+
+254
+00:16:52,105 --> 00:16:56,975
+Asegura que en dos mil once ganó trescientos nueve millones de euros.
+
+255
+00:16:57,024 --> 00:16:59,197
+Sobre el papel, todo va bien.
+
+256
+00:17:00,096 --> 00:17:03,507
+En la bolsa, el mercado piensa otra cosa.
+
+257
+00:17:03,557 --> 00:17:07,186
+En marzo, la acción ya ronda los tres euros.
+
+258
+00:17:07,236 --> 00:17:11,087
+Más de un veinte por ciento por debajo del precio de salida.
+
+259
+00:17:12,087 --> 00:17:16,978
+Y mientras la acción baja, dentro del banco corre otro reloj.
+
+260
+00:17:17,028 --> 00:17:20,877
+La ley da tres meses para formular las cuentas del año.
+
+261
+00:17:20,927 --> 00:17:24,738
+Las de dos mil once tienen que estar listas a finales de marzo.
+
+262
+00:17:24,788 --> 00:17:26,946
+Y alguien tiene que firmarlas.
+
+263
+00:17:28,446 --> 00:17:31,756
+Y entonces aparece el hombre que cambia la historia.
+
+264
+00:17:31,806 --> 00:17:34,136
+No es un juez ni un político.
+
+265
+00:17:34,186 --> 00:17:38,856
+Es el socio de la auditora Deloitte responsable de las cuentas de Bankia:
+
+266
+00:17:38,906 --> 00:17:39,856
+Francisco Celma.
+
+267
+00:17:39,906 --> 00:17:43,136
+Tiene que firmar las cuentas de dos mil once.
+
+268
+00:17:43,186 --> 00:17:44,736
+Y no lo ve claro.
+
+269
+00:17:46,236 --> 00:17:50,326
+El problema está en BFA, la matriz.
+
+270
+00:17:50,376 --> 00:17:56,067
+Según contaría Celma en el juicio, el valor al que BFA tenía apuntada su participación
+
+271
+00:17:56,116 --> 00:18:00,606
+en Bankia era muy superior a lo que de verdad valía en bolsa.
+
+272
+00:18:00,656 --> 00:18:04,210
+Reconocerlo suponía pérdidas multimillonarias.
+
+273
+00:18:05,711 --> 00:18:08,821
+Pero el agujero de fondo no era contable.
+
+274
+00:18:08,871 --> 00:18:10,780
+Era de ladrillo.
+
+275
+00:18:10,830 --> 00:18:15,901
+Préstamos a promotores que no iban a devolverse, suelo que ya no valía lo que decían
+
+276
+00:18:15,951 --> 00:18:20,201
+los libros, pisos embargados que nadie quería.
+
+277
+00:18:20,250 --> 00:18:24,341
+Cada mes que pasaba, ese agujero se hacía más grande.
+
+278
+00:18:24,391 --> 00:18:28,768
+Y cada nuevo decreto del Gobierno obligaba a mirarlo de frente.
+
+279
+00:18:29,668 --> 00:18:31,536
+Presidente, no va.
+
+280
+00:18:32,536 --> 00:18:35,046
+Trece de abril de dos mil doce.
+
+281
+00:18:35,096 --> 00:18:38,666
+Eso es lo que Celma recordó haberle dicho a Rato.
+
+282
+00:18:38,716 --> 00:18:43,326
+Cuatro días después, el Banco de España aprueba el plan de saneamiento que presenta
+
+283
+00:18:43,376 --> 00:18:44,206
+Rato.
+
+284
+00:18:44,256 --> 00:18:46,986
+Pero Deloitte sigue sin dar su visto bueno.
+
+285
+00:18:47,036 --> 00:18:52,046
+Y el treinta de abril, último día del plazo, el grupo envía sus cuentas a la Comisión
+
+286
+00:18:52,096 --> 00:18:54,166
+Nacional del Mercado de Valores.
+
+287
+00:18:54,216 --> 00:18:56,295
+Sin la firma del auditor.
+
+288
+00:18:57,195 --> 00:19:00,685
+En el sector financiero, aquello suena a alarma.
+
+289
+00:19:00,735 --> 00:19:05,245
+Presentar las cuentas sin el informe del auditor no es lo normal en un banco que
+
+290
+00:19:05,295 --> 00:19:06,705
+cotiza en el Ibex.
+
+291
+00:19:06,755 --> 00:19:12,512
+Las llamadas entre Bankia, el Banco de España y el Ministerio de Economía se multiplican.
+
+292
+00:19:13,512 --> 00:19:16,954
+Al castillo de naipes le quedaba una semana en pie.
+
+293
+00:19:18,454 --> 00:19:24,144
+Y si este documental te está atrapando, es buen momento para suscribirte a DocuVox.
+
+294
+00:19:24,194 --> 00:19:28,664
+Porque lo que viene ahora es la semana más vertiginosa de la historia de la banca
+
+295
+00:19:28,714 --> 00:19:29,514
+española.
+
+296
+00:19:42,988 --> 00:19:46,038
+Lunes, siete de mayo de dos mil doce.
+
+297
+00:19:46,088 --> 00:19:48,618
+A media mañana llega un comunicado.
+
+298
+00:19:48,668 --> 00:19:52,841
+Rodrigo Rato dimite como presidente de Bankia y de BFA.
+
+299
+00:19:53,740 --> 00:19:58,631
+En su nota, Rato explica que su salida es lo más conveniente para esta entidad.
+
+300
+00:19:58,681 --> 00:20:01,111
+Y propone a su sucesor:
+
+301
+00:20:01,161 --> 00:20:06,371
+José Ignacio Goirigolzarri, el que había sido consejero delegado del BBVA durante
+
+302
+00:20:06,421 --> 00:20:07,506
+años.
+
+303
+00:20:08,506 --> 00:20:13,576
+Ese mismo día se sabe que el Gobierno y el Banco de España preparan una inyección
+
+304
+00:20:13,626 --> 00:20:17,336
+de entre siete mil y diez mil millones de euros.
+
+305
+00:20:17,386 --> 00:20:20,054
+La cifra se quedará muy corta.
+
+306
+00:20:21,554 --> 00:20:23,944
+Miércoles, nueve de mayo.
+
+307
+00:20:23,994 --> 00:20:26,824
+Goirigolzarri toma posesión.
+
+308
+00:20:26,874 --> 00:20:31,644
+Esa misma tarde, el consejo de BFA pide al Estado que convierta en acciones los
+
+309
+00:20:31,694 --> 00:20:35,904
+cuatro mil cuatrocientos sesenta y cinco millones que le había prestado.
+
+310
+00:20:35,954 --> 00:20:37,224
+Traducido:
+
+311
+00:20:37,274 --> 00:20:39,864
+BFA pasa a ser del Estado.
+
+312
+00:20:39,914 --> 00:20:42,493
+Bankia queda nacionalizada de hecho.
+
+313
+00:20:43,393 --> 00:20:46,883
+En tres días, la acción pierde un trece por ciento.
+
+314
+00:20:46,932 --> 00:20:52,442
+Y los clientes empiezan a hacer la pregunta que ningún banco quiere oír:
+
+315
+00:20:52,492 --> 00:20:54,310
+¿está seguro mi dinero?
+
+316
+00:20:55,211 --> 00:20:59,260
+El Gobierno responde que los depósitos están garantizados.
+
+317
+00:20:59,310 --> 00:21:00,721
+Y es cierto:
+
+318
+00:21:00,770 --> 00:21:04,480
+quien tenía una cuenta o un depósito no perdió nada.
+
+319
+00:21:04,530 --> 00:21:09,024
+Pero los accionistas y los que tenían preferentes eran otra historia.
+
+320
+00:21:10,023 --> 00:21:12,213
+Y llegamos a donde empezamos.
+
+321
+00:21:12,263 --> 00:21:14,653
+Viernes, veinticinco de mayo.
+
+322
+00:21:14,703 --> 00:21:18,993
+Por la mañana, la Comisión Nacional del Mercado de Valores suspende la cotización
+
+323
+00:21:19,043 --> 00:21:20,213
+de Bankia.
+
+324
+00:21:20,263 --> 00:21:23,153
+A las cuatro y media se reúne el consejo.
+
+325
+00:21:23,203 --> 00:21:26,366
+Y Goirigolzarri pone la cifra sobre la mesa.
+
+326
+00:21:27,266 --> 00:21:31,176
+Diecinueve mil millones para BFA y Bankia.
+
+327
+00:21:31,226 --> 00:21:36,288
+Sumados a los préstamos anteriores, las ayudas públicas acabarán en veintidós mil
+
+328
+00:21:36,338 --> 00:21:40,056
+cuatrocientos veinticuatro millones de euros.
+
+329
+00:21:40,106 --> 00:21:43,456
+Y las cuentas de dos mil once, rehechas:
+
+330
+00:21:43,506 --> 00:21:47,936
+pérdidas de dos mil novecientos setenta y nueve millones en Bankia.
+
+331
+00:21:47,986 --> 00:21:51,260
+Tres mil trescientos dieciocho en BFA.
+
+332
+00:21:52,160 --> 00:21:58,190
+¿Cómo se pasa de ganar trescientos nueve millones a perder casi tres mil?
+
+333
+00:21:58,240 --> 00:22:02,830
+El nuevo equipo revisa los préstamos y los inmuebles uno por uno.
+
+334
+00:22:02,880 --> 00:22:08,410
+Y decide apartar ocho mil quinientos millones en provisiones, por encima incluso
+
+335
+00:22:08,460 --> 00:22:11,785
+de lo que exigían los dos decretos del Gobierno.
+
+336
+00:22:12,785 --> 00:22:14,775
+Para hacerse una idea:
+
+337
+00:22:14,825 --> 00:22:19,535
+con veintidós mil millones se podría pagar el sueldo de un año de casi un millón
+
+338
+00:22:19,585 --> 00:22:22,015
+de trabajadores en España.
+
+339
+00:22:22,065 --> 00:22:27,835
+Las pérdidas de BFA fueron las segundas mayores de la historia de la banca española,
+
+340
+00:22:27,885 --> 00:22:32,044
+solo por detrás de las de Banesto en mil novecientos noventa y tres.
+
+341
+00:22:33,544 --> 00:22:38,434
+Esa noche, el rescate de un banco dejó de ser un problema de un banco.
+
+342
+00:22:38,484 --> 00:22:41,234
+Pasó a ser un problema de un país.
+
+343
+00:22:41,284 --> 00:22:46,254
+Porque si la cuarta entidad de España necesitaba diecinueve mil millones, ¿cuánto
+
+344
+00:22:46,304 --> 00:22:48,234
+necesitaban las demás?
+
+345
+00:22:48,284 --> 00:22:53,082
+Esa era la pregunta que se hacían en Londres, en Fráncfort y en Washington.
+
+346
+00:22:53,982 --> 00:22:58,353
+El lunes, cuando Bankia vuelve a cotizar, la acción se hunde:
+
+347
+00:22:58,403 --> 00:23:02,893
+llega a caer cerca de un veinticinco por ciento en los primeros minutos.
+
+348
+00:23:02,942 --> 00:23:07,313
+La prima de riesgo de España, lo que el país paga de más que Alemania por pedir
+
+349
+00:23:07,363 --> 00:23:10,512
+prestado, supera los quinientos puntos.
+
+350
+00:23:10,562 --> 00:23:15,033
+Y ese mismo lunes, el presidente del Gobierno comparece ante la prensa.
+
+351
+00:23:15,933 --> 00:23:19,312
+No va a haber ningún rescate de la banca española.
+
+352
+00:23:20,313 --> 00:23:26,043
+Doce días después, el sábado nueve de junio, el Eurogrupo acuerda prestar a España
+
+353
+00:23:26,093 --> 00:23:30,343
+hasta cien mil millones de euros para sanear sus bancos.
+
+354
+00:23:30,393 --> 00:23:33,463
+El Gobierno lo llama línea de crédito.
+
+355
+00:23:33,513 --> 00:23:36,385
+En toda Europa se le llama rescate.
+
+356
+00:23:37,285 --> 00:23:40,999
+El crédito es a la banca y lo va a pagar la banca.
+
+357
+00:23:42,000 --> 00:23:48,049
+Al día siguiente, el domingo diez de junio, Rajoy viaja a Gdansk, en Polonia, para
+
+358
+00:23:48,099 --> 00:23:52,269
+ver a la selección española debutar en la Eurocopa contra Italia.
+
+359
+00:23:52,319 --> 00:23:57,210
+La imagen del presidente en el palco, un día después de pedir ayuda para la banca,
+
+360
+00:23:57,259 --> 00:23:58,701
+da la vuelta a Europa.
+
+361
+00:23:59,602 --> 00:24:05,592
+Antes, el veintiuno de junio, dos consultoras independientes, Oliver Wyman y Roland
+
+362
+00:24:05,642 --> 00:24:11,892
+Berger, habían calculado lo que necesitaba toda la banca española en el peor escenario:
+
+363
+00:24:11,942 --> 00:24:15,446
+hasta sesenta y dos mil millones de euros.
+
+364
+00:24:16,446 --> 00:24:21,856
+Y el veinte de julio de dos mil doce, el Eurogrupo aprueba definitivamente el memorando
+
+365
+00:24:21,906 --> 00:24:24,416
+del rescate bancario español.
+
+366
+00:24:24,466 --> 00:24:27,076
+La fecha no es casualidad del guion.
+
+367
+00:24:27,126 --> 00:24:32,000
+Es un año exacto, día por día, después de que sonara la campana de Bankia.
+
+368
+00:24:32,900 --> 00:24:40,290
+De ese préstamo europeo, al grupo BFA-Bankia le tocaron casi dieciocho mil millones.
+
+369
+00:24:40,340 --> 00:24:42,391
+El mayor pedazo de todos.
+
+370
+00:24:43,291 --> 00:24:47,061
+Ese verano, el euro está al borde del abismo.
+
+371
+00:24:47,111 --> 00:24:53,321
+A finales de julio, la prima de riesgo española supera los seiscientos puntos básicos.
+
+372
+00:24:53,371 --> 00:24:56,761
+Es el récord desde que existe la moneda única.
+
+373
+00:24:56,811 --> 00:24:59,658
+Financiar al país cuesta más que nunca.
+
+374
+00:25:00,658 --> 00:25:05,688
+Y entonces, el veintiséis de julio, en Londres, el presidente del Banco Central
+
+375
+00:25:05,738 --> 00:25:11,208
+Europeo, Mario Draghi, pronuncia una frase de solo tres palabras:
+
+376
+00:25:11,258 --> 00:25:13,168
+whatever it takes.
+
+377
+00:25:13,218 --> 00:25:16,749
+Hará lo que sea necesario para salvar el euro.
+
+378
+00:25:16,798 --> 00:25:18,648
+Los mercados le creen.
+
+379
+00:25:18,698 --> 00:25:20,828
+La prima empieza a bajar.
+
+380
+00:25:20,878 --> 00:25:24,064
+Pero para los accionistas de Bankia ya es tarde.
+
+381
+00:25:25,564 --> 00:25:28,594
+Faltaba saber quién iba a pagar de verdad.
+
+382
+00:25:28,644 --> 00:25:32,154
+Y la respuesta estaba en las oficinas de siempre.
+
+383
+00:25:32,204 --> 00:25:37,269
+En los mismos mostradores donde, un año antes, se habían vendido las acciones.
+
+384
+00:25:56,770 --> 00:26:01,500
+Para entender quién pagó, hay que hablar de un producto con nombre amable:
+
+385
+00:26:01,550 --> 00:26:04,280
+las participaciones preferentes.
+
+386
+00:26:04,330 --> 00:26:08,980
+Durante años, las cajas que formaron Bankia las vendieron en sus oficinas como si
+
+387
+00:26:09,030 --> 00:26:11,040
+fueran depósitos a plazo.
+
+388
+00:26:11,090 --> 00:26:12,620
+Pero no lo eran.
+
+389
+00:26:13,520 --> 00:26:17,250
+Las preferentes eran deuda perpetua de la entidad.
+
+390
+00:26:17,300 --> 00:26:20,790
+Sin fecha de devolución y sin garantía.
+
+391
+00:26:20,840 --> 00:26:25,391
+Los afectados por las preferentes y la deuda subordinada de las cajas de Bankia
+
+392
+00:26:25,441 --> 00:26:28,001
+rondaban los trescientos mil.
+
+393
+00:26:29,001 --> 00:26:30,872
+Pongamos un ejemplo.
+
+394
+00:26:30,922 --> 00:26:35,632
+Una jubilada con veinte mil euros ahorrados va a su oficina de siempre.
+
+395
+00:26:35,682 --> 00:26:39,172
+Le ofrecen un producto que paga más que un depósito.
+
+396
+00:26:39,221 --> 00:26:40,451
+Firma.
+
+397
+00:26:40,501 --> 00:26:45,711
+Lo que no le explican es que, si la entidad se hunde, ese dinero puede quedar atrapado
+
+398
+00:26:45,761 --> 00:26:47,612
+sin fecha de salida.
+
+399
+00:26:47,662 --> 00:26:52,517
+Eso es lo que descubrieron, de golpe, cientos de miles de familias.
+
+400
+00:26:54,016 --> 00:26:58,086
+En los juzgados aparecieron historias difíciles de creer.
+
+401
+00:26:58,136 --> 00:27:03,126
+Clientes que no sabían leer ni escribir y que habían firmado igualmente.
+
+402
+00:27:03,176 --> 00:27:07,086
+Personas de más de ochenta años con un producto perpetuo.
+
+403
+00:27:07,136 --> 00:27:11,968
+Ahorros de toda una vida, atrapados en un papel que no se podía vender.
+
+404
+00:27:13,468 --> 00:27:18,798
+Como condición del rescate europeo, Bruselas impone en dos mil trece que esos inversores
+
+405
+00:27:18,848 --> 00:27:20,638
+asuman pérdidas.
+
+406
+00:27:20,688 --> 00:27:25,638
+Sus preferentes se convierten a la fuerza en acciones de Bankia, con una quita.
+
+407
+00:27:25,688 --> 00:27:31,058
+Y por las calles de media España empieza a verse algo que no se había visto nunca:
+
+408
+00:27:31,108 --> 00:27:33,707
+jubilados manifestándose frente a los bancos.
+
+409
+00:27:35,207 --> 00:27:39,457
+Se abre un arbitraje para quienes demuestren que se les vendió un producto que no
+
+410
+00:27:39,507 --> 00:27:40,717
+entendían.
+
+411
+00:27:40,767 --> 00:27:44,737
+Se presentan más de ciento ochenta mil solicitudes.
+
+412
+00:27:44,787 --> 00:27:47,937
+Unas ciento treinta y siete mil son aceptadas.
+
+413
+00:27:47,987 --> 00:27:50,454
+El resto, a los tribunales.
+
+414
+00:27:51,355 --> 00:27:54,005
+Bankia nunca emitió preferentes:
+
+415
+00:27:54,055 --> 00:27:56,065
+las heredó de las cajas.
+
+416
+00:27:56,115 --> 00:27:58,845
+Pero fue Bankia quien tuvo que pagar.
+
+417
+00:27:58,894 --> 00:28:04,125
+Entre arbitrajes y sentencias, acabó devolviendo unos dos mil ochocientos millones
+
+418
+00:28:04,174 --> 00:28:06,360
+de euros a sus titulares.
+
+419
+00:28:07,259 --> 00:28:11,730
+Y los accionistas de la salida a bolsa lo ven desde la primera fila.
+
+420
+00:28:11,779 --> 00:28:17,890
+En abril de dos mil trece, el FROB reduce el valor nominal de cada acción a un céntimo
+
+421
+00:28:17,940 --> 00:28:22,049
+y agrupa cien acciones antiguas en una nueva.
+
+422
+00:28:22,099 --> 00:28:27,789
+Justo antes, en marzo, la acción comprada a tres con setenta y cinco rondaba los
+
+423
+00:28:27,839 --> 00:28:29,730
+quince céntimos.
+
+424
+00:28:29,779 --> 00:28:33,125
+Una pérdida del noventa y seis por ciento.
+
+425
+00:28:34,125 --> 00:28:39,375
+Mil euros invertidos aquel veinte de julio se habían convertido en unos cuarenta.
+
+426
+00:28:39,424 --> 00:28:42,495
+Para muchas familias no era dinero para especular.
+
+427
+00:28:42,545 --> 00:28:44,673
+Eran los ahorros de una vida.
+
+428
+00:28:45,572 --> 00:28:49,382
+Mientras tanto, el banco se transforma por dentro.
+
+429
+00:28:49,432 --> 00:28:54,562
+En dos mil doce el grupo pierde unos diecinueve mil millones de euros.
+
+430
+00:28:54,612 --> 00:29:00,358
+Traspasa a la Sareb, el llamado banco malo, diecinueve mil trescientos cuarenta
+
+431
+00:29:00,408 --> 00:29:04,382
+y siete millones en pisos, suelo y préstamos.
+
+432
+00:29:04,432 --> 00:29:10,182
+Y su plan anuncia más de seis mil despidos, el veintiocho por ciento de la plantilla,
+
+433
+00:29:10,232 --> 00:29:13,785
+y el cierre de unas mil cien oficinas.
+
+434
+00:29:14,785 --> 00:29:17,435
+Goirigolzarri tiene un encargo:
+
+435
+00:29:17,485 --> 00:29:22,515
+que Bankia sobreviva para que el Estado pueda recuperar algo algún día.
+
+436
+00:29:22,565 --> 00:29:26,498
+Muchos analistas de la época no le daban ninguna posibilidad.
+
+437
+00:29:27,999 --> 00:29:31,068
+Pero la pregunta de fondo seguía en el aire.
+
+438
+00:29:31,118 --> 00:29:36,369
+Si las cuentas con las que Bankia salió a bolsa no reflejaban la realidad, ¿alguien
+
+439
+00:29:36,419 --> 00:29:37,629
+lo sabía?
+
+440
+00:29:37,679 --> 00:29:40,030
+¿Alguien iba a responder por ello?
+
+441
+00:29:41,530 --> 00:29:44,881
+Antes de seguir, una pregunta para ti.
+
+442
+00:29:44,931 --> 00:29:48,500
+¿Quién crees que debería haber respondido ante la justicia?
+
+443
+00:29:48,550 --> 00:29:50,560
+Déjalo en los comentarios.
+
+444
+00:29:50,610 --> 00:29:55,001
+Porque lo que decidieron los tribunales sorprendió a casi todo el mundo.
+
+445
+00:30:08,501 --> 00:30:10,451
+Junio de dos mil doce.
+
+446
+00:30:10,501 --> 00:30:16,071
+Un partido político, UPyD, presenta una querella ante la Audiencia Nacional por
+
+447
+00:30:16,121 --> 00:30:17,751
+la salida a bolsa.
+
+448
+00:30:17,801 --> 00:30:22,571
+Poco después se suma una iniciativa ciudadana financiada con pequeñas donaciones,
+
+449
+00:30:22,621 --> 00:30:25,811
+el grupo conocido como Quince eme pa Rato.
+
+450
+00:30:25,861 --> 00:30:30,971
+El juez Fernando Andreu imputa a Rato y a una treintena de antiguos consejeros.
+
+451
+00:30:32,471 --> 00:30:35,901
+Para la acusación, la idea era sencilla.
+
+452
+00:30:35,951 --> 00:30:40,221
+Si las cuentas de dos mil once tuvieron que rehacerse con casi tres mil millones
+
+453
+00:30:40,270 --> 00:30:45,421
+de pérdidas pocas semanas después, esas pérdidas ya estaban ahí cuando se vendieron
+
+454
+00:30:45,471 --> 00:30:47,121
+las acciones.
+
+455
+00:30:47,171 --> 00:30:49,941
+Para las defensas, todo lo contrario:
+
+456
+00:30:49,990 --> 00:30:54,961
+las cuentas cumplían las normas, estaban supervisadas, y lo que hundió al banco
+
+457
+00:30:55,010 --> 00:30:58,547
+fue la crisis y las nuevas exigencias del Gobierno.
+
+458
+00:30:59,447 --> 00:31:01,817
+Diciembre de dos mil catorce.
+
+459
+00:31:01,867 --> 00:31:06,657
+Dos inspectores del Banco de España, nombrados peritos por el juez, entregan su
+
+460
+00:31:06,707 --> 00:31:07,737
+informe.
+
+461
+00:31:07,787 --> 00:31:12,278
+Concluyen que las cuentas de dos mil once no reflejaban la imagen fiel de la entidad
+
+462
+00:31:12,327 --> 00:31:16,524
+y que parte de los deterioros eran anteriores a la reformulación.
+
+463
+00:31:17,524 --> 00:31:22,514
+Mientras la vía penal avanza despacio, miles de pequeños accionistas eligen otro
+
+464
+00:31:22,564 --> 00:31:23,674
+camino:
+
+465
+00:31:23,724 --> 00:31:25,414
+la vía civil.
+
+466
+00:31:25,464 --> 00:31:29,294
+Demandan a Bankia para que se anule la compra de sus acciones.
+
+467
+00:31:29,344 --> 00:31:33,488
+Y en enero de dos mil dieciséis llega el golpe definitivo.
+
+468
+00:31:34,388 --> 00:31:39,118
+El Pleno de la Sala de lo Civil del Tribunal Supremo confirma que el folleto contenía
+
+469
+00:31:39,168 --> 00:31:41,278
+graves inexactitudes.
+
+470
+00:31:41,328 --> 00:31:46,038
+Según el alto tribunal, los pequeños inversores compraron valores de una entidad
+
+471
+00:31:46,088 --> 00:31:51,175
+al borde de la insolvencia, con pérdidas multimillonarias no confesadas.
+
+472
+00:31:52,076 --> 00:31:54,907
+Y añade algo que apunta más arriba.
+
+473
+00:31:54,957 --> 00:31:59,326
+Los pequeños inversores no tenían medios para conocer la verdadera situación del
+
+474
+00:31:59,376 --> 00:32:00,427
+banco.
+
+475
+00:32:00,477 --> 00:32:05,086
+Y el folleto había sido autorizado por un organismo público, lo que contribuyó a
+
+476
+00:32:05,136 --> 00:32:07,200
+generar confianza en ellos.
+
+477
+00:32:08,098 --> 00:32:13,088
+Bankia decide devolver a todos los minoristas de la salida a bolsa su inversión
+
+478
+00:32:13,138 --> 00:32:17,749
+íntegra, más un uno por ciento de interés anual.
+
+479
+00:32:17,798 --> 00:32:23,387
+En pocos meses ya ha devuelto unos mil doscientos millones de euros a más de ciento
+
+480
+00:32:23,437 --> 00:32:25,278
+noventa mil personas.
+
+481
+00:32:26,278 --> 00:32:29,688
+Pero hay un detalle que muchos pasaron por alto.
+
+482
+00:32:29,738 --> 00:32:34,668
+El dinero para devolver esas acciones salió de un banco que ya era, en su mayoría,
+
+483
+00:32:34,718 --> 00:32:36,008
+del Estado.
+
+484
+00:32:36,057 --> 00:32:40,050
+Es decir, en buena parte, de todos los contribuyentes.
+
+485
+00:32:41,550 --> 00:32:45,600
+Y en medio de todo esto, estalla otro escándalo.
+
+486
+00:32:45,650 --> 00:32:48,060
+Otoño de dos mil catorce.
+
+487
+00:32:48,110 --> 00:32:52,800
+Se descubre que durante años decenas de consejeros y directivos de Caja Madrid y
+
+488
+00:32:52,850 --> 00:32:58,360
+Bankia usaron tarjetas de crédito que no aparecían en la contabilidad oficial.
+
+489
+00:32:58,410 --> 00:33:00,780
+Las llamarán tarjetas black.
+
+490
+00:33:01,682 --> 00:33:05,292
+Sesenta y cinco condenados en dos mil diecisiete.
+
+491
+00:33:05,342 --> 00:33:10,451
+Unos doce millones de euros gastados entre dos mil tres y dos mil doce.
+
+492
+00:33:10,501 --> 00:33:14,772
+Joyas, viajes, restaurantes, ropa.
+
+493
+00:33:14,822 --> 00:33:20,192
+Había usuarios propuestos por el Partido Popular, por el PSOE, por Izquierda Unida,
+
+494
+00:33:20,241 --> 00:33:22,711
+por los sindicatos y por la patronal.
+
+495
+00:33:23,610 --> 00:33:29,024
+Según la sentencia, los consejeros propuestos por el PP gastaron más de dos coma
+
+496
+00:33:29,074 --> 00:33:30,760
+nueve millones.
+
+497
+00:33:30,810 --> 00:33:34,120
+Los propuestos por el PSOE, uno coma tres.
+
+498
+00:33:34,170 --> 00:33:37,900
+Los de Izquierda Unida, más de ochocientos mil euros.
+
+499
+00:33:37,950 --> 00:33:42,372
+El resto, directivos y representantes de otras organizaciones.
+
+500
+00:33:43,371 --> 00:33:48,741
+Miguel Blesa, el antecesor de Rato en Caja Madrid, es condenado a seis años.
+
+501
+00:33:48,791 --> 00:33:53,141
+Fallecerá en dos mil diecisiete, antes de que su condena sea firme.
+
+502
+00:33:53,191 --> 00:33:55,641
+Rato, a cuatro años y medio.
+
+503
+00:33:55,691 --> 00:33:58,898
+El Supremo lo confirma en octubre de dos mil dieciocho.
+
+504
+00:33:59,798 --> 00:34:04,989
+De los doce millones, nueve coma tres se gastaron en la etapa de Blesa.
+
+505
+00:34:05,038 --> 00:34:08,608
+Dos coma seis, cuando el presidente era Rato.
+
+506
+00:34:08,659 --> 00:34:14,075
+Él mismo, según la sentencia, gastó con su tarjeta casi cien mil euros.
+
+507
+00:34:15,076 --> 00:34:18,165
+Veinticinco de octubre de dos mil dieciocho.
+
+508
+00:34:18,215 --> 00:34:21,205
+Prisión de Soto del Real, Madrid.
+
+509
+00:34:21,255 --> 00:34:25,525
+El hombre que había dirigido el Fondo Monetario Internacional se para ante las cámaras
+
+510
+00:34:25,576 --> 00:34:26,775
+antes de entrar.
+
+511
+00:34:28,275 --> 00:34:33,164
+De vicepresidente del Gobierno a director del Fondo Monetario Internacional.
+
+512
+00:34:33,215 --> 00:34:36,764
+De ahí, a presidente del cuarto banco de España.
+
+513
+00:34:36,815 --> 00:34:39,184
+Y ahora, a una celda.
+
+514
+00:34:39,235 --> 00:34:43,559
+Pocas caídas en la historia reciente de España han sido tan largas.
+
+515
+00:34:44,459 --> 00:34:49,528
+Pido perdón a la sociedad y a las personas que se hayan podido sentir decepcionadas
+
+516
+00:34:49,579 --> 00:34:50,966
+o afectadas.
+
+517
+00:34:51,966 --> 00:34:54,976
+Ese perdón era por las tarjetas.
+
+518
+00:34:55,026 --> 00:34:59,655
+Por la salida a bolsa, Rato siempre defendió su inocencia.
+
+519
+00:34:59,706 --> 00:35:05,396
+Y ese juicio, el gran juicio de Bankia, empieza en noviembre de dos mil dieciocho,
+
+520
+00:35:05,446 --> 00:35:09,476
+en la sede de la Audiencia Nacional en San Fernando de Henares.
+
+521
+00:35:09,526 --> 00:35:11,615
+Treinta y cuatro acusados.
+
+522
+00:35:11,666 --> 00:35:16,445
+La Fiscalía Anticorrupción pide para Rato ocho años y medio de cárcel.
+
+523
+00:35:17,945 --> 00:35:22,574
+Por la sala desfilan supervisores, auditores e inspectores.
+
+524
+00:35:22,625 --> 00:35:26,994
+Celma, el auditor, repite ante el tribunal aquella frase:
+
+525
+00:35:27,045 --> 00:35:29,235
+presidente, no va.
+
+526
+00:35:29,285 --> 00:35:34,235
+Y Casaus, el inspector de los correos, describe la salida a bolsa con una imagen
+
+527
+00:35:34,285 --> 00:35:35,726
+muy gráfica.
+
+528
+00:35:36,626 --> 00:35:41,615
+Metes el chute, parece que cumples el capital, pero es un banco que destruía valor
+
+529
+00:35:41,666 --> 00:35:42,789
+cada día.
+
+530
+00:35:43,689 --> 00:35:49,159
+El exgobernador del Banco de España Miguel Ángel Fernández Ordóñez niega haber recibido
+
+531
+00:35:49,209 --> 00:35:50,679
+aquellos correos.
+
+532
+00:35:50,729 --> 00:35:55,579
+Y Javier Aríztegui, que había sido subgobernador, defiende ante el tribunal que
+
+533
+00:35:55,629 --> 00:36:01,065
+Bankia era un banco importante, con negocio en toda España, que tenía futuro.
+
+534
+00:36:02,065 --> 00:36:05,754
+El juicio termina en octubre de dos mil diecinueve.
+
+535
+00:36:05,804 --> 00:36:09,154
+La sentencia tarda casi un año en llegar.
+
+536
+00:36:09,204 --> 00:36:12,094
+Veintinueve de septiembre de dos mil veinte.
+
+537
+00:36:12,144 --> 00:36:15,714
+La Audiencia Nacional dicta sentencia.
+
+538
+00:36:15,764 --> 00:36:17,654
+Cuatrocientas cuarenta y dos páginas.
+
+539
+00:36:17,704 --> 00:36:20,999
+Y un fallo que sorprende a casi todo el país.
+
+540
+00:36:24,499 --> 00:36:25,909
+Absueltos.
+
+541
+00:36:25,959 --> 00:36:27,509
+Los treinta y cuatro.
+
+542
+00:36:27,559 --> 00:36:32,607
+Rato, Olivas, el auditor Celma y todos los consejeros.
+
+543
+00:36:33,507 --> 00:36:39,116
+El tribunal destaca que la salida a bolsa contó con la aprobación de todos los supervisores:
+
+544
+00:36:39,166 --> 00:36:44,416
+el Banco de España, la Comisión Nacional del Mercado de Valores, el FROB y la Autoridad
+
+545
+00:36:44,467 --> 00:36:46,176
+Bancaria Europea.
+
+546
+00:36:46,226 --> 00:36:51,376
+Y sobre Rato escribe que la descripción de hechos concretos y suficientemente acreditados
+
+547
+00:36:51,427 --> 00:36:53,998
+contra él brilla por su ausencia.
+
+548
+00:36:54,998 --> 00:37:00,567
+Dos años después, en octubre de dos mil veintidós, el Tribunal Supremo confirma
+
+549
+00:37:00,617 --> 00:37:02,288
+las absoluciones.
+
+550
+00:37:02,338 --> 00:37:03,987
+Ya es firme.
+
+551
+00:37:04,038 --> 00:37:08,228
+Nadie ha sido condenado penalmente por la salida a bolsa de Bankia.
+
+552
+00:37:09,128 --> 00:37:13,557
+El Supremo escribe que no advierte error palmario alguno en el razonamiento de la
+
+553
+00:37:13,608 --> 00:37:14,498
+Audiencia.
+
+554
+00:37:14,548 --> 00:37:18,896
+Aunque admite que son posibles otras valoraciones de los mismos hechos.
+
+555
+00:37:19,796 --> 00:37:24,586
+Ya en dos mil veinte, al conocer la absolución, la plataforma ciudadana que había
+
+556
+00:37:24,636 --> 00:37:29,526
+impulsado la causa reaccionó con un comunicado que pedía un cambio en las leyes
+
+557
+00:37:29,576 --> 00:37:33,746
+y resumía el sentimiento de muchos afectados en una frase:
+
+558
+00:37:33,796 --> 00:37:36,225
+nunca más un caso Bankia.
+
+559
+00:37:37,225 --> 00:37:40,914
+Y así queda una paradoja difícil de explicar.
+
+560
+00:37:40,965 --> 00:37:45,615
+La justicia civil dijo que el folleto engañó a los pequeños inversores y obligó
+
+561
+00:37:45,665 --> 00:37:47,555
+a devolverles el dinero.
+
+562
+00:37:47,605 --> 00:37:52,115
+La justicia penal dijo que no se probó que nadie cometiera un delito.
+
+563
+00:37:52,165 --> 00:37:54,414
+Las dos sentencias son firmes.
+
+564
+00:37:54,465 --> 00:37:56,254
+Y las dos conviven.
+
+565
+00:37:57,754 --> 00:38:02,504
+Y la historia de Rato con Bankia todavía guardaba un capítulo más.
+
+566
+00:38:02,554 --> 00:38:06,234
+¿Recuerdas la gran campaña publicitaria de la salida a bolsa?
+
+567
+00:38:07,134 --> 00:38:09,803
+Diciembre de dos mil veinticuatro.
+
+568
+00:38:09,853 --> 00:38:14,844
+La Audiencia Provincial de Madrid condena a Rodrigo Rato a cuatro años, nueve meses
+
+569
+00:38:14,894 --> 00:38:20,523
+y un día de prisión por tres delitos fiscales, blanqueo de capitales y corrupción
+
+570
+00:38:20,574 --> 00:38:22,323
+entre particulares.
+
+571
+00:38:22,373 --> 00:38:24,783
+Entre los hechos que da por probados:
+
+572
+00:38:24,833 --> 00:38:30,163
+que impuso que Bankia contratara a dos agencias de publicidad, Publicis y Zenith,
+
+573
+00:38:30,213 --> 00:38:31,880
+a cambio de comisiones.
+
+574
+00:38:32,881 --> 00:38:35,831
+La Fiscalía pedía muchos más años.
+
+575
+00:38:35,881 --> 00:38:40,791
+Rato anunció que recurriría la sentencia ante el Tribunal Supremo, por lo que no
+
+576
+00:38:40,841 --> 00:38:44,199
+es firme mientras el alto tribunal no se pronuncie.
+
+577
+00:38:57,699 --> 00:38:58,499
+¿Y Bankia?
+
+578
+00:38:58,338 --> 00:39:02,449
+Contra casi todos los pronósticos, sobrevivió.
+
+579
+00:39:02,499 --> 00:39:07,388
+Con Goirigolzarri al frente volvió a dar beneficios y empezó a devolver dividendos
+
+580
+00:39:07,438 --> 00:39:10,407
+a su principal accionista, el Estado.
+
+581
+00:39:11,307 --> 00:39:17,356
+En dos mil dieciocho absorbe a otra entidad rescatada, Banco Mare Nostrum.
+
+582
+00:39:17,407 --> 00:39:23,158
+Y en dos mil veinte, en plena pandemia, llega la noticia que cierra el círculo.
+
+583
+00:39:24,158 --> 00:39:27,028
+En septiembre de dos mil veinte se anuncia:
+
+584
+00:39:27,078 --> 00:39:30,008
+CaixaBank absorbe a Bankia.
+
+585
+00:39:30,058 --> 00:39:35,068
+El veintiséis de marzo de dos mil veintiuno, la acción cotiza por última vez.
+
+586
+00:39:35,118 --> 00:39:39,349
+Tres mil quinientos treinta y siete días después de aquella campana.
+
+587
+00:39:40,249 --> 00:39:45,398
+El Estado se queda con algo más del dieciséis por ciento del nuevo CaixaBank.
+
+588
+00:39:45,449 --> 00:39:48,398
+Ha cobrado dividendos durante estos años.
+
+589
+00:39:48,449 --> 00:39:53,798
+Pero de los más de veintidós mil millones que puso en Bankia, la mayor parte sigue
+
+590
+00:39:53,849 --> 00:39:55,398
+sin recuperarse.
+
+591
+00:39:55,449 --> 00:40:00,438
+Y el propio Gobierno ha reconocido que se está lejos de recuperarlo.
+
+592
+00:40:00,489 --> 00:40:05,192
+Goirigolzarri, por su parte, pasa a presidir el nuevo gigante.
+
+593
+00:40:06,092 --> 00:40:10,481
+La cuenta del rescate, en cambio, nunca se cerró.
+
+594
+00:40:10,532 --> 00:40:15,382
+En dos mil catorce, el FROB vendió un siete y medio por ciento de Bankia por unos
+
+595
+00:40:15,432 --> 00:40:17,862
+mil trescientos millones.
+
+596
+00:40:17,912 --> 00:40:23,161
+En dos mil diecisiete, otro siete por ciento por unos ochocientos dieciocho.
+
+597
+00:40:23,211 --> 00:40:27,347
+Muy lejos de los más de veintidós mil millones que se metieron.
+
+598
+00:40:28,347 --> 00:40:33,976
+Y ese mismo año, el Banco de España hizo su propio cálculo para todo el sector.
+
+599
+00:40:34,027 --> 00:40:38,797
+De todo el dinero público que se puso en la banca española durante la crisis, unos
+
+600
+00:40:38,847 --> 00:40:42,137
+sesenta mil millones se daban ya por perdidos.
+
+601
+00:40:42,187 --> 00:40:44,150
+Lo pagaron los contribuyentes.
+
+602
+00:40:45,650 --> 00:40:47,480
+Recapitulemos.
+
+603
+00:40:47,530 --> 00:40:52,039
+Siete cajas se unieron porque no podían sobrevivir solas.
+
+604
+00:40:52,090 --> 00:40:56,940
+Un banco salió a bolsa con el aval de todos los supervisores.
+
+605
+00:40:56,990 --> 00:41:00,000
+Trescientas cuarenta y siete mil personas compraron.
+
+606
+00:41:00,050 --> 00:41:04,880
+Diez meses después, el Estado tuvo que poner veintidós mil millones.
+
+607
+00:41:04,930 --> 00:41:09,319
+Los tribunales civiles devolvieron el dinero a los pequeños accionistas.
+
+608
+00:41:09,369 --> 00:41:12,284
+Los penales no condenaron a nadie.
+
+609
+00:41:13,784 --> 00:41:15,853
+Quedan las preguntas.
+
+610
+00:41:15,903 --> 00:41:18,253
+¿Por qué se ignoraron los avisos?
+
+611
+00:41:18,304 --> 00:41:23,534
+¿Por qué nadie paró una operación que un inspector ya llamaba bombona de oxígeno?
+
+612
+00:41:23,584 --> 00:41:28,514
+¿Y por qué, cuando todo se vino abajo, la factura acabó repartida entre los ahorradores
+
+613
+00:41:28,564 --> 00:41:30,088
+y los contribuyentes?
+
+614
+00:41:31,588 --> 00:41:35,657
+Hay una lección que sirve para cualquiera que tenga unos ahorros.
+
+615
+00:41:35,708 --> 00:41:40,538
+Que una inversión la venda tu oficina de siempre, que la anuncie la televisión y
+
+616
+00:41:40,588 --> 00:41:44,597
+que la apruebe el supervisor, no la convierte en segura.
+
+617
+00:41:44,648 --> 00:41:50,034
+Leer la letra pequeña, y preguntar por ella, sigue siendo tu mejor protección.
+
+618
+00:41:51,534 --> 00:41:54,364
+Algunas cosas sí cambiaron.
+
+619
+00:41:54,414 --> 00:41:58,423
+Las cajas de ahorros, tal y como existían, desaparecieron:
+
+620
+00:41:58,474 --> 00:42:01,583
+se convirtieron en bancos o en fundaciones.
+
+621
+00:42:01,634 --> 00:42:06,643
+Y desde noviembre de dos mil catorce, los grandes bancos de la zona euro los supervisa
+
+622
+00:42:06,693 --> 00:42:10,497
+directamente el Banco Central Europeo, desde Fráncfort.
+
+623
+00:42:11,997 --> 00:42:16,367
+Muchos de aquellos trescientos cuarenta y siete mil accionistas recuperaron su dinero
+
+624
+00:42:16,417 --> 00:42:18,767
+gracias a los tribunales civiles.
+
+625
+00:42:18,817 --> 00:42:23,487
+Otros, los que compraron más tarde en la bolsa, no tuvieron esa suerte.
+
+626
+00:42:23,537 --> 00:42:27,867
+Y todos, como contribuyentes, pagaron una parte del rescate.
+
+627
+00:42:27,917 --> 00:42:29,807
+Sin haber firmado nada.
+
+628
+00:42:31,307 --> 00:42:36,057
+El veinte de julio de dos mil once, una campana sonó en la Bolsa de Madrid.
+
+629
+00:42:36,107 --> 00:42:40,077
+Prometía un banco nuevo, sólido y de todos.
+
+630
+00:42:40,127 --> 00:42:42,797
+En cierto modo, la promesa se cumplió.
+
+631
+00:42:42,847 --> 00:42:45,237
+Bankia acabó siendo de todos.
+
+632
+00:42:45,287 --> 00:42:47,937
+Pero no como nadie había imaginado.
+
+633
+00:42:49,437 --> 00:42:55,947
+Si este documental te ha hecho pensar, suscríbete a DocuVox y cuéntanos en los comentarios:
+
+634
+00:42:55,997 --> 00:43:00,421
+¿tú o alguien de tu familia compró acciones o preferentes de Bankia?

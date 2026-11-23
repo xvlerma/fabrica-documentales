@@ -1,0 +1,71 @@
+== piel: Thriller financiero contemporáneo: bolsa, bancos, juicios (siglo XXI) · etalonaje frio
+== 1/5 audio: colocando voces, música y efectos
+voz: 38.4 min, 3427 palabras narrador, total 42.9 min
+   alineación: 147 unidades (13 con whisper, resto en caché o proporcional)
+== 2/5 guion visual
+  aviso anclas muy juntas en t=9.2s: se retrasa "se encierra en una sala"
+  aviso anclas muy juntas en t=61.7s: se retrasa "la Bolsa de Madrid"
+  aviso anclas muy juntas en t=63.5s: se retrasa "trescientas cuarenta y siete mil personas"
+  aviso anclas muy juntas en t=239.8s: se retrasa "Bancaja"
+  aviso anclas muy juntas en t=241.0s: se retrasa "cinco pequeñas"
+  aviso anclas muy juntas en t=1645.3s: se retrasa "frente a los bancos"
+  aviso anclas muy juntas en t=1807.9s: se retrasa "la Audiencia Nacional"
+  aviso anclas muy juntas en t=2335.6s: se retrasa "Con Goirigolzarri al frente"
+   partición de planos largos: 289 → 503 planos
+  aviso glosario: "FROB" cae en una tarjeta u otro glosario
+  sincronía: plano 0 t=0.0s: rótulo "Torres Puerta de Europa" sin mención en ±2 s
+  sincronía: plano 4 t=13.9s: rótulo "José Ignacio Goirigolzarri" sin mención en ±2 s
+  sincronía: plano 75 t=336.6s: rótulo "Sede del FMI" sin mención en ±2 s
+  sincronía: plano 82 t=362.6s: rótulo "Mariano Rajoy" sin mención en ±2 s
+  sincronía: plano 128 t=617.8s: rótulo "Palacio de la Moncloa" sin mención en ±2 s
+  sincronía: plano 138 t=654.2s: rótulo "CNMV" sin mención en ±2 s
+  sincronía: plano 195 t=940.5s: rótulo "Congreso de los Diputados" sin mención en ±2 s
+  sincronía: plano 291 t=1397.2s: rótulo "Consejo de la UE" sin mención en ±2 s
+  sincronía: plano 335 t=1629.1s: rótulo "Comisión Europea" sin mención en ±2 s
+  sincronía: plano 339 t=1644.2s: rótulo "Protesta de afectados por las preferentes" sin mención en ±2 s
+   503 planos
+== 3/5 buscando y descargando material
+  aviso repetición: "photo:Monte de Piedad Madrid Descalzas" en t=218s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:José Luis Olivas" en t=394s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Rodrigo Rato" en t=1185s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:José Ignacio Goirigolzarri" en t=1198s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:José Ignacio Goirigolzarri" en t=1202s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Berlaymont building European Commission Brussels" en t=1640s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:José Ignacio Goirigolzarri" en t=2336s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:José Ignacio Goirigolzarri" en t=2340s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:José Ignacio Goirigolzarri" en t=2344s reutiliza un recurso (4.ª vez); añade candidatos
+  aviso repetición: "photo:European Central Bank headquarters Frankfurt" en t=2520s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:European Central Bank headquarters Frankfurt" en t=2525s reutiliza un recurso (2.ª vez); añade candidatos
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/503
+   plano 20/503
+   plano 40/503
+   plano 60/503
+   plano 80/503
+   plano 100/503
+   plano 120/503
+   plano 140/503
+   plano 160/503
+   plano 180/503
+   plano 200/503
+   plano 220/503
+   plano 240/503
+   plano 260/503
+   plano 280/503
+   plano 300/503
+   plano 320/503
+   plano 340/503
+   plano 360/503
+   plano 380/503
+   plano 400/503
+   plano 420/503
+   plano 440/503
+   plano 460/503
+   plano 480/503
+   plano 500/503
+== 5/5 montaje final
+== licencias: PUBLICAR SÍ · 0 bloqueos · 0 avisos (licencias_estado.txt)
+   hojas de sincronía: 26
+   miniatura A: J.L. de Diego · Public domain
+FIN: jobs/bankia/out/bankia.mp4 · 43.3 min · 207 MB

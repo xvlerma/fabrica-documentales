@@ -1,0 +1,10 @@
+plano 0 t=0.0s: rótulo "Torres Puerta de Europa" sin mención en ±2 s
+plano 4 t=13.9s: rótulo "José Ignacio Goirigolzarri" sin mención en ±2 s
+plano 75 t=336.6s: rótulo "Sede del FMI" sin mención en ±2 s
+plano 82 t=362.6s: rótulo "Mariano Rajoy" sin mención en ±2 s
+plano 128 t=617.8s: rótulo "Palacio de la Moncloa" sin mención en ±2 s
+plano 138 t=654.2s: rótulo "CNMV" sin mención en ±2 s
+plano 195 t=940.5s: rótulo "Congreso de los Diputados" sin mención en ±2 s
+plano 291 t=1397.2s: rótulo "Consejo de la UE" sin mención en ±2 s
+plano 335 t=1629.1s: rótulo "Comisión Europea" sin mención en ±2 s
+plano 339 t=1644.2s: rótulo "Protesta de afectados por las preferentes" sin mención en ±2 s

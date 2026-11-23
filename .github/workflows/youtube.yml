@@ -1,0 +1,37 @@
+name: youtube
+on:
+  push:
+    paths: ['youtube/run.txt']
+permissions:
+  contents: write
+jobs:
+  subir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: credenciales
+        env:
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+        run: |
+          if [ -n "$YT_REFRESH_TOKEN" ] && [ -n "$YT_CLIENT_ID" ]; then echo "credenciales: SÍ"; else echo "credenciales: NO"; fi
+      - name: subir en privado
+        if: ${{ !contains(github.event.head_commit.message, 'comprobar') }}
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          J=$(head -1 youtube/run.txt); pip install -q requests
+          git fetch -q origin "out-$J"; mkdir -p jobs/$J/out; cd jobs/$J/out
+          for f in $(git ls-tree --name-only origin/out-$J); do git show origin/out-$J:$f > $f; done
+          cat $J.mp4.part* > $J.mp4 && rm $J.mp4.part*; ls -la; cd $GITHUB_WORKSPACE
+          python3 fabrica/publish.py jobs/$J 2>&1 | tee /tmp/yt.log
+      - name: entregar
+        if: always()
+        run: |
+          J=$(head -1 youtube/run.txt); git config --global user.name fabrica; git config --global user.email fabrica@users.noreply.github.com
+          mkdir /tmp/r && cd /tmp/r && git init -q && git checkout -q -b out-$J-youtube
+          cp $GITHUB_WORKSPACE/jobs/$J/out/youtube_publicado.json . 2>/dev/null || true; cp /tmp/yt.log . 2>/dev/null || echo sin > yt.log
+          git add -A && git commit -qm yt && git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" out-$J-youtube

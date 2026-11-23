@@ -47,7 +47,7 @@ def proxima_hora_punta(min_espera_h=2, hora_local=18):
 
 
 def subir_video(tk, path, meta):
-    status = {'privacyStatus': 'private', 'publishAt': meta['publish_at'],
+    status = {'privacyStatus': 'private', **({} if meta.get('solo_privado') else {'publishAt': meta['publish_at']}),
               'selfDeclaredMadeForKids': False, 'containsSyntheticMedia': bool(meta.get('synthetic', False)),
               'license': 'youtube', 'embeddable': True}
     body = {'snippet': {'title': meta['title'][:100], 'description': meta['description'][:5000],
@@ -93,7 +93,7 @@ def main(jobdir):
     out = os.path.join(jobdir, 'out')
     mp4 = sorted(glob.glob(os.path.join(out, '*.mp4')))[0]
     base = mp4[:-4]
-    meta.setdefault('publish_at', proxima_hora_punta())
+    meta.setdefault('publish_at', None if meta.get('solo_privado') else proxima_hora_punta())
     tk = token()
     print('== publicando en YouTube:', meta['title'], '· sale el', meta['publish_at'])
     v = subir_video(tk, mp4, meta)
@@ -122,7 +122,7 @@ def main(jobdir):
                      headers={'Authorization': f'Bearer {tk}'}, timeout=60).json()
     st = (r.get('items') or [{}])[0].get('status', {})
     res['estado'] = st
-    if st.get('publishAt') is None and st.get('privacyStatus') == 'private':
+    if not meta.get('solo_privado') and st.get('publishAt') is None and st.get('privacyStatus') == 'private':
         res['avisos'].append('YouTube ha quitado la fecha de publicación: el proyecto de la API está bloqueado en privado. '
                              'Hay que publicarlo a mano en YouTube Studio o pedir la auditoría de la API.')
     json.dump(res, open(os.path.join(out, 'youtube_publicado.json'), 'w'), indent=1, ensure_ascii=False)

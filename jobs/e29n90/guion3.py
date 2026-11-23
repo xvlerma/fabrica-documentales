@@ -15,11 +15,11 @@ import sys, os, copy, hashlib, re
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import guion as OLD, guion2 as V2
 # tramos exactos fijados con la transcripción de los cortes (stt v3)
-ABALOS_DECENCIA = (23.4, 27.6); DIMITA = (23.9, 26.7)
+ABALOS_DECENCIA = (23.4, 27.6); DIMITA = (16.3, 23.6)
 O = OLD.U
 CO = 'media/e29n90/cortes/'; DE = 'media/e29n90/decl/'; BR = 'media/e29n90/broll/'; CA = 'media/e29n90/capturas/'; HL = 'media/e29n90/hls/'; EX = 'media/e29n90/ext/'
 NQ = 10
-AV = EX + 'abalos_mocion_vertical.mp4'; AV_CROP = [0.34, 0.05, 0.32, 0.70]
+AV = EX + 'abalos_mocion_vertical.mp4'; AV_CROP = [0.34, 0.0, 0.32, 0.58]
 U = []; CUTS = []
 md5 = lambda t: hashlib.md5(t.encode()).hexdigest()[:10]
 
@@ -121,7 +121,7 @@ unit(23)
 C(CO + 'clip_31_no_dormiria.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · laSexta · 19/09/2019 · vía La Razón', 0, 10.5)
 unit(25)
 unit(26)
-C(DE + 'co_cumplimiento_integro__02.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · La Moncloa · 14/10/2019', 0, 12, crop=[0.09, 0.0, 0.82, 0.82], lt_at=5.0)
+C(DE + 'co_cumplimiento_integro__02.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · La Moncloa · 14/10/2019', 0, 12, crop=[0.14, 0.0, 0.72, 0.70], lt_at=5.0)
 unit(29, [aviso(['DEBATE ELECTORAL · RTVE · 04/11/2019'], CO + 'clip_32_traerlo_de_vuelta.mp4', 1.5), ai('belgica_carretera', at='Bélgica')])
 C(CO + 'clip_32_traerlo_de_vuelta.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate electoral · RTVE · 04/11/2019', 0, 3.2, crop=[0.06, 0.0, 0.84, 0.84])
 C(DE + 'co_referendum_ilegal__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate electoral · RTVE · 04/11/2019 · vía Cadena SER', 0, 11.9, crop=[0.15, 0.0, 0.62, 0.62])
@@ -146,7 +146,7 @@ unit(46, [bgc(dict(type='quote', text='«Nos hemos aprovechado de la ambición d
 C(DE + 'co_feijoo_decente__01.mp4', 'Alberto Núñez Feijóo', 'Cara a cara · RTVE · 19/11/2026', 4.3, 19.9, crop=[0.15, 0.05, 0.75, 0.75])
 unit(49)
 C(CO + 'clip_35c_derecho_a_cambiar_de_opinion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · The Wild Project · 13/11/2026', 26.6, 36.0)
-C(CO + 'clip_35d_horizonte_coherencia.mp4', 'Pedro Sánchez (con la pregunta)', 'RESPUESTA REAL · Informativos Telecinco · 16/11/2026', 0, 23.6, crop=[0.0, 0.17, 0.69, 0.69], hflip=True)
+C(CO + 'clip_35d_horizonte_coherencia.mp4', 'Pedro Sánchez (con la pregunta)', 'RESPUESTA REAL · Informativos Telecinco · 16/11/2026', 0, 23.6, crop=[0.31, 0.10, 0.69, 0.62], hflip=True)
 unit(52, [aviso(['EL HORMIGUERO · ANTENA 3 · JULIO DE 2023'], DE + 'ul_cambiado_opinion__01.mp4', 30)])
 C(DE + 'ul_cambiado_opinion__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · El Hormiguero · Antena 3 · 06/07/2023', 24.5, 36.2)
 C(DE + 'ul_cambiado_opinion__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · El Hormiguero · Antena 3 · 06/07/2023', 57.5, 72.2)
@@ -173,10 +173,10 @@ piece(69, [('Sin cargo', None)], [ai('carretera_noche'), ai('coche_tarjetas', at
            at(bgc(dict(type='board', title='El Peugeot · 2016', nodes=[['Pedro Sánchez', 'candidato'], ['José Luis Ábalos', 'condenado'], ['Santos Cerdán', 'investigado'], ['Koldo García', 'condenado']], links=[[0, 1], [0, 2], [0, 3], [1, 3]], center=True), *F_CONGRESO), 'cuatro')])
 unit(70)
 unit(71, [vid('mocion2018_sanchez_dimita.mp4', 1, base=EX), aviso(['MOCIÓN DE CENSURA · CONGRESO · 31/05/2018'], EX + 'mocion2018_sanchez_dimita.mp4', 12, at_='moción')])
-C(EX + 'mocion2018_sanchez_dimita.mp4', 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder', 5.8, 30.3, lt_at=6.0, crop=[0.0, 0.08, 0.9, 0.9])
+C(EX + 'mocion2018_sanchez_dimita.mp4', 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder', 5.8, 30.3, lt_at=12.8, crop=[0.0, 0.08, 0.9, 0.9])
 piece(75, [(None, 'Según recuerda')], [aviso(['JOSÉ LUIS ÁBALOS', 'Secretario de Organización del PSOE · 2018'], EX + 'mocion2018_abalos_decencia.mp4', 6)])
 # recuperado (7.3): Ábalos en la moción, con su rótulo. Es su frase, no la de Sánchez.
-C(AV, 'José Luis Ábalos (PSOE) a Mariano Rajoy', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 18.2, 27.6, crop=AV_CROP, fit=True, lt_at=0.9)
+C(AV, 'José Luis Ábalos (PSOE) a Mariano Rajoy', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 23.4, 27.6, crop=AV_CROP, fit=True, lt_at=0.3)
 C(EX + 'mocion2018_abalos_decencia.mp4', 'José Luis Ábalos (PSOE)', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 2.6, 13.6, crop=[0.0, 0.1, 0.9, 0.9], **stamp('CONDENADO', 'red', '2026 · 24 años y 3 meses', 4.0))
 piece(75, [('Según recuerda', None)], [aviso(['MARIANO RAJOY'], EX + 'mocion2018_sanchez_dimita.mp4', 17)])
 C(CO + 'clip_39_rajoy_lecciones.mp4', 'Mariano Rajoy', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 0, 8.0, crop=[0.0, 0.1, 0.9, 0.9])
@@ -301,7 +301,7 @@ unit(170, [vid('ar_dana_coches__03.mp4', 40), ai('calle_barro', at='Veintinueve'
 unit(171)
 piece(172, [('Pero la ley', 'Su defensa')], [at(aviso(['LEY 17/2015', 'Emergencia de interés nacional: a iniciativa propia del Gobierno.', 'No se declaró.'], *F_DANA), 'la ley')])
 piece(173, [('Un año después', None)], [vid('ar_dana_poyo__02.mp4', 20), at(aviso(['03/11/2025', 'Dimite Carlos Mazón, presidente de la Generalitat'], *F_DANA), 'Mazón')])
-unit(174)
+unit(174, [vid('ar_paiporta_coche__01.mp4', 3), dict(vid('ar_paiporta_salida__01.mp4', 8, at='Sánchez se va'), crop=[0.0, 0.0, 1.0, 0.72]), vid('ar_paiporta_reyes__03.mp4', 6, at='Los Reyes')])
 piece(175, [('Y tres años antes', None)], [aviso(['LA PALMA · 20/09/2021'], CO + 'clip_28bx_la_palma_recursos.mp4', 2)])
 C(CO + 'clip_28bx_la_palma_recursos.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · La Palma · 20/09/2021 · vía Público', 0, 6.7, crop=[0.0, 0.1, 0.6, 0.6])
 unit(177, [ai('valla_frontera_niebla'), at(aviso(['BRUSELAS · 24/06/2022'], CO + 'clip_30b_bien_resuelto.mp4', 2), 'Bruselas')])
@@ -392,7 +392,7 @@ unit(249, [aviso(['CONGRESO · 18/12/2024'], CO + 'clip_36bx_bulo_boe.mp4', 5)])
 C(CO + 'clip_36bx_bulo_boe.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso · 18/12/2024 · vía La Vanguardia', 3.45, 9.6, crop=[0.08, 0.06, 0.88, 0.88])
 piece(251, [(None, 'El Gobierno la defendió')], [bgc(dict(type='counter', to=17104, label='millones de euros de deuda de Cataluña condonados (pacto con ERC)'), *F_CONGRESO)])
 unit(252, [aviso(['CONGRESO DE LOS DIPUTADOS'], DE + 'ul_nogueras_bloqueada__02.mp4', 10)])
-C(DE + 'ul_nogueras_bloqueada__02.mp4', 'Míriam Nogueras (Junts)', 'Congreso de los Diputados', 2.8, 21.9, crop=[0.11, 0.0, 0.78, 0.78])
+C(DE + 'ul_nogueras_bloqueada__02.mp4', 'Míriam Nogueras (Junts)', 'Congreso de los Diputados', 7.9, 21.9, crop=[0.11, 0.0, 0.78, 0.78])
 unit(255, [ai('hemiciclo_luz'), at(aviso(['MOCIÓN APROBADA', 'Pedía al presidente una cuestión de confianza. No era vinculante.'], *F_CONGRESO), 'No era vinculante')])
 unit(256)
 unit(257, [aviso(['06/10/2026'], CO + 'clip_37b_contra_la_oposicion.mp4', 2)])
@@ -442,7 +442,7 @@ unit(300, [ai('congreso_tribuna_vacia_luz')])
 # =====================================================================================
 # 10 · ¿QUÉ LE DIRÍA HOY EL PEDRO SÁNCHEZ DE 2018?
 # =====================================================================================
-FLASH(EX + 'mocion2018_sanchez_dimita.mp4', *DIMITA, 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018', crop=[0.0, 0.08, 0.9, 0.9], tag='dimita')
+FLASH(EX + 'mocion2018_sanchez_dimita.mp4', *DIMITA, 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018', crop=[0.0, 0.08, 0.9, 0.9], lt_at=2.4)
 Q(10, 302, 'Presidente, ¿qué le diría hoy el Pedro Sánchez de 2018?', *F_CONGRESO)
 B('tema')
 piece(304, [(None, 'Así lo recuerda')],
@@ -450,7 +450,7 @@ piece(304, [(None, 'Así lo recuerda')],
        at(bgc(dict(type='recap', title='Ocho años', items=['Ábalos y Koldo García · condenados', 'Santos Cerdán · investigado', 'Zapatero · investigado', 'Begoña Gómez · procesada', 'David Sánchez · condenado (no firme)', 'Fiscal general del Estado · condenado', 'Pedro Sánchez · sin imputación']), *F_CONGRESO), 'exministro')])
 piece(305, [(None, 'Quienes le defienden'), ('Quienes le critican', None)], [ai('congreso_tribuna_vacia_luz')])
 unit(306, [vid('mocion2018_sanchez_dimita.mp4', 1, base=EX)])
-C(EX + 'mocion2018_sanchez_dimita.mp4', 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder', 16.3, 30.3, lt_at=5.4, crop=[0.0, 0.08, 0.9, 0.9])
+C(EX + 'mocion2018_sanchez_dimita.mp4', 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder', 16.3, 30.3, lt_at=2.4, crop=[0.0, 0.08, 0.9, 0.9])
 unit(308, [ai('congreso_noche')])
 C(CO + 'clip_01b_pido_perdon_corrupcion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Cara a cara · RTVE · 19/11/2026', 0, 11.0)
 M(4.5, [bgc(dict(type='dijo', left=dict(label='2018', date='31/05/2018', text='«Dimita, señor Rajoy, y todo terminará»'), right=dict(label='2026', date='19/11/2026', text='«Pido perdón… somos gente limpia»', source='Señal del Congreso · RTVE'), red=True), *F_CONGRESO)], track='tema')

@@ -74,7 +74,7 @@
  "audio_kbps": "128k",
  "intro": [],
  "seed": 2911,
- "rev": 5,
+ "rev": 6,
  "clip_subs": true,
  "clip_model": "small",
  "karaoke": true,
@@ -240,9 +240,9 @@
    "fuente": "cita",
    "crop": [
     0.34,
-    0.05,
+    0.0,
     0.32,
-    0.7
+    0.58
    ],
    "fit": true,
    "gap": 0.15,
@@ -603,10 +603,10 @@
    ],
    "fuente": "cita",
    "crop": [
-    0.09,
+    0.14,
     0.0,
-    0.82,
-    0.82
+    0.72,
+    0.7
    ],
    "lt_at": 5.0,
    "in": 0,
@@ -1058,10 +1058,10 @@
    ],
    "fuente": "cita",
    "crop": [
-    0.0,
-    0.17,
+    0.31,
+    0.1,
     0.69,
-    0.69
+    0.62
    ],
    "hflip": true,
    "in": 0,
@@ -1244,9 +1244,9 @@
    "gap": 0.25,
    "crop": [
     0.34,
-    0.05,
+    0.0,
     0.32,
-    0.7
+    0.58
    ],
    "fit": true,
    "in": 23.4,
@@ -1516,7 +1516,7 @@
     "Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder"
    ],
    "fuente": "cita",
-   "lt_at": 6.0,
+   "lt_at": 12.8,
    "crop": [
     0.0,
     0.08,
@@ -1557,13 +1557,13 @@
    "fuente": "cita",
    "crop": [
     0.34,
-    0.05,
+    0.0,
     0.32,
-    0.7
+    0.58
    ],
    "fit": true,
-   "lt_at": 0.9,
-   "in": 18.2,
+   "lt_at": 0.3,
+   "in": 23.4,
    "out": 27.6,
    "subs_fix": [
     [
@@ -3576,7 +3576,13 @@
     {
      "file": "media/e29n90/broll/ar_paiporta_salida__01.mp4",
      "start": 8,
-     "at": "Sánchez se va"
+     "at": "Sánchez se va",
+     "crop": [
+      0.0,
+      0.0,
+      1.0,
+      0.72
+     ]
     },
     {
      "file": "media/e29n90/broll/ar_paiporta_reyes__03.mp4",
@@ -4964,7 +4970,7 @@
     0.78,
     0.78
    ],
-   "in": 2.8,
+   "in": 7.9,
    "out": 21.9,
    "subs_fix": [
     [
@@ -5020,7 +5026,7 @@
        "source": "Fuente: BOE · 06/10/2026"
       },
       "bgimg": "media/e29n90/decl/ul_nogueras_bloqueada__02.mp4",
-      "bgt": 12.349999999999998
+      "bgt": 14.899999999999999
      }
     },
     {
@@ -5806,9 +5812,9 @@
     0.9,
     0.9
    ],
-   "tag": "dimita",
-   "in": 23.9,
-   "out": 26.7
+   "lt_at": 2.4,
+   "in": 16.3,
+   "out": 23.6
   },
   {
    "k": "T",
@@ -5901,7 +5907,7 @@
     "Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder"
    ],
    "fuente": "cita",
-   "lt_at": 5.4,
+   "lt_at": 2.4,
    "crop": [
     0.0,
     0.08,

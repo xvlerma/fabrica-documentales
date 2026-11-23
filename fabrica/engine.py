@@ -999,7 +999,7 @@ def run(job_dir):
                 srt.append(f'{n}\n{srt_time(T(a))} --> {srt_time(T(b))}\n{chunk}\n'); n += 1
             a = b
     open(f'{out_dir}/{job["id"]}.srt', 'w').write('\n'.join(srt))
-    chs = list(job.get('chapters', [])) + [dict(unit=i, title=(u.get('card') or {}).get('title', '')) for i, u in enumerate(U) if u['k'] == 'T' and u.get('chapter')]
+    chs = list(job.get('chapters', [])) + [dict(unit=i, title=u.get('title') or (u.get('card') or {}).get('title', '')) for i, u in enumerate(U) if u['k'] == 'T' and u.get('chapter')]
     chs.sort(key=lambda c: c['unit'])
     ch = ['0:00 Introducción'] + [f"{int(T(next(x for x in A['tl'] if x['i'] == c['unit'])['t']) // 60)}:{int(T(next(x for x in A['tl'] if x['i'] == c['unit'])['t']) % 60):02d} {c['title']}" for c in chs]
     open(f'{out_dir}/capitulos.txt', 'w').write('\n'.join(ch) + '\n')

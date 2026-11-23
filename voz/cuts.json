@@ -4,7 +4,7 @@
   "parts": [
    [
     null,
-    "de Televisión"
+    2.3
    ],
    [
     "fue más lejos",
@@ -15,66 +15,6 @@
   "key": "a8b8eea7e9",
   "voice": "TOP",
   "old": 29
- },
- {
-  "src": "ef5f6f6a0d",
-  "parts": [
-   [
-    "Seis años",
-    "Hubo votos"
-   ]
-  ],
-  "text": "Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados.",
-  "key": "d2d5604cf6",
-  "voice": "TOP",
-  "old": 142
- },
- {
-  "src": "bdbf5ed896",
-  "parts": [
-   [
-    null,
-    "La visita"
-   ]
-  ],
-  "text": "El treinta de julio, según recogió Maldita.es, el Ministerio del Interior sostiene que no es posible declarar la situación de emergencia nacional. El treinta y uno, el presidente viaja a Ceuta.",
-  "key": "b96454f9ad",
-  "voice": "NEW",
-  "old": 153
- },
- {
-  "src": "1d3fe915d2",
-  "parts": [
-   [
-    null,
-    "Ese día"
-   ]
-  ],
-  "text": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada.",
-  "key": "7d9be46814",
-  "voice": "TOP",
-  "old": 191
- },
- {
-  "src": "d175bd9b38",
-  "parts": [
-   [
-    null,
-    "organización criminal"
-   ],
-   [
-    "en la causa",
-    "Zapatero defiende"
-   ],
-   [
-    "Pidió la nulidad",
-    null
-   ]
-  ],
-  "text": "El auto del diecinueve de mayo le investiga por tráfico de influencias, en la causa que examina el rescate público de la aerolínea Plus Ultra. Y hay una pieza separada, por contrabando y delito fiscal, por las joyas. Pidió la nulidad de la causa, y le fue rechazada.",
-  "key": "581a71d3dc",
-  "voice": "NEW",
-  "old": 215
  },
  {
   "src": "893532dcee",

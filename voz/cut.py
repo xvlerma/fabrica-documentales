@@ -37,6 +37,8 @@ for c in json.load(open('voz/cuts.json')):
     segs_ = []; pos = 0; ok = True
     for a_ph, b_ph in parts:
         a, b = 0.0, dur(f)
+        if isinstance(a_ph, (int, float)): a = float(a_ph); a_ph = None
+        if isinstance(b_ph, (int, float)): b = float(b_ph); b_ph = None
         if a_ph:
             k = find(a_ph, pos)
             if k is None: ok = False; print('  ! no encuentro', a_ph, flush=True)
@@ -44,8 +46,9 @@ for c in json.load(open('voz/cuts.json')):
         if b_ph:
             k = find(b_ph, pos + 1)
             if k is None: ok = False; print('  ! no encuentro', b_ph, flush=True)
-            else: b = W[k - 1][1] + 0.12 if k else b; pos = k
+            else: b = min(W[k - 1][1] + 0.12, W[k][0] - 0.03) if k else b; pos = k
         segs_.append((a, b))
+    print(c['key'], ' '.join(f'{t}@{x:.2f}-{y:.2f}' for x, y, t in W), flush=True)
     o = f"{OUT}/media/e29n90/voz/{c['key']}.mp3"; tmp = []
     for q, (a, b) in enumerate(segs_):
         t_ = f'/tmp/cut_{q}.wav'

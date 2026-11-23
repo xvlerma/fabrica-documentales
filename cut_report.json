@@ -1,0 +1,123 @@
+[
+ {
+  "key": "6a3255f9c6",
+  "a": 0.0,
+  "b": 4.27,
+  "found": [
+   null,
+   "Seis años"
+  ],
+  "heard": "Al día siguiente rectificó. Dijo que no había sido preciso.",
+  "text": "Al día siguiente rectificó: dijo que no había sido preciso. [pause]"
+ },
+ {
+  "key": "c47fe64c3e",
+  "a": 4.27,
+  "b": 21.81,
+  "found": [
+   "Seis años",
+   null
+  ],
+  "heard": "Seis años después, el 20 de noviembre de 2025, el Tribunal Supremo condenó al Fiscal General del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Hubo votos particulares y el Tribunal no dio por acreditado que el presidente le diera ninguna orden. El Tribunal no dio por acreditado que el presidente le diera ninguna orden.",
+  "text": "Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Hubo votos particulares. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden."
+ },
+ {
+  "key": "4e74ed4877",
+  "a": 0.0,
+  "b": 14.83,
+  "found": [
+   "Veintinueve de octubre",
+   null
+  ],
+  "heard": "No era la primera vez que una catástrofe le preguntaba al presidente dónde estaba. 29 de octubre de 2024, Valencia, La Dana, 230 muertos en tres comunidades según el balance oficial de la Moncloa de diciembre.",
+  "text": "Veintinueve de octubre de dos mil veinticuatro. Valencia. La DANA. Doscientos treinta muertos en tres comunidades, según el balance oficial de La Moncloa de diciembre."
+ },
+ {
+  "key": "550079c727",
+  "a": 0.0,
+  "b": 19.08,
+  "found": [
+   null,
+   "En Madrid"
+  ],
+  "heard": "La Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el 3 de noviembre de 2025, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios.",
+  "text": "La Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios."
+ },
+ {
+  "key": "0859f94c6c",
+  "a": 0.0,
+  "b": 7.18,
+  "found": [
+   null,
+   "Y tres años"
+  ],
+  "heard": "El gobierno atribuyó la agresión a grupos ultras organizados y defendió que la seguridad aconsejaba sacar al presidente.",
+  "text": "El Gobierno atribuyó la agresión a grupos ultras organizados, y defendió que la seguridad aconsejaba sacar al presidente. [pause]"
+ },
+ {
+  "key": "18a9dad131",
+  "a": 7.23,
+  "b": 13.48,
+  "found": [
+   "Y en enero",
+   null
+  ],
+  "heard": "Y en enero de 2026 llegó la tragedia que tocaría su propio gobierno. Sobre raíles.",
+  "text": "Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles."
+ },
+ {
+  "key": "5ac8ddbcb7",
+  "a": 7.25,
+  "b": 11.77,
+  "found": [
+   "Porque las causas",
+   null
+  ],
+  "heard": "Porque las causas no se quedaron en la sede del partido. Llegaron a su casa.",
+  "text": "Porque las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa."
+ },
+ {
+  "key": "4f5b28b3a2",
+  "a": 0.0,
+  "b": 13.0,
+  "found": [
+   null,
+   "y habla de"
+  ],
+  "heard": "muy baja. Bajísima. 28 de octubre de 2026, Urda, Toledo. Otro accidente ferroviario. 69 muertos según la información publicada. Ese día el presidente viaja a Urda",
+  "text": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. Ese día el presidente viaja a Urda."
+ },
+ {
+  "key": "a6ba9b1282",
+  "a": 0.0,
+  "b": 6.32,
+  "found": [
+   null,
+   "Su portavoz"
+  ],
+  "heard": "Jones votó la investidura y dos años después, en octubre de 2025, rompió con el gobierno.",
+  "text": "Junts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, rompió con el Gobierno."
+ },
+ {
+  "key": "10a7a11678",
+  "a": 0.0,
+  "b": 12.26,
+  "found": [
+   null,
+   "Feijóo abrió"
+  ],
+  "heard": "Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó el Mundo. Nos hemos aprovechado de la ambición de Sánchez para derrotar a España. Feijó abrió con Puigdemont el cara a cara.",
+  "text": "Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España»."
+ },
+ {
+  "key": "59c36d0594",
+  "a": 0.0,
+  "b": 8.9,
+  "found": [
+   null,
+   "Y le exige"
+  ],
+  "heard": "Un año después, el 31 de mayo de 2018, Sánchez defiende en el Congreso la moción de censura contra Mariano Rajoy tras la sentencia del caso Gürtel.",
+  "text": "[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, Sánchez defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel."
+ }
+]

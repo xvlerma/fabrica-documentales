@@ -541,7 +541,8 @@ def render_shot(sh_, out, workdir):
     if BRAND.get('mosca') and R['kind'] != 'card':
         ins += ['-loop', '1', '-framerate', str(FPS), '-i', BRAND['mosca']]
         chain += f';[{last}][{k}:v]overlay=0:0:shortest=1[b{k}]'; last = f'b{k}'; k += 1
-    chain += f';[{last}]' + (','.join(fx) if fx else 'null') + '[v]'
+    # e29n90: si la fuente se acaba antes que el plano, se congela el último fotograma (si no, el plano sale corto y el vídeo se adelanta al audio)
+    chain += f';[{last}]tpad=stop_mode=clone:stop_duration=600,' + (','.join(fx) if fx else 'null') + '[v]'
     cmd = ['ffmpeg', '-loglevel', 'error', '-y', *base, *ins, '-filter_complex', chain, '-map', '[v]', '-frames:v', str(N), '-r', str(FPS), *ENC, out + '.tmp.mp4']
     if gen is None: sh(cmd)
     else:
@@ -551,6 +552,8 @@ def render_shot(sh_, out, workdir):
         except BrokenPipeError: pass
         pr.stdin.close(); err = pr.stderr.read().decode(errors='ignore')
         if pr.wait(): raise RuntimeError('ffmpeg 2.5D :: ' + err[-600:])
+    nf = int(sh(['ffprobe', '-v', 'error', '-count_packets', '-select_streams', 'v:0', '-show_entries', 'stream=nb_read_packets', '-of', 'csv=p=0', out + '.tmp.mp4']).strip() or 0)
+    if nf != N: raise RuntimeError(f'plano {sh_["n"]}: {nf} fotogramas en vez de {N} (desincronizaría audio y vídeo)')
     os.rename(out + '.tmp.mp4', out); return out
 
 def outro(job, shots, wd):

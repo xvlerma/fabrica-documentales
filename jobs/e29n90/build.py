@@ -77,7 +77,7 @@ job = {
     'audio': {'voice_db': -20, 'bed_db': {'tema': -35, 'tension': -36, 'pulso': -36, 'noche': -37, 'nada': -36, 'golpe': -30},
               'inter_db': -22, 'clip_db': -19, 'pause_stretch': 0.45, 'pause_cap': 0.6, 'gap_n': 1.5, 'gap_q': 1.0},
     'tempo': 0.92, 'parts': 4, 'codec': 'hevc', 'max_kbps': 900, 'audio_kbps': '128k',
-    'intro': ['assets/intro/docuvox.mp4'], 'seed': 2911, 'rev': 1,
+    'intro': ['assets/intro/docuvox.mp4'], 'seed': 2911, 'rev': 2,
     'units': U,
 }
 json.dump(job, open(os.path.join(HERE, 'job.json'), 'w'), ensure_ascii=False, indent=1)

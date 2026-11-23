@@ -76,7 +76,7 @@
   "assets/intro/docuvox.mp4"
  ],
  "seed": 2911,
- "rev": 10,
+ "rev": 11,
  "clip_subs": true,
  "kara_subs": false,
  "clip_model": "small",
@@ -618,7 +618,7 @@
   {
    "k": "N",
    "voice": "TOP",
-   "text": "Y tres semanas después, en el debate electoral de Televisión Española, fue más lejos. Habló de Carles Puigdemont, que había huido a Bélgica.",
+   "text": "Y tres semanas después, en el debate electoral fue más lejos. Habló de Carles Puigdemont, que había huido a Bélgica.",
    "shots": [
     {
      "card": {
@@ -637,7 +637,7 @@
      "ai": "https://s3-alpha-sig.figma.com/img/15d0/8564/c688abbbc044eb0eb2ef82668ed4cc84.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=RPG-hOaSiX31AJ9MHa0czgUCdtJ~HhWZidgneWt3x0zWNPFcXvyrcij0ThFoRy7zWgaGNEXrEkrWGX2C0kCfSbY4efo6GdoklWt3~aOR3xg3Eah5UEK9F-qmYC-zdASZTgRjkdjHKPPac~a5X1zXSSTPfdMjou-LzBj-1HDMBoztkkcGCw09ndMKrEoEU93dGI~ukS6qKwjWlcFGaz~CaYmMVSoe07d8-wsJzAoaZzvmxNZHwHtp2-2HKeb6FGMAOf-NaEm2hDCUf8actOhwvIdecGvSfZnDFHx5vfedkPcrbvDsX6pupDc9gzZNwmSL0q6DWTdDB9crnuLTgFMrkQ__"
     }
    ],
-   "url": "media/e29n90/voz/7c7eb7045d.mp3"
+   "url": "media/e29n90/voz/a8b8eea7e9.mp3"
   },
   {
    "k": "C",
@@ -911,9 +911,9 @@
    "out": 5.9
   },
   {
-   "k": "N",
-   "voice": "NEW",
-   "text": "La ley de amnistía se publicó en el BOE el diez de junio de dos mil veinticuatro.",
+   "k": "M",
+   "track": "pulso",
+   "secs": 3.5,
    "shots": [
     {
      "card": {
@@ -921,13 +921,13 @@
       "image": "media/e29n90/capturas/doc_33_BOE_STC_137-2025_amnistia_31-07-2025.jpg",
       "title": "LEY DE AMNISTÍA",
       "lines": [
+       "Ley Orgánica 1/2024, de 10 de junio",
        "BOE · 11/06/2024"
       ],
       "source": "BOE"
      }
     }
-   ],
-   "url": "media/e29n90/voz/76fc4e2a7c.mp3"
+   ]
   },
   {
    "k": "N",
@@ -2933,7 +2933,7 @@
   {
    "k": "N",
    "voice": "TOP",
-   "text": "Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden.",
+   "text": "Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados.",
    "shots": [
     {
      "card": {
@@ -2947,23 +2947,9 @@
       "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
       "bgt": 12.0
      }
-    },
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "El tribunal no dio por acreditada",
-       "ninguna orden del presidente"
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
-      "bgt": 12.0
-     },
-     "at": "Y el tribunal"
     }
    ],
-   "url": "media/e29n90/voz/2528568692.mp3"
+   "url": "media/e29n90/voz/d2d5604cf6.mp3"
   },
   {
    "k": "N",
@@ -3138,7 +3124,7 @@
   {
    "k": "N",
    "voice": "NEW",
-   "text": "El treinta de julio, según recogió Maldita.es, el Ministerio del Interior sostiene que no es posible declarar la situación de emergencia nacional. El treinta y uno, el presidente viaja a Ceuta. La visita dura hora y media. Le reciben con pitos.",
+   "text": "El treinta de julio, según recogió Maldita.es, el Ministerio del Interior sostiene que no es posible declarar la situación de emergencia nacional. El treinta y uno, el presidente viaja a Ceuta.",
    "shots": [
     {
      "file": "media/e29n90/broll/ar_ceuta_visita_pitos__01.mp4",
@@ -3150,7 +3136,7 @@
      "at": "pitos"
     }
    ],
-   "url": "media/e29n90/voz/bdbf5ed896.mp3"
+   "url": "media/e29n90/voz/b96454f9ad.mp3"
   },
   {
    "k": "N",
@@ -3387,7 +3373,7 @@
      "card": {
       "type": "aviso",
       "lines": [
-       "ABRIL DE 2026",
+       "07/04/2022",
        "El Congreso aprueba una resolución contra el giro sobre el Sáhara. Solo vota en contra el PSOE."
       ],
       "head": true,
@@ -3847,7 +3833,7 @@
   {
    "k": "N",
    "voice": "TOP",
-   "text": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. Ese día el presidente viaja a Urda y habla de una confianza quebrada.",
+   "text": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada.",
    "shots": [
     {
      "ai": "https://s3-alpha-sig.figma.com/img/9418/be55/3386aec04164faa76b72954ae1e457ec.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=aoGEyrwK318Jg6kpLwbU1BXzaTZH9U5UW51hKouk8doLRWq0y-gvxSOWEY9fxOTQcKI3aGAL-hRU~h4T63KCMepnkfI0SzpJWwNG2cwRWgehfIfWfB6qK271h-ZMkRJVdfW5K8R5NMhMNiYpSYLZ71d9B3l~E~5cwotj7c6TI7eS6GhvAkKrCSC1-2fd8cIx~ZhWyWRe8uqIU80xNxOPPm4kjkI8IIynVpyQ8a9f8mrmWfaBwMCdfgd2rvi7T1MtY6Xo-9kwZD-J99PrzQz4yWOYPuPQBiIVoxmunwL0bf75OYZptrbwal2FB87nsBJLKDTUq1zvytJWnXhrZ7as7w__"
@@ -3863,7 +3849,7 @@
      "at": "Sesenta y nueve"
     }
    ],
-   "url": "media/e29n90/voz/1d3fe915d2.mp3"
+   "url": "media/e29n90/voz/7d9be46814.mp3"
   },
   {
    "k": "C",
@@ -4222,7 +4208,7 @@
   {
    "k": "N",
    "voice": "NEW",
-   "text": "El auto del diecinueve de mayo le investiga por tráfico de influencias, organización criminal y falsedad documental, en la causa que examina el rescate público de la aerolínea Plus Ultra. Y hay una pieza separada, por contrabando y delito fiscal, por las joyas. Pidió la nulidad de la causa, y le fue rechazada.",
+   "text": "El auto del diecinueve de mayo le investiga por tráfico de influencias, en la causa que examina el rescate público de la aerolínea Plus Ultra. Y hay una pieza separada, por contrabando y delito fiscal, por las joyas. Pidió la nulidad de la causa, y le fue rechazada.",
    "shots": [
     {
      "card": {
@@ -4245,7 +4231,7 @@
      "at": "nulidad"
     }
    ],
-   "url": "media/e29n90/voz/ef957348c9.mp3"
+   "url": "media/e29n90/voz/581a71d3dc.mp3"
   },
   {
    "k": "N",
@@ -5882,13 +5868,13 @@
   {
    "k": "N",
    "voice": "TOP",
-   "text": "[serious] Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. [pause] Quienes le critican ven otra cosa: un presidente que siempre encuentra a otro responsable. [short pause] Este documental no ha querido decidir entre unos y otros. Solo ha puesto, una al lado de otra, sus palabras y los hechos.",
+   "text": "[serious] Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. [pause] Este documental solo ha puesto, una al lado de otra, sus palabras y los hechos.",
    "shots": [
     {
      "ai": "https://s3-alpha-sig.figma.com/img/a687/0b02/3cc6461abb30fe54777225a02ac7aa2d.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ptftVxO8AX93OydFAzmc51SzPUEC2lzRcUptj9D0rgz-d5o2XAAxMQebsP5HqEKk0xbHbLkSkYwgLCj0D0foHTMvkGtRD6RHev1bl6-XjJsSwfLSRvQb5kEKcAag13~HVytNhodbWw28~12K5Gsn7mSgr~u7a-QyyQ5h771wZjKRQuDci7UxljDqWp55f3NSiAeE2F51XW~pSwP0w27oIpUss2bJuPqv9IWi6tYGBP3N~GUlZ2cf7~SbJTbhBhk9FV0UT6r4SD~2tFloAy9JpyXBD4RrTbljU-dK9VxzHIclViEf7CLzUu8-PJYnRHy9rxAratzCh4Q-zg6cD~G9jw__"
     }
    ],
-   "url": "media/e29n90/voz/ae1030c647.mp3"
+   "url": "media/e29n90/voz/a943a51bd1.mp3"
   },
   {
    "k": "N",

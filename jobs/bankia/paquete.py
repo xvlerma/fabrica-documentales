@@ -57,7 +57,7 @@ if len(desc) > 4950:   # límite de YouTube: créditos completos en el comentari
 com = '¿Tú o alguien de tu familia compró acciones o preferentes de Bankia? ¿Recuperasteis el dinero? Cuéntalo abajo 👇\n\nCréditos de imagen (autor y licencia):\n' + '\n'.join(compact(l) for l in cred)
 com = com[:9800]
 
-pod = f"""Bankia salió a bolsa el 20 de julio de 2011 con 347.000 pequeños accionistas. Diez meses después pidió 19.000 millones al Estado: el mayor rescate bancario de España. De la fusión de siete cajas a los correos del inspector, del «presidente, no va» del auditor a la nacionalización, las preferentes, las tarjetas black, el juicio y la absorción por CaixaBank. Documental sonoro de 45 minutos.
+pod = f"""Bankia salió a bolsa el 20 de julio de 2011 con 347.000 pequeños accionistas. Diez meses después pidió 19.000 millones al Estado: el mayor rescate bancario de España. De la fusión de siete cajas a los correos del inspector, del «presidente, no va» del auditor a la nacionalización, las preferentes, las tarjetas black, el juicio y la absorción por CaixaBank. Documental sonoro de 43 minutos.
 
 {caps}
 

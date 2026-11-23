@@ -226,23 +226,23 @@
   },
   {
    "k": "C",
-   "src": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
+   "src": "media/e29n90/ext/abalos_mocion_vertical.mp4",
    "lt": [
-    "José Luis Ábalos (PSOE)",
+    "José Luis Ábalos (PSOE) a Mariano Rajoy",
     "Moción de censura · Congreso · 31/05/2018"
    ],
    "fuente": "cita",
    "crop": [
-    0.0,
-    0.1,
-    0.9,
-    0.9
+    0.34,
+    0.05,
+    0.32,
+    0.7
    ],
+   "fit": true,
    "gap": 0.15,
    "trailer": true,
-   "tag": "abalos_decencia",
-   "in": 6.0,
-   "out": 12.0
+   "in": 23.4,
+   "out": 27.6
   },
   {
    "k": "C",
@@ -893,7 +893,8 @@
       "source": "BOE"
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/76fc4e2a7c.mp3"
   },
   {
    "k": "N",
@@ -978,8 +979,8 @@
     0.75,
     0.75
    ],
-   "in": 3.0,
-   "out": 21.1
+   "in": 4.3,
+   "out": 19.9
   },
   {
    "k": "N",
@@ -1191,23 +1192,23 @@
   },
   {
    "k": "C",
-   "src": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
+   "src": "media/e29n90/ext/abalos_mocion_vertical.mp4",
    "lt": [
-    "José Luis Ábalos (PSOE)",
+    "José Luis Ábalos (PSOE) a Mariano Rajoy",
     "Congreso · 31/05/2018"
    ],
    "fuente": "cita",
    "flash": true,
    "gap": 0.25,
    "crop": [
-    0.0,
-    0.1,
-    0.9,
-    0.9
+    0.34,
+    0.05,
+    0.32,
+    0.7
    ],
-   "tag": "abalos_decencia",
-   "in": 6.0,
-   "out": 12.0
+   "fit": true,
+   "in": 23.4,
+   "out": 27.6
   },
   {
    "k": "T",
@@ -1301,7 +1302,8 @@
       "bgt": 12.0
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/89e29d3796.mp3"
   },
   {
    "k": "N",
@@ -1315,8 +1317,8 @@
      "card": {
       "type": "timeline",
       "at": "noventa escaños",
-      "bgimg": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
-      "bgt": 9.0,
+      "bgimg": "media/e29n90/ext/abalos_mocion_vertical.mp4",
+      "bgt": 25.5,
       "events": [
        [
         "2014",
@@ -1399,7 +1401,8 @@
      },
      "at": "cuatro"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/f43c8b694c.mp3"
   },
   {
    "k": "N",
@@ -1493,7 +1496,27 @@
       "bgt": 6
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/a31e8ba254.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/ext/abalos_mocion_vertical.mp4",
+   "lt": [
+    "José Luis Ábalos (PSOE) a Mariano Rajoy",
+    "Moción de censura · Congreso · 31/05/2018 · vía El Debate"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.34,
+    0.05,
+    0.32,
+    0.7
+   ],
+   "fit": true,
+   "lt_at": 0.9,
+   "in": 18.2,
+   "out": 27.6
   },
   {
    "k": "C",
@@ -1514,9 +1537,9 @@
     "red",
     "2026 · 24 años y 3 meses"
    ],
-   "stamp_at": 16.0,
+   "stamp_at": 4.0,
    "in": 2.6,
-   "out": 23.8
+   "out": 13.6
   },
   {
    "k": "N",
@@ -1535,7 +1558,8 @@
       "bgt": 17
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/01e9d63488.mp3"
   },
   {
    "k": "C",
@@ -1770,7 +1794,8 @@
       "bgt": 10
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/7e945e7a7d.mp3"
   },
   {
    "k": "C",
@@ -1898,7 +1923,8 @@
      },
      "at": "doce horas"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/e75f685d39.mp3"
   },
   {
    "k": "N",
@@ -2010,7 +2036,8 @@
      },
      "at": "palabra de un acusado"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/417a435a3e.mp3"
   },
   {
    "k": "N",
@@ -2027,7 +2054,8 @@
       "bgt": 12.0
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/020754cee8.mp3"
   },
   {
    "k": "N",
@@ -2085,7 +2113,8 @@
      ],
      "stamp_at": 0.8
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/44ad23c8f1.mp3"
   },
   {
    "k": "N",
@@ -2230,7 +2259,7 @@
     0.9,
     0.72
    ],
-   "in": 146.6,
+   "in": 147.7,
    "out": 171.6
   },
   {
@@ -2301,18 +2330,20 @@
    "url": "media/e29n90/voz/b2bab4971e.mp3"
   },
   {
-   "k": "C",
-   "src": "media/e29n90/decl/ul_hay_fango__01.mp4",
-   "lt": [
-    "Pedro Sánchez",
-    "laSexta · 17/05/2024"
-   ],
-   "fuente": "cita",
-   "flash": true,
-   "gap": 0.25,
-   "tag": "fango",
-   "in": 0.0,
-   "out": 4.0
+   "k": "M",
+   "track": "tension",
+   "secs": 3.2,
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "«Aquí no hay caso, hay fango»",
+      "attrib": "Pedro Sánchez · laSexta · 17/05/2024",
+      "bgimg": "media/e29n90/cortes/clip_19a_senoras_de.mp4",
+      "bgt": 3
+     }
+    }
+   ]
   },
   {
    "k": "T",
@@ -2433,7 +2464,8 @@
      },
      "at": "investigado"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/607dce87e9.mp3"
   },
   {
    "k": "N",
@@ -2536,7 +2568,8 @@
      ],
      "stamp_at": 0.8
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/768f0516b7.mp3"
   },
   {
    "k": "N",
@@ -2673,7 +2706,8 @@
     {
      "ai": "https://s3-alpha-sig.figma.com/img/1e99/29dc/da335611e88364be1c46a4916c9a0cec.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=BNncUcxBYcL-II86MrVQ8Df13~n8JY-QwWefI7HlUVYUGzuAp4h-LvczFVle4S~LEwmzwQNg0V8cIF8e6oyIpmId3ddABD-gEe9EgqF-zZAk7n9uEjkG7IZ~8mcWSFm5dcasQLJ3sRAuRUdC5~haaLLi8b~YbJBP1z9Z8Qq19GHI~09pdlr6B2Hlr7EoklmDwc5AlPB-0G4x-KfaTcniBIJpy0plYA8~EwX5TvVF9PSlkzB~VKGXVrvt-8GsBFrv3IoQqsoCdEnkckt0w27mZcV7qxWe1UkbUSpI60THAaN6-066FzcVRFPGFRJ5MwztcWh48djPWdZQzG7QxVaN9g__"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/e8c1f2c90f.mp3"
   },
   {
    "k": "N",
@@ -2737,7 +2771,8 @@
      },
      "at": "Radio Nacional"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/8d3d78e297.mp3"
   },
   {
    "k": "C",
@@ -2783,7 +2818,8 @@
       "bgt": 4.0
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/9a05f1197e.mp3"
   },
   {
    "k": "N",
@@ -2793,7 +2829,8 @@
     {
      "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b318/451d/4ca74696bf5dd4f9e92d6b24368ee00e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=96be7394c4369ef7f6101a002ca0c2640b038566425e65745ad2d1fe48835716"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/607496a6c2.mp3"
   },
   {
    "k": "N",
@@ -2827,7 +2864,8 @@
      },
      "at": "Y el tribunal"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/2528568692.mp3"
   },
   {
    "k": "N",
@@ -2898,7 +2936,8 @@
       "bgt": 12.0
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/7fa9aa2732.mp3"
   },
   {
    "k": "M",
@@ -3168,7 +3207,8 @@
       "bgt": 10
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/3f6fe689c0.mp3"
   },
   {
    "k": "C",
@@ -3251,7 +3291,8 @@
      },
      "at": "En abril"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/ba2052b8dc.mp3"
   },
   {
    "k": "N",
@@ -3386,7 +3427,8 @@
      },
      "at": "la ley"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/f1a26e20c4.mp3"
   },
   {
    "k": "N",
@@ -3411,7 +3453,8 @@
      },
      "at": "Mazón"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/7a3635e897.mp3"
   },
   {
    "k": "N",
@@ -3452,7 +3495,8 @@
       "bgt": 2
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/523260de06.mp3"
   },
   {
    "k": "C",
@@ -3528,7 +3572,8 @@
      },
      "at": "Mueren"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/cc6d37e745.mp3"
   },
   {
    "k": "N",
@@ -3982,7 +4027,8 @@
     {
      "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/46fc/fafb/9b74259f985905aa06a99f76b40c8b96.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=89cca69c931740beade57d15b7293c8eb649cb488f937e6bb0b946f7a6eeda4e"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/e6cd753d8f.mp3"
   },
   {
    "k": "C",
@@ -4069,7 +4115,8 @@
      "start": 6,
      "at": "nulidad"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/ef957348c9.mp3"
   },
   {
    "k": "N",
@@ -4423,7 +4470,8 @@
       "bgt": 12.0
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/d9decc60c3.mp3"
   },
   {
    "k": "N",
@@ -4443,7 +4491,8 @@
       "bgt": 4.0
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/705ac8041f.mp3"
   },
   {
    "k": "N",
@@ -4462,7 +4511,8 @@
       "bgt": 3
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/b107f5ce7e.mp3"
   },
   {
    "k": "C",
@@ -4489,7 +4539,8 @@
     {
      "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f302/e6c9/654f6ca2b7a5ee3c7c2090660d1edb66.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=86c033f29f5c632439172326d9be261cb842dc1079fffb7e61ba1a9d8c18cffb"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/4bf0faf1b4.mp3"
   },
   {
    "k": "N",
@@ -4606,7 +4657,8 @@
      },
      "at": "Comité Federal"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/81b1226758.mp3"
   },
   {
    "k": "N",
@@ -4669,7 +4721,8 @@
      },
      "at": "Tribunal"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/0472712127.mp3"
   },
   {
    "k": "N",
@@ -4722,7 +4775,8 @@
       "bgt": 12.0
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/f35465464f.mp3"
   },
   {
    "k": "N",
@@ -4758,8 +4812,8 @@
     0.78,
     0.78
    ],
-   "in": 3.3,
-   "out": 26.5
+   "in": 2.8,
+   "out": 21.9
   },
   {
    "k": "N",
@@ -4804,7 +4858,7 @@
        "source": "Fuente: BOE · 06/10/2026"
       },
       "bgimg": "media/e29n90/decl/ul_nogueras_bloqueada__02.mp4",
-      "bgt": 14.899999999999999
+      "bgt": 12.349999999999998
      }
     },
     {
@@ -5119,8 +5173,8 @@
     0.7,
     0.7
    ],
-   "in": 7.5,
-   "out": 13.9
+   "in": 7.4,
+   "out": 15.6
   },
   {
    "k": "N",
@@ -5143,8 +5197,8 @@
    "fuente": "cita",
    "flash": true,
    "gap": 0.25,
-   "in": 0.5,
-   "out": 4.6
+   "in": 0.8,
+   "out": 3.5
   },
   {
    "k": "T",
@@ -5350,7 +5404,8 @@
       "bgt": 3.0
      }
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/ba43725984.mp3"
   },
   {
    "k": "N",
@@ -5560,8 +5615,8 @@
     0.9
    ],
    "tag": "dimita",
-   "in": 25.3,
-   "out": 30.3
+   "in": 23.9,
+   "out": 26.7
   },
   {
    "k": "T",
@@ -5620,7 +5675,8 @@
      },
      "at": "exministro"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/6908149ec1.mp3"
   },
   {
    "k": "N",
@@ -5630,7 +5686,8 @@
     {
      "ai": "https://s3-alpha-sig.figma.com/img/a687/0b02/3cc6461abb30fe54777225a02ac7aa2d.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ptftVxO8AX93OydFAzmc51SzPUEC2lzRcUptj9D0rgz-d5o2XAAxMQebsP5HqEKk0xbHbLkSkYwgLCj0D0foHTMvkGtRD6RHev1bl6-XjJsSwfLSRvQb5kEKcAag13~HVytNhodbWw28~12K5Gsn7mSgr~u7a-QyyQ5h771wZjKRQuDci7UxljDqWp55f3NSiAeE2F51XW~pSwP0w27oIpUss2bJuPqv9IWi6tYGBP3N~GUlZ2cf7~SbJTbhBhk9FV0UT6r4SD~2tFloAy9JpyXBD4RrTbljU-dK9VxzHIclViEf7CLzUu8-PJYnRHy9rxAratzCh4Q-zg6cD~G9jw__"
     }
-   ]
+   ],
+   "url": "media/e29n90/voz/ae1030c647.mp3"
   },
   {
    "k": "N",

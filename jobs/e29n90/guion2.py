@@ -137,7 +137,7 @@ reuse(69, [ai('carretera_noche'), ai('coche_lluvia', at='Peugeot'),
 reuse(70, [cap('doc_cierre_Abalos_secretario_Organizacion_EFE_18-06-2017.jpg', 'EFE · 18/06/2017', ['Sánchez elige a Ábalos para Organización'], 'Valencia Plaza (EFE)'),
            cap('doc_cierre_Abalos_Cerdan_area_Organizacion_EFE_18-06-2017.jpg', 'EL ÁREA DE ORGANIZACIÓN', ['Ábalos, con Cerdán dentro'], 'Valencia Plaza (EFE)', at_='Santos Cerdán')])
 N('TOP', '[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, Sánchez defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel.',
-  [vid('mocion2018_sanchez_dimita.mp4', 1, base=EX), aviso(['MOCIÓN DE CENSURA · CONGRESO · 31/05/2018'], EX + 'mocion2018_abalos_decencia.mp4', 3, at_='tribuna')])
+  [vid('mocion2018_sanchez_dimita.mp4', 1, base=EX), aviso(['MOCIÓN DE CENSURA · CONGRESO · 31/05/2018'], EX + 'mocion2018_abalos_decencia.mp4', 3, at_='moción')])
 C(EX + 'mocion2018_abalos_decencia.mp4', 'José Luis Ábalos (PSOE)', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 2.6, 23.8, crop=[0.0, 0.1, 0.9, 0.9])
 reuse(75, [aviso(['JOSÉ LUIS ÁBALOS', 'Secretario de Organización del PSOE · 2018'], EX + 'mocion2018_abalos_decencia.mp4', 6), at(aviso(['MARIANO RAJOY'], EX + 'mocion2018_sanchez_dimita.mp4', 17), 'Rajoy')])
 C(CO + 'clip_39_rajoy_lecciones.mp4', 'Mariano Rajoy', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 0, 8.0, crop=[0.0, 0.1, 0.9, 0.9])
@@ -180,7 +180,7 @@ N('TOP', 'Porque las causas no se quedaron en la sede del partido. [pause] Llega
 Q(3, 117, 'Presidente, ¿por qué su familia está en los tribunales?', CO + 'clip_19a_senoras_de.mp4', 3)
 B('tension')
 reuse(119, [ai('carta_escritorio'), at(bgc(dict(type='quote', text='¿Merece la pena todo esto? Sinceramente, no lo sé.', attrib='Carta a la ciudadanía · 24/04/2024'), *F_MONCLOA19), 'Merece')])
-reuse(120, [ai('atriles')])
+reuse(120, [aviso(['29/04/2024', 'Sánchez anuncia que sigue'], *F_MONCLOA19), at(aviso(['LASEXTA · 17/05/2024'], *F_MONCLOA19), 'laSexta')])
 reuse(121, [bgc(dict(type='quote', text='«Aquí no hay caso, hay fango.»', attrib='Pedro Sánchez · laSexta · 17/05/2024'), *F_MONCLOA19)])
 reuse(122, [ai('expediente_mesa'), bgc(dict(type='list', header='Lo investigado', items=['Tráfico de influencias', 'Corrupción en los negocios', 'Apropiación indebida', 'Intrusismo']), CO + 'clip_19c_derecho_no_responder.mp4', 4)])
 reuse(123, [ai('sala_comision_vacia'), aviso(['ASAMBLEA DE MADRID · 13/11/2024'], CO + 'clip_19d_1_vinculacion.mp4', 5, at_='Asamblea')])
@@ -240,7 +240,7 @@ C(CO + 'clip_25_no_estaba_de_vacaciones.mp4', 'Pedro Sánchez', 'RESPUESTA REAL 
 reuse(164, [aviso(['CONGRESO · 16/09/2026'], CO + 'clip_25c_eso_a_vivas.mp4', 3)])
 C(CO + 'clip_25c_eso_a_vivas.mp4', 'Pedro Sánchez (con la pregunta)', 'RESPUESTA REAL · Congreso · 16/09/2026 · vía Europa Press', 0.6, 5.8)
 U.append(dict(k='M', track='noche', secs=3.4, shots=[aviso(['JUAN JESÚS VIVAS', 'Presidente de la ciudad autónoma de Ceuta (PP)'], *F_CEUTA)]))
-N('TOP', 'Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles.', [ai('carretera_noche')])
+N('TOP', 'Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles.', [ai('vias_recta_amanecer')])
 
 # =====================================================================================
 # 5 · ¿QUIÉN RESPONDE POR LAS VÍAS?  (enero → noviembre de 2026)

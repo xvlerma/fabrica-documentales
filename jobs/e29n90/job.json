@@ -2,7 +2,7 @@
  "id": "e29n90",
  "title": "Pedro Sánchez, la entrevista que nadie le hizo",
  "channel": "DocuVox",
- "stage": "cast",
+ "stage": "final",
  "align": true,
  "align_model": "small",
  "no_pad": true,
@@ -1001,7 +1001,7 @@
       "bgimg": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
       "bgt": 3
      },
-     "at": "tribuna"
+     "at": "moción"
     }
    ],
    "url": "media/e29n90/voz/59c36d0594.mp3"
@@ -1652,7 +1652,30 @@
    "text": "Cinco días después, se queda. Y tres semanas más tarde, en laSexta, deja la frase que marcaría su defensa.",
    "shots": [
     {
-     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b8bd/51f0/30f12e14cebc66b75ba5acb63fe84736.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a090a50f0aa6c571acdc2890646cb383f4b5f9bca94285c378eaf80c7abf218e"
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "29/04/2024",
+       "Sánchez anuncia que sigue"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/co_cumplimiento_integro__02.mp4",
+      "bgt": 4.0
+     }
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "LASEXTA · 17/05/2024"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/co_cumplimiento_integro__02.mp4",
+      "bgt": 4.0
+     },
+     "at": "laSexta"
     }
    ],
    "url": "media/e29n90/voz/f41b3feed6.mp3"
@@ -2513,7 +2536,7 @@
    "text": "Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles.",
    "shots": [
     {
-     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c82a/52e0/02756e99892c58f34b9d1eff89ec9c00.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=866a605d67bab72e80a13bea5e1305b5315f0456eae19e9118a4f6befc72a888"
+     "ai": "https://s3-alpha-sig.figma.com/img/5221/d319/9f0f014d09b3e9f8fece9e5355b5e0d7.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=pmYR6lxj-biUfgkHcKwljQy8CQRbJX0ZAuZQeRiHWhbXccYVpTNJ2-Sr6dT6646Wy3ld2~cTtwtD9ZUqHcnH432C73yuDbsTm8xKl-uREvAsJ3FgSUAmlX4R5RtxiCLYvGuU~5ow2tJKx6c1fIR5wpXmUnw8Knv6K-VE1Xw861-M2dZyHlY2GQ~21jsKP56PYajMrBVp1EZENdd9JZjoBKcpACAQEfUr08t5L657IOeGshl2T7XxjSl8fO-rjtqhKNgOseaZjvkDUAOw5IeRufklHLzUilrb67v8r3uVrhu~wrK3g23zTbQ1muAT7Q-a0U5-0mJTIasSwRqPatmIFA__"
     }
    ],
    "url": "media/e29n90/voz/18a9dad131.mp3"

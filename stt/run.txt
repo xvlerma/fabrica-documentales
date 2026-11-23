@@ -1,2 +1,2 @@
-stt/v3_list.txt
-v3
+stt/a5
+a5

@@ -74,7 +74,7 @@
  "audio_kbps": "128k",
  "intro": [],
  "seed": 2911,
- "rev": 4,
+ "rev": 5,
  "clip_subs": true,
  "clip_model": "small",
  "karaoke": true,

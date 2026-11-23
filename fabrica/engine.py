@@ -978,7 +978,7 @@ def run(job_dir):
     for e in A['tl']:
         u = U[e['i']]
         wu = A.get('words', {}).get(e['i'])
-        if e['k'] == 'C' and not (wu and wu.get('clip')): continue
+        if e['k'] == 'C' and not (wu and wu.get('clip') and wu['words']): continue
         if e['k'] not in ('N', 'P', 'R', 'T', 'C') or (e['k'] != 'C' and not u.get('text')): continue
         if wu and wu['words']:  # subtítulos a la palabra: cada frase empieza cuando se dice
             ws = wu['words']; chunks = []; cur = []

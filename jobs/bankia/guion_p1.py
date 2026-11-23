@@ -16,7 +16,7 @@ DAT("Diecinueve mil millones de euros. Es lo que el banco tiene que pedir al Est
     cd(dict(type='counter', **{'from': 0}, to=19000, label='millones de euros que pide Bankia al Estado', suffix=' M€'), at='Diecinueve mil millones'),
     ai('oro_derrumbe', 'a tall stack of gold coins collapsing in slow motion on a dark marble floor, coins scattering toward the viewer, emerald green rim light, cinematic', at='para no hundirse'))
 NEW("Esa misma tarde, el banco rehace sus cuentas del año anterior. Donde decía que había ganado trescientos nueve millones, ahora reconoce que perdió casi tres mil. Y el consejo entero, salvo el presidente y el consejero delegado, dimite.",
-    cd(dict(type='split', left=dict(title='Cuentas de 2011 · febrero', lines=['+309 millones', 'de beneficio']), right=dict(title='Cuentas de 2011 · 25 de mayo', lines=['−2.979 millones', 'de pérdidas'])), at='Donde decía'),
+    cd(dict(type='split', left=dict(name='Cuentas de 2011 · febrero', lines=['+309 millones', 'de beneficio']), right=dict(name='Cuentas de 2011 · 25 de mayo', lines=['−2.979 millones', 'de pérdidas'])), at='Donde decía'),
     ai('sillas_vacias', 'a boardroom after everyone has left, chairs pushed back at odd angles, coffee cups and scattered papers, the city lights glowing outside, deep green shadows', at='dimite'))
 NAR("Pero lo más increíble no es la cifra. Es la fecha. Porque apenas diez meses antes, este mismo banco había tocado la campana en la Bolsa de Madrid. Y trescientas cuarenta y siete mil personas le habían confiado sus ahorros.",
     ai('campana_bolsa', 'a polished bronze ceremonial bell being struck inside an ornate nineteenth-century stock exchange hall, confetti-like light, crowd of silhouettes applauding, golden glow', at='había tocado la campana'),
@@ -98,7 +98,7 @@ DAT("El diez de marzo, el Banco de España comunica a doce entidades que les fal
 B('tension')
 NAR("Primavera de dos mil once. Para BFA quedan dos caminos. Salir a bolsa y captar dinero de inversores. O ser intervenida.",
     ai('cruce_caminos', 'a man in a suit standing at a fork in a dark rain-soaked road at night, one path lit gold, the other disappearing into darkness, seen from behind, cinematic', at='quedan dos caminos'),
-    cd(dict(type='versus', left=dict(title='Salir a bolsa', lines=['captar capital de inversores', 'mantener el control']), right=dict(title='Ser intervenida', lines=['el Estado entra', 'los gestores salen'])), at='Salir a bolsa y captar'))
+    cd(dict(type='versus', left=dict(name='Salir a bolsa', lines=['captar capital de inversores', 'mantener el control']), right=dict(name='Ser intervenida', lines=['el Estado entra', 'los gestores salen'])), at='Salir a bolsa y captar'))
 NEW("La fórmula que se elige tiene truco. No saldrá a bolsa todo el grupo. Se crea un banco nuevo, Bankia, que se queda con el negocio de las oficinas, los clientes y los depósitos. Y la matriz, BFA, se queda con buena parte de lo más tóxico: el suelo, los préstamos dudosos y las participaciones en otras empresas.",
     ai('dos_cajas_fuertes', 'two steel bank vaults side by side in a dark basement, one gleaming and clean with gold light, the other rusted and leaking dark water, dramatic contrast', at='La fórmula que se elige tiene truco'),
     cd(dict(type='list', header='La estructura de doble banco', items=[('Bankia', 'oficinas, clientes y depósitos · sale a bolsa'), ('BFA, la matriz', 'suelo, préstamos dudosos y participadas · se queda fuera')]), at='Se crea un banco nuevo, Bankia'))

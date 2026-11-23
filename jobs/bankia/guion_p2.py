@@ -16,7 +16,7 @@ NAR("Pero la campaña más eficaz no estaba en la televisión. Estaba en las mil
     ai('pareja_joven', 'a young couple sitting at a bank branch desk holding hands, seen from behind, an employee pointing at a screen, afternoon sun through blinds', at='pequeños ahorradores'))
 DAT("Mientras tanto, los grandes inversores internacionales no se fían. La demanda no llega. Y el diecinueve de julio, la víspera del estreno, Bankia tiene que rebajar el precio. La horquilla inicial iba de cuatro con cuarenta y uno a cinco con cero cinco euros por acción. El precio final se queda en tres con setenta y cinco.",
     ai('traders_dudan', 'foreign fund managers in a glass office in London at night looking at screens and shaking their heads, seen from behind, cold blue light, rain on the windows', at='los grandes inversores internacionales no se fían'),
-    cd(dict(type='split', left=dict(title='Horquilla inicial', lines=['4,41 € — 5,05 €', 'por acción']), right=dict(title='Precio final · 19 de julio', lines=['3,75 €', 'por acción'])), at='tiene que rebajar el precio'),
+    cd(dict(type='split', left=dict(name='Horquilla inicial', lines=['4,41 € — 5,05 €', 'por acción']), right=dict(name='Precio final · 19 de julio', lines=['3,75 €', 'por acción'])), at='tiene que rebajar el precio'),
     BOLSA(3.75, 'precio de salida de cada acción de Bankia', at='tres con setenta y cinco', frm=5.05))
 DOC("Folleto de la oferta. Cuenta de resultados del primer trimestre de dos mil once: beneficio pro forma, no auditado, de noventa y un millones de euros. Las advertencias sobre riesgos ocupan decenas de páginas.",
     cd(dict(type='doc', title='Folleto de la oferta pública de Bankia', lines=['Primer trimestre de 2011', 'Beneficio pro forma no auditado: 91 millones'], source='Registrado en la CNMV · 29 de junio de 2011'), at='Folleto de la oferta'))
@@ -27,7 +27,7 @@ NAR("Piensa en lo que significaba para muchos de ellos. No eran inversores profe
     AIR('jubilado_firma', at='No eran inversores profesionales'),
     ai('barrio_caja', 'a neighborhood savings bank branch on a quiet Spanish street corner in the early evening, warm light inside, an elderly couple walking in arm in arm, seen from behind, nostalgic', at='la caja de su barrio'))
 DAT("Trescientos cuarenta y siete mil trescientos treinta y ocho accionistas individuales. Frente a solo doscientos ochenta inversores institucionales. Más de la mitad del dinero, unos mil ochocientos millones, lo pusieron pequeños ahorradores.",
-    cd(dict(type='versus', left=dict(title='Accionistas individuales', lines=['347.338']), right=dict(title='Inversores institucionales', lines=['280'])), at='Trescientos cuarenta y siete mil'))
+    cd(dict(type='versus', left=dict(name='Accionistas individuales', lines=['347.338']), right=dict(name='Inversores institucionales', lines=['280'])), at='Trescientos cuarenta y siete mil'))
 B('accion')
 NAR("[dramatically] Veinte de julio de dos mil once. Nueve de la mañana. Palacio de la Bolsa de Madrid. Banqueros, empresarios y políticos llenan el parqué. Y Rodrigo Rato sube a tocar la campana.",
     DIA(1, 310, 'Bankia empieza a cotizar · 20 de julio de 2011', at='Veinte de julio de dos mil once'),
@@ -123,7 +123,7 @@ NAR("Y llegamos a donde empezamos. Viernes, veinticinco de mayo. Por la mañana,
     AIR('consejo_noche', at='A las cuatro y media'))
 DAT("Diecinueve mil millones para BFA y Bankia. Sumados a los préstamos anteriores, las ayudas públicas acabarán en veintidós mil cuatrocientos veinticuatro millones de euros. Y las cuentas de dos mil once, rehechas: pérdidas de dos mil novecientos setenta y nueve millones en Bankia. Tres mil trescientos dieciocho en BFA.",
     cd(dict(type='counter', **{'from': 19000}, to=22424, label='millones de euros en ayudas públicas a BFA-Bankia', suffix=' M€'), at='veintidós mil cuatrocientos veinticuatro millones'),
-    cd(dict(type='split', left=dict(title='Bankia · 2011', lines=['−2.979 millones']), right=dict(title='BFA · 2011', lines=['−3.318 millones'])), at='Y las cuentas de dos mil once, rehechas'))
+    cd(dict(type='split', left=dict(name='Bankia · 2011', lines=['−2.979 millones']), right=dict(name='BFA · 2011', lines=['−3.318 millones'])), at='Y las cuentas de dos mil once, rehechas'))
 DAT("¿Cómo se pasa de ganar trescientos nueve millones a perder casi tres mil? El nuevo equipo revisa los préstamos y los inmuebles uno por uno. Y decide apartar ocho mil quinientos millones en provisiones, por encima incluso de lo que exigían los dos decretos del Gobierno.",
     cd(dict(type='counter', **{'from': 0}, to=8500, label='millones en provisiones adicionales · mayo de 2012', suffix=' M€'), at='ocho mil quinientos millones'))
 NEW("Para hacerse una idea: con veintidós mil millones se podría pagar el sueldo de un año de casi un millón de trabajadores en España. Las pérdidas de BFA fueron las segundas mayores de la historia de la banca española, solo por detrás de las de Banesto en mil novecientos noventa y tres.",

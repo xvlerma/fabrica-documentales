@@ -437,7 +437,7 @@
  },
  "split_still": 5.0,
  "picks": {},
- "rev": 2,
+ "rev": 3,
  "units": [
   {
    "k": "B",
@@ -530,14 +530,14 @@
      "card": {
       "type": "split",
       "left": {
-       "title": "Cuentas de 2011 · febrero",
+       "name": "Cuentas de 2011 · febrero",
        "lines": [
         "+309 millones",
         "de beneficio"
        ]
       },
       "right": {
-       "title": "Cuentas de 2011 · 25 de mayo",
+       "name": "Cuentas de 2011 · 25 de mayo",
        "lines": [
         "−2.979 millones",
         "de pérdidas"
@@ -1134,14 +1134,14 @@
      "card": {
       "type": "versus",
       "left": {
-       "title": "Salir a bolsa",
+       "name": "Salir a bolsa",
        "lines": [
         "captar capital de inversores",
         "mantener el control"
        ]
       },
       "right": {
-       "title": "Ser intervenida",
+       "name": "Ser intervenida",
        "lines": [
         "el Estado entra",
         "los gestores salen"
@@ -1518,14 +1518,14 @@
      "card": {
       "type": "split",
       "left": {
-       "title": "Horquilla inicial",
+       "name": "Horquilla inicial",
        "lines": [
         "4,41 € — 5,05 €",
         "por acción"
        ]
       },
       "right": {
-       "title": "Precio final · 19 de julio",
+       "name": "Precio final · 19 de julio",
        "lines": [
         "3,75 €",
         "por acción"
@@ -1619,13 +1619,13 @@
      "card": {
       "type": "versus",
       "left": {
-       "title": "Accionistas individuales",
+       "name": "Accionistas individuales",
        "lines": [
         "347.338"
        ]
       },
       "right": {
-       "title": "Inversores institucionales",
+       "name": "Inversores institucionales",
        "lines": [
         "280"
        ]
@@ -2294,13 +2294,13 @@
      "card": {
       "type": "split",
       "left": {
-       "title": "Bankia · 2011",
+       "name": "Bankia · 2011",
        "lines": [
         "−2.979 millones"
        ]
       },
       "right": {
-       "title": "BFA · 2011",
+       "name": "BFA · 2011",
        "lines": [
         "−3.318 millones"
        ]
@@ -2750,13 +2750,13 @@
      "card": {
       "type": "split",
       "left": {
-       "title": "Solicitudes de arbitraje",
+       "name": "Solicitudes de arbitraje",
        "lines": [
         "182.951"
        ]
       },
       "right": {
-       "title": "Aceptadas",
+       "name": "Aceptadas",
        "lines": [
         "137.359"
        ]
@@ -2945,14 +2945,14 @@
      "card": {
       "type": "versus",
       "left": {
-       "title": "Acusación",
+       "name": "Acusación",
        "lines": [
         "las pérdidas ya existían",
         "cuando se vendieron las acciones"
        ]
       },
       "right": {
-       "title": "Defensas",
+       "name": "Defensas",
        "lines": [
         "cuentas supervisadas y legales",
         "lo hundieron la crisis y los decretos"
@@ -3511,14 +3511,14 @@
      "card": {
       "type": "split",
       "left": {
-       "title": "Vía civil · 2016",
+       "name": "Vía civil · 2016",
        "lines": [
         "El folleto indujo a error",
         "Hay que devolver el dinero"
        ]
       },
       "right": {
-       "title": "Vía penal · 2020-2022",
+       "name": "Vía penal · 2020-2022",
        "lines": [
         "No se prueba ningún delito",
         "Los 34, absueltos"

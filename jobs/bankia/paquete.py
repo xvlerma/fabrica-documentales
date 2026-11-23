@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Paquete de YouTube/iVoox/Spotify de «Crisis de 2008». Uso: python3 paquete.py <carpeta_out>
+"""Paquete de YouTube/iVoox/Spotify de «Bankia». Uso: python3 paquete.py <carpeta_out>
 Escribe youtube.md, descripcion_youtube.txt, comentario_fijado.txt, descripcion_podcast.txt y etiquetas.txt."""
 import os, sys
 
@@ -7,12 +7,12 @@ OUT = sys.argv[1]; HERE = os.path.dirname(os.path.abspath(__file__))
 caps = open(f'{OUT}/capitulos.txt', encoding='utf-8').read().strip()
 cred = [l for l in open(f'{OUT}/creditos_publicos.txt', encoding='utf-8').read().splitlines() if l.strip() and l.strip() != 'Créditos']
 
-TITULO = 'Crisis de 2008: así se arruinó España (y puede repetirse)'
-ALT = ['La burbuja que arruinó a España (y vuelve a crecer)', 'Crisis de 2008 en España: ¿se está repitiendo?']
-TAGS = ['crisis 2008 españa', 'burbuja inmobiliaria', 'precio vivienda', 'hipotecas', 'rescate bancario', 'Lehman Brothers',
-        'Bankia', 'Zapatero', 'crisis de 2008', 'burbuja inmobiliaria españa', 'crisis económica españa', 'desahucios',
-        'seseña', 'el pocero', 'aeropuerto de castellón', 'cajas de ahorros', 'euríbor', 'precio del alquiler',
-        'vivienda en españa', 'se repite la crisis', '15M', 'prima de riesgo', 'sareb', 'documental', 'docuvox']
+TITULO = 'Bankia: salió a bolsa y 10 meses después pidió el rescate'
+ALT = ['El banco que salió a bolsa y se hundió en 10 meses: Bankia', 'Caso Bankia: la salida a bolsa que acabó en rescate']
+TAGS = ['bankia', 'caso bankia', 'salida a bolsa bankia', 'rescate bankia', 'historia de bankia', 'rodrigo rato', 'tarjetas black',
+        'nacionalización de bankia', 'absueltos caso bankia', 'pequeños ahorradores bankia', 'caída de bankia', 'preferentes',
+        'crisis bancaria españa', 'rescate bancario', 'caja madrid', 'bancaja', 'frob', 'goirigolzarri', 'prima de riesgo',
+        'crisis 2012', 'whatever it takes', 'caixabank', 'documental bankia', 'documental', 'docuvox']
 def compact(l):
     p = [x.strip() for x in l.split(' · ')]
     if len(p) >= 2:
@@ -23,45 +23,45 @@ def compact(l):
         return f'{tit} — {aut[:40]} ({lic})' if aut else f'{tit} ({lic})'
     return l[:100]
 
-desc = f"""Crisis de 2008 en España: la burbuja inmobiliaria, el crédito fácil y el rescate bancario. ¿Se está repitiendo hoy con el precio de la vivienda?
+desc = f"""Bankia salió a bolsa el 20 de julio de 2011 a 3,75 euros con 347.000 pequeños accionistas. Diez meses después pidió 19.000 millones al Estado: el mayor rescate bancario de la historia de España. ¿Cómo pudo pasar? ¿Quién lo sabía? ¿Y quién pagó la factura?
 
-En 2006 España levantó más viviendas que Francia, Alemania e Italia juntas. Dos años después cayó Lehman Brothers y el país entero se vino abajo: seis millones de parados, cientos de miles de ejecuciones hipotecarias, aeropuertos sin aviones, ciudades fantasma y un rescate europeo de la banca. Hoy el metro cuadrado vuelve a estar en máximos y comprar o alquilar se ha vuelto imposible para muchos. ¿Estamos otra vez en el mismo punto? Te lo respondemos al final, con datos.
+Siete cajas de ahorros, una torre de papel, un inspector del Banco de España que avisó por correo, una campaña para convertir a medio país en «bankero», unas cuentas que pasaron de ganar 309 millones a perder casi 3.000 y un juicio que terminó como casi nadie esperaba. Lo contamos como un thriller, día a día.
 
 En este documental:
-· La fiesta del ladrillo: euro, tipos bajos, cajas de ahorros y El Quiñón de Seseña
-· Los que lo vieron venir y por qué nadie lo paró
-· El día que cayó Lehman Brothers y la negación en España
-· Seis millones de parados, el 15M y la generación que se fue
-· Desahucios, la PAH y las cláusulas abusivas
-· Las casas vacías: el aeropuerto de Castellón y la ciudad fantasma
-· El rescate bancario: Bankia, el MoU de 2012 y la Sareb
-· La vivienda hoy: precios, alquiler y la respuesta a «¿se repite?»
+· Siete cajas y una torre: Caja Madrid, Bancaja y la fusión fría
+· El inspector: los correos de Casaus y la «bombona de oxígeno»
+· La campana: la salida a bolsa del 20 de julio de 2011
+· El castillo de naipes: el auditor y el «presidente, no va»
+· Diecinueve mil millones: dimisión de Rato, nacionalización y rescate europeo
+· La factura: preferentes, accionistas, despidos y Sareb
+· El juicio: tarjetas black, absoluciones y la paradoja del folleto
+· El final: CaixaBank y lo que el Estado nunca recuperó
 
 Capítulos
 {caps}
 
-Fuentes principales: Banco de España (informes anuales e Informe sobre la crisis financiera y bancaria, 2017), INE (EPA, Censo 2011, estadística de ejecuciones hipotecarias), Ministerio de Vivienda (valor tasado de la vivienda libre), Consejo General del Poder Judicial, Eurostat, Tribunal de Cuentas, sentencia del TJUE Aziz (2013) y hemeroteca de El País, El Mundo, Expansión y RTVE.
+Fuentes principales: folleto de la OPV de Bankia (CNMV, 2011), sentencias de la Audiencia Nacional (2020), del Tribunal Supremo (Sala de lo Civil, 2016; Sala de lo Penal, 2022) y de las tarjetas black (2017), Banco de España (Informe sobre la crisis financiera y bancaria, 2017), FROB, memorando de entendimiento del Eurogrupo (2012) y hemeroteca de El País, El Mundo, Expansión y RTVE.
 
 {{CRED}}
 
-Este vídeo es divulgación, no asesoramiento financiero ni inmobiliario.
+Este vídeo es divulgación, no asesoramiento financiero ni jurídico.
 
-En el próximo: Bankia, el banco que salió a bolsa y pidió el rescate diez meses después. Suscríbete a DocuVox para no perdértelo.
+Viene de: «Crisis de 2008: así se arruinó España». Suscríbete a DocuVox para el próximo caso.
 
-#crisis2008 #burbujainmobiliaria #vivienda"""
+#Bankia #CasoBankia #RodrigoRato"""
 
 CRED = open(f'{OUT}/creditos_publicos.txt', encoding='utf-8').read().strip()
 desc = desc.replace('{CRED}', CRED)
 if len(desc) > 4950:   # límite de YouTube: créditos completos en el comentario fijado y enlace
     desc = desc.replace(CRED, 'Créditos de imagen y música (autor y licencia): en el comentario fijado.')
-com = '¿Crees que se está repitiendo? ¿Cómo viviste tú 2008? Cuéntalo abajo 👇\n\nCréditos de imagen (autor y licencia):\n' + '\n'.join(compact(l) for l in cred)
+com = '¿Tú o alguien de tu familia compró acciones o preferentes de Bankia? ¿Recuperasteis el dinero? Cuéntalo abajo 👇\n\nCréditos de imagen (autor y licencia):\n' + '\n'.join(compact(l) for l in cred)
 com = com[:9800]
 
-pod = f"""Crisis de 2008 en España: la burbuja inmobiliaria, el crédito fácil y el rescate bancario. ¿Se está repitiendo hoy con el precio de la vivienda? De El Quiñón de Seseña a Lehman Brothers, de los seis millones de parados a los desahucios, el aeropuerto de Castellón y el rescate de Bankia. Y al final, la respuesta: ¿estamos otra vez en el mismo punto? Documental sonoro de 50 minutos.
+pod = f"""Bankia salió a bolsa el 20 de julio de 2011 con 347.000 pequeños accionistas. Diez meses después pidió 19.000 millones al Estado: el mayor rescate bancario de España. De la fusión de siete cajas a los correos del inspector, del «presidente, no va» del auditor a la nacionalización, las preferentes, las tarjetas black, el juicio y la absorción por CaixaBank. Documental sonoro de 45 minutos.
 
 {caps}
 
-Versión en vídeo: busca «DocuVox» en YouTube. En el próximo: Bankia, el banco que salió a bolsa y pidió el rescate diez meses después. Sigue DocuVox para no perdértelo.
+Versión en vídeo: busca «DocuVox» en YouTube. Sigue DocuVox para no perderte el próximo caso.
 
 {CRED}"""
 
@@ -69,14 +69,14 @@ open(f'{HERE}/descripcion_youtube.txt', 'w').write(desc)
 open(f'{HERE}/comentario_fijado.txt', 'w').write(com)
 open(f'{HERE}/descripcion_podcast.txt', 'w').write(pod)
 open(f'{HERE}/etiquetas.txt', 'w').write(','.join(TAGS))
-md = f"""# Crisis de 2008 · paquete de YouTube
+md = f"""# Bankia · paquete de YouTube
 
 **Título (recomendado):** {TITULO}  ({len(TITULO)} caracteres)
 **Alternativas A/B:** {ALT[0]} · {ALT[1]}
 
 **Etiquetas** ({len(','.join(TAGS))} caracteres): {', '.join(TAGS)}
 
-**Ajustes:** Educación · Español (España) · no creado para niños · sin promoción pagada · Uso de IA: No · capítulos automáticos desactivados · subtítulos crisis2008.srt · pantalla final 1 vídeo + suscribirse
+**Ajustes:** Educación · Español (España) · no creado para niños · sin promoción pagada · Contenido alterado o sintético: Sí (voces recreadas de declaraciones reales) · capítulos automáticos desactivados · subtítulos bankia.srt · pantalla final 1 vídeo + suscribirse
 
 ## Descripción ({len(desc)} caracteres)
 

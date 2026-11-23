@@ -56,6 +56,9 @@ def piece(i, parts, shots=None, **kw):
         ia = t.index(a) if a else 0
         ib = t.index(b, ia + 1) if b else len(t)
         frag.append(t[ia:ib].strip())
+    if kw.pop('lower', False):
+        for j in range(1, len(frag)):
+            if frag[j] and not re.search(r'[.?!:;»]\s*(\[[^\]]*\])?\s*$', frag[j - 1]): frag[j] = frag[j][0].lower() + frag[j][1:]
     text = ' '.join(frag)
     text = re.sub(r'\s*\[(pause|short pause)\]\s*$', '', text)
     text = text[0].upper() + text[1:]
@@ -122,7 +125,7 @@ C(CO + 'clip_31_no_dormiria.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · laSexta �
 unit(25)
 unit(26)
 C(DE + 'co_cumplimiento_integro__02.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · La Moncloa · 14/10/2019', 0, 12, crop=[0.14, 0.0, 0.72, 0.70], lt_at=5.0)
-unit(29, [aviso(['DEBATE ELECTORAL · ACADEMIA DE TELEVISIÓN · 04/11/2019'], CO + 'clip_32_traerlo_de_vuelta.mp4', 1.5), ai('belgica_carretera', at='Bélgica')])
+piece(29, [(None, 'de Televisión'), ('fue más lejos', None)], [aviso(['DEBATE ELECTORAL · ACADEMIA DE TELEVISIÓN · 04/11/2019'], CO + 'clip_32_traerlo_de_vuelta.mp4', 1.5), ai('belgica_carretera', at='Bélgica')])
 C(CO + 'clip_32_traerlo_de_vuelta.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate electoral · Academia de Televisión · 04/11/2019', 0, 3.2, crop=[0.06, 0.0, 0.84, 0.84])
 C(DE + 'co_referendum_ilegal__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate electoral · Academia de Televisión · 04/11/2019 · vía Cadena SER', 0, 11.9, crop=[0.15, 0.0, 0.62, 0.62])
 unit(32)
@@ -138,7 +141,8 @@ C(CO + 'clip_34b_necesidad_virtud_wild.mp4', 'Pedro Sánchez', 'RESPUESTA REAL �
 # movido (7.2): la investidura de 2023 después del Comité Federal, antes del BOE: la cronología ya no va hacia atrás
 AUD(CO + 'clip_33b_acorde_constitucion.mp4', 'Pedro Sánchez', 'Debate de investidura · Congreso · 15/11/2023 · audio', 0, 5.9,
     '«La amnistía que planteamos es perfectamente legal. Es acorde con la Constitución»', *F_CONGRESO)
-piece(43, [(None, 'Y aquí está')], [cap('doc_33_BOE_STC_137-2025_amnistia_31-07-2025.jpg', 'LEY DE AMNISTÍA', ['BOE · 11/06/2024'], 'BOE')])
+# verificación legal: la ley es de 10/06/2024 y se publicó en el BOE el 11/06/2024 -> tarjeta muda, sin la frase con la fecha errónea
+M(3.5, [cap('doc_33_BOE_STC_137-2025_amnistia_31-07-2025.jpg', 'LEY DE AMNISTÍA', ['Ley Orgánica 1/2024, de 10 de junio', 'BOE · 11/06/2024'], 'BOE')])
 unit(44, [ai('congreso_escalinata'), at(aviso(['CONGRESO · 12/11/2025'], CO + 'clip_36b_nogueras_bloqueado.mp4', 4), 'Nogueras')])
 C(CO + 'clip_36b_nogueras_bloqueado.mp4', 'Míriam Nogueras (Junts)', 'Congreso de los Diputados · 2025', 0, 12.0, crop=[0.11, 0.0, 0.78, 0.78])
 C(DE + 'ul_puigdemont_perpinan__02.mp4', 'Carles Puigdemont (Junts)', 'Perpiñán · 27/10/2025 · vía Cadena SER', 88.3, 112.3)
@@ -259,9 +263,8 @@ AUD(CO + 'clip_22_pues_ya_esta.mp4', 'Pedro Sánchez', 'RNE · 06/11/2019 · aud
 # movido (7.2): el que rectifica es Sánchez, justo después de su audio
 piece(142, [('Al día siguiente', 'Seis años')], [aviso(['07/11/2019', 'Sánchez rectifica: «no fui preciso»'], *F_MONCLOA19)])
 piece(141, [(None, 'El fiscal general defendió')], [ai('supremo_fachada')])
-piece(142, [('Seis años', 'Hubo votos'), ('Y el tribunal', None)],
-      [aviso(['TRIBUNAL SUPREMO · 20/11/2025', 'Fiscal general del Estado: dos años de inhabilitación y multa'], *F_CONGRESO),
-       at(aviso(['El tribunal no dio por acreditada', 'ninguna orden del presidente'], *F_CONGRESO), 'Y el tribunal')])
+piece(142, [('Seis años', 'Hubo votos')],
+      [aviso(['TRIBUNAL SUPREMO · 20/11/2025', 'Fiscal general del Estado: dos años de inhabilitación y multa'], *F_CONGRESO)])
 unit(143, [aviso(['G20 · JOHANNESBURGO · 23/11/2025'], CO + 'clip_21_creo_inocencia_fiscal.mp4', 2)])
 C(CO + 'clip_21_creo_inocencia_fiscal.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · G20 Johannesburgo · 23/11/2025 · vía ABC', 0.4, 5.4, crop=[0.0, 0.1, 0.9, 0.9])
 unit(145, [ai('playa_noche_generica')])
@@ -278,7 +281,7 @@ unit(151)
 unit(152, [ai('espigon_noche'), vid('ar_ceuta_espigon__02.mp4', 40, at='espigón', blur=18),
            at(bgc(dict(type='counter', to=72000, label='entradas en Ceuta, según Maldita.es y elDiario.es'), BR + 'ar_ceuta_espigon__02.mp4', 20), 'setenta y dos mil'),
            at(bgc(dict(type='counter', to=72, label='muertos como mínimo, según la Delegación del Gobierno'), BR + 'ar_ceuta_espigon__02.mp4', 30), 'setenta y dos muertos')])
-unit(153)
+piece(153, [(None, 'La visita')])  # verificación legal: 'hora y media' y 'pitos' sin fuente primaria
 unit(154, [vid('ar_mareta_llegada__02.mp4', 4), aviso(['LA MARETA · LANZAROTE · AGOSTO DE 2026'], BR + 'ar_mareta_llegada__02.mp4', 4, at_='La Mareta')])
 C(CO + 'clip_24a_playlist.mp4', 'Pedro Sánchez', 'Vídeo publicado en sus redes sociales · 01/08/2026 · vía ESdiario', 0, 6.0, crop=[0.335, 0.0, 0.33, 1.0], fit=True)
 C(CO + 'clip_24b_feliz_verano.mp4', 'Pedro Sánchez', 'Vídeo publicado en sus redes sociales · 01/08/2026 · vía ESdiario', 0, 4.8, crop=[0.335, 0.0, 0.33, 1.0], fit=True)
@@ -291,7 +294,7 @@ C(DE + 'ul_manyaneros_chantaje__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Ma
 C(CO + 'clip_25_no_estaba_de_vacaciones.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · The Wild Project · 13/11/2026', 3.5, 15.7, lt_at=1.2)
 unit(164, [aviso(['CONGRESO · 16/09/2026'], CO + 'clip_25c_eso_a_vivas.mp4', 3)])
 C(CO + 'clip_25c_eso_a_vivas.mp4', 'Pedro Sánchez (con la pregunta)', 'RESPUESTA REAL · Congreso · 16/09/2026 · vía Europa Press', 0.6, 5.8)
-piece(166, [(None, 'El Gobierno lo defiende')], [ai('valla_frontera_niebla'), at(bgc(dict(type='aviso', lines=['ABRIL DE 2026', 'El Congreso aprueba una resolución contra el giro sobre el Sáhara. Solo vota en contra el PSOE.'], head=True), *F_CEUTA), 'En abril')])
+piece(166, [(None, 'El Gobierno lo defiende')], [ai('valla_frontera_niebla'), at(bgc(dict(type='aviso', lines=['07/04/2022', 'El Congreso aprueba una resolución contra el giro sobre el Sáhara. Solo vota en contra el PSOE.'], head=True), *F_CEUTA), 'En abril')])
 unit(167, [aviso(['JUAN JESÚS VIVAS', 'Presidente de la ciudad autónoma de Ceuta (PP)'], *F_CEUTA),
            at(aviso(['CASA REAL', 'El Rey sigue la situación «con preocupación e indignación»'], *F_CEUTA), 'Casa Real'),
            at(aviso(['CADENA SER · 31/08/2026'], CO + 'clip_28b_rey_ceuta_melilla.mp4', 5), 'anunció')])
@@ -321,7 +324,7 @@ unit(187)
 C(CO + 'clip_08_tremendamente_extrano.mp4', 'Óscar Puente', 'Ministro de Transportes · 18/01/2026 · vía El Debate', 0, 4.9, crop=[0.0, 0.1, 0.9, 0.9])
 C(CO + 'clip_10b2_bajisima.mp4', 'Óscar Puente', 'Ministro de Transportes · enero de 2026', 0, 9.9)
 unit(190)
-unit(191, [ai('estacion_noche_vacia'), at(bgc(dict(type='counter', to=69, label='muertos en Urda · 28/10/2026'), HL + 'h10_urda.mp4', 220), 'Sesenta y nueve')])
+piece(191, [(None, 'Ese día')], [ai('estacion_noche_vacia'), at(bgc(dict(type='counter', to=69, label='muertos en Urda · 28/10/2026'), HL + 'h10_urda.mp4', 220), 'Sesenta y nueve')])
 C(HL + 'h10_urda.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Urda (Toledo) · 28/10/2026 · La Moncloa', 211.0, 233.2)
 unit(193)
 C(CO + 'clip_10d2_renuncio_listas.mp4', 'Óscar Puente', 'Congreso · Diputación Permanente · 03/11/2026 · vía AS TV', 6.7, 15.9, crop=[0.0, 0.0, 0.86, 0.86])
@@ -347,7 +350,7 @@ FLASH(CO + 'clip_14_mano_en_el_fuego.mp4', 3.7, 8.2, 'Pedro Sánchez', 'The Wild
 Q(7, 212, 'Presidente, ¿por qué sigue defendiendo a José Luis Rodríguez Zapatero?', *F_ZP)
 B('pulso')
 unit(214, [ai('caja_fuerte'), cap('doc_14_joyas_Zapatero_TheObjective_11-06-2026.jpg', 'LAS JOYAS', ['Fotos de las joyas, en las bolsas de la Policía'], 'The Objective · 11/06/2026', at_='The Objective')])
-piece(215, [(None, 'Zapatero defiende'), ('Pidió la nulidad', None)], [bgc(dict(type='ficha', name='José Luis Rodríguez Zapatero', role='Expresidente del Gobierno · presunción de inocencia'), *F_ZP),
+piece(215, [(None, 'organización criminal'), ('en la causa', 'Zapatero defiende'), ('Pidió la nulidad', None)], [bgc(dict(type='ficha', name='José Luis Rodríguez Zapatero', role='Expresidente del Gobierno · presunción de inocencia'), *F_ZP),
            vid('ar_zapatero_audiencia__01.mp4', 6, at='nulidad')])
 U[-1]['shots'][0].update(stamp('INVESTIGADO', 'amber'))
 unit(216, [aviso(['MITIN DEL PSOE'], DE + 'ul_zapatero_tener_poco__02.mp4', 4)])
@@ -448,7 +451,7 @@ B('tema')
 piece(304, [(None, 'Así lo recuerda')],
       [vid('ar_dana_coches__03.mp4', 60), vid('ar_ceuta_espigon__02.mp4', 50, at='Ceuta', blur=18),
        at(bgc(dict(type='recap', title='Ocho años', items=['Ábalos y Koldo García · condenados', 'Santos Cerdán · investigado', 'Zapatero · investigado', 'Begoña Gómez · procesada', 'David Sánchez · condenado (no firme)', 'Fiscal general del Estado · condenado', 'Pedro Sánchez · sin imputación']), *F_CONGRESO), 'exministro')])
-piece(305, [(None, 'Quienes le defienden'), ('Quienes le critican', None)], [ai('congreso_tribuna_vacia_luz')])
+piece(305, [(None, 'Quienes le defienden'), ('Este documental', 'no ha querido'), ('Solo ha puesto', None)], [ai('congreso_tribuna_vacia_luz')], lower=True)
 unit(306, [vid('mocion2018_sanchez_dimita.mp4', 1, base=EX)])
 C(EX + 'mocion2018_sanchez_dimita.mp4', 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder', 16.3, 30.3, lt_at=2.4, crop=[0.0, 0.08, 0.9, 0.9])
 unit(308, [ai('congreso_noche')])

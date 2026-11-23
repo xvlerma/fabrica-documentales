@@ -1,28 +1,100 @@
 [
  {
-  "src": "2b6b03e918",
+  "src": "7c7eb7045d",
   "parts": [
    [
     null,
-    "Según RecuerdaMaldita"
-   ]
-  ],
-  "text": "Quien defendió aquella moción desde la tribuna en nombre del PSOE fue José Luis Ábalos.",
-  "key": "a31e8ba254",
-  "voice": "NEW",
-  "old": 75
- },
- {
-  "src": "2b6b03e918",
-  "parts": [
+    "de Televisión"
+   ],
    [
-    "Según RecuerdaMaldita",
+    "fue más lejos",
     null
    ]
   ],
-  "text": "Según recuerda Maldita.es, dijo que la presentaban para sacar de la política la corrupción. Rajoy le contestó así.",
-  "key": "01e9d63488",
+  "text": "Y tres semanas después, en el debate electoral fue más lejos. Habló de Carles Puigdemont, que había huido a Bélgica.",
+  "key": "a8b8eea7e9",
+  "voice": "TOP",
+  "old": 29
+ },
+ {
+  "src": "ef5f6f6a0d",
+  "parts": [
+   [
+    "Seis años",
+    "Hubo votos"
+   ]
+  ],
+  "text": "Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados.",
+  "key": "d2d5604cf6",
+  "voice": "TOP",
+  "old": 142
+ },
+ {
+  "src": "bdbf5ed896",
+  "parts": [
+   [
+    null,
+    "La visita"
+   ]
+  ],
+  "text": "El treinta de julio, según recogió Maldita.es, el Ministerio del Interior sostiene que no es posible declarar la situación de emergencia nacional. El treinta y uno, el presidente viaja a Ceuta.",
+  "key": "b96454f9ad",
   "voice": "NEW",
-  "old": 75
+  "old": 153
+ },
+ {
+  "src": "1d3fe915d2",
+  "parts": [
+   [
+    null,
+    "Ese día"
+   ]
+  ],
+  "text": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada.",
+  "key": "7d9be46814",
+  "voice": "TOP",
+  "old": 191
+ },
+ {
+  "src": "d175bd9b38",
+  "parts": [
+   [
+    null,
+    "organización criminal"
+   ],
+   [
+    "en la causa",
+    "Zapatero defiende"
+   ],
+   [
+    "Pidió la nulidad",
+    null
+   ]
+  ],
+  "text": "El auto del diecinueve de mayo le investiga por tráfico de influencias, en la causa que examina el rescate público de la aerolínea Plus Ultra. Y hay una pieza separada, por contrabando y delito fiscal, por las joyas. Pidió la nulidad de la causa, y le fue rechazada.",
+  "key": "581a71d3dc",
+  "voice": "NEW",
+  "old": 215
+ },
+ {
+  "src": "893532dcee",
+  "parts": [
+   [
+    null,
+    "Quienes le defienden"
+   ],
+   [
+    "Este documental",
+    "no ha querido"
+   ],
+   [
+    "Solo ha puesto",
+    null
+   ]
+  ],
+  "text": "[serious] Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. [pause] Este documental solo ha puesto, una al lado de otra, sus palabras y los hechos.",
+  "key": "a943a51bd1",
+  "voice": "TOP",
+  "old": 305
  }
 ]

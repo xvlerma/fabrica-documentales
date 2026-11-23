@@ -437,7 +437,7 @@
  },
  "split_still": 5.0,
  "picks": {},
- "rev": 5,
+ "rev": 6,
  "units": [
   {
    "k": "B",
@@ -3125,27 +3125,6 @@
   },
   {
    "k": "R",
-   "text": "Los cargos eran de todo tipo. Restaurantes, viajes, ropa, joyas, retiradas de dinero en cajeros. Gastos que no se declaraban a Hacienda como lo que en realidad eran: un sobresueldo.",
-   "voice": "DAT",
-   "shots": [
-    {
-     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c244/2bf0/6992d122807edf2d3dafc3a00b434afb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=95e47f04dfef7ae79a45a52dd12c86bab608929ed37602b70db29597003a4aa1",
-     "at": "Los cargos"
-    },
-    {
-     "card": {
-      "type": "kw",
-      "word": "SOBRESUELDO",
-      "sub": "gastos sin declarar a Hacienda"
-     },
-     "at": "un sobresueldo"
-    }
-   ],
-   "gen": "QIbHBsHbg1Dis3hz0ZAB",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Ns2deYBP6df92b6fum5G/QIbHBsHbg1Dis3hz0ZAB/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=pOjAW0cPpRs0XqDeykXU9C9P0vk="
-  },
-  {
-   "k": "R",
    "text": "Según la sentencia, los consejeros propuestos por el PP gastaron más de dos coma nueve millones. Los propuestos por el PSOE, uno coma tres. Los de Izquierda Unida, más de ochocientos mil euros. El resto, directivos y representantes de otras organizaciones.",
    "voice": "DAT",
    "shots": [
@@ -3526,23 +3505,6 @@
    ],
    "gen": "Tm4gYNNl0QZGoGCwie34",
    "url": "jobs/bankia/voz/Tm4gYNNl0QZGoGCwie34.mp3"
-  },
-  {
-   "k": "N",
-   "text": "Dicho de otro modo. Para la justicia civil, el folleto engañaba. Para la justicia penal, nadie cometió un delito al redactarlo. Son dos jurisdicciones distintas, con exigencias distintas. Pero para un pequeño ahorrador, la diferencia es muy difícil de entender.",
-   "voice": "NEW",
-   "shots": [
-    {
-     "card": {
-      "type": "kw",
-      "word": "DOS JUSTICIAS",
-      "sub": "las mismas cuentas, respuestas opuestas"
-     },
-     "at": "Dicho de otro modo"
-    }
-   ],
-   "gen": "KfkC82faFKihe2Xji13W",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/g6YibvkAgPFDB1hirk61/KfkC82faFKihe2Xji13W/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=5ELuo3QOtxjGnWd1NViXHU8J6Rs="
   },
   {
    "k": "N",

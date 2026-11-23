@@ -74,9 +74,6 @@ NEW("Y en medio de todo esto, estalla otro escándalo. Otoño de dos mil catorce
 DAT("Sesenta y cinco condenados en dos mil diecisiete. Unos doce millones de euros gastados entre dos mil tres y dos mil doce. Joyas, viajes, restaurantes, ropa. Había usuarios propuestos por el Partido Popular, por el PSOE, por Izquierda Unida, por los sindicatos y por la patronal.",
     cd(dict(type='counter', **{'from': 0}, to=12, label='millones de euros gastados con las tarjetas black · 2003-2012', suffix=' M€'), at='Unos doce millones de euros'),
     cd(dict(type='list', header='Tarjetas black · sentencia de 2017', items=[('Condenados', '65'), ('Miguel Blesa', '6 años de prisión'), ('Rodrigo Rato', '4 años y medio')]), at='Sesenta y cinco condenados'))
-DAT("Los cargos eran de todo tipo. Restaurantes, viajes, ropa, joyas, retiradas de dinero en cajeros. Gastos que no se declaraban a Hacienda como lo que en realidad eran: un sobresueldo.",
-    ai('tarjeta_mantel', 'a matte black credit card lying on a white tablecloth among restaurant receipts, champagne glasses and a jewellery box, dim candlelight', at='Los cargos'),
-    cd(dict(type='kw', word='SOBRESUELDO', sub='gastos sin declarar a Hacienda'), at='un sobresueldo'))
 DAT("Según la sentencia, los consejeros propuestos por el PP gastaron más de dos coma nueve millones. Los propuestos por el PSOE, uno coma tres. Los de Izquierda Unida, más de ochocientos mil euros. El resto, directivos y representantes de otras organizaciones.",
     cd(dict(type='list', header='Gasto con las tarjetas black por origen del consejero', items=[('Propuestos por el PP', 'más de 2,9 millones'), ('Propuestos por el PSOE', '1,34 millones'), ('Propuestos por IU', 'más de 818.000 euros')]), at='Según la sentencia, los consejeros'))
 NAR("Miguel Blesa, el antecesor de Rato en Caja Madrid, es condenado a seis años. Fallecerá en dos mil diecisiete, antes de que su condena sea firme. Rato, a cuatro años y medio. El Supremo lo confirma en octubre de dos mil dieciocho.",
@@ -126,8 +123,6 @@ NAR("[softly] Y así queda una paradoja difícil de explicar. La justicia civil 
     cd(dict(type='split', left=dict(title='Vía civil · 2016', lines=['El folleto indujo a error', 'Hay que devolver el dinero']), right=dict(title='Vía penal · 2020-2022', lines=['No se prueba ningún delito', 'Los 34, absueltos']), strike=False), at='una paradoja difícil de explicar'),
     ai('dos_puertas', 'two identical heavy wooden courtroom doors side by side in a marble hall, one lit warm gold, the other cold blue, a lone figure standing between them seen from behind', at='Y las dos conviven'))
 
-NEW("Dicho de otro modo. Para la justicia civil, el folleto engañaba. Para la justicia penal, nadie cometió un delito al redactarlo. Son dos jurisdicciones distintas, con exigencias distintas. Pero para un pequeño ahorrador, la diferencia es muy difícil de entender.",
-    cd(dict(type='kw', word='DOS JUSTICIAS', sub='las mismas cuentas, respuestas opuestas'), at='Dicho de otro modo'))
 NEW("[pause] Y la historia de Rato con Bankia todavía guardaba un capítulo más. ¿Recuerdas la gran campaña publicitaria de la salida a bolsa?",
     AIR('marquesina', at='la gran campaña publicitaria'))
 DOC("Diciembre de dos mil veinticuatro. La Audiencia Provincial de Madrid condena a Rodrigo Rato a cuatro años, nueve meses y un día de prisión por tres delitos fiscales, blanqueo de capitales y corrupción entre particulares. Entre los hechos que da por probados: que impuso que Bankia contratara a dos agencias de publicidad, Publicis y Zenith, a cambio de comisiones.",

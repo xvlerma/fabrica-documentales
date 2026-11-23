@@ -1,6 +1,6 @@
 # Bankia · guion
 
-Palabras: **5714** (objetivo 5.220 ±3 %) · caracteres: 33224 · por voz: NAR 1757 (31 %), DAT 1249 (22 %), NEW 1713 (30 %), PRE 428 (7 %), RAJ 37 (1 %), DOC 457 (8 %), CAS 37 (1 %), RAT 33 (1 %), CEL 3 (0 %)
+Palabras: **5644** (objetivo 5.220 ±3 %) · caracteres: 32782 · por voz: NAR 1757 (31 %), DAT 1219 (22 %), NEW 1673 (30 %), PRE 428 (8 %), RAJ 37 (1 %), DOC 457 (8 %), CAS 37 (1 %), RAT 33 (1 %), CEL 3 (0 %)
 
 **NARRADOR (TOP)** · Madrid. Viernes, veinticinco de mayo de dos mil doce. Cuatro y media de la tarde. En la sede de Bankia, el consejo de administración se encierra en una sala.
 
@@ -268,8 +268,6 @@ _[música sola · 6 s]_
 
 **EL MARCADOR** · Sesenta y cinco condenados en dos mil diecisiete. Unos doce millones de euros gastados entre dos mil tres y dos mil doce. Joyas, viajes, restaurantes, ropa. Había usuarios propuestos por el Partido Popular, por el PSOE, por Izquierda Unida, por los sindicatos y por la patronal.
 
-**EL MARCADOR** · Los cargos eran de todo tipo. Restaurantes, viajes, ropa, joyas, retiradas de dinero en cajeros. Gastos que no se declaraban a Hacienda como lo que en realidad eran: un sobresueldo.
-
 **EL MARCADOR** · Según la sentencia, los consejeros propuestos por el PP gastaron más de dos coma nueve millones. Los propuestos por el PSOE, uno coma tres. Los de Izquierda Unida, más de ochocientos mil euros. El resto, directivos y representantes de otras organizaciones.
 
 **NARRADOR (TOP)** · Miguel Blesa, el antecesor de Rato en Caja Madrid, es condenado a seis años. Fallecerá en dos mil diecisiete, antes de que su condena sea firme. Rato, a cuatro años y medio. El Supremo lo confirma en octubre de dos mil dieciocho.
@@ -305,8 +303,6 @@ _[música sola · 2 s]_
 **PRENSA** · Ya en dos mil veinte, al conocer la absolución, la plataforma ciudadana que había impulsado la causa reaccionó con un comunicado que pedía un cambio en las leyes y resumía el sentimiento de muchos afectados en una frase: nunca más un caso Bankia.
 
 **NARRADOR (TOP)** · Y así queda una paradoja difícil de explicar. La justicia civil dijo que el folleto engañó a los pequeños inversores y obligó a devolverles el dinero. La justicia penal dijo que no se probó que nadie cometiera un delito. Las dos sentencias son firmes. Y las dos conviven.
-
-**NARRADOR (NEW)** · Dicho de otro modo. Para la justicia civil, el folleto engañaba. Para la justicia penal, nadie cometió un delito al redactarlo. Son dos jurisdicciones distintas, con exigencias distintas. Pero para un pequeño ahorrador, la diferencia es muy difícil de entender.
 
 **NARRADOR (NEW)** · Y la historia de Rato con Bankia todavía guardaba un capítulo más. ¿Recuerdas la gran campaña publicitaria de la salida a bolsa?
 

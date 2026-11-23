@@ -76,7 +76,7 @@ md = f"""# Bankia · paquete de YouTube
 
 **Etiquetas** ({len(','.join(TAGS))} caracteres): {', '.join(TAGS)}
 
-**Ajustes:** Educación · Español (España) · no creado para niños · sin promoción pagada · Contenido alterado o sintético: Sí (voces recreadas de declaraciones reales) · capítulos automáticos desactivados · subtítulos bankia.srt · pantalla final 1 vídeo + suscribirse
+**Ajustes:** Educación · Español (España) · no creado para niños · sin promoción pagada · Uso de IA: No · capítulos automáticos desactivados · subtítulos bankia.srt · pantalla final 1 vídeo + suscribirse
 
 ## Descripción ({len(desc)} caracteres)
 

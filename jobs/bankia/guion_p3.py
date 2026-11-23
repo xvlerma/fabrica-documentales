@@ -104,6 +104,7 @@ CAS("Metes el chute, parece que cumples el capital, pero es un banco que destru�
     cd(dict(type='quote', text='Metes el chute, parece que cumples el capital, pero es un banco que destruía valor cada día.', attrib='José Antonio Casaus · declaración como testigo, abril de 2019'), at='destruía valor cada día'))
 PRE("El exgobernador del Banco de España Miguel Ángel Fernández Ordóñez niega haber recibido aquellos correos. Y Javier Aríztegui, que había sido subgobernador, defiende ante el tribunal que Bankia era un banco importante, con negocio en toda España, que tenía futuro.",
     ph('Miguel Ángel Fernández Ordóñez', at='Miguel Ángel Fernández Ordóñez', lt=['Miguel Ángel Fernández Ordóñez', 'Gobernador del Banco de España (2006-2012)', 'gobierno'], lugar='mafo'),
+    cd(dict(type='kw', word='JAVIER ARÍZTEGUI', sub='subgobernador del Banco de España (2006-2012)'), at='Y Javier Aríztegui'),
     AIR('testigo_estrado', at='defiende ante el tribunal'))
 NAR("[dramatically] El juicio termina en octubre de dos mil diecinueve. La sentencia tarda casi un año en llegar. Veintinueve de septiembre de dos mil veinte. La Audiencia Nacional dicta sentencia. Cuatrocientas cuarenta y dos páginas. Y un fallo que sorprende a casi todo el país.",
     ai('juez_lee', 'three judges in black robes seated at a raised bench in a modern courtroom, the central one reading from a thick document, everyone else frozen, dramatic cold light', at='La Audiencia Nacional dicta sentencia'),
@@ -126,7 +127,7 @@ NAR("[softly] Y así queda una paradoja difícil de explicar. La justicia civil 
     ai('dos_puertas', 'two identical heavy wooden courtroom doors side by side in a marble hall, one lit warm gold, the other cold blue, a lone figure standing between them seen from behind', at='Y las dos conviven'))
 
 NEW("Dicho de otro modo. Para la justicia civil, el folleto engañaba. Para la justicia penal, nadie cometió un delito al redactarlo. Son dos jurisdicciones distintas, con exigencias distintas. Pero para un pequeño ahorrador, la diferencia es muy difícil de entender.",
-    cd(dict(type='list', header='Dos justicias, dos respuestas', items=[('Vía civil · Supremo 2016', 'El folleto engañaba'), ('Vía penal · Audiencia 2020', 'Ningún delito')]), at='Dicho de otro modo'))
+    cd(dict(type='kw', word='DOS JUSTICIAS', sub='las mismas cuentas, respuestas opuestas'), at='Dicho de otro modo'))
 NEW("[pause] Y la historia de Rato con Bankia todavía guardaba un capítulo más. ¿Recuerdas la gran campaña publicitaria de la salida a bolsa?",
     AIR('marquesina', at='la gran campaña publicitaria'))
 DOC("Diciembre de dos mil veinticuatro. La Audiencia Provincial de Madrid condena a Rodrigo Rato a cuatro años, nueve meses y un día de prisión por tres delitos fiscales, blanqueo de capitales y corrupción entre particulares. Entre los hechos que da por probados: que impuso que Bankia contratara a dos agencias de publicidad, Publicis y Zenith, a cambio de comisiones.",
@@ -166,6 +167,9 @@ NEW("Hay una lección que sirve para cualquiera que tenga unos ahorros. Que una 
 NEW("Algunas cosas sí cambiaron. Las cajas de ahorros, tal y como existían, desaparecieron: se convirtieron en bancos o en fundaciones. Y desde noviembre de dos mil catorce, los grandes bancos de la zona euro los supervisa directamente el Banco Central Europeo, desde Fráncfort.",
     ph('European Central Bank headquarters Frankfurt', at='el Banco Central Europeo', lt=['Banco Central Europeo', 'Fráncfort'], lugar='bce'))
 NAR("Muchos de aquellos trescientos cuarenta y siete mil accionistas recuperaron su dinero gracias a los tribunales civiles. Otros, los que compraron más tarde en la bolsa, no tuvieron esa suerte. Y todos, como contribuyentes, pagaron una parte del rescate. Sin haber firmado nada.",
+    cd(dict(type='kw', word='190.000', sub='accionistas recuperaron su inversión por la vía civil'), at='recuperaron su dinero'),
+    AIR('cartera_vacia', at='no tuvieron esa suerte'),
+    AIR('cola_oficina', at='como contribuyentes'),
     AIR('ventanas_casas', at='Sin haber firmado nada'))
 NAR("[pause] El veinte de julio de dos mil once, una campana sonó en la Bolsa de Madrid. Prometía un banco nuevo, sólido y de todos. En cierto modo, la promesa se cumplió. Bankia acabó siendo de todos. Pero no como nadie había imaginado.",
     AIR('campana_bolsa', at='una campana sonó en la Bolsa de Madrid'),

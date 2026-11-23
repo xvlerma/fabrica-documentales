@@ -50,6 +50,7 @@ DAT("Una caja de ahorros no tenía dueños ni accionistas. Sus consejos se repar
     ai('consejo_caja', 'a crowded old-fashioned boardroom of a savings bank with wood panelling, men of different ages arguing across the table, seen from behind, cigarette smoke and warm lamplight', at='Sus consejos se repartían'),
     ph('Banco de España Madrid edificio', at='el Banco de España', lt=['Banco de España', 'Madrid'], lugar='bde'))
 DAT("La más grande de todas tenía casi tres siglos de historia. Caja Madrid nació del Monte de Piedad que fundó el sacerdote Francisco Piquer en mil setecientos dos, para prestar a los pobres sin usura. En dos mil nueve manejaba unos ciento ochenta mil millones de euros.",
+    ph('Monte de Piedad Madrid Descalzas', at='La más grande'),
     ph('Monte de Piedad Madrid Descalzas', at='Monte de Piedad', lt=['Antiguo Monte de Piedad', 'Madrid'], lugar='cajamadrid'),
     ai('monte_piedad', 'an eighteenth-century Madrid pawn office interior, poor families in period clothes handing over bundles to a clerk behind a wooden counter by candlelight, oil painting, faces in shadow', at='para prestar a los pobres'))
 NAR("La mayor de todas esas uniones nace el treinta de julio de dos mil diez. Siete cajas firman un contrato de integración. Dos gigantes, Caja Madrid y Bancaja. Y cinco pequeñas: la Caja Insular de Canarias, Caja de Ávila, Caixa Laietana, Caja Segovia y Caja Rioja.",
@@ -75,6 +76,7 @@ NAR("Rodrigo Rato. Vicepresidente económico en los gobiernos de José María Az
 PRE("Su llegada no fue sencilla. Durante casi un año, el Partido Popular de Madrid libró una guerra interna por el control de la caja. La presidenta de la Comunidad, Esperanza Aguirre, quería a su número dos, Ignacio González. El alcalde, Alberto Ruiz-Gallardón, se oponía. Y el líder nacional del partido lo dijo en televisión.",
     ph('Esperanza Aguirre', at='Esperanza Aguirre', lt=['Esperanza Aguirre', 'Presidenta de la Comunidad de Madrid (2003-2012)', 'gobierno'], lugar='aguirre'),
     ph('Alberto Ruiz-Gallardón', at='Alberto Ruiz-Gallardón', lt=['Alberto Ruiz-Gallardón', 'Alcalde de Madrid (2003-2011)', 'gobierno'], lugar='gallardon'),
+    ph('Mariano Rajoy 2011', at='el líder nacional', lt=['Mariano Rajoy', 'Líder del PP', 'gobierno'], lugar='rajoy'),
     ai('pulso_mesa', 'two hands in dark suit sleeves locked in an arm-wrestle on a polished table under a single hanging lamp, other men watching in shadow, tense, oil painting', at='una guerra interna'))
 RAJ("Si yo tuviera que nombrar a un presidente de Caja Madrid, ése sería Rato.",
     cd(dict(type='quote', text='Si yo tuviera que nombrar a un presidente de Caja Madrid, ése sería Rato.', attrib='Mariano Rajoy · entrevista en Antena 3, octubre de 2009'), at='Si yo tuviera que nombrar'))
@@ -127,10 +129,6 @@ PRE("En los despachos de Madrid se decía que la salida a bolsa de Bankia era un
 PRE("Y mientras tanto, en la calle, el país hierve. El quince de mayo de dos mil once, miles de personas acampan en la Puerta del Sol. Una de sus pancartas se repetiría por toda España: no somos mercancía en manos de políticos y banqueros.",
     ph('Acampada Sol 15M Madrid 2011', at='acampan en la Puerta del Sol', lt=['Puerta del Sol, Madrid', 'Mayo de 2011'], lugar='sol15m'),
     ai('plaza_noche', 'a vast crowd of young people camped in a city square at night under tarps and lights, banners without readable text, warm glow, seen from above, oil painting', at='en manos de políticos y banqueros'))
-NEW("En las pancartas de Sol hay una frase que se repite. No somos mercancía en manos de políticos y banqueros. Muy cerca de allí, en las oficinas del nuevo banco, se prepara la mayor colocación de acciones del año.",
-    ph('Acampada Sol 15M Madrid 2011', at='En las pancartas', lt=['Acampada del 15-M', 'Puerta del Sol, Madrid'], lugar='sol15m'),
-    cd(dict(type='quote', text='No somos mercancía en manos de políticos y banqueros', attrib='Lema de Democracia Real Ya · 2011'), at='No somos'),
-    ai('oficina_preparativos', 'inside a bank branch after hours, stacks of glossy brochures being unpacked onto desks, green lamps, figures seen from behind', at='Muy cerca'))
 NAR("Así que el veintinueve de junio de dos mil once, la Comisión Nacional del Mercado de Valores registra el folleto de la oferta. Cientos de páginas. Cifras, riesgos, cuentas. Un documento que, años después, el Tribunal Supremo examinaría frase a frase.",
     ph('Comisión Nacional del Mercado de Valores sede Madrid', at='la Comisión Nacional del Mercado de Valores', lt=['CNMV', 'Madrid'], lugar='cnmv'),
     ai('folleto_grueso', 'a thick bound prospectus document dropped heavily onto a desk, pages fluttering, dust in a shaft of light, no readable text', at='registra el folleto'),

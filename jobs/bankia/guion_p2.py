@@ -145,7 +145,7 @@ NEW("[pause] Doce días después, el sábado nueve de junio, el Eurogrupo acuerd
 RAJ("El crédito es a la banca y lo va a pagar la banca.",
     cd(dict(type='quote', text='El crédito es a la banca y lo va a pagar la banca.', attrib='Mariano Rajoy · Congreso de los Diputados, junio de 2012'), at='lo va a pagar la banca'))
 NAR("Al día siguiente, el domingo diez de junio, Rajoy viaja a Gdansk, en Polonia, para ver a la selección española debutar en la Eurocopa contra Italia. La imagen del presidente en el palco, un día después de pedir ayuda para la banca, da la vuelta a Europa.",
-    ph('PGE Arena Gdańsk stadium', at='Gdansk', lt=['Estadio de Gdansk', 'Polonia'], lugar='gdansk'),
+    cd(dict(type='kw', word='GDANSK', sub='España–Italia · Eurocopa · 10 de junio de 2012'), at='Gdansk'),
     ai('palco_futbol', 'a VIP box high above a floodlit football stadium at night, silhouettes of men in suits seen from behind, crowd lights below', at='La imagen'))
 DAT("Antes, el veintiuno de junio, dos consultoras independientes, Oliver Wyman y Roland Berger, habían calculado lo que necesitaba toda la banca española en el peor escenario: hasta sesenta y dos mil millones de euros.",
     cd(dict(type='counter', **{'from': 0}, to=62000, label='millones que necesitaría la banca española en el peor escenario · junio de 2012', suffix=' M€'), at='hasta sesenta y dos mil millones'))

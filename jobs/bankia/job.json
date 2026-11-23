@@ -437,7 +437,7 @@
  },
  "split_still": 5.0,
  "picks": {},
- "rev": 4,
+ "rev": 5,
  "units": [
   {
    "k": "B",
@@ -772,6 +772,11 @@
     {
      "photo": "Monte de Piedad Madrid Descalzas",
      "src": "commons,loc,europeana",
+     "at": "La más grande"
+    },
+    {
+     "photo": "Monte de Piedad Madrid Descalzas",
+     "src": "commons,loc,europeana",
      "at": "Monte de Piedad",
      "lt": [
       "Antiguo Monte de Piedad",
@@ -981,6 +986,17 @@
       "gobierno"
      ],
      "lugar": "gallardon"
+    },
+    {
+     "photo": "Mariano Rajoy 2011",
+     "src": "commons,loc,europeana",
+     "at": "el líder nacional",
+     "lt": [
+      "Mariano Rajoy",
+      "Líder del PP",
+      "gobierno"
+     ],
+     "lugar": "rajoy"
     }
    ],
    "gen": "ArlRHWuDh6ZUMmGJKlx4",
@@ -1358,37 +1374,6 @@
    ],
    "gen": "ylDcoaXrSXm0lzzraWU4",
    "url": "jobs/bankia/voz/ylDcoaXrSXm0lzzraWU4.mp3"
-  },
-  {
-   "k": "N",
-   "text": "En las pancartas de Sol hay una frase que se repite. No somos mercancía en manos de políticos y banqueros. Muy cerca de allí, en las oficinas del nuevo banco, se prepara la mayor colocación de acciones del año.",
-   "voice": "NEW",
-   "shots": [
-    {
-     "photo": "Acampada Sol 15M Madrid 2011",
-     "src": "commons,loc,europeana",
-     "at": "En las pancartas",
-     "lt": [
-      "Acampada del 15-M",
-      "Puerta del Sol, Madrid"
-     ],
-     "lugar": "sol15m"
-    },
-    {
-     "card": {
-      "type": "quote",
-      "text": "No somos mercancía en manos de políticos y banqueros",
-      "attrib": "Lema de Democracia Real Ya · 2011"
-     },
-     "at": "No somos"
-    },
-    {
-     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/3c1c/5546/d6b69544e29e20f3c5ea1cf0b2e56d52.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fcbccf2998eee371ba35f8dc21bdf1079ea3c6a15876a4ae56c2a9fc132ddb5e",
-     "at": "Muy cerca"
-    }
-   ],
-   "gen": "pWYdXS9sSC5GURFtO8HT",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2d5ZQBZv0jQMDpbpkU1z/pWYdXS9sSC5GURFtO8HT/content.mp3?Expires=1795402800&KeyName=assets-cdn-key-1&Signature=I59oLViZJ9kD88s-ETIGnN5UAPA="
   },
   {
    "k": "N",
@@ -2463,14 +2448,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "PGE Arena Gdańsk stadium",
-     "src": "commons,loc,europeana",
-     "at": "Gdansk",
-     "lt": [
-      "Estadio de Gdansk",
-      "Polonia"
-     ],
-     "lugar": "gdansk"
+     "card": {
+      "type": "kw",
+      "word": "GDANSK",
+      "sub": "España–Italia · Eurocopa · 10 de junio de 2012"
+     },
+     "at": "Gdansk"
     },
     {
      "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1bfa/7843/624bc2f5fb553040aaef448061025ed7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e8db98cfafe1534f39fb8e2c33af1578a64e732421fe7b075650dd9c775be781",
@@ -3363,6 +3346,14 @@
      "lugar": "mafo"
     },
     {
+     "card": {
+      "type": "kw",
+      "word": "JAVIER ARÍZTEGUI",
+      "sub": "subgobernador del Banco de España (2006-2012)"
+     },
+     "at": "Y Javier Aríztegui"
+    },
+    {
      "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/3ce0/9372/2b0ff522c8580eb601cce701ec352ef1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6dc3a4cef6114aa98e3219194c1bd78e881292e8503c7233e9bd2f909659cb59",
      "at": "defiende ante el tribunal"
     }
@@ -3543,18 +3534,9 @@
    "shots": [
     {
      "card": {
-      "type": "list",
-      "header": "Dos justicias, dos respuestas",
-      "items": [
-       [
-        "Vía civil · Supremo 2016",
-        "El folleto engañaba"
-       ],
-       [
-        "Vía penal · Audiencia 2020",
-        "Ningún delito"
-       ]
-      ]
+      "type": "kw",
+      "word": "DOS JUSTICIAS",
+      "sub": "las mismas cuentas, respuestas opuestas"
      },
      "at": "Dicho de otro modo"
     }
@@ -3863,6 +3845,22 @@
    "text": "Muchos de aquellos trescientos cuarenta y siete mil accionistas recuperaron su dinero gracias a los tribunales civiles. Otros, los que compraron más tarde en la bolsa, no tuvieron esa suerte. Y todos, como contribuyentes, pagaron una parte del rescate. Sin haber firmado nada.",
    "voice": "NAR",
    "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "190.000",
+      "sub": "accionistas recuperaron su inversión por la vía civil"
+     },
+     "at": "recuperaron su dinero"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b5e6/02c9/e8a94a0274c5d746b75a5f92ebc96624.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=57d6ca0a885290de6868495eb305469887043b41aad65375da8854bdd9c58414",
+     "at": "no tuvieron esa suerte"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8a20/1d43/a3f535e1b3758b72a2486101300e8dea.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5da1e7d03a8f936e237c320218e804bc6a6b253401c8c9d05e688f2be52012dc",
+     "at": "como contribuyentes"
+    },
     {
      "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a1d1/9d30/e2e605828d43f4d3197e2142f7187d16.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0979ffa742abad014f29e6bffc16f31ab039ef363259d8bed59de2177f5f2b9b",
      "at": "Sin haber firmado nada"

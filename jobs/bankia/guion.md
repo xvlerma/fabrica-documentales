@@ -1,6 +1,6 @@
 # Bankia · guion
 
-Palabras: **5753** (objetivo 5.220 ±3 %) · caracteres: 33434 · por voz: NAR 1757 (31 %), DAT 1249 (22 %), NEW 1752 (30 %), PRE 428 (7 %), RAJ 37 (1 %), DOC 457 (8 %), CAS 37 (1 %), RAT 33 (1 %), CEL 3 (0 %)
+Palabras: **5714** (objetivo 5.220 ±3 %) · caracteres: 33224 · por voz: NAR 1757 (31 %), DAT 1249 (22 %), NEW 1713 (30 %), PRE 428 (7 %), RAJ 37 (1 %), DOC 457 (8 %), CAS 37 (1 %), RAT 33 (1 %), CEL 3 (0 %)
 
 **NARRADOR (TOP)** · Madrid. Viernes, veinticinco de mayo de dos mil doce. Cuatro y media de la tarde. En la sede de Bankia, el consejo de administración se encierra en una sala.
 
@@ -88,8 +88,6 @@ _[música sola · 6 s]_
 **PRENSA** · En los despachos de Madrid se decía que la salida a bolsa de Bankia era una cuestión de Estado. Si fracasaba, el mensaje a los mercados sería terrible: que el sistema financiero español no podía sostenerse solo.
 
 **PRENSA** · Y mientras tanto, en la calle, el país hierve. El quince de mayo de dos mil once, miles de personas acampan en la Puerta del Sol. Una de sus pancartas se repetiría por toda España: no somos mercancía en manos de políticos y banqueros.
-
-**NARRADOR (NEW)** · En las pancartas de Sol hay una frase que se repite. No somos mercancía en manos de políticos y banqueros. Muy cerca de allí, en las oficinas del nuevo banco, se prepara la mayor colocación de acciones del año.
 
 **NARRADOR (TOP)** · Así que el veintinueve de junio de dos mil once, la Comisión Nacional del Mercado de Valores registra el folleto de la oferta. Cientos de páginas. Cifras, riesgos, cuentas. Un documento que, años después, el Tribunal Supremo examinaría frase a frase.
 

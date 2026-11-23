@@ -32,6 +32,17 @@ for u in U:
         n = os.path.basename(u['src'])[:-4]
         if n in HLS_CUT: u.update(HLS_CUT[n])
         else: u['in'], u['out'] = 0, 8.0  # provisional para el casting
+# coherencia (revisión de cast_NN.jpg): planos IA que no enseñaban lo que dice la frase
+FIX = {'Pisos en los sumarios': {'card': {'type': 'aviso', 'lines': ['Pisos en los sumarios.', 'Viviendas prometidas.'], 'head': True, 'size': 56}},
+       'Barbate, nueve de febrero': {'card': {'type': 'aviso', 'lines': ['Barbate (Cádiz) · 09/02/2024', 'Dos guardias civiles muertos', 'OCON-Sur desmantelada poco antes, según la prensa'], 'head': True, 'size': 46}},
+       'Tras los cinco días de reflexión': {'card': {'type': 'aviso', 'lines': ['Plan de Acción por la Democracia', 'Medios de comunicación · publicidad institucional'], 'head': True, 'size': 48}},
+       'La Generalitat Valenciana, gobernada': {'file': 'media/e29n90/broll/ar_dana_coches__03.mp4', 'start': 30}}
+for u in U:
+    for k_, new in FIX.items():
+        if u['k'] in ('N', 'R') and k_ in u.get('text', ''):
+            sh_ = [x for x in u['shots'] if 'ai' not in x and 'ai_key' not in x]
+            u['shots'] = [dict(new)] + [x for x in sh_ if x.get('at')]
+            print('coherencia:', k_, '->', len(u['shots']), 'planos')
 faltan = []
 for i, u in enumerate(U):
     for s in u.get('shots', []):

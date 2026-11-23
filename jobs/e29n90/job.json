@@ -1940,7 +1940,15 @@
    "text": "[softly] Pisos en los sumarios. Viviendas prometidas. [pause] De las viviendas hablaremos. [short pause] Pero antes hay otra pregunta. Porque las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa.",
    "shots": [
     {
-     "ai": "https://s3-alpha-sig.figma.com/img/3b01/b5af/a3309fd0f579fd6a308382869ea01dcb.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=XtKOEaZvWsENPcW6iVCrrHY0-JEwqQ4iYYYpgu-vSJBNYTv~euUxriNc3-hBSaTRWiBQ0jEaIZfV2uZpp22nVcsHj-txJx7yN7ZRzmxaryxdpTdYc-VIE9DEQsGextEu7y9hO6km0qC6AXt9wujeQfdqXiGxMX0SJG5yFKAxf~0R8FyY7ES9Z5AcCA5RSFiEU-X3lAq4Tbutn-4ngSK2JCpgwASQ2vfhHd9pHF~-U6IQUcojcxietb1fcxXkUnr9Ly3OU2DVqU4U29iZmEW~DhoHYSPl9bntQxQdk5cbXZrVNywBtrKecsMot6uWs8XJrorKGqYDJPzICpwS5I95tA__"
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "Pisos en los sumarios.",
+       "Viviendas prometidas."
+      ],
+      "head": true,
+      "size": 56
+     }
     }
    ],
    "url": "media/e29n90/voz/b2bab4971e.mp3"
@@ -2246,17 +2254,14 @@
    "text": "Tras los cinco días de reflexión, el Gobierno presentó un plan de acción por la democracia, con medidas sobre los medios de comunicación y la publicidad institucional. El presidente lo resumió con una idea que repetiría: no se puede confundir la libertad de información con la libertad de difamar. Sus críticos vieron en el plan un intento de señalar a la prensa que publicaba las investigaciones sobre su entorno. El Gobierno lo defendió como una adaptación a la normativa europea de libertad de medios.",
    "shots": [
     {
-     "ai": "https://s3-alpha-sig.figma.com/img/1e99/29dc/da335611e88364be1c46a4916c9a0cec.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=BNncUcxBYcL-II86MrVQ8Df13~n8JY-QwWefI7HlUVYUGzuAp4h-LvczFVle4S~LEwmzwQNg0V8cIF8e6oyIpmId3ddABD-gEe9EgqF-zZAk7n9uEjkG7IZ~8mcWSFm5dcasQLJ3sRAuRUdC5~haaLLi8b~YbJBP1z9Z8Qq19GHI~09pdlr6B2Hlr7EoklmDwc5AlPB-0G4x-KfaTcniBIJpy0plYA8~EwX5TvVF9PSlkzB~VKGXVrvt-8GsBFrv3IoQqsoCdEnkckt0w27mZcV7qxWe1UkbUSpI60THAaN6-066FzcVRFPGFRJ5MwztcWh48djPWdZQzG7QxVaN9g__"
-    },
-    {
      "card": {
       "type": "aviso",
       "lines": [
-       "LA DEFENSA",
-       "El plan adapta la normativa europea de libertad de medios."
+       "Plan de Acción por la Democracia",
+       "Medios de comunicación · publicidad institucional"
       ],
       "head": true,
-      "at": "defendió"
+      "size": 48
      }
     }
    ],
@@ -2835,18 +2840,8 @@
    "text": "La Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios. En Madrid nadie dimitió.",
    "shots": [
     {
-     "ai": "https://s3-alpha-sig.figma.com/img/8c3f/50d3/3ce49162e388138480ca4db57722e963.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=NnehzahwVacLOhccdpKdZsB89VNdQdbH1iLMrlVHiSSMwxDIZRSy-lOcYbBeB~fxWs1d-ALNhimz-mCIe2h2Gt38488j3y8PopJufm2hChxk9oFo6ryI4ooeiMYzYn53LeScVq7r2sKbvT9tIS7rpNW7ByovlKLFstUqZbOv1FFFSIqT-TBjh6mQ~I0ZjVwWXOo4w6pkhR3LJnUX3sTAfppKSzxQ4Ka2014N5ft9WAyv6ZvITRKAdoSJ7vxAC~tJGg35nSS0gwP48Zfv5h1OlU8MsG7clecyg6NhxW4kAi1~aG2Vb4BtR6fwpjGihswvuYpIE07IQqN9XKD~nw2YSQ__"
-    },
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "03/11/2025",
-       "Carlos Mazón dimite como presidente de la Generalitat"
-      ],
-      "head": true,
-      "at": "dimitió"
-     }
+     "file": "media/e29n90/broll/ar_dana_coches__03.mp4",
+     "start": 30
     }
    ],
    "url": "media/e29n90/voz/a538129fb4.mp3"
@@ -2936,28 +2931,15 @@
    "text": "Barbate, nueve de febrero de dos mil veinticuatro. Una narcolancha embiste a una embarcación de la Guardia Civil en el puerto. Mueren dos agentes. Las imágenes, grabadas desde el muelle, recorren el país. Según la prensa, el Ministerio del Interior había desmantelado poco antes la unidad especial de coordinación contra el narcotráfico en el Campo de Gibraltar, el OCON-Sur. Interior defendió que sus funciones se integraron en otras estructuras. El ministro Fernando Grande-Marlaska siguió en su puesto.",
    "shots": [
     {
-     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2efa/de44/457d6ccfddfabc880619cd3fee6eb380.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=41656fd9692bed32f4c0f46c4e382697310f107cfe01e009813c2219838b02cb"
-    },
-    {
      "card": {
       "type": "aviso",
       "lines": [
-       "BARBATE · 09/02/2024",
-       "Dos guardias civiles muertos"
+       "Barbate (Cádiz) · 09/02/2024",
+       "Dos guardias civiles muertos",
+       "OCON-Sur desmantelada poco antes, según la prensa"
       ],
       "head": true,
-      "at": "Mueren dos agentes"
-     }
-    },
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "LA DEFENSA",
-       "Interior: las funciones del OCON-Sur se integraron en otras unidades."
-      ],
-      "head": true,
-      "at": "Interior defendió"
+      "size": 46
      }
     }
    ],

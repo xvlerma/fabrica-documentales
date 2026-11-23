@@ -1,0 +1,94 @@
+[
+ {
+  "key": "a8b8eea7e9",
+  "segs": [
+   [
+    0.0,
+    2.44
+   ],
+   [
+    3.67,
+    7.72
+   ]
+  ],
+  "ok": true,
+  "heard": "Y tres semanas después, en el debate electoral de Trump, fue más lejos. Habló de Carles Puigdemont, que había huido a Bélgica.",
+  "text": "Y tres semanas después, en el debate electoral fue más lejos. Habló de Carles Puigdemont, que había huido a Bélgica."
+ },
+ {
+  "key": "d2d5604cf6",
+  "segs": [
+   [
+    4.27,
+    15.88
+   ]
+  ],
+  "ok": true,
+  "heard": "Seis años después, el 20 de noviembre de 2025, el Tribunal Supremo condenó al Fiscal General del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados.",
+  "text": "Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados."
+ },
+ {
+  "key": "b96454f9ad",
+  "segs": [
+   [
+    0.0,
+    11.76
+   ]
+  ],
+  "ok": true,
+  "heard": "El 30 de julio, según recogió Maldita.es, el Ministerio del Interior sostiene que no es posible declarar la situación de emergencia nacional. El 31. El presidente viaja a Ceuta.",
+  "text": "El treinta de julio, según recogió Maldita.es, el Ministerio del Interior sostiene que no es posible declarar la situación de emergencia nacional. El treinta y uno, el presidente viaja a Ceuta."
+ },
+ {
+  "key": "7d9be46814",
+  "segs": [
+   [
+    0.0,
+    10.88
+   ]
+  ],
+  "ok": true,
+  "heard": "muy baja. Bajísima. 28 de octubre de 2026, Urda, Toledo. Otro accidente ferroviario. 69 muertos según la información publicada.",
+  "text": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada."
+ },
+ {
+  "key": "581a71d3dc",
+  "segs": [
+   [
+    0.0,
+    3.8
+   ],
+   [
+    6.34,
+    14.98
+   ],
+   [
+    17.07,
+    19.97
+   ]
+  ],
+  "ok": true,
+  "heard": "El auto del 19 de mayo le investiga por tráfico de influencias en la causa que examina el rescate público de la aerolínea plusultra. Y hay una pieza separada, por contrabando y delito fiscal, por las joyas. Pidió la nulidad de la causa y le fue rechazada.",
+  "text": "El auto del diecinueve de mayo le investiga por tráfico de influencias, en la causa que examina el rescate público de la aerolínea Plus Ultra. Y hay una pieza separada, por contrabando y delito fiscal, por las joyas. Pidió la nulidad de la causa, y le fue rechazada."
+ },
+ {
+  "key": "a943a51bd1",
+  "segs": [
+   [
+    0.0,
+    16.06
+   ],
+   [
+    28.98,
+    30.48
+   ],
+   [
+    32.71,
+    36.65
+   ]
+  ],
+  "ok": true,
+  "heard": "Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. Este documental no ha, solo ha puesto una al lado de otra sus palabras y los hechos.",
+  "text": "[serious] Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. [pause] Este documental solo ha puesto, una al lado de otra, sus palabras y los hechos."
+ }
+]

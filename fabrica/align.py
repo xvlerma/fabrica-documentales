@@ -45,6 +45,24 @@ def transcribe(y, sr, model_name='small', cache_dir='/tmp'):
     json.dump(out, open(cp, 'w'), ensure_ascii=False)
     return out
 
+def remap(text, ws):
+    """Corrige el texto de un corte (nombres, cifras) conservando los tiempos de whisper palabra a palabra."""
+    tk = tokens(text)
+    if not ws or not tk: return []
+    hn = [w['n'] for w in ws]; sn = [n for _, n in tk]; times = [None] * len(tk); ends = [None] * len(tk)
+    sm = difflib.SequenceMatcher(None, sn, hn, autojunk=False)
+    for op, a0, a1, b0, b1 in sm.get_opcodes():
+        if op == 'equal':
+            for k in range(a1 - a0): times[a0 + k] = ws[b0 + k]['t']; ends[a0 + k] = ws[b0 + k].get('e')
+        elif op == 'replace' or (op == 'insert' and b1 > b0):
+            t0 = ws[b0]['t'] if b0 < len(ws) else ws[-1]['t']; t1 = ws[b1 - 1].get('e') or ws[b1 - 1]['t'] + 0.3
+            for k in range(a1 - a0): times[a0 + k] = t0 + (t1 - t0) * k / max(1, a1 - a0)
+    last = ws[0]['t']
+    for i in range(len(times)):
+        if times[i] is None: times[i] = last + 0.15
+        last = times[i] = max(times[i], last)
+    return [dict(w=o, n=n, t=round(t, 3), **({'e': e} if e else {})) for (o, n), t, e in zip(tk, times, ends)]
+
 def proportional(text, d):
     """Sin voz real (casting) o si falla whisper: reparto por caracteres."""
     tk = tokens(text); tot = sum(len(o) + 1 for o, _ in tk) or 1; acc = 0; out = []

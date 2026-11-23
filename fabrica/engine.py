@@ -210,11 +210,16 @@ def align_audio(job, U, A, job_dir, out_dir):
             i = e['i']; u = U[i]
             if e['k'] != 'C' or i not in A.get('CY', {}): continue
             key = f"c:{u.get('src', '')[-50:]}:{u.get('in')}:{u.get('out')}"
-            if str(i) in pre and pre[str(i)].get('key') == key: ws = pre[str(i)]['words']
-            elif u.get('subs') is not None: ws = u['subs']
+            if u.get('subs') is not None: ws = u['subs']
+            elif str(i) in pre and pre[str(i)].get('key') == key: ws = pre[str(i)]['words']
             else:
                 try: ws = AL.transcribe(A['CY'][i], SR, job.get('clip_model', 'small'), SRC.CACHE); n_wh += 1
                 except Exception as ex: log(f'  aviso transcripción corte {i}: {ex}'); continue
+            if u.get('subs_fix') and ws:
+                txt = ' '.join(w['w'] for w in ws)
+                for a_, b_ in u['subs_fix']: txt = txt.replace(a_, b_)
+                ws = AL.remap(txt, ws)
+            if u.get('subs_text') and ws: ws = AL.remap(u['subs_text'], ws)
             words[i] = dict(key=key, off=e['t'], words=ws, clip=True)
     json.dump({str(k): dict(key=v['key'], words=v['words']) for k, v in words.items()}, open(f'{out_dir}/align.json', 'w'), ensure_ascii=False)
     log(f'   alineación: {len(words)} unidades ({n_wh} con whisper, resto en caché o proporcional)')

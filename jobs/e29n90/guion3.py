@@ -212,7 +212,7 @@ unit(98)
 AUD(CO + 'clip_15_necesito_a_balas.mp4', 'Leire Díez (grabación)', 'Publicada por El Confidencial · febrero de 2025', 0, 4.0, '«Necesito a Balas»', CA + 'doc_03_sentencia_abalos_CGPJ_22-06-2026.jpg')
 piece(100, [(None, 'El PSOE dice'), ('Está investigada', None)], [bgc(dict(type='ficha', name='Leire Díez', role='Militante del PSOE'), *F_CONGRESO, **{})])
 U[-1]['shots'][-1].update(stamp('INVESTIGADA', 'amber', 'no condenada'))
-unit(101, [ai('calendario_taco'), at(aviso(['CONGRESO · 28/02/2024'], CO + 'clip_41b_no_tapa.mp4', 2), 'Febrero')])
+unit(101, [aviso(['FEBRERO DE 2024', 'Estalla el caso Koldo'], *F_CONGRESO), at(aviso(['CONGRESO · 28/02/2024'], CO + 'clip_41b_no_tapa.mp4', 2), 'Febrero')])
 C(CO + 'clip_41b_no_tapa.mp4', 'Habla Pedro Sánchez', 'RESPUESTA REAL · Congreso · 28/02/2024', 0.8, 3.6)
 unit(104)
 C(CO + 'clip_15e_corrupcion_cero.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso · 18/06/2025', 0, 7.7, lt_at=5.4)
@@ -279,7 +279,7 @@ unit(152, [ai('espigon_noche'), vid('ar_ceuta_espigon__02.mp4', 40, at='espigón
            at(bgc(dict(type='counter', to=72000, label='entradas en Ceuta, según Maldita.es y elDiario.es'), BR + 'ar_ceuta_espigon__02.mp4', 20), 'setenta y dos mil'),
            at(bgc(dict(type='counter', to=72, label='muertos como mínimo, según la Delegación del Gobierno'), BR + 'ar_ceuta_espigon__02.mp4', 30), 'setenta y dos muertos')])
 unit(153)
-unit(154, [ai('residencia_volcan'), aviso(['LA MARETA · LANZAROTE · AGOSTO DE 2026'], BR + 'ar_mareta_llegada__02.mp4', 4, at_='La Mareta')])
+unit(154, [vid('ar_mareta_llegada__02.mp4', 4), aviso(['LA MARETA · LANZAROTE · AGOSTO DE 2026'], BR + 'ar_mareta_llegada__02.mp4', 4, at_='La Mareta')])
 C(CO + 'clip_24a_playlist.mp4', 'Pedro Sánchez', 'Vídeo publicado en sus redes sociales · 01/08/2026 · vía ESdiario', 0, 6.0, crop=[0.335, 0.0, 0.33, 1.0], fit=True)
 C(CO + 'clip_24b_feliz_verano.mp4', 'Pedro Sánchez', 'Vídeo publicado en sus redes sociales · 01/08/2026 · vía ESdiario', 0, 4.8, crop=[0.335, 0.0, 0.33, 1.0], fit=True)
 unit(157, [ai('sala_calendario'), at(bgc(dict(type='counter', to=25, label='días hasta la reunión del Consejo de Seguridad Nacional'), *F_CEUTA), 'veinticinco'),
@@ -481,3 +481,39 @@ for j, u in enumerate(U):
         c = s.get('card')
         if c and c.get('type') not in ('doc', 'audiograma', 'pregunta') and not c.get('bgimg'):
             c['bgimg'], c['bgt'] = last
+
+# =====================================================================================
+# subtítulos de los cortes: correcciones a la transcripción automática (nombres, cifras, palabras mal oídas)
+# =====================================================================================
+FIX = {
+    'clip_31_no_dormiria.mp4': [['el 95 de', 'el 95 % de']],
+    'clip_14_mano_en_el_fuego.mp4': [['mano del fuego', 'mano en el fuego']],
+    'clip_06_ire_al_hormiguero.mp4': [['¿Tú vas a ir al hormiguero? ¿Tan invitado, no? Te oiré al hormiguero y a un vega falto.', '¿Tú vas a ir a El Hormiguero, que estás invitado, no? —Iré a El Hormiguero (…)']],
+    'co_feijoo_decente__01.mp4': [['Pus de Món', 'Puigdemont']],
+    'clip_36c_nogueras_cinico.mp4': [['sínico', 'cínico']],
+    'abalos_mocion_vertical.mp4': [['la serie que', 'la sede que']],
+    'mocion2018_abalos_decencia.mp4': [['algo inhibida', 'algo inevitable']],
+    'clip_18_feijoo_prostibulos.mp4': [['prostímulos', 'prostíbulos']],
+    'h16_me_equivoque.mp4': [['Ávalos', 'Ábalos']],
+    'clip_15g_caso_flagrante.mp4': [['pertenencias', 'personas']],
+    'clip_19d_3_software.mp4': [['sofá', 'software']],
+    'clip_25_no_estaba_de_vacaciones.mp4': [['full -time', 'full time']],
+    'clip_28b_rey_ceuta_melilla.mp4': [['Zeus y Melilla', 'Ceuta y Melilla']],
+    'ul_zapatero_tener_poco__02.mp4': [['darmo', 'dar mucho']],
+    'clip_14b_no_hable_con_nadie.mp4': [['Plussul', 'Plus Ultra'], ['No hable', 'No hablé'], ['no hable', 'no hablé']],
+    'clip_14c_perifrastica.mp4': [['perifrástrica', 'perifrástica']],
+    'ul_nogueras_bloqueada__02.mp4': [['Junz', 'Junts'], ['Feijo', 'Feijóo']],
+    'clip_02_millon_viviendas.mp4': [['el 13 son', 'el 13 % son']],
+    'clip_05b_mal_informado.mp4': [['Carl.', 'Carlos.']],
+    'clip_26d_trump_espana.mp4': [['Spain es un patrón terrible en Nato. No participan, no pagan. No quiero nada hacer con Spain. Cut off all trade with Spain.',
+                                   '(Traducción) España es un socio terrible en la OTAN. No participan, no pagan. No quiero tener nada que ver con España. Cortad todo el comercio con España.']],
+}
+NOSUBS = {'clip_04_baile_sevilla_completo.mp4', 'clip_04b_baile_montero_completo.mp4', 'clip_04z_1_caballe_2018.mp4', 'clip_04z_2_sassoli_2022.mp4',
+          'clip_04z_3_vara_2025.mp4', 'clip_04z_4_papa_2026.mp4', 'clip_04c_te_quiero_mitin.mp4'}
+for u in U:
+    if u['k'] != 'C': continue
+    b = os.path.basename(u['src'])
+    if b in FIX: u['subs_fix'] = FIX[b]
+    if b in NOSUBS: u['subs'] = []
+    if b == 'clip_26_aviso_rutinario.mp4': u['out'] = 6.3
+    if b == 'clip_22_pues_ya_esta.mp4': u['out'] = 8.4

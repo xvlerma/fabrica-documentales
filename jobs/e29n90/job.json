@@ -2,7 +2,7 @@
  "id": "e29n90",
  "title": "Pedro Sánchez, la entrevista que nadie le hizo",
  "channel": "DocuVox",
- "stage": "cast",
+ "stage": "final",
  "align": true,
  "align_model": "small",
  "no_pad": true,
@@ -175,7 +175,13 @@
    "gap": 0.15,
    "trailer": true,
    "in": 4.7,
-   "out": 10.5
+   "out": 10.5,
+   "subs_fix": [
+    [
+     "el 95 de",
+     "el 95 % de"
+    ]
+   ]
   },
   {
    "k": "C",
@@ -222,7 +228,7 @@
    "gap": 0.15,
    "trailer": true,
    "in": 0,
-   "out": 8.3
+   "out": 8.4
   },
   {
    "k": "C",
@@ -242,7 +248,13 @@
    "gap": 0.15,
    "trailer": true,
    "in": 23.4,
-   "out": 27.6
+   "out": 27.6,
+   "subs_fix": [
+    [
+     "la serie que",
+     "la sede que"
+    ]
+   ]
   },
   {
    "k": "C",
@@ -255,7 +267,13 @@
    "gap": 0.15,
    "trailer": true,
    "in": 3.7,
-   "out": 8.2
+   "out": 8.2,
+   "subs_fix": [
+    [
+     "mano del fuego",
+     "mano en el fuego"
+    ]
+   ]
   },
   {
    "k": "C",
@@ -273,7 +291,13 @@
    ],
    "trailer": true,
    "in": 0,
-   "out": 3.9
+   "out": 3.9,
+   "subs_fix": [
+    [
+     "¿Tú vas a ir al hormiguero? ¿Tan invitado, no? Te oiré al hormiguero y a un vega falto.",
+     "¿Tú vas a ir a El Hormiguero, que estás invitado, no? —Iré a El Hormiguero (…)"
+    ]
+   ]
   },
   {
    "k": "B",
@@ -513,7 +537,13 @@
    ],
    "fuente": "cita",
    "in": 0,
-   "out": 10.5
+   "out": 10.5,
+   "subs_fix": [
+    [
+     "el 95 de",
+     "el 95 % de"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -980,7 +1010,13 @@
     0.75
    ],
    "in": 4.3,
-   "out": 19.9
+   "out": 19.9,
+   "subs_fix": [
+    [
+     "Pus de Món",
+     "Puigdemont"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -1165,7 +1201,13 @@
     0.76
    ],
    "in": 0,
-   "out": 18.3
+   "out": 18.3,
+   "subs_fix": [
+    [
+     "sínico",
+     "cínico"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -1208,7 +1250,13 @@
    ],
    "fit": true,
    "in": 23.4,
-   "out": 27.6
+   "out": 27.6,
+   "subs_fix": [
+    [
+     "la serie que",
+     "la sede que"
+    ]
+   ]
   },
   {
    "k": "T",
@@ -1516,7 +1564,13 @@
    "fit": true,
    "lt_at": 0.9,
    "in": 18.2,
-   "out": 27.6
+   "out": 27.6,
+   "subs_fix": [
+    [
+     "la serie que",
+     "la sede que"
+    ]
+   ]
   },
   {
    "k": "C",
@@ -1539,7 +1593,13 @@
    ],
    "stamp_at": 4.0,
    "in": 2.6,
-   "out": 13.6
+   "out": 13.6,
+   "subs_fix": [
+    [
+     "algo inhibida",
+     "algo inevitable"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -1723,7 +1783,13 @@
     0.65
    ],
    "in": 4.6,
-   "out": 18.4
+   "out": 18.4,
+   "subs_fix": [
+    [
+     "prostímulos",
+     "prostíbulos"
+    ]
+   ]
   },
   {
    "k": "R",
@@ -1806,7 +1872,13 @@
    ],
    "fuente": "cita",
    "in": 16.3,
-   "out": 20.95
+   "out": 20.95,
+   "subs_fix": [
+    [
+     "Ávalos",
+     "Ábalos"
+    ]
+   ]
   },
   {
    "k": "C",
@@ -2122,7 +2194,17 @@
    "text": "[serious] Y ahora, las respuestas. Porque el presidente ha hablado mucho de corrupción. [pause] Febrero de dos mil veinticuatro, recién estallado el caso Koldo.",
    "shots": [
     {
-     "ai": "https://s3-alpha-sig.figma.com/img/857b/0b34/b2af767f120daa8098f8218a97768962.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=DMXq0xU3otMMju1OlYG7BVjFRg3DUz~gEUfjqsSzEWsRDUd1osbftIGSUDbSu2nYYumcLXgwpEJPb~p69ZuiJGWQ3w4VyWtD56z0VYQdFKuR3n3ETFZTTYCmrO9Il~egoEmRF49jxu0oaEvQvRePxirjMllB4pB4bU4oid9iZ8IRf0hgrs8avkxJLm8l5M51G3ImcGNINCRs7HjHWh09py-bTygY~c6TWqyMhDpsdJdA2coxhhHp-Z3ZZx2npAxkT4kV9nYC6vx~EfE4duXEfg8Lxhbf4lqVg0uJb~rCSdDWoZAkqtQhpezSALw8XMMEBMut2O~gbyhBGtvp9Xs5jw__"
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "FEBRERO DE 2024",
+       "Estalla el caso Koldo"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     }
     },
     {
      "card": {
@@ -2212,7 +2294,13 @@
    ],
    "fuente": "cita",
    "in": 0,
-   "out": 5.0
+   "out": 5.0,
+   "subs_fix": [
+    [
+     "pertenencias",
+     "personas"
+    ]
+   ]
   },
   {
    "k": "C",
@@ -2523,7 +2611,13 @@
     0.88
    ],
    "in": 0,
-   "out": 2.8
+   "out": 2.8,
+   "subs_fix": [
+    [
+     "sofá",
+     "software"
+    ]
+   ]
   },
   {
    "k": "C",
@@ -2623,7 +2717,8 @@
     0.6
    ],
    "in": 21.0,
-   "out": 26.0
+   "out": 26.0,
+   "subs": []
   },
   {
    "k": "N",
@@ -2798,7 +2893,7 @@
     }
    ],
    "in": 0,
-   "out": 9.8
+   "out": 8.4
   },
   {
    "k": "N",
@@ -3060,7 +3155,8 @@
    "text": "Y después, se marcha a La Mareta, la residencia oficial de Lanzarote, para sus vacaciones de verano. [pause] El uno de agosto, sus redes sociales publican este vídeo.",
    "shots": [
     {
-     "ai": "https://s3-alpha-sig.figma.com/img/b4fc/12c0/73ebc43f6d7ad605cea84e8dd6900e14.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=UR7yf7Cdw4~HrlGFBcDi7WiL9Kg-43sWJ6p0LomAs1yADoFFbxBPeY7-ySzWpA~Grt8UBFoeErqpP~vQrxuGRz~20k5anDv8GVA6rEU3KfnwRiTvnOyjRIMsKpgQo6g3nvMZXpTPfxWhUS1qY3Og-Lt3NRUdNn82XEB42kJpr7OZeAsQ6RM-BDgLK3ntIxYi3E29tUQ5jtAbNo5YfJZhsswhddOCh4z6XsDkv9Phr43syzBaRq6EygjycyCNHl6hWyZhpLU-3iKNCs05egNzPNIVG0WUnFZHBFbPuupFQvQNMj0M7Wct5BK3kNu64Ba5m3wkH9o~D83r0QO6nQifrQ__"
+     "file": "media/e29n90/broll/ar_mareta_llegada__02.mp4",
+     "start": 4
     },
     {
      "card": {
@@ -3157,7 +3253,7 @@
    ],
    "fuente": "cita",
    "in": 0,
-   "out": 5.4
+   "out": 6.3
   },
   {
    "k": "N",
@@ -3237,7 +3333,13 @@
    "fuente": "cita",
    "lt_at": 1.2,
    "in": 3.5,
-   "out": 15.7
+   "out": 15.7,
+   "subs_fix": [
+    [
+     "full -time",
+     "full time"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -3357,7 +3459,13 @@
     0.78
    ],
    "in": 0,
-   "out": 20.8
+   "out": 20.8,
+   "subs_fix": [
+    [
+     "Zeus y Melilla",
+     "Ceuta y Melilla"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -3893,7 +4001,8 @@
     0.82
    ],
    "in": 0,
-   "out": 1.6
+   "out": 1.6,
+   "subs": []
   },
   {
    "k": "C",
@@ -3904,7 +4013,8 @@
    ],
    "fuente": "cita",
    "in": 0,
-   "out": 1.6
+   "out": 1.6,
+   "subs": []
   },
   {
    "k": "C",
@@ -3921,7 +4031,8 @@
     0.82
    ],
    "in": 0,
-   "out": 1.6
+   "out": 1.6,
+   "subs": []
   },
   {
    "k": "C",
@@ -3932,7 +4043,8 @@
    ],
    "fuente": "cita",
    "in": 0,
-   "out": 1.6
+   "out": 1.6,
+   "subs": []
   },
   {
    "k": "N",
@@ -3969,7 +4081,8 @@
     0.9
    ],
    "in": 0,
-   "out": 3.0
+   "out": 3.0,
+   "subs": []
   },
   {
    "k": "C",
@@ -3986,7 +4099,8 @@
     0.7
    ],
    "in": 0,
-   "out": 6.0
+   "out": 6.0,
+   "subs": []
   },
   {
    "k": "N",
@@ -4041,7 +4155,13 @@
    "flash": true,
    "gap": 0.25,
    "in": 3.7,
-   "out": 8.2
+   "out": 8.2,
+   "subs_fix": [
+    [
+     "mano del fuego",
+     "mano en el fuego"
+    ]
+   ]
   },
   {
    "k": "T",
@@ -4159,7 +4279,13 @@
    ],
    "stamp_at": 3.0,
    "in": 1.0,
-   "out": 9.9
+   "out": 9.9,
+   "subs_fix": [
+    [
+     "darmo",
+     "dar mucho"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -4229,7 +4355,21 @@
     0.62
    ],
    "in": 0,
-   "out": 12.8
+   "out": 12.8,
+   "subs_fix": [
+    [
+     "Plussul",
+     "Plus Ultra"
+    ],
+    [
+     "No hable",
+     "No hablé"
+    ],
+    [
+     "no hable",
+     "no hablé"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -4266,7 +4406,13 @@
     0.85
    ],
    "in": 0,
-   "out": 7.8
+   "out": 7.8,
+   "subs_fix": [
+    [
+     "perifrástrica",
+     "perifrástica"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -4388,7 +4534,13 @@
    "fuente": "cita",
    "lt_at": 0.8,
    "in": 3.7,
-   "out": 12.8
+   "out": 12.8,
+   "subs_fix": [
+    [
+     "mano del fuego",
+     "mano en el fuego"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -4813,7 +4965,17 @@
     0.78
    ],
    "in": 2.8,
-   "out": 21.9
+   "out": 21.9,
+   "subs_fix": [
+    [
+     "Junz",
+     "Junts"
+    ],
+    [
+     "Feijo",
+     "Feijóo"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -5044,7 +5206,13 @@
     0.72
    ],
    "in": 0,
-   "out": 11.7
+   "out": 11.7,
+   "subs_fix": [
+    [
+     "Spain es un patrón terrible en Nato. No participan, no pagan. No quiero nada hacer con Spain. Cut off all trade with Spain.",
+     "(Traducción) España es un socio terrible en la OTAN. No participan, no pagan. No quiero tener nada que ver con España. Cortad todo el comercio con España."
+    ]
+   ]
   },
   {
    "k": "C",
@@ -5198,7 +5366,13 @@
    "flash": true,
    "gap": 0.25,
    "in": 0.8,
-   "out": 3.5
+   "out": 3.5,
+   "subs_fix": [
+    [
+     "el 13 son",
+     "el 13 % son"
+    ]
+   ]
   },
   {
    "k": "T",
@@ -5307,7 +5481,13 @@
    ],
    "fuente": "cita",
    "in": 0.5,
-   "out": 10.5
+   "out": 10.5,
+   "subs_fix": [
+    [
+     "el 13 son",
+     "el 13 % son"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -5442,7 +5622,13 @@
     0.58
    ],
    "in": 0,
-   "out": 3.9
+   "out": 3.9,
+   "subs_fix": [
+    [
+     "¿Tú vas a ir al hormiguero? ¿Tan invitado, no? Te oiré al hormiguero y a un vega falto.",
+     "¿Tú vas a ir a El Hormiguero, que estás invitado, no? —Iré a El Hormiguero (…)"
+    ]
+   ]
   },
   {
    "k": "N",
@@ -5585,7 +5771,13 @@
     }
    ],
    "in": 0,
-   "out": 2.0
+   "out": 2.0,
+   "subs_fix": [
+    [
+     "Carl.",
+     "Carlos."
+    ]
+   ]
   },
   {
    "k": "N",

@@ -87,11 +87,10 @@ def stamp(text, color='red', sub='', at_=0.8): return dict(stamp=[text, color, s
 # =====================================================================================
 # ARRANQUE (0:00–2:00)
 # =====================================================================================
-B('tension')
+B('golpe')
 C(CO + 'clip_39b_usted_no_lo_es.mp4', 'Pedro Sánchez a Mariano Rajoy', 'Cara a cara · 14/12/2015 · Academia de TV', 0, 5.6, crop=[0.02, 0.02, 0.86, 0.86], gap=0.2)
 C(CO + 'clip_39c_feijoo_decente.mp4', 'Alberto Núñez Feijóo a Pedro Sánchez', 'Cara a cara · RTVE · 19/11/2026', 0, 7.0, crop=[0.05, 0.12, 0.88, 0.88])
 unit(3, [aviso(['14/12/2015', '19/11/2026'], *F_DEBATE26, size=60)])
-B('pulso')
 # tráiler (~35 s): cortes que ya existen, corte seco
 C(CO + 'clip_35_bildu_no_vamos_a_pactar.mp4', 'Pedro Sánchez', 'Navarra Televisión · 2015', 1.4, 5.5, crop=[0.0, 0.1, 0.9, 0.9], gap=0.15, trailer=True)
 C(CO + 'clip_31_no_dormiria.mp4', 'Pedro Sánchez', 'laSexta · 19/09/2019', 4.7, 10.5, gap=0.15, trailer=True)

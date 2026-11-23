@@ -35,12 +35,11 @@ job = {
     'theme': {'base': 'plataforma', 'grade': 'neutro'},
     'music': {'tema': MK(565, 'Fallen (Asper)'), 'tension': MK(188, 'Echoes'), 'pulso': MK(538, 'Nield Grohm Hanging 1'),
               'noche': MK(605, 'Delirium'), 'nada': MK(22, 'Piano Reflections'), 'golpe': MK(676, 'Epical Drums 01')},
-    'audio': {'voice_db': -20, 'bed_db': {'tema': -35, 'tension': -36, 'pulso': -36, 'noche': -37, 'nada': -36, 'golpe': -30},
+    'audio': {'voice_db': -20, 'bed_db': {'tema': -35, 'tension': -36, 'pulso': -36, 'noche': -37, 'nada': -36, 'golpe': -31},
               'inter_db': -22, 'pause_stretch': 0.45, 'pause_cap': 0.6, 'gap_n': 1.0, 'gap_q': 0.8},
     'tempo': 0.94, 'parts': 6, 'codec': 'hevc', 'max_kbps': 1100, 'audio_kbps': '128k',
-    'intro': [], 'seed': 2911, 'rev': 7,
-    'clip_subs': True, 'kara_subs': False,
-    'inserts': [{'after_unit': next(i for i, u in enumerate(U) if u.get('text', '').startswith('[serious] La misma palabra')), 'file': 'assets/intro/docuvox.mp4'}], 'clip_model': 'small', 'karaoke': True, 'max_still': 6, 'kara_chars': 40,
+    'intro': ['assets/intro/docuvox.mp4'], 'seed': 2911, 'rev': 8,
+    'clip_subs': True, 'kara_subs': False, 'clip_model': 'small', 'karaoke': True, 'max_still': 6, 'kara_chars': 40,
     'units': U,
 }
 json.dump(job, open(os.path.join(HERE, 'job.json'), 'w'), ensure_ascii=False, indent=1)

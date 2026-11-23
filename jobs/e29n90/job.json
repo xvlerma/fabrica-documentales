@@ -59,7 +59,7 @@
    "pulso": -36,
    "noche": -37,
    "nada": -36,
-   "golpe": -30
+   "golpe": -31
   },
   "inter_db": -22,
   "pause_stretch": 0.45,
@@ -72,17 +72,13 @@
  "codec": "hevc",
  "max_kbps": 1100,
  "audio_kbps": "128k",
- "intro": [],
+ "intro": [
+  "assets/intro/docuvox.mp4"
+ ],
  "seed": 2911,
- "rev": 7,
+ "rev": 8,
  "clip_subs": true,
  "kara_subs": false,
- "inserts": [
-  {
-   "after_unit": 3,
-   "file": "assets/intro/docuvox.mp4"
-  }
- ],
  "clip_model": "small",
  "karaoke": true,
  "max_still": 6,
@@ -90,7 +86,7 @@
  "units": [
   {
    "k": "B",
-   "track": "tension"
+   "track": "golpe"
   },
   {
    "k": "C",
@@ -147,10 +143,6 @@
     }
    ],
    "url": "media/e29n90/voz/2eccf2f251.mp3"
-  },
-  {
-   "k": "B",
-   "track": "pulso"
   },
   {
    "k": "C",

@@ -1,0 +1,38 @@
+[
+ {
+  "key": "a8b8eea7e9",
+  "segs": [
+   [
+    0.0,
+    2.3
+   ],
+   [
+    3.67,
+    7.72
+   ]
+  ],
+  "ok": true,
+  "heard": "Y tres semanas después, en el debate electoral, fue más lejos. Habló de Carles Puigdemont, que había huido a Bélgica.",
+  "text": "Y tres semanas después, en el debate electoral fue más lejos. Habló de Carles Puigdemont, que había huido a Bélgica."
+ },
+ {
+  "key": "a943a51bd1",
+  "segs": [
+   [
+    0.0,
+    16.06
+   ],
+   [
+    28.98,
+    30.33
+   ],
+   [
+    32.71,
+    36.65
+   ]
+  ],
+  "ok": true,
+  "heard": "Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. Este documental solo ha puesto una al lado de otra sus palabras y los hechos.",
+  "text": "[serious] Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. [pause] Este documental solo ha puesto, una al lado de otra, sus palabras y los hechos."
+ }
+]

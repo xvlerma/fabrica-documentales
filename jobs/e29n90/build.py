@@ -26,6 +26,7 @@ after(isC('clip_19d_1_vinculacion.mp4'),
 for u in U:
     if u['k'] in ('N', 'R') and 'registra la oficina' in u.get('text', ''):
         u['shots'].insert(1, {'file': 'media/e29n90/broll/ul_zapatero_registro__01.mp4', 'start': 3, 'at': 'registra'})
+after(isC('h17_politico_limpio.mp4'), [dict(k='C', src='media/e29n90/hls/h17b_continuar.mp4', lt=['Pedro Sánchez', 'RESPUESTA REAL · Congreso · 09/07/2025'], fuente='cita')])
 HLS_CUT = json.load(open(os.path.join(HERE, 'hls_cuts.json'))) if os.path.exists(os.path.join(HERE, 'hls_cuts.json')) else {}
 for u in U:
     if u['k'] == 'C' and '/hls/' in u['src']:

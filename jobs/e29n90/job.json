@@ -2,7 +2,7 @@
  "id": "e29n90",
  "title": "Pedro Sánchez, la entrevista que nadie le hizo",
  "channel": "DocuVox",
- "stage": "cast",
+ "stage": "final",
  "align": true,
  "align_model": "small",
  "no_pad": true,
@@ -1512,8 +1512,8 @@
     "RESPUESTA REAL · Congreso · 09/07/2025"
    ],
    "fuente": "cita",
-   "in": 0,
-   "out": 8.0
+   "in": 16.3,
+   "out": 20.95
   },
   {
    "k": "C",
@@ -1523,8 +1523,19 @@
     "RESPUESTA REAL · Congreso · 09/07/2025"
    ],
    "fuente": "cita",
-   "in": 0,
-   "out": 8.0
+   "in": 9.0,
+   "out": 29.5
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/hls/h17b_continuar.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Congreso · 09/07/2025"
+   ],
+   "fuente": "cita",
+   "in": 11.0,
+   "out": 21.5
   },
   {
    "k": "M",
@@ -1840,8 +1851,8 @@
     "RESPUESTA REAL · Congreso · 24/06/2026"
    ],
    "fuente": "cita",
-   "in": 0,
-   "out": 8.0
+   "in": 43.3,
+   "out": 55.2
   },
   {
    "k": "N",
@@ -3096,8 +3107,8 @@
     "RESPUESTA REAL · Urda · 28/10/2026"
    ],
    "fuente": "cita",
-   "in": 0,
-   "out": 8.0
+   "in": 210.8,
+   "out": 246.3
   },
   {
    "k": "N",
@@ -3488,8 +3499,9 @@
      "card": {
       "type": "aviso",
       "lines": [
-       "José Luis Rodríguez Zapatero",
-       "Entrevista · TVE"
+       "Plus Ultra · 53 millones de euros",
+       "Préstamo del Fondo de apoyo a la solvencia (SEPI)",
+       "Defensa del Gobierno: «salvó 60.000 empleos»"
       ],
       "head": true,
       "size": 46

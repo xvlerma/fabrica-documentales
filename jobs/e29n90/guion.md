@@ -193,6 +193,8 @@ DocuVox · Especial Elecciones 29N · guion con fuentes
 
 ▶ **CORTE REAL** · Pedro Sánchez · RESPUESTA REAL · Congreso · 09/07/2025
 
+▶ **CORTE REAL** · Pedro Sánchez · RESPUESTA REAL · Congreso · 09/07/2025
+
 **NARRADOR** · Me equivoqué al confiar en Ábalos. Y en Santos Cerdán. El hombre que vino después. El que estaba en el coche. El que heredó las llaves de Ferraz.
 
 

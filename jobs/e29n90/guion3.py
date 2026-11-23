@@ -89,21 +89,21 @@ def stamp(text, color='red', sub='', at_=0.8): return dict(stamp=[text, color, s
 # =====================================================================================
 B('golpe')
 C(CO + 'clip_39b_usted_no_lo_es.mp4', 'Pedro Sánchez a Mariano Rajoy', 'Cara a cara · 14/12/2015 · Academia de TV', 0, 5.6, crop=[0.02, 0.02, 0.86, 0.86], gap=0.2)
-C(CO + 'clip_39c_feijoo_decente.mp4', 'Alberto Núñez Feijóo a Pedro Sánchez', 'Cara a cara · RTVE · 19/11/2026', 0, 7.0, crop=[0.05, 0.12, 0.88, 0.88])
+C(CO + 'clip_39c_feijoo_decente.mp4', 'Alberto Núñez Feijóo a Pedro Sánchez', 'Cara a cara · Academia de Televisión · 19/11/2026', 0, 7.0, crop=[0.05, 0.12, 0.88, 0.88])
 unit(3, [aviso(['14/12/2015', '19/11/2026'], *F_DEBATE26, size=60)])
 B('golpe')
 # tráiler (~35 s): cortes que ya existen, corte seco
 C(CO + 'clip_35_bildu_no_vamos_a_pactar.mp4', 'Pedro Sánchez', 'Navarra Televisión · 2015', 1.4, 5.5, crop=[0.0, 0.1, 0.9, 0.9], gap=0.15, trailer=True)
 C(CO + 'clip_31_no_dormiria.mp4', 'Pedro Sánchez', 'laSexta · 19/09/2019', 4.7, 10.5, gap=0.15, trailer=True)
-C(CO + 'clip_32_traerlo_de_vuelta.mp4', 'Pedro Sánchez', 'Debate electoral · RTVE · 04/11/2019', 0, 3.2, crop=[0.06, 0.0, 0.84, 0.84], gap=0.15, trailer=True)
+C(CO + 'clip_32_traerlo_de_vuelta.mp4', 'Pedro Sánchez', 'Debate electoral · Academia de Televisión · 04/11/2019', 0, 3.2, crop=[0.06, 0.0, 0.84, 0.84], gap=0.15, trailer=True)
 AUD(CO + 'clip_22_pues_ya_esta.mp4', 'Pedro Sánchez', 'RNE · 06/11/2019', 0, 8.3, '«¿La Fiscalía de quién depende?… Pues ya está»', *F_MONCLOA19, gap=0.15, trailer=True)
 C(AV, 'José Luis Ábalos (PSOE) a Mariano Rajoy', 'Moción de censura · Congreso · 31/05/2018', *ABALOS_DECENCIA, crop=AV_CROP, fit=True, gap=0.15, trailer=True)
 C(CO + 'clip_14_mano_en_el_fuego.mp4', 'Pedro Sánchez', 'The Wild Project · 13/11/2026', 3.7, 8.2, gap=0.15, trailer=True)
 C(CO + 'clip_06_ire_al_hormiguero.mp4', 'Pedro Sánchez', 'La Revuelta · RTVE · 22/10/2026', 0, 3.9, crop=[0.1, 0.14, 0.8, 0.58], trailer=True)
 B('tension')
 unit(4, [ai('plato_debate'), ai('atriles', at='cara a cara')])
-C(CO + 'clip_01b_pido_perdon_corrupcion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Cara a cara · RTVE · 19/11/2026', 0, 15.8)
-unit(6, [bgc(dict(type='dijo', left=dict(date='19/11/2026', text='«Pido perdón»'), right=dict(label='Y EN LA MISMA FRASE', date='19/11/2026', text='«Somos gente limpia»', source='Cara a cara · RTVE'), red=True), *F_DEBATE26), ai('pasillo_vacio', at='ocho años')])
+C(CO + 'clip_01b_pido_perdon_corrupcion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Cara a cara · Academia de Televisión · 19/11/2026', 0, 15.8)
+unit(6, [bgc(dict(type='dijo', left=dict(date='19/11/2026', text='«Pido perdón»'), right=dict(label='Y EN LA MISMA FRASE', date='19/11/2026', text='«Somos gente limpia»', source='Cara a cara · Academia de Televisión'), red=True), *F_DEBATE26), ai('pasillo_vacio', at='ocho años')])
 unit(8, [bgc(OLD.AVISO['card'], *F_CONGRESO)])
 U.append(dict(k='T', voice='TOP', text=O[16]['text'], secs=3.2, voice_at=0.4, sting='golpe',
               card=dict(type='title', title='Pedro Sánchez', sub='La entrevista que nadie le hizo'), shots=[]))
@@ -122,9 +122,9 @@ C(CO + 'clip_31_no_dormiria.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · laSexta �
 unit(25)
 unit(26)
 C(DE + 'co_cumplimiento_integro__02.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · La Moncloa · 14/10/2019', 0, 12, crop=[0.14, 0.0, 0.72, 0.70], lt_at=5.0)
-unit(29, [aviso(['DEBATE ELECTORAL · RTVE · 04/11/2019'], CO + 'clip_32_traerlo_de_vuelta.mp4', 1.5), ai('belgica_carretera', at='Bélgica')])
-C(CO + 'clip_32_traerlo_de_vuelta.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate electoral · RTVE · 04/11/2019', 0, 3.2, crop=[0.06, 0.0, 0.84, 0.84])
-C(DE + 'co_referendum_ilegal__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate electoral · RTVE · 04/11/2019 · vía Cadena SER', 0, 11.9, crop=[0.15, 0.0, 0.62, 0.62])
+unit(29, [aviso(['DEBATE ELECTORAL · ACADEMIA DE TELEVISIÓN · 04/11/2019'], CO + 'clip_32_traerlo_de_vuelta.mp4', 1.5), ai('belgica_carretera', at='Bélgica')])
+C(CO + 'clip_32_traerlo_de_vuelta.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate electoral · Academia de Televisión · 04/11/2019', 0, 3.2, crop=[0.06, 0.0, 0.84, 0.84])
+C(DE + 'co_referendum_ilegal__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate electoral · Academia de Televisión · 04/11/2019 · vía Cadena SER', 0, 11.9, crop=[0.15, 0.0, 0.62, 0.62])
 unit(32)
 C(DE + 'co_rebelion_2018__01.mp4', 'Pedro Sánchez (con la pregunta)', 'RESPUESTA REAL · Espejo Público · Antena 3 · 17/05/2018', 15.4, 35.1)
 unit(34)
@@ -143,7 +143,7 @@ unit(44, [ai('congreso_escalinata'), at(aviso(['CONGRESO · 12/11/2025'], CO + '
 C(CO + 'clip_36b_nogueras_bloqueado.mp4', 'Míriam Nogueras (Junts)', 'Congreso de los Diputados · 2025', 0, 12.0, crop=[0.11, 0.0, 0.78, 0.78])
 C(DE + 'ul_puigdemont_perpinan__02.mp4', 'Carles Puigdemont (Junts)', 'Perpiñán · 27/10/2025 · vía Cadena SER', 88.3, 112.3)
 unit(46, [bgc(dict(type='quote', text='«Nos hemos aprovechado de la ambición de Sánchez para derrotar a España»', attrib='Carles Puigdemont · según El Mundo · noviembre de 2026'), DE + 'ul_puigdemont_perpinan__02.mp4', 100)])
-C(DE + 'co_feijoo_decente__01.mp4', 'Alberto Núñez Feijóo', 'Cara a cara · RTVE · 19/11/2026', 4.3, 19.9, crop=[0.15, 0.05, 0.75, 0.75])
+C(DE + 'co_feijoo_decente__01.mp4', 'Alberto Núñez Feijóo', 'Cara a cara · Academia de Televisión · 19/11/2026', 4.3, 19.9, crop=[0.15, 0.05, 0.75, 0.75])
 unit(49)
 C(CO + 'clip_35c_derecho_a_cambiar_de_opinion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · The Wild Project · 13/11/2026', 26.6, 36.0)
 C(CO + 'clip_35d_horizonte_coherencia.mp4', 'Pedro Sánchez (con la pregunta)', 'RESPUESTA REAL · Informativos Telecinco · 16/11/2026', 0, 23.6, crop=[0.31, 0.10, 0.69, 0.62], hflip=True)
@@ -222,8 +222,8 @@ C(HL + 'h15f_no_financiado.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso �
 unit(109, [aviso(['MAÑANEROS 360 · TVE · 09/09/2026'], DE + 'ul_manyaneros_chantaje__01.mp4', 150)])
 C(DE + 'ul_manyaneros_chantaje__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026 · vía El País', 147.7, 171.6, crop=[0.0, 0.1, 0.9, 0.72])
 unit(111, [dijo('09/09/2026', '«El Partido Socialista no se ha financiado irregularmente»', 'OCTUBRE DE 2026', 'Anticorrupción ve indicios, aunque considera «prematuro» imputar al partido', 'Fuente: Ara', *F_CONGRESO)])
-unit(112, [aviso(['CARA A CARA · RTVE · 19/11/2026'], CO + 'clip_20b_sumarios.mp4', 5)])
-C(CO + 'clip_20b_sumarios.mp4', 'Alberto Núñez Feijóo', 'Cara a cara · RTVE · 19/11/2026', 3.8, 13.1)
+unit(112, [aviso(['CARA A CARA · ACADEMIA DE TELEVISIÓN · 19/11/2026'], CO + 'clip_20b_sumarios.mp4', 5)])
+C(CO + 'clip_20b_sumarios.mp4', 'Alberto Núñez Feijóo', 'Cara a cara · Academia de Televisión · 19/11/2026', 3.8, 13.1)
 unit(115, [ai('ventana_noche_moncloa_generica')])
 
 # =====================================================================================
@@ -337,7 +337,7 @@ unit(204)
 C(CO + 'clip_04c_te_quiero_mitin.mp4', 'Mitin del PSOE', 'Sevilla · 12/11/2026 · vía El País', 0, 3.0, crop=[0.0, 0.1, 0.9, 0.9])
 C(CO + 'clip_04b_baile_montero_completo.mp4', 'María Jesús Montero y Begoña Gómez', 'Mitin del PSOE · Sevilla · 12/11/2026 · vía OKDiario', 0, 6.0, crop=[0.0, 0.08, 0.85, 0.7])
 unit(208)
-C(CO + 'clip_01c_feijoo_perdon_toledo.mp4', 'Alberto Núñez Feijóo', 'Cara a cara · RTVE · 19/11/2026', 0, 12.3)
+C(CO + 'clip_01c_feijoo_perdon_toledo.mp4', 'Alberto Núñez Feijóo', 'Cara a cara · Academia de Televisión · 19/11/2026', 0, 12.3)
 piece(210, [('La siguiente pregunta', None)], [ai('congreso_noche')])
 
 # =====================================================================================
@@ -416,19 +416,19 @@ unit(275, [ai('edificio_obra_parada')])
 # =====================================================================================
 # 9 · ¿VA LA ECONOMÍA COMO UN COHETE?
 # =====================================================================================
-FLASH(CO + 'clip_02_millon_viviendas.mp4', 0.8, 3.5, 'Pedro Sánchez', 'Cara a cara · RTVE · 19/11/2026')
+FLASH(CO + 'clip_02_millon_viviendas.mp4', 0.8, 3.5, 'Pedro Sánchez', 'Cara a cara · Academia de Televisión · 19/11/2026')
 Q(9, 277, 'Presidente, ¿va la economía como un cohete para todos?', CO + 'clip_37c_cohete.mp4', 4)
 B('pulso')
 unit(279, [aviso(['FORO DE FONDOS EUROPEOS · 16/05/2024'], CO + 'clip_37c_cohete.mp4', 4)])
 C(CO + 'clip_37c_cohete.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Foro de fondos europeos · 16/05/2024 · vía Libertad Digital', 1.9, 7.1, crop=[0.12, 0.1, 0.85, 0.85])
 unit(282)
-unit(283, [aviso(['CARA A CARA · RTVE · 19/11/2026'], CO + 'clip_02_millon_viviendas.mp4', 4)])
-C(CO + 'clip_02_millon_viviendas.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Cara a cara · RTVE · 19/11/2026', 0.5, 10.5)
+unit(283, [aviso(['CARA A CARA · ACADEMIA DE TELEVISIÓN · 19/11/2026'], CO + 'clip_02_millon_viviendas.mp4', 4)])
+C(CO + 'clip_02_millon_viviendas.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Cara a cara · Academia de Televisión · 19/11/2026', 0.5, 10.5)
 unit(285, [dijo('19/11/2026', '«Hemos construido un millón de viviendas»', 'DATOS', 'Unas 705.000 viviendas terminadas (752.000 contando 2018)', 'Fuente: Idealista vía Artículo14 · Maldita.es', CO + 'clip_02_millon_viviendas.mp4', 4),
            at(bgc(dict(type='counter', to=705000, label='viviendas terminadas, frente a 1.000.000'), CO + 'clip_02_millon_viviendas.mp4', 4), 'setecientas cinco')])
 unit(287, [ai('portal_madrid_desahucio_generico'), at(aviso(['SEPTIEMBRE DE 2026'], CO + 'clip_37g_maricarmen.mp4', 2), 'Una cámara')])
 C(CO + 'clip_37g_maricarmen.mp4', 'Maricarmen, vecina desahuciada (rostro difuminado)', 'Imágenes difundidas por ESdiario · septiembre de 2026', 0, 6.7, crop=[0.0, 0.1, 0.85, 0.75], blur=22)
-piece(290, [('En el debate', None)], [aviso(['CARA A CARA · RTVE · 19/11/2026', 'La carta sin respuesta'], *F_DEBATE26)])
+piece(290, [('En el debate', None)], [aviso(['CARA A CARA · ACADEMIA DE TELEVISIÓN · 19/11/2026', 'La carta sin respuesta'], *F_DEBATE26)])
 unit(291, [aviso(['LA REVUELTA · RTVE · 22/10/2026'], CO + 'clip_06_ire_al_hormiguero.mp4', 2)])
 C(CO + 'clip_06_ire_al_hormiguero.mp4', 'Pedro Sánchez (con la pregunta)', 'RESPUESTA REAL · La Revuelta · RTVE · 22/10/2026', 0, 3.9, crop=[0.1, 0.14, 0.8, 0.58])
 unit(293, [aviso(['NO FUE.'], CO + 'clip_06_ire_al_hormiguero.mp4', 2, size=72)])
@@ -452,11 +452,11 @@ piece(305, [(None, 'Quienes le defienden'), ('Quienes le critican', None)], [ai(
 unit(306, [vid('mocion2018_sanchez_dimita.mp4', 1, base=EX)])
 C(EX + 'mocion2018_sanchez_dimita.mp4', 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder', 16.3, 30.3, lt_at=2.4, crop=[0.0, 0.08, 0.9, 0.9])
 unit(308, [ai('congreso_noche')])
-C(CO + 'clip_01b_pido_perdon_corrupcion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Cara a cara · RTVE · 19/11/2026', 0, 11.0)
-M(4.5, [bgc(dict(type='dijo', left=dict(label='2018', date='31/05/2018', text='«Dimita, señor Rajoy, y todo terminará»'), right=dict(label='2026', date='19/11/2026', text='«Pido perdón… somos gente limpia»', source='Señal del Congreso · RTVE'), red=True), *F_CONGRESO)], track='tema')
+C(CO + 'clip_01b_pido_perdon_corrupcion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Cara a cara · Academia de Televisión · 19/11/2026', 0, 11.0)
+M(4.5, [bgc(dict(type='dijo', left=dict(label='2018', date='31/05/2018', text='«Dimita, señor Rajoy, y todo terminará»'), right=dict(label='2026', date='19/11/2026', text='«Pido perdón… somos gente limpia»', source='Señal del Congreso · Academia de Televisión'), red=True), *F_CONGRESO)], track='tema')
 unit(311, [bgc(OLD.AVISO['card'], *F_CONGRESO)])
 U.append(dict(k='M', track='tema', secs=10, end=True, shots=[bgc(dict(type='list', header='Fuentes principales', items=[
-    'Señal del Congreso · RTVE · laSexta · Antena 3 · Telecinco · Cadena SER · La Moncloa',
+    'Señal del Congreso · Academia de Televisión · RTVE · laSexta · Antena 3 · Telecinco · Cadena SER · La Moncloa',
     'BOE · CGPJ · Tribunal Supremo · Tribunal Constitucional · INE',
     'Maldita.es · El País · El Mundo · elDiario.es · Ara · Voz Pópuli · The Objective · Europa Press',
     'Cortes con su medio y fecha en pantalla · lista completa con enlaces en la descripción']), *F_CONGRESO)]))

@@ -76,7 +76,7 @@
   "assets/intro/docuvox.mp4"
  ],
  "seed": 2911,
- "rev": 9,
+ "rev": 10,
  "clip_subs": true,
  "kara_subs": false,
  "clip_model": "small",
@@ -111,7 +111,7 @@
    "src": "media/e29n90/cortes/clip_39c_feijoo_decente.mp4",
    "lt": [
     "Alberto Núñez Feijóo a Pedro Sánchez",
-    "Cara a cara · RTVE · 19/11/2026"
+    "Cara a cara · Academia de Televisión · 19/11/2026"
    ],
    "fuente": "cita",
    "crop": [
@@ -191,7 +191,7 @@
    "src": "media/e29n90/cortes/clip_32_traerlo_de_vuelta.mp4",
    "lt": [
     "Pedro Sánchez",
-    "Debate electoral · RTVE · 04/11/2019"
+    "Debate electoral · Academia de Televisión · 04/11/2019"
    ],
    "fuente": "cita",
    "crop": [
@@ -326,7 +326,7 @@
    "src": "media/e29n90/cortes/clip_01b_pido_perdon_corrupcion.mp4",
    "lt": [
     "Pedro Sánchez",
-    "RESPUESTA REAL · Cara a cara · RTVE · 19/11/2026"
+    "RESPUESTA REAL · Cara a cara · Academia de Televisión · 19/11/2026"
    ],
    "fuente": "cita",
    "in": 0,
@@ -348,7 +348,7 @@
        "label": "Y EN LA MISMA FRASE",
        "date": "19/11/2026",
        "text": "«Somos gente limpia»",
-       "source": "Cara a cara · RTVE"
+       "source": "Cara a cara · Academia de Televisión"
       },
       "red": true,
       "bgimg": "media/e29n90/cortes/clip_01b_pido_perdon_corrupcion.mp4",
@@ -624,7 +624,7 @@
      "card": {
       "type": "aviso",
       "lines": [
-       "DEBATE ELECTORAL · RTVE · 04/11/2019"
+       "DEBATE ELECTORAL · ACADEMIA DE TELEVISIÓN · 04/11/2019"
       ],
       "head": true,
       "size": 46,
@@ -644,7 +644,7 @@
    "src": "media/e29n90/cortes/clip_32_traerlo_de_vuelta.mp4",
    "lt": [
     "Pedro Sánchez",
-    "RESPUESTA REAL · Debate electoral · RTVE · 04/11/2019"
+    "RESPUESTA REAL · Debate electoral · Academia de Televisión · 04/11/2019"
    ],
    "fuente": "cita",
    "crop": [
@@ -661,7 +661,7 @@
    "src": "media/e29n90/decl/co_referendum_ilegal__01.mp4",
    "lt": [
     "Pedro Sánchez",
-    "RESPUESTA REAL · Debate electoral · RTVE · 04/11/2019 · vía Cadena SER"
+    "RESPUESTA REAL · Debate electoral · Academia de Televisión · 04/11/2019 · vía Cadena SER"
    ],
    "fuente": "cita",
    "crop": [
@@ -1003,7 +1003,7 @@
    "src": "media/e29n90/decl/co_feijoo_decente__01.mp4",
    "lt": [
     "Alberto Núñez Feijóo",
-    "Cara a cara · RTVE · 19/11/2026"
+    "Cara a cara · Academia de Televisión · 19/11/2026"
    ],
    "fuente": "cita",
    "crop": [
@@ -2387,7 +2387,7 @@
      "card": {
       "type": "aviso",
       "lines": [
-       "CARA A CARA · RTVE · 19/11/2026"
+       "CARA A CARA · ACADEMIA DE TELEVISIÓN · 19/11/2026"
       ],
       "head": true,
       "size": 46,
@@ -2403,7 +2403,7 @@
    "src": "media/e29n90/cortes/clip_20b_sumarios.mp4",
    "lt": [
     "Alberto Núñez Feijóo",
-    "Cara a cara · RTVE · 19/11/2026"
+    "Cara a cara · Academia de Televisión · 19/11/2026"
    ],
    "fuente": "cita",
    "in": 3.8,
@@ -4136,7 +4136,7 @@
    "src": "media/e29n90/cortes/clip_01c_feijoo_perdon_toledo.mp4",
    "lt": [
     "Alberto Núñez Feijóo",
-    "Cara a cara · RTVE · 19/11/2026"
+    "Cara a cara · Academia de Televisión · 19/11/2026"
    ],
    "fuente": "cita",
    "in": 0,
@@ -5369,7 +5369,7 @@
    "src": "media/e29n90/cortes/clip_02_millon_viviendas.mp4",
    "lt": [
     "Pedro Sánchez",
-    "Cara a cara · RTVE · 19/11/2026"
+    "Cara a cara · Academia de Televisión · 19/11/2026"
    ],
    "fuente": "cita",
    "flash": true,
@@ -5470,7 +5470,7 @@
      "card": {
       "type": "aviso",
       "lines": [
-       "CARA A CARA · RTVE · 19/11/2026"
+       "CARA A CARA · ACADEMIA DE TELEVISIÓN · 19/11/2026"
       ],
       "head": true,
       "size": 46,
@@ -5486,7 +5486,7 @@
    "src": "media/e29n90/cortes/clip_02_millon_viviendas.mp4",
    "lt": [
     "Pedro Sánchez",
-    "RESPUESTA REAL · Cara a cara · RTVE · 19/11/2026"
+    "RESPUESTA REAL · Cara a cara · Academia de Televisión · 19/11/2026"
    ],
    "fuente": "cita",
    "in": 0.5,
@@ -5584,7 +5584,7 @@
      "card": {
       "type": "aviso",
       "lines": [
-       "CARA A CARA · RTVE · 19/11/2026",
+       "CARA A CARA · ACADEMIA DE TELEVISIÓN · 19/11/2026",
        "La carta sin respuesta"
       ],
       "head": true,
@@ -5936,7 +5936,7 @@
    "src": "media/e29n90/cortes/clip_01b_pido_perdon_corrupcion.mp4",
    "lt": [
     "Pedro Sánchez",
-    "RESPUESTA REAL · Cara a cara · RTVE · 19/11/2026"
+    "RESPUESTA REAL · Cara a cara · Academia de Televisión · 19/11/2026"
    ],
    "fuente": "cita",
    "in": 0,
@@ -5959,7 +5959,7 @@
        "label": "2026",
        "date": "19/11/2026",
        "text": "«Pido perdón… somos gente limpia»",
-       "source": "Señal del Congreso · RTVE"
+       "source": "Señal del Congreso · Academia de Televisión"
       },
       "red": true,
       "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
@@ -6000,7 +6000,7 @@
       "type": "list",
       "header": "Fuentes principales",
       "items": [
-       "Señal del Congreso · RTVE · laSexta · Antena 3 · Telecinco · Cadena SER · La Moncloa",
+       "Señal del Congreso · Academia de Televisión · RTVE · laSexta · Antena 3 · Telecinco · Cadena SER · La Moncloa",
        "BOE · CGPJ · Tribunal Supremo · Tribunal Constitucional · INE",
        "Maldita.es · El País · El Mundo · elDiario.es · Ara · Voz Pópuli · The Objective · Europa Press",
        "Cortes con su medio y fecha en pantalla · lista completa con enlaces en la descripción"

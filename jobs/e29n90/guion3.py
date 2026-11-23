@@ -15,7 +15,8 @@ import sys, os, copy, hashlib, re
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import guion as OLD, guion2 as V2
 # tramos exactos fijados con la transcripción de los cortes (stt v3)
-ABALOS_DECENCIA = (6.0, 12.0); FANGO = (0.0, 4.0); DIMITA = (25.3, 30.3)
+ABALOS_DECENCIA = (23.4, 27.6); DIMITA = (23.9, 26.7)
+AV = EX + 'abalos_mocion_vertical.mp4'; AV_CROP = [0.34, 0.05, 0.32, 0.70]
 O = OLD.U
 CO = 'media/e29n90/cortes/'; DE = 'media/e29n90/decl/'; BR = 'media/e29n90/broll/'; CA = 'media/e29n90/capturas/'; HL = 'media/e29n90/hls/'; EX = 'media/e29n90/ext/'
 NQ = 10
@@ -96,7 +97,7 @@ C(CO + 'clip_35_bildu_no_vamos_a_pactar.mp4', 'Pedro Sánchez', 'Navarra Televis
 C(CO + 'clip_31_no_dormiria.mp4', 'Pedro Sánchez', 'laSexta · 19/09/2019', 4.7, 10.5, gap=0.15, trailer=True)
 C(CO + 'clip_32_traerlo_de_vuelta.mp4', 'Pedro Sánchez', 'Debate electoral · RTVE · 04/11/2019', 0, 3.2, crop=[0.06, 0.0, 0.84, 0.84], gap=0.15, trailer=True)
 AUD(CO + 'clip_22_pues_ya_esta.mp4', 'Pedro Sánchez', 'RNE · 06/11/2019', 0, 8.3, '«¿La Fiscalía de quién depende?… Pues ya está»', *F_MONCLOA19, gap=0.15, trailer=True)
-C(EX + 'mocion2018_abalos_decencia.mp4', 'José Luis Ábalos (PSOE)', 'Moción de censura · Congreso · 31/05/2018', *ABALOS_DECENCIA, crop=[0.0, 0.1, 0.9, 0.9], gap=0.15, trailer=True, tag='abalos_decencia')
+C(AV, 'José Luis Ábalos (PSOE) a Mariano Rajoy', 'Moción de censura · Congreso · 31/05/2018', *ABALOS_DECENCIA, crop=AV_CROP, fit=True, gap=0.15, trailer=True)
 C(CO + 'clip_14_mano_en_el_fuego.mp4', 'Pedro Sánchez', 'The Wild Project · 13/11/2026', 3.7, 8.2, gap=0.15, trailer=True)
 C(CO + 'clip_06_ire_al_hormiguero.mp4', 'Pedro Sánchez', 'La Revuelta · RTVE · 22/10/2026', 0, 3.9, crop=[0.1, 0.14, 0.8, 0.58], trailer=True)
 B('tension')
@@ -142,7 +143,7 @@ unit(44, [ai('congreso_escalinata'), at(aviso(['CONGRESO · 12/11/2025'], CO + '
 C(CO + 'clip_36b_nogueras_bloqueado.mp4', 'Míriam Nogueras (Junts)', 'Congreso de los Diputados · 2025', 0, 12.0, crop=[0.11, 0.0, 0.78, 0.78])
 C(DE + 'ul_puigdemont_perpinan__02.mp4', 'Carles Puigdemont (Junts)', 'Perpiñán · 27/10/2025 · vía Cadena SER', 88.3, 112.3)
 unit(46, [bgc(dict(type='quote', text='«Nos hemos aprovechado de la ambición de Sánchez para derrotar a España»', attrib='Carles Puigdemont · según El Mundo · noviembre de 2026'), DE + 'ul_puigdemont_perpinan__02.mp4', 100)])
-C(DE + 'co_feijoo_decente__01.mp4', 'Alberto Núñez Feijóo', 'Cara a cara · RTVE · 19/11/2026', 3.0, 21.1, crop=[0.15, 0.05, 0.75, 0.75])
+C(DE + 'co_feijoo_decente__01.mp4', 'Alberto Núñez Feijóo', 'Cara a cara · RTVE · 19/11/2026', 4.3, 19.9, crop=[0.15, 0.05, 0.75, 0.75])
 unit(49)
 C(CO + 'clip_35c_derecho_a_cambiar_de_opinion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · The Wild Project · 13/11/2026', 26.6, 36.0)
 C(CO + 'clip_35d_horizonte_coherencia.mp4', 'Pedro Sánchez (con la pregunta)', 'RESPUESTA REAL · Informativos Telecinco · 16/11/2026', 0, 23.6, crop=[0.0, 0.17, 0.69, 0.69], hflip=True)
@@ -159,7 +160,7 @@ unit(61)
 # =====================================================================================
 # 2 · ¿QUIÉN ELIGIÓ A JOSÉ LUIS ÁBALOS?
 # =====================================================================================
-FLASH(EX + 'mocion2018_abalos_decencia.mp4', *ABALOS_DECENCIA, 'José Luis Ábalos (PSOE)', 'Congreso · 31/05/2018', crop=[0.0, 0.1, 0.9, 0.9], tag='abalos_decencia')
+FLASH(AV, *ABALOS_DECENCIA, 'José Luis Ábalos (PSOE) a Mariano Rajoy', 'Congreso · 31/05/2018', crop=AV_CROP, fit=True)
 Q(2, 63, 'Presidente, ¿quién eligió a José Luis Ábalos?', *F_CONGRESO)
 B('tension')
 unit(65, [cap('doc_03_sentencia_abalos_CGPJ_22-06-2026.jpg', 'NOTA DEL TRIBUNAL SUPREMO', ['Ábalos · 24 años y 3 meses', 'Koldo García · 19 años y 8 meses'], 'CGPJ · 22/06/2026'),
@@ -175,7 +176,8 @@ unit(71, [vid('mocion2018_sanchez_dimita.mp4', 1, base=EX), aviso(['MOCIÓN DE C
 C(EX + 'mocion2018_sanchez_dimita.mp4', 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder', 5.8, 30.3, lt_at=6.0, crop=[0.0, 0.08, 0.9, 0.9])
 piece(75, [(None, 'Según recuerda')], [aviso(['JOSÉ LUIS ÁBALOS', 'Secretario de Organización del PSOE · 2018'], EX + 'mocion2018_abalos_decencia.mp4', 6)])
 # recuperado (7.3): Ábalos en la moción, con su rótulo. Es su frase, no la de Sánchez.
-C(EX + 'mocion2018_abalos_decencia.mp4', 'José Luis Ábalos (PSOE)', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 2.6, 23.8, crop=[0.0, 0.1, 0.9, 0.9], **stamp('CONDENADO', 'red', '2026 · 24 años y 3 meses', 16.0))
+C(AV, 'José Luis Ábalos (PSOE) a Mariano Rajoy', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 18.2, 27.6, crop=AV_CROP, fit=True, lt_at=0.9)
+C(EX + 'mocion2018_abalos_decencia.mp4', 'José Luis Ábalos (PSOE)', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 2.6, 13.6, crop=[0.0, 0.1, 0.9, 0.9], **stamp('CONDENADO', 'red', '2026 · 24 años y 3 meses', 4.0))
 piece(75, [('Según recuerda', None)], [aviso(['MARIANO RAJOY'], EX + 'mocion2018_sanchez_dimita.mp4', 17)])
 C(CO + 'clip_39_rajoy_lecciones.mp4', 'Mariano Rajoy', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 0, 8.0, crop=[0.0, 0.1, 0.9, 0.9])
 _u = unit(77); _u['shots'] = [ai('despacho_sello')] + _u['shots']
@@ -218,7 +220,7 @@ unit(106)
 C(CO + 'clip_15g_caso_flagrante.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso · 24/06/2026', 0, 5.0)
 C(HL + 'h15f_no_financiado.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso · 24/06/2026 · La Moncloa', 43.3, 55.2)
 unit(109, [aviso(['MAÑANEROS 360 · TVE · 09/09/2026'], DE + 'ul_manyaneros_chantaje__01.mp4', 150)])
-C(DE + 'ul_manyaneros_chantaje__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026 · vía El País', 146.6, 171.6, crop=[0.0, 0.1, 0.9, 0.72])
+C(DE + 'ul_manyaneros_chantaje__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026 · vía El País', 147.7, 171.6, crop=[0.0, 0.1, 0.9, 0.72])
 unit(111, [dijo('09/09/2026', '«El Partido Socialista no se ha financiado irregularmente»', 'OCTUBRE DE 2026', 'Anticorrupción ve indicios, aunque considera «prematuro» imputar al partido', 'Fuente: Ara', *F_CONGRESO)])
 unit(112, [aviso(['CARA A CARA · RTVE · 19/11/2026'], CO + 'clip_20b_sumarios.mp4', 5)])
 C(CO + 'clip_20b_sumarios.mp4', 'Alberto Núñez Feijóo', 'Cara a cara · RTVE · 19/11/2026', 3.8, 13.1)
@@ -227,7 +229,7 @@ unit(115, [ai('ventana_noche_moncloa_generica')])
 # =====================================================================================
 # 4 · ¿POR QUÉ SU FAMILIA ESTÁ EN LOS TRIBUNALES?
 # =====================================================================================
-C(DE + 'ul_hay_fango__01.mp4', 'Pedro Sánchez', 'laSexta · 17/05/2024', *FANGO, flash=True, gap=0.25, tag='fango')
+M(3.2, [bgc(dict(type='quote', text='«Aquí no hay caso, hay fango»', attrib='Pedro Sánchez · laSexta · 17/05/2024'), CO + 'clip_19a_senoras_de.mp4', 3)], track='tension')
 Q(4, 117, 'Presidente, ¿por qué su familia está en los tribunales?', CO + 'clip_19a_senoras_de.mp4', 3)
 B('tension')
 unit(119)
@@ -390,7 +392,7 @@ unit(249, [aviso(['CONGRESO · 18/12/2024'], CO + 'clip_36bx_bulo_boe.mp4', 5)])
 C(CO + 'clip_36bx_bulo_boe.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso · 18/12/2024 · vía La Vanguardia', 3.45, 9.6, crop=[0.08, 0.06, 0.88, 0.88])
 piece(251, [(None, 'El Gobierno la defendió')], [bgc(dict(type='counter', to=17104, label='millones de euros de deuda de Cataluña condonados (pacto con ERC)'), *F_CONGRESO)])
 unit(252, [aviso(['CONGRESO DE LOS DIPUTADOS'], DE + 'ul_nogueras_bloqueada__02.mp4', 10)])
-C(DE + 'ul_nogueras_bloqueada__02.mp4', 'Míriam Nogueras (Junts)', 'Congreso de los Diputados', 3.3, 26.5, crop=[0.11, 0.0, 0.78, 0.78])
+C(DE + 'ul_nogueras_bloqueada__02.mp4', 'Míriam Nogueras (Junts)', 'Congreso de los Diputados', 2.8, 21.9, crop=[0.11, 0.0, 0.78, 0.78])
 unit(255, [ai('hemiciclo_luz'), at(aviso(['MOCIÓN APROBADA', 'Pedía al presidente una cuestión de confianza. No era vinculante.'], *F_CONGRESO), 'No era vinculante')])
 unit(256)
 unit(257, [aviso(['06/10/2026'], CO + 'clip_37b_contra_la_oposicion.mp4', 2)])
@@ -408,13 +410,13 @@ C(CO + 'clip_18c_que_voten.mp4', 'Irene Montero (Podemos)', 'Mitin de Podemos ·
 C(CO + 'clip_18bx_barrer_fachas.mp4', 'Irene Montero (Podemos)', 'Mitin de Podemos · Zaragoza · 31/01/2026 · vía AS TV', 0, 12.1, crop=[0.1, 0.0, 0.75, 0.75], lt_at=2.0)
 unit(271, [bgc(dict(type='aviso', lines=['Podemos explicó después', 'que aquellas palabras eran irónicas.'], head=True), CO + 'clip_18bx_barrer_fachas.mp4', 6)])
 unit(272, [aviso(['ABRIL DE 2023', 'Ley del «solo sí es sí»'], DE + 'co_si_es_si_perdon__01.mp4', 10)])
-C(DE + 'co_si_es_si_perdon__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Entrevista en los diarios de Vocento · TVE · abril de 2023', 7.5, 13.9, crop=[0.05, 0.08, 0.7, 0.7])
+C(DE + 'co_si_es_si_perdon__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Entrevista en los diarios de Vocento · TVE · abril de 2023', 7.4, 15.6, crop=[0.05, 0.08, 0.7, 0.7])
 unit(275, [ai('edificio_obra_parada')])
 
 # =====================================================================================
 # 9 · ¿VA LA ECONOMÍA COMO UN COHETE?
 # =====================================================================================
-FLASH(CO + 'clip_02_millon_viviendas.mp4', 0.5, 4.6, 'Pedro Sánchez', 'Cara a cara · RTVE · 19/11/2026')
+FLASH(CO + 'clip_02_millon_viviendas.mp4', 0.8, 3.5, 'Pedro Sánchez', 'Cara a cara · RTVE · 19/11/2026')
 Q(9, 277, 'Presidente, ¿va la economía como un cohete para todos?', CO + 'clip_37c_cohete.mp4', 4)
 B('pulso')
 unit(279, [aviso(['FORO DE FONDOS EUROPEOS · 16/05/2024'], CO + 'clip_37c_cohete.mp4', 4)])

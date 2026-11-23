@@ -2,7 +2,7 @@
  "id": "e29n90",
  "title": "Pedro Sánchez, la entrevista que nadie le hizo",
  "channel": "DocuVox",
- "stage": "final",
+ "stage": "cast",
  "align": true,
  "align_model": "small",
  "no_pad": true,
@@ -68,13 +68,18 @@
   "gap_q": 0.8
  },
  "tempo": 0.94,
- "parts": 4,
+ "parts": 6,
  "codec": "hevc",
  "max_kbps": 1100,
  "audio_kbps": "128k",
  "intro": [],
  "seed": 2911,
- "rev": 3,
+ "rev": 4,
+ "clip_subs": true,
+ "clip_model": "small",
+ "karaoke": true,
+ "max_still": 6,
+ "kara_chars": 40,
  "units": [
   {
    "k": "B",
@@ -94,6 +99,7 @@
     0.86,
     0.86
    ],
+   "gap": 0.2,
    "in": 0,
    "out": 5.6
   },
@@ -136,35 +142,198 @@
    "url": "media/e29n90/voz/2eccf2f251.mp3"
   },
   {
-   "k": "N",
-   "voice": "NEW",
-   "text": "Sus defensores dicen que ha sacado adelante el país en la década más difícil que se recuerda: una pandemia, un volcán, una riada, una guerra en Europa. Sus críticos dicen que ha sobrevivido a costa de casi todo lo que prometió. [short pause] Este documental no le va a pedir que elija. Le va a poner delante sus propias palabras.",
+   "k": "B",
+   "track": "pulso"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_35_bildu_no_vamos_a_pactar.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "Navarra Televisión · 2015"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.1,
+    0.9,
+    0.9
+   ],
+   "gap": 0.15,
+   "trailer": true,
+   "in": 1.4,
+   "out": 5.5
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_31_no_dormiria.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "laSexta · 19/09/2019"
+   ],
+   "fuente": "cita",
+   "gap": 0.15,
+   "trailer": true,
+   "in": 4.7,
+   "out": 10.5
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_32_traerlo_de_vuelta.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "Debate electoral · RTVE · 04/11/2019"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.06,
+    0.0,
+    0.84,
+    0.84
+   ],
+   "gap": 0.15,
+   "trailer": true,
+   "in": 0,
+   "out": 3.2
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_22_pues_ya_esta.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RNE · 06/11/2019"
+   ],
+   "fuente": "cita",
+   "audio_only": true,
+   "quote": "«¿La Fiscalía de quién depende?… Pues ya está»",
    "shots": [
     {
-     "file": "media/e29n90/broll/ar_dana_coches__03.mp4",
-     "start": 40
-    },
-    {
-     "file": "media/e29n90/broll/ar_ceuta_visita_pitos__02.mp4",
-     "start": 6,
-     "at": "críticos"
-    },
-    {
      "card": {
-      "type": "aviso",
-      "lines": [
-       "Sus propias palabras.",
-       "Con su fecha."
-      ],
-      "head": true,
-      "size": 56,
-      "bgimg": "media/e29n90/cortes/clip_01b_pido_perdon_corrupcion.mp4",
-      "bgt": 3.0
-     },
-     "at": "propias palabras"
+      "type": "audiograma",
+      "text": "«¿La Fiscalía de quién depende?… Pues ya está»",
+      "attrib": "Pedro Sánchez · RNE · 06/11/2019",
+      "audio": "media/e29n90/cortes/clip_22_pues_ya_esta.mp4",
+      "ss": 0,
+      "bgimg": "media/e29n90/decl/co_cumplimiento_integro__02.mp4",
+      "bgt": 4.0
+     }
     }
    ],
-   "url": "media/e29n90/voz/26b67e641f.mp3"
+   "gap": 0.15,
+   "trailer": true,
+   "in": 0,
+   "out": 8.3
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
+   "lt": [
+    "José Luis Ábalos (PSOE)",
+    "Moción de censura · Congreso · 31/05/2018"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.1,
+    0.9,
+    0.9
+   ],
+   "gap": 0.15,
+   "trailer": true,
+   "tag": "abalos_decencia",
+   "in": 6.0,
+   "out": 12.0
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_14_mano_en_el_fuego.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "The Wild Project · 13/11/2026"
+   ],
+   "fuente": "cita",
+   "gap": 0.15,
+   "trailer": true,
+   "in": 3.7,
+   "out": 8.2
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_06_ire_al_hormiguero.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "La Revuelta · RTVE · 22/10/2026"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.1,
+    0.14,
+    0.8,
+    0.58
+   ],
+   "trailer": true,
+   "in": 0,
+   "out": 3.9
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Jueves, diecinueve de noviembre de dos mil veintiséis. Madrid. Faltan diez días para las elecciones generales. Es el único cara a cara de la campaña. Y en el bloque dedicado a la corrupción, el presidente del Gobierno empieza con dos palabras.",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/9e5e/05df/0b9337d1787fd72f78f537190c43d1b4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=923a1f886504b4c8ef16dee118f3f65e6213a5c03280c0eee7c4dffe849f6a67"
+    },
+    {
+     "at": "cara a cara",
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b8bd/51f0/30f12e14cebc66b75ba5acb63fe84736.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a090a50f0aa6c571acdc2890646cb383f4b5f9bca94285c378eaf80c7abf218e"
+    }
+   ],
+   "url": "media/e29n90/voz/7dbb1a7cf8.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_01b_pido_perdon_corrupcion.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Cara a cara · RTVE · 19/11/2026"
+   ],
+   "fuente": "cita",
+   "in": 0,
+   "out": 15.8
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] Pide perdón. [short pause] Y en la misma frase se declara limpio. [pause] Las dos cosas a la vez. Es una fórmula que ha repetido en estos ocho años: disculpas por lo ocurrido a su alrededor, y la defensa firme de su integridad personal.",
+   "shots": [
+    {
+     "card": {
+      "type": "dijo",
+      "left": {
+       "date": "19/11/2026",
+       "text": "«Pido perdón»"
+      },
+      "right": {
+       "label": "Y EN LA MISMA FRASE",
+       "date": "19/11/2026",
+       "text": "«Somos gente limpia»",
+       "source": "Cara a cara · RTVE"
+      },
+      "red": true,
+      "bgimg": "media/e29n90/cortes/clip_01b_pido_perdon_corrupcion.mp4",
+      "bgt": 3.0
+     }
+    },
+    {
+     "at": "ocho años",
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/19ca/16fa/02996d6ff245e1c17116e0733f410d7a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e31dd5866a3f4e1347b8a33c490877f1de58344eed696787c40099c0c0e67a70"
+    }
+   ],
+   "url": "media/e29n90/voz/9b0a8b130b.mp3"
   },
   {
    "k": "N",
@@ -189,6 +358,21 @@
   },
   {
    "k": "T",
+   "voice": "TOP",
+   "text": "Pedro Sánchez. [pause] La entrevista que nadie le hizo.",
+   "secs": 3.2,
+   "voice_at": 0.4,
+   "sting": "golpe",
+   "card": {
+    "type": "title",
+    "title": "Pedro Sánchez",
+    "sub": "La entrevista que nadie le hizo"
+   },
+   "shots": [],
+   "url": "media/e29n90/voz/5883267bd2.mp3"
+  },
+  {
+   "k": "T",
    "voice": "ENT",
    "text": "Presidente, ¿por qué tendríamos que creerle?",
    "secs": 4.2,
@@ -197,13 +381,14 @@
    "chapter": true,
    "card": {
     "type": "pregunta",
-    "n": "PREGUNTA 01 / 07",
+    "n": "PREGUNTA 01 / 10",
     "text": "Presidente, ¿por qué tendríamos que creerle?",
     "foot": "PEDRO SÁNCHEZ · LA ENTREVISTA QUE NADIE LE HIZO",
     "bgimg": "media/e29n90/decl/co_cumplimiento_integro__02.mp4",
     "bgt": 4.0
    },
    "title": "1. Presidente, ¿por qué tendríamos que creerle?",
+   "shots": [],
    "url": "media/e29n90/voz/6987f26fa3.mp3"
   },
   {
@@ -273,40 +458,27 @@
       "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
       "bgt": 12.0
      }
+    },
+    {
+     "card": {
+      "type": "dijo",
+      "left": {
+       "date": "2015",
+       "text": "«Se lo repito cinco veces o veinte»"
+      },
+      "right": {
+       "date": "DICIEMBRE DE 2023",
+       "text": "EH Bildu logra la alcaldía de Pamplona con el voto del PSOE",
+       "source": "Fuente: El País"
+      },
+      "red": true,
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     },
+     "at": "Pamplona"
     }
    ],
    "url": "media/e29n90/voz/f4e027abd3.mp3"
-  },
-  {
-   "k": "N",
-   "voice": "TOP",
-   "text": "Y año y medio antes, en mayo de dos mil dieciocho, todavía en la oposición, le habían preguntado en Antena Tres si lo ocurrido en el Parlamento catalán era rebelión.",
-   "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "ESPEJO PÚBLICO · ANTENA 3 · 17/05/2018"
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/decl/co_rebelion_2018__01.mp4",
-      "bgt": 20
-     }
-    }
-   ],
-   "url": "media/e29n90/voz/aef00bb094.mp3"
-  },
-  {
-   "k": "C",
-   "src": "media/e29n90/decl/co_rebelion_2018__01.mp4",
-   "lt": [
-    "Pedro Sánchez (con la pregunta)",
-    "RESPUESTA REAL · Espejo Público · Antena 3 · 17/05/2018"
-   ],
-   "fuente": "cita",
-   "in": 15.4,
-   "out": 35.1
   },
   {
    "k": "N",
@@ -426,6 +598,10 @@
       "bgimg": "media/e29n90/cortes/clip_32_traerlo_de_vuelta.mp4",
       "bgt": 1.5
      }
+    },
+    {
+     "at": "Bélgica",
+     "ai": "https://s3-alpha-sig.figma.com/img/15d0/8564/c688abbbc044eb0eb2ef82668ed4cc84.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=RPG-hOaSiX31AJ9MHa0czgUCdtJ~HhWZidgneWt3x0zWNPFcXvyrcij0ThFoRy7zWgaGNEXrEkrWGX2C0kCfSbY4efo6GdoklWt3~aOR3xg3Eah5UEK9F-qmYC-zdASZTgRjkdjHKPPac~a5X1zXSSTPfdMjou-LzBj-1HDMBoztkkcGCw09ndMKrEoEU93dGI~ukS6qKwjWlcFGaz~CaYmMVSoe07d8-wsJzAoaZzvmxNZHwHtp2-2HKeb6FGMAOf-NaEm2hDCUf8actOhwvIdecGvSfZnDFHx5vfedkPcrbvDsX6pupDc9gzZNwmSL0q6DWTdDB9crnuLTgFMrkQ__"
     }
    ],
    "url": "media/e29n90/voz/7c7eb7045d.mp3"
@@ -452,7 +628,7 @@
    "src": "media/e29n90/decl/co_referendum_ilegal__01.mp4",
    "lt": [
     "Pedro Sánchez",
-    "RESPUESTA REAL · Debate electoral · 04/11/2019 · señal RTVE vía Cadena SER"
+    "RESPUESTA REAL · Debate electoral · RTVE · 04/11/2019 · vía Cadena SER"
    ],
    "fuente": "cita",
    "crop": [
@@ -463,6 +639,37 @@
    ],
    "in": 0,
    "out": 11.9
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "Y año y medio antes, en mayo de dos mil dieciocho, todavía en la oposición, le habían preguntado en Antena Tres si lo ocurrido en el Parlamento catalán era rebelión.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "ESPEJO PÚBLICO · ANTENA 3 · 17/05/2018"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/co_rebelion_2018__01.mp4",
+      "bgt": 20
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/aef00bb094.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/co_rebelion_2018__01.mp4",
+   "lt": [
+    "Pedro Sánchez (con la pregunta)",
+    "RESPUESTA REAL · Espejo Público · Antena 3 · 17/05/2018"
+   ],
+   "fuente": "cita",
+   "in": 15.4,
+   "out": 35.1
   },
   {
    "k": "N",
@@ -541,27 +748,6 @@
   {
    "k": "N",
    "voice": "NEW",
-   "text": "El Gobierno defendió los indultos como una apuesta por la concordia: sacar el conflicto de los tribunales y devolverlo a la política. Es su argumento, y lo ha mantenido. Sostiene que hoy Cataluña está más tranquila que en dos mil diecisiete.",
-   "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "LA DEFENSA DEL GOBIERNO",
-       "Los indultos, una apuesta por la concordia."
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/cortes/clip_36_indultos_nunca_cambie.mp4",
-      "bgt": 12
-     }
-    }
-   ],
-   "url": "media/e29n90/voz/852cb5b41f.mp3"
-  },
-  {
-   "k": "N",
-   "voice": "NEW",
    "text": "Faltaba la amnistía. [short pause] En noviembre de dos mil veintidós, en Al Rojo Vivo, le preguntaron qué pedía el independentismo. Esta fue su respuesta, según la transcripción oficial de La Moncloa.",
    "shots": [
     {
@@ -584,17 +770,19 @@
    "src": "media/e29n90/cortes/clip_33_no_entra_constitucion.mp4",
    "lt": [
     "Pedro Sánchez",
-    "RESPUESTA REAL · laSexta · 10/11/2022 (audio)"
+    "Al Rojo Vivo · laSexta · 10/11/2022 · audio"
    ],
    "fuente": "cita",
    "audio_only": true,
-   "quote": "Este Gobierno no va a aceptar (…) No entra en la legislación ni en la Constitución española.",
+   "quote": "«Este Gobierno no va a aceptar (…) No entra en la legislación ni en la Constitución española»",
    "shots": [
     {
      "card": {
-      "type": "quote",
-      "text": "«No entra en la legislación ni en la Constitución española»",
+      "type": "audiograma",
+      "text": "«Este Gobierno no va a aceptar (…) No entra en la legislación ni en la Constitución española»",
       "attrib": "Pedro Sánchez · Al Rojo Vivo · laSexta · 10/11/2022 · audio",
+      "audio": "media/e29n90/cortes/clip_33_no_entra_constitucion.mp4",
+      "ss": 0,
       "bgimg": "media/e29n90/decl/co_cumplimiento_integro__02.mp4",
       "bgt": 4.0
      }
@@ -664,41 +852,23 @@
    "out": 11.0
   },
   {
-   "k": "M",
-   "track": "pulso",
-   "secs": 3.2,
-   "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "DIECIOCHO DÍAS DESPUÉS",
-       "DEBATE DE INVESTIDURA · 15/11/2023"
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
-      "bgt": 12.0
-     }
-    }
-   ]
-  },
-  {
    "k": "C",
    "src": "media/e29n90/cortes/clip_33b_acorde_constitucion.mp4",
    "lt": [
     "Pedro Sánchez",
-    "RESPUESTA REAL · Debate de investidura · Congreso · 15/11/2023 (audio)"
+    "Debate de investidura · Congreso · 15/11/2023 · audio"
    ],
    "fuente": "cita",
    "audio_only": true,
-   "quote": "La amnistía que planteamos es perfectamente legal. Es acorde con la Constitución.",
+   "quote": "«La amnistía que planteamos es perfectamente legal. Es acorde con la Constitución»",
    "shots": [
     {
      "card": {
-      "type": "quote",
+      "type": "audiograma",
       "text": "«La amnistía que planteamos es perfectamente legal. Es acorde con la Constitución»",
-      "attrib": "Pedro Sánchez · Congreso · 15/11/2023 · audio",
+      "attrib": "Pedro Sánchez · Debate de investidura · Congreso · 15/11/2023 · audio",
+      "audio": "media/e29n90/cortes/clip_33b_acorde_constitucion.mp4",
+      "ss": 0,
       "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
       "bgt": 12.0
      }
@@ -710,42 +880,61 @@
   {
    "k": "N",
    "voice": "NEW",
-   "text": "La ley de amnistía se publicó en el BOE el diez de junio de dos mil veinticuatro. [short pause] Y aquí está la defensa del Gobierno, con un documento detrás: en julio de dos mil veinticinco, el Tribunal Constitucional concluyó que la Constitución no prohíbe una amnistía, aunque anuló algunos puntos de la ley. Hubo votos particulares en contra.",
+   "text": "La ley de amnistía se publicó en el BOE el diez de junio de dos mil veinticuatro.",
    "shots": [
     {
      "card": {
       "type": "doc",
       "image": "media/e29n90/capturas/doc_33_BOE_STC_137-2025_amnistia_31-07-2025.jpg",
-      "title": "STC 137/2025",
+      "title": "LEY DE AMNISTÍA",
       "lines": [
-       "La Constitución no prohíbe la amnistía",
-       "Inconstitucionalidad parcial · votos particulares"
+       "BOE · 11/06/2024"
       ],
-      "source": "BOE · 31/07/2025"
+      "source": "BOE"
      }
     }
-   ],
-   "url": "media/e29n90/voz/8bc2338924.mp3"
+   ]
   },
   {
    "k": "N",
    "voice": "TOP",
-   "text": "Junts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, rompió con el Gobierno.",
+   "text": "Junts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, rompió con el Gobierno. Su portavoz en el Congreso, Míriam Nogueras, lo dijo así.",
    "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/cc57/10bb/a76a308e19d3ab0dfc22570d27e3c674.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ec6b537fd23da8b0e18abb856eb2ded75db88eb2b5db6c87402a9fe85537de15"
+    },
     {
      "card": {
       "type": "aviso",
       "lines": [
-       "PERPIÑÁN · OCTUBRE DE 2025"
+       "CONGRESO · 12/11/2025"
       ],
       "head": true,
       "size": 46,
-      "bgimg": "media/e29n90/decl/ul_puigdemont_perpinan__02.mp4",
-      "bgt": 95
-     }
+      "bgimg": "media/e29n90/cortes/clip_36b_nogueras_bloqueado.mp4",
+      "bgt": 4
+     },
+     "at": "Nogueras"
     }
    ],
-   "url": "media/e29n90/voz/a6ba9b1282.mp3"
+   "url": "media/e29n90/voz/e4bf012afe.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_36b_nogueras_bloqueado.mp4",
+   "lt": [
+    "Míriam Nogueras (Junts)",
+    "Congreso de los Diputados · 2025"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.11,
+    0.0,
+    0.78,
+    0.78
+   ],
+   "in": 0,
+   "out": 12.0
   },
   {
    "k": "C",
@@ -761,7 +950,7 @@
   {
    "k": "N",
    "voice": "NEW",
-   "text": "Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España».",
+   "text": "Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España». Feijóo abrió con Puigdemont el cara a cara.",
    "shots": [
     {
      "card": {
@@ -773,7 +962,24 @@
      }
     }
    ],
-   "url": "media/e29n90/voz/10a7a11678.mp3"
+   "url": "media/e29n90/voz/a131f210d5.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/co_feijoo_decente__01.mp4",
+   "lt": [
+    "Alberto Núñez Feijóo",
+    "Cara a cara · RTVE · 19/11/2026"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.15,
+    0.05,
+    0.75,
+    0.75
+   ],
+   "in": 3.0,
+   "out": 21.1
   },
   {
    "k": "N",
@@ -805,6 +1011,123 @@
    "fuente": "cita",
    "in": 26.6,
    "out": 36.0
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_35d_horizonte_coherencia.mp4",
+   "lt": [
+    "Pedro Sánchez (con la pregunta)",
+    "RESPUESTA REAL · Informativos Telecinco · 16/11/2026"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.17,
+    0.69,
+    0.69
+   ],
+   "hflip": true,
+   "in": 0,
+   "out": 23.6
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "No era una idea nueva. En julio de dos mil veintitrés, en plena campaña, se sentó en El Hormiguero. Pablo Motos le preguntó por qué decían que mentía tanto. Esta fue su definición de mentir.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "EL HORMIGUERO · ANTENA 3 · JULIO DE 2023"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/ul_cambiado_opinion__01.mp4",
+      "bgt": 30
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/0fb61d89f1.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/ul_cambiado_opinion__01.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · El Hormiguero · Antena 3 · 06/07/2023"
+   ],
+   "fuente": "cita",
+   "in": 24.5,
+   "out": 36.2
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/ul_cambiado_opinion__01.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · El Hormiguero · Antena 3 · 06/07/2023"
+   ],
+   "fuente": "cita",
+   "in": 57.5,
+   "out": 72.2
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Y en la misma entrevista, sobre Cataluña, lo dijo sin rodeos.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "EL HORMIGUERO · 06/07/2023",
+       "Sobre Cataluña"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/ul_cambiado_opinion__01.mp4",
+      "bgt": 180
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/a4ec720ce2.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/ul_cambiado_opinion__01.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · El Hormiguero · Antena 3 · 06/07/2023"
+   ],
+   "fuente": "cita",
+   "in": 176.2,
+   "out": 191.9
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] Decisiones diferentes a las que dijo antes de las elecciones. [pause] Él lo llama rectificar. Lo que el votante escuchó antes de votar fue otra cosa.",
+   "shots": [
+    {
+     "card": {
+      "type": "dijo",
+      "left": {
+       "date": "06/07/2023",
+       "text": "«Decisiones diferentes a las que dije antes de las elecciones»"
+      },
+      "right": {
+       "date": "2023-2026",
+       "text": "Amnistía, Junts y la investidura",
+       "source": "Fuente: BOE"
+      },
+      "red": true,
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/ccd4e058ba.mp3"
   },
   {
    "k": "N",
@@ -867,6 +1190,26 @@
    "url": "media/e29n90/voz/397bd0afee.mp3"
   },
   {
+   "k": "C",
+   "src": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
+   "lt": [
+    "José Luis Ábalos (PSOE)",
+    "Congreso · 31/05/2018"
+   ],
+   "fuente": "cita",
+   "flash": true,
+   "gap": 0.25,
+   "crop": [
+    0.0,
+    0.1,
+    0.9,
+    0.9
+   ],
+   "tag": "abalos_decencia",
+   "in": 6.0,
+   "out": 12.0
+  },
+  {
    "k": "T",
    "voice": "ENT",
    "text": "Presidente, ¿quién eligió a José Luis Ábalos?",
@@ -876,30 +1219,139 @@
    "chapter": true,
    "card": {
     "type": "pregunta",
-    "n": "PREGUNTA 02 / 07",
+    "n": "PREGUNTA 02 / 10",
     "text": "Presidente, ¿quién eligió a José Luis Ábalos?",
     "foot": "PEDRO SÁNCHEZ · LA ENTREVISTA QUE NADIE LE HIZO",
     "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
     "bgt": 12.0
    },
    "title": "2. Presidente, ¿quién eligió a José Luis Ábalos?",
+   "shots": [],
    "url": "media/e29n90/voz/d8d4ca75d4.mp3"
   },
   {
    "k": "B",
-   "track": "noche"
+   "track": "tension"
   },
   {
    "k": "N",
    "voice": "TOP",
-   "text": "Otoño de dos mil dieciséis. Sánchez acaba de perder la secretaría general del PSOE tras un Comité Federal a gritos. Sin cargo, decide recorrer España en su coche para recuperar el partido, agrupación por agrupación. Él mismo lo contó en su libro, Manual de resistencia. En ese Peugeot viajaban cuatro hombres. [pause] Pedro Sánchez. José Luis Ábalos. Santos Cerdán. Y Koldo García.",
+   "text": "[serious] Veintidós de junio de dos mil veintiséis. Tribunal Supremo. Siete magistrados, por unanimidad. José Luis Ábalos, exministro de Transportes y exsecretario de Organización del PSOE: veinticuatro años y tres meses de prisión. Koldo García, su asesor: diecinueve años y ocho meses. El empresario Víctor de Aldama, que confesó: cuatro años y medio.",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "image": "media/e29n90/capturas/doc_03_sentencia_abalos_CGPJ_22-06-2026.jpg",
+      "title": "NOTA DEL TRIBUNAL SUPREMO",
+      "lines": [
+       "Ábalos · 24 años y 3 meses",
+       "Koldo García · 19 años y 8 meses"
+      ],
+      "source": "CGPJ · 22/06/2026"
+     }
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "José Luis Ábalos",
+      "role": "Exministro de Transportes · exsecretario de Organización del PSOE",
+      "bgimg": "media/e29n90/capturas/doc_03_sentencia_abalos_CGPJ_22-06-2026.jpg"
+     },
+     "at": "Ábalos",
+     "stamp": [
+      "CONDENADO",
+      "red",
+      "24 años y 3 meses"
+     ],
+     "stamp_at": 0.8
+    }
+   ],
+   "url": "media/e29n90/voz/62223bcafe.mp3"
+  },
+  {
+   "k": "R",
+   "voice": "DOC",
+   "text": "Sentencia del Tribunal Supremo. Al valorar la confesión de Aldama, el tribunal habla de una «corrupción orgánica, organizada y continuada».",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "«corrupción orgánica, organizada y continuada»",
+      "attrib": "STS 418/2026 · al valorar la confesión de Aldama",
+      "bgimg": "media/e29n90/capturas/doc_03_sentencia_abalos_CGPJ_22-06-2026.jpg"
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/54163d8f0d.mp3"
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Pedro Sánchez no está imputado en esta causa. Ni en ninguna otra. Pero la pregunta de este capítulo no es judicial. Es política. ¿Cómo llegó Ábalos hasta ahí? [pause] Para responderla hay que volver atrás. Y subir a un coche.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "Pedro Sánchez no está imputado",
+       "en esta causa ni en ninguna otra."
+      ],
+      "head": true,
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Pedro Sánchez llega a la secretaría general del PSOE en julio de dos mil catorce, tras ganar unas primarias que casi nadie esperaba. En diciembre de dos mil quince logra noventa escaños, el peor resultado de su partido hasta entonces. En junio de dos mil dieciséis, ochenta y cinco. España lleva casi un año sin Gobierno. Sánchez se niega a facilitar la investidura de Rajoy: «No es no». [pause] El uno de octubre de dos mil dieciséis, un Comité Federal a gritos le obliga a dimitir. Semanas después renuncia a su escaño para no abstenerse en la investidura de Rajoy.",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/68cc/6abd/d6f239194c0a3f99cb16b41669f15d89.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d2d2af6d037709acc7590923ffc34be65e2cf93bcb64a3732ab2d4fd3decf255"
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "at": "noventa escaños",
+      "bgimg": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
+      "bgt": 9.0,
+      "events": [
+       [
+        "2014",
+        "Secretario general"
+       ],
+       [
+        "2015",
+        "90 escaños"
+       ],
+       [
+        "2016",
+        "85 escaños"
+       ],
+       [
+        "01/10/2016",
+        "Dimite tras el Comité Federal"
+       ]
+      ],
+      "header": "La caída"
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/051da3390f.mp3"
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "Sin cargo, decide recorrer España en su coche para recuperar el partido, agrupación por agrupación. Él mismo lo contó en su libro, Manual de resistencia. En ese Peugeot viajaban cuatro hombres. [pause] Pedro Sánchez. José Luis Ábalos. Santos Cerdán. Y Koldo García.",
    "shots": [
     {
      "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c82a/52e0/02756e99892c58f34b9d1eff89ec9c00.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=866a605d67bab72e80a13bea5e1305b5315f0456eae19e9118a4f6befc72a888"
     },
     {
      "at": "Peugeot",
-     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/72d4/170c/6a8e0064d3e3681ea7217f2e6533828e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b630876d60f884601af559ca77fdc8b62563ed1062c9d22dd8095768359eec3d"
+     "ai": "https://s3-alpha-sig.figma.com/img/8d6e/adeb/56f2c772d90e5d809a8843747a569ad6.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=MbfBs8SszUo6P4O~sH6h2nvEo2iPAup62QeDMY65WFRnylm~9sn-knm-v~~BcScDoNvGUyWbBHYjJqDkt3HJHkWrNC7Wpu97Lp4j6lf3BMA6gTSNiVHCfZ1FJLpl5NFC4~zCZZaBslB-nZZvXVakcIIv~EaPhQvca3Y~EXbH5EYwXymX6K4uN31G4A6q0JbqpdIFWzyUx3WgoeDT~9i2wxYfrPCSD5y2LX7L9rlFHcJx4ZWeF5agkBzaCX5JiAF1AFCoGxnZ4sQmryKhgHPx6s1KWcNr4hql0SGOWwZHFHo7WnB0kdpE7ltM984C3vsX--pxPUEpG5Ci6SbTqT-czQ__"
     },
     {
      "card": {
@@ -945,10 +1397,9 @@
       "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
       "bgt": 12.0
      },
-     "at": "cuatro hombres"
+     "at": "cuatro"
     }
-   ],
-   "url": "media/e29n90/voz/6887fd7dbc.mp3"
+   ]
   },
   {
    "k": "N",
@@ -984,7 +1435,7 @@
   {
    "k": "N",
    "voice": "TOP",
-   "text": "[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, Sánchez defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel.",
+   "text": "[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, Sánchez defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel. Y le exige lo que él llama decencia.",
    "shots": [
     {
      "file": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
@@ -998,101 +1449,13 @@
       ],
       "head": true,
       "size": 46,
-      "bgimg": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
-      "bgt": 3
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12
      },
      "at": "moción"
     }
    ],
-   "url": "media/e29n90/voz/59c36d0594.mp3"
-  },
-  {
-   "k": "C",
-   "src": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
-   "lt": [
-    "José Luis Ábalos (PSOE)",
-    "Moción de censura · Congreso · 31/05/2018 · vía El Debate"
-   ],
-   "fuente": "cita",
-   "crop": [
-    0.0,
-    0.1,
-    0.9,
-    0.9
-   ],
-   "in": 2.6,
-   "out": 23.8
-  },
-  {
-   "k": "N",
-   "voice": "NEW",
-   "text": "Quien defendió aquella moción desde la tribuna en nombre del PSOE fue José Luis Ábalos. Según recuerda Maldita.es, dijo que la presentaban para sacar de la política la corrupción. Rajoy le contestó así.",
-   "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "JOSÉ LUIS ÁBALOS",
-       "Secretario de Organización del PSOE · 2018"
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
-      "bgt": 6
-     }
-    },
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "MARIANO RAJOY"
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
-      "bgt": 17
-     },
-     "at": "Rajoy"
-    }
-   ],
-   "url": "media/e29n90/voz/2b6b03e918.mp3"
-  },
-  {
-   "k": "C",
-   "src": "media/e29n90/cortes/clip_39_rajoy_lecciones.mp4",
-   "lt": [
-    "Mariano Rajoy",
-    "Moción de censura · Congreso · 31/05/2018 · vía El Debate"
-   ],
-   "fuente": "cita",
-   "crop": [
-    0.0,
-    0.1,
-    0.9,
-    0.9
-   ],
-   "in": 0,
-   "out": 8.0
-  },
-  {
-   "k": "M",
-   "track": "noche",
-   "secs": 3.4,
-   "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "Y EL CANDIDATO, PEDRO SÁNCHEZ,",
-       "LE HIZO UNA PREGUNTA"
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
-      "bgt": 12
-     }
-    }
-   ]
+   "url": "media/e29n90/voz/c1da05ea93.mp3"
   },
   {
    "k": "C",
@@ -1114,9 +1477,91 @@
   },
   {
    "k": "N",
+   "voice": "NEW",
+   "text": "Quien defendió aquella moción desde la tribuna en nombre del PSOE fue José Luis Ábalos.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "JOSÉ LUIS ÁBALOS",
+       "Secretario de Organización del PSOE · 2018"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
+      "bgt": 6
+     }
+    }
+   ]
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
+   "lt": [
+    "José Luis Ábalos (PSOE)",
+    "Moción de censura · Congreso · 31/05/2018 · vía El Debate"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.1,
+    0.9,
+    0.9
+   ],
+   "stamp": [
+    "CONDENADO",
+    "red",
+    "2026 · 24 años y 3 meses"
+   ],
+   "stamp_at": 16.0,
+   "in": 2.6,
+   "out": 23.8
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Según recuerda Maldita.es, dijo que la presentaban para sacar de la política la corrupción. Rajoy le contestó así.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "MARIANO RAJOY"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 17
+     }
+    }
+   ]
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_39_rajoy_lecciones.mp4",
+   "lt": [
+    "Mariano Rajoy",
+    "Moción de censura · Congreso · 31/05/2018 · vía El Debate"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.1,
+    0.9,
+    0.9
+   ],
+   "in": 0,
+   "out": 8.0
+  },
+  {
+   "k": "N",
    "voice": "TOP",
    "text": "Una semana después, el siete de junio, el Boletín Oficial del Estado publica el nombramiento. Ministro de Fomento: José Luis Ábalos Meco. Firma el real decreto el presidente del Gobierno.",
    "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/8157/31b8/2fdc72205f7d3261403e3c0fc93b50ed.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=qQbAH~dESnk~JxJfxxwwGJuvRgszOZDy7wQhposIejxIXWaGRGgXMUaB4e78Hjq6Fqznmtyed4alFTIYaU9BqIWDNiOdNnhExnYRP8jYN-4BGhqKWRUzVSscleIIPtuayPQV1oqAkNWMmUDMR3~D5HtRnjtTnsC2khFxo9Ktj98K2VXqsYqbOEjtE4lCouN3K2auecdjoqQU2CV3zNbTZagqwymmpxKk5GqTf7xHCAFBqAbNGenyGwVhw5lLZJk3xJoIwwqAX4-qp533oP2zHAd8h-i58eiA39zX4UKNfYza8mzNY85mEgsPr7FAQJ2Er7ltwLKXw8TeJkNnEMr1~A__"
+    },
     {
      "card": {
       "type": "doc",
@@ -1175,6 +1620,109 @@
   {
    "k": "N",
    "voice": "TOP",
+   "text": "En marzo de dos mil veinte, en vísperas del ocho de marzo, el PSOE publicó una campaña en redes. Uno de sus protagonistas era su secretario de Organización.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "VÍDEO DEL PSOE · MARZO DE 2020"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/ul_abalos_feminista__01.mp4",
+      "bgt": 3
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/eff300806a.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/ul_abalos_feminista__01.mp4",
+   "lt": [
+    "José Luis Ábalos",
+    "Vídeo del PSOE · #SoyFeministaPorque · marzo de 2020"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.1,
+    0.0,
+    0.7,
+    0.7
+   ],
+   "stamp": [
+    "CONDENADO",
+    "red",
+    ""
+   ],
+   "stamp_at": 4.0,
+   "in": 0,
+   "out": 9.0
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "[serious] Años después, el sumario del caso Koldo y los audios publicados por la prensa describirían otra cosa. Según las informaciones basadas en los informes de la UCO, la trama pagaba viajes y alojamientos a mujeres de su entorno. Feijóo lo usó en el Congreso como arma contra el presidente.",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/08b0/1a56/dea27a7b91f82bf978f74dba6e0d5dcf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b2a6cce69862527d366e853f32db4786034742a48b2eeed1a5ecee77d4acd89"
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "CONGRESO · 09/07/2025"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_18_feijoo_prostibulos.mp4",
+      "bgt": 6
+     },
+     "at": "Feijóo"
+    }
+   ],
+   "url": "media/e29n90/voz/a30c0113c8.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_18_feijoo_prostibulos.mp4",
+   "lt": [
+    "Alberto Núñez Feijóo",
+    "Congreso · 09/07/2025 · vía Libertad Digital"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.12,
+    0.1,
+    0.65,
+    0.65
+   ],
+   "in": 4.6,
+   "out": 18.4
+  },
+  {
+   "k": "R",
+   "voice": "DOC",
+   "text": "Es una acusación política, pronunciada en la tribuna del Congreso. Ningún tribunal ha juzgado al presidente por ello.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "Ningún tribunal ha juzgado al presidente por ello."
+      ],
+      "head": true,
+      "bgimg": "media/e29n90/cortes/clip_18_feijoo_prostibulos.mp4",
+      "bgt": 8
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/65c7b1e5cb.mp3"
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
    "text": "Julio de dos mil veintiuno. Sánchez remodela su Gobierno y saca a Ábalos del Ministerio y de la secretaría de Organización. En aquel momento no explicó en público por qué. Su sustituto al frente de la Organización del PSOE es Santos Cerdán. [pause] Y dos años después, en las elecciones de dos mil veintitrés, Ábalos vuelve: número dos de la lista del PSOE por Valencia.",
    "shots": [
     {
@@ -1208,10 +1756,157 @@
   {
    "k": "N",
    "voice": "NEW",
+   "text": "El nueve de julio de dos mil veinticinco, en el Congreso, Sánchez dio su versión.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "CONGRESO · 09/07/2025"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/hls/h16_me_equivoque.mp4",
+      "bgt": 10
+     }
+    }
+   ]
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/hls/h16_me_equivoque.mp4",
+   "lt": [
+    "Habla Pedro Sánchez",
+    "RESPUESTA REAL · Congreso · 09/07/2025 · La Moncloa"
+   ],
+   "fuente": "cita",
+   "in": 16.3,
+   "out": 20.95
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/hls/h17_politico_limpio.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Congreso · 09/07/2025 · La Moncloa"
+   ],
+   "fuente": "cita",
+   "in": 9.0,
+   "out": 29.5
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] Me equivoqué al confiar en Ábalos. [short pause] Y en Santos Cerdán. [pause] El hombre que vino después. El que estaba en el coche. El que heredó las llaves de Ferraz.",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a7d2/e212/d29a585c3b8052e85177a12b4dc5101f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=50749515a7aeb2cbb1b845ba2093c83fd3894aff5127c88f0f0cce6e6250b7d6"
+    },
+    {
+     "card": {
+      "type": "ficha",
+      "name": "Santos Cerdán",
+      "role": "Sucesor de Ábalos en Organización",
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     },
+     "at": "Santos Cerdán",
+     "stamp": [
+      "INVESTIGADO",
+      "amber",
+      ""
+     ],
+     "stamp_at": 0.8
+    }
+   ],
+   "url": "media/e29n90/voz/19a7e5352b.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_15_necesito_a_balas.mp4",
+   "lt": [
+    "Leire Díez (grabación)",
+    "Publicada por El Confidencial · febrero de 2025"
+   ],
+   "fuente": "cita",
+   "audio_only": true,
+   "quote": "«Necesito a Balas»",
+   "shots": [
+    {
+     "card": {
+      "type": "audiograma",
+      "text": "«Necesito a Balas»",
+      "attrib": "Leire Díez (grabación) · Publicada por El Confidencial · febrero de 2025",
+      "audio": "media/e29n90/cortes/clip_15_necesito_a_balas.mp4",
+      "ss": 0,
+      "bgimg": "media/e29n90/capturas/doc_03_sentencia_abalos_CGPJ_22-06-2026.jpg"
+     }
+    }
+   ],
+   "flash": true,
+   "gap": 0.25,
+   "in": 0,
+   "out": 4.0
+  },
+  {
+   "k": "T",
+   "voice": "ENT",
+   "text": "Presidente, ¿sabía usted lo que pasaba en Ferraz?",
+   "secs": 4.2,
+   "voice_at": 0.6,
+   "sting": "golpe",
+   "chapter": true,
+   "card": {
+    "type": "pregunta",
+    "n": "PREGUNTA 03 / 10",
+    "text": "Presidente, ¿sabía usted lo que pasaba en Ferraz?",
+    "foot": "PEDRO SÁNCHEZ · LA ENTREVISTA QUE NADIE LE HIZO",
+    "bgimg": "media/e29n90/cortes/clip_15g_caso_flagrante.mp4",
+    "bgt": 2
+   },
+   "title": "3. Presidente, ¿sabía usted lo que pasaba en Ferraz?",
+   "shots": [],
+   "url": "media/e29n90/voz/c820cb1519.mp3"
+  },
+  {
+   "k": "B",
+   "track": "pulso"
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Madrid, calle Ferraz, número setenta. Sede federal del Partido Socialista. Miércoles, veintisiete de mayo de dos mil veintiséis. Agentes de la Unidad Central Operativa de la Guardia Civil entran en el edificio. Se quedan doce horas.",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/ba7c/f997/43cfb3ea4222cdc6ffe30c44ecb198b7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7dbcb5614ab2e172c3768c530d75e935c09fb199315a1d7d22a4724e43df2b15"
+    },
+    {
+     "at": "Agentes",
+     "ai": "https://s3-alpha-sig.figma.com/img/82ff/ad43/8e0d2b0cd13d00ea32a4bc58baaefe5a.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ZP8B2C71Frv8g41Z6z3VFljTH0qdg0v2wT263MWXLAB0jICMTAfwy8hohlaf0qt-R4llMKapqoY8bb2XecjzjUOziu8sOyn5HoXGmQcOIxV0pRD12DIbHnRS~bjeoodm5D9UDUwBm3JbD4T5W1mNkyG-BaIacruZLhAyRjYapNG17raHANPGNq1l-P0XfpSeiyEjkQ1Z2pSS8-El~gWp-k8asCv0a~e8QbYwxttn5LI4kBzZQXV7w-jlb2l3OUgKRloKPKlViB3UrN7hkHE2ssNb2P4as7trhROykjNL3Ms2TwCzciSAeQhxWnsbshHqzrlRDOtS2Fgt3Zq90EWV9g__"
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "27/05/2026 · FERRAZ, 70",
+       "Requerimiento de la UCO · 12 horas"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_15g_caso_flagrante.mp4",
+      "bgt": 2
+     },
+     "at": "doce horas"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
    "text": "Todo empezó dos años antes, con mascarillas. Febrero de dos mil veinticuatro: la UCO detiene a Koldo García por presuntas comisiones en contratos de material sanitario firmados en lo peor de la pandemia con organismos que dependían del Ministerio de Transportes. El PSOE pide a Ábalos que entregue su escaño. Él se niega, se marcha al Grupo Mixto y conserva el acta de diputado.",
    "shots": [
     {
-     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/08b0/1a56/dea27a7b91f82bf978f74dba6e0d5dcf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b2a6cce69862527d366e853f32db4786034742a48b2eeed1a5ecee77d4acd89"
+     "ai": "https://s3-alpha-sig.figma.com/img/2666/4a74/f2cd9b7569e974dbed7332c864fbae8d.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=gIczUD6DbZd30agw9cyeaTI9GRSTZ2kgJ1yLuEXAcZWRXz193COgRsiSHOfe1HKRbmm~zVDuZICjtStKbSOBR~Zb6a~LZ1VDuDWBEzuO~QTZy7cmlFKneoqy3hdXGevfuAbvSb2H~rsAMEU8aM9ruswlxQfGBKIa53bvZ~O6cJBorpWnHjlqFAyw3KV-jVgGWgjFEbXTkY0izs7NOdPJ9w0s-ZO53iz~3ttAONpTZCHsiEEqn8VzSwlzPd8DKRYt64Xhkxh4p2A7SPCu4EQeSoAOcre44mnzHgll91Sn-nkxRxp11bqla01SiJ6VMentbOERAgK8u746zRtNAjF7sA__"
     },
     {
      "card": {
@@ -1229,37 +1924,6 @@
     }
    ],
    "url": "media/e29n90/voz/2f6bf0117a.mp3"
-  },
-  {
-   "k": "N",
-   "voice": "TOP",
-   "text": "[serious] Y ahora, las respuestas. Porque el presidente ha hablado mucho de corrupción. [pause] Febrero de dos mil veinticuatro, recién estallado el caso Koldo.",
-   "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "LO QUE DIJO · CONGRESO · 28/02/2024"
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/cortes/clip_41b_no_tapa.mp4",
-      "bgt": 2
-     }
-    }
-   ],
-   "url": "media/e29n90/voz/79d21cfb0f.mp3"
-  },
-  {
-   "k": "C",
-   "src": "media/e29n90/cortes/clip_41b_no_tapa.mp4",
-   "lt": [
-    "Habla Pedro Sánchez",
-    "RESPUESTA REAL · Congreso · 28/02/2024"
-   ],
-   "fuente": "cita",
-   "in": 0.8,
-   "out": 3.6
   },
   {
    "k": "N",
@@ -1292,83 +1956,8 @@
   },
   {
    "k": "N",
-   "voice": "NEW",
-   "text": "Junio de dos mil veinticinco, tras el auto contra Cerdán.",
-   "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "CONGRESO · 18/06/2025"
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/cortes/clip_15e_corrupcion_cero.mp4",
-      "bgt": 3
-     }
-    }
-   ],
-   "url": "media/e29n90/voz/d894dc710b.mp3"
-  },
-  {
-   "k": "C",
-   "src": "media/e29n90/cortes/clip_15e_corrupcion_cero.mp4",
-   "lt": [
-    "Pedro Sánchez",
-    "RESPUESTA REAL · Congreso · 18/06/2025"
-   ],
-   "fuente": "cita",
-   "lt_at": 5.4,
-   "in": 0,
-   "out": 7.7
-  },
-  {
-   "k": "N",
-   "voice": "NEW",
-   "text": "El PSOE sostiene que lo apartó en cuanto supo. Que lo expulsó. Que colaboró con la justicia. El nueve de julio de dos mil veinticinco, en el Congreso, Sánchez dio su versión.",
-   "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "LA DEFENSA DEL PSOE",
-       "Apartó y expulsó a Ábalos. Colabora con la justicia."
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/hls/h16_me_equivoque.mp4",
-      "bgt": 10
-     }
-    }
-   ],
-   "url": "media/e29n90/voz/9bb06b6df4.mp3"
-  },
-  {
-   "k": "C",
-   "src": "media/e29n90/hls/h16_me_equivoque.mp4",
-   "lt": [
-    "Habla Pedro Sánchez",
-    "RESPUESTA REAL · Congreso · 09/07/2025 · La Moncloa"
-   ],
-   "fuente": "cita",
-   "in": 16.3,
-   "out": 20.95
-  },
-  {
-   "k": "C",
-   "src": "media/e29n90/hls/h17_politico_limpio.mp4",
-   "lt": [
-    "Pedro Sánchez",
-    "RESPUESTA REAL · Congreso · 09/07/2025 · La Moncloa"
-   ],
-   "fuente": "cita",
-   "in": 9.0,
-   "out": 29.5
-  },
-  {
-   "k": "N",
    "voice": "TOP",
-   "text": "En el centro de la trama aparece un empresario: Víctor de Aldama, el comisionista que acabó confesando. En octubre de dos mil veinticuatro, El Mundo publicó una foto suya con el presidente, tomada en febrero de dos mil diecinueve en un acto del PSOE en Madrid. Sánchez respondió que nunca había hablado con él, y que uno no elige con quién se hace una foto. Semanas después, Aldama declaró ante el juez que fue el presidente quien le pidió aquella foto. Es la palabra de un acusado que buscaba rebajar su condena. Sánchez lo niega.",
+   "text": "En el centro de la trama aparece un empresario: Víctor de Aldama, el comisionista que acabó confesando. En octubre de dos mil veinticuatro, El Mundo publicó una foto suya con el presidente, tomada en febrero de dos mil diecinueve en un acto del PSOE en Madrid. Sánchez respondió que nunca había hablado con él, y que uno no elige con quién se hace una foto. Semanas después, Aldama declaró ante el juez que fue el presidente quien le pidió aquella foto. Es la palabra de un acusado que buscaba rebajar su condena.",
    "shots": [
     {
      "card": {
@@ -1399,25 +1988,34 @@
     },
     {
      "card": {
+      "type": "quote",
+      "text": "Uno no elige con quién se hace una foto.",
+      "attrib": "Pedro Sánchez · 27/10/2024 · según The Objective",
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     },
+     "at": "uno no elige"
+    },
+    {
+     "card": {
       "type": "aviso",
       "lines": [
-       "LA DEFENSA",
-       "Sánchez niega haberle pedido la foto."
+       "Es la palabra de un acusado",
+       "que buscaba rebajar su condena."
       ],
       "head": true,
       "size": 46,
       "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
       "bgt": 12.0
      },
-     "at": "Sánchez lo niega"
+     "at": "palabra de un acusado"
     }
-   ],
-   "url": "media/e29n90/voz/d5f2920975.mp3"
+   ]
   },
   {
    "k": "N",
    "voice": "NEW",
-   "text": "Según publicó Voz Pópuli, Cerdán había declarado dos reuniones con un empresario de la trama. Los investigadores le atribuyen treinta y nueve. Cerdán niega haber cometido ningún delito.",
+   "text": "Según publicó Voz Pópuli, Cerdán había declarado dos reuniones con un empresario de la trama. Los investigadores le atribuyen treinta y nueve.",
    "shots": [
     {
      "card": {
@@ -1429,90 +2027,132 @@
       "bgt": 12.0
      }
     }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "Aquel mismo verano salió a la luz otra figura. Leire Díez, militante del PSOE. El Confidencial publicó la grabación de una reunión de febrero de dos mil veinticinco, en la que hablaba de conseguir información contra mandos de la Guardia Civil que investigaban al partido. Ella reconoció que la voz era suya.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/1e99/29dc/da335611e88364be1c46a4916c9a0cec.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=BNncUcxBYcL-II86MrVQ8Df13~n8JY-QwWefI7HlUVYUGzuAp4h-LvczFVle4S~LEwmzwQNg0V8cIF8e6oyIpmId3ddABD-gEe9EgqF-zZAk7n9uEjkG7IZ~8mcWSFm5dcasQLJ3sRAuRUdC5~haaLLi8b~YbJBP1z9Z8Qq19GHI~09pdlr6B2Hlr7EoklmDwc5AlPB-0G4x-KfaTcniBIJpy0plYA8~EwX5TvVF9PSlkzB~VKGXVrvt-8GsBFrv3IoQqsoCdEnkckt0w27mZcV7qxWe1UkbUSpI60THAaN6-066FzcVRFPGFRJ5MwztcWh48djPWdZQzG7QxVaN9g__"
+    }
    ],
-   "url": "media/e29n90/voz/67a13a9530.mp3"
+   "url": "media/e29n90/voz/df1ccea1ff.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_15_necesito_a_balas.mp4",
+   "lt": [
+    "Leire Díez (grabación)",
+    "Publicada por El Confidencial · febrero de 2025"
+   ],
+   "fuente": "cita",
+   "audio_only": true,
+   "quote": "«Necesito a Balas»",
+   "shots": [
+    {
+     "card": {
+      "type": "audiograma",
+      "text": "«Necesito a Balas»",
+      "attrib": "Leire Díez (grabación) · Publicada por El Confidencial · febrero de 2025",
+      "audio": "media/e29n90/cortes/clip_15_necesito_a_balas.mp4",
+      "ss": 0,
+      "bgimg": "media/e29n90/capturas/doc_03_sentencia_abalos_CGPJ_22-06-2026.jpg"
+     }
+    }
+   ],
+   "in": 0,
+   "out": 4.0
   },
   {
    "k": "N",
    "voice": "NEW",
-   "text": "Madrid, calle Ferraz, número setenta. Sede federal del Partido Socialista. Miércoles, veintisiete de mayo de dos mil veintiséis. Agentes de la Unidad Central Operativa de la Guardia Civil entran en el edificio. Se quedan doce horas. [short pause] El PSOE insiste en que no fue un registro, sino un requerimiento de documentación. Es exacto: fue un requerimiento.",
+   "text": "Balas es el apellido de un teniente coronel de la UCO. Según el juez Santiago Pedraz, Leire Díez formaba parte de una red para obstaculizar causas judiciales. Según el sumario publicado por la prensa, recibía unos cuatro mil euros al mes, y la gerente del PSOE está imputada. [short pause] Está investigada; no condenada.",
    "shots": [
     {
-     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/ba7c/f997/43cfb3ea4222cdc6ffe30c44ecb198b7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7dbcb5614ab2e172c3768c530d75e935c09fb199315a1d7d22a4724e43df2b15"
+     "card": {
+      "type": "ficha",
+      "name": "Leire Díez",
+      "role": "Militante del PSOE",
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     },
+     "stamp": [
+      "INVESTIGADA",
+      "amber",
+      "no condenada"
+     ],
+     "stamp_at": 0.8
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] Y ahora, las respuestas. Porque el presidente ha hablado mucho de corrupción. [pause] Febrero de dos mil veinticuatro, recién estallado el caso Koldo.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/857b/0b34/b2af767f120daa8098f8218a97768962.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=DMXq0xU3otMMju1OlYG7BVjFRg3DUz~gEUfjqsSzEWsRDUd1osbftIGSUDbSu2nYYumcLXgwpEJPb~p69ZuiJGWQ3w4VyWtD56z0VYQdFKuR3n3ETFZTTYCmrO9Il~egoEmRF49jxu0oaEvQvRePxirjMllB4pB4bU4oid9iZ8IRf0hgrs8avkxJLm8l5M51G3ImcGNINCRs7HjHWh09py-bTygY~c6TWqyMhDpsdJdA2coxhhHp-Z3ZZx2npAxkT4kV9nYC6vx~EfE4duXEfg8Lxhbf4lqVg0uJb~rCSdDWoZAkqtQhpezSALw8XMMEBMut2O~gbyhBGtvp9Xs5jw__"
     },
     {
      "card": {
       "type": "aviso",
       "lines": [
-       "27/05/2026 · FERRAZ, 70",
-       "Requerimiento de la UCO · 12 horas"
+       "CONGRESO · 28/02/2024"
       ],
       "head": true,
       "size": 46,
-      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
-      "bgt": 12.0
+      "bgimg": "media/e29n90/cortes/clip_41b_no_tapa.mp4",
+      "bgt": 2
      },
-     "at": "doce horas"
+     "at": "Febrero"
     }
    ],
-   "url": "media/e29n90/voz/568a71a14c.mp3"
+   "url": "media/e29n90/voz/79d21cfb0f.mp3"
   },
   {
-   "k": "N",
-   "voice": "TOP",
-   "text": "[serious] Veintidós de junio de dos mil veintiséis. Tribunal Supremo. Siete magistrados, por unanimidad. José Luis Ábalos, exministro de Transportes y exsecretario de Organización del PSOE: veinticuatro años y tres meses de prisión. Koldo García, su asesor: diecinueve años y ocho meses. El empresario Víctor de Aldama, que confesó: cuatro años y medio.",
-   "shots": [
-    {
-     "card": {
-      "type": "doc",
-      "image": "media/e29n90/capturas/doc_03_sentencia_abalos_CGPJ_22-06-2026.jpg",
-      "title": "NOTA DEL TRIBUNAL SUPREMO",
-      "lines": [
-       "Ábalos · 24 años y 3 meses",
-       "Koldo García · 19 años y 8 meses"
-      ],
-      "source": "CGPJ · 22/06/2026"
-     }
-    }
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_41b_no_tapa.mp4",
+   "lt": [
+    "Habla Pedro Sánchez",
+    "RESPUESTA REAL · Congreso · 28/02/2024"
    ],
-   "url": "media/e29n90/voz/62223bcafe.mp3"
-  },
-  {
-   "k": "R",
-   "voice": "DOC",
-   "text": "Sentencia del Tribunal Supremo. Al valorar la confesión de Aldama, el tribunal habla de una «corrupción orgánica, organizada y continuada».",
-   "shots": [
-    {
-     "card": {
-      "type": "quote",
-      "text": "«corrupción orgánica, organizada y continuada»",
-      "attrib": "STS 418/2026 · al valorar la confesión de Aldama",
-      "bgimg": "media/e29n90/capturas/doc_03_sentencia_abalos_CGPJ_22-06-2026.jpg"
-     }
-    }
-   ],
-   "url": "media/e29n90/voz/54163d8f0d.mp3"
+   "fuente": "cita",
+   "in": 0.8,
+   "out": 3.6
   },
   {
    "k": "N",
    "voice": "NEW",
-   "text": "La defensa de Ábalos ve arbitrariedad en la sentencia y ha anunciado que acudirá a la justicia europea. [short pause] Pedro Sánchez no está imputado en esta causa. Ni en ninguna otra. Pero la pregunta de este capítulo no es judicial. Es política. ¿Cómo llegó Ábalos hasta ahí? [pause] Para responderla hay que volver atrás. Y subir a un coche.",
+   "text": "Junio de dos mil veinticinco, tras el auto contra Cerdán.",
    "shots": [
     {
      "card": {
       "type": "aviso",
       "lines": [
-       "LA DEFENSA",
-       "El abogado de Ábalos recurrirá. Pedro Sánchez no está imputado en ninguna causa."
+       "CONGRESO · 18/06/2025"
       ],
       "head": true,
       "size": 46,
-      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
-      "bgt": 12.0
+      "bgimg": "media/e29n90/cortes/clip_15e_corrupcion_cero.mp4",
+      "bgt": 3
      }
     }
    ],
-   "url": "media/e29n90/voz/5e3b43e387.mp3"
+   "url": "media/e29n90/voz/d894dc710b.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_15e_corrupcion_cero.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Congreso · 18/06/2025"
+   ],
+   "fuente": "cita",
+   "lt_at": 5.4,
+   "in": 0,
+   "out": 7.7
   },
   {
    "k": "N",
@@ -1558,49 +2198,121 @@
   },
   {
    "k": "N",
-   "voice": "TOP",
-   "text": "[serious] El Partido Socialista no se ha financiado irregularmente. [pause] Es lo que sostiene el PSOE. Y aquí está lo que dicen los documentos: en octubre de dos mil veintiséis, la Fiscalía Anticorrupción vio indicios contra el partido, pero consideró prematuro imputarlo. El PSOE, como organización, no está imputado.",
+   "voice": "NEW",
+   "text": "Y en septiembre, en Televisión Española, fue más allá.",
    "shots": [
     {
      "card": {
       "type": "aviso",
       "lines": [
-       "LO QUE DICE EL PSOE",
-       "«El PSOE no se ha financiado irregularmente»"
+       "MAÑANEROS 360 · TVE · 09/09/2026"
       ],
       "head": true,
       "size": 46,
-      "bgimg": "media/e29n90/hls/h15f_no_financiado.mp4",
-      "bgt": 48
+      "bgimg": "media/e29n90/decl/ul_manyaneros_chantaje__01.mp4",
+      "bgt": 150
      }
-    },
+    }
+   ],
+   "url": "media/e29n90/voz/67f55d37cd.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/ul_manyaneros_chantaje__01.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026 · vía El País"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.1,
+    0.9,
+    0.72
+   ],
+   "in": 146.6,
+   "out": 171.6
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] El Partido Socialista no se ha financiado irregularmente. [pause] Es lo que sostiene el PSOE. Y aquí está lo que dicen los documentos: en octubre de dos mil veintiséis, la Fiscalía Anticorrupción vio indicios contra el partido, pero consideró prematuro imputarlo. El PSOE, como organización, no está imputado.",
+   "shots": [
     {
      "card": {
-      "type": "aviso",
-      "lines": [
-       "FISCALÍA ANTICORRUPCIÓN · OCTUBRE DE 2026",
-       "Indicios, pero «prematuro» imputar al partido · según Ara"
-      ],
-      "head": true,
-      "size": 46,
+      "type": "dijo",
+      "left": {
+       "date": "09/09/2026",
+       "text": "«El Partido Socialista no se ha financiado irregularmente»"
+      },
+      "right": {
+       "date": "OCTUBRE DE 2026",
+       "text": "Anticorrupción ve indicios, aunque considera «prematuro» imputar al partido",
+       "source": "Fuente: Ara"
+      },
+      "red": true,
       "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
       "bgt": 12.0
-     },
-     "at": "Fiscalía"
+     }
     }
    ],
    "url": "media/e29n90/voz/88c21ff0c8.mp3"
   },
   {
    "k": "N",
-   "voice": "TOP",
-   "text": "Porque las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa.",
+   "voice": "NEW",
+   "text": "Y en el debate del diecinueve de noviembre, Feijóo resumió la ofensiva de su partido con una sola frase sobre la política de vivienda.",
    "shots": [
     {
-     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/19ca/16fa/02996d6ff245e1c17116e0733f410d7a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e31dd5866a3f4e1347b8a33c490877f1de58344eed696787c40099c0c0e67a70"
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "CARA A CARA · RTVE · 19/11/2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_20b_sumarios.mp4",
+      "bgt": 5
+     }
     }
    ],
-   "url": "media/e29n90/voz/5ac8ddbcb7.mp3"
+   "url": "media/e29n90/voz/33a234bc60.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_20b_sumarios.mp4",
+   "lt": [
+    "Alberto Núñez Feijóo",
+    "Cara a cara · RTVE · 19/11/2026"
+   ],
+   "fuente": "cita",
+   "in": 3.8,
+   "out": 13.1
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[softly] Pisos en los sumarios. Viviendas prometidas. [pause] De las viviendas hablaremos. [short pause] Pero antes hay otra pregunta. Porque las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/3b01/b5af/a3309fd0f579fd6a308382869ea01dcb.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=XtKOEaZvWsENPcW6iVCrrHY0-JEwqQ4iYYYpgu-vSJBNYTv~euUxriNc3-hBSaTRWiBQ0jEaIZfV2uZpp22nVcsHj-txJx7yN7ZRzmxaryxdpTdYc-VIE9DEQsGextEu7y9hO6km0qC6AXt9wujeQfdqXiGxMX0SJG5yFKAxf~0R8FyY7ES9Z5AcCA5RSFiEU-X3lAq4Tbutn-4ngSK2JCpgwASQ2vfhHd9pHF~-U6IQUcojcxietb1fcxXkUnr9Ly3OU2DVqU4U29iZmEW~DhoHYSPl9bntQxQdk5cbXZrVNywBtrKecsMot6uWs8XJrorKGqYDJPzICpwS5I95tA__"
+    }
+   ],
+   "url": "media/e29n90/voz/b2bab4971e.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/ul_hay_fango__01.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "laSexta · 17/05/2024"
+   ],
+   "fuente": "cita",
+   "flash": true,
+   "gap": 0.25,
+   "tag": "fango",
+   "in": 0.0,
+   "out": 4.0
   },
   {
    "k": "T",
@@ -1612,13 +2324,14 @@
    "chapter": true,
    "card": {
     "type": "pregunta",
-    "n": "PREGUNTA 03 / 07",
+    "n": "PREGUNTA 04 / 10",
     "text": "Presidente, ¿por qué su familia está en los tribunales?",
     "foot": "PEDRO SÁNCHEZ · LA ENTREVISTA QUE NADIE LE HIZO",
     "bgimg": "media/e29n90/cortes/clip_19a_senoras_de.mp4",
     "bgt": 3
    },
-   "title": "3. Presidente, ¿por qué su familia está en los tribunales?",
+   "title": "4. Presidente, ¿por qué su familia está en los tribunales?",
+   "shots": [],
    "url": "media/e29n90/voz/0330029961.mp3"
   },
   {
@@ -1700,10 +2413,10 @@
   {
    "k": "N",
    "voice": "NEW",
-   "text": "El juez Juan Carlos Peinado ha investigado a Begoña Gómez por tráfico de influencias, corrupción en los negocios, apropiación indebida e intrusismo. En el centro, su cátedra en la Universidad Complutense y un programa informático desarrollado para ella con patrocinio privado. Ella niega cualquier delito.",
+   "text": "El juez Juan Carlos Peinado ha investigado a Begoña Gómez por tráfico de influencias, corrupción en los negocios, apropiación indebida e intrusismo. En el centro, su cátedra en la Universidad Complutense y un programa informático desarrollado para ella con patrocinio privado.",
    "shots": [
     {
-     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/08b0/1a56/dea27a7b91f82bf978f74dba6e0d5dcf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b2a6cce69862527d366e853f32db4786034742a48b2eeed1a5ecee77d4acd89"
+     "ai": "https://s3-alpha-sig.figma.com/img/e534/cd92/49fbf98a39c484fd2fda53bad6ea15f4.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=TpUnRL9BKLdIjA89Z2y~LO~8sfsLAZvTGCY3NyQyeJ9-ODupjoshFwlc~5RUyeyW8eWszB~E1PrqhTKlYFHcks-PK~Yh0~y8PB2BSKYcVD6MAdFYUsK0O0ndM8ALs7-3FHUWIpKtwKJ~Ysu9whxj~rq4acRz1Y81w5gDV3ZkpFEl7H5GJBx4cm1XPUkFOur2IiSSyJxIX0crn~KxgHaLTt6cqkP6O69w1eQHKd~~FKEV06~bvEvKCHlJvOhSOJZDBKInximfD8ir~dAjevylrNGVRUt7Sunn3scBciyRMKJ1ALDFYtrXhWklLLhh0UesIg8izHNJxtrXwFgVGN6E4A__"
     },
     {
      "card": {
@@ -1717,10 +2430,10 @@
       ],
       "bgimg": "media/e29n90/cortes/clip_19c_derecho_no_responder.mp4",
       "bgt": 4
-     }
+     },
+     "at": "investigado"
     }
-   ],
-   "url": "media/e29n90/voz/bf4af31908.mp3"
+   ]
   },
   {
    "k": "N",
@@ -1765,6 +2478,23 @@
   },
   {
    "k": "C",
+   "src": "media/e29n90/cortes/clip_19d_3_software.mp4",
+   "lt": [
+    "Mercedes Zarzalejo (PP)",
+    "Asamblea de Madrid · 13/11/2024 · vía Vozpópuli"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.1,
+    0.88,
+    0.88
+   ],
+   "in": 0,
+   "out": 2.8
+  },
+  {
+   "k": "C",
    "src": "media/e29n90/cortes/clip_19c_derecho_no_responder.mp4",
    "lt": [
     "Begoña Gómez",
@@ -1777,39 +2507,109 @@
     0.88,
     0.88
    ],
+   "stamp": [
+    "PROCESADA",
+    "amber",
+    "juicio con jurado"
+   ],
+   "stamp_at": 6.0,
    "in": 0,
    "out": 14.3
   },
   {
    "k": "N",
    "voice": "NEW",
-   "text": "Hoy, Begoña Gómez está procesada. Irá a juicio con jurado, previsto para dos mil veintisiete. [short pause] Y aquí está su defensa, que también consta en la causa: la Fiscalía pide su absolución. Ella sostiene que es víctima de una persecución por ser la mujer del presidente.",
+   "text": "Hoy, Begoña Gómez está procesada. Irá a juicio con jurado, previsto para dos mil veintisiete. [short pause] la Fiscalía pide su absolución.",
    "shots": [
     {
      "card": {
       "type": "ficha",
       "name": "Begoña Gómez",
-      "role": "Esposa del presidente · PROCESADA · juicio con jurado previsto en 2027",
+      "role": "Esposa del presidente · juicio con jurado previsto en 2027",
       "bgimg": "media/e29n90/cortes/clip_19c_derecho_no_responder.mp4",
       "bgt": 6
-     }
-    },
+     },
+     "stamp": [
+      "PROCESADA",
+      "amber",
+      ""
+     ],
+     "stamp_at": 0.8
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] Doce de noviembre de dos mil veintiséis. Mitin de arranque de campaña en Sevilla. Begoña Gómez sube al escenario.",
+   "shots": [
     {
      "card": {
       "type": "aviso",
       "lines": [
-       "LA DEFENSA",
-       "La Fiscalía pide la absolución. Begoña Gómez denuncia una persecución."
+       "MITIN DEL PSOE · SEVILLA · 12/11/2026"
       ],
       "head": true,
       "size": 46,
-      "bgimg": "media/e29n90/cortes/clip_19c_derecho_no_responder.mp4",
-      "bgt": 6
-     },
-     "at": "defensa"
+      "bgimg": "media/e29n90/cortes/clip_19a_senoras_de.mp4",
+      "bgt": 3
+     }
     }
    ],
-   "url": "media/e29n90/voz/c22fbf24e0.mp3"
+   "url": "media/e29n90/voz/0c283a68ea.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_19a_senoras_de.mp4",
+   "lt": [
+    "Begoña Gómez",
+    "Mitin del PSOE · Sevilla · 12/11/2026 · vía El País"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.08,
+    0.9,
+    0.9
+   ],
+   "in": 0,
+   "out": 6.9
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_04_baile_sevilla_completo.mp4",
+   "lt": [
+    "Pedro Sánchez y Begoña Gómez",
+    "Mitin del PSOE · Sevilla · 12/11/2026 · vía OKDiario"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.12,
+    0.8,
+    0.6
+   ],
+   "in": 21.0,
+   "out": 26.0
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Seis días después, el presidente era portada de la revista Lecturas. El titular: «No imagino mi vida sin Begoña».",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "image": "media/e29n90/capturas/doc_05_portada_Lecturas_18-11-2026.png",
+      "title": "LECTURAS",
+      "lines": [
+       "«No imagino mi vida sin Begoña»"
+      ],
+      "source": "Lecturas · 18/11/2026"
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/5845657b84.mp3"
   },
   {
    "k": "N",
@@ -1820,13 +2620,60 @@
      "card": {
       "type": "ficha",
       "name": "David Sánchez",
-      "role": "Hermano del presidente · CONDENADO en primera instancia · recurrida",
+      "role": "Hermano del presidente",
       "bgimg": "media/e29n90/decl/co_cumplimiento_integro__02.mp4",
       "bgt": 4.0
-     }
+     },
+     "stamp": [
+      "CONDENADO",
+      "red",
+      "sentencia recurrida"
+     ],
+     "stamp_at": 0.8
     }
    ],
    "url": "media/e29n90/voz/6210b94829.mp3"
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Y hay una tercera historia, más pequeña, publicada por la prensa. Calle San Bernardo, número treinta y ocho, Madrid. El edificio es de Muface, la mutualidad pública de los funcionarios. Según el contrato que publicó El Debate, la familia de Begoña Gómez alquila allí un ático desde mil novecientos ochenta y seis: entonces, doscientos setenta y dos euros al mes; en dos mil veinticinco, ochocientos ochenta y dos. Cuando el Senado pidió los datos de esos pisos, el Gobierno no los entregó, según The Objective.",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "image": "media/e29n90/capturas/doc_18_muface_contrato_atico_1986_pag1_ElDebate_02-09-2025.jpg",
+      "title": "CONTRATO DEL ÁTICO · 1986",
+      "lines": [
+       "San Bernardo, 38 · Madrid"
+      ],
+      "source": "El Debate · 02/09/2025"
+     }
+    },
+    {
+     "card": {
+      "type": "doc",
+      "image": "media/e29n90/capturas/doc_18_muface_TheObjective_titular_01-10-2025.jpg",
+      "title": "RESPUESTA AL SENADO",
+      "lines": [
+       "El Gobierno no da al Senado los datos de los pisos"
+      ],
+      "source": "The Objective · 01/10/2025"
+     },
+     "at": "Senado"
+    }
+   ],
+   "url": "media/e29n90/voz/7f66c56863.mp3"
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Tras los cinco días de reflexión, el Gobierno presentó un plan de acción por la democracia, con medidas sobre los medios de comunicación y la publicidad institucional. El presidente lo resumió con una idea que repetiría: no se puede confundir la libertad de información con la libertad de difamar. Sus críticos vieron en el plan un intento de señalar a la prensa que publicaba las investigaciones sobre su entorno.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/1e99/29dc/da335611e88364be1c46a4916c9a0cec.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=BNncUcxBYcL-II86MrVQ8Df13~n8JY-QwWefI7HlUVYUGzuAp4h-LvczFVle4S~LEwmzwQNg0V8cIF8e6oyIpmId3ddABD-gEe9EgqF-zZAk7n9uEjkG7IZ~8mcWSFm5dcasQLJ3sRAuRUdC5~haaLLi8b~YbJBP1z9Z8Qq19GHI~09pdlr6B2Hlr7EoklmDwc5AlPB-0G4x-KfaTcniBIJpy0plYA8~EwX5TvVF9PSlkzB~VKGXVrvt-8GsBFrv3IoQqsoCdEnkckt0w27mZcV7qxWe1UkbUSpI60THAaN6-066FzcVRFPGFRJ5MwztcWh48djPWdZQzG7QxVaN9g__"
+    }
+   ]
   },
   {
    "k": "N",
@@ -1863,7 +2710,7 @@
   {
    "k": "N",
    "voice": "NEW",
-   "text": "Tres asociaciones de jueces le respondieron públicamente. [short pause] En enero de dos mil veinticinco, el PSOE registró una reforma para limitar la acusación popular que podía aplicarse a causas ya abiertas, entre ellas las que afectaban a su entorno. En noviembre de ese año la retiró. El Gobierno la defendía como una respuesta al abuso de las acusaciones populares. [pause] Y hay otra frase suya, de hace siete años, que explica por qué la relación del Gobierno con la justicia es una de las preguntas de esta campaña. Seis de noviembre de dos mil diecinueve. Radio Nacional.",
+   "text": "Tres asociaciones de jueces le respondieron públicamente. [short pause] En enero de dos mil veinticinco, el PSOE registró una reforma para limitar la acusación popular que podía aplicarse a causas ya abiertas, entre ellas las que afectaban a su entorno. En noviembre de ese año la retiró. Y hay otra frase suya, de hace siete años, que explica por qué la relación del Gobierno con la justicia es una de las preguntas de esta campaña. Seis de noviembre de dos mil diecinueve. Radio Nacional.",
    "shots": [
     {
      "card": {
@@ -1890,25 +2737,26 @@
      },
      "at": "Radio Nacional"
     }
-   ],
-   "url": "media/e29n90/voz/fb534e972b.mp3"
+   ]
   },
   {
    "k": "C",
    "src": "media/e29n90/cortes/clip_22_pues_ya_esta.mp4",
    "lt": [
     "Pedro Sánchez",
-    "RESPUESTA REAL · RNE · 06/11/2019 (audio)"
+    "RNE · 06/11/2019 · audio"
    ],
    "fuente": "cita",
    "audio_only": true,
-   "quote": "¿La Fiscalía de quién depende? (…) Pues ya está.",
+   "quote": "«¿La Fiscalía de quién depende?… Pues ya está»",
    "shots": [
     {
      "card": {
-      "type": "quote",
+      "type": "audiograma",
       "text": "«¿La Fiscalía de quién depende?… Pues ya está»",
       "attrib": "Pedro Sánchez · RNE · 06/11/2019 · audio",
+      "audio": "media/e29n90/cortes/clip_22_pues_ya_esta.mp4",
+      "ss": 0,
       "bgimg": "media/e29n90/decl/co_cumplimiento_integro__02.mp4",
       "bgt": 4.0
      }
@@ -1920,14 +2768,14 @@
   {
    "k": "N",
    "voice": "TOP",
-   "text": "Al día siguiente rectificó: dijo que no había sido preciso. [pause]",
+   "text": "Al día siguiente rectificó: dijo que no había sido preciso.",
    "shots": [
     {
      "card": {
       "type": "aviso",
       "lines": [
        "07/11/2019",
-       "«No fui preciso»"
+       "Sánchez rectifica: «no fui preciso»"
       ],
       "head": true,
       "size": 46,
@@ -1935,24 +2783,22 @@
       "bgt": 4.0
      }
     }
-   ],
-   "url": "media/e29n90/voz/6a3255f9c6.mp3"
+   ]
   },
   {
    "k": "N",
    "voice": "NEW",
-   "text": "La causa contra el fiscal general nació de la filtración de un correo electrónico sobre la pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, investigada por fraude fiscal. El fiscal general defendió que actuó para desmentir un bulo.",
+   "text": "La causa contra el fiscal general nació de la filtración de un correo electrónico sobre la pareja de la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, investigada por fraude fiscal.",
    "shots": [
     {
      "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b318/451d/4ca74696bf5dd4f9e92d6b24368ee00e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=96be7394c4369ef7f6101a002ca0c2640b038566425e65745ad2d1fe48835716"
     }
-   ],
-   "url": "media/e29n90/voz/306c1b727c.mp3"
+   ]
   },
   {
    "k": "N",
    "voice": "TOP",
-   "text": "Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Hubo votos particulares. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden.",
+   "text": "Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden.",
    "shots": [
     {
      "card": {
@@ -1971,18 +2817,17 @@
      "card": {
       "type": "aviso",
       "lines": [
-       "Votos particulares",
-       "No consta ninguna orden del presidente"
+       "El tribunal no dio por acreditada",
+       "ninguna orden del presidente"
       ],
       "head": true,
       "size": 46,
       "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
       "bgt": 12.0
      },
-     "at": "votos particulares"
+     "at": "Y el tribunal"
     }
-   ],
-   "url": "media/e29n90/voz/c47fe64c3e.mp3"
+   ]
   },
   {
    "k": "N",
@@ -2033,6 +2878,47 @@
    "url": "media/e29n90/voz/9979a5d790.mp3"
   },
   {
+   "k": "N",
+   "voice": "NEW",
+   "text": "[softly] Recapitulemos. Un presidente que prometió no pactar con Bildu, no dormir con Podemos y traer a Puigdemont, y que hizo lo contrario por necesidad, según sus palabras. Un secretario de Organización elegido por él, hoy condenado. Su sucesor, investigado. Su esposa, procesada. Su hermano, condenado sin sentencia firme. Él, sin imputación alguna.",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "title": "Hasta aquí",
+      "items": [
+       "Bildu, Podemos, Puigdemont: hizo lo contrario",
+       "José Luis Ábalos · condenado",
+       "Santos Cerdán · investigado",
+       "Begoña Gómez · procesada",
+       "David Sánchez · condenado (no firme)",
+       "Pedro Sánchez · sin imputación"
+      ],
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     }
+    }
+   ]
+  },
+  {
+   "k": "M",
+   "track": "noche",
+   "secs": 3.4,
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "image": "media/e29n90/capturas/doc_26_ceuta_whatsapp_CNI_Moncloa_29-07-2026.jpg",
+      "title": "CNI · 29/07/2026 · 13:52",
+      "lines": [
+       "«asalto por valla y mar»"
+      ],
+      "source": "La Moncloa"
+     }
+    }
+   ]
+  },
+  {
    "k": "T",
    "voice": "ENT",
    "text": "Presidente, ¿dónde estaba usted?",
@@ -2042,190 +2928,19 @@
    "chapter": true,
    "card": {
     "type": "pregunta",
-    "n": "PREGUNTA 04 / 07",
+    "n": "PREGUNTA 05 / 10",
     "text": "Presidente, ¿dónde estaba usted?",
     "foot": "PEDRO SÁNCHEZ · LA ENTREVISTA QUE NADIE LE HIZO",
-    "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
-    "bgt": 40.0
+    "bgimg": "media/e29n90/broll/ar_ceuta_espigon__02.mp4",
+    "bgt": 12
    },
-   "title": "4. Presidente, ¿dónde estaba usted?",
+   "title": "5. Presidente, ¿dónde estaba usted?",
+   "shots": [],
    "url": "media/e29n90/voz/a324ed15e0.mp3"
   },
   {
    "k": "B",
    "track": "noche"
-  },
-  {
-   "k": "N",
-   "voice": "TOP",
-   "text": "Veintinueve de octubre de dos mil veinticuatro. Valencia. La DANA. Doscientos treinta muertos en tres comunidades, según el balance oficial de La Moncloa de diciembre.",
-   "shots": [
-    {
-     "file": "media/e29n90/broll/ar_dana_coches__03.mp4",
-     "start": 40
-    },
-    {
-     "file": "media/e29n90/broll/ar_dana_poyo__02.mp4",
-     "start": 6,
-     "at": "Doscientos treinta"
-    }
-   ],
-   "url": "media/e29n90/voz/4e74ed4877.mp3"
-  },
-  {
-   "k": "R",
-   "voice": "DOC",
-   "text": "Dos de noviembre de dos mil veinticuatro. Comparecencia del presidente: «El Gobierno central está listo para ayudar. Si necesita más recursos, que los pida».",
-   "shots": [
-    {
-     "card": {
-      "type": "quote",
-      "text": "«El Gobierno central está listo para ayudar. Si necesita más recursos, que los pida.»",
-      "attrib": "Pedro Sánchez · La Moncloa · 02/11/2024",
-      "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
-      "bgt": 40.0
-     }
-    }
-   ],
-   "url": "media/e29n90/voz/f4e2a06f15.mp3"
-  },
-  {
-   "k": "N",
-   "voice": "NEW",
-   "text": "En esa misma comparecencia anunció diez mil efectivos más. Y la versión de la frase que circuló después por redes, recortada, era falsa, como comprobó Maldita.es. Pero la ley permite al Gobierno declarar una emergencia de interés nacional por iniciativa propia. No la declaró. Su defensa: era una facultad, no una obligación, y la gestión correspondía a la Generalitat Valenciana.",
-   "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "10.000 EFECTIVOS MÁS",
-       "Anunciados en la misma comparecencia"
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
-      "bgt": 40.0
-     }
-    },
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "LEY 17/2015",
-       "Emergencia de interés nacional: a iniciativa propia. No se declaró."
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
-      "bgt": 40.0
-     },
-     "at": "la ley"
-    },
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "LA DEFENSA",
-       "Era una facultad, no una obligación. La competencia era de la Generalitat."
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
-      "bgt": 40.0
-     },
-     "at": "defensa"
-    }
-   ],
-   "url": "media/e29n90/voz/0fde3992a8.mp3"
-  },
-  {
-   "k": "N",
-   "voice": "NEW",
-   "text": "La Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios.",
-   "shots": [
-    {
-     "file": "media/e29n90/broll/ar_dana_poyo__02.mp4",
-     "start": 20
-    },
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "03/11/2025",
-       "Dimite Carlos Mazón, presidente de la Generalitat"
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
-      "bgt": 40.0
-     },
-     "at": "Mazón"
-    }
-   ],
-   "url": "media/e29n90/voz/550079c727.mp3"
-  },
-  {
-   "k": "N",
-   "voice": "TOP",
-   "text": "El tres de noviembre de dos mil veinticuatro, en Paiporta, la comitiva oficial entra en una calle llena de barro. Los vecinos gritan. Lanzan objetos. El coche del presidente es golpeado. Sánchez se va. Los Reyes se quedan.",
-   "shots": [
-    {
-     "file": "media/e29n90/broll/ar_paiporta_coche__01.mp4",
-     "start": 3
-    },
-    {
-     "file": "media/e29n90/broll/ar_paiporta_salida__01.mp4",
-     "start": 8,
-     "at": "Sánchez se va"
-    },
-    {
-     "file": "media/e29n90/broll/ar_paiporta_reyes__03.mp4",
-     "start": 6,
-     "at": "Los Reyes"
-    }
-   ],
-   "url": "media/e29n90/voz/be4ddfbd36.mp3"
-  },
-  {
-   "k": "N",
-   "voice": "NEW",
-   "text": "El Gobierno atribuyó la agresión a grupos ultras organizados, y defendió que la seguridad aconsejaba sacar al presidente. [pause]",
-   "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "LA DEFENSA",
-       "Grupos ultras organizados. La seguridad aconsejaba salir."
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/broll/ar_paiporta_salida__01.mp4",
-      "bgt": 8
-     }
-    }
-   ],
-   "url": "media/e29n90/voz/0859f94c6c.mp3"
-  },
-  {
-   "k": "M",
-   "track": "noche",
-   "secs": 3.4,
-   "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "VERANO DE 2026",
-       "CEUTA"
-      ],
-      "head": true,
-      "size": 56,
-      "bgimg": "media/e29n90/broll/ar_ceuta_espigon__02.mp4",
-      "bgt": 12
-     }
-    }
-   ]
   },
   {
    "k": "R",
@@ -2252,15 +2967,13 @@
    "text": "[serious] Al día siguiente, miles de personas entran en Ceuta a nado y saltando el espigón. Según los datos recogidos por Maldita.es y elDiario.es, unas setenta y dos mil entradas. Y al menos setenta y dos muertos, según la Delegación del Gobierno.",
    "shots": [
     {
-     "file": "media/e29n90/broll/ar_ceuta_espigon__02.mp4",
-     "start": 5,
-     "blur": 16
+     "ai": "https://s3-alpha-sig.figma.com/img/5a7a/c341/2e566cb6434503bbfe90656ae20e928f.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=K6ldhWlJh1tHGs-Fv3uROopX17R4ispiZeVZKc~fc7-k9DGE79~-spGCw0CN0V8uWBLi9boDCXWLXBOel-Ri0u3L4xa5s6hBqumAy1Z7Dx9s-bdbGBHfWCYZy9fssgymU4Z1To50PU6NvqCVGKM~1poYbsKfM0oAENrIH-Wp7chuOX9cAq5~jfh2ZbhwvnJT5OPSHFU~FOGllnabsuAA5p0qMAXC7h4FZZv1vFl-m8EVDWmLFXHIdxFhTesncCKEbw1VfCx6N8hMdaMt79WS7~OpTTfvO7GbFbYaJeXfNHOtwYdKGcrSzg1gffbuyTj-izvO2mSoxJgS70hA96A1mw__"
     },
     {
      "file": "media/e29n90/broll/ar_ceuta_espigon__02.mp4",
      "start": 40,
      "at": "espigón",
-     "blur": 16
+     "blur": 18
     },
     {
      "card": {
@@ -2308,8 +3021,7 @@
    "text": "Y después, se marcha a La Mareta, la residencia oficial de Lanzarote, para sus vacaciones de verano. [pause] El uno de agosto, sus redes sociales publican este vídeo.",
    "shots": [
     {
-     "file": "media/e29n90/broll/ar_mareta_llegada__02.mp4",
-     "start": 4
+     "ai": "https://s3-alpha-sig.figma.com/img/b4fc/12c0/73ebc43f6d7ad605cea84e8dd6900e14.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=UR7yf7Cdw4~HrlGFBcDi7WiL9Kg-43sWJ6p0LomAs1yADoFFbxBPeY7-ySzWpA~Grt8UBFoeErqpP~vQrxuGRz~20k5anDv8GVA6rEU3KfnwRiTvnOyjRIMsKpgQo6g3nvMZXpTPfxWhUS1qY3Og-Lt3NRUdNn82XEB42kJpr7OZeAsQ6RM-BDgLK3ntIxYi3E29tUQ5jtAbNo5YfJZhsswhddOCh4z6XsDkv9Phr43syzBaRq6EygjycyCNHl6hWyZhpLU-3iKNCs05egNzPNIVG0WUnFZHBFbPuupFQvQNMj0M7Wct5BK3kNu64Ba5m3wkH9o~D83r0QO6nQifrQ__"
     },
     {
      "card": {
@@ -2369,13 +3081,17 @@
    "text": "El Consejo de Seguridad Nacional no se reunió hasta veinticinco días después. [short pause] El tres de septiembre, de vuelta en el Congreso, el presidente explicó qué decían los informes de inteligencia que había recibido.",
    "shots": [
     {
+     "ai": "https://s3-alpha-sig.figma.com/img/5f85/97e3/2360a858178a1bb29c295a2699a64c9e.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=uQFakDAEm1~gd24d9-SW47zaO1SeD8nNQzqhKAnK8eQvHW7lIg9kqCAAYQJL7cycxlnp4YmPNnqE6d2O7B~Ayh0UZYObJ8q6t37oY2r-KyFZSmyMYOs1AqV5pb8JRgOiCtHn7s28zfrpk7RV1XEg8GcBcoYoiyEAxEo5RtRrubxN1XLBlg3bPdcERTDnzVqCAPALJvCxFOlnS~E2dbujiMDH-D9p1WxmRa-hUI~9SynDI3r4sVvGwWEGFF4~2ODItVrTS6O0bXmGv4uGa8EPZobnLXXiWx8LiygooGlnFPXgVJ3ckQT3tiiTe1HPMB9savG3FTzfHmS7A0Kk1COFOw__"
+    },
+    {
      "card": {
       "type": "counter",
       "to": 25,
       "label": "días hasta la reunión del Consejo de Seguridad Nacional",
       "bgimg": "media/e29n90/broll/ar_ceuta_visita_pitos__01.mp4",
       "bgt": 3.0
-     }
+     },
+     "at": "veinticinco"
     },
     {
      "card": {
@@ -2438,23 +3154,21 @@
   {
    "k": "N",
    "voice": "NEW",
-   "text": "La defensa del Gobierno: que ningún informe previó ni la escala ni la probabilidad de lo que ocurrió, y que el presidente trabajó desde la residencia oficial con el ministro del Interior al frente. Ese mismo día, en Televisión Española, lo explicó así.",
+   "text": "Ese mismo día, en Televisión Española, lo explicó así.",
    "shots": [
     {
      "card": {
       "type": "aviso",
       "lines": [
-       "LA DEFENSA DEL GOBIERNO",
-       "Ningún informe previó la escala ni la probabilidad de lo ocurrido."
+       "MAÑANEROS 360 · TVE · 09/09/2026"
       ],
       "head": true,
       "size": 46,
-      "bgimg": "media/e29n90/cortes/clip_25_no_estaba_de_vacaciones.mp4",
-      "bgt": 8.0
+      "bgimg": "media/e29n90/decl/ul_manyaneros_chantaje__01.mp4",
+      "bgt": 10
      }
     }
-   ],
-   "url": "media/e29n90/voz/69060a441b.mp3"
+   ]
   },
   {
    "k": "C",
@@ -2464,8 +3178,14 @@
     "RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026 · vía El País"
    ],
    "fuente": "cita",
-   "in": 8.4,
-   "out": 13.75
+   "crop": [
+    0.0,
+    0.1,
+    0.9,
+    0.72
+   ],
+   "in": 0,
+   "out": 13.7
   },
   {
    "k": "C",
@@ -2511,9 +3231,32 @@
    "out": 5.8
   },
   {
-   "k": "M",
-   "track": "noche",
-   "secs": 3.4,
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] Detrás de Ceuta está siempre la misma relación. En marzo de dos mil veintidós, con una carta al rey Mohamed sexto, Sánchez cambió cuarenta años de posición española sobre el Sáhara Occidental: el plan de autonomía marroquí pasó a ser, para el Gobierno, «la base más seria, realista y creíble». Lo decidió sin pasar por el Congreso. En abril, el Congreso aprobó una resolución contra ese giro; solo votó en contra el PSOE.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/e45c/911e/807c8322741fb650d3860ccf2115ca49.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=CIJkfOE2AKaBUvUhl5s-gT0pvSUH9s870Cv8q5bH0nhKckHaw3nc04BK-~5HNaBjFIyuNoT-nKbUO8PJ7NrhEdBFKEfcN3HjBsOQYQQMOIYfvUJBWiwvKtd6SiWNObAaUe7b9~AZOqbDL1nlbbdEP0pqh-3E69hfYDSoVJB7y0JKM9IaZnc9omTfAzeP8nb44Wqqh9HYhE9Yv6ULE4tu~omoKywh-i5nwv20Pym-dIhWCgAbR3k76TBz6R4PyurRlHENojNyftios0LKUa8vuBhY2lD1Al8lGU~DGVXiUtqEQ-NnbDIKwPMxAaMoF1vvjRLKNBDBqv6Ou3XYtbdDvg__"
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "ABRIL DE 2026",
+       "El Congreso aprueba una resolución contra el giro sobre el Sáhara. Solo vota en contra el PSOE."
+      ],
+      "head": true,
+      "bgimg": "media/e29n90/broll/ar_ceuta_visita_pitos__01.mp4",
+      "bgt": 3.0
+     },
+     "at": "En abril"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Juan Jesús Vivas es el presidente de Ceuta. [short pause] La Casa Real hizo saber que el Rey seguía la situación con preocupación e indignación. Y el presidente anunció una visita del jefe del Estado.",
    "shots": [
     {
      "card": {
@@ -2527,19 +3270,327 @@
       "bgimg": "media/e29n90/broll/ar_ceuta_visita_pitos__01.mp4",
       "bgt": 3.0
      }
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "CASA REAL",
+       "El Rey sigue la situación «con preocupación e indignación»"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/broll/ar_ceuta_visita_pitos__01.mp4",
+      "bgt": 3.0
+     },
+     "at": "Casa Real"
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "CADENA SER · 31/08/2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_28b_rey_ceuta_melilla.mp4",
+      "bgt": 5
+     },
+     "at": "anunció"
+    }
+   ],
+   "url": "media/e29n90/voz/98e2ab6140.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_28b_rey_ceuta_melilla.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Hoy por Hoy · Cadena SER · 31/08/2026"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.1,
+    0.05,
+    0.8,
+    0.78
+   ],
+   "in": 0,
+   "out": 20.8
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] No era la primera vez que una catástrofe le preguntaba al presidente dónde estaba. [pause] Veintinueve de octubre de dos mil veinticuatro. Valencia. La DANA. Doscientos treinta muertos en tres comunidades, según el balance oficial de La Moncloa de diciembre.",
+   "shots": [
+    {
+     "file": "media/e29n90/broll/ar_dana_coches__03.mp4",
+     "start": 40
+    },
+    {
+     "at": "Veintinueve",
+     "ai": "https://s3-alpha-sig.figma.com/img/b222/4b17/b08d7429cfd0c57e3871e8f7a558f0e3.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Bcu7mgSDQEH9w2HZJy6CB5PuwZgm4M-j-9ZlGlj30xkbFHeAWjx18c5bRfT5v5dVt2ekaOu5~8zb7oTLA5SA~VUT8F1VFj5d9nUucjiWE6pAOxAfsx0gyTrBLU1lVsbuLSBgGjX6xrIq9Ob3xqoGbfjQuJ936kbSzdjJqYgUsY-f8SJbhB7hW1i4Z1TYugV8cMWMZkPCOeq4gzZ7ayuF2enk03WXxGkCXBO1gR5as0fkqO~NycL7zW6ndGq3QBNHl0VTv4uJIF8uSafyu0-WYMT8ZZEUtQfn9CcPAFzfMYNZ99Q5Swv-a9WbMlBfXtFPjG4wXQova9o3SqypttYukg__"
+    },
+    {
+     "file": "media/e29n90/broll/ar_dana_poyo__02.mp4",
+     "start": 6,
+     "at": "Doscientos treinta"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 230,
+      "label": "muertos en tres comunidades · balance de La Moncloa",
+      "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
+      "bgt": 40.0
+     },
+     "at": "muertos"
+    }
+   ],
+   "url": "media/e29n90/voz/54a2a964a3.mp3"
+  },
+  {
+   "k": "R",
+   "voice": "DOC",
+   "text": "Dos de noviembre de dos mil veinticuatro. Comparecencia del presidente: «El Gobierno central está listo para ayudar. Si necesita más recursos, que los pida».",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "«El Gobierno central está listo para ayudar. Si necesita más recursos, que los pida.»",
+      "attrib": "Pedro Sánchez · La Moncloa · 02/11/2024",
+      "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
+      "bgt": 40.0
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/f4e2a06f15.mp3"
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Pero la ley permite al Gobierno declarar una emergencia de interés nacional por iniciativa propia. No la declaró.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "LEY 17/2015",
+       "Emergencia de interés nacional: a iniciativa propia del Gobierno.",
+       "No se declaró."
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
+      "bgt": 40.0
+     },
+     "at": "la ley"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios. En Madrid nadie dimitió.",
+   "shots": [
+    {
+     "file": "media/e29n90/broll/ar_dana_poyo__02.mp4",
+     "start": 20
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "03/11/2025",
+       "Dimite Carlos Mazón, presidente de la Generalitat"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
+      "bgt": 40.0
+     },
+     "at": "Mazón"
     }
    ]
   },
   {
    "k": "N",
    "voice": "TOP",
-   "text": "Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles.",
+   "text": "El tres de noviembre de dos mil veinticuatro, en Paiporta, la comitiva oficial entra en una calle llena de barro. Los vecinos gritan. Lanzan objetos. El coche del presidente es golpeado. Sánchez se va. Los Reyes se quedan.",
    "shots": [
     {
+     "file": "media/e29n90/broll/ar_paiporta_coche__01.mp4",
+     "start": 3
+    },
+    {
+     "file": "media/e29n90/broll/ar_paiporta_salida__01.mp4",
+     "start": 8,
+     "at": "Sánchez se va"
+    },
+    {
+     "file": "media/e29n90/broll/ar_paiporta_reyes__03.mp4",
+     "start": 6,
+     "at": "Los Reyes"
+    }
+   ],
+   "url": "media/e29n90/voz/be4ddfbd36.mp3"
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Y tres años antes, en La Palma, con el volcán en erupción, la promesa había sido esta.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "LA PALMA · 20/09/2021"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_28bx_la_palma_recursos.mp4",
+      "bgt": 2
+     }
+    }
+   ]
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_28bx_la_palma_recursos.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · La Palma · 20/09/2021 · vía Público"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.1,
+    0.6,
+    0.6
+   ],
+   "in": 0,
+   "out": 6.7
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] Todos los recursos del Estado. [pause] Melilla, junio de dos mil veintidós: al menos veintitrés migrantes mueren en la valla. El presidente, desde Bruselas, valoró así la actuación.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/e45c/911e/807c8322741fb650d3860ccf2115ca49.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=CIJkfOE2AKaBUvUhl5s-gT0pvSUH9s870Cv8q5bH0nhKckHaw3nc04BK-~5HNaBjFIyuNoT-nKbUO8PJ7NrhEdBFKEfcN3HjBsOQYQQMOIYfvUJBWiwvKtd6SiWNObAaUe7b9~AZOqbDL1nlbbdEP0pqh-3E69hfYDSoVJB7y0JKM9IaZnc9omTfAzeP8nb44Wqqh9HYhE9Yv6ULE4tu~omoKywh-i5nwv20Pym-dIhWCgAbR3k76TBz6R4PyurRlHENojNyftios0LKUa8vuBhY2lD1Al8lGU~DGVXiUtqEQ-NnbDIKwPMxAaMoF1vvjRLKNBDBqv6Ou3XYtbdDvg__"
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "BRUSELAS · 24/06/2022"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_30b_bien_resuelto.mp4",
+      "bgt": 2
+     },
+     "at": "Bruselas"
+    }
+   ],
+   "url": "media/e29n90/voz/d652aeec64.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_30b_bien_resuelto.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Bruselas · 24/06/2022 · La Moncloa"
+   ],
+   "fuente": "cita",
+   "in": 0,
+   "out": 3.6
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Barbate, nueve de febrero de dos mil veinticuatro. Una narcolancha embiste a una embarcación de la Guardia Civil en el puerto. Mueren dos agentes. Las imágenes, grabadas desde el muelle, recorren el país. Según la prensa, el Ministerio del Interior había desmantelado poco antes la unidad especial de coordinación contra el narcotráfico en el Campo de Gibraltar, el OCON-Sur. El ministro Fernando Grande-Marlaska siguió en su puesto.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/e39d/cb34/810c8723a9c9f6aea64a626720ab2c09.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=BnCMVAj1Qvdz~RuCKmQu2GFkSt64HwSZ6LbFjmv66lSbNtGebhASlRu0O-I6J9tvW-OKq4ZzyejiB9uP04mGM2OYqmTCuSu~xiXFN9nNvaW7zKsllp0UNzGLfUPfanel79VP9NCrz~ABgBP3VcMoDgGctGsZhyu23Gg81jr029awt57dMla-EeFcSzvQeChyVlrlzzq9xPOFRmjWQgmmvij7~SDH3cFFGGTECI4ocbxxAAdsIh0EFueYfTy8FgUgkzULkH9NHQZ0TaufsaRnum2xjAnKbKPifbpncPnd~UDUORU8c2P-RnsH~D~U9dalmU9fCHj9GIW9tthxSqT0kQ__"
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "BARBATE · 09/02/2024",
+       "Dos guardias civiles muertos"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
+      "bgt": 40.0
+     },
+     "at": "Mueren"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Y tras el gran apagón del veintiocho de abril de dos mil veinticinco, la responsabilidad tenía destinatario.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "LA MONCLOA · 29/04/2025"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_29_operadores_privados.mp4",
+      "bgt": 3
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/2a9f1c11f2.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_29_operadores_privados.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · La Moncloa · 29/04/2025"
+   ],
+   "fuente": "cita",
+   "in": 0,
+   "out": 6.5
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[softly] Siempre hay un recurso que pedir. Un informe rutinario. Un operador privado. Un presidente autonómico al que preguntar. [pause] Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/b532/491b/41d730e83268fd0b5a159f24d6c9bd1c.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Ooup75QChJTIMwzVtK2BYmzPzF655F3tf9qUHDkftf3EHoCsglhDCTHcB1Eno9y47dgG07DBUY2Ydenf~OzGeP9hHVTWnphTD-5FquSBzxFw5-Xp-EGOmp8A04r~NTruqN~JZlYSyUiAkebDD5CKApFRy6F0UMWwHjZhtyxp3H7ux~uf0dmfhdkY~h29~bQ05mjYv99bJOQlpESVJfP9pcGGILwUzgqbS6IQ1H5Kw~RiCxS~7KQWMb3KLjQhfcD4hIcz4SSGpoI6aY76tBfEGM~qDzrfBH-EajWeujdFKby3XZkq5qSLeH~zZJhVLwdJg7KH11EJoEuGOv~d0NQmjg__"
+    },
+    {
+     "at": "raíles",
      "ai": "https://s3-alpha-sig.figma.com/img/5221/d319/9f0f014d09b3e9f8fece9e5355b5e0d7.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=pmYR6lxj-biUfgkHcKwljQy8CQRbJX0ZAuZQeRiHWhbXccYVpTNJ2-Sr6dT6646Wy3ld2~cTtwtD9ZUqHcnH432C73yuDbsTm8xKl-uREvAsJ3FgSUAmlX4R5RtxiCLYvGuU~5ow2tJKx6c1fIR5wpXmUnw8Knv6K-VE1Xw861-M2dZyHlY2GQ~21jsKP56PYajMrBVp1EZENdd9JZjoBKcpACAQEfUr08t5L657IOeGshl2T7XxjSl8fO-rjtqhKNgOseaZjvkDUAOw5IeRufklHLzUilrb67v8r3uVrhu~wrK3g23zTbQ1muAT7Q-a0U5-0mJTIasSwRqPatmIFA__"
     }
    ],
-   "url": "media/e29n90/voz/18a9dad131.mp3"
+   "url": "media/e29n90/voz/9c80bbca0a.mp3"
+  },
+  {
+   "k": "M",
+   "track": "noche",
+   "secs": 3.2,
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "«Si hay algo cercano a la infalibilidad, es la alta velocidad española»",
+      "attrib": "Óscar Puente · 20/01/2026",
+      "bgimg": "media/e29n90/cortes/clip_10b2_bajisima.mp4",
+      "bgt": 4
+     }
+    }
+   ]
   },
   {
    "k": "T",
@@ -2551,13 +3602,14 @@
    "chapter": true,
    "card": {
     "type": "pregunta",
-    "n": "PREGUNTA 05 / 07",
+    "n": "PREGUNTA 06 / 10",
     "text": "Presidente, ¿quién responde por las vías?",
     "foot": "PEDRO SÁNCHEZ · LA ENTREVISTA QUE NADIE LE HIZO",
     "bgimg": "media/e29n90/cortes/clip_10d2_renuncio_listas.mp4",
     "bgt": 8
    },
-   "title": "5. Presidente, ¿quién responde por las vías?",
+   "title": "6. Presidente, ¿quién responde por las vías?",
+   "shots": [],
    "url": "media/e29n90/voz/8ce7bbbb61.mp3"
   },
   {
@@ -2633,27 +3685,23 @@
   {
    "k": "N",
    "voice": "TOP",
-   "text": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. Ese día el presidente viaja a Urda.",
+   "text": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. Ese día el presidente viaja a Urda y habla de una confianza quebrada.",
    "shots": [
     {
-     "ai": "https://s3-alpha-sig.figma.com/img/5221/d319/9f0f014d09b3e9f8fece9e5355b5e0d7.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=pmYR6lxj-biUfgkHcKwljQy8CQRbJX0ZAuZQeRiHWhbXccYVpTNJ2-Sr6dT6646Wy3ld2~cTtwtD9ZUqHcnH432C73yuDbsTm8xKl-uREvAsJ3FgSUAmlX4R5RtxiCLYvGuU~5ow2tJKx6c1fIR5wpXmUnw8Knv6K-VE1Xw861-M2dZyHlY2GQ~21jsKP56PYajMrBVp1EZENdd9JZjoBKcpACAQEfUr08t5L657IOeGshl2T7XxjSl8fO-rjtqhKNgOseaZjvkDUAOw5IeRufklHLzUilrb67v8r3uVrhu~wrK3g23zTbQ1muAT7Q-a0U5-0mJTIasSwRqPatmIFA__"
+     "ai": "https://s3-alpha-sig.figma.com/img/9418/be55/3386aec04164faa76b72954ae1e457ec.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=aoGEyrwK318Jg6kpLwbU1BXzaTZH9U5UW51hKouk8doLRWq0y-gvxSOWEY9fxOTQcKI3aGAL-hRU~h4T63KCMepnkfI0SzpJWwNG2cwRWgehfIfWfB6qK271h-ZMkRJVdfW5K8R5NMhMNiYpSYLZ71d9B3l~E~5cwotj7c6TI7eS6GhvAkKrCSC1-2fd8cIx~ZhWyWRe8uqIU80xNxOPPm4kjkI8IIynVpyQ8a9f8mrmWfaBwMCdfgd2rvi7T1MtY6Xo-9kwZD-J99PrzQz4yWOYPuPQBiIVoxmunwL0bf75OYZptrbwal2FB87nsBJLKDTUq1zvytJWnXhrZ7as7w__"
     },
     {
      "card": {
-      "type": "aviso",
-      "lines": [
-       "URDA (TOLEDO) · 28/10/2026",
-       "69 muertos, según la información publicada"
-      ],
-      "head": true,
-      "size": 46,
+      "type": "counter",
+      "to": 69,
+      "label": "muertos en Urda · 28/10/2026",
       "bgimg": "media/e29n90/hls/h10_urda.mp4",
       "bgt": 220
      },
-     "at": "Urda, Toledo"
+     "at": "Sesenta y nueve"
     }
    ],
-   "url": "media/e29n90/voz/4f5b28b3a2.mp3"
+   "url": "media/e29n90/voz/1d3fe915d2.mp3"
   },
   {
    "k": "C",
@@ -2704,6 +3752,23 @@
    "out": 15.9
   },
   {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_10d_no_todos_iguales.mp4",
+   "lt": [
+    "Óscar Puente",
+    "Congreso · Diputación Permanente · 03/11/2026 · vía AS TV"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.1,
+    0.0,
+    0.8,
+    0.8
+   ],
+   "in": 0,
+   "out": 5.7
+  },
+  {
    "k": "N",
    "voice": "TOP",
    "text": "El BOE del día siguiente publica su cese, «agradeciéndole los servicios prestados».",
@@ -2729,14 +3794,14 @@
    "text": "[serious] Martes, diez de noviembre. Catedral de Toledo. Funeral por las víctimas de Urda. [pause] El presidente del Gobierno no está. Fuentes de La Moncloa explicaron a la prensa que no acostumbra a asistir a ceremonias religiosas.",
    "shots": [
     {
-     "ai": "https://s3-alpha-sig.figma.com/img/1c96/d632/62bd1ff73954925f1e309bc83e65ff3f.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=GGF3-N9AoW3pR2y74oYfqhXGN5L2CDCHK2NfRLL~xj2k1U~SRfy9Bn-OxZ2DYhb3de7Xvg7r5FOfzVuujHvfHYNM8ydemWsZH21F23Pld4oJ2jDW8hVMFtApNlkPJkgQzGeoFOlwkiNdqUJvREvK7ypA8pcGkHLl7OHyndkb6-IxXK2VE~1zGlfe2UXLf0DF-CLwdpF9i6-8cVeveAhmvrmFQWtW~zn3d8jxR4LYTPu-tTfVzvR3UTAUBUfOG2xZGqUcqg9KRcaTHr~8Owinv4QlVun5o2Z-IWFFiXMq9MRuvxtEItJhqxQ~gcuQtsHpCVd3-GlRYoKT5UvhjV9Vqw__"
+     "ai": "https://s3-alpha-sig.figma.com/img/5b3a/7fdf/ed106d1f97296f904a4827764af96480.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=YQdnjky7FAGieSK34UCSwI3fsBe41q6nDjZGdD4RdwgRwQofa4A3rU9lZo9OnogxLK-svkYy8WiNlFLZEQJwfDZqsDR1OOpk419rrV7OncoVFR-yxU0LsMXjvyyoyLRbvk~bz0vDjNb1YKvLwW6~A64hzYJpfhAQwaM2or~dB8Tu6YDhSKRfFJXyO5ouxnmskWWbK24VBrIjJ1I2qqLRrhDRDQsSVLzWr8VLfH1qS2kX~xo7mWZAvcpfX3kykPUfg2R4WGw1d00BSGKIUdd8tJ2fNjUKufgi09Fvaj4h2oC5Dc28bP4CdrUbIrcbFJM8RzyxKjvFAY7DALuAgw7G8g__"
     },
     {
      "card": {
       "type": "aviso",
       "lines": [
-       "LA DEFENSA",
-       "Fuentes de La Moncloa: no acostumbra a asistir a ceremonias religiosas."
+       "FUENTES DE LA MONCLOA",
+       "No acostumbra a asistir a ceremonias religiosas."
       ],
       "head": true,
       "size": 46,
@@ -2862,6 +3927,23 @@
    "out": 3.0
   },
   {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_04b_baile_montero_completo.mp4",
+   "lt": [
+    "María Jesús Montero y Begoña Gómez",
+    "Mitin del PSOE · Sevilla · 12/11/2026 · vía OKDiario"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.08,
+    0.85,
+    0.7
+   ],
+   "in": 0,
+   "out": 6.0
+  },
+  {
    "k": "N",
    "voice": "TOP",
    "text": "[serious] Una semana después, en el cara a cara, Feijóo se lo reprochó.",
@@ -2895,27 +3977,25 @@
   {
    "k": "N",
    "voice": "NEW",
-   "text": "Y el presidente pidió perdón a las familias. Dijo que es un dolor que llevará siempre con él. [pause] Es su respuesta. [short pause] La siguiente pregunta lleva a otro hombre en el que dijo confiar. Su mentor.",
+   "text": "La siguiente pregunta lleva a otro hombre en el que dijo confiar. Su mentor.",
    "shots": [
     {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "LA DEFENSA",
-       "En el debate, Sánchez pidió perdón a las familias de las víctimas."
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/cortes/clip_01b_pido_perdon_corrupcion.mp4",
-      "bgt": 3.0
-     }
-    },
-    {
-     "at": "Su mentor",
      "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/46fc/fafb/9b74259f985905aa06a99f76b40c8b96.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=89cca69c931740beade57d15b7293c8eb649cb488f937e6bb0b946f7a6eeda4e"
     }
+   ]
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_14_mano_en_el_fuego.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "The Wild Project · 13/11/2026"
    ],
-   "url": "media/e29n90/voz/32a78aa6e4.mp3"
+   "fuente": "cita",
+   "flash": true,
+   "gap": 0.25,
+   "in": 3.7,
+   "out": 8.2
   },
   {
    "k": "T",
@@ -2927,13 +4007,14 @@
    "chapter": true,
    "card": {
     "type": "pregunta",
-    "n": "PREGUNTA 06 / 07",
+    "n": "PREGUNTA 07 / 10",
     "text": "Presidente, ¿por qué sigue defendiendo a José Luis Rodríguez Zapatero?",
     "foot": "PEDRO SÁNCHEZ · LA ENTREVISTA QUE NADIE LE HIZO",
     "bgimg": "media/e29n90/broll/ar_zapatero_audiencia__01.mp4",
     "bgt": 6.0
    },
-   "title": "6. Presidente, ¿por qué sigue defendiendo a José Luis Rodríguez Zapatero?",
+   "title": "7. Presidente, ¿por qué sigue defendiendo a José Luis Rodríguez Zapatero?",
+   "shots": [],
    "url": "media/e29n90/voz/4650dd5cee.mp3"
   },
   {
@@ -2942,43 +4023,11 @@
   },
   {
    "k": "N",
-   "voice": "NEW",
-   "text": "[serious] El rescate. Nueve de marzo de dos mil veintiuno. El Consejo de Ministros aprueba cincuenta y tres millones de euros para Plus Ultra, una aerolínea pequeña, con capital venezolano. La Moncloa lo anunció así.",
-   "shots": [
-    {
-     "card": {
-      "type": "doc",
-      "image": "media/e29n90/capturas/doc_08_plusultra_moncloa_09-03-2021_cabecera.jpg",
-      "title": "CONSEJO DE MINISTROS · 09/03/2021",
-      "lines": [
-       "Rescate de 53 millones a Plus Ultra"
-      ],
-      "source": "La Moncloa"
-     }
-    },
-    {
-     "card": {
-      "type": "doc",
-      "image": "media/e29n90/capturas/doc_08_plusultra_moncloa_09-03-2021_texto.jpg",
-      "title": "LA MONCLOA · 09/03/2021",
-      "lines": [
-       "Nota del Consejo de Ministros"
-      ],
-      "source": "La Moncloa"
-     },
-     "at": "anunció"
-    }
-   ],
-   "url": "media/e29n90/voz/46b2010b6b.mp3"
-  },
-  {
-   "k": "N",
    "voice": "TOP",
    "text": "[serious] Madrid. Despacho de José Luis Rodríguez Zapatero. Primavera de dos mil veintiséis. La Policía registra la oficina del expresidente del Gobierno. En una caja fuerte aparecen joyas. The Objective publicó las fotografías, en las bolsas de la Policía.",
    "shots": [
     {
-     "file": "media/e29n90/broll/ar_zapatero_joyas__02.mp4",
-     "start": 4
+     "ai": "https://s3-alpha-sig.figma.com/img/08d3/8c36/30a262db7402ac6f50b3a2ff3f2a795f.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=m0aGI-crQlNnsoMV1k~Xy27gHJVpCWRc5SHcUGRV3GvIf~nEPaIwFsjeBTqPkJACxTu~QerfZxgGtIJffGxCFLJQzslLLPA2QWmWNwrDnRhJwsPOp3jw3Naf0ohqLTs3oLgcvmM9U73IwsE8r3sKxKXwQznJn28dCAoWGZC1GutYfrZYbUUpUQP8adxKmV0-9VmDeWTm44iM3N8KaWecZBhGxFAg12K7FG1I3xSUPDSuMAGJ61T2p-vd4vqgqbZG34YaQoIGG5fD0cKUw8O4djosT3lyWSvrJeRgp2hkA1mk8sb2mYdr9wW3jMpO0gGEddQ4AwoWKi2kdLcycCVlyA__"
     },
     {
      "card": {
@@ -2991,11 +4040,6 @@
       "source": "The Objective · 11/06/2026"
      },
      "at": "The Objective"
-    },
-    {
-     "file": "media/e29n90/broll/ar_zapatero_joyas__03.mp4",
-     "start": 6,
-     "at": "bolsas"
     }
    ],
    "url": "media/e29n90/voz/6a53833ee0.mp3"
@@ -3003,73 +4047,105 @@
   {
    "k": "N",
    "voice": "NEW",
-   "text": "El auto del diecinueve de mayo le investiga por tráfico de influencias, organización criminal y falsedad documental, en la causa que examina el rescate público de la aerolínea Plus Ultra. Y hay una pieza separada, por contrabando y delito fiscal, por las joyas. Zapatero defiende su inocencia. Pidió la nulidad de la causa, y le fue rechazada.",
+   "text": "El auto del diecinueve de mayo le investiga por tráfico de influencias, organización criminal y falsedad documental, en la causa que examina el rescate público de la aerolínea Plus Ultra. Y hay una pieza separada, por contrabando y delito fiscal, por las joyas. Pidió la nulidad de la causa, y le fue rechazada.",
    "shots": [
     {
      "card": {
       "type": "ficha",
       "name": "José Luis Rodríguez Zapatero",
-      "role": "Expresidente del Gobierno · INVESTIGADO · presunción de inocencia",
+      "role": "Expresidente del Gobierno · presunción de inocencia",
       "bgimg": "media/e29n90/broll/ar_zapatero_audiencia__01.mp4",
       "bgt": 6.0
-     }
+     },
+     "stamp": [
+      "INVESTIGADO",
+      "amber",
+      ""
+     ],
+     "stamp_at": 0.8
     },
     {
      "file": "media/e29n90/broll/ar_zapatero_audiencia__01.mp4",
      "start": 6,
      "at": "nulidad"
     }
-   ],
-   "url": "media/e29n90/voz/d175bd9b38.mp3"
+   ]
   },
   {
    "k": "N",
-   "voice": "NEW",
-   "text": "Después de que Zapatero declarara como investigado ante el juez, en junio, el presidente fijó la posición del Gobierno y del partido.",
-   "shots": [
-    {
-     "file": "media/e29n90/broll/ar_zapatero_audiencia__01.mp4",
-     "start": 12
-    }
-   ],
-   "url": "media/e29n90/voz/3ed9f8c3ba.mp3"
-  },
-  {
-   "k": "C",
-   "src": "media/e29n90/decl/ar_sanchez_apoyo_zp__01.mp4",
-   "lt": [
-    "Pedro Sánchez",
-    "RESPUESTA REAL · Bruselas · 18/06/2026 · vía Libertad Digital"
-   ],
-   "fuente": "cita",
-   "crop": [
-    0.08,
-    0.06,
-    0.88,
-    0.88
-   ],
-   "in": 25.2,
-   "out": 45.3
-  },
-  {
-   "k": "N",
-   "voice": "NEW",
-   "text": "Y sobre Plus Ultra, añadió su defensa de fondo: que no fue un rescate, sino un préstamo, dentro de un fondo que, según el Gobierno, salvó sesenta mil empleos durante la pandemia.",
+   "voice": "TOP",
+   "text": "Antes de todo esto, en un mitin, Zapatero había resumido así lo que significa ser socialista.",
    "shots": [
     {
      "card": {
-      "type": "doc",
-      "image": "media/e29n90/capturas/doc_08_plusultra_moncloa_09-03-2021_texto.jpg",
-      "title": "LA DEFENSA",
+      "type": "aviso",
       "lines": [
-       "Un préstamo, no un rescate",
-       "60.000 empleos salvados, según el Gobierno"
+       "MITIN DEL PSOE"
       ],
-      "source": "La Moncloa"
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/ul_zapatero_tener_poco__02.mp4",
+      "bgt": 4
      }
     }
    ],
-   "url": "media/e29n90/voz/454da08e61.mp3"
+   "url": "media/e29n90/voz/8ae3da5bbc.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/ul_zapatero_tener_poco__02.mp4",
+   "lt": [
+    "José Luis Rodríguez Zapatero",
+    "Mitin del PSOE · vía Vozpópuli"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.08,
+    0.88,
+    0.88
+   ],
+   "stamp": [
+    "INVESTIGADO",
+    "amber",
+    ""
+   ],
+   "stamp_at": 3.0,
+   "in": 1.0,
+   "out": 9.9
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "[serious] El rescate. Nueve de marzo de dos mil veintiuno. El Consejo de Ministros aprueba cincuenta y tres millones de euros para Plus Ultra, una aerolínea pequeña, con capital venezolano. La Moncloa lo anunció así.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/efb5/ee9d/6a1d182173894a319a473d5fea2287e7.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=maD7JIr43fY84xc6cmt2FyJ3KfyZyXdUzH-nj5bTqaQde~E3jrLMWpkMxHcH2P8DnOo3W1D0ss5G4gmVfaEUNdxkq4jHArOf5CWAFQnCAsc-fdbplCroP3P29ti-b3LFZtA0AkZpuRSp-xuWG0Lrn5tIuyczE2nrmqiIDJdnObFgmYLUSwLz2t7lIfnoQsrs-UcEiXCAZ3TGYpYJnqDlJKaFIZloFiqHsPow6SzjYYYM~6q97-w2j~Y3T5wwTQ4GPkcH7gUGWh~pn0CjZNXkq~eWW-dnNpG3JAk-7gggYH3tWSnx~VNRtHvyTouE7LbqwoPFyn8bR5iTkxRFkkMjrQ__"
+    },
+    {
+     "card": {
+      "type": "doc",
+      "image": "media/e29n90/capturas/doc_08_plusultra_moncloa_09-03-2021_cabecera.jpg",
+      "title": "CONSEJO DE MINISTROS · 09/03/2021",
+      "lines": [
+       "Rescate de 53 millones a Plus Ultra"
+      ],
+      "source": "La Moncloa"
+     },
+     "at": "Consejo"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 53,
+      "label": "millones de euros para Plus Ultra · 09/03/2021",
+      "bgimg": "media/e29n90/broll/ar_zapatero_audiencia__01.mp4",
+      "bgt": 6.0
+     },
+     "at": "cincuenta y tres"
+    }
+   ],
+   "url": "media/e29n90/voz/46b2010b6b.mp3"
   },
   {
    "k": "N",
@@ -3107,6 +4183,102 @@
    ],
    "in": 0,
    "out": 12.8
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Y el presidente, preguntado por esa entrevista, defendió el expediente.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "LA MONCLOA · JULIO DE 2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_14c_perifrastica.mp4",
+      "bgt": 3
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/d046bd468e.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_14c_perifrastica.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · La Moncloa · julio de 2026 · vía elDiario.es"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.1,
+    0.85,
+    0.85
+   ],
+   "in": 0,
+   "out": 7.8
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Después de que Zapatero declarara como investigado ante el juez, en junio, el presidente fijó la posición del Gobierno y del partido.",
+   "shots": [
+    {
+     "file": "media/e29n90/broll/ar_zapatero_audiencia__01.mp4",
+     "start": 12
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "BRUSELAS · 18/06/2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/ar_sanchez_apoyo_zp__01.mp4",
+      "bgt": 30
+     },
+     "at": "fijó"
+    }
+   ],
+   "url": "media/e29n90/voz/3ed9f8c3ba.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/ar_sanchez_apoyo_zp__01.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Bruselas · 18/06/2026 · vía Libertad Digital"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.08,
+    0.06,
+    0.88,
+    0.88
+   ],
+   "in": 25.2,
+   "out": 45.3
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/ar_sanchez_perifrastica__01.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · La Moncloa · julio de 2026 · vía elDiario.es"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.1,
+    0.85,
+    0.85
+   ],
+   "in": 73.4,
+   "out": 89.8
   },
   {
    "k": "N",
@@ -3172,21 +4344,187 @@
    "out": 12.8
   },
   {
-   "k": "M",
-   "track": "tema",
-   "secs": 3.4,
+   "k": "N",
+   "voice": "TOP",
+   "text": "[pause] La mano en el fuego. [short pause] Es la misma expresión de confianza que, por otros hombres, ya le había costado cara. En enero de dos mil veinticinco, en Tenerife, dedicó otra a su ministro Ángel Víctor Torres, cuyo nombre aparecía entonces en informaciones de prensa sobre el caso Koldo.",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "title": "La mano en el fuego",
+      "items": [
+       "José Luis Ábalos · condenado",
+       "Ángel Víctor Torres",
+       "José Luis Rodríguez Zapatero · investigado"
+      ],
+      "bgimg": "media/e29n90/cortes/clip_25_no_estaba_de_vacaciones.mp4",
+      "bgt": 8.0
+     }
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "CONGRESO DEL PSOE DE CANARIAS · 26/01/2025"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_12b_admirador_torres.mp4",
+      "bgt": 3
+     },
+     "at": "Tenerife"
+    }
+   ],
+   "url": "media/e29n90/voz/1dc4a0599e.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_12b_admirador_torres.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Congreso del PSOE de Canarias · 26/01/2025 · Antena 3"
+   ],
+   "fuente": "cita",
+   "lt_at": 4.0,
+   "in": 0,
+   "out": 13.6
+  },
+  {
+   "k": "R",
+   "voice": "DOC",
+   "text": "Ángel Víctor Torres no ha sido condenado por ningún delito.",
    "shots": [
     {
      "card": {
       "type": "aviso",
       "lines": [
-       "La última pregunta.",
-       "Qué se prometió. Y qué se cumplió."
+       "Ángel Víctor Torres",
+       "no ha sido condenado por ningún delito."
       ],
       "head": true,
-      "size": 52,
-      "bgimg": "media/e29n90/cortes/clip_02_millon_viviendas.mp4",
-      "bgt": 4
+      "bgimg": "media/e29n90/cortes/clip_12b_admirador_torres.mp4",
+      "bgt": 12
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/70fb6c494a.mp3"
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Dentro del partido hubo quien le advirtió. En febrero de este año, en el Ateneo de Madrid, Felipe González dijo que votaría en blanco y que no pensaba irse del PSOE: «Si alguien tiene que dejarlo, que lo deje el que lo destroza».",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "«Si alguien tiene que dejarlo, que lo deje el que lo destroza»",
+      "attrib": "Felipe González · Ateneo de Madrid · febrero de 2026",
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] La Moncloa respondió que González es solo «una voz más».",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "LA MONCLOA",
+       "González es «una voz más»"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/co_cumplimiento_integro__02.mp4",
+      "bgt": 4.0
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Y el presidente de Castilla-La Mancha, Emiliano García-Page, lo dijo en televisión.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "EL HORMIGUERO · ANTENA 3 · FEBRERO DE 2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_20f_page_felipe.mp4",
+      "bgt": 3
+     }
+    }
+   ]
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_20f_page_felipe.mp4",
+   "lt": [
+    "Emiliano García-Page (PSOE)",
+    "Presidente de Castilla-La Mancha · El Hormiguero · Antena 3 · febrero de 2026"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.05,
+    0.05,
+    0.9,
+    0.9
+   ],
+   "in": 0,
+   "out": 8.1
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "Pero había otras voces que el presidente sí escuchaba. Las de sus socios. Y con ellas, la pregunta de si se puede gobernar sin el Parlamento.",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f302/e6c9/654f6ca2b7a5ee3c7c2090660d1edb66.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCRABUPZ5K%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=86c033f29f5c632439172326d9be261cb842dc1079fffb7e61ba1a9d8c18cffb"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "[softly] Recapitulemos de nuevo. Una frontera desbordada con un aviso del CNI que el presidente calificó de rutinario. Una riada con doscientos treinta muertos. Dos tragedias ferroviarias y un ministro dimitido. Y un expresidente investigado por el que él pone la mano en el fuego.",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "title": "Hasta aquí",
+      "items": [
+       "Ceuta: un aviso del CNI «rutinario»",
+       "La DANA: 230 muertos",
+       "Adamuz y Urda: un ministro dimitido",
+       "Zapatero: investigado, la mano en el fuego"
+      ],
+      "bgimg": "media/e29n90/broll/ar_dana_coches__03.mp4",
+      "bgt": 40.0
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/a15de42c75.mp3"
+  },
+  {
+   "k": "M",
+   "track": "tension",
+   "secs": 3.2,
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "«con o sin un concurso de un poder legislativo»",
+      "attrib": "Pedro Sánchez · Comité Federal del PSOE · septiembre de 2024",
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
      }
     }
    ]
@@ -3194,25 +4532,26 @@
   {
    "k": "T",
    "voice": "ENT",
-   "text": "Presidente, ¿qué le diría hoy el Pedro Sánchez de dos mil dieciocho?",
+   "text": "Presidente, ¿se puede gobernar sin el Parlamento?",
    "secs": 4.2,
    "voice_at": 0.6,
    "sting": "golpe",
    "chapter": true,
    "card": {
     "type": "pregunta",
-    "n": "PREGUNTA 07 / 07",
-    "text": "Presidente, ¿qué le diría hoy el Pedro Sánchez de 2018?",
+    "n": "PREGUNTA 08 / 10",
+    "text": "Presidente, ¿se puede gobernar sin el Parlamento?",
     "foot": "PEDRO SÁNCHEZ · LA ENTREVISTA QUE NADIE LE HIZO",
     "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
     "bgt": 12.0
    },
-   "title": "7. Presidente, ¿qué le diría hoy el Pedro Sánchez de 2018?",
-   "url": "media/e29n90/voz/b1f24eece5.mp3"
+   "title": "8. Presidente, ¿se puede gobernar sin el Parlamento?",
+   "shots": [],
+   "url": "media/e29n90/voz/2e31d184c5.mp3"
   },
   {
    "k": "B",
-   "track": "tema"
+   "track": "pulso"
   },
   {
    "k": "N",
@@ -3220,7 +4559,7 @@
    "text": "La Constitución, en su artículo ciento treinta y cuatro, obliga al Gobierno a presentar cada año los Presupuestos Generales del Estado. España llega a estas elecciones con los presupuestos de dos mil veintitrés, prorrogados en dos mil veinticuatro, en dos mil veinticinco y en dos mil veintiséis.",
    "shots": [
     {
-     "ai": "https://s3-alpha-sig.figma.com/img/a314/cc94/bb3e36e28d542b3dc47608904dc1886f.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Lcd6r7aVRwH4eq6xNlHzOaDgxghY50sturcaOwc~WPQpngQWXznlFV3isOeaPc3URpaZZRcF6sAqf2LdOL-rpWshTZN4XAmDIhmX74kv6fCavsw-z3N7CHCJqPzDE0D4p4uvCAHgXOEA~Tf5DT8JW4x39ld~cVJs~-m6W0JS7OkXKSZ8E1lD3pDMV2~enleCGO871zavanxhL3OBvpa~A24f-zeTqEDh-OEQrfkN8sdQNO7bg6rdP-eyUMM8ASDddVU4miQARjOL4Iomng1RZ~dM4XtXmanVhzQKdnZt7DsKDVnHgWdErDbCDI0Jj7Tf1Py6qFE0P6hDK6x6o7aSvw__"
+     "ai": "https://s3-alpha-sig.figma.com/img/eb51/67ba/d41775eae529a1df086f5107f4860ee1.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=TaV40BHDwRhSiLG~P3AdYXjE-TuFACaubdms3wBbUfuohBJvaWzNdBimWKqMqjaDvlFPHb-iQC-KBcZTgCBKYeJK9JDsI1s2nTDyGNQzh-wX73nd6fI1zXzdRbzWb2VIn28~OZlNt~b~U5T6HIwP2njmHK3eZhtqFiFaJ6c1h~3bMxDVFLMeyH199isI0lz8qSpm3ha2KLywtEDhlrJ2BEE2RguPo6ee0BBGiOkGOiKfBIAbTAooPSJD6KapXFISb3djWB0QE-SPux55H-gewVHLevEscaT2MlHJ~3hj8cpJVJU7sdH495kpJ41Pw18dDn3ExepUwFDYOQxMc6lRww__"
     },
     {
      "card": {
@@ -3255,21 +4594,8 @@
   {
    "k": "N",
    "voice": "TOP",
-   "text": "[serious] Su defensa: la prórroga es legal, también lo dice la Constitución. [pause] Y en septiembre de dos mil veinticuatro, ante el Comité Federal de su partido, el presidente avisó de cómo pensaba gobernar: «con o sin un concurso de un poder legislativo».",
+   "text": "Y en septiembre de dos mil veinticuatro, ante el Comité Federal de su partido, el presidente avisó de cómo pensaba gobernar: «con o sin un concurso de un poder legislativo».",
    "shots": [
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "LA DEFENSA",
-       "Artículo 134.4: la prórroga es constitucional."
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
-      "bgt": 12.0
-     }
-    },
     {
      "card": {
       "type": "quote",
@@ -3280,8 +4606,569 @@
      },
      "at": "Comité Federal"
     }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "La tensión con los límites venía de lejos. En la pandemia, el Gobierno gobernó por estado de alarma. El veintitrés de mayo de dos mil veinte, en La Moncloa, el presidente dio por ganada la primera batalla.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/a314/cc94/bb3e36e28d542b3dc47608904dc1886f.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Lcd6r7aVRwH4eq6xNlHzOaDgxghY50sturcaOwc~WPQpngQWXznlFV3isOeaPc3URpaZZRcF6sAqf2LdOL-rpWshTZN4XAmDIhmX74kv6fCavsw-z3N7CHCJqPzDE0D4p4uvCAHgXOEA~Tf5DT8JW4x39ld~cVJs~-m6W0JS7OkXKSZ8E1lD3pDMV2~enleCGO871zavanxhL3OBvpa~A24f-zeTqEDh-OEQrfkN8sdQNO7bg6rdP-eyUMM8ASDddVU4miQARjOL4Iomng1RZ~dM4XtXmanVhzQKdnZt7DsKDVnHgWdErDbCDI0Jj7Tf1Py6qFE0P6hDK6x6o7aSvw__"
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "LA MONCLOA · 23/05/2020"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/co_vencido_virus__02.mp4",
+      "bgt": 8
+     },
+     "at": "pandemia"
+    }
    ],
-   "url": "media/e29n90/voz/29f5fb5da5.mp3"
+   "url": "media/e29n90/voz/ffdb0c4e9f.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/co_vencido_virus__02.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · La Moncloa · 23/05/2020"
+   ],
+   "fuente": "cita",
+   "in": 5.1,
+   "out": 14.3
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] Un año después, en julio de dos mil veintiuno, el Tribunal Constitucional declaró inconstitucional el confinamiento de aquel primer estado de alarma. Y en octubre, la prórroga de seis meses del segundo, aprobada sin control parlamentario intermedio. Las dos sentencias se decidieron por mayorías ajustadas.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/a314/cc94/bb3e36e28d542b3dc47608904dc1886f.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Lcd6r7aVRwH4eq6xNlHzOaDgxghY50sturcaOwc~WPQpngQWXznlFV3isOeaPc3URpaZZRcF6sAqf2LdOL-rpWshTZN4XAmDIhmX74kv6fCavsw-z3N7CHCJqPzDE0D4p4uvCAHgXOEA~Tf5DT8JW4x39ld~cVJs~-m6W0JS7OkXKSZ8E1lD3pDMV2~enleCGO871zavanxhL3OBvpa~A24f-zeTqEDh-OEQrfkN8sdQNO7bg6rdP-eyUMM8ASDddVU4miQARjOL4Iomng1RZ~dM4XtXmanVhzQKdnZt7DsKDVnHgWdErDbCDI0Jj7Tf1Py6qFE0P6hDK6x6o7aSvw__"
+    },
+    {
+     "card": {
+      "type": "dijo",
+      "left": {
+       "date": "2020",
+       "text": "Estados de alarma"
+      },
+      "right": {
+       "date": "2021",
+       "text": "El Tribunal Constitucional anula el primero y la prórroga de seis meses del segundo",
+       "source": "Fuente: BOE · STC 148/2021 y 183/2021"
+      },
+      "red": true,
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     },
+     "at": "Tribunal"
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Diciembre de dos mil veinticuatro. Última sesión de control del año.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "CONGRESO · 18/12/2024"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_36bx_bulo_boe.mp4",
+      "bgt": 5
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/3ecf5842fc.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_36bx_bulo_boe.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Congreso · 18/12/2024 · vía La Vanguardia"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.08,
+    0.06,
+    0.88,
+    0.88
+   ],
+   "in": 3.45,
+   "out": 9.6
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "El BOE como respuesta. [pause] Para seguir en el poder, el Gobierno necesitaba a sus socios cada semana. Con Esquerra Republicana pactó la condonación de diecisiete mil cien millones de euros de deuda de Cataluña.",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "to": 17104,
+      "label": "millones de euros de deuda de Cataluña condonados (pacto con ERC)",
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Pero Junts ya se había ido. Y desde el Congreso, Míriam Nogueras le recordó al presidente de quién dependía.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "CONGRESO DE LOS DIPUTADOS"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/ul_nogueras_bloqueada__02.mp4",
+      "bgt": 10
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/f1cb3a45d5.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/ul_nogueras_bloqueada__02.mp4",
+   "lt": [
+    "Míriam Nogueras (Junts)",
+    "Congreso de los Diputados"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.11,
+    0.0,
+    0.78,
+    0.78
+   ],
+   "in": 3.3,
+   "out": 26.5
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] Con Junts votando junto al Partido Popular y a Vox, el Congreso llegó a aprobar una moción que pedía al presidente someterse a una cuestión de confianza. No era vinculante. No se sometió.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/25b4/6022/c416dd346f27660b1608eb83099d9d04.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VuEtO0znmF6OmgKY7A6O~QqRuJUDegy7VKN29o-qf08~RQVkeeFoODK3pV-Nygr7u~aCTpy9AVssSM1Essd9GXSoywOZQmEkxdSoySIwIw14hOHFoclibe0COnnioJMHJOTjk0XG1tx1JJoIbfuNqYltcYfwlvNExxGmobqKOBLxJW0I7GRjv2bUUEygbTdHF0wmzJ2v2D6IlZdYQnxh2z6mGf4ZJhCI2NUu7sAlcRvuvYaVSPzobSvUaQNF4vB6YKfildOsRaWkmfQjVuIiM3i-cPV73UQwBXOfe~v1IE43LmMoWdmvyb~Htrkm4ufOVHIXAuPLip~jedx0p5pEFg__"
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "MOCIÓN APROBADA",
+       "Pedía al presidente una cuestión de confianza. No era vinculante."
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     },
+     "at": "No era vinculante"
+    }
+   ],
+   "url": "media/e29n90/voz/049ec3d660.mp3"
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "El diecinueve de junio de dos mil veintiséis, el presidente aseguró que presentaría presupuestos en dos mil veintiséis y que habría elecciones en dos mil veintisiete. [pause] El cinco de octubre disolvió las Cortes. Elecciones, veintinueve de noviembre.",
+   "shots": [
+    {
+     "card": {
+      "type": "dijo",
+      "left": {
+       "date": "19/06/2026",
+       "text": "«Presentaremos los presupuestos y habrá elecciones en 2027»"
+      },
+      "right": {
+       "date": "05/10/2026",
+       "text": "Disolución de las Cortes. Elecciones el 29 de noviembre",
+       "source": "Fuente: BOE · 06/10/2026"
+      },
+      "bgimg": "media/e29n90/decl/ul_nogueras_bloqueada__02.mp4",
+      "bgt": 14.899999999999999
+     }
+    },
+    {
+     "card": {
+      "type": "doc",
+      "image": "media/e29n90/capturas/doc_36c_BOE_disolucion_convocatoria_29N_06-10-2026.jpg",
+      "title": "REAL DECRETO 806/2026",
+      "lines": [
+       "Disolución de las Cortes y convocatoria de elecciones"
+      ],
+      "source": "BOE · 06/10/2026"
+     },
+     "at": "disolvió"
+    }
+   ],
+   "url": "media/e29n90/voz/8a4ecde4ff.mp3"
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "Al día siguiente, el seis de octubre, la dirigente socialista María Jesús Montero habló de la huelga general convocada para noviembre.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "06/10/2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_37b_contra_la_oposicion.mp4",
+      "bgt": 2
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/a76846588e.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_37b_contra_la_oposicion.mp4",
+   "lt": [
+    "María Jesús Montero (PSOE)",
+    "06/10/2026 · vía Libertad Digital"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.15,
+    0.1,
+    0.7,
+    0.7
+   ],
+   "in": 0,
+   "out": 5.0
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Una huelga contra la oposición. [short pause] El presidente, en cambio, dijo que no era «una huelga contra nadie». [pause] Pero es un lenguaje que el presidente ya había usado para referirse a una parte de los medios y de las redes. Febrero de dos mil veinticuatro, laSexta.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "LASEXTA · 20/02/2024"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_37f_fachosfera_existe.mp4",
+      "bgt": 3
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/99b6c85ed3.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_37f_fachosfera_existe.mp4",
+   "lt": [
+    "Pedro Sánchez (con la pregunta)",
+    "RESPUESTA REAL · Al Rojo Vivo · laSexta · 20/02/2024"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.1,
+    0.05,
+    0.8,
+    0.68
+   ],
+   "in": 0,
+   "out": 21.6
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] El nueve de septiembre de dos mil veintiséis, en plena crisis de Ceuta, Santiago Abascal le preguntó en el Congreso si Marruecos le estaba chantajeando. La respuesta del presidente se hizo viral.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/b1fd/80ed/3712c2e3c671b29951230688416ffd0a.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=OyZDnK4LmrO5b5cL4RnkJAGx2fuxzzn3j5-ToxgoHYx5yjJyl6ahBmHXdoUyeh9nQ~e~fTarpXKcKJJjN7d6zRDBlZdHqV0Q23lG324IDGVkqU0hLE1kjQvRXx~ZZSXVxptihujjeOnuCxLotX~5VjcalTodGxyR9WeSrD1EY0Vf0d6~ejQ7FeKk3HuYMjM-G7patZrX1JJzmLv~LADb9OkupOeq9Qmnkuzt275J1Kal6J-iXXYP-fWc~80V9Inis1T2R2yKK7Mf9eeObbHP4~SKO9oT1sZKeiUt7fznI577n~GkI-wz0~RY-xJa70aBT95On8vC75gSUs7n~7Hw4g__"
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "CONGRESO · 09/09/2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_26f_perro_sin_amo.mp4",
+      "bgt": 3
+     },
+     "at": "Abascal"
+    }
+   ],
+   "url": "media/e29n90/voz/f9b160774e.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_26f_perro_sin_amo.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Congreso · 09/09/2026 · vía elDiario.es"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.1,
+    0.88,
+    0.88
+   ],
+   "lt_at": 0.3,
+   "in": 1.5,
+   "out": 11.8
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_26c_ningun_chantaje.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.12,
+    0.0,
+    0.7,
+    0.7
+   ],
+   "in": 0,
+   "out": 9.2
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Dos meses antes, en la cumbre de la OTAN en Ankara, Donald Trump había cargado contra España por su gasto militar.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "CUMBRE DE LA OTAN · ANKARA · 08/07/2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_26e_con_creces.mp4",
+      "bgt": 3
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/1c6f11f7f5.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_26d_trump_espana.mp4",
+   "lt": [
+    "Donald Trump",
+    "Cumbre de la OTAN · Ankara · 08/07/2026"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.1,
+    0.05,
+    0.8,
+    0.72
+   ],
+   "in": 0,
+   "out": 11.7
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_26e_con_creces.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Cumbre de la OTAN · Ankara · 08/07/2026"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.18,
+    0.8,
+    0.8
+   ],
+   "in": 0,
+   "out": 9.1
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "Horas después, Trump dijo que España se había «redimido por completo». [pause] Y en casa, los socios marcaban su propio rumbo. En enero de este año, en un mitin de Podemos en Zaragoza, Irene Montero celebraba la regularización extraordinaria de inmigrantes.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "MITIN DE PODEMOS · ZARAGOZA · 31/01/2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_18c_que_voten.mp4",
+      "bgt": 0.5
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/e1df580d8d.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_18c_que_voten.mp4",
+   "lt": [
+    "Irene Montero (Podemos)",
+    "Mitin de Podemos · Zaragoza · 31/01/2026 · vía AS TV"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.1,
+    0.0,
+    0.75,
+    0.75
+   ],
+   "in": 0,
+   "out": 11.0
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_18bx_barrer_fachas.mp4",
+   "lt": [
+    "Irene Montero (Podemos)",
+    "Mitin de Podemos · Zaragoza · 31/01/2026 · vía AS TV"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.1,
+    0.0,
+    0.75,
+    0.75
+   ],
+   "lt_at": 2.0,
+   "in": 0,
+   "out": 12.1
+  },
+  {
+   "k": "R",
+   "voice": "DOC",
+   "text": "Días después, dirigentes de Podemos explicaron que aquellas palabras eran irónicas, una burla de la teoría del reemplazo.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "Podemos explicó después",
+       "que aquellas palabras eran irónicas."
+      ],
+      "head": true,
+      "bgimg": "media/e29n90/cortes/clip_18bx_barrer_fachas.mp4",
+      "bgt": 6
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/6d0197deee.mp3"
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "[serious] Gobernar así tiene costes. A veces los paga el propio Gobierno. En abril de dos mil veintitrés, tras cientos de rebajas de condena a agresores sexuales por la ley del solo sí es sí, el presidente pidió perdón a las víctimas.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "ABRIL DE 2023",
+       "Ley del «solo sí es sí»"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/decl/co_si_es_si_perdon__01.mp4",
+      "bgt": 10
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/05b557525d.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/decl/co_si_es_si_perdon__01.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "RESPUESTA REAL · Entrevista en los diarios de Vocento · TVE · abril de 2023"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.05,
+    0.08,
+    0.7,
+    0.7
+   ],
+   "in": 7.5,
+   "out": 13.9
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[softly] Otro perdón. [pause] Y entre perdón y perdón, una promesa que se repitió en todas las campañas. Quizá la que más afecta a la vida diaria. [short pause] La vivienda. Y la economía.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/0fd2/0553/fae30fb45534130fed604563d26f3a7f.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=i4kZFNrGigf3nWYUo75UM2XBeYzPoqo0AzCZ4Lg64XqRjCTwnfj9ofT4HlbFrmVXBFgk07kFE~Z4hCEIJiMQnv4xgM5Oo74gIho9j5kMP5EaXaMS0ZGOXLMBXOqBKf2TE5~jLr~SyzRGWE-yjBDbi0zmQwBo1Sfd4~D0YEM9avqneIEwrSFbrGwZFrwoPIcp1jmh1HuWDjDL~blOPV712vUfsf5ergru6ruEt-7TUSph-xZVTMfJE7dkRdTNi6DpYgWGKRe~5MUV20GxXI63H5MEsJzVnp3LhVp~5UPhNQpcxCT~mkuY3WN9H2hp-UT02TfUNl~B0~GMq2R~RaaoqQ__"
+    }
+   ],
+   "url": "media/e29n90/voz/98d84c9ffe.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_02_millon_viviendas.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "Cara a cara · RTVE · 19/11/2026"
+   ],
+   "fuente": "cita",
+   "flash": true,
+   "gap": 0.25,
+   "in": 0.5,
+   "out": 4.6
+  },
+  {
+   "k": "T",
+   "voice": "ENT",
+   "text": "Presidente, ¿va la economía como un cohete para todos?",
+   "secs": 4.2,
+   "voice_at": 0.6,
+   "sting": "golpe",
+   "chapter": true,
+   "card": {
+    "type": "pregunta",
+    "n": "PREGUNTA 09 / 10",
+    "text": "Presidente, ¿va la economía como un cohete para todos?",
+    "foot": "PEDRO SÁNCHEZ · LA ENTREVISTA QUE NADIE LE HIZO",
+    "bgimg": "media/e29n90/cortes/clip_37c_cohete.mp4",
+    "bgt": 4
+   },
+   "title": "9. Presidente, ¿va la economía como un cohete para todos?",
+   "shots": [],
+   "url": "media/e29n90/voz/034299fc24.mp3"
+  },
+  {
+   "k": "B",
+   "track": "pulso"
   },
   {
    "k": "N",
@@ -3292,7 +5179,7 @@
      "card": {
       "type": "aviso",
       "lines": [
-       "LA MONCLOA · 16/05/2024"
+       "FORO DE FONDOS EUROPEOS · 16/05/2024"
       ],
       "head": true,
       "size": 46,
@@ -3322,34 +5209,20 @@
   },
   {
    "k": "N",
-   "voice": "TOP",
-   "text": "[serious] Los datos que él cita existen. En dos mil veinticinco, el PIB creció un dos coma seis por ciento, según el INE. España superó los veintidós millones de ocupados. Es la defensa de su gestión, y es sólida.",
+   "voice": "NEW",
+   "text": "Pero no todos en su propio Gobierno lo vieron igual. Su vicepresidenta segunda, Yolanda Díaz, le contestó en laSexta, según recogió Europa Press: no es verdad que la economía vaya como un cohete cuando el salario mediano es de mil quinientos cuarenta y cinco euros al mes.",
    "shots": [
     {
      "card": {
-      "type": "counter",
-      "to": 22460000,
-      "label": "ocupados · INE · 2025",
+      "type": "quote",
+      "text": "No es verdad, no va como un cohete. Cuando el salario mediano en España es de 1.545 euros al mes, no va como un cohete.",
+      "attrib": "Yolanda Díaz · laSexta · vía Europa Press",
       "bgimg": "media/e29n90/cortes/clip_37c_cohete.mp4",
-      "bgt": 4
+      "bgt": 4.5
      }
-    },
-    {
-     "card": {
-      "type": "aviso",
-      "lines": [
-       "LA DEFENSA",
-       "PIB +2,6 % en 2025 · más de 22 millones de ocupados (INE)"
-      ],
-      "head": true,
-      "size": 46,
-      "bgimg": "media/e29n90/cortes/clip_37c_cohete.mp4",
-      "bgt": 4
-     },
-     "at": "defensa"
     }
    ],
-   "url": "media/e29n90/voz/9786e10d1e.mp3"
+   "url": "media/e29n90/voz/e67d049d4e.mp3"
   },
   {
    "k": "N",
@@ -3403,35 +5276,321 @@
       "bgimg": "media/e29n90/cortes/clip_02_millon_viviendas.mp4",
       "bgt": 4
      }
+    },
+    {
+     "card": {
+      "type": "counter",
+      "to": 705000,
+      "label": "viviendas terminadas, frente a 1.000.000",
+      "bgimg": "media/e29n90/cortes/clip_02_millon_viviendas.mp4",
+      "bgt": 4
+     },
+     "at": "setecientas cinco"
     }
    ],
    "url": "media/e29n90/voz/b5a5de3f91.mp3"
   },
   {
-   "k": "R",
-   "voice": "DOC",
-   "text": "Feijóo, por su parte, negó haber prometido él mismo un millón de viviendas, aunque la medida ciento cuarenta y cuatro de su programa hablaba de esa cifra.",
+   "k": "N",
+   "voice": "TOP",
+   "text": "Septiembre de dos mil veintiséis. El desahucio de Maricarmen, una vecina de Madrid de ochenta y siete años, abre los informativos. Una cámara le pregunta a quién responsabiliza.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/8c3f/50d3/3ce49162e388138480ca4db57722e963.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=NnehzahwVacLOhccdpKdZsB89VNdQdbH1iLMrlVHiSSMwxDIZRSy-lOcYbBeB~fxWs1d-ALNhimz-mCIe2h2Gt38488j3y8PopJufm2hChxk9oFo6ryI4ooeiMYzYn53LeScVq7r2sKbvT9tIS7rpNW7ByovlKLFstUqZbOv1FFFSIqT-TBjh6mQ~I0ZjVwWXOo4w6pkhR3LJnUX3sTAfppKSzxQ4Ka2014N5ft9WAyv6ZvITRKAdoSJ7vxAC~tJGg35nSS0gwP48Zfv5h1OlU8MsG7clecyg6NhxW4kAi1~aG2Vb4BtR6fwpjGihswvuYpIE07IQqN9XKD~nw2YSQ__"
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "SEPTIEMBRE DE 2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_37g_maricarmen.mp4",
+      "bgt": 2
+     },
+     "at": "Una cámara"
+    }
+   ],
+   "url": "media/e29n90/voz/d41d9ca290.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_37g_maricarmen.mp4",
+   "lt": [
+    "Maricarmen, vecina desahuciada (rostro difuminado)",
+    "Imágenes difundidas por ESdiario · septiembre de 2026"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.0,
+    0.1,
+    0.85,
+    0.75
+   ],
+   "blur": 22,
+   "in": 0,
+   "out": 6.7
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "En el debate, Feijóo le preguntó si Maricarmen era la persona que le había escrito una carta que no respondió.",
    "shots": [
     {
      "card": {
       "type": "aviso",
       "lines": [
-       "TAMBIÉN",
-       "Feijóo negó su promesa del millón de viviendas (medida 144 de su programa)."
+       "CARA A CARA · RTVE · 19/11/2026",
+       "La carta sin respuesta"
       ],
       "head": true,
       "size": 46,
-      "bgimg": "media/e29n90/cortes/clip_39c_feijoo_decente.mp4",
-      "bgt": 3
+      "bgimg": "media/e29n90/cortes/clip_01b_pido_perdon_corrupcion.mp4",
+      "bgt": 3.0
+     }
+    }
+   ]
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[serious] Y para explicar todo esto, en campaña, el presidente eligió sus escenarios. En octubre, en La Revuelta, de Televisión Española, prometió esto.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "LA REVUELTA · RTVE · 22/10/2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_06_ire_al_hormiguero.mp4",
+      "bgt": 2
      }
     }
    ],
-   "url": "media/e29n90/voz/2f7f6fdc6e.mp3"
+   "url": "media/e29n90/voz/9c2b3c53b4.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_06_ire_al_hormiguero.mp4",
+   "lt": [
+    "Pedro Sánchez (con la pregunta)",
+    "RESPUESTA REAL · La Revuelta · RTVE · 22/10/2026"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.1,
+    0.14,
+    0.8,
+    0.58
+   ],
+   "in": 0,
+   "out": 3.9
   },
   {
    "k": "N",
    "voice": "NEW",
-   "text": "Ocho años. Una pandemia, un volcán, una riada, dos tragedias ferroviarias, una crisis en la frontera de Ceuta. Una amnistía. Tres presupuestos prorrogados. Un exministro y su asesor, condenados. Su secretario de Organización, investigado. Su mentor, investigado. Su esposa, procesada. Su hermano, condenado en primera instancia. El fiscal general que defendió, condenado. [pause] Y él, sin imputación alguna. Así lo recuerda siempre. Y es verdad.",
+   "text": "No fue. [short pause] Pablo Motos lo comentó en su programa el once de noviembre.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "NO FUE."
+      ],
+      "head": true,
+      "size": 72,
+      "bgimg": "media/e29n90/cortes/clip_06_ire_al_hormiguero.mp4",
+      "bgt": 2
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/8bd16d9282.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_07_motos_cobardia.mp4",
+   "lt": [
+    "Pablo Motos",
+    "El Hormiguero · Antena 3 · 11/11/2026"
+   ],
+   "fuente": "cita",
+   "audio_only": true,
+   "quote": "«Por un lado es una torpeza política (…) y por otro, a lo mejor es cobardía»",
+   "shots": [
+    {
+     "card": {
+      "type": "audiograma",
+      "text": "«Por un lado es una torpeza política (…) y por otro, a lo mejor es cobardía»",
+      "attrib": "Pablo Motos · El Hormiguero · Antena 3 · 11/11/2026",
+      "audio": "media/e29n90/cortes/clip_07_motos_cobardia.mp4",
+      "ss": 0,
+      "bgimg": "media/e29n90/decl/ul_cambiado_opinion__01.mp4",
+      "bgt": 60
+     }
+    }
+   ],
+   "in": 0,
+   "out": 5.7
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "En cambio, el presidente sí fue a The Wild Project, y a programas de entretenimiento en otras cadenas. En La Séptima, la colaboradora Alba Carrillo le preguntó por su vida sentimental.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "THE WILD PROJECT · 13/11/2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_25_no_estaba_de_vacaciones.mp4",
+      "bgt": 8.0
+     }
+    },
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "FUERA DE CONTROL · LA SÉPTIMA · 15/11/2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_05_chulazo.mp4",
+      "bgt": 1.6
+     },
+     "at": "La Séptima"
+    }
+   ],
+   "url": "media/e29n90/voz/f098389e6f.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_05_chulazo.mp4",
+   "lt": [
+    "Alba Carrillo (pregunta)",
+    "Fuera de control · La Séptima · 15/11/2026"
+   ],
+   "fuente": "cita",
+   "crop": [
+    0.05,
+    0.05,
+    0.9,
+    0.66
+   ],
+   "lt_at": 1.5,
+   "in": 0,
+   "out": 5.5
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Y al día siguiente, en Telecinco, cuando el periodista Carlos Franganillo le apretó con un dato, le respondió así.",
+   "shots": [
+    {
+     "card": {
+      "type": "aviso",
+      "lines": [
+       "INFORMATIVOS TELECINCO · 16/11/2026"
+      ],
+      "head": true,
+      "size": 46,
+      "bgimg": "media/e29n90/cortes/clip_35d_horizonte_coherencia.mp4",
+      "bgt": 12
+     }
+    }
+   ],
+   "url": "media/e29n90/voz/1e8e7c22eb.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/cortes/clip_05b_mal_informado.mp4",
+   "lt": [
+    "Pedro Sánchez a Carlos Franganillo",
+    "Informativos Telecinco · 16/11/2026"
+   ],
+   "fuente": "cita",
+   "audio_only": true,
+   "quote": "«A lo mejor usted está mal informado, Carlos»",
+   "shots": [
+    {
+     "card": {
+      "type": "audiograma",
+      "text": "«A lo mejor usted está mal informado, Carlos»",
+      "attrib": "Pedro Sánchez a Carlos Franganillo · Informativos Telecinco · 16/11/2026",
+      "audio": "media/e29n90/cortes/clip_05b_mal_informado.mp4",
+      "ss": 0,
+      "bgimg": "media/e29n90/cortes/clip_35d_horizonte_coherencia.mp4",
+      "bgt": 12
+     }
+    }
+   ],
+   "in": 0,
+   "out": 2.0
+  },
+  {
+   "k": "N",
+   "voice": "TOP",
+   "text": "[softly] Mal informado. [pause] Queda una última pregunta. Es la más sencilla de todas. Y él mismo la formuló, palabra por palabra, hace ocho años. [short pause] Solo que entonces se la hizo a otro.",
+   "shots": [
+    {
+     "ai": "https://s3-alpha-sig.figma.com/img/a687/0b02/3cc6461abb30fe54777225a02ac7aa2d.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ptftVxO8AX93OydFAzmc51SzPUEC2lzRcUptj9D0rgz-d5o2XAAxMQebsP5HqEKk0xbHbLkSkYwgLCj0D0foHTMvkGtRD6RHev1bl6-XjJsSwfLSRvQb5kEKcAag13~HVytNhodbWw28~12K5Gsn7mSgr~u7a-QyyQ5h771wZjKRQuDci7UxljDqWp55f3NSiAeE2F51XW~pSwP0w27oIpUss2bJuPqv9IWi6tYGBP3N~GUlZ2cf7~SbJTbhBhk9FV0UT6r4SD~2tFloAy9JpyXBD4RrTbljU-dK9VxzHIclViEf7CLzUu8-PJYnRHy9rxAratzCh4Q-zg6cD~G9jw__"
+    }
+   ],
+   "url": "media/e29n90/voz/a0c14de295.mp3"
+  },
+  {
+   "k": "C",
+   "src": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+   "lt": [
+    "Pedro Sánchez",
+    "Moción de censura · Congreso · 31/05/2018"
+   ],
+   "fuente": "cita",
+   "flash": true,
+   "gap": 0.25,
+   "crop": [
+    0.0,
+    0.08,
+    0.9,
+    0.9
+   ],
+   "tag": "dimita",
+   "in": 25.3,
+   "out": 30.3
+  },
+  {
+   "k": "T",
+   "voice": "ENT",
+   "text": "Presidente, ¿qué le diría hoy el Pedro Sánchez de dos mil dieciocho?",
+   "secs": 4.2,
+   "voice_at": 0.6,
+   "sting": "golpe",
+   "chapter": true,
+   "card": {
+    "type": "pregunta",
+    "n": "PREGUNTA 10 / 10",
+    "text": "Presidente, ¿qué le diría hoy el Pedro Sánchez de 2018?",
+    "foot": "PEDRO SÁNCHEZ · LA ENTREVISTA QUE NADIE LE HIZO",
+    "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+    "bgt": 12.0
+   },
+   "title": "10. Presidente, ¿qué le diría hoy el Pedro Sánchez de 2018?",
+   "shots": [],
+   "url": "media/e29n90/voz/b1f24eece5.mp3"
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "voice": "NEW",
+   "text": "Ocho años. Una pandemia, un volcán, una riada, dos tragedias ferroviarias, una crisis en la frontera de Ceuta. Una amnistía. Tres presupuestos prorrogados. Un exministro y su asesor, condenados. Su secretario de Organización, investigado. Su mentor, investigado. Su esposa, procesada. Su hermano, condenado en primera instancia. El fiscal general que defendió, condenado. [pause] Y él, sin imputación alguna.",
    "shots": [
     {
      "file": "media/e29n90/broll/ar_dana_coches__03.mp4",
@@ -3441,7 +5600,7 @@
      "file": "media/e29n90/broll/ar_ceuta_espigon__02.mp4",
      "start": 50,
      "at": "Ceuta",
-     "blur": 16
+     "blur": 18
     },
     {
      "card": {
@@ -3449,7 +5608,7 @@
       "title": "Ocho años",
       "items": [
        "Ábalos y Koldo García · condenados",
-       "Santos Cerdán (sucesor de Ábalos) · investigado",
+       "Santos Cerdán · investigado",
        "Zapatero · investigado",
        "Begoña Gómez · procesada",
        "David Sánchez · condenado (no firme)",
@@ -3461,19 +5620,17 @@
      },
      "at": "exministro"
     }
-   ],
-   "url": "media/e29n90/voz/011803d1b7.mp3"
+   ]
   },
   {
    "k": "N",
    "voice": "TOP",
-   "text": "[serious] Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. [pause] Quienes le defienden ven en eso resistencia: un presidente que no se rinde y que ha llevado a España a crecer más que sus vecinos. Quienes le critican ven otra cosa: un presidente que siempre encuentra a otro responsable. [short pause] Este documental no ha querido decidir entre unos y otros. Solo ha puesto, una al lado de otra, sus palabras y los hechos.",
+   "text": "[serious] Hay presidentes que caen por una sola cosa. Él ha sobrevivido a todas. A un partido que le echó y al que volvió a ganar. A cuatro elecciones generales en cuatro años. A una pandemia. A sus socios. A los escándalos de los hombres que eligió. [pause] Quienes le critican ven otra cosa: un presidente que siempre encuentra a otro responsable. [short pause] Este documental no ha querido decidir entre unos y otros. Solo ha puesto, una al lado de otra, sus palabras y los hechos.",
    "shots": [
     {
      "ai": "https://s3-alpha-sig.figma.com/img/a687/0b02/3cc6461abb30fe54777225a02ac7aa2d.png?Expires=1795996800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ptftVxO8AX93OydFAzmc51SzPUEC2lzRcUptj9D0rgz-d5o2XAAxMQebsP5HqEKk0xbHbLkSkYwgLCj0D0foHTMvkGtRD6RHev1bl6-XjJsSwfLSRvQb5kEKcAag13~HVytNhodbWw28~12K5Gsn7mSgr~u7a-QyyQ5h771wZjKRQuDci7UxljDqWp55f3NSiAeE2F51XW~pSwP0w27oIpUss2bJuPqv9IWi6tYGBP3N~GUlZ2cf7~SbJTbhBhk9FV0UT6r4SD~2tFloAy9JpyXBD4RrTbljU-dK9VxzHIclViEf7CLzUu8-PJYnRHy9rxAratzCh4Q-zg6cD~G9jw__"
     }
-   ],
-   "url": "media/e29n90/voz/893532dcee.mp3"
+   ]
   },
   {
    "k": "N",
@@ -3528,6 +5685,32 @@
    "out": 11.0
   },
   {
+   "k": "M",
+   "track": "tema",
+   "secs": 4.5,
+   "shots": [
+    {
+     "card": {
+      "type": "dijo",
+      "left": {
+       "label": "2018",
+       "date": "31/05/2018",
+       "text": "«Dimita, señor Rajoy, y todo terminará»"
+      },
+      "right": {
+       "label": "2026",
+       "date": "19/11/2026",
+       "text": "«Pido perdón… somos gente limpia»",
+       "source": "Señal del Congreso · RTVE"
+      },
+      "red": true,
+      "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+      "bgt": 12.0
+     }
+    }
+   ]
+  },
+  {
    "k": "N",
    "voice": "TOP",
    "text": "[serious] Pedro Sánchez no ha participado en este documental. Todas sus respuestas son reales, públicas y tienen fecha. Las preguntas eran nuestras. [pause] Las conclusiones no. [short pause] Esas, el veintinueve de noviembre, son de quien vota.",
@@ -3559,10 +5742,10 @@
       "type": "list",
       "header": "Fuentes principales",
       "items": [
-       "Señal del Congreso · RTVE · laSexta · Antena 3 · Cadena SER · La Moncloa",
+       "Señal del Congreso · RTVE · laSexta · Antena 3 · Telecinco · Cadena SER · La Moncloa",
        "BOE · CGPJ · Tribunal Supremo · Tribunal Constitucional · INE",
        "Maldita.es · El País · El Mundo · elDiario.es · Ara · Voz Pópuli · The Objective · Europa Press",
-       "Lista completa, con enlaces, en la descripción"
+       "Cortes con su medio y fecha en pantalla · lista completa con enlaces en la descripción"
       ],
       "bgimg": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
       "bgt": 12.0

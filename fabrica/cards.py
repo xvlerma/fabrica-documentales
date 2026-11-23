@@ -63,7 +63,9 @@ def CASE(s):
 
 def TR(x): return x * THEME.get('tracking', 1.0)
 
+_CURBG = [None]
 def bg(seed=1):
+    if _CURBG[0]: return _photo_bg(_CURBG[0], 0.30)
     if seed in _bgcache: return _bgcache[seed].copy()
     rng = np.random.default_rng(seed)
     n = rng.normal(0, 1, (H // 8, W // 8))
@@ -388,7 +390,7 @@ def f_doc_txt(spec, t, D):
 def f_doc(spec, t, D):
     """Documento real (papiro, inscripción) con acercamiento al detalle y traducción línea a línea."""
     if not spec.get('_path'): return f_doc_txt(spec, t, D)
-    src = _img(spec); fr = bg(spec.get('seed', 71))
+    src = _img(spec); fr = _photo_bg(spec['_path'], 0.22, 14)
     fx, fy, fw, fh = spec.get('focus', [0, 0, 1, 1]); k = ease(t / (D * .5))
     w0, h0 = src.size; vw = _lerp(1, fw, k) * w0; vh = _lerp(1, fh, k) * h0
     cx = _lerp(w0 / 2, (fx + fw / 2) * w0, k); cy = _lerp(h0 / 2, (fy + fh / 2) * h0, k)
@@ -409,7 +411,7 @@ def f_doc(spec, t, D):
         for j, ww in enumerate(wrap(l, font('corm500i', 42), 520)):
             put(fr, text_layer(ww, font('corm500i', 42), CREAM), 1290, y, ease((t - .8 - i * step) / .7), anchor='lm'); y += 54
         y += 26
-    if spec.get('source'): put(fr, text_layer(spec['source'], font('corm500', 28), DIM), 1290, H - 120, ease((t - 1) / .8), anchor='lm')
+    if spec.get('source'): put(fr, text_layer(spec['source'], font('corm500', 36), CREAM), 1290, H - 120, ease((t - 1) / .8), anchor='lm')
     return fr
 
 def f_board(spec, t, D):
@@ -613,7 +615,7 @@ def keyword(word, out):
     im.save(out)
 
 def render_card(spec, dur, out, fade_in=.25, fade_out=.0):
-    N = max(1, round(dur * FPS)); fn = KIND[spec['type']]
+    N = max(1, round(dur * FPS)); fn = KIND[spec['type']]; _CURBG[0] = spec.get('_bg')
     vf = []
     if fade_in: vf.append(f'fade=t=in:st=0:d={fade_in}')
     if fade_out: vf.append(f'fade=t=out:st={N / FPS - fade_out:.3f}:d={fade_out}')
@@ -670,8 +672,21 @@ def end_screen(out, bg_path=None, kit=None):
     fr.convert('RGB').save(out, quality=95)
 
 # ---------- e29n90: piel de plataforma (la entrevista) ----------
-def _flat(seed=5):
-    """Negro plano con grano fino: el fondo de la entrevista."""
+def _photo_bg(path, dark=0.34, blur=7):
+    """Fondo de tarjeta hecho con una imagen real o de recreación, desenfocada y oscurecida: nunca negro vacío."""
+    k = ('pbg', path, dark, blur)
+    if k not in _bgcache:
+        im = Image.open(path).convert('RGB'); sw, sh_ = im.size; sc = max(W / sw, H / sh_)
+        im = im.resize((int(sw * sc) + 1, int(sh_ * sc) + 1), Image.LANCZOS)
+        x0 = (im.width - W) // 2; y0 = (im.height - H) // 2; im = im.crop((x0, y0, x0 + W, y0 + H)).filter(ImageFilter.GaussianBlur(blur))
+        a = np.asarray(im, np.float32) * dark
+        yy, xx = np.mgrid[0:H, 0:W]; v = 1 - 0.35 * (((xx - W / 2) / (W / 2)) ** 2 + ((yy - H / 2) / (H / 2)) ** 2)
+        _bgcache[k] = Image.fromarray(np.clip(a * v[..., None], 0, 255).astype('uint8')).convert('RGBA')
+    return _bgcache[k].copy()
+
+def _flat(seed=5, spec=None):
+    """Negro plano con grano fino; si la tarjeta trae imagen de fondo ('_bg'), esa imagen oscurecida."""
+    if spec and spec.get('_bg'): return _photo_bg(spec['_bg'], spec.get('dark', 0.34))
     k = ('flat', seed)
     if k not in _bgcache:
         rng = np.random.default_rng(seed); base = np.array(BG0, np.float32)
@@ -681,9 +696,9 @@ def _flat(seed=5):
 
 def f_pregunta(spec, t, D):
     """LA PREGUNTA: número arriba en mono, la pregunta se teclea letra a letra con cursor; nada más en pantalla."""
-    fr = _flat(spec.get('seed', 5)); q = spec['text']; cps = spec.get('cps', 16)
+    fr = _flat(spec.get('seed', 5), spec); q = spec['text']; cps = spec.get('cps', 16)
     hdr = spec.get('n', '')
-    if hdr: put(fr, text_layer(hdr, font('display_light', 30), DIM, 0.12), 160, 150, ease(t / .5), anchor='lm')
+    if hdr: put(fr, text_layer(hdr, font('display_light', 38), CREAM, 0.12), 160, 150, ease(t / .5), anchor='lm')
     f = font('cinzel600', spec.get('size', 84)); lines = wrap(q, f, 1600); n = int(max(0, t - .35) * cps)
     y0 = H / 2 - (len(lines) * 112) / 2; shown = 0; cur = None
     for i, l in enumerate(lines):
@@ -694,27 +709,34 @@ def f_pregunta(spec, t, D):
     if (int(t * 2.2) % 2 == 0) or n < sum(len(l) + 1 for l in lines):
         d0 = ImageDraw.Draw(Image.new('RGBA', (1, 1))); cx = 160 + d0.textlength(cur[1], font=f) + 14
         ImageDraw.Draw(fr).rectangle([cx, y0 + cur[0] * 112 - 44, cx + 22, y0 + cur[0] * 112 + 46], fill=CREAM)
-    if spec.get('foot'): put(fr, text_layer(spec['foot'], font('display_light', 26), DIM, 0.12), 160, H - 140, ease((t - .3) / .6), anchor='lm')
+    if spec.get('foot'): put(fr, text_layer(spec['foot'], font('display_light', 36), CREAM, 0.12), 160, H - 140, ease((t - .3) / .6), anchor='lm')
     return fr
 
 def f_aviso(spec, t, D):
     """Aviso legal sobrio: líneas cortas en mono, centradas, sobre negro."""
-    fr = _flat(spec.get('seed', 6)); f = font('display_light', spec.get('size', 38)); lh = int(f.size * 1.6)
+    fr = _flat(spec.get('seed', 6), spec); f = font('display_light', spec.get('size', 40)); lh = int(f.size * 1.6)
     lines = [l for x in spec['lines'] for l in wrap(x, f, 1500)]; y0 = H / 2 - len(lines) * lh / 2
-    for i, l in enumerate(lines): put(fr, text_layer(l, f, CREAM if i == 0 and spec.get('head') else DIM), W / 2, y0 + i * lh, ease((t - .2 - i * .15) / .6))
+    for i, l in enumerate(lines): put(fr, text_layer(l, f, CREAM if (i == 0 and spec.get('head')) or spec.get('bright', True) else DIM), W / 2, y0 + i * lh, ease((t - .2 - i * .15) / .6))
     return fr
 
 def f_dijo(spec, t, D):
     """LO QUE DIJO / LO QUE PASÓ: dos columnas sobre negro, fecha en mono, la segunda entra a mitad."""
-    fr = _flat(spec.get('seed', 7)); d = ImageDraw.Draw(fr); k = ease((t - .1) / .6)
+    fr = _flat(spec.get('seed', 7), spec); d = ImageDraw.Draw(fr); k = ease((t - .1) / .6)
     d.line([(W / 2, H / 2 - 360 * k), (W / 2, H / 2 + 360 * k)], fill=CREAM + (255,), width=2)
     for side, x0, at in (('left', 140, .2), ('right', W / 2 + 100, D * .45)):
         s_ = spec[side]; a = ease((t - at) / .6)
-        put(fr, text_layer(s_.get('label', 'LO QUE DIJO' if side == 'left' else 'LO QUE PASÓ'), font('display_light', 30), DIM, 0.14), x0, 250, a, anchor='lm')
-        put(fr, text_layer(s_.get('date', ''), font('display_light', 34), RED if (side == 'right' and spec.get('red')) else CREAM, 0.06), x0, 305, a, anchor='lm')
+        put(fr, text_layer(s_.get('label', 'LO QUE DIJO' if side == 'left' else 'LO QUE PASÓ'), font('display_light', 36), CREAM, 0.14), x0, 250, a, anchor='lm')
+        put(fr, text_layer(s_.get('date', ''), font('display_light', 40), RED if (side == 'right' and spec.get('red')) else CREAM, 0.06), x0, 310, a, anchor='lm')
         y = 400; fz = font('cinzel600', s_.get('size', 54))
         for ww in wrap(s_['text'], fz, 760): put(fr, text_layer(ww, fz, CREAM), x0, y, a, anchor='lm'); y += int(fz.size * 1.25)
-        if s_.get('source'): put(fr, text_layer(s_['source'], font('display_light', 26), DIM, 0.08), x0, H - 200, a, anchor='lm')
+        if s_.get('source'): put(fr, text_layer(s_['source'], font('display_light', 36), CREAM, 0.06), x0, H - 200, a, anchor='lm')
     return fr
 
 KIND.update(pregunta=f_pregunta, aviso=f_aviso, dijo=f_dijo)
+
+
+def badge(text, out):
+    """Etiqueta fija arriba a la izquierda para imágenes generadas con IA (exigencia de YouTube y de honestidad)."""
+    im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im); f = font('display_light', 34)
+    tw = d.textlength(text, font=f); d.rounded_rectangle([60, 52, 60 + tw + 44, 52 + 58], 8, fill=(0, 0, 0, 170))
+    d.text((82, 60), text, font=f, fill=(237, 234, 228, 255)); im.save(out)

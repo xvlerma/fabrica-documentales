@@ -277,6 +277,13 @@ def resolve(spec, need, credits, pick=None, t=0.0):
                 if o.get('commons'):
                     m = SRC.commons_file(o['commons']); credits.append(('archivo', m)); o['_path'] = SRC.download(m['url'], '.jpg')
                 elif o.get('image'): o['_path'] = fetch(o['image'], '.jpg')
+                if o.get('bgimg') and not o.get('_bg'):
+                    bp = fetch(o['bgimg'], '.jpg')
+                    if bp.endswith(('.mp4', '.mov', '.webm')):
+                        fr_ = bp + f".f{o.get('bgt', 5)}.jpg"
+                        if not os.path.exists(fr_): sh(['ffmpeg', '-loglevel', 'error', '-y', '-ss', str(o.get('bgt', 5)), '-i', bp, '-frames:v', '1', fr_])
+                        bp = fr_
+                    o['_bg'] = bp
                 for v in o.values(): walk(v)
             elif isinstance(o, list):
                 for v in o: walk(v)
@@ -359,7 +366,7 @@ def build_edl_sync(job, U, A):
                 specs = u.get('shots') or [dict(card=dict(type='quote', text=u.get('quote', ''), author=' · '.join(u.get('lt') or []),
                                                           **({'commons': u['photo']} if u.get('photo') else {})))]
             else:
-                specs = [dict(clipv=u['src'], _ss=clip_in(u), lt=u.get('lt'), clip_unit=i, grade=u.get('grade', True))] + (u.get('shots') or [])
+                specs = [dict(clipv=u['src'], _ss=clip_in(u), lt=u.get('lt'), clip_unit=i, grade=u.get('grade', True), **({'lt_at': u['lt_at']} if u.get('lt_at') is not None else {}))] + (u.get('shots') or [])
         else: specs = u.get('shots') or [{'card': {'type': 'title', 'title': job.get('channel', ''), 'sub': job.get('title', '')}}]
         wu = W_.get(i); pos = 0
         for m, s in enumerate(specs):
@@ -481,7 +488,13 @@ def render_shot(sh_, out, workdir):
         base = ['-i', tmp]; vf = 'null'
     elif R['kind'] == 'clip':  # v7: corte real, empieza exactamente en su punto de entrada y a velocidad normal
         base = ['-ss', f"{R['ss'] + sh_.get('clip_off', 0):.3f}", '-i', R['path']]
-        vf = f'scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS},eq=contrast=1.04:saturation=0.92'
+        cu = JOBU[sp['clip_unit']] if sp.get('clip_unit') is not None else {}
+        crop = cu.get('crop'); cf = f'crop=iw*{crop[2]}:ih*{crop[3]}:iw*{crop[0]}:ih*{crop[1]},' if crop else ''
+        bl = f",gblur=sigma={cu['blur']}" if cu.get('blur') else ''
+        vf = f'{cf}scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS},eq=contrast=1.04:saturation=0.92{bl}'
+        if cu.get('fit'):  # vertical u otro formato: entero, centrado, sobre una copia desenfocada (sin barras negras)
+            vf = (f'{cf}split[fa][fb];[fa]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},gblur=sigma=40,eq=brightness=-0.12[fbg];'
+                  f'[fb]scale=-2:{H}:flags=lanczos[ffg];[fbg][ffg]overlay=(W-w)/2:0,fps={FPS},eq=contrast=1.04:saturation=0.92')
     elif R['kind'] == 'video':
         L = R.get('dur') or float(sh(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', R['path']]).strip() or 0)
         slow = min(1.6, max(1.0, dur / max(.5, L - 1.5))) if L else 1.0
@@ -491,6 +504,7 @@ def render_shot(sh_, out, workdir):
         crop = sp.get('crop')  # recorte de franjas negras de origen: [x, y, w, h] relativos
         cf = f'crop=iw*{crop[2]}:ih*{crop[3]}:iw*{crop[0]}:ih*{crop[1]},' if crop else 'cropdetect=limit=24:round=2:reset=0,' if False else ''
         vf = f'setpts={slow:.3f}*PTS,{cf}scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS},' + (GRADE if not R.get('old') else 'eq=contrast=1.05')
+        if sp.get('blur'): vf += f",gblur=sigma={sp['blur']}"
     else:
         p = f'{workdir}/prep_{os.path.basename(R["path"])}.jpg'
         if not os.path.exists(p): prep_still(R['path'], p)
@@ -538,6 +552,11 @@ def render_shot(sh_, out, workdir):
         ins += ['-loop', '1', '-framerate', str(FPS), '-i', kp]
         chain += f';[{k}:v]format=rgba,fade=t=in:st={a0}:d=0.12:alpha=1,fade=t=out:st={a1 - .3:.2f}:d=0.3:alpha=1[o{k}];[{last}][o{k}]overlay=0:0:shortest=1[b{k}]'
         last = f'b{k}'; k += 1
+    if R.get('ai'):
+        rp = f'{workdir}/recreacion.png'
+        if not os.path.exists(rp): CARDS.badge('RECREACIÓN', rp)
+        ins += ['-loop', '1', '-framerate', str(FPS), '-i', rp]
+        chain += f';[{last}][{k}:v]overlay=0:0:shortest=1[b{k}]'; last = f'b{k}'; k += 1
     if BRAND.get('mosca') and R['kind'] != 'card':
         ins += ['-loop', '1', '-framerate', str(FPS), '-i', BRAND['mosca']]
         chain += f';[{last}][{k}:v]overlay=0:0:shortest=1[b{k}]'; last = f'b{k}'; k += 1

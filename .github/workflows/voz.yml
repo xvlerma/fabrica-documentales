@@ -17,7 +17,7 @@ jobs:
       - name: cortar
         run: |
           mkdir -p /tmp/vo
-          if [ "$(sed -n 2p voz/run.txt)" = fix ]; then python3 voz/fix.py 2>&1 | tee /tmp/vo/log.txt; else python3 voz/voz.py /tmp/vo 2>&1 | tee /tmp/vo/log.txt; fi
+          if [ "$(sed -n 2p voz/run.txt)" = cut ]; then python3 voz/cut.py 2>&1 | tee /tmp/vo/log.txt; elif [ "$(sed -n 2p voz/run.txt)" = fix ]; then python3 voz/fix.py 2>&1 | tee /tmp/vo/log.txt; else python3 voz/voz.py /tmp/vo 2>&1 | tee /tmp/vo/log.txt; fi
       - name: entregar
         if: always()
         run: |

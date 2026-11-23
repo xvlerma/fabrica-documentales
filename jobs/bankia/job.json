@@ -437,7 +437,7 @@
  },
  "split_still": 5.0,
  "picks": {},
- "rev": 3,
+ "rev": 4,
  "units": [
   {
    "k": "B",
@@ -530,14 +530,14 @@
      "card": {
       "type": "split",
       "left": {
-       "name": "Cuentas de 2011 · febrero",
+       "title": "Cuentas de 2011 · febrero",
        "lines": [
         "+309 millones",
         "de beneficio"
        ]
       },
       "right": {
-       "name": "Cuentas de 2011 · 25 de mayo",
+       "title": "Cuentas de 2011 · 25 de mayo",
        "lines": [
         "−2.979 millones",
         "de pérdidas"
@@ -1518,14 +1518,14 @@
      "card": {
       "type": "split",
       "left": {
-       "name": "Horquilla inicial",
+       "title": "Horquilla inicial",
        "lines": [
         "4,41 € — 5,05 €",
         "por acción"
        ]
       },
       "right": {
-       "name": "Precio final · 19 de julio",
+       "title": "Precio final · 19 de julio",
        "lines": [
         "3,75 €",
         "por acción"
@@ -2294,13 +2294,13 @@
      "card": {
       "type": "split",
       "left": {
-       "name": "Bankia · 2011",
+       "title": "Bankia · 2011",
        "lines": [
         "−2.979 millones"
        ]
       },
       "right": {
-       "name": "BFA · 2011",
+       "title": "BFA · 2011",
        "lines": [
         "−3.318 millones"
        ]
@@ -2750,13 +2750,13 @@
      "card": {
       "type": "split",
       "left": {
-       "name": "Solicitudes de arbitraje",
+       "title": "Solicitudes de arbitraje",
        "lines": [
         "182.951"
        ]
       },
       "right": {
-       "name": "Aceptadas",
+       "title": "Aceptadas",
        "lines": [
         "137.359"
        ]
@@ -3511,14 +3511,14 @@
      "card": {
       "type": "split",
       "left": {
-       "name": "Vía civil · 2016",
+       "title": "Vía civil · 2016",
        "lines": [
         "El folleto indujo a error",
         "Hay que devolver el dinero"
        ]
       },
       "right": {
-       "name": "Vía penal · 2020-2022",
+       "title": "Vía penal · 2020-2022",
        "lines": [
         "No se prueba ningún delito",
         "Los 34, absueltos"

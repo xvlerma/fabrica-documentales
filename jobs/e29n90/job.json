@@ -76,7 +76,7 @@
   "assets/intro/docuvox.mp4"
  ],
  "seed": 2911,
- "rev": 8,
+ "rev": 9,
  "clip_subs": true,
  "kara_subs": false,
  "clip_model": "small",
@@ -143,6 +143,10 @@
     }
    ],
    "url": "media/e29n90/voz/2eccf2f251.mp3"
+  },
+  {
+   "k": "B",
+   "track": "golpe"
   },
   {
    "k": "C",

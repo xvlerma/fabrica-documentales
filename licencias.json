@@ -1,0 +1,1582 @@
+[
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Fallen (Asper)",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://mixkit.co/free-stock-music/",
+  "url": "https://assets.mixkit.co/music/565/565.mp3",
+  "fecha_descarga": "2026-11-23",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Echoes",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://mixkit.co/free-stock-music/",
+  "url": "https://assets.mixkit.co/music/188/188.mp3",
+  "fecha_descarga": "2026-11-23",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Nield Grohm Hanging 1",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://mixkit.co/free-stock-music/",
+  "url": "https://assets.mixkit.co/music/538/538.mp3",
+  "fecha_descarga": "2026-11-23",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Delirium",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://mixkit.co/free-stock-music/",
+  "url": "https://assets.mixkit.co/music/605/605.mp3",
+  "fecha_descarga": "2026-11-23",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Piano Reflections",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://mixkit.co/free-stock-music/",
+  "url": "https://assets.mixkit.co/music/22/22.mp3",
+  "fecha_descarga": "2026-11-23",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Epical Drums 01",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://mixkit.co/free-stock-music/",
+  "url": "https://assets.mixkit.co/music/676/676.mp3",
+  "fecha_descarga": "2026-11-23",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez a Mariano Rajoy · Cara a cara · 14/12/2015 · Academia de TV",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez a Mariano Rajoy · Cara a cara · 14/12/2015 · Academia de TV",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_39b_usted_no_lo_es.mp4",
+  "url": "media/e29n90/cortes/clip_39b_usted_no_lo_es.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez a Mariano Rajoy · Cara a cara · 14/12/2015 · Academia de TV",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Alberto Núñez Feijóo a Pedro Sánchez · Cara a cara · Academia de Televisión · 19/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Alberto Núñez Feijóo a Pedro Sánchez · Cara a cara · Academia de Televisión · 19/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_39c_feijoo_decente.mp4",
+  "url": "media/e29n90/cortes/clip_39c_feijoo_decente.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Alberto Núñez Feijóo a Pedro Sánchez · Cara a cara · Academia de Televisión · 19/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · Navarra Televisión · 2015",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · Navarra Televisión · 2015",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_35_bildu_no_vamos_a_pactar.mp4",
+  "url": "media/e29n90/cortes/clip_35_bildu_no_vamos_a_pactar.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · Navarra Televisión · 2015",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · laSexta · 19/09/2019",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · laSexta · 19/09/2019",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_31_no_dormiria.mp4",
+  "url": "media/e29n90/cortes/clip_31_no_dormiria.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · laSexta · 19/09/2019",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · Debate electoral · Academia de Televisión · 04/11/2019",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · Debate electoral · Academia de Televisión · 04/11/2019",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_32_traerlo_de_vuelta.mp4",
+  "url": "media/e29n90/cortes/clip_32_traerlo_de_vuelta.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · Debate electoral · Academia de Televisión · 04/11/2019",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "sonido",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RNE · 06/11/2019",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RNE · 06/11/2019",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_22_pues_ya_esta.mp4",
+  "url": "media/e29n90/cortes/clip_22_pues_ya_esta.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RNE · 06/11/2019",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "José Luis Ábalos (PSOE) a Mariano Rajoy · Moción de censura · Congreso · 31/05/2018",
+  "autor": "Fragmento citado con fin de análisis: José Luis Ábalos (PSOE) a Mariano Rajoy · Moción de censura · Congreso · 31/05/2018",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/ext/abalos_mocion_vertical.mp4",
+  "url": "media/e29n90/ext/abalos_mocion_vertical.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: José Luis Ábalos (PSOE) a Mariano Rajoy · Moción de censura · Congreso · 31/05/2018",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · The Wild Project · 13/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · The Wild Project · 13/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_14_mano_en_el_fuego.mp4",
+  "url": "media/e29n90/cortes/clip_14_mano_en_el_fuego.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · The Wild Project · 13/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · La Revuelta · RTVE · 22/10/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · La Revuelta · RTVE · 22/10/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_06_ire_al_hormiguero.mp4",
+  "url": "media/e29n90/cortes/clip_06_ire_al_hormiguero.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · La Revuelta · RTVE · 22/10/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Cara a cara · Academia de Televisión · 19/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Cara a cara · Academia de Televisión · 19/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_01b_pido_perdon_corrupcion.mp4",
+  "url": "media/e29n90/cortes/clip_01b_pido_perdon_corrupcion.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Cara a cara · Academia de Televisión · 19/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · La Moncloa · 14/10/2019",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Moncloa · 14/10/2019",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/co_cumplimiento_integro__02.mp4",
+  "url": "media/e29n90/decl/co_cumplimiento_integro__02.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Moncloa · 14/10/2019",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Debate electoral · Academia de Televisión · 04/11/2019 · vía Cadena SER",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Debate electoral · Academia de Televisión · 04/11/2019 · vía Cadena SER",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/co_referendum_ilegal__01.mp4",
+  "url": "media/e29n90/decl/co_referendum_ilegal__01.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Debate electoral · Academia de Televisión · 04/11/2019 · vía Cadena SER",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Espejo Público · Antena 3 · 17/05/2018",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Espejo Público · Antena 3 · 17/05/2018",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/co_rebelion_2018__01.mp4",
+  "url": "media/e29n90/decl/co_rebelion_2018__01.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Espejo Público · Antena 3 · 17/05/2018",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Cadena SER · 28/06/2021",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Cadena SER · 28/06/2021",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_36_indultos_nunca_cambie.mp4",
+  "url": "media/e29n90/cortes/clip_36_indultos_nunca_cambie.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Cadena SER · 28/06/2021",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "sonido",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · Al Rojo Vivo · laSexta · 10/11/2022 · audio",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · Al Rojo Vivo · laSexta · 10/11/2022 · audio",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_33_no_entra_constitucion.mp4",
+  "url": "media/e29n90/cortes/clip_33_no_entra_constitucion.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · Al Rojo Vivo · laSexta · 10/11/2022 · audio",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · The Wild Project · 13/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · The Wild Project · 13/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_34b_necesidad_virtud_wild.mp4",
+  "url": "media/e29n90/cortes/clip_34b_necesidad_virtud_wild.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · The Wild Project · 13/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "sonido",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · Debate de investidura · Congreso · 15/11/2023 · audio",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · Debate de investidura · Congreso · 15/11/2023 · audio",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_33b_acorde_constitucion.mp4",
+  "url": "media/e29n90/cortes/clip_33b_acorde_constitucion.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · Debate de investidura · Congreso · 15/11/2023 · audio",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Míriam Nogueras (Junts) · Congreso de los Diputados · 2025",
+  "autor": "Fragmento citado con fin de análisis: Míriam Nogueras (Junts) · Congreso de los Diputados · 2025",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_36b_nogueras_bloqueado.mp4",
+  "url": "media/e29n90/cortes/clip_36b_nogueras_bloqueado.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Míriam Nogueras (Junts) · Congreso de los Diputados · 2025",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Carles Puigdemont (Junts) · Perpiñán · 27/10/2025 · vía Cadena SER",
+  "autor": "Fragmento citado con fin de análisis: Carles Puigdemont (Junts) · Perpiñán · 27/10/2025 · vía Cadena SER",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/ul_puigdemont_perpinan__02.mp4",
+  "url": "media/e29n90/decl/ul_puigdemont_perpinan__02.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Carles Puigdemont (Junts) · Perpiñán · 27/10/2025 · vía Cadena SER",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Alberto Núñez Feijóo · Cara a cara · Academia de Televisión · 19/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Alberto Núñez Feijóo · Cara a cara · Academia de Televisión · 19/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/co_feijoo_decente__01.mp4",
+  "url": "media/e29n90/decl/co_feijoo_decente__01.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Alberto Núñez Feijóo · Cara a cara · Academia de Televisión · 19/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · The Wild Project · 13/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · The Wild Project · 13/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_35c_derecho_a_cambiar_de_opinion.mp4",
+  "url": "media/e29n90/cortes/clip_35c_derecho_a_cambiar_de_opinion.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · The Wild Project · 13/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Informativos Telecinco · 16/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Informativos Telecinco · 16/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_35d_horizonte_coherencia.mp4",
+  "url": "media/e29n90/cortes/clip_35d_horizonte_coherencia.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Informativos Telecinco · 16/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · El Hormiguero · Antena 3 · 06/07/2023",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · El Hormiguero · Antena 3 · 06/07/2023",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/ul_cambiado_opinion__01.mp4",
+  "url": "media/e29n90/decl/ul_cambiado_opinion__01.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · El Hormiguero · Antena 3 · 06/07/2023",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Míriam Nogueras (Junts) · Congreso de los Diputados · 12/11/2025 · vía OKDiario",
+  "autor": "Fragmento citado con fin de análisis: Míriam Nogueras (Junts) · Congreso de los Diputados · 12/11/2025 · vía OKDiario",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_36c_nogueras_cinico.mp4",
+  "url": "media/e29n90/cortes/clip_36c_nogueras_cinico.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Míriam Nogueras (Junts) · Congreso de los Diputados · 12/11/2025 · vía OKDiario",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+  "url": "media/e29n90/ext/mocion2018_sanchez_dimita.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "José Luis Ábalos (PSOE) · Moción de censura · Congreso · 31/05/2018 · vía El Debate",
+  "autor": "Fragmento citado con fin de análisis: José Luis Ábalos (PSOE) · Moción de censura · Congreso · 31/05/2018 · vía El Debate",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
+  "url": "media/e29n90/ext/mocion2018_abalos_decencia.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: José Luis Ábalos (PSOE) · Moción de censura · Congreso · 31/05/2018 · vía El Debate",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Mariano Rajoy · Moción de censura · Congreso · 31/05/2018 · vía El Debate",
+  "autor": "Fragmento citado con fin de análisis: Mariano Rajoy · Moción de censura · Congreso · 31/05/2018 · vía El Debate",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_39_rajoy_lecciones.mp4",
+  "url": "media/e29n90/cortes/clip_39_rajoy_lecciones.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Mariano Rajoy · Moción de censura · Congreso · 31/05/2018 · vía El Debate",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "José Luis Ábalos · Vídeo del PSOE · #SoyFeministaPorque · marzo de 2020",
+  "autor": "Fragmento citado con fin de análisis: José Luis Ábalos · Vídeo del PSOE · #SoyFeministaPorque · marzo de 2020",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/ul_abalos_feminista__01.mp4",
+  "url": "media/e29n90/decl/ul_abalos_feminista__01.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: José Luis Ábalos · Vídeo del PSOE · #SoyFeministaPorque · marzo de 2020",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Alberto Núñez Feijóo · Congreso · 09/07/2025 · vía Libertad Digital",
+  "autor": "Fragmento citado con fin de análisis: Alberto Núñez Feijóo · Congreso · 09/07/2025 · vía Libertad Digital",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_18_feijoo_prostibulos.mp4",
+  "url": "media/e29n90/cortes/clip_18_feijoo_prostibulos.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Alberto Núñez Feijóo · Congreso · 09/07/2025 · vía Libertad Digital",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Habla Pedro Sánchez · RESPUESTA REAL · Congreso · 09/07/2025 · La Moncloa",
+  "autor": "Fragmento citado con fin de análisis: Habla Pedro Sánchez · RESPUESTA REAL · Congreso · 09/07/2025 · La Moncloa",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/hls/h16_me_equivoque.mp4",
+  "url": "media/e29n90/hls/h16_me_equivoque.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Habla Pedro Sánchez · RESPUESTA REAL · Congreso · 09/07/2025 · La Moncloa",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Congreso · 09/07/2025 · La Moncloa",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 09/07/2025 · La Moncloa",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/hls/h17_politico_limpio.mp4",
+  "url": "media/e29n90/hls/h17_politico_limpio.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 09/07/2025 · La Moncloa",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "sonido",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Leire Díez (grabación) · Publicada por El Confidencial · febrero de 2025",
+  "autor": "Fragmento citado con fin de análisis: Leire Díez (grabación) · Publicada por El Confidencial · febrero de 2025",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_15_necesito_a_balas.mp4",
+  "url": "media/e29n90/cortes/clip_15_necesito_a_balas.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Leire Díez (grabación) · Publicada por El Confidencial · febrero de 2025",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Habla Pedro Sánchez · RESPUESTA REAL · Congreso · 28/02/2024",
+  "autor": "Fragmento citado con fin de análisis: Habla Pedro Sánchez · RESPUESTA REAL · Congreso · 28/02/2024",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_41b_no_tapa.mp4",
+  "url": "media/e29n90/cortes/clip_41b_no_tapa.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Habla Pedro Sánchez · RESPUESTA REAL · Congreso · 28/02/2024",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Congreso · 18/06/2025",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 18/06/2025",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_15e_corrupcion_cero.mp4",
+  "url": "media/e29n90/cortes/clip_15e_corrupcion_cero.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 18/06/2025",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Congreso · 24/06/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 24/06/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_15g_caso_flagrante.mp4",
+  "url": "media/e29n90/cortes/clip_15g_caso_flagrante.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 24/06/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Congreso · 24/06/2026 · La Moncloa",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 24/06/2026 · La Moncloa",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/hls/h15f_no_financiado.mp4",
+  "url": "media/e29n90/hls/h15f_no_financiado.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 24/06/2026 · La Moncloa",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026 · vía El País",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026 · vía El País",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/ul_manyaneros_chantaje__01.mp4",
+  "url": "media/e29n90/decl/ul_manyaneros_chantaje__01.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026 · vía El País",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Alberto Núñez Feijóo · Cara a cara · Academia de Televisión · 19/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Alberto Núñez Feijóo · Cara a cara · Academia de Televisión · 19/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_20b_sumarios.mp4",
+  "url": "media/e29n90/cortes/clip_20b_sumarios.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Alberto Núñez Feijóo · Cara a cara · Academia de Televisión · 19/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Mercedes Zarzalejo (PP) · Asamblea de Madrid · 13/11/2024 · vía Vozpópuli",
+  "autor": "Fragmento citado con fin de análisis: Mercedes Zarzalejo (PP) · Asamblea de Madrid · 13/11/2024 · vía Vozpópuli",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_19d_1_vinculacion.mp4",
+  "url": "media/e29n90/cortes/clip_19d_1_vinculacion.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Mercedes Zarzalejo (PP) · Asamblea de Madrid · 13/11/2024 · vía Vozpópuli",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Mercedes Zarzalejo (PP) · Asamblea de Madrid · 13/11/2024 · vía Vozpópuli",
+  "autor": "Fragmento citado con fin de análisis: Mercedes Zarzalejo (PP) · Asamblea de Madrid · 13/11/2024 · vía Vozpópuli",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_19d_3_software.mp4",
+  "url": "media/e29n90/cortes/clip_19d_3_software.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Mercedes Zarzalejo (PP) · Asamblea de Madrid · 13/11/2024 · vía Vozpópuli",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Begoña Gómez · Asamblea de Madrid · 13/11/2024 · vía Vozpópuli",
+  "autor": "Fragmento citado con fin de análisis: Begoña Gómez · Asamblea de Madrid · 13/11/2024 · vía Vozpópuli",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_19c_derecho_no_responder.mp4",
+  "url": "media/e29n90/cortes/clip_19c_derecho_no_responder.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Begoña Gómez · Asamblea de Madrid · 13/11/2024 · vía Vozpópuli",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Begoña Gómez · Mitin del PSOE · Sevilla · 12/11/2026 · vía El País",
+  "autor": "Fragmento citado con fin de análisis: Begoña Gómez · Mitin del PSOE · Sevilla · 12/11/2026 · vía El País",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_19a_senoras_de.mp4",
+  "url": "media/e29n90/cortes/clip_19a_senoras_de.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Begoña Gómez · Mitin del PSOE · Sevilla · 12/11/2026 · vía El País",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez y Begoña Gómez · Mitin del PSOE · Sevilla · 12/11/2026 · vía OKDiario",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez y Begoña Gómez · Mitin del PSOE · Sevilla · 12/11/2026 · vía OKDiario",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_04_baile_sevilla_completo.mp4",
+  "url": "media/e29n90/cortes/clip_04_baile_sevilla_completo.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez y Begoña Gómez · Mitin del PSOE · Sevilla · 12/11/2026 · vía OKDiario",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez (con la pregunta) · RESPUESTA REAL · TVE · 01/09/2025",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · TVE · 01/09/2025",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_23_jueces_minoria.mp4",
+  "url": "media/e29n90/cortes/clip_23_jueces_minoria.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · TVE · 01/09/2025",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · G20 Johannesburgo · 23/11/2025 · vía ABC",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · G20 Johannesburgo · 23/11/2025 · vía ABC",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_21_creo_inocencia_fiscal.mp4",
+  "url": "media/e29n90/cortes/clip_21_creo_inocencia_fiscal.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · G20 Johannesburgo · 23/11/2025 · vía ABC",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · Vídeo publicado en sus redes sociales · 01/08/2026 · vía ESdiario",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · Vídeo publicado en sus redes sociales · 01/08/2026 · vía ESdiario",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_24a_playlist.mp4",
+  "url": "media/e29n90/cortes/clip_24a_playlist.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · Vídeo publicado en sus redes sociales · 01/08/2026 · vía ESdiario",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · Vídeo publicado en sus redes sociales · 01/08/2026 · vía ESdiario",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · Vídeo publicado en sus redes sociales · 01/08/2026 · vía ESdiario",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_24b_feliz_verano.mp4",
+  "url": "media/e29n90/cortes/clip_24b_feliz_verano.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · Vídeo publicado en sus redes sociales · 01/08/2026 · vía ESdiario",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Congreso · 03/09/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 03/09/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_26_aviso_rutinario.mp4",
+  "url": "media/e29n90/cortes/clip_26_aviso_rutinario.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 03/09/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · The Wild Project · 13/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · The Wild Project · 13/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_25_no_estaba_de_vacaciones.mp4",
+  "url": "media/e29n90/cortes/clip_25_no_estaba_de_vacaciones.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · The Wild Project · 13/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Congreso · 16/09/2026 · vía Europa Press",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Congreso · 16/09/2026 · vía Europa Press",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_25c_eso_a_vivas.mp4",
+  "url": "media/e29n90/cortes/clip_25c_eso_a_vivas.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Congreso · 16/09/2026 · vía Europa Press",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Hoy por Hoy · Cadena SER · 31/08/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Hoy por Hoy · Cadena SER · 31/08/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_28b_rey_ceuta_melilla.mp4",
+  "url": "media/e29n90/cortes/clip_28b_rey_ceuta_melilla.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Hoy por Hoy · Cadena SER · 31/08/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · La Palma · 20/09/2021 · vía Público",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Palma · 20/09/2021 · vía Público",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_28bx_la_palma_recursos.mp4",
+  "url": "media/e29n90/cortes/clip_28bx_la_palma_recursos.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Palma · 20/09/2021 · vía Público",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Bruselas · 24/06/2022 · La Moncloa",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Bruselas · 24/06/2022 · La Moncloa",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_30b_bien_resuelto.mp4",
+  "url": "media/e29n90/cortes/clip_30b_bien_resuelto.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Bruselas · 24/06/2022 · La Moncloa",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · La Moncloa · 29/04/2025",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Moncloa · 29/04/2025",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_29_operadores_privados.mp4",
+  "url": "media/e29n90/cortes/clip_29_operadores_privados.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Moncloa · 29/04/2025",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Óscar Puente · Ministro de Transportes · 18/01/2026 · vía El Debate",
+  "autor": "Fragmento citado con fin de análisis: Óscar Puente · Ministro de Transportes · 18/01/2026 · vía El Debate",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_08_tremendamente_extrano.mp4",
+  "url": "media/e29n90/cortes/clip_08_tremendamente_extrano.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Óscar Puente · Ministro de Transportes · 18/01/2026 · vía El Debate",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Óscar Puente · Ministro de Transportes · enero de 2026",
+  "autor": "Fragmento citado con fin de análisis: Óscar Puente · Ministro de Transportes · enero de 2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_10b2_bajisima.mp4",
+  "url": "media/e29n90/cortes/clip_10b2_bajisima.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Óscar Puente · Ministro de Transportes · enero de 2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Urda (Toledo) · 28/10/2026 · La Moncloa",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Urda (Toledo) · 28/10/2026 · La Moncloa",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/hls/h10_urda.mp4",
+  "url": "media/e29n90/hls/h10_urda.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Urda (Toledo) · 28/10/2026 · La Moncloa",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Óscar Puente · Congreso · Diputación Permanente · 03/11/2026 · vía AS TV",
+  "autor": "Fragmento citado con fin de análisis: Óscar Puente · Congreso · Diputación Permanente · 03/11/2026 · vía AS TV",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_10d2_renuncio_listas.mp4",
+  "url": "media/e29n90/cortes/clip_10d2_renuncio_listas.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Óscar Puente · Congreso · Diputación Permanente · 03/11/2026 · vía AS TV",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Óscar Puente · Congreso · Diputación Permanente · 03/11/2026 · vía AS TV",
+  "autor": "Fragmento citado con fin de análisis: Óscar Puente · Congreso · Diputación Permanente · 03/11/2026 · vía AS TV",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_10d_no_todos_iguales.mp4",
+  "url": "media/e29n90/cortes/clip_10d_no_todos_iguales.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Óscar Puente · Congreso · Diputación Permanente · 03/11/2026 · vía AS TV",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Funeral de Montserrat Caballé · Barcelona · 08/10/2018 · Antena 3",
+  "autor": "Fragmento citado con fin de análisis: Funeral de Montserrat Caballé · Barcelona · 08/10/2018 · Antena 3",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_04z_1_caballe_2018.mp4",
+  "url": "media/e29n90/cortes/clip_04z_1_caballe_2018.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Funeral de Montserrat Caballé · Barcelona · 08/10/2018 · Antena 3",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Funeral de Estado de David Sassoli · Roma · 14/01/2022 · La Moncloa",
+  "autor": "Fragmento citado con fin de análisis: Funeral de Estado de David Sassoli · Roma · 14/01/2022 · La Moncloa",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_04z_2_sassoli_2022.mp4",
+  "url": "media/e29n90/cortes/clip_04z_2_sassoli_2022.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Funeral de Estado de David Sassoli · Roma · 14/01/2022 · La Moncloa",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Funeral de Guillermo Fernández Vara · Olivenza · 06/10/2025 · El Mundo",
+  "autor": "Fragmento citado con fin de análisis: Funeral de Guillermo Fernández Vara · Olivenza · 06/10/2025 · El Mundo",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_04z_3_vara_2025.mp4",
+  "url": "media/e29n90/cortes/clip_04z_3_vara_2025.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Funeral de Guillermo Fernández Vara · Olivenza · 06/10/2025 · El Mundo",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Misa de León XIV · Sagrada Familia · 10/06/2026 · La Moncloa",
+  "autor": "Fragmento citado con fin de análisis: Misa de León XIV · Sagrada Familia · 10/06/2026 · La Moncloa",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_04z_4_papa_2026.mp4",
+  "url": "media/e29n90/cortes/clip_04z_4_papa_2026.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Misa de León XIV · Sagrada Familia · 10/06/2026 · La Moncloa",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Mitin del PSOE · Sevilla · 12/11/2026 · vía El País",
+  "autor": "Fragmento citado con fin de análisis: Mitin del PSOE · Sevilla · 12/11/2026 · vía El País",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_04c_te_quiero_mitin.mp4",
+  "url": "media/e29n90/cortes/clip_04c_te_quiero_mitin.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Mitin del PSOE · Sevilla · 12/11/2026 · vía El País",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "María Jesús Montero y Begoña Gómez · Mitin del PSOE · Sevilla · 12/11/2026 · vía OKDiario",
+  "autor": "Fragmento citado con fin de análisis: María Jesús Montero y Begoña Gómez · Mitin del PSOE · Sevilla · 12/11/2026 · vía OKDiario",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_04b_baile_montero_completo.mp4",
+  "url": "media/e29n90/cortes/clip_04b_baile_montero_completo.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: María Jesús Montero y Begoña Gómez · Mitin del PSOE · Sevilla · 12/11/2026 · vía OKDiario",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Alberto Núñez Feijóo · Cara a cara · Academia de Televisión · 19/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Alberto Núñez Feijóo · Cara a cara · Academia de Televisión · 19/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_01c_feijoo_perdon_toledo.mp4",
+  "url": "media/e29n90/cortes/clip_01c_feijoo_perdon_toledo.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Alberto Núñez Feijóo · Cara a cara · Academia de Televisión · 19/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "José Luis Rodríguez Zapatero · Mitin del PSOE · vía Vozpópuli",
+  "autor": "Fragmento citado con fin de análisis: José Luis Rodríguez Zapatero · Mitin del PSOE · vía Vozpópuli",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/ul_zapatero_tener_poco__02.mp4",
+  "url": "media/e29n90/decl/ul_zapatero_tener_poco__02.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: José Luis Rodríguez Zapatero · Mitin del PSOE · vía Vozpópuli",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "José Luis Rodríguez Zapatero · Entrevista · Mañaneros 360 · TVE · 23/07/2026",
+  "autor": "Fragmento citado con fin de análisis: José Luis Rodríguez Zapatero · Entrevista · Mañaneros 360 · TVE · 23/07/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_14b_no_hable_con_nadie.mp4",
+  "url": "media/e29n90/cortes/clip_14b_no_hable_con_nadie.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: José Luis Rodríguez Zapatero · Entrevista · Mañaneros 360 · TVE · 23/07/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · La Moncloa · julio de 2026 · vía elDiario.es",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Moncloa · julio de 2026 · vía elDiario.es",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_14c_perifrastica.mp4",
+  "url": "media/e29n90/cortes/clip_14c_perifrastica.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Moncloa · julio de 2026 · vía elDiario.es",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Bruselas · 18/06/2026 · vía Libertad Digital",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Bruselas · 18/06/2026 · vía Libertad Digital",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/ar_sanchez_apoyo_zp__01.mp4",
+  "url": "media/e29n90/decl/ar_sanchez_apoyo_zp__01.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Bruselas · 18/06/2026 · vía Libertad Digital",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · La Moncloa · julio de 2026 · vía elDiario.es",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Moncloa · julio de 2026 · vía elDiario.es",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/ar_sanchez_perifrastica__01.mp4",
+  "url": "media/e29n90/decl/ar_sanchez_perifrastica__01.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Moncloa · julio de 2026 · vía elDiario.es",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez (con la pregunta) · RESPUESTA REAL · TVE · 09/09/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · TVE · 09/09/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_14a_contar_con_jose_luis.mp4",
+  "url": "media/e29n90/cortes/clip_14a_contar_con_jose_luis.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · TVE · 09/09/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Congreso del PSOE de Canarias · 26/01/2025 · Antena 3",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso del PSOE de Canarias · 26/01/2025 · Antena 3",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_12b_admirador_torres.mp4",
+  "url": "media/e29n90/cortes/clip_12b_admirador_torres.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso del PSOE de Canarias · 26/01/2025 · Antena 3",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Emiliano García-Page (PSOE) · Presidente de Castilla-La Mancha · El Hormiguero · Antena 3 · febrero de 2026",
+  "autor": "Fragmento citado con fin de análisis: Emiliano García-Page (PSOE) · Presidente de Castilla-La Mancha · El Hormiguero · Antena 3 · febrero de 2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_20f_page_felipe.mp4",
+  "url": "media/e29n90/cortes/clip_20f_page_felipe.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Emiliano García-Page (PSOE) · Presidente de Castilla-La Mancha · El Hormiguero · Antena 3 · febrero de 2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · La Moncloa · 23/05/2020",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Moncloa · 23/05/2020",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/co_vencido_virus__02.mp4",
+  "url": "media/e29n90/decl/co_vencido_virus__02.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · La Moncloa · 23/05/2020",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Congreso · 18/12/2024 · vía La Vanguardia",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 18/12/2024 · vía La Vanguardia",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_36bx_bulo_boe.mp4",
+  "url": "media/e29n90/cortes/clip_36bx_bulo_boe.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 18/12/2024 · vía La Vanguardia",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Míriam Nogueras (Junts) · Congreso de los Diputados",
+  "autor": "Fragmento citado con fin de análisis: Míriam Nogueras (Junts) · Congreso de los Diputados",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/ul_nogueras_bloqueada__02.mp4",
+  "url": "media/e29n90/decl/ul_nogueras_bloqueada__02.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Míriam Nogueras (Junts) · Congreso de los Diputados",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "María Jesús Montero (PSOE) · 06/10/2026 · vía Libertad Digital",
+  "autor": "Fragmento citado con fin de análisis: María Jesús Montero (PSOE) · 06/10/2026 · vía Libertad Digital",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_37b_contra_la_oposicion.mp4",
+  "url": "media/e29n90/cortes/clip_37b_contra_la_oposicion.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: María Jesús Montero (PSOE) · 06/10/2026 · vía Libertad Digital",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Al Rojo Vivo · laSexta · 20/02/2024",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Al Rojo Vivo · laSexta · 20/02/2024",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_37f_fachosfera_existe.mp4",
+  "url": "media/e29n90/cortes/clip_37f_fachosfera_existe.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez (con la pregunta) · RESPUESTA REAL · Al Rojo Vivo · laSexta · 20/02/2024",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Congreso · 09/09/2026 · vía elDiario.es",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 09/09/2026 · vía elDiario.es",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_26f_perro_sin_amo.mp4",
+  "url": "media/e29n90/cortes/clip_26f_perro_sin_amo.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Congreso · 09/09/2026 · vía elDiario.es",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_26c_ningun_chantaje.mp4",
+  "url": "media/e29n90/cortes/clip_26c_ningun_chantaje.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Mañaneros 360 · TVE · 09/09/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Donald Trump · Cumbre de la OTAN · Ankara · 08/07/2026",
+  "autor": "Fragmento citado con fin de análisis: Donald Trump · Cumbre de la OTAN · Ankara · 08/07/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_26d_trump_espana.mp4",
+  "url": "media/e29n90/cortes/clip_26d_trump_espana.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Donald Trump · Cumbre de la OTAN · Ankara · 08/07/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Cumbre de la OTAN · Ankara · 08/07/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Cumbre de la OTAN · Ankara · 08/07/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_26e_con_creces.mp4",
+  "url": "media/e29n90/cortes/clip_26e_con_creces.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Cumbre de la OTAN · Ankara · 08/07/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Irene Montero (Podemos) · Mitin de Podemos · Zaragoza · 31/01/2026 · vía AS TV",
+  "autor": "Fragmento citado con fin de análisis: Irene Montero (Podemos) · Mitin de Podemos · Zaragoza · 31/01/2026 · vía AS TV",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_18c_que_voten.mp4",
+  "url": "media/e29n90/cortes/clip_18c_que_voten.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Irene Montero (Podemos) · Mitin de Podemos · Zaragoza · 31/01/2026 · vía AS TV",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Irene Montero (Podemos) · Mitin de Podemos · Zaragoza · 31/01/2026 · vía AS TV",
+  "autor": "Fragmento citado con fin de análisis: Irene Montero (Podemos) · Mitin de Podemos · Zaragoza · 31/01/2026 · vía AS TV",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_18bx_barrer_fachas.mp4",
+  "url": "media/e29n90/cortes/clip_18bx_barrer_fachas.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Irene Montero (Podemos) · Mitin de Podemos · Zaragoza · 31/01/2026 · vía AS TV",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Entrevista en los diarios de Vocento · TVE · abril de 2023",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Entrevista en los diarios de Vocento · TVE · abril de 2023",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/decl/co_si_es_si_perdon__01.mp4",
+  "url": "media/e29n90/decl/co_si_es_si_perdon__01.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Entrevista en los diarios de Vocento · TVE · abril de 2023",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · Cara a cara · Academia de Televisión · 19/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · Cara a cara · Academia de Televisión · 19/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_02_millon_viviendas.mp4",
+  "url": "media/e29n90/cortes/clip_02_millon_viviendas.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · Cara a cara · Academia de Televisión · 19/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez · RESPUESTA REAL · Foro de fondos europeos · 16/05/2024 · vía Libertad Digital",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Foro de fondos europeos · 16/05/2024 · vía Libertad Digital",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_37c_cohete.mp4",
+  "url": "media/e29n90/cortes/clip_37c_cohete.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez · RESPUESTA REAL · Foro de fondos europeos · 16/05/2024 · vía Libertad Digital",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Maricarmen, vecina desahuciada (rostro difuminado) · Imágenes difundidas por ESdiario · septiembre de 2026",
+  "autor": "Fragmento citado con fin de análisis: Maricarmen, vecina desahuciada (rostro difuminado) · Imágenes difundidas por ESdiario · septiembre de 2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_37g_maricarmen.mp4",
+  "url": "media/e29n90/cortes/clip_37g_maricarmen.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Maricarmen, vecina desahuciada (rostro difuminado) · Imágenes difundidas por ESdiario · septiembre de 2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "sonido",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pablo Motos · El Hormiguero · Antena 3 · 11/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Pablo Motos · El Hormiguero · Antena 3 · 11/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_07_motos_cobardia.mp4",
+  "url": "media/e29n90/cortes/clip_07_motos_cobardia.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pablo Motos · El Hormiguero · Antena 3 · 11/11/2026",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "vídeo",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Alba Carrillo (pregunta) · Fuera de control · La Séptima · 15/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Alba Carrillo (pregunta) · Fuera de control · La Séptima · 15/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_05_chulazo.mp4",
+  "url": "media/e29n90/cortes/clip_05_chulazo.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Alba Carrillo (pregunta) · Fuera de control · La Séptima · 15/11/2026",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ },
+ {
+  "tipo": "sonido",
+  "fuente": "cita",
+  "nombre_fuente": "Cita audiovisual (art. 32 LPI)",
+  "titulo": "Pedro Sánchez a Carlos Franganillo · Informativos Telecinco · 16/11/2026",
+  "autor": "Fragmento citado con fin de análisis: Pedro Sánchez a Carlos Franganillo · Informativos Telecinco · 16/11/2026",
+  "licencia": "Cita con fin de análisis y crítica (art. 32 LPI)",
+  "pagina": "media/e29n90/cortes/clip_05b_mal_informado.mp4",
+  "url": "media/e29n90/cortes/clip_05b_mal_informado.mp4",
+  "fecha_descarga": "2026-11-23",
+  "credito": "Fragmento citado con fin de análisis: Pedro Sánchez a Carlos Franganillo · Informativos Telecinco · 16/11/2026",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "fragmento breve, con fuente en pantalla y en la descripción; no es una licencia: puede recibir reclamaciones de Content ID"
+ }
+]

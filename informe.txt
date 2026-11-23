@@ -1,0 +1,198 @@
+== piel: Especial de investigación política, estilo serie de plataforma · etalonaje neutro
+== 1/5 audio: colocando voces, música y efectos
+voz: 33.7 min, 4902 palabras narrador, total 55.6 min
+   alineación: 272 unidades (12 con whisper, resto en caché o proporcional)
+== 2/5 guion visual
+  aviso ancla no encontrada (unidad 146): "pitos"
+  aviso anclas muy juntas en t=777.1s: se retrasa "cuatro"
+  aviso anclas muy juntas en t=1822.9s: se retrasa "La Mareta"
+  aviso anclas muy juntas en t=2004.0s: se retrasa "muertos"
+  aviso anclas muy juntas en t=2416.8s: se retrasa "cincuenta y tres"
+  sincronía: plano 3 t=20.1s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 4 t=24.3s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 5 t=30.3s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 7 t=42.2s: rótulo "José Luis Ábalos (PSOE) a Mariano Rajoy" sin mención en ±2 s
+  sincronía: plano 8 t=46.5s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 9 t=51.2s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 12 t=74.7s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 12 t=74.7s: dura 16.2 s; añade un plano o una tarjeta
+  sincronía: plano 20 t=146.5s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 25 t=189.2s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 25 t=189.2s: dura 11.0 s; añade un plano o una tarjeta
+  sincronía: plano 27 t=214.2s: dura 13.7 s; añade un plano o una tarjeta
+  sincronía: plano 29 t=231.7s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 29 t=231.7s: dura 12.5 s; añade un plano o una tarjeta
+  sincronía: plano 32 t=252.6s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 33 t=256.3s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 33 t=256.3s: dura 12.3 s; añade un plano o una tarjeta
+  sincronía: plano 35 t=279.2s: rótulo "Pedro Sánchez (con la pregunta)" sin mención en ±2 s
+  sincronía: plano 35 t=279.2s: dura 20.1 s; añade un plano o una tarjeta
+  sincronía: plano 39 t=341.1s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 39 t=341.1s: dura 14.0 s; añade un plano o una tarjeta
+  sincronía: plano 42 t=381.7s: dura 11.3 s; añade un plano o una tarjeta
+  sincronía: plano 44 t=404.4s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 44 t=404.4s: dura 11.4 s; añade un plano o una tarjeta
+  sincronía: plano 49 t=437.2s: rótulo "Míriam Nogueras (Junts)" sin mención en ±2 s
+  sincronía: plano 49 t=437.2s: dura 12.4 s; añade un plano o una tarjeta
+  sincronía: plano 50 t=449.7s: rótulo "Carles Puigdemont (Junts)" sin mención en ±2 s
+  sincronía: plano 50 t=449.7s: dura 24.4 s; añade un plano o una tarjeta
+  sincronía: plano 52 t=488.7s: rótulo "Alberto Núñez Feijóo" sin mención en ±2 s
+  sincronía: plano 52 t=488.7s: dura 16.1 s; añade un plano o una tarjeta
+  sincronía: plano 54 t=514.7s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 55 t=524.5s: rótulo "Pedro Sánchez (con la pregunta)" sin mención en ±2 s
+  sincronía: plano 55 t=524.5s: dura 24.1 s; añade un plano o una tarjeta
+  sincronía: plano 57 t=562.3s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 57 t=562.3s: dura 12.1 s; añade un plano o una tarjeta
+  sincronía: plano 58 t=574.4s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 58 t=574.4s: dura 15.1 s; añade un plano o una tarjeta
+  sincronía: plano 60 t=594.4s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 60 t=594.4s: dura 16.2 s; añade un plano o una tarjeta
+  sincronía: plano 63 t=632.9s: rótulo "Míriam Nogueras (Junts)" sin mención en ±2 s
+  sincronía: plano 63 t=632.9s: dura 28.5 s; añade un plano o una tarjeta
+  sincronía: plano 66 t=665.1s: rótulo "José Luis Ábalos (PSOE) a Mariano Rajoy" sin mención en ±2 s
+  sincronía: plano 72 t=727.0s: dura 19.4 s; añade un plano o una tarjeta
+  sincronía: plano 74 t=765.8s: dura 10.2 s; añade un plano o una tarjeta
+  sincronía: plano 81 t=822.3s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 81 t=822.3s: dura 24.9 s; añade un plano o una tarjeta
+  sincronía: plano 84 t=858.0s: rótulo "José Luis Ábalos (PSOE)" sin mención en ±2 s
+  sincronía: plano 84 t=858.0s: dura 11.4 s; añade un plano o una tarjeta
+  sincronía: plano 86 t=878.5s: rótulo "Mariano Rajoy" sin mención en ±2 s
+  sincronía: plano 89 t=900.9s: dura 18.6 s; añade un plano o una tarjeta
+  sincronía: plano 93 t=939.4s: rótulo "José Luis Ábalos" sin mención en ±2 s
+  sincronía: plano 94 t=948.8s: dura 14.8 s; añade un plano o una tarjeta
+  sincronía: plano 96 t=968.5s: rótulo "Alberto Núñez Feijóo" sin mención en ±2 s
+  sincronía: plano 96 t=968.5s: dura 14.2 s; añade un plano o una tarjeta
+  sincronía: plano 101 t=1022.5s: rótulo "Habla Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 102 t=1027.6s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 102 t=1027.6s: dura 21.0 s; añade un plano o una tarjeta
+  sincronía: plano 119 t=1181.2s: dura 20.3 s; añade un plano o una tarjeta
+  sincronía: plano 124 t=1240.7s: rótulo "Habla Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 126 t=1248.7s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 128 t=1262.4s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 129 t=1267.8s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 129 t=1267.8s: dura 12.4 s; añade un plano o una tarjeta
+  sincronía: plano 131 t=1284.8s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 131 t=1284.8s: dura 24.3 s; añade un plano o una tarjeta
+  sincronía: plano 134 t=1339.2s: rótulo "Alberto Núñez Feijóo" sin mención en ±2 s
+  sincronía: plano 135 t=1349.0s: dura 14.5 s; añade un plano o una tarjeta
+  sincronía: plano 138 t=1371.8s: dura 19.1 s; añade un plano o una tarjeta
+  sincronía: plano 147 t=1451.0s: rótulo "Mercedes Zarzalejo (PP)" sin mención en ±2 s
+  sincronía: plano 147 t=1451.0s: dura 12.2 s; añade un plano o una tarjeta
+  sincronía: plano 148 t=1463.1s: rótulo "Mercedes Zarzalejo (PP)" sin mención en ±2 s
+  sincronía: plano 149 t=1466.4s: rótulo "Begoña Gómez" sin mención en ±2 s
+  sincronía: plano 149 t=1466.4s: dura 14.8 s; añade un plano o una tarjeta
+  sincronía: plano 152 t=1501.5s: rótulo "Begoña Gómez" sin mención en ±2 s
+  sincronía: plano 153 t=1508.9s: rótulo "Pedro Sánchez y Begoña Gómez" sin mención en ±2 s
+  sincronía: plano 158 t=1580.9s: dura 26.9 s; añade un plano o una tarjeta
+  sincronía: plano 160 t=1620.5s: rótulo "Pedro Sánchez (con la pregunta)" sin mención en ±2 s
+  sincronía: plano 160 t=1620.5s: dura 19.8 s; añade un plano o una tarjeta
+  sincronía: plano 165 t=1688.8s: dura 12.1 s; añade un plano o una tarjeta
+  sincronía: plano 168 t=1721.6s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 169 t=1727.0s: dura 13.1 s; añade un plano o una tarjeta
+  sincronía: plano 182 t=1833.2s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 183 t=1839.6s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 187 t=1859.4s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 191 t=1886.8s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 191 t=1886.8s: dura 14.1 s; añade un plano o una tarjeta
+  sincronía: plano 192 t=1901.0s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 192 t=1901.0s: dura 12.7 s; añade un plano o una tarjeta
+  sincronía: plano 194 t=1922.2s: rótulo "Pedro Sánchez (con la pregunta)" sin mención en ±2 s
+  sincronía: plano 195 t=1927.8s: dura 22.5 s; añade un plano o una tarjeta
+  sincronía: plano 200 t=1971.6s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 200 t=1971.6s: dura 21.2 s; añade un plano o una tarjeta
+  sincronía: plano 209 t=2041.5s: dura 12.6 s; añade un plano o una tarjeta
+  sincronía: plano 213 t=2065.0s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 216 t=2085.1s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 220 t=2125.7s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 221 t=2132.6s: dura 14.3 s; añade un plano o una tarjeta
+  sincronía: plano 225 t=2156.5s: dura 13.0 s; añade un plano o una tarjeta
+  sincronía: plano 227 t=2172.3s: rótulo "Óscar Puente" sin mención en ±2 s
+  sincronía: plano 228 t=2177.7s: rótulo "Óscar Puente" sin mención en ±2 s
+  sincronía: plano 228 t=2177.7s: dura 10.3 s; añade un plano o una tarjeta
+  sincronía: plano 232 t=2210.4s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 232 t=2210.4s: dura 22.7 s; añade un plano o una tarjeta
+  sincronía: plano 234 t=2239.6s: rótulo "Óscar Puente" sin mención en ±2 s
+  sincronía: plano 235 t=2249.3s: rótulo "Óscar Puente" sin mención en ±2 s
+  sincronía: plano 240 t=2299.6s: rótulo "Funeral de Montserrat Caballé" sin mención en ±2 s
+  sincronía: plano 241 t=2301.7s: rótulo "Funeral de Estado de David Sassoli" sin mención en ±2 s
+  sincronía: plano 242 t=2303.7s: rótulo "Funeral de Guillermo Fernández Vara" sin mención en ±2 s
+  sincronía: plano 243 t=2305.8s: rótulo "Misa de León XIV" sin mención en ±2 s
+  sincronía: plano 245 t=2315.9s: rótulo "Mitin del PSOE" sin mención en ±2 s
+  sincronía: plano 246 t=2319.4s: rótulo "María Jesús Montero y Begoña Gómez" sin mención en ±2 s
+  sincronía: plano 248 t=2330.7s: rótulo "Alberto Núñez Feijóo" sin mención en ±2 s
+  sincronía: plano 248 t=2330.7s: dura 12.8 s; añade un plano o una tarjeta
+  sincronía: plano 250 t=2349.3s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 252 t=2359.9s: dura 11.8 s; añade un plano o una tarjeta
+  sincronía: plano 257 t=2402.0s: rótulo "José Luis Rodríguez Zapatero" sin mención en ±2 s
+  sincronía: plano 262 t=2431.5s: rótulo "José Luis Rodríguez Zapatero" sin mención en ±2 s
+  sincronía: plano 262 t=2431.5s: dura 13.2 s; añade un plano o una tarjeta
+  sincronía: plano 264 t=2450.0s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 267 t=2467.0s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 267 t=2467.0s: dura 20.5 s; añade un plano o una tarjeta
+  sincronía: plano 268 t=2487.6s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 268 t=2487.6s: dura 16.8 s; añade un plano o una tarjeta
+  sincronía: plano 270 t=2511.2s: rótulo "Pedro Sánchez (con la pregunta)" sin mención en ±2 s
+  sincronía: plano 272 t=2526.4s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 275 t=2554.6s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 275 t=2554.6s: dura 14.1 s; añade un plano o una tarjeta
+  sincronía: plano 280 t=2598.6s: rótulo "Emiliano García-Page (PSOE)" sin mención en ±2 s
+  sincronía: plano 285 t=2646.1s: dura 11.9 s; añade un plano o una tarjeta
+  sincronía: plano 290 t=2689.3s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 294 t=2723.5s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 297 t=2752.0s: dura 14.4 s; añade un plano o una tarjeta
+  sincronía: plano 303 t=2804.7s: rótulo "María Jesús Montero (PSOE)" sin mención en ±2 s
+  sincronía: plano 305 t=2829.6s: rótulo "Pedro Sánchez (con la pregunta)" sin mención en ±2 s
+  sincronía: plano 305 t=2829.6s: dura 22.1 s; añade un plano o una tarjeta
+  sincronía: plano 308 t=2863.7s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 308 t=2863.7s: dura 10.8 s; añade un plano o una tarjeta
+  sincronía: plano 309 t=2874.5s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 311 t=2891.9s: rótulo "Donald Trump" sin mención en ±2 s
+  sincronía: plano 311 t=2891.9s: dura 12.2 s; añade un plano o una tarjeta
+  sincronía: plano 312 t=2904.1s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 314 t=2931.5s: rótulo "Irene Montero (Podemos)" sin mención en ±2 s
+  sincronía: plano 314 t=2931.5s: dura 11.5 s; añade un plano o una tarjeta
+  sincronía: plano 315 t=2943.0s: dura 12.5 s; añade un plano o una tarjeta
+  sincronía: plano 318 t=2980.4s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 319 t=2989.1s: dura 13.1 s; añade un plano o una tarjeta
+  sincronía: plano 320 t=3002.2s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 323 t=3018.7s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 326 t=3049.0s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 326 t=3049.0s: dura 10.5 s; añade un plano o una tarjeta
+  sincronía: plano 331 t=3096.6s: rótulo "Maricarmen, vecina desahuciada (rostro difuminado)" sin mención en ±2 s
+  sincronía: plano 334 t=3120.8s: rótulo "Pedro Sánchez (con la pregunta)" sin mención en ±2 s
+  sincronía: plano 339 t=3149.1s: rótulo "Alba Carrillo (pregunta)" sin mención en ±2 s
+  sincronía: plano 342 t=3165.5s: dura 13.3 s; añade un plano o una tarjeta
+  sincronía: plano 343 t=3178.9s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 348 t=3228.4s: dura 24.4 s; añade un plano o una tarjeta
+  sincronía: plano 349 t=3252.8s: dura 10.9 s; añade un plano o una tarjeta
+  sincronía: plano 350 t=3263.7s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 350 t=3263.7s: dura 14.4 s; añade un plano o una tarjeta
+  sincronía: plano 351 t=3278.1s: dura 15.1 s; añade un plano o una tarjeta
+  sincronía: plano 352 t=3293.3s: rótulo "Pedro Sánchez" sin mención en ±2 s
+  sincronía: plano 352 t=3293.3s: dura 11.4 s; añade un plano o una tarjeta
+   356 planos
+== 3/5 buscando y descargando material
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/356
+   plano 20/356
+   plano 40/356
+   plano 60/356
+   plano 80/356
+   plano 100/356
+   plano 120/356
+   plano 140/356
+   plano 160/356
+   plano 180/356
+   plano 200/356
+   plano 220/356
+   plano 240/356
+   plano 260/356
+   plano 280/356
+   plano 300/356
+   plano 320/356
+   plano 340/356
+== 5/5 montaje final
+== licencias: PUBLICAR SÍ · 0 bloqueos · 0 avisos (licencias_estado.txt)
+   hojas de sincronía: 15
+FIN: jobs/e29n90/out/e29n90.mp4 · 56.0 min · 275 MB

@@ -1,84 +1,13 @@
 [
  {
-  "src": "ef5f6f6a0d",
-  "start": null,
-  "end": "Seis años",
-  "text": "Al día siguiente rectificó: dijo que no había sido preciso. [pause]",
-  "key": "6a3255f9c6",
-  "voice": "TOP",
-  "old": 142
- },
- {
-  "src": "ef5f6f6a0d",
-  "start": "Seis años",
-  "end": null,
-  "text": "Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Hubo votos particulares. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden.",
-  "key": "c47fe64c3e",
-  "voice": "TOP",
-  "old": 142
- },
- {
   "src": "54a2a964a3",
   "start": "Veintinueve de octubre",
   "end": null,
   "text": "Veintinueve de octubre de dos mil veinticuatro. Valencia. La DANA. Doscientos treinta muertos en tres comunidades, según el balance oficial de La Moncloa de diciembre.",
   "key": "4e74ed4877",
   "voice": "TOP",
-  "old": 170
- },
- {
-  "src": "a538129fb4",
-  "start": null,
-  "end": "En Madrid",
-  "text": "La Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios.",
-  "key": "550079c727",
-  "voice": "NEW",
-  "old": 173
- },
- {
-  "src": "4e6f66b335",
-  "start": null,
-  "end": "Y tres años",
-  "text": "El Gobierno atribuyó la agresión a grupos ultras organizados, y defendió que la seguridad aconsejaba sacar al presidente. [pause]",
-  "key": "0859f94c6c",
-  "voice": "NEW",
-  "old": 175
- },
- {
-  "src": "9c80bbca0a",
-  "start": "Y en enero",
-  "end": null,
-  "text": "Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles.",
-  "key": "18a9dad131",
-  "voice": "TOP",
-  "old": 183
- },
- {
-  "src": "b2bab4971e",
-  "start": "Porque las causas",
-  "end": null,
-  "text": "Porque las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa.",
-  "key": "5ac8ddbcb7",
-  "voice": "TOP",
-  "old": 115
- },
- {
-  "src": "1d3fe915d2",
-  "start": null,
-  "end": "y habla de",
-  "text": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. Ese día el presidente viaja a Urda.",
-  "key": "4f5b28b3a2",
-  "voice": "TOP",
-  "old": 191
- },
- {
-  "src": "e4bf012afe",
-  "start": null,
-  "end": "Su portavoz",
-  "text": "Junts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, rompió con el Gobierno.",
-  "key": "a6ba9b1282",
-  "voice": "TOP",
-  "old": 44
+  "old": 170,
+  "wstart": "29 de octubre"
  },
  {
   "src": "a131f210d5",
@@ -87,15 +16,7 @@
   "text": "Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España».",
   "key": "10a7a11678",
   "voice": "NEW",
-  "old": 46
- },
- {
-  "src": "c1da05ea93",
-  "start": null,
-  "end": "Y le exige",
-  "text": "[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, Sánchez defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel.",
-  "key": "59c36d0594",
-  "voice": "TOP",
-  "old": 71
+  "old": 46,
+  "wend": "Feijó abrió"
  }
 ]

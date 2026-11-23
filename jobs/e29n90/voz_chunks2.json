@@ -1,0 +1,96 @@
+[
+ {
+  "id": "w00",
+  "voice": "TOP",
+  "units": [
+   {
+    "key": "1aaaf6be60",
+    "text": "Junts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, desde Perpiñán, Carles Puigdemont anunció que rompía con el Gobierno."
+   },
+   {
+    "key": "2fbc9237b9",
+    "text": "[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, el PSOE defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel. Desde la tribuna, su secretario de Organización, José Luis Ábalos, habla de decencia."
+   },
+   {
+    "key": "c9fba7f3f0",
+    "text": "[serious] El Partido Socialista no se ha financiado irregularmente. [pause] Es lo que sostiene el PSOE. En octubre de dos mil veintiséis, según informó el diario Ara, la Fiscalía Anticorrupción vio indicios contra el partido, pero consideró prematuro imputarlo. El PSOE, como organización, no está imputado."
+   },
+   {
+    "key": "c47fe64c3e",
+    "text": "Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Hubo votos particulares. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden."
+   },
+   {
+    "key": "7ab83f80e3",
+    "text": "[serious] Veintinueve de octubre de dos mil veinticuatro. Valencia. La DANA. Doscientos treinta muertos en tres comunidades, según el balance oficial de La Moncloa de diciembre."
+   },
+   {
+    "key": "ad45cb0601",
+    "text": "Casi dos años después, en el verano de dos mil veintiséis, la pregunta volvió. Esta vez, en Ceuta."
+   },
+   {
+    "key": "fc73f32faf",
+    "text": "Y en enero de dos mil veintiséis, la tragedia llegó a un ministerio de su propio Gobierno. [short pause] Sobre raíles."
+   },
+   {
+    "key": "9e044d207f",
+    "text": "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. Ese mismo día, el presidente viajó a Urda."
+   },
+   {
+    "key": "d60f610117",
+    "text": "[serious] Su defensa: la prórroga es legal, también lo dice la Constitución. [pause] Y en septiembre de dos mil veinticuatro, ante el Comité Federal de su partido, según recogió The Objective, el presidente avisó de que gobernaría «con o sin un concurso de un poder legislativo»."
+   },
+   {
+    "key": "f5d3817cba",
+    "text": "[serious] Aquel treinta y uno de mayo de dos mil dieciocho, desde la tribuna del Congreso, Pedro Sánchez le hizo a Mariano Rajoy aquella pregunta."
+   }
+  ],
+  "prompt": "Junts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, desde Perpiñán, Carles Puigdemont anunció que rompía con el Gobierno.\n\n[pause] [pause]\n\n[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, el PSOE defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel. Desde la tribuna, su secretario de Organización, José Luis Ábalos, habla de decencia.\n\n[pause] [pause]\n\n[serious] El Partido Socialista no se ha financiado irregularmente. [pause] Es lo que sostiene el PSOE. En octubre de dos mil veintiséis, según informó el diario Ara, la Fiscalía Anticorrupción vio indicios contra el partido, pero consideró prematuro imputarlo. El PSOE, como organización, no está imputado.\n\n[pause] [pause]\n\nSeis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Hubo votos particulares. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden.\n\n[pause] [pause]\n\n[serious] Veintinueve de octubre de dos mil veinticuatro. Valencia. La DANA. Doscientos treinta muertos en tres comunidades, según el balance oficial de La Moncloa de diciembre.\n\n[pause] [pause]\n\nCasi dos años después, en el verano de dos mil veintiséis, la pregunta volvió. Esta vez, en Ceuta.\n\n[pause] [pause]\n\nY en enero de dos mil veintiséis, la tragedia llegó a un ministerio de su propio Gobierno. [short pause] Sobre raíles.\n\n[pause] [pause]\n\n[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. Ese mismo día, el presidente viajó a Urda.\n\n[pause] [pause]\n\n[serious] Su defensa: la prórroga es legal, también lo dice la Constitución. [pause] Y en septiembre de dos mil veinticuatro, ante el Comité Federal de su partido, según recogió The Objective, el presidente avisó de que gobernaría «con o sin un concurso de un poder legislativo».\n\n[pause] [pause]\n\n[serious] Aquel treinta y uno de mayo de dos mil dieciocho, desde la tribuna del Congreso, Pedro Sánchez le hizo a Mariano Rajoy aquella pregunta."
+ },
+ {
+  "id": "w01",
+  "voice": "NEW",
+  "units": [
+   {
+    "key": "0453d267c4",
+    "text": "Dieciocho días después, el quince de noviembre, en el debate de investidura, defendió la ley así."
+   },
+   {
+    "key": "10a7a11678",
+    "text": "Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España»."
+   },
+   {
+    "key": "76ae237cb5",
+    "text": "Y el candidato, Pedro Sánchez, le hizo a Rajoy una pregunta directa."
+   },
+   {
+    "key": "7bc1ec55cb",
+    "text": "[softly] Las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa."
+   },
+   {
+    "key": "9a05f1197e",
+    "text": "Al día siguiente rectificó: dijo que no había sido preciso."
+   },
+   {
+    "key": "550079c727",
+    "text": "La Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios."
+   },
+   {
+    "key": "dfa38582ca",
+    "text": "El Gobierno atribuyó la agresión a grupos ultras organizados, y defendió que la seguridad aconsejaba sacar al presidente."
+   },
+   {
+    "key": "deb0052c73",
+    "text": "Juan Jesús Vivas, del Partido Popular, es el presidente de la ciudad autónoma de Ceuta."
+   },
+   {
+    "key": "d07870de5e",
+    "text": "[softly] Queda la última pregunta. Y es la primera que se hace cualquier votante: qué se prometió. Y qué se cumplió."
+   },
+   {
+    "key": "163749fdba",
+    "text": "Ocho años. Una pandemia, un volcán, una riada, dos tragedias ferroviarias, una crisis en la frontera de Ceuta. Una amnistía. Tres presupuestos prorrogados. Un exministro y su asesor, condenados. Santos Cerdán, investigado. José Luis Rodríguez Zapatero, investigado. Su esposa, procesada. Su hermano, condenado en primera instancia. El fiscal general del Estado, condenado. [pause] Y él, sin imputación alguna. Así lo recuerda siempre. Y es verdad."
+   }
+  ],
+  "prompt": "Dieciocho días después, el quince de noviembre, en el debate de investidura, defendió la ley así.\n\n[pause] [pause]\n\nEste mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España».\n\n[pause] [pause]\n\nY el candidato, Pedro Sánchez, le hizo a Rajoy una pregunta directa.\n\n[pause] [pause]\n\n[softly] Las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa.\n\n[pause] [pause]\n\nAl día siguiente rectificó: dijo que no había sido preciso.\n\n[pause] [pause]\n\nLa Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios.\n\n[pause] [pause]\n\nEl Gobierno atribuyó la agresión a grupos ultras organizados, y defendió que la seguridad aconsejaba sacar al presidente.\n\n[pause] [pause]\n\nJuan Jesús Vivas, del Partido Popular, es el presidente de la ciudad autónoma de Ceuta.\n\n[pause] [pause]\n\n[softly] Queda la última pregunta. Y es la primera que se hace cualquier votante: qué se prometió. Y qué se cumplió.\n\n[pause] [pause]\n\nOcho años. Una pandemia, un volcán, una riada, dos tragedias ferroviarias, una crisis en la frontera de Ceuta. Una amnistía. Tres presupuestos prorrogados. Un exministro y su asesor, condenados. Santos Cerdán, investigado. José Luis Rodríguez Zapatero, investigado. Su esposa, procesada. Su hermano, condenado en primera instancia. El fiscal general del Estado, condenado. [pause] Y él, sin imputación alguna. Así lo recuerda siempre. Y es verdad."
+ }
+]

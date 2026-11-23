@@ -22,9 +22,9 @@ for c in json.load(open('voz/cuts.json')):
         return None
     a, b = 0.0, dur(f)
     if c['start']:
-        k = find(c['start']); a = (W[k - 1][1] + W[k][0]) / 2 if k else 0.0
+        k = find(c.get('wstart', c['start'])); a = (W[k - 1][1] + W[k][0]) / 2 if k else 0.0
     if c['end']:
-        k = find(c['end']); b = (W[k - 1][1] + W[k][0]) / 2 if k else b
+        k = find(c.get('wend', c['end'])); b = (W[k - 1][1] + W[k][0]) / 2 if k else b
         if c['end'] == 'y habla de': b = W[k - 1][1] + 0.08
     o = f"{OUT}/media/e29n90/voz/{c['key']}.mp3"
     subprocess.run(['ffmpeg','-loglevel','error','-y','-ss',f'{a:.3f}','-to',f'{b:.3f}','-i',f,'-af',AF,'-c:a','libmp3lame','-b:a','160k',o])

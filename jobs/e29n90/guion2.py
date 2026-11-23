@@ -111,16 +111,15 @@ C(CO + 'clip_33_no_entra_constitucion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL ·
   shots=[bgc(dict(type='quote', text='«No entra en la legislación ni en la Constitución española»', attrib='Pedro Sánchez · Al Rojo Vivo · laSexta · 10/11/2022 · audio'), *F_MONCLOA19)])
 reuse(41, [ai('hemiciclo_vacio'), bgc(dict(type='seats', title='Investidura · noviembre de 2023', total=350, groups=[['PSOE y socios', 172], ['Junts', 7], ['Resto', 171]]), *F_CONGRESO)])
 C(CO + 'clip_34b_necesidad_virtud_wild.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · The Wild Project · 13/11/2026', 0, 11.0)
-N('NEW', "Dieciocho días después, el quince de noviembre, en el debate de investidura, defendió la ley así.",
-  [aviso(['DEBATE DE INVESTIDURA · 15/11/2023'], *F_CONGRESO)])
+U.append(dict(k='M', track='pulso', secs=3.2, shots=[aviso(['DIECIOCHO DÍAS DESPUÉS', 'DEBATE DE INVESTIDURA · 15/11/2023'], *F_CONGRESO)]))
 C(CO + 'clip_33b_acorde_constitucion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Debate de investidura · Congreso · 15/11/2023 (audio)', 0, 5.9, audio_only=True,
   quote='La amnistía que planteamos es perfectamente legal. Es acorde con la Constitución.',
   shots=[bgc(dict(type='quote', text='«La amnistía que planteamos es perfectamente legal. Es acorde con la Constitución»', attrib='Pedro Sánchez · Congreso · 15/11/2023 · audio'), *F_CONGRESO)])
 reuse(43, [cap('doc_33_BOE_STC_137-2025_amnistia_31-07-2025.jpg', 'STC 137/2025', ['La Constitución no prohíbe la amnistía', 'Inconstitucionalidad parcial · votos particulares'], 'BOE · 31/07/2025')])
-N('TOP', "Junts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, desde Perpiñán, Carles Puigdemont anunció que rompía con el Gobierno.",
+N('TOP', 'Junts votó la investidura. Y dos años después, en octubre de dos mil veinticinco, rompió con el Gobierno.',
   [aviso(['PERPIÑÁN · OCTUBRE DE 2025'], DE + 'ul_puigdemont_perpinan__02.mp4', 95)])
 C(DE + 'ul_puigdemont_perpinan__02.mp4', 'Carles Puigdemont (Junts)', 'Perpiñán · 27/10/2025 · vía Cadena SER', 88.3, 112.3)
-N('NEW', "Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España».",
+N('NEW', 'Este mes, en plena campaña, el propio Puigdemont lo resumió con una frase que publicó El Mundo: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España».',
   [bgc(dict(type='quote', text='«Nos hemos aprovechado de la ambición de Sánchez para derrotar a España»', attrib='Carles Puigdemont · según El Mundo · noviembre de 2026'), DE + 'ul_puigdemont_perpinan__02.mp4', 100)])
 reuse(49, [aviso(['THE WILD PROJECT · 13/11/2026'], *F_WILD)])
 C(CO + 'clip_35c_derecho_a_cambiar_de_opinion.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · The Wild Project · 13/11/2026', 26.6, 36.0)
@@ -137,11 +136,12 @@ reuse(69, [ai('carretera_noche'), ai('coche_lluvia', at='Peugeot'),
            at(bgc(dict(type='board', title='El Peugeot · 2016', nodes=[['Pedro Sánchez', 'candidato'], ['José Luis Ábalos', 'condenado'], ['Santos Cerdán', 'investigado'], ['Koldo García', 'condenado']], links=[[0, 1], [0, 2], [0, 3], [1, 3]], center=True), *F_CONGRESO), 'cuatro hombres')])
 reuse(70, [cap('doc_cierre_Abalos_secretario_Organizacion_EFE_18-06-2017.jpg', 'EFE · 18/06/2017', ['Sánchez elige a Ábalos para Organización'], 'Valencia Plaza (EFE)'),
            cap('doc_cierre_Abalos_Cerdan_area_Organizacion_EFE_18-06-2017.jpg', 'EL ÁREA DE ORGANIZACIÓN', ['Ábalos, con Cerdán dentro'], 'Valencia Plaza (EFE)', at_='Santos Cerdán')])
-N('TOP', "[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, el PSOE defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel. "
-         "Desde la tribuna, su secretario de Organización, José Luis Ábalos, habla de decencia.",
+N('TOP', '[serious] Un año después, el treinta y uno de mayo de dos mil dieciocho, Sánchez defiende en el Congreso la moción de censura contra Mariano Rajoy, tras la sentencia del caso Gürtel.',
   [vid('mocion2018_sanchez_dimita.mp4', 1, base=EX), aviso(['MOCIÓN DE CENSURA · CONGRESO · 31/05/2018'], EX + 'mocion2018_abalos_decencia.mp4', 3, at_='tribuna')])
 C(EX + 'mocion2018_abalos_decencia.mp4', 'José Luis Ábalos (PSOE)', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 2.6, 23.8, crop=[0.0, 0.1, 0.9, 0.9])
-N('NEW', "Y el candidato, Pedro Sánchez, le hizo a Rajoy una pregunta directa.", [vid('mocion2018_sanchez_dimita.mp4', 11, base=EX)])
+reuse(75, [aviso(['JOSÉ LUIS ÁBALOS', 'Secretario de Organización del PSOE · 2018'], EX + 'mocion2018_abalos_decencia.mp4', 6), at(aviso(['MARIANO RAJOY'], EX + 'mocion2018_sanchez_dimita.mp4', 17), 'Rajoy')])
+C(CO + 'clip_39_rajoy_lecciones.mp4', 'Mariano Rajoy', 'Moción de censura · Congreso · 31/05/2018 · vía El Debate', 0, 8.0, crop=[0.0, 0.1, 0.9, 0.9])
+U.append(dict(k='M', track='noche', secs=3.4, shots=[aviso(['Y EL CANDIDATO, PEDRO SÁNCHEZ,', 'LE HIZO UNA PREGUNTA'], EX + 'mocion2018_sanchez_dimita.mp4', 12)]))
 C(EX + 'mocion2018_sanchez_dimita.mp4', 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder', 5.8, 30.3, lt_at=6.0, crop=[0.0, 0.08, 0.9, 0.9])
 reuse(77)
 reuse(78, [ai('pista_aeropuerto_noche'), cap('doc_13_maldita_versiones_Delcy_11-10-2024.jpg', 'LAS VERSIONES DE BARAJAS', ['Las versiones de Ábalos y del Gobierno'], 'Maldita.es · 11/10/2024', at_='Maldita'),
@@ -169,12 +169,10 @@ reuse(67, [aviso(['LA DEFENSA', 'El abogado de Ábalos recurrirá. Pedro Sánche
 reuse(106, [aviso(['CONGRESO · 24/06/2026'], CO + 'clip_15g_caso_flagrante.mp4', 2)])
 C(CO + 'clip_15g_caso_flagrante.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso · 24/06/2026', 0, 5.0)
 C(HL + 'h15f_no_financiado.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Congreso · 24/06/2026 · La Moncloa', 43.3, 55.2)
-N('TOP', "[serious] El Partido Socialista no se ha financiado irregularmente. [pause] Es lo que sostiene el PSOE. "
-         "En octubre de dos mil veintiséis, según informó el diario Ara, la Fiscalía Anticorrupción vio indicios contra el partido, pero consideró prematuro imputarlo. "
-         "El PSOE, como organización, no está imputado.",
+reuse(111,
   [aviso(['LO QUE DICE EL PSOE', '«El PSOE no se ha financiado irregularmente»'], HL + 'h15f_no_financiado.mp4', 48),
    at(aviso(['FISCALÍA ANTICORRUPCIÓN · OCTUBRE DE 2026', 'Indicios, pero «prematuro» imputar al partido · según Ara'], *F_CONGRESO), 'Fiscalía')])
-N('NEW', "[softly] Las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa.", [ai('pasillo_vacio')])
+N('TOP', 'Porque las causas no se quedaron en la sede del partido. [pause] Llegaron a su casa.', [ai('pasillo_vacio')])
 
 # =====================================================================================
 # 3 · ¿POR QUÉ SU FAMILIA ESTÁ EN LOS TRIBUNALES?  (2019 → 2025 / 2024 → 2026)
@@ -197,10 +195,9 @@ reuse(139, [aviso(['TRES ASOCIACIONES DE JUECES RESPONDEN'], CO + 'clip_23_juece
             at(aviso(['RNE · 06/11/2019'], *F_MONCLOA19, size=50), 'Radio Nacional')])
 C(CO + 'clip_22_pues_ya_esta.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · RNE · 06/11/2019 (audio)', 0, 9.8, audio_only=True, quote='¿La Fiscalía de quién depende? (…) Pues ya está.',
   shots=[bgc(dict(type='quote', text='«¿La Fiscalía de quién depende?… Pues ya está»', attrib='Pedro Sánchez · RNE · 06/11/2019 · audio'), *F_MONCLOA19)])
-N('NEW', "Al día siguiente rectificó: dijo que no había sido preciso.", [aviso(['07/11/2019', '«No fui preciso»'], *F_MONCLOA19)])
+N('TOP', 'Al día siguiente rectificó: dijo que no había sido preciso. [pause]', [aviso(['07/11/2019', '«No fui preciso»'], *F_MONCLOA19)])
 reuse(141, [ai('supremo_fachada')])
-N('TOP', "Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. "
-         "Hubo votos particulares. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden.",
+N('TOP', 'Seis años después, el veinte de noviembre de dos mil veinticinco, el Tribunal Supremo condenó al fiscal general del Estado a dos años de inhabilitación y a una multa por revelación de datos reservados. Hubo votos particulares. Y el tribunal no dio por acreditado que el presidente le diera ninguna orden.',
   [aviso(['TRIBUNAL SUPREMO · 20/11/2025', 'Fiscal general del Estado: dos años de inhabilitación y multa'], *F_CONGRESO),
    at(aviso(['Votos particulares', 'No consta ninguna orden del presidente'], *F_CONGRESO), 'votos particulares')])
 reuse(143, [aviso(['G20 · JOHANNESBURGO · 23/11/2025'], CO + 'clip_21_creo_inocencia_fiscal.mp4', 2)])
@@ -212,19 +209,18 @@ reuse(145, [ai('playa_noche_generica')])
 # =====================================================================================
 Q(4, 149, 'Presidente, ¿dónde estaba usted?', *F_DANA)
 B('noche')
-N('TOP', "[serious] Veintinueve de octubre de dos mil veinticuatro. Valencia. La DANA. Doscientos treinta muertos en tres comunidades, según el balance oficial de La Moncloa de diciembre.",
+N('TOP', 'Veintinueve de octubre de dos mil veinticuatro. Valencia. La DANA. Doscientos treinta muertos en tres comunidades, según el balance oficial de La Moncloa de diciembre.',
   [vid('ar_dana_coches__03.mp4', 40), vid('ar_dana_poyo__02.mp4', 6, at='Doscientos treinta')])
 reuse(171, [bgc(dict(type='quote', text='«El Gobierno central está listo para ayudar. Si necesita más recursos, que los pida.»', attrib='Pedro Sánchez · La Moncloa · 02/11/2024'), *F_DANA)])
 reuse(172, [aviso(['10.000 EFECTIVOS MÁS', 'Anunciados en la misma comparecencia'], *F_DANA),
             at(aviso(['LEY 17/2015', 'Emergencia de interés nacional: a iniciativa propia. No se declaró.'], *F_DANA), 'la ley'),
             at(aviso(['LA DEFENSA', 'Era una facultad, no una obligación. La competencia era de la Generalitat.'], *F_DANA), 'defensa')])
-N('NEW', "La Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. "
-         "Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios.",
+N('NEW', 'La Generalitat Valenciana, gobernada por el Partido Popular, también tuvo que responder por aquel día. La alerta a los móviles llegó cuando muchos pueblos ya estaban inundados. Un año después, el tres de noviembre de dos mil veinticinco, el presidente valenciano, Carlos Mazón, dimitió reconociendo errores propios.',
   [vid('ar_dana_poyo__02.mp4', 20), at(aviso(['03/11/2025', 'Dimite Carlos Mazón, presidente de la Generalitat'], *F_DANA), 'Mazón')])
 reuse(174, [vid('ar_paiporta_coche__01.mp4', 3), vid('ar_paiporta_salida__01.mp4', 8, at='Sánchez se va'), vid('ar_paiporta_reyes__03.mp4', 6, at='Los Reyes')])
-N('NEW', "El Gobierno atribuyó la agresión a grupos ultras organizados, y defendió que la seguridad aconsejaba sacar al presidente.",
+N('NEW', 'El Gobierno atribuyó la agresión a grupos ultras organizados, y defendió que la seguridad aconsejaba sacar al presidente. [pause]',
   [aviso(['LA DEFENSA', 'Grupos ultras organizados. La seguridad aconsejaba salir.'], BR + 'ar_paiporta_salida__01.mp4', 8)])
-N('TOP', "Casi dos años después, en el verano de dos mil veintiséis, la pregunta volvió. Esta vez, en Ceuta.", [vid('ar_ceuta_espigon__02.mp4', 12, blur=16)])
+U.append(dict(k='M', track='noche', secs=3.4, shots=[aviso(['VERANO DE 2026', 'CEUTA'], BR + 'ar_ceuta_espigon__02.mp4', 12, size=56)]))
 reuse(151, [cap('doc_26_ceuta_whatsapp_CNI_Moncloa_29-07-2026.jpg', 'CNI · 29/07/2026 · 13:52', ['«Llamamiento para asalto por valla y mar mañana a las 20h»'], 'Documento publicado por La Moncloa · 09/09/2026')])
 reuse(152, [vid('ar_ceuta_espigon__02.mp4', 5, blur=16), vid('ar_ceuta_espigon__02.mp4', 40, at='espigón', blur=16),
             at(bgc(dict(type='counter', to=72000, label='entradas en Ceuta, según Maldita.es y elDiario.es'), BR + 'ar_ceuta_espigon__02.mp4', 20), 'setenta y dos mil'),
@@ -243,9 +239,8 @@ C(DE + 'ul_manyaneros_chantaje__01.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Ma
 C(CO + 'clip_25_no_estaba_de_vacaciones.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · The Wild Project · 13/11/2026', 3.5, 15.7, lt_at=1.2)
 reuse(164, [aviso(['CONGRESO · 16/09/2026'], CO + 'clip_25c_eso_a_vivas.mp4', 3)])
 C(CO + 'clip_25c_eso_a_vivas.mp4', 'Pedro Sánchez (con la pregunta)', 'RESPUESTA REAL · Congreso · 16/09/2026 · vía Europa Press', 0.6, 5.8)
-N('NEW', "Juan Jesús Vivas, del Partido Popular, es el presidente de la ciudad autónoma de Ceuta.",
-  [aviso(['JUAN JESÚS VIVAS', 'Presidente de Ceuta (PP)'], *F_CEUTA)])
-N('TOP', "Y en enero de dos mil veintiséis, la tragedia llegó a un ministerio de su propio Gobierno. [short pause] Sobre raíles.", [ai('carretera_noche')])
+U.append(dict(k='M', track='noche', secs=3.4, shots=[aviso(['JUAN JESÚS VIVAS', 'Presidente de la ciudad autónoma de Ceuta (PP)'], *F_CEUTA)]))
+N('TOP', 'Y en enero de dos mil veintiséis, llegó la tragedia que tocaría a su propio Gobierno. [short pause] Sobre raíles.', [ai('carretera_noche')])
 
 # =====================================================================================
 # 5 · ¿QUIÉN RESPONDE POR LAS VÍAS?  (enero → noviembre de 2026)
@@ -256,8 +251,7 @@ reuse(187, [ai('vias_recta_amanecer'), at(bgc(dict(type='ficha', name='Óscar Pu
 C(CO + 'clip_08_tremendamente_extrano.mp4', 'Óscar Puente', 'Ministro de Transportes · 18/01/2026 · vía El Debate', 0, 4.9, crop=[0.0, 0.1, 0.9, 0.9])
 C(CO + 'clip_10b2_bajisima.mp4', 'Óscar Puente', 'Ministro de Transportes · enero de 2026', 0, 9.9)
 reuse(190, [bgc(dict(type='quote', text='«Si hay algo cercano a la infalibilidad, es la alta velocidad española.»', attrib='Óscar Puente · 20/01/2026'), CO + 'clip_10b2_bajisima.mp4', 4)])
-N('TOP', "[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. "
-         "Ese mismo día, el presidente viajó a Urda.",
+N('TOP', '[serious] Muy baja. Bajísima. [pause] Veintiocho de octubre de dos mil veintiséis. Urda, Toledo. Otro accidente ferroviario. Sesenta y nueve muertos, según la información publicada. Ese día el presidente viaja a Urda.',
   [ai('vias_recta_amanecer'), at(aviso(['URDA (TOLEDO) · 28/10/2026', '69 muertos, según la información publicada'], HL + 'h10_urda.mp4', 220), 'Urda, Toledo')])
 C(HL + 'h10_urda.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Urda (Toledo) · 28/10/2026 · La Moncloa', 211.0, 233.2)
 reuse(193, [aviso(['DIPUTACIÓN PERMANENTE · 03/11/2026'], CO + 'clip_10d2_renuncio_listas.mp4', 8)])
@@ -294,7 +288,7 @@ reuse(228, [aviso(['TVE · 09/09/2026'], CO + 'clip_14a_contar_con_jose_luis.mp4
 C(CO + 'clip_14a_contar_con_jose_luis.mp4', 'Pedro Sánchez (con la pregunta)', 'RESPUESTA REAL · TVE · 09/09/2026', 0, 7.9)
 reuse(230, [aviso(['THE WILD PROJECT · 13/11/2026'], *F_WILD)])
 C(CO + 'clip_14_mano_en_el_fuego.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · The Wild Project · 13/11/2026', 3.7, 12.8, lt_at=0.8)
-N('NEW', "[softly] Queda la última pregunta. Y es la primera que se hace cualquier votante: qué se prometió. Y qué se cumplió.", [ai('urnas')])
+U.append(dict(k='M', track='tema', secs=3.4, shots=[bgc(dict(type='aviso', lines=['La última pregunta.', 'Qué se prometió. Y qué se cumplió.'], head=True, size=52), CO + 'clip_02_millon_viviendas.mp4', 4)]))
 
 # =====================================================================================
 # 7 · ¿QUÉ LE DIRÍA HOY EL PEDRO SÁNCHEZ DE 2018?
@@ -302,8 +296,7 @@ N('NEW', "[softly] Queda la última pregunta. Y es la primera que se hace cualqu
 Q(7, 302, 'Presidente, ¿qué le diría hoy el Pedro Sánchez de 2018?', *F_CONGRESO)
 B('tema')
 reuse(244, [ai('constitucion_libro'), at(bgc(dict(type='timeline', header='Presupuestos', events=[['2023', 'Últimos aprobados'], ['2024', 'Prorrogados'], ['2025', 'Prorrogados'], ['2026', 'Prorrogados']]), *F_CONGRESO), 'prorrogados')])
-N('TOP', "[serious] Su defensa: la prórroga es legal, también lo dice la Constitución. [pause] Y en septiembre de dos mil veinticuatro, ante el Comité Federal de su partido, "
-         "según recogió The Objective, el presidente avisó de que gobernaría «con o sin un concurso de un poder legislativo».",
+reuse(245,
   [aviso(['LA DEFENSA', 'Artículo 134.4: la prórroga es constitucional.'], *F_CONGRESO),
    at(bgc(dict(type='quote', text='«con o sin un concurso de un poder legislativo»', attrib='Pedro Sánchez · Comité Federal del PSOE · septiembre de 2024 · según The Objective'), *F_CONGRESO), 'Comité Federal')])
 reuse(279, [aviso(['LA MONCLOA · 16/05/2024'], CO + 'clip_37c_cohete.mp4', 4)])
@@ -314,13 +307,11 @@ reuse(283, [aviso(['CARA A CARA · RTVE · 19/11/2026'], CO + 'clip_02_millon_vi
 C(CO + 'clip_02_millon_viviendas.mp4', 'Pedro Sánchez', 'RESPUESTA REAL · Cara a cara · RTVE · 19/11/2026', 0.5, 10.5)
 reuse(285, [dijo('19/11/2026', '«Hemos construido un millón de viviendas»', 'DATOS', 'Unas 705.000 viviendas terminadas (752.000 contando 2018)', 'Fuente: Idealista vía Artículo14 · Maldita.es', CO + 'clip_02_millon_viviendas.mp4', 4)])
 reuse(286, [aviso(['TAMBIÉN', 'Feijóo negó su promesa del millón de viviendas (medida 144 de su programa).'], CO + 'clip_39c_feijoo_decente.mp4', 3)])
-N('NEW', "Ocho años. Una pandemia, un volcán, una riada, dos tragedias ferroviarias, una crisis en la frontera de Ceuta. Una amnistía. Tres presupuestos prorrogados. "
-         "Un exministro y su asesor, condenados. Santos Cerdán, investigado. José Luis Rodríguez Zapatero, investigado. Su esposa, procesada. Su hermano, condenado en primera instancia. "
-         "El fiscal general del Estado, condenado. [pause] Y él, sin imputación alguna. Así lo recuerda siempre. Y es verdad.",
+reuse(304,
   [vid('ar_dana_coches__03.mp4', 60), vid('ar_ceuta_espigon__02.mp4', 50, at='Ceuta', blur=16),
-   at(bgc(dict(type='recap', title='Ocho años', items=['Ábalos y Koldo García · condenados', 'Santos Cerdán · investigado', 'Zapatero · investigado', 'Begoña Gómez · procesada', 'David Sánchez · condenado (no firme)', 'Fiscal general del Estado · condenado', 'Pedro Sánchez · sin imputación']), *F_CONGRESO), 'exministro')])
+   at(bgc(dict(type='recap', title='Ocho años', items=['Ábalos y Koldo García · condenados', 'Santos Cerdán (sucesor de Ábalos) · investigado', 'Zapatero · investigado', 'Begoña Gómez · procesada', 'David Sánchez · condenado (no firme)', 'Fiscal general del Estado · condenado', 'Pedro Sánchez · sin imputación']), *F_CONGRESO), 'exministro')])
 reuse(305, [ai('congreso_tribuna_vacia_luz')])
-N('TOP', "[serious] Aquel treinta y uno de mayo de dos mil dieciocho, desde la tribuna del Congreso, Pedro Sánchez le hizo a Mariano Rajoy aquella pregunta.",
+reuse(306,
   [vid('mocion2018_sanchez_dimita.mp4', 1, base=EX)])
 C(EX + 'mocion2018_sanchez_dimita.mp4', 'Pedro Sánchez', 'Moción de censura · Congreso · 31/05/2018 · señal del Congreso vía Cuarto Poder', 16.3, 30.3, lt_at=5.4, crop=[0.0, 0.08, 0.9, 0.9])
 reuse(308, [ai('congreso_noche')])

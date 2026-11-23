@@ -1,0 +1,26 @@
+[
+ {
+  "key": "a31e8ba254",
+  "segs": [
+   [
+    0.0,
+    5.16
+   ]
+  ],
+  "ok": true,
+  "heard": "Quien defendió aquella moción desde la tribuna en nombre del PSOE fue José Luis Ábalos.",
+  "text": "Quien defendió aquella moción desde la tribuna en nombre del PSOE fue José Luis Ábalos."
+ },
+ {
+  "key": "01e9d63488",
+  "segs": [
+   [
+    5.14,
+    12.51
+   ]
+  ],
+  "ok": true,
+  "heard": "Según recuerda Maldita.es, dijo que la presentaban para sacar de la política la corrupción. Rajoy le contestó así.",
+  "text": "Según recuerda Maldita.es, dijo que la presentaban para sacar de la política la corrupción. Rajoy le contestó así."
+ }
+]

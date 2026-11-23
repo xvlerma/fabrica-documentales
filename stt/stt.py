@@ -7,7 +7,8 @@ from faster_whisper import WhisperModel
 src, out = sys.argv[1], sys.argv[2]; os.makedirs(out, exist_ok=True)
 m = WhisperModel(os.environ.get('STT_MODEL', 'small'), device='cpu', compute_type='int8')
 res = {}
-for f in sorted(glob.glob(f'{src}/*.mp4')):
+FL = [l.strip() for l in open(src) if l.strip()] if src.endswith('.txt') else sorted(glob.glob(f'{src}/*.mp4'))
+for f in FL:
     n = os.path.basename(f)
     try:
         segs, info = m.transcribe(pcm(f), language='es', word_timestamps=True, vad_filter=False, beam_size=5)

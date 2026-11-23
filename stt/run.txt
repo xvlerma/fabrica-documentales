@@ -1,2 +1,2 @@
-hls
-hls2
+stt/v3_list.txt
+v3

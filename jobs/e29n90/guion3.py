@@ -16,10 +16,10 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import guion as OLD, guion2 as V2
 # tramos exactos fijados con la transcripción de los cortes (stt v3)
 ABALOS_DECENCIA = (23.4, 27.6); DIMITA = (23.9, 26.7)
-AV = EX + 'abalos_mocion_vertical.mp4'; AV_CROP = [0.34, 0.05, 0.32, 0.70]
 O = OLD.U
 CO = 'media/e29n90/cortes/'; DE = 'media/e29n90/decl/'; BR = 'media/e29n90/broll/'; CA = 'media/e29n90/capturas/'; HL = 'media/e29n90/hls/'; EX = 'media/e29n90/ext/'
 NQ = 10
+AV = EX + 'abalos_mocion_vertical.mp4'; AV_CROP = [0.34, 0.05, 0.32, 0.70]
 U = []; CUTS = []
 md5 = lambda t: hashlib.md5(t.encode()).hexdigest()[:10]
 

@@ -44,6 +44,14 @@ for u in U:
             sh_ = [x for x in u['shots'] if 'ai' not in x and 'ai_key' not in x]
             u['shots'] = [dict(new)] + [x for x in sh_ if x.get('at')]
             print('coherencia:', k_, '->', len(u['shots']), 'planos')
+# formato de tarjetas del motor (timeline: header/events; seats: parties)
+COLS = {'PSOE y socios': [178, 58, 46], 'Junts': [237, 234, 228], 'Resto': [70, 70, 72]}
+for u in U:
+    for s_ in u.get('shots', []):
+        c = s_.get('card') or {}
+        if c.get('type') == 'timeline' and 'events' not in c: c['events'] = c.pop('items'); c['header'] = c.pop('title', '')
+        if c.get('type') == 'seats' and 'parties' not in c:
+            c['parties'] = [{'name': n, 'seats': k, 'color': COLS.get(n, [120, 120, 120])} for n, k in c.pop('groups')]
 faltan = []
 for i, u in enumerate(U):
     for s in u.get('shots', []):

@@ -712,19 +712,34 @@
       "type": "seats",
       "title": "Investidura · noviembre de 2023",
       "total": 350,
-      "groups": [
-       [
-        "PSOE y socios",
-        172
-       ],
-       [
-        "Junts",
-        7
-       ],
-       [
-        "Resto",
-        171
-       ]
+      "parties": [
+       {
+        "name": "PSOE y socios",
+        "seats": 172,
+        "color": [
+         178,
+         58,
+         46
+        ]
+       },
+       {
+        "name": "Junts",
+        "seats": 7,
+        "color": [
+         237,
+         234,
+         228
+        ]
+       },
+       {
+        "name": "Resto",
+        "seats": 171,
+        "color": [
+         70,
+         70,
+         72
+        ]
+       }
       ]
      }
     }
@@ -1144,8 +1159,8 @@
     {
      "card": {
       "type": "timeline",
-      "title": "La caída",
-      "items": [
+      "at": "noventa escaños",
+      "events": [
        [
         "2014",
         "Secretario general"
@@ -1163,7 +1178,7 @@
         "Dimite tras el Comité Federal"
        ]
       ],
-      "at": "noventa escaños"
+      "header": "La caída"
      }
     }
    ],
@@ -3835,8 +3850,8 @@
     {
      "card": {
       "type": "timeline",
-      "title": "Presupuestos",
-      "items": [
+      "at": "prorrogados",
+      "events": [
        [
         "2023",
         "Últimos aprobados"
@@ -3854,7 +3869,7 @@
         "Prorrogados"
        ]
       ],
-      "at": "prorrogados"
+      "header": "Presupuestos"
      }
     }
    ],

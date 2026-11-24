@@ -1,0 +1,25 @@
+{
+ "id": "e29n_clips6",
+ "stage": "clips",
+ "rev": 1,
+ "title": "clips6",
+ "units": [],
+ "music": {},
+ "sources": [
+  {
+   "rtve": "16341559",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r8_aldama_sale_prision_rtve",
+     "phrase": "que no se preocupe el señor sánchez que va a tener pruebas de todo",
+     "min": 0.0,
+     "pad": [
+      40,
+      40
+     ]
+    }
+   ]
+  }
+ ]
+}

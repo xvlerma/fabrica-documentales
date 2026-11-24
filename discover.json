@@ -1,0 +1,3312 @@
+{
+ "Sánchez entrevista RNE aceptará el resultado": {
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20entrevista%20RNE%20aceptar%C3%A1%20el%20resultado&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20entrevista%20RNE%20aceptar%C3%A1%20el%20resultado&size=40": {
+   "n": 271749,
+   "items": [
+    {
+     "id": "17327799",
+     "t": "Entrevista electoral 29N: Pedro Sánchez, candidato del PSOE",
+     "d": "24-11-2026 10:12:11",
+     "dur": "1726360",
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/las-mananas-de-rne/entrevista-electoral-29n-pedro-sanchez-candidato-del-psoe/17327799/"
+    },
+    {
+     "id": "17108656",
+     "t": "Feijóo echa en cara a Sánchez la corrupción y el presidente dice que no aceptará \"ninguna\" lección del partido de la Kitchen",
+     "d": "10-06-2026 09:27:21",
+     "dur": 351080,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/informativo-24h/feijoo-echa-cara-sanchez-casos-corrupcion-presidente-responde-lecciones-ninguna-del-partido-kitchen/17108656/"
+    },
+    {
+     "id": "317141",
+     "t": "El bloque de Timoshenko impugnará los resultados de las presidenciales",
+     "d": "09-02-2010 09:16:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100209/bloque-timoshenko-impugnara-resultados-presidenciales/317141.shtml"
+    },
+    {
+     "id": "17171569",
+     "t": "Hoy empieza todo - Entrevista a María Grande, autora de \"Modo de desempleo\"",
+     "d": "28-07-2026 11:00:00",
+     "dur": 1886694,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/hoy-empieza-todo/hoy-empieza-todo-entrevista-maria-grande-autora-modo-desempleo/17171569/"
+    },
+    {
+     "id": "1295700",
+     "t": "El PP ve \"inverosímil\" que el PSOE pretenda \"formar gobierno con 90 diputados\"",
+     "d": "03-02-2016 09:46:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160203/pp-ve-inverosimil-psoe-pretenda-formar-gobierno-con-90-diputados/1295700.shtml"
+    },
+    {
+     "id": "1642440",
+     "t": "RNE y Ràdio 4 inician este martes las entrevistas electorales del 21-D",
+     "d": "04-12-2017 17:58:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20171204/rne-radio-4-inician-este-martes-entrevistas-electorales-del-21/1642440.shtml"
+    },
+    {
+     "id": "17281565",
+     "t": "Conversatorios en Casa de América - Cruz Sánchez de Lara",
+     "d": "24-10-2026 00:30:00",
+     "dur": 1751680,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/conversatorios-en-casa-de-america/cruz-sanchez-lara/17281565/"
+    },
+    {
+     "id": "1516460",
+     "t": "El candidato opositor Lasso pedirá otro recuento de los votos",
+     "d": "04-04-2017 01:36:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170404/candidato-opositor-lasso-pedira-otro-recuento-votos/1516460.shtml"
+    },
+    {
+     "id": "17321322",
+     "t": "Mediodía RNE Melilla - Grada Rusadir - 16/11/2026",
+     "d": "16-11-2026 13:40:00",
+     "dur": 1740504,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/melilla-informativos/mediodia-rne-melilla-grada-rusadir-16-11-2026/17321322/"
+    },
+    {
+     "id": "1202240",
+     "t": "IAG cierra la compra de la irlandesa Aer Lingus después de que Ryanair aceptara vender su participación",
+     "d": "18-08-2015 19:27:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150818/iag-cierra-compra-irlandesa-aer-lingus-despues-ryanair-aceptara-vender-su-participacion/1202240.shtml"
+    },
+    {
+     "id": "17273092",
+     "t": "Mediodía RNE Melilla - Grada Rusadir - 19/10/2025",
+     "d": "19-10-2026 14:38:25",
+     "dur": 1541976,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/melilla-informativos/mediodia-rne-melilla-grada-rusadir-19-10-2025/17273092/"
+    },
+    {
+     "id": "434050",
+     "t": "El PP gobernará Cantabria pese a que Revilla sale indemne de su pacto con el PSOE",
+     "d": "22-05-2011 22:58:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110522/pp-gobernara-cantabria-pese-a-revilla-sale-indemne-su-pacto-con-psoe/434050.shtml"
+    },
+    {
+     "id": "2401204",
+     "t": "Ingrid García-Jonsson: \"Si crees que la felicidad es un resultado, no lo vas a encontrar nunca\"",
+     "d": "07-09-2022 18:13:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20220907/ingrid-garcia-jonsson-entrevista-nomadas-documental/2401204.shtml"
+    },
+    {
+     "id": "17321008",
+     "t": "Verifica RTVE: \"Vamos a estar verificando el cara a cara en directo\"",
+     "d": "19-11-2026 09:09:00",
+     "dur": 312840,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/verifica-rtve-verificando-cara-cara-directo/17321008/"
+    },
+    {
+     "id": "17313750",
+     "t": "Las entrevistas a Feijóo, Sánchez y Colau de Jordi Wild marcan el primer día de campaña",
+     "d": "13-11-2026 21:53:08",
+     "dur": 80040,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-2/entrevistas-feijoo-sanchez-colau-jordi-wild-marcan-primer-dia-campana/17313750/"
+    },
+    {
+     "id": "2451945",
+     "t": "Abascal carga contra Feijóo: \"Pretende derogar el sanchismo ofreciéndole un pacto a Sánchez\"",
+     "d": "13-07-2023 10:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230713/abascal-feijoo-derogar-sanchismo-pactando-sanchez/2451945.shtml"
+    },
+    {
+     "id": "515183",
+     "t": "RNE logra su mejor resultado en 10 años",
+     "d": "11-04-2012 09:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/radio/20120411/rne-logra-su-mejor-resultado-10-anos/515183.shtml"
+    },
+    {
+     "id": "283170",
+     "t": "El Bayern sigue firme con Ribéry",
+     "d": "02-07-2009 11:36:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20090702/bayern-sigue-firme-con-ribery/283170.shtml"
+    },
+    {
+     "id": "1996032",
+     "t": "Blas Cantó desvela el título de su canción para el Festival de Eurovisión 2020: 'Universo'",
+     "d": "21-01-2020 12:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20200121/blas-canto-desvela-titulo-su-cancion-para-festival-eurovision-2020-universo/1996032.shtml"
+    },
+    {
+     "id": "17305707",
+     "t": "El despertador de RNE - Alejandra Castelló y todas las cosas que no sabías sobre Los Vigilantes de la Playa - 09/11/26",
+     "d": "09-11-2026 04:05:00",
+     "dur": 3301450,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/el-despertador-de-rne/rne-alejandra-castello-todas-cosas-no-sabias-sobre-vigilantes-playa-09-11-26/17305707/"
+    },
+    {
+     "id": "1643691",
+     "t": "Josep Rull, José María Espejo-Saavedra y Lorena Roldán, este viernes en RNE y Ràdio 4",
+     "d": "07-12-2017 16:34:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20171207/josep-rull-jose-maria-espejo-saavedra-lorena-roldan-este-viernes-rne-radio-4/1643691.shtml"
+    },
+    {
+     "id": "2162520",
+     "t": "Izaro: \"Cuantos más idiomas sepas, de más formas puedes amar\"",
+     "d": "20-08-2021 16:47:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20210820/izaro-limones-invierno/2162520.shtml"
+    },
+    {
+     "id": "1651284",
+     "t": "Maillo sobre los resultados del PP en las elecciones catalanas: \"El Gobierno de Rajoy no se estaba examinando\"",
+     "d": "26-12-2017 09:29:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20171226/maillo-sobre-resultados-del-pp-elecciones-catalanas-gobierno-rajoy-no-se-estaba-examinando/1651284.shtml"
+    },
+    {
+     "id": "1643281",
+     "t": "Gerard Gómez, Carlos Carrizosa, Mireia Boya y Andrea Levy, este jueves en RNE y Ràdio 4",
+     "d": "06-12-2017 12:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20171206/gerard-gomez-carlos-carrizosa-mireia-boya-andrea-levy-este-jueves-rne-radio-4/1643281.shtml"
+    },
+    {
+     "id": "1642823",
+     "t": "Marta Ribas, Miquel Iceta, Aurora Madaula y Xavier García Albiol, este miércoles en RNE y Ràdio 4",
+     "d": "05-12-2017 14:29:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20171205/marta-ribas-miquel-iceta-aurora-madaula-xavier-garcia-albiol-este-miercoles-rne-radio-4/1642823.shtml"
+    },
+    {
+     "id": "320187",
+     "t": "La disidente Yoani Sanchez: \"La muerte de Zapata ha servido para unir a la sociedad cubana\"",
+     "d": "24-02-2010 22:04:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100224/la-disidente-yoani-sanchez-la-muerte-de-zapata-ha-servido-para-unir-a-la-sociedad-cubana/320187.shtml"
+    },
+    {
+     "id": "16358044",
+     "t": "Nandi-Ndaitwah se convierte en la primera presidenta de Namibia con el 57% de los votos",
+     "d": "04-12-2024 00:36:17",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241204/nandi-ndaitwah-se-convierte-primera-presidenta-namibia-con-57-votos/16358044.shtml"
+    },
+    {
+     "id": "1326640",
+     "t": "Hernando: Rajoy llamará a Sánchez y espera que \"descuelgue el teléfono\" y asuma \"el resultado electoral\"",
+     "d": "28-03-2016 14:40:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160328/hernando-rajoy-llamara-a-sanchez-espera-descuelgue-telefono/1326640.shtml"
+    },
+    {
+     "id": "2042972",
+     "t": "El Senado de EE.UU. se compromete a garantizar una transición \"pacífica\" del poder si Trump pierde las elecciones",
+     "d": "25-09-2020 07:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20200925/senado-eeuu-se-compromete-a-garantizar-transicion-pacifica-del-poder-si-trump-pierde-elecciones/2042972.shtml"
+    },
+    {
+     "id": "2282260",
+     "t": "Abascal asegura que Vox está dispuesto a pactar con el PP, pero \"nunca gratis\"",
+     "d": "05-02-2022 17:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220205/vox-pactar-pp-castilla-leon/2282260.shtml"
+    },
+    {
+     "id": "17265658",
+     "t": "Entrevista Carlos Sánchez - 14/10/26",
+     "d": "14-10-2026 09:10:00",
+     "dur": 714408,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/canarias-informativos/entrevista-carlos-sanchez-14-10-26/17265658/"
+    },
+    {
+     "id": "16976608",
+     "t": "Sorteo de la Bonoloto del 11/03/2026",
+     "d": "11-03-2026 22:40:00",
+     "dur": 75400,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/loterias/bonoloto-euromillones-11-03-2026/16976608/"
+    },
+    {
+     "id": "376918",
+     "t": "El PP obtiene el mejor resultado de su historia en Cataluña y se consagra como tercera fuerza",
+     "d": "28-11-2010 21:33:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20101128/pp-se-presenta-como-tercera-fuerza-politica-cree-catalanes-han-castigado-proyecto-socialista/376918.shtml"
+    },
+    {
+     "id": "1356690",
+     "t": "Campaña para las Elecciones Generales del 26-J en RTVE",
+     "d": "09-06-2016 13:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20160609/campana-para-elecciones-generales-del-26-rtve/1356690.shtml"
+    },
+    {
+     "id": "1228020",
+     "t": "Los partidos políticos catalanes analizan los resultados del 27S en 'Las mañanas de RNE'",
+     "d": "28-09-2015 10:35:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20150928/partidos-politicos-catalanes-analizan-resultados-del-27s-mananas-rne/1228020.shtml"
+    },
+    {
+     "id": "324733",
+     "t": "Rodríguez Zapatero defiende el \"buen resultado\" que está dando el Estatut de Cataluña",
+     "d": "22-03-2010 21:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100322/rodriguez-zapatero-defiende-el-buen-resultado-que-esta-dando-el-estatut-de-cataluna/324733.shtml"
+    },
+    {
+     "id": "1027044",
+     "t": "Una entrevista inexistente con Patrick Modiano",
+     "d": "10-10-2014 10:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141010/entrevista-inexistente-con-patrick-modiano/1027044.shtml"
+    },
+    {
+     "id": "17280200",
+     "t": "Feijóo no descarta pactar el Gobierno con Vox: \"Mi primer objetivo es que Sánchez se vaya\"",
+     "d": "23-10-2026 12:27:35",
+     "dur": 232800,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/diario-24/feijoo-no-descarta-pactar-vox/17280200/"
+    },
+    {
+     "id": "1449981",
+     "t": "'Las mañanas de RNE' aborda desde Roma los resultados del referéndum constitucional de Italia",
+     "d": "04-12-2016 12:11:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20161204/mananas-rne-aborda-desde-roma-resultados-del-referendum-constitucional-italia/1449981.shtml"
+    },
+    {
+     "id": "1302840",
+     "t": "ERC y DiL se plantearían la abstención \"si Sánchez e Iglesias vienen con el referéndum debajo del brazo\"",
+     "d": "16-02-2016 19:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160216/tarda-a-sanchez-gobierno-progresista-debe-aceptar-derecho-a-decidir-cataluna-nacion/1302840.shtml"
+    }
+   ]
+  }
+ },
+ "Sánchez RNE Las mañanas entrevista": {
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20RNE%20Las%20ma%C3%B1anas%20entrevista&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20RNE%20Las%20ma%C3%B1anas%20entrevista&size=40": {
+   "n": 325733,
+   "items": [
+    {
+     "id": "17321008",
+     "t": "Verifica RTVE: \"Vamos a estar verificando el cara a cara en directo\"",
+     "d": "19-11-2026 09:09:00",
+     "dur": 312840,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/verifica-rtve-verificando-cara-cara-directo/17321008/"
+    },
+    {
+     "id": "17322807",
+     "t": "Entrevista electoral: Míriam Nogueras, candidata de Junts",
+     "d": "20-11-2026 09:38:17",
+     "dur": 861680,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/entrevista-electoral-miriam-nogueras-candidata-junts/17322807/"
+    },
+    {
+     "id": "17322774",
+     "t": "Entrevista electoral: Gabriel Rufián, candidato de ERC",
+     "d": "20-11-2026 09:47:57",
+     "dur": 925040,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/las-mananas-de-rne/entrevista-electoral-gabriel-rufian-candidato-erc/17322774/"
+    },
+    {
+     "id": "17322907",
+     "t": "Colau (Frente Amplio): \"Frente Amplio es garantía de que haya un Gobierno progresista\"",
+     "d": "20-11-2026 10:05:41",
+     "dur": 1126800,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/las-mananas-de-rne/colau-frente-amplio-frente-amplio-garantia-haya-gobierno-progresista/17322907/"
+    },
+    {
+     "id": "16173751",
+     "t": "Marlaska ve \"preocupantes\" las resoluciones sobre Begoña Gómez: \"Se está produciendo una completa indefensión\"",
+     "d": "04-07-2024 10:11:43",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20240704/marlaska-sobre-investigacion-judicial-a-begona-gomez-se-esta-produciendo-completa-indefension/16173751.shtml"
+    },
+    {
+     "id": "17130503",
+     "t": "Ezcurra (PP): \"Pedro Sánchez es un cadáver político\"",
+     "d": "25-06-2026 09:52:28",
+     "dur": 819360,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/ezcurra-pp-pedro-sanchez-cadaver-politico/17130503/"
+    },
+    {
+     "id": "2451945",
+     "t": "Abascal carga contra Feijóo: \"Pretende derogar el sanchismo ofreciéndole un pacto a Sánchez\"",
+     "d": "13-07-2023 10:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230713/abascal-feijoo-derogar-sanchismo-pactando-sanchez/2451945.shtml"
+    },
+    {
+     "id": "2444743",
+     "t": "Garamendi ve \"importantísimo\" el acuerdo salarial con los sindicatos: \"Genera una paz social que traspasa la legislatura\"",
+     "d": "09-05-2023 10:01:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230509/garamendi-acuerdo-salarial-sindicatos/2444743.shtml"
+    },
+    {
+     "id": "2225344",
+     "t": "El PP acusa a Sánchez de crear un \"impuesto al empleo\" con el acuerdo de pensiones",
+     "d": "16-11-2021 09:38:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20211116/pp-acusa-gobierno-impuesto-empleo-acuerdo-pensiones/2225344.shtml"
+    },
+    {
+     "id": "15915424",
+     "t": "Sánchez asegura que las competencias para la expulsión de migrantes corresponden a la Administración Central",
+     "d": "14-01-2024 10:55:22",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240114/sanchez-asegura-competencias-para-expulsion-migrantes-corresponden-a-administracion-central/15915424.shtml"
+    },
+    {
+     "id": "17309014",
+     "t": "El Sindicato de Inquilinas califica de \"súper positivo\" el seguimiento de la huelga por la vivienda",
+     "d": "11-11-2026 08:34:48",
+     "dur": 243174,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/sindicato-inquilinas-califica-super-positivo-seguimiento-huelga-vivienda/17309014/"
+    },
+    {
+     "id": "2411459",
+     "t": "El Gobierno niega una reforma de la malversación \"ad hoc\" para independentistas: \"Contemplará todo tipo de corrupción\"",
+     "d": "12-12-2022 13:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20221212/entrevista-rne-isabel-rodriguez/2411459.shtml"
+    },
+    {
+     "id": "2448053",
+     "t": "El PSOE convoca un Comité Federal para primeros de junio después de la \"derrota\" electoral del 28M",
+     "d": "31-05-2023 10:52:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230531/psoe-comite-federal-primeros-junio/2448053.shtml"
+    },
+    {
+     "id": "2470890",
+     "t": "Podemos defiende su 'no' al decreto de desempleo: \"Han intentado colar un recorte mintiéndonos. No se gobierna así\"",
+     "d": "11-01-2024 09:25:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240111/entrevista-irene-montero-podemos-defiende-no-decreto-subsidio-desempleo/2470890.shtml"
+    },
+    {
+     "id": "2098022",
+     "t": "Celaá abre la puerta a vacunar en los centros educativos \"si se envía allí al personal sanitario\"",
+     "d": "03-06-2021 10:56:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210603/celaa-abre-puerta-a-se-pueda-vacunar-a-adolescentes-centros-educativos-si-se-envia-personal-sanitario/2098022.shtml"
+    },
+    {
+     "id": "2454758",
+     "t": "El Gobierno critica a Feijóo por ir a una investidura \"abocada al fracaso\": \"Tiene a España paralizada durante un mes\"",
+     "d": "29-08-2023 20:45:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230829/robles-critica-feijoo-investidura-entrevista-rne/2454758.shtml"
+    },
+    {
+     "id": "2470222",
+     "t": "Rueda rechaza la protesta contra Sánchez en Ferraz y pide al PSOE la misma condena \"cuando afecta al PP\"",
+     "d": "02-01-2024 11:37:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240102/rueda-rechaza-protesta-contra-sanchez-ferraz/2470222.shtml"
+    },
+    {
+     "id": "2447439",
+     "t": "Azcón (PP) aspira a gobernar Aragón \"en solitario\" y pide al PSOE cambiar el sistema para \"no depender de minorías\"",
+     "d": "25-05-2023 11:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230525/azcon-pp-gobernar-aragon-solitario-pide-psoe-cambiar-sistema-no-depender-minorias/2447439.shtml"
+    },
+    {
+     "id": "2146621",
+     "t": "El PP desconfía de la bilateral Gobierno-Generalitat: \"A saber cuál es la agenda oculta del pacto Sánchez-Aragonès\"",
+     "d": "02-08-2021 09:56:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210802/pp-desconfia-bilateral-gobierno-generalitat-a-saber-cual-agenda-oculta-del-pacto-sanchez-aragones/2146621.shtml"
+    },
+    {
+     "id": "16591531",
+     "t": "Gallardo denuncia el \"calvario judicial\" por el caso de David Sánchez y dice que su aforamiento no significa \"impunidad\"",
+     "d": "22-05-2025 10:02:43",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250522/gallardo-aforamiento-diputado-asamblea-impunidad-procedimiento/16591531.shtml"
+    },
+    {
+     "id": "15981016",
+     "t": "López Miras pide explicaciones en el Congreso por la trama de las mascarillas: \"Se ha cometido un delito fragrante\"",
+     "d": "22-02-2024 12:09:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240222/lopez-miras-pide-explicaciones-congreso-por-trama-mascarillas-del-asesor-abalos-se-cometido-delito-fragrante/15981016.shtml"
+    },
+    {
+     "id": "2411987",
+     "t": "Pons compara a Sánchez con Orbán y le acusa de atacar a los órganos judiciales \"cuando no siguen sus dictados\"",
+     "d": "16-12-2022 10:03:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20221216/esteban-gonzalez-pons-compara-sanchez-viktor-orban/2411987.shtml"
+    },
+    {
+     "id": "17327799",
+     "t": "Entrevista electoral 29N: Pedro Sánchez, candidato del PSOE",
+     "d": "24-11-2026 10:12:11",
+     "dur": 1726360,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/las-mananas-de-rne/entrevista-electoral-29n-pedro-sanchez-candidato-del-psoe/17327799/"
+    },
+    {
+     "id": "2240344",
+     "t": "El PP registra en el Congreso su ley para crear un cuerpo de alta inspección educativa que actúe en Cataluña",
+     "d": "17-12-2021 12:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20211217/pp-ley-inspeccion-educativa-cataluna/2240344.shtml"
+    },
+    {
+     "id": "16654019",
+     "t": "Illa ve a Sánchez \"dolido\" pero \"con mucha determinación\" y denuncia un \"asedio\" al Gobierno por la ley de amnistía",
+     "d": "07-07-2025 10:04:27",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250707/illa-dice-sanchez-esta-dolido-pero-con-mucha-determinacion-denuncia-asedio-gobierno-por-ley-amnistia/16654019.shtml"
+    },
+    {
+     "id": "2352240",
+     "t": "Gamarra, sobre la abstención en la ley audiovisual: \"No es una ley que compartamos, el objetivo es evitar una sanción\"",
+     "d": "27-05-2022 10:17:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220527/gamarra-abstencion-pp-ley-audiovisual/2352240.shtml"
+    },
+    {
+     "id": "2453359",
+     "t": "El PP acusa al PSOE de usar la financiación autonómica como \"arma de mercadeo\" para lograr los escaños que necesita",
+     "d": "03-08-2023 10:50:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230803/pp-modelo-financiacion-autonomica-cataluna-investidura-sanchez/2453359.shtml"
+    },
+    {
+     "id": "16862053",
+     "t": "Entrevista electoral: José Ángel Sánchez Julià del PP",
+     "d": "17-12-2025 09:41:46",
+     "dur": 898480,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/entrevista-electoral-jose-angel-sanchez-julia-del-pp/16862053/"
+    },
+    {
+     "id": "16197670",
+     "t": "Junts insiste en la repetición electoral en Cataluña ante un posible pacto de PSC y ERC: \"Illa representa el 155\"",
+     "d": "25-07-2024 10:09:17",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240725/junts-repeticion-elecciones-cataluna-pacto-psc-erc/16197670.shtml"
+    },
+    {
+     "id": "17163670",
+     "t": "Gamarra (PP): \"¿Tráfico de influencias sobre quién? Esto también apela al Gobierno\"",
+     "d": "21-07-2026 10:02:03",
+     "dur": 1592290,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/gamarra-pp-trafico-influencias-sobre-quien-esto-tambien-apela-gobierno/17163670/"
+    },
+    {
+     "id": "2408958",
+     "t": "Arrimadas aboga por dejar la presidencia de Cs y ser solo su candidata siguiendo el modelo de \"muchos partidos liberales\"",
+     "d": "15-11-2022 10:54:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20221115/arrimadas-aboga-dejar-presidencia-cs-ser-solo-su-candidata-modelo-muchisimos-partidos-europeos/2408958.shtml"
+    },
+    {
+     "id": "2420688",
+     "t": "Montero admite \"fuertes discrepancias\" con el PSOE sobre la reforma del 'sí es sí' y descarta dimitir si no hay acuerdo",
+     "d": "03-02-2023 10:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230203/montero-admite-fuerte-discrepancia-psoe-no-pone-limite-negociacion-ley-si-si/2420688.shtml"
+    },
+    {
+     "id": "16924341",
+     "t": "Entrevista electoral: Jorge Azcón, candidato del PP",
+     "d": "05-02-2026 10:24:48",
+     "dur": 987640,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/entrevista-electoral-jorge-azcon-candidato-del-pp/16924341/"
+    },
+    {
+     "id": "16398167",
+     "t": "Alegría critica la ausencia del PP en el acto por la muerte de Franco: \"Le pica el cuerpo a la hora de reconocer la historia\"",
+     "d": "08-01-2025 09:53:15",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250108/alegria-critica-ausencia-pp-actos-muerte-franco/16398167.shtml"
+    },
+    {
+     "id": "17167519",
+     "t": "Elena Valenciano: \"Zapatero no debería haber ido a televisión\"",
+     "d": "24-07-2026 09:14:37",
+     "dur": 710240,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/elena-valenciano-zapatero-no-deberia-haber-ido-television/17167519/"
+    },
+    {
+     "id": "16715200",
+     "t": "Alex Ellis sobre la visita de Sánchez al Reino Unido: \"Renace una vieja amistad\"",
+     "d": "03-09-2025 08:41:36",
+     "dur": 568960,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/alex-ellis-sobre-visita-sanchez-reino-unido-renace-vieja-amistad/16715200/"
+    },
+    {
+     "id": "16893527",
+     "t": "Saiz: \"Las comunidades van a ser escuchadas en el Consejo de Política Fiscal y Financiera\"",
+     "d": "14-01-2026 09:40:10",
+     "dur": 1718000,
+     "type": "video",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/saiz-comunidades-van-ser-escuchadas-consejo-politica-fiscal-financiera/16893527/"
+    },
+    {
+     "id": "16896764",
+     "t": "Juan Bravo (PP), sobre las nuevas competencias al País Vasco: \"Cesiones para que Sánchez siga de Presidente del Gobierno\"",
+     "d": "16-01-2026 10:12:08",
+     "dur": 2027260,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/juan-bravo-pp-sobre-nuevas-competencias-pais-vasco-cesiones-para-sanchez-siga-presidente-del-gobierno/16896764/"
+    },
+    {
+     "id": "16794987",
+     "t": "Alejo Miranda (PP), sobre la comparecencia de Sánchez en el Senado: \"Era un escapista de las preguntas\"",
+     "d": "31-10-2025 09:51:54",
+     "dur": 976823,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/alejo-miranda-pp-sobre-comparecencia-sanchez-senado-era-escapista-preguntas/16794987/"
+    },
+    {
+     "id": "17282982",
+     "t": "Albares: \"La única encuesta que vale es la del día de las elecciones\"",
+     "d": "26-10-2026 09:08:46",
+     "dur": 1648440,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/las-mananas-de-rne/albares-unica-encuesta-dia-elecciones/17282982/"
+    }
+   ]
+  }
+ },
+ "Sánchez PP y Vox no aceptarán el resultado": {
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20PP%20y%20Vox%20no%20aceptar%C3%A1n%20el%20resultado&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20PP%20y%20Vox%20no%20aceptar%C3%A1n%20el%20resultado&size=40": {
+   "n": 445603,
+   "items": [
+    {
+     "id": "2282260",
+     "t": "Abascal asegura que Vox está dispuesto a pactar con el PP, pero \"nunca gratis\"",
+     "d": "05-02-2022 17:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220205/vox-pactar-pp-castilla-leon/2282260.shtml"
+    },
+    {
+     "id": "17327851",
+     "t": "Sánchez pide una movilización \"contundente\" el 29N y advierte: \"PP y Vox, si no suman, no van a aceptar el resultado\"",
+     "d": "24-11-2026 09:52:29",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261124/sanchez-pide-movilizacion-contundente-29n-advierte-pp-vox-si-no-suman-no-van-a-aceptar-restado-electoral/17327851.shtml"
+    },
+    {
+     "id": "17184623",
+     "t": "Los vicepresidentes autonómicos de Vox no aceptarán el reparto de menores",
+     "d": "08-08-2026 15:32:37",
+     "dur": 81440,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/vicepresidentes-autonomicos-vox-no-aceptaran-reparto-menores/17184623/"
+    },
+    {
+     "id": "2446887",
+     "t": "Abascal pide el voto a Vox para \"cambiarlo todo\": \"El PP es un simple relevo\"",
+     "d": "20-05-2023 15:14:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230520/abascal-vox-guadalajara-elecciones-28m/2446887.shtml"
+    },
+    {
+     "id": "16919924",
+     "t": "El PP ganaría las elecciones, el PSOE se desplomaría y Vox doblaría sus resultados, según el sondeo de Aragón TV",
+     "d": "08-02-2026 20:05:05",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260208/sondeo-resultados-elecciones-aragon-2026/16919924.shtml"
+    },
+    {
+     "id": "2447654",
+     "t": "Fernández Vara pierde Extremadura pese a ganar en votos y el PP suma mayoría absoluta con Vox",
+     "d": "28-05-2023 12:41:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230528/resultados-elecciones-extremadura-28m-ganador-pactos/2447654.shtml"
+    },
+    {
+     "id": "2447774",
+     "t": "Vox obtiene representación en todas las comunidades y se convierte en clave para los gobiernos del PP",
+     "d": "29-05-2023 08:32:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230529/vox-resultado-elecciones-municipales-autonomicas-2023/2447774.shtml"
+    },
+    {
+     "id": "2447743",
+     "t": "El PSOE pierde 11 ayuntamientos y Vox será llave de gobierno para el PP en 16 capitales de provincia",
+     "d": "29-05-2023 13:46:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230529/elecciones-municipales-28m-quien-ganado-capitales-provincia/2447743.shtml"
+    },
+    {
+     "id": "2447690",
+     "t": "El PP gana las elecciones en Aragón y podrá arrebatar el gobierno al PSOE con el apoyo de Vox",
+     "d": "29-05-2023 12:33:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230529/resultados-elecciones-aragon-28m-ganador-pactos/2447690.shtml"
+    },
+    {
+     "id": "434050",
+     "t": "El PP gobernará Cantabria pese a que Revilla sale indemne de su pacto con el PSOE",
+     "d": "22-05-2011 22:58:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110522/pp-gobernara-cantabria-pese-a-revilla-sale-indemne-su-pacto-con-psoe/434050.shtml"
+    },
+    {
+     "id": "16932796",
+     "t": "Feijóo se abre a gobernar España con Vox: “La gente quiere que haya un cambio”",
+     "d": "11-02-2026 04:54:15",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260211/feijoo-se-abre-a-gobernar-espana-con-vox/16932796.shtml"
+    },
+    {
+     "id": "2447661",
+     "t": "El PP vuelve a ganar en Ceuta pero su negativa a pactar con Vox le obligará a buscar otros socios de gobierno",
+     "d": "29-05-2023 12:47:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230529/resultados-elecciones-ceuta-28m-ganador-pactos/2447661.shtml"
+    },
+    {
+     "id": "2452761",
+     "t": "EH Bildu ya ha hablado con el PSOE y dará un 'sí' a Sánchez si es necesario para evitar que PP-Vox gobiernen",
+     "d": "25-07-2023 12:06:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230725/eh-bildu-gobierno-sanchez-elecciones-generales-rtve/2452761.shtml"
+    },
+    {
+     "id": "2452459",
+     "t": "Vox y Sumar pagan el voto útil a PP y PSOE: así ha vuelto el bipartidismo a las provincias pequeñas",
+     "d": "24-07-2023 08:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230724/resultados-elecciones-generales-reparto-escanos-por-provincia/2452459.shtml"
+    },
+    {
+     "id": "2448416",
+     "t": "Calviño cree que los resultados del 28M reflejan \"la desaparición de Ciudadanos y de Podemos\"",
+     "d": "03-06-2023 17:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230603/calvino-cree-resultados-del-28m-reflejan-desaparicion-ciudadanos-podemos/2448416.shtml"
+    },
+    {
+     "id": "2447584",
+     "t": "Sondeo: el PP rozaría la mayoría absoluta en Madrid capital y podría gobernar con Vox en Valencia y Sevilla; Colau y Collboni empatarían en Barcelona",
+     "d": "28-05-2023 21:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230528/sondeo-elecciones-municipales-2023-28m/2447584.shtml"
+    },
+    {
+     "id": "2384612",
+     "t": "El PP frena a Vox en Andalucía y reivindica el 'efecto Feijóo': \"Es el fracaso del 'sanchismo'",
+     "d": "19-06-2022 23:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220619/pp-reivindica-elecciones-andalucia-freno-vox-fracaso-sanchismo/2384612.shtml"
+    },
+    {
+     "id": "17277171",
+     "t": "Milei llama \"dictador\" a Sánchez en una visita a España que incomoda a PP y Vox",
+     "d": "21-10-2026 16:12:14",
+     "dur": 99960,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/milei-llama-dictador-sanchez-visita-espana/17277171/"
+    },
+    {
+     "id": "16365442",
+     "t": "Ester Capella: \"Posar pistes d'aterratge al PP i Vox no és una bona idea\"",
+     "d": "10-12-2024 10:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticies/20241210/gemma-nierga-entrevista-ester-capella/16365442.shtml"
+    },
+    {
+     "id": "17281917",
+     "t": "Sánchez reivindica a Lorca y lo contrapone a las políticas de PP y Vox y Feijóo acusa al Gobierno de alentar la violencia",
+     "d": "24-10-2026 15:52:56",
+     "dur": 92720,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/sanchez-reivindica-lorca-feijoo-acusa-gobierno-alentar-violencia/17281917/"
+    },
+    {
+     "id": "2289640",
+     "t": "El PP ganaría las elecciones y sumaría mayoría absoluta con Vox, según los sondeos",
+     "d": "13-02-2022 20:37:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220213/pp-ganaria-elecciones-mayoria-vox/2289640.shtml"
+    },
+    {
+     "id": "17268626",
+     "t": "Sánchez tranquiliza a los pensionistas \"de hoy y de mañana\" y critica a PP y Vox: \"El debate no debería estar en recortar\"",
+     "d": "15-10-2026 16:40:46",
+     "dur": 76000,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/sanchez-tranquiliza-pensionistas-hoy-manana-critica-pp-vox-debate-no-deberia-estar-recortar/17268626/"
+    },
+    {
+     "id": "1946063",
+     "t": "El PSOE gana en Murcia al PP, que necesitará a Cs y Vox para seguir en el gobierno",
+     "d": "27-05-2019 01:13:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190527/psoe-empata-murcia-con-pp-podra-mantener-gobierno-con-apoyos-cs-vox/1946063.shtml"
+    },
+    {
+     "id": "2446459",
+     "t": "Vox llega al 28M con la meta de ser clave en los gobiernos del PP y con listas en el doble de municipios",
+     "d": "19-05-2023 09:34:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230519/vox-asi-llega-elecciones-28m/2446459.shtml"
+    },
+    {
+     "id": "16818700",
+     "t": "Abascal reivindica en Extremadura la alternativa de \"sentido común\" de Vox frente al \"programa idéntico\" del PP y PSOE",
+     "d": "17-11-2025 14:54:35",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251117/abascal-reivindica-extremadura-alternativa-sentido-comun-vox-frente-programa-identico-del-pp-psoe/16818700.shtml"
+    },
+    {
+     "id": "17301659",
+     "t": "El PSOE cuestiona el momento en el que se conoce la nueva pieza del caso Koldo y PP y Vox dicen que es el final de Sánchez",
+     "d": "05-11-2026 15:32:06",
+     "dur": 65640,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/psoe-cuestiona-momento-se-conoce-nueva-pieza-del-caso-koldo-pp-vox-dicen-final-sanchez/17301659/"
+    },
+    {
+     "id": "17280200",
+     "t": "Feijóo no descarta pactar el Gobierno con Vox: \"Mi primer objetivo es que Sánchez se vaya\"",
+     "d": "23-10-2026 12:27:35",
+     "dur": 232800,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/diario-24/feijoo-no-descarta-pactar-vox/17280200/"
+    },
+    {
+     "id": "16100103",
+     "t": "Vox pierde su batalla con el PP y se queda como quinta fuerza en las elecciones de Cataluña",
+     "d": "12-05-2024 23:18:06",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240512/vox-elecciones-cataluna-2024/16100103.shtml"
+    },
+    {
+     "id": "16859970",
+     "t": "Claves de las elecciones en Extremadura: Vox capitaliza el desplome del PSOE y el estancamiento del PP",
+     "d": "22-12-2025 02:47:28",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251222/claves-resultados-elecciones-extremadura-2025/16859970.shtml"
+    },
+    {
+     "id": "17028417",
+     "t": "El acuerdo en Extremadura reactiva las negociaciones entre PP y Vox en otras comunidades",
+     "d": "17-04-2026 12:25:08",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260417/acuerdo-extremadura-reactiva-negociaciones-entre-pp-vox-otras-comunidades/17028417.shtml"
+    },
+    {
+     "id": "1926082",
+     "t": "La ruta de PP, Ciudadanos y Vox para cautivar a los indecisos de la derecha",
+     "d": "23-04-2019 13:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190423/ruta-pp-ciudadanos-vox-para-cautivar-a-indecisos-derecha/1926082.shtml"
+    },
+    {
+     "id": "16177934",
+     "t": "Alegría insta al PP a \"romper\" sus gobiernos con Vox: \"Francia continúa el camino que abrió España\"",
+     "d": "08-07-2024 10:30:41",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240708/alegria-insta-pp-romper-gobiernos-vox/16177934.shtml"
+    },
+    {
+     "id": "2045265",
+     "t": "El PSOE retrocede y recorta su distancia con el PP mientras Vox adelanta a Podemos",
+     "d": "15-10-2020 13:10:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20201015/barometro-cis-octubre-psoe-retrocede-pp-vox-sube-adelanta-podemos/2045265.shtml"
+    },
+    {
+     "id": "2451619",
+     "t": "Vox se erige como pieza clave para desalojar a Sánchez de la Moncloa \"sin chantajes\" del PP",
+     "d": "10-07-2023 07:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230710/vox-elecciones-generales-23j/2451619.shtml"
+    },
+    {
+     "id": "2452462",
+     "t": "Sondeo: el PP ganaría las elecciones y podría lograr mayoría absoluta con Vox; Sumar sería tercera fuerza",
+     "d": "23-07-2023 20:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230723/sondeo-elecciones-generales-2023-23j/2452462.shtml"
+    },
+    {
+     "id": "17271409",
+     "t": "Sánchez mete a Begoña Gómez en campaña con llamadas a la movilización y avisa a PP y Vox: \"Las pensiones no se tocan\"",
+     "d": "17-10-2026 16:14:22",
+     "dur": 86920,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/sanchez-mete-begona-gomez-campana-llamadas-movilizacion-avisa-pp-vox-pensiones-no-se-tocan/17271409/"
+    },
+    {
+     "id": "2074571",
+     "t": "Fernández (PP) ve en los independentistas y en Vox \"dos caras de la misma moneda\"",
+     "d": "09-02-2021 17:28:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210209/fernandez-pp-cree-independentistas-vox-son-dos-caras-misma-moneda/2074571.shtml"
+    },
+    {
+     "id": "2452677",
+     "t": "Así cierran las encuestas: el PP tendría más escaños que la izquierda y podría tener mayoría absoluta con Vox",
+     "d": "17-07-2023 16:20:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230717/elecciones-generales-2023-23j-encuestas-sondeos/2452677.shtml"
+    },
+    {
+     "id": "2430550",
+     "t": "Sánchez se reivindica en el 8M como el garante de la igualdad frente a las duras críticas de PP y Vox",
+     "d": "08-03-2023 11:25:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230308/sanchez-reivindica-garante-igualdad-duras-criticas-pp-vox/2430550.shtml"
+    },
+    {
+     "id": "376918",
+     "t": "El PP obtiene el mejor resultado de su historia en Cataluña y se consagra como tercera fuerza",
+     "d": "28-11-2010 21:33:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20101128/pp-se-presenta-como-tercera-fuerza-politica-cree-catalanes-han-castigado-proyecto-socialista/376918.shtml"
+    }
+   ]
+  }
+ },
+ "Sánchez mitin Córdoba Montero": {
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20mitin%20C%C3%B3rdoba%20Montero&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20mitin%20C%C3%B3rdoba%20Montero&size=40": {
+   "n": 276110,
+   "items": [
+    {
+     "id": "17325358",
+     "t": "Rufián pide a Sánchez \"proyecto\" en un mitin junto a Montero: \"Queremos un gobierno del PSOE tutelado por nosotros\"",
+     "d": "22-11-2026 14:25:14",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261122/rufian-sanchez-proyecto-montero-gobierno-psoe-tutelado-nosotros/17325358.shtml"
+    },
+    {
+     "id": "17256445",
+     "t": "Las Mañanas de Andalucía - 07/10/2026",
+     "d": "07-10-2026 08:59:52",
+     "dur": 889296,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/andalucia-informativos/mananas-andalucia-07-10-2026/17256445/"
+    },
+    {
+     "id": "17122903",
+     "t": "Entrevista Naroa Monterola - 18/06/26",
+     "d": "18-06-2026 09:12:00",
+     "dur": 662016,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/canarias-informativos/entrevista-naroa-monterola-18-06-26/17122903/"
+    },
+    {
+     "id": "17320174",
+     "t": "Sin mitines de Sánchez, Feijóo y Abascal, unas palabras polémicas de Ayuso se cuelan en la campaña",
+     "d": "18-11-2026 15:48:43",
+     "dur": 89040,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/sin-mitines-sanchez-feijoo-abascal-unas-palabras-polemicas-ayuso-se-cuelan-campana/17320174/"
+    },
+    {
+     "id": "17322391",
+     "t": "Malas lenguas - Programa 454",
+     "d": "18-11-2026 17:40:00",
+     "dur": 9353024,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/malas-lenguas/programa-454/17322391/"
+    },
+    {
+     "id": "17325710",
+     "t": "Último domingo de campaña: Sánchez y Feijóo coinciden en Murcia y Abascal da un mitin en Zaragoza",
+     "d": "22-11-2026 21:13:05",
+     "dur": 283720,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/ultimo-domingo-campana-sanchez-feijoo-coinciden-murcia-abascal-da-mitin-zaragoza/17325710/"
+    },
+    {
+     "id": "1842340",
+     "t": "Una protesta de taxistas obliga a suspender un mitin de Susana Díaz en Sevilla",
+     "d": "22-11-2018 21:04:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20181122/protesta-taxistas-obliga-a-suspender-mitin-susana-diaz-sevilla/1842340.shtml"
+    },
+    {
+     "id": "17265604",
+     "t": "Informativo Aragón 7.45 horas",
+     "d": "14-10-2026 09:09:54",
+     "dur": 893424,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/aragon-informativos/informativo-aragon-745-horas/17265604/"
+    },
+    {
+     "id": "16079233",
+     "t": "Zapatero e Illa convierten su mitin en un acto de defensa a Sánchez: \"Le necesitamos\"",
+     "d": "26-04-2024 21:28:34",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240426/zapatero-illa-convierten-mitin-defensa-sanchez/16079233.shtml"
+    },
+    {
+     "id": "475118",
+     "t": "Rubalcaba: \"En las elecciones votan los ciudadanos, no los mercados ni las encuestas\"",
+     "d": "13-11-2011 20:10:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20111113/rubalcaba-bueno-elecciones-votan-ciudadanos-no-mercados-ni-encuestas/475118.shtml"
+    },
+    {
+     "id": "293894",
+     "t": "Carlota Espinoza de los Monteros",
+     "d": "25-09-2009 11:57:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20090925/carlota-espinoza-monteros/293894.shtml"
+    },
+    {
+     "id": "293842",
+     "t": "Paloma Espinosa de los Monteros",
+     "d": "25-09-2009 11:50:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20090925/paloma-espinosa-monteros/293842.shtml"
+    },
+    {
+     "id": "17321255",
+     "t": "Les Mamarazzis - Sánchez a 'Lecturas', Julio Iglesias i Amaia Montero",
+     "d": "19-11-2026 10:59:00",
+     "dur": 911880,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/cafe-didees/pedro-sanchez-lecturas-julio-iglesias-amaia-montero-laura-fa-lorena-vazquez/17321255/"
+    },
+    {
+     "id": "1515341",
+     "t": "Los candidatos a las primarias socialistas dan su primer mitin tras la aprobación del calendario electoral",
+     "d": "02-04-2017 14:34:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170402/candidatos-a-primarias-socialistas-dan-su-primer-mitin-tras-aprobacion-del-calendario-electoral/1515341.shtml"
+    },
+    {
+     "id": "17275619",
+     "t": "Malas lenguas - Programa 434",
+     "d": "19-10-2026 17:40:00",
+     "dur": 9382912,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/malas-lenguas/programa-434/17275619/"
+    },
+    {
+     "id": "17208861",
+     "t": "Malas lenguas - Programa 400",
+     "d": "01-09-2026 17:40:00",
+     "dur": 10115350,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/malas-lenguas/programa-400/17208861/"
+    },
+    {
+     "id": "1961641",
+     "t": "Iván Espinosa de los Monteros, el miércoles en 'Los desayunos de TVE'",
+     "d": "25-06-2019 16:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20190625/ivan-espinosa-monteros-miercoles-desayunos-tve/1961641.shtml"
+    },
+    {
+     "id": "1978634",
+     "t": "Iván Espinosa de los Monteros, este viernes en 'Los desayunos de TVE'",
+     "d": "05-09-2019 16:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20190905/ivan-espinosa-monteros-este-viernes-desayunos-tve/1978634.shtml"
+    },
+    {
+     "id": "2433290",
+     "t": "Feijóo ve \"sorprendente\" que Sánchez mantenga a ministros \"desgastados\" como Montero y Marlaska",
+     "d": "27-03-2023 12:16:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230327/sanchez-ve-sorprendente-sanchez-mantenga-a-ministros-desgastados-como-montero-marlaska/2433290.shtml"
+    },
+    {
+     "id": "16352460",
+     "t": "Montero acusa a Feijóo de dirigir un \"discurso golpista\" contra Sánchez: \"Quieren tumbar un Gobierno democrático\"",
+     "d": "29-11-2024 15:23:13",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241129/montero-feijoo-discurso-golpista-sanchez/16352460.shtml"
+    },
+    {
+     "id": "17140082",
+     "t": "Espinosa de los Monteros anuncia que Vox le ha comunicado su expulsión del partido",
+     "d": "02-07-2026 00:24:38",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260702/espinosa-monteros-anuncia-vox-expulsion-partido/17140082.shtml"
+    },
+    {
+     "id": "1269603",
+     "t": "Mariló Montero nos cuenta sus malas experiencias con la carretera",
+     "d": "13-12-2015 10:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20151213/marilo-montero-cuenta-malas-experiencias-con-carretera/1269603.shtml"
+    },
+    {
+     "id": "826640",
+     "t": "Carlos Espinosa de los Monteros, Alto Comisionado para la Marca España, el jueves en 'Las mañanas de RNE'",
+     "d": "18-12-2013 17:33:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20131218/carlos-espinosa-de-los-monteros-alto-comisionado-para-la-marca-espana-el-jueves-en-las-mananas-de-rne/826640.shtml"
+    },
+    {
+     "id": "17263554",
+     "t": "Malas lenguas - Programa 429",
+     "d": "12-10-2026 17:50:00",
+     "dur": 10078490,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/malas-lenguas/programa-429/17263554/"
+    },
+    {
+     "id": "2014298",
+     "t": "Joan Baldoví e Iván Espinosa de los Monteros, este martes 19 de mayo en 'Los desayunos de TVE'",
+     "d": "18-05-2020 17:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20200518/joan-baldovi-ivan-espinosa-monteros-este-martes-19-mayo-desayunos-tve/2014298.shtml"
+    },
+    {
+     "id": "17318894",
+     "t": "Malas lenguas - Programa 453",
+     "d": "17-11-2026 17:50:00",
+     "dur": 9362120,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/malas-lenguas/programa-453/17318894/"
+    },
+    {
+     "id": "2453637",
+     "t": "Espinosa de los Monteros deja la dirección de Vox y se abre una crisis en la cúpula",
+     "d": "08-08-2023 13:04:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230808/espinosa-monteros-deja-direccion-vox/2453637.shtml"
+    },
+    {
+     "id": "2324720",
+     "t": "Espinosa de los Monteros paga en el juzgado la deuda pendiente por las obras de su chalé",
+     "d": "29-03-2022 15:57:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220329/espinosa-monteros-paga-deuda-pendiente/2324720.shtml"
+    },
+    {
+     "id": "1948181",
+     "t": "Javier Maroto (PP) e Iván Espinosa de los Monteros (Vox), este jueves en 'España a las 9' de 'Las mañanas de RNE'",
+     "d": "29-05-2019 17:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20190529/javier-maroto-pp-ivan-espinosa-monteros-vox-este-jueves-espana-a-9-mananas-rne/1948181.shtml"
+    },
+    {
+     "id": "16741756",
+     "t": "Espinosa de los Monteros presenta la plataforma Atenea: \"España necesita recobrar la capacidad de contrastar ideas\"",
+     "d": "24-09-2025 09:31:20",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250924/espinosa-monteros-plataforma-debate-atenea/16741756.shtml"
+    },
+    {
+     "id": "2009064",
+     "t": "Las ministras Irene Montero y Carolina Darias, únicos miembros del Gobierno con coronavirus",
+     "d": "12-03-2020 11:06:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20200312/ministra-irene-montero-da-positivo-coronavirus-vicepresidente-pablo-iglesias-estara-cuarentena/2009064.shtml"
+    },
+    {
+     "id": "2453676",
+     "t": "Auge del sector más radical y distanciamiento con Abascal: Espinosa de los Monteros abre una grieta en Vox",
+     "d": "09-08-2023 13:06:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230809/auge-sector-radical-vox-espinosa-deja-politica/2453676.shtml"
+    },
+    {
+     "id": "1988404",
+     "t": "Gabriel Rufián, Iván Espinosa de los Monteros, Alberto Garzón y José Manuel Villegas, este miércoles 6 de noviembre en 'Los desayunos de TVE'",
+     "d": "05-11-2019 16:29:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20191105/gabriel-rufian-ivan-espinosa-monteros-alberto-garzon-jose-manuel-villegas-este-miercoles-6-noviembre-desayunos-tve/1988404.shtml"
+    },
+    {
+     "id": "564782",
+     "t": "Carlos Espinosa de los Monteros, alto comisionado para la Marca España, este martes en 'El día menos pensado' de RNE",
+     "d": "24-09-2012 15:57:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20120924/carlos-espinosa-de-los-monteros-alto-comisionado-para-la-marca-espana-este-martes-en-el-dia-menos-pensado-de-rne/564782.shtml"
+    },
+    {
+     "id": "16919969",
+     "t": "Concejala del PP insulta a Sánchez en mitin",
+     "d": "02-02-2026 13:37:40",
+     "dur": 443520,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/mananeros-360/concejala-del-pp-insulta-sanchez-mitin/16919969/"
+    },
+    {
+     "id": "2459149",
+     "t": "Montero reconoce que Podemos no estaba al tanto del pacto entre PSOE y Sumar",
+     "d": "24-10-2023 14:18:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20231024/montero-podemos-pacto-psoe-sumar/2459149.shtml"
+    },
+    {
+     "id": "1745160",
+     "t": "La consejera andaluza María Jesús Montero será la nueva ministra de Hacienda",
+     "d": "05-06-2018 09:11:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180605/andaluza-maria-jesus-montero-sera-nueva-ministra-hacienda/1745160.shtml"
+    },
+    {
+     "id": "17255676",
+     "t": "Mediodía Andalucía - 06/10/2026",
+     "d": "06-10-2026 15:34:28",
+     "dur": 1199688,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/andalucia-informativos/mediodia-andalucia-06-10-2026/17255676/"
+    },
+    {
+     "id": "17231462",
+     "t": "Malas lenguas - Programa 412",
+     "d": "17-09-2026 17:40:00",
+     "dur": 9362400,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/malas-lenguas/programa-412/17231462/"
+    },
+    {
+     "id": "17286354",
+     "t": "La Revuelta | La pregunta del punki, \"la verdadera izquierda\", para Rufián y Montero",
+     "d": "27-10-2026 22:28:17",
+     "dur": 264160,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-revuelta/pregunta-punki-verdadera-izquierda-rufian-montero/17286354/"
+    }
+   ]
+  }
+ },
+ "Abascal Segovia trampa elecciones": {
+  "https://api2.rtve.es/api/search/contents?search=Abascal%20Segovia%20trampa%20elecciones&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=Abascal%20Segovia%20trampa%20elecciones&size=40": {
+   "n": 399771,
+   "items": [
+    {
+     "id": "17326574",
+     "t": "Abascal insiste en que Sánchez \"va a intentar cualquier tipo de trampa\" y si no \"impugnará las elecciones\"",
+     "d": "23-11-2026 13:55:26",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261123/abascal-insiste-sanchez-va-a-intentar-cualquier-tipo-trampa-si-no-impugnara-elecciones/17326574.shtml"
+    },
+    {
+     "id": "16787257",
+     "t": "Abascal dice que Vox no va a entrar al debate de Junts de una hipotética moción de censura: \"Es una trampa de Puigdemont\"",
+     "d": "26-10-2025 15:30:48",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251026/abascal-dice-vox-no-va-a-entrar-debate-junts-hipotetica-mocion-censura-trampa-puigdemont/16787257.shtml"
+    },
+    {
+     "id": "17262734",
+     "t": "Abascal cree que estas elecciones no son \"normales\" y alerta de posibles \"trampas\" del Gobierno: \"Está dispuesto a matar\"",
+     "d": "11-10-2026 17:27:16",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261011/santiago-abascal-arranque-precampana-estepona-elecciones-generales-directo-cronica/17262734.shtml"
+    },
+    {
+     "id": "17134214",
+     "t": "Abascal tacha a Sánchez de \"desequilibrado, psicópata y malnacido\": \"Hoy en España hay un loco al volante\"",
+     "d": "27-06-2026 14:17:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260627/abascal-tacha-a-sanchez-desequilibrado-psicopata-malnacido-hoy-espana-hay-loco-volante/17134214.shtml"
+    },
+    {
+     "id": "2084212",
+     "t": "Abascal cerrará la lista de Monasterio para las elecciones del 4M: \"No necesitamos fichajes estrella\"",
+     "d": "31-03-2021 11:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210331/abascal-cerrara-lista-monasterio-para-elecciones-del-4m-no-necesitamos-fichajes-estrella/2084212.shtml"
+    },
+    {
+     "id": "2060212",
+     "t": "Casado exige a Sánchez que pida perdón por su \"incompetencia\" y Abascal insiste: \"Convoque ya elecciones\"",
+     "d": "16-12-2020 12:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20201216/casado-exige-sanchez-pida-perdon-incopentencia-abascal-pide-elecciones-anticipadas/2060212.shtml"
+    },
+    {
+     "id": "17275702",
+     "t": "Abascal critica a Feijóo por pedir \"sacrificios\" si llegan al Gobierno: \"Los sacrificios a la casta, pero no a la gente\"",
+     "d": "20-10-2026 20:52:58",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261020/abascal-critica-feijoo-pedir-sacrificios/17275702.shtml"
+    },
+    {
+     "id": "17253405",
+     "t": "Abascal acusa a Sánchez de ser capaz de \"manipular\" las elecciones y pide que sean \"libres y sin violencia\"",
+     "d": "05-10-2026 12:15:26",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261005/vox-abascal-elecciones-anticipadas-29n/17253405.shtml"
+    },
+    {
+     "id": "17311357",
+     "t": "Abascal defiende que las elecciones del 29N \"no son normales\" porque enfrente \"no hay un Gobierno, hay una mafia criminal\"",
+     "d": "12-11-2026 21:05:55",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261112/vox-fin-precampana-elecciones-generales-2026-cronica/17311357.shtml"
+    },
+    {
+     "id": "17306884",
+     "t": "La Revuelta - Santiago Abascal (09/11/2026)",
+     "d": "09-11-2026 21:45:00",
+     "dur": 5786880,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-revuelta/programa-09-11-26-santiago-abascal/17306884/"
+    },
+    {
+     "id": "17302195",
+     "t": "La Revuelta | Broncano confirma a Santiago Abascal como invitado",
+     "d": "05-11-2026 22:08:14",
+     "dur": 192760,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-revuelta/broncano-confirma-santiago-abascal-como-invitado/17302195/"
+    },
+    {
+     "id": "17302397",
+     "t": "Santiago Abascal en La Revuelta: hora y dónde ver hoy la entrevista del líder de VOX con Broncano",
+     "d": "08-11-2026 14:00:26",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20261108/santiago-abascal-revuelta-hora-donde-ver-entrevista-lider-vox-broncano/17302397.shtml"
+    },
+    {
+     "id": "1881942",
+     "t": "Casado, Rivera y Abascal presionan a Sánchez y piden elecciones \"inmediatas\": \"Su tiempo ha acabado\"",
+     "d": "10-02-2019 12:47:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190210/casado-rivera-abascal-presionan-a-sanchez-piden-elecciones-inmediatas-su-tiempo-acabado/1881942.shtml"
+    },
+    {
+     "id": "17059075",
+     "t": "Abascal señala que Sánchez es capaz de \"robar\" las elecciones: \"Nos meten siete barcos para encerrarnos\"",
+     "d": "07-05-2026 22:13:54",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260507/abascal-sanchez-capaz-robar-elecciones-meten-siete-barcos-encerrarnos/17059075.shtml"
+    },
+    {
+     "id": "17305384",
+     "t": "Colau reivindica a Frente Amplio como el voto útil",
+     "d": "08-11-2026 16:33:58",
+     "dur": 90440,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/colau-reivindica-frente-amplio-como-voto-util/17305384/"
+    },
+    {
+     "id": "17253144",
+     "t": "Abascal acusa a Sánchez de ser capaz de \"manipular\" las elecciones del 29-N",
+     "d": "05-10-2026 13:30:20",
+     "dur": 103840,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-hora-de-la-1/abascal-vox-elecciones-anticipadas/17253144/"
+    },
+    {
+     "id": "17307053",
+     "t": "La Revuelta | ¿Por qué cambió el público en la entrevista de Abascal?",
+     "d": "09-11-2026 22:15:06",
+     "dur": 554880,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-revuelta/cambio-publico-entrevista-abascal/17307053/"
+    },
+    {
+     "id": "1986296",
+     "t": "Santiago Abascal, o cómo crecer en río revuelto",
+     "d": "31-10-2019 10:39:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191031/elecciones-generales-10n-perfil-santiago-abascal-vox/1986296.shtml"
+    },
+    {
+     "id": "17307052",
+     "t": "La Revuelta | Santiago Abascal: \"No estoy contento con el tono político de España\"",
+     "d": "09-11-2026 23:42:39",
+     "dur": 5385160,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-revuelta/santiago-abascal-no-estoy-contento-tono-politico-espana/17307052/"
+    },
+    {
+     "id": "17317754",
+     "t": "Hora y dónde ver hoy en TV el debate de RTVE entre los portavoces parlamentarios de las elecciones 2026",
+     "d": "22-11-2026 07:30:38",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20261122/debate-elecciones-generales-2026-horario-donde-ver/17317754.shtml"
+    },
+    {
+     "id": "17009729",
+     "t": "Feijóo revela que habló con Abascal tras las elecciones en Castilla y León para desbloquear los gobiernos autonómicos",
+     "d": "04-04-2026 18:04:57",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260404/feijoo-revela-hablo-con-abascal-tras-elecciones-castilla-leon-para-desbloquear-gobiernos-autonomicos/17009729.shtml"
+    },
+    {
+     "id": "2341600",
+     "t": "Abascal apuesta por Olona para las elecciones andaluzas: \"Cada vez le veo más cara de presidenta\"",
+     "d": "27-04-2022 11:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220427/abascal-olona-andalucia/2341600.shtml"
+    },
+    {
+     "id": "2047224",
+     "t": "Abascal propone un Gobierno de \"emergencia\" y elecciones para juzgar en las urnas el \"caos y ruina\" de Sánchez",
+     "d": "21-10-2020 21:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20201021/abascal-propone-gobierno-emergencia-elecciones-para-juzgar-urnas-caos-ruina-sanchez/2047224.shtml"
+    },
+    {
+     "id": "2087592",
+     "t": "Abascal avisa a los indecisos del peligro de la \"veleta azul\" y cree que Casado actúa como un \"pato mareado\"",
+     "d": "24-04-2021 15:11:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210424/abascal-carga-casado-4m/2087592.shtml"
+    },
+    {
+     "id": "2452431",
+     "t": "La confrontación con Abascal y las políticas de género, los temas más repetidos en el debate de RTVE",
+     "d": "20-07-2023 04:47:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230720/confrontacion-abascal-politicas-genero-temas-repetidos-debate-rtve/2452431.shtml"
+    },
+    {
+     "id": "2451945",
+     "t": "Abascal carga contra Feijóo: \"Pretende derogar el sanchismo ofreciéndole un pacto a Sánchez\"",
+     "d": "13-07-2023 10:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230713/abascal-feijoo-derogar-sanchismo-pactando-sanchez/2451945.shtml"
+    },
+    {
+     "id": "2447833",
+     "t": "Abascal niega que el adelanto electoral \"dificulte los pactos\" y pide a Feijóo \"respeto\" a sus votantes: \"O Vox u otro camino\"",
+     "d": "29-05-2023 16:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230529/abascal-niega-adelanto-electoral-dificulte-pactos-pide-patriotismo-pp-no-aceptaremos-chantajes/2447833.shtml"
+    },
+    {
+     "id": "2446887",
+     "t": "Abascal pide el voto a Vox para \"cambiarlo todo\": \"El PP es un simple relevo\"",
+     "d": "20-05-2023 15:14:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230520/abascal-vox-guadalajara-elecciones-28m/2446887.shtml"
+    },
+    {
+     "id": "17129030",
+     "t": "Abascal exige elecciones a Sánchez y le acusa de preparar el \"robo\" de las próximas",
+     "d": "24-06-2026 10:28:05",
+     "dur": 389040,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/informativo-24h/abascal-exige-elecciones-sanchez-acusa-preparar-robo-proximas/17129030/"
+    },
+    {
+     "id": "1916904",
+     "t": "Iglesias manda en Twitter y Facebook y Abascal es el rey de Instagram",
+     "d": "20-04-2019 13:57:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190420/iglesias-manda-twitter-facebook-abascal-rey-instagram/1916904.shtml"
+    },
+    {
+     "id": "2282260",
+     "t": "Abascal asegura que Vox está dispuesto a pactar con el PP, pero \"nunca gratis\"",
+     "d": "05-02-2022 17:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220205/vox-pactar-pp-castilla-leon/2282260.shtml"
+    },
+    {
+     "id": "2090337",
+     "t": "Abascal pide a Ayuso \"generosidad\" y postula a Vox para presidir la Asamblea de Madrid",
+     "d": "14-05-2021 10:32:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210514/vox-postula-presidir-asamblea-madrid/2090337.shtml"
+    },
+    {
+     "id": "16129198",
+     "t": "Abascal acusa al PP de \"traer a Von der Leyen a pasearla\": \"Es la gran aliada de Sánchez\"",
+     "d": "01-06-2024 16:00:15",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240601/abascal-acusa-pp-traer-a-von-der-leyen-a-pasearla-gran-aliada-sanchez/16129198.shtml"
+    },
+    {
+     "id": "2452340",
+     "t": "Sánchez, el candidato que más se acordó del PP en un debate donde Díaz se aplicó contra Abascal",
+     "d": "20-07-2023 02:19:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230720/menciones-candidatos-debate-a-tres/2452340.shtml"
+    },
+    {
+     "id": "2445743",
+     "t": "Abascal se estrena en la campaña cargando contra el PP: \"No votéis a Feijóo, ha abandonado a media España\"",
+     "d": "12-05-2023 22:18:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230512/abascal-inicio-campana-contra-pp/2445743.shtml"
+    },
+    {
+     "id": "2085010",
+     "t": "Cuatro detenidos y 35 heridos en los disturbios por el mitin de Abascal y Monasterio en Vallecas",
+     "d": "08-04-2021 01:04:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210408/tension-acto-precampana-vox-vallecas/2085010.shtml"
+    },
+    {
+     "id": "2452435",
+     "t": "Sánchez y Díaz escenifican un bloque unido para reeditar Gobierno y Abascal llama a un \"cambio de rumbo necesario\"",
+     "d": "20-07-2023 02:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230720/debate-electoral-a-tres-sanchez-diaz-abascal-cronica/2452435.shtml"
+    },
+    {
+     "id": "2453145",
+     "t": "Feijóo y Abascal se reunieron la semana pasada para analizar los resultados del 23J",
+     "d": "31-07-2023 13:34:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230731/feijoo-abascal-se-reunieron-semana-pasada-para-analizar-resultados-del-23j/2453145.shtml"
+    },
+    {
+     "id": "1914621",
+     "t": "Abascal ve \"muy difícil\" reeditar un acuerdo a tres bandas con PP y Cs como en Andalucía",
+     "d": "01-04-2019 18:41:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190401/abascal-ve-muy-dificil-reeditar-acuerdo-a-tres-bandas-mismas-circunstancias-andalucia/1914621.shtml"
+    },
+    {
+     "id": "17306759",
+     "t": "La entrevista de Broncano a Abascal, \"el programa más serio y con menos chistecitos\" de La Revuelta",
+     "d": "09-11-2026 21:00:22",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20261109/santiago-abascal-revuelta-broncano-directo-video-cronica/17306759.shtml"
+    }
+   ]
+  }
+ },
+ "Abascal Palencia robar las elecciones": {
+  "https://api2.rtve.es/api/search/contents?search=Abascal%20Palencia%20robar%20las%20elecciones&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=Abascal%20Palencia%20robar%20las%20elecciones&size=40": {
+   "n": 395236,
+   "items": [
+    {
+     "id": "17059075",
+     "t": "Abascal señala que Sánchez es capaz de \"robar\" las elecciones: \"Nos meten siete barcos para encerrarnos\"",
+     "d": "07-05-2026 22:13:54",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260507/abascal-sanchez-capaz-robar-elecciones-meten-siete-barcos-encerrarnos/17059075.shtml"
+    },
+    {
+     "id": "17129030",
+     "t": "Abascal exige elecciones a Sánchez y le acusa de preparar el \"robo\" de las próximas",
+     "d": "24-06-2026 10:28:05",
+     "dur": 389040,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/informativo-24h/abascal-exige-elecciones-sanchez-acusa-preparar-robo-proximas/17129030/"
+    },
+    {
+     "id": "2084212",
+     "t": "Abascal cerrará la lista de Monasterio para las elecciones del 4M: \"No necesitamos fichajes estrella\"",
+     "d": "31-03-2021 11:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210331/abascal-cerrara-lista-monasterio-para-elecciones-del-4m-no-necesitamos-fichajes-estrella/2084212.shtml"
+    },
+    {
+     "id": "17272646",
+     "t": "Abascal confirma la \"voluntad\" de Vox de pactar con el PP para \"proteger al Senado\" de los acuerdos de la izquierda",
+     "d": "19-10-2026 13:40:55",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261019/abascal-confirma-voluntad-vox-pactar-con-pp-para-proteger-senado-acuerdos-izquierda/17272646.shtml"
+    },
+    {
+     "id": "2060212",
+     "t": "Casado exige a Sánchez que pida perdón por su \"incompetencia\" y Abascal insiste: \"Convoque ya elecciones\"",
+     "d": "16-12-2020 12:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20201216/casado-exige-sanchez-pida-perdon-incopentencia-abascal-pide-elecciones-anticipadas/2060212.shtml"
+    },
+    {
+     "id": "17253405",
+     "t": "Abascal acusa a Sánchez de ser capaz de \"manipular\" las elecciones y pide que sean \"libres y sin violencia\"",
+     "d": "05-10-2026 12:15:26",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261005/vox-abascal-elecciones-anticipadas-29n/17253405.shtml"
+    },
+    {
+     "id": "17311357",
+     "t": "Abascal defiende que las elecciones del 29N \"no son normales\" porque enfrente \"no hay un Gobierno, hay una mafia criminal\"",
+     "d": "12-11-2026 21:05:55",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261112/vox-fin-precampana-elecciones-generales-2026-cronica/17311357.shtml"
+    },
+    {
+     "id": "17306884",
+     "t": "La Revuelta - Santiago Abascal (09/11/2026)",
+     "d": "09-11-2026 21:45:00",
+     "dur": 5786880,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-revuelta/programa-09-11-26-santiago-abascal/17306884/"
+    },
+    {
+     "id": "17302195",
+     "t": "La Revuelta | Broncano confirma a Santiago Abascal como invitado",
+     "d": "05-11-2026 22:08:14",
+     "dur": 192760,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-revuelta/broncano-confirma-santiago-abascal-como-invitado/17302195/"
+    },
+    {
+     "id": "17302397",
+     "t": "Santiago Abascal en La Revuelta: hora y dónde ver hoy la entrevista del líder de VOX con Broncano",
+     "d": "08-11-2026 14:00:26",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20261108/santiago-abascal-revuelta-hora-donde-ver-entrevista-lider-vox-broncano/17302397.shtml"
+    },
+    {
+     "id": "1881942",
+     "t": "Casado, Rivera y Abascal presionan a Sánchez y piden elecciones \"inmediatas\": \"Su tiempo ha acabado\"",
+     "d": "10-02-2019 12:47:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190210/casado-rivera-abascal-presionan-a-sanchez-piden-elecciones-inmediatas-su-tiempo-acabado/1881942.shtml"
+    },
+    {
+     "id": "17253144",
+     "t": "Abascal acusa a Sánchez de ser capaz de \"manipular\" las elecciones del 29-N",
+     "d": "05-10-2026 13:30:20",
+     "dur": 103840,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-hora-de-la-1/abascal-vox-elecciones-anticipadas/17253144/"
+    },
+    {
+     "id": "17307053",
+     "t": "La Revuelta | ¿Por qué cambió el público en la entrevista de Abascal?",
+     "d": "09-11-2026 22:15:06",
+     "dur": 554880,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-revuelta/cambio-publico-entrevista-abascal/17307053/"
+    },
+    {
+     "id": "1986296",
+     "t": "Santiago Abascal, o cómo crecer en río revuelto",
+     "d": "31-10-2019 10:39:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191031/elecciones-generales-10n-perfil-santiago-abascal-vox/1986296.shtml"
+    },
+    {
+     "id": "17307052",
+     "t": "La Revuelta | Santiago Abascal: \"No estoy contento con el tono político de España\"",
+     "d": "09-11-2026 23:42:39",
+     "dur": 5385160,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-revuelta/santiago-abascal-no-estoy-contento-tono-politico-espana/17307052/"
+    },
+    {
+     "id": "17317754",
+     "t": "Hora y dónde ver hoy en TV el debate de RTVE entre los portavoces parlamentarios de las elecciones 2026",
+     "d": "22-11-2026 07:30:38",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20261122/debate-elecciones-generales-2026-horario-donde-ver/17317754.shtml"
+    },
+    {
+     "id": "17009729",
+     "t": "Feijóo revela que habló con Abascal tras las elecciones en Castilla y León para desbloquear los gobiernos autonómicos",
+     "d": "04-04-2026 18:04:57",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260404/feijoo-revela-hablo-con-abascal-tras-elecciones-castilla-leon-para-desbloquear-gobiernos-autonomicos/17009729.shtml"
+    },
+    {
+     "id": "2341600",
+     "t": "Abascal apuesta por Olona para las elecciones andaluzas: \"Cada vez le veo más cara de presidenta\"",
+     "d": "27-04-2022 11:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220427/abascal-olona-andalucia/2341600.shtml"
+    },
+    {
+     "id": "17262734",
+     "t": "Abascal cree que estas elecciones no son \"normales\" y alerta de posibles \"trampas\" del Gobierno: \"Está dispuesto a matar\"",
+     "d": "11-10-2026 17:27:16",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261011/santiago-abascal-arranque-precampana-estepona-elecciones-generales-directo-cronica/17262734.shtml"
+    },
+    {
+     "id": "2047224",
+     "t": "Abascal propone un Gobierno de \"emergencia\" y elecciones para juzgar en las urnas el \"caos y ruina\" de Sánchez",
+     "d": "21-10-2020 21:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20201021/abascal-propone-gobierno-emergencia-elecciones-para-juzgar-urnas-caos-ruina-sanchez/2047224.shtml"
+    },
+    {
+     "id": "17326574",
+     "t": "Abascal insiste en que Sánchez \"va a intentar cualquier tipo de trampa\" y si no \"impugnará las elecciones\"",
+     "d": "23-11-2026 13:55:26",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261123/abascal-insiste-sanchez-va-a-intentar-cualquier-tipo-trampa-si-no-impugnara-elecciones/17326574.shtml"
+    },
+    {
+     "id": "2087592",
+     "t": "Abascal avisa a los indecisos del peligro de la \"veleta azul\" y cree que Casado actúa como un \"pato mareado\"",
+     "d": "24-04-2021 15:11:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210424/abascal-carga-casado-4m/2087592.shtml"
+    },
+    {
+     "id": "2452431",
+     "t": "La confrontación con Abascal y las políticas de género, los temas más repetidos en el debate de RTVE",
+     "d": "20-07-2023 04:47:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230720/confrontacion-abascal-politicas-genero-temas-repetidos-debate-rtve/2452431.shtml"
+    },
+    {
+     "id": "2451945",
+     "t": "Abascal carga contra Feijóo: \"Pretende derogar el sanchismo ofreciéndole un pacto a Sánchez\"",
+     "d": "13-07-2023 10:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230713/abascal-feijoo-derogar-sanchismo-pactando-sanchez/2451945.shtml"
+    },
+    {
+     "id": "2447833",
+     "t": "Abascal niega que el adelanto electoral \"dificulte los pactos\" y pide a Feijóo \"respeto\" a sus votantes: \"O Vox u otro camino\"",
+     "d": "29-05-2023 16:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230529/abascal-niega-adelanto-electoral-dificulte-pactos-pide-patriotismo-pp-no-aceptaremos-chantajes/2447833.shtml"
+    },
+    {
+     "id": "17301159",
+     "t": "Local Cuenca Matinal 05/11/2026",
+     "d": "05-11-2026 12:42:01",
+     "dur": 170688,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/castilla-la-mancha-informativos/local-cuenca-matinal-05-11-2026/17301159/"
+    },
+    {
+     "id": "2446887",
+     "t": "Abascal pide el voto a Vox para \"cambiarlo todo\": \"El PP es un simple relevo\"",
+     "d": "20-05-2023 15:14:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230520/abascal-vox-guadalajara-elecciones-28m/2446887.shtml"
+    },
+    {
+     "id": "1916904",
+     "t": "Iglesias manda en Twitter y Facebook y Abascal es el rey de Instagram",
+     "d": "20-04-2019 13:57:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190420/iglesias-manda-twitter-facebook-abascal-rey-instagram/1916904.shtml"
+    },
+    {
+     "id": "2282260",
+     "t": "Abascal asegura que Vox está dispuesto a pactar con el PP, pero \"nunca gratis\"",
+     "d": "05-02-2022 17:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220205/vox-pactar-pp-castilla-leon/2282260.shtml"
+    },
+    {
+     "id": "2090337",
+     "t": "Abascal pide a Ayuso \"generosidad\" y postula a Vox para presidir la Asamblea de Madrid",
+     "d": "14-05-2021 10:32:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210514/vox-postula-presidir-asamblea-madrid/2090337.shtml"
+    },
+    {
+     "id": "16129198",
+     "t": "Abascal acusa al PP de \"traer a Von der Leyen a pasearla\": \"Es la gran aliada de Sánchez\"",
+     "d": "01-06-2024 16:00:15",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240601/abascal-acusa-pp-traer-a-von-der-leyen-a-pasearla-gran-aliada-sanchez/16129198.shtml"
+    },
+    {
+     "id": "2452340",
+     "t": "Sánchez, el candidato que más se acordó del PP en un debate donde Díaz se aplicó contra Abascal",
+     "d": "20-07-2023 02:19:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230720/menciones-candidatos-debate-a-tres/2452340.shtml"
+    },
+    {
+     "id": "2445743",
+     "t": "Abascal se estrena en la campaña cargando contra el PP: \"No votéis a Feijóo, ha abandonado a media España\"",
+     "d": "12-05-2023 22:18:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230512/abascal-inicio-campana-contra-pp/2445743.shtml"
+    },
+    {
+     "id": "2085010",
+     "t": "Cuatro detenidos y 35 heridos en los disturbios por el mitin de Abascal y Monasterio en Vallecas",
+     "d": "08-04-2021 01:04:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210408/tension-acto-precampana-vox-vallecas/2085010.shtml"
+    },
+    {
+     "id": "2452435",
+     "t": "Sánchez y Díaz escenifican un bloque unido para reeditar Gobierno y Abascal llama a un \"cambio de rumbo necesario\"",
+     "d": "20-07-2023 02:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230720/debate-electoral-a-tres-sanchez-diaz-abascal-cronica/2452435.shtml"
+    },
+    {
+     "id": "2453145",
+     "t": "Feijóo y Abascal se reunieron la semana pasada para analizar los resultados del 23J",
+     "d": "31-07-2023 13:34:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230731/feijoo-abascal-se-reunieron-semana-pasada-para-analizar-resultados-del-23j/2453145.shtml"
+    },
+    {
+     "id": "1914621",
+     "t": "Abascal ve \"muy difícil\" reeditar un acuerdo a tres bandas con PP y Cs como en Andalucía",
+     "d": "01-04-2019 18:41:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190401/abascal-ve-muy-dificil-reeditar-acuerdo-a-tres-bandas-mismas-circunstancias-andalucia/1914621.shtml"
+    },
+    {
+     "id": "17306759",
+     "t": "La entrevista de Broncano a Abascal, \"el programa más serio y con menos chistecitos\" de La Revuelta",
+     "d": "09-11-2026 21:00:22",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20261109/santiago-abascal-revuelta-broncano-directo-video-cronica/17306759.shtml"
+    },
+    {
+     "id": "508697",
+     "t": "Silvia Abascal cumple 33 años",
+     "d": "20-03-2012 13:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20120320/silvia-abascal-cumple-33-anos/508697.shtml"
+    },
+    {
+     "id": "2452122",
+     "t": "Abascal recuerda a Sánchez la \"compra de votos\" el 28M y carga contra el PP por querer pactar con el PSOE",
+     "d": "15-07-2023 21:44:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230715/vox-sanchez-compra-votos-elecciones-23j/2452122.shtml"
+    }
+   ]
+  }
+ },
+ "Feijóo limpieza electoral urnas ley de nietos": {
+  "https://api2.rtve.es/api/search/contents?search=Feij%C3%B3o%20limpieza%20electoral%20urnas%20ley%20de%20nietos&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=Feij%C3%B3o%20limpieza%20electoral%20urnas%20ley%20de%20nietos&size=40": {
+   "n": 357966,
+   "items": [
+    {
+     "id": "17328311",
+     "t": "Feijóo admite \"inquietud\" por las \"urnas de cartón\" en consulados para los nacionalizados por la 'ley de nietos'",
+     "d": "24-11-2026 13:03:42",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261124/feijoo-inquietud-urnas-carton-consulados-nacionalizados-ley-nietos/17328311.shtml"
+    },
+    {
+     "id": "17262698",
+     "t": "Sánchez pide al Supremo que frene el \"atropello\" de Feijóo y Abascal a la 'ley de nietos' y anima a \"llenar las urnas\" el 29N",
+     "d": "11-10-2026 16:27:22",
+     "dur": 84760,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/sanchez-pide-supremo-frene-atropello-feijoo-abascal-ley-nietos-anima-llenar-urnas-29n/17262698/"
+    },
+    {
+     "id": "17135334",
+     "t": "Feijóo acusa a Sánchez de \"ingeniería electoral\" y \"fabricar votantes\" nacionalizándolos con la Ley de Nietos",
+     "d": "29-06-2026 11:29:22",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260629/feijoo-cree-zapatero-supone-quiebra-del-psoe-para-siempre-era-faro-moral-sanchez-ahora-su-fosa-moral/17135334.shtml"
+    },
+    {
+     "id": "17253453",
+     "t": "Feijóo celebra el adelanto electoral y pide \"una oportunidad\" en las urnas para \"ayudar al país\"",
+     "d": "05-10-2026 11:23:30",
+     "dur": 557840,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/diario-24/feijoo-celebra-adelanto-electoral-pide-oportunidad-ayudar-pais/17253453/"
+    },
+    {
+     "id": "476301",
+     "t": "Casi 36 millones de españoles están llamados a las urnas en unas elecciones más austeras",
+     "d": "20-11-2011 00:01:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20111120/cerca-36-millones-espanoles-estan-llamados-a-urnas-para-elegir-nuevo-presidente/476301.shtml"
+    },
+    {
+     "id": "281698",
+     "t": "Escasa participación en el referéndum para cambiar la ley electoral en Italia",
+     "d": "22-06-2009 08:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090622/escasa-participacion-referendum-para-cambiar-ley-electoral-italia/281698.shtml"
+    },
+    {
+     "id": "17264233",
+     "t": "El Gobierno, sobre la 'ley de nietos': \"En una democracia el derecho a voto se garantiza, no se restringe\"",
+     "d": "13-10-2026 12:50:10",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261013/consejo-ministros-ley-nietos-directo-cronica/17264233.shtml"
+    },
+    {
+     "id": "281610",
+     "t": "Los italianos vuelven a las urnas quince días después de las europeas",
+     "d": "21-06-2009 13:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090621/los-italianos-vuelven-a-las-urnas-quince-dias-despues-de-las-europeas/281610.shtml"
+    },
+    {
+     "id": "17251354",
+     "t": "Voto obligatorio, urna electrónica, transparencia: curiosidades de las elecciones de Brasil",
+     "d": "02-10-2026 16:34:31",
+     "dur": 641620,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/hora-america/voto-obligatorio-urna-electronica-transparencia-curiosidades-elecciones-brasil/17251354/"
+    },
+    {
+     "id": "17262137",
+     "t": "Sánchez pide al Supremo que frene el \"atropello\" de Feijóo y Abascal a la 'ley de nietos' y anima a \"llenar las urnas\" el 29N",
+     "d": "11-10-2026 11:03:53",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261011/pedro-sanchez-acto-ponferrada-precampana/17262137.shtml"
+    },
+    {
+     "id": "17223400",
+     "t": "La Junta Electoral acatará la decisión del Supremo de suspender el voto de los nacionalizados con la ley de nietos",
+     "d": "14-09-2026 07:55:37",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260914/junta-electoral-central-supremo-ley-nietos/17223400.shtml"
+    },
+    {
+     "id": "17307011",
+     "t": "El Supremo rechaza suspender el derecho a voto a los hijos de los nacionalizados por la 'ley de nietos'",
+     "d": "09-11-2026 20:15:33",
+     "dur": 70240,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-tarde-en-24h/supremo-rechaza-suspender-derecho-voto-hijos-nacionalizados-ley-nietos/17307011/"
+    },
+    {
+     "id": "17140486",
+     "t": "Feijóo critica la \"falta de transparencia\" del Gobierno respecto a la 'Ley de nietos'",
+     "d": "02-07-2026 11:20:35",
+     "dur": 28320,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/diario-24/feijoo-critica-falta-transparencia-del-gobierno-respecto-ley-nietos/17140486/"
+    },
+    {
+     "id": "17264692",
+     "t": "El Gobierno, sobre la 'ley de nietos': \"En una democracia el derecho a voto se garantiza, no se restringe\"",
+     "d": "13-10-2026 15:27:02",
+     "dur": 23640,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/gobierno-sobre-ley-nietos-democracia-derecho-voto-se-garantiza-no-se-restringe/17264692/"
+    },
+    {
+     "id": "2446927",
+     "t": "Grecia acude a las urnas con los conservadores como favoritos y una previsible repetición electoral",
+     "d": "21-05-2023 18:16:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230521/grecia-acude-urnas-elecciones-legislativas/2446927.shtml"
+    },
+    {
+     "id": "17255988",
+     "t": "El Tribunal Supremo da 48 horas de plazo a las partes para alegar sobre la 'ley de nietos' tras el adelanto electoral",
+     "d": "06-10-2026 17:46:54",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261006/tribunal-supremo-48-horas-partes-alegar-ley-nietos-adelanto-electoral/17255988.shtml"
+    },
+    {
+     "id": "17217746",
+     "t": "Sánchez y Feijóo se enfrenta en el primer 'cara a cara' por la crisis en Ceuta, la educación y la 'ley de nietos'",
+     "d": "09-09-2026 09:34:54",
+     "dur": 363080,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/informativo-24h/sanchez-feijoo-primer-cara-cara-nuevo-curso-politico/17217746/"
+    },
+    {
+     "id": "17258093",
+     "t": "La Abogacía del Estado pide al TS levantar la suspensión del voto de la 'ley de nietos' ante el adelanto electoral",
+     "d": "08-10-2026 19:17:15",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261008/abogacia-estado-pide-supremo-levantar-suspension-voto-ley-nietos/17258093.shtml"
+    },
+    {
+     "id": "2000244",
+     "t": "País Vasco y Galicia adelantan sus elecciones al 5 de abril",
+     "d": "10-02-2020 18:45:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20200210/pais-vasco-galicia-adelantan-elecciones-5-abril/2000244.shtml"
+    },
+    {
+     "id": "17159042",
+     "t": "La Junta Electoral exige justificar en qué provincia se inscribe a los electores nacionalizados por la 'ley de nietos'",
+     "d": "16-07-2026 16:21:28",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260716/junta-electoral-exige-justificar-provincia-se-inscribe-a-electores-nacionalizados-por-ley-nietos/17159042.shtml"
+    },
+    {
+     "id": "197973",
+     "t": "Venezuela vota masivamente entre denuncias de fraude de la oposición",
+     "d": "23-11-2008 20:52:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20081123/venezuela-vota-masivamente-entre-denuncias-fraude-oposicion/197973.shtml"
+    },
+    {
+     "id": "2450945",
+     "t": "Un Orgullo en clave electoral y sin presencia de Vox reivindica la defensa de los derechos en las urnas",
+     "d": "01-07-2023 22:28:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230701/orgullo-clave-electoral-sin-presencia-vox-reivindica-defensa-derechos-urnas/2450945.shtml"
+    },
+    {
+     "id": "17263038",
+     "t": "El Supremo mantiene la suspensión del voto para el 29N a los nacionalizados por la 'ley de nietos'",
+     "d": "12-10-2026 15:45:29",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261012/supremo-mantiene-suspension-del-voto-para-29n-a-nacionalizados-por-ley-nietos/17263038.shtml"
+    },
+    {
+     "id": "17039462",
+     "t": "El laboratorio electoral en Deir al-Balah: Gaza mide la fuerza de Hamás en las urnas 20 años después",
+     "d": "25-04-2026 09:15:04",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260425/laboratorio-electoral-deir-balah-gaza-mide-fuerza-hamas-20-anos-despues/17039462.shtml"
+    },
+    {
+     "id": "17263569",
+     "t": "El Gobierno lamenta el veto electoral a los beneficiados por la 'ley de nietos' y PP y Vox celebran la decisión del Supremo",
+     "d": "12-10-2026 21:20:47",
+     "dur": 130520,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-2/gobierno-decision-supremo-ley-nietos-pp-vox/17263569/"
+    },
+    {
+     "id": "17317149",
+     "t": "Sánchez con Lula, 'ley de nietos' vasca, propuestas fiscales, migración o vivienda marcan el primer lunes de campaña",
+     "d": "16-11-2026 22:07:59",
+     "dur": 77360,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-2/sanchez-lula-ley-nietos-vasca-propuestas-fiscales-migracion-vivienda-marcan-primer-lunes-campana/17317149/"
+    },
+    {
+     "id": "16351286",
+     "t": "La inmigración y la crisis de la vivienda dominan la campaña electoral en Irlanda que irá a las urnas este viernes",
+     "d": "28-11-2024 19:37:41",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241128/inmigracion-vivienda-dominan-campana-electoral-irlanda-ira-urnas-este-viernes/16351286.shtml"
+    },
+    {
+     "id": "17254237",
+     "t": "Reacciones políticas al adelanto electoral",
+     "d": "05-10-2026 16:29:59",
+     "dur": 95400,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/noticias-de-extremadura/reacciones-politicas-adelanto-electoral/17254237/"
+    },
+    {
+     "id": "17136605",
+     "t": "Feijóo acusa a Sánchez de \"fabricar votantes\" con la Ley de Nietos",
+     "d": "29-06-2026 19:36:13",
+     "dur": 93800,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-tarde-en-24h/feijoo-acusa-sanchez-fabricar-votantes-ley-nietos/17136605/"
+    },
+    {
+     "id": "17237951",
+     "t": "La JEC endurece los requisitos para que los nacionalizados por la ley de nietos justifiquen la provincia donde votan",
+     "d": "25-09-2026 16:43:40",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260925/junta-electoral-central-instruccion-nacionalizados-oficina-censo/17237951.shtml"
+    },
+    {
+     "id": "17056015",
+     "t": "Reino Unido vive una cita electoral de alto riesgo para Keir Starmer",
+     "d": "07-05-2026 07:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260507/reino-unido-vive-cita-electoral-alto-riesgo-para-keir-starmer/17056015.shtml"
+    },
+    {
+     "id": "290410",
+     "t": "Los japoneses se preparan para acudir mañana a las urnas con ecos de cambio",
+     "d": "29-08-2009 10:35:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090829/los-japoneses-se-preparan-para-acudir-manana-a-las-urnas-con-ecos-de-cambio/290410.shtml"
+    },
+    {
+     "id": "17139082",
+     "t": "El PP carga contra la \"urgencia\" y \"opacidad\" del Gobierno con la ley de nietos",
+     "d": "01-07-2026 12:42:45",
+     "dur": 26520,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/informativo-24h/pp-carga-contra-urgencia-opacidad-del-gobierno-ley-nietos/17139082/"
+    },
+    {
+     "id": "17141440",
+     "t": "YaTDigo: 'Ley de nietos' 02/07/26",
+     "d": "02-07-2026 19:34:03",
+     "dur": 159068,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/yatdigo/yatdigo-ley-nietos-020726/17141440/"
+    },
+    {
+     "id": "2075547",
+     "t": "El calendario post14F: ¿investidura a finales de marzo o repetición electoral en julio?",
+     "d": "15-02-2021 07:50:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210215/elecciones-catalanas-calendario-investidura-repeticion/2075547.shtml"
+    },
+    {
+     "id": "17300363",
+     "t": "Baltasar Garzón: \"La decisión del Supremo sobre la ley de nietos adultera el proceso electoral y no tiene sustento jurídico\"",
+     "d": "04-11-2026 21:23:30",
+     "dur": 1770840,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/24-horas/baltasar-garzon-decision-del-supremo-sobre-ley-nietos-adultera-proceso-electoral-no-tiene-sustento-juridico/17300363/"
+    },
+    {
+     "id": "16837922",
+     "t": "Feijóo pide un adelanto electoral para ganar en las urnas y \"no a través de una moción\" de censura y apela a PNV y Junts",
+     "d": "29-11-2025 17:00:29",
+     "dur": 90480,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/feijoo-pide-adelanto-electoral-para-ganar-urnas-no-traves-mocion-censura-apela-pnv-junts/16837922/"
+    },
+    {
+     "id": "17139866",
+     "t": "Del derecho a la nacionalidad de descendientes de exiliados a ingeniería electoral: Gobierno y PP chocan por la 'ley de nietos'",
+     "d": "01-07-2026 20:31:27",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260701/gobierno-oposicion-enzarzan-ley-nietos-derecho-nacionalidad-nuevos-espanoles-ingenieria-electoral/17139866.shtml"
+    },
+    {
+     "id": "2455826",
+     "t": "La Fiscalía de Guatemala abre varias urnas con votos de las pasadas elecciones en una operación sin precedentes",
+     "d": "12-09-2023 18:58:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230912/fiscalia-guatemala-abre-varias-urnas-con-votos/2455826.shtml"
+    },
+    {
+     "id": "17321071",
+     "t": "Entrevista electoral: Oskar Matute, candidato de EH Bildu",
+     "d": "19-11-2026 09:49:08",
+     "dur": 844920,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/las-mananas-de-rne/entrevista-electoral-oskar-matute-candidato-eh-bildu/17321071/"
+    }
+   ]
+  }
+ },
+ "Ayuso elecciones circunstancias anómalas": {
+  "https://api2.rtve.es/api/search/contents?search=Ayuso%20elecciones%20circunstancias%20an%C3%B3malas&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=Ayuso%20elecciones%20circunstancias%20an%C3%B3malas&size=40": {
+   "n": 379929,
+   "items": [
+    {
+     "id": "1119200",
+     "t": "Netanyahu dice ahora que quiere un estado palestino, pero que \"no se dan las circunstancias\"",
+     "d": "19-03-2015 22:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150319/netanyahu-dice-ahora-quiere-estado-palestino-pero-no-se-dan-circunstancias/1119200.shtml"
+    },
+    {
+     "id": "1455540",
+     "t": "Rajoy asegura que \"falta mucho\" para las próximas elecciones por lo que es el momento de gobernar",
+     "d": "16-12-2016 20:44:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20161216/rajoy-asegura-falta-mucho-para-proximas-elecciones-por-momento-gobernar/1455540.shtml"
+    },
+    {
+     "id": "2088349",
+     "t": "Así te hemos contado las elecciones en Madrid, en directo: Ayuso arrasa y supera al bloque de izquierda",
+     "d": "05-05-2021 00:57:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210505/elecciones-madrid-4m-2021-directo-ultima-hora-resultados/2088349.shtml"
+    },
+    {
+     "id": "2087327",
+     "t": "Elecciones y pandemia: las propuestas de los partidos madrileños con el pulso Ayuso-Sánchez de fondo",
+     "d": "25-04-2021 09:09:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210425/programas-electorales-comunidad-madrid-propuestas-coronavirus/2087327.shtml"
+    },
+    {
+     "id": "2447655",
+     "t": "Ayuso refuerza su hegemonía en la Comunidad de Madrid y arrasa con una mayoría absoluta",
+     "d": "29-05-2023 12:42:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230529/resultados-elecciones-comunidad-madrid-28m-ganador-pactos/2447655.shtml"
+    },
+    {
+     "id": "2081552",
+     "t": "Ayuso rompe con Ciudadanos y convoca elecciones en Madrid el 4 de mayo: \"Me he visto obligada\"",
+     "d": "10-03-2021 14:53:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210310/ayuso-convoca-elecciones-para-evitar-mocion-censura-madrid/2081552.shtml"
+    },
+    {
+     "id": "2088845",
+     "t": "El efecto Ayuso: cómo la derecha ha vuelto a dominar Madrid",
+     "d": "06-05-2021 20:20:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210506/elecciones-comunidad-madrid-efecto-ayuso-voto-derecha-pp/2088845.shtml"
+    },
+    {
+     "id": "2446259",
+     "t": "Todos contra Ayuso en un debate marcado por la vivienda, los impuestos y las residencias de Madrid",
+     "d": "17-05-2023 01:50:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230517/todos-contra-ayuso-debate-comunidad-madrid/2446259.shtml"
+    },
+    {
+     "id": "2088704",
+     "t": "Directo | 5 de mayo: así contamos la jornada poselectoral tras la victoria de Ayuso en Madrid",
+     "d": "05-05-2021 21:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210505/elecciones-madrid-4m-2021-resultados-directo-ultimas-noticias/2088704.shtml"
+    },
+    {
+     "id": "2083212",
+     "t": "Almeida cerrará la lista electoral de Ayuso para las elecciones autonómicas de mayo",
+     "d": "22-03-2021 19:58:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210322/almeida-cerrara-lista-electoral-ayuso-para-elecciones-autonomicas-mayo/2083212.shtml"
+    },
+    {
+     "id": "2230024",
+     "t": "Ayuso aconseja a Moreno que \"vuele libre\" y decida él sobre las elecciones andaluzas",
+     "d": "19-11-2021 22:22:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20211119/ayuso-aconseja-a-moreno-vuele-libre-decida-sobre-elecciones-andaluzas/2230024.shtml"
+    },
+    {
+     "id": "2445764",
+     "t": "Feijóo y Ayuso se conjuran para \"sacar a Sánchez\" de La Moncloa: \"Lo indecente es que él gobierne con EH Bildu\"",
+     "d": "13-05-2023 13:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230513/feijoo-ayuso-sanchez-bildu/2445764.shtml"
+    },
+    {
+     "id": "2452750",
+     "t": "Ayuso se pone a \"entera disposición\" de Feijóo y niega que su liderazgo esté en entredicho",
+     "d": "24-07-2023 19:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230724/ayuso-pone-entera-disposicion-feijoo-niega-liderazgo-este-entredicho/2452750.shtml"
+    },
+    {
+     "id": "2103390",
+     "t": "Eriksen: \"Estoy bien, dadas las circunstancias\"",
+     "d": "15-06-2021 10:22:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20210615/eriksen-estable-seguira-hospitalizado/2103390.shtml"
+    },
+    {
+     "id": "2087605",
+     "t": "Casado y Ayuso se distancian de las \"disputas de baja política\" y los \"circos\": \"No queremos ni piedras ni balas\"",
+     "d": "24-04-2021 13:22:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210424/casado-distancia-choque-iglesias-monasterio/2087605.shtml"
+    },
+    {
+     "id": "575985",
+     "t": "El Teatro Real recorta su programación por \"las actuales circunstancias\"",
+     "d": "21-11-2012 14:20:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20121121/teatro-real-recorta-su-programacion-por-actuales-circunstancias/575985.shtml"
+    },
+    {
+     "id": "2090337",
+     "t": "Abascal pide a Ayuso \"generosidad\" y postula a Vox para presidir la Asamblea de Madrid",
+     "d": "14-05-2021 10:32:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210514/vox-postula-presidir-asamblea-madrid/2090337.shtml"
+    },
+    {
+     "id": "303145",
+     "t": "Casillas: \"Un empate no estaría mal dadas las circunstancias\"",
+     "d": "27-11-2009 13:40:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20091127/casillas-un-empate-no-estaria-mal-dadas-las-circunstancias/303145.shtml"
+    },
+    {
+     "id": "2085347",
+     "t": "Casado llama a elegir entre \"sanchismo y libertad\" y Calvo vincula a Ayuso con Vox",
+     "d": "10-04-2021 15:16:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210410/candidatos-del-4m-afrontan-recta-final-precampana/2085347.shtml"
+    },
+    {
+     "id": "1285680",
+     "t": "Bebe: \"Por circunstancias propias o ajenas, uno desaparece de sí mismo\"",
+     "d": "18-01-2016 11:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20160118/bebe-por-circunstancias-propias-ajenas-uno-desaparece-si-mismo/1285680.shtml"
+    },
+    {
+     "id": "2073369",
+     "t": "¿Puede llover barro? ¿Qué circunstancias deben darse?",
+     "d": "05-02-2021 18:25:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20210205/lluvia-barro-fenomeno-natural/2073369.shtml"
+    },
+    {
+     "id": "17193542",
+     "t": "Ayuso descarta disponer de una residencia oficial a diez meses de las elecciones",
+     "d": "17-08-2026 15:49:00",
+     "dur": 15280,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/ayuso-descarta-disponer-residencia-oficial-diez-meses-elecciones/17193542/"
+    },
+    {
+     "id": "17093916",
+     "t": "Colombia celebra elecciones: el futuro presidente heredará un país con serios problemas de desigualdad y de seguridad",
+     "d": "31-05-2026 16:36:48",
+     "dur": 95640,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/colombia-celebra-elecciones-futuro-presidente-heredara-pais-serios-problemas-desigualdad-seguridad/17093916/"
+    },
+    {
+     "id": "274993",
+     "t": "Zapatero: \"Madrid no estará sometida a las circunstancias económicas\"",
+     "d": "05-05-2009 09:33:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20090505/zapatero-madrid-no-estara-sometida-a-las-circunstancias-economicas/274993.shtml"
+    },
+    {
+     "id": "1535080",
+     "t": "Trump dice que se reuniría con Kim Jong-un \"bajo las circunstancias adecuadas\"",
+     "d": "01-05-2017 19:14:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170501/trump-dice-se-reuniria-con-kim-jong-bajo-circunstancias-adecuadas/1535080.shtml"
+    },
+    {
+     "id": "2081657",
+     "t": "Los juristas opinan: ¿Elecciones anticipadas en Madrid o moción de censura contra Ayuso?",
+     "d": "10-03-2021 19:41:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210310/juristas-opinan-madrid/2081657.shtml"
+    },
+    {
+     "id": "2086110",
+     "t": "Isabel Díaz Ayuso, la candidata del PP con perfil propio que aspira a gobernar en solitario",
+     "d": "16-04-2021 20:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210416/ayuso-candidata-pp-4m/2086110.shtml"
+    },
+    {
+     "id": "287487",
+     "t": "Un seguidor de Zelaya es asesinado en Tegucigalpa en circunstancias extrañas",
+     "d": "03-08-2009 02:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090803/seguidor-zelaya-asesinado-tegucigalpa-circunstancias-extranas/287487.shtml"
+    },
+    {
+     "id": "602002",
+     "t": "Sento Llobell: \"Me interesan las reflexiones de la gente en circunstancias extremas\"",
+     "d": "16-01-2013 09:10:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130116/sento-llobell-medico-novato/602002.shtml"
+    },
+    {
+     "id": "17031138",
+     "t": "Bustinduy, Mónica García y Urtasun arropan a Maíllo en Andalucía y equiparan a Moreno con Ayuso",
+     "d": "19-04-2026 14:42:44",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260419/bustinduy-garcia-urtasun-maillo-andalucia/17031138.shtml"
+    },
+    {
+     "id": "2088692",
+     "t": "Vox se mantiene con 13 escaños y facilitará la investidura de Ayuso: \"Hemos cumplido con parar a la izquierda\"",
+     "d": "05-05-2021 01:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210505/vox-mantiene-escanos-facilitara-investidura-ayuso/2088692.shtml"
+    },
+    {
+     "id": "332380",
+     "t": "Zapatero: \"Ni cambio, ni bandazos, respondemos a las circunstancias\"",
+     "d": "23-05-2010 13:01:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100523/zapatero-ni-cambio-ni-bandazos-respondemos-a-las-circunstancias/332380.shtml"
+    },
+    {
+     "id": "484780",
+     "t": "El PSOE dice que el discurso del rey está \"a la altura de las circunstancias\"",
+     "d": "25-12-2011 12:28:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20111225/psoe-dice-discurso-del-rey-esta-a-altura-circunstancias/484780.shtml"
+    },
+    {
+     "id": "2088693",
+     "t": "Ayuso arrasa en Madrid doblando sus escaños y supera al bloque de la izquierda",
+     "d": "04-05-2021 23:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210504/ayuso-arrasa-madrid-doblando-escanos-supera-bloque-izquierda-madrid/2088693.shtml"
+    },
+    {
+     "id": "575115",
+     "t": "Un joven español muere en extrañas circunstancias en el aeropuerto de Ciampino",
+     "d": "17-11-2012 14:03:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20121117/joven-espanol-25-anos-muere-extranas-circunstancias-aeropuerto-romano-ciampino/575115.shtml"
+    },
+    {
+     "id": "492018",
+     "t": "Rouco elogia el noble servicio a España de Fraga en circunstancias difíciles",
+     "d": "23-01-2012 20:20:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120123/principes-presiden-funeral-por-fraga-catedral-almudena/492018.shtml"
+    },
+    {
+     "id": "17193315",
+     "t": "Ayuso descarta disponer de una residencia oficial a diez meses de las elecciones: \"No la he necesitado ni la he pedido\"",
+     "d": "17-08-2026 14:34:02",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260817/ayuso-descarta-disponer-residencia-oficial-diez-meses-elecciones-no-he-necesitado-ni-he-pedido/17193315.shtml"
+    },
+    {
+     "id": "16950572",
+     "t": "Guía de conciliación: qué permisos laborales existen, en qué circunstancias y cuáles son retribuidos",
+     "d": "24-02-2026 12:57:13",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260224/guia-conciliacion-familiar-cuidados-trabajo/16950572.shtml"
+    },
+    {
+     "id": "1060104",
+     "t": "Detenida en Zaragoza una mujer por la muerte de su bebé en extrañas circunstancias",
+     "d": "02-12-2014 20:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141202/detenida-zaragoza-mujer-por-muerte-su-bebe-extranas-circunstancias/1060104.shtml"
+    },
+    {
+     "id": "16959860",
+     "t": "Ayuso entra en la campaña de Castilla y León atacando a Sánchez: \"La corrupción es su forma de gobernar\"",
+     "d": "01-03-2026 13:48:42",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260301/ayuso-entra-campana-castilla-leon-atacando-sanchez-corrupcion-forma-gobernar/16959860.shtml"
+    }
+   ]
+  }
+ },
+ "recuento votos mesa electoral papeletas": {
+  "https://api2.rtve.es/api/search/contents?search=recuento%20votos%20mesa%20electoral%20papeletas&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=recuento%20votos%20mesa%20electoral%20papeletas&size=40": {
+   "n": 367094,
+   "items": [
+    {
+     "id": "17259465",
+     "t": "Elecciones generales del 29N: vuelve el bulo de que Indra recuenta los votos tras el adelanto electoral",
+     "d": "08-10-2026 20:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261008/elecciones-generales-29n-bulo-indra-votos-adelanto/17259465.shtml"
+    },
+    {
+     "id": "17320323",
+     "t": "Del humor a la desinformación electoral: bromas sobre las papeletas del 29N que pueden llevar a votos nulos",
+     "d": "18-11-2026 17:08:37",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261118/humor-desinformacion-electoral-bromas-redes-29n-confusion-votantes/17320323.shtml"
+    },
+    {
+     "id": "330833",
+     "t": "Aquino continúa a la cabeza del recuento electoral en Filipinas con el 75% de los votos escrutados",
+     "d": "11-05-2010 10:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100511/aquino-continua-a-cabeza-del-recuento-electoral-filipinas-con-75-votos-escrutados/330833.shtml"
+    },
+    {
+     "id": "2447767",
+     "t": "Los bulos de la jornada electoral del 28M: papeletas erróneas, votos nulos y el papel de Indra",
+     "d": "28-05-2023 18:50:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230528/bulos-falsedades-jornada-electoral-28-mayo/2447767.shtml"
+    },
+    {
+     "id": "560969",
+     "t": "El presidente de Angola lidera el resultado electoral con un 74,6% de los votos",
+     "d": "01-09-2012 19:52:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120901/presidente-angola-lidera-resultado-electoral-con-746-votos/560969.shtml"
+    },
+    {
+     "id": "2453196",
+     "t": "El PSOE recurre a la Junta Electoral Central el recuento de 30.000 votos nulos en Madrid",
+     "d": "01-08-2023 10:40:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230801/psoe-recurre-recuento-nulos/2453196.shtml"
+    },
+    {
+     "id": "2073047",
+     "t": "Vale más un voto en Lleida que en Barcelona: lo que debes saber del sistema electoral",
+     "d": "05-02-2021 10:41:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210205/sistema-electoral-catalan-reparto-votos-provincias/2073047.shtml"
+    },
+    {
+     "id": "511481",
+     "t": "Foro recurrirá para que no se admitan 322 votos de emigrantes que sí aceptó la Junta Electoral",
+     "d": "28-03-2012 17:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120328/foro-recurrira-para-no-se-admitan-322-votos-emigrantes-si-acepto-junta-electoral/511481.shtml"
+    },
+    {
+     "id": "286287",
+     "t": "Las elecciones de Kirguizistán no alcanzan los estándares de la OSCE",
+     "d": "24-07-2009 12:43:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090724/las-elecciones-de-kirguizistan-no-alcanzan-los-estandares-de-la-osce/286287.shtml"
+    },
+    {
+     "id": "1526041",
+     "t": "El nuevo recuento de votos ratifica al oficialista Lenín Moreno como presidente electo de Ecuador",
+     "d": "19-04-2017 13:04:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170419/nuevo-recuento-parcial-ratifica-a-lenin-moreno-como-presidente-electo-ecuador/1526041.shtml"
+    },
+    {
+     "id": "1276369",
+     "t": "El bipartidismo se desploma pero la ley electoral mantiene a flote a PP y PSOE",
+     "d": "21-12-2015 09:37:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20151221/bipartidismo-se-desploma-pero-ley-electoral-mantiene-a-flote-a-pp-psoe/1276369.shtml"
+    },
+    {
+     "id": "1989214",
+     "t": "Papeletas nulas, censos inflados, voto por correo y otros bulos sobre el fraude electoral",
+     "d": "08-11-2019 10:54:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191108/verifica-rtve-papeletas-nulas-censos-inflados-voto-por-correo-otros-bulos-sobre-fraude-electoral/1989214.shtml"
+    },
+    {
+     "id": "2453087",
+     "t": "El PSOE solicita revisar los votos nulos en Madrid para intentar recuperar el escaño perdido a favor del PP",
+     "d": "30-07-2023 16:07:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230730/psoe-revision-votos-nulos-madrid-recuperar-escano-voto-cera/2453087.shtml"
+    },
+    {
+     "id": "1522800",
+     "t": "El Consejo Electoral de Ecuador revisará 1,2 millones de votos de las elecciones",
+     "d": "14-04-2017 07:37:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170414/consejo-electoral-ecuador-revisara-12-millones-votos-elecciones/1522800.shtml"
+    },
+    {
+     "id": "642640",
+     "t": "El equipo de Capriles solicita ante el Consejo Electoral de Venezuela el recuento voto a voto",
+     "d": "18-04-2013 02:06:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130418/equipo-capriles-solicita-ante-consejo-electoral-recuento-voto-a-voto/642640.shtml"
+    },
+    {
+     "id": "16868615",
+     "t": "Votos, paraguas y presidentes de mesa ausentes: crónica de la jornada electoral en Extremadura",
+     "d": "21-12-2025 11:56:14",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251221/votos-paraguas-presidentes-mesa-ausentes-cronica-primeras-horas-jornada-electoral-extremadura/16868615.shtml"
+    },
+    {
+     "id": "1989423",
+     "t": "Más de 900.000 personas han enviado sus papeletas tras finalizar el plazo del voto por correo",
+     "d": "08-11-2019 18:36:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191108/mas-900000-ciudadanos-ya-han-enviado-su-voto-por-correo/1989423.shtml"
+    },
+    {
+     "id": "2070623",
+     "t": "El miedo a la COVID como argumento para renunciar a la mesa electoral: \"Antes del voto está el derecho a la salud\"",
+     "d": "29-01-2021 15:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210129/miedo-mesas-electorales-coronavirus/2070623.shtml"
+    },
+    {
+     "id": "290002",
+     "t": "Karzai aventaja por dos puntos a Abdulá con un 10% de los votos escrutados",
+     "d": "25-08-2009 15:19:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090825/karzai-aventaja-por-dos-puntos-a-abdula-con-un-10-de-los-votos-escrutados/290002.shtml"
+    },
+    {
+     "id": "2447224",
+     "t": "¿Qué está pasando en Melilla con el voto por correo? Las claves de un supuesto fraude electoral",
+     "d": "23-05-2023 14:57:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230523/claves-fraude-voto-correo-melilla/2447224.shtml"
+    },
+    {
+     "id": "2045597",
+     "t": "El voto adelantado por la pandemia bate récord en EE.UU.: más de 17 millones ya han participado en las elecciones",
+     "d": "15-10-2020 18:27:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20201015/record-voto-adelantado-elecciones-estados-unidos/2045597.shtml"
+    },
+    {
+     "id": "2455737",
+     "t": "El Constitucional desestima por unanimidad la petición del PSOE para el recuento del voto nulo en Madrid del 23J",
+     "d": "12-09-2023 11:36:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230912/constitucional-desestima-unanimidad-recurso-psoe-recuento-votos-nulos-madrid/2455737.shtml"
+    },
+    {
+     "id": "16113561",
+     "t": "La Junta Electoral de Barcelona rechaza la petición de Junts de repetir el voto exterior",
+     "d": "21-05-2024 22:22:11",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240521/junta-electoral-barcelona-rechaza-peticion-junts-repetir-voto-exterior/16113561.shtml"
+    },
+    {
+     "id": "17106247",
+     "t": "Recuento electoral en Perú: mínima ventaja para Fujimori",
+     "d": "08-06-2026 17:16:25",
+     "dur": 366759,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/hora-america/recuento-electoral-peru-minima-ventaja-para-fujimori/17106247/"
+    },
+    {
+     "id": "291314",
+     "t": "La Comisión Electoral anula unos 200.000 votos en Afganistán mientras Karzai roza la mayoría",
+     "d": "06-09-2009 16:28:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090906/la-comision-electoral-anula-unos-200-000-votos-en-afganistan-mientras-karzai-roza-la-mayoria/291314.shtml"
+    },
+    {
+     "id": "573620",
+     "t": "El recuento en Florida se retrasa por la alta participación y la escasa diferencia de votos",
+     "d": "08-11-2012 08:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20121108/recuento-florida-se-retrasa-por-alta-participacion-escasa-diferencia-votos/573620.shtml"
+    },
+    {
+     "id": "305844",
+     "t": "El Tribunal Constitucional rumano confirma la victoria de Basescu en la segunda vuelta electoral",
+     "d": "14-12-2009 18:09:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20091214/el-tribunal-constitucional-rumano-confirma-la-victoria-de-basescu-en-la-segunda-vuelta-electoral/305844.shtml"
+    },
+    {
+     "id": "1929220",
+     "t": "Las anécdotas del 28A: Un vocal detenido, famosos en las mesas y papeletas de 'Cuidadanos' en Extremadura",
+     "d": "28-04-2019 17:58:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190428/anecdotas-del-28a-vocal-detenido-famosos-mesas-papeletas-cuidadanos-extremadura/1929220.shtml"
+    },
+    {
+     "id": "1985400",
+     "t": "Evo Morales es el virtual ganador en la primera vuelta de las elecciones en Bolivia",
+     "d": "25-10-2019 01:41:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191025/evo-morales-virtual-ganador-primera-vuelta-elecciones-bolivia/1985400.shtml"
+    },
+    {
+     "id": "177068",
+     "t": "No es un hombre un voto; gana el que consiga 270 delegados",
+     "d": "13-10-2008 09:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20081013/no-hombre-voto-gana-consiga-270-delegados/177068.shtml"
+    },
+    {
+     "id": "324522",
+     "t": "La Comisión Electoral iraquí rechaza recontar los votos de las legislativas tras pedirlo Maliki",
+     "d": "21-03-2010 08:25:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100321/comision-electoral-iraqui-rechaza-recontar-votos-legislativas-tras-pedirlo-maliki/324522.shtml"
+    },
+    {
+     "id": "1927475",
+     "t": "La Junta Electoral amplía el plazo del voto por correo hasta el próximo viernes",
+     "d": "24-04-2019 16:09:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190424/junta-electoral-amplia-plazo-del-voto-por-correo-hasta-proximo-viernes/1927475.shtml"
+    },
+    {
+     "id": "1628280",
+     "t": "La oposición venezolana denuncia la reubicación de centros de voto en sus feudos",
+     "d": "14-10-2017 08:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20171014/oposicion-venezolana-denuncia-reubicacion-centros-voto-feudos/1628280.shtml"
+    },
+    {
+     "id": "17254372",
+     "t": "Pros y contras del adelanto electoral para PSOE y PP: de la movilización al trasvase de voto",
+     "d": "06-10-2026 06:00:48",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261006/elecciones-pros-contras-psoe-pp-adelanto-electoral-movilizacion-voto/17254372.shtml"
+    },
+    {
+     "id": "292692",
+     "t": "Karzai logra la mayoría absoluta en Afganistán pero tendrá que esperar para cantar victoria",
+     "d": "16-09-2009 16:43:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090916/karzai-logra-mayoria-absoluta-afganistan-pero-tendra-esperar-para-cantar-victoria/292692.shtml"
+    },
+    {
+     "id": "16200988",
+     "t": "La autoridad electoral chavista anuncia la victoria de Maduro en Venezuela con el 51,20% de los votos",
+     "d": "29-07-2024 11:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240729/elecciones-venezuela-2024-cronica-resultados/16200988.shtml"
+    },
+    {
+     "id": "17256452",
+     "t": "Correos: \"El voto por correo es absolutamente seguro\"",
+     "d": "07-10-2026 09:38:20",
+     "dur": 570600,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/correos-voto-correo-absolutamente-seguro/17256452/"
+    },
+    {
+     "id": "1362851",
+     "t": "Rajoy cierra la campaña llamando a la \"unión de votos y esfuerzos\" para ganar a Unidos Podemos",
+     "d": "24-06-2016 23:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160624/rajoy-cierra-campana-llamando-a-union-votos-esfuerzos-para-ganar-a-unidos-podemos/1362851.shtml"
+    },
+    {
+     "id": "543699",
+     "t": "Continúa el escrutinio electoral en México en medio de las protestas por compra de votos",
+     "d": "08-07-2012 01:58:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120708/continua-escrutinio-electoral-mexico-medio-protestas-por-compra-votos/543699.shtml"
+    },
+    {
+     "id": "2447658",
+     "t": "La mitad del voto por correo en Melilla queda sin efecto el 28M en medio de la presunta trama de compra de votos",
+     "d": "26-05-2023 17:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230526/voto-por-correo-melilla-elecciones-28m/2447658.shtml"
+    }
+   ]
+  }
+ },
+ "simulacro transmisión datos elecciones": {
+  "https://api2.rtve.es/api/search/contents?search=simulacro%20transmisi%C3%B3n%20datos%20elecciones&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=simulacro%20transmisi%C3%B3n%20datos%20elecciones&size=40": {
+   "n": 402201,
+   "items": [
+    {
+     "id": "434207",
+     "t": "Un súper láser logra un nuevo récord en la velocidad de transmisión de datos",
+     "d": "23-05-2011 17:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110523/super-laser-logra-nuevo-record-velocidad-transmision-datos/434207.shtml"
+    },
+    {
+     "id": "17324399",
+     "t": "No es un ensayo de pucherazo: los fallos de Indra en los simulacros de jornada electoral no prueban un fraude",
+     "d": "21-11-2026 11:57:27",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261121/no-pucherazo-fallos-simulacros-jornada-electoral-no-prueban-fraude/17324399.shtml"
+    },
+    {
+     "id": "17317754",
+     "t": "Hora y dónde ver hoy en TV el debate de RTVE entre los portavoces parlamentarios de las elecciones 2026",
+     "d": "22-11-2026 07:30:38",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20261122/debate-elecciones-generales-2026-horario-donde-ver/17317754.shtml"
+    },
+    {
+     "id": "2072327",
+     "t": "La vacuna de AstraZeneca reduce un 67% los contagios después de la primera dosis, según datos preliminares",
+     "d": "03-02-2021 11:39:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210203/vacuna-astrazeneca-reduce-67-contagios-despues-primera-dosis-segun-datos-preliminares/2072327.shtml"
+    },
+    {
+     "id": "1387380",
+     "t": "China lanza un satélite de comunicación cuántica para explorar la teleportación",
+     "d": "17-08-2016 11:31:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160817/china-lanza-satelite-comunicacion-cuantica-para-explorar-teleportacion/1387380.shtml"
+    },
+    {
+     "id": "298383",
+     "t": "La píldora del día después multiplica por cuatro sus ventas",
+     "d": "30-10-2009 14:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20091030/pildora-del-dia-despues-multiplica-por-cuatro-ventas/298383.shtml"
+    },
+    {
+     "id": "282684",
+     "t": "Todos los móviles se cargarán por Micro USB en dos años",
+     "d": "29-06-2009 17:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090629/todos-moviles-se-cargaran-por-micro-usb-dos-anos/282684.shtml"
+    },
+    {
+     "id": "2002100",
+     "t": "La OMS asegura que \"todos los escenarios siguen estando sobre la mesa\" respecto al brote de coronavirus",
+     "d": "17-02-2020 17:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20200217/oms-asegura-todos-escenarios-siguen-estando-sobre-mesa-respecto-brote-coronavirus/2002100.shtml"
+    },
+    {
+     "id": "2428493",
+     "t": "Los partidos de la oposición de Nigeria piden cancelar y repetir las elecciones presidenciales por supuesto fraude",
+     "d": "28-02-2023 19:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230228/partidos-oposicion-nigeria-piden-cancelar-elecciones-presidenciales/2428493.shtml"
+    },
+    {
+     "id": "17281083",
+     "t": "5.0 - La cultura del dato y el Oppo Find X10 - 25/10/26",
+     "d": "25-10-2026 10:50:42",
+     "dur": 2072686,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/50/cultura-del-dato-oppo-find-x10/17281083/"
+    },
+    {
+     "id": "17302510",
+     "t": "Barbados erradica la transmisión del VIH y la sífilis maternoinfantil",
+     "d": "06-11-2026 08:23:18",
+     "dur": 66000,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/barbados-erradica-transmision-del-vih-sifilis-maternoinfantil/17302510/"
+    },
+    {
+     "id": "1989375",
+     "t": "Directo | Los partidos cierran la campaña de las elecciones generales del 10N",
+     "d": "08-11-2019 22:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191108/cierre-campana-elecciones-del-10n-2019-directo/1989375.shtml"
+    },
+    {
+     "id": "16137595",
+     "t": "Debate elecciones europeas 2024 en RTVE: contexto, datos y verificación",
+     "d": "07-06-2024 16:12:30",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240607/debate-elecciones-europeas-2024-rtve-contexto-datos-verificacion/16137595.shtml"
+    },
+    {
+     "id": "16960835",
+     "t": "Castilla y León, en datos: la comunidad más grande de España no logra frenar la despoblación ni el envejecimiento",
+     "d": "03-03-2026 07:42:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260303/castilla-leon-datos-radiografia-despoblacion-envejecimiento/16960835.shtml"
+    },
+    {
+     "id": "304894",
+     "t": "Evo Morales perfila su gobierno sin datos oficiales de las elecciones",
+     "d": "08-12-2009 01:34:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20091208/evo-morales-perfila-su-gobierno-sin-datos-oficiales-de-las-elecciones/304894.shtml"
+    },
+    {
+     "id": "16064363",
+     "t": "Verificación del último debate de las elecciones vascas: rifirrafe por los datos económicos",
+     "d": "17-04-2024 16:00:58",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240417/elecciones-vascas-2024-verificacion-datos-ultimo-debate/16064363.shtml"
+    },
+    {
+     "id": "1124940",
+     "t": "El presidente del Gobierno, Mariano Rajoy, en 'Las mañanas de RNE': \"El dato del paro es sensacional\"",
+     "d": "06-04-2015 12:34:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20150406/presidente-del-gobierno-mariano-rajoy-mananas-rne-dato-del-paro-sensacional/1124940.shtml"
+    },
+    {
+     "id": "1989201",
+     "t": "Más de 1.300 científicos sociales acusan a Vox de recurrir a la \"mentira\" y la \"distorsión de los datos\"",
+     "d": "07-11-2019 22:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191107/cientificos-sociales-firman-manifiesto-denuncia-mentiras-vox/1989201.shtml"
+    },
+    {
+     "id": "17127528",
+     "t": "Laura Rojas-Marcos. Salud mental y sexualidad",
+     "d": "23-06-2026 11:37:36",
+     "dur": 1008160,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-aventura-del-saber/laura-rojas-marcos-salud-mental-sexualidad/17127528/"
+    },
+    {
+     "id": "1892284",
+     "t": "El PIB de Estados Unidos crece un  2,9% en 2018, el mejor dato desde 2015",
+     "d": "28-02-2019 16:22:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190228/pib-estados-unidos-crece-29-2018-mejor-dato-desde-2015/1892284.shtml"
+    },
+    {
+     "id": "1988118",
+     "t": "Directo | Así hemos contado el debate a cinco de las elecciones generales en RTVE",
+     "d": "05-11-2019 02:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191105/debate-electoral-directo-ultima-hora/1988118.shtml"
+    },
+    {
+     "id": "1987580",
+     "t": "Directo | PSOE y PP alejan la posibilidad de una gran coalición",
+     "d": "02-11-2019 00:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191102/directo-debate-electoral-a-siete-tve-con-portavoces-parlamentarios/1987580.shtml"
+    },
+    {
+     "id": "1989540",
+     "t": "Los datos del 10N: cuál es su coste, cuánta seguridad habrá y cómo se hará el recuento",
+     "d": "10-11-2019 08:27:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191110/datos-del-10n-cual-su-coste-cuanta-seguridad-habra-como-se-hara-recuento/1989540.shtml"
+    },
+    {
+     "id": "2365222",
+     "t": "El partido de López Obrador gobernará otros cuatro estados, según los datos preliminares de las elecciones regionales",
+     "d": "06-06-2022 11:45:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220606/mexico-lopez-obrador-morena-elecciones-regionales-estados/2365222.shtml"
+    },
+    {
+     "id": "17296769",
+     "t": "Los centros de datos y su impacto en la ciudadanía a examen en las elecciones legislativas en Estados Unidos",
+     "d": "02-11-2026 21:49:12",
+     "dur": 95000,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-2/centros-datos-su-impacto-ciudadania-examen-elecciones-legislativas-estados-unidos/17296769/"
+    },
+    {
+     "id": "1987073",
+     "t": "Cómo seguir el debate electoral a siete de RTVE",
+     "d": "01-11-2019 10:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191101/como-seguir-debate-electoral-a-siete-rtve/1987073.shtml"
+    },
+    {
+     "id": "2269121",
+     "t": "La comunidad más grande no tiene capital ni himno: datos y curiosidades de Castilla y León ante sus elecciones",
+     "d": "02-02-2022 17:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220202/datos-curiosidades-castilla-leon-ante-elecciones/2269121.shtml"
+    },
+    {
+     "id": "1493004",
+     "t": "La Fiscalía no ve datos nuevos en el informe policial del 11M para reabrir la causa",
+     "d": "20-02-2017 11:07:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170220/fiscalia-no-ve-datos-nuevos-informe-policial-del-11m-para-reabrir-causa/1493004.shtml"
+    },
+    {
+     "id": "1989123",
+     "t": "¿Han cambiado los discursos de los candidatos del 28A al 10N?",
+     "d": "08-11-2019 08:46:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20191108/han-cambiado-discursos-candidatos-del-28a-10n/1989123.shtml"
+    },
+    {
+     "id": "16254230",
+     "t": "El FBI dice que Irán envió datos robados de la campaña de Trump a los demócratas para influir en las elecciones",
+     "d": "19-09-2024 02:01:34",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240919/fbi-dice-iran-envio-datos-robados-campana-trump-democratas-para-influir-elecciones/16254230.shtml"
+    },
+    {
+     "id": "792040",
+     "t": "Así son las elecciones de Chile de 2013",
+     "d": "17-11-2013 07:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20131117/asi-son-elecciones-chile-2013/792040.shtml"
+    },
+    {
+     "id": "1393840",
+     "t": "¿Qué es la fiebre hemorrágica?",
+     "d": "01-09-2016 13:23:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160901/fiebre-hemorragica/1393840.shtml"
+    },
+    {
+     "id": "2057953",
+     "t": "Trump acusa a Pfizer de retrasar los datos sobre la vacuna para la COVID-19 hasta después de las elecciones",
+     "d": "20-11-2020 21:58:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20201120/trump-acusa-a-pfizer-retrasar-datos-sobre-vacuna-para-covid-19-hasta-despues-elecciones/2057953.shtml"
+    },
+    {
+     "id": "1072663",
+     "t": "Tenso recuento en las elecciones presidenciales en Túnez",
+     "d": "21-12-2014 19:34:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141221/cierre-colegios-tunez-da-paso-a-tenso-recuento-presidenciales/1072663.shtml"
+    },
+    {
+     "id": "16968253",
+     "t": "De los datos de despoblación a las cifras de empleo: verificamos el debate de las elecciones de Castilla y León en RTVE",
+     "d": "06-03-2026 12:58:58",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260306/datos-despoblacion-listas-espera-sanidad-verificamos-debate-elecciones-castilla-leon-rtve/16968253.shtml"
+    },
+    {
+     "id": "1444564",
+     "t": "WhatsApp paraliza en la Unión Europea el intercambio de datos de sus usuarios con Facebook",
+     "d": "16-11-2016 17:29:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20161116/whatsapp-paraliza-intercambio-datos-usuarios-europeos-con-facebook/1444564.shtml"
+    },
+    {
+     "id": "2088825",
+     "t": "Elecciones en la Comunidad de Madrid, tecnología y precisión excepcionales para cubrir una inesperada cita con las urnas",
+     "d": "05-05-2021 17:31:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20210505/inteligencia-artificial-elecciones-madrilenas/2088825.shtml"
+    },
+    {
+     "id": "570985",
+     "t": "Stradella, de Cesar Franck, desde Lieja",
+     "d": "19-10-2012 11:13:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20121019/stradella-cesar-franck-desde-lieja/570985.shtml"
+    },
+    {
+     "id": "492763",
+     "t": "Montoro avanza que 2011 cerrMontoro avanza que 2011 cerró con 5,4 millones de parados y luego dice que desconoce el dato",
+     "d": "26-01-2012 17:17:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120126/cristobal-montoro-adelanta-espana-termino-2011-con-54-millones-parados/492763.shtml"
+    },
+    {
+     "id": "17135849",
+     "t": "Luz de Sefarad - Congreso Internacional Zamora Legado Sefardí. Transmisión i konservasión - 05/07/26",
+     "d": "05-07-2026 10:35:58",
+     "dur": 380865,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/luz-de-sefarad/luz-sefarad-congreso-internacional-zamora-legado-sefardi-transmision-konservasion-05-07-26/17135849/"
+    }
+   ]
+  }
+ }
+}

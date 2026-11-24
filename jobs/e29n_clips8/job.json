@@ -1,0 +1,43 @@
+{
+ "id": "e29n_clips8",
+ "stage": "clips",
+ "rev": 1,
+ "title": "clips8",
+ "units": [],
+ "music": {},
+ "sources": [
+  {
+   "rtve": "17327799",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r9_sanchez_rne_a_no_aceptaran",
+     "phrase": "el partido popular y vox si no suman no van a aceptar el resultado electoral",
+     "min": 0.42,
+     "pad": [
+      5,
+      5
+     ]
+    },
+    {
+     "name": "r9_sanchez_rne_b_garantista",
+     "phrase": "tenemos un sistema electoral absolutamente garantista limpio",
+     "min": 0.42,
+     "pad": [
+      5,
+      5
+     ]
+    },
+    {
+     "name": "r9_sanchez_rne_c_aceptare",
+     "phrase": "yo aceptaré el resultado sea cual sea",
+     "min": 0.42,
+     "pad": [
+      6,
+      5
+     ]
+    }
+   ]
+  }
+ ]
+}

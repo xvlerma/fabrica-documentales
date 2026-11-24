@@ -1,0 +1,89 @@
+{
+ "id": "e29n_cap3",
+ "stage": "capturas",
+ "pages": [
+  {
+   "name": "d01_supremo_melilla",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-pena-de-dos-anos-de-prision-al-presidente-de-Coalicion-por-Melilla-y-al-exsecretario-general-del-PSOE-de-Melilla-por-falsedad-y-dos-delitos-electorales"
+  },
+  {
+   "name": "d02_supremo_ley_nietos_listado",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-da-cinco-dias-a-los-ministros-de-Justicia-y-Exteriores-para-remitir-la-relacion-nominal-de-los-163-020-afectados-por-la-llamada--Ley-de-Nietos-"
+  },
+  {
+   "name": "d20_supremo_indulto_informe",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-informa-desfavorablemente-al-indulto-del-exfiscal-general-del-Estado-Alvaro-Garcia-Ortiz-al-no-apreciar-razones-de-justicia--equidad-o-utilidad-publica"
+  },
+  {
+   "name": "o49_supremo_deniega_cautelares_hijos",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-deniega-las-medidas-cautelares-solicitadas-por-Iustitia-Europa-y-VOX-en-relacion-al-voto-de-hijos-de-personas-nacionalizadas-por-la--Ley-de-Nietos--"
+  },
+  {
+   "name": "o47_supremo_mantiene_exclusion_2011",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-mantiene-la-exclusion-como-electores-de-las-personas-afectadas-por-las-cautelares-dictadas-en-relacion-con-la-llamada--Ley-de-Nietos-"
+  },
+  {
+   "name": "o61_supremo_puigdemont_amnistia",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-declara-extinguida-la-responsabilidad-penal-de-Carles-Puigdemont-por-la-amnistia-en-la-causa-del--proces-"
+  },
+  {
+   "name": "o52_correos_nota_solicitudes",
+   "url": "https://www.correos.com/en/sala-prensa/correos-ha-admitido-1-099-687-solicitudes-de-voto-por-correo-para-las-elecciones-generales-del-29-n/"
+  },
+  {
+   "name": "o52b_correos_plazo_26n",
+   "url": "https://www.correos.com/en/sala-prensa/la-junta-electoral-central-amplia-el-plazo-para-depositar-el-voto-por-correo-hasta-el-jueves-26-de-noviembre-como-maximo-hasta-las-1400-horas/"
+  },
+  {
+   "name": "o13_jec_sesion_15102026",
+   "url": "https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos?anyosesion=2026&esinstruccion=false&idsesion=1116&template=Doctrina%2FJEC_ResBusquedaImprimir",
+   "wayback": true
+  },
+  {
+   "name": "o13_jec_acuerdos_ultima_sesion",
+   "url": "https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos",
+   "wayback": true
+  },
+  {
+   "name": "o13_jec_acuerdo_418_plazo",
+   "url": "https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos?anyosesion=2026&idacuerdoinstruccion=156427&idsesion=1122&template=Doctrina%2FJEC_Detalle",
+   "wayback": true
+  },
+  {
+   "name": "o13_jec_acuerdo_205_vox_cera",
+   "url": "https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos?anyosesion=2026&idacuerdoinstruccion=153471&idsesion=1113&template=Doctrina%2FJEC_Detalle",
+   "wayback": true
+  },
+  {
+   "name": "a05_democrata_abascal",
+   "url": "https://www.democrata.es/politica/abascal-acusa-a-sanchez-de-querer-alterar-el-voto-cera-y-avisa-de-que-recurrira-las-elecciones-si-fallan-sus-trampas/",
+   "wayback": true
+  },
+  {
+   "name": "dd_democrata_indulto_pendiente",
+   "url": "https://www.democrata.es/tribunales/un-ano-de-la-condena-a-garcia-ortiz-el-gobierno-mantiene-el-indulto-en-su-mesa-y-el-tc-vera-su-amparo-tras-el-29n/",
+   "wayback": true
+  },
+  {
+   "name": "a59_diariocritico_alvise",
+   "url": "https://www.diariocritico.com/nacional/alvise-perez-habla-de-desviaciones-de-voto-en-el-recuento",
+   "wayback": true
+  },
+  {
+   "name": "e39_pd_voto_correo_15_paises",
+   "url": "https://www.periodistadigital.com/politica/20261114/pucherazo-voto-correo-29-n-nombre-15-paises-lleva-recibo-firma-noticia-689405266604/",
+   "modal": true
+  },
+  {
+   "name": "e40_pd_2411",
+   "url": "https://www.periodistadigital.com/periodismo/periodismo-online/20261124/directo-sanchez-impulsa-pucherazo-29n-caos-voto-extranjero-correo-video-689405270395/",
+   "hide": "iframe[src*=\"youtube\"], .video-container iframe"
+  },
+  {
+   "name": "e28_esradio_tertulia_0909",
+   "url": "https://esradio.libertaddigital.com/es-la-manana-de-federico/tertulia-de-federico/2026-09-09/pucherazo-electoral-7457104/",
+   "hide": "iframe[src*=\"youtube\"]",
+   "modal": true
+  }
+ ]
+}

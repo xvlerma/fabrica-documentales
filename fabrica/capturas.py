@@ -34,6 +34,30 @@ MODAL = """
 
 def sh(*a, **k): return subprocess.run(list(a), capture_output=True, text=True, **k)
 
+CLICK = """
+(() => { const re = /rechaz|rebutj|reject|deneg|declin|solo (las )?necesarias|sólo (las )?necesarias|continuar sin aceptar/i;
+  const no = /pagar|suscri|subscri|config|ajust|prefer|pol[ií]tica|m[aá]s info/i;
+  for (const e of document.querySelectorAll('button, a, input[type=button], input[type=submit], [role=button], span, div')) {
+    const t = ((e.value || '') + ' ' + (e.childElementCount ? '' : (e.textContent || ''))).trim();
+    if (!t || t.length > 45 || !re.test(t) || no.test(t)) continue;
+    const r = e.getBoundingClientRect(); if (r.width < 8 || r.height < 8) continue;
+    e.click(); return t; }
+  return ''; })()
+"""
+
+WB = """
+(() => { let n = 0; for (const s of ['#wm-ipp-base', '#wm-ipp', '#wm-ipp-print', '#donato']) for (const e of document.querySelectorAll(s)) { e.style.setProperty('display', 'none', 'important'); n++; } return n; })()
+"""
+
+def ev(cx, p, js):
+    """evaluate que no depende del script de utilidad de Playwright (hay webs que pisan Map/Set)."""
+    try: return p.evaluate(js)
+    except Exception:
+        try:
+            r = cx.new_cdp_session(p).send('Runtime.evaluate', {'expression': js, 'returnByValue': True})
+            return (r.get('result') or {}).get('value')
+        except Exception as ex: return 'err:' + str(ex)[:40]
+
 def run(job, out_dir):
     os.makedirs(out_dir, exist_ok=True); rep = []; log = []
     def L(*a):
@@ -56,8 +80,10 @@ def run(job, out_dir):
                     cx = br.new_context(viewport=dict(width=1920, height=pg.get('h', 1300)), device_scale_factor=2, locale='es-ES',
                                         timezone_id='Europe/Madrid', user_agent=UA)
                     p = cx.new_page()
-                    resp = p.goto(url, wait_until='domcontentloaded', timeout=60000)
-                    p.wait_for_timeout(4500)
+                    wb = bool(pg.get('wayback'))
+                    resp = p.goto(('https://web.archive.org/save/' + url) if wb else url, wait_until='domcontentloaded', timeout=180000 if wb else 60000)
+                    p.wait_for_timeout(9000 if wb else 4500)
+                    if wb: ev(cx, p, WB)
                     clicked = None
                     pat = re.compile(r'rechaz|rebutj|reject|deneg|declin|solo (las )?necesarias|sólo (las )?necesarias|continuar sin aceptar', re.I)
                     for fr in p.frames:
@@ -70,18 +96,27 @@ def run(job, out_dir):
                                     if b.is_visible(): b.click(timeout=2500); clicked = 'rechazar'; break
                             except Exception: pass
                             if clicked: break
-                    p.wait_for_timeout(1200)
-                    hid = p.evaluate(HIDE); p.wait_for_timeout(600)
+                    if not clicked and not pg.get('noclick'):
+                        for _ in range(3):
+                            t = ev(cx, p, CLICK)
+                            if t and not str(t).startswith('err:'): clicked = 'rechazar-js(' + str(t)[:30] + ')'; break
+                            p.wait_for_timeout(1500)
+                    p.wait_for_timeout(1500)
+                    hid = ev(cx, p, HIDE); p.wait_for_timeout(600)
+                    if pg.get('hide'):
+                        ev(cx, p, "(() => { let n = 0; for (const e of document.querySelectorAll(%s)) { e.style.setProperty('display', 'none', 'important'); n++; } return n; })()" % json.dumps(pg['hide']))
                     if pg.get('modal'):
                         try: p.keyboard.press('Escape')
                         except Exception: pass
-                        hid = str(hid) + '+' + str(p.evaluate(MODAL)); p.wait_for_timeout(500)
-                    if pg.get('scroll'): p.evaluate(f"window.scrollTo(0, {int(pg['scroll'])})"); p.wait_for_timeout(700)
+                        hid = str(hid) + '+' + str(ev(cx, p, MODAL)); p.wait_for_timeout(500)
+                    if pg.get('scroll'): ev(cx, p, f"window.scrollTo(0, {int(pg['scroll'])})"); p.wait_for_timeout(700)
                     p.screenshot(path=f'{out_dir}/cap_{name}.png')
                     txt = ''
                     try: txt = re.sub(r'\s+', ' ', p.inner_text('body'))[:700]
-                    except Exception: pass
-                    e.update(ok=True, kind='web', status=resp.status if resp else None, final=p.url, title=p.title()[:200],
+                    except Exception: txt = re.sub(r'\s+', ' ', str(ev(cx, p, 'document.body.innerText.slice(0, 900)') or ''))[:700]
+                    try: ttl = p.title()[:200]
+                    except Exception: ttl = str(ev(cx, p, 'document.title') or '')[:200]
+                    e.update(ok=True, kind='web', status=resp.status if resp else None, final=p.url, title=ttl, via=('wayback' if wb else 'directo'),
                              cookies=clicked or f'ocultado({hid})', texto=txt, when=time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime()))
                     cx.close()
             except Exception as ex:

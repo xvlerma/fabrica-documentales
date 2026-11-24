@@ -1,0 +1,21 @@
+== 16622652: 1 vídeos, 1 subtítulos
+  r8_hasta_esta_misma_manana_rtve: True rtve16622652 1.00 39.9-49.4
+== 6146147: 1 vídeos, 0 subtítulos
+  transcribiendo rtve6146147…
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[0;93m2026-11-24 12:07:13.370699310 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+  r8_otegi_presos_presupuestos_rtve: False rtve6146147 0.07 0.8-12.0
+== 6146069: 1 vídeos, 0 subtítulos
+  transcribiendo rtve6146069…
+  r8_otegi_presos_presupuestos_rtve_b: False rtve6146069 0.14 0.7-7.7
+== 4132793: 1 vídeos, 0 subtítulos
+  transcribiendo rtve4132793…
+  r8_sanchez_dimita_rajoy_rtve: False rtve4132793 0.20 0.0-2.6
+  r8_sanchez_dimita_rajoy_rtve_b: True rtve4132793 0.93 37.3-43.2
+== 16341442: 1 vídeos, 0 subtítulos
+  transcribiendo rtve16341442…
+[in#0 @ 0x61664a8f6c80] Error opening input: Server returned 404 Not Found
+Error opening input file https://ztnr.rtve.es/ztnr/16341442.m3u8.
+Error opening input files: Server returned 404 Not Found
+  whisper rtve16341442: Command '['ffmpeg', '-loglevel', 'error', '-y', '-reconnect', '1', '-reconnect_streamed', '1', '-rw_timeout', '60000000', '-i', 'https://ztnr.rtve.es/ztnr/16341442.m3u8', '-vn', '-ac', '1', '-ar', '16000', '/tmp/clips_audio.wav']' returned non-zero exit status 8.
+  r8_aldama_sale_prision_rtve: False None 0.00 0.0-0.0

@@ -1,0 +1,50 @@
+playwright install: 0  restart hosted-compute-agent.service
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+
+d01_supremo_melilla True 200 El Tribunal Supremo confirma la pena de dos años de prisión al presidente de Coalición por
+d02_supremo_ley_nietos_listado True 200 El Tribunal Supremo da cinco días a los ministros de Justicia y Exteriores para remitir la
+d20_supremo_indulto_informe True 200 El Tribunal Supremo informa desfavorablemente al indulto del exfiscal general del Estado Á
+o49_supremo_deniega_cautelares_hijos True 200 El Tribunal Supremo deniega las medidas cautelares solicitadas por Iustitia Europa y VOX e
+o00_supremo_portada_notas True 200 Tribunal Supremo | CGPJ | Poder Judicial
+o47_supremo_mantiene_exclusion_2011 True 200 El Tribunal Supremo mantiene la exclusión como electores de las personas afectadas por las
+o61_supremo_puigdemont_amnistia True 200 El Tribunal Supremo declara extinguida la responsabilidad penal de Carles Puigdemont por l
+o52_correos_nota_solicitudes False  Page.evaluate: TypeError: Map is not a constructor
+    at parseEvaluationResultValue (<ano
+o52b_correos_plazo_26n False  Page.evaluate: TypeError: Map is not a constructor
+    at parseEvaluationResultValue (<ano
+o13_jec_sesion_15102026 True 403 Access Denied
+o13_jec_acuerdos_ultima_sesion True 403 Access Denied
+o13_jec_acuerdo_418_plazo True 403 Access Denied
+o13_jec_acuerdo_205_vox_cera True 403 Access Denied
+v45_maldita_bulos_29n True 200 Bulos, desinformaciones y contexto sobre las elecciones generales del 29 de noviembre de 2
+v60_maldita_alvise_2023 True 200 Bulos, desinformaciones y contexto de las acusaciones de pucherazo en los resultados de la
+e37_esdiario_embajadas_voto_cera True 200 Sánchez insiste en el 'pucherazo' del voto extranjero: facilita trampas para votar fuera d
+e38_esdiario_voto_exterior_2311 True 200 El voto exterior agita el 29N: sospechas de pucherazo, urnas vigiladas y escaños en juego
+e39_pd_voto_correo_15_paises True 200 El 'pucherazo' del voto por correo del 29-N no tiene nombre: en 15 países no lleva ni reci
+e40_pd_2411 True 200 Sánchez impulsa el pucherazo en el 29N: caos en el voto extranjero y por correo - Periodis
+e35_pd_inda_2806 True 200 Eduardo Inda denuncia que Sánchez avanza hacia el 'gran pucherazo' y la derecha parece no 
+e42_vozpopuli_2411 True 200 Sigue leyendo Vozpópuli | Vozpópuli
+e26_okdiario_inda_pumpido True 200 Inda: "Al caudillo Sánchez ya sólo le queda esperar a que Pumpido llegue a tiempo para sal
+e28_esradio_tertulia_0909 True 200 Tertulia de Federico: Pucherazo electoral - esRadio
+a19_elplural_jusapol True 200 Registro Cookies
+a50_esdiario_iustitia_europa True 200 Iustitia Europa logra que el Supremo blinde la suspensión del voto a más de 162.000 benefi
+a53_esdiario_voto_correo_huelga True 200 El voto por correo cae un 58% respecto a 2023 para las elecciones del 29N
+a57_estrelladigital_defensa True 200 Sánchez acelera 26.000 millones en Defensa antes del 29-N
+a59_diariocritico_alvise True 403 Un momento…
+a62_infobae_circulo_proces True 200 Sánchez considera que con la amnistía a Puigdemont "se cierra el círculo" del procés - Inf
+a05_democrata_abascal True 403 ERROR: The request could not be satisfied
+a06_cope_abascal_palencia True 200 Abascal acusa en Palencia a Pedro Sánchez de intentar "robar las elecciones" y pide una mo
+a09_moncloacom_feijoo_jec True 200 Feijóo exige a la Junta Electoral Central blindar el voto por correo del PP ante el 29-N
+dd_articulo14_pagos_metalico True 403 Ferraz informa al Supremo de que retiró casi un millón de euros de su cuenta para pagos en
+dd_noticiasdenavarra_servinabar True 200 La UCO informa al Supremo de que Cerdán pagó 6.000 euros por el 45% de Servinabar
+dd_euronews_sepi_25 True 200 
+dd_ara_okdiario_pago_koldo True 200 El digital de Eduardo Inda, 'OK Diario', ha pagado más de 240.000 euros para la defensa de
+dd_infobae_primarias_2014 True 200 La UCO revela que Santos Cerdán ordenó a Koldo amañar las primarias del PSOE que ganó Sánc
+dd_moncloacom_auto_begona True 200 Apertura de juicio oral contra Begoña Gómez por tráfico de influencias y malversación
+dd_pressdigital_hernani True 200 Seguridad: grupo interrumpe acto del PP en Hernani
+dd_democrata_indulto_pendiente True 403 ERROR: The request could not be satisfied

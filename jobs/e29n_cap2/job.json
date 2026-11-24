@@ -1,0 +1,172 @@
+{
+ "id": "e29n_cap2",
+ "stage": "capturas",
+ "rev": 1,
+ "title": "capturas2",
+ "units": [],
+ "music": {},
+ "pages": [
+  {
+   "name": "d01_supremo_melilla",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-pena-de-dos-anos-de-prision-al-presidente-de-Coalicion-por-Melilla-y-al-exsecretario-general-del-PSOE-de-Melilla-por-falsedad-y-dos-delitos-electorales"
+  },
+  {
+   "name": "d02_supremo_ley_nietos_listado",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-da-cinco-dias-a-los-ministros-de-Justicia-y-Exteriores-para-remitir-la-relacion-nominal-de-los-163-020-afectados-por-la-llamada--Ley-de-Nietos-"
+  },
+  {
+   "name": "d20_supremo_indulto_informe",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-informa-desfavorablemente-al-indulto-del-exfiscal-general-del-Estado-Alvaro-Garcia-Ortiz-al-no-apreciar-razones-de-justicia--equidad-o-utilidad-publica"
+  },
+  {
+   "name": "o49_supremo_deniega_cautelares_hijos",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-deniega-las-medidas-cautelares-solicitadas-por-Iustitia-Europa-y-VOX-en-relacion-al-voto-de-hijos-de-personas-nacionalizadas-por-la--Ley-de-Nietos--"
+  },
+  {
+   "name": "o00_supremo_portada_notas",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/"
+  },
+  {
+   "name": "o47_supremo_mantiene_exclusion_2011",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-mantiene-la-exclusion-como-electores-de-las-personas-afectadas-por-las-cautelares-dictadas-en-relacion-con-la-llamada--Ley-de-Nietos-"
+  },
+  {
+   "name": "o61_supremo_puigdemont_amnistia",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-declara-extinguida-la-responsabilidad-penal-de-Carles-Puigdemont-por-la-amnistia-en-la-causa-del--proces-"
+  },
+  {
+   "name": "o52_correos_nota_solicitudes",
+   "url": "https://www.correos.com/en/sala-prensa/correos-ha-admitido-1-099-687-solicitudes-de-voto-por-correo-para-las-elecciones-generales-del-29-n/"
+  },
+  {
+   "name": "o52b_correos_plazo_26n",
+   "url": "https://www.correos.com/en/sala-prensa/la-junta-electoral-central-amplia-el-plazo-para-depositar-el-voto-por-correo-hasta-el-jueves-26-de-noviembre-como-maximo-hasta-las-1400-horas/"
+  },
+  {
+   "name": "o13_jec_sesion_15102026",
+   "url": "https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos?anyosesion=2026&esinstruccion=false&idsesion=1116&template=Doctrina%2FJEC_ResBusquedaImprimir"
+  },
+  {
+   "name": "o13_jec_acuerdos_ultima_sesion",
+   "url": "https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos"
+  },
+  {
+   "name": "o13_jec_acuerdo_418_plazo",
+   "url": "https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos?anyosesion=2026&idacuerdoinstruccion=156427&idsesion=1122&template=Doctrina%2FJEC_Detalle"
+  },
+  {
+   "name": "o13_jec_acuerdo_205_vox_cera",
+   "url": "https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos?anyosesion=2026&idacuerdoinstruccion=153471&idsesion=1113&template=Doctrina%2FJEC_Detalle"
+  },
+  {
+   "name": "v45_maldita_bulos_29n",
+   "url": "https://maldita.es/desinfo/20261106/bulos-desinformaciones-elecciones-29-noviembre-2026/",
+   "modal": true
+  },
+  {
+   "name": "v60_maldita_alvise_2023",
+   "url": "https://maldita.es/malditobulo/20230724/desmentido-fraude-electoral-alvise-perez/",
+   "modal": true
+  },
+  {
+   "name": "e37_esdiario_embajadas_voto_cera",
+   "url": "https://www.esdiario.com/nacional/261016/200438/sanchez-pucherazo-voto-cera.html"
+  },
+  {
+   "name": "e38_esdiario_voto_exterior_2311",
+   "url": "https://www.esdiario.com/nacional/261123/203610/supremo-estrecha-cerco-voto-exterior-contradicciones-gobierno-sanchez.html"
+  },
+  {
+   "name": "e39_pd_voto_correo_15_paises",
+   "url": "https://www.periodistadigital.com/politica/20261114/pucherazo-voto-correo-29-n-nombre-15-paises-lleva-recibo-firma-noticia-689405266604/"
+  },
+  {
+   "name": "e40_pd_2411",
+   "url": "https://www.periodistadigital.com/periodismo/periodismo-online/20261124/directo-sanchez-impulsa-pucherazo-29n-caos-voto-extranjero-correo-video-689405270395/"
+  },
+  {
+   "name": "e35_pd_inda_2806",
+   "url": "https://www.periodistadigital.com/politica/parlamento/20260628/eduardo-inda-denuncia-sanchez-avanza-gran-pucherazo-feijoo-abascal-parecen-enterarse-noticia-689405223658/"
+  },
+  {
+   "name": "e42_vozpopuli_2411",
+   "url": "https://www.vozpopuli.com/espana/politica/sanchez-alienta-la-sombra-del-pucherazo-pp-y-vox-no-van-a-aceptar-el-resultado-de-las-elecciones-si-no-ganan.html"
+  },
+  {
+   "name": "e26_okdiario_inda_pumpido",
+   "url": "https://okdiario.com/opinion/inda-caudillo-sanchez-ya-solo-queda-esperar-que-pumpido-llegue-tiempo-salvar-pucherazo-20252338"
+  },
+  {
+   "name": "e28_esradio_tertulia_0909",
+   "url": "https://esradio.libertaddigital.com/es-la-manana-de-federico/tertulia-de-federico/2026-09-09/pucherazo-electoral-7457104/"
+  },
+  {
+   "name": "a19_elplural_jusapol",
+   "url": "https://www.elplural.com/politica/espana/policias-guardias-civiles-alian-vox-difunden-bulo-pucherazo-electoral_804977102"
+  },
+  {
+   "name": "a50_esdiario_iustitia_europa",
+   "url": "https://www.esdiario.com/nacional/261120/203523/iustitia-europa-logra-supremo-blinde-suspension-voto-162-000-beneficiarios-ley-nietos.html"
+  },
+  {
+   "name": "a53_esdiario_voto_correo_huelga",
+   "url": "https://www.esdiario.com/nacional/261120/203483/voto-correo-cae-58-respecto-2023-elecciones-29n.html"
+  },
+  {
+   "name": "a57_estrelladigital_defensa",
+   "url": "https://www.estrelladigital.es/seguridad-defensa/sanchez-26000-millones-defensa-29-n/20261123184126453801.html"
+  },
+  {
+   "name": "a59_diariocritico_alvise",
+   "url": "https://www.diariocritico.com/nacional/alvise-perez-habla-de-desviaciones-de-voto-en-el-recuento"
+  },
+  {
+   "name": "a62_infobae_circulo_proces",
+   "url": "https://www.infobae.com/espana/agencias/2026/11/24/sanchez-considera-que-con-la-amnistia-a-puigdemont-se-cierra-el-circulo-del-proces/"
+  },
+  {
+   "name": "a05_democrata_abascal",
+   "url": "https://www.democrata.es/politica/abascal-acusa-a-sanchez-de-querer-alterar-el-voto-cera-y-avisa-de-que-recurrira-las-elecciones-si-fallan-sus-trampas/"
+  },
+  {
+   "name": "a06_cope_abascal_palencia",
+   "url": "https://www.cope.es/emisoras/castilla-y-leon/palencia-provincia/palencia/noticias/abascal-acusa-palencia-pedro-sanchez-intentar-robar-elecciones-pide-movilizacion-masiva-impedirlo-20261123_3480623.html"
+  },
+  {
+   "name": "a09_moncloacom_feijoo_jec",
+   "url": "https://www.moncloa.com/2026/10/08/feijoo-jec-voto-correo-pp-3444231/"
+  },
+  {
+   "name": "dd_articulo14_pagos_metalico",
+   "url": "https://www.articulo14.es/politica/ferraz-informa-al-supremo-de-que-retiro-casi-un-millon-de-euros-de-su-cuenta-para-pagos-en-metalico-20251028.html"
+  },
+  {
+   "name": "dd_noticiasdenavarra_servinabar",
+   "url": "https://www.noticiasdenavarra.com/politica/2025/06/24/uco-informa-supremo-cerdan-pago-9802027.html"
+  },
+  {
+   "name": "dd_euronews_sepi_25",
+   "url": "https://es.euronews.com/2026/06/29/el-juez-amplia-el-caso-leire-e-investiga-a-25-personas-incluida-la-presidenta-de-la-sepi"
+  },
+  {
+   "name": "dd_ara_okdiario_pago_koldo",
+   "url": "https://es.ara.cat/politica/okdiario-paga-240-000-euros-defensa-condenado-koldo-garcia_1_5893969.html"
+  },
+  {
+   "name": "dd_infobae_primarias_2014",
+   "url": "https://www.infobae.com/espana/2025/06/12/la-uco-senala-que-santos-cerdan-ordeno-a-koldo-amanar-las-primarias-del-psoe-que-gano-sanchez-apuntas-como-que-han-votado-y-metes-las-dos-papeletas/"
+  },
+  {
+   "name": "dd_moncloacom_auto_begona",
+   "url": "https://www.moncloa.com/2026/09/21/juicio-begona-gomez-3435147"
+  },
+  {
+   "name": "dd_pressdigital_hernani",
+   "url": "https://www.pressdigital.es/articulo/politica/2026-11-14/6091723-seguridad-grupo-interrumpe-acto-pp-hernani"
+  },
+  {
+   "name": "dd_democrata_indulto_pendiente",
+   "url": "https://www.democrata.es/tribunales/un-ano-de-la-condena-a-garcia-ortiz-el-gobierno-mantiene-el-indulto-en-su-mesa-y-el-tc-vera-su-amparo-tras-el-29n/"
+  }
+ ]
+}

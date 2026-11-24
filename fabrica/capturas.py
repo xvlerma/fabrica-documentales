@@ -22,6 +22,16 @@ HIDE = """
 })()
 """
 
+MODAL = """
+(() => { let n = 0; const A = innerWidth * innerHeight;
+  for (const e of document.querySelectorAll('body *')) { const c = getComputedStyle(e);
+    if (c.position !== 'fixed') continue; const r = e.getBoundingClientRect();
+    if (r.width * r.height > 0.12 * A && !(r.top <= 0 && r.height < 220)) { e.style.setProperty('display', 'none', 'important'); n++; } }
+  for (const e of document.querySelectorAll('[role=dialog],[aria-modal=true]')) { e.style.setProperty('display', 'none', 'important'); n++; }
+  for (const e of [document.documentElement, document.body]) e.style.setProperty('overflow', 'auto', 'important');
+  return n; })()
+"""
+
 def sh(*a, **k): return subprocess.run(list(a), capture_output=True, text=True, **k)
 
 def run(job, out_dir):
@@ -49,15 +59,23 @@ def run(job, out_dir):
                     resp = p.goto(url, wait_until='domcontentloaded', timeout=60000)
                     p.wait_for_timeout(4500)
                     clicked = None
+                    pat = re.compile(r'rechaz|rebutj|reject|deneg|declin|solo (las )?necesarias|sólo (las )?necesarias|continuar sin aceptar', re.I)
                     for fr in p.frames:
                         if clicked: break
-                        for t in REJECT:
+                        for role in ('button', 'link'):
                             try:
-                                b = fr.get_by_role('button', name=re.compile('^' + re.escape(t) + '$', re.I)).first
-                                if b.count() and b.is_visible(): b.click(timeout=2500); clicked = t; break
+                                bs = fr.get_by_role(role, name=pat)
+                                for i in range(min(bs.count(), 4)):
+                                    b = bs.nth(i)
+                                    if b.is_visible(): b.click(timeout=2500); clicked = 'rechazar'; break
                             except Exception: pass
+                            if clicked: break
                     p.wait_for_timeout(1200)
                     hid = p.evaluate(HIDE); p.wait_for_timeout(600)
+                    if pg.get('modal'):
+                        try: p.keyboard.press('Escape')
+                        except Exception: pass
+                        hid = str(hid) + '+' + str(p.evaluate(MODAL)); p.wait_for_timeout(500)
                     if pg.get('scroll'): p.evaluate(f"window.scrollTo(0, {int(pg['scroll'])})"); p.wait_for_timeout(700)
                     p.screenshot(path=f'{out_dir}/cap_{name}.png')
                     txt = ''

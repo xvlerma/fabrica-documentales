@@ -1,0 +1,83 @@
+{
+ "id": "e29n_clips9",
+ "stage": "clips",
+ "rev": 1,
+ "title": "clips9",
+ "units": [],
+ "music": {},
+ "sources": [
+  {
+   "rtve": "17327799",
+   "only": [
+    "zzz"
+   ],
+   "find": [
+    {
+     "name": "r9_sanchez_rne_51_recortado_voto",
+     "phrase": "x",
+     "at": [
+      372,
+      392
+     ],
+     "pad": [
+      2,
+      2.5
+     ],
+     "min": 0.0
+    },
+    {
+     "name": "r9_sanchez_rne_62_se_cierra_el_circulo",
+     "phrase": "x",
+     "at": [
+      1694,
+      1709
+     ],
+     "pad": [
+      2,
+      2.5
+     ],
+     "min": 0.0
+    },
+    {
+     "name": "r9_sanchez_rne_63a_hermano_esposa",
+     "phrase": "x",
+     "at": [
+      1350,
+      1380
+     ],
+     "pad": [
+      2,
+      2.5
+     ],
+     "min": 0.0
+    },
+    {
+     "name": "r9_sanchez_rne_63b_van_a_por_ellos",
+     "phrase": "x",
+     "at": [
+      1394,
+      1426
+     ],
+     "pad": [
+      2,
+      2.5
+     ],
+     "min": 0.0
+    },
+    {
+     "name": "r9_sanchez_rne_a2_no_tengo_claro",
+     "phrase": "x",
+     "at": [
+      390,
+      404
+     ],
+     "pad": [
+      2,
+      2.5
+     ],
+     "min": 0.0
+    }
+   ]
+  }
+ ]
+}

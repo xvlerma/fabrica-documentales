@@ -1,0 +1,36 @@
+playwright install: 0  restart hosted-compute-agent.service
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+
+v20_newtral_bulos_29n True 200 Los bulos difundidos de cara a las elecciones del 29N
+v21_verificat_rumores_fraude True 200 ¿Por qué los rumores de fraude electoral para el 29N son infundados? Estos son los mecanis
+v44_newtral_tiktok True 200 Así circula en TikTok el relato del supuesto “pucherazo” el 29N
+v45_maldita_bulos_29n True 200 Bulos, desinformaciones y contexto sobre las elecciones generales del 29 de noviembre de 2
+v60_maldita_alvise_2023 True 200 Bulos, desinformaciones y contexto de las acusaciones de pucherazo en los resultados de la
+vx_rtve_verifica_indra_simulacros True 200 No es un pucherazo, sino fallos en un simulacro del 29N
+d01_supremo_melilla True 200 El Tribunal Supremo confirma la pena de dos años de prisión al presidente de Coalición por
+d02_supremo_ley_nietos_listado True 200 El Tribunal Supremo da cinco días a los ministros de Justicia y Exteriores para remitir la
+d20_supremo_indulto_informe True 200 El Tribunal Supremo informa desfavorablemente al indulto del exfiscal general del Estado Á
+d09_moncloa_regularizacion True 200 La Moncloa. El plazo de presentación para la regularización extraordinaria concluye con 1.
+d14_bde_deuda_sept26 True 200 La deuda de las Administraciones Públicas se situó en septiembre de 2026 en el 100,3 % del
+d14_bde_deuda_nota True  
+d15_cje_emancipacion_2025 True  
+d17_boe_stc_183_2021 True  
+d17_boe_stc_148_2021 True  
+a11_ld_pp_junta_voto_correo True 200 El PP reclama a la Junta Electoral los datos del voto por correo que manejan Interior y el
+a13_moncloacom_jec_rechaza_controles True 200 Junta Electoral Central rechaza los controles extra de PP y Vox al voto por correo
+a18_pd_titular_tras_salvados True 200 Las redes alertan de lo más escalofriante de la entrevista de Sánchez en laSexta: “El resu
+a47_la7tv_supremo_orden_2011 True 200 El Supremo ordena impedir el voto a más de 162.000 nacionalizados por la 'ley de nietos' e
+a48_efe_infobae_ley_nietos_cifras True 200 La ley de nietos pone en jaque el voto exterior en las elecciones generales en España - In
+a49_theobjective_supremo_rechaza_hijos True 200 El Supremo rechaza suspender el voto a los hijos de los nacionalizados por la ‘ley de niet
+a52_moncloacom_correos_solicitudes True 200 Correos admite 1.099.687 solicitudes de voto por correo para el 29N: por qué cae un 58% re
+a54_elcierre_indra_contrato_9m True 200 Indra, entre Anticorrupción y las urnas: Un contrato electoral de 9 millones y acuerdos 'd
+a55_elindependiente_anticorrupcion_defensa True 200 Anticorrupción investiga irregularidades en contratos de Defensa por más de 6.000 millones
+a56_elindependiente_contrato_1450m True 200 El Gobierno adjudicó a Indra y Escribano un contrato de 1.450 millones de euros a dos sema
+r05_rtve_abascal_trampa True 200 Abascal insiste en que Sánchez "va a intentar cualquier tipo de trampa"
+r08_rtve_feijoo_urnas_carton True 200 Feijóo admite "inquietud" por las "urnas de cartón" en consulados para los nacionalizados 
+r04_rtve_sanchez_no_aceptaran True 200 Sánchez advierte en RNE: "PP y Vox, si no suman, no van a aceptar el resultado"

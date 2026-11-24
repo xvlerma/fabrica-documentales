@@ -1,0 +1,122 @@
+{
+ "id": "e29n_cap1",
+ "stage": "capturas",
+ "rev": 1,
+ "title": "capturas1",
+ "units": [],
+ "music": {},
+ "pages": [
+  {
+   "name": "v20_newtral_bulos_29n",
+   "url": "https://www.newtral.es/bulos-elecciones-29n/20261121/"
+  },
+  {
+   "name": "v21_verificat_rumores_fraude",
+   "url": "https://www.verificat.cat/es/rumores-fraude-electoral-29n/"
+  },
+  {
+   "name": "v44_newtral_tiktok",
+   "url": "https://www.newtral.es/tiktok-circula-relato-pucherazo-29n/20261124/"
+  },
+  {
+   "name": "v45_maldita_bulos_29n",
+   "url": "https://maldita.es/desinfo/20261106/bulos-desinformaciones-elecciones-29-noviembre-2026/"
+  },
+  {
+   "name": "v60_maldita_alvise_2023",
+   "url": "https://maldita.es/malditobulo/20230724/desmentido-fraude-electoral-alvise-perez/"
+  },
+  {
+   "name": "vx_rtve_verifica_indra_simulacros",
+   "url": "https://www.rtve.es/noticias/20261121/no-pucherazo-fallos-simulacros-jornada-electoral-no-prueban-fraude/17324399.shtml"
+  },
+  {
+   "name": "d01_supremo_melilla",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-pena-de-dos-anos-de-prision-al-presidente-de-Coalicion-por-Melilla-y-al-exsecretario-general-del-PSOE-de-Melilla-por-falsedad-y-dos-delitos-electorales"
+  },
+  {
+   "name": "d02_supremo_ley_nietos_listado",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-da-cinco-dias-a-los-ministros-de-Justicia-y-Exteriores-para-remitir-la-relacion-nominal-de-los-163-020-afectados-por-la-llamada--Ley-de-Nietos-"
+  },
+  {
+   "name": "d20_supremo_indulto_informe",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-informa-desfavorablemente-al-indulto-del-exfiscal-general-del-Estado-Alvaro-Garcia-Ortiz-al-no-apreciar-razones-de-justicia--equidad-o-utilidad-publica"
+  },
+  {
+   "name": "d09_moncloa_regularizacion",
+   "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx"
+  },
+  {
+   "name": "d14_bde_deuda_sept26",
+   "url": "https://www.bde.es/wbe/es/noticias-eventos/actualidad-banco-espana/deuda-aapp-septiembre26.html"
+  },
+  {
+   "name": "d14_bde_deuda_nota",
+   "url": "https://www.bde.es/f/webbe/GAP/Secciones/SalaPrensa/NotasInformativas/26/presbe2026-106.pdf"
+  },
+  {
+   "name": "d15_cje_emancipacion_2025",
+   "url": "https://www.cje.org/download/313/2025/23596/2025-balance-general.pdf"
+  },
+  {
+   "name": "d17_boe_stc_183_2021",
+   "url": "https://www.boe.es/boe/dias/2021/11/25/pdfs/BOE-A-2021-19512.pdf"
+  },
+  {
+   "name": "d17_boe_stc_148_2021",
+   "url": "https://hj.tribunalconstitucional.es/HJ/docs/BOE/BOE-A-2021-13032.pdf"
+  },
+  {
+   "name": "a11_ld_pp_junta_voto_correo",
+   "url": "https://www.libertaddigital.com/espana/politica/2026-11-03/el-pp-reclama-a-la-junta-electoral-acceder-a-los-datos-del-voto-por-correo-que-manejan-interior-y-el-psoe-7486027/"
+  },
+  {
+   "name": "a13_moncloacom_jec_rechaza_controles",
+   "url": "https://www.moncloa.com/2026/10/17/voto-correo-vox-pp-junta-electoral-3450168/"
+  },
+  {
+   "name": "a18_pd_titular_tras_salvados",
+   "url": "https://www.periodistadigital.com/periodismo/tv/20261123/redes-alertan-escalofriante-entrevista-sanchez-lasexta-resultado-escrito-noticia-689405269722/"
+  },
+  {
+   "name": "a47_la7tv_supremo_orden_2011",
+   "url": "https://www.la7tv.es/politica/supremo-ordena-impedir-voto-mas-162000-nacionalizados-ley-nietos-29n/20261120184732075996.html"
+  },
+  {
+   "name": "a48_efe_infobae_ley_nietos_cifras",
+   "url": "https://www.infobae.com/america/agencias/2026/11/24/la-ley-de-nietos-pone-en-jaque-el-voto-exterior-en-las-elecciones-generales-en-espana/"
+  },
+  {
+   "name": "a49_theobjective_supremo_rechaza_hijos",
+   "url": "https://theobjective.com/espana/tribunales/2026-11-09/supremo-rechaza-voto-ley-nietos-nacionalizados/"
+  },
+  {
+   "name": "a52_moncloacom_correos_solicitudes",
+   "url": "https://www.moncloa.com/2026/11/20/voto-por-correo-29n-solicitudes-3471656/"
+  },
+  {
+   "name": "a54_elcierre_indra_contrato_9m",
+   "url": "https://elcierredigital.com/economia/indra-anticorrupcion-urnas-contrato-electoral-9-millones-acuerdos-oro-defensa"
+  },
+  {
+   "name": "a55_elindependiente_anticorrupcion_defensa",
+   "url": "https://www.elindependiente.com/espana/2026/11/16/anticorrupcion-investiga-irregularidades-contratos-defensa-por-mas-6-000-millones-euros-lunes/"
+  },
+  {
+   "name": "a56_elindependiente_contrato_1450m",
+   "url": "https://www.elindependiente.com/economia/2026/11/18/el-gobierno-adjudico-a-indra-y-escribano-un-contrato-de-1-450-millones-de-euros-a-dos-semanas-de-las-elecciones/"
+  },
+  {
+   "name": "r05_rtve_abascal_trampa",
+   "url": "https://www.rtve.es/noticias/20261123/abascal-insiste-sanchez-va-a-intentar-cualquier-tipo-trampa-si-no-impugnara-elecciones/17326574.shtml"
+  },
+  {
+   "name": "r08_rtve_feijoo_urnas_carton",
+   "url": "https://www.rtve.es/noticias/20261124/feijoo-inquietud-urnas-carton-consulados-nacionalizados-ley-nietos/17328311.shtml"
+  },
+  {
+   "name": "r04_rtve_sanchez_no_aceptaran",
+   "url": "https://www.rtve.es/noticias/20261124/sanchez-pide-movilizacion-contundente-29n-advierte-pp-vox-si-no-suman-no-van-a-aceptar-restado-electoral/17327851.shtml"
+  }
+ ]
+}

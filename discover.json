@@ -1,0 +1,2981 @@
+{
+ "Sánchez pide perdón Santos Cerdán": {
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20pide%20perd%C3%B3n%20Santos%20Cerd%C3%A1n&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20pide%20perd%C3%B3n%20Santos%20Cerd%C3%A1n&size=40": {
+   "n": 326379,
+   "items": [
+    {
+     "id": "16622992",
+     "t": "Sánchez pide perdón a la ciudadanía tras el informe de la UCO sobre Cerdán: \"No debimos confiar en él\"",
+     "d": "12-06-2025 21:58:26",
+     "dur": 80120,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-2/sanchez-pide-perdon-ciudadania-tras-informe-uco-sobre-cerdan-no-debimos-confiar/16622992/"
+    },
+    {
+     "id": "16622652",
+     "t": "Sánchez pide \"perdón\" a la ciudadanía tras el informe sobre Cerdán: \"No debimos confiar en él\"",
+     "d": "12-06-2025 18:02:15",
+     "dur": 1354400,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/especiales-informativos/sanchez-pide-perdon-ciudadania-tras-informe-sobre-cerdan-no-debimos-confiar/16622652/"
+    },
+    {
+     "id": "16632184",
+     "t": "Telediario 1 en cuatro minutos - 19/06/25",
+     "d": "19-06-2025 15:17:35",
+     "dur": 199880,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/telediario-1-cuatro-minutos-19-06-25-1-4-minutos-19-06-25/16632184/"
+    },
+    {
+     "id": "1719835",
+     "t": "El Año Santo Lebaniego concluye con una afluencia de 1,2 millones de peregrinos",
+     "d": "22-04-2018 15:42:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180422/ano-santo-lebaniego-concluye-con-afluencia-12-millones-peregrinos/1719835.shtml"
+    },
+    {
+     "id": "17010574",
+     "t": "El fundador de Forestalia: \"Santos Cerdán no ha hecho ningún negocio conmigo\"",
+     "d": "06-04-2026 10:56:27",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260406/caso-koldo-directo-senado-mujer-santos-cerdan-fundador-forestalia/17010574.shtml"
+    },
+    {
+     "id": "1249781",
+     "t": "Santos pide perdón y reconoce que el Estado violó derechos en el Palacio de la Justicia hace 30 años",
+     "d": "06-11-2015 20:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20151106/santos-reconoce-estado-violo-derechos-operacion-para-recuperar-palacio-justicia-hace-30-anos/1249781.shtml"
+    },
+    {
+     "id": "16624128",
+     "t": "Santos Cerdán mantiene aún su acta como diputado del Congreso y se persona en el caso Koldo",
+     "d": "13-06-2025 14:31:56",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250613/santos-cerdan-se-persona-caso-koldo-juez-pregunta-si-dejado-acta-diputado/16624128.shtml"
+    },
+    {
+     "id": "16821519",
+     "t": "Resumen de la jornada política del 19 de noviembre: Santos Cerdán sale de la cárcel",
+     "d": "19-11-2025 08:22:33",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251119/ultima-hora-politica-hoy-sesion-control-directo-resumen-19-noviembre/16821519.shtml"
+    },
+    {
+     "id": "17096803",
+     "t": "La Promesa - Santos pide perdón a Vera",
+     "d": "02-06-2026 19:15:51",
+     "dur": 358019,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-promesa/promesa-santos-pide-perdon-vera/17096803/"
+    },
+    {
+     "id": "17238872",
+     "t": "Esparza critica a Chivite por Santos Cerdán y los pactos con Bildu",
+     "d": "24-09-2026 15:13:51",
+     "dur": 93720,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telenavarra/esparza-debate-estado-comunidad/17238872/"
+    },
+    {
+     "id": "16651116",
+     "t": "Sánchez nombra a Rebeca Torró secretaria de Organización del PSOE en sustitución de Santos Cerdán",
+     "d": "04-07-2025 08:33:06",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250704/rebeca-torro-sera-nueva-secretaria-organizacion-del-psoe/16651116.shtml"
+    },
+    {
+     "id": "17165497",
+     "t": "María Chivite comparecerá para explicar el informe de la UCO sobre Santos Cerdán",
+     "d": "22-07-2026 14:29:05",
+     "dur": 91720,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telenavarra/maria-chivite-comparecera-para-explicar-informe-uco-sobre-santos-cerdan/17165497/"
+    },
+    {
+     "id": "17160946",
+     "t": "La UCO concluye que Santos Cerdán percibió 323.178 euros de Servinabar",
+     "d": "17-07-2026 21:26:26",
+     "dur": 77360,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/uco-concluye-santos-cerdan-percibio-323178-euros-servinabar/17160946/"
+    },
+    {
+     "id": "16650387",
+     "t": "Sánchez saca de la Ejecutiva del PSOE al círculo de confianza de Santos Cerdán en Ferraz",
+     "d": "03-07-2025 16:02:53",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250703/sanchez-montero-reunen-abordar-cambios-psoe/16650387.shtml"
+    },
+    {
+     "id": "17314632",
+     "t": "No es un día cualquiera - Dialenguando con Lola Pons: `los santos en la lengua´",
+     "d": "15-11-2026 08:29:42",
+     "dur": 733257,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/no-es-un-dia-cualquiera/no-dia-cualquiera-dialenguando-lola-pons-santos-lengua/17314632/"
+    },
+    {
+     "id": "17090305",
+     "t": "El juez apunta encargos de Santos Cerdán a Leire Díez para influir en causas judiciales",
+     "d": "28-05-2026 16:19:39",
+     "dur": 83600,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/encargos-santos-cerdan-leire-diez-influir-causas-judiciales/17090305/"
+    },
+    {
+     "id": "16340139",
+     "t": "De Aldama declara que Sánchez pidió conocerle y afirma que pagó comisiones a Santos Cerdán, Ábalos y Koldo",
+     "d": "21-11-2024 09:08:37",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241121/presunto-corruptor-caso-koldo-victor-de-aldama-comparece-juez/16340139.shtml"
+    },
+    {
+     "id": "16646971",
+     "t": "Díaz pide al PSOE \"contundencia\" contra la corrupción: \"Lo que está pasando es muy grave, hay que actuar ya\"",
+     "d": "01-07-2025 11:01:57",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250701/psoe-sumar-se-reuniran-miercoles-para-abordar-nuevas-medidas-impulsen-legislatura/16646971.shtml"
+    },
+    {
+     "id": "16626262",
+     "t": "María Jesús Montero: \"No hay ningún tipo de planteamiento de adelanto electoral\"",
+     "d": "16-06-2025 10:34:40",
+     "dur": 1937528,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/maria-jesus-montero-no-hay-ningun-tipo-planteamiento-adelanto-electoral/16626262/"
+    },
+    {
+     "id": "16621461",
+     "t": "Santos Cerdán dimite como secretario de Organización del PSOE y deja su acta de diputado tras el informe de la UCO",
+     "d": "12-06-2025 10:40:25",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250612/cerdan-niega-cobro-comisiones-psoe/16621461.shtml"
+    },
+    {
+     "id": "17094359",
+     "t": "Santos Cerdán niega la utilización ilegal de fondos del PSOE",
+     "d": "01-06-2026 10:14:29",
+     "dur": 38080,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-hora-de-la-1/santos-cerdan-niega-utilizacion-ilegal-fondos-del-psoe/17094359/"
+    },
+    {
+     "id": "17095017",
+     "t": "Santos Cerdán niega el uso de fondos del PSOE para chantajes o sobornos",
+     "d": "01-06-2026 14:34:30",
+     "dur": 64920,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telenavarra/santos-cerdan-niega-uso-fondos-del-psoe-para-chantajes-sobornos/17095017/"
+    },
+    {
+     "id": "17088185",
+     "t": "Agentes de la UCO registran la casa de Santos Cerdán en Milagro por la causa de Leire Díaz",
+     "d": "27-05-2026 14:47:24",
+     "dur": 82840,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telenavarra/agentes-uco-registran-casa-santos-cerdan-milagro-causa-leire-diaz/17088185/"
+    },
+    {
+     "id": "16623545",
+     "t": "Los socios del Gobierno exigen a un PSOE en shock medidas contra la corrupción tras la salida de Cerdán",
+     "d": "13-06-2025 11:22:03",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250613/socios-gobierno-sanchez/16623545.shtml"
+    },
+    {
+     "id": "17115749",
+     "t": "Santos Cerdán niega haber montado \"ninguna trama\", ni haber hecho \"nada ilegal\"",
+     "d": "15-06-2026 13:53:06",
+     "dur": 17079,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/rtve-noticias-video/santos-cerdan-niega-haber-montado-ninguna-trama-ni-haber-hecho-nada-ilegal/17115749/"
+    },
+    {
+     "id": "16844469",
+     "t": "El exnúmero dos de Cerdán dice que se sintió triste tras el informe de la UCO: \"No obedece al Santos con el que trabajé\"",
+     "d": "04-12-2025 10:16:06",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251204/comision-caso-koldo-senado-exnumero-dos-cerdan/16844469.shtml"
+    },
+    {
+     "id": "1426460",
+     "t": "El papa Francisco proclama santo a González García, obispo de Málaga y Palencia",
+     "d": "16-10-2016 10:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20161016/papa-francisco-proclama-santo-a-gonzalez-garcia-obispo-malaga-palencia/1426460.shtml"
+    },
+    {
+     "id": "16435004",
+     "t": "El Supremo pide a la UCO que investigue las cuentas de Ábalos y de su hijo y le cita de nuevo el 18 de febrero",
+     "d": "04-02-2025 11:34:36",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250204/supremo-pide-a-uco-investigue-cuentas-abalos-vuelve-a-citarle-como-investigado-18-febrero/16435004.shtml"
+    },
+    {
+     "id": "925020",
+     "t": "Santos pide una Colombia en paz para homenajear a Gabriel García Márquez",
+     "d": "22-04-2014 21:17:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140422/santos-pide-colombia-paz-para-homenajear-a-gabriel-garcia-marquez/925020.shtml"
+    },
+    {
+     "id": "17322651",
+     "t": "Sánchez pide perdón a las víctimas del accidente de Urda: \"Es un dolor que llevaré toda mi vida\"",
+     "d": "20-11-2026 01:16:37",
+     "dur": 94880,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/especiales-informativos/sanchez-pide-perdon-victimas-del-accidente-urda-dolor-llevare-toda-vida/17322651/"
+    },
+    {
+     "id": "17302537",
+     "t": "La sala - 41º Muestra de Teatro Torreperogil, con Álex Ramos y Santos Sánchez",
+     "d": "06-11-2026 08:33:42",
+     "dur": 673176,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/la-sala-rne/sala-41o-muestra-teatro-torreperogil-alex-ramos-santos-sanchez/17302537/"
+    },
+    {
+     "id": "17008558",
+     "t": "Semana Santa 2026 - Santos Oficios: Jueves Santo desde La Catedral de Granada",
+     "d": "02-04-2026 18:00:00",
+     "dur": 14415000,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/semana-santa-en-rtve/2026-santos-oficios-jueves-santo-desde-catedral-granada/17008558/"
+    },
+    {
+     "id": "17009287",
+     "t": "Semana Santa 2026 - Santos Oficios: Oficios Viernes Santo Catedral de Granada",
+     "d": "03-04-2026 18:00:00",
+     "dur": 5241160,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/semana-santa-en-rtve/2026-santos-oficios-oficios-viernes-santo-catedral-granada/17009287/"
+    },
+    {
+     "id": "16681349",
+     "t": "La hermana de Santos Cerdán cobró 22.000 euros de Servinabar, empresa clave en la trama de adjudicaciones",
+     "d": "29-07-2025 18:43:58",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250729/hermana-santos-cerdan-cobro-22000-euros-servinabar-empresa-clave-trama-adjudicaciones/16681349.shtml"
+    },
+    {
+     "id": "16734660",
+     "t": "El Supremo mantiene la prisión provisional de Santos Cerdán al persistir el riesgo de destrucción de pruebas",
+     "d": "18-09-2025 15:15:24",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250918/juez-mantiene-prision-provisional-cerdan-riesgo-destruccion-pruebas/16734660.shtml"
+    },
+    {
+     "id": "16645670",
+     "t": "El juez decreta prisión comunicada y sin fianza para Santos Cerdán tras su declaración en el Supremo",
+     "d": "30-06-2025 12:20:37",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250630/fiscalia-pide-prision-santos-cerdan-supremo-persecucion-politica/16645670.shtml"
+    },
+    {
+     "id": "1367860",
+     "t": "Santos dialogará con Maduro para reabrir la frontera entre Colombia y Venezuela",
+     "d": "07-07-2016 04:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160707/santos-dialogara-con-maduro-para-reabrir-frontera-entre-colombia-venezuela/1367860.shtml"
+    },
+    {
+     "id": "1776903",
+     "t": "Santos Cerdán acusa a Iturgaiz de \"usar el terrorismo para hacer política\" y dice que \"demuestra una bajeza moral tremenda\"",
+     "d": "09-08-2018 12:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180809/santos-cerdan-acusa-a-iturgaiz-usar-terrorismo-para-hacer-politica-dice-demuestra-bajeza-moral-tremenda/1776903.shtml"
+    },
+    {
+     "id": "16822637",
+     "t": "El PP pide a Cerdán que dé explicaciones sobre el caso Koldo: \"Sánchez va a caer con todos\"",
+     "d": "19-11-2025 16:38:24",
+     "dur": 10600,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/pp-pide-cerdan-explicaciones-sobre-caso-koldo-sanchez-caer-todos/16822637/"
+    },
+    {
+     "id": "1618422",
+     "t": "Carlos Santos: \"'La Lego Ninjago película' es muy divertida y un poco macarra\"",
+     "d": "18-09-2017 16:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170918/carlos-santos-lego-ninjago-pelicula-muy-divertida-poco-macarra/1618422.shtml"
+    }
+   ]
+  }
+ },
+ "Sánchez comparecencia Ferraz Cerdán perdón": {
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20comparecencia%20Ferraz%20Cerd%C3%A1n%20perd%C3%B3n&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20comparecencia%20Ferraz%20Cerd%C3%A1n%20perd%C3%B3n&size=40": {
+   "n": 396590,
+   "items": [
+    {
+     "id": "16367165",
+     "t": "Feijóo advierte a Sánchez: \"Ni el independentismo le perdonará sus mentiras, ni los jueces, sus delitos\"",
+     "d": "11-12-2024 08:44:31",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241211/sesion-control-gobierno-hoy-11-diciembre-directo-cronica/16367165.shtml"
+    },
+    {
+     "id": "2004402",
+     "t": "Feijóo: \"Si la propuesta de Cs es usar el vehículo del PP para obtener diputados, los gallegos no nos lo perdonarían\"",
+     "d": "25-02-2020 11:43:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20200225/feijoo-si-propuesta-cs-usar-vehiculo-del-pp-para-obtener-diputados-gallegos-no-perdonarian/2004402.shtml"
+    },
+    {
+     "id": "2470445",
+     "t": "Mª Teresa Campos murió sin perdonarlos: Nunca entendió por qué se lo hicieron",
+     "d": "06-01-2024 10:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20240106/teresa-campos-muerte-no-perdona-enemigos-television/2470445.shtml"
+    },
+    {
+     "id": "2405302",
+     "t": "Joe Biden perdonará todas las condenas a nivel federal por posesión de marihuana",
+     "d": "06-10-2022 21:50:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20221006/joen-biden-perdonara-condenas-posesion-marihuana/2405302.shtml"
+    },
+    {
+     "id": "16650387",
+     "t": "Sánchez saca de la Ejecutiva del PSOE al círculo de confianza de Santos Cerdán en Ferraz",
+     "d": "03-07-2025 16:02:53",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250703/sanchez-montero-reunen-abordar-cambios-psoe/16650387.shtml"
+    },
+    {
+     "id": "16491752",
+     "t": "Putin promete salvar a los soldados ucranianos en Kursk después de que Trump le pidiera \"perdonarles la vida\"",
+     "d": "14-03-2025 15:18:59",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250314/trump-califica-productivas-conversaciones-putin-pide-perdone-vida-tropas-ucranianas/16491752.shtml"
+    },
+    {
+     "id": "2398188",
+     "t": "Biden perdonará parte de la deuda estudiantil en un guiño al voto joven antes de las elecciones de mitad de mandato",
+     "d": "24-08-2022 19:47:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220824/biden-anuncia-perdonara-parte-deuda-estudiantil-guino-voto-joven-dos-meses-antes-midterm/2398188.shtml"
+    },
+    {
+     "id": "1257501",
+     "t": "Catalina de Aragón murió perdonando a Enrique VIII",
+     "d": "23-11-2015 22:20:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20151123/catalina-aragon-esposa-enrique-viii-perdona-antes-morir-ana-bolena-divorcio-inglaterra/1257501.shtml"
+    },
+    {
+     "id": "17088378",
+     "t": "La Audiencia Nacional envía a la UCO a Ferraz e imputa a Cerdán y Zarrías en una operación vinculada con Leire Díez",
+     "d": "27-05-2026 15:31:20",
+     "dur": 349280,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/audiencia-nacional-envia-uco-ferraz-imputa-cerdan-zarrias-operacion-vinculada-leire-diez/17088378/"
+    },
+    {
+     "id": "17226915",
+     "t": "'¿Podrás perdonarme algún día?': despido de Julianne Moore, nominación al Oscar y el bar gay más antiguo de Nueva York",
+     "d": "20-09-2026 23:25:58",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20260920/podras-perdonarme-algun-dia-despido-julianne-more-lee-israel/17226915.shtml"
+    },
+    {
+     "id": "2107801",
+     "t": "Indultos del 'procés': ¿cuántos años de cárcel han cumplido y cuántos se les han perdonado?",
+     "d": "22-06-2021 13:06:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210622/indultos-proces-carcel-anos-cumplidos-perdonados/2107801.shtml"
+    },
+    {
+     "id": "17087384",
+     "t": "La Audiencia Nacional envía a la UCO a Ferraz e imputa a Cerdán y Zarrías en una operación vinculada con Leire Díez",
+     "d": "27-05-2026 09:00:46",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260527/uco-registra-ferraz-presunta-financiacion-irregular-psoe/17087384.shtml"
+    },
+    {
+     "id": "327683",
+     "t": "Zaragoza y Mallorca se perdonan la vida",
+     "d": "14-04-2010 22:11:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20100414/zaragoza-mallorca-se-perdonan-vida/327683.shtml"
+    },
+    {
+     "id": "16634388",
+     "t": "Del informe sobre Cerdán a la entrada de la UCO en Ferraz: cronología de una semana trágica para el PSOE",
+     "d": "21-06-2025 09:09:07",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250621/psoe-sanchez-cronologia-semana-culmina-entrada-ferraz-uco/16634388.shtml"
+    },
+    {
+     "id": "518562",
+     "t": "Los penaltis no perdonan para nadie",
+     "d": "25-04-2012 00:46:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20120425/penaltis-no-perdonan-para-nadie/518562.shtml"
+    },
+    {
+     "id": "16349505",
+     "t": "Ferraz niega presiones a Lobato y el PP cree que el socialista solo es \"el primero\" en salir porque \"el resto irán después\"",
+     "d": "27-11-2024 17:51:04",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241127/ferraz-niega-presiones-lobato-pp-resto-iran-despues/16349505.shtml"
+    },
+    {
+     "id": "17057696",
+     "t": "Pep Munné: \"No intentar jugar al Camp Nou no m'ho perdonaré mai\"",
+     "d": "10-05-2026 15:00:30",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticies/20260510/pep-munne-deixa-futbol-barca/17057696.shtml"
+    },
+    {
+     "id": "16622992",
+     "t": "Sánchez pide perdón a la ciudadanía tras el informe de la UCO sobre Cerdán: \"No debimos confiar en él\"",
+     "d": "12-06-2025 21:58:26",
+     "dur": 80120,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-2/sanchez-pide-perdon-ciudadania-tras-informe-uco-sobre-cerdan-no-debimos-confiar/16622992/"
+    },
+    {
+     "id": "517757",
+     "t": "Los españoles perdonan al rey y refrendan la monarquía, según varios sondeos",
+     "d": "22-04-2012 09:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120422/espanoles-perdonan-rey-refrendan-monarquia-segun-varios-sondeos/517757.shtml"
+    },
+    {
+     "id": "2425130",
+     "t": "Joao Félix y el Chelsea perdonan, Adeyemi y el Dortmund toman ventaja",
+     "d": "15-02-2023 23:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20230215/champions-octavos-final-dortmund-chelsea-brujas-benfica/2425130.shtml"
+    },
+    {
+     "id": "16657506",
+     "t": "Las 15 medidas de Sánchez para luchar contra la corrupción",
+     "d": "09-07-2025 13:00:40",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250709/15-medidas-sanchez-para-luchar-contra-corrupcion/16657506.shtml"
+    },
+    {
+     "id": "2014579",
+     "t": "Los hijos del periodista saudí Jamal Khashoggi perdonan a los asesinos de su padre",
+     "d": "22-05-2020 05:10:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20200522/hijos-del-periodista-saudi-jamal-khashoggi-perdonan-a-asesinos-su-padre/2014579.shtml"
+    },
+    {
+     "id": "129190",
+     "t": "Karadzic pide la comparecencia de Richard Holbrooke ante el TPIY",
+     "d": "06-08-2008 17:39:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080806/karadzic-pide-comparecencia-richard-holbrooke-ante-tpiy/129190.shtml"
+    },
+    {
+     "id": "2096517",
+     "t": "Indultos en contra del criterio del tribunal: cuando los gobiernos 'perdonan' penas haciendo caso omiso a los jueces",
+     "d": "21-06-2021 14:53:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210621/indultos-contra-del-criterio-del-tribunal-cuando-gobiernos-perdonan-penas-haciendo-caso-omiso-a-jueces/2096517.shtml"
+    },
+    {
+     "id": "16110668",
+     "t": "'4 estrellas' | Reconciliación fraternal: ¡Angelita ha perdonado a Álex!",
+     "d": "20-05-2024 22:40:44",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20240520/4-estrellas-reconciliacion-fraternal-angelita-perdona-alex/16110668.shtml"
+    },
+    {
+     "id": "335453",
+     "t": "El tripartito vuelve a vetar la comparecencia del conseller de Economía por el caso Palau",
+     "d": "14-06-2010 11:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100614/tripartito-vuelve-a-vetar-comparecencia-del-conseller-economia-por-caso-palau/335453.shtml"
+    },
+    {
+     "id": "288698",
+     "t": "Kaká: \"Perdone agente, me he perdido\"",
+     "d": "11-08-2009 23:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20090811/kaka-perdone-agente-me-he-perdido/288698.shtml"
+    },
+    {
+     "id": "448659",
+     "t": "Así hemos contado minuto a minuto la comparecencia de los Murdoch y Brooks",
+     "d": "19-07-2011 09:53:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110719/minuto-a-minuto-murdoch-rebekah-brooks-se-enfrentan-este-martes-parlamento/448659.shtml"
+    },
+    {
+     "id": "16570212",
+     "t": "El Supremo se opone a dar un segundo indulto a Junqueras para perdonar la pena de inhabilitación del 'procés'",
+     "d": "07-05-2025 16:30:38",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250507/supremo-opone-indultar-condena-junqueras-inhabilitacion-2031/16570212.shtml"
+    },
+    {
+     "id": "1497343",
+     "t": "Díaz, Sánchez o López: ahora sí, empieza la guerra en el PSOE por Ferraz",
+     "d": "12-03-2017 16:33:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170312/diaz-sanchez-lopez-ahora-si-empieza-guerra-psoe-por-ferraz/1497343.shtml"
+    },
+    {
+     "id": "17120069",
+     "t": "Clásicos populares - Perdónanos, Chopin - 17/06/26",
+     "d": "17-06-2026 15:00:00",
+     "dur": 3597730,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/clasicos-populares/perdonanos-chopin-17-06-26/17120069/"
+    },
+    {
+     "id": "1472060",
+     "t": "La asociación Amigos Socialistas abrirá \"próximamente\" su sede en la calle Ferraz",
+     "d": "11-01-2017 16:43:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170111/asociacion-amigos-socialistas-abrira-proximamente-su-sede-calle-ferraz/1472060.shtml"
+    },
+    {
+     "id": "1403020",
+     "t": "Madrid se vuelve un thriller sucio en 'Que Dios nos perdone'",
+     "d": "19-09-2016 14:31:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160919/madrid-se-vuelve-thriller-sucio-dios-perdone/1403020.shtml"
+    },
+    {
+     "id": "16622652",
+     "t": "Sánchez pide \"perdón\" a la ciudadanía tras el informe sobre Cerdán: \"No debimos confiar en él\"",
+     "d": "12-06-2025 18:02:15",
+     "dur": 1354400,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/especiales-informativos/sanchez-pide-perdon-ciudadania-tras-informe-sobre-cerdan-no-debimos-confiar/16622652/"
+    },
+    {
+     "id": "2295422",
+     "t": "'Perdone que no me levante' o 'La muerte', esta semana en 'El condensador de fluzo'",
+     "d": "23-02-2022 12:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20220223/perdone-no-levante-muerte-condensador-fluzo/2295422.shtml"
+    },
+    {
+     "id": "2460944",
+     "t": "La decimotercera manifestación en Ferraz congrega a unas 2.000 personas el primer día del debate de investidura",
+     "d": "16-11-2023 17:40:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20231116/protestas-congreso-investidura-sanchez/2460944.shtml"
+    },
+    {
+     "id": "1463580",
+     "t": "Críticos del PSOE alquilan un local en la calle Ferraz para promover la afiliación",
+     "d": "03-01-2017 14:10:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170103/criticos-del-psoe-alquilan-local-ferraz-para-promover-afiliacion/1463580.shtml"
+    },
+    {
+     "id": "1665373",
+     "t": "PP y Ciudadanos rechazan la comparecencia de Cifuentes en la comisión de corrupción del Canal de Isabel II",
+     "d": "22-01-2018 19:58:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180122/pp-ciudadanos-rechazan-comparecencia-cifuentes-comision-corrupcion-del-canal-isabel-ii/1665373.shtml"
+    },
+    {
+     "id": "617080",
+     "t": "El papa Francisco a los cardenales: \"Que Dios os perdone por lo que habéis hecho\"",
+     "d": "14-03-2013 14:06:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130314/bergoglio-inicia-su-primera-jornada-como-papa-francisco-rezando-santa-maria-mayor/617080.shtml"
+    },
+    {
+     "id": "16638154",
+     "t": "El Congreso divide la comparecencia de Sánchez el 9 de julio en dos plenos sobre corrupción y política internacional",
+     "d": "24-06-2025 12:59:24",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250624/congreso-divide-comparecencia-sanchez-9-julio-dos-plenos-corrupcion-politica-internacional/16638154.shtml"
+    }
+   ]
+  }
+ },
+ "Aldama sale de prisión": {
+  "https://api2.rtve.es/api/search/contents?search=Aldama%20sale%20de%20prisi%C3%B3n&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=Aldama%20sale%20de%20prisi%C3%B3n&size=40": {
+   "n": 320941,
+   "items": [
+    {
+     "id": "17208233",
+     "t": "Prisioneras del Patronato de Protección a la Mujer",
+     "d": "07-09-2026 08:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20260901/prisioneras-patronato-proteccion-mujer/17208233.shtml"
+    },
+    {
+     "id": "2123922",
+     "t": "Mónica G. Álvarez dedica un libro a las españolas prisioneras en campos de concentración",
+     "d": "08-07-2021 12:50:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20210708/monica-alvarez-noche-niebla-campos-nazis/2123922.shtml"
+    },
+    {
+     "id": "17126013",
+     "t": "El Supremo condena a cuatro años y medio a Aldama pero le exime de la cárcel por su colaboración",
+     "d": "22-06-2026 13:03:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260622/supremo-condena-a-cuatro-anos-medio-a-aldama-pero-exime-carcel-por-su-colaboracion/17126013.shtml"
+    },
+    {
+     "id": "17028290",
+     "t": "Metròpoli - PRISIONIA (Circo de Los Horrores)",
+     "d": "17-04-2026 00:30:00",
+     "dur": 1904823,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/metropoli/prisionia-circo-horrores/17028290/"
+    },
+    {
+     "id": "442738",
+     "t": "Adelina, prisionera y víctima de su hermana",
+     "d": "21-06-2011 16:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20110621/adelina-prisionera-victima-su-hermana/442738.shtml"
+    },
+    {
+     "id": "16853846",
+     "t": "El Supremo abre juicio oral contra Ábalos, Koldo García y Aldama por la trama de las mascarillas",
+     "d": "11-12-2025 10:33:44",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251211/juez-supremo-abre-juicio-oral-contra-abalos-koldo-garcia-aldama-trama-mascarillas/16853846.shtml"
+    },
+    {
+     "id": "16894407",
+     "t": "El Supremo designa al tribunal que juzgará a Ábalos, Koldo y Aldama por presunta corrupción en el caso mascarillas",
+     "d": "14-01-2026 16:45:04",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260114/supremo-designa-tribunal-juzgara-a-abalos-koldo-aldama-por-presunta-corrupcion/16894407.shtml"
+    },
+    {
+     "id": "16829166",
+     "t": "Koldo pide al Supremo aplazar la vista para revisar su libertad porque coincide con la declaración de Aldama",
+     "d": "24-11-2025 15:46:07",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251124/koldo-pide-al-supremo-aplazar-la-vista-para-revisar-su-libertad-porque-coincide-con-la-declaracion-de-aldama/16829166.shtml"
+    },
+    {
+     "id": "16914692",
+     "t": "Aldama señala que Delcy Rodríguez le entregó un sobre con información sobre presunta financiación irregular del PSOE",
+     "d": "29-01-2026 10:00:24",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260129/aldama-declara-audiencia-nacional-hidrocarburos/16914692.shtml"
+    },
+    {
+     "id": "17126577",
+     "t": "El Gobierno ve \"desproporción\" entre la condena impuesta a Ábalos y Koldo y la del comisionista Aldama",
+     "d": "22-06-2026 16:17:50",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260622/gobierno-condena-impuesta-abalos-koldo-aldama/17126577.shtml"
+    },
+    {
+     "id": "17127740",
+     "t": "Más cerca - ¿Por qué Víctor de Aldama, condenado por el caso Mascarillas, no ingresa en prisión?",
+     "d": "23-06-2026 13:52:57",
+     "dur": 511190,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/mas-cerca/mas-cerca-victor-aldama-condenado-caso-mascarillas-no-ingresa-prision/17127740/"
+    },
+    {
+     "id": "17208218",
+     "t": "VÍDEO | Avance de \"Prisioneras del Patronato de Protección a la Mujer\"",
+     "d": "01-09-2026 13:27:29",
+     "dur": 93062,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/las-cunas-de-rne/avance-prisioneras-patronato-mujer/17208218/"
+    },
+    {
+     "id": "16341442",
+     "t": "De Aldama, en libertad tras declarar que pagó comisiones: \"Que no se preocupe el señor Sánchez, va a tener pruebas\"",
+     "d": "21-11-2024 20:14:58",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241121/fiscalia-apoya-aldama-salga-libertad-juez-del-caso-koldo/16341442.shtml"
+    },
+    {
+     "id": "17134594",
+     "t": "Aldama disfrutará de 3,1 millones de euros tras no entrar en prisión y explica: 'Sigo viendo oportunidad para ver negocio'",
+     "d": "28-06-2026 00:21:15",
+     "dur": 125360,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/malas-lenguas/aldama-disfrutara-31-millones-euros-tras-no-entrar-prision-explica-sigo-viendo-oportunidad-para-ver-negocio/17134594/"
+    },
+    {
+     "id": "911200",
+     "t": "Otegi sale de la cárcel de Logroño con un permiso por la muerte de su suegra",
+     "d": "04-04-2014 21:01:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140404/otegi-saldra-carcel-para-asistir-funeral-su-suegra/911200.shtml"
+    },
+    {
+     "id": "275149",
+     "t": "París acogerá \"en breve\" la llegada de un prisionero de Guantánamo",
+     "d": "05-05-2009 18:50:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090505/paris-acogera-en-breve-la-llegada-de-un-prisionero-de-guantanamo/275149.shtml"
+    },
+    {
+     "id": "585445",
+     "t": "\"Me considero un prisionero, no un refugiado\"",
+     "d": "12-12-2012 15:18:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20121212/considero-prisionero-no-refugiado/585445.shtml"
+    },
+    {
+     "id": "2402801",
+     "t": "Washington confirma la liberación del último prisionero estadounidense en manos de los talibanes",
+     "d": "19-09-2022 17:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20220919/washington-confirma-liberacion-considerado-ultimo-prisionero-talibanes/2402801.shtml"
+    },
+    {
+     "id": "2087923",
+     "t": "Carolina G, abandonado y prisionero del mar",
+     "d": "30-04-2021 09:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210430/carolina-g-abandonado-prisionero-mar/2087923.shtml"
+    },
+    {
+     "id": "1978012",
+     "t": "'El prisionero', una joya inédita e inacabada de Jack Kirby y Gil Kane",
+     "d": "03-09-2019 11:17:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190903/prisionero-joya-inedita-inacabada-jack-kirby-gil-kane/1978012.shtml"
+    },
+    {
+     "id": "1831350",
+     "t": "'En Portada' entrevista a un prisionero iraquí que estuvo en la cárcel de Abu Ghraib durante la Guerra de Iraq",
+     "d": "03-11-2018 09:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20181103/portada-entrevista-a-prisionero-iraqui-estuvo-carcel-abu-ghraib-durante-guerra-iraq/1831350.shtml"
+    },
+    {
+     "id": "16821519",
+     "t": "Resumen de la jornada política del 19 de noviembre: Santos Cerdán sale de la cárcel",
+     "d": "19-11-2025 08:22:33",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251119/ultima-hora-politica-hoy-sesion-control-directo-resumen-19-noviembre/16821519.shtml"
+    },
+    {
+     "id": "1127901",
+     "t": "Obama asegura que EE.UU. \"no será prisionero del pasado\" con Cuba ni con la región",
+     "d": "11-04-2015 18:04:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150411/obama-asegura-eeuu-no-sera-prisionero-del-pasado-con-cuba-ni-con-region/1127901.shtml"
+    },
+    {
+     "id": "619385",
+     "t": "Defensa investigará el vídeo en el que soldados españoles maltratan a un prisionero en Irak",
+     "d": "17-03-2013 13:58:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130317/defensa-investigara-video-soldados-espanoles-maltratan-a-prisionero-irak/619385.shtml"
+    },
+    {
+     "id": "1065582",
+     "t": "El expresidente de la Diputación de León sale de la cárcel tras pagar la fianza de 30.000 euros",
+     "d": "11-12-2014 20:09:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141211/expresidente-diputacion-leon-sale-carcel-tras-pagar-fianza-30000-euros/1065582.shtml"
+    },
+    {
+     "id": "1578581",
+     "t": "Leopoldo López sale de la cárcel en arresto domiciliario y pide \"luchar hasta conquistar la libertad\"",
+     "d": "08-07-2017 12:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170708/leopoldo-lopez-sale-carcel/1578581.shtml"
+    },
+    {
+     "id": "16217269",
+     "t": "González Pons acusa al Gobierno de ser \"tibio\" ante la crisis en Venezuela y de ser \"prisionero\" de Zapatero",
+     "d": "13-08-2024 12:25:50",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240813/gonzalez-pons-acusa-gobierno-ser-tibio-ante-crisis-venezuela-ser-prisionero-zapatero/16217269.shtml"
+    },
+    {
+     "id": "1912560",
+     "t": "Oriol Pujol sale de la cárcel tras recibir el tercer grado y pasará a un centro de régimen abierto",
+     "d": "29-03-2019 09:17:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190329/oriol-pujol-sale-carcel-tras-recibir-tercer-grado-pasara-a-centro-regimen-abierto/1912560.shtml"
+    },
+    {
+     "id": "317897",
+     "t": "Sale del coma el bebé ingresado por malos tratos en Palma",
+     "d": "14-02-2010 11:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100214/sale-del-coma-el-bebe-ingresado-por-malos-tratos-en-palma/317897.shtml"
+    },
+    {
+     "id": "547500",
+     "t": "El narcotraficante Laureano Oubiña sale de la cárcel tras cumplir su condena",
+     "d": "17-07-2012 20:44:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120717/juzgan-narco-laureano-oubina-coincidiendo-con-su-puesta-libertad/547500.shtml"
+    },
+    {
+     "id": "1154660",
+     "t": "Pantoja sale de la cárcel para disfrutar de su primer permiso penitenciario",
+     "d": "01-06-2015 13:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150601/pantoja-sale-carcel-para-disfrutar-su-primer-permiso-penitenciario/1154660.shtml"
+    },
+    {
+     "id": "16872864",
+     "t": "Santi Aldama vuelve a exhibirse y repite su tope anotador en Utah",
+     "d": "24-12-2025 11:17:37",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20251224/santi-aldama-vuelve-a-exhibirse-repite-su-tope-anotador-utah/16872864.shtml"
+    },
+    {
+     "id": "2043606",
+     "t": "Rodrigo Rato sale de prisión tras obtener el tercer grado",
+     "d": "02-10-2020 18:53:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20201002/rato-sale-prision-tras-obtener-tercer-grado/2043606.shtml"
+    },
+    {
+     "id": "317074",
+     "t": "La activista española detenida por Israel en Cisjordania sale en libertad",
+     "d": "08-02-2010 19:25:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100208/la-activista-espanola-detenida-por-israel-en-cisjordania-sale-en-libertad/317074.shtml"
+    },
+    {
+     "id": "16203014",
+     "t": "Aldama, el antídoto contra Antetokounmpo para que España siga viva en baloncesto",
+     "d": "30-07-2024 16:09:57",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20240730/espana-grecia-baloncesto-juegos-olimpicos-paris-2024/16203014.shtml"
+    },
+    {
+     "id": "17126994",
+     "t": "El Gobierno ve \"desproporción\" entre la condena impuesta a Ábalos y Koldo y la del comisionista Aldama",
+     "d": "22-06-2026 21:21:49",
+     "dur": 93640,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-2/gobierno-ve-desproporcion-entre-condena-impuesta-abalos-koldo-del-comisionista-aldama/17126994/"
+    },
+    {
+     "id": "181490",
+     "t": "Michel, un funcionario de prisiones amigo de los internos",
+     "d": "22-10-2008 13:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20081022/michel-un-funcionario-de-prisiones-amigo-de-los-internos/181490.shtml"
+    },
+    {
+     "id": "17306174",
+     "t": "Delcy Rodríguez denuncia a Víctor de Aldama por injurias tras vincularla a la financiación del PSOE",
+     "d": "09-11-2026 13:00:12",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261109/delcy-rodriguez-denuncia-aldama-injurias-financiacion-psoe/17306174.shtml"
+    },
+    {
+     "id": "16341297",
+     "t": "Ábalos niega las acusaciones \"difamatorias\" de Aldama y estudiará emprender acciones legales",
+     "d": "21-11-2024 17:36:03",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241121/abalos-niega-acusaciones-difamatorias-aldama-estudiara-emprender-acciones-legales/16341297.shtml"
+    },
+    {
+     "id": "17145303",
+     "t": "UNED - Sin distancias - 05/07/26",
+     "d": "05-07-2026 06:59:00",
+     "dur": 3606264,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/uned-radio-3/uned-sin-distancias-05-07-26/17145303/"
+    }
+   ]
+  }
+ },
+ "Aldama Soto del Real libertad": {
+  "https://api2.rtve.es/api/search/contents?search=Aldama%20Soto%20del%20Real%20libertad&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=Aldama%20Soto%20del%20Real%20libertad&size=40": {
+   "n": 296091,
+   "items": [
+    {
+     "id": "16282499",
+     "t": "El juez Pedraz acuerda prisión provisional para Víctor de Aldama y su socio Claudio Rivas por fraude en hidrocarburos",
+     "d": "10-10-2024 14:47:36",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241010/victor-aldama-claudio-rivas-prision-provisional-fraude-hidrocarburos/16282499.shtml"
+    },
+    {
+     "id": "1756381",
+     "t": "Pablo Iglesias visita en Soto del Real a Jordi Cuixart y defiende la libertad de los \"presos políticos\"",
+     "d": "26-06-2018 17:54:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180626/pablo-iglesias-visita-soto-del-real-a-jordi-cuixart-defiende-libertad-presos-politicos/1756381.shtml"
+    },
+    {
+     "id": "1359767",
+     "t": "Mario Conde sale de la prisión de Soto del Real tras acordar la juez su puesta en libertad una vez depositada la fianza",
+     "d": "17-06-2016 19:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160617/mario-conde-sale-prision-soto-del-real-tras-acordar-juez-su-puesta-libertad-vez-depositada-fianza/1359767.shtml"
+    },
+    {
+     "id": "447409",
+     "t": "El exdirigente etarra Iñaki de Rentería sale de la cárcel de Soto del Real",
+     "d": "13-07-2011 21:14:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110713/exdirigente-etarra-inaki-renteria-saldra-carcel-proximas-horas/447409.shtml"
+    },
+    {
+     "id": "16829166",
+     "t": "Koldo pide al Supremo aplazar la vista para revisar su libertad porque coincide con la declaración de Aldama",
+     "d": "24-11-2025 15:46:07",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251124/koldo-pide-al-supremo-aplazar-la-vista-para-revisar-su-libertad-porque-coincide-con-la-declaracion-de-aldama/16829166.shtml"
+    },
+    {
+     "id": "16341442",
+     "t": "De Aldama, en libertad tras declarar que pagó comisiones: \"Que no se preocupe el señor Sánchez, va a tener pruebas\"",
+     "d": "21-11-2024 20:14:58",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241121/fiscalia-apoya-aldama-salga-libertad-juez-del-caso-koldo/16341442.shtml"
+    },
+    {
+     "id": "16375675",
+     "t": "La Guardia Civil deja en libertad a los cuatro detenidos por el caso hidrocarburos en el que está imputado Aldama",
+     "d": "17-12-2024 12:05:37",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241217/guardia-civil-deja-libertad-a-cuatro-detenidos-por-caso-hidrocarburos-esta-imputado-aldama/16375675.shtml"
+    },
+    {
+     "id": "582720",
+     "t": "Díaz Ferrán pasa su primera noche en la prisión madrileña de Soto del Real",
+     "d": "06-12-2012 05:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20121206/angel-cabo-otros-cinco-imputados-ingresan-carcel-soto-del-real/582720.shtml"
+    },
+    {
+     "id": "1978688",
+     "t": "Robert Mugabe, de libertador de Zimbabue a dictador",
+     "d": "06-11-2017 08:36:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20171106/perfil-robert-mugabe-libertador-zimbabue-a-dictador/1978688.shtml"
+    },
+    {
+     "id": "1888660",
+     "t": "Édgar Ramírez es Simón Bolívar en 'Libertador', estreno este domingo en 'Versión Española'",
+     "d": "22-02-2019 13:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20190222/edgar-ramirez-simon-bolivar-libertador-estreno-este-domingo-version-espanola/1888660.shtml"
+    },
+    {
+     "id": "1635402",
+     "t": "Robert Mugabe, de libertador de Zimbabue a férreo represor",
+     "d": "21-11-2017 17:36:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20171121/perfil-robert-mugabe-dirigente-mas-longevo-del-mundo-destituido-por-su-propio-partido/1635402.shtml"
+    },
+    {
+     "id": "1047824",
+     "t": "'Libertador', un biopic sobre Simón Bolivar, abre el 40 Festival de Cine Iberoamericano de Huelva",
+     "d": "14-11-2014 10:08:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141114/libertador-biopic-sobre-simon-bolivar-abre-40-festival-cine-iberoamericano-huelva/1047824.shtml"
+    },
+    {
+     "id": "1060581",
+     "t": "Christian Bale: \"Moisés ha inspirado superhéroes. Fue el primer libertador de los oprimidos\"",
+     "d": "04-12-2014 18:28:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141204/christian-bale-moises-inspirado-superheroes-fue-primer-libertador-oprimidos/1060581.shtml"
+    },
+    {
+     "id": "16425272",
+     "t": "El PSOE pide al juez del caso hidrocarburos que reingrese en prisión a De Aldama por el \"riesgo\" para la investigación",
+     "d": "28-01-2025 12:36:35",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250128/psoe-pide-envie-prision-aldama-por-riesgo-para-investigacion-hidrocarburos/16425272.shtml"
+    },
+    {
+     "id": "1992433",
+     "t": "El Flamengo levanta su segunda Copa Libertadores",
+     "d": "23-11-2019 23:22:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20191123/flamengo-remonta-vence-a-river-2-1-levanta-su-segunda-copa-libertadores/1992433.shtml"
+    },
+    {
+     "id": "1850680",
+     "t": "River gana la Libertadores y toca el cielo en Madrid",
+     "d": "09-12-2018 23:01:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20181209/quintero-sube-a-river-cielo-madrid-da-libertadores/1850680.shtml"
+    },
+    {
+     "id": "16838111",
+     "t": "Danilo da la Copa Libertadores al Flamengo de Filipe Luís",
+     "d": "30-11-2025 00:30:29",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20251130/flamengo-filipe-luis-gana-copa-libertadores-palmeiras-gol-danilo/16838111.shtml"
+    },
+    {
+     "id": "1850067",
+     "t": "Así les hemos contado la final de la Copa Libertadores",
+     "d": "09-12-2018 21:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20181209/partido-river-plate-boca-juniors-vivo-directo/1850067.shtml"
+    },
+    {
+     "id": "725021",
+     "t": "Ronaldinho completa su palmarés con la Copa Libertadores",
+     "d": "26-07-2013 09:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20130726/ronaldinho-completa-su-palmares-con-copa-libertadores/725021.shtml"
+    },
+    {
+     "id": "422558",
+     "t": "Haydn y Mozart entre las rejas de Soto del Real",
+     "d": "06-04-2011 16:39:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110406/haydn-mozart-entre-rejas-soto-del-real/422558.shtml"
+    },
+    {
+     "id": "1566820",
+     "t": "José Manuel Soto celebra 30 años de carrera en el Teatro Real",
+     "d": "19-06-2017 11:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20170619/jose-manuel-soto-celebra-30-anos-carrera-teatro-real/1566820.shtml"
+    },
+    {
+     "id": "1845946",
+     "t": "La final de la Libertadores entre River y Boca se jugará en el Bernabéu",
+     "d": "29-11-2018 23:25:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20181129/final-libertadores-se-jugara-bernabe/1845946.shtml"
+    },
+    {
+     "id": "700600",
+     "t": "Condenan a 25 años a un funcionario por abusar de presas en Soto del Real",
+     "d": "28-06-2013 11:43:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130628/condenan-a-25-anos-a-funcionario-por-abusar-presas-soto-del-real/700600.shtml"
+    },
+    {
+     "id": "1850401",
+     "t": "El TAS rechaza la suspensión cautelar que pedía Boca de la final de la Libertadores",
+     "d": "08-12-2018 15:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20181208/tas-rechaza-suspension-cautelar-pedia-boca-final-libertadores/1850401.shtml"
+    },
+    {
+     "id": "1633406",
+     "t": "Ignacio González queda en libertad tras abonar la fianza de 400.000 euros impuesta por el juez de Lezo",
+     "d": "08-11-2017 15:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20171108/juez-del-caso-lezo-deja-libertad-a-ignacio-gonzalez-tras-pago-fianza-400000-euros/1633406.shtml"
+    },
+    {
+     "id": "1377104",
+     "t": "El Atlético Nacional gana su segunda Libertadores 27 años después",
+     "d": "28-07-2016 08:37:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20160728/atletico-nacional-gana-su-segunda-libertadores-despues-27-anos/1377104.shtml"
+    },
+    {
+     "id": "415607",
+     "t": "TVE estrenará 'Libertadores', ocho películas sobre los líderes de la independencia de Latinoamérica",
+     "d": "10-03-2011 00:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110310/tve-estrenara-libertadores-ocho-peliculas-sobre-lideres-independencia-latinoamerica/415607.shtml"
+    },
+    {
+     "id": "1145244",
+     "t": "Un ataque contra jugadores de River suspende el superclásico ante Boca de la Libertadores",
+     "d": "15-05-2015 10:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20150515/ataque-contra-jugadores-river-plate-suspende-superclasico-ante-boca-juniors-libertadores/1145244.shtml"
+    },
+    {
+     "id": "538501",
+     "t": "El Corinthians impide que el Santos de Neymar repita final de la Copa Libertadores",
+     "d": "21-06-2012 09:35:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20120621/corinthians-impide-santos-neymar-repita-final-copa-libertadores/538501.shtml"
+    },
+    {
+     "id": "1826202",
+     "t": "Rato pide perdón al entrar en Soto del Real y asume sus \"errores\" con las tarjetas 'black'",
+     "d": "25-10-2018 08:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20181025/rato-ingresa-prision-para-cumplir-condena-por-tarjetas-black/1826202.shtml"
+    },
+    {
+     "id": "16353975",
+     "t": "Botafogo logra su primer título en una de las finales más locas de la historia de la Libertadores",
+     "d": "30-11-2024 23:30:38",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20241130/botafogo-logra-su-primer-titulo-finales-mas-locas-historia-libertadores/16353975.shtml"
+    },
+    {
+     "id": "1004341",
+     "t": "Los padres de Ashya King salen de la prisión madrileña de Soto del Real",
+     "d": "02-09-2014 22:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140902/padres-ashya-king-salen-prision-madrilena-soto-del-real/1004341.shtml"
+    },
+    {
+     "id": "16830922",
+     "t": "El Supremo mantiene este jueves la vista para revisar la libertad de Ábalos y Koldo García",
+     "d": "25-11-2025 14:31:26",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251125/juez-mantiene-vista-revisar-libertad-abalos-koldo/16830922.shtml"
+    },
+    {
+     "id": "2460056",
+     "t": "John Kennedy le da en la prórroga a Fluminense la primera Libertadores de su historia",
+     "d": "04-11-2023 23:40:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20231104/fluminense-copa-libertadores-boca-juniors-primera-victoria/2460056.shtml"
+    },
+    {
+     "id": "16152985",
+     "t": "Investigan como violencia machista la muerte de una pareja en la localidad madrileña de Soto del Real",
+     "d": "18-06-2024 18:05:14",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240618/hallan-cadaveres-hombre-mujer-vivienda-soto-real/16152985.shtml"
+    },
+    {
+     "id": "1843380",
+     "t": "La Conmebol pospone sin fecha la final de la Copa Libertadores por los disturbios del sábado",
+     "d": "25-11-2018 16:44:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20181125/conmebol-pospone-sin-fecha-final-copa-libertadores-por-disturbios-del-sabado/1843380.shtml"
+    },
+    {
+     "id": "1830560",
+     "t": "Boca Juniors y River Plate se citan en una final inédita en la Copa Libertadores",
+     "d": "01-11-2018 04:39:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20181101/boca-juniors-river-plate-se-citan-final-inedita-copa-libertadores/1830560.shtml"
+    },
+    {
+     "id": "443217",
+     "t": "Neymar hace al Santos campeón de su tercera Libertadores antes de su probable salto a Europa",
+     "d": "23-06-2011 05:54:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20110623/neymar-hace-santos-campeon-su-tercera-libertadores-antes-su-probable-salto-a-europa/443217.shtml"
+    },
+    {
+     "id": "1988580",
+     "t": "Trasladan a Lima la final de la Libertadores entre Flamengo y River por las protestas en Chile",
+     "d": "06-11-2019 05:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20191106/lima-sede-final-copa-libertadores-entre-flamengo-river-plate/1988580.shtml"
+    },
+    {
+     "id": "16833373",
+     "t": "Resumen de la jornada política del 27 de noviembre: Ábalos y Koldo han ingresado en la cárcel de Soto del Real",
+     "d": "27-11-2025 08:18:10",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251127/ultima-hora-politica-hoy-abalos-perez-llorca-directo-resumen-27-noviembre/16833373.shtml"
+    }
+   ]
+  }
+ },
+ "Otegi presos presupuestos": {
+  "https://api2.rtve.es/api/search/contents?search=Otegi%20presos%20presupuestos&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=Otegi%20presos%20presupuestos&size=40": {
+   "n": 300761,
+   "items": [
+    {
+     "id": "2196240",
+     "t": "Otegi: \"Si para sacar a los 200 presos hay que votar los presupuestos, pues votamos\"",
+     "d": "20-10-2021 14:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20211020/otegi-si-para-sacar-a-200-presos-hay-votar-presupuestos-pues-votamos/2196240.shtml"
+    },
+    {
+     "id": "2196200",
+     "t": "Sánchez da un \"no rotundo\" a sacar presos etarras para conseguir el apoyo de Bildu a los Presupuestos",
+     "d": "20-10-2021 09:18:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20211020/sanchez-no-bildu-presos/2196200.shtml"
+    },
+    {
+     "id": "2058243",
+     "t": "Bildu pide a su militancia que apoye los presupuestos de Sánchez",
+     "d": "23-11-2020 14:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20201123/bildu-pide-militancia-apoye-presupuestos-sanchez/2058243.shtml"
+    },
+    {
+     "id": "1976525",
+     "t": "Otegi: \"Hay 250 presos y habrá 250 recibimientos\"",
+     "d": "02-08-2019 18:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190802/otegi-hay-250-presos-habra-250-recibimientos/1976525.shtml"
+    },
+    {
+     "id": "151946",
+     "t": "Otegi, \"absolutamente convencido\" de una nueva negociación",
+     "d": "06-09-2008 23:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080906/otegi-absolutamente-convencido-de-una-nueva-negociacion/151946.shtml"
+    },
+    {
+     "id": "6146441",
+     "t": "Otegi: \"Si para que salgan los 200 presos hay que votar los Presupuestos, los votaremos\"",
+     "d": "20-10-2021 16:48:00",
+     "dur": 365099,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/modo-digital/otegi-cambio-presos-voto-presupuestos/6146441/"
+    },
+    {
+     "id": "2225442",
+     "t": "La CUP presentará una enmienda a la totalidad a los presupuestos pero decide seguir negociando",
+     "d": "16-11-2021 12:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20211116/cup-enmienda-totalidad-presupuestos-cataluna/2225442.shtml"
+    },
+    {
+     "id": "463828",
+     "t": "Manifestación en Bilbao de miles de personas contra la condena a Otegi y Usabiaga",
+     "d": "24-09-2011 21:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110924/manifestacion-bilbao-miles-personas-contra-condena-a-otegi-usabiaga/463828.shtml"
+    },
+    {
+     "id": "6146069",
+     "t": "Otegi: \"Si para sacar a los 200 presos hay que votar los presupuestos, pues votamos\"",
+     "d": "20-10-2021 12:57:00",
+     "dur": 19000,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/informativo-24h/otegi/6146069/"
+    },
+    {
+     "id": "6146147",
+     "t": "Otegi: \"Si para sacar a los 200 presos hay que votar los presupuestos, pues votaremos\"",
+     "d": "20-10-2021 13:22:00",
+     "dur": 44037,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/modo-digital/directo-cms-rtve-arribaizquierda-youtube-otegi-200-1-20-10-2021-132123/6146147/"
+    },
+    {
+     "id": "330541",
+     "t": "Rubalcaba: Hemos creído que lo mejor es que Otegi esté en la cárcel de Logroño",
+     "d": "07-05-2010 21:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100507/rubalcaba-hemos-creido-mejor-otegi-este-carcel-logrono/330541.shtml"
+    },
+    {
+     "id": "1821640",
+     "t": "Unidos Podemos pide \"diálogo\" a ERC y Gobierno y separar los presupuestos de la libertad de los \"presos políticos\"",
+     "d": "18-10-2018 10:22:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20181018/unidos-podemos-pide-dialogo-a-erc-gobierno-se-desvinculen-presupuestos-libertad-presos-politicos/1821640.shtml"
+    },
+    {
+     "id": "6147181",
+     "t": "Otegi niega que plantee que \"suelten a los presos\" para apoyar los PGE",
+     "d": "21-10-2021 08:15:00",
+     "dur": 17000,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-matinal/otegi-niega-plantee-soltar-presos-eta-apoyo-presupuestos/6147181/"
+    },
+    {
+     "id": "900560",
+     "t": "Desmond Tutu pide al Gobierno y ETA avanzar hacia el diálogo y solicita la liberación de Otegi",
+     "d": "20-03-2014 01:40:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140320/desmond-tutu-pide-gobierno-eta-avanzar-hacia-dialogo-solicita-liberacion-otegi/900560.shtml"
+    },
+    {
+     "id": "6147776",
+     "t": "Otegi niega que plantee que \"suelten a los presos\" de ETA para apoyar los PGE y rebaja el malestar del PSOE",
+     "d": "21-10-2021 16:24:00",
+     "dur": 77920,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/otegi-presos-presupuestos-psoe-bildu/6147776/"
+    },
+    {
+     "id": "340240",
+     "t": "Rubalcaba defiende que se cumple \"estrictamente la ley\" en los tratos de favor a presos ex etarras",
+     "d": "19-07-2010 13:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100719/rubalcaba-defiende-se-cumple-estrictamente-ley-tratos-favor-a-presos-ex-etarras/340240.shtml"
+    },
+    {
+     "id": "2108860",
+     "t": "Els presos del procés surten prometent seguir treballant per la independència",
+     "d": "23-06-2021 16:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/catalunya/noticies/20210623/sortida-preso-indultats/2108860.shtml"
+    },
+    {
+     "id": "1827060",
+     "t": "Jordi Sànchez (ANC): \"Los presos no queremos ser moneda de cambio de ninguna negociación\" por los Presupuestos",
+     "d": "26-10-2018 10:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20181026/jordi-sanchez-anc-presos-no-queremos-ser-moneda-cambio-ninguna-negociacion-presupuestos/1827060.shtml"
+    },
+    {
+     "id": "339576",
+     "t": "García Paneque, ex preso cubano: \"No sabemos en qué condiciones llegamos a España\"",
+     "d": "14-07-2010 01:45:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100714/garcia-paneque-ex-preso-cubano-no-sabemos-condiciones-llegamos-a-espana/339576.shtml"
+    },
+    {
+     "id": "471350",
+     "t": "Patxi López cree que en período electoral no hay que tomar decisiones sobre los presos de ETA",
+     "d": "27-10-2011 09:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20111027/patxi-lopez-cree-periodo-electoral-no-hay-tomar-decisiones-sobre-presos-eta/471350.shtml"
+    },
+    {
+     "id": "194235",
+     "t": "Hay siete presos etarras más al mes en las cárceles españolas desde la última tregua de ETA",
+     "d": "14-11-2008 10:53:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20081114/hay-siete-presos-etarras-mas-al-mes-en-las-carceles-espanolas-desde-la-ultima-tregua-de-eta/194235.shtml"
+    },
+    {
+     "id": "877241",
+     "t": "Amaiur responsabiliza al Gobierno de la muerte del preso Bellón y exhibe carteles pro acercamiento",
+     "d": "12-02-2014 10:06:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140212/diputados-amaiur-culpan-gobierno-muerte-del-preso-etarra-arkaitz-bellon/877241.shtml"
+    },
+    {
+     "id": "6145701",
+     "t": "Marlaska, sobre Otegi y el apoyo a los PGE a cambio de presos de ETA: \"Aquí la ley se aplica en todo momento\"",
+     "d": "20-10-2021 08:56:00",
+     "dur": 443000,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-hora-de-la-1/entrevista-fernando-grande-marlaska/6145701/"
+    },
+    {
+     "id": "1245960",
+     "t": "Queman ocho autobuses en Bizkaia en un sabotaje de \"apoyo\" a presos de ETA",
+     "d": "01-11-2015 13:23:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20151101/queman-ocho-autobuses-bizkaia-sabotaje-apoyo-a-presos-eta/1245960.shtml"
+    },
+    {
+     "id": "6146325",
+     "t": "Sánchez garantiza a Casado que no liberará a presos etarras a cambio del apoyo de Bildu a los Presupuestos",
+     "d": "20-10-2021 17:00:00",
+     "dur": 95480,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/sanchez-niega-presos-eta/6146325/"
+    },
+    {
+     "id": "374660",
+     "t": "Los presos de Ocaña II adelantaron el 'clásico' Barça-Madrid en la cárcel",
+     "d": "25-11-2010 18:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20101125/presos-ocana-ii-adelantaron-clasico-barca-madrid-carcel/374660.shtml"
+    },
+    {
+     "id": "2196201",
+     "t": "Marlaska, sobre Otegi y el apoyo a los PGE a cambio de presos de ETA: \"Aquí la ley se aplica en todo momento\"",
+     "d": "20-10-2021 19:40:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20211020/marlaska-otegi-intercambio-presos-presupuestos/2196201.shtml"
+    },
+    {
+     "id": "737241",
+     "t": "El preso por el que intercedió el rey en Marruecos cumplirá el resto de la condena en España",
+     "d": "13-08-2013 13:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130813/preso-por-intercedio-rey-marruecos-cumplira-resto-condena-espana/737241.shtml"
+    },
+    {
+     "id": "1070381",
+     "t": "\"Los Cinco\" y Alain Gross: el canje de presos que ha abierto el diálogo entre Cuba y EE.UU.",
+     "d": "17-12-2014 20:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141217/cinco-alain-gross-canje-presos-abierto-dialogo-entre-cuba-eeuu/1070381.shtml"
+    },
+    {
+     "id": "447095",
+     "t": "Otegi asegura que nunca ha promovido \"la acción violenta\"",
+     "d": "12-07-2011 11:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110712/otegi-asegura-nunca-promovido-accion-violenta/447095.shtml"
+    },
+    {
+     "id": "1999131",
+     "t": "El Constitucional ampara por primera vez el derecho de los presos a hablar con la prensa",
+     "d": "05-02-2020 14:18:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20200205/constitucional-ampara-por-primera-vez-derecho-presos-a-hablar-con-prensa/1999131.shtml"
+    },
+    {
+     "id": "1027840",
+     "t": "Miles de personas exigen la libertad de los encarcelados por el caso Bateragune",
+     "d": "11-10-2014 18:44:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141011/miles-personas-se-manifiestan-para-exigir-libertad-encarcelados-por-caso-bateragune/1027840.shtml"
+    },
+    {
+     "id": "253569",
+     "t": "Ares anuncia que el Gobierno de López anulará las ayudas a las familias de los presos etarras",
+     "d": "25-03-2009 12:54:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090325/ares-anuncia-que-el-gobierno-de-lopez-anulara-las-ayudas-a-las-familias-de-los-presos-etarras/253569.shtml"
+    },
+    {
+     "id": "519419",
+     "t": "Mover presos",
+     "d": "27-04-2012 20:42:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120427/mover-presos-plan-reinsercion-presos-eta/519419.shtml"
+    },
+    {
+     "id": "2197100",
+     "t": "Felipe González tacha de \"inaceptables\" las declaraciones de Otegi y cree que no pide perdón",
+     "d": "20-10-2021 16:32:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20211020/gonzalez-inaceptables-otegi/2197100.shtml"
+    },
+    {
+     "id": "205100",
+     "t": "Rubalcaba: \"Ha habido acercamientos y alejamientos de presos etarras al País Vasco\"",
+     "d": "10-12-2008 13:53:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20081210/rubalcaba-habido-acercamientos-alejamientos-presos-etarras-pais-vasco/205100.shtml"
+    },
+    {
+     "id": "412845",
+     "t": "Otegi recusa a la magistrada que según el Supremo prejuzgó su culpabilidad",
+     "d": "02-03-2011 18:08:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110302/otegi-recusa-a-magistrada-segun-supremo-prejuzgo-su-culpabilidad/412845.shtml"
+    },
+    {
+     "id": "1260021",
+     "t": "Detenido en la cárcel de Segovia un preso por intentar captar para el Estado Islámico a otros internos",
+     "d": "23-11-2015 18:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20151123/detenido-espana-por-captar-yihadistas-amenazar-con-bombas-madrid-barcelona/1260021.shtml"
+    },
+    {
+     "id": "327919",
+     "t": "Trasladan a Otegi a Guipuzcoa y podrá salir de prisión custodiado para visitar a su padre enfermo",
+     "d": "16-04-2010 18:22:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100416/trasladan-a-otegi-a-guipuzcoa-y-podra-salir-de-prision-custodiado-para-visitar-a-su-padre-enfermo/327919.shtml"
+    },
+    {
+     "id": "1623941",
+     "t": "España realiza la mayor repatriación de presos españoles condenados en el extranjero",
+     "d": "29-09-2017 09:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170929/hoy-llega-mayor-repatriacion-espanoles-presos-extranjero/1623941.shtml"
+    }
+   ]
+  }
+ },
+ "Otegi Eibar presos": {
+  "https://api2.rtve.es/api/search/contents?search=Otegi%20Eibar%20presos&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=Otegi%20Eibar%20presos&size=40": {
+   "n": 306439,
+   "items": [
+    {
+     "id": "1976525",
+     "t": "Otegi: \"Hay 250 presos y habrá 250 recibimientos\"",
+     "d": "02-08-2019 18:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190802/otegi-hay-250-presos-habra-250-recibimientos/1976525.shtml"
+    },
+    {
+     "id": "2196240",
+     "t": "Otegi: \"Si para sacar a los 200 presos hay que votar los presupuestos, pues votamos\"",
+     "d": "20-10-2021 14:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20211020/otegi-si-para-sacar-a-200-presos-hay-votar-presupuestos-pues-votamos/2196240.shtml"
+    },
+    {
+     "id": "151946",
+     "t": "Otegi, \"absolutamente convencido\" de una nueva negociación",
+     "d": "06-09-2008 23:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080906/otegi-absolutamente-convencido-de-una-nueva-negociacion/151946.shtml"
+    },
+    {
+     "id": "6146069",
+     "t": "Otegi: \"Si para sacar a los 200 presos hay que votar los presupuestos, pues votamos\"",
+     "d": "20-10-2021 12:57:00",
+     "dur": 19000,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/informativo-24h/otegi/6146069/"
+    },
+    {
+     "id": "463828",
+     "t": "Manifestación en Bilbao de miles de personas contra la condena a Otegi y Usabiaga",
+     "d": "24-09-2011 21:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110924/manifestacion-bilbao-miles-personas-contra-condena-a-otegi-usabiaga/463828.shtml"
+    },
+    {
+     "id": "6146147",
+     "t": "Otegi: \"Si para sacar a los 200 presos hay que votar los presupuestos, pues votaremos\"",
+     "d": "20-10-2021 13:22:00",
+     "dur": 44037,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/modo-digital/directo-cms-rtve-arribaizquierda-youtube-otegi-200-1-20-10-2021-132123/6146147/"
+    },
+    {
+     "id": "330541",
+     "t": "Rubalcaba: Hemos creído que lo mejor es que Otegi esté en la cárcel de Logroño",
+     "d": "07-05-2010 21:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100507/rubalcaba-hemos-creido-mejor-otegi-este-carcel-logrono/330541.shtml"
+    },
+    {
+     "id": "900560",
+     "t": "Desmond Tutu pide al Gobierno y ETA avanzar hacia el diálogo y solicita la liberación de Otegi",
+     "d": "20-03-2014 01:40:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140320/desmond-tutu-pide-gobierno-eta-avanzar-hacia-dialogo-solicita-liberacion-otegi/900560.shtml"
+    },
+    {
+     "id": "17317801",
+     "t": "Feijóo arropa a Echeverría y defiende los pactos con Vox: \"Siempre me sentiré más cerca de Abascal que de Otegi\"",
+     "d": "17-11-2026 12:16:56",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261117/feijoo-campana-pais-vasco-pp-arropa-echevarria/17317801.shtml"
+    },
+    {
+     "id": "17023298",
+     "t": "Eibar es Lugar de Memoria Democrática",
+     "d": "14-04-2026 14:03:00",
+     "dur": 95400,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telenorte-pais-vasco/eibar-lugar-memoria-democratica/17023298/"
+    },
+    {
+     "id": "471350",
+     "t": "Patxi López cree que en período electoral no hay que tomar decisiones sobre los presos de ETA",
+     "d": "27-10-2011 09:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20111027/patxi-lopez-cree-periodo-electoral-no-hay-tomar-decisiones-sobre-presos-eta/471350.shtml"
+    },
+    {
+     "id": "2196200",
+     "t": "Sánchez da un \"no rotundo\" a sacar presos etarras para conseguir el apoyo de Bildu a los Presupuestos",
+     "d": "20-10-2021 09:18:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20211020/sanchez-no-bildu-presos/2196200.shtml"
+    },
+    {
+     "id": "369691",
+     "t": "Otegi, una vida en el banquillo",
+     "d": "10-11-2010 19:52:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20101110/otegi-vida-banquillo/369691.shtml"
+    },
+    {
+     "id": "367837",
+     "t": "Basagoiti: \"Es irresponsable bailar el agua a Batasuna; si no va a las urnas, ETA morirá\"",
+     "d": "05-11-2010 09:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20101105/basagoiti-irresponsable-bailar-agua-a-batasuna-si-no-va-a-urnas-eta-morira/367837.shtml"
+    },
+    {
+     "id": "2058243",
+     "t": "Bildu pide a su militancia que apoye los presupuestos de Sánchez",
+     "d": "23-11-2020 14:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20201123/bildu-pide-militancia-apoye-presupuestos-sanchez/2058243.shtml"
+    },
+    {
+     "id": "325301",
+     "t": "La Audiencia Nacional mantiene la prisión preventiva a Otegi",
+     "d": "25-03-2010 15:13:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100325/audiencia-nacional-mantiene-prision-preventiva-a-otegi/325301.shtml"
+    },
+    {
+     "id": "446486",
+     "t": "Rubalcaba a Otegi: \"ETA no estorba, ETA mata\"",
+     "d": "08-07-2011 17:10:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110708/rubalcaba-a-otegi-eta-no-estorba-eta-mata/446486.shtml"
+    },
+    {
+     "id": "979403",
+     "t": "El Constitucional avala la condena de prisión a Otegi por intentar reconstruir Batasuna",
+     "d": "22-07-2014 19:16:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140722/constitucional-avala-condena-a-seis-anos-medio-prision-a-otegi/979403.shtml"
+    },
+    {
+     "id": "19750",
+     "t": "El Tribunal Constitucional deniega el recurso de amparo a Arnaldo Otegi",
+     "d": "08-04-2008 12:35:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080408/el-tribunal-constitucional-deniega-el-recurso-de-amparo-a-arnaldo-otegi/19750.shtml"
+    },
+    {
+     "id": "296196",
+     "t": "Otegi, el portavoz más mediático de Batasuna",
+     "d": "13-10-2009 21:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20091013/otegi-portavoz-mas-mediatico-batasuna/296196.shtml"
+    },
+    {
+     "id": "317251",
+     "t": "Garzón comunica su procesamiento a Otegi y Usabiaga por reconstruir Batasuna",
+     "d": "10-02-2010 13:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100210/garzon-comunica-su-procesamiento-a-otegi-usabiaga-por-reconstruir-batasuna/317251.shtml"
+    },
+    {
+     "id": "149866",
+     "t": "La Audiencia Nacional permite a Arnaldo Otegi viajar a Italia",
+     "d": "03-09-2008 18:06:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080903/la-audiencia-nacional-permite-a-arnaldo-otegi-viajar-a-italia/149866.shtml"
+    },
+    {
+     "id": "362756",
+     "t": "Zapatero dice a Otegi que además de las palabras \"hacen falta hechos\"",
+     "d": "17-10-2010 14:34:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20101017/chaves-dice-otegi-tendria-dejar-banda-porque-gobierno-no-va-a-cambiar/362756.shtml"
+    },
+    {
+     "id": "542212",
+     "t": "La candidata de EH Bildu a las elecciones vascas cree que Otegi es \"un excelente líder\"",
+     "d": "04-07-2012 11:35:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120704/candidata-eh-bildu-a-elecciones-vascas-cree-otegi-excelente-lider/542212.shtml"
+    },
+    {
+     "id": "1027840",
+     "t": "Miles de personas exigen la libertad de los encarcelados por el caso Bateragune",
+     "d": "11-10-2014 18:44:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141011/miles-personas-se-manifiestan-para-exigir-libertad-encarcelados-por-caso-bateragune/1027840.shtml"
+    },
+    {
+     "id": "394276",
+     "t": "Gerry Adams califica de \"injusto\" el que Otegi siga en la cárcel",
+     "d": "11-01-2011 15:27:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110111/gerry-adams-califica-de-injusto-el-que-otegi-siga-en-la-carcel/394276.shtml"
+    },
+    {
+     "id": "321608",
+     "t": "Segunda condena a Otegi por enaltecimiento pero aún le quedan tres causas pendientes",
+     "d": "02-03-2010 12:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100302/segunda-condena-a-otegi-por-enaltecimiento-pero-aun-quedan-tres-causas-pendientes/321608.shtml"
+    },
+    {
+     "id": "145952",
+     "t": "Otegi, diez años de liderazgo y esperanzas rotas",
+     "d": "16-09-2011 11:16:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110916/otegi-diez-anos-liderazgo-esperanzas-rotas/145952.shtml"
+    },
+    {
+     "id": "1394460",
+     "t": "El juez desestima el recurso impuesto por Otegi y mantiene su inhabilitación",
+     "d": "02-09-2016 15:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160902/juez-desestima-recurso-impuesto-por-otegi-mantiene-su-inhabilitacion/1394460.shtml"
+    },
+    {
+     "id": "1317761",
+     "t": "La dirección de EH Bildu propone a Otegi como candidato a lehendakari",
+     "d": "12-03-2016 12:22:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160312/direccion-eh-bildu-propone-a-otegi-como-candidato-a-lehendakari/1317761.shtml"
+    },
+    {
+     "id": "447095",
+     "t": "Otegi asegura que nunca ha promovido \"la acción violenta\"",
+     "d": "12-07-2011 11:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110712/otegi-asegura-nunca-promovido-accion-violenta/447095.shtml"
+    },
+    {
+     "id": "471167",
+     "t": "Caamaño: Si Otegi quiere consolidar el nuevo escenario \"será bienvenido\"",
+     "d": "26-10-2011 10:07:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20111026/caamano-si-otegi-quiere-consolidar-nuevo-escenario-sera-bienvenido-pero-seguira-su-proceso-penal/471167.shtml"
+    },
+    {
+     "id": "427632",
+     "t": "Rechazada la recusación de Otegi contra tres jueces que tienen que juzgarle",
+     "d": "26-04-2011 12:57:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110426/rechazada-recusacion-otegi-contra-tres-jueces-tienen-juzgarle/427632.shtml"
+    },
+    {
+     "id": "409279",
+     "t": "Otegi se jacta del \"nerviosismo\" del Estado porque ya \"no puede sostener que nada ha cambiado\"",
+     "d": "18-02-2011 18:17:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110218/otegi-se-jacta-del-nerviosismo-del-estado-porque-ya-no-puede-sostener-nada-cambiado/409279.shtml"
+    },
+    {
+     "id": "1351660",
+     "t": "Otegi resalta el proceso \"ejemplar\" en Cataluña que siente como \"propio\"",
+     "d": "18-05-2016 10:40:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160518/otegi-llega-parlament-invitado-por-cup-provoca-division-camara-catalana/1351660.shtml"
+    },
+    {
+     "id": "314120",
+     "t": "Garzón procesa a Otegi y a siete personas más por intentar reconstruir Batasuna",
+     "d": "25-01-2010 13:40:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100125/garzon-procesa-a-otegi-y-a-siete-personas-mas-por-intentar-reconstruir-batasuna/314120.shtml"
+    },
+    {
+     "id": "1395944",
+     "t": "El Constitucional mantiene la inhabilitación de Otegi y le deja fuera de las elecciones vascas",
+     "d": "06-09-2016 20:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160906/constitucional-mantiene-inhabilitacion-otegi-para-concurrir-a-elecciones-vascas/1395944.shtml"
+    },
+    {
+     "id": "315059",
+     "t": "La defensa de Otegi estudia denunciar a la juez Murillo por una posible \"falta de imparcialidad\"",
+     "d": "29-01-2010 19:01:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100129/la-defensa-de-otegi-estudia-denunciar-a-la-juez-murillo-por-una-posible-falta-de-imparcialidad/315059.shtml"
+    },
+    {
+     "id": "390499",
+     "t": "Rubalcaba creerá a Otegi cuando ETA sustituya sus siglas por las de F-I-N",
+     "d": "28-12-2010 10:45:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20101228/rubalcaba-replica-a-otegi-fin-eta-sera-cuando-sustituya-siglas-por-f-i-n/390499.shtml"
+    },
+    {
+     "id": "16854670",
+     "t": "Otegi y Puigdemont apuestan en Waterloo por la colaboración entre las \"naciones\" vasca y catalana",
+     "d": "11-12-2025 16:15:19",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251211/otegi-puigdemont-apuestan-waterloo-por-colaboracion-entre-naciones-vasca-catalana/16854670.shtml"
+    }
+   ]
+  }
+ },
+ "Sánchez dimisión Rajoy Gürtel": {
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20dimisi%C3%B3n%20Rajoy%20G%C3%BCrtel&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20dimisi%C3%B3n%20Rajoy%20G%C3%BCrtel&size=40": {
+   "n": 392264,
+   "items": [
+    {
+     "id": "1742560",
+     "t": "Rajoy acusa a Sánchez de ser \"pura ambigüedad táctica\" y de no ser \"capaz de ganar unas elecciones\"",
+     "d": "31-05-2018 13:10:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180531/mocion-censura-rajoy-acusa-a-sanchez-ser-pura-ambigueedad-tactica/1742560.shtml"
+    },
+    {
+     "id": "449441",
+     "t": "Blanco pregunta a Rajoy: \"Si sabía que Camps era culpable, por qué permitió que fuera candidato\"",
+     "d": "22-07-2011 14:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110722/blanco-pregunta-a-rajoy-si-sabia-camps-era-culpable-por-permitio-fuera-candidato/449441.shtml"
+    },
+    {
+     "id": "1525281",
+     "t": "El PP no comparte la citación a Rajoy, mientras que la oposición pide explicaciones",
+     "d": "18-04-2017 18:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170418/pp-no-comparte-citacion-a-rajoy-mientras-oposicion-pide-explicaciones/1525281.shtml"
+    },
+    {
+     "id": "4132793",
+     "t": "Sánchez pide la dimisión de Rajoy e Iglesias insta a que dé explicaciones en el Congreso por 'Gürtel'",
+     "d": "26-07-2017 15:17:00",
+     "dur": 147000,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/pedro-sanchez-pide-mariano-rajoy-presente-su-dimision/4132793/"
+    },
+    {
+     "id": "1055841",
+     "t": "La oposición cree que Rajoy no tiene \"autoridad\" frente la corrupción y le exige responsabilidades",
+     "d": "27-11-2014 16:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141127/oposicion-acusa-a-rajoy-no-tener-autoridad-frente-a-corrupcion-exige-responsabilidades/1055841.shtml"
+    },
+    {
+     "id": "1070765",
+     "t": "Rajoy dice que la dimision del fiscal es personal \"exclusivamente\" y el PSOE, que es por \"presión\"",
+     "d": "18-12-2014 23:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141218/rajoy-dice-dimision-del-fiscal-exclusivamente-personal-psoe-achaca-a-presiones/1070765.shtml"
+    },
+    {
+     "id": "327069",
+     "t": "Bárcenas comunica al Partido Popular que pagará los honorarios de su defensa en Gürtel",
+     "d": "10-04-2010 14:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100410/barcenas-comunica-partido-popular-pagara-honorarios-su-defensa-guertel/327069.shtml"
+    },
+    {
+     "id": "1301920",
+     "t": "Aguirre asegura que con su dimisión no pretende marcar el camino a Rajoy: \"De ninguna manera\"",
+     "d": "15-02-2016 12:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160215/aguirre-asegura-con-su-dimision-no-pretende-marcar-camino-a-rajoy-ninguna-manera/1301920.shtml"
+    },
+    {
+     "id": "202982",
+     "t": "Rajoy confirma que su partido va a pedir la dimisión de Castro al frente de la FEMP",
+     "d": "05-12-2008 12:17:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20081205/rajoy-confirma-su-partido-va-a-pedir-dimision-castro-frente-femp/202982.shtml"
+    },
+    {
+     "id": "17298923",
+     "t": "Sánchez pone a Carlos Cuerpo al frente de Transportes tras la dimisión de Puente",
+     "d": "04-11-2026 10:03:55",
+     "dur": 189920,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-hora-de-la-1/sanchez-pone-carlos-cuerpo-frente-transportes-tras-dimision-puente/17298923/"
+    },
+    {
+     "id": "1432722",
+     "t": "Pedro Sánchez reaparece en el Congreso y confirma que el jueves votará 'no' a Rajoy",
+     "d": "26-10-2016 18:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20161026/pedro-sanchez-reaparece-congreso-confirma-votara-no-a-rajoy/1432722.shtml"
+    },
+    {
+     "id": "1134220",
+     "t": "Rajoy confirma que no publicará la lista de amnistiados como tampoco lo hizo el PSOE antes",
+     "d": "22-04-2015 10:06:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150422/rajoy-confirma-no-publicara-lista-amnistiados-como-tampoco-hizo-psoe-antes/1134220.shtml"
+    },
+    {
+     "id": "1550961",
+     "t": "Sánchez toma las riendas del PSOE con dos retos: unir al partido desde la izquierda y echar a Rajoy",
+     "d": "22-05-2017 12:56:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170522/sanchez-toma-riendas-del-psoe-con-dos-retos-unir-partido-desde-izquierda-echar-a-rajoy/1550961.shtml"
+    },
+    {
+     "id": "229966",
+     "t": "Rajoy anuncia la dimisión del alcalde de Boadilla del Monte pero éste lo niega",
+     "d": "09-02-2009 13:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090209/rajoy-anuncia-dimision-del-alcalde-boadilla-del-monte-pero-este-niega/229966.shtml"
+    },
+    {
+     "id": "17270754",
+     "t": "Sánchez lamenta la dimisión de Montse Mínguez: \"Está rota, está pasándolo muy mal\"",
+     "d": "16-10-2026 19:05:41",
+     "dur": 101560,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/la-tarde-en-24h/sanchez-lamenta-dimision-montse-minguez-rota-esta/17270754/"
+    },
+    {
+     "id": "1362328",
+     "t": "Rajoy cree que las grabaciones del ministro no afectarán a la campaña y la oposición insiste en que dimita",
+     "d": "23-06-2016 14:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160623/rajoy-cree-grabaciones-a-fernandez-diaz-no-tendran-efecto-campana/1362328.shtml"
+    },
+    {
+     "id": "1055722",
+     "t": "Rajoy: \"España no está corrompida. Tiene algunos corruptos que están saliendo a la luz\"",
+     "d": "27-11-2014 13:47:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141127/rajoy-espana-no-esta-corrompida-tiene-algunos-corruptos-estan-saliendo-a-luz/1055722.shtml"
+    },
+    {
+     "id": "1060081",
+     "t": "Alfonso Alonso, nuevo ministro de Sanidad, Servicios Sociales e Igualdad",
+     "d": "02-12-2014 19:11:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141202/alfonso-alonso-nuevo-ministro-sanidad-servicios-sociales-igualdad/1060081.shtml"
+    },
+    {
+     "id": "233676",
+     "t": "El 'popular' Martín Vasco abandona la comisión que investiga la trama de espías de Madrid",
+     "d": "18-02-2009 13:03:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090218/el-popular-martin-vasco-abandona-la-comision-que-investiga-la-trama-de-espias-de-madrid/233676.shtml"
+    },
+    {
+     "id": "230037",
+     "t": "Solbes replica a Rajoy que debería pedir otras dimisiones antes que la suya",
+     "d": "09-02-2009 17:18:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090209/solbes-replica-a-rajoy-que-deberia-pedir-otras-dimisiones-antes-que-la-suya/230037.shtml"
+    },
+    {
+     "id": "1548000",
+     "t": "Iglesias sigue adelante con su moción de censura y carga contra el PSOE por no apoyarla",
+     "d": "16-05-2017 14:16:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170516/iglesias-sigue-adelante-con-su-mocion-censura-carga-contra-psoe-por-no-apoyarla/1548000.shtml"
+    },
+    {
+     "id": "1056940",
+     "t": "Contra la corrupción",
+     "d": "28-11-2014 13:28:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20141128/contra-corrupcion/1056940.shtml"
+    },
+    {
+     "id": "728164",
+     "t": "El PP asegura que Rajoy dará este jueves las explicaciones que \"todo el mundo espera\"",
+     "d": "31-07-2013 14:28:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130731/pp-asegura-rajoy-dara-este-jueves-explicaciones-todo-mundo-espera/728164.shtml"
+    },
+    {
+     "id": "602886",
+     "t": "Rubalcaba pide a Rajoy que \"dé una explicación pública\" sobre las cuentas de Bárcenas",
+     "d": "17-01-2013 20:44:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130117/psoe-sospecha-gobierno-hizo-amnistia-fiscal-para-encubrir-a-evasores-fiscales-como-barcenas/602886.shtml"
+    },
+    {
+     "id": "535684",
+     "t": "Rajoy y Almunia abordarán el rescate a la banca y la crisis del euro este viernes en la Moncloa",
+     "d": "15-06-2012 02:53:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120615/rajoy-almunia-abordaran-rescate-a-banca-crisis-del-euro-este-viernes-moncloa/535684.shtml"
+    },
+    {
+     "id": "445868",
+     "t": "Rubalcaba dice que no tiene fecha para dejar el Gobierno y Rajoy espera que sea el sábado",
+     "d": "06-07-2011 12:04:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110706/rubalcaba-insiste-no-tiene-fecha-para-abandonar-gobierno/445868.shtml"
+    },
+    {
+     "id": "1338480",
+     "t": "Ana Mato, autorizada por el Gobierno para volver a trabajar en el PP",
+     "d": "15-04-2016 18:46:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160415/ana-mato-autorizada-por-gobierno-para-volver-a-trabajar-pp/1338480.shtml"
+    },
+    {
+     "id": "2877953",
+     "t": "Pedro Sánchez: la corrupción \"no afecta a todos por igual\" y la dimisión de Mato \"apunta al PP\"",
+     "d": "27-11-2014 15:21:00",
+     "dur": 118862,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/lider-del-psoe-propone-incrementar-penas-audiencia-nacional-se-ocupe-casos-corrupcion/2877953/"
+    },
+    {
+     "id": "1531380",
+     "t": "Rajoy apoya a Catalá y Zoido, e insiste ante la corrupción: \"quien la hace la paga\"",
+     "d": "26-04-2017 05:18:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170426/rajoy-apoya-a-catala-zoido-insiste-ante-corrupcion-quien-hace-paga/1531380.shtml"
+    },
+    {
+     "id": "609553",
+     "t": "Cayo Lara pide la dimisión de Rajoy y elecciones porque gobierna \"sobre la mentira\"",
+     "d": "20-02-2013 20:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130220/cayo-lara-pide-dimision-rajoy-elecciones-porque-gobierna-sobre-mentira/609553.shtml"
+    },
+    {
+     "id": "715640",
+     "t": "Rubalcaba anuncia que presentará una moción de censura si Rajoy no comparece por Bárcenas",
+     "d": "16-07-2013 20:57:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130716/rubalcaba-anuncia-presentara-mocion-censura-si-rajoy-no-comparece-para-explicar-caso-barcenas/715640.shtml"
+    },
+    {
+     "id": "1197384",
+     "t": "La oposición pide la comparecencia del ministro del Interior por su reunión con Rato y apuntan a Rajoy",
+     "d": "10-08-2015 16:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150810/psoe-cree-reunion-del-ministro-del-interior-rato-implica-a-rajoy-exige-explicaciones/1197384.shtml"
+    },
+    {
+     "id": "1532700",
+     "t": "Sánchez cree que \"el PSOE de la abstención\" tiene \"difícil\" pedir la dimisión de Rajoy por la corrupción",
+     "d": "27-04-2017 10:28:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170427/sanchez-cree-psoe-abstencion-tiene-dificil-pedir-dimision-rajoy-por-corrupcion/1532700.shtml"
+    },
+    {
+     "id": "1742325",
+     "t": "Rajoy, caída de un superviviente de la política acorralado por la corrupción",
+     "d": "05-06-2018 16:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180605/rajoy-caida-superviviente-politica-acorralado-por-corrupcion/1742325.shtml"
+    },
+    {
+     "id": "590380",
+     "t": "Rajoy avala las reformas \"valientes y necesarias\" que está adoptando la Comunidad de Madrid",
+     "d": "19-12-2012 23:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20121219/rajoy-avala-reformas-valientes-necesarias-esta-adoptando-comunidad-madrid/590380.shtml"
+    },
+    {
+     "id": "721380",
+     "t": "PSOE e IU exigen que Rajoy diga \"toda la verdad\" sobre Bárcenas y no solo \"su versión\"",
+     "d": "22-07-2013 20:52:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130722/iu-espera-rajoy-diga-toda-verdad-sobre-caso-barcenas-no-solo-su-version/721380.shtml"
+    },
+    {
+     "id": "289434",
+     "t": "Rajoy recuerda la dimisión de Serra por espionaje a políticos y Zapatero pide \"prudencia\" al PP",
+     "d": "19-08-2009 16:16:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090819/rajoy-recuerda-la-dimision-de-serra-por-espionaje-a-politicos-y-zapatero-pide-prudencia-al-pp/289434.shtml"
+    },
+    {
+     "id": "17082792",
+     "t": "Una marcha en Madrid pide la dimisión de Sánchez y la convocatoria de elecciones",
+     "d": "23-05-2026 11:33:41",
+     "dur": 112840,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/fin-de-semana-24h/marcha-madrid-pide-dimision-sanchez-convocatoria-elecciones/17082792/"
+    },
+    {
+     "id": "1110500",
+     "t": "Díaz contesta a Rajoy: \"Ha tardado tres años en ver que no necesitaba pasaporte para Andalucía\"",
+     "d": "07-03-2015 13:56:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150307/diaz-contesta-a-rajoy-tardado-tres-anos-ver-no-necesitaba-pasaporte-para-andalucia/1110500.shtml"
+    },
+    {
+     "id": "1113021",
+     "t": "Rajoy defiende su gestión de la crisis del Ebro y se enzarza por la corrupción con Sánchez",
+     "d": "11-03-2015 09:45:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150311/rajoy-defiende-su-gestion-crisis-del-ebro-se-enzarza-por-corrupcion-con-sanchez/1113021.shtml"
+    }
+   ]
+  }
+ },
+ "Sánchez exige dimisión Rajoy declaración testigo": {
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20exige%20dimisi%C3%B3n%20Rajoy%20declaraci%C3%B3n%20testigo&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20exige%20dimisi%C3%B3n%20Rajoy%20declaraci%C3%B3n%20testigo&size=40": {
+   "n": 343782,
+   "items": [
+    {
+     "id": "1055841",
+     "t": "La oposición cree que Rajoy no tiene \"autoridad\" frente la corrupción y le exige responsabilidades",
+     "d": "27-11-2014 16:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141127/oposicion-acusa-a-rajoy-no-tener-autoridad-frente-a-corrupcion-exige-responsabilidades/1055841.shtml"
+    },
+    {
+     "id": "602886",
+     "t": "Rubalcaba pide a Rajoy que \"dé una explicación pública\" sobre las cuentas de Bárcenas",
+     "d": "17-01-2013 20:44:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130117/psoe-sospecha-gobierno-hizo-amnistia-fiscal-para-encubrir-a-evasores-fiscales-como-barcenas/602886.shtml"
+    },
+    {
+     "id": "17180889",
+     "t": "Ayuso evitar confirmar el precio del ático que compró la Comunidad de Madrid como despacho y la oposición exige su dimisión",
+     "d": "05-08-2026 15:31:23",
+     "dur": 64280,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/ayuso-evitar-confirmar-precio-del-atico-compro-comunidad-madrid-como-despacho-oposicion-exige-su-dimision/17180889/"
+    },
+    {
+     "id": "1525281",
+     "t": "El PP no comparte la citación a Rajoy, mientras que la oposición pide explicaciones",
+     "d": "18-04-2017 18:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170418/pp-no-comparte-citacion-a-rajoy-mientras-oposicion-pide-explicaciones/1525281.shtml"
+    },
+    {
+     "id": "1361821",
+     "t": "El Parlament exige a De Alfonso comparecer para valorar su revocación tras conocerse las grabaciones con el ministro",
+     "d": "22-06-2016 14:01:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160622/parlament-exige-a-alfonso-comparecer-para-valorar-su-revocacion-tras-conocerse-grabaciones-con-ministro-fernandez-diaz/1361821.shtml"
+    },
+    {
+     "id": "1806421",
+     "t": "Iglesias exige la dimisión de Delgado: \"Quien se reúne con las cloacas tiene que abandonar la vida pública\"",
+     "d": "25-09-2018 16:40:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180925/iglesias-exige-dimision-delgado-por-audios-villarejo/1806421.shtml"
+    },
+    {
+     "id": "1750920",
+     "t": "El PP exige dimitir al ministro de Agricultura, que confía en ser desimputado por unos pozos ilegales",
+     "d": "14-06-2018 13:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180614/ministro-agricultura-confia-sera-desimputado-por-robo-agua-donana/1750920.shtml"
+    },
+    {
+     "id": "518261",
+     "t": "CiU exige a Rajoy \"complicidad\" y \"diálogo\" si quiere que apoye sus presupuestos",
+     "d": "24-04-2012 18:42:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120424/ciu-exige-a-rajoy-complicidad-dialogo-si-quiere-apoye-presupuestos/518261.shtml"
+    },
+    {
+     "id": "16722423",
+     "t": "Feijóo dice que si el PSOE no \"exige la dimisión\" de García Ortiz \"le acompañará hasta el banquillo\"",
+     "d": "09-09-2025 15:00:27",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250909/feijoo-dice-si-psoe-no-exige-dimision-garcia-ortiz-acompanara-hasta-banquillo/16722423.shtml"
+    },
+    {
+     "id": "1700285",
+     "t": "La oposición exige explicaciones \"inmediatas\" a Cifuentes por falsificar presuntamente las notas de un máster",
+     "d": "21-03-2018 14:04:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180321/errejon-exige-explicaciones-a-cifuentes-por-falsificar-presuntamente-notas-master/1700285.shtml"
+    },
+    {
+     "id": "16909088",
+     "t": "El PP exige la dimisión inmediata de Puente por \"mentir\" en sus explicaciones sobre el accidente de tren en Adamuz",
+     "d": "25-01-2026 13:39:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260125/pp-exige-dimision-inmediata-puente-por-mentir-explicaciones-sobre-accidente-tren-adamuz/16909088.shtml"
+    },
+    {
+     "id": "784660",
+     "t": "El comité de empresa de Canal 9 exige a la Generalitat que cumpla el \"Estatuto de Autonomía\"",
+     "d": "05-11-2013 21:58:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20131105/comite-empresa-canal-9-exige-a-generalitat-cumpla-estatuto-autonomia/784660.shtml"
+    },
+    {
+     "id": "1576780",
+     "t": "Rajoy y Sánchez coinciden en rechazar el referéndum en Cataluña, pero el socialista le exige diálogo",
+     "d": "06-07-2017 22:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170706/rajoy-sanchez-acuerdan-mantener-contacto-permanente-sobre-cataluna/1576780.shtml"
+    },
+    {
+     "id": "1624780",
+     "t": "El PSOE critica las cargas policiales y exige a Puigdemont y Rajoy que negocien",
+     "d": "01-10-2017 21:38:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20171001/referendum-cataluna-psoe-critica-cargas-policiales-exige-a-puigdemont-rajoy-negocien/1624780.shtml"
+    },
+    {
+     "id": "366927",
+     "t": "Venezuela niega tener la petición de extradición de Cubillas y exige la entrega de un testigo del juez Moreno",
+     "d": "02-11-2010 19:56:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20101102/venezuela-niega-tener-peticion-extradicion-cubillas-exige-entrega-testigo-del-juez-moreno/366927.shtml"
+    },
+    {
+     "id": "17096668",
+     "t": "El CGPJ expresa su \"preocupación\" por las declaraciones que cuestionan la independencia judicial y exige \"respeto\"",
+     "d": "02-06-2026 12:48:50",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260602/cgpj-expresa-preocupacion-declaraciones-cuestionan-independencia-judicial/17096668.shtml"
+    },
+    {
+     "id": "1837722",
+     "t": "Sánchez asegura estar \"en plazo\" para presentar los PGE y pide a Casado \"no tener prisa en perder unas elecciones\"",
+     "d": "14-11-2018 09:36:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20181114/sanchez-asegura-estar-plazo-para-presentar-pge-pide-a-casado-no-tener-prisa-perder-unas-elecciones/1837722.shtml"
+    },
+    {
+     "id": "17300797",
+     "t": "Informativo Cartagena - 05/11/26",
+     "d": "05-11-2026 09:39:48",
+     "dur": 897888,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/murcia-informativos/informativo-cartagena-05-11-26/17300797/"
+    },
+    {
+     "id": "1267800",
+     "t": "Maduro exige a Rajoy respeto a la soberanía de Venezuela",
+     "d": "05-12-2015 03:13:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20151205/maduro-exige-a-rajoy-respeto-a-soberania-venezuela/1267800.shtml"
+    },
+    {
+     "id": "295465",
+     "t": "De la Vega exige a Rajoy que dé explicaciones a la ciudadanía sobre la trama Gürtel",
+     "d": "07-10-2009 09:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20091007/de-la-vega-exige-a-rajoy-que-de-explicaciones-a-la-ciudadania-sobre-la-trama-guertel/295465.shtml"
+    },
+    {
+     "id": "1387422",
+     "t": "Pedro Sánchez reitera su 'no' a Rajoy y le exige que ponga fecha a la investidura \"antes de que acabe la semana\"",
+     "d": "17-08-2016 15:43:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160817/pedro-sanchez-reitera-su-no-a-rajoy-antes-acabe-semana-tiene-poner-fecha-a-investidura/1387422.shtml"
+    },
+    {
+     "id": "678200",
+     "t": "Rubalcaba exige a Rajoy que revise sus políticas de igualdad y educación",
+     "d": "02-06-2013 13:47:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130602/rubalcaba-exige-a-rajoy-revise-politicas-igualdad-educacion/678200.shtml"
+    },
+    {
+     "id": "1733460",
+     "t": "Rivera exige a Rajoy negociar \"cómo extendemos la aplicación del 155\"",
+     "d": "14-05-2018 11:01:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180514/rivera-exige-a-rajoy-negociar-como-extendemos-aplicacion-del-155/1733460.shtml"
+    },
+    {
+     "id": "1944487",
+     "t": "PP exige la suspensión de los diputados presos y Cs pedirá la dimisión de Batet si no se hace efectiva este viernes",
+     "d": "23-05-2019 16:41:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190523/pp-exige-suspension-inmediata-diputados-presos-cs-pedira-dimision-batet-si-no-se-hace-efectiva-este-viernes/1944487.shtml"
+    },
+    {
+     "id": "418045",
+     "t": "Rajoy exige que las franquicias de ETA no puedan usar las instituciones",
+     "d": "19-03-2011 13:01:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110319/rajoy-exige-franquicias-eta-no-puedan-usar-instituciones/418045.shtml"
+    },
+    {
+     "id": "1652863",
+     "t": "Puigdemont exige a Rajoy \"aceptar\" el 21D y negociar con el \"legítimo Govern\"",
+     "d": "30-12-2017 19:34:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20171230/puigdemont-exige-a-rajoy-aceptar-21d-negociar-con-legitimo-govern/1652863.shtml"
+    },
+    {
+     "id": "1074460",
+     "t": "Pedro Sánchez exige a Rajoy que \"no hable de recuperación\" hasta crear empleo",
+     "d": "26-12-2014 14:57:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141226/pedro-sanchez-exige-a-rajoy-no-hable-recuperacion-hasta-crear-empleo/1074460.shtml"
+    },
+    {
+     "id": "230754",
+     "t": "El PP anuncia que abandona el Pacto por la Justicia",
+     "d": "11-02-2009 18:27:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090211/pp-anuncia-abandona-pacto-por-justicia/230754.shtml"
+    },
+    {
+     "id": "1453424",
+     "t": "Puigdemont pide \"no criminalizar\" a la CUP por la quema de fotos del rey pero le exige estar al lado de los Mossos",
+     "d": "13-12-2016 11:39:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20161213/puigdemont-pide-no-criminalizar-a-cup-por-quema-fotos-del-rey-pero-exige-estar-lado-mossos/1453424.shtml"
+    },
+    {
+     "id": "177788",
+     "t": "Rajoy exige \"más control\" en las medidas anti-crisis y Zapatero le promete \"máxima transparencia\"",
+     "d": "14-10-2008 16:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20081014/rajoy-exige-mas-control-medidas-anti-crisis-zapatero-promete-maxima-transparencia/177788.shtml"
+    },
+    {
+     "id": "323138",
+     "t": "Rajoy exige una protesta formal a Venezuela para que \"insultar\" a España no sea \"gratis\"",
+     "d": "10-03-2010 09:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100310/rajoy-exige-una-protesta-formal-a-venezuela-para-que-insultar-a-espana-no-sea-gratis/323138.shtml"
+    },
+    {
+     "id": "25930",
+     "t": "PNV y PSE presentan una moción contra la violencia en el Ayuntamiento de Elorrio",
+     "d": "14-04-2008 18:29:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080414/pnv-y-pse-presentan-una-mocion-contra-la-violencia-en-el-ayuntamiento-de-elorrio/25930.shtml"
+    },
+    {
+     "id": "1070765",
+     "t": "Rajoy dice que la dimision del fiscal es personal \"exclusivamente\" y el PSOE, que es por \"presión\"",
+     "d": "18-12-2014 23:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20141218/rajoy-dice-dimision-del-fiscal-exclusivamente-personal-psoe-achaca-a-presiones/1070765.shtml"
+    },
+    {
+     "id": "477035",
+     "t": "El presidente del Eurogrupo, Jean-Claude Juncker, exige a Rajoy claros esfuerzos de ahorro",
+     "d": "21-11-2011 14:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20111121/presidente-del-eurogrupo-jean-claude-juncker-exige-a-rajoy-claros-esfuerzos-ahorro/477035.shtml"
+    },
+    {
+     "id": "339727",
+     "t": "Rajoy exige la convocatoria de elecciones a Zapatero, que seguirá \"cueste lo que cueste\"",
+     "d": "14-07-2010 21:14:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100714/rajoy-exige-convocatoria-elecciones-a-zapatero-seguira-cueste-cueste/339727.shtml"
+    },
+    {
+     "id": "520881",
+     "t": "El PSOE, en contra de la expropiación de REE, exige a Rajoy más explicaciones",
+     "d": "02-05-2012 14:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120502/psoe-contra-expropiacion-ree-exige-a-rajoy-mas-explicaciones/520881.shtml"
+    },
+    {
+     "id": "534722",
+     "t": "Toda la oposición en bloque exige a Rajoy que explique ya la ayuda a la banca",
+     "d": "11-06-2012 20:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120611/toda-oposicion-bloque-exige-a-rajoy-explique-ya-ayuda-a-banca/534722.shtml"
+    },
+    {
+     "id": "17140781",
+     "t": "El PP exige la dimisión de Marlaska tras la imputación de la directora de la Guardia Civil en el caso Leire",
+     "d": "02-07-2026 13:34:37",
+     "dur": 43080,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/informativo-24h/pp-marlaska-caso-leire-imputacion-guardia-civil/17140781/"
+    },
+    {
+     "id": "351198",
+     "t": "Rajoy exige a Zapatero que no rompa la caja única de la Seguridad Social para evitar elecciones",
+     "d": "02-09-2010 15:32:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100902/rajoy-exige-a-zapatero-no-rompa-caja-unica-seguridad-social-para-evitar-elecciones/351198.shtml"
+    },
+    {
+     "id": "17320731",
+     "t": "CCOO exige el cese de los mandos policiales que autorizaron las cargas del 11N",
+     "d": "18-11-2026 21:34:55",
+     "dur": 72600,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-2/ccoo-exige-cese-mandos-policiales-autorizaron-cargas-del-11n/17320731/"
+    }
+   ]
+  }
+ },
+ "Sánchez quién va a pedir perdón al fiscal general": {
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20qui%C3%A9n%20va%20a%20pedir%20perd%C3%B3n%20al%20fiscal%20general&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=S%C3%A1nchez%20qui%C3%A9n%20va%20a%20pedir%20perd%C3%B3n%20al%20fiscal%20general&size=40": {
+   "n": 389051,
+   "items": [
+    {
+     "id": "1532460",
+     "t": "PSOE y Ciudadanos se unen para pedir el cese del fiscal general del Estado y del fiscal anticorrupción",
+     "d": "26-04-2017 20:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170426/psoe-ciudadanos-se-unen-para-pedir-cese-del-fiscal-general-del-estado-del-fiscal-anticorrupcion/1532460.shtml"
+    },
+    {
+     "id": "16808531",
+     "t": "Los fiscales acusan a Sánchez de \"presionar\" al Supremo por volver a decir que el fiscal general es inocente",
+     "d": "10-11-2025 11:22:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251110/asociacion-mayoritaria-fiscales-acusa-sanchez-presionar-supremo-caso-del-fiscal-general/16808531.shtml"
+    },
+    {
+     "id": "1553064",
+     "t": "Los fiscales piden en el Congreso despolitizar la elección del fiscal general",
+     "d": "24-05-2017 17:34:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170524/fiscales-piden-congreso-despolitizar-eleccion-del-fiscal-general/1553064.shtml"
+    },
+    {
+     "id": "16851393",
+     "t": "Sánchez dice que gobernará \"hasta 2027 y más allá\" en plena crisis por el caso Salazar y la sentencia del fiscal general",
+     "d": "09-12-2025 21:09:27",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251209/sanchez-mantiene-que-gobernara-hasta-2027-y-mas-alla-en-plena-crisis-por-el-caso-salazar-y-la-sentencia-del-fiscal-general/16851393.shtml"
+    },
+    {
+     "id": "16578163",
+     "t": "Una asociación de fiscales pide al Supremo que procese al fiscal general del Estado por revelación de secretos",
+     "d": "13-05-2025 12:14:42",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250513/asociacion-fiscales-pide-supremo-procese-fiscal-general-del-estado-por-revelacion-secretos/16578163.shtml"
+    },
+    {
+     "id": "1995423",
+     "t": "La mayoría de fiscales y de jueces critican la propuesta de Dolores Delgado como fiscal general del Estado",
+     "d": "13-01-2020 13:28:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20200113/mayoria-fiscales-jueces-critican-propuesta-dolores-delgado-como-fiscal-general-del-estado/1995423.shtml"
+    },
+    {
+     "id": "16144338",
+     "t": "Los fiscales del Supremo desafían al fiscal general y le entregan el informe contrario a amnistiar la malversación",
+     "d": "12-06-2024 13:18:10",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240612/fiscales-del-supremo-desafian-fiscal-general-entregan-informe-contrario-a-amnistiar-malversacion/16144338.shtml"
+    },
+    {
+     "id": "16454811",
+     "t": "El PP vuelve a pedir a Bruselas que estudie la imputación del fiscal general por \"desviación del Estado de derecho\"",
+     "d": "18-02-2025 13:54:25",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250218/pp-vuelve-pedir-bruselas-estudie-imputacion-fiscal-general-desviacion-estado-derecho/16454811.shtml"
+    },
+    {
+     "id": "2431971",
+     "t": "La Junta de Fiscales avala el criterio del fiscal general de mantener las penas si están vigentes en la ley del 'sí es sí'",
+     "d": "16-03-2023 15:35:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230316/junta-fiscales-avala-criterio-fiscal-general-mantener-penas-vigentes-ley-si-si/2431971.shtml"
+    },
+    {
+     "id": "1010122",
+     "t": "El fiscal general ve \"imprescindible\" que los jueces y fiscales estén aforados",
+     "d": "12-09-2014 14:27:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140912/fiscal-general-ve-imprescindible-jueces-esten-aforados-ve-poco-meditada-propuesta/1010122.shtml"
+    },
+    {
+     "id": "16064145",
+     "t": "El Congreso no citará a los fiscales en la comisión de las mascarillas tras la protesta del fiscal general del Estado",
+     "d": "17-04-2024 19:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240417/garcia-ortiz-pide-no-llamar-fiscal-jefe-anticorrupcion-comision-mascarillas-congreso/16064145.shtml"
+    },
+    {
+     "id": "17325320",
+     "t": "Hockey Patines - OK Liga Iberdrola. 4ª jornada: Generali HC Palau - CP Vila-Sana Coop d'Ivars",
+     "d": "22-11-2026 08:50:00",
+     "dur": 5245560,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/hockey-sobre-patines/ok-liga-iberdrola-4a-jornada-generali-hc-palau-cp-vila-sana-coop-divars/17325320/"
+    },
+    {
+     "id": "16146348",
+     "t": "El fiscal general prevé escuchar el martes a la Junta de Fiscales para fijar la postura ante la ley de amnistía",
+     "d": "13-06-2024 16:18:22",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240613/fiscal-general-preve-escuchar-martes-a-cupula-para-fijar-postura-ante-ley-amnistia/16146348.shtml"
+    },
+    {
+     "id": "1447344",
+     "t": "El Gobierno confirma a José Manuel Maza como fiscal general del Estado",
+     "d": "25-11-2016 15:14:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20161125/gobierno-confirma-a-jose-manuel-maza-como-fiscal-general-del-estado/1447344.shtml"
+    },
+    {
+     "id": "16147330",
+     "t": "El fiscal general del Estado ordena a los fiscales del 'procés' la aplicación de la amnistía y estos responden que no la acatan",
+     "d": "14-06-2024 13:11:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240614/fiscal-general-ordena-fiscales-proces-supremo-aplicacion-amnistia/16147330.shtml"
+    },
+    {
+     "id": "2452327",
+     "t": "Los impuestos el 23J: muchas propuestas y pocas concreciones sobre el ajuste fiscal que pide Bruselas",
+     "d": "19-07-2023 07:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230719/radiografia-impuestos-eleccions-generales-23j/2452327.shtml"
+    },
+    {
+     "id": "1213941",
+     "t": "La fiscal general del Estado pide retirar la presión \"agobiante\" sobre los fiscales anticorrupción",
+     "d": "08-09-2015 12:29:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150908/fiscal-general-del-estado-pide-retirar-presion-agobiante-sobre-fiscales-anticorrupcion/1213941.shtml"
+    },
+    {
+     "id": "16824258",
+     "t": "Álvaro García Ortiz, el primer fiscal general del Estado condenado e inhabilitado",
+     "d": "20-11-2025 16:19:44",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251120/alvaro-garcia-ortiz-el-primer-fiscal-general-del-estado-condenado-e-inhabilitado/16824258.shtml"
+    },
+    {
+     "id": "1446630",
+     "t": "El candidato a fiscal general urge que los fiscales dirijan la instrucción penal",
+     "d": "23-11-2016 21:19:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20161123/candidato-a-fiscal-general-urge-cambio-para-fiscales-dirijan-instrucciones-penales/1446630.shtml"
+    },
+    {
+     "id": "2449601",
+     "t": "La aseguradora italiana Generali compra Liberty Seguros y refuerza su posición en España y Portugal",
+     "d": "15-06-2023 17:19:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230615/generali-compra-liberty-seguros/2449601.shtml"
+    },
+    {
+     "id": "941840",
+     "t": "El fiscal general del Estado garantiza que serán \"muy activos\" para combatir injurias en la red",
+     "d": "21-05-2014 19:17:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140521/fiscal-general-del-estado-garantiza-seran-muy-activos-para-combatir-injurias-red/941840.shtml"
+    },
+    {
+     "id": "1552740",
+     "t": "El presidente de la Generalitat advierte al fiscal general del Estado del \"error\" de judicializar el proceso catalán",
+     "d": "24-05-2017 20:29:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170524/presidente-generalitat-advierte-fiscal-general-del-estado-del-error-judicializar-proceso-catalan/1552740.shtml"
+    },
+    {
+     "id": "1588055",
+     "t": "El fiscal Anticorrupción corrige a Moix y decide mantener a los fiscales del caso 3% de CDC",
+     "d": "27-07-2017 14:02:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170727/fiscal-anticorrupcion-corrige-a-moix-decide-mantener-a-fiscales-del-caso-3-cdc/1588055.shtml"
+    },
+    {
+     "id": "16683462",
+     "t": "El Supremo pide a las partes que se pronuncien sobre la petición de suspensión del fiscal general",
+     "d": "31-07-2025 14:10:47",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250731/juez-pronuncien-peticion-suspension-fiscal-general/16683462.shtml"
+    },
+    {
+     "id": "2460677",
+     "t": "La Asociación de Fiscales pide la dimisión del fiscal general del Estado por su \"pasividad\" ante la amnistía",
+     "d": "12-11-2023 01:08:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20231112/piden-dimision-fiscal-general-por-su-pasividad-ante-amnistia/2460677.shtml"
+    },
+    {
+     "id": "16803767",
+     "t": "Claves de la primera semana del juicio al fiscal general del Estado: del correo filtrado al derecho a no revelar fuentes",
+     "d": "09-11-2025 09:11:18",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251109/claves-primera-semana-juicio-fiscal-general-estado/16803767.shtml"
+    },
+    {
+     "id": "16291592",
+     "t": "La Junta de Fiscales apoya la continuidad de García Ortiz mientras el Consejo Fiscal pide que dimita tras su imputación",
+     "d": "17-10-2024 11:52:32",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241017/garcia-ortiz-reitera-inocencia-traslada-queda-junta-fiscales-sala-consejo-fiscal/16291592.shtml"
+    },
+    {
+     "id": "16396834",
+     "t": "El Supremo pide a la UCO que intente recuperar los mensajes y llamadas de los teléfonos del fiscal general",
+     "d": "07-01-2025 11:57:26",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250107/supremo-pide-uco-recuperar-mensajes-telefono-fiscal-general/16396834.shtml"
+    },
+    {
+     "id": "1526860",
+     "t": "El fiscal jefe de Anticorrupción intentó frenar un registro de la Operación Lezo y los fiscales lo impidieron",
+     "d": "20-04-2017 13:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170420/polemica-anticorrupcion-por-negativa-del-fiscal-jefe-a-registro-operacion-lezo/1526860.shtml"
+    },
+    {
+     "id": "17322651",
+     "t": "Sánchez pide perdón a las víctimas del accidente de Urda: \"Es un dolor que llevaré toda mi vida\"",
+     "d": "20-11-2026 01:16:37",
+     "dur": 94880,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/especiales-informativos/sanchez-pide-perdon-victimas-del-accidente-urda-dolor-llevare-toda-vida/17322651/"
+    },
+    {
+     "id": "16093079",
+     "t": "El fiscal general afirma que el Supremo ha cambiado su jurisprudencia al anular el nombramiento de Dolores Delgado",
+     "d": "08-05-2024 01:41:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240508/alvaro-garcia-ortiz-marejada-figura-fiscal-general-cuando-gobierno-progresista/16093079.shtml"
+    },
+    {
+     "id": "16791955",
+     "t": "El Supremo avala la decisión del juez de no suspender del cargo al fiscal general a las puertas de su juicio",
+     "d": "29-10-2025 13:49:53",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251029/supremo-avala-decision-juez-no-suspender-cargo-fiscal-general-puertas-juicio/16791955.shtml"
+    },
+    {
+     "id": "16680608",
+     "t": "Las claves del juicio a González Amador: del intento de pacto de conformidad a la querella contra el fiscal general",
+     "d": "22-09-2025 18:00:13",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250922/investigacion-alberto-gonzalez-amador-juicio-delitos-fiscales/16680608.shtml"
+    },
+    {
+     "id": "16715335",
+     "t": "Arranca el nuevo año judicial con el fiscal general procesado, las críticas del Gobierno a los jueces y la ausencia de Feijóo",
+     "d": "05-09-2025 07:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250905/arranca-nuevo-ano-judicial-fiscal-general-criticas-gobierno-jueces/16715335.shtml"
+    },
+    {
+     "id": "1362024",
+     "t": "Rajoy asegura que el ministro del Interior no va a dimitir y niega cualquier tipo de conspiración",
+     "d": "22-06-2016 21:53:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160622/rajoy-asegura-ministro-interior-no-va-a-dimitir-cumplia-con-su-labor-perseguir-delito/1362024.shtml"
+    },
+    {
+     "id": "17260761",
+     "t": "Sánchez asegura que \"no descarta\" indultar al ex fiscal general del Estado antes de las elecciones",
+     "d": "09-10-2026 17:43:29",
+     "dur": 67400,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/sanchez-asegura-no-descarta-indultar-ex-fiscal-general-del-estado-antes-elecciones/17260761/"
+    },
+    {
+     "id": "16828363",
+     "t": "El Supremo condena al fiscal general por el correo del novio de Ayuso y por la nota de prensa de Fiscalía",
+     "d": "09-12-2025 12:40:46",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251209/supremo-datos-reservados-fiscal-garcia-ortiz-filtracion-correo-nota-informativa/16828363.shtml"
+    },
+    {
+     "id": "2433606",
+     "t": "Registros en cinco bancos franceses por un supuesto fraude fiscal agravado de hasta 100.000 millones de euros",
+     "d": "28-03-2023 20:10:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230328/registros-cinco-bancos-franceses-por-fraude-fiscal-hasta-100000-millones-euros/2433606.shtml"
+    },
+    {
+     "id": "17189755",
+     "t": "El último tren - ¿Por qué nos cuesta pedir perdón?",
+     "d": "13-08-2026 10:57:57",
+     "dur": 861832,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/el-ultimo-tren/cuesta-pedir-perdon/17189755/"
+    },
+    {
+     "id": "1995421",
+     "t": "Sánchez propondrá a Dolores Delgado como nueva Fiscal General del Estado",
+     "d": "13-01-2020 09:50:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20200113/pedro-sanchez-propondra-a-dolores-delgado-como-fiscal-general-del-estado/1995421.shtml"
+    }
+   ]
+  }
+ }
+}

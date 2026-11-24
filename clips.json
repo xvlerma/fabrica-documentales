@@ -1,0 +1,29 @@
+[
+ {
+  "name": "r8_perdon_fiscal_moncloa",
+  "phrase": "quién va a pedir perdón al fiscal general del estado",
+  "video": "20241219-respuestas_bruselas",
+  "url": "https://smultimedia.lamoncloa.gob.es/presidencia/mp4/300/mp4:20241219-Respuestas_Bruselas__300.mp4/playlist.m3u8",
+  "score": 1.0,
+  "t0": 625.0,
+  "t1": 628.32,
+  "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/191224-sanchez-consejo-europeo.aspx",
+  "rtve": null,
+  "ok": true,
+  "ss": 619.0,
+  "dur": 12.32
+ },
+ {
+  "name": "r8_perdon_fiscal_moncloa_b",
+  "phrase": "quién va a pedir perdón al fiscal general del estado",
+  "video": null,
+  "url": null,
+  "score": 0,
+  "t0": 0,
+  "t1": 0,
+  "page": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2024/20241219-sanchez-rueda-prensa-consejo-europeo.aspx",
+  "rtve": null,
+  "ok": false,
+  "error": "frase no encontrada con confianza suficiente"
+ }
+]

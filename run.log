@@ -1,0 +1,12 @@
+== https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/191224-sanchez-consejo-europeo.aspx: 4 vídeos, 2 subtítulos
+  transcribiendo 20241219-foto_familia_pool_moncloa…
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[0;93m2026-11-24 12:01:08.748766653 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+  transcribiendo 20241219-ue_roundtable…
+[tcp @ 0x5aba8a686ec0] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+[tcp @ 0x5aba8a880a40] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+[tcp @ 0x5a44faa7b580] Connection to tcp://smultimedia.lamoncloa.gob.es:443 failed: Connection timed out
+    Last message repeated 2 times
+  r8_perdon_fiscal_moncloa: True 20241219-respuestas_bruselas 1.00 625.0-628.3
+== https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2024/20241219-sanchez-rueda-prensa-consejo-europeo.aspx: 0 vídeos, 0 subtítulos
+  r8_perdon_fiscal_moncloa_b: False None 0.00 0.0-0.0

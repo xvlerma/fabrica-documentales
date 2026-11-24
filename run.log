@@ -1,0 +1,26 @@
+playwright install: 0  restart hosted-compute-agent.service
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+
+d01_supremo_melilla True 200 El Tribunal Supremo confirma la pena de dos años de prisión al presidente de Coalición por
+d02_supremo_ley_nietos_listado True 200 El Tribunal Supremo da cinco días a los ministros de Justicia y Exteriores para remitir la
+d20_supremo_indulto_informe True 200 El Tribunal Supremo informa desfavorablemente al indulto del exfiscal general del Estado Á
+o49_supremo_deniega_cautelares_hijos True 200 El Tribunal Supremo deniega las medidas cautelares solicitadas por Iustitia Europa y VOX e
+o47_supremo_mantiene_exclusion_2011 True 200 El Tribunal Supremo mantiene la exclusión como electores de las personas afectadas por las
+o61_supremo_puigdemont_amnistia True 200 El Tribunal Supremo declara extinguida la responsabilidad penal de Carles Puigdemont por l
+o52_correos_nota_solicitudes True 200 Correos ha admitido 1.099.687 solicitudes de voto por correo para las Elecciones Generales
+o52b_correos_plazo_26n True 200 La Junta Electoral Central amplía el plazo para depositar el voto por correo hasta el juev
+o13_jec_sesion_15102026 True 200 Acuerdos de la sesion con fecha 15/10/2026
+o13_jec_acuerdos_ultima_sesion True 200 Doctrina JEC. Acuerdos por sesiones.
+o13_jec_acuerdo_418_plazo True 200 Acuerdo 418/2026 del expediente 320/518
+o13_jec_acuerdo_205_vox_cera True 200 Acuerdo 205/2026 del expediente 321/666
+a05_democrata_abascal True 200 Abascal acusa a Sánchez de manipular el voto CERA | Demócrata
+dd_democrata_indulto_pendiente True 200 García Ortiz: un año de condena, indulto e incertidumbre | Demócrata
+a59_diariocritico_alvise True 520 Wayback Machine
+e39_pd_voto_correo_15_paises True 200 El 'pucherazo' del voto por correo del 29-N no tiene nombre: en 15 países no lleva ni reci
+e40_pd_2411 True 200 Sánchez impulsa el pucherazo en el 29N: caos en el voto extranjero y por correo - Periodis
+e28_esradio_tertulia_0909 True 200 Tertulia de Federico: Pucherazo electoral - esRadio

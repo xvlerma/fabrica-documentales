@@ -11,7 +11,7 @@ FL = [l.strip() for l in open(src) if l.strip()] if src.endswith('.txt') else so
 for f in FL:
     n = os.path.basename(f)
     try:
-        segs, info = m.transcribe(pcm(f), language='es', word_timestamps=True, vad_filter=False, beam_size=5)
+        segs, info = m.transcribe(pcm(f), language=('eu' if n.endswith('_eu.mp4') else 'es'), word_timestamps=True, vad_filter=False, beam_size=5)
         S = [dict(s=round(s.start, 2), e=round(s.end, 2), t=s.text.strip(), w=[[round(w.start, 2), round(w.end, 2), w.word] for w in (s.words or [])]) for s in segs]
         res[n] = dict(dur=info.duration, segs=S)
         print(n, round(info.duration, 1), ' '.join(s['t'] for s in S)[:200], flush=True)

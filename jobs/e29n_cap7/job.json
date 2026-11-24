@@ -1,0 +1,55 @@
+{
+ "id": "e29n_cap7",
+ "stage": "capturas",
+ "rev": 1,
+ "title": "capturas7",
+ "units": [],
+ "music": {},
+ "pages": [
+  {
+   "name": "a49_theobjective_supremo_rechaza_hijos",
+   "url": "https://theobjective.com/espana/tribunales/2026-11-09/supremo-rechaza-voto-ley-nietos-nacionalizados/",
+   "accept": true
+  },
+  {
+   "name": "e37_esdiario_embajadas_voto_cera",
+   "url": "https://www.esdiario.com/nacional/261016/200438/sanchez-pucherazo-voto-cera.html",
+   "accept": true
+  },
+  {
+   "name": "e38_esdiario_voto_exterior_2311",
+   "url": "https://www.esdiario.com/nacional/261123/203610/supremo-estrecha-cerco-voto-exterior-contradicciones-gobierno-sanchez.html",
+   "accept": true
+  },
+  {
+   "name": "e42_vozpopuli_2411",
+   "url": "https://www.vozpopuli.com/espana/politica/sanchez-alienta-la-sombra-del-pucherazo-pp-y-vox-no-van-a-aceptar-el-resultado-de-las-elecciones-si-no-ganan.html",
+   "accept": true
+  },
+  {
+   "name": "a19_elplural_jusapol",
+   "url": "https://www.elplural.com/politica/espana/policias-guardias-civiles-alian-vox-difunden-bulo-pucherazo-electoral_804977102",
+   "accept": true
+  },
+  {
+   "name": "a50_esdiario_iustitia_europa",
+   "url": "https://www.esdiario.com/nacional/261120/203523/iustitia-europa-logra-supremo-blinde-suspension-voto-162-000-beneficiarios-ley-nietos.html",
+   "accept": true
+  },
+  {
+   "name": "a53_esdiario_voto_correo_huelga",
+   "url": "https://www.esdiario.com/nacional/261120/203483/voto-correo-cae-58-respecto-2023-elecciones-29n.html",
+   "accept": true
+  },
+  {
+   "name": "dd_noticiasdenavarra_servinabar",
+   "url": "https://www.noticiasdenavarra.com/politica/2025/06/24/uco-informa-supremo-cerdan-pago-9802027.html",
+   "accept": true
+  },
+  {
+   "name": "dd_euronews_sepi_25",
+   "url": "https://es.euronews.com/2026/06/29/el-juez-amplia-el-caso-leire-e-investiga-a-25-personas-incluida-la-presidenta-de-la-sepi",
+   "accept": true
+  }
+ ]
+}

@@ -50,6 +50,20 @@ CLICK = """
   return ''; })()
 """
 
+ACCEPT = """
+(() => { const re = /^(aceptar y continuar|aceptar y cerrar|aceptar todas?( las cookies)?|aceptar todo|aceptar cookies.*|aceptar|acepto|accept all|accept|agree|consentir|de acuerdo|entendido)$/i;
+  const all = []; const walk = (root) => { for (const e of root.querySelectorAll('*')) { all.push(e); if (e.shadowRoot) walk(e.shadowRoot); } };
+  walk(document);
+  for (const e of all) {
+    const tag = e.tagName; if (tag === 'SCRIPT' || tag === 'STYLE') continue;
+    const t = ((e.childElementCount ? '' : (e.textContent || '')).trim() || (e.value && typeof e.value === 'string' ? e.value : '')).trim();
+    if (!t || t.length > 60 || !re.test(t)) continue;
+    const r = e.getBoundingClientRect(); if (r.width < 8 || r.height < 8) continue;
+    const tgt = e.closest('button, a, input, [role=button], [onclick]') || e;
+    tgt.click(); return t; }
+  return ''; })()
+"""
+
 DBG = """
 (() => { const h = document.documentElement.outerHTML; const i = h.search(/Rechazar todas/i);
   return i < 0 ? 'no-en-html iframes=' + document.querySelectorAll('iframe').length : h.slice(Math.max(0, i - 900), i + 300); })()
@@ -95,6 +109,17 @@ def run(job, out_dir):
                     p.wait_for_timeout(9000 if wb else 4500)
                     if wb: ev(cx, p, WB)
                     clicked = None
+                    if pg.get('accept'):   # el usuario ha autorizado aceptar cookies en estos medios (muro «acepta o paga»)
+                        for _ in range(4):
+                            t = None
+                            for fr in p.frames:
+                                try: t = fr.evaluate(ACCEPT)
+                                except Exception: t = None
+                                if t: break
+                            if not t: t = ev(cx, p, ACCEPT)
+                            if t and not str(t).startswith('err:'): clicked = 'aceptar(' + str(t)[:30] + ')'; break
+                            p.wait_for_timeout(1500)
+                        p.wait_for_timeout(5000)
                     pat = re.compile(r'rechaz|rebutj|reject|deneg|declin|solo (las )?necesarias|sólo (las )?necesarias|continuar sin aceptar', re.I)
                     for fr in p.frames:
                         if clicked: break

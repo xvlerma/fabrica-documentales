@@ -1,0 +1,19 @@
+playwright install: 0  restart hosted-compute-agent.service
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+
+e34_okdiario_inda_gran_robo_electoral True 200 El gran robo electoral que se avecina
+e27_okdiario_inda_ayuso_fuenlabrada True 200 Inda: "PP y Vox están a farolazo limpio mientras Sánchez prepara el pucherazo de las próxi
+o46_boe_jec_instruccion_1_2023 True 200 BOE-A-2023-8463 Instrucción 1/2023, de 30 de marzo, de la Junta Electoral Central, sobre p
+o46b_boe_jec_instruccion_5_2023 True 200 BOE-A-2023-13667 Instrucción 5/2023, de 8 de junio, de la Junta Electoral Central, sobre l
+o12_boe_orden_correos_2025 True  
+o12b_boe_orden_correos_2023 True  
+o12c_boe_orden_correos_2026 True  
+v31_maldita_trillo_ordenadores_interior True 200 ALERTA: «Federico Trillo asegura que los ordenadores del Ministerio del Interior se pararo
+e41_cuatro_trabajador_correos_grieta True 200 Un trabajador de Correos alerta de un posible fraude electoral | Mediaset Infinity
+a10_telecinco_ayuso_vox_voto_correo_0610 True 200 El PP de Díaz Ayuso y Vox agitan el fantasma de la manipulación del voto por correo o el C
+a49_theobjective_supremo_rechaza_hijos True 200 El Supremo rechaza suspender el voto a los hijos de los nacionalizados por la ‘ley de niet

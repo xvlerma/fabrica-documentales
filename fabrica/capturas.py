@@ -41,7 +41,7 @@ CLICK = """
   walk(document);
   for (const e of all) {
     const tag = e.tagName; if (tag === 'SCRIPT' || tag === 'STYLE') continue;
-    const t = ((e.value && typeof e.value === 'string' ? e.value : '') + ' ' + (e.childElementCount ? '' : (e.textContent || ''))).trim();
+    const t = ((e.childElementCount ? '' : (e.textContent || '')).trim() || (e.value && typeof e.value === 'string' ? e.value : '')).trim();
     if (!t || t.length > 45 || !re.test(t) || no.test(t)) continue;
     const r = e.getBoundingClientRect(); if (r.width < 8 || r.height < 8) continue;
     const tgt = e.closest('button, a, input, [role=button], [onclick]') || e;
@@ -122,6 +122,19 @@ def run(job, out_dir):
                         hid = str(hid) + '+' + str(ev(cx, p, MODAL)); p.wait_for_timeout(500)
                     if pg.get('scroll'): ev(cx, p, f"window.scrollTo(0, {int(pg['scroll'])})"); p.wait_for_timeout(700)
                     p.screenshot(path=f'{out_dir}/cap_{name}.png')
+                    if pg.get('pdfs'):
+                        docs = []
+                        try:
+                            ls = ev(cx, p, "(() => [...document.querySelectorAll('a[href]')].map(a => [a.href, (a.textContent || '').trim().slice(0, 120)]).filter(x => /\\.pdf|\\/stfls\\/|Archivos|descarga/i.test(x[0])).slice(0, 12))()") or []
+                            for i, (h, t) in enumerate(ls):
+                                try:
+                                    b = cx.request.get(h, timeout=60000).body()
+                                    if b[:4] == b'%PDF' and len(b) < 24_000_000:
+                                        fn = f'doc_{name}_{i + 1:02d}.pdf'; open(f'{out_dir}/{fn}', 'wb').write(b); docs.append(dict(file=fn, texto=t, url=h, bytes=len(b)))
+                                    else: docs.append(dict(texto=t, url=h, nota='no es PDF', bytes=len(b)))
+                                except Exception as ex: docs.append(dict(texto=t, url=h, error=str(ex)[:80]))
+                        except Exception as ex: docs.append(dict(error=str(ex)[:120]))
+                        e['docs'] = docs
                     txt = ''
                     try: txt = re.sub(r'\s+', ' ', p.inner_text('body'))[:700]
                     except Exception: txt = re.sub(r'\s+', ' ', str(ev(cx, p, 'document.body.innerText.slice(0, 900)') or ''))[:700]

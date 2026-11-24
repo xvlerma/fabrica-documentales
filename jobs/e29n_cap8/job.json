@@ -1,0 +1,25 @@
+{
+ "id": "e29n_cap8",
+ "stage": "capturas",
+ "rev": 1,
+ "title": "capturas8",
+ "units": [],
+ "music": {},
+ "pages": [
+  {
+   "name": "a49_theobjective_supremo_rechaza_hijos",
+   "url": "https://theobjective.com/espana/tribunales/2026-11-09/supremo-rechaza-voto-ley-nietos-nacionalizados/",
+   "accept": true
+  },
+  {
+   "name": "e42_vozpopuli_2411",
+   "url": "https://www.vozpopuli.com/espana/politica/sanchez-alienta-la-sombra-del-pucherazo-pp-y-vox-no-van-a-aceptar-el-resultado-de-las-elecciones-si-no-ganan.html",
+   "accept": true
+  },
+  {
+   "name": "a19_elplural_jusapol",
+   "url": "https://www.elplural.com/politica/espana/policias-guardias-civiles-alian-vox-difunden-bulo-pucherazo-electoral_804977102",
+   "accept": true
+  }
+ ]
+}

@@ -51,13 +51,13 @@ CLICK = """
 """
 
 ACCEPT = """
-(() => { const re = /^(aceptar y continuar|aceptar y cerrar|aceptar todas?( las cookies)?|aceptar todo|aceptar cookies.*|aceptar|acepto|accept all|accept|agree|consentir|de acuerdo|entendido)$/i;
+(() => { const re = /^(acept|accept|agree|consent|de acuerdo|entendido|estoy de acuerdo|permitir)/i; const no = /pagar|suscri|subscri|config|rechaz|no acept|pol[ií]tica|t[eé]rminos|aviso legal/i;
   const all = []; const walk = (root) => { for (const e of root.querySelectorAll('*')) { all.push(e); if (e.shadowRoot) walk(e.shadowRoot); } };
   walk(document);
   for (const e of all) {
     const tag = e.tagName; if (tag === 'SCRIPT' || tag === 'STYLE') continue;
     const t = ((e.childElementCount ? '' : (e.textContent || '')).trim() || (e.value && typeof e.value === 'string' ? e.value : '')).trim();
-    if (!t || t.length > 60 || !re.test(t)) continue;
+    if (!t || t.length > 60 || !re.test(t) || no.test(t)) continue;
     const r = e.getBoundingClientRect(); if (r.width < 8 || r.height < 8) continue;
     const tgt = e.closest('button, a, input, [role=button], [onclick]') || e;
     tgt.click(); return t; }
@@ -122,7 +122,7 @@ def run(job, out_dir):
                         p.wait_for_timeout(5000)
                     pat = re.compile(r'rechaz|rebutj|reject|deneg|declin|solo (las )?necesarias|sólo (las )?necesarias|continuar sin aceptar', re.I)
                     for fr in p.frames:
-                        if clicked: break
+                        if clicked or pg.get('accept'): break
                         for role in ('button', 'link'):
                             try:
                                 bs = fr.get_by_role(role, name=pat)
@@ -131,7 +131,7 @@ def run(job, out_dir):
                                     if b.is_visible(): b.click(timeout=2500); clicked = 'rechazar'; break
                             except Exception: pass
                             if clicked: break
-                    if not clicked and not pg.get('noclick'):
+                    if not clicked and not pg.get('noclick') and not pg.get('accept'):
                         for _ in range(3):
                             t = ev(cx, p, CLICK)
                             if t and not str(t).startswith('err:'): clicked = 'rechazar-js(' + str(t)[:30] + ')'; break

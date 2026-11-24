@@ -1,0 +1,82 @@
+[
+ {
+  "rtve": "17327799",
+  "meta": {
+   "title": "Entrevista electoral 29N: Pedro Sánchez, candidato del PSOE",
+   "date": "24-11-2026 10:12:11",
+   "dur": 1726360,
+   "url": "https://www.rtve.es/play/videos/las-mananas-de-rne/entrevista-electoral-29n-pedro-sanchez-candidato-del-psoe/17327799/"
+  },
+  "subs": false
+ },
+ {
+  "name": "r9_sanchez_rne_51_recortado_voto",
+  "phrase": "x",
+  "video": "rtve17327799",
+  "url": "https://ztnr.rtve.es/ztnr/17327799.m3u8",
+  "score": 1.0,
+  "t0": 372,
+  "t1": 392,
+  "page": null,
+  "rtve": "17327799",
+  "ok": true,
+  "ss": 370,
+  "dur": 24.5
+ },
+ {
+  "name": "r9_sanchez_rne_62_se_cierra_el_circulo",
+  "phrase": "x",
+  "video": "rtve17327799",
+  "url": "https://ztnr.rtve.es/ztnr/17327799.m3u8",
+  "score": 1.0,
+  "t0": 1694,
+  "t1": 1709,
+  "page": null,
+  "rtve": "17327799",
+  "ok": true,
+  "ss": 1692,
+  "dur": 19.5
+ },
+ {
+  "name": "r9_sanchez_rne_63a_hermano_esposa",
+  "phrase": "x",
+  "video": "rtve17327799",
+  "url": "https://ztnr.rtve.es/ztnr/17327799.m3u8",
+  "score": 1.0,
+  "t0": 1350,
+  "t1": 1380,
+  "page": null,
+  "rtve": "17327799",
+  "ok": true,
+  "ss": 1348,
+  "dur": 34.5
+ },
+ {
+  "name": "r9_sanchez_rne_63b_van_a_por_ellos",
+  "phrase": "x",
+  "video": "rtve17327799",
+  "url": "https://ztnr.rtve.es/ztnr/17327799.m3u8",
+  "score": 1.0,
+  "t0": 1394,
+  "t1": 1426,
+  "page": null,
+  "rtve": "17327799",
+  "ok": true,
+  "ss": 1392,
+  "dur": 36.5
+ },
+ {
+  "name": "r9_sanchez_rne_a2_no_tengo_claro",
+  "phrase": "x",
+  "video": "rtve17327799",
+  "url": "https://ztnr.rtve.es/ztnr/17327799.m3u8",
+  "score": 1.0,
+  "t0": 390,
+  "t1": 404,
+  "page": null,
+  "rtve": "17327799",
+  "ok": true,
+  "ss": 388,
+  "dur": 18.5
+ }
+]

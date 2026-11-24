@@ -1,0 +1,94 @@
+{
+ "id": "e29n_clips4",
+ "stage": "clips",
+ "rev": 1,
+ "title": "clips4",
+ "units": [],
+ "music": {},
+ "sources": [
+  {
+   "rtve": "16622652",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r8_hasta_esta_misma_manana_rtve",
+     "phrase": "quiero pedir perdón porque hasta esta misma mañana yo estaba convencido de la integridad de santos cerdán",
+     "min": 0.5,
+     "pad": [
+      1.5,
+      2.5
+     ]
+    }
+   ]
+  },
+  {
+   "rtve": "6146147",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r8_otegi_presos_presupuestos_rtve",
+     "phrase": "si para sacar a los doscientos presos hay que votar los presupuestos pues los votaremos",
+     "min": 0.4,
+     "pad": [
+      3,
+      2.5
+     ]
+    }
+   ]
+  },
+  {
+   "rtve": "6146069",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r8_otegi_presos_presupuestos_rtve_b",
+     "phrase": "si para sacar a los doscientos presos hay que votar los presupuestos pues votamos",
+     "min": 0.4,
+     "pad": [
+      3,
+      2.5
+     ]
+    }
+   ]
+  },
+  {
+   "rtve": "4132793",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r8_sanchez_dimita_rajoy_rtve",
+     "phrase": "le exigimos desde el partido socialista obrero español que dimita",
+     "min": 0.4,
+     "pad": [
+      4,
+      2.5
+     ]
+    },
+    {
+     "name": "r8_sanchez_dimita_rajoy_rtve_b",
+     "phrase": "solo tiene un camino dimitir no arrastre a españa en su caída señor presidente dimita",
+     "min": 0.4,
+     "pad": [
+      3,
+      2.5
+     ]
+    }
+   ]
+  },
+  {
+   "rtve": "16341442",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r8_aldama_sale_prision_rtve",
+     "phrase": "que no se preocupe el señor sánchez que va a tener pruebas de todo",
+     "min": 0.45,
+     "pad": [
+      4,
+      2.5
+     ]
+    }
+   ]
+  }
+ ]
+}

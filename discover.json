@@ -1,0 +1,995 @@
+{
+ "De Aldama sale de la cárcel": {
+  "https://api2.rtve.es/api/search/contents?search=De%20Aldama%20sale%20de%20la%20c%C3%A1rcel&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=De%20Aldama%20sale%20de%20la%20c%C3%A1rcel&size=40": {
+   "n": 282258,
+   "items": [
+    {
+     "id": "114767",
+     "t": "Las FARC afirman que los carceleros de Betancourt permitieron su huida",
+     "d": "11-07-2008 18:35:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080711/las-farc-afirman-que-los-carceleros-de-betancourt-permitieron-su-huida/114767.shtml"
+    },
+    {
+     "id": "43110",
+     "t": "En la mente del 'carcelero de Amstetten'",
+     "d": "04-05-2008 12:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080504/en-la-mente-del-carcelero-de-amstetten/43110.shtml"
+    },
+    {
+     "id": "314836",
+     "t": "Alberto Ammann, el carcelero novato",
+     "d": "28-01-2010 21:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100128/alberto-ammann-carcelero-novato/314836.shtml"
+    },
+    {
+     "id": "1504947",
+     "t": "CABELLO/CARCELLER",
+     "d": "16-03-2017 15:50:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20170316/cabello-carceller/1504947.shtml"
+    },
+    {
+     "id": "113730",
+     "t": "El 'carcelero' de Ingrid Betancourt niega haber recibido sobornos",
+     "d": "10-07-2008 03:49:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080710/carcelero-ingrid-betancourt-niega-haber-recibido-sobornos/113730.shtml"
+    },
+    {
+     "id": "41610",
+     "t": "El 'carcelero de Amstetten' no violó a sus nietos",
+     "d": "01-05-2008 10:45:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080501/el-carcelero-de-amstetten-no-violo-a-sus-nietos/41610.shtml"
+    },
+    {
+     "id": "46150",
+     "t": "El carcelero de Amstetten: \"No soy un monstruo; pude matarlos a todos y nunca se hubiera sabido\"",
+     "d": "07-05-2008 11:07:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080507/carcelero-amstetten-no-soy-monstruo-pude-matarlos-a-todos-nunca-se-hubiera-sabido/46150.shtml"
+    },
+    {
+     "id": "42350",
+     "t": "Los inquilinos del 'carcelero' de Austria pagaron la electricidad del zulo",
+     "d": "02-05-2008 17:15:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080502/los-inquilinos-del-carcelero-de-austria-pagaron-la-electricidad-del-zulo/42350.shtml"
+    },
+    {
+     "id": "902440",
+     "t": "El carcelero de Mandela narra su relación especial con el líder surafricano",
+     "d": "23-03-2014 13:14:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140323/carcelero-mandela-narra-su-relacion-especial-con-lider-surafricano/902440.shtml"
+    },
+    {
+     "id": "39390",
+     "t": "El 'carcelero de Amstetten' ya estuvo en prisión por un delito de agresión sexual",
+     "d": "29-04-2008 03:32:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080429/carcelero-amstetten-ya-estuvo-prision-por-delito-agresion-sexual/39390.shtml"
+    },
+    {
+     "id": "40910",
+     "t": "Los servicios sociales visitaron 20 veces al 'carcelero de Amstetten' sin detectar nada",
+     "d": "30-04-2008 14:16:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080430/servicios-sociales-visitaron-20-veces-carcelero-amstetten-sin-detectar-nada/40910.shtml"
+    },
+    {
+     "id": "39250",
+     "t": "Los hijos del 'Carcelero de Austria' sufren daños físicos y psíquicos por su aislamiento",
+     "d": "28-04-2008 22:35:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080428/hijos-del-carcelero-austria-sufren-danos-fisicos-psiquicos-por-su-aislamiento/39250.shtml"
+    },
+    {
+     "id": "1342541",
+     "t": "Najim Laachraoui, terrorista suicida del aeropuerto de Bruselas, fue carcelero de rehenes franceses en Siria",
+     "d": "22-04-2016 12:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160422/najim-laachraoui-terrorista-suicida-del-aeropuerto-bruselas-fue-carcelero-rehenes-franceses-siria/1342541.shtml"
+    },
+    {
+     "id": "16829166",
+     "t": "Koldo pide al Supremo aplazar la vista para revisar su libertad porque coincide con la declaración de Aldama",
+     "d": "24-11-2025 15:46:07",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251124/koldo-pide-al-supremo-aplazar-la-vista-para-revisar-su-libertad-porque-coincide-con-la-declaracion-de-aldama/16829166.shtml"
+    },
+    {
+     "id": "316063",
+     "t": "'Celda 211', más allá del cine carcelario",
+     "d": "05-02-2010 00:01:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100205/celda-211-mas-alla-del-cine-carcelario/316063.shtml"
+    },
+    {
+     "id": "151525",
+     "t": "Marion Jones sale de la carcel y buscará retomar su carrera",
+     "d": "05-09-2008 21:06:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20080905/marion-jones-sale-de-la-carcel-y-buscara-retomar-su-carrera/151525.shtml"
+    },
+    {
+     "id": "16363531",
+     "t": "Netanyahu, un depredador de la prensa: \"Israel es el primer asesino de periodistas y el tercer carcelero del mundo\"",
+     "d": "12-12-2024 07:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241212/netanyahu-depredador-prensa-israel-primer-asesino-periodistas-tercer-carcelero-del-mundo/16363531.shtml"
+    },
+    {
+     "id": "419302",
+     "t": "La madre de Marta del Castillo: \"Lo único que puedo esperar es la justicia carcelaria\"",
+     "d": "24-03-2011 12:39:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110324/madre-marta-del-castillo-yo-solo-confio-justicia-carcelaria/419302.shtml"
+    },
+    {
+     "id": "16425272",
+     "t": "El PSOE pide al juez del caso hidrocarburos que reingrese en prisión a De Aldama por el \"riesgo\" para la investigación",
+     "d": "28-01-2025 12:36:35",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250128/psoe-pide-envie-prision-aldama-por-riesgo-para-investigacion-hidrocarburos/16425272.shtml"
+    },
+    {
+     "id": "1494685",
+     "t": "Cine carcelario, la próxima semana en 'Historia de nuestro cine'",
+     "d": "24-02-2017 11:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20170224/cine-carcelario-proxima-semana-historia-nuestro-cine/1494685.shtml"
+    },
+    {
+     "id": "1396741",
+     "t": "Los Carceller evitan ir a prisión a cambio de pagar una multa de más de 92 millones de euros a Hacienda",
+     "d": "08-09-2016 15:12:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160908/carceller-evitan-ir-a-prision-a-cambio-pagar-multa-mas-92-millones-euros-a-hacienda/1396741.shtml"
+    },
+    {
+     "id": "297981",
+     "t": "Sale de prisión la novia de 'Txeroki' tras cumplir cinco años de condena",
+     "d": "27-10-2009 18:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20091027/sale-prision-novia-txeroki-tras-cumplir-cinco-anos-condena/297981.shtml"
+    },
+    {
+     "id": "17165271",
+     "t": "El Supremo levanta las medidas cautelares a Aldama, condenado por el caso mascarillas",
+     "d": "22-07-2026 12:30:17",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260722/supremo-retira-cautelares-contra-victor-aldama-caso-mascarillas/17165271.shtml"
+    },
+    {
+     "id": "1632230",
+     "t": "El exconseller Santi Vila sale de la cárcel tras pagar la fianza de 50.000 euros",
+     "d": "03-11-2017 14:18:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20171103/exconseller-santi-vila-pagaen-audiencia-nacional-fianza-50000-euros-para-salir-prision/1632230.shtml"
+    },
+    {
+     "id": "17240385",
+     "t": "El exigente régimen carcelario al que se ven sometidos los mayores internos en las residencias",
+     "d": "25-09-2026 17:41:08",
+     "dur": 231720,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/directo-al-grano/exigente-regimen-carcelario-se-ven-sometidos-mayores-internos-residencias/17240385/"
+    },
+    {
+     "id": "866560",
+     "t": "El colectivo de presos de ETA considera que el Gobierno ha \"reventado\" el diálogo penitenciario",
+     "d": "31-01-2014 04:26:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140131/colectivo-presos-eta-considera-gobierno-reventado-dialogo-sobre-acercamiento-presos/866560.shtml"
+    },
+    {
+     "id": "146446",
+     "t": "Otegi sale libre pero con la vista puesta en cuatro causas pendientes",
+     "d": "29-08-2008 16:36:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080829/otegi-sale-libre-pero-con-la-vista-puesta-en-cuatro-causas-pendientes/146446.shtml"
+    },
+    {
+     "id": "16872864",
+     "t": "Santi Aldama vuelve a exhibirse y repite su tope anotador en Utah",
+     "d": "24-12-2025 11:17:37",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20251224/santi-aldama-vuelve-a-exhibirse-repite-su-tope-anotador-utah/16872864.shtml"
+    },
+    {
+     "id": "16203014",
+     "t": "Aldama, el antídoto contra Antetokounmpo para que España siga viva en baloncesto",
+     "d": "30-07-2024 16:09:57",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20240730/espana-grecia-baloncesto-juegos-olimpicos-paris-2024/16203014.shtml"
+    },
+    {
+     "id": "17306174",
+     "t": "Delcy Rodríguez denuncia a Víctor de Aldama por injurias tras vincularla a la financiación del PSOE",
+     "d": "09-11-2026 13:00:12",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261109/delcy-rodriguez-denuncia-aldama-injurias-financiacion-psoe/17306174.shtml"
+    },
+    {
+     "id": "529318",
+     "t": "Sale de la cárcel el último menor condenado por la muerte de Sandra Palo",
+     "d": "20-05-2012 11:08:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120520/sale-carcel-ultimo-menor-condenado-por-muerte-sandra-palo/529318.shtml"
+    },
+    {
+     "id": "16341297",
+     "t": "Ábalos niega las acusaciones \"difamatorias\" de Aldama y estudiará emprender acciones legales",
+     "d": "21-11-2024 17:36:03",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241121/abalos-niega-acusaciones-difamatorias-aldama-estudiara-emprender-acciones-legales/16341297.shtml"
+    },
+    {
+     "id": "661180",
+     "t": "Rafa Nadal busca su séptima corona en el Masters 1000 de Roma en TVE",
+     "d": "10-05-2013 18:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/rtve/20130510/rafa-nadal-busca-su-septima-corona-masters-1000-roma-tve/661180.shtml"
+    },
+    {
+     "id": "16342033",
+     "t": "Montero califica a Aldama de \"delincuente\" y asegura que no tiene \"ninguna credibilidad\"",
+     "d": "22-11-2024 10:37:45",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241122/montero-califica-a-aldama-delincuente-asegura-no-tiene-ninguna-credibilidad/16342033.shtml"
+    },
+    {
+     "id": "2331568",
+     "t": "Santi Aldama: \"Nadie nos esperaba tan arriba, vamos a competir por el anillo\"",
+     "d": "15-04-2022 14:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20220415/santi-aldama-nadie-esperaba-tan-arriba-grizzlies-nba/2331568.shtml"
+    },
+    {
+     "id": "2084506",
+     "t": "Luis Bárcenas sale de la cárcel con un permiso penitenciario de seis días",
+     "d": "04-04-2021 19:54:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210404/barcenas-sale-carcel-con-permiso-penitenciario-seis-dias/2084506.shtml"
+    },
+    {
+     "id": "17267097",
+     "t": "Cinco Continentes - El modelo carcelario de Nayib Bukele en El Salvador se extiende por la región",
+     "d": "14-10-2026 19:16:24",
+     "dur": 2450129,
+     "type": "audio",
+     "url": "https://www.rtve.es/play/audios/cinco-continentes/cinco-continentes-modelo-carcelario-nayib-bukele-salvador-se-extiende-region/17267097/"
+    },
+    {
+     "id": "1112845",
+     "t": "El expresidente de Osasuna Miguel Archanco sale de prisión tras abonar la fianza",
+     "d": "10-03-2015 20:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20150310/expresidente-osasuna-miguel-archanco-sale-prision-tras-abonar-fianza/1112845.shtml"
+    },
+    {
+     "id": "2070815",
+     "t": "Forcadell sale de prisión tras serle concedido el tercer grado y se reencuentra con Junqueras",
+     "d": "30-01-2021 14:04:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210130/generalitat-concede-tercer-grado-a-carme-forcadell/2070815.shtml"
+    },
+    {
+     "id": "16445168",
+     "t": "El juez del 'caso Koldo' afirma que las acusaciones de Aldama contra Ábalos no están \"mínimamente contrastadas\"",
+     "d": "11-02-2025 13:37:36",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250211/juez-caso-koldo-acusaciones-aldama-contra-abalos-no-minimamente-contrastadas/16445168.shtml"
+    }
+   ]
+  }
+ },
+ "De Aldama en libertad pruebas Sánchez": {
+  "https://api2.rtve.es/api/search/contents?search=De%20Aldama%20en%20libertad%20pruebas%20S%C3%A1nchez&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=De%20Aldama%20en%20libertad%20pruebas%20S%C3%A1nchez&size=40": {
+   "n": 279322,
+   "items": [
+    {
+     "id": "16341559",
+     "t": "De Aldama, al salir de prisión: \"Que no se preocupe el señor Sánchez, que va a tener pruebas\"",
+     "d": "21-11-2024 21:50:45",
+     "dur": 34640,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-2/aldama-salir-prision-no-se-preocupe-senor-sanchez-va-tener-pruebas/16341559/"
+    },
+    {
+     "id": "16341442",
+     "t": "De Aldama, en libertad tras declarar que pagó comisiones: \"Que no se preocupe el señor Sánchez, va a tener pruebas\"",
+     "d": "21-11-2024 20:14:58",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241121/fiscalia-apoya-aldama-salga-libertad-juez-del-caso-koldo/16341442.shtml"
+    },
+    {
+     "id": "17048584",
+     "t": "Aldama apunta a Sánchez sin pruebas",
+     "d": "30-04-2026 13:45:15",
+     "dur": 372800,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/mananeros-360/aldama-apunta-sanchez-sin-pruebas/17048584/"
+    },
+    {
+     "id": "16356160",
+     "t": "No ha muerto un coronel de la Guardia Civil que iba a declarar por el caso Aldama, es un bulo",
+     "d": "02-12-2024 19:36:26",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241202/bulo-no-muerto-coronel-guardia-civil-declarar-caso-aldama/16356160.shtml"
+    },
+    {
+     "id": "16343573",
+     "t": "Podemos señala que Aldama ha hecho acusaciones \"muy graves\" contra el PSOE pero sin pruebas",
+     "d": "23-11-2024 13:05:32",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241123/podemos-senala-aldama-hecho-acusaciones-muy-graves-contra-psoe-pero-sin-pruebas/16343573.shtml"
+    },
+    {
+     "id": "16375745",
+     "t": "El Gobierno insiste en que Aldama acusa \"sin pruebas\" y el PP cree que \"ha cantado 'La traviata'\"",
+     "d": "17-12-2024 14:43:41",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241217/reacciones-aldama-koldo-gobierno-pp/16375745.shtml"
+    },
+    {
+     "id": "16425272",
+     "t": "El PSOE pide al juez del caso hidrocarburos que reingrese en prisión a De Aldama por el \"riesgo\" para la investigación",
+     "d": "28-01-2025 12:36:35",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250128/psoe-pide-envie-prision-aldama-por-riesgo-para-investigacion-hidrocarburos/16425272.shtml"
+    },
+    {
+     "id": "17048890",
+     "t": "El PSOE cuestiona dar \"pábulo\" a Aldama y le acusa de \"mentir\" sin aportar pruebas para \"ensuciar a todo el mundo\"",
+     "d": "30-04-2026 15:57:12",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20260430/psoe-cuestiona-dar-pabulo-a-aldama-acusa-mentir-sin-aportar-ninguna-prueba-ensuciar-a-todo-mundo/17048890.shtml"
+    },
+    {
+     "id": "16811763",
+     "t": "Ábalos pide anular su procesamiento en la causa de las mascarillas porque se ve \"abocado a un cadalso\" sin pruebas",
+     "d": "12-11-2025 11:33:09",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251112/abalos-anular-procesamiento-mascarillas/16811763.shtml"
+    },
+    {
+     "id": "1088340",
+     "t": "Detenidos otros dos policías nacionales en Madrid acusados de alterar pruebas",
+     "d": "28-01-2015 00:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150128/detenidos-otros-dos-policias-nacionales-madrid-acusados-alterar-pruebas/1088340.shtml"
+    },
+    {
+     "id": "328290",
+     "t": "Francia deja en libertad al presunto jefe de los abogados de ETA por falta de pruebas",
+     "d": "19-04-2010 16:43:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100419/francia-deja-libertad-presunto-jefe-abogados-eta-por-falta-pruebas/328290.shtml"
+    },
+    {
+     "id": "16829166",
+     "t": "Koldo pide al Supremo aplazar la vista para revisar su libertad porque coincide con la declaración de Aldama",
+     "d": "24-11-2025 15:46:07",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251124/koldo-pide-al-supremo-aplazar-la-vista-para-revisar-su-libertad-porque-coincide-con-la-declaracion-de-aldama/16829166.shtml"
+    },
+    {
+     "id": "932584",
+     "t": "Adams reitera su inocencia en el asesinato de una mujer en 1972 tras quedar en libertad",
+     "d": "04-05-2014 22:35:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140504/gerry-adams-sale-libertad-sin-cargos-tras-cuatro-dias-interrogatorios/932584.shtml"
+    },
+    {
+     "id": "16374748",
+     "t": "Torres niega las acusaciones de Aldama sobre los pisos con \"señoritas\": \"No puede haber prueba de lo que nunca pasó\"",
+     "d": "16-12-2024 18:31:36",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241216/torres-niega-acusaciones-aldama-sobre-pisos-con-senoritas/16374748.shtml"
+    },
+    {
+     "id": "2089370",
+     "t": "El ascenso de Arnau en las pruebas individuales",
+     "d": "10-05-2021 17:11:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20210510/ascenso-arnau-pruebas-individuales-masterchef/2089370.shtml"
+    },
+    {
+     "id": "16375675",
+     "t": "La Guardia Civil deja en libertad a los cuatro detenidos por el caso hidrocarburos en el que está imputado Aldama",
+     "d": "17-12-2024 12:05:37",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241217/guardia-civil-deja-libertad-a-cuatro-detenidos-por-caso-hidrocarburos-esta-imputado-aldama/16375675.shtml"
+    },
+    {
+     "id": "2060898",
+     "t": "Largas colas para hacerse la prueba de la COVID con la Lotería de fondo y a días de Nochebuena",
+     "d": "22-12-2020 15:27:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20201222/largas-colas-para-hacerse-prueba-covid-con-loteria-fondo-a-dos-dias-nochebuena/2060898.shtml"
+    },
+    {
+     "id": "1978156",
+     "t": "Termina la edición veraniega de 'Saber y ganar' y recupera las pruebas habituales",
+     "d": "02-09-2019 12:56:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20190902/saber-ganar-final-edicion-verano/1978156.shtml"
+    },
+    {
+     "id": "554851",
+     "t": "Olaberria, decimotercera en la prueba de 20km",
+     "d": "06-08-2012 19:11:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20120806/leire-olaberria-decimotercera-prueba-20-kilometros/554851.shtml"
+    },
+    {
+     "id": "367559",
+     "t": "La UE pone a prueba sus ciberdefensas",
+     "d": "04-11-2010 18:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20101104/ue-pone-a-prueba-ciberdefensas/367559.shtml"
+    },
+    {
+     "id": "17048972",
+     "t": "El PSOE cuestiona dar \"pábulo\" a Aldama y le acusa de \"mentir\" sin aportar pruebas para \"ensuciar a todo el mundo\"",
+     "d": "30-04-2026 15:46:39",
+     "dur": 96120,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/telediario-1/psoe-cuestiona-dar-pabulo-aldama-acusa-mentir-sin-aportar-ninguna-prueba-ensuciar-todo-mundo/17048972/"
+    },
+    {
+     "id": "313119",
+     "t": "Rossi, dos días de prueba con un Ferrari",
+     "d": "19-01-2010 17:31:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20100119/rossi-dos-dias-de-prueba-con-un-ferrari/313119.shtml"
+    },
+    {
+     "id": "1650401",
+     "t": "La juez rechaza poner en libertad bajo fianza a Rosell",
+     "d": "22-12-2017 14:24:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20171222/juez-rechaza-poner-libertad-bajo-fianza-a-rosell/1650401.shtml"
+    },
+    {
+     "id": "1759539",
+     "t": "Descubren que la prueba del papiloma detecta antes el cáncer de útero",
+     "d": "03-07-2018 20:52:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180703/descubren-prueba-del-papiloma-detecta-antes-cancer-utero/1759539.shtml"
+    },
+    {
+     "id": "2455513",
+     "t": "'El Conquistador': ¿qué es, cómo funciona y cuáles son las pruebas? Todo sobre la dinámica del concurso",
+     "d": "11-09-2023 08:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20230911/conquistador-concurso-dinamica-pruebas-competicion-reglas/2455513.shtml"
+    },
+    {
+     "id": "17278043",
+     "t": "El hospital río hortega de valladolid ofrece una prueba de cribado prenatal no invasivo que evita la realización de amniocentesis",
+     "d": "09-11-2026 14:26:36",
+     "dur": 117000,
+     "type": "video",
+     "url": "https://www.rtve.es/play/videos/noticias-de-castilla-y-leon/hospital-rio-hortega-prueba-cribado-no-invasivo-amniocentesis/17278043/"
+    },
+    {
+     "id": "1980113",
+     "t": "Dos de los miembros de los CDR detenidos reconocen ante la Guardia Civil la adquisición y las pruebas con explosivos",
+     "d": "26-09-2019 00:44:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20190926/dos-siete-miembros-detenidos-cdr-reconocen-ante-guardia-civil-adquisicion-pruebas-con-explosivos/1980113.shtml"
+    },
+    {
+     "id": "766620",
+     "t": "La Audiencia rechaza la puesta en libertad de los padres de Asunta",
+     "d": "16-10-2013 20:27:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20131016/audiencia-rechaza-puesta-libertad-padres-asunta/766620.shtml"
+    },
+    {
+     "id": "2446088",
+     "t": "El fiscal dice que el FBI no tenía pruebas para investigar los vínculos entre la campaña de Trump de 2016 y Rusia",
+     "d": "15-05-2023 22:17:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230515/fiscal-dice-fbi-no-tenia-pruebas-para-investigar-vinculos-entre-campana-trump-2016-rusia/2446088.shtml"
+    },
+    {
+     "id": "328044",
+     "t": "Alemania y Holanda realizan vuelos de prueba para evaluar los daños de la nube volcánica",
+     "d": "18-04-2010 02:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100418/alemania-holanda-realizan-vuelos-prueba-para-evaluar-danos-nube-volcanica/328044.shtml"
+    },
+    {
+     "id": "1308120",
+     "t": "El banco chino ICBC reclama la puesta en libertad de tres empleados aún detenidos",
+     "d": "25-02-2016 14:16:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160225/banco-chino-icbc-reclama-puesta-libertad-tres-empleados-aun-detenidos/1308120.shtml"
+    },
+    {
+     "id": "113523",
+     "t": "La nueva selectividad introducirá pruebas sobre materias relacionadas con la carrera deseada",
+     "d": "09-07-2008 17:01:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080709/la-nueva-selectividad-introducira-pruebas-sobre-materias-relacionadas-con-la-carrera-deseada/113523.shtml"
+    },
+    {
+     "id": "1227120",
+     "t": "EE.UU. hará pruebas adicionales a todos los fabricantes para detectar posibles manipulaciones en vehículos",
+     "d": "25-09-2015 20:05:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150925/eeuu-hara-pruebas-adicionales-a-todos-fabricantes-para-detectar-posibles-manipulaciones-vehiculos/1227120.shtml"
+    },
+    {
+     "id": "1223926",
+     "t": "Una prueba médica permite descartar el alzhéimer en dos horas en casos de deterioro cognitivo leve",
+     "d": "21-09-2015 17:13:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20150921/nueva-prueba-medica-permite-descartar-alzheimer-dos-horas-personas-con-deterioro-cognitivo-leve/1223926.shtml"
+    },
+    {
+     "id": "1631535",
+     "t": "Rusia dice que no hay pruebas de su supuesta injerencia en elecciones de EE.UU.",
+     "d": "31-10-2017 10:38:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20171031/rusia-dice-no-hay-pruebas-su-supuesta-injerencia-elecciones-eeuu/1631535.shtml"
+    },
+    {
+     "id": "31391",
+     "t": "El Ejército de Pakistán prueba con éxito su misil con capacidad nuclear de mayor alcance",
+     "d": "19-04-2008 09:27:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20080419/el-ejercito-de-pakistan-prueba-con-exito-su-misil-con-capacidad-nuclear-de-mayor-alcance/31391.shtml"
+    },
+    {
+     "id": "555616",
+     "t": "Google prueba con éxito su coche automático conducido por ordenador durante 500.000 km",
+     "d": "09-08-2012 12:16:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120809/google-sigue-probando-su-coche-automatico-conducido-desde-ordenador/555616.shtml"
+    },
+    {
+     "id": "761048",
+     "t": "Musharraf recibe la libertad bajo fianza y se prepara para abandonar Pakistán",
+     "d": "09-10-2013 15:29:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20131009/musharraf-recibe-libertad-bajo-fianza-se-prepara-para-marcharse-a-dubai/761048.shtml"
+    },
+    {
+     "id": "546259",
+     "t": "Twitter prueba un filtro para evitar que los menores sigan marcas 'para adultos'",
+     "d": "13-07-2012 16:25:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20120713/twitter-prueba-filtro-para-evitar-menores-sigan-marcas-para-adultos/546259.shtml"
+    },
+    {
+     "id": "326187",
+     "t": "Libertad bajo fianza de 500.000 euros para el cerebro de la \"operación Pretoria\"",
+     "d": "01-04-2010 18:33:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20100401/libertad-bajo-fianza-500000-para-cerebro-operacion-pretoria/326187.shtml"
+    }
+   ]
+  }
+ },
+ "Aldama sale de Soto del Real": {
+  "https://api2.rtve.es/api/search/contents?search=Aldama%20sale%20de%20Soto%20del%20Real&context=tve&type=video&size=40": {
+   "n": 94,
+   "items": []
+  },
+  "https://api2.rtve.es/api/search/contents?search=Aldama%20sale%20de%20Soto%20del%20Real&size=40": {
+   "n": 302542,
+   "items": [
+    {
+     "id": "447409",
+     "t": "El exdirigente etarra Iñaki de Rentería sale de la cárcel de Soto del Real",
+     "d": "13-07-2011 21:14:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110713/exdirigente-etarra-inaki-renteria-saldra-carcel-proximas-horas/447409.shtml"
+    },
+    {
+     "id": "1359767",
+     "t": "Mario Conde sale de la prisión de Soto del Real tras acordar la juez su puesta en libertad una vez depositada la fianza",
+     "d": "17-06-2016 19:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20160617/mario-conde-sale-prision-soto-del-real-tras-acordar-juez-su-puesta-libertad-vez-depositada-fianza/1359767.shtml"
+    },
+    {
+     "id": "2301441",
+     "t": "Edu Soto se sale de sus casillas y le dedica un disco a su hijo",
+     "d": "03-03-2022 18:45:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20220303/edu-soto-welcome-lemi-musica-disco-hijo-entrevista-javier-limon/2301441.shtml"
+    },
+    {
+     "id": "2084506",
+     "t": "Luis Bárcenas sale de la cárcel con un permiso penitenciario de seis días",
+     "d": "04-04-2021 19:54:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20210404/barcenas-sale-carcel-con-permiso-penitenciario-seis-dias/2084506.shtml"
+    },
+    {
+     "id": "16821519",
+     "t": "Resumen de la jornada política del 19 de noviembre: Santos Cerdán sale de la cárcel",
+     "d": "19-11-2025 08:22:33",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251119/ultima-hora-politica-hoy-sesion-control-directo-resumen-19-noviembre/16821519.shtml"
+    },
+    {
+     "id": "16349488",
+     "t": "Juan Lobato, el socialista moderado que sale abruptamente tras perder la confianza de Ferraz",
+     "d": "27-11-2024 20:48:21",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241127/lobato-socialista-moderado-sale-abruptamente-perder-confianza-ferraz/16349488.shtml"
+    },
+    {
+     "id": "212546",
+     "t": "El Reale Ademar, nuevo campeón de la Copa Asobal",
+     "d": "28-12-2008 19:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20081228/el-reale-ademar-nuevo-campeon-de-la-copa-asobal/212546.shtml"
+    },
+    {
+     "id": "240347",
+     "t": "Peric amargó el sueño de Reale Ademar en la Liga de Campeones",
+     "d": "28-02-2009 23:03:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20090228/peric-amargo-el-sueno-de-reale-ademar-en-la-liga-de-campeones/240347.shtml"
+    },
+    {
+     "id": "422558",
+     "t": "Haydn y Mozart entre las rejas de Soto del Real",
+     "d": "06-04-2011 16:39:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20110406/haydn-mozart-entre-rejas-soto-del-real/422558.shtml"
+    },
+    {
+     "id": "1538341",
+     "t": "3,000 kilos of gunpowder burnt during La Cruz fiestas in Los Realejos",
+     "d": "04-05-2017 15:42:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170504/3000-kilos-of-gunpowder-burnt-during-cruz-fiestas-in-realejos/1538341.shtml"
+    },
+    {
+     "id": "1566820",
+     "t": "José Manuel Soto celebra 30 años de carrera en el Teatro Real",
+     "d": "19-06-2017 11:21:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20170619/jose-manuel-soto-celebra-30-anos-carrera-teatro-real/1566820.shtml"
+    },
+    {
+     "id": "1538261",
+     "t": "Los Realejos quema 3.000 kilos de pólvora en las fiestas de la Cruz",
+     "d": "04-05-2017 15:42:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170504/realejos-quema-3000-kilos-polvora-fiestas-cruz/1538261.shtml"
+    },
+    {
+     "id": "700600",
+     "t": "Condenan a 25 años a un funcionario por abusar de presas en Soto del Real",
+     "d": "28-06-2013 11:43:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20130628/condenan-a-25-anos-a-funcionario-por-abusar-presas-soto-del-real/700600.shtml"
+    },
+    {
+     "id": "16332167",
+     "t": "Una asesora de Moncloa trasladó a Reale el interés de Begoña Gómez en que siguiera patrocinando su cátedra",
+     "d": "15-11-2024 11:49:30",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241115/asesora-moncloa-traslado-a-reale-interes-begona-gomez-siguiera-patrocinando-su-catedra/16332167.shtml"
+    },
+    {
+     "id": "286768",
+     "t": "Para cada tipo de proyección en 3D, unas gafas",
+     "d": "29-07-2009 17:00:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20090729/para-cada-tipo-de-proyeccion-en-3d-unas-gafas/286768.shtml"
+    },
+    {
+     "id": "1826202",
+     "t": "Rato pide perdón al entrar en Soto del Real y asume sus \"errores\" con las tarjetas 'black'",
+     "d": "25-10-2018 08:51:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20181025/rato-ingresa-prision-para-cumplir-condena-por-tarjetas-black/1826202.shtml"
+    },
+    {
+     "id": "582720",
+     "t": "Díaz Ferrán pasa su primera noche en la prisión madrileña de Soto del Real",
+     "d": "06-12-2012 05:30:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20121206/angel-cabo-otros-cinco-imputados-ingresan-carcel-soto-del-real/582720.shtml"
+    },
+    {
+     "id": "1538326",
+     "t": "Buscan a un pescador que cayó al mar en Los Realejos",
+     "d": "04-05-2017 16:28:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170504/buscan-a-pescador-cayo-mar-realejos/1538326.shtml"
+    },
+    {
+     "id": "1004341",
+     "t": "Los padres de Ashya King salen de la prisión madrileña de Soto del Real",
+     "d": "02-09-2014 22:59:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20140902/padres-ashya-king-salen-prision-madrilena-soto-del-real/1004341.shtml"
+    },
+    {
+     "id": "1538361",
+     "t": "Searching for a fisherman who dove into the Los Realejos Sea",
+     "d": "04-05-2017 16:28:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20170504/searching-for-a-fisherman-who-dove-into-the-realejos-sea/1538361.shtml"
+    },
+    {
+     "id": "1756381",
+     "t": "Pablo Iglesias visita en Soto del Real a Jordi Cuixart y defiende la libertad de los \"presos políticos\"",
+     "d": "26-06-2018 17:54:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20180626/pablo-iglesias-visita-soto-del-real-a-jordi-cuixart-defiende-libertad-presos-politicos/1756381.shtml"
+    },
+    {
+     "id": "16152985",
+     "t": "Investigan como violencia machista la muerte de una pareja en la localidad madrileña de Soto del Real",
+     "d": "18-06-2024 18:05:14",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20240618/hallan-cadaveres-hombre-mujer-vivienda-soto-real/16152985.shtml"
+    },
+    {
+     "id": "16833373",
+     "t": "Resumen de la jornada política del 27 de noviembre: Ábalos y Koldo han ingresado en la cárcel de Soto del Real",
+     "d": "27-11-2025 08:18:10",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20251127/ultima-hora-politica-hoy-abalos-perez-llorca-directo-resumen-27-noviembre/16833373.shtml"
+    },
+    {
+     "id": "1523740",
+     "t": "Un Madrid a medio gas sale victorioso ante el Real Betis",
+     "d": "15-04-2017 20:32:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20170415/real-madrid-real-betis/1523740.shtml"
+    },
+    {
+     "id": "16669299",
+     "t": "La UCO pide a Prisiones que le informe sobre quiénes y cuándo visitan a Cerdán en la cárcel de Soto del Real",
+     "d": "18-07-2025 11:11:46",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250718/uco-pide-prisiones-informe-quienes-visitan-cerdan-carcel/16669299.shtml"
+    },
+    {
+     "id": "2457302",
+     "t": "El Real Madrid sale líder de Nápoles con una trabajada victoria comandada por Bellingham",
+     "d": "03-10-2023 23:23:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20231003/napoles-real-madrid-champions-league/2457302.shtml"
+    },
+    {
+     "id": "1080341",
+     "t": "El Atlético sale con Fernando Torres y el Real Madrid, sin Cristiano Ronaldo",
+     "d": "07-01-2015 18:57:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20150107/atletico-sale-con-fernando-torres-real-madrid-sin-cristiano-ronaldo/1080341.shtml"
+    },
+    {
+     "id": "2428795",
+     "t": "El 'mediador' alertó al presidente del PP canario de un caso de corrupción en el Ayuntamiento de Los Realejos",
+     "d": "01-03-2023 18:25:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20230301/mediador-alerto-pp-canario-caso-corrupcion/2428795.shtml"
+    },
+    {
+     "id": "16646826",
+     "t": "De su escaño en el Congreso a la celda de Soto del Real en 19 días: Santos Cerdán pasa su primera noche en prisión",
+     "d": "01-07-2025 10:33:45",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250701/escano-congreso-celda-soto-real-santos-cerdan-primera-noche-prision/16646826.shtml"
+    },
+    {
+     "id": "2341200",
+     "t": "El Real Madrid sale vivo de la locura de Manchester ante un gran City",
+     "d": "26-04-2022 22:55:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20220426/manchester-city-real-madrid-ida-semifinales-champions/2341200.shtml"
+    },
+    {
+     "id": "16872864",
+     "t": "Santi Aldama vuelve a exhibirse y repite su tope anotador en Utah",
+     "d": "24-12-2025 11:17:37",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20251224/santi-aldama-vuelve-a-exhibirse-repite-su-tope-anotador-utah/16872864.shtml"
+    },
+    {
+     "id": "16203014",
+     "t": "Aldama, el antídoto contra Antetokounmpo para que España siga viva en baloncesto",
+     "d": "30-07-2024 16:09:57",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20240730/espana-grecia-baloncesto-juegos-olimpicos-paris-2024/16203014.shtml"
+    },
+    {
+     "id": "17306174",
+     "t": "Delcy Rodríguez denuncia a Víctor de Aldama por injurias tras vincularla a la financiación del PSOE",
+     "d": "09-11-2026 13:00:12",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20261109/delcy-rodriguez-denuncia-aldama-injurias-financiacion-psoe/17306174.shtml"
+    },
+    {
+     "id": "16341297",
+     "t": "Ábalos niega las acusaciones \"difamatorias\" de Aldama y estudiará emprender acciones legales",
+     "d": "21-11-2024 17:36:03",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241121/abalos-niega-acusaciones-difamatorias-aldama-estudiara-emprender-acciones-legales/16341297.shtml"
+    },
+    {
+     "id": "587922",
+     "t": "IU sale de su X Asamblea convencida de que es \"alternativa real de gobierno\"",
+     "d": "16-12-2012 13:03:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20121216/iu-sale-su-asamblea-convencida-alternativa-real-gobierno/587922.shtml"
+    },
+    {
+     "id": "16342033",
+     "t": "Montero califica a Aldama de \"delincuente\" y asegura que no tiene \"ninguna credibilidad\"",
+     "d": "22-11-2024 10:37:45",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20241122/montero-califica-a-aldama-delincuente-asegura-no-tiene-ninguna-credibilidad/16342033.shtml"
+    },
+    {
+     "id": "2331568",
+     "t": "Santi Aldama: \"Nadie nos esperaba tan arriba, vamos a competir por el anillo\"",
+     "d": "15-04-2022 14:48:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/deportes/20220415/santi-aldama-nadie-esperaba-tan-arriba-grizzlies-nba/2331568.shtml"
+    },
+    {
+     "id": "16599932",
+     "t": "Barbie sale de Barbie Land: así es \"La casa de ensueño\", el concurso para construir su primera casa real",
+     "d": "01-06-2025 14:00:08",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/play/noticias/20250601/barbie-land-ensueno-concurso-casa/16599932.shtml"
+    },
+    {
+     "id": "814400",
+     "t": "Sale a la venta el Aeropuerto de Ciudad Real por un precio mínimo de 100 millones de euros",
+     "d": "09-12-2013 09:46:00",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20131209/sale-a-venta-aeropuerto-ciudad-real-por-precio-minimo-100-millones-euros/814400.shtml"
+    },
+    {
+     "id": "16445168",
+     "t": "El juez del 'caso Koldo' afirma que las acusaciones de Aldama contra Ábalos no están \"mínimamente contrastadas\"",
+     "d": "11-02-2025 13:37:36",
+     "dur": null,
+     "type": "noticia",
+     "url": "https://www.rtve.es/noticias/20250211/juez-caso-koldo-acusaciones-aldama-contra-abalos-no-minimamente-contrastadas/16445168.shtml"
+    }
+   ]
+  }
+ }
+}

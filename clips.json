@@ -1,0 +1,63 @@
+[
+ {
+  "rtve": "6146069",
+  "meta": {
+   "title": "Otegi relaciona apoyo a Presupuestos con presos de ETA",
+   "date": "20-10-2021 12:57:00",
+   "dur": 19000,
+   "url": "https://www.rtve.es/play/videos/informativo-24h/otegi/6146069/"
+  },
+  "subs": false
+ },
+ {
+  "name": "r8_otegi_presos_presupuestos_rtve_19s",
+  "phrase": "si para sacar a los doscientos presos hay que votar los presupuestos pues votamos",
+  "video": "rtve6146069",
+  "url": "https://ztnr.rtve.es/ztnr/6146069.m3u8",
+  "score": 0.071,
+  "t0": 0.3,
+  "t1": 11.46,
+  "page": null,
+  "rtve": "6146069",
+  "ok": true,
+  "ss": 0,
+  "dur": 31.46
+ },
+ {
+  "rtve": "6146147",
+  "meta": {
+   "title": "Otegi relaciona los Presupuestos con los presos de ETA",
+   "date": "20-10-2021 13:22:00",
+   "dur": 44037,
+   "url": "https://www.rtve.es/play/videos/rtve-noticias-video/directo-cms-rtve-arribaizquierda-youtube-otegi-200-1-20-10-2021-132123/6146147/"
+  },
+  "subs": false
+ },
+ {
+  "name": "r8_otegi_presos_presupuestos_rtve_44s",
+  "phrase": "si para sacar a los doscientos presos hay que votar los presupuestos pues los votaremos",
+  "video": "rtve6146147",
+  "url": "https://ztnr.rtve.es/ztnr/6146147.m3u8",
+  "score": 0.133,
+  "t0": 32.76,
+  "t1": 38.24,
+  "page": null,
+  "rtve": "6146147",
+  "ok": true,
+  "ss": 29.76,
+  "dur": 48.48
+ },
+ {
+  "name": "r8_aldama_sale_prision_rtve",
+  "phrase": "que no se preocupe el señor sánchez que va a tener pruebas de todo",
+  "video": null,
+  "url": null,
+  "score": 0,
+  "t0": 0,
+  "t1": 0,
+  "page": "https://www.rtve.es/noticias/20241121/fiscalia-apoya-aldama-salga-libertad-juez-del-caso-koldo/16341442.shtml",
+  "rtve": null,
+  "ok": false,
+  "error": "frase no encontrada con confianza suficiente"
+ }
+]

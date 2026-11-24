@@ -54,9 +54,10 @@ ACCEPT = """
 (() => { const re = /^(acept|accept|agree|consent|de acuerdo|entendido|estoy de acuerdo|permitir)/i; const no = /pagar|suscri|subscri|config|rechaz|no acept|pol[ií]tica|t[eé]rminos|aviso legal/i;
   const all = []; const walk = (root) => { for (const e of root.querySelectorAll('*')) { all.push(e); if (e.shadowRoot) walk(e.shadowRoot); } };
   walk(document);
-  for (const e of all) {
+  const btn = all.filter(e => e.matches && e.matches('button, a, input, [role=button]'));
+  for (const e of btn.concat(all)) {
     const tag = e.tagName; if (tag === 'SCRIPT' || tag === 'STYLE') continue;
-    const t = ((e.childElementCount ? '' : (e.textContent || '')).trim() || (e.value && typeof e.value === 'string' ? e.value : '')).trim();
+    const t = ((e.matches('button, a, [role=button]') ? (e.innerText || e.textContent || '') : (e.childElementCount ? '' : (e.textContent || ''))).trim() || (e.value && typeof e.value === 'string' ? e.value : '')).trim();
     if (!t || t.length > 60 || !re.test(t) || no.test(t)) continue;
     const r = e.getBoundingClientRect(); if (r.width < 8 || r.height < 8) continue;
     const tgt = e.closest('button, a, input, [role=button], [onclick]') || e;

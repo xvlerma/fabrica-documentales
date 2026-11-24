@@ -1,0 +1,59 @@
+{
+ "id": "e29n_cap9",
+ "stage": "capturas",
+ "rev": 1,
+ "title": "capturas9",
+ "units": [],
+ "music": {},
+ "pages": [
+  {
+   "name": "e34_okdiario_inda_gran_robo_electoral",
+   "url": "https://okdiario.com/opinion/gran-robo-electoral-que-avecina-16586104"
+  },
+  {
+   "name": "e27_okdiario_inda_ayuso_fuenlabrada",
+   "url": "https://okdiario.com/opinion/inda-pp-vox-estan-farolazo-limpio-mientras-sanchez-prepara-pucherazo-proximas-generales-16450988"
+  },
+  {
+   "name": "o46_boe_jec_instruccion_1_2023",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-8463",
+   "pdfs": true
+  },
+  {
+   "name": "o46b_boe_jec_instruccion_5_2023",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-13667"
+  },
+  {
+   "name": "o12_boe_orden_correos_2025",
+   "url": "https://www.boe.es/boe/dias/2025/12/17/pdfs/BOE-A-2025-25814.pdf"
+  },
+  {
+   "name": "o12b_boe_orden_correos_2023",
+   "url": "https://www.boe.es/boe/dias/2023/04/06/pdfs/BOE-A-2023-8705.pdf"
+  },
+  {
+   "name": "o12c_boe_orden_correos_2026",
+   "url": "https://www.boe.es/boe/dias/2026/10/29/pdfs/BOE-A-2026-22610.pdf"
+  },
+  {
+   "name": "v31_maldita_trillo_ordenadores_interior",
+   "url": "https://maldita.es/buloteca/respuesta/federico-trillo-asegura-que-los-ordenadores-del-ministerio-del-interior-se-pararon-durante-hora-y-media-en-la-ultima-noche-electoral",
+   "modal": true
+  },
+  {
+   "name": "e41_cuatro_trabajador_correos_grieta",
+   "url": "https://www.mediasetinfinity.es/noticias/en-boca-de-todos/trabajador-correos-alerta-grieta-sistema-electoral-posible-adulterar-voto-correo_MS000000137192_tEeiEYU1kd1C2hZnFudxPg",
+   "accept": true
+  },
+  {
+   "name": "a10_telecinco_ayuso_vox_voto_correo_0610",
+   "url": "https://www.telecinco.es/noticias/espana/20261006/pp-isabel-diaz-ayuso-vox-miedo-fraude-voto-correo-ley-nietos-cera_18_020367047.html",
+   "accept": true
+  },
+  {
+   "name": "a49_theobjective_supremo_rechaza_hijos",
+   "url": "https://theobjective.com/espana/tribunales/2026-11-09/supremo-rechaza-voto-ley-nietos-nacionalizados/",
+   "accept": true
+  }
+ ]
+}

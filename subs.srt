@@ -1,12 +1,12 @@
 1
-00:00:00,000 --> 00:00:02,827
-Las respuestas son declaraciones públicas
-de archivo, dadas en otro momento y a
-
-2
-00:00:02,827 --> 00:00:05,727
+00:00:00,000 --> 00:00:02,899
 Pedro Sánchez no ha participado en este
 documental. Las preguntas son de DocuVox.
+
+2
+00:00:02,899 --> 00:00:05,727
+Las respuestas son declaraciones públicas
+de archivo, dadas en otro momento y a
 
 3
 00:00:05,727 --> 00:00:06,527
@@ -241,14 +241,14 @@ Casi nadie en su partido
 da un euro por él.
 
 57
-00:03:12,874 --> 00:03:17,569
-Habla de presiones de grandes empresas y
-de un grupo de comunicación para impedir
-
-58
-00:03:17,569 --> 00:03:21,278
+00:03:12,874 --> 00:03:16,583
 Al día siguiente rompe su silencio
 en Salvados, con Jordi Évole.
+
+58
+00:03:16,583 --> 00:03:21,278
+Habla de presiones de grandes empresas y
+de un grupo de comunicación para impedir
 
 59
 00:03:21,278 --> 00:03:22,670
@@ -366,13 +366,13 @@ sobre las primarias del PSOE.
 PROMETIÓ EL DÍA QUE LLEGÓ?
 
 83
-00:04:44,176 --> 00:04:49,410
-La Audiencia Nacional condena al PP como
-partícipe a título lucrativo en la primera
+00:04:44,176 --> 00:04:46,824
+Veinticuatro de mayo de dos mil dieciocho.
 
 84
-00:04:49,410 --> 00:04:52,059
-Veinticuatro de mayo de dos mil dieciocho.
+00:04:46,824 --> 00:04:52,059
+La Audiencia Nacional condena al PP como
+partícipe a título lucrativo en la primera
 
 85
 00:04:52,059 --> 00:04:56,915
@@ -564,14 +564,14 @@ tenemos derecho a cambiar nuestra
 SUS PRIMEROS CIEN DÍAS?
 
 128
-00:07:16,052 --> 00:07:20,874
-Una visita institucional y, por la noche,
-con su mujer, el concierto de The Killers
-
-129
-00:07:20,874 --> 00:07:25,232
+00:07:16,052 --> 00:07:20,410
 Julio de dos mil dieciocho. Recién
 llegado, vuela en el Falcon a Castellón:
+
+129
+00:07:20,410 --> 00:07:25,232
+Una visita institucional y, por la noche,
+con su mujer, el concierto de The Killers
 
 130
 00:07:25,232 --> 00:07:28,835
@@ -611,14 +611,14 @@ tesis doctoral contiene plagios.
 Él lo llama «rotundamente falso».
 
 138
-00:07:45,768 --> 00:07:50,736
-Uno de ellos, PlagScan, detecta después
-un veintiuno por ciento de coincidencias y
-
-139
-00:07:50,736 --> 00:07:53,947
+00:07:45,768 --> 00:07:48,979
 La Moncloa difunde que pasa
 los programas antiplagio.
+
+139
+00:07:48,979 --> 00:07:53,947
+Uno de ellos, PlagScan, detecta después
+un veintiuno por ciento de coincidencias y
 
 140
 00:07:53,947 --> 00:07:56,673
@@ -720,14 +720,14 @@ contraria. Años después le pondrá nombre.
 — Presidente, ¿QUÉ DIJO DE CATALUÑA?
 
 161
-00:09:07,878 --> 00:09:12,678
-Un mes antes, el catorce de octubre, el
-Tribunal Supremo había condenado a los
-
-162
-00:09:12,678 --> 00:09:15,879
+00:09:07,878 --> 00:09:11,078
 En aquella misma campaña,
 Cataluña era el gran tema.
+
+162
+00:09:11,078 --> 00:09:15,879
+Un mes antes, el catorce de octubre, el
+Tribunal Supremo había condenado a los
 
 163
 00:09:15,879 --> 00:09:18,094
@@ -844,13 +844,13 @@ Lo que vino después, en el capítulo 4.
 — Presidente, ¿CON BILDU?
 
 188
-00:10:35,905 --> 00:10:41,076
-Para prorrogar el estado de alarma, el PSOE
-y Unidas Podemos firman por escrito con
+00:10:35,905 --> 00:10:37,338
+Mayo de dos mil veinte.
 
 189
-00:10:41,076 --> 00:10:42,509
-Mayo de dos mil veinte.
+00:10:37,338 --> 00:10:42,509
+Para prorrogar el estado de alarma, el PSOE
+y Unidas Podemos firman por escrito con
 
 190
 00:10:42,509 --> 00:10:46,808
@@ -1009,14 +1009,14 @@ ECHÓ A ÁBALOS EN 2021?
 Diez de julio de dos mil veintiuno.
 
 223
-00:12:47,973 --> 00:12:53,266
-Salen Carmen Calvo, Iván Redondo… y José
-Luis Ábalos, ministro de Transportes y
-
-224
-00:12:53,266 --> 00:12:56,952
+00:12:47,973 --> 00:12:51,658
 Sin previo aviso, la mayor
 remodelación de su Gobierno.
+
+224
+00:12:51,658 --> 00:12:56,952
+Salen Carmen Calvo, Iván Redondo… y José
+Luis Ábalos, ministro de Transportes y
 
 225
 00:12:56,952 --> 00:13:01,307
@@ -1141,27 +1141,27 @@ setenta devoluciones en frontera.
 — Presidente, ¿A QUIÉN PROTEGIÓ LA LEY?
 
 251
-00:14:28,609 --> 00:14:33,450
-Entra en vigor la ley del «solo sí es sí»,
-impulsada por el Ministerio de Igualdad
+00:14:28,609 --> 00:14:30,321
+Octubre de dos mil veintidós:
 
 252
-00:14:33,450 --> 00:14:35,162
-Octubre de dos mil veintidós:
+00:14:30,321 --> 00:14:35,162
+Entra en vigor la ley del «solo sí es sí»,
+impulsada por el Ministerio de Igualdad
 
 253
 00:14:35,162 --> 00:14:36,225
 De Unidas Podemos.
 
 254
-00:14:37,525 --> 00:14:42,278
-Mil doscientas cinco rebajas de condena
-a agresores sexuales y ciento veintiuna
-
-255
-00:14:42,278 --> 00:14:46,430
+00:14:37,525 --> 00:14:41,677
 Consejo General del Poder Judicial,
 septiembre de dos mil veintitrés:
+
+255
+00:14:41,677 --> 00:14:46,430
+Mil doscientas cinco rebajas de condena
+a agresores sexuales y ciento veintiuna
 
 256
 00:14:46,430 --> 00:14:47,393
@@ -1410,13 +1410,13 @@ Los de un partido cuyo líder vive en
 Bélgica, huido de la justicia desde dos mil
 
 309
-00:18:00,955 --> 00:18:05,562
-Y lo que pide a cambio tiene un nombre
-que el presidente había descartado en
+00:18:00,955 --> 00:18:02,773
+Diecisiete. Carles Puigdemont.
 
 310
-00:18:05,562 --> 00:18:07,381
-Diecisiete. Carles Puigdemont.
+00:18:02,773 --> 00:18:07,381
+Y lo que pide a cambio tiene un nombre
+que el presidente había descartado en
 
 311
 00:18:07,381 --> 00:18:08,181
@@ -1441,13 +1441,13 @@ a traerlo de vuelta a España»
 Y en dos mil veintidós, sobre la amnistía.
 
 316
-00:18:21,861 --> 00:18:26,160
-Algo que desde luego este Gobierno no va
-a aceptar y que desde luego no entra en la
+00:18:21,861 --> 00:18:22,661
+…la amnistía.
 
 317
-00:18:26,160 --> 00:18:26,960
-…la amnistía.
+00:18:22,534 --> 00:18:26,833
+Algo que desde luego este Gobierno no va
+a aceptar y que desde luego no entra en la
 
 318
 00:18:26,833 --> 00:18:29,061
@@ -1757,13 +1757,13 @@ Pues yo creo que sí.
 No creía que sí, porque un
 
 384
-00:22:50,472 --> 00:22:55,619
-Un presidente que llegó contra la
-corrupción, que gobierna en minoría y que ha
+00:22:50,472 --> 00:22:51,272
+Hasta aquí:
 
 385
-00:22:55,619 --> 00:22:56,419
-Hasta aquí:
+00:22:51,198 --> 00:22:56,345
+Un presidente que llegó contra la
+corrupción, que gobierna en minoría y que ha
 
 386
 00:22:56,345 --> 00:23:01,228
@@ -1781,13 +1781,13 @@ veinticuatro, el primero cae.
 eligió a José Luis Ábalos?
 
 389
-00:23:10,921 --> 00:23:15,665
-La Guardia Civil detiene a Koldo García,
-el conductor de aquel coche, convertido en
+00:23:10,921 --> 00:23:13,321
+Veinte de febrero de dos mil veinticuatro.
 
 390
-00:23:15,665 --> 00:23:18,065
-Veinte de febrero de dos mil veinticuatro.
+00:23:13,321 --> 00:23:18,065
+La Guardia Civil detiene a Koldo García,
+el conductor de aquel coche, convertido en
 
 391
 00:23:18,065 --> 00:23:21,094
@@ -1795,14 +1795,14 @@ Asesor del ministro de
 Transportes. La investigación:
 
 392
-00:23:21,094 --> 00:23:25,781
-El ministro era Ábalos, al que en dos mil
-veintitrés había vuelto a incluir en las
-
-393
-00:23:25,781 --> 00:23:29,039
+00:23:21,094 --> 00:23:24,352
 Comisiones por la venta de
 mascarillas en plena pandemia.
+
+393
+00:23:24,352 --> 00:23:29,039
+El ministro era Ábalos, al que en dos mil
+veintitrés había vuelto a incluir en las
 
 394
 00:23:29,039 --> 00:23:29,839
@@ -1928,14 +1928,14 @@ según The Objective, 01/07/2025)
 AUTORIZÓ LO DE BARAJAS?
 
 420
-00:24:51,861 --> 00:24:56,437
-Aterriza un avión privado desde Caracas
-con Delcy Rodríguez, vicepresidenta de
-
-421
-00:24:56,437 --> 00:25:00,427
+00:24:51,861 --> 00:24:55,850
 La causa resucita una madrugada de
 enero de dos mil veinte. Barajas.
+
+421
+00:24:55,850 --> 00:25:00,427
+Aterriza un avión privado desde Caracas
+con Delcy Rodríguez, vicepresidenta de
 
 422
 00:25:00,427 --> 00:25:04,064
@@ -1962,13 +1962,13 @@ Del presidente a la visita.
 de admitir que el encuentro se produjo
 
 427
-00:25:16,553 --> 00:25:20,855
-Según informes de la UCO publicados por
-la prensa, un mensaje de Ábalos indica que
+00:25:16,553 --> 00:25:17,707
+Dentro del aeropuerto.
 
 428
-00:25:20,855 --> 00:25:22,010
-Dentro del aeropuerto.
+00:25:17,707 --> 00:25:22,010
+Según informes de la UCO publicados por
+la prensa, un mensaje de Ábalos indica que
 
 429
 00:25:22,010 --> 00:25:24,371
@@ -2031,13 +2031,13 @@ Años después, el sumario del caso Koldo
 y los audios publicados por la prensa
 
 442
-00:26:08,123 --> 00:26:13,019
-Según las informaciones basadas en los
-informes de la UCO, la trama pagaba viajes y
+00:26:08,123 --> 00:26:09,480
+Describirían otra cosa.
 
 443
-00:26:13,019 --> 00:26:14,376
-Describirían otra cosa.
+00:26:09,480 --> 00:26:14,376
+Según las informaciones basadas en los
+informes de la UCO, la trama pagaba viajes y
 
 444
 00:26:14,376 --> 00:26:16,559
@@ -2092,33 +2092,33 @@ En el centro de la trama
 aparece un empresario:
 
 455
-00:26:54,523 --> 00:26:58,816
-En octubre de dos mil veinticuatro,
-El Mundo publicó una foto suya con el
-
-456
-00:26:58,816 --> 00:27:02,049
+00:26:54,523 --> 00:26:57,757
 Víctor de Aldama, el comisionista
 que acabó confesando.
 
-457
-00:27:02,049 --> 00:27:06,812
-Sánchez respondió que nunca había hablado
-con él, y que uno no elige con quién se
+456
+00:26:57,757 --> 00:27:02,049
+En octubre de dos mil veinticuatro,
+El Mundo publicó una foto suya con el
 
-458
-00:27:06,812 --> 00:27:11,633
+457
+00:27:02,049 --> 00:27:06,871
 Presidente, tomada en febrero de dos mil
 diecinueve en un acto del PSOE en Madrid.
 
+458
+00:27:06,871 --> 00:27:11,633
+Sánchez respondió que nunca había hablado
+con él, y que uno no elige con quién se
+
 459
-00:27:11,633 --> 00:27:16,396
-Semanas después, Aldama declaró ante el
-juez que fue el presidente quien le pidió
+00:27:11,633 --> 00:27:12,456
+Hace una foto.
 
 460
-00:27:16,396 --> 00:27:17,219
-Hace una foto.
+00:27:12,456 --> 00:27:17,219
+Semanas después, Aldama declaró ante el
+juez que fue el presidente quien le pidió
 
 461
 00:27:17,219 --> 00:27:21,511
@@ -2204,13 +2204,13 @@ que heredó las llaves de Ferraz.
 lo que pasaba en Ferraz?
 
 478
-00:28:30,028 --> 00:28:35,005
-Un informe de la UCO sitúa a Santos Cerdán,
-el sucesor de Ábalos, en el reparto de
+00:28:30,028 --> 00:28:31,788
+Junio de dos mil veinticinco.
 
 479
-00:28:35,005 --> 00:28:36,765
-Junio de dos mil veinticinco.
+00:28:31,788 --> 00:28:36,765
+Un informe de la UCO sitúa a Santos Cerdán,
+el sucesor de Ábalos, en el reparto de
 
 480
 00:28:36,765 --> 00:28:40,406
@@ -2286,13 +2286,13 @@ le atribuyen treinta y nueve.
 DINERO DE AQUELLOS NEGOCIOS?
 
 495
-00:29:32,999 --> 00:29:37,245
-En la réplica a su comparecencia por el
-caso Cerdán, Feijóo saca un asunto de la
+00:29:32,999 --> 00:29:35,016
+Nueve de julio de dos mil veinticinco.
 
 496
-00:29:37,245 --> 00:29:39,262
-Nueve de julio de dos mil veinticinco.
+00:29:35,016 --> 00:29:39,262
+En la réplica a su comparecencia por el
+caso Cerdán, Feijóo saca un asunto de la
 
 497
 00:29:39,262 --> 00:29:40,960
@@ -2527,14 +2527,14 @@ En el juicio del Supremo (abril de 2026),
 el hermano de Koldo declaró que fue dos
 
 547
-00:32:08,853 --> 00:32:10,801
-Una trabajadora de Ferraz dijo que gente
-de confianza de Koldo los recogía en la
-
-548
-00:32:10,801 --> 00:32:11,848
+00:32:08,853 --> 00:32:09,900
 Veces a Ferraz a recoger
 sobres con dinero.
+
+548
+00:32:09,900 --> 00:32:11,848
+Una trabajadora de Ferraz dijo que gente
+de confianza de Koldo los recogía en la
 
 549
 00:32:11,848 --> 00:32:13,845
@@ -2612,14 +2612,14 @@ El Partido Socialista no se
 ha financiado irregularmente.
 
 565
-00:33:00,711 --> 00:33:05,831
-En octubre de dos mil veintiséis, la Fiscalía
-Anticorrupción vio indicios contra el
-
-566
-00:33:05,831 --> 00:33:10,026
+00:33:00,711 --> 00:33:04,906
 Es lo que sostiene el PSOE. Y aquí
 está lo que dicen los documentos:
+
+566
+00:33:04,906 --> 00:33:10,026
+En octubre de dos mil veintiséis, la Fiscalía
+Anticorrupción vio indicios contra el
 
 567
 00:33:10,026 --> 00:33:12,740
@@ -2717,13 +2717,13 @@ Según el sumario, la gerente del
 partido firmaba los pagos a Leire Díez:
 
 587
-00:34:21,477 --> 00:34:25,981
-Anticorrupción ve indicios contra el PSOE,
-aunque considera prematuro imputar al
+00:34:21,477 --> 00:34:23,110
+Unos cuatro mil euros al mes.
 
 588
-00:34:25,981 --> 00:34:27,614
-Unos cuatro mil euros al mes.
+00:34:23,110 --> 00:34:27,614
+Anticorrupción ve indicios contra el PSOE,
+aunque considera prematuro imputar al
 
 589
 00:34:27,614 --> 00:34:28,414
@@ -2750,13 +2750,13 @@ Según la UCO, miembros de la presunta
 trama contactaron con personas relacionadas
 
 594
-00:34:39,424 --> 00:34:40,867
-La jueza Beatriz Biedma, que investigó
-al hermano del presidente, está personada
+00:34:39,424 --> 00:34:40,224
+Con el narcotráfico en Badajoz.
 
 595
-00:34:40,867 --> 00:34:41,667
-Con el narcotráfico en Badajoz.
+00:34:39,983 --> 00:34:41,425
+La jueza Beatriz Biedma, que investigó
+al hermano del presidente, está personada
 
 596
 00:34:41,425 --> 00:34:42,922
@@ -2784,13 +2784,13 @@ El Supremo condena a Ábalos a
 veinticuatro años de prisión.
 
 601
-00:34:58,297 --> 00:35:03,088
-Veinticuatro años y tres meses para José
-Luis Ábalos por organización criminal,
+00:34:58,297 --> 00:34:59,207
+Por unanimidad:
 
 602
-00:35:03,088 --> 00:35:03,998
-Por unanimidad:
+00:34:59,207 --> 00:35:03,998
+Veinticuatro años y tres meses para José
+Luis Ábalos por organización criminal,
 
 603
 00:35:03,998 --> 00:35:06,849
@@ -2855,13 +2855,13 @@ de corrupción, protagonizado por unas
 Personas.
 
 616
-00:35:42,265 --> 00:35:45,260
-La UCO detiene a seis personas, entre ellas
-al identificado como chófer de Sánchez
+00:35:42,265 --> 00:35:43,065
+05/11/2026:
 
 617
-00:35:45,260 --> 00:35:46,060
-05/11/2026:
+00:35:42,667 --> 00:35:45,662
+La UCO detiene a seis personas, entre ellas
+al identificado como chófer de Sánchez
 
 618
 00:35:45,662 --> 00:35:47,049
@@ -2891,27 +2891,27 @@ no está imputado en ninguna causa.
 Es el presidente del Gobierno.
 
 624
-00:36:06,165 --> 00:36:11,705
-Isabel Pardo de Vera, expresidenta de Adif,
-investigada por presunto amaño de obra
+00:36:06,165 --> 00:36:07,922
+La causa siguió creciendo.
 
 625
-00:36:11,705 --> 00:36:13,461
-La causa siguió creciendo.
+00:36:07,922 --> 00:36:13,461
+Isabel Pardo de Vera, expresidenta de Adif,
+investigada por presunto amaño de obra
 
 626
 00:36:13,461 --> 00:36:14,261
 Pública.
 
 627
-00:36:14,002 --> 00:36:19,136
-Y el ministro Ángel Víctor Torres, al
-que la UCO sitúa en el circuito de las
-
-628
-00:36:19,136 --> 00:36:24,675
+00:36:14,002 --> 00:36:19,541
 Belén Gualda, presidenta de la SEPI,
 investigada por el rescate de Tubos Reunidos.
+
+628
+00:36:19,541 --> 00:36:24,675
+Y el ministro Ángel Víctor Torres, al
+que la UCO sitúa en el circuito de las
 
 629
 00:36:24,675 --> 00:36:28,526
@@ -2919,22 +2919,22 @@ Mascarillas. No está imputado
 y niega cualquier comisión.
 
 630
-00:36:29,426 --> 00:36:31,419
+00:36:29,426 --> 00:36:30,226
+02/07/2026:
+
+631
+00:36:29,739 --> 00:36:31,733
 El juez imputa a la directora general
 de la Guardia Civil y al DAO por
 
-631
-00:36:31,419 --> 00:36:32,219
-02/07/2026:
-
 632
-00:36:31,733 --> 00:36:34,067
-Según la UCO, se promovieron expedientes
-contra agentes que investigaban al PSOE y
+00:36:31,733 --> 00:36:32,533
+Prevaricación y obstrucción.
 
 633
-00:36:34,067 --> 00:36:34,867
-Prevaricación y obstrucción.
+00:36:32,530 --> 00:36:34,865
+Según la UCO, se promovieron expedientes
+contra agentes que investigaban al PSOE y
 
 634
 00:36:34,865 --> 00:36:36,317
@@ -2971,14 +2971,14 @@ fiscal general y su mentor.
 — ¿Qué deberían saber los votantes?
 
 641
-00:37:01,306 --> 00:37:06,086
-Un juzgado de Madrid abre diligencias contra
-la mujer del presidente, Begoña Gómez,
-
-642
-00:37:06,086 --> 00:37:08,735
+00:37:01,306 --> 00:37:03,955
 Veinticuatro de abril
 de dos mil veinticuatro.
+
+642
+00:37:03,955 --> 00:37:08,735
+Un juzgado de Madrid abre diligencias contra
+la mujer del presidente, Begoña Gómez,
 
 643
 00:37:08,735 --> 00:37:13,227
@@ -3051,13 +3051,13 @@ de una asesora pagada por la Moncloa.
 La Fiscalía pide su absolución.
 
 658
-00:38:07,407 --> 00:38:11,498
-La Asamblea de Madrid, donde gobierna
-el PP, la cita en una comisión de
+00:38:07,407 --> 00:38:09,366
+Noviembre de dos mil veinticuatro.
 
 659
-00:38:11,498 --> 00:38:13,457
-Noviembre de dos mil veinticuatro.
+00:38:09,366 --> 00:38:13,457
+La Asamblea de Madrid, donde gobierna
+el PP, la cita en una comisión de
 
 660
 00:38:13,457 --> 00:38:14,264
@@ -3139,13 +3139,13 @@ responderá un jurado.
 — Presidente, ¿DECLARÓ USTED ANTE EL JUEZ?
 
 677
-00:39:16,480 --> 00:39:20,285
-El día que Rajoy declaró como testigo
-en el caso Gürtel, Sánchez le pidió que
+00:39:16,480 --> 00:39:17,280
+26/07/2017:
 
 678
-00:39:20,285 --> 00:39:21,085
-26/07/2017:
+00:39:17,024 --> 00:39:20,828
+El día que Rajoy declaró como testigo
+en el caso Gürtel, Sánchez le pidió que
 
 679
 00:39:20,828 --> 00:39:24,880
@@ -3229,14 +3229,14 @@ Institucional. El presidente lo
 resumió con una idea que repetiría:
 
 696
-00:40:24,479 --> 00:40:29,146
-Sus críticos vieron en el plan un intento
-de señalar a la prensa que publicaba las
-
-697
-00:40:29,146 --> 00:40:33,471
+00:40:24,479 --> 00:40:28,804
 No se puede confundir la libertad de
 información con la libertad de difamar.
+
+697
+00:40:28,804 --> 00:40:33,471
+Sus críticos vieron en el plan un intento
+de señalar a la prensa que publicaba las
 
 698
 00:40:33,471 --> 00:40:35,349
@@ -3281,14 +3281,14 @@ oficina «no era algo físico».
 (Según Artículo14 · 11/01/2025)
 
 707
-00:41:00,449 --> 00:41:06,409
-La Audiencia de Badajoz le condena a nueve
-años de inhabilitación por prevaricación
-
-708
-00:41:06,409 --> 00:41:11,148
+00:41:00,449 --> 00:41:05,188
 El hermano, David Sánchez. Catorce
 de julio de dos mil veintiséis.
+
+708
+00:41:05,188 --> 00:41:11,148
+La Audiencia de Badajoz le condena a nueve
+años de inhabilitación por prevaricación
 
 709
 00:41:11,148 --> 00:41:16,677
@@ -3310,13 +3310,13 @@ Tenía un hermano. (Crónicas del
 juicio en la Audiencia de Badajoz)
 
 713
-00:41:25,118 --> 00:41:29,874
-Con estas causas abiertas, el Grupo
-Socialista registra una ley para limitar la
+00:41:25,118 --> 00:41:26,864
+Enero de dos mil veinticinco.
 
 714
-00:41:29,874 --> 00:41:31,620
-Enero de dos mil veinticinco.
+00:41:26,864 --> 00:41:31,620
+Con estas causas abiertas, el Grupo
+Socialista registra una ley para limitar la
 
 715
 00:41:31,620 --> 00:41:34,991
@@ -3414,13 +3414,13 @@ Por primera vez en la historia, el Supremo
 condena a un fiscal general del Estado.
 
 735
-00:42:51,027 --> 00:42:55,862
-Dos años de inhabilitación por revelar
-datos reservados de la pareja de Isabel Díaz
+00:42:51,027 --> 00:42:52,192
+Álvaro García Ortiz:
 
 736
-00:42:55,862 --> 00:42:57,027
-Álvaro García Ortiz:
+00:42:52,192 --> 00:42:57,027
+Dos años de inhabilitación por revelar
+datos reservados de la pareja de Isabel Díaz
 
 737
 00:42:57,027 --> 00:42:57,827
@@ -3459,23 +3459,23 @@ Y porque creo además...
 a José Luis Rodríguez Zapatero?
 
 745
-00:43:24,505 --> 00:43:28,637
+00:43:24,505 --> 00:43:26,826
+Diecinueve de mayo de dos mil veintiséis.
+
+746
+00:43:26,826 --> 00:43:30,957
 José Luis Rodríguez Zapatero se
 convierte en el primer expresidente de la
 
-746
-00:43:28,637 --> 00:43:30,957
-Diecinueve de mayo de dos mil veintiséis.
-
 747
-00:43:30,957 --> 00:43:35,315
-Una aerolínea rescatada en dos mil
-veintiuno con cincuenta y tres millones de
-
-748
-00:43:35,315 --> 00:43:38,257
+00:43:30,957 --> 00:43:33,900
 Democracia investigado por
 un juez. Caso Plus Ultra:
+
+748
+00:43:33,900 --> 00:43:38,257
+Una aerolínea rescatada en dos mil
+veintiuno con cincuenta y tres millones de
 
 749
 00:43:38,257 --> 00:43:39,106
@@ -3506,13 +3506,13 @@ Una pieza separada investiga las joyas
 halladas en una caja fuerte del despacho de
 
 755
-00:44:00,539 --> 00:44:04,809
-Según la UDEF, una sociedad financiada
-por Plus Ultra transfirió cuatrocientos
+00:44:00,539 --> 00:44:01,634
+Su jefe de gabinete.
 
 756
-00:44:04,809 --> 00:44:05,904
-Su jefe de gabinete.
+00:44:01,634 --> 00:44:05,904
+Según la UDEF, una sociedad financiada
+por Plus Ultra transfirió cuatrocientos
 
 757
 00:44:05,904 --> 00:44:07,491
@@ -3528,14 +3528,14 @@ Pieza separada por contrabando y delito
 fiscal. Nulidad rechazada el 24/07/2026.
 
 760
-00:44:13,791 --> 00:44:18,739
-El Consejo de Ministros aprueba cincuenta
-y tres millones de euros para Plus Ultra,
-
-761
-00:44:18,739 --> 00:44:21,601
+00:44:13,791 --> 00:44:16,653
 El rescate. Nueve de marzo
 de dos mil veintiuno.
+
+761
+00:44:16,653 --> 00:44:21,601
+El Consejo de Ministros aprueba cincuenta
+y tres millones de euros para Plus Ultra,
 
 762
 00:44:21,601 --> 00:44:25,952
@@ -3700,19 +3700,19 @@ como creo también en el legado de un
 La mano en el fuego.
 
 796
-00:46:36,605 --> 00:46:41,090
+00:46:36,605 --> 00:46:41,498
+Es la misma expresión de confianza que, por
+otros hombres, ya le había costado cara.
+
+797
+00:46:41,498 --> 00:46:45,982
 En enero de dos mil veinticinco, en
 Tenerife, dedicó otra a su ministro Ángel
 
-797
-00:46:41,090 --> 00:46:45,749
+798
+00:46:45,982 --> 00:46:50,642
 Víctor Torres, cuyo nombre aparecía
 entonces en informaciones de prensa sobre el
-
-798
-00:46:45,749 --> 00:46:50,642
-Es la misma expresión de confianza que, por
-otros hombres, ya le había costado cara.
 
 799
 00:46:50,642 --> 00:46:51,442
@@ -3761,13 +3761,13 @@ y otra lo decidirá un juez.
 HASTA AQUÍ
 
 809
-00:47:30,288 --> 00:47:36,017
-Un presidente que prometió no pactar con
-Bildu, no dormir con Podemos y traer a
+00:47:30,288 --> 00:47:31,304
+Recapitulemos.
 
 810
-00:47:36,017 --> 00:47:37,032
-Recapitulemos.
+00:47:31,304 --> 00:47:37,032
+Un presidente que prometió no pactar con
+Bildu, no dormir con Podemos y traer a
 
 811
 00:47:37,032 --> 00:47:42,107
@@ -3790,13 +3790,13 @@ Su hermano, condenado sin sentencia
 firme. Él, sin imputación alguna.
 
 815
-00:47:56,096 --> 00:48:01,499
-Pero en el verano de dos mil veintiséis
-la pregunta dejó de ser qué decía el
+00:47:56,096 --> 00:47:58,656
+Cree en su inocencia. Y la defiende.
 
 816
-00:48:01,499 --> 00:48:04,058
-Cree en su inocencia. Y la defiende.
+00:47:58,656 --> 00:48:04,058
+Pero en el verano de dos mil veintiséis
+la pregunta dejó de ser qué decía el
 
 817
 00:48:04,058 --> 00:48:06,617
@@ -3846,14 +3846,14 @@ Nueve de febrero de dos mil
 veinticuatro. Puerto de Barbate.
 
 827
-00:48:43,936 --> 00:48:48,951
-Las asociaciones piden la dimisión
-del ministro del Interior, Fernando
-
-828
-00:48:48,951 --> 00:48:54,683
+00:48:43,936 --> 00:48:49,668
 Una narcolancha embiste una embarcación
 de la Guardia Civil. Mueren dos agentes.
+
+828
+00:48:49,668 --> 00:48:54,683
+Las asociaciones piden la dimisión
+del ministro del Interior, Fernando
 
 829
 00:48:54,683 --> 00:48:57,763
@@ -3880,19 +3880,19 @@ Una narcolancha embiste a una embarcación
 de la Guardia Civil en el puerto.
 
 834
-00:49:13,009 --> 00:49:17,952
+00:49:13,009 --> 00:49:17,594
+Mueren dos agentes. Las imágenes, grabadas
+desde el muelle, recorren el país.
+
+835
+00:49:17,594 --> 00:49:22,537
 Según la prensa, el Ministerio del Interior
 había desmantelado poco antes la unidad
 
-835
-00:49:17,952 --> 00:49:22,478
+836
+00:49:22,537 --> 00:49:27,063
 Especial de coordinación contra el
 narcotráfico en el Campo de Gibraltar, el
-
-836
-00:49:22,478 --> 00:49:27,063
-Mueren dos agentes. Las imágenes, grabadas
-desde el muelle, recorren el país.
 
 837
 00:49:27,063 --> 00:49:31,053
@@ -4080,14 +4080,14 @@ de un asalto a Ceuta con fecha y hora.
 — ¿Fue un aviso rutinario?
 
 875
-00:52:03,397 --> 00:52:07,687
-«En redes sociales hay un llamamiento
-para asalto por valla y mar mañana a las
-
-876
-00:52:07,687 --> 00:52:11,428
+00:52:03,397 --> 00:52:07,137
 Veintinueve de julio de dos mil
 veintiséis, trece y cincuenta y dos:
+
+876
+00:52:07,137 --> 00:52:11,428
+«En redes sociales hay un llamamiento
+para asalto por valla y mar mañana a las
 
 877
 00:52:11,428 --> 00:52:12,228
@@ -4191,14 +4191,14 @@ un día si quieres te subo.
 Depende
 
 898
-00:53:28,344 --> 00:53:33,105
-El tres de septiembre, de vuelta en el
-Congreso, el presidente explicó qué decían
-
-899
-00:53:33,105 --> 00:53:37,631
+00:53:28,344 --> 00:53:32,870
 El Consejo de Seguridad Nacional no se
 reunió hasta veinticinco días después.
+
+899
+00:53:32,870 --> 00:53:37,631
+El tres de septiembre, de vuelta en el
+Congreso, el presidente explicó qué decían
 
 900
 00:53:37,631 --> 00:53:40,453
@@ -4295,14 +4295,14 @@ Pregúntelo. Está grabando
 el papelito sobre Ceuta.
 
 920
-00:54:46,822 --> 00:54:51,953
-La ministra de Defensa, Margarita Robles,
-sostuvo en el Congreso que el CNI había
-
-921
-00:54:51,953 --> 00:54:55,310
+00:54:46,822 --> 00:54:50,179
 Y dentro del Gobierno, ni
 siquiera había una versión.
+
+921
+00:54:50,179 --> 00:54:55,310
+La ministra de Defensa, Margarita Robles,
+sostuvo en el Congreso que el CNI había
 
 922
 00:54:55,310 --> 00:54:59,618
@@ -4377,24 +4377,24 @@ el régimen de Marruecos esté detrás
 De los asaltos del 30 y el 31 el informe
 
 937
-00:55:51,337 --> 00:55:56,324
-En marzo de dos mil veintidós, con una
-carta al rey Mohamed sexto, Sánchez cambió
-
-938
-00:55:56,324 --> 00:55:59,218
+00:55:51,337 --> 00:55:54,231
 Detrás de Ceuta está
 siempre la misma relación.
 
-939
-00:55:59,218 --> 00:56:04,082
-El plan de autonomía marroquí pasó a ser,
-para el Gobierno, «la base más seria,
+938
+00:55:54,231 --> 00:55:59,218
+En marzo de dos mil veintidós, con una
+carta al rey Mohamed sexto, Sánchez cambió
 
-940
-00:56:04,082 --> 00:56:07,899
+939
+00:55:59,218 --> 00:56:03,035
 Cuarenta años de posición española
 sobre el Sáhara Occidental:
+
+940
+00:56:03,035 --> 00:56:07,899
+El plan de autonomía marroquí pasó a ser,
+para el Gobierno, «la base más seria,
 
 941
 00:56:07,899 --> 00:56:11,470
@@ -4411,13 +4411,13 @@ una resolución contra ese giro;
 Solo votó en contra el PSOE.
 
 944
-00:56:17,789 --> 00:56:21,368
-El Gobierno anuncia que el móvil del
-presidente fue infectado con Pegasus en mayo
+00:56:17,789 --> 00:56:18,589
+02/05/2022:
 
 945
-00:56:21,368 --> 00:56:22,168
-02/05/2022:
+00:56:18,275 --> 00:56:21,854
+El Gobierno anuncia que el móvil del
+presidente fue infectado con Pegasus en mayo
 
 946
 00:56:21,854 --> 00:56:25,389
@@ -4575,14 +4575,14 @@ El Gobierno negó que hubiera rectificado.
 Moncloa · 27 y 28/08/2024)
 
 979
-00:58:10,679 --> 00:58:15,301
-En enero de este año, en un mitin de
-Podemos en Zaragoza, Irene Montero celebraba
-
-980
-00:58:15,301 --> 00:58:17,983
+00:58:10,679 --> 00:58:13,361
 Y en casa, los socios
 marcaban su propio rumbo.
+
+980
+00:58:13,361 --> 00:58:17,983
+En enero de este año, en un mitin de
+Podemos en Zaragoza, Irene Montero celebraba
 
 981
 00:58:17,983 --> 00:58:20,723
@@ -4708,14 +4708,14 @@ Con Israel, las relaciones
 están en mínimos:
 
 1007
-00:59:49,891 --> 00:59:54,438
-Y Marruecos, el vecino del sur, firma
-una alianza estratégica con Israel y le
-
-1008
-00:59:54,438 --> 00:59:57,922
+00:59:49,891 --> 00:59:53,375
 Embargo de armas y embajadores
 retirados en los dos países.
+
+1008
+00:59:53,375 --> 00:59:57,922
+Y Marruecos, el vecino del sur, firma
+una alianza estratégica con Israel y le
 
 1009
 00:59:57,922 --> 00:59:59,694
@@ -4727,13 +4727,13 @@ Siempre hay un recurso que pedir. Un
 informe rutinario. Un operador privado.
 
 1011
-01:00:05,701 --> 01:00:10,346
-Y en enero de dos mil veintiséis, llegó
-la tragedia que tocaría a su propio
+01:00:05,701 --> 01:00:08,302
+Un presidente autonómico al que preguntar.
 
 1012
-01:00:10,346 --> 01:00:12,947
-Un presidente autonómico al que preguntar.
+01:00:08,302 --> 01:00:12,947
+Y en enero de dos mil veintiséis, llegó
+la tragedia que tocaría a su propio
 
 1013
 01:00:12,947 --> 01:00:14,372
@@ -5116,13 +5116,13 @@ Perdón a las familias de las
 víctimas, por supuesto que se lo pido»
 
 1093
-01:05:29,637 --> 01:05:34,581
-Una frontera desbordada con un aviso
-del CNI que el presidente calificó de
+01:05:29,637 --> 01:05:31,174
+Recapitulemos de nuevo.
 
 1094
-01:05:34,581 --> 01:05:36,118
-Recapitulemos de nuevo.
+01:05:31,174 --> 01:05:36,118
+Una frontera desbordada con un aviso
+del CNI que el presidente calificó de
 
 1095
 01:05:36,118 --> 01:05:39,592
@@ -5189,13 +5189,13 @@ Ni en dos mil veinticuatro, ni en dos mil
 veinticinco, ni en dos mil veintiséis.
 
 1108
-01:06:32,513 --> 01:06:37,198
-En enero de dos mil veinticinco y de dos
-mil veintiséis, el Congreso tumbó dos
+01:06:32,513 --> 01:06:34,615
+Y cuando no hay votos, decreto ley.
 
 1109
-01:06:37,198 --> 01:06:39,300
-Y cuando no hay votos, decreto ley.
+01:06:34,615 --> 01:06:39,300
+En enero de dos mil veinticinco y de dos
+mil veintiséis, el Congreso tumbó dos
 
 1110
 01:06:39,300 --> 01:06:42,664
@@ -5217,14 +5217,14 @@ Presidente avisó de cómo pensaba gobernar:
 de un poder legislativo».
 
 1114
-01:06:54,690 --> 01:06:58,900
-El Gobierno deberá presentar los Presupuestos
-Generales del Estado al menos tres
-
-1115
-01:06:58,900 --> 01:07:01,374
+01:06:54,690 --> 01:06:57,164
 Constitución, artículo
 ciento treinta y cuatro:
+
+1115
+01:06:57,164 --> 01:07:01,374
+El Gobierno deberá presentar los Presupuestos
+Generales del Estado al menos tres
 
 1116
 01:07:01,374 --> 01:07:03,900
@@ -5236,14 +5236,14 @@ los del año anterior.
 El BOE como respuesta.
 
 1118
-01:07:06,455 --> 01:07:11,018
-Con Esquerra Republicana pactó la condonación
-de diecisiete mil cien millones de
-
-1119
-01:07:11,018 --> 01:07:15,181
+01:07:06,455 --> 01:07:10,618
 Para seguir en el poder, el Gobierno
 necesitaba a sus socios cada semana.
+
+1119
+01:07:10,618 --> 01:07:15,181
+Con Esquerra Republicana pactó la condonación
+de diecisiete mil cien millones de
 
 1120
 01:07:15,181 --> 01:07:16,721
@@ -5298,14 +5298,14 @@ EL VOTO QUE EL SUPREMO PARÓ
 [SIN PRUEBA · «FRAUDE CENSAL»
 
 1132
-01:07:48,954 --> 01:07:50,870
-Suspende para el 29N el voto de los nuevos
-españoles por la «ley de nietos», con
-
-1133
-01:07:50,870 --> 01:07:52,474
+01:07:48,954 --> 01:07:50,558
 ES UNA CITA DE VOX] Auto del Tribunal
 Supremo (septiembre de 2026):
+
+1133
+01:07:50,558 --> 01:07:52,474
+Suspende para el 29N el voto de los nuevos
+españoles por la «ley de nietos», con
 
 1134
 01:07:52,474 --> 01:07:54,366
@@ -5345,13 +5345,13 @@ para la nacionalidad. Asesorar es legal.
 (EL CRONISTA · 17/03/2024)
 
 1142
-01:08:17,769 --> 01:08:20,622
-Detenidos por compra de votos por correo,
-entre ellos los números 2 y 5 de la lista
+01:08:17,769 --> 01:08:19,007
+[INVESTIGADO] Mojácar, mayo de 2023:
 
 1143
-01:08:20,622 --> 01:08:21,860
-[INVESTIGADO] Mojácar, mayo de 2023:
+01:08:19,007 --> 01:08:21,860
+Detenidos por compra de votos por correo,
+entre ellos los números 2 y 5 de la lista
 
 1144
 01:08:21,860 --> 01:08:22,660
@@ -5368,13 +5368,13 @@ También hubo detenidos afines al PP
 en Melilla. El PP ganó en Mojácar.
 
 1147
-01:08:31,149 --> 01:08:35,099
-Un exsecretario general del PSOE local,
-condenado en firme en 2021 por compra de
+01:08:31,149 --> 01:08:31,949
+Melilla:
 
 1148
-01:08:35,099 --> 01:08:35,899
-Melilla:
+01:08:31,544 --> 01:08:35,494
+Un exsecretario general del PSOE local,
+condenado en firme en 2021 por compra de
 
 1149
 01:08:35,494 --> 01:08:39,049
@@ -5386,13 +5386,13 @@ de 2008. (Según Maldita · 22/11/2023)
 — Presidente, ¿CONTRA QUIÉN SE GOBIERNA?
 
 1151
-01:08:43,449 --> 01:08:48,738
-El mismo día en que convoca las elecciones,
-UGT y Comisiones Obreras se suman a una
+01:08:43,449 --> 01:08:44,532
+Cinco de octubre:
 
 1152
-01:08:48,738 --> 01:08:49,821
-Cinco de octubre:
+01:08:44,532 --> 01:08:49,821
+El mismo día en que convoca las elecciones,
+UGT y Comisiones Obreras se suman a una
 
 1153
 01:08:49,821 --> 01:08:54,090
@@ -5409,14 +5409,14 @@ se convoca contra la oposición.
 Una huelga contra la oposición.
 
 1156
-01:09:01,268 --> 01:09:06,553
-Pero es un lenguaje que el presidente ya
-había usado para referirse a una parte de
-
-1157
-01:09:06,553 --> 01:09:10,936
+01:09:01,268 --> 01:09:05,651
 El presidente, en cambio, dijo que
 no era «una huelga contra nadie».
+
+1157
+01:09:05,651 --> 01:09:10,936
+Pero es un lenguaje que el presidente ya
+había usado para referirse a una parte de
 
 1158
 01:09:10,936 --> 01:09:15,319
@@ -5462,23 +5462,23 @@ economía española va como un cohete.
 Ayer mismo…
 
 1167
-01:09:49,811 --> 01:09:54,317
-Su vicepresidenta segunda, Yolanda Díaz,
-le contestó en laSexta, según recogió
-
-1168
-01:09:54,317 --> 01:09:57,321
+01:09:49,811 --> 01:09:52,815
 Pero no todos en su propio
 Gobierno lo vieron igual.
 
+1168
+01:09:52,815 --> 01:09:57,321
+Su vicepresidenta segunda, Yolanda Díaz,
+le contestó en laSexta, según recogió
+
 1169
-01:09:57,321 --> 01:10:01,942
-No es verdad que la economía vaya como
-un cohete cuando el salario mediano es de
+01:09:57,321 --> 01:09:58,121
+Europa Press:
 
 1170
-01:10:01,942 --> 01:10:02,742
-Europa Press:
+01:09:58,072 --> 01:10:02,693
+No es verdad que la economía vaya como
+un cohete cuando el salario mediano es de
 
 1171
 01:10:02,693 --> 01:10:05,292
@@ -5530,13 +5530,13 @@ Un medio millón de viviendas
 a lo largo de estos años.
 
 1181
-01:10:38,455 --> 01:10:43,206
-Según los datos recopilados por Idealista
-y publicados por Artículo Catorce, las
+01:10:38,455 --> 01:10:40,593
+Un millón de viviendas en ocho años.
 
 1182
-01:10:43,206 --> 01:10:45,344
-Un millón de viviendas en ocho años.
+01:10:40,593 --> 01:10:45,344
+Según los datos recopilados por Idealista
+y publicados por Artículo Catorce, las
 
 1183
 01:10:45,344 --> 01:10:49,442
@@ -5837,13 +5837,13 @@ Faltan diez días para
 las elecciones generales.
 
 1248
-01:14:16,443 --> 01:14:21,903
-Y en el bloque dedicado a la corrupción,
-el presidente del Gobierno empieza con dos
+01:14:16,443 --> 01:14:18,942
+Es el único cara a cara de la campaña.
 
 1249
-01:14:21,903 --> 01:14:24,402
-Es el único cara a cara de la campaña.
+01:14:18,942 --> 01:14:24,402
+Y en el bloque dedicado a la corrupción,
+el presidente del Gobierno empieza con dos
 
 1250
 01:14:24,402 --> 01:14:25,202

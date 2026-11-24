@@ -1,0 +1,51 @@
+{
+ "id": "e29n_clips3",
+ "stage": "clips",
+ "rev": 1,
+ "title": "clips3",
+ "units": [],
+ "music": {},
+ "discover": [
+  "Sánchez pide perdón Santos Cerdán",
+  "Sánchez comparecencia Ferraz Cerdán perdón",
+  "Aldama sale de prisión",
+  "Aldama Soto del Real libertad",
+  "Otegi presos presupuestos",
+  "Otegi Eibar presos",
+  "Sánchez dimisión Rajoy Gürtel",
+  "Sánchez exige dimisión Rajoy declaración testigo",
+  "Sánchez quién va a pedir perdón al fiscal general"
+ ],
+ "sources": [
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2024/191224-sanchez-consejo-europeo.aspx",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r8_perdon_fiscal_moncloa",
+     "phrase": "quién va a pedir perdón al fiscal general del estado",
+     "min": 0.5,
+     "pad": [
+      6,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "page": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2024/20241219-sanchez-rueda-prensa-consejo-europeo.aspx",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r8_perdon_fiscal_moncloa_b",
+     "phrase": "quién va a pedir perdón al fiscal general del estado",
+     "min": 0.5,
+     "pad": [
+      6,
+      3
+     ]
+    }
+   ]
+  }
+ ]
+}

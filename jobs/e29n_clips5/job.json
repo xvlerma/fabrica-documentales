@@ -1,0 +1,60 @@
+{
+ "id": "e29n_clips5",
+ "stage": "clips",
+ "rev": 1,
+ "title": "clips5",
+ "units": [],
+ "music": {},
+ "discover": [
+  "De Aldama sale de la cárcel",
+  "De Aldama en libertad pruebas Sánchez",
+  "Aldama sale de Soto del Real"
+ ],
+ "sources": [
+  {
+   "rtve": "6146069",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r8_otegi_presos_presupuestos_rtve_19s",
+     "phrase": "si para sacar a los doscientos presos hay que votar los presupuestos pues votamos",
+     "min": 0.0,
+     "pad": [
+      3,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "rtve": "6146147",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r8_otegi_presos_presupuestos_rtve_44s",
+     "phrase": "si para sacar a los doscientos presos hay que votar los presupuestos pues los votaremos",
+     "min": 0.0,
+     "pad": [
+      3,
+      40
+     ]
+    }
+   ]
+  },
+  {
+   "page": "https://www.rtve.es/noticias/20241121/fiscalia-apoya-aldama-salga-libertad-juez-del-caso-koldo/16341442.shtml",
+   "transcribe": true,
+   "find": [
+    {
+     "name": "r8_aldama_sale_prision_rtve",
+     "phrase": "que no se preocupe el señor sánchez que va a tener pruebas de todo",
+     "min": 0.45,
+     "pad": [
+      4,
+      2.5
+     ]
+    }
+   ]
+  }
+ ]
+}

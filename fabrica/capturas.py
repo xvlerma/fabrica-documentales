@@ -25,7 +25,7 @@ HIDE = """
 MODAL = """
 (() => { let n = 0; const A = innerWidth * innerHeight;
   for (const e of document.querySelectorAll('body *')) { const c = getComputedStyle(e);
-    if (c.position !== 'fixed') continue; const r = e.getBoundingClientRect();
+    if (c.position !== 'fixed' && !(c.position === 'absolute' && parseInt(c.zIndex || '0') >= 50)) continue; const r = e.getBoundingClientRect();
     if (r.width * r.height > 0.12 * A && !(r.top <= 0 && r.height < 220)) { e.style.setProperty('display', 'none', 'important'); n++; } }
   for (const e of document.querySelectorAll('[role=dialog],[aria-modal=true]')) { e.style.setProperty('display', 'none', 'important'); n++; }
   for (const e of [document.documentElement, document.body]) e.style.setProperty('overflow', 'auto', 'important');
@@ -37,12 +37,22 @@ def sh(*a, **k): return subprocess.run(list(a), capture_output=True, text=True, 
 CLICK = """
 (() => { const re = /rechaz|rebutj|reject|deneg|declin|solo (las )?necesarias|sólo (las )?necesarias|continuar sin aceptar/i;
   const no = /pagar|suscri|subscri|config|ajust|prefer|pol[ií]tica|m[aá]s info/i;
-  for (const e of document.querySelectorAll('button, a, input[type=button], input[type=submit], [role=button], span, div')) {
-    const t = ((e.value || '') + ' ' + (e.childElementCount ? '' : (e.textContent || ''))).trim();
+  const all = []; const walk = (root) => { for (const e of root.querySelectorAll('*')) { all.push(e); if (e.shadowRoot) walk(e.shadowRoot); } };
+  walk(document);
+  for (const e of all) {
+    const tag = e.tagName; if (tag === 'SCRIPT' || tag === 'STYLE') continue;
+    const t = ((e.value && typeof e.value === 'string' ? e.value : '') + ' ' + (e.childElementCount ? '' : (e.textContent || ''))).trim();
     if (!t || t.length > 45 || !re.test(t) || no.test(t)) continue;
     const r = e.getBoundingClientRect(); if (r.width < 8 || r.height < 8) continue;
-    e.click(); return t; }
+    const tgt = e.closest('button, a, input, [role=button], [onclick]') || e;
+    for (const ty of ['pointerdown', 'mousedown', 'pointerup', 'mouseup']) tgt.dispatchEvent(new MouseEvent(ty, {bubbles: true, cancelable: true, view: window}));
+    tgt.click(); return t; }
   return ''; })()
+"""
+
+DBG = """
+(() => { const h = document.documentElement.outerHTML; const i = h.search(/Rechazar todas/i);
+  return i < 0 ? 'no-en-html iframes=' + document.querySelectorAll('iframe').length : h.slice(Math.max(0, i - 900), i + 300); })()
 """
 
 WB = """
@@ -102,6 +112,7 @@ def run(job, out_dir):
                             if t and not str(t).startswith('err:'): clicked = 'rechazar-js(' + str(t)[:30] + ')'; break
                             p.wait_for_timeout(1500)
                     p.wait_for_timeout(1500)
+                    if pg.get('dbg'): e['dbg'] = str(ev(cx, p, DBG))[:1400]
                     hid = ev(cx, p, HIDE); p.wait_for_timeout(600)
                     if pg.get('hide'):
                         ev(cx, p, "(() => { let n = 0; for (const e of document.querySelectorAll(%s)) { e.style.setProperty('display', 'none', 'important'); n++; } return n; })()" % json.dumps(pg['hide']))

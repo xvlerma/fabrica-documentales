@@ -1,0 +1,64 @@
+{
+ "id": "e29n_cap5",
+ "stage": "capturas",
+ "rev": 1,
+ "title": "capturas5",
+ "units": [],
+ "music": {},
+ "pages": [
+  {
+   "name": "d01_supremo_melilla",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-pena-de-dos-anos-de-prision-al-presidente-de-Coalicion-por-Melilla-y-al-exsecretario-general-del-PSOE-de-Melilla-por-falsedad-y-dos-delitos-electorales",
+   "modal": true,
+   "dbg": true,
+   "hide": "[id*=\"cookie\" i], [class*=\"cookie\" i], .modal-backdrop, .ui-widget-overlay, [class*=\"overlay\" i]"
+  },
+  {
+   "name": "d02_supremo_ley_nietos_listado",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-da-cinco-dias-a-los-ministros-de-Justicia-y-Exteriores-para-remitir-la-relacion-nominal-de-los-163-020-afectados-por-la-llamada--Ley-de-Nietos-",
+   "modal": true,
+   "dbg": false,
+   "hide": "[id*=\"cookie\" i], [class*=\"cookie\" i], .modal-backdrop, .ui-widget-overlay, [class*=\"overlay\" i]"
+  },
+  {
+   "name": "d20_supremo_indulto_informe",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-informa-desfavorablemente-al-indulto-del-exfiscal-general-del-Estado-Alvaro-Garcia-Ortiz-al-no-apreciar-razones-de-justicia--equidad-o-utilidad-publica",
+   "modal": true,
+   "dbg": false,
+   "hide": "[id*=\"cookie\" i], [class*=\"cookie\" i], .modal-backdrop, .ui-widget-overlay, [class*=\"overlay\" i]"
+  },
+  {
+   "name": "o49_supremo_deniega_cautelares_hijos",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-deniega-las-medidas-cautelares-solicitadas-por-Iustitia-Europa-y-VOX-en-relacion-al-voto-de-hijos-de-personas-nacionalizadas-por-la--Ley-de-Nietos--",
+   "modal": true,
+   "dbg": false,
+   "hide": "[id*=\"cookie\" i], [class*=\"cookie\" i], .modal-backdrop, .ui-widget-overlay, [class*=\"overlay\" i]"
+  },
+  {
+   "name": "o47_supremo_mantiene_exclusion_2011",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-mantiene-la-exclusion-como-electores-de-las-personas-afectadas-por-las-cautelares-dictadas-en-relacion-con-la-llamada--Ley-de-Nietos-",
+   "modal": true,
+   "dbg": false,
+   "hide": "[id*=\"cookie\" i], [class*=\"cookie\" i], .modal-backdrop, .ui-widget-overlay, [class*=\"overlay\" i]"
+  },
+  {
+   "name": "o61_supremo_puigdemont_amnistia",
+   "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-declara-extinguida-la-responsabilidad-penal-de-Carles-Puigdemont-por-la-amnistia-en-la-causa-del--proces-",
+   "modal": true,
+   "dbg": false,
+   "hide": "[id*=\"cookie\" i], [class*=\"cookie\" i], .modal-backdrop, .ui-widget-overlay, [class*=\"overlay\" i]"
+  },
+  {
+   "name": "o52_correos_nota_solicitudes",
+   "url": "https://www.correos.com/en/sala-prensa/correos-ha-admitido-1-099-687-solicitudes-de-voto-por-correo-para-las-elecciones-generales-del-29-n/",
+   "modal": true,
+   "hide": "[id*=\"cookie\" i], [class*=\"cookie\" i]"
+  },
+  {
+   "name": "o52b_correos_plazo_26n",
+   "url": "https://www.correos.com/en/sala-prensa/la-junta-electoral-central-amplia-el-plazo-para-depositar-el-voto-por-correo-hasta-el-jueves-26-de-noviembre-como-maximo-hasta-las-1400-horas/",
+   "modal": true,
+   "hide": "[id*=\"cookie\" i], [class*=\"cookie\" i]"
+  }
+ ]
+}

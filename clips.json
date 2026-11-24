@@ -1,0 +1,54 @@
+[
+ {
+  "rtve": "17327799",
+  "meta": {
+   "title": "Entrevista electoral 29N: Pedro Sánchez, candidato del PSOE",
+   "date": "24-11-2026 10:12:11",
+   "dur": 1726360,
+   "url": "https://www.rtve.es/play/videos/las-mananas-de-rne/entrevista-electoral-29n-pedro-sanchez-candidato-del-psoe/17327799/"
+  },
+  "subs": false
+ },
+ {
+  "name": "r9_sanchez_rne_a_no_aceptaran",
+  "phrase": "el partido popular y vox si no suman no van a aceptar el resultado electoral",
+  "video": "rtve17327799",
+  "url": "https://ztnr.rtve.es/ztnr/17327799.m3u8",
+  "score": 1.0,
+  "t0": 460.91,
+  "t1": 464.95,
+  "page": null,
+  "rtve": "17327799",
+  "ok": true,
+  "ss": 455.91,
+  "dur": 14.04
+ },
+ {
+  "name": "r9_sanchez_rne_b_garantista",
+  "phrase": "tenemos un sistema electoral absolutamente garantista limpio",
+  "video": "rtve17327799",
+  "url": "https://ztnr.rtve.es/ztnr/17327799.m3u8",
+  "score": 0.714,
+  "t0": 424.91,
+  "t1": 428.69,
+  "page": null,
+  "rtve": "17327799",
+  "ok": true,
+  "ss": 419.91,
+  "dur": 13.78
+ },
+ {
+  "name": "r9_sanchez_rne_c_aceptare",
+  "phrase": "yo aceptaré el resultado sea cual sea",
+  "video": "rtve17327799",
+  "url": "https://ztnr.rtve.es/ztnr/17327799.m3u8",
+  "score": 0.429,
+  "t0": 1552.47,
+  "t1": 1554.03,
+  "page": null,
+  "rtve": "17327799",
+  "ok": true,
+  "ss": 1546.47,
+  "dur": 12.56
+ }
+]

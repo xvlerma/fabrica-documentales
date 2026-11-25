@@ -1,0 +1,1460 @@
+[
+{
+"n": 0,
+"t": 0.0,
+"d": 2.32,
+"unit": 1,
+"heard": "Este domingo votan millones de españoles.",
+"spec": {
+"lt": [
+"Congreso de los Diputados",
+"Madrid"
+],
+"commons": "File:España - Madrid - Palacio de las Cortes - Fachada.JPG"
+}
+},
+{
+"n": 1,
+"t": 2.32,
+"d": 1.6,
+"unit": 1,
+"heard": "Imagina que ganas. Eres el",
+"spec": {
+"at": "Imagina que ganas",
+"commons": "File:Congreso de los Diputados, enero de 2015.JPG"
+}
+},
+{
+"n": 2,
+"t": 3.92,
+"d": 6.56,
+"unit": 1,
+"heard": "el más votado de todo el país... y aun así, podrías no gobernar jamás. Suena raro, pero es perfectamente legal.",
+"spec": {
+"at": "Eres el más votado",
+"kw": "GANAS… Y NO GOBIERNAS",
+"commons": "File:Conmemoración del 40 Aniversario de la Constitución Española 05.jpg"
+}
+},
+{
+"n": 3,
+"t": 10.48,
+"d": 7.54,
+"unit": 1,
+"heard": "Y no es teoría: ya ha pasado en España. Y si eso te parece extraño, espera.",
+"spec": {
+"at": "Y no es teoría",
+"commons": "File:Congreso de los Diputados (España) 09.jpg"
+}
+},
+{
+"n": 4,
+"t": 18.02,
+"d": 2.86,
+"unit": 2,
+"heard": "En Suiza no manda un presidente:",
+"spec": {
+"at": "En Suiza",
+"lt": [
+"Palacio Federal",
+"Berna (Suiza)"
+],
+"commons": "File:Bundeshaus Bern 20180827-2.jpg"
+}
+},
+{
+"n": 5,
+"t": 20.88,
+"d": 5.58,
+"unit": 2,
+"heard": "gobiernan siete personas a la vez, y la presidencia cambia de manos cada año.",
+"spec": {
+"at": "gobiernan siete",
+"commons": "File:Bundesrat (Schweiz) im Sitzungszimmer.jpg"
+}
+},
+{
+"n": 6,
+"t": 26.46,
+"d": 3.16,
+"unit": 2,
+"heard": "En Andorra hay dos jefes de Estado.",
+"spec": {
+"at": "En Andorra",
+"lt": [
+"Casa de la Vall",
+"Andorra la Vella"
+],
+"commons": "File:Casa de la Vall. 1580. Andorra 149.jpg"
+}
+},
+{
+"n": 7,
+"t": 29.62,
+"d": 2.14,
+"unit": 2,
+"heard": "Uno es el obispo de Urgell.",
+"spec": {
+"at": "Uno es el obispo",
+"lt": [
+"Catedral de Santa María",
+"La Seu d'Urgell"
+],
+"commons": "File:Claustro da Catedral de La Seu d'Urgell. Cataluña 2014-3.jpg"
+}
+},
+{
+"n": 8,
+"t": 31.76,
+"d": 5.06,
+"unit": 2,
+"heard": "El otro... es el presidente de Francia.",
+"spec": {
+"at": "El otro",
+"lt": [
+"Palacio del Elíseo",
+"París"
+],
+"commons": "File:Palais de l'Élysée 2019.jpg"
+}
+},
+{
+"n": 9,
+"t": 36.82,
+"d": 1.68,
+"unit": 3,
+"heard": "¿Quién manda de verdad en España?",
+"spec": {
+"at": "Quién manda",
+"commons": "File:2019-02-12, La ministra de Hacienda, María Jesús Montero, interviene en el hemiciclo del Congreso, pge03.jpg"
+}
+},
+{
+"n": 10,
+"t": 38.5,
+"d": 1.6,
+"unit": 3,
+"heard": "¿Para qué sirve el rey? ¿Adónde",
+"spec": {
+"at": "Para qué sirve",
+"commons": "File:Madrid May 2014-35a.jpg"
+}
+},
+{
+"n": 11,
+"t": 40.1,
+"d": 1.6,
+"unit": 3,
+"heard": "¿Adónde van tus impuestos? ¿Y cuánto",
+"spec": {
+"at": "Adónde van",
+"commons": "File:Euro coins and banknotes (cropped2).jpg"
+}
+},
+{
+"n": 12,
+"t": 41.7,
+"d": 3.52,
+"unit": 3,
+"heard": "cuánto se decide en Bruselas? Para entender cómo funciona tu país...",
+"spec": {
+"at": "Y cuánto se decide",
+"lt": [
+"Comisión Europea",
+"Bruselas"
+],
+"commons": "File:Belgique - Bruxelles - Schuman - Berlaymont - 01.jpg"
+}
+},
+{
+"n": 13,
+"t": 45.22,
+"d": 3.82,
+"unit": 3,
+"heard": "hay que dar la vuelta al mundo.",
+"spec": {
+"at": "hay que dar la vuelta",
+"commons": "File:Blue-marble-apollo-17-16x9-1.jpg"
+}
+},
+{
+"n": 14,
+"t": 49.05,
+"d": 4.5,
+"unit": 4,
+"heard": "Cómo funciona realmente España.",
+"spec": {
+"card": {
+"type": "title",
+"title": "Cómo funciona realmente España",
+"sub": "Por qué ganar las elecciones no basta"
+},
+"tr": null
+}
+},
+{
+"n": 15,
+"t": 53.55,
+"d": 7.04,
+"unit": 6,
+"heard": "Empecemos por algo que casi nadie sabe.",
+"spec": {
+"card": {
+"type": "title",
+"title": "GANAS Y NO GOBIERNAS",
+"sub": "Capítulo 1",
+"n": "1"
+},
+"tr": null
+}
+},
+{
+"n": 16,
+"t": 60.59,
+"d": 2.58,
+"unit": 7,
+"heard": "El domingo no vas a votar al presidente del Gobierno.",
+"spec": {
+"at": "El domingo no vas",
+"lt": [
+"Palacio de la Moncloa",
+"Madrid"
+],
+"commons": "File:Fachada Moncloa.png"
+}
+},
+{
+"n": 17,
+"t": 63.17,
+"d": 2.44,
+"unit": 7,
+"heard": "Su nombre ni siquiera aparece en tu papeleta.",
+"spec": {
+"at": "Su nombre ni siquiera",
+"commons": "File:Cantabria Papeleta Elecciones Generales 2015 Congreso Sobre.png"
+}
+},
+{
+"n": 18,
+"t": 65.61,
+"d": 2.9,
+"unit": 7,
+"heard": "Lo que eliges es una lista de diputados de tu provincia.",
+"spec": {
+"at": "Lo que eliges",
+"commons": "File:Papeletas electorales Cortes Generales 2015 Cádiz.jpg"
+}
+},
+{
+"n": 19,
+"t": 68.51,
+"d": 5.63,
+"unit": 7,
+"heard": "Trescientos cincuenta en total, que se sientan en el Congreso.",
+"spec": {
+"at": "Trescientos cincuenta",
+"commons": "File:Madrid - Hemiciclo del Congreso - 141203 100648.jpg"
+}
+},
+{
+"n": 20,
+"t": 74.14,
+"d": 17.61,
+"unit": 8,
+"heard": "Y son ellos quienes eligen al presidente. Para ganar a la primera, el candidato necesita la mayoría absoluta: ciento setenta y seis votos, la mitad más uno. Si no la consigue, dos días después hay una segunda votación, y entonces le basta con tener más síes que noes.",
+"spec": {
+"file": "media/comoespana/anim/Hemiciclo.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Y son ellos"
+}
+},
+{
+"n": 21,
+"t": 91.75,
+"d": 14.25,
+"unit": 9,
+"heard": "Artículo noventa y nueve de la Constitución: «El candidato propuesto expondrá ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicitará la confianza de la Cámara».",
+"spec": {
+"card": {
+"type": "quote",
+"text": "El candidato propuesto expondrá ante el Congreso de los Diputados el programa político del Gobierno que pretenda formar y solicitará la confianza de la Cámara",
+"attrib": "Constitución española · artículo 99.2"
+}
+}
+},
+{
+"n": 22,
+"t": 106.0,
+"d": 7.62,
+"unit": 10,
+"heard": "Por eso el más votado puede quedarse fuera: si otros partidos suman más escaños y se ponen de acuerdo, el Gobierno es suyo.",
+"spec": {
+"file": "media/comoespana/anim/Suma.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Por eso el más votado"
+}
+},
+{
+"n": 23,
+"t": 113.62,
+"d": 14.21,
+"unit": 10,
+"heard": "Y si pasan dos meses sin que nadie lo consiga, se repiten las elecciones. Ocurrió en dos mil dieciséis... y otra vez en dos mil diecinueve. Pero, ¿cómo se convierten tus votos en escaños? Aquí entra en escena",
+"spec": {
+"file": "media/comoespana/anim/Repeticion.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Y si pasan"
+}
+},
+{
+"n": 24,
+"t": 127.83,
+"d": 3.34,
+"unit": 11,
+"heard": "un jurista belga del siglo diecinueve: Victor D'Hondt.",
+"spec": {
+"at": "un jurista belga",
+"lt": [
+"Victor D'Hondt",
+"jurista belga (1841-1901)"
+],
+"commons": "File:Victor D'Hondt (1841-1901) .jpg"
+}
+},
+{
+"n": 25,
+"t": 131.17,
+"d": 21.57,
+"unit": 11,
+"heard": "Imagina una provincia con cinco escaños y cinco partidos. El partido A saca cuarenta mil votos; el B, treinta mil; el C, dieciocho mil; el D, nueve mil; y el E, dos mil quinientos. Primera regla: quien no llega al tres por ciento de los votos de la provincia, se queda fuera. Adiós, partido E.",
+"spec": {
+"file": "media/comoespana/anim/DhondtVotos.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Imagina una provincia"
+}
+},
+{
+"n": 26,
+"t": 152.74,
+"d": 27.92,
+"unit": 12,
+"heard": "Ahora, los votos de cada partido se dividen entre uno, entre dos, entre tres... y los cinco números más altos se llevan los escaños. Cuarenta mil: escaño para A. Treinta mil: para B. Veinte mil, que es A entre dos: segundo escaño para A. Dieciocho mil: para C. Y quince mil: segundo para B. Resultado: dos, dos y uno. ¿Y el partido D, con casi uno de cada diez votos? Cero.",
+"spec": {
+"file": "media/comoespana/anim/DhondtTabla.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Ahora"
+}
+},
+{
+"n": 27,
+"t": 180.66,
+"d": 26.87,
+"unit": 13,
+"heard": "Y aquí viene lo sorprendente. Cada provincia tiene al menos dos diputados, sea grande o pequeña, y el resto se reparte por población. Soria, con unos noventa mil habitantes, elige dos: uno por cada cuarenta y cinco mil personas. Madrid, con más de siete millones, elige treinta y ocho: uno por cada ciento ochenta y ocho mil. Un escaño de Soria representa a cuatro veces menos gente que uno de Madrid.",
+"spec": {
+"file": "media/comoespana/anim/SoriaMadrid.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Y aquí viene"
+}
+},
+{
+"n": 28,
+"t": 207.52,
+"d": 7.5,
+"unit": 14,
+"heard": "",
+"spec": {
+"lt": [
+"Soria",
+"Castilla y León"
+],
+"commons": "File:Ermita de San Saturio, Soria, España, 2017-05-26, DD 32.jpg"
+}
+},
+{
+"n": 29,
+"t": 215.02,
+"d": 5.06,
+"unit": 15,
+"heard": "Ahora, otro país. En el Reino Unido no hay listas.",
+"spec": {
+"at": "Ahora, otro país",
+"lt": [
+"Palacio de Westminster",
+"Londres"
+],
+"commons": "File:At London 2025 566 - Westminster Bridge with Palace of Westminster .jpg"
+}
+},
+{
+"n": 30,
+"t": 220.08,
+"d": 23.32,
+"unit": 15,
+"heard": "El país se divide en seiscientos cincuenta distritos, y en cada uno gana un solo diputado: el que tenga más votos, aunque sea por uno. Los demás votos de ese distrito no se traducen en nada. En dos mil veinticuatro, los laboristas lograron casi dos de cada tres escaños con apenas un tercio de los votos.",
+"spec": {
+"file": "media/comoespana/anim/Mayoritario.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "El país se divide"
+}
+},
+{
+"n": 31,
+"t": 243.4,
+"d": 4.86,
+"unit": 16,
+"heard": "Francia lo hace en dos vueltas. Si nadie arrasa en la primera,",
+"spec": {
+"at": "Francia",
+"lt": [
+"Asamblea Nacional",
+"París"
+],
+"commons": "File:Palais Bourbon, Paris 7e, NW View 140402 1.jpg"
+}
+},
+{
+"n": 32,
+"t": 248.26,
+"d": 9.64,
+"unit": 16,
+"heard": "una semana después se vota otra vez, solo entre los candidatos más votados, y los partidos negocian quién se retira.",
+"spec": {
+"at": "una semana después",
+"commons": "File:Urne électorale J3.jpg"
+}
+},
+{
+"n": 33,
+"t": 257.9,
+"d": 5.96,
+"unit": 16,
+"heard": "Puedes quedar segundo el primer domingo... y ganar el siguiente.",
+"spec": {
+"at": "Puedes quedar segundo",
+"commons": "File:Assemblée nationale-2 (46824158164).jpg"
+}
+},
+{
+"n": 34,
+"t": 263.87,
+"d": 15.91,
+"unit": 17,
+"heard": "Mira lo que ocurre con exactamente los mismos votos en los tres sistemas. El reparto de escaños cambia por completo. El sistema electoral no es un detalle técnico: puede decidir quién gobierna.",
+"spec": {
+"file": "media/comoespana/anim/TresSistemas.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Mira lo que ocurre"
+}
+},
+{
+"n": 35,
+"t": 279.77,
+"d": 2.32,
+"unit": 18,
+"heard": "Y luego está Estados Unidos.",
+"spec": {
+"at": "Y luego está",
+"lt": [
+"Capitolio",
+"Washington D. C."
+],
+"commons": "File:United States Capitol west front edit2 (bannerportada esvoy).jpg"
+}
+},
+{
+"n": 36,
+"t": 282.09,
+"d": 29.93,
+"unit": 18,
+"heard": "Allí, al presidente no lo eligen directamente los ciudadanos, sino quinientos treinta y ocho electores. Cada estado tiene los suyos y, en casi todos, quien gana el estado se los lleva todos. Hacen falta doscientos setenta. En dos mil dieciséis, Hillary Clinton sacó casi tres millones de votos más que Donald Trump... y perdió. Ha pasado cinco veces en su historia.",
+"spec": {
+"file": "media/comoespana/anim/ColegioElectoral.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Allí, al presidente"
+}
+},
+{
+"n": 37,
+"t": 312.02,
+"d": 7.5,
+"unit": 19,
+"heard": "",
+"spec": {
+"lt": [
+"Washington D. C.",
+"EE. UU."
+],
+"commons": "File:Lincoln Memorial Reflecting Pool With The Washington Monument.jpg"
+}
+},
+{
+"n": 38,
+"t": 319.52,
+"d": 6.84,
+"unit": 20,
+"heard": "Así que tu voto no elige directamente a quien manda. Pero entonces, en España... ¿quién manda de verdad? ¿El presidente...",
+"spec": {
+"at": "Así que tu voto",
+"commons": "File:Glass ballot box - Smithsonian.jpg"
+}
+},
+{
+"n": 39,
+"t": 326.36,
+"d": 3.6,
+"unit": 20,
+"heard": "o el rey?",
+"spec": {
+"at": "o el rey",
+"lt": [
+"Palacio Real",
+"Madrid"
+],
+"commons": "File:Palacio Real (Madrid) 05.jpg"
+}
+},
+{
+"n": 40,
+"t": 329.96,
+"d": 5.0,
+"unit": 22,
+"heard": "",
+"spec": {
+"card": {
+"type": "title",
+"title": "¿QUIÉN MANDA: EL REY O EL PRESIDENTE?",
+"sub": "Capítulo 2",
+"n": "2"
+},
+"tr": null
+}
+},
+{
+"n": 41,
+"t": 334.96,
+"d": 8.33,
+"unit": 23,
+"heard": "Artículo uno, apartado tres: «La forma política del Estado español es la Monarquía parlamentaria».",
+"spec": {
+"card": {
+"type": "quote",
+"text": "La forma política del Estado español es la Monarquía parlamentaria",
+"attrib": "Constitución española · artículo 1.3"
+}
+}
+},
+{
+"n": 42,
+"t": 343.29,
+"d": 25.95,
+"unit": 24,
+"heard": "Traducido: en España hay dos cargos distintos. El jefe del Estado, que es el rey: representa al país, sanciona las leyes y, tras hablar con los partidos, propone un candidato a presidente. Y el jefe del Gobierno, que es quien gobierna. El rey reina, pero no gobierna. Sus actos necesitan la firma de otro, del presidente o de un ministro, que es quien responde por ellos. Se llama refrendo.",
+"spec": {
+"file": "media/comoespana/anim/OrganigramaEspana.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Traducido"
+}
+},
+{
+"n": 43,
+"t": 369.24,
+"d": 34.69,
+"unit": 25,
+"heard": "En otros países, estos papeles se reparten de otra forma. En Estados Unidos, el presidente es a la vez jefe del Estado y jefe del Gobierno. En Francia, el poder se comparte entre un presidente elegido por los ciudadanos, con mucho poder, y un primer ministro. En Alemania, el presidente tiene un papel casi ceremonial y quien gobierna es el canciller. Y en Suiza, el jefe del Estado no es una persona: son los siete miembros del Consejo Federal, juntos.",
+"spec": {
+"file": "media/comoespana/anim/Comparativa.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "En otros países"
+}
+},
+{
+"n": 44,
+"t": 403.93,
+"d": 19.0,
+"unit": 26,
+"heard": "Las monarquías tampoco son todas iguales. Hay reyes que reinan, como los de España, Suecia o el Reino Unido. Y hay reyes que gobiernan: en Arabia Saudí, el rey concentra todo el poder del Estado, y no existe un parlamento elegido por los ciudadanos.",
+"spec": {
+"file": "media/comoespana/anim/Monarquias.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Las monarquías"
+}
+},
+{
+"n": 45,
+"t": 422.93,
+"d": 18.64,
+"unit": 27,
+"heard": "Y aquí va una curiosidad. El rey del Reino Unido no es solo rey del Reino Unido. También es rey de Canadá, de Australia, de Nueva Zelanda, de Jamaica... En total, de quince países independientes, cada uno con su propio gobierno.",
+"spec": {
+"file": "media/comoespana/anim/Reinos.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Y aquí va"
+}
+},
+{
+"n": 46,
+"t": 441.57,
+"d": 7.5,
+"unit": 28,
+"heard": "",
+"spec": {
+"lt": [
+"Parlamento de Canadá",
+"Ottawa"
+],
+"commons": "File:Parliament Hill from the Ottawa River.JPG"
+}
+},
+{
+"n": 47,
+"t": 449.07,
+"d": 7.3,
+"unit": 29,
+"heard": "Ahora bien: si el rey no gobierna y el presidente sí... ¿quién le pone límites a quien gobierna?",
+"spec": {
+"at": "Ahora bien",
+"commons": "File:Constitucion espanola 1978.JPG"
+}
+},
+{
+"n": 48,
+"t": 456.37,
+"d": 5.0,
+"unit": 31,
+"heard": "",
+"spec": {
+"card": {
+"type": "title",
+"title": "LAS REGLAS DEL JUEGO",
+"sub": "Capítulo 3",
+"n": "3"
+},
+"tr": null
+}
+},
+{
+"n": 49,
+"t": 461.37,
+"d": 20.75,
+"unit": 32,
+"heard": "Las reglas están en la Constitución. Se aprobó en referéndum el seis de diciembre de mil novecientos setenta y ocho, y tiene ciento sesenta y nueve artículos. Lo curioso es lo poco que ha cambiado: en casi cuarenta y ocho años, solo cuatro reformas. La última, este mismo año, para que Formentera elija su propio senador.",
+"spec": {
+"file": "media/comoespana/anim/Reformas.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Las reglas"
+}
+},
+{
+"n": 50,
+"t": 482.13,
+"d": 5.42,
+"unit": 33,
+"heard": "El Reino Unido, en cambio, ni siquiera tiene una Constitución escrita en un solo texto.",
+"spec": {
+"at": "El Reino Unido",
+"lt": [
+"Parlamento británico",
+"Londres"
+],
+"commons": "File:London , Lambeth - River Thames ^ Houses of Parliament - geograph.org.uk - 2410501.jpg"
+}
+},
+{
+"n": 51,
+"t": 487.55,
+"d": 5.26,
+"unit": 33,
+"heard": "Sus reglas están repartidas en leyes, sentencias y costumbres de siglos.",
+"spec": {
+"at": "Sus reglas",
+"lt": [
+"Carta Magna (1215)",
+"British Library"
+],
+"commons": "File:1215-magna-carta-detail-an-embroidery-cornelia-parker-british-library.jpg"
+}
+},
+{
+"n": 52,
+"t": 492.81,
+"d": 3.96,
+"unit": 33,
+"heard": "Nueva Zelanda, tampoco.",
+"spec": {
+"at": "Nueva Zelanda",
+"lt": [
+"Parlamento",
+"Wellington (Nueva Zelanda)"
+],
+"commons": "File:Beehive and Parliament House - Wellington - New Zealand - DSC00165.jpg"
+}
+},
+{
+"n": 53,
+"t": 496.77,
+"d": 2.0,
+"unit": 34,
+"heard": "¿Y quién vigila que nadie se la salte?",
+"spec": {
+"at": "Y quién vigila",
+"lt": [
+"Tribunal Supremo",
+"Madrid"
+],
+"commons": "File:Fachada - Tribunal Supremo de Espana - Madrid 05.jpg"
+}
+},
+{
+"n": 54,
+"t": 498.77,
+"d": 25.51,
+"unit": 34,
+"heard": "En España hay dos tribunales que se confunden a menudo. El Tribunal Supremo está en la cima de los jueces: juzga delitos, pleitos y recursos. El Tribunal Constitucional no juzga a personas: decide si una ley choca con la Constitución y protege los derechos fundamentales. Tiene doce magistrados, propuestos por el Congreso, el Senado, el Gobierno y el Consejo General del Poder Judicial.",
+"spec": {
+"file": "media/comoespana/anim/Tribunales.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "En España hay dos"
+}
+},
+{
+"n": 55,
+"t": 524.28,
+"d": 7.5,
+"unit": 35,
+"heard": "",
+"spec": {
+"lt": [
+"Tribunal Constitucional",
+"Madrid"
+],
+"commons": "File:Exterior - Tribunal Constitucional - Madrid 01.jpg"
+}
+},
+{
+"n": 56,
+"t": 531.78,
+"d": 9.36,
+"unit": 36,
+"heard": "Y en Estados Unidos pasa algo que aquí sería impensable: en treinta y ocho estados, los jueces del tribunal supremo estatal pasan por las urnas.",
+"spec": {
+"at": "Y en Estados Unidos",
+"lt": [
+"Tribunal Supremo de Wisconsin",
+"EE. UU."
+],
+"commons": "File:Wisconsin Supreme Court.jpg"
+}
+},
+{
+"n": 57,
+"t": 541.14,
+"d": 7.46,
+"unit": 36,
+"heard": "Hacen campaña, recaudan donaciones... y algunos hasta salen en anuncios de televisión.",
+"spec": {
+"at": "Hacen campaña",
+"commons": "File:SI-CampaignSigns.JPG"
+}
+},
+{
+"n": 58,
+"t": 548.61,
+"d": 7.5,
+"unit": 37,
+"heard": "",
+"spec": {
+"lt": [
+"Tribunal Supremo",
+"Washington D. C."
+],
+"commons": "File:Panorama of United States Supreme Court Building at Dusk.jpg"
+}
+},
+{
+"n": 59,
+"t": 556.11,
+"d": 7.31,
+"unit": 38,
+"heard": "Pero, ¿qué pasa si el Congreso quiere echar al presidente a mitad de mandato? ¿Se puede?",
+"spec": {
+"at": "Pero",
+"commons": "File:Madrid - Hemiciclo del Congreso - 141203 100858.jpg"
+}
+},
+{
+"n": 60,
+"t": 563.41,
+"d": 5.0,
+"unit": 40,
+"heard": "",
+"spec": {
+"card": {
+"type": "title",
+"title": "CÓMO ECHAR A UN PRESIDENTE",
+"sub": "Capítulo 4",
+"n": "4"
+},
+"tr": null
+}
+},
+{
+"n": 61,
+"t": 568.41,
+"d": 23.28,
+"unit": 41,
+"heard": "Se puede. Se llama moción de censura, y tiene un truco: no basta con estar en contra. Hay que proponer a otro candidato, y que ese candidato consiga la mayoría absoluta, ciento setenta y seis votos. Si lo logra, se convierte en presidente en ese mismo momento. En democracia ha habido seis mociones de censura. Solo una salió adelante, en dos mil dieciocho.",
+"spec": {
+"file": "media/comoespana/anim/Mocion.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Se puede"
+}
+},
+{
+"n": 62,
+"t": 591.7,
+"d": 17.9,
+"unit": 42,
+"heard": "En Estados Unidos, el camino se llama impeachment. La Cámara de Representantes acusa y el Senado juzga, y para destituir hacen falta dos tercios de los senadores. Cuatro veces se ha juzgado así a un presidente. Ninguno fue destituido.",
+"spec": {
+"file": "media/comoespana/anim/Impeachment.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "En Estados Unidos"
+}
+},
+{
+"n": 63,
+"t": 609.6,
+"d": 7.06,
+"unit": 43,
+"heard": "En Corea del Sur, en cambio, la última palabra la tiene el Tribunal Constitucional, y ya lo ha hecho dos veces:",
+"spec": {
+"at": "En Corea del Sur",
+"lt": [
+"Tribunal Constitucional",
+"Seúl (Corea del Sur)"
+],
+"commons": "File:Constitutional Court of Korea building.jpg"
+}
+},
+{
+"n": 64,
+"t": 616.66,
+"d": 2.86,
+"unit": 43,
+"heard": "destituyó a Park Geun-hye en dos mil diecisiete",
+"spec": {
+"at": "destituyó a Park",
+"lt": [
+"Protestas de 2016-2017",
+"Seúl"
+],
+"commons": "File:Korea Candlelight Protest 05.jpg"
+}
+},
+{
+"n": 65,
+"t": 619.52,
+"d": 8.1,
+"unit": 43,
+"heard": "y a Yoon Suk Yeol en dos mil veinticinco, después de que declarara la ley marcial.",
+"spec": {
+"at": "y a Yoon",
+"commons": "File:South Korean soldiers waiting to leave the National Assembly.png"
+}
+},
+{
+"n": 66,
+"t": 627.62,
+"d": 7.5,
+"unit": 44,
+"heard": "",
+"spec": {
+"lt": [
+"Plaza de Gwanghwamun",
+"Seúl"
+],
+"commons": "File:Gwanghwamun Square 20220806 06.jpg"
+}
+},
+{
+"n": 67,
+"t": 635.12,
+"d": 7.16,
+"unit": 45,
+"heard": "Hasta aquí, el poder central. Pero en España hay muchos más gobiernos de los que crees.",
+"spec": {
+"at": "Hasta aquí",
+"commons": "File:Valladolid cortes castilla leon 07 lou.jpg"
+}
+},
+{
+"n": 68,
+"t": 642.29,
+"d": 5.0,
+"unit": 47,
+"heard": "",
+"spec": {
+"card": {
+"type": "title",
+"title": "UN PAÍS DENTRO DE OTRO PAÍS",
+"sub": "Capítulo 5",
+"n": "5"
+},
+"tr": null
+}
+},
+{
+"n": 69,
+"t": 647.29,
+"d": 26.53,
+"unit": 48,
+"heard": "Diecisiete comunidades autónomas, más Ceuta y Melilla, cada una con sus propias instituciones. Las comunidades gestionan buena parte de lo que más usas: hospitales, colegios, servicios sociales. Por eso tu centro de salud no depende del Gobierno central, sino de tu comunidad. Y el País Vasco y Navarra van más allá: recaudan casi todos sus impuestos y pagan al Estado una cantidad pactada.",
+"spec": {
+"file": "media/comoespana/anim/Autonomias.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Diecisiete"
+}
+},
+{
+"n": 70,
+"t": 673.82,
+"d": 23.84,
+"unit": 49,
+"heard": "En la Constitución, España no se define como un Estado federal, aunque en muchas cosas se le parece. Alemania sí lo es: dieciséis estados, los länder, con tanto peso que participan en buena parte de las leyes federales. Estados Unidos tiene cincuenta estados, que deciden hasta si aplican la pena de muerte. Y Suiza tiene veintiséis cantones,",
+"spec": {
+"file": "media/comoespana/anim/Federales.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "En la Constitución"
+}
+},
+{
+"n": 71,
+"t": 697.66,
+"d": 6.29,
+"unit": 49,
+"heard": "y sus ciudadanos votan en referéndum varias veces al año.",
+"spec": {
+"at": "y sus ciudadanos votan",
+"lt": [
+"Landsgemeinde",
+"Glaris (Suiza)"
+],
+"commons": "File:Landsgemeinde Glarus, 2009.jpg"
+}
+},
+{
+"n": 72,
+"t": 703.95,
+"d": 7.5,
+"unit": 50,
+"heard": "",
+"spec": {
+"lt": [
+"Berna",
+"Suiza"
+],
+"commons": "File:1 bern 2012b.jpg"
+}
+},
+{
+"n": 73,
+"t": 711.45,
+"d": 7.54,
+"unit": 51,
+"heard": "Y todo eso, hospitales, colegios, pensiones, hay que pagarlo. ¿Con qué? Con tu dinero.",
+"spec": {
+"at": "Y todo eso",
+"commons": "File:Euro coins and banknotes.jpg"
+}
+},
+{
+"n": 74,
+"t": 718.99,
+"d": 5.0,
+"unit": 53,
+"heard": "",
+"spec": {
+"card": {
+"type": "title",
+"title": "¿ADÓNDE VAN TUS CIEN EUROS?",
+"sub": "Capítulo 6",
+"n": "6"
+},
+"tr": null
+}
+},
+{
+"n": 75,
+"t": 723.99,
+"d": 33.65,
+"unit": 54,
+"heard": "Imagina que todo lo que gastan las administraciones públicas fueran cien euros. Con los últimos datos completos de Hacienda, los de dos mil veinticuatro: cuarenta y uno van a protección social, sobre todo pensiones, pero también desempleo y otras ayudas. Catorce, a sanidad. Trece, a servicios generales, donde están los intereses de la deuda. Once, a asuntos económicos: carreteras, transporte, apoyo a empresas. Nueve, a educación. Cuatro, a seguridad y justicia. Y el resto, a cultura, medio ambiente, defensa y vivienda.",
+"spec": {
+"file": "media/comoespana/anim/Cien.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Imagina"
+}
+},
+{
+"n": 76,
+"t": 757.63,
+"d": 9.55,
+"unit": 55,
+"heard": "Fíjate en un detalle: solo en intereses de la deuda se van más de cinco euros de cada cien. Más que en defensa y medio ambiente juntos.",
+"spec": {
+"file": "media/comoespana/anim/Intereses.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Fíjate"
+}
+},
+{
+"n": 77,
+"t": 767.18,
+"d": 28.44,
+"unit": 56,
+"heard": "Porque las administraciones españolas deben alrededor de un billón setecientos cincuenta mil millones de euros: más o menos todo lo que produce el país en un año. ¿A quién se lo debemos? Casi la mitad de la deuda del Estado está en manos de inversores extranjeros. El segundo gran acreedor es el propio sistema del euro, a través del Banco de España. Y el resto, bancos, aseguradoras, fondos... y ciudadanos que compran letras del Tesoro.",
+"spec": {
+"file": "media/comoespana/anim/Deuda.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Porque las administraciones"
+}
+},
+{
+"n": 78,
+"t": 795.62,
+"d": 23.92,
+"unit": 57,
+"heard": "¿Pagamos mucho o poco? Depende de con quién te compares. En España, impuestos y cotizaciones suman cerca del treinta y siete por ciento de todo lo que produce el país. En Dinamarca, más del cuarenta y cinco: el récord de la OCDE. Y en países del golfo Pérsico, como Emiratos o Arabia Saudí, no hay impuesto sobre la renta:",
+"spec": {
+"file": "media/comoespana/anim/PresionFiscal.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Pagamos"
+}
+},
+{
+"n": 79,
+"t": 819.54,
+"d": 5.09,
+"unit": 57,
+"heard": "el Estado vive, sobre todo, del petróleo y del gas.",
+"spec": {
+"at": "el Estado vive",
+"lt": [
+"Dubái",
+"Emiratos Árabes Unidos"
+],
+"commons": "File:Dubai Skyline mit Burj Khalifa (cropped).jpg"
+}
+},
+{
+"n": 80,
+"t": 824.63,
+"d": 7.5,
+"unit": 58,
+"heard": "",
+"spec": {
+"lt": [
+"Copenhague",
+"Dinamarca"
+],
+"commons": "File:Nyhavn, Copenhagen, 20220618 1725 7350.jpg"
+}
+},
+{
+"n": 81,
+"t": 832.13,
+"d": 7.5,
+"unit": 59,
+"heard": "Pero hay decisiones que ni siquiera se toman en Madrid. Se toman a más de mil trescientos kilómetros.",
+"spec": {
+"at": "Pero hay decisiones",
+"lt": [
+"Comisión Europea",
+"Bruselas"
+],
+"commons": "File:Berlaymont building in Brussels.jpg"
+}
+},
+{
+"n": 82,
+"t": 839.63,
+"d": 5.0,
+"unit": 61,
+"heard": "",
+"spec": {
+"card": {
+"type": "title",
+"title": "¿CUÁNTO MANDA BRUSELAS?",
+"sub": "Capítulo 7",
+"n": "7"
+},
+"tr": null
+}
+},
+{
+"n": 83,
+"t": 844.63,
+"d": 29.14,
+"unit": 62,
+"heard": "En la Unión Europea, España comparte parte de sus decisiones con otros veintiséis países. Algunas normas europeas, los reglamentos, se aplican directamente en toda la Unión, sin que el Congreso tenga que votarlas. Otras, las directivas, fijan un objetivo y obligan a cada país a adaptar sus leyes. Y si una ley española choca con el derecho europeo en un asunto que es de la Unión, prevalece el europeo.",
+"spec": {
+"file": "media/comoespana/anim/UnionEuropea.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "En la Unión"
+}
+},
+{
+"n": 84,
+"t": 873.77,
+"d": 7.5,
+"unit": 63,
+"heard": "",
+"spec": {
+"lt": [
+"Parlamento Europeo",
+"Estrasburgo"
+],
+"commons": "File:European Parliament hemicycle Strasbourg (cropped).jpg"
+}
+},
+{
+"n": 85,
+"t": 881.27,
+"d": 13.12,
+"unit": 64,
+"heard": "El euro lo usan ya veintiún países, desde que Bulgaria se sumó en enero. Por eso los tipos de interés, los que encarecen o abaratan tu hipoteca, no se deciden en Madrid, sino en Fráncfort,",
+"spec": {
+"file": "media/comoespana/anim/Euro.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "El euro"
+}
+},
+{
+"n": 86,
+"t": 894.39,
+"d": 4.07,
+"unit": 64,
+"heard": "en el Banco Central Europeo.",
+"spec": {
+"at": "en el Banco Central",
+"lt": [
+"Banco Central Europeo",
+"Fráncfort"
+],
+"commons": "File:Frankfurt am Main, Seat of the European Central Bank (Skytower (ECB)).jpg"
+}
+},
+{
+"n": 87,
+"t": 898.46,
+"d": 29.26,
+"unit": 65,
+"heard": "Salir es posible: el Reino Unido lo hizo. El Brexit se consumó el treinta y uno de enero de dos mil veinte, más de tres años y medio después del referéndum. Y por encima de todo está la ONU: en su Consejo de Seguridad, cinco países, Estados Unidos, China, Rusia, Reino Unido y Francia, pueden tumbar una resolución con un solo voto en contra. España, no.",
+"spec": {
+"file": "media/comoespana/anim/BrexitONU.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Salir es posible"
+}
+},
+{
+"n": 88,
+"t": 927.73,
+"d": 7.5,
+"unit": 66,
+"heard": "",
+"spec": {
+"lt": [
+"Consejo de Seguridad",
+"Nueva York"
+],
+"commons": "File:United Nations Security Council 4-3-crop.jpeg"
+}
+},
+{
+"n": 89,
+"t": 935.23,
+"d": 8.14,
+"unit": 67,
+"heard": "Hasta ahora, sistemas más o menos parecidos. Pero en el mundo hay países con reglas que parecen inventadas.",
+"spec": {
+"at": "Hasta ahora",
+"commons": "File:United Nations General Assembly 2024.jpg"
+}
+},
+{
+"n": 90,
+"t": 943.37,
+"d": 5.0,
+"unit": 69,
+"heard": "",
+"spec": {
+"card": {
+"type": "title",
+"title": "LOS GOBIERNOS MÁS RAROS DEL MUNDO",
+"sub": "Capítulo 8",
+"n": "8"
+},
+"tr": null
+}
+},
+{
+"n": 91,
+"t": 948.37,
+"d": 4.98,
+"unit": 70,
+"heard": "San Marino tiene dos jefes de Estado a la vez, los capitanes regentes.",
+"spec": {
+"at": "San Marino",
+"lt": [
+"Guaita",
+"San Marino"
+],
+"commons": "File:Fortress of Guaita - First Tower (San Marino).jpg"
+}
+},
+{
+"n": 92,
+"t": 953.35,
+"d": 9.06,
+"unit": 70,
+"heard": "Y los cambia cada seis meses: el uno de abril y el uno de octubre. Lo hace desde la Edad Media.",
+"spec": {
+"file": "media/comoespana/anim/FichaSanMarino.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Y los cambia"
+}
+},
+{
+"n": 93,
+"t": 962.41,
+"d": 2.8,
+"unit": 71,
+"heard": "En Malasia, el rey se elige.",
+"spec": {
+"at": "En Malasia",
+"lt": [
+"Istana Negara",
+"Kuala Lumpur"
+],
+"commons": "File:Kuala Lumpur Malaysia-Istana Negara-Jalan-Duta-03.jpg"
+}
+},
+{
+"n": 94,
+"t": 965.21,
+"d": 10.1,
+"unit": 71,
+"heard": "Nueve sultanes, cada uno soberano de su propio estado, eligen entre ellos a uno para cinco años, y el trono va rotando.",
+"spec": {
+"file": "media/comoespana/anim/FichaMalasia.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Nueve sultanes"
+}
+},
+{
+"n": 95,
+"t": 975.31,
+"d": 5.82,
+"unit": 72,
+"heard": "El Vaticano es una monarquía absoluta... y electiva: su soberano es el papa,",
+"spec": {
+"at": "El Vaticano",
+"lt": [
+"Plaza de San Pedro",
+"Ciudad del Vaticano"
+],
+"commons": "File:St Peter's Square, Vatican City - April 2007.jpg"
+}
+},
+{
+"n": 96,
+"t": 981.13,
+"d": 4.39,
+"unit": 72,
+"heard": "elegido por los cardenales en el cónclave.",
+"spec": {
+"at": "elegido por los cardenales",
+"lt": [
+"Capilla Sixtina",
+"lugar del cónclave"
+],
+"commons": "File:Roma - interno della Cappella Sistina - Anderson. LCCN91783894.jpg"
+}
+},
+{
+"n": 97,
+"t": 985.52,
+"d": 5.92,
+"unit": 73,
+"heard": "En Liechtenstein, el príncipe puede vetar leyes y destituir al Gobierno.",
+"spec": {
+"at": "En Liechtenstein",
+"lt": [
+"Castillo de Vaduz",
+"Liechtenstein"
+],
+"commons": "File:Schloss Vaduz (2009).jpg"
+}
+},
+{
+"n": 98,
+"t": 991.44,
+"d": 11.84,
+"unit": 73,
+"heard": "Y lo más curioso: esos poderes los amplió un referéndum, en dos mil tres. En dos mil doce, los votantes se negaron a recortárselos.",
+"spec": {
+"file": "media/comoespana/anim/FichaLiechtenstein.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Y lo más curioso"
+}
+},
+{
+"n": 99,
+"t": 1003.28,
+"d": 6.16,
+"unit": 74,
+"heard": "Y en Bután, en el Himalaya, fue la propia monarquía la que llevó al país a la democracia.",
+"spec": {
+"at": "Y en Bután",
+"lt": [
+"Punakha Dzong",
+"Bután"
+],
+"commons": "File:Punakha Dzong, Bhutan 02.jpg"
+}
+},
+{
+"n": 100,
+"t": 1009.44,
+"d": 11.77,
+"unit": 74,
+"heard": "Su Constitución, de dos mil ocho, obliga al rey a retirarse a los sesenta y cinco años. Y el país presume de medir su éxito con la Felicidad Nacional Bruta.",
+"spec": {
+"file": "media/comoespana/anim/FichaButan.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Su Constitución"
+}
+},
+{
+"n": 101,
+"t": 1021.21,
+"d": 7.5,
+"unit": 75,
+"heard": "",
+"spec": {
+"lt": [
+"Paro Taktsang",
+"Bután"
+],
+"commons": "File:Paro Taktsang, Bhutan (edited).jpg"
+}
+},
+{
+"n": 102,
+"t": 1028.71,
+"d": 5.68,
+"unit": 77,
+"heard": "Ahora vuelve a España. El domingo, cuando metas el sobre en la urna, ya sabes lo que pasa después.",
+"spec": {
+"at": "Ahora vuelve",
+"commons": "File:Spanish Deputy and Senate voting boxes in Madrid.jpg"
+}
+},
+{
+"n": 103,
+"t": 1034.39,
+"d": 17.85,
+"unit": 77,
+"heard": "Tu voto se suma en tu provincia. La ley D'Hondt lo convierte en escaños. Los diputados eligen a un presidente... o no. El rey sanciona, pero no decide. El Constitucional vigila. Tu comunidad gestiona tu hospital. Y una parte de las reglas se escribe en Bruselas.",
+"spec": {
+"file": "media/comoespana/anim/Recap.mp4",
+"start": 0,
+"grade": false,
+"fuente": "propia",
+"at": "Tu voto se suma"
+}
+},
+{
+"n": 104,
+"t": 1052.24,
+"d": 5.68,
+"unit": 78,
+"heard": "Ningún sistema es perfecto. Cada país ha elegido el suyo, con sus ventajas y sus costes.",
+"spec": {
+"at": "Ningún sistema",
+"commons": "File:(MAD) Congreso-7.jpg"
+}
+},
+{
+"n": 105,
+"t": 1057.92,
+"d": 10.21,
+"unit": 78,
+"heard": "Ahora ya sabes por qué España funciona así. Lo que hagas con tu voto... es cosa tuya.",
+"spec": {
+"at": "Ahora ya sabes",
+"commons": "File:Madrid -38 (43916854262).jpg"
+}
+}
+]

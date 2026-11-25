@@ -1,0 +1,87 @@
+== piel: Especial de investigación política, estilo serie de plataforma · etalonaje neutro
+== 1/5 audio: colocando voces, música y efectos
+voz: 14.1 min, 2203 palabras narrador, total 17.8 min
+   alineación: 50 unidades (50 con whisper, resto en caché o proporcional)
+== 2/5 guion visual
+  aviso anclas muy juntas en t=3.4s: se retrasa "Eres el más votado"
+  aviso anclas muy juntas en t=39.8s: se retrasa "Adónde van"
+  aviso anclas muy juntas en t=41.3s: se retrasa "Y cuánto se decide"
+  sincronía: plano 0 t=0.0s: rótulo "Congreso de los Diputados" sin mención en ±2 s
+  sincronía: plano 4 t=18.0s: rótulo "Palacio Federal" sin mención en ±2 s
+  sincronía: plano 6 t=26.5s: rótulo "Casa de la Vall" sin mención en ±2 s
+  sincronía: plano 7 t=29.6s: rótulo "Catedral de Santa María" sin mención en ±2 s
+  sincronía: plano 8 t=31.8s: rótulo "Palacio del Elíseo" sin mención en ±2 s
+  sincronía: plano 12 t=41.7s: rótulo "Comisión Europea" sin mención en ±2 s
+  sincronía: plano 16 t=60.6s: rótulo "Palacio de la Moncloa" sin mención en ±2 s
+  sincronía: plano 20 t=74.1s: dura 17.6 s; añade un plano o una tarjeta
+  sincronía: plano 23 t=113.6s: dura 14.2 s; añade un plano o una tarjeta
+  sincronía: plano 25 t=131.2s: dura 21.6 s; añade un plano o una tarjeta
+  sincronía: plano 26 t=152.7s: dura 27.9 s; añade un plano o una tarjeta
+  sincronía: plano 27 t=180.7s: dura 26.9 s; añade un plano o una tarjeta
+  sincronía: plano 28 t=207.5s: rótulo "Soria" sin mención en ±2 s
+  sincronía: plano 29 t=215.0s: rótulo "Palacio de Westminster" sin mención en ±2 s
+  sincronía: plano 30 t=220.1s: dura 23.3 s; añade un plano o una tarjeta
+  sincronía: plano 31 t=243.4s: rótulo "Asamblea Nacional" sin mención en ±2 s
+  sincronía: plano 34 t=263.9s: dura 15.9 s; añade un plano o una tarjeta
+  sincronía: plano 35 t=279.8s: rótulo "Capitolio" sin mención en ±2 s
+  sincronía: plano 36 t=282.1s: dura 29.9 s; añade un plano o una tarjeta
+  sincronía: plano 37 t=312.0s: rótulo "Washington D. C." sin mención en ±2 s
+  sincronía: plano 39 t=326.4s: rótulo "Palacio Real" sin mención en ±2 s
+  sincronía: plano 42 t=343.3s: dura 26.0 s; añade un plano o una tarjeta
+  sincronía: plano 43 t=369.2s: dura 34.7 s; añade un plano o una tarjeta
+  sincronía: plano 44 t=403.9s: dura 19.0 s; añade un plano o una tarjeta
+  sincronía: plano 45 t=422.9s: dura 18.6 s; añade un plano o una tarjeta
+  sincronía: plano 46 t=441.6s: rótulo "Parlamento de Canadá" sin mención en ±2 s
+  sincronía: plano 49 t=461.4s: dura 20.8 s; añade un plano o una tarjeta
+  sincronía: plano 50 t=482.1s: rótulo "Parlamento británico" sin mención en ±2 s
+  sincronía: plano 51 t=487.5s: rótulo "Carta Magna (1215)" sin mención en ±2 s
+  sincronía: plano 52 t=492.8s: rótulo "Parlamento" sin mención en ±2 s
+  sincronía: plano 53 t=496.8s: rótulo "Tribunal Supremo" sin mención en ±2 s
+  sincronía: plano 54 t=498.8s: dura 25.5 s; añade un plano o una tarjeta
+  sincronía: plano 55 t=524.3s: rótulo "Tribunal Constitucional" sin mención en ±2 s
+  sincronía: plano 58 t=548.6s: rótulo "Tribunal Supremo" sin mención en ±2 s
+  sincronía: plano 61 t=568.4s: dura 23.3 s; añade un plano o una tarjeta
+  sincronía: plano 62 t=591.7s: dura 17.9 s; añade un plano o una tarjeta
+  sincronía: plano 64 t=616.7s: rótulo "Protestas de 2016-2017" sin mención en ±2 s
+  sincronía: plano 66 t=627.6s: rótulo "Plaza de Gwanghwamun" sin mención en ±2 s
+  sincronía: plano 69 t=647.3s: dura 26.5 s; añade un plano o una tarjeta
+  sincronía: plano 70 t=673.8s: dura 23.8 s; añade un plano o una tarjeta
+  sincronía: plano 71 t=697.7s: rótulo "Landsgemeinde" sin mención en ±2 s
+  sincronía: plano 72 t=703.9s: rótulo "Berna" sin mención en ±2 s
+  sincronía: plano 75 t=724.0s: dura 33.6 s; añade un plano o una tarjeta
+  sincronía: plano 77 t=767.2s: dura 28.4 s; añade un plano o una tarjeta
+  sincronía: plano 78 t=795.6s: dura 23.9 s; añade un plano o una tarjeta
+  sincronía: plano 79 t=819.5s: rótulo "Dubái" sin mención en ±2 s
+  sincronía: plano 80 t=824.6s: rótulo "Copenhague" sin mención en ±2 s
+  sincronía: plano 81 t=832.1s: rótulo "Comisión Europea" sin mención en ±2 s
+  sincronía: plano 83 t=844.6s: dura 29.1 s; añade un plano o una tarjeta
+  sincronía: plano 84 t=873.8s: rótulo "Parlamento Europeo" sin mención en ±2 s
+  sincronía: plano 85 t=881.3s: dura 13.1 s; añade un plano o una tarjeta
+  sincronía: plano 87 t=898.5s: dura 29.3 s; añade un plano o una tarjeta
+  sincronía: plano 88 t=927.7s: rótulo "Consejo de Seguridad" sin mención en ±2 s
+  sincronía: plano 91 t=948.4s: rótulo "Guaita" sin mención en ±2 s
+  sincronía: plano 93 t=962.4s: rótulo "Istana Negara" sin mención en ±2 s
+  sincronía: plano 94 t=965.2s: dura 10.1 s; añade un plano o una tarjeta
+  sincronía: plano 95 t=975.3s: rótulo "Plaza de San Pedro" sin mención en ±2 s
+  sincronía: plano 96 t=981.1s: rótulo "Capilla Sixtina" sin mención en ±2 s
+  sincronía: plano 97 t=985.5s: rótulo "Castillo de Vaduz" sin mención en ±2 s
+  sincronía: plano 98 t=991.4s: dura 11.8 s; añade un plano o una tarjeta
+  sincronía: plano 99 t=1003.3s: rótulo "Punakha Dzong" sin mención en ±2 s
+  sincronía: plano 100 t=1009.4s: dura 11.8 s; añade un plano o una tarjeta
+  sincronía: plano 101 t=1021.2s: rótulo "Paro Taktsang" sin mención en ±2 s
+  sincronía: plano 103 t=1034.4s: dura 17.8 s; añade un plano o una tarjeta
+  sincronía: plano 105 t=1057.9s: dura 10.2 s; añade un plano o una tarjeta
+   106 planos
+== 3/5 buscando y descargando material
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/106
+   plano 20/106
+   plano 40/106
+   plano 60/106
+   plano 80/106
+   plano 100/106
+== 5/5 montaje final
+== licencias: PUBLICAR SÍ · 0 bloqueos · 0 avisos (licencias_estado.txt)
+   hojas de sincronía: 8
+FIN: jobs/comoespana/out/comoespana.mp4 · 18.1 min · 93 MB

@@ -1,0 +1,1111 @@
+[
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Electron 01",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://mixkit.co/free-stock-music/",
+  "url": "https://assets.mixkit.co/music/153/153.mp3",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Minimal Techno 02",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://mixkit.co/free-stock-music/",
+  "url": "https://assets.mixkit.co/music/161/161.mp3",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Vastness",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://mixkit.co/free-stock-music/",
+  "url": "https://assets.mixkit.co/music/184/184.mp3",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Departure",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://mixkit.co/free-stock-music/",
+  "url": "https://assets.mixkit.co/music/110/110.mp3",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "música",
+  "fuente": "mixkit_music",
+  "nombre_fuente": "Mixkit Music",
+  "titulo": "Epical Drums 01",
+  "autor": "Mixkit Music",
+  "licencia": "Mixkit Stock Music Free License",
+  "pagina": "https://mixkit.co/free-stock-music/",
+  "url": "https://assets.mixkit.co/music/676/676.mp3",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube",
+   "ivoox"
+  ],
+  "nota": "no registrar en Content ID; no usar en pistas solo musicales ni en TV/radio"
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Antonio.velez",
+  "licencia": "CC BY-SA 3.0 es",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Espa%C3%B1a_-_Madrid_-_Palacio_de_las_Cortes_-_Fachada.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Espa%C3%B1a_-_Madrid_-_Palacio_de_las_Cortes_-_Fachada.JPG/1920px-Espa%C3%B1a_-_Madrid_-_Palacio_de_las_Cortes_-_Fachada.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Antonio.velez · CC BY-SA 3.0 es · https://commons.wikimedia.org/wiki/File:Espa%C3%B1a_-_Madrid_-_Palacio_de_las_Cortes_-_Fachada.JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Vickybol",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Congreso_de_los_Diputados,_enero_de_2015.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Congreso_de_los_Diputados%2C_enero_de_2015.JPG/1920px-Congreso_de_los_Diputados%2C_enero_de_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Vickybol · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Congreso_de_los_Diputados,_enero_de_2015.JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Pool Moncloa/Fernando Calvo",
+  "licencia": "Attribution",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Conmemoraci%C3%B3n_del_40_Aniversario_de_la_Constituci%C3%B3n_Espa%C3%B1ola_05.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Conmemoraci%C3%B3n_del_40_Aniversario_de_la_Constituci%C3%B3n_Espa%C3%B1ola_05.jpg/1920px-Conmemoraci%C3%B3n_del_40_Aniversario_de_la_Constituci%C3%B3n_Espa%C3%B1ola_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Pool Moncloa/Fernando Calvo · Attribution · https://commons.wikimedia.org/wiki/File:Conmemoraci%C3%B3n_del_40_Aniversario_de_la_Constituci%C3%B3n_Espa%C3%B1ola_05.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Juan J. Martínez from Spain",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Congreso_de_los_Diputados_(Espa%C3%B1a)_09.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Congreso_de_los_Diputados_%28Espa%C3%B1a%29_09.jpg/1920px-Congreso_de_los_Diputados_%28Espa%C3%B1a%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Juan J. Martínez from Spain · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Congreso_de_los_Diputados_(Espa%C3%B1a)_09.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Suicasmo",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bundeshaus_Bern_20180827-2.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Bundeshaus_Bern_20180827-2.jpg/1920px-Bundeshaus_Bern_20180827-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Suicasmo · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Bundeshaus_Bern_20180827-2.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Walter Rutishauser",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bundesrat_(Schweiz)_im_Sitzungszimmer.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Bundesrat_%28Schweiz%29_im_Sitzungszimmer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Walter Rutishauser · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Bundesrat_(Schweiz)_im_Sitzungszimmer.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Casa_de_la_Vall._1580._Andorra_149.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Casa_de_la_Vall._1580._Andorra_149.jpg/1920px-Casa_de_la_Vall._1580._Andorra_149.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Luis Miguel Bugallo Sánchez (Lmbuga) · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Casa_de_la_Vall._1580._Andorra_149.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "L. Miguel Bugallo Sánchez (Lmbuga)",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Claustro_da_Catedral_de_La_Seu_d%27Urgell._Catalu%C3%B1a_2014-3.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Claustro_da_Catedral_de_La_Seu_d%27Urgell._Catalu%C3%B1a_2014-3.jpg/1920px-Claustro_da_Catedral_de_La_Seu_d%27Urgell._Catalu%C3%B1a_2014-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: L. Miguel Bugallo Sánchez (Lmbuga) · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Claustro_da_Catedral_de_La_Seu_d%27Urgell._Catalu%C3%B1a_2014-3.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Leynadmar",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Palais_de_l%27%C3%89lys%C3%A9e_2019.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Palais_de_l%27%C3%89lys%C3%A9e_2019.jpg/1920px-Palais_de_l%27%C3%89lys%C3%A9e_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Leynadmar · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Palais_de_l%27%C3%89lys%C3%A9e_2019.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Pool Moncloa / Borja Puig de la Bellacasa",
+  "licencia": "Attribution",
+  "pagina": "https://commons.wikimedia.org/wiki/File:2019-02-12,_La_ministra_de_Hacienda,_Mar%C3%ADa_Jes%C3%BAs_Montero,_interviene_en_el_hemiciclo_del_Congreso,_pge03.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2019-02-12%2C_La_ministra_de_Hacienda%2C_Mar%C3%ADa_Jes%C3%BAs_Montero%2C_interviene_en_el_hemiciclo_del_Congreso%2C_pge03.jpg/1920px-2019-02-12%2C_La_ministra_de_Hacienda%2C_Mar%C3%ADa_Jes%C3%BAs_Montero%2C_interviene_en_el_hemiciclo_del_Congreso%2C_pge03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Pool Moncloa / Borja Puig de la Bellacasa · Attribution · https://commons.wikimedia.org/wiki/File:2019-02-12,_La_ministra_de_Hacienda,_Mar%C3%ADa_Jes%C3%BAs_Montero,_interviene_en_el_hemiciclo_del_Congreso,_pge03.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Alvesgaspar",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Madrid_May_2014-35a.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Madrid_May_2014-35a.jpg/1920px-Madrid_May_2014-35a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Alvesgaspar · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Madrid_May_2014-35a.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "KOKUYO",
+  "licencia": "CC BY-SA 2.5",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped2).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Euro_coins_and_banknotes_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: KOKUYO · CC BY-SA 2.5 · https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped2).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "EmDee",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1920px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: EmDee · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "NASA Johnson Space Center, Gateway to Astronaut Photography of Earth (GAPE)",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Blue-marble-apollo-17-16x9-1.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Blue-marble-apollo-17-16x9-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Pool Moncloa",
+  "licencia": "Attribution",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Fachada_Moncloa.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Fachada_Moncloa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Pool Moncloa · Attribution · https://commons.wikimedia.org/wiki/File:Fachada_Moncloa.png",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Bauglir",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Cantabria_Papeleta_Elecciones_Generales_2015_Congreso_Sobre.png",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Cantabria_Papeleta_Elecciones_Generales_2015_Congreso_Sobre.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Bauglir · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Cantabria_Papeleta_Elecciones_Generales_2015_Congreso_Sobre.png",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Falconaumanni",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Papeletas_electorales_Cortes_Generales_2015_C%C3%A1diz.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Papeletas_electorales_Cortes_Generales_2015_C%C3%A1diz.jpg/1920px-Papeletas_electorales_Cortes_Generales_2015_C%C3%A1diz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Falconaumanni · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Papeletas_electorales_Cortes_Generales_2015_C%C3%A1diz.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Barcex",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Madrid_-_Hemiciclo_del_Congreso_-_141203_100648.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Madrid_-_Hemiciclo_del_Congreso_-_141203_100648.jpg/1920px-Madrid_-_Hemiciclo_del_Congreso_-_141203_100648.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Barcex · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Madrid_-_Hemiciclo_del_Congreso_-_141203_100648.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Wikimedia Commons",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Victor_D%27Hondt_(1841-1901)_.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Victor_D%27Hondt_%281841-1901%29_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Diego Delso",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Ermita_de_San_Saturio,_Soria,_Espa%C3%B1a,_2017-05-26,_DD_32.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Ermita_de_San_Saturio%2C_Soria%2C_Espa%C3%B1a%2C_2017-05-26%2C_DD_32.jpg/1920px-Ermita_de_San_Saturio%2C_Soria%2C_Espa%C3%B1a%2C_2017-05-26%2C_DD_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Diego Delso · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Ermita_de_San_Saturio,_Soria,_Espa%C3%B1a,_2017-05-26,_DD_32.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Photograph by Mike Peel (www.mikepeel.net).",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:At_London_2025_566_-_Westminster_Bridge_with_Palace_of_Westminster_.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/At_London_2025_566_-_Westminster_Bridge_with_Palace_of_Westminster_.jpg/1920px-At_London_2025_566_-_Westminster_Bridge_with_Palace_of_Westminster_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Photograph by Mike Peel (www.mikepeel.net). · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:At_London_2025_566_-_Westminster_Bridge_with_Palace_of_Westminster_.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "DXR",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Palais_Bourbon,_Paris_7e,_NW_View_140402_1.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Palais_Bourbon%2C_Paris_7e%2C_NW_View_140402_1.jpg/1920px-Palais_Bourbon%2C_Paris_7e%2C_NW_View_140402_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Jamain",
+  "licencia": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Urne_%C3%A9lectorale_J3.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Urne_%C3%A9lectorale_J3.jpg/1920px-Urne_%C3%A9lectorale_J3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Jamain · CC BY 4.0 · https://commons.wikimedia.org/wiki/File:Urne_%C3%A9lectorale_J3.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Jacques Paquier",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Assembl%C3%A9e_nationale-2_(46824158164).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Assembl%C3%A9e_nationale-2_%2846824158164%29.jpg/1920px-Assembl%C3%A9e_nationale-2_%2846824158164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Jacques Paquier · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Assembl%C3%A9e_nationale-2_(46824158164).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "United_States_Capitol_-_west_front.jpg: Architect of the Capitol\nderivative work",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_west_front_edit2_(bannerportada_esvoy).jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/United_States_Capitol_west_front_edit2_%28bannerportada_esvoy%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Ali Khan",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Lincoln_Memorial_Reflecting_Pool_With_The_Washington_Monument.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lincoln_Memorial_Reflecting_Pool_With_The_Washington_Monument.jpg/1920px-Lincoln_Memorial_Reflecting_Pool_With_The_Washington_Monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Ali Khan · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Lincoln_Memorial_Reflecting_Pool_With_The_Washington_Monument.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "National Museum of American History.\n\nOriginal uploader was Electiontechnology a",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Glass_ballot_box_-_Smithsonian.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Glass_ballot_box_-_Smithsonian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Pazit Polak",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Palacio_Real_(Madrid)_05.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Palacio_Real_%28Madrid%29_05.jpg/1920px-Palacio_Real_%28Madrid%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Pazit Polak · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Palacio_Real_(Madrid)_05.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Óðinn",
+  "licencia": "CC BY-SA 2.5 ca",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Parliament_Hill_from_the_Ottawa_River.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Parliament_Hill_from_the_Ottawa_River.JPG/1920px-Parliament_Hill_from_the_Ottawa_River.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Óðinn · CC BY-SA 2.5 ca · https://commons.wikimedia.org/wiki/File:Parliament_Hill_from_the_Ottawa_River.JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "miguelazo84",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Constitucion_espanola_1978.JPG",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Constitucion_espanola_1978.JPG/1920px-Constitucion_espanola_1978.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: miguelazo84 · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Constitucion_espanola_1978.JPG",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Lewis Clarke",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:London_,_Lambeth_-_River_Thames_%5E_Houses_of_Parliament_-_geograph.org.uk_-_2410501.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/London_%2C_Lambeth_-_River_Thames_%5E_Houses_of_Parliament_-_geograph.org.uk_-_2410501.jpg/1920px-London_%2C_Lambeth_-_River_Thames_%5E_Houses_of_Parliament_-_geograph.org.uk_-_2410501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Lewis Clarke · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:London_,_Lambeth_-_River_Thames_%5E_Houses_of_Parliament_-_geograph.org.uk_-_2410501.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Stitched by Pam Keeling, Embroiderers’ Guild (East Midlands Region).\n\nConceived ",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:1215-magna-carta-detail-an-embroidery-cornelia-parker-british-library.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/1215-magna-carta-detail-an-embroidery-cornelia-parker-british-library.jpg/1920px-1215-magna-carta-detail-an-embroidery-cornelia-parker-british-library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Stitched by Pam Keeling, Embroiderers’ Guild (East Midlands Region).\n\nConceived · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:1215-magna-carta-detail-an-embroidery-cornelia-parker-british-library.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Daderot",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Beehive_and_Parliament_House_-_Wellington_-_New_Zealand_-_DSC00165.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Beehive_and_Parliament_House_-_Wellington_-_New_Zealand_-_DSC00165.jpg/1920px-Beehive_and_Parliament_House_-_Wellington_-_New_Zealand_-_DSC00165.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Javier Perez Montes",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Fachada_-_Tribunal_Supremo_de_Espana_-_Madrid_05.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Fachada_-_Tribunal_Supremo_de_Espana_-_Madrid_05.jpg/1920px-Fachada_-_Tribunal_Supremo_de_Espana_-_Madrid_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Javier Perez Montes · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Fachada_-_Tribunal_Supremo_de_Espana_-_Madrid_05.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Javier Perez Montes",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Exterior_-_Tribunal_Constitucional_-_Madrid_01.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Exterior_-_Tribunal_Constitucional_-_Madrid_01.jpg/1920px-Exterior_-_Tribunal_Constitucional_-_Madrid_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Javier Perez Montes · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Exterior_-_Tribunal_Constitucional_-_Madrid_01.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Royalbroil",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Wisconsin_Supreme_Court.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Wisconsin_Supreme_Court.jpg/1920px-Wisconsin_Supreme_Court.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Royalbroil · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Wisconsin_Supreme_Court.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "{{subst:usernameeexpand|Seth_Ilys}}",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:SI-CampaignSigns.JPG",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/SI-CampaignSigns.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Joe Ravi",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg/1920px-Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Joe Ravi · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Barcex",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Madrid_-_Hemiciclo_del_Congreso_-_141203_100858.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Madrid_-_Hemiciclo_del_Congreso_-_141203_100858.jpg/1920px-Madrid_-_Hemiciclo_del_Congreso_-_141203_100858.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Barcex · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Madrid_-_Hemiciclo_del_Congreso_-_141203_100858.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Constitutional Court of Korea",
+  "licencia": "Attribution",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_Korea_building.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Constitutional_Court_of_Korea_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Constitutional Court of Korea · Attribution · https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_Korea_building.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Jirangmoon\n\n This photo was taken with Samsung Galaxy Grand Prime VE",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Korea_Candlelight_Protest_05.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Korea_Candlelight_Protest_05.jpg/1920px-Korea_Candlelight_Protest_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Jirangmoon\n\n This photo was taken with Samsung Galaxy Grand Prime VE · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Korea_Candlelight_Protest_05.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "mujjingun at reddit",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:South_Korean_soldiers_waiting_to_leave_the_National_Assembly.png",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/South_Korean_soldiers_waiting_to_leave_the_National_Assembly.png/1920px-South_Korean_soldiers_waiting_to_leave_the_National_Assembly.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Republic of  Korea",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gwanghwamun_Square_20220806_06.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Gwanghwamun_Square_20220806_06.jpg/1920px-Gwanghwamun_Square_20220806_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Republic of  Korea · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Gwanghwamun_Square_20220806_06.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Nicolás Pérez",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Valladolid_cortes_castilla_leon_07_lou.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Valladolid_cortes_castilla_leon_07_lou.jpg/1920px-Valladolid_cortes_castilla_leon_07_lou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Nicolás Pérez · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Valladolid_cortes_castilla_leon_07_lou.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Marc Schlumpf, www.icarus-design.ch",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Landsgemeinde_Glarus,_2009.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Landsgemeinde_Glarus%2C_2009.jpg/1920px-Landsgemeinde_Glarus%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Marc Schlumpf, www.icarus-design.ch · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Landsgemeinde_Glarus,_2009.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "chensiyuan",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:1_bern_2012b.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/1_bern_2012b.jpg/1920px-1_bern_2012b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: chensiyuan · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:1_bern_2012b.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Avij (talk · contribs)",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Euro_coins_and_banknotes.jpg/1920px-Euro_coins_and_banknotes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Tim Reckmann from Hamm, Deutschland",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Dubai_Skyline_mit_Burj_Khalifa_(cropped).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Dubai_Skyline_mit_Burj_Khalifa_%28cropped%29.jpg/1920px-Dubai_Skyline_mit_Burj_Khalifa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Tim Reckmann from Hamm, Deutschland · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Dubai_Skyline_mit_Burj_Khalifa_(cropped).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Jakub Hałun",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Nyhavn,_Copenhagen,_20220618_1725_7350.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Nyhavn%2C_Copenhagen%2C_20220618_1725_7350.jpg/1920px-Nyhavn%2C_Copenhagen%2C_20220618_1725_7350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Jakub Hałun · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Nyhavn,_Copenhagen,_20220618_1725_7350.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "almathias",
+  "licencia": "CC0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Berlaymont_building_in_Brussels.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Berlaymont_building_in_Brussels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Gzen92",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:European_Parliament_hemicycle_Strasbourg_(cropped).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/European_Parliament_hemicycle_Strasbourg_%28cropped%29.jpg/1920px-European_Parliament_hemicycle_Strasbourg_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Gzen92 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:European_Parliament_hemicycle_Strasbourg_(cropped).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Dr. Thomas Liptak",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Frankfurt_am_Main,_Seat_of_the_European_Central_Bank_(Skytower_(ECB)).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Frankfurt_am_Main%2C_Seat_of_the_European_Central_Bank_%28Skytower_%28ECB%29%29.jpg/1920px-Frankfurt_am_Main%2C_Seat_of_the_European_Central_Bank_%28Skytower_%28ECB%29%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Dr. Thomas Liptak · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Frankfurt_am_Main,_Seat_of_the_European_Central_Bank_(Skytower_(ECB)).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Patrick Gruban",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:United_Nations_Security_Council_4-3-crop.jpeg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/United_Nations_Security_Council_4-3-crop.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Patrick Gruban · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:United_Nations_Security_Council_4-3-crop.jpeg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Mojnsen",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:United_Nations_General_Assembly_2024.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/United_Nations_General_Assembly_2024.jpg/1920px-United_Nations_General_Assembly_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Mojnsen · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:United_Nations_General_Assembly_2024.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Commonists",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Fortress_of_Guaita_-_First_Tower_(San_Marino).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Fortress_of_Guaita_-_First_Tower_%28San_Marino%29.jpg/1920px-Fortress_of_Guaita_-_First_Tower_%28San_Marino%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Commonists · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Fortress_of_Guaita_-_First_Tower_(San_Marino).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "CEphoto, Uwe Aranas",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg/1920px-Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: CEphoto, Uwe Aranas · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia-Istana_Negara-Jalan-Duta-03.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Diliff",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatican_City_-_April_2007.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg/1920px-St_Peter%27s_Square%2C_Vatican_City_-_April_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Diliff · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatican_City_-_April_2007.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Miscellaneous Items in High Demand, PPOC, Library of Congress",
+  "licencia": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Roma_-_interno_della_Cappella_Sistina_-_Anderson._LCCN91783894.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Roma_-_interno_della_Cappella_Sistina_-_Anderson._LCCN91783894.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Presse- und Informationsamt, Vaduz",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Schloss_Vaduz_(2009).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Schloss_Vaduz_%282009%29.jpg/1920px-Schloss_Vaduz_%282009%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Presse- und Informationsamt, Vaduz · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Schloss_Vaduz_(2009).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Bernard Gagnon",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Punakha_Dzong,_Bhutan_02.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Punakha_Dzong%2C_Bhutan_02.jpg/1920px-Punakha_Dzong%2C_Bhutan_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Bernard Gagnon · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Punakha_Dzong,_Bhutan_02.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Original:  Nina R from Africa\n\nDerivative work:  UnpetitproleX",
+  "licencia": "CC BY 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Paro_Taktsang,_Bhutan_(edited).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Paro_Taktsang%2C_Bhutan_%28edited%29.jpg/1920px-Paro_Taktsang%2C_Bhutan_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Original:  Nina R from Africa\n\nDerivative work:  UnpetitproleX · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Paro_Taktsang,_Bhutan_(edited).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "LauraHale",
+  "licencia": "CC BY-SA 3.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Spanish_Deputy_and_Senate_voting_boxes_in_Madrid.jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Spanish_Deputy_and_Senate_voting_boxes_in_Madrid.jpg/1920px-Spanish_Deputy_and_Senate_voting_boxes_in_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: LauraHale · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Spanish_Deputy_and_Senate_voting_boxes_in_Madrid.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Philmarin",
+  "licencia": "CC BY-SA 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:(MAD)_Congreso-7.jpg",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/%28MAD%29_Congreso-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Philmarin · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:(MAD)_Congreso-7.jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ },
+ {
+  "tipo": "archivo",
+  "fuente": "wikimedia",
+  "nombre_fuente": "Wikimedia Commons",
+  "titulo": "",
+  "autor": "Fred PO",
+  "licencia": "CC BY-SA 2.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Madrid_-38_(43916854262).jpg",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Madrid_-38_%2843916854262%29.jpg/1920px-Madrid_-38_%2843916854262%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "fecha_descarga": "2026-11-25",
+  "credito": "Archivo: Fred PO · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Madrid_-38_(43916854262).jpg",
+  "destinos": [
+   "youtube"
+  ],
+  "nota": ""
+ }
+]

@@ -1,0 +1,11 @@
+plano 0 t=0.0s: rótulo "Casa Rosada" sin mención en ±2 s
+plano 7 t=26.6s: rótulo "Fernando de la Rúa" sin mención en ±2 s
+plano 14 t=60.3s: rótulo "Domingo Cavallo" sin mención en ±2 s
+plano 33 t=154.8s: dura 5.6 s; añade un plano o una tarjeta
+plano 43 t=216.2s: rótulo "Palacio de Justicia" sin mención en ±2 s
+plano 74 t=356.0s: dura 5.7 s; añade un plano o una tarjeta
+plano 192 t=963.0s: rótulo "Fernando de la Rúa" sin mención en ±2 s
+plano 199 t=991.2s: rótulo "Domingo Cavallo" sin mención en ±2 s
+plano 222 t=1090.4s: rótulo "Fernando de la Rúa" sin mención en ±2 s
+plano 378 t=1812.1s: rótulo "Palacio de Justicia" sin mención en ±2 s
+plano 412 t=1980.5s: rótulo "Banco de la República" sin mención en ±2 s

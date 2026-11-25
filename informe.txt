@@ -1,0 +1,76 @@
+== piel: Crónica de urgencia: crisis financieras latinoamericanas, estallidos sociales (2000s) · etalonaje calido
+== 1/5 audio: colocando voces, música y efectos
+voz: 39.6 min, 3631 palabras narrador, total 43.4 min
+   alineación: 167 unidades (19 con whisper, resto en caché o proporcional)
+== 2/5 guion visual
+  aviso anclas muy juntas en t=403.2s: se retrasa "Fernando de la Rúa"
+  aviso anclas muy juntas en t=466.7s: se retrasa "Ministerio de Economía"
+  aviso anclas muy juntas en t=522.1s: se retrasa "unos veinte mil millones"
+  aviso anclas muy juntas en t=570.7s: se retrasa "con las persianas bajadas"
+  aviso anclas muy juntas en t=1157.5s: se retrasa "el Congreso"
+   partición de planos largos: 278 → 520 planos
+  aviso glosario: "Convertibilidad" cae en una tarjeta u otro glosario
+  aviso glosario: "FMI" cae en una tarjeta u otro glosario
+  aviso glosario: "Estado de sitio" cae en una tarjeta u otro glosario
+  aviso glosario: "Pesificación" cae en una tarjeta u otro glosario
+  aviso glosario: "FGD" cae en una tarjeta u otro glosario
+  sincronía: plano 0 t=0.0s: rótulo "Casa Rosada" sin mención en ±2 s
+  sincronía: plano 7 t=26.6s: rótulo "Fernando de la Rúa" sin mención en ±2 s
+  sincronía: plano 14 t=60.3s: rótulo "Domingo Cavallo" sin mención en ±2 s
+  sincronía: plano 33 t=154.8s: dura 5.6 s; añade un plano o una tarjeta
+  sincronía: plano 43 t=216.2s: rótulo "Palacio de Justicia" sin mención en ±2 s
+  sincronía: plano 74 t=356.0s: dura 5.7 s; añade un plano o una tarjeta
+  sincronía: plano 192 t=963.0s: rótulo "Fernando de la Rúa" sin mención en ±2 s
+  sincronía: plano 199 t=991.2s: rótulo "Domingo Cavallo" sin mención en ±2 s
+  sincronía: plano 222 t=1090.4s: rótulo "Fernando de la Rúa" sin mención en ±2 s
+  sincronía: plano 378 t=1812.1s: rótulo "Palacio de Justicia" sin mención en ±2 s
+  sincronía: plano 412 t=1980.5s: rótulo "Banco de la República" sin mención en ±2 s
+   520 planos
+== 3/5 buscando y descargando material
+  aviso repetición: "photo:Fernando de la Rúa presidente" en t=963s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Fernando de la Rúa presidente" en t=968s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Fernando de la Rúa presidente" en t=972s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Fernando de la Rúa presidente" en t=977s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Fernando de la Rúa presidente" en t=981s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Fernando de la Rúa presidente" en t=1090s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Fernando de la Rúa presidente" en t=1094s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Casa Rosada Buenos Aires" en t=1288s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Casa Rosada Buenos Aires" en t=1293s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Casa Rosada Buenos Aires" en t=1297s reutiliza un recurso (2.ª vez); añade candidatos
+  aviso repetición: "photo:Fernando de la Rúa presidente" en t=1331s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Fernando de la Rúa presidente" en t=1334s reutiliza un recurso (3.ª vez); añade candidatos
+  aviso repetición: "photo:Palacio de Justicia de la Nación Buenos Aires" en t=1830s reutiliza un recurso (2.ª vez); añade candidatos
+== 4/5 mezcla final de audio
+== 4/5 renderizando planos
+   plano 0/520
+   plano 20/520
+   plano 40/520
+   plano 60/520
+   plano 80/520
+   plano 100/520
+   plano 120/520
+   plano 140/520
+   plano 160/520
+   plano 180/520
+   plano 200/520
+   plano 220/520
+   plano 240/520
+   plano 260/520
+   plano 280/520
+   plano 300/520
+   plano 320/520
+   plano 340/520
+   plano 360/520
+   plano 380/520
+   plano 400/520
+   plano 420/520
+   plano 440/520
+   plano 460/520
+   plano 480/520
+   plano 500/520
+== 5/5 montaje final
+== licencias: PUBLICAR SÍ · 0 bloqueos · 0 avisos (licencias_estado.txt)
+   hojas de sincronía: 27
+  aviso miniatura A expected string or bytes-like object, got 'NoneType'
+   miniatura B: Unknown authorUnknown author · CC BY 2.0
+FIN: jobs/corralito/out/corralito.mp4 · 43.8 min · 271 MB

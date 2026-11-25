@@ -1,0 +1,20 @@
+name: fotos
+on:
+  push:
+    paths: ['fotos/lista.txt']
+permissions:
+  contents: write
+jobs:
+  bajar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: bajar
+        run: python3 fotos/bajar.py /tmp/fo 2>&1 | tee /tmp/fo_log.txt; cp /tmp/fo_log.txt /tmp/fo/log.txt
+      - name: entregar
+        if: always()
+        run: |
+          git config --global user.name fabrica; git config --global user.email fabrica@users.noreply.github.com
+          cd /tmp/fo && git init -q && git checkout -q -b out-fotos && git add -A && git commit -qm fotos
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" out-fotos

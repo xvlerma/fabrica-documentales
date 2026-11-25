@@ -94,7 +94,7 @@ NAR("[dramatically] Pero el corralito no se quedó en Argentina. Cruzó el río.
     cd(dict(type='map', title='Al otro lado del Río de la Plata', bbox=[-59.5, -35.6, -55.5, -33.8], points=[dict(name='Buenos Aires', lon=-58.38, lat=-34.60, big=1), dict(name='Montevideo', lon=-56.16, lat=-34.90, big=1)]), at='Cruzó el río'))
 CRO("Montevideo, dos mil dos. Durante años, miles de argentinos habían guardado sus dólares en bancos uruguayos, al otro lado del Río de la Plata. Era su caja fuerte. Cuando estalla el corralito, empiezan a sacarlos. Primero, poco a poco. Luego, en avalancha.",
     ph('Montevideo ciudad', at='Montevideo', lt=['Montevideo', 'Uruguay'], lugar='montevideo'),
-    AIR('cola_bankia', at='empiezan a sacarlos'))
+    AIR('cajero_noche', at='empiezan a sacarlos'))
 NEW("En medio año, el sistema bancario uruguayo devuelve casi la mitad de todos sus depósitos. Un cuarenta y siete por ciento, según los cálculos publicados después en el propio Uruguay. Las reservas del Banco Central se vacían.",
     cd(dict(type='counter', **{'from': 0}, to=47, label='de los depósitos salieron de los bancos uruguayos en medio año · 2002', suffix=' %'), at='Un cuarenta y siete por ciento'),
     AIR('reloj_arena_billetes', at='se vacían'))

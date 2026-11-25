@@ -423,19 +423,6 @@
    },
    {
     "kind": "image",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fernando_De_la_R%C3%BAa%2C_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "w": 502,
-    "h": 365,
-    "dur": 0,
-    "title": "File:Fernando De la Rúa, su hijo Antonio y Darío Lopérfido.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fernando_De_la_R%C3%BAa%2C_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "credit": "Víctor Bugge",
-    "license": "CC BY 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Fernando_De_la_R%C3%BAa,_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg",
-    "id": "wm11958472"
-   },
-   {
-    "kind": "image",
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Fernando_de_la_R%C3%BAa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "w": 114,
     "h": 146,
@@ -849,32 +836,6 @@
   "photo:Fernando de la Rúa presidente": [
    {
     "kind": "image",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De_La_R%C3%BAa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "w": 406,
-    "h": 470,
-    "dur": 0,
-    "title": "File:De La Rúa (cropped).jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De_La_R%C3%BAa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "credit": "Embajada de EEUU en la Argentina",
-    "license": "CC BY 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:De_La_R%C3%BAa_(cropped).jpg",
-    "id": "wm68318399"
-   },
-   {
-    "kind": "image",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fernando_De_la_R%C3%BAa%2C_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "w": 502,
-    "h": 365,
-    "dur": 0,
-    "title": "File:Fernando De la Rúa, su hijo Antonio y Darío Lopérfido.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fernando_De_la_R%C3%BAa%2C_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "credit": "Víctor Bugge",
-    "license": "CC BY 2.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Fernando_De_la_R%C3%BAa,_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg",
-    "id": "wm11958472"
-   },
-   {
-    "kind": "image",
     "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Fernando_de_la_R%C3%BAa_-_con_banda_-_1999.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "w": 60,
     "h": 60,
@@ -1046,32 +1007,6 @@
    }
   ],
   "photo:Palacio de Hacienda Buenos Aires Ministerio de Economía": [
-   {
-    "kind": "image",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/80_aniversario_del_Palacio_de_Hacienda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "w": 1280,
-    "h": 854,
-    "dur": 0,
-    "title": "File:80 aniversario del Palacio de Hacienda.jpg",
-    "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a6/80_aniversario_del_Palacio_de_Hacienda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "credit": "Ministerio de Economía de la Nación",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:80_aniversario_del_Palacio_de_Hacienda.jpg",
-    "id": "wm85431833"
-   },
-   {
-    "kind": "image",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Balazos_en_el_Ministerio_de_Econom%C3%ADa_03.jpg/1920px-Balazos_en_el_Ministerio_de_Econom%C3%ADa_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "w": 3456,
-    "h": 4608,
-    "dur": 0,
-    "title": "File:Balazos en el Ministerio de Economía 03.jpg",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Balazos_en_el_Ministerio_de_Econom%C3%ADa_03.jpg/1920px-Balazos_en_el_Ministerio_de_Econom%C3%ADa_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "credit": "Gastón Cuello",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Balazos_en_el_Ministerio_de_Econom%C3%ADa_03.jpg",
-    "id": "wm50394325"
-   },
    {
     "kind": "image",
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Edificio_del_Ministerio_de_Econom%C3%ADa_de_la_Naci%C3%B3n_Argentina%2C_ubicado_sobre_la_calle_Hip%C3%B3lito_Yrigoyen%2C_frente_al_entorno_de_Plaza_de_Mayo%2C_en_la_Ciudad_de_Buenos_Aires.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2071,19 +2006,6 @@
   "photo:Mar del Plata ciudad": [
    {
     "kind": "image",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Atardecer_en_Mar_del_Plata_II.jpg/1920px-Atardecer_en_Mar_del_Plata_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "w": 2592,
-    "h": 1944,
-    "dur": 0,
-    "title": "File:Atardecer en Mar del Plata II.jpg",
-    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Atardecer_en_Mar_del_Plata_II.jpg/1920px-Atardecer_en_Mar_del_Plata_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "credit": "Wikimh",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Atardecer_en_Mar_del_Plata_II.jpg",
-    "id": "wm17583292"
-   },
-   {
-    "kind": "image",
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Ciudad_Mar_del_Plata%2C_Argentina.jpg/1920px-Ciudad_Mar_del_Plata%2C_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "w": 2800,
     "h": 2100,
@@ -2884,7 +2806,7 @@
  },
  "split_still": 5.0,
  "picks": {},
- "rev": 4,
+ "rev": 5,
  "units": [
   {
    "k": "B",
@@ -5850,7 +5772,7 @@
      "lugar": "montevideo"
     },
     {
-     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8f45/fe63/bd2744987a1a1efb2fc1131c0d264e62.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=222bc8334910144b7b59acb65888f3485ac8227552af1247686a030764720073",
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/28f0/3f07/d9336fde04d581ca6ac00d1313f84785.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c9897ca99a0ff90acef6d57824f61957459d7b2f4f6e940a1be9e86816ea487b",
      "at": "empiezan a sacarlos"
     }
    ],

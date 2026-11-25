@@ -1,0 +1,36 @@
+name: stt
+on:
+  push:
+    branches: ['aq-media']
+    paths: ['stt/**']
+permissions:
+  contents: write
+jobs:
+  stt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - name: deps
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q faster-whisper
+      - name: transcribir
+        run: |
+          mkdir -p /tmp/o
+          python3 - <<'PY'
+          import json,glob,os
+          from faster_whisper import WhisperModel
+          m=WhisperModel('medium',device='cpu',compute_type='int8',cpu_threads=4)
+          for f in sorted(glob.glob('stt/*.mp3')):
+              segs,_=m.transcribe(f,language='es',word_timestamps=True,beam_size=5,vad_filter=False)
+              out=[{'a':s.start,'b':s.end,'t':s.text,'w':[[w.start,w.end,w.word] for w in s.words]} for s in segs]
+              json.dump(out,open('/tmp/o/'+os.path.basename(f)+'.json','w'),ensure_ascii=False)
+              print('ok',f,flush=True)
+          PY
+      - name: publicar
+        if: always()
+        run: |
+          cd /tmp/o && git init -q && git checkout -q -b out-aq-stt
+          git config user.name fabrica && git config user.email fabrica@users.noreply.github.com
+          git add . && git commit -qm "stt" && git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} out-aq-stt

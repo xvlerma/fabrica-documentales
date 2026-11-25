@@ -1,7 +1,7 @@
 name: bajar
 on:
   push:
-    branches: ['e29n-v8']
+    branches: ['aq-media']
     paths: ['bajar/**']
 permissions:
   contents: write
@@ -16,7 +16,7 @@ jobs:
           while read n u; do [ -z "$n" ] && continue; curl -fsSL --retry 3 -o /tmp/m/$n.mp3 "$u" && echo "ok $n $(stat -c%s /tmp/m/$n.mp3)"; done < bajar/voces.txt
       - name: publicar
         run: |
-          cd /tmp/m && git init -q && git checkout -q -b out-e29n-v8-media
+          cd /tmp/m && git init -q && git checkout -q -b out-aq-media
           git config user.name fabrica && git config user.email fabrica@users.noreply.github.com
-          git add . && git commit -qm "voces e29n intro+p1"
-          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} out-e29n-v8-media
+          git add . && git commit -qm "a quemarropa voces+musica"
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} out-aq-media

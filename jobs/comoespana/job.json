@@ -2,7 +2,7 @@
  "id": "comoespana",
  "title": "Cómo funciona REALMENTE España",
  "channel": "DocuVox",
- "stage": "cast",
+ "stage": "render",
  "align": true,
  "align_model": "small",
  "no_pad": true,
@@ -114,7 +114,7 @@
   }
  ],
  "seed": 29,
- "rev": 2,
+ "rev": 3,
  "units": [
   {
    "k": "B",
@@ -405,12 +405,11 @@
    "secs": 7.5,
    "shots": [
     {
-     "photo": "Soria",
-     "src": "commons",
      "lt": [
       "Soria",
       "Castilla y León"
-     ]
+     ],
+     "commons": "File:Ermita de San Saturio, Soria, España, 2017-05-26, DD 32.jpg"
     }
    ]
   },
@@ -525,9 +524,8 @@
    "url": "media/comoespana/voz/a13.mp3",
    "shots": [
     {
-     "photo": "Urna electoral",
-     "src": "commons",
-     "at": "Así que tu voto"
+     "at": "Así que tu voto",
+     "commons": "File:Glass ballot box - Smithsonian.jpg"
     },
     {
      "at": "o el rey",
@@ -739,13 +737,12 @@
    "url": "media/comoespana/voz/c3.mp3",
    "shots": [
     {
-     "photo": "Tribunal Supremo Madrid",
-     "src": "commons",
      "at": "Y quién vigila",
      "lt": [
       "Tribunal Supremo",
       "Madrid"
-     ]
+     ],
+     "commons": "File:Fachada - Tribunal Supremo de Espana - Madrid 05.jpg"
     },
     {
      "file": "media/comoespana/anim/Tribunales.mp4",
@@ -762,12 +759,11 @@
    "secs": 7.5,
    "shots": [
     {
-     "photo": "Tribunal Constitucional de España",
-     "src": "commons",
      "lt": [
       "Tribunal Constitucional",
       "Madrid"
-     ]
+     ],
+     "commons": "File:Exterior - Tribunal Constitucional - Madrid 01.jpg"
     }
    ]
   },
@@ -877,13 +873,12 @@
    "url": "media/comoespana/voz/d3.mp3",
    "shots": [
     {
-     "photo": "Constitutional Court of Korea",
-     "src": "commons",
      "at": "En Corea del Sur",
      "lt": [
       "Tribunal Constitucional",
       "Seúl (Corea del Sur)"
-     ]
+     ],
+     "commons": "File:Constitutional Court of Korea building.jpg"
     },
     {
      "at": "destituyó a Park",
@@ -1172,12 +1167,11 @@
    "secs": 7.5,
    "shots": [
     {
-     "photo": "European Parliament Strasbourg hemicycle",
-     "src": "commons",
      "lt": [
       "Parlamento Europeo",
       "Estrasburgo"
-     ]
+     ],
+     "commons": "File:European Parliament hemicycle Strasbourg (cropped).jpg"
     }
    ]
   },
@@ -1413,9 +1407,8 @@
    "url": "media/comoespana/voz/i6.mp3",
    "shots": [
     {
-     "photo": "Ballot box Spain election",
-     "src": "commons",
-     "at": "Ahora vuelve"
+     "at": "Ahora vuelve",
+     "commons": "File:Spanish Deputy and Senate voting boxes in Madrid.jpg"
     },
     {
      "file": "media/comoespana/anim/Recap.mp4",

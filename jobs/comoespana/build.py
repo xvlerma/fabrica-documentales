@@ -193,7 +193,7 @@ ALT = {'urna electoral España elecciones': ('Palacio de las Cortes Madrid facha
 CASTQ = {}
 for f in sorted(os.listdir(HERE)):
     if f.startswith('castq_r') and f.endswith('.json'): CASTQ.update(json.load(open(os.path.join(HERE, f))))
-PICK2 = {}   # picks del segundo casting (se rellenan tras revisarlo)
+PICK2 = {'Soria': 4, 'Urna electoral': 0, 'Tribunal Supremo Madrid': 4, 'Tribunal Constitucional de España': 0, 'Constitutional Court of Korea': 1, 'European Parliament Strasbourg hemicycle': 1, 'Ballot box Spain election': 5}   # picks del segundo casting (se rellenan tras revisarlo)
 
 def shot_out(s):
     s = dict(s)

@@ -45,7 +45,7 @@ for i, u in enumerate(U):
         u['shots'] = [s for _, s in sorted(zip(keys, sh), key=lambda z: z[0])]
 job = {
     'permitir_sa': True, 'export_voice': True,
-    'thumbs': [dict(name='A', commons=RES.get('thumb_commons', 'Casa Rosada (Buenos Aires).jpg'), grande='CORRALITO', caja='250 $ A LA SEMANA', sub='EL DÍA QUE LOS BANCOS SE QUEDARON TU DINERO')], 'lugares': LUG, 'permitidas': PERM,
+    'thumbs': [dict(name='A', commons=RES.get('thumb_commons', 'Casa Rosada (Buenos Aires).jpg'), grande='CORRALITO', caja='250 $ A LA SEMANA', sub='EL DÍA QUE LOS BANCOS SE QUEDARON TU DINERO'), dict(name='B', commons='Fernando de la Rúa - con banda - 1999.jpg', grande='CORRALITO', caja='¿Y EN ESPAÑA?', sub='ARGENTINA 2001 · 250 PESOS A LA SEMANA')], 'lugares': LUG, 'permitidas': PERM,
     'id': 'corralito', 'title': 'El corralito argentino: el día que los bancos se quedaron tu dinero (¿podría pasar en España?)', 'channel': 'DocuVox', 'stage': stage,
     'align': True, 'align_model': 'small', 'no_pad': True, 'reuse': {'max': 1, 'gap': 99999}, 'auto_sfx': {}, 'sfx_max': 5,
     'max_shot': 5.5, 'min_shot': 1.6, 'anchor_lead': 0.1,

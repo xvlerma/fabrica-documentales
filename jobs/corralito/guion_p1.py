@@ -12,7 +12,7 @@ NAR("Abajo, en la Plaza de Mayo, huele a gas lacrimógeno. Hay caballos de la po
     ai('caballos_carga', 'police horses rearing and charging through a crowd, riders with batons raised, people scattering, dramatic low angle, motion lines', at='caballos de la policía'),
     ai('cacerolas_mil', 'a dense crowd of ordinary people of all ages banging pots and pans with spoons above their heads at night, open mouths shouting, raw energy', at='golpeando cacerolas'))
 NEW("Dentro del helicóptero va un hombre que hasta hace unos minutos era el presidente de la República Argentina. Acaba de firmar su renuncia. Y se marcha volando, porque por tierra ya no puede salir.",
-    ph('Fernando de la Rúa', at='un hombre que hasta hace', lt=['Fernando de la Rúa', 'Presidente de Argentina · 1999-2001', 'gobierno'], lugar='delarua'),
+    ph('Fernando de la Rúa presidente', at='un hombre que hasta hace', lt=['Fernando de la Rúa', 'Presidente de Argentina · 1999-2001', 'gobierno'], lugar='delarua'),
     ai('heli_despega', 'a white helicopter lifting off from a palace roof into an orange smoky sky, a crowd far below raising fists and pots, seen from street level', at='se marcha volando'))
 CRO("Treinta y nueve muertos en dos días, según los recuentos más citados. Cientos de heridos. Miles de detenidos. Y en las puertas de los bancos, persianas de acero con abolladuras de martillo.",
     cd(dict(type='counter', **{'from': 0}, to=39, label='muertos el 19 y 20 de diciembre de 2001'), at='Treinta y nueve muertos'),
@@ -53,7 +53,7 @@ NAR("La Corte Suprema dio por bueno el decreto. Y los argentinos aprendieron una
     ph('Palacio de Justicia de la Nación Buenos Aires', at='La Corte Suprema', lt=['Palacio de Justicia', 'Corte Suprema · Buenos Aires'], lugar='tribunales'),
     AIR('reloj_lunes', at='Multiplicada'))
 NAR("Y entonces llega un economista de Córdoba con un plan que parece magia. Domingo Cavallo, ministro de Economía de Carlos Menem. Marzo de mil novecientos noventa y uno. La Ley de Convertibilidad.",
-    ph('Domingo Cavallo 1990s', at='Domingo Cavallo', lt=['Domingo Cavallo', 'Ministro de Economía de Menem · 1991-1996', 'gobierno'], lugar='cavallo'),
+    ph('Domingo Cavallo', at='Domingo Cavallo', lt=['Domingo Cavallo', 'Ministro de Economía de Menem · 1991-1996', 'gobierno'], lugar='cavallo'),
     ph('Carlos Menem', at='Carlos Menem', lt=['Carlos Menem', 'Presidente de Argentina · 1989-1999', 'gobierno'], lugar='menem'),
     cd(dict(type='doc', title='Ley 23.928 de Convertibilidad', lines=['27 de marzo de 1991', 'Tipo de cambio fijo por ley', 'Respaldo en divisas del Banco Central'], source='Boletín Oficial de la República Argentina'), at='La Ley de Convertibilidad'))
 CRO("La regla era sencilla. Un peso vale un dólar. Siempre. Por ley. Y por cada peso que circulara, el Banco Central tendría que guardar un dólar de respaldo en sus reservas.",
@@ -85,7 +85,7 @@ NAR("Ese mismo año gana las elecciones Fernando de la Rúa, al frente de la Ali
     ph('Fernando de la Rúa presidente', at='Fernando de la Rúa', lt=['Fernando de la Rúa', 'Presidente · la Alianza (UCR y Frepaso)', 'gobierno'], lugar='delarua'),
     ai('urna_votos', 'hands dropping ballots into a wooden ballot box, a line of voters waiting behind, hopeful morning light', at='gana las elecciones'))
 CRO("En diciembre de dos mil, el FMI y otros acreedores arman un rescate de casi cuarenta mil millones de dólares. Lo llaman el blindaje. Seis meses después llega el megacanje, para alargar los plazos de la deuda a cambio de intereses todavía más altos.",
-    ph('International Monetary Fund headquarters Washington', at='el FMI', lt=['Fondo Monetario Internacional', 'Washington'], lugar='fmi'),
+    cd(dict(type='kw', word='FMI', sub='Fondo Monetario Internacional'), at='el FMI'),
     cd(dict(type='counter', **{'from': 0}, to=40000, label='millones de dólares del blindaje · diciembre de 2000 (casi)', suffix=' M$'), at='casi cuarenta mil millones'),
     ai('escudo_grietas', 'a huge iron shield held up by many hands, deep cracks spreading across its surface, debris falling, dramatic', at='Lo llaman el blindaje'))
 CRO("Marzo de dos mil uno. Dimite el ministro de Economía, José Luis Machinea. Le sustituye Ricardo López Murphy, que anuncia un recorte de unos dos mil millones de pesos, con tijera para provincias y universidades. Estallan las protestas. Su propia coalición le da la espalda. Dura diecisiete días.",
@@ -161,7 +161,7 @@ NEW("Entre los bancos atrapados en el corralito estaban también los españoles.
     ai('bolsa_madrid_rojo', 'traders silhouetted against a huge board of red falling numbers without readable digits in an old stock exchange hall, tense, Madrid', at='en Madrid'))
 CRO("Día cinco. Miércoles. Llega la peor noticia desde Washington. El Fondo Monetario Internacional comunica que no desembolsará el siguiente tramo de su préstamo: mil doscientos sesenta y cuatro millones de dólares que Argentina necesitaba para pagar su deuda.",
     DIA(5, 'del corralito · miércoles 5 de diciembre', at='Día cinco', frm=3),
-    ph('International Monetary Fund headquarters Washington', at='Fondo Monetario Internacional', lt=['FMI', 'Washington', 'finanzas'], lugar='fmi'),
+    cd(dict(type='kw', word='FMI', sub='Fondo Monetario Internacional'), at='Fondo Monetario Internacional'),
     cd(dict(type='counter', **{'from': 0}, to=1264, label='millones de dólares que el FMI retiene', suffix=' M$'), at='mil doscientos sesenta y cuatro'))
 NEW("Sin ese dinero, el impago de la deuda es cuestión de semanas. Y en la calle, la paciencia se está acabando todavía más rápido.",
     ai('mecha_encendida', 'a burning fuse sparkling along a dark street pavement toward a stack of crates, glowing embers, extreme tension', at='la paciencia se está acabando'))

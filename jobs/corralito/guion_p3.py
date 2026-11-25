@@ -131,7 +131,7 @@ NEW("Los bancos chipriotas cierran casi dos semanas. Cuando reabren, solo se pue
     ai('nicosia_cola', 'people queuing at a bank in a sunny Mediterranean street, shuttered doors, a police officer at the entrance, worried crowd seen from behind', at='cierran casi dos semanas'),
     cd(dict(type='list', header='El corralito de Chipre · 2013', items=[('≈ 12 días', 'bancos cerrados'), ('300 €', 'al día por persona'), ('> 100.000 €', 'quita sobre lo que superaba'), ('2 años', 'de controles')]), at='trescientos euros al día'))
 CRO("Grecia. Lunes, veintinueve de junio de dos mil quince. Los griegos se despiertan con los bancos cerrados y un límite de sesenta euros al día en los cajeros. Los bancos tardan tres semanas en reabrir. Y los últimos controles no se levantan hasta dos mil diecinueve.",
-    ph('Greek bank ATM queue 2015 Athens', at='Grecia', lt=['Atenas', 'junio de 2015'], lugar='grecia'),
+    cd(dict(type='kw', word='GRECIA', sub='29 de junio de 2015 · bancos cerrados'), at='Grecia'),
     cd(dict(type='counter', **{'from': 300}, to=60, label='euros al día en los cajeros griegos · 29 de junio de 2015', suffix=' €'), at='sesenta euros al día'),
     ai('jubilados_atenas', 'elderly pensioners waiting in a long line in the hot sun outside a closed bank in Athens, holding papers, a white marble building behind', at='Los bancos tardan tres semanas'))
 CRO("Grecia vota en referéndum el cinco de julio. Gana el no a las condiciones del rescate. Una semana después, su Gobierno acepta un acuerdo todavía más duro. Con los bancos cerrados, el margen para negociar se había esfumado.",
@@ -164,7 +164,7 @@ CRO("Lo que te protege, primero. Argentina guardaba sus ahorros en una moneda qu
     ph('European Central Bank headquarters Frankfurt', at='el Banco Central Europeo', lt=['Banco Central Europeo', 'Fráncfort', 'europa'], lugar='bce'),
     cd(dict(type='versus', left=dict(name='Argentina 2001', lines=['ahorros en dólares', 'que no podía imprimir']), right=dict(name='España hoy', lines=['ahorros en euros', 'con el BCE detrás'])), at='Argentina guardaba sus ahorros'))
 CRO("Segundo, el Fondo de Garantía de Depósitos. Si tu banco quiebra, cubre hasta cien mil euros por titular y por entidad. Es una norma europea, igual en los veintisiete países de la Unión.",
-    ph('Banco de España Madrid edificio', at='el Fondo de Garantía de Depósitos', lt=['Banco de España', 'Madrid', 'europa'], lugar='bde'),
+    cd(dict(type='kw', word='100.000 €', sub='por titular y por entidad · Fondo de Garantía de Depósitos'), at='el Fondo de Garantía de Depósitos'),
     cd(dict(type='counter', **{'from': 0}, to=100000, label='euros garantizados por titular y por entidad', suffix=' €'), at='hasta cien mil euros'))
 NEW("Y hay una tercera diferencia. La deuda argentina estaba en dólares: había que conseguir dólares para pagarla. La deuda pública española es alta, ronda el cien por cien del PIB, pero está en euros, la misma moneda en la que se cobran los impuestos.",
     cd(dict(type='versus', left=dict(name='Argentina 2001', lines=['deuda en dólares', 'moneda ajena']), right=dict(name='España hoy', lines=['deuda en euros', '≈ 100 % del PIB'])), at='La deuda argentina estaba en dólares'))

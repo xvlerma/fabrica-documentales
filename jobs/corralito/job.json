@@ -8,6 +8,13 @@
    "grande": "CORRALITO",
    "caja": "250 $ A LA SEMANA",
    "sub": "EL DÍA QUE LOS BANCOS SE QUEDARON TU DINERO"
+  },
+  {
+   "name": "B",
+   "commons": "Fernando de la Rúa - con banda - 1999.jpg",
+   "grande": "CORRALITO",
+   "caja": "¿Y EN ESPAÑA?",
+   "sub": "ARGENTINA 2001 · 250 PESOS A LA SEMANA"
   }
  ],
  "lugares": {
@@ -156,7 +163,7 @@
  "id": "corralito",
  "title": "El corralito argentino: el día que los bancos se quedaron tu dinero (¿podría pasar en España?)",
  "channel": "DocuVox",
- "stage": "cast",
+ "stage": "render",
  "align": true,
  "align_model": "small",
  "no_pad": true,
@@ -293,10 +300,2591 @@
   "assets/intro/docuvox.mp4"
  ],
  "seed": 2001,
- "qpicks": {},
+ "qpicks": {
+  "photo:Casa Rosada Buenos Aires": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Buenos_Aires_-_Monserrat_-_Frente_Casa_Rosada.jpg/1920px-Buenos_Aires_-_Monserrat_-_Frente_Casa_Rosada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3240,
+    "h": 4320,
+    "dur": 0,
+    "title": "File:Buenos Aires - Monserrat - Frente Casa Rosada.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Buenos_Aires_-_Monserrat_-_Frente_Casa_Rosada.jpg/1920px-Buenos_Aires_-_Monserrat_-_Frente_Casa_Rosada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Galio",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Monserrat_-_Frente_Casa_Rosada.jpg",
+    "id": "wm21041545"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Casa_Rosada%2C_Buenos_Aires%2C_Argentina.jpg/1920px-Casa_Rosada%2C_Buenos_Aires%2C_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3694,
+    "h": 2144,
+    "dur": 0,
+    "title": "File:Casa Rosada, Buenos Aires, Argentina.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Casa_Rosada%2C_Buenos_Aires%2C_Argentina.jpg/1920px-Casa_Rosada%2C_Buenos_Aires%2C_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Casa_Rosada,_Buenos_Aires,_Argentina.jpg",
+    "id": "wm17688409"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Casa_Rosada%2C_Buenos_Aires%2C_Argentina_%284866197425%29.jpg/1920px-Casa_Rosada%2C_Buenos_Aires%2C_Argentina_%284866197425%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2345,
+    "h": 1835,
+    "dur": 0,
+    "title": "File:Casa Rosada, Buenos Aires, Argentina (4866197425).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Casa_Rosada%2C_Buenos_Aires%2C_Argentina_%284866197425%29.jpg/1920px-Casa_Rosada%2C_Buenos_Aires%2C_Argentina_%284866197425%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Sergio Carvalho from Rio de Janeiro, RJ, Brasil",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Casa_Rosada,_Buenos_Aires,_Argentina_(4866197425).jpg",
+    "id": "wm79437639"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Casa_Rosada%2C_Buenos_Aires.JPG/1920px-Casa_Rosada%2C_Buenos_Aires.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4896,
+    "h": 3672,
+    "dur": 0,
+    "title": "File:Casa Rosada, Buenos Aires.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Casa_Rosada%2C_Buenos_Aires.JPG/1920px-Casa_Rosada%2C_Buenos_Aires.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Nathália Buzetto",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Casa_Rosada,_Buenos_Aires.JPG",
+    "id": "wm40424739"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Casa_Rosada%2C_Buenos_Aires_-_1.jpg/1920px-Casa_Rosada%2C_Buenos_Aires_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4160,
+    "h": 2615,
+    "dur": 0,
+    "title": "File:Casa Rosada, Buenos Aires - 1.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Casa_Rosada%2C_Buenos_Aires_-_1.jpg/1920px-Casa_Rosada%2C_Buenos_Aires_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Sombra Inquieta",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Casa_Rosada,_Buenos_Aires_-_1.jpg",
+    "id": "wm79674290"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Casa_Rosada_-_Buenos_Aires_%288556504814%29.jpg/1920px-Casa_Rosada_-_Buenos_Aires_%288556504814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3359,
+    "h": 2754,
+    "dur": 0,
+    "title": "File:Casa Rosada - Buenos Aires (8556504814).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Casa_Rosada_-_Buenos_Aires_%288556504814%29.jpg/1920px-Casa_Rosada_-_Buenos_Aires_%288556504814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Cyro A. Silva from Rio de Janeiro, Brasil",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Casa_Rosada_-_Buenos_Aires_(8556504814).jpg",
+    "id": "wm72508735"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Casa_Rosada_-_The_Casa_Rosada_from_Yrigoyen_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 640,
+    "h": 428,
+    "dur": 0,
+    "title": "File:Casa Rosada - The Casa Rosada from Yrigoyen Street.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Casa_Rosada_-_The_Casa_Rosada_from_Yrigoyen_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Juan Geracaris",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Casa_Rosada_-_The_Casa_Rosada_from_Yrigoyen_Street.jpg",
+    "id": "wm6204077"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Casa_Rosada_Buenos_Aires.JPG/1920px-Casa_Rosada_Buenos_Aires.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4320,
+    "h": 3240,
+    "dur": 0,
+    "title": "File:Casa Rosada Buenos Aires.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Casa_Rosada_Buenos_Aires.JPG/1920px-Casa_Rosada_Buenos_Aires.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Dragan",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Casa_Rosada_Buenos_Aires.JPG",
+    "id": "wm15572460"
+   }
+  ],
+  "photo:Fernando de la Rúa": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Fernando_De_La_R%C3%BAa_en_1973.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 808,
+    "h": 694,
+    "dur": 0,
+    "title": "File:Fernando De La Rúa en 1973.png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/13/Fernando_De_La_R%C3%BAa_en_1973.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Revista Panorama (Argentina)",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_De_La_R%C3%BAa_en_1973.png",
+    "id": "wm125035682"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fernando_De_la_R%C3%BAa%2C_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 502,
+    "h": 365,
+    "dur": 0,
+    "title": "File:Fernando De la Rúa, su hijo Antonio y Darío Lopérfido.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fernando_De_la_R%C3%BAa%2C_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_De_la_R%C3%BAa,_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg",
+    "id": "wm11958472"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Fernando_de_la_R%C3%BAa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 114,
+    "h": 146,
+    "dur": 0,
+    "title": "File:Fernando de la Rúa.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/79/Fernando_de_la_R%C3%BAa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_de_la_R%C3%BAa.jpg",
+    "id": "wm63876788"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Fernando_de_la_R%C3%BAa_-_con_banda_-_1999.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 60,
+    "h": 60,
+    "dur": 0,
+    "title": "File:Fernando de la Rúa - con banda - 1999.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/58/Fernando_de_la_R%C3%BAa_-_con_banda_-_1999.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_de_la_R%C3%BAa_-_con_banda_-_1999.jpg",
+    "id": "wm752887"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1080,
+    "h": 1350,
+    "dur": 0,
+    "title": "File:Fernando de la Rúa con bastón y banda de presidente.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg",
+    "id": "wm772020"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente_%28recortada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 496,
+    "h": 697,
+    "dur": 0,
+    "title": "File:Fernando de la Rúa con bastón y banda de presidente (recortada).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente_%28recortada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente_(recortada).jpg",
+    "id": "wm45383650"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Fernando_de_la_R%C3%BAa_en_1973.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 319,
+    "h": 342,
+    "dur": 0,
+    "title": "File:Fernando de la Rúa en 1973.png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Fernando_de_la_R%C3%BAa_en_1973.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_de_la_R%C3%BAa_en_1973.png",
+    "id": "wm75827711"
+   }
+  ],
+  "photo:Domingo Cavallo": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Domingo_Cavallo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 455,
+    "h": 617,
+    "dur": 0,
+    "title": "File:Domingo Cavallo (cropped).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/82/Domingo_Cavallo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Victor Hugo Bugge",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Domingo_Cavallo_(cropped).jpg",
+    "id": "wm30967155"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Domingo_Cavallo_02%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 350,
+    "h": 425,
+    "dur": 0,
+    "title": "File:Domingo Cavallo 02(cropped).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Domingo_Cavallo_02%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Cancillería Argentina",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Domingo_Cavallo_02(cropped).jpg",
+    "id": "wm97189559"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Domingo_Cavallo_2001_%28recortada%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 105,
+    "h": 145,
+    "dur": 0,
+    "title": "File:Domingo Cavallo 2001 (recortada).png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/81/Domingo_Cavallo_2001_%28recortada%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de Hacienda de la Nación Argentina",
+    "license": "CC BY 2.5 ar",
+    "page": "https://commons.wikimedia.org/wiki/File:Domingo_Cavallo_2001_(recortada).png",
+    "id": "wm85903038"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Domingo_Felipe_Cavallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 240,
+    "h": 160,
+    "dur": 0,
+    "title": "File:Domingo Felipe Cavallo.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Domingo_Felipe_Cavallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de Hacienda de la Nación Argentina",
+    "license": "CC BY 2.5 ar",
+    "page": "https://commons.wikimedia.org/wiki/File:Domingo_Felipe_Cavallo.jpg",
+    "id": "wm79749253"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/George_H_W_Bush_and_Domingo_Cavallo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 323,
+    "h": 349,
+    "dur": 0,
+    "title": "File:George H W Bush and Domingo Cavallo.png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8d/George_H_W_Bush_and_Domingo_Cavallo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Susan Biddle",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:George_H_W_Bush_and_Domingo_Cavallo.png",
+    "id": "wm81166817"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Mensaje_de_De_la_R%C3%BAa_con_Cavallo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 319,
+    "h": 361,
+    "dur": 0,
+    "title": "File:Mensaje de De la Rúa con Cavallo (cropped).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Mensaje_de_De_la_R%C3%BAa_con_Cavallo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Victor Buggé",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mensaje_de_De_la_R%C3%BAa_con_Cavallo_(cropped).jpg",
+    "id": "wm146233723"
+   }
+  ],
+  "photo:Palacio de Justicia de la Nación Buenos Aires": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Archivo_General_de_la_Naci%C3%B3n_Argentina_1890_aprox_Buenos_Aires%2C_Palacio_de_Justicia%2C_vista_desde_la_galer%C3%ADa_superior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 960,
+    "h": 723,
+    "dur": 0,
+    "title": "File:Archivo General de la Nación Argentina 1890 aprox Buenos Aires, Palacio de Justicia, vista desde la galería superior.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Archivo_General_de_la_Naci%C3%B3n_Argentina_1890_aprox_Buenos_Aires%2C_Palacio_de_Justicia%2C_vista_desde_la_galer%C3%ADa_superior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Archivo_General_de_la_Naci%C3%B3n_Argentina_1890_aprox_Buenos_Aires,_Palacio_de_Justicia,_vista_desde_la_galer%C3%ADa_superior.jpg",
+    "id": "wm34228140"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Buenos_Aires_-_Galer%C3%ADa_del_Palacio_de_Justicia_en_1910.jpg/1920px-Buenos_Aires_-_Galer%C3%ADa_del_Palacio_de_Justicia_en_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 5376,
+    "h": 3942,
+    "dur": 0,
+    "title": "File:Buenos Aires - Galería del Palacio de Justicia en 1910.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Buenos_Aires_-_Galer%C3%ADa_del_Palacio_de_Justicia_en_1910.jpg/1920px-Buenos_Aires_-_Galer%C3%ADa_del_Palacio_de_Justicia_en_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Archivo General de la Nación Argentina",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Galer%C3%ADa_del_Palacio_de_Justicia_en_1910.jpg",
+    "id": "wm43820578"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Buenos_Aires_-_Piedra_fundamental_en_Palacio_de_Justicia_%281904%29.jpg/1920px-Buenos_Aires_-_Piedra_fundamental_en_Palacio_de_Justicia_%281904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2737,
+    "h": 1915,
+    "dur": 0,
+    "title": "File:Buenos Aires - Piedra fundamental en Palacio de Justicia (1904).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Buenos_Aires_-_Piedra_fundamental_en_Palacio_de_Justicia_%281904%29.jpg/1920px-Buenos_Aires_-_Piedra_fundamental_en_Palacio_de_Justicia_%281904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Archivo General de la Nación Argentina",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Piedra_fundamental_en_Palacio_de_Justicia_(1904).jpg",
+    "id": "wm42957002"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/ID_472_Palacio_de_Justicia_de_la_Naci%C3%B3n_5006.jpg/1920px-ID_472_Palacio_de_Justicia_de_la_Naci%C3%B3n_5006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2608,
+    "h": 1739,
+    "dur": 0,
+    "title": "File:ID 472 Palacio de Justicia de la Nación 5006.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/ID_472_Palacio_de_Justicia_de_la_Naci%C3%B3n_5006.jpg/1920px-ID_472_Palacio_de_Justicia_de_la_Naci%C3%B3n_5006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Carlos Zito",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:ID_472_Palacio_de_Justicia_de_la_Naci%C3%B3n_5006.jpg",
+    "id": "wm28707582"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Palacio_de_Justicia_Buenos_Aires_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1024,
+    "h": 761,
+    "dur": 0,
+    "title": "File:Palacio de Justicia Buenos Aires 1910.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/22/Palacio_de_Justicia_Buenos_Aires_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Justicia_Buenos_Aires_1910.jpg",
+    "id": "wm31364977"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Palacio_de_Justicia_de_la_Naci%C3%B3n.jpg/1920px-Palacio_de_Justicia_de_la_Naci%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4272,
+    "h": 2848,
+    "dur": 0,
+    "title": "File:Palacio de Justicia de la Nación.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Palacio_de_Justicia_de_la_Naci%C3%B3n.jpg/1920px-Palacio_de_Justicia_de_la_Naci%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jrivell",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Justicia_de_la_Naci%C3%B3n.jpg",
+    "id": "wm28640177"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Palacio_de_Justicia_de_la_Naci%C3%B3n_01.jpg/1920px-Palacio_de_Justicia_de_la_Naci%C3%B3n_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4912,
+    "h": 3264,
+    "dur": 0,
+    "title": "File:Palacio de Justicia de la Nación 01.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Palacio_de_Justicia_de_la_Naci%C3%B3n_01.jpg/1920px-Palacio_de_Justicia_de_la_Naci%C3%B3n_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "GameOfLight",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Justicia_de_la_Naci%C3%B3n_01.jpg",
+    "id": "wm28725747"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Palacio_de_Justicia_de_la_Naci%C3%B3n_02.jpg/1920px-Palacio_de_Justicia_de_la_Naci%C3%B3n_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4585,
+    "h": 3264,
+    "dur": 0,
+    "title": "File:Palacio de Justicia de la Nación 02.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Palacio_de_Justicia_de_la_Naci%C3%B3n_02.jpg/1920px-Palacio_de_Justicia_de_la_Naci%C3%B3n_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "GameOfLight",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Justicia_de_la_Naci%C3%B3n_02.jpg",
+    "id": "wm28725746"
+   }
+  ],
+  "photo:Carlos Menem": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Carlos-menem-1989-crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 321,
+    "h": 401,
+    "dur": 0,
+    "title": "File:Carlos-menem-1989-crop.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/89/Carlos-menem-1989-crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Casa Rosada",
+    "license": "CC BY 2.5 ar",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos-menem-1989-crop.jpg",
+    "id": "wm97130369"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Carlos_Menem_and_George_Alleyne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 360,
+    "h": 293,
+    "dur": 0,
+    "title": "File:Carlos Menem and George Alleyne.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Carlos_Menem_and_George_Alleyne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_Menem_and_George_Alleyne.jpg",
+    "id": "wm80931400"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Carlos_Menem_with_Augusto_Fantozzi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 360,
+    "h": 248,
+    "dur": 0,
+    "title": "File:Carlos Menem with Augusto Fantozzi.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Carlos_Menem_with_Augusto_Fantozzi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_Menem_with_Augusto_Fantozzi.jpg",
+    "id": "wm80789255"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Carlos_Menem_y_Juan_Carlos_Romero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 354,
+    "h": 360,
+    "dur": 0,
+    "title": "File:Carlos Menem y Juan Carlos Romero.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Carlos_Menem_y_Juan_Carlos_Romero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_Menem_y_Juan_Carlos_Romero.jpg",
+    "id": "wm80931874"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Carlos_Menem_y_Juan_Carlos_Sacco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 338,
+    "h": 360,
+    "dur": 0,
+    "title": "File:Carlos Menem y Juan Carlos Sacco.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/32/Carlos_Menem_y_Juan_Carlos_Sacco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_Menem_y_Juan_Carlos_Sacco.jpg",
+    "id": "wm80686070"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Carlos_Menem_y_Juan_Carlos_Wasmosy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 360,
+    "h": 266,
+    "dur": 0,
+    "title": "File:Carlos Menem y Juan Carlos Wasmosy.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/99/Carlos_Menem_y_Juan_Carlos_Wasmosy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_Menem_y_Juan_Carlos_Wasmosy.jpg",
+    "id": "wm80643366"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Carlos_Menem_y_Ram%C3%B3n_Puerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 360,
+    "h": 268,
+    "dur": 0,
+    "title": "File:Carlos Menem y Ramón Puerta.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Carlos_Menem_y_Ram%C3%B3n_Puerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_Menem_y_Ram%C3%B3n_Puerta.jpg",
+    "id": "wm80475058"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Menem_con_banda_presidencial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1266,
+    "h": 1697,
+    "dur": 0,
+    "title": "File:Menem con banda presidencial.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/14/Menem_con_banda_presidencial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Menem_con_banda_presidencial.jpg",
+    "id": "wm4438688"
+   }
+  ],
+  "photo:Banco Central de la República Argentina edificio": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Banco_Central_de_la_Rep%C3%BAblica_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 750,
+    "h": 1000,
+    "dur": 0,
+    "title": "File:Banco Central de la República Argentina.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/22/Banco_Central_de_la_Rep%C3%BAblica_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "bennylope",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_la_Rep%C3%BAblica_Argentina.jpg",
+    "id": "wm9403965"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Banco_Central_de_la_Rep%C3%BAblica_Argentina_%28Reconquista%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1536,
+    "h": 2048,
+    "dur": 0,
+    "title": "File:Banco Central de la República Argentina (Reconquista).JPG",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/27/Banco_Central_de_la_Rep%C3%BAblica_Argentina_%28Reconquista%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Elsapucai",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_la_Rep%C3%BAblica_Argentina_(Reconquista).JPG",
+    "id": "wm8911723"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Banco_Central_de_la_Rep%C3%BAblica_Argentina_-_Buenos_Aires.jpg/1920px-Banco_Central_de_la_Rep%C3%BAblica_Argentina_-_Buenos_Aires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2448,
+    "h": 3264,
+    "dur": 0,
+    "title": "File:Banco Central de la República Argentina - Buenos Aires.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Banco_Central_de_la_Rep%C3%BAblica_Argentina_-_Buenos_Aires.jpg/1920px-Banco_Central_de_la_Rep%C3%BAblica_Argentina_-_Buenos_Aires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Banfield",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_la_Rep%C3%BAblica_Argentina_-_Buenos_Aires.jpg",
+    "id": "wm21040520"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Banco_Central_de_la_Rep%C3%BAblica_Argentina_en_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1920,
+    "h": 1121,
+    "dur": 0,
+    "title": "File:Banco Central de la República Argentina en 2016.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/30/Banco_Central_de_la_Rep%C3%BAblica_Argentina_en_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Casa Rosada",
+    "license": "CC BY 2.5 ar",
+    "page": "https://commons.wikimedia.org/wiki/File:Banco_Central_de_la_Rep%C3%BAblica_Argentina_en_2016.jpg",
+    "id": "wm46772520"
+   }
+  ],
+  "photo:Fernando de la Rúa presidente": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De_La_R%C3%BAa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 406,
+    "h": 470,
+    "dur": 0,
+    "title": "File:De La Rúa (cropped).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6a/De_La_R%C3%BAa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Embajada de EEUU en la Argentina",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:De_La_R%C3%BAa_(cropped).jpg",
+    "id": "wm68318399"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fernando_De_la_R%C3%BAa%2C_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 502,
+    "h": 365,
+    "dur": 0,
+    "title": "File:Fernando De la Rúa, su hijo Antonio y Darío Lopérfido.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/04/Fernando_De_la_R%C3%BAa%2C_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_De_la_R%C3%BAa,_su_hijo_Antonio_y_Dar%C3%ADo_Lop%C3%A9rfido.jpg",
+    "id": "wm11958472"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Fernando_de_la_R%C3%BAa_-_con_banda_-_1999.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 60,
+    "h": 60,
+    "dur": 0,
+    "title": "File:Fernando de la Rúa - con banda - 1999.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/58/Fernando_de_la_R%C3%BAa_-_con_banda_-_1999.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_de_la_R%C3%BAa_-_con_banda_-_1999.jpg",
+    "id": "wm752887"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Fernando_de_la_R%C3%BAa_Arturo_Valenzuela.jpg/1920px-Fernando_de_la_R%C3%BAa_Arturo_Valenzuela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3504,
+    "h": 2336,
+    "dur": 0,
+    "title": "File:Fernando de la Rúa Arturo Valenzuela.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Fernando_de_la_R%C3%BAa_Arturo_Valenzuela.jpg/1920px-Fernando_de_la_R%C3%BAa_Arturo_Valenzuela.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Embajada de EEUU, Buenos Aires",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_de_la_R%C3%BAa_Arturo_Valenzuela.jpg",
+    "id": "wm10701036"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1080,
+    "h": 1350,
+    "dur": 0,
+    "title": "File:Fernando de la Rúa con bastón y banda de presidente.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg",
+    "id": "wm772020"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente_%28recortada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 496,
+    "h": 697,
+    "dur": 0,
+    "title": "File:Fernando de la Rúa con bastón y banda de presidente (recortada).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente_%28recortada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente_(recortada).jpg",
+    "id": "wm45383650"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hugo_Ch%C3%A1vez_y_Fernando_de_la_R%C3%BAa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 879,
+    "h": 586,
+    "dur": 0,
+    "title": "File:Hugo Chávez y Fernando de la Rúa.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hugo_Ch%C3%A1vez_y_Fernando_de_la_R%C3%BAa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Victor Buggé",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hugo_Ch%C3%A1vez_y_Fernando_de_la_R%C3%BAa.jpg",
+    "id": "wm113518380"
+   }
+  ],
+  "photo:International Monetary Fund headquarters Washington": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/11_International_Monetary_Fund_IMF_in_Washington_DC_USA_-_Creative_Commons_CC-BY.jpg/1920px-11_International_Monetary_Fund_IMF_in_Washington_DC_USA_-_Creative_Commons_CC-BY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2592,
+    "h": 1728,
+    "dur": 0,
+    "title": "File:11 International Monetary Fund IMF in Washington DC USA - Creative Commons CC-BY.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/11_International_Monetary_Fund_IMF_in_Washington_DC_USA_-_Creative_Commons_CC-BY.jpg/1920px-11_International_Monetary_Fund_IMF_in_Washington_DC_USA_-_Creative_Commons_CC-BY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:11_International_Monetary_Fund_IMF_in_Washington_DC_USA_-_Creative_Commons_CC-BY.jpg",
+    "id": "wm135776463"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Didier_Reynders_%282001%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 735,
+    "h": 1009,
+    "dur": 0,
+    "title": "File:Didier Reynders (2001).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/47/Didier_Reynders_%282001%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "International Monetary Fund",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Didier_Reynders_(2001).jpg",
+    "id": "wm127211461"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Hans_Eichel_%282001%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1000,
+    "h": 1182,
+    "dur": 0,
+    "title": "File:Hans Eichel (2001).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/48/Hans_Eichel_%282001%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "International Monetary Fund",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Hans_Eichel_(2001).jpg",
+    "id": "wm127211458"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Headquarters_building_of_the_International_Monetary_fund%2C_Washington%2C_D.C_LCCN2011634654.tif/lossy-page1-1920px-Headquarters_building_of_the_International_Monetary_fund%2C_Washington%2C_D.C_LCCN2011634654.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 6187,
+    "h": 4762,
+    "dur": 0,
+    "title": "File:Headquarters building of the International Monetary fund, Washington, D.C LCCN2011634654.tif",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Headquarters_building_of_the_International_Monetary_fund%2C_Washington%2C_D.C_LCCN2011634654.tif/lossy-page1-1920px-Headquarters_building_of_the_International_Monetary_fund%2C_Washington%2C_D.C_LCCN2011634654.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Headquarters_building_of_the_International_Monetary_fund,_Washington,_D.C_LCCN2011634654.tif",
+    "id": "wm52185978"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/IMF_building_HR.jpg/1920px-IMF_building_HR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3642,
+    "h": 2877,
+    "dur": 0,
+    "title": "File:IMF building HR.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/IMF_building_HR.jpg/1920px-IMF_building_HR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "International Monetary Fund",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:IMF_building_HR.jpg",
+    "id": "wm163305066"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/International_Monetary_Fund_%28IMF%29_%2853844898894%29.jpg/1920px-International_Monetary_Fund_%28IMF%29_%2853844898894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3003,
+    "h": 3003,
+    "dur": 0,
+    "title": "File:International Monetary Fund (IMF) (53844898894).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/International_Monetary_Fund_%28IMF%29_%2853844898894%29.jpg/1920px-International_Monetary_Fund_%28IMF%29_%2853844898894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:International_Monetary_Fund_(IMF)_(53844898894).jpg",
+    "id": "wm150187172"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/International_Monetary_Fund_headquarters.jpg/1920px-International_Monetary_Fund_headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3433,
+    "h": 3231,
+    "dur": 0,
+    "title": "File:International Monetary Fund headquarters.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/International_Monetary_Fund_headquarters.jpg/1920px-International_Monetary_Fund_headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "APK",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:International_Monetary_Fund_headquarters.jpg",
+    "id": "wm188074443"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jurgen_Stark_%282001%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 432,
+    "h": 552,
+    "dur": 0,
+    "title": "File:Jurgen Stark (2001).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jurgen_Stark_%282001%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "International Monetary Fund",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jurgen_Stark_(2001).jpg",
+    "id": "wm127211456"
+   }
+  ],
+  "photo:Palacio de Hacienda Buenos Aires Ministerio de Economía": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/80_aniversario_del_Palacio_de_Hacienda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1280,
+    "h": 854,
+    "dur": 0,
+    "title": "File:80 aniversario del Palacio de Hacienda.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a6/80_aniversario_del_Palacio_de_Hacienda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de Economía de la Nación",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:80_aniversario_del_Palacio_de_Hacienda.jpg",
+    "id": "wm85431833"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Balazos_en_el_Ministerio_de_Econom%C3%ADa_03.jpg/1920px-Balazos_en_el_Ministerio_de_Econom%C3%ADa_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3456,
+    "h": 4608,
+    "dur": 0,
+    "title": "File:Balazos en el Ministerio de Economía 03.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Balazos_en_el_Ministerio_de_Econom%C3%ADa_03.jpg/1920px-Balazos_en_el_Ministerio_de_Econom%C3%ADa_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gastón Cuello",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Balazos_en_el_Ministerio_de_Econom%C3%ADa_03.jpg",
+    "id": "wm50394325"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Edificio_del_Ministerio_de_Econom%C3%ADa_de_la_Naci%C3%B3n_Argentina%2C_ubicado_sobre_la_calle_Hip%C3%B3lito_Yrigoyen%2C_frente_al_entorno_de_Plaza_de_Mayo%2C_en_la_Ciudad_de_Buenos_Aires.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4000,
+    "h": 3000,
+    "dur": 0,
+    "title": "File:Edificio del Ministerio de Economía de la Nación Argentina, ubicado sobre la calle Hipólito Yrigoyen, frente al entorno de Plaza de Mayo, en la Ciudad de Buenos Aires.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Edificio_del_Ministerio_de_Econom%C3%ADa_de_la_Naci%C3%B3n_Argentina%2C_ubicado_sobre_la_calle_Hip%C3%B3lito_Yrigoyen%2C_frente_al_entorno_de_Plaza_de_Mayo%2C_en_la_Ciudad_de_Buenos_Aires.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Horacio Cambeiro",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Edificio_del_Ministerio_de_Econom%C3%ADa_de_la_Naci%C3%B3n_Argentina,_ubicado_sobre_la_calle_Hip%C3%B3lito_Yrigoyen,_frente_al_entorno_de_Plaza_de_Mayo,_en_la_Ciudad_de_Buenos_Aires.jpg",
+    "id": "wm186624140"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Edificio_del_Ministerio_de_Econom%C3%ADa_de_la_Naci%C3%B3n_Argentina_sobre_la_calle_Hip%C3%B3lito_Yrigoyen%2C_en_las_inmediaciones_de_la_Plaza_de_Mayo%2C_en_la_Ciudad_de_Buenos_Aires.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4000,
+    "h": 3000,
+    "dur": 0,
+    "title": "File:Edificio del Ministerio de Economía de la Nación Argentina sobre la calle Hipólito Yrigoyen, en las inmediaciones de la Plaza de Mayo, en la Ciudad de Buenos Aires.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Edificio_del_Ministerio_de_Econom%C3%ADa_de_la_Naci%C3%B3n_Argentina_sobre_la_calle_Hip%C3%B3lito_Yrigoyen%2C_en_las_inmediaciones_de_la_Plaza_de_Mayo%2C_en_la_Ciudad_de_Buenos_Aires.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Horacio Cambeiro",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Edificio_del_Ministerio_de_Econom%C3%ADa_de_la_Naci%C3%B3n_Argentina_sobre_la_calle_Hip%C3%B3lito_Yrigoyen,_en_las_inmediaciones_de_la_Plaza_de_Mayo,_en_la_Ciudad_de_Buenos_Aires.jpg",
+    "id": "wm186624788"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Hall_de_entrada_del_Palacio_de_Hacienda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1063,
+    "h": 709,
+    "dur": 0,
+    "title": "File:Hall de entrada del Palacio de Hacienda.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/10/Hall_de_entrada_del_Palacio_de_Hacienda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de Economía",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Hall_de_entrada_del_Palacio_de_Hacienda.jpg",
+    "id": "wm138491651"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Palacio_de_Hacienda_%281937%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 378,
+    "h": 524,
+    "dur": 0,
+    "title": "File:Palacio de Hacienda (1937).JPG",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Palacio_de_Hacienda_%281937%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de Obras Públicas",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Hacienda_(1937).JPG",
+    "id": "wm8631660"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Palacio_de_Hacienda_%281940%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1467,
+    "h": 1119,
+    "dur": 0,
+    "title": "File:Palacio de Hacienda (1940).JPG",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Palacio_de_Hacienda_%281940%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Hacienda_(1940).JPG",
+    "id": "wm8631647"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Palacio_de_Hacienda_%28Ministerio_de_Econom%C3%ADa%29.JPG/1920px-Palacio_de_Hacienda_%28Ministerio_de_Econom%C3%ADa%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2048,
+    "h": 1536,
+    "dur": 0,
+    "title": "File:Palacio de Hacienda (Ministerio de Economía).JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Palacio_de_Hacienda_%28Ministerio_de_Econom%C3%ADa%29.JPG/1920px-Palacio_de_Hacienda_%28Ministerio_de_Econom%C3%ADa%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Elsapucai",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Hacienda_(Ministerio_de_Econom%C3%ADa).JPG",
+    "id": "wm12332235"
+   }
+  ],
+  "photo:Mendoza Argentina ciudad": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ciudad_de_Mendoza%2C_la_cuarta_ciudad_m%C3%A1s_poblada_del_pa%C3%ADs..jpg/1920px-Ciudad_de_Mendoza%2C_la_cuarta_ciudad_m%C3%A1s_poblada_del_pa%C3%ADs..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3809,
+    "h": 1992,
+    "dur": 0,
+    "title": "File:Ciudad de Mendoza, la cuarta ciudad más poblada del país..jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ciudad_de_Mendoza%2C_la_cuarta_ciudad_m%C3%A1s_poblada_del_pa%C3%ADs..jpg/1920px-Ciudad_de_Mendoza%2C_la_cuarta_ciudad_m%C3%A1s_poblada_del_pa%C3%ADs..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Itsmemarttin",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ciudad_de_Mendoza,_la_cuarta_ciudad_m%C3%A1s_poblada_del_pa%C3%ADs..jpg",
+    "id": "wm32029270"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Mendoza_-_Argentina_%2813898466860%29.jpg/1920px-Mendoza_-_Argentina_%2813898466860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2450,
+    "h": 1633,
+    "dur": 0,
+    "title": "File:Mendoza - Argentina (13898466860).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Mendoza_-_Argentina_%2813898466860%29.jpg/1920px-Mendoza_-_Argentina_%2813898466860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Miguel",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mendoza_-_Argentina_(13898466860).jpg",
+    "id": "wm85059914"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Mendoza_-_Argentina_%2814081866512%29.jpg/1920px-Mendoza_-_Argentina_%2814081866512%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2066,
+    "h": 1377,
+    "dur": 0,
+    "title": "File:Mendoza - Argentina (14081866512).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Mendoza_-_Argentina_%2814081866512%29.jpg/1920px-Mendoza_-_Argentina_%2814081866512%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Miguel",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mendoza_-_Argentina_(14081866512).jpg",
+    "id": "wm85059894"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Mendoza_-_Argentina_%2814081868562%29.jpg/1920px-Mendoza_-_Argentina_%2814081868562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2360,
+    "h": 1573,
+    "dur": 0,
+    "title": "File:Mendoza - Argentina (14081868562).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Mendoza_-_Argentina_%2814081868562%29.jpg/1920px-Mendoza_-_Argentina_%2814081868562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Miguel",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mendoza_-_Argentina_(14081868562).jpg",
+    "id": "wm85059895"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Mendoza_-_Argentina_%2814081944301%29.jpg/1920px-Mendoza_-_Argentina_%2814081944301%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4608,
+    "h": 3072,
+    "dur": 0,
+    "title": "File:Mendoza - Argentina (14081944301).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Mendoza_-_Argentina_%2814081944301%29.jpg/1920px-Mendoza_-_Argentina_%2814081944301%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Miguel",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mendoza_-_Argentina_(14081944301).jpg",
+    "id": "wm85059867"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Mendoza_-_Argentina_%2814085546814%29.jpg/1920px-Mendoza_-_Argentina_%2814085546814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2433,
+    "h": 1622,
+    "dur": 0,
+    "title": "File:Mendoza - Argentina (14085546814).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Mendoza_-_Argentina_%2814085546814%29.jpg/1920px-Mendoza_-_Argentina_%2814085546814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Miguel",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mendoza_-_Argentina_(14085546814).jpg",
+    "id": "wm85059855"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Mendoza_-_Argentina_%2814105095903%29.jpg/1920px-Mendoza_-_Argentina_%2814105095903%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2379,
+    "h": 1586,
+    "dur": 0,
+    "title": "File:Mendoza - Argentina (14105095903).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Mendoza_-_Argentina_%2814105095903%29.jpg/1920px-Mendoza_-_Argentina_%2814105095903%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Miguel",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mendoza_-_Argentina_(14105095903).jpg",
+    "id": "wm85059902"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Mendoza_-_Argentina_%2814105102983%29.jpg/1920px-Mendoza_-_Argentina_%2814105102983%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2816,
+    "h": 1872,
+    "dur": 0,
+    "title": "File:Mendoza - Argentina (14105102983).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Mendoza_-_Argentina_%2814105102983%29.jpg/1920px-Mendoza_-_Argentina_%2814105102983%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Miguel",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mendoza_-_Argentina_(14105102983).jpg",
+    "id": "wm85059908"
+   }
+  ],
+  "photo:Raúl Alfonsín": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Alberto_Fern%C3%A1ndez_-_Ra%C3%BAl_Alfons%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 450,
+    "h": 298,
+    "dur": 0,
+    "title": "File:Alberto Fernández - Raúl Alfonsín.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/76/Alberto_Fern%C3%A1ndez_-_Ra%C3%BAl_Alfons%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Pablo-flores",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Alberto_Fern%C3%A1ndez_-_Ra%C3%BAl_Alfons%C3%ADn.jpg",
+    "id": "wm450022"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Alfons%C3%ADn_y_Cristina.jpg/1920px-Alfons%C3%ADn_y_Cristina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2000,
+    "h": 1328,
+    "dur": 0,
+    "title": "File:Alfonsín y Cristina.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Alfons%C3%ADn_y_Cristina.jpg/1920px-Alfons%C3%ADn_y_Cristina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "No mention",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Alfons%C3%ADn_y_Cristina.jpg",
+    "id": "wm4923661"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Argentina.RaulAlfonsin.01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 480,
+    "h": 642,
+    "dur": 0,
+    "title": "File:Argentina.RaulAlfonsin.01.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/22/Argentina.RaulAlfonsin.01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Roosewelt Pinheiro",
+    "license": "CC BY 3.0 br",
+    "page": "https://commons.wikimedia.org/wiki/File:Argentina.RaulAlfonsin.01.jpg",
+    "id": "wm139728"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cristina_Fern%C3%A1ndez_en_homenaje_a_Ra%C3%BAl_Alfons%C3%ADn.jpg/1920px-Cristina_Fern%C3%A1ndez_en_homenaje_a_Ra%C3%BAl_Alfons%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2200,
+    "h": 1316,
+    "dur": 0,
+    "title": "File:Cristina Fernández en homenaje a Raúl Alfonsín.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cristina_Fern%C3%A1ndez_en_homenaje_a_Ra%C3%BAl_Alfons%C3%ADn.jpg/1920px-Cristina_Fern%C3%A1ndez_en_homenaje_a_Ra%C3%BAl_Alfons%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cristina_Fern%C3%A1ndez_en_homenaje_a_Ra%C3%BAl_Alfons%C3%ADn.jpg",
+    "id": "wm81743678"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/De_la_R%C3%BAa_recibe_a_Ra%C3%BAl_Alfons%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 700,
+    "h": 395,
+    "dur": 0,
+    "title": "File:De la Rúa recibe a Raúl Alfonsín.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/15/De_la_R%C3%BAa_recibe_a_Ra%C3%BAl_Alfons%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Victor Buggé",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:De_la_R%C3%BAa_recibe_a_Ra%C3%BAl_Alfons%C3%ADn.jpg",
+    "id": "wm113517590"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/N%C3%A9stor_Kirchner_y_Ra%C3%BAl_Alfons%C3%ADn-Buenos_Aires-Mayo_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1000,
+    "h": 664,
+    "dur": 0,
+    "title": "File:Néstor Kirchner y Raúl Alfonsín-Buenos Aires-Mayo 2004.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/12/N%C3%A9stor_Kirchner_y_Ra%C3%BAl_Alfons%C3%ADn-Buenos_Aires-Mayo_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Casa Rosada",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:N%C3%A9stor_Kirchner_y_Ra%C3%BAl_Alfons%C3%ADn-Buenos_Aires-Mayo_2004.jpg",
+    "id": "wm387343"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ribadumia%2C_Raul_Alfons%C3%ADn%2C_na_Pousada_01-02r.jpg/1920px-Ribadumia%2C_Raul_Alfons%C3%ADn%2C_na_Pousada_01-02r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2056,
+    "h": 3088,
+    "dur": 0,
+    "title": "File:Ribadumia, Raul Alfonsín, na Pousada 01-02r.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Ribadumia%2C_Raul_Alfons%C3%ADn%2C_na_Pousada_01-02r.jpg/1920px-Ribadumia%2C_Raul_Alfons%C3%ADn%2C_na_Pousada_01-02r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Lameiro",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ribadumia,_Raul_Alfons%C3%ADn,_na_Pousada_01-02r.jpg",
+    "id": "wm110686340"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Ribadumia%2C_Raul_Alfons%C3%ADn%2C_na_Pousada_01-03b.jpg/1920px-Ribadumia%2C_Raul_Alfons%C3%ADn%2C_na_Pousada_01-03b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2056,
+    "h": 3088,
+    "dur": 0,
+    "title": "File:Ribadumia, Raul Alfonsín, na Pousada 01-03b.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Ribadumia%2C_Raul_Alfons%C3%ADn%2C_na_Pousada_01-03b.jpg/1920px-Ribadumia%2C_Raul_Alfons%C3%ADn%2C_na_Pousada_01-03b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Lameiro",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ribadumia,_Raul_Alfons%C3%ADn,_na_Pousada_01-03b.jpg",
+    "id": "wm110686339"
+   }
+  ],
+  "photo:Plaza de Mayo Buenos Aires": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Buenos_Aires-Plaza_de_Mayo-Overview.jpg/1920px-Buenos_Aires-Plaza_de_Mayo-Overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2052,
+    "h": 3076,
+    "dur": 0,
+    "title": "File:Buenos Aires-Plaza de Mayo-Overview.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Buenos_Aires-Plaza_de_Mayo-Overview.jpg/1920px-Buenos_Aires-Plaza_de_Mayo-Overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Barcex",
+    "license": "CC BY-SA 2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Buenos_Aires-Plaza_de_Mayo-Overview.jpg",
+    "id": "wm543126"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Buenos_Aires_-_Plaza_de_Mayo.jpg/1920px-Buenos_Aires_-_Plaza_de_Mayo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2452,
+    "h": 4073,
+    "dur": 0,
+    "title": "File:Buenos Aires - Plaza de Mayo.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Buenos_Aires_-_Plaza_de_Mayo.jpg/1920px-Buenos_Aires_-_Plaza_de_Mayo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "P. Hughes",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Plaza_de_Mayo.jpg",
+    "id": "wm191932103"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_01.jpg/1920px-Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2486,
+    "h": 3933,
+    "dur": 0,
+    "title": "File:Pirámide de Mayo, Buenos Aires 01.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_01.jpg/1920px-Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pir%C3%A1mide_de_Mayo,_Buenos_Aires_01.jpg",
+    "id": "wm84997455"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_02.jpg/1920px-Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2627,
+    "h": 3940,
+    "dur": 0,
+    "title": "File:Pirámide de Mayo, Buenos Aires 02.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_02.jpg/1920px-Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pir%C3%A1mide_de_Mayo,_Buenos_Aires_02.jpg",
+    "id": "wm84997466"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_03.jpg/1920px-Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2278,
+    "h": 3417,
+    "dur": 0,
+    "title": "File:Pirámide de Mayo, Buenos Aires 03.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_03.jpg/1920px-Pir%C3%A1mide_de_Mayo%2C_Buenos_Aires_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pir%C3%A1mide_de_Mayo,_Buenos_Aires_03.jpg",
+    "id": "wm84997481"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Plaza_de_Mayo_EZ.jpg/1920px-Plaza_de_Mayo_EZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2304,
+    "h": 1536,
+    "dur": 0,
+    "title": "File:Plaza de Mayo EZ.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Plaza_de_Mayo_EZ.jpg/1920px-Plaza_de_Mayo_EZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Eurico Zimbres",
+    "license": "CC BY-SA 2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Plaza_de_Mayo_EZ.jpg",
+    "id": "wm846419"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Plaza_de_Mayo_from_the_Cabildo.jpg/1920px-Plaza_de_Mayo_from_the_Cabildo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 5000,
+    "h": 2350,
+    "dur": 0,
+    "title": "File:Plaza de Mayo from the Cabildo.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Plaza_de_Mayo_from_the_Cabildo.jpg/1920px-Plaza_de_Mayo_from_the_Cabildo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "The Cosmonaut",
+    "license": "CC BY-SA 2.5 ca",
+    "page": "https://commons.wikimedia.org/wiki/File:Plaza_de_Mayo_from_the_Cabildo.jpg",
+    "id": "wm90676303"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Plaza_de_Mayo_panorama.jpg/1920px-Plaza_de_Mayo_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 10055,
+    "h": 3305,
+    "dur": 0,
+    "title": "File:Plaza de Mayo panorama.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Plaza_de_Mayo_panorama.jpg/1920px-Plaza_de_Mayo_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "The Cosmonaut",
+    "license": "CC BY-SA 2.5 ca",
+    "page": "https://commons.wikimedia.org/wiki/File:Plaza_de_Mayo_panorama.jpg",
+    "id": "wm90645131"
+   }
+  ],
+  "photo:Congreso de la Nación Argentina edificio": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Atardecer_en_el_Congreso_de_la_Naci%C3%B3n_Argentina.jpg/1920px-Atardecer_en_el_Congreso_de_la_Naci%C3%B3n_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3960,
+    "h": 2630,
+    "dur": 0,
+    "title": "File:Atardecer en el Congreso de la Nación Argentina.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Atardecer_en_el_Congreso_de_la_Naci%C3%B3n_Argentina.jpg/1920px-Atardecer_en_el_Congreso_de_la_Naci%C3%B3n_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Miguel César",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Atardecer_en_el_Congreso_de_la_Naci%C3%B3n_Argentina.jpg",
+    "id": "wm21367316"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Congreso_de_la_Naci%C3%B3n_Argentina_-_C%C3%BApula.JPG/1920px-Congreso_de_la_Naci%C3%B3n_Argentina_-_C%C3%BApula.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2472,
+    "h": 3296,
+    "dur": 0,
+    "title": "File:Congreso de la Nación Argentina - Cúpula.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Congreso_de_la_Naci%C3%B3n_Argentina_-_C%C3%BApula.JPG/1920px-Congreso_de_la_Naci%C3%B3n_Argentina_-_C%C3%BApula.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gelpgim22 (Sergio Panei Pitrau)",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Congreso_de_la_Naci%C3%B3n_Argentina_-_C%C3%BApula.JPG",
+    "id": "wm18024092"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Congreso_de_la_Naci%C3%B3n_Argentina_-_Detalle_del_ala_izquierda.JPG/1920px-Congreso_de_la_Naci%C3%B3n_Argentina_-_Detalle_del_ala_izquierda.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2472,
+    "h": 3296,
+    "dur": 0,
+    "title": "File:Congreso de la Nación Argentina - Detalle del ala izquierda.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Congreso_de_la_Naci%C3%B3n_Argentina_-_Detalle_del_ala_izquierda.JPG/1920px-Congreso_de_la_Naci%C3%B3n_Argentina_-_Detalle_del_ala_izquierda.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gelpgim22 (Sergio Panei Pitrau)",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Congreso_de_la_Naci%C3%B3n_Argentina_-_Detalle_del_ala_izquierda.JPG",
+    "id": "wm17994379"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Congreso_de_la_Naci%C3%B3n_Argentina_-_Hemiciclo.JPG/1920px-Congreso_de_la_Naci%C3%B3n_Argentina_-_Hemiciclo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3296,
+    "h": 2472,
+    "dur": 0,
+    "title": "File:Congreso de la Nación Argentina - Hemiciclo.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Congreso_de_la_Naci%C3%B3n_Argentina_-_Hemiciclo.JPG/1920px-Congreso_de_la_Naci%C3%B3n_Argentina_-_Hemiciclo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gelpgim22 (Sergio Panei Pitrau)",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Congreso_de_la_Naci%C3%B3n_Argentina_-_Hemiciclo.JPG",
+    "id": "wm18023976"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Congreso_de_la_Naci%C3%B3n_Argentina_-_Ornamento.JPG/1920px-Congreso_de_la_Naci%C3%B3n_Argentina_-_Ornamento.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3296,
+    "h": 2472,
+    "dur": 0,
+    "title": "File:Congreso de la Nación Argentina - Ornamento.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Congreso_de_la_Naci%C3%B3n_Argentina_-_Ornamento.JPG/1920px-Congreso_de_la_Naci%C3%B3n_Argentina_-_Ornamento.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gelpgim22 (Sergio Panei Pitrau)",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Congreso_de_la_Naci%C3%B3n_Argentina_-_Ornamento.JPG",
+    "id": "wm18024298"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Congreso_de_la_Naci%C3%B3n_Argentina_-_Parte_frontal.JPG/1920px-Congreso_de_la_Naci%C3%B3n_Argentina_-_Parte_frontal.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3296,
+    "h": 2472,
+    "dur": 0,
+    "title": "File:Congreso de la Nación Argentina - Parte frontal.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Congreso_de_la_Naci%C3%B3n_Argentina_-_Parte_frontal.JPG/1920px-Congreso_de_la_Naci%C3%B3n_Argentina_-_Parte_frontal.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Gelpgim22 (Sergio Panei Pitrau)",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Congreso_de_la_Naci%C3%B3n_Argentina_-_Parte_frontal.JPG",
+    "id": "wm17994450"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Congreso_de_la_Naci%C3%B3n_Argentina_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 173,
+    "h": 115,
+    "dur": 0,
+    "title": "File:Congreso de la Nación Argentina 1.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Congreso_de_la_Naci%C3%B3n_Argentina_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Congreso de la Nación Argentina",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Congreso_de_la_Naci%C3%B3n_Argentina_1.jpg",
+    "id": "wm9704233"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Congreso_de_la_Naci%C3%B3n_Argentina_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 173,
+    "h": 115,
+    "dur": 0,
+    "title": "File:Congreso de la Nación Argentina 10.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Congreso_de_la_Naci%C3%B3n_Argentina_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Congreso de la Nación Argentina",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Congreso_de_la_Naci%C3%B3n_Argentina_10.jpg",
+    "id": "wm9704340"
+   }
+  ],
+  "photo:Avenida de Mayo Buenos Aires": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Avenida_de_Mayo%2C_Buenos_Aires%2C_Argentina_-_panoramio.jpg/1920px-Avenida_de_Mayo%2C_Buenos_Aires%2C_Argentina_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2048,
+    "h": 1536,
+    "dur": 0,
+    "title": "File:Avenida de Mayo, Buenos Aires, Argentina - panoramio.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Avenida_de_Mayo%2C_Buenos_Aires%2C_Argentina_-_panoramio.jpg/1920px-Avenida_de_Mayo%2C_Buenos_Aires%2C_Argentina_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Paulo JC Nogueira",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Avenida_de_Mayo,_Buenos_Aires,_Argentina_-_panoramio.jpg",
+    "id": "wm55056443"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Avenida_de_Mayo%2C_Buenos_Aires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1200,
+    "h": 1600,
+    "dur": 0,
+    "title": "File:Avenida de Mayo, Buenos Aires.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/55/Avenida_de_Mayo%2C_Buenos_Aires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Benjamin Voss",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Avenida_de_Mayo,_Buenos_Aires.jpg",
+    "id": "wm5049783"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Avenida_de_Mayo_-_panoramio.jpg/1920px-Avenida_de_Mayo_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2736,
+    "h": 3648,
+    "dur": 0,
+    "title": "File:Avenida de Mayo - panoramio.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Avenida_de_Mayo_-_panoramio.jpg/1920px-Avenida_de_Mayo_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Aleksandrs Timofejev…",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Avenida_de_Mayo_-_panoramio.jpg",
+    "id": "wm56543856"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Buenos_Aires-Avenida_de_Mayo_y_Per%C3%BA.jpg/1920px-Buenos_Aires-Avenida_de_Mayo_y_Per%C3%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2048,
+    "h": 1435,
+    "dur": 0,
+    "title": "File:Buenos Aires-Avenida de Mayo y Perú.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Buenos_Aires-Avenida_de_Mayo_y_Per%C3%BA.jpg/1920px-Buenos_Aires-Avenida_de_Mayo_y_Per%C3%BA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Roberto Fiadone",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Buenos_Aires-Avenida_de_Mayo_y_Per%C3%BA.jpg",
+    "id": "wm533985"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Buenos_Aires_-_Avenida_de_Mayo_767_al_777.jpg/1920px-Buenos_Aires_-_Avenida_de_Mayo_767_al_777.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2972,
+    "h": 1959,
+    "dur": 0,
+    "title": "File:Buenos Aires - Avenida de Mayo 767 al 777.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Buenos_Aires_-_Avenida_de_Mayo_767_al_777.jpg/1920px-Buenos_Aires_-_Avenida_de_Mayo_767_al_777.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Beatrice Murch from Buenos  Aires, Argentina",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Avenida_de_Mayo_767_al_777.jpg",
+    "id": "wm3108866"
+   }
+  ],
+  "photo:Ramón Puerta": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Carlos_Menem_y_Ram%C3%B3n_Puerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 360,
+    "h": 268,
+    "dur": 0,
+    "title": "File:Carlos Menem y Ramón Puerta.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Carlos_Menem_y_Ram%C3%B3n_Puerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_Menem_y_Ram%C3%B3n_Puerta.jpg",
+    "id": "wm80475058"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Conferencia_de_prensa_de_Ram%C3%B3n_Puerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 427,
+    "h": 349,
+    "dur": 0,
+    "title": "File:Conferencia de prensa de Ramón Puerta.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Conferencia_de_prensa_de_Ram%C3%B3n_Puerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Casa Rosada",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Conferencia_de_prensa_de_Ram%C3%B3n_Puerta.jpg",
+    "id": "wm63878690"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Menem_y_Ram%C3%B3n_Puerta_en_Yacyret%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 360,
+    "h": 305,
+    "dur": 0,
+    "title": "File:Menem y Ramón Puerta en Yacyretá.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Menem_y_Ram%C3%B3n_Puerta_en_Yacyret%C3%A1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Menem_y_Ram%C3%B3n_Puerta_en_Yacyret%C3%A1.jpg",
+    "id": "wm80475061"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ram%C3%B3n_Puerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 588,
+    "h": 720,
+    "dur": 0,
+    "title": "File:Ramón Puerta.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ram%C3%B3n_Puerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Belb",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ram%C3%B3n_Puerta.jpg",
+    "id": "wm4394174"
+   }
+  ],
+  "photo:Adolfo Rodríguez Saá": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Adolfo_Rodr%C3%ADguez_Saa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 300,
+    "h": 197,
+    "dur": 0,
+    "title": "File:Adolfo Rodríguez Saa.JPG",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Adolfo_Rodr%C3%ADguez_Saa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Presidencia de la Nación",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Adolfo_Rodr%C3%ADguez_Saa.JPG",
+    "id": "wm3833065"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Adolfo_Rodr%C3%ADguez_Sa%C3%A1-2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 227,
+    "h": 243,
+    "dur": 0,
+    "title": "File:Adolfo Rodríguez Saá-2.JPG",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Adolfo_Rodr%C3%ADguez_Sa%C3%A1-2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Adolfo_Rodr%C3%ADguez_Sa%C3%A1-2.JPG",
+    "id": "wm42274905"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Adolfo_Rodr%C3%ADguez_Sa%C3%A1_-_Diputados.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 240,
+    "h": 240,
+    "dur": 0,
+    "title": "File:Adolfo Rodríguez Saá - Diputados.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Adolfo_Rodr%C3%ADguez_Sa%C3%A1_-_Diputados.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Cámara de Diputados de la Nación Argentina",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Adolfo_Rodr%C3%ADguez_Sa%C3%A1_-_Diputados.jpg",
+    "id": "wm75515999"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Adolfo_Rodr%C3%ADguez_Sa%C3%A1_-_Senado.gov.ar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 100,
+    "h": 112,
+    "dur": 0,
+    "title": "File:Adolfo Rodríguez Saá - Senado.gov.ar.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Adolfo_Rodr%C3%ADguez_Sa%C3%A1_-_Senado.gov.ar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Senado de la Nación",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Adolfo_Rodr%C3%ADguez_Sa%C3%A1_-_Senado.gov.ar.jpg",
+    "id": "wm83629907"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Adolfo_Rodr%C3%ADguez_Sa%C3%A1_MM.jpg/1920px-Adolfo_Rodr%C3%ADguez_Sa%C3%A1_MM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4888,
+    "h": 4016,
+    "dur": 0,
+    "title": "File:Adolfo Rodríguez Saá MM.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Adolfo_Rodr%C3%ADguez_Sa%C3%A1_MM.jpg/1920px-Adolfo_Rodr%C3%ADguez_Sa%C3%A1_MM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Presidencia de la Nacion Argentina",
+    "license": "CC BY 2.5 ar",
+    "page": "https://commons.wikimedia.org/wiki/File:Adolfo_Rodr%C3%ADguez_Sa%C3%A1_MM.jpg",
+    "id": "wm45603675"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Adolfo_Rodr%C3%ADguez_Sa%C3%A1_con_banda_presidencial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 948,
+    "h": 1600,
+    "dur": 0,
+    "title": "File:Adolfo Rodríguez Saá con banda presidencial.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Adolfo_Rodr%C3%ADguez_Sa%C3%A1_con_banda_presidencial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Adolfo_Rodr%C3%ADguez_Sa%C3%A1_con_banda_presidencial.jpg",
+    "id": "wm2886707"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Adolfo_Rodr%C3%ADguez_Sa%C3%A1_senador.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 124,
+    "h": 124,
+    "dur": 0,
+    "title": "File:Adolfo Rodríguez Saá senador.png",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/71/Adolfo_Rodr%C3%ADguez_Sa%C3%A1_senador.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Argentine Senate",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Adolfo_Rodr%C3%ADguez_Sa%C3%A1_senador.png",
+    "id": "wm54125748"
+   }
+  ],
+  "photo:José María Aznar": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Jos%C3%A9_Mar%C3%ADa_Aznar_impone_al_diputado_Enrique_M%C3%BAgica_la_Gran_Cruz_de_la_Orden_de_Isabel_la_Cat%C3%B3lica._Pool_Moncloa._12_de_mayo_de_1999_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 481,
+    "h": 629,
+    "dur": 0,
+    "title": "File:José María Aznar impone al diputado Enrique Múgica la Gran Cruz de la Orden de Isabel la Católica. Pool Moncloa. 12 de mayo de 1999 (cropped).jpeg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Jos%C3%A9_Mar%C3%ADa_Aznar_impone_al_diputado_Enrique_M%C3%BAgica_la_Gran_Cruz_de_la_Orden_de_Isabel_la_Cat%C3%B3lica._Pool_Moncloa._12_de_mayo_de_1999_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)",
+    "license": "Attribution",
+    "page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_impone_al_diputado_Enrique_M%C3%BAgica_la_Gran_Cruz_de_la_Orden_de_Isabel_la_Cat%C3%B3lica._Pool_Moncloa._12_de_mayo_de_1999_(cropped).jpeg",
+    "id": "wm64973313"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jos%C3%A9_Mar%C3%ADa_Aznar_inaugura_el_I_Mercado_Iberoamericano_de_la_Industria_Audiovisual.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 764,
+    "h": 1052,
+    "dur": 0,
+    "title": "File:José María Aznar inaugura el I Mercado Iberoamericano de la Industria Audiovisual.jpeg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jos%C3%A9_Mar%C3%ADa_Aznar_inaugura_el_I_Mercado_Iberoamericano_de_la_Industria_Audiovisual.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)",
+    "license": "Attribution",
+    "page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_inaugura_el_I_Mercado_Iberoamericano_de_la_Industria_Audiovisual.jpeg",
+    "id": "wm64947862"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Jos%C3%A9_Mar%C3%ADa_Aznar_inaugura_el_I_Mercado_Iberoamericano_de_la_Industria_Audiovisual_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 497,
+    "h": 663,
+    "dur": 0,
+    "title": "File:José María Aznar inaugura el I Mercado Iberoamericano de la Industria Audiovisual (cropped).jpeg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/20/Jos%C3%A9_Mar%C3%ADa_Aznar_inaugura_el_I_Mercado_Iberoamericano_de_la_Industria_Audiovisual_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)",
+    "license": "Attribution",
+    "page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_inaugura_el_I_Mercado_Iberoamericano_de_la_Industria_Audiovisual_(cropped).jpeg",
+    "id": "wm64972931"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_a_la_alcaldesa_de_C%C3%A1diz._Pool_Moncloa._31_de_mayo_de_2000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1576,
+    "h": 1052,
+    "dur": 0,
+    "title": "File:José María Aznar recibe a la alcaldesa de Cádiz. Pool Moncloa. 31 de mayo de 2000.jpeg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_a_la_alcaldesa_de_C%C3%A1diz._Pool_Moncloa._31_de_mayo_de_2000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)",
+    "license": "Attribution",
+    "page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_a_la_alcaldesa_de_C%C3%A1diz._Pool_Moncloa._31_de_mayo_de_2000.jpeg",
+    "id": "wm65561702"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_a_los_representantes_sindicales._Pool_Moncloa._15_de_mayo_de_1996.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1477,
+    "h": 1052,
+    "dur": 0,
+    "title": "File:José María Aznar recibe a los representantes sindicales. Pool Moncloa. 15 de mayo de 1996.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_a_los_representantes_sindicales._Pool_Moncloa._15_de_mayo_de_1996.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)",
+    "license": "Attribution",
+    "page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_a_los_representantes_sindicales._Pool_Moncloa._15_de_mayo_de_1996.jpg",
+    "id": "wm64863558"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_al_alcalde_de_Madrid._Pool_Moncloa._19_de_junio_de_1996.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1439,
+    "h": 1052,
+    "dur": 0,
+    "title": "File:José María Aznar recibe al alcalde de Madrid. Pool Moncloa. 19 de junio de 1996.jpeg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_al_alcalde_de_Madrid._Pool_Moncloa._19_de_junio_de_1996.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)",
+    "license": "Attribution",
+    "page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_al_alcalde_de_Madrid._Pool_Moncloa._19_de_junio_de_1996.jpeg",
+    "id": "wm64947579"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_al_alcalde_de_Toledo._Pool_Moncloa._30_de_septiembre_de_2003.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 777,
+    "h": 1052,
+    "dur": 0,
+    "title": "File:José María Aznar recibe al alcalde de Toledo. Pool Moncloa. 30 de septiembre de 2003.jpeg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/47/Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_al_alcalde_de_Toledo._Pool_Moncloa._30_de_septiembre_de_2003.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)",
+    "license": "Attribution",
+    "page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_al_alcalde_de_Toledo._Pool_Moncloa._30_de_septiembre_de_2003.jpeg",
+    "id": "wm64886941"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_al_coordinador_general_de_IU._Pool_Moncloa._30_de_noviembre_de_1999.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 771,
+    "h": 1052,
+    "dur": 0,
+    "title": "File:José María Aznar recibe al coordinador general de IU. Pool Moncloa. 30 de noviembre de 1999.jpeg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_al_coordinador_general_de_IU._Pool_Moncloa._30_de_noviembre_de_1999.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)",
+    "license": "Attribution",
+    "page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mar%C3%ADa_Aznar_recibe_al_coordinador_general_de_IU._Pool_Moncloa._30_de_noviembre_de_1999.jpeg",
+    "id": "wm64941872"
+   }
+  ],
+  "photo:Eduardo Camaño": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ecamano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 300,
+    "h": 400,
+    "dur": 0,
+    "title": "File:Ecamano.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ecamano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Unknown authorUnknown author",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ecamano.jpg",
+    "id": "wm47203526"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Eduardo_Cama%C3%B1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 265,
+    "h": 240,
+    "dur": 0,
+    "title": "File:Eduardo Camaño.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Eduardo_Cama%C3%B1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "No mention",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Eduardo_Cama%C3%B1o.jpg",
+    "id": "wm6411193"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Eduardo_Cama%C3%B1o_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 356,
+    "h": 336,
+    "dur": 0,
+    "title": "File:Eduardo Camaño (2).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/51/Eduardo_Cama%C3%B1o_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Presidencia de la Nacion Argentina",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eduardo_Cama%C3%B1o_(2).jpg",
+    "id": "wm2873488"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Eduardo_Cama%C3%B1o_-_CasaRosada.gob.ar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 140,
+    "h": 178,
+    "dur": 0,
+    "title": "File:Eduardo Camaño - CasaRosada.gob.ar.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Eduardo_Cama%C3%B1o_-_CasaRosada.gob.ar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Casa Rosada",
+    "license": "CC BY 2.5 ar",
+    "page": "https://commons.wikimedia.org/wiki/File:Eduardo_Cama%C3%B1o_-_CasaRosada.gob.ar.jpg",
+    "id": "wm80437321"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Eduardo_Cama%C3%B1o_-_Diputados.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 240,
+    "h": 240,
+    "dur": 0,
+    "title": "File:Eduardo Camaño - Diputados.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/50/Eduardo_Cama%C3%B1o_-_Diputados.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Cámara de Diputados de la Nación",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Eduardo_Cama%C3%B1o_-_Diputados.jpg",
+    "id": "wm75503955"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Eduardo_Cama%C3%B1o_Presidente_Interino_de_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 400,
+    "h": 500,
+    "dur": 0,
+    "title": "File:Eduardo Camaño Presidente Interino de Argentina.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Eduardo_Cama%C3%B1o_Presidente_Interino_de_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Cámara de Diputados de la Nación Argentina",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Eduardo_Cama%C3%B1o_Presidente_Interino_de_Argentina.jpg",
+    "id": "wm185474277"
+   }
+  ],
+  "photo:Eduardo Duhalde": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Carlos_Menem_y_Eduardo_Duhalde_en_acto_en_Ensenada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 460,
+    "h": 330,
+    "dur": 0,
+    "title": "File:Carlos Menem y Eduardo Duhalde en acto en Ensenada.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/74/Carlos_Menem_y_Eduardo_Duhalde_en_acto_en_Ensenada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_Menem_y_Eduardo_Duhalde_en_acto_en_Ensenada.jpg",
+    "id": "wm81248967"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Duhalde23012007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 979,
+    "h": 1452,
+    "dur": 0,
+    "title": "File:Duhalde23012007.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Duhalde23012007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Fabio Pozzebom/ABr",
+    "license": "CC BY 3.0 br",
+    "page": "https://commons.wikimedia.org/wiki/File:Duhalde23012007.jpg",
+    "id": "wm1594268"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Duhalde_en_la_CGT_%28cropped%29.jpg/1920px-Duhalde_en_la_CGT_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2035,
+    "h": 2592,
+    "dur": 0,
+    "title": "File:Duhalde en la CGT (cropped).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Duhalde_en_la_CGT_%28cropped%29.jpg/1920px-Duhalde_en_la_CGT_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Víctor Santa María",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Duhalde_en_la_CGT_(cropped).jpg",
+    "id": "wm147813947"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Eduardo_Duhalde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 800,
+    "h": 501,
+    "dur": 0,
+    "title": "File:Eduardo Duhalde.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Eduardo_Duhalde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Damian Zanini",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eduardo_Duhalde.jpg",
+    "id": "wm15611188"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Eduardo_Duhalde_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 491,
+    "h": 540,
+    "dur": 0,
+    "title": "File:Eduardo Duhalde 1974.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Eduardo_Duhalde_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Archivo Diario La Nación",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Eduardo_Duhalde_1974.jpg",
+    "id": "wm16886505"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Eduardo_Duhalde_Rural_2010.jpg/1920px-Eduardo_Duhalde_Rural_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4000,
+    "h": 3000,
+    "dur": 0,
+    "title": "File:Eduardo Duhalde Rural 2010.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Eduardo_Duhalde_Rural_2010.jpg/1920px-Eduardo_Duhalde_Rural_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "BugWarp",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eduardo_Duhalde_Rural_2010.jpg",
+    "id": "wm69078410"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Eduardo_Duhalde_en_Ensenada_en_1997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 180,
+    "h": 240,
+    "dur": 0,
+    "title": "File:Eduardo Duhalde en Ensenada en 1997.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Eduardo_Duhalde_en_Ensenada_en_1997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Víctor Bugge",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Eduardo_Duhalde_en_Ensenada_en_1997.jpg",
+    "id": "wm159234911"
+   }
+  ],
+  "photo:Mar del Plata ciudad": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Atardecer_en_Mar_del_Plata_II.jpg/1920px-Atardecer_en_Mar_del_Plata_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2592,
+    "h": 1944,
+    "dur": 0,
+    "title": "File:Atardecer en Mar del Plata II.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Atardecer_en_Mar_del_Plata_II.jpg/1920px-Atardecer_en_Mar_del_Plata_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wikimh",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Atardecer_en_Mar_del_Plata_II.jpg",
+    "id": "wm17583292"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Ciudad_Mar_del_Plata%2C_Argentina.jpg/1920px-Ciudad_Mar_del_Plata%2C_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2800,
+    "h": 2100,
+    "dur": 0,
+    "title": "File:Ciudad Mar del Plata, Argentina.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Ciudad_Mar_del_Plata%2C_Argentina.jpg/1920px-Ciudad_Mar_del_Plata%2C_Argentina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "PABLO GONZALEZ",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ciudad_Mar_del_Plata,_Argentina.jpg",
+    "id": "wm21635039"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Mar_del_Plata_City.jpg/1920px-Mar_del_Plata_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3264,
+    "h": 1840,
+    "dur": 0,
+    "title": "File:Mar del Plata City.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Mar_del_Plata_City.jpg/1920px-Mar_del_Plata_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "EduWiki",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mar_del_Plata_City.jpg",
+    "id": "wm100330452"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Mar_del_Plata_Ro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 720,
+    "h": 1209,
+    "dur": 0,
+    "title": "File:Mar del Plata Ro.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/78/Mar_del_Plata_Ro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Rodri-Biblio",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mar_del_Plata_Ro.jpg",
+    "id": "wm118663624"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Mar_del_Plata_vista_desde_el_mar.jpg/1920px-Mar_del_Plata_vista_desde_el_mar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3264,
+    "h": 2448,
+    "dur": 0,
+    "title": "File:Mar del Plata vista desde el mar.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Mar_del_Plata_vista_desde_el_mar.jpg/1920px-Mar_del_Plata_vista_desde_el_mar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Banfield",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mar_del_Plata_vista_desde_el_mar.jpg",
+    "id": "wm15016028"
+   }
+  ],
+  "photo:Montevideo ciudad": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Calle_Washington_en_Ciudad_Vieja%2C_Montevideo%2C_Uruguay.jpg/1920px-Calle_Washington_en_Ciudad_Vieja%2C_Montevideo%2C_Uruguay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 6000,
+    "h": 4000,
+    "dur": 0,
+    "title": "File:Calle Washington en Ciudad Vieja, Montevideo, Uruguay.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Calle_Washington_en_Ciudad_Vieja%2C_Montevideo%2C_Uruguay.jpg/1920px-Calle_Washington_en_Ciudad_Vieja%2C_Montevideo%2C_Uruguay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Intendencia de Montevideo",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Calle_Washington_en_Ciudad_Vieja,_Montevideo,_Uruguay.jpg",
+    "id": "wm122735940"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Ciudad_Vieja_de_Montevideo_-_0547FMHB.tif/lossy-page1-1920px-Ciudad_Vieja_de_Montevideo_-_0547FMHB.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 7200,
+    "h": 5458,
+    "dur": 0,
+    "title": "File:Ciudad Vieja de Montevideo - 0547FMHB.tif",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Ciudad_Vieja_de_Montevideo_-_0547FMHB.tif/lossy-page1-1920px-Ciudad_Vieja_de_Montevideo_-_0547FMHB.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ciudad_Vieja_de_Montevideo_-_0547FMHB.tif",
+    "id": "wm147246486"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ciudad_Vieja_de_Montevideo_a%C3%A9reo.jpg/1920px-Ciudad_Vieja_de_Montevideo_a%C3%A9reo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 5277,
+    "h": 2966,
+    "dur": 0,
+    "title": "File:Ciudad Vieja de Montevideo aéreo.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ciudad_Vieja_de_Montevideo_a%C3%A9reo.jpg/1920px-Ciudad_Vieja_de_Montevideo_a%C3%A9reo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Fedaro",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ciudad_Vieja_de_Montevideo_a%C3%A9reo.jpg",
+    "id": "wm65114723"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ciudad_Vieja_y_puerto_de_Montevideo_-_02493FMHGE.tif/lossy-page1-1920px-Ciudad_Vieja_y_puerto_de_Montevideo_-_02493FMHGE.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 7200,
+    "h": 5506,
+    "dur": 0,
+    "title": "File:Ciudad Vieja y puerto de Montevideo - 02493FMHGE.tif",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ciudad_Vieja_y_puerto_de_Montevideo_-_02493FMHGE.tif/lossy-page1-1920px-Ciudad_Vieja_y_puerto_de_Montevideo_-_02493FMHGE.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Ciudad_Vieja_y_puerto_de_Montevideo_-_02493FMHGE.tif",
+    "id": "wm147117764"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Collage_Landmarks_of_Montevideo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 311,
+    "h": 582,
+    "dur": 0,
+    "title": "File:Collage Landmarks of Montevideo.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/28/Collage_Landmarks_of_Montevideo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Coquimbo58, Gabboe, Marcos Mendizábal, Beatrizackermann, Michelle Maria, Eduardo",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Collage_Landmarks_of_Montevideo.jpg",
+    "id": "wm71646342"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/El_Faro_en_Ciudad_Vieja%2C_Montevideo_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1536,
+    "h": 2048,
+    "dur": 0,
+    "title": "File:El Faro en Ciudad Vieja, Montevideo (1).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4f/El_Faro_en_Ciudad_Vieja%2C_Montevideo_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Pablao19",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:El_Faro_en_Ciudad_Vieja,_Montevideo_(1).jpg",
+    "id": "wm28040780"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Montevideo_pkindsvater_01.jpg/1920px-Montevideo_pkindsvater_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3440,
+    "h": 2293,
+    "dur": 0,
+    "title": "File:Montevideo pkindsvater 01.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Montevideo_pkindsvater_01.jpg/1920px-Montevideo_pkindsvater_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Paulakindsvater",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Montevideo_pkindsvater_01.jpg",
+    "id": "wm77344725"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Montevideo_pkindsvater_09.jpg/1920px-Montevideo_pkindsvater_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2591,
+    "h": 3886,
+    "dur": 0,
+    "title": "File:Montevideo pkindsvater 09.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Montevideo_pkindsvater_09.jpg/1920px-Montevideo_pkindsvater_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Paulakindsvater",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Montevideo_pkindsvater_09.jpg",
+    "id": "wm77344734"
+   }
+  ],
+  "photo:Jorge Batlle": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bush_with_Batlle_in_the_Oval_Office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 400,
+    "h": 267,
+    "dur": 0,
+    "title": "File:Bush with Batlle in the Oval Office.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bush_with_Batlle_in_the_Oval_Office.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Paul Morse",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Bush_with_Batlle_in_the_Oval_Office.jpg",
+    "id": "wm63918922"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jorge_Batlle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 588,
+    "h": 855,
+    "dur": 0,
+    "title": "File:Jorge Batlle.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jorge_Batlle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Roosewelt Pinheiro/ABr",
+    "license": "CC BY 3.0 br",
+    "page": "https://commons.wikimedia.org/wiki/File:Jorge_Batlle.jpg",
+    "id": "wm2838207"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Jorge_Batlle_en_2004_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 74,
+    "h": 92,
+    "dur": 0,
+    "title": "File:Jorge Batlle en 2004 (cropped).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Jorge_Batlle_en_2004_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Eric Draper",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jorge_Batlle_en_2004_(cropped).jpg",
+    "id": "wm140540619"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jorge_Batlle_in_the_Oval_Office_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 162,
+    "h": 216,
+    "dur": 0,
+    "title": "File:Jorge Batlle in the Oval Office (cropped).jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jorge_Batlle_in_the_Oval_Office_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Paul Morse",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Jorge_Batlle_in_the_Oval_Office_(cropped).jpg",
+    "id": "wm192582577"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_24e6a9c934b7527100983d7ae906a2b5.jpg/1920px-Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_24e6a9c934b7527100983d7ae906a2b5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3000,
+    "h": 2000,
+    "dur": 0,
+    "title": "File:Office of the Secretary - Secretary Elaine Chao with President of Uruguay Jorge Batlle Ibanez - DPLA - 24e6a9c934b7527100983d7ae906a2b5.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_24e6a9c934b7527100983d7ae906a2b5.jpg/1920px-Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_24e6a9c934b7527100983d7ae906a2b5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Department of Labor. Office of Public Affairs. Division of Audiovisual Communica",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_24e6a9c934b7527100983d7ae906a2b5.jpg",
+    "id": "wm96523161"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_3765c60775165740e8a3fc7b0ed28a73.jpg/1920px-Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_3765c60775165740e8a3fc7b0ed28a73.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3000,
+    "h": 2000,
+    "dur": 0,
+    "title": "File:Office of the Secretary - Secretary Elaine Chao with President of Uruguay Jorge Batlle Ibanez - DPLA - 3765c60775165740e8a3fc7b0ed28a73.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_3765c60775165740e8a3fc7b0ed28a73.jpg/1920px-Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_3765c60775165740e8a3fc7b0ed28a73.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Department of Labor. Office of Public Affairs. Division of Audiovisual Communica",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_3765c60775165740e8a3fc7b0ed28a73.jpg",
+    "id": "wm96922233"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_58396fd4daae11e9fab3bbb76c81d008.jpg/1920px-Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_58396fd4daae11e9fab3bbb76c81d008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3000,
+    "h": 2000,
+    "dur": 0,
+    "title": "File:Office of the Secretary - Secretary Elaine Chao with President of Uruguay Jorge Batlle Ibanez - DPLA - 58396fd4daae11e9fab3bbb76c81d008.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_58396fd4daae11e9fab3bbb76c81d008.jpg/1920px-Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_58396fd4daae11e9fab3bbb76c81d008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Department of Labor. Office of Public Affairs. Division of Audiovisual Communica",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Office_of_the_Secretary_-_Secretary_Elaine_Chao_with_President_of_Uruguay_Jorge_Batlle_Ibanez_-_DPLA_-_58396fd4daae11e9fab3bbb76c81d008.jpg",
+    "id": "wm96874393"
+   }
+  ],
+  "photo:Banco de la República Oriental del Uruguay sede Montevideo": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/2016_Cerrito_351%2C_entre_Sol%C3%ADs_y_Zabala_Sede_central_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg/1920px-2016_Cerrito_351%2C_entre_Sol%C3%ADs_y_Zabala_Sede_central_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3888,
+    "h": 5184,
+    "dur": 0,
+    "title": "File:2016 Cerrito 351, entre Solís y Zabala Sede central del Banco de la República Oriental del Uruguay.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/2016_Cerrito_351%2C_entre_Sol%C3%ADs_y_Zabala_Sede_central_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg/1920px-2016_Cerrito_351%2C_entre_Sol%C3%ADs_y_Zabala_Sede_central_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Felipe Restrepo Acosta",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2016_Cerrito_351,_entre_Sol%C3%ADs_y_Zabala_Sede_central_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg",
+    "id": "wm55295290"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2016_Montevideo_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay_%28sede_central%29.jpg/1920px-2016_Montevideo_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay_%28sede_central%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3653,
+    "h": 5057,
+    "dur": 0,
+    "title": "File:2016 Montevideo Banco de la República Oriental del Uruguay (sede central).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2016_Montevideo_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay_%28sede_central%29.jpg/1920px-2016_Montevideo_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay_%28sede_central%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Felipe Restrepo Acosta",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2016_Montevideo_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay_(sede_central).jpg",
+    "id": "wm55476270"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2016_Sede_central_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg/1920px-2016_Sede_central_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3888,
+    "h": 5184,
+    "dur": 0,
+    "title": "File:2016 Sede central del Banco de la República Oriental del Uruguay.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2016_Sede_central_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg/1920px-2016_Sede_central_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Felipe Restrepo Acosta",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2016_Sede_central_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg",
+    "id": "wm55371843"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2016_sede_central_del_edificio_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg/1920px-2016_sede_central_del_edificio_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 5184,
+    "h": 3888,
+    "dur": 0,
+    "title": "File:2016 sede central del edificio del Banco de la República Oriental del Uruguay.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/2016_sede_central_del_edificio_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg/1920px-2016_sede_central_del_edificio_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Felipe Restrepo Acosta",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2016_sede_central_del_edificio_del_Banco_de_la_Rep%C3%BAblica_Oriental_del_Uruguay.jpg",
+    "id": "wm55371845"
+   }
+  ],
+  "photo:Bank of Cyprus Nicosia": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bank_of_Cyprus_huge_offices_in_Aglandjia_suberb_area_of_Nicosia_Republic_of_Cyprus.jpg/1920px-Bank_of_Cyprus_huge_offices_in_Aglandjia_suberb_area_of_Nicosia_Republic_of_Cyprus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2789,
+    "h": 2117,
+    "dur": 0,
+    "title": "File:Bank of Cyprus huge offices in Aglandjia suberb area of Nicosia Republic of Cyprus.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bank_of_Cyprus_huge_offices_in_Aglandjia_suberb_area_of_Nicosia_Republic_of_Cyprus.jpg/1920px-Bank_of_Cyprus_huge_offices_in_Aglandjia_suberb_area_of_Nicosia_Republic_of_Cyprus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Petros3",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bank_of_Cyprus_huge_offices_in_Aglandjia_suberb_area_of_Nicosia_Republic_of_Cyprus.jpg",
+    "id": "wm16052890"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Bank_of_Cyprus_new_and_huge_offices_in_Aglandjia_suberb_of_Nicosia_Republic_of_Cyprus.jpg/1920px-Bank_of_Cyprus_new_and_huge_offices_in_Aglandjia_suberb_of_Nicosia_Republic_of_Cyprus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3072,
+    "h": 2048,
+    "dur": 0,
+    "title": "File:Bank of Cyprus new and huge offices in Aglandjia suberb of Nicosia Republic of Cyprus.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Bank_of_Cyprus_new_and_huge_offices_in_Aglandjia_suberb_of_Nicosia_Republic_of_Cyprus.jpg/1920px-Bank_of_Cyprus_new_and_huge_offices_in_Aglandjia_suberb_of_Nicosia_Republic_of_Cyprus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Petros3",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bank_of_Cyprus_new_and_huge_offices_in_Aglandjia_suberb_of_Nicosia_Republic_of_Cyprus.jpg",
+    "id": "wm16052925"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Bus_stop_in_Nicosia_Republic_of_Cyprus_in_front_of_Cyprus_bank_offices.jpg/1920px-Bus_stop_in_Nicosia_Republic_of_Cyprus_in_front_of_Cyprus_bank_offices.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2048,
+    "h": 3072,
+    "dur": 0,
+    "title": "File:Bus stop in Nicosia Republic of Cyprus in front of Cyprus bank offices.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Bus_stop_in_Nicosia_Republic_of_Cyprus_in_front_of_Cyprus_bank_offices.jpg/1920px-Bus_stop_in_Nicosia_Republic_of_Cyprus_in_front_of_Cyprus_bank_offices.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "TourinNicosia",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bus_stop_in_Nicosia_Republic_of_Cyprus_in_front_of_Cyprus_bank_offices.jpg",
+    "id": "wm16274091"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Cyprus_central_bank_Nicosia_Republic_of_Cyprus.jpg/1920px-Cyprus_central_bank_Nicosia_Republic_of_Cyprus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3035,
+    "h": 1477,
+    "dur": 0,
+    "title": "File:Cyprus central bank Nicosia Republic of Cyprus.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Cyprus_central_bank_Nicosia_Republic_of_Cyprus.jpg/1920px-Cyprus_central_bank_Nicosia_Republic_of_Cyprus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "TourinNicosia",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cyprus_central_bank_Nicosia_Republic_of_Cyprus.jpg",
+    "id": "wm16273606"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Cyprus_central_bank_headquarters_Nicosia_Republic_of_Cyprus_view_from_Semeli_Hotel.jpg/1920px-Cyprus_central_bank_headquarters_Nicosia_Republic_of_Cyprus_view_from_Semeli_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2048,
+    "h": 3072,
+    "dur": 0,
+    "title": "File:Cyprus central bank headquarters Nicosia Republic of Cyprus view from Semeli Hotel.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Cyprus_central_bank_headquarters_Nicosia_Republic_of_Cyprus_view_from_Semeli_Hotel.jpg/1920px-Cyprus_central_bank_headquarters_Nicosia_Republic_of_Cyprus_view_from_Semeli_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "TourinNicosia",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Cyprus_central_bank_headquarters_Nicosia_Republic_of_Cyprus_view_from_Semeli_Hotel.jpg",
+    "id": "wm16273608"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Delloite_Buildings_and_Central_Bank_of_Cyprus_view_Nicosia_Republic_of_Cyprus_Chypre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 900,
+    "h": 675,
+    "dur": 0,
+    "title": "File:Delloite Buildings and Central Bank of Cyprus view Nicosia Republic of Cyprus Chypre.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Delloite_Buildings_and_Central_Bank_of_Cyprus_view_Nicosia_Republic_of_Cyprus_Chypre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Nicosia025",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Delloite_Buildings_and_Central_Bank_of_Cyprus_view_Nicosia_Republic_of_Cyprus_Chypre.jpg",
+    "id": "wm31725824"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Delloite_Buildings_and_Central_Bank_of_Cyprus_view_Nicosia_Republic_of_Cyprus_Chypre_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 900,
+    "h": 675,
+    "dur": 0,
+    "title": "File:Delloite Buildings and Central Bank of Cyprus view Nicosia Republic of Cyprus Chypre 15.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Delloite_Buildings_and_Central_Bank_of_Cyprus_view_Nicosia_Republic_of_Cyprus_Chypre_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Nicosia025",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Delloite_Buildings_and_Central_Bank_of_Cyprus_view_Nicosia_Republic_of_Cyprus_Chypre_15.jpg",
+    "id": "wm31725894"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Emporiki_bank_shop_in_Larnakos_Avenue_Aglanjia_in_Nicosia_Republic_of_Cyprus.jpg/1920px-Emporiki_bank_shop_in_Larnakos_Avenue_Aglanjia_in_Nicosia_Republic_of_Cyprus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2880,
+    "h": 1448,
+    "dur": 0,
+    "title": "File:Emporiki bank shop in Larnakos Avenue Aglanjia in Nicosia Republic of Cyprus.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Emporiki_bank_shop_in_Larnakos_Avenue_Aglanjia_in_Nicosia_Republic_of_Cyprus.jpg/1920px-Emporiki_bank_shop_in_Larnakos_Avenue_Aglanjia_in_Nicosia_Republic_of_Cyprus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "AlsosforestCyprus",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Emporiki_bank_shop_in_Larnakos_Avenue_Aglanjia_in_Nicosia_Republic_of_Cyprus.jpg",
+    "id": "wm16140190"
+   }
+  ],
+  "photo:Cyprus House of Representatives Nicosia": [
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Mahatma_Gandhi_Statue_next_to_Cyprus_Parliament_House_of_Representatives_Nicosia_Republic_of_Cyprus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 850,
+    "h": 565,
+    "dur": 0,
+    "title": "File:Mahatma Gandhi Statue next to Cyprus Parliament House of Representatives Nicosia Republic of Cyprus.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Mahatma_Gandhi_Statue_next_to_Cyprus_Parliament_House_of_Representatives_Nicosia_Republic_of_Cyprus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "NicosiaRepublicCyprus",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi_Statue_next_to_Cyprus_Parliament_House_of_Representatives_Nicosia_Republic_of_Cyprus.jpg",
+    "id": "wm32702779"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%94._%CE%94%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B1_%CF%83%CE%B5_%CE%9A%CF%8D%CF%80%CF%81%CE%BF_-_Visit_of_FM_D._Droutsas_to_Cyprus_%285447180185%29.jpg/1920px-%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%94._%CE%94%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B1_%CF%83%CE%B5_%CE%9A%CF%8D%CF%80%CF%81%CE%BF_-_Visit_of_FM_D._Droutsas_to_Cyprus_%285447180185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4976,
+    "h": 3456,
+    "dur": 0,
+    "title": "File:Επίσκεψη ΥΠΕΞ Δ. Δρούτσα σε Κύπρο - Visit of FM D. Droutsas to Cyprus (5447180185).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%94._%CE%94%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B1_%CF%83%CE%B5_%CE%9A%CF%8D%CF%80%CF%81%CE%BF_-_Visit_of_FM_D._Droutsas_to_Cyprus_%285447180185%29.jpg/1920px-%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%94._%CE%94%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B1_%CF%83%CE%B5_%CE%9A%CF%8D%CF%80%CF%81%CE%BF_-_Visit_of_FM_D._Droutsas_to_Cyprus_%285447180185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Υπουργείο Εξωτερικών",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%94._%CE%94%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B1_%CF%83%CE%B5_%CE%9A%CF%8D%CF%80%CF%81%CE%BF_-_Visit_of_FM_D._Droutsas_to_Cyprus_(5447180185).jpg",
+    "id": "wm26282321"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%94._%CE%94%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B1_%CF%83%CE%B5_%CE%9A%CF%8D%CF%80%CF%81%CE%BF_-_Visit_of_FM_D._Droutsas_to_Cyprus_%285447775494%29.jpg/1920px-%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%94._%CE%94%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B1_%CF%83%CE%B5_%CE%9A%CF%8D%CF%80%CF%81%CE%BF_-_Visit_of_FM_D._Droutsas_to_Cyprus_%285447775494%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 5616,
+    "h": 3744,
+    "dur": 0,
+    "title": "File:Επίσκεψη ΥΠΕΞ Δ. Δρούτσα σε Κύπρο - Visit of FM D. Droutsas to Cyprus (5447775494).jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%94._%CE%94%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B1_%CF%83%CE%B5_%CE%9A%CF%8D%CF%80%CF%81%CE%BF_-_Visit_of_FM_D._Droutsas_to_Cyprus_%285447775494%29.jpg/1920px-%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%94._%CE%94%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B1_%CF%83%CE%B5_%CE%9A%CF%8D%CF%80%CF%81%CE%BF_-_Visit_of_FM_D._Droutsas_to_Cyprus_%285447775494%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Υπουργείο Εξωτερικών",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%94._%CE%94%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B1_%CF%83%CE%B5_%CE%9A%CF%8D%CF%80%CF%81%CE%BF_-_Visit_of_FM_D._Droutsas_to_Cyprus_(5447775494).jpg",
+    "id": "wm26282330"
+   }
+  ],
+  "photo:Paul Krugman": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Paul_Krugman-press_conference_Dec_07th%2C_2008-8.jpg/1920px-Paul_Krugman-press_conference_Dec_07th%2C_2008-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2592,
+    "h": 3194,
+    "dur": 0,
+    "title": "File:Paul Krugman-press conference Dec 07th, 2008-8.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Paul_Krugman-press_conference_Dec_07th%2C_2008-8.jpg/1920px-Paul_Krugman-press_conference_Dec_07th%2C_2008-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Prolineserver (talk)",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Krugman-press_conference_Dec_07th,_2008-8.jpg",
+    "id": "wm5607835"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Paul_Krugman_2_BBF_2010_Shankbone.jpg/1920px-Paul_Krugman_2_BBF_2010_Shankbone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2151,
+    "h": 2973,
+    "dur": 0,
+    "title": "File:Paul Krugman 2 BBF 2010 Shankbone.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Paul_Krugman_2_BBF_2010_Shankbone.jpg/1920px-Paul_Krugman_2_BBF_2010_Shankbone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "David Shankbone",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Krugman_2_BBF_2010_Shankbone.jpg",
+    "id": "wm11596995"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Paul_Krugman_3_BBF_2010_Shankbone.jpg/1920px-Paul_Krugman_3_BBF_2010_Shankbone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 1979,
+    "h": 2519,
+    "dur": 0,
+    "title": "File:Paul Krugman 3 BBF 2010 Shankbone.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Paul_Krugman_3_BBF_2010_Shankbone.jpg/1920px-Paul_Krugman_3_BBF_2010_Shankbone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "David Shankbone",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Krugman_3_BBF_2010_Shankbone.jpg",
+    "id": "wm11648201"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Paul_Krugman_BBF_2010_Shankbone.jpg/1920px-Paul_Krugman_BBF_2010_Shankbone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2626,
+    "h": 2101,
+    "dur": 0,
+    "title": "File:Paul Krugman BBF 2010 Shankbone.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Paul_Krugman_BBF_2010_Shankbone.jpg/1920px-Paul_Krugman_BBF_2010_Shankbone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "David Shankbone",
+    "license": "CC BY 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Krugman_BBF_2010_Shankbone.jpg",
+    "id": "wm11597004"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Paul_Krugman_and_Ruth_Shapiro.jpg/1920px-Paul_Krugman_and_Ruth_Shapiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3100,
+    "h": 2069,
+    "dur": 0,
+    "title": "File:Paul Krugman and Ruth Shapiro.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Paul_Krugman_and_Ruth_Shapiro.jpg/1920px-Paul_Krugman_and_Ruth_Shapiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Commonwealth Club from San Francisco, San Jose, United States",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Krugman_and_Ruth_Shapiro.jpg",
+    "id": "wm49627477"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Paul_Krugman_at_the_German_National_Library_in_Frankfurt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 200,
+    "h": 219,
+    "dur": 0,
+    "title": "File:Paul Krugman at the German National Library in Frankfurt.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/42/Paul_Krugman_at_the_German_National_Library_in_Frankfurt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "United States Consulate General in Frankfurt",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Paul_Krugman_at_the_German_National_Library_in_Frankfurt.jpg",
+    "id": "wm4985206"
+   }
+  ],
+  "photo:Banco Popular Español sede Madrid": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Madrid_-_Banco_Popular_%28Edificio_Luca_de_Tena%2C_sede_corporativa%2C_en_construcci%C3%B3n_en_2016%2C_en_la_calle_Juan_Ignacio_Luca_de_Tena%29_1.JPG/1920px-Madrid_-_Banco_Popular_%28Edificio_Luca_de_Tena%2C_sede_corporativa%2C_en_construcci%C3%B3n_en_2016%2C_en_la_calle_Juan_Ignacio_Luca_de_Tena%29_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2048,
+    "h": 1536,
+    "dur": 0,
+    "title": "File:Madrid - Banco Popular (Edificio Luca de Tena, sede corporativa, en construcción en 2016, en la calle Juan Ignacio Luca de Tena) 1.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Madrid_-_Banco_Popular_%28Edificio_Luca_de_Tena%2C_sede_corporativa%2C_en_construcci%C3%B3n_en_2016%2C_en_la_calle_Juan_Ignacio_Luca_de_Tena%29_1.JPG/1920px-Madrid_-_Banco_Popular_%28Edificio_Luca_de_Tena%2C_sede_corporativa%2C_en_construcci%C3%B3n_en_2016%2C_en_la_calle_Juan_Ignacio_Luca_de_Tena%29_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Zarateman",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Madrid_-_Banco_Popular_(Edificio_Luca_de_Tena,_sede_corporativa,_en_construcci%C3%B3n_en_2016,_en_la_calle_Juan_Ignacio_Luca_de_Tena)_1.JPG",
+    "id": "wm48224839"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Madrid_-_Sede_corporativa_del_Banco_Popular_1.JPG/1920px-Madrid_-_Sede_corporativa_del_Banco_Popular_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2048,
+    "h": 1536,
+    "dur": 0,
+    "title": "File:Madrid - Sede corporativa del Banco Popular 1.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Madrid_-_Sede_corporativa_del_Banco_Popular_1.JPG/1920px-Madrid_-_Sede_corporativa_del_Banco_Popular_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Zarateman",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Madrid_-_Sede_corporativa_del_Banco_Popular_1.JPG",
+    "id": "wm48112292"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Madrid_-_Sede_corporativa_del_Banco_Popular_2.JPG/1920px-Madrid_-_Sede_corporativa_del_Banco_Popular_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2048,
+    "h": 1536,
+    "dur": 0,
+    "title": "File:Madrid - Sede corporativa del Banco Popular 2.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Madrid_-_Sede_corporativa_del_Banco_Popular_2.JPG/1920px-Madrid_-_Sede_corporativa_del_Banco_Popular_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Zarateman",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Madrid_-_Sede_corporativa_del_Banco_Popular_2.JPG",
+    "id": "wm48112290"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Madrid_-_Sede_corporativa_del_Banco_Popular_3.JPG/1920px-Madrid_-_Sede_corporativa_del_Banco_Popular_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2048,
+    "h": 1536,
+    "dur": 0,
+    "title": "File:Madrid - Sede corporativa del Banco Popular 3.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Madrid_-_Sede_corporativa_del_Banco_Popular_3.JPG/1920px-Madrid_-_Sede_corporativa_del_Banco_Popular_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Zarateman",
+    "license": "CC0",
+    "page": "https://commons.wikimedia.org/wiki/File:Madrid_-_Sede_corporativa_del_Banco_Popular_3.JPG",
+    "id": "wm48112291"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sede_del_Banco_Popular_%28Madrid%29_01.jpg/1920px-Sede_del_Banco_Popular_%28Madrid%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4272,
+    "h": 2848,
+    "dur": 0,
+    "title": "File:Sede del Banco Popular (Madrid) 01.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sede_del_Banco_Popular_%28Madrid%29_01.jpg/1920px-Sede_del_Banco_Popular_%28Madrid%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Luis García (Zaqarbal)",
+    "license": "CC BY-SA 3.0 es",
+    "page": "https://commons.wikimedia.org/wiki/File:Sede_del_Banco_Popular_(Madrid)_01.jpg",
+    "id": "wm31736993"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Sede_del_Banco_Popular_%28Madrid%29_02.jpg/1920px-Sede_del_Banco_Popular_%28Madrid%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4272,
+    "h": 2848,
+    "dur": 0,
+    "title": "File:Sede del Banco Popular (Madrid) 02.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Sede_del_Banco_Popular_%28Madrid%29_02.jpg/1920px-Sede_del_Banco_Popular_%28Madrid%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Luis García (Zaqarbal)",
+    "license": "CC BY-SA 3.0 es",
+    "page": "https://commons.wikimedia.org/wiki/File:Sede_del_Banco_Popular_(Madrid)_02.jpg",
+    "id": "wm31737018"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sede_del_Banco_Popular_%28Madrid%29_03.jpg/1920px-Sede_del_Banco_Popular_%28Madrid%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4272,
+    "h": 2848,
+    "dur": 0,
+    "title": "File:Sede del Banco Popular (Madrid) 03.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sede_del_Banco_Popular_%28Madrid%29_03.jpg/1920px-Sede_del_Banco_Popular_%28Madrid%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Luis García (Zaqarbal)",
+    "license": "CC BY-SA 3.0 es",
+    "page": "https://commons.wikimedia.org/wiki/File:Sede_del_Banco_Popular_(Madrid)_03.jpg",
+    "id": "wm31737039"
+   }
+  ],
+  "photo:European Central Bank headquarters Frankfurt": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_01.jpg/1920px-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3042,
+    "h": 4593,
+    "dur": 0,
+    "title": "File:European Central Bank - building under construction - Frankfurt - Germany - 01.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_01.jpg/1920px-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_01.jpg",
+    "id": "wm20160032"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_03.jpg/1920px-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2963,
+    "h": 4473,
+    "dur": 0,
+    "title": "File:European Central Bank - building under construction - Frankfurt - Germany - 03.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_03.jpg/1920px-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_03.jpg",
+    "id": "wm20160031"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1706,
+    "h": 2500,
+    "dur": 0,
+    "title": "File:European Central Bank - building under construction - Frankfurt - Germany - 12.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2e/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_12.jpg",
+    "id": "wm33478603"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_13.jpg/1920px-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3622,
+    "h": 6000,
+    "dur": 0,
+    "title": "File:European Central Bank - building under construction - Frankfurt - Germany - 13.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_13.jpg/1920px-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_13.jpg",
+    "id": "wm33478605"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_14.jpg/1920px-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 6000,
+    "h": 4004,
+    "dur": 0,
+    "title": "File:European Central Bank - building under construction - Frankfurt - Germany - 14.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_14.jpg/1920px-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_14.jpg",
+    "id": "wm33478604"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_15.jpg/1920px-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 5500,
+    "h": 3606,
+    "dur": 0,
+    "title": "File:European Central Bank - building under construction - Frankfurt - Germany - 15.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_15.jpg/1920px-European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:European_Central_Bank_-_building_under_construction_-_Frankfurt_-_Germany_-_15.jpg",
+    "id": "wm33478606"
+   }
+  ],
+  "photo:Banco de España Madrid edificio": [
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Banco_de_Espa%C3%B1a_%28Madrid%29_02.jpg/1920px-Banco_de_Espa%C3%B1a_%28Madrid%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2952,
+    "h": 1874,
+    "dur": 0,
+    "title": "File:Banco de España (Madrid) 02.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Banco_de_Espa%C3%B1a_%28Madrid%29_02.jpg/1920px-Banco_de_Espa%C3%B1a_%28Madrid%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Luis García",
+    "license": "CC BY-SA 2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:Banco_de_Espa%C3%B1a_(Madrid)_02.jpg",
+    "id": "wm1078737"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Edificio_del_Banco_de_Espa%C3%B1a_0003.JPG/1920px-Edificio_del_Banco_de_Espa%C3%B1a_0003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4000,
+    "h": 3000,
+    "dur": 0,
+    "title": "File:Edificio del Banco de España 0003.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Edificio_del_Banco_de_Espa%C3%B1a_0003.JPG/1920px-Edificio_del_Banco_de_Espa%C3%B1a_0003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "ECsonka",
+    "license": "CC BY-SA 3.0 es",
+    "page": "https://commons.wikimedia.org/wiki/File:Edificio_del_Banco_de_Espa%C3%B1a_0003.JPG",
+    "id": "wm28191817"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Edificio_del_Banco_de_Espa%C3%B1a_0014.JPG/1920px-Edificio_del_Banco_de_Espa%C3%B1a_0014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 4000,
+    "h": 3000,
+    "dur": 0,
+    "title": "File:Edificio del Banco de España 0014.JPG",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Edificio_del_Banco_de_Espa%C3%B1a_0014.JPG/1920px-Edificio_del_Banco_de_Espa%C3%B1a_0014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "ECsonka",
+    "license": "CC BY-SA 3.0 es",
+    "page": "https://commons.wikimedia.org/wiki/File:Edificio_del_Banco_de_Espa%C3%B1a_0014.JPG",
+    "id": "wm28191828"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Edificio_del_Banco_de_Espa%C3%B1a_1_Madrid.jpg/1920px-Edificio_del_Banco_de_Espa%C3%B1a_1_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2000,
+    "h": 1333,
+    "dur": 0,
+    "title": "File:Edificio del Banco de España 1 Madrid.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Edificio_del_Banco_de_Espa%C3%B1a_1_Madrid.jpg/1920px-Edificio_del_Banco_de_Espa%C3%B1a_1_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Sanva1959",
+    "license": "CC BY-SA 3.0 es",
+    "page": "https://commons.wikimedia.org/wiki/File:Edificio_del_Banco_de_Espa%C3%B1a_1_Madrid.jpg",
+    "id": "wm16547562"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Edificio_del_Banco_de_Espa%C3%B1a_2_Madrid.jpg/1920px-Edificio_del_Banco_de_Espa%C3%B1a_2_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 2000,
+    "h": 1333,
+    "dur": 0,
+    "title": "File:Edificio del Banco de España 2 Madrid.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Edificio_del_Banco_de_Espa%C3%B1a_2_Madrid.jpg/1920px-Edificio_del_Banco_de_Espa%C3%B1a_2_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Sanva1959",
+    "license": "CC BY-SA 3.0 es",
+    "page": "https://commons.wikimedia.org/wiki/File:Edificio_del_Banco_de_Espa%C3%B1a_2_Madrid.jpg",
+    "id": "wm16547564"
+   },
+   {
+    "kind": "image",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Edificio_del_Banco_de_Espa%C3%B1a_3_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "w": 1343,
+    "h": 2000,
+    "dur": 0,
+    "title": "File:Edificio del Banco de España 3 Madrid.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/14/Edificio_del_Banco_de_Espa%C3%B1a_3_Madrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "credit": "Sanva1959",
+    "license": "CC BY-SA 3.0 es",
+    "page": "https://commons.wikimedia.org/wiki/File:Edificio_del_Banco_de_Espa%C3%B1a_3_Madrid.jpg",
+    "id": "wm16547566"
+   },
+   {
+    "kind": "image",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Edificio_del_Banco_de_Espa%C3%B1a_en_Madrid_1.jpg/1920px-Edificio_del_Banco_de_Espa%C3%B1a_en_Madrid_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "w": 3870,
+    "h": 2665,
+    "dur": 0,
+    "title": "File:Edificio del Banco de España en Madrid 1.jpg",
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Edificio_del_Banco_de_Espa%C3%B1a_en_Madrid_1.jpg/1920px-Edificio_del_Banco_de_Espa%C3%B1a_en_Madrid_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "D.Rovchak",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Edificio_del_Banco_de_Espa%C3%B1a_en_Madrid_1.jpg",
+    "id": "wm73027689"
+   }
+  ]
+ },
  "split_still": 5.0,
  "picks": {},
- "rev": 3,
+ "rev": 4,
  "units": [
   {
    "k": "B",
@@ -352,7 +2940,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "photo": "Fernando de la Rúa",
+     "photo": "Fernando de la Rúa presidente",
      "src": "commons,loc,europeana",
      "at": "un hombre que hasta hace",
      "lt": [
@@ -549,7 +3137,7 @@
     }
    ],
    "gen": "VD9J3RWJqs2aADl4wEcm",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/N7uYHHv97vurJy2EdXC9/VD9J3RWJqs2aADl4wEcm/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=Eth_ZgqnwP2XXGp0G17aIpzpJOs="
+   "url": "jobs/corralito/voz/VD9J3RWJqs2aADl4wEcm.mp3"
   },
   {
    "k": "R",
@@ -581,7 +3169,7 @@
     }
    ],
    "gen": "eDGVJvEprwpydmpjFe9n",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bG7vXNkt5HC1AYZ38uXo/eDGVJvEprwpydmpjFe9n/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=OsHzN1gv8R_6iQplRkntkORSbU0="
+   "url": "jobs/corralito/voz/eDGVJvEprwpydmpjFe9n.mp3"
   },
   {
    "k": "R",
@@ -598,7 +3186,7 @@
     }
    ],
    "gen": "3pOh9L4iBHwTLzX2DarT",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/sBkk5I9mRQ6IXwwQJvcc/3pOh9L4iBHwTLzX2DarT/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=Fvk6VNUr1XpAZw5YErd89juFJIY="
+   "url": "jobs/corralito/voz/3pOh9L4iBHwTLzX2DarT.mp3"
   },
   {
    "k": "N",
@@ -621,7 +3209,7 @@
     }
    ],
    "gen": "31ucmp3uoNX4XjX75yB1",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mxIdAyaWKWCw0Db0nW7A/31ucmp3uoNX4XjX75yB1/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=OdKI_EscEVYE96c4kC2TcY3l5Fw="
+   "url": "jobs/corralito/voz/31ucmp3uoNX4XjX75yB1.mp3"
   },
   {
    "k": "N",
@@ -644,7 +3232,7 @@
     }
    ],
    "gen": "Z3qmOhV6GYYs4VsWcZKW",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OX0dHuQJfVrfNaNstGLO/Z3qmOhV6GYYs4VsWcZKW/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=OLc9Eh2yESOFWZeNmaF3Wx-i0FI="
+   "url": "jobs/corralito/voz/Z3qmOhV6GYYs4VsWcZKW.mp3"
   },
   {
    "k": "N",
@@ -652,7 +3240,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Domingo Cavallo 1990s",
+     "photo": "Domingo Cavallo",
      "src": "commons,loc,europeana",
      "at": "Domingo Cavallo",
      "lt": [
@@ -949,14 +3537,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "photo": "International Monetary Fund headquarters Washington",
-     "src": "commons,loc,europeana",
-     "at": "el FMI",
-     "lt": [
-      "Fondo Monetario Internacional",
-      "Washington"
-     ],
-     "lugar": "fmi"
+     "card": {
+      "type": "kw",
+      "word": "FMI",
+      "sub": "Fondo Monetario Internacional"
+     },
+     "at": "el FMI"
     },
     {
      "card": {
@@ -1525,15 +4111,12 @@
      "at": "Día cinco"
     },
     {
-     "photo": "International Monetary Fund headquarters Washington",
-     "src": "commons,loc,europeana",
-     "at": "Fondo Monetario Internacional",
-     "lt": [
-      "FMI",
-      "Washington",
-      "finanzas"
-     ],
-     "lugar": "fmi"
+     "card": {
+      "type": "kw",
+      "word": "FMI",
+      "sub": "Fondo Monetario Internacional"
+     },
+     "at": "Fondo Monetario Internacional"
     },
     {
      "card": {
@@ -1808,7 +4391,7 @@
      "at": "Día dieciséis"
     },
     {
-     "photo": "Fernando de la Rúa",
+     "photo": "Fernando de la Rúa presidente",
      "src": "commons,loc,europeana",
      "at": "El presidente insiste",
      "lt": [
@@ -2000,7 +4583,7 @@
    "voice": "DLR",
    "shots": [
     {
-     "photo": "Fernando de la Rúa",
+     "photo": "Fernando de la Rúa presidente",
      "src": "commons,loc,europeana",
      "at": "Han ocurrido en el país",
      "lt": [
@@ -2379,7 +4962,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "photo": "Fernando de la Rúa",
+     "photo": "Fernando de la Rúa presidente",
      "src": "commons,loc,europeana",
      "at": "Fernando de la Rúa sube",
      "lt": [
@@ -3059,7 +5642,7 @@
     }
    ],
    "gen": "TDVMkqjuisfQbAb2Joai",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/x2pwIO4rBZiY8EetzzHS/TDVMkqjuisfQbAb2Joai/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=HpOUrlzB6SDX_u5TBQFkKzBon2g="
+   "url": "jobs/corralito/voz/TDVMkqjuisfQbAb2Joai.mp3"
   },
   {
    "k": "R",
@@ -3249,7 +5832,7 @@
     }
    ],
    "gen": "ldAb1msaJy9xIHEq2sDc",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2gC11xqVHzYamPprxK3h/ldAb1msaJy9xIHEq2sDc/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=GNThYbfs_dBalAakPSZihndtScE="
+   "url": "jobs/corralito/voz/ldAb1msaJy9xIHEq2sDc.mp3"
   },
   {
    "k": "R",
@@ -3272,7 +5855,7 @@
     }
    ],
    "gen": "cQfx9szb42cvWBdca7Gi",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VF1bbUrwdt8zIuZjrppg/cQfx9szb42cvWBdca7Gi/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=CbFvA22z48I0wrANysTcG3Jw0vU="
+   "url": "jobs/corralito/voz/cQfx9szb42cvWBdca7Gi.mp3"
   },
   {
    "k": "N",
@@ -3295,7 +5878,7 @@
     }
    ],
    "gen": "XSfQCw4BwmP5C0dbEFaB",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4dyyf51QL3wIrYhHfG4g/XSfQCw4BwmP5C0dbEFaB/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=dOFXKDRwl0fHqEOjA9NcQZNAmdE="
+   "url": "jobs/corralito/voz/XSfQCw4BwmP5C0dbEFaB.mp3"
   },
   {
    "k": "R",
@@ -3325,7 +5908,7 @@
     }
    ],
    "gen": "sao8Ef7ysaPWL6ZsQTRg",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8D8vlQkvuIpXW2zJBcxh/sao8Ef7ysaPWL6ZsQTRg/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=DMfGPLXVxRNpqPyb7SbCEouY3Os="
+   "url": "jobs/corralito/voz/sao8Ef7ysaPWL6ZsQTRg.mp3"
   },
   {
    "k": "N",
@@ -3338,7 +5921,7 @@
     }
    ],
    "gen": "XzsBMkatS3ybdfCvfa2l",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JycVj4DAi1eZUCtMxb42/XzsBMkatS3ybdfCvfa2l/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=VBU62ZyKmqvT4GVirajvNTlEQfw="
+   "url": "jobs/corralito/voz/XzsBMkatS3ybdfCvfa2l.mp3"
   },
   {
    "k": "N",
@@ -3370,7 +5953,7 @@
     }
    ],
    "gen": "KxC2vwb9yYyMKLmQVAG7",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/azuYNnqp0pnMQdfwnPED/KxC2vwb9yYyMKLmQVAG7/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=XLmoU-8-4CycsIa-3xUmK1PTNyI="
+   "url": "jobs/corralito/voz/KxC2vwb9yYyMKLmQVAG7.mp3"
   },
   {
    "k": "R",
@@ -3383,7 +5966,7 @@
     }
    ],
    "gen": "ra38zSvn0gUzJ5qHcaMj",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9SHkJeAdBR8GJrJX6TOF/ra38zSvn0gUzJ5qHcaMj/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=idfMyEZW_EB7OKGGKqBA5cfRatw="
+   "url": "jobs/corralito/voz/ra38zSvn0gUzJ5qHcaMj.mp3"
   },
   {
    "k": "N",
@@ -3400,7 +5983,7 @@
     }
    ],
    "gen": "QxCJl7GRUI9gOAkFXgvq",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/U9SBvlxj8wYpIyNXG6h5/QxCJl7GRUI9gOAkFXgvq/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=fI7km87NTuR2KLZoLsZki0XMmcE="
+   "url": "jobs/corralito/voz/QxCJl7GRUI9gOAkFXgvq.mp3"
   },
   {
    "k": "N",
@@ -3617,14 +6200,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "photo": "Greek bank ATM queue 2015 Athens",
-     "src": "commons,loc,europeana",
-     "at": "Grecia",
-     "lt": [
-      "Atenas",
-      "junio de 2015"
-     ],
-     "lugar": "grecia"
+     "card": {
+      "type": "kw",
+      "word": "GRECIA",
+      "sub": "29 de junio de 2015 · bancos cerrados"
+     },
+     "at": "Grecia"
     },
     {
      "card": {
@@ -3692,7 +6273,7 @@
     }
    ],
    "gen": "VaHVHAxcM6bf080oJRWn",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dOm94t1OrWjvzeM3MqoB/VaHVHAxcM6bf080oJRWn/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=bwlj1Zfo7akVc4WUZRG3TRfehqE="
+   "url": "jobs/corralito/voz/VaHVHAxcM6bf080oJRWn.mp3"
   },
   {
    "k": "R",
@@ -3731,7 +6312,7 @@
     }
    ],
    "gen": "xBa7eNQ372ik9ZMktZP2",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YHu8dqM20dL6Y0lZkK1I/xBa7eNQ372ik9ZMktZP2/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=yeL3CvajsnVOImhDQ6BMN1iE7QI="
+   "url": "jobs/corralito/voz/xBa7eNQ372ik9ZMktZP2.mp3"
   },
   {
    "k": "N",
@@ -3754,7 +6335,7 @@
     }
    ],
    "gen": "pTz8oZd71eudIRJhohQG",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wB2o0lKjKPgrKe4XaK0L/pTz8oZd71eudIRJhohQG/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=0dpap1OFGMRvbrcfwYmcnxCDO2I="
+   "url": "jobs/corralito/voz/pTz8oZd71eudIRJhohQG.mp3"
   },
   {
    "k": "R",
@@ -3784,7 +6365,7 @@
     }
    ],
    "gen": "I9zuOy5WsTg99WwYCMdt",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BZKdJGWP4uMMMUIMs85v/I9zuOy5WsTg99WwYCMdt/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=LBnwb6FCWNkGMsCT83vOL3Blyns="
+   "url": "jobs/corralito/voz/I9zuOy5WsTg99WwYCMdt.mp3"
   },
   {
    "k": "N",
@@ -3797,7 +6378,7 @@
     }
    ],
    "gen": "XNXbH4P0tvENm8Yubje8",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/69Z0Fn997xx2Cvj32Uwc/XNXbH4P0tvENm8Yubje8/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=mz-5PFnqLVhMFz9YlcRfRR90AyI="
+   "url": "jobs/corralito/voz/XNXbH4P0tvENm8Yubje8.mp3"
   },
   {
    "k": "N",
@@ -3921,15 +6502,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "photo": "Banco de España Madrid edificio",
-     "src": "commons,loc,europeana",
-     "at": "el Fondo de Garantía de Depósitos",
-     "lt": [
-      "Banco de España",
-      "Madrid",
-      "europa"
-     ],
-     "lugar": "bde"
+     "card": {
+      "type": "kw",
+      "word": "100.000 €",
+      "sub": "por titular y por entidad · Fondo de Garantía de Depósitos"
+     },
+     "at": "el Fondo de Garantía de Depósitos"
     },
     {
      "card": {

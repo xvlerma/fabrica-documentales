@@ -25,7 +25,7 @@ NEW("Esos mismos días, organizaciones sociales y sindicatos montan una consulta
     ai('urnas_calle', 'ballot boxes set up on folding tables on a busy sidewalk, long lines of working people waiting to vote, a sense of urgency', at='una consulta popular'))
 CRO("Día dieciséis. Domingo. El presidente insiste en público: ni devaluación, ni dolarización. El uno a uno se mantiene.",
     DIA(16, 'del corralito · domingo 16 de diciembre', at='Día dieciséis', frm=13),
-    ph('Fernando de la Rúa', at='El presidente insiste', lt=['Fernando de la Rúa', 'Presidente de Argentina', 'gobierno'], lugar='delarua'))
+    ph('Fernando de la Rúa presidente', at='El presidente insiste', lt=['Fernando de la Rúa', 'Presidente de Argentina', 'gobierno'], lugar='delarua'))
 CRO("El efecto en la economía es inmediato. Las ventas se hunden. Las fábricas de coches, de ropa, de materiales de construcción echan el cierre por falta de pedidos. Diciembre, que debería ser el mes de las compras de Navidad, se convierte en el peor mes del año.",
     ai('escaparate_vacio', 'an empty department store decorated for Christmas with no customers, mannequins in the window, a salesperson waiting alone, cold light', at='el mes de las compras de Navidad'))
 NEW("Y el ministro, lejos de aflojar, presenta un presupuesto para dos mil dos con nuevos recortes, la condición del FMI para volver a prestar.",
@@ -52,7 +52,7 @@ NEW("En la Casa Rosada, el presidente intenta un gesto de última hora: ofrece a
 NAR("Por la noche, De la Rúa aparece en cadena nacional. Todas las televisiones del país. Y anuncia la medida más grave que puede tomar un presidente en democracia.",
     ai('tele_escaparate', 'a crowd gathered in front of a shop window full of televisions all showing the same faceless figure at a desk, night, glowing screens', at='aparece en cadena nacional'))
 DLR("[serious] Han ocurrido en el país hechos de violencia que ponen en peligro a personas y a bienes, y crean un cuadro de conmoción interior. Quiero informarles que he decretado el estado de sitio en todo el territorio nacional.",
-    ph('Fernando de la Rúa', at='Han ocurrido en el país', lt=['Fernando de la Rúa', 'Cadena nacional · 19 de diciembre de 2001', 'gobierno'], lugar='delarua'),
+    ph('Fernando de la Rúa presidente', at='Han ocurrido en el país', lt=['Fernando de la Rúa', 'Cadena nacional · 19 de diciembre de 2001', 'gobierno'], lugar='delarua'),
     cd(dict(type='quote', text='Quiero informarles que he decretado el estado de sitio en todo el territorio nacional.', attrib='Fernando de la Rúa · cadena nacional, 19 de diciembre de 2001'), at='Quiero informarles'))
 CRO("El estado de sitio suspende garantías constitucionales. En Argentina, esas palabras se oían por primera vez desde los años de la dictadura. Y el efecto fue exactamente el contrario del que buscaba el presidente.",
     cd(dict(type='kw', word='ESTADO DE SITIO', sub='garantías constitucionales suspendidas · 30 días'), at='El estado de sitio'),
@@ -108,7 +108,7 @@ CRO("La plaza está tomada. Las calles de alrededor, también. Salir en coche es
 B('tema')
 NAR("[serious] Pasadas las siete y media de la tarde, Fernando de la Rúa sube a la azotea. El helicóptero presidencial, un Sikorsky blanco, despega de la Casa Rosada rumbo a la residencia de Olivos. Abajo, en la plaza, la gente lo ve alejarse. Y aplaude. Con rabia.",
     ai('heli_ve_plaza', 'from a crowded square, people looking up at a white helicopter rising above a pink palace into an orange dusk sky, some clapping, some shouting', at='la gente lo ve alejarse'),
-    ph('Fernando de la Rúa', at='Fernando de la Rúa sube', lt=['Fernando de la Rúa', 'Renuncia · 20 de diciembre de 2001', 'gobierno'], lugar='delarua'),
+    ph('Fernando de la Rúa presidente', at='Fernando de la Rúa sube', lt=['Fernando de la Rúa', 'Renuncia · 20 de diciembre de 2001', 'gobierno'], lugar='delarua'),
     ai('heli_ciudad', 'a small white helicopter flying low over a vast city at dusk with columns of smoke rising from several streets, wide cinematic shot', at='rumbo a la residencia de Olivos'))
 NAR("En la plaza, alguien levanta una cacerola hacia el cielo. Otros silban. Otros lloran. Hay quien jura que nunca olvidará el sonido de aquellas aspas mezclado con el de miles de cacerolas. El poder, literalmente, se iba volando.",
     ai('cacerola_cielo', 'a single raised pot silhouetted against a red sky, a helicopter tiny in the distance above it, crowd around in shadow, iconic', at='alguien levanta una cacerola'))

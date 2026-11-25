@@ -92,7 +92,7 @@
   "inter_db": -22,
   "pause_stretch": 0,
   "pause_cap": 0.6,
-  "gap_n": 1.6,
+  "gap_n": 2.0,
   "gap_q": 1.1
  },
  "tempo": 0.9,
@@ -114,7 +114,7 @@
   }
  ],
  "seed": 29,
- "rev": 1,
+ "rev": 2,
  "units": [
   {
    "k": "B",
@@ -128,28 +128,24 @@
    "url": "media/comoespana/voz/g1.mp3",
    "shots": [
     {
-     "photo": "Palacio de las Cortes Madrid fachada",
-     "src": "commons",
      "lt": [
       "Congreso de los Diputados",
       "Madrid"
-     ]
+     ],
+     "commons": "File:España - Madrid - Palacio de las Cortes - Fachada.JPG"
     },
     {
-     "photo": "urna electoral España elecciones",
-     "src": "commons",
-     "at": "Imagina que ganas"
+     "at": "Imagina que ganas",
+     "commons": "File:Congreso de los Diputados, enero de 2015.JPG"
     },
     {
-     "photo": "Hemiciclo del Congreso de los Diputados",
-     "src": "commons",
      "at": "Eres el más votado",
-     "kw": "GANAS… Y NO GOBIERNAS"
+     "kw": "GANAS… Y NO GOBIERNAS",
+     "commons": "File:Conmemoración del 40 Aniversario de la Constitución Española 05.jpg"
     },
     {
-     "photo": "Congreso de los Diputados leones",
-     "src": "commons",
-     "at": "Y no es teoría"
+     "at": "Y no es teoría",
+     "commons": "File:Congreso de los Diputados (España) 09.jpg"
     }
    ]
   },
@@ -161,45 +157,40 @@
    "url": "media/comoespana/voz/g2.mp3",
    "shots": [
     {
-     "photo": "Bundeshaus Bern",
-     "src": "commons",
      "at": "En Suiza",
      "lt": [
       "Palacio Federal",
       "Berna (Suiza)"
-     ]
+     ],
+     "commons": "File:Bundeshaus Bern 20180827-2.jpg"
     },
     {
-     "photo": "Bundeshaus Bern Bundesratszimmer",
-     "src": "commons",
-     "at": "gobiernan siete"
+     "at": "gobiernan siete",
+     "commons": "File:Bundesrat (Schweiz) im Sitzungszimmer.jpg"
     },
     {
-     "photo": "Casa de la Vall Andorra",
-     "src": "commons",
      "at": "En Andorra",
      "lt": [
       "Casa de la Vall",
       "Andorra la Vella"
-     ]
+     ],
+     "commons": "File:Casa de la Vall. 1580. Andorra 149.jpg"
     },
     {
-     "photo": "Catedral de la Seu d'Urgell",
-     "src": "commons",
      "at": "Uno es el obispo",
      "lt": [
       "Catedral de Santa María",
       "La Seu d'Urgell"
-     ]
+     ],
+     "commons": "File:Claustro da Catedral de La Seu d'Urgell. Cataluña 2014-3.jpg"
     },
     {
-     "photo": "Palais de l'Élysée",
-     "src": "commons",
      "at": "El otro",
      "lt": [
       "Palacio del Elíseo",
       "París"
-     ]
+     ],
+     "commons": "File:Palais de l'Élysée 2019.jpg"
     }
    ]
   },
@@ -211,33 +202,28 @@
    "url": "media/comoespana/voz/g3.mp3",
    "shots": [
     {
-     "photo": "Congreso de los Diputados interior pleno",
-     "src": "commons",
-     "at": "Quién manda"
+     "at": "Quién manda",
+     "commons": "File:2019-02-12, La ministra de Hacienda, María Jesús Montero, interviene en el hemiciclo del Congreso, pge03.jpg"
     },
     {
-     "photo": "Palacio Real de Madrid",
-     "src": "commons",
-     "at": "Para qué sirve"
+     "at": "Para qué sirve",
+     "commons": "File:Madrid May 2014-35a.jpg"
     },
     {
-     "photo": "Agencia Tributaria edificio Madrid",
-     "src": "commons",
-     "at": "Adónde van"
+     "at": "Adónde van",
+     "commons": "File:Euro coins and banknotes (cropped2).jpg"
     },
     {
-     "photo": "Berlaymont building Brussels",
-     "src": "commons",
      "at": "Y cuánto se decide",
      "lt": [
       "Comisión Europea",
       "Bruselas"
-     ]
+     ],
+     "commons": "File:Belgique - Bruxelles - Schuman - Berlaymont - 01.jpg"
     },
     {
-     "photo": "The Blue Marble NASA Apollo 17",
-     "src": "commons",
-     "at": "hay que dar la vuelta"
+     "at": "hay que dar la vuelta",
+     "commons": "File:Blue-marble-apollo-17-16x9-1.jpg"
     }
    ]
   },
@@ -281,28 +267,24 @@
    "url": "media/comoespana/voz/a1.mp3",
    "shots": [
     {
-     "photo": "Palacio de la Moncloa",
-     "src": "commons",
      "at": "El domingo no vas",
      "lt": [
       "Palacio de la Moncloa",
       "Madrid"
-     ]
+     ],
+     "commons": "File:Fachada Moncloa.png"
     },
     {
-     "photo": "papeletas elecciones generales España sobre",
-     "src": "commons",
-     "at": "Su nombre ni siquiera"
+     "at": "Su nombre ni siquiera",
+     "commons": "File:Cantabria Papeleta Elecciones Generales 2015 Congreso Sobre.png"
     },
     {
-     "photo": "colegio electoral España votación",
-     "src": "commons",
-     "at": "Lo que eliges"
+     "at": "Lo que eliges",
+     "commons": "File:Papeletas electorales Cortes Generales 2015 Cádiz.jpg"
     },
     {
-     "photo": "Hemiciclo Congreso Diputados vista general",
-     "src": "commons",
-     "at": "Trescientos cincuenta"
+     "at": "Trescientos cincuenta",
+     "commons": "File:Madrid - Hemiciclo del Congreso - 141203 100648.jpg"
     }
    ]
   },
@@ -369,13 +351,12 @@
    "url": "media/comoespana/voz/a56.mp3",
    "shots": [
     {
-     "photo": "Victor D'Hondt",
-     "src": "commons",
      "at": "un jurista belga",
      "lt": [
       "Victor D'Hondt",
       "jurista belga (1841-1901)"
-     ]
+     ],
+     "commons": "File:Victor D'Hondt (1841-1901) .jpg"
     },
     {
      "file": "media/comoespana/anim/DhondtVotos.mp4",
@@ -421,10 +402,10 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 6.5,
+   "secs": 7.5,
    "shots": [
     {
-     "photo": "Soria ciudad vista panorámica",
+     "photo": "Soria",
      "src": "commons",
      "lt": [
       "Soria",
@@ -441,13 +422,12 @@
    "url": "media/comoespana/voz/a9.mp3",
    "shots": [
     {
-     "photo": "Palace of Westminster",
-     "src": "commons",
      "at": "Ahora, otro país",
      "lt": [
       "Palacio de Westminster",
       "Londres"
-     ]
+     ],
+     "commons": "File:At London 2025 566 - Westminster Bridge with Palace of Westminster .jpg"
     },
     {
      "file": "media/comoespana/anim/Mayoritario.mp4",
@@ -466,23 +446,20 @@
    "url": "media/comoespana/voz/a10.mp3",
    "shots": [
     {
-     "photo": "Palais Bourbon Assemblée nationale",
-     "src": "commons",
      "at": "Francia",
      "lt": [
       "Asamblea Nacional",
       "París"
-     ]
+     ],
+     "commons": "File:Palais Bourbon, Paris 7e, NW View 140402 1.jpg"
     },
     {
-     "photo": "bureau de vote France élections urne",
-     "src": "commons",
-     "at": "una semana después"
+     "at": "una semana después",
+     "commons": "File:Urne électorale J3.jpg"
     },
     {
-     "photo": "Assemblée nationale hémicycle",
-     "src": "commons",
-     "at": "Puedes quedar segundo"
+     "at": "Puedes quedar segundo",
+     "commons": "File:Assemblée nationale-2 (46824158164).jpg"
     }
    ]
   },
@@ -510,13 +487,12 @@
    "url": "media/comoespana/voz/a12.mp3",
    "shots": [
     {
-     "photo": "United States Capitol west front",
-     "src": "commons",
      "at": "Y luego está",
      "lt": [
       "Capitolio",
       "Washington D. C."
-     ]
+     ],
+     "commons": "File:United States Capitol west front edit2 (bannerportada esvoy).jpg"
     },
     {
      "file": "media/comoespana/anim/ColegioElectoral.mp4",
@@ -530,15 +506,14 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 6.5,
+   "secs": 7.5,
    "shots": [
     {
-     "photo": "Lincoln Memorial reflecting pool",
-     "src": "commons",
      "lt": [
       "Washington D. C.",
       "EE. UU."
-     ]
+     ],
+     "commons": "File:Lincoln Memorial Reflecting Pool With The Washington Monument.jpg"
     }
    ]
   },
@@ -550,18 +525,17 @@
    "url": "media/comoespana/voz/a13.mp3",
    "shots": [
     {
-     "photo": "urna transparente voto España",
+     "photo": "Urna electoral",
      "src": "commons",
      "at": "Así que tu voto"
     },
     {
-     "photo": "Palacio Real de Madrid fachada sur",
-     "src": "commons",
      "at": "o el rey",
      "lt": [
       "Palacio Real",
       "Madrid"
-     ]
+     ],
+     "commons": "File:Palacio Real (Madrid) 05.jpg"
     }
    ]
   },
@@ -666,15 +640,14 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 6.5,
+   "secs": 7.5,
    "shots": [
     {
-     "photo": "Parliament Hill Ottawa",
-     "src": "commons",
      "lt": [
       "Parlamento de Canadá",
       "Ottawa"
-     ]
+     ],
+     "commons": "File:Parliament Hill from the Ottawa River.JPG"
     }
    ]
   },
@@ -686,9 +659,8 @@
    "url": "media/comoespana/voz/b6.mp3",
    "shots": [
     {
-     "photo": "Constitución española 1978 ejemplar original",
-     "src": "commons",
-     "at": "Ahora bien"
+     "at": "Ahora bien",
+     "commons": "File:Constitucion espanola 1978.JPG"
     }
    ]
   },
@@ -734,31 +706,28 @@
    "url": "media/comoespana/voz/c2.mp3",
    "shots": [
     {
-     "photo": "Houses of Parliament London Thames",
-     "src": "commons",
      "at": "El Reino Unido",
      "lt": [
       "Parlamento británico",
       "Londres"
-     ]
+     ],
+     "commons": "File:London , Lambeth - River Thames ^ Houses of Parliament - geograph.org.uk - 2410501.jpg"
     },
     {
-     "photo": "Magna Carta British Library",
-     "src": "commons",
      "at": "Sus reglas",
      "lt": [
       "Carta Magna (1215)",
       "British Library"
-     ]
+     ],
+     "commons": "File:1215-magna-carta-detail-an-embroidery-cornelia-parker-british-library.jpg"
     },
     {
-     "photo": "Parliament Buildings Wellington Beehive",
-     "src": "commons",
      "at": "Nueva Zelanda",
      "lt": [
       "Parlamento",
       "Wellington (Nueva Zelanda)"
-     ]
+     ],
+     "commons": "File:Beehive and Parliament House - Wellington - New Zealand - DSC00165.jpg"
     }
    ]
   },
@@ -770,7 +739,7 @@
    "url": "media/comoespana/voz/c3.mp3",
    "shots": [
     {
-     "photo": "Palacio de Justicia Madrid Tribunal Supremo Salesas",
+     "photo": "Tribunal Supremo Madrid",
      "src": "commons",
      "at": "Y quién vigila",
      "lt": [
@@ -788,6 +757,21 @@
    ]
   },
   {
+   "k": "M",
+   "track": "tema",
+   "secs": 7.5,
+   "shots": [
+    {
+     "photo": "Tribunal Constitucional de España",
+     "src": "commons",
+     "lt": [
+      "Tribunal Constitucional",
+      "Madrid"
+     ]
+    }
+   ]
+  },
+  {
    "k": "N",
    "key": "c4",
    "voice": "NEW",
@@ -795,33 +779,30 @@
    "url": "media/comoespana/voz/c4.mp3",
    "shots": [
     {
-     "photo": "Wisconsin Supreme Court chamber",
-     "src": "commons",
      "at": "Y en Estados Unidos",
      "lt": [
       "Tribunal Supremo de Wisconsin",
       "EE. UU."
-     ]
+     ],
+     "commons": "File:Wisconsin Supreme Court.jpg"
     },
     {
-     "photo": "judicial election campaign sign",
-     "src": "commons",
-     "at": "Hacen campaña"
+     "at": "Hacen campaña",
+     "commons": "File:SI-CampaignSigns.JPG"
     }
    ]
   },
   {
    "k": "M",
    "track": "tema",
-   "secs": 6.5,
+   "secs": 7.5,
    "shots": [
     {
-     "photo": "United States Supreme Court building",
-     "src": "commons",
      "lt": [
       "Tribunal Supremo",
       "Washington D. C."
-     ]
+     ],
+     "commons": "File:Panorama of United States Supreme Court Building at Dusk.jpg"
     }
    ]
   },
@@ -833,9 +814,8 @@
    "url": "media/comoespana/voz/c5.mp3",
    "shots": [
     {
-     "photo": "Congreso de los Diputados votación pleno",
-     "src": "commons",
-     "at": "Pero"
+     "at": "Pero",
+     "commons": "File:Madrid - Hemiciclo del Congreso - 141203 100858.jpg"
     }
    ]
   },
@@ -897,7 +877,7 @@
    "url": "media/comoespana/voz/d3.mp3",
    "shots": [
     {
-     "photo": "Constitutional Court of Korea building Seoul",
+     "photo": "Constitutional Court of Korea",
      "src": "commons",
      "at": "En Corea del Sur",
      "lt": [
@@ -906,33 +886,30 @@
      ]
     },
     {
-     "photo": "2016 South Korean protests candlelight Gwanghwamun",
-     "src": "commons",
      "at": "destituyó a Park",
      "lt": [
       "Protestas de 2016-2017",
       "Seúl"
-     ]
+     ],
+     "commons": "File:Korea Candlelight Protest 05.jpg"
     },
     {
-     "photo": "2024 South Korean martial law National Assembly",
-     "src": "commons",
-     "at": "y a Yoon"
+     "at": "y a Yoon",
+     "commons": "File:South Korean soldiers waiting to leave the National Assembly.png"
     }
    ]
   },
   {
    "k": "M",
    "track": "tema",
-   "secs": 6.5,
+   "secs": 7.5,
    "shots": [
     {
-     "photo": "Gwanghwamun Square Seoul",
-     "src": "commons",
      "lt": [
       "Plaza de Gwanghwamun",
       "Seúl"
-     ]
+     ],
+     "commons": "File:Gwanghwamun Square 20220806 06.jpg"
     }
    ]
   },
@@ -944,9 +921,8 @@
    "url": "media/comoespana/voz/d4.mp3",
    "shots": [
     {
-     "photo": "Cortes de Castilla y León edificio Valladolid",
-     "src": "commons",
-     "at": "Hasta aquí"
+     "at": "Hasta aquí",
+     "commons": "File:Valladolid cortes castilla leon 07 lou.jpg"
     }
    ]
   },
@@ -999,28 +975,26 @@
      "at": "En la Constitución"
     },
     {
-     "photo": "Landsgemeinde Glarus",
-     "src": "commons",
      "at": "y sus ciudadanos votan",
      "lt": [
       "Landsgemeinde",
       "Glaris (Suiza)"
-     ]
+     ],
+     "commons": "File:Landsgemeinde Glarus, 2009.jpg"
     }
    ]
   },
   {
    "k": "M",
    "track": "tema",
-   "secs": 6.5,
+   "secs": 7.5,
    "shots": [
     {
-     "photo": "Bern old town Aare",
-     "src": "commons",
      "lt": [
       "Berna",
       "Suiza"
-     ]
+     ],
+     "commons": "File:1 bern 2012b.jpg"
     }
    ]
   },
@@ -1032,9 +1006,8 @@
    "url": "media/comoespana/voz/e3.mp3",
    "shots": [
     {
-     "photo": "euro banknotes coins",
-     "src": "commons",
-     "at": "Y todo eso"
+     "at": "Y todo eso",
+     "commons": "File:Euro coins and banknotes.jpg"
     }
    ]
   },
@@ -1119,28 +1092,26 @@
      "at": "Pagamos"
     },
     {
-     "photo": "Dubai skyline Burj Khalifa",
-     "src": "commons",
      "at": "el Estado vive",
      "lt": [
       "Dubái",
       "Emiratos Árabes Unidos"
-     ]
+     ],
+     "commons": "File:Dubai Skyline mit Burj Khalifa (cropped).jpg"
     }
    ]
   },
   {
    "k": "M",
    "track": "tema",
-   "secs": 6.5,
+   "secs": 7.5,
    "shots": [
     {
-     "photo": "Nyhavn Copenhagen",
-     "src": "commons",
      "lt": [
       "Copenhague",
       "Dinamarca"
-     ]
+     ],
+     "commons": "File:Nyhavn, Copenhagen, 20220618 1725 7350.jpg"
     }
    ]
   },
@@ -1152,13 +1123,12 @@
    "url": "media/comoespana/voz/f5.mp3",
    "shots": [
     {
-     "photo": "Berlaymont Brussels European Commission",
-     "src": "commons",
      "at": "Pero hay decisiones",
      "lt": [
       "Comisión Europea",
       "Bruselas"
-     ]
+     ],
+     "commons": "File:Berlaymont building in Brussels.jpg"
     }
    ]
   },
@@ -1197,6 +1167,21 @@
    ]
   },
   {
+   "k": "M",
+   "track": "tema",
+   "secs": 7.5,
+   "shots": [
+    {
+     "photo": "European Parliament Strasbourg hemicycle",
+     "src": "commons",
+     "lt": [
+      "Parlamento Europeo",
+      "Estrasburgo"
+     ]
+    }
+   ]
+  },
+  {
    "k": "N",
    "key": "h2",
    "voice": "NEW",
@@ -1211,13 +1196,12 @@
      "at": "El euro"
     },
     {
-     "photo": "European Central Bank Frankfurt Seat",
-     "src": "commons",
      "at": "en el Banco Central",
      "lt": [
       "Banco Central Europeo",
       "Fráncfort"
-     ]
+     ],
+     "commons": "File:Frankfurt am Main, Seat of the European Central Bank (Skytower (ECB)).jpg"
     }
    ]
   },
@@ -1240,15 +1224,14 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 6.5,
+   "secs": 7.5,
    "shots": [
     {
-     "photo": "United Nations Security Council chamber",
-     "src": "commons",
      "lt": [
       "Consejo de Seguridad",
       "Nueva York"
-     ]
+     ],
+     "commons": "File:United Nations Security Council 4-3-crop.jpeg"
     }
    ]
   },
@@ -1260,9 +1243,8 @@
    "url": "media/comoespana/voz/h4.mp3",
    "shots": [
     {
-     "photo": "United Nations General Assembly hall",
-     "src": "commons",
-     "at": "Hasta ahora"
+     "at": "Hasta ahora",
+     "commons": "File:United Nations General Assembly 2024.jpg"
     }
    ]
   },
@@ -1292,13 +1274,12 @@
    "url": "media/comoespana/voz/i1.mp3",
    "shots": [
     {
-     "photo": "Guaita San Marino",
-     "src": "commons",
      "at": "San Marino",
      "lt": [
       "Guaita",
       "San Marino"
-     ]
+     ],
+     "commons": "File:Fortress of Guaita - First Tower (San Marino).jpg"
     },
     {
      "file": "media/comoespana/anim/FichaSanMarino.mp4",
@@ -1317,13 +1298,12 @@
    "url": "media/comoespana/voz/i2.mp3",
    "shots": [
     {
-     "photo": "Istana Negara Kuala Lumpur",
-     "src": "commons",
      "at": "En Malasia",
      "lt": [
       "Istana Negara",
       "Kuala Lumpur"
-     ]
+     ],
+     "commons": "File:Kuala Lumpur Malaysia-Istana Negara-Jalan-Duta-03.jpg"
     },
     {
      "file": "media/comoespana/anim/FichaMalasia.mp4",
@@ -1342,22 +1322,20 @@
    "url": "media/comoespana/voz/i3.mp3",
    "shots": [
     {
-     "photo": "Piazza San Pietro Vaticano",
-     "src": "commons",
      "at": "El Vaticano",
      "lt": [
       "Plaza de San Pedro",
       "Ciudad del Vaticano"
-     ]
+     ],
+     "commons": "File:St Peter's Square, Vatican City - April 2007.jpg"
     },
     {
-     "photo": "Cappella Sistina interno",
-     "src": "commons",
      "at": "elegido por los cardenales",
      "lt": [
       "Capilla Sixtina",
       "lugar del cónclave"
-     ]
+     ],
+     "commons": "File:Roma - interno della Cappella Sistina - Anderson. LCCN91783894.jpg"
     }
    ]
   },
@@ -1369,13 +1347,12 @@
    "url": "media/comoespana/voz/i4.mp3",
    "shots": [
     {
-     "photo": "Schloss Vaduz",
-     "src": "commons",
      "at": "En Liechtenstein",
      "lt": [
       "Castillo de Vaduz",
       "Liechtenstein"
-     ]
+     ],
+     "commons": "File:Schloss Vaduz (2009).jpg"
     },
     {
      "file": "media/comoespana/anim/FichaLiechtenstein.mp4",
@@ -1394,13 +1371,12 @@
    "url": "media/comoespana/voz/i5.mp3",
    "shots": [
     {
-     "photo": "Punakha Dzong Bhutan",
-     "src": "commons",
      "at": "Y en Bután",
      "lt": [
       "Punakha Dzong",
       "Bután"
-     ]
+     ],
+     "commons": "File:Punakha Dzong, Bhutan 02.jpg"
     },
     {
      "file": "media/comoespana/anim/FichaButan.mp4",
@@ -1414,15 +1390,14 @@
   {
    "k": "M",
    "track": "tema",
-   "secs": 6.5,
+   "secs": 7.5,
    "shots": [
     {
-     "photo": "Paro Taktsang Tiger's Nest",
-     "src": "commons",
      "lt": [
       "Paro Taktsang",
       "Bután"
-     ]
+     ],
+     "commons": "File:Paro Taktsang, Bhutan (edited).jpg"
     }
    ]
   },
@@ -1438,7 +1413,7 @@
    "url": "media/comoespana/voz/i6.mp3",
    "shots": [
     {
-     "photo": "votante introduce sobre urna España",
+     "photo": "Ballot box Spain election",
      "src": "commons",
      "at": "Ahora vuelve"
     },
@@ -1459,14 +1434,12 @@
    "url": "media/comoespana/voz/i7.mp3",
    "shots": [
     {
-     "photo": "Congreso de los Diputados fachada noche",
-     "src": "commons",
-     "at": "Ningún sistema"
+     "at": "Ningún sistema",
+     "commons": "File:(MAD) Congreso-7.jpg"
     },
     {
-     "photo": "Puerta del Sol Madrid kilómetro cero",
-     "src": "commons",
-     "at": "Ahora ya sabes"
+     "at": "Ahora ya sabes",
+     "commons": "File:Madrid -38 (43916854262).jpg"
     }
    ]
   }

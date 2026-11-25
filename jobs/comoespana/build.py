@@ -84,7 +84,7 @@ SHOTS = {
  'a11': [A('TresSistemas', at='Mira lo que ocurre', cues=dict(votos='Mira', h1='exactamente', h2='tres sistemas', h3='El reparto'))],
  'a12': [P('United States Capitol west front', at='Y luego está', lt=['Capitolio', 'Washington D. C.']),
          A('ColegioElectoral', at='Allí, al presidente', cues=dict(electores='quinientos treinta y ocho', estados='Cada estado', n270='Hacen falta', votos='En dos mil dieciséis', perdio='y perdió'))],
- 'a13': [P('urna transparente voto España', at='Así que tu voto'), P('Palacio Real de Madrid fachada sur', at='o el rey', lt=['Palacio Real', 'Madrid'])],
+ 'a13': [P('Urna electoral', at='Así que tu voto'), P('Palacio Real de Madrid fachada sur', at='o el rey', lt=['Palacio Real', 'Madrid'])],
  'b1': [C(dict(type='quote', text='La forma política del Estado español es la Monarquía parlamentaria', attrib='Constitución española · artículo 1.3'))],
  'b2': [A('OrganigramaEspana', at='Traducido', cues=dict(rey='El jefe del Estado', sanciona='sanciona', propone='propone', gobierno='Y el jefe del Gobierno', refrendo='Sus actos'))],
  'b3': [A('Comparativa', at='En otros países', cues=dict(usa='En Estados Unidos', fra='En Francia', ale='En Alemania', sui='Y en Suiza'))],
@@ -94,13 +94,13 @@ SHOTS = {
  'c1': [A('Reformas', at='Las reglas', cues=dict(ref='referéndum', art='ciento sesenta', cuatro='solo cuatro', ultima='Formentera'))],
  'c2': [P('Houses of Parliament London Thames', at='El Reino Unido', lt=['Parlamento británico', 'Londres']), P('Magna Carta British Library', at='Sus reglas', lt=['Carta Magna (1215)', 'British Library']),
         P('Parliament Buildings Wellington Beehive', at='Nueva Zelanda', lt=['Parlamento', 'Wellington (Nueva Zelanda)'])],
- 'c3': [P('Palacio de Justicia Madrid Tribunal Supremo Salesas', at='Y quién vigila', lt=['Tribunal Supremo', 'Madrid']),
+ 'c3': [P('Tribunal Supremo Madrid', at='Y quién vigila', lt=['Tribunal Supremo', 'Madrid']),
         A('Tribunales', at='En España hay dos', cues=dict(supremo='El Tribunal Supremo', constitucional='El Tribunal Constitucional', doce='Tiene doce'))],
  'c4': [P('Wisconsin Supreme Court chamber', at='Y en Estados Unidos', lt=['Tribunal Supremo de Wisconsin', 'EE. UU.']), P('judicial election campaign sign', at='Hacen campaña')],
  'c5': [P('Congreso de los Diputados votación pleno', at='Pero')],
  'd1': [A('Mocion', at='Se puede', cues=dict(otro='proponer a otro', n176='ciento setenta y seis', ya='Si lo logra', seis='En democracia', una='Solo una'))],
  'd2': [A('Impeachment', at='En Estados Unidos', cues=dict(camara='La Cámara', senado='el Senado juzga', tercios='dos tercios', cuatro='Cuatro veces', ninguno='Ninguno'))],
- 'd3': [P('Constitutional Court of Korea building Seoul', at='En Corea del Sur', lt=['Tribunal Constitucional', 'Seúl (Corea del Sur)']),
+ 'd3': [P('Constitutional Court of Korea', at='En Corea del Sur', lt=['Tribunal Constitucional', 'Seúl (Corea del Sur)']),
         P('2016 South Korean protests candlelight Gwanghwamun', at='destituyó a Park', lt=['Protestas de 2016-2017', 'Seúl']), P('2024 South Korean martial law National Assembly', at='y a Yoon')],
  'd4': [P('Cortes de Castilla y León edificio Valladolid', at='Hasta aquí')],
  'e1': [A('Autonomias', at='Diecisiete', cues=dict(diecisiete='Diecisiete', servicios='hospitales', foral='Y el País Vasco'))],
@@ -124,12 +124,12 @@ SHOTS = {
         A('Ficha', at='Y lo más curioso', name='FichaLiechtenstein', cues=dict(dato='en dos mil tres'), p=dict(iso='LIE', ll=[9.55, 47.14], nombre='Liechtenstein', sub='el príncipe puede vetar leyes', num='2003', numsub='REFERÉNDUM QUE AMPLIÓ SUS PODERES', lines=['2003: sí con un 64 %', '2012: el 76 % rechaza recortarlos']))],
  'i5': [P('Punakha Dzong Bhutan', at='Y en Bután', lt=['Punakha Dzong', 'Bután']),
         A('Ficha', at='Su Constitución', name='FichaButan', cues=dict(dato='Y el país'), p=dict(iso='BTN', ll=[90.4, 27.5], nombre='Bután', sub='Constitución de 2008', num='65', numsub='AÑOS: EDAD DE RETIRO DEL REY', lines=['Felicidad Nacional Bruta', 'como meta del Estado']))],
- 'i6': [P('votante introduce sobre urna España', at='Ahora vuelve'),
+ 'i6': [P('Ballot box Spain election', at='Ahora vuelve'),
         A('Recap', at='Tu voto se suma', cues=dict(provincia='Tu voto se suma', dhondt='La ley', diputados='Los diputados', rey='El rey', tc='El Constitucional', comunidad='Tu comunidad', bruselas='Y una parte'))],
  'i7': [P('Congreso de los Diputados fachada noche', at='Ningún sistema'), P('Puerta del Sol Madrid kilómetro cero', at='Ahora ya sabes')],
 }
 # respiraciones de música sola (6-7 s) tras los ganchos fuertes, con su plano
-BREATH = {'a8': ('Soria ciudad vista panorámica', ['Soria', 'Castilla y León']), 'a12': ('Lincoln Memorial reflecting pool', ['Washington D. C.', 'EE. UU.']),
+BREATH = {'a8': ('Soria', ['Soria', 'Castilla y León']), 'c3': ('Tribunal Constitucional de España', ['Tribunal Constitucional', 'Madrid']), 'h1': ('European Parliament Strasbourg hemicycle', ['Parlamento Europeo', 'Estrasburgo']), 'a12': ('Lincoln Memorial reflecting pool', ['Washington D. C.', 'EE. UU.']),
           'b5': ('Parliament Hill Ottawa', ['Parlamento de Canadá', 'Ottawa']), 'c4': ('United States Supreme Court building', ['Tribunal Supremo', 'Washington D. C.']),
           'd3': ('Gwanghwamun Square Seoul', ['Plaza de Gwanghwamun', 'Seúl']), 'e2': ('Bern old town Aare', ['Berna', 'Suiza']),
           'f4': ('Nyhavn Copenhagen', ['Copenhague', 'Dinamarca']), 'h3': ('United Nations Security Council chamber', ['Consejo de Seguridad', 'Nueva York']),
@@ -174,8 +174,35 @@ CHAPTER_YT = {'t1': 'Ganas y no gobiernas', 't2': 'Rey o presidente: formas de g
 BEDS = {'g1': 'tema', 't1': 'pulso', 't2': 'mundo', 't3': 'calma', 't4': 'pulso', 't5': 'mundo', 't6': 'calma', 't7': 'pulso', 't8': 'mundo', 'i6': 'tema'}
 MIX = lambda n, t: {'mixkit': f'https://assets.mixkit.co/music/{n}/{n}.mp3', 'title': t, 'page': 'https://mixkit.co/free-stock-music/'}
 
+PICK = {'Palacio de las Cortes Madrid fachada': 6, 'Hemiciclo del Congreso de los Diputados': 1, 'Congreso de los Diputados leones': 6, 'Bundeshaus Bern': 6,
+        'Bundeshaus Bern Bundesratszimmer': 0, 'Casa de la Vall Andorra': 4, "Catedral de la Seu d'Urgell": 0, "Palais de l'Élysée": 6, 'Palacio Real de Madrid': 1,
+        'Berlaymont building Brussels': 0, 'The Blue Marble NASA Apollo 17': 1, 'Palacio de la Moncloa': 4, 'papeletas elecciones generales España sobre': 0,
+        "Victor D'Hondt": 7, 'Palace of Westminster': 0, 'Palais Bourbon Assemblée nationale': 6, 'bureau de vote France élections urne': 1,
+        'Assemblée nationale hémicycle': 1, 'United States Capitol west front': 6, 'Lincoln Memorial reflecting pool': 7, 'Palacio Real de Madrid fachada sur': 6,
+        'Parliament Hill Ottawa': 6, 'Constitución española 1978 ejemplar original': 0, 'Houses of Parliament London Thames': 5, 'Magna Carta British Library': 0,
+        'Parliament Buildings Wellington Beehive': 3, 'Wisconsin Supreme Court chamber': 7, 'judicial election campaign sign': 7, 'United States Supreme Court building': 3,
+        '2016 South Korean protests candlelight Gwanghwamun': 0, '2024 South Korean martial law National Assembly': 4, 'Gwanghwamun Square Seoul': 3,
+        'Cortes de Castilla y León edificio Valladolid': 6, 'Landsgemeinde Glarus': 3, 'Bern old town Aare': 0, 'euro banknotes coins': 5, 'Dubai skyline Burj Khalifa': 6,
+        'Nyhavn Copenhagen': 6, 'Berlaymont Brussels European Commission': 6, 'European Central Bank Frankfurt Seat': 3, 'United Nations Security Council chamber': 6,
+        'United Nations General Assembly hall': 5, 'Guaita San Marino': 0, 'Istana Negara Kuala Lumpur': 7, 'Piazza San Pietro Vaticano': 7, 'Cappella Sistina interno': 4,
+        'Schloss Vaduz': 2, 'Punakha Dzong Bhutan': 0, "Paro Taktsang Tiger's Nest": 1, 'Congreso de los Diputados fachada noche': 0, 'Puerta del Sol Madrid kilómetro cero': 2}
+# consultas sin material propio: otro candidato (distinto archivo) de otra búsqueda coherente
+ALT = {'urna electoral España elecciones': ('Palacio de las Cortes Madrid fachada', 2), 'Congreso de los Diputados interior pleno': ('Hemiciclo del Congreso de los Diputados', 0),
+       'Agencia Tributaria edificio Madrid': ('euro banknotes coins', 7), 'colegio electoral España votación': ('papeletas elecciones generales España sobre', 4),
+       'Hemiciclo Congreso Diputados vista general': ('Hemiciclo del Congreso de los Diputados', 4), 'Congreso de los Diputados votación pleno': ('Hemiciclo del Congreso de los Diputados', 5)}
+CASTQ = {}
+for f in sorted(os.listdir(HERE)):
+    if f.startswith('castq_r') and f.endswith('.json'): CASTQ.update(json.load(open(os.path.join(HERE, f))))
+PICK2 = {}   # picks del segundo casting (se rellenan tras revisarlo)
+
 def shot_out(s):
     s = dict(s)
+    q = s.get('photo')
+    if q:
+        ref = (q, PICK[q]) if q in PICK else ALT.get(q) or ((q, PICK2[q]) if q in PICK2 else None)
+        if ref and ('photo:' + ref[0]) in CASTQ:
+            c = CASTQ['photo:' + ref[0]][ref[1]]
+            s.pop('photo'); s.pop('src', None); s['commons'] = c['title']
     if '_anim' in s:
         d = dict(file=f"{MEDIA}/anim/{s['_name']}.mp4", start=0, grade=False, fuente='propia')
         if s.get('at'): d['at'] = s['at']
@@ -201,7 +228,7 @@ def job():
         if key == 'a56': chapters.append(dict(unit=len(U) - 1, title="Ley D'Hondt explicada"))
         if key in BREATH:
             q, lt = BREATH[key]
-            U.append(dict(k='M', track=BEDS.get(key, 'calma') if False else 'tema', secs=6.5, shots=[dict(photo=q, src='commons', lt=lt)]))
+            U.append(dict(k='M', track=BEDS.get(key, 'calma') if False else 'tema', secs=7.5, shots=[shot_out(dict(photo=q, src='commons', lt=lt))]))
     ig3 = next(i for i, u in enumerate(U) if u.get('key') == 'g3')
     job = dict(id='comoespana', title='Cómo funciona REALMENTE España', channel='DocuVox', stage='cast', align=True, align_model='small',
                no_pad=True, reuse={'max': 1, 'gap': 600}, auto_sfx={}, sfx_max=5, max_shot=10, min_shot=1.6, anchor_lead=LEAD, max_still=6,
@@ -212,7 +239,7 @@ def job():
                music={'tema': MIX(153, 'Electron 01'), 'pulso': MIX(161, 'Minimal Techno 02'), 'mundo': MIX(184, 'Vastness'), 'calma': MIX(110, 'Departure'),
                       'golpe': MIX(676, 'Epical Drums 01')},
                audio={'voice_db': -20, 'bed_db': {'tema': -36, 'pulso': -37, 'mundo': -36, 'calma': -36, 'golpe': -31}, 'inter_db': -22,
-                      'pause_stretch': 0, 'pause_cap': 0.6, 'gap_n': 1.6, 'gap_q': 1.1},
+                      'pause_stretch': 0, 'pause_cap': 0.6, 'gap_n': 2.0, 'gap_q': 1.1},
                tempo=TEMPO, parts=4, codec='hevc', max_kbps=1100, audio_kbps='128k', intro=[], inserts=[dict(after_unit=ig3, file='assets/intro/docuvox.mp4')],
                chapters=chapters, seed=29, rev=1, units=U)
     p = os.path.join(HERE, 'job.json')

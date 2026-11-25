@@ -1,0 +1,25 @@
+{
+ "dur": 12.42,
+ "t": {
+  "dato": 2.54
+ },
+ "p": {
+  "iso": "SMR",
+  "ll": [
+   12.45,
+   43.94
+  ],
+  "nombre": "San Marino",
+  "sub": "dos jefes de Estado a la vez",
+  "num": "6",
+  "numsub": "MESES DE MANDATO",
+  "lines": [
+   "Capitanes regentes",
+   "relevo: 1 de abril y 1 de octubre",
+   "tradición documentada desde 1243"
+  ]
+ },
+ "unit": "i1",
+ "scene": "Ficha",
+ "shot": 8.32
+}

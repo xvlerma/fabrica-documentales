@@ -1,0 +1,126 @@
+[
+ {
+  "name": "Hemiciclo",
+  "scene": "Hemiciclo"
+ },
+ {
+  "name": "Suma",
+  "scene": "Suma"
+ },
+ {
+  "name": "Repeticion",
+  "scene": "Repeticion"
+ },
+ {
+  "name": "DhondtVotos",
+  "scene": "DhondtVotos"
+ },
+ {
+  "name": "DhondtTabla",
+  "scene": "DhondtTabla"
+ },
+ {
+  "name": "SoriaMadrid",
+  "scene": "SoriaMadrid"
+ },
+ {
+  "name": "Mayoritario",
+  "scene": "Mayoritario"
+ },
+ {
+  "name": "TresSistemas",
+  "scene": "TresSistemas"
+ },
+ {
+  "name": "ColegioElectoral",
+  "scene": "ColegioElectoral"
+ },
+ {
+  "name": "OrganigramaEspana",
+  "scene": "OrganigramaEspana"
+ },
+ {
+  "name": "Comparativa",
+  "scene": "Comparativa"
+ },
+ {
+  "name": "Monarquias",
+  "scene": "Monarquias"
+ },
+ {
+  "name": "Reinos",
+  "scene": "Reinos"
+ },
+ {
+  "name": "Reformas",
+  "scene": "Reformas"
+ },
+ {
+  "name": "Tribunales",
+  "scene": "Tribunales"
+ },
+ {
+  "name": "Mocion",
+  "scene": "Mocion"
+ },
+ {
+  "name": "Impeachment",
+  "scene": "Impeachment"
+ },
+ {
+  "name": "Autonomias",
+  "scene": "Autonomias"
+ },
+ {
+  "name": "Federales",
+  "scene": "Federales"
+ },
+ {
+  "name": "Cien",
+  "scene": "Cien"
+ },
+ {
+  "name": "Intereses",
+  "scene": "Intereses"
+ },
+ {
+  "name": "Deuda",
+  "scene": "Deuda"
+ },
+ {
+  "name": "PresionFiscal",
+  "scene": "PresionFiscal"
+ },
+ {
+  "name": "UnionEuropea",
+  "scene": "UnionEuropea"
+ },
+ {
+  "name": "Euro",
+  "scene": "Euro"
+ },
+ {
+  "name": "BrexitONU",
+  "scene": "BrexitONU"
+ },
+ {
+  "name": "FichaSanMarino",
+  "scene": "Ficha"
+ },
+ {
+  "name": "FichaMalasia",
+  "scene": "Ficha"
+ },
+ {
+  "name": "FichaLiechtenstein",
+  "scene": "Ficha"
+ },
+ {
+  "name": "FichaButan",
+  "scene": "Ficha"
+ },
+ {
+  "name": "Recap",
+  "scene": "Recap"
+ }
+]

@@ -1,0 +1,16 @@
+{
+ "dur": 21.31,
+ "t": {
+  "provincia": 0.1,
+  "dhondt": 1.99,
+  "diputados": 4.34,
+  "rey": 7.21,
+  "tc": 9.41,
+  "comunidad": 11.03,
+  "bruselas": 12.86
+ },
+ "p": {},
+ "unit": "i6",
+ "scene": "Recap",
+ "shot": 17.21
+}

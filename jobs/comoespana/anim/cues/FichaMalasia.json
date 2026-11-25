@@ -1,0 +1,24 @@
+{
+ "dur": 13.6,
+ "t": {
+  "dato": 5.41
+ },
+ "p": {
+  "iso": "MYS",
+  "ll": [
+   102.0,
+   3.5
+  ],
+  "nombre": "Malasia",
+  "sub": "un rey elegido",
+  "num": "9",
+  "numsub": "SULTANES ELIGEN AL REY",
+  "lines": [
+   "mandato de 5 años",
+   "el trono va rotando"
+  ]
+ },
+ "unit": "i2",
+ "scene": "Ficha",
+ "shot": 9.5
+}

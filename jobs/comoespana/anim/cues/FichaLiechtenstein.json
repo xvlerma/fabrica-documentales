@@ -1,0 +1,24 @@
+{
+ "dur": 15.49,
+ "t": {
+  "dato": 4.17
+ },
+ "p": {
+  "iso": "LIE",
+  "ll": [
+   9.55,
+   47.14
+  ],
+  "nombre": "Liechtenstein",
+  "sub": "el príncipe puede vetar leyes",
+  "num": "2003",
+  "numsub": "REFERÉNDUM QUE AMPLIÓ SUS PODERES",
+  "lines": [
+   "2003: sí con un 64 %",
+   "2012: el 76 % rechaza recortarlos"
+  ]
+ },
+ "unit": "i4",
+ "scene": "Ficha",
+ "shot": 11.39
+}

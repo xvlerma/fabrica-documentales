@@ -593,7 +593,7 @@ def render_shot(sh_, out, workdir):
         base = ['-ss', f'{start:.2f}', '-stream_loop', '-1', '-i', R['path']]
         crop = sp.get('crop')  # recorte de franjas negras de origen: [x, y, w, h] relativos
         cf = f'crop=iw*{crop[2]}:ih*{crop[3]}:iw*{crop[0]}:ih*{crop[1]},' if crop else 'cropdetect=limit=24:round=2:reset=0,' if False else ''
-        vf = f'setpts={slow:.3f}*PTS,{cf}scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS},' + (GRADE if not R.get('old') else 'eq=contrast=1.05')
+        vf = f'setpts={slow:.3f}*PTS,{cf}scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS},' + (GRADE if not R.get('old') and sp.get('grade', True) else ('null' if sp.get('grade') is False else 'eq=contrast=1.05'))
         if sp.get('blur'): vf += f",gblur=sigma={sp['blur']}"
     else:
         p = f'{workdir}/prep_{os.path.basename(R["path"])}.jpg'

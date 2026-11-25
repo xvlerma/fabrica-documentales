@@ -61,7 +61,7 @@ if len(desc) > 4950:   # límite de YouTube: créditos completos en el comentari
 com = '¿Tu familia vivió el corralito, o lo recuerdas de las noticias? Y si estás en España: ¿crees que algo así podría pasar aquí? Te leemos 👇\n\nCréditos de imagen (autor y licencia):\n' + '\n'.join(compact(l) for l in cred)
 com = com[:9800]
 
-pod = f"""1 de diciembre de 2001: Argentina descubre que solo puede sacar 250 pesos a la semana de su propia cuenta. Del uno a uno de Cavallo al Decreto 1570, de los cacerolazos al helicóptero de De la Rúa, de los cinco presidentes en dos semanas a la pesificación, el contagio a Uruguay y la gran pregunta: ¿podría pasar en España? Chipre, Grecia, las preferentes, el Banco Popular y el Fondo de Garantía de Depósitos. Documental sonoro de 45 minutos.
+pod = f"""1 de diciembre de 2001: Argentina descubre que solo puede sacar 250 pesos a la semana de su propia cuenta. Del uno a uno de Cavallo al Decreto 1570, de los cacerolazos al helicóptero de De la Rúa, de los cinco presidentes en dos semanas a la pesificación, el contagio a Uruguay y la gran pregunta: ¿podría pasar en España? Chipre, Grecia, las preferentes, el Banco Popular y el Fondo de Garantía de Depósitos. Documental sonoro de 44 minutos.
 
 {caps}
 

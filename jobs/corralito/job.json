@@ -1,0 +1,4222 @@
+{
+ "permitir_sa": true,
+ "export_voice": true,
+ "thumbs": [
+  {
+   "name": "A",
+   "commons": "Casa Rosada (Buenos Aires).jpg",
+   "grande": "CORRALITO",
+   "caja": "250 $ A LA SEMANA",
+   "sub": "EL DÍA QUE LOS BANCOS SE QUEDARON TU DINERO"
+  }
+ ],
+ "lugares": {
+  "rosada": [
+   "casa rosada",
+   "casa de gobierno",
+   "pink house",
+   "casa_rosada"
+  ],
+  "plazamayo": [
+   "plaza de mayo",
+   "plaza_de_mayo",
+   "pirámide de mayo",
+   "piramide de mayo"
+  ],
+  "congreso": [
+   "congreso de la nación",
+   "congreso de la nacion",
+   "palacio del congreso",
+   "argentine national congress",
+   "congreso_de_la_naci"
+  ],
+  "avmayo": [
+   "avenida de mayo",
+   "avenida_de_mayo"
+  ],
+  "bcra": [
+   "banco central de la república argentina",
+   "banco central de la republica argentina",
+   "bcra",
+   "central bank of argentina"
+  ],
+  "hacienda": [
+   "palacio de hacienda",
+   "ministerio de economía",
+   "ministerio de economia",
+   "ministry of economy"
+  ],
+  "cavallo": [
+   "cavallo"
+  ],
+  "delarua": [
+   "de la rúa",
+   "de la rua",
+   "delarua"
+  ],
+  "menem": [
+   "menem"
+  ],
+  "duhalde": [
+   "duhalde"
+  ],
+  "rsaa": [
+   "rodríguez saá",
+   "rodriguez saa",
+   "rodríguez saa"
+  ],
+  "puerta": [
+   "ramón puerta",
+   "ramon puerta"
+  ],
+  "camano": [
+   "camaño",
+   "camano"
+  ],
+  "fmi": [
+   "international monetary fund",
+   "fondo monetario",
+   "imf headquarters",
+   "imf hq",
+   "imf building"
+  ],
+  "mendoza": [
+   "mendoza"
+  ],
+  "tribunales": [
+   "palacio de justicia",
+   "palacio de tribunales",
+   "corte suprema",
+   "supreme court of argentina"
+  ],
+  "chipre": [
+   "bank of cyprus",
+   "nicosia",
+   "cyprus",
+   "chipre",
+   "laiki"
+  ],
+  "grecia": [
+   "athens",
+   "atenas",
+   "greece",
+   "greek",
+   "grecia"
+  ],
+  "popular": [
+   "banco popular"
+  ],
+  "bce": [
+   "european central bank",
+   "banco central europeo",
+   "ecb",
+   "eurotower",
+   "grossmarkthalle"
+  ],
+  "aznar": [
+   "aznar"
+  ],
+  "alfonsin": [
+   "alfonsín",
+   "alfonsin"
+  ],
+  "krugman": [
+   "krugman"
+  ],
+  "bde": [
+   "banco de españa",
+   "banco_de_espa",
+   "bank of spain"
+  ]
+ },
+ "permitidas": [
+  "portrait",
+  "president",
+  "politician",
+  "minister",
+  "buenos aires",
+  "argentina"
+ ],
+ "id": "corralito",
+ "title": "El corralito argentino: el día que los bancos se quedaron tu dinero (¿podría pasar en España?)",
+ "channel": "DocuVox",
+ "stage": "cast",
+ "align": true,
+ "align_model": "small",
+ "no_pad": true,
+ "reuse": {
+  "max": 1,
+  "gap": 99999
+ },
+ "auto_sfx": {},
+ "sfx_max": 5,
+ "max_shot": 5.5,
+ "min_shot": 1.6,
+ "anchor_lead": 0.1,
+ "bando": {
+  "gobierno": [
+   116,
+   172,
+   223
+  ],
+  "calle": [
+   214,
+   48,
+   49
+  ],
+  "finanzas": [
+   236,
+   196,
+   90
+  ],
+  "europa": [
+   170,
+   180,
+   200
+  ]
+ },
+ "glossary": [
+  {
+   "term": "Convertibilidad",
+   "on": "La Ley de Convertibilidad",
+   "def": "un peso igual a un dólar, fijado por ley (1991-2002)"
+  },
+  {
+   "term": "FMI",
+   "on": "el FMI y otros acreedores",
+   "def": "Fondo Monetario Internacional: presta a países en apuros a cambio de condiciones"
+  },
+  {
+   "term": "Estado de sitio",
+   "on": "El estado de sitio suspende",
+   "def": "régimen de excepción que suspende garantías constitucionales"
+  },
+  {
+   "term": "Default",
+   "on": "el mayor impago de deuda soberana",
+   "def": "suspensión de pagos de la deuda de un Estado"
+  },
+  {
+   "term": "Pesificación",
+   "on": "La pesificación. Todos",
+   "def": "conversión forzosa a pesos de depósitos y deudas en dólares"
+  },
+  {
+   "term": "FGD",
+   "on": "el Fondo de Garantía de Depósitos. Si",
+   "def": "cubre hasta 100.000 € por titular y entidad si un banco quiebra"
+  },
+  {
+   "term": "BCE",
+   "on": "detrás del euro está el Banco Central Europeo",
+   "def": "Banco Central Europeo: presta liquidez a los bancos del euro"
+  }
+ ],
+ "theme": {
+  "base": "corralito",
+  "grade": "calido"
+ },
+ "music": {
+  "tema": {
+   "mixkit": "https://assets.mixkit.co/music/846/846.mp3",
+   "title": "I Won't surrender"
+  },
+  "tension": {
+   "mixkit": "https://assets.mixkit.co/music/735/735.mp3",
+   "title": "Percussions 03"
+  },
+  "accion": {
+   "mixkit": "https://assets.mixkit.co/music/677/677.mp3",
+   "title": "Epical Drums 02"
+  },
+  "calle": {
+   "mixkit": "https://assets.mixkit.co/music/733/733.mp3",
+   "title": "Percussions 01"
+  },
+  "fiesta": {
+   "mixkit": "https://assets.mixkit.co/music/642/642.mp3",
+   "title": "Latin Jazz"
+  },
+  "drama": {
+   "mixkit": "https://assets.mixkit.co/music/122/122.mp3",
+   "title": "Slow Rain"
+  },
+  "europa": {
+   "mixkit": "https://assets.mixkit.co/music/568/568.mp3",
+   "title": "Focus on Yourself"
+  },
+  "fondo": {
+   "mixkit": "https://assets.mixkit.co/music/564/564.mp3",
+   "title": "Goats"
+  }
+ },
+ "audio": {
+  "voice_db": -20,
+  "bed_db": {
+   "tema": -35,
+   "tension": -35,
+   "accion": -34,
+   "calle": -35,
+   "fiesta": -36,
+   "drama": -37,
+   "europa": -36,
+   "fondo": -37
+  },
+  "inter_db": -22,
+  "pause_stretch": 0.45,
+  "pause_cap": 0.6,
+  "gap_n": 1.2,
+  "gap_q": 0.9
+ },
+ "tempo": 0.94,
+ "parts": 4,
+ "codec": "hevc",
+ "max_kbps": 750,
+ "audio_kbps": "112k",
+ "intro": [
+  "assets/intro/docuvox.mp4"
+ ],
+ "seed": 2001,
+ "qpicks": {},
+ "split_still": 5.0,
+ "picks": {},
+ "rev": 1,
+ "units": [
+  {
+   "k": "B",
+   "track": "accion"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Buenos Aires. Jueves, veinte de diciembre de dos mil uno. Pasadas las siete y media de la tarde. Sobre la azotea de la Casa Rosada, un helicóptero blanco enciende los motores.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Casa Rosada Buenos Aires",
+     "src": "commons,loc,europeana",
+     "at": "Buenos Aires",
+     "lt": [
+      "Casa Rosada",
+      "Sede del Gobierno · Buenos Aires"
+     ],
+     "lugar": "rosada"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "heli_azotea"
+     },
+     "at": "un helicóptero blanco"
+    }
+   ],
+   "gen": "922srqU5YjMPdrNyxUXw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/H7yqterUEJ0TZCiLtA6M/922srqU5YjMPdrNyxUXw/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=g3-0sNkhc2-4Be6j6izrkh4tAJE="
+  },
+  {
+   "k": "N",
+   "text": "Abajo, en la Plaza de Mayo, huele a gas lacrimógeno. Hay caballos de la policía, piedras, cristales rotos. Y miles de personas golpeando cacerolas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "plaza_gas"
+     },
+     "at": "huele a gas lacrimógeno"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "caballos_carga"
+     },
+     "at": "caballos de la policía"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cacerolas_mil"
+     },
+     "at": "golpeando cacerolas"
+    }
+   ],
+   "gen": "8gmUeX4izjXfkoC61SRT",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KCUMHyJsT7WwHdyx4jbs/8gmUeX4izjXfkoC61SRT/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=2DEVnAOUvp3wIAXwWWjQz9_r_W4="
+  },
+  {
+   "k": "N",
+   "text": "Dentro del helicóptero va un hombre que hasta hace unos minutos era el presidente de la República Argentina. Acaba de firmar su renuncia. Y se marcha volando, porque por tierra ya no puede salir.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Fernando de la Rúa",
+     "src": "commons,loc,europeana",
+     "at": "un hombre que hasta hace",
+     "lt": [
+      "Fernando de la Rúa",
+      "Presidente de Argentina · 1999-2001",
+      "gobierno"
+     ],
+     "lugar": "delarua"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "heli_despega"
+     },
+     "at": "se marcha volando"
+    }
+   ],
+   "gen": "ymVbRUZsXBSgNY1TytgR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/affPzIMzSdO24bkLchK8/ymVbRUZsXBSgNY1TytgR/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=yHG9R4m8JF6lVZCSIAh2YBrdbC8="
+  },
+  {
+   "k": "R",
+   "text": "Treinta y nueve muertos en dos días, según los recuentos más citados. Cientos de heridos. Miles de detenidos. Y en las puertas de los bancos, persianas de acero con abolladuras de martillo.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 39,
+      "label": "muertos el 19 y 20 de diciembre de 2001"
+     },
+     "at": "Treinta y nueve muertos"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "persiana_martillo"
+     },
+     "at": "persianas de acero"
+    }
+   ],
+   "gen": "jyFQhZrudWqUa9hmMcyV",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jlvDL0yyXHcIxeIv5hDl/jyFQhZrudWqUa9hmMcyV/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=wJebnNXLM0s0t1UFLE7J6CC_7oU="
+  },
+  {
+   "k": "N",
+   "text": "¿Cómo se llega a esto? Pues todo había empezado diecinueve días antes. Un sábado. Con un ministro en televisión y una cifra: doscientos cincuenta. Doscientos cincuenta pesos a la semana. Era todo lo que podías sacar de tu propio dinero.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Domingo Cavallo",
+     "src": "commons,loc,europeana",
+     "at": "un ministro en televisión",
+     "lt": [
+      "Domingo Cavallo",
+      "Ministro de Economía",
+      "gobierno"
+     ],
+     "lugar": "cavallo"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "250",
+      "sub": "pesos por semana · ni uno más"
+     },
+     "at": "doscientos cincuenta pesos"
+    }
+   ],
+   "gen": "YD5QhwGTeNpzQSvQuX1W",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pqS2qQyR74EFUOqsmSEa/YD5QhwGTeNpzQSvQuX1W/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=n0s0XCUiR6wKuU4z4P9l-h7-Xew="
+  },
+  {
+   "k": "N",
+   "text": "Los argentinos lo bautizaron enseguida. Con un diminutivo, como quien encierra a un niño pequeño para que no se escape. El corralito.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "corral_banco"
+     },
+     "at": "El corralito"
+    }
+   ],
+   "gen": "cI9Dyg2QHoqfba2ALCX4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hXGOFq3yYnmolwY1ltP1/cI9Dyg2QHoqfba2ALCX4/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=JI20SzReANzG7oIk47aG9KHRamI="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Veinticinco años después, esa palabra se ha quedado a vivir en español. La oímos en Chipre. La oímos en Grecia. Y cada vez que un banco español se tambalea, alguien la susurra.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cajero_cola_europa"
+     },
+     "at": "La oímos en Chipre"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "susurro"
+     },
+     "at": "alguien la susurra"
+    }
+   ],
+   "gen": "rCHwo0MOTHGxYF7wlecU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/peCZfVCWZuy3vO3GsCME/rCHwo0MOTHGxYF7wlecU/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=6ld0kRipp7SZyHUNyQ3Dne28YL4="
+  },
+  {
+   "k": "N",
+   "text": "¿Cómo puede un Gobierno quedarse con el dinero de sus ciudadanos de un día para otro? ¿Quién se llevó los dólares que había en los bancos? Y la pregunta que te vamos a responder al final, con datos: ¿podría pasar en España?",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "caja_fuerte_vacia"
+     },
+     "at": "Quién se llevó los dólares"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "mapa_puente"
+     },
+     "at": "podría pasar en España"
+    }
+   ],
+   "gen": "H4jSVjL8OPYZKo8pLr7O",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0LHGhOmkhg6FyN89qePo/H4jSVjL8OPYZKo8pLr7O/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Sn3T3J-cqQRAc3mxdhcu4UXSpQY="
+  },
+  {
+   "k": "T",
+   "secs": 5.5,
+   "sting": "tema",
+   "chapter": false,
+   "text": "[dramatically] El corralito.",
+   "voice": "NAR",
+   "card": {
+    "type": "title",
+    "title": "El corralito",
+    "sub": "El día que los bancos se quedaron tu dinero"
+   },
+   "gen": "3Hp85PW1cc1OWHvDJcNY",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qZ110FdB2xR2aHqK0cxM/3Hp85PW1cc1OWHvDJcNY/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=HtW1StmnDEL8tafc7PhgM1H_-Tc="
+  },
+  {
+   "k": "T",
+   "secs": 6.0,
+   "sting": "tema",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Un peso, un dólar",
+    "sub": "1991 · 2001",
+    "num": "I"
+   }
+  },
+  {
+   "k": "B",
+   "track": "fiesta"
+  },
+  {
+   "k": "N",
+   "text": "Para entender el corralito hay que retroceder diez años. A una Argentina que acaba de salir de una pesadilla. En mil novecientos ochenta y nueve los precios se multiplicaron por más de treinta en un solo año. Hiperinflación.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 3000,
+      "label": "inflación en Argentina · 1989 (más del)",
+      "suffix": " %"
+     },
+     "at": "más de treinta"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "hiper_precios"
+     },
+     "at": "Hiperinflación"
+    }
+   ],
+   "gen": "KttbM1VTQUIv6IX7xRkv",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Cp5RVUZMy4oGxYEO3SlO/KttbM1VTQUIv6IX7xRkv/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=jWakJbsN7yD2oqt0S50GDiWJD-Y="
+  },
+  {
+   "k": "N",
+   "text": "Los sueldos se cobraban por la mañana y se gastaban por la tarde, antes de que el billete valiera menos. Había supermercados que remarcaban los precios varias veces al día.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "sueldo_corre"
+     },
+     "at": "Los sueldos se cobraban"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "billetes_viento"
+     },
+     "at": "valiera menos"
+    }
+   ],
+   "gen": "8WfRPWhL01ht0eKl7GCE",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/G0RzrsbMJ4wpP0oizfon/8WfRPWhL01ht0eKl7GCE/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=RvAqWGKyNU3IxeTbfRVxnrLvzaA="
+  },
+  {
+   "k": "N",
+   "text": "Y entonces llega un economista de Córdoba con un plan que parece magia. Domingo Cavallo, ministro de Economía de Carlos Menem. Marzo de mil novecientos noventa y uno. La Ley de Convertibilidad.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Domingo Cavallo 1990s",
+     "src": "commons,loc,europeana",
+     "at": "Domingo Cavallo",
+     "lt": [
+      "Domingo Cavallo",
+      "Ministro de Economía de Menem · 1991-1996",
+      "gobierno"
+     ],
+     "lugar": "cavallo"
+    },
+    {
+     "photo": "Carlos Menem",
+     "src": "commons,loc,europeana",
+     "at": "Carlos Menem",
+     "lt": [
+      "Carlos Menem",
+      "Presidente de Argentina · 1989-1999",
+      "gobierno"
+     ],
+     "lugar": "menem"
+    },
+    {
+     "card": {
+      "type": "doc",
+      "title": "Ley 23.928 de Convertibilidad",
+      "lines": [
+       "27 de marzo de 1991",
+       "Tipo de cambio fijo por ley",
+       "Respaldo en divisas del Banco Central"
+      ],
+      "source": "Boletín Oficial de la República Argentina"
+     },
+     "at": "La Ley de Convertibilidad"
+    }
+   ],
+   "gen": "1hL2xwmbKBqLY5ccsgaC",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dkOGlCnuxMydERg6cpOm/1hL2xwmbKBqLY5ccsgaC/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=J-hhYFGEO_WIAEOCbIv8Rv7-i3E="
+  },
+  {
+   "k": "R",
+   "text": "La regla era sencilla. Un peso vale un dólar. Siempre. Por ley. Y por cada peso que circulara, el Banco Central tendría que guardar un dólar de respaldo en sus reservas.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "versus",
+      "left": {
+       "name": "1 PESO",
+       "lines": [
+        "moneda argentina",
+        "desde 1992"
+       ]
+      },
+      "right": {
+       "name": "1 DÓLAR",
+       "lines": [
+        "respaldo en reservas",
+        "por cada peso"
+       ]
+      }
+     },
+     "at": "Un peso vale un dólar"
+    },
+    {
+     "photo": "Banco Central de la República Argentina edificio",
+     "src": "commons,loc,europeana",
+     "at": "el Banco Central",
+     "lt": [
+      "Banco Central de la República Argentina",
+      "Buenos Aires"
+     ],
+     "lugar": "bcra"
+    }
+   ],
+   "gen": "SX5yVPGFtNqu6UmcUulB",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kTMPxN0i13XDFjCIkQsS/SX5yVPGFtNqu6UmcUulB/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=S96iOjedg6M5MgKDIwOYEx_MGcc="
+  },
+  {
+   "k": "N",
+   "text": "Cavallo se hizo famoso por un gesto. Puso, uno al lado del otro, un billete de un peso y uno de un dólar. Mismo valor. Para un país que llevaba décadas viendo cómo su moneda se evaporaba, aquella imagen era casi una religión.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "billetes_lado"
+     },
+     "at": "un billete de un peso"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "altar_moneda"
+     },
+     "at": "casi una religión"
+    }
+   ],
+   "gen": "bMnDzPkbl1atdUIWXuIe",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4SijjnkCqOfyCaIcUfDj/bMnDzPkbl1atdUIWXuIe/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=AM0174KdeQGS1HKbvA-hxkXsQ7o="
+  },
+  {
+   "k": "N",
+   "text": "Funcionó. La inflación se desplomó en pocos meses. Volvió el crédito. Los argentinos podían comprar un coche a plazos, viajar a Miami, pagar el alquiler en dólares. Fue la fiesta del uno a uno.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "aeropuerto_miami"
+     },
+     "at": "viajar a Miami"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "fiesta_uno"
+     },
+     "at": "la fiesta del uno a uno"
+    }
+   ],
+   "gen": "3aAXs2DZaP9rJohi84Z0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/AG0Lz7XZ2EmZPZU1EKPN/3aAXs2DZaP9rJohi84Z0/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=ococ_DYDaoikfGjcDxulBOrkgL0="
+  },
+  {
+   "k": "N",
+   "text": "Y en esa fiesta, España tenía sitio en primera fila. Telefónica se quedó con los teléfonos. Iberia, con Aerolíneas Argentinas. Repsol compró YPF, la petrolera nacional. Y el Santander y el BBV entraron en la banca argentina comprando dos de sus grandes bancos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "España desembarca en Argentina · años noventa",
+      "items": [
+       [
+        "Telefónica",
+        "telefonía"
+       ],
+       [
+        "Iberia",
+        "Aerolíneas Argentinas"
+       ],
+       [
+        "Repsol",
+        "YPF"
+       ],
+       [
+        "Santander · BBV",
+        "banca"
+       ]
+      ]
+     },
+     "at": "España tenía sitio"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "barcos_llegan"
+     },
+     "at": "Repsol compró YPF"
+    }
+   ],
+   "gen": "PHP5y1mZUOIcPju04yUD",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JJHCfw6CMJjVcc9x7q83/PHP5y1mZUOIcPju04yUD/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=ko_7X4JaFAelEef4RIrVSn7dc3A="
+  },
+  {
+   "k": "R",
+   "text": "Hubo un detalle que entonces parecía un lujo y luego sería una trampa. Millones de argentinos podían tener la cuenta del banco directamente en dólares. A finales de dos mil, la mayor parte de los depósitos del país estaban en dólares, no en pesos.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "libreta_dolares"
+     },
+     "at": "directamente en dólares"
+    },
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Depósitos en pesos",
+       "lines": [
+        "22.118 millones",
+        "30 de noviembre de 2001"
+       ]
+      },
+      "right": {
+       "title": "Depósitos en dólares",
+       "lines": [
+        "47.476 millones",
+        "30 de noviembre de 2001"
+       ]
+      }
+     },
+     "at": "la mayor parte"
+    }
+   ],
+   "gen": "UeTQHYFwVhLS7gCeAqh8",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nkkXbV7VNHK2bDjPyEuy/UeTQHYFwVhLS7gCeAqh8/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=jjP9edYQmXz48q65dxppXM5hKUc="
+  },
+  {
+   "k": "N",
+   "text": "Para financiar la fiesta, el Estado también vendió casi todo lo que tenía: teléfonos, petróleo, trenes, agua, electricidad. Privatizaciones a un ritmo que pocos países han visto. Era dinero que entraba una sola vez.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "subasta_pais"
+     },
+     "at": "vendió casi todo"
+    }
+   ],
+   "gen": "dwlbEz7RqMFwUsFyRCwR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RpXUqKb6kSOsnJ0yq7FL/dwlbEz7RqMFwUsFyRCwR/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=1CB8Kx8Blm3RmY5YzLOteWlgKu8="
+  },
+  {
+   "k": "N",
+   "text": "Pero un peso solo puede valer un dólar si entran dólares de verdad. Exportando. O pidiendo prestado. Y Argentina, cada vez más, pedía prestado.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "grifo_dolares"
+     },
+     "at": "pidiendo prestado"
+    }
+   ],
+   "gen": "2fz8eYK8hF4FDxSvxETL",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IDQsZvNVLauLJWsP9Qo3/2fz8eYK8hF4FDxSvxETL/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=I4OztiJMA7FDPj5U-XwLmWtOYng="
+  },
+  {
+   "k": "R",
+   "text": "Y la deuda no paraba de crecer. Cada año había que pedir más para pagar lo anterior. Los mercados lo medían con un termómetro que en Argentina se volvió tan popular como el resultado del fútbol: el riesgo país. Cuanto más alto, más caro le salía al país pedir prestado.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "termometro_pais"
+     },
+     "at": "el riesgo país"
+    }
+   ],
+   "gen": "FkxAoTtbDPUJnSqr3jCf",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/g13kf5XoKHbhEu9wzYru/FkxAoTtbDPUJnSqr3jCf/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=wXZMdGwstKhnOGD-1wTY09xIbBc="
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "En mil novecientos noventa y nueve Brasil, el gran vecino y principal cliente, devalúa su moneda. De golpe, los productos argentinos son carísimos. Las fábricas cierran. El paro sube. Y el país entra en una recesión de la que ya no saldrá.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "fabrica_cierra"
+     },
+     "at": "Las fábricas cierran"
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "La cuesta abajo",
+      "events": [
+       [
+        "1999",
+        "Brasil devalúa"
+       ],
+       [
+        "2000",
+        "Blindaje del FMI"
+       ],
+       [
+        "jun. 2001",
+        "Megacanje de deuda"
+       ],
+       [
+        "jul. 2001",
+        "Ley de déficit cero"
+       ],
+       [
+        "nov. 2001",
+        "Fuga de depósitos"
+       ]
+      ]
+     },
+     "at": "entra en una recesión"
+    }
+   ],
+   "gen": "sPGfSozqer096nsJ9iDx",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qG5hrUMwIVA9ddeNvlOJ/sPGfSozqer096nsJ9iDx/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=0Y4DHOLjRzPYEctwakn2sP3RDlo="
+  },
+  {
+   "k": "N",
+   "text": "Ese mismo año gana las elecciones Fernando de la Rúa, al frente de la Alianza, una coalición de radicales y centroizquierda. Promete limpiar la política. Y mantener el uno a uno.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "urna_votos"
+     },
+     "at": "gana las elecciones"
+    },
+    {
+     "photo": "Fernando de la Rúa presidente",
+     "src": "commons,loc,europeana",
+     "at": "Fernando de la Rúa",
+     "lt": [
+      "Fernando de la Rúa",
+      "Presidente · la Alianza (UCR y Frepaso)",
+      "gobierno"
+     ],
+     "lugar": "delarua"
+    }
+   ],
+   "gen": "fhQ0cOJwms9Q0rxckS94",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1HhoZINAMF75i8c1LW1L/fhQ0cOJwms9Q0rxckS94/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=7ULnqUbfIro6I-uZdKHnQSz4clo="
+  },
+  {
+   "k": "R",
+   "text": "En diciembre de dos mil, el FMI y otros acreedores arman un rescate de casi cuarenta mil millones de dólares. Lo llaman el blindaje. Seis meses después llega el megacanje, para alargar los plazos de la deuda a cambio de intereses todavía más altos.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "photo": "International Monetary Fund headquarters Washington",
+     "src": "commons,loc,europeana",
+     "at": "el FMI",
+     "lt": [
+      "Fondo Monetario Internacional",
+      "Washington"
+     ],
+     "lugar": "fmi"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 40000,
+      "label": "millones de dólares del blindaje · diciembre de 2000 (casi)",
+      "suffix": " M$"
+     },
+     "at": "casi cuarenta mil millones"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "escudo_grietas"
+     },
+     "at": "Lo llaman el blindaje"
+    }
+   ],
+   "gen": "rSz6JRARcOu2Muvcv8DK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2pMUSPs1wPPVo2xzu4YM/rSz6JRARcOu2Muvcv8DK/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=HlIxpvGD8cQgJPYW9A9aGraBuiM="
+  },
+  {
+   "k": "R",
+   "text": "Marzo de dos mil uno. Dimite el ministro de Economía, José Luis Machinea. Le sustituye Ricardo López Murphy, que anuncia un recorte de unos dos mil millones de pesos, con tijera para provincias y universidades. Estallan las protestas. Su propia coalición le da la espalda. Dura diecisiete días.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "universidad_protesta"
+     },
+     "at": "Estallan las protestas"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 17,
+      "label": "días de Ricardo López Murphy como ministro de Economía"
+     },
+     "at": "Dura diecisiete días"
+    }
+   ],
+   "gen": "lzCvRxtrVeDuAxhXajcU",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9pBs5Nozd7VDMFwL0RLu/lzCvRxtrVeDuAxhXajcU/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=pAtdrulMXJZdy9D5ERZYRaE5pF4="
+  },
+  {
+   "k": "N",
+   "text": "Y ese mismo marzo, con el país al borde del abismo, De la Rúa llama al hombre que inventó el uno a uno. Domingo Cavallo vuelve al Ministerio de Economía. Esta vez, para salvar su propia criatura.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Domingo Cavallo",
+     "src": "commons,loc,europeana",
+     "at": "vuelve al Ministerio",
+     "lt": [
+      "Domingo Cavallo",
+      "Ministro de Economía · desde marzo de 2001",
+      "gobierno"
+     ],
+     "lugar": "cavallo"
+    },
+    {
+     "photo": "Palacio de Hacienda Buenos Aires Ministerio de Economía",
+     "src": "commons,loc,europeana",
+     "at": "Ministerio de Economía",
+     "lt": [
+      "Ministerio de Economía",
+      "Buenos Aires"
+     ],
+     "lugar": "hacienda"
+    }
+   ],
+   "gen": "qyhN1xyWAnZZwBB0k7D4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mSa7MziY3apr6VG1f5AV/qyhN1xyWAnZZwBB0k7D4/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=8WrYK-3aIjzuLbfG4Kep0YpD9yA="
+  },
+  {
+   "k": "N",
+   "text": "Lo intenta todo. En julio, una ley de déficit cero: el Estado no gastará ni un peso más de lo que ingresa, aunque haya que recortar sueldos públicos y pensiones. Y en agosto, otra ley con un nombre que hoy suena a broma macabra.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "tijeras_nomina"
+     },
+     "at": "recortar sueldos públicos y pensiones"
+    }
+   ],
+   "gen": "gRarr17r5LiEuFvYGe9O",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nRdhIMXU36LiCDDtJRug/gRarr17r5LiEuFvYGe9O/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=BA-zaLy_F9EVSdBKLKuX_u0y1z4="
+  },
+  {
+   "k": "R",
+   "text": "Ley veinticinco mil cuatrocientos sesenta y seis. De intangibilidad de los depósitos. El Estado nacional en ningún caso podrá alterar las condiciones pactadas entre los depositantes y la entidad financiera.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Ley 25.466 · Intangibilidad de los depósitos",
+      "lines": [
+       "«El Estado nacional en ningún caso",
+       "podrá alterar las condiciones pactadas",
+       "entre los depositantes y la entidad financiera»"
+      ],
+      "source": "Congreso de la Nación · agosto de 2001"
+     },
+     "at": "Ley veinticinco mil"
+    }
+   ],
+   "gen": "UK9l68Q2McREP9ncqiqS",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/a9nXIiXGoqeXZTHsEQzy/UK9l68Q2McREP9ncqiqS/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Jq3KmyW9Hcr6--7dxQuPu2JVz5g="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Una ley para prometer, por escrito, que nadie tocaría tus ahorros. Tres meses y medio después, esa promesa iba a durar exactamente un fin de semana.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "papel_arde"
+     },
+     "at": "un fin de semana"
+    }
+   ],
+   "gen": "Juib7W7dhEpG4mnz718k",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SZyfU862xMcQIvH5s89d/Juib7W7dhEpG4mnz718k/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=HgYlRujZzs3--8zgbAY_oPohK30="
+  },
+  {
+   "k": "R",
+   "text": "Porque la gente no se fiaba. Entre enero y noviembre de dos mil uno, de los bancos argentinos salió el equivalente a unos veinte mil millones de dólares. Solo en octubre y noviembre, cerca de dieciocho mil.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cola_ventanilla"
+     },
+     "at": "salió el equivalente"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 85308,
+      "to": 65380,
+      "label": "millones de dólares en depósitos · de enero a diciembre de 2001",
+      "suffix": " M$"
+     },
+     "at": "unos veinte mil millones"
+    }
+   ],
+   "gen": "SIEx5BpLAbQbZyFxLLoj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YnMwTkKgtkAUToL8VIQ6/SIEx5BpLAbQbZyFxLLoj/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=wKNj5eJMWorZ5A8LC3lquLtl3k4="
+  },
+  {
+   "k": "N",
+   "text": "Ese otoño, el Gobierno había vendido otra idea: la bancarización. Que todo el mundo pagara con tarjeta y cobrara en cuenta, para sacar la economía de la sombra y cobrar más impuestos. Sonaba moderno. Pronto iba a sonar a otra cosa.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "tarjetas_lluvia"
+     },
+     "at": "la bancarización"
+    }
+   ],
+   "gen": "3JNY3AIMWzuPNa2yv7JP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fdfWLosyCYL0S1j6ljY7/3JNY3AIMWzuPNa2yv7JP/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=hlwsK_HHwONkYLZTnEPhr4JEU4A="
+  },
+  {
+   "k": "R",
+   "text": "Los bancos se quedan sin efectivo. Para cubrir los agujeros se prestan dinero entre ellos de un día para otro, y en esos días el interés de esos préstamos llegó a dispararse a cifras de cientos por cien al año.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "termometro_rojo"
+     },
+     "at": "se quedan sin efectivo"
+    }
+   ],
+   "gen": "dfIPzeDfFdT09YazM70b",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nabxmo9kIYOeDAAGpmlZ/dfIPzeDfFdT09YazM70b/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=_gZ841oY-UBL1PWs4MJzFTnfCXY="
+  },
+  {
+   "k": "N",
+   "text": "En la última semana de noviembre la estampida es imparable. Y el viernes treinta, en el Ministerio de Economía, se trabaja de noche con las persianas bajadas.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ministerio_noche"
+     },
+     "at": "se trabaja de noche"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "papeles_decreto"
+     },
+     "at": "con las persianas bajadas"
+    }
+   ],
+   "gen": "CgbTDA02xp4XdkW5hure",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yk4TVsMfyPFtGvSs5u3e/CgbTDA02xp4XdkW5hure/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=XuQtlaydBIAYJNriJgc0PKYIfdY="
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Esa noche se estaba escribiendo el corralito. Y nadie fuera de aquella sala sabía lo que iba a pasar con su dinero el lunes.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "reloj_lunes"
+     },
+     "at": "el lunes"
+    }
+   ],
+   "gen": "Uh270abNRYIWslYCftbN",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/LS4Nl6e6tsBAAf1Cwn8j/Uh270abNRYIWslYCftbN/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=9phiVVetOCDRuXO5UMPIjSaGpO0="
+  },
+  {
+   "k": "T",
+   "secs": 6.0,
+   "sting": "accion",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El sábado del decreto",
+    "sub": "1 de diciembre de 2001",
+    "num": "II"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "R",
+   "text": "Día uno. Sábado, uno de diciembre de dos mil uno. El presidente De la Rúa firma el decreto mil quinientos setenta. Lo ha redactado el equipo de Cavallo en los últimos días de noviembre.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 1,
+      "label": "del corralito · sábado 1 de diciembre",
+      "prefix": "DÍA "
+     },
+     "at": "Día uno"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "firma_decreto"
+     },
+     "at": "firma el decreto"
+    }
+   ],
+   "gen": "vDVSwUWfMO4VvnAIiNgm",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SpiI5IavViBiGdT8a7Di/vDVSwUWfMO4VvnAIiNgm/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=P-b9olscOnbeDLKz4MofDQhB-_o="
+  },
+  {
+   "k": "N",
+   "text": "Según la reconstrucción que publicó La Nación, el límite iba a ser de mil pesos por semana. Luego se habló de quinientos. Al final, se quedó en doscientos cincuenta.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "El límite semanal que se discutió",
+      "items": [
+       [
+        "1.000 pesos",
+        "primera idea"
+       ],
+       [
+        "500 pesos",
+        "segunda"
+       ],
+       [
+        "250 pesos",
+        "la definitiva"
+       ]
+      ]
+     },
+     "at": "mil pesos por semana"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cifra_tachada"
+     },
+     "at": "se quedó en doscientos cincuenta"
+    }
+   ],
+   "gen": "iaQAgECUch3V3BQar5OK",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/69yzHn4VrMmJXjNJp7r2/iaQAgECUch3V3BQar5OK/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Ti_mvF14yi1infGPsD5Lm14IaYE="
+  },
+  {
+   "k": "R",
+   "text": "Decreto mil quinientos setenta de dos mil uno. Prohíbense los retiros en efectivo que superen los pesos doscientos cincuenta o dólares estadounidenses doscientos cincuenta por semana, por parte del titular, del total de sus cuentas en cada entidad.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Decreto 1570/2001",
+      "lines": [
+       "Prohíbense los retiros en efectivo",
+       "que superen los $250 o U$S 250 por semana",
+       "del total de sus cuentas en cada entidad"
+      ],
+      "source": "Poder Ejecutivo Nacional · 1 de diciembre de 2001"
+     },
+     "at": "Decreto mil quinientos setenta"
+    }
+   ],
+   "gen": "TbuED0lkd2Ch2uVgZGXj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9UrMo8rgZK7rby4X5D6P/TbuED0lkd2Ch2uVgZGXj/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=eZUH7v_HJsiQblID-klUU_OfsNw="
+  },
+  {
+   "k": "N",
+   "text": "Y ese fin de semana, Domingo Cavallo da la cara en televisión. Con calma. Como quien explica un pequeño cambio de horario.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "tele_salon"
+     },
+     "at": "da la cara en televisión"
+    }
+   ],
+   "gen": "svPaxVtytiEDL6LFUkBy",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DhqSi2vF64pSE537gSev/svPaxVtytiEDL6LFUkBy/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=rjq1rPaKvtKWIabOUZ0Ny0ur8tA="
+  },
+  {
+   "k": "R",
+   "text": "La única limitación es que podrá extraer en efectivo, en billetes o monedas, hasta doscientos cincuenta pesos por semana.",
+   "voice": "CAV",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "La única limitación es que podrá extraer en efectivo, en billetes o monedas, hasta 250 pesos por semana.",
+      "attrib": "Domingo Cavallo · anuncio del corralito, diciembre de 2001"
+     },
+     "at": "La única limitación"
+    }
+   ],
+   "gen": "H1OxhGXPBrzPFOk2GJNZ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xtSvERXD9IVZMOReQ0CY/H1OxhGXPBrzPFOk2GJNZ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=zQnFXoea1DOnQvwiWDLHo1P_oiU="
+  },
+  {
+   "k": "R",
+   "text": "El decreto hacía algo más. Limitaba a mil dólares al mes las transferencias al extranjero. Y prohibía sacar dinero del país en efectivo por encima de esa cifra. La puerta de salida también quedaba cerrada.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Lo que prohibía el decreto 1570",
+      "items": [
+       [
+        "250 $ por semana",
+        "retiros en efectivo por titular y banco"
+       ],
+       [
+        "1.000 U$S al mes",
+        "transferencias al exterior"
+       ],
+       [
+        "salida de efectivo",
+        "prohibida por encima de ese límite"
+       ],
+       [
+        "90 días",
+        "duración prevista"
+       ]
+      ]
+     },
+     "at": "mil dólares al mes"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "aduana_maleta"
+     },
+     "at": "La puerta de salida"
+    }
+   ],
+   "gen": "sRzsNfhhqFpcndbxMySp",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KDGUIgsY7weYdQz40M6i/sRzsNfhhqFpcndbxMySp/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=h9CaHOJP0Apz3ey__H5_WqjkU5w="
+  },
+  {
+   "k": "N",
+   "text": "El argumento oficial era proteger los ahorros. Tu dinero seguía siendo tuyo, decía el ministro. Podías pagar con tarjeta, con cheque, con transferencia. Solo el efectivo quedaba limitado. Y solo durante noventa días.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "tarjeta_mano"
+     },
+     "at": "Podías pagar con tarjeta"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "90 DÍAS",
+      "sub": "la duración prometida"
+     },
+     "at": "noventa días"
+    }
+   ],
+   "gen": "3e5NTiikWyWm2bu4nacP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/w4VwyX6CqO0u07xMQGPt/3e5NTiikWyWm2bu4nacP/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=mRf-VRvg75U2faVl2HfcN3xobUQ="
+  },
+  {
+   "k": "N",
+   "text": "El ministro reconoció que las medidas causaban molestias. Pero sostuvo que evitaban algo peor: una derrota de todos los argentinos. La palabra derrota se quedó flotando en el aire.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "palabra_flota"
+     },
+     "at": "La palabra derrota"
+    }
+   ],
+   "gen": "Ap3NLcQEZUkFMn2aWZNe",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/te9FwBb34CNSnPvV9NYU/Ap3NLcQEZUkFMn2aWZNe/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=ixZ4H8SR8HkgBTloIq4o2uzIsN0="
+  },
+  {
+   "k": "R",
+   "text": "Estamos para defender su ahorro, su dinero.",
+   "voice": "CAV",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Estamos para defender su ahorro, su dinero.",
+      "attrib": "Domingo Cavallo · cadena nacional, diciembre de 2001"
+     },
+     "at": "Estamos para defender"
+    }
+   ],
+   "gen": "fiJM6UOICZHJMeusEcpj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QT5r36Uh5swU7C9mRhCP/fiJM6UOICZHJMeusEcpj/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=w0O8kvQYdwhJtj4A7nIS7n8fnsc="
+  },
+  {
+   "k": "R",
+   "text": "Había un problema. En la Argentina de dos mil uno, se calcula que solo el uno por ciento de las compras se pagaba con tarjeta. El resto, en billetes. Y millones de personas vivían de trabajos en negro, de changas, de lo que cobraban en mano cada día.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 1,
+      "label": "de las transacciones, por vía electrónica (estimación)",
+      "suffix": " %"
+     },
+     "at": "solo el uno por ciento"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "changa_obrero"
+     },
+     "at": "changas"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "kiosco_caja"
+     },
+     "at": "en mano cada día"
+    }
+   ],
+   "gen": "ACQY8Lyk0gIQHaSofHca",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fcWAQ6a0N831tNXfhUtN/ACQY8Lyk0gIQHaSofHca/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=RRdepEk2WduRL3xYIOagN-LKqV4="
+  },
+  {
+   "k": "N",
+   "text": "El albañil al que le pagaban en efectivo, de repente, no cobraba. El kiosco no vendía. El jubilado no llegaba a la farmacia. El corralito no solo encerró el dinero de los ahorradores. Encerró la economía entera.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "albanil_espera"
+     },
+     "at": "El albañil"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "farmacia_jubilado"
+     },
+     "at": "El jubilado"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "economia_jaula"
+     },
+     "at": "Encerró la economía entera"
+    }
+   ],
+   "gen": "Zzfsk8fjwOspAXkAGDHn",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DKrbpibqJ15xQkpg9qGo/Zzfsk8fjwOspAXkAGDHn/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=F3SwYCjR07ooe1uzF9B0jJpaRkU="
+  },
+  {
+   "k": "R",
+   "text": "Y había otro detalle. Desde ese momento, los sueldos tenían que cobrarse en una cuenta bancaria. Millones de trabajadores que nunca habían pisado un banco tuvieron que abrir una cuenta para que les ingresaran un dinero que luego no podían sacar entero.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "obrero_banco"
+     },
+     "at": "nunca habían pisado un banco"
+    }
+   ],
+   "gen": "KcHwWMGvp0xjaSnCtDgI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jfuOtR7evA0LIupnLehA/KcHwWMGvp0xjaSnCtDgI/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Y9xfQq3EuBNpk6j_dXybybPe19M="
+  },
+  {
+   "k": "B",
+   "track": "calle"
+  },
+  {
+   "k": "R",
+   "text": "Día tres. Lunes. Los bancos abren y las colas dan la vuelta a la manzana. Hay gente que hace noche en la acera. Hay peleas. Hay quien se desmaya del calor, porque en Buenos Aires diciembre es pleno verano.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 1,
+      "to": 3,
+      "label": "del corralito · lunes 3 de diciembre",
+      "prefix": "DÍA "
+     },
+     "at": "Día tres"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cola_manzana"
+     },
+     "at": "las colas dan la vuelta"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "desmayo_calor"
+     },
+     "at": "quien se desmaya"
+    }
+   ],
+   "gen": "TFTKkxJQEPk0xAHVeRdp",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mhpBGgVyOSHs5wVepOCp/TFTKkxJQEPk0xAHVeRdp/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=JRbHVk9MnUfQSGlGS16OfmYAFF8="
+  },
+  {
+   "k": "N",
+   "text": "En los cajeros se forman filas a cualquier hora, para sacar los doscientos cincuenta en cuanto se renueva el cupo. Y los que tienen el dinero en un plazo fijo descubren que ni siquiera pueden tocarlo.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cajero_noche"
+     },
+     "at": "En los cajeros"
+    }
+   ],
+   "gen": "I7uzdUJDNUhSnezzLFcD",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VnCzHzisXpwsRUVO5vfA/I7uzdUJDNUhSnezzLFcD/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=npXm0BcGveveVWdWLFRpBghEps8="
+  },
+  {
+   "k": "N",
+   "text": "Para los grandes, en cambio, el reloj había corrido de otra manera. Porque en las semanas anteriores, quien tenía información y dinero suficiente para moverlo ya lo había sacado del país.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "maletin_avion"
+     },
+     "at": "ya lo había sacado del país"
+    }
+   ],
+   "gen": "NdQk8rFRYhfWPVMM990M",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gyYLk3u2OCShtD4dlNf3/NdQk8rFRYhfWPVMM990M/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=2oymwM2BrEIX2Y_DeCYaLcX5Un8="
+  },
+  {
+   "k": "N",
+   "text": "Entre los bancos atrapados en el corralito estaban también los españoles. El Santander, el BBVA. Sus clientes argentinos hacían la misma cola que los demás. Y en Madrid, las acciones empezaban a notar el golpe.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "bolsa_madrid_rojo"
+     },
+     "at": "en Madrid"
+    }
+   ],
+   "gen": "rMWlk5UL9pgD5wLQMaLN",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cd7baifCvuaCuN8DscfR/rMWlk5UL9pgD5wLQMaLN/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=8F0JKWh9T4w0aqa-Fj3uK-EATfo="
+  },
+  {
+   "k": "R",
+   "text": "Día cinco. Miércoles. Llega la peor noticia desde Washington. El Fondo Monetario Internacional comunica que no desembolsará el siguiente tramo de su préstamo: mil doscientos sesenta y cuatro millones de dólares que Argentina necesitaba para pagar su deuda.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 3,
+      "to": 5,
+      "label": "del corralito · miércoles 5 de diciembre",
+      "prefix": "DÍA "
+     },
+     "at": "Día cinco"
+    },
+    {
+     "photo": "International Monetary Fund headquarters Washington",
+     "src": "commons,loc,europeana",
+     "at": "Fondo Monetario Internacional",
+     "lt": [
+      "FMI",
+      "Washington",
+      "finanzas"
+     ],
+     "lugar": "fmi"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 1264,
+      "label": "millones de dólares que el FMI retiene",
+      "suffix": " M$"
+     },
+     "at": "mil doscientos sesenta y cuatro"
+    }
+   ],
+   "gen": "6wIrFgzvS9OLYUHgdSGY",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0JGYEC2sou9e7FmnMO5E/6wIrFgzvS9OLYUHgdSGY/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=xwgyDCUJ6XuQZ8fu1MP-oWHLO4g="
+  },
+  {
+   "k": "N",
+   "text": "Sin ese dinero, el impago de la deuda es cuestión de semanas. Y en la calle, la paciencia se está acabando todavía más rápido.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "mecha_encendida"
+     },
+     "at": "la paciencia se está acabando"
+    }
+   ],
+   "gen": "BaRBEnT1QSErCufhLrPb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8hlieY4VtbZA04GV4nxu/BaRBEnT1QSErCufhLrPb/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=6d-3ii0IaRXeygu75zBu53CFFtY="
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Porque lo que nadie en el Gobierno había calculado es lo que pasa cuando a un país entero le quitas el efectivo. No protesta solo la clase media. Protesta el hambre.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "estomago_vacio"
+     },
+     "at": "Protesta el hambre"
+    }
+   ],
+   "gen": "3PokWoE0imFOx7k3ULKz",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xvMxhlynmWuiroceKCQd/3PokWoE0imFOx7k3ULKz/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=t4LwHKGGKug8_YlpwxXVtH9yI9Q="
+  },
+  {
+   "k": "T",
+   "secs": 6.0,
+   "sting": "accion",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "La caldera",
+    "sub": "6 · 18 de diciembre de 2001",
+    "num": "III"
+   }
+  },
+  {
+   "k": "B",
+   "track": "calle"
+  },
+  {
+   "k": "N",
+   "text": "Mientras tanto, en las provincias, la crisis llevaba tiempo hirviendo. Muchas no tenían con qué pagar a sus funcionarios y les pagaban con bonos, papelitos que valían como dinero solo dentro de la provincia. Los llamaban patacones, lecops, quebrachos.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "bonos_mano"
+     },
+     "at": "les pagaban con bonos"
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "Las cuasimonedas",
+      "items": [
+       [
+        "Patacones",
+        "provincia de Buenos Aires"
+       ],
+       [
+        "Lecop",
+        "emitidos por la Nación"
+       ],
+       [
+        "Quebrachos",
+        "Chaco"
+       ],
+       [
+        "y una docena más",
+        "en otras provincias"
+       ]
+      ]
+     },
+     "at": "patacones"
+    }
+   ],
+   "gen": "tVTmLDw4wMpV071U1MeJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9dtBOzvRC7JS247HjGM3/tVTmLDw4wMpV071U1MeJ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=D71_zLvbW83qV29HYoZU7pRtjJw="
+  },
+  {
+   "k": "R",
+   "text": "Día doce. Miércoles. Grupos de desocupados cortan rutas en el conurbano de Buenos Aires: La Matanza, Florencio Varela, San Martín. Les llaman piqueteros.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 5,
+      "to": 12,
+      "label": "del corralito · miércoles 12 de diciembre",
+      "prefix": "DÍA "
+     },
+     "at": "Día doce"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "piquete_ruta"
+     },
+     "at": "cortan rutas"
+    }
+   ],
+   "gen": "AvUQEWqW5S5UsO3jOn2O",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bMRfV3YQC6TBy5Liidba/AvUQEWqW5S5UsO3jOn2O/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=0sofY-CeEx0yG16F3gag2O0VzXE="
+  },
+  {
+   "k": "R",
+   "text": "Día trece. Jueves. Huelga general, la séptima contra este Gobierno. Y por la noche, en los barrios de clase media de la capital, empieza a oírse un ruido nuevo. Metal contra metal. Desde los balcones.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 12,
+      "to": 13,
+      "label": "del corralito · jueves 13 de diciembre",
+      "prefix": "DÍA "
+     },
+     "at": "Día trece"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "balcon_cacerola"
+     },
+     "at": "Desde los balcones"
+    }
+   ],
+   "gen": "op1rQh1z1YPk8diy1oA4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mDPuB18LvodDphOX7zXa/op1rQh1z1YPk8diy1oA4/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=4LK9oFyRoMXnFOCyFPo2nrFC6Ps="
+  },
+  {
+   "k": "N",
+   "text": "Ese mismo día, en Mendoza, más de cien personas entran a la fuerza en un supermercado y se llevan lo que pueden. Es el primero. Los saqueos saltan a Rosario, a Córdoba, a Entre Ríos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Mendoza Argentina ciudad",
+     "src": "commons,loc,europeana",
+     "at": "en Mendoza",
+     "lt": [
+      "Mendoza",
+      "Argentina"
+     ],
+     "lugar": "mendoza"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "saqueo_super"
+     },
+     "at": "se llevan lo que pueden"
+    },
+    {
+     "card": {
+      "type": "map",
+      "title": "La ola de saqueos · diciembre de 2001",
+      "bbox": [
+       -71.5,
+       -38.5,
+       -56.5,
+       -26.0
+      ],
+      "points": [
+       {
+        "name": "Mendoza",
+        "lon": -68.84,
+        "lat": -32.89,
+        "big": 1
+       },
+       {
+        "name": "Rosario",
+        "lon": -60.64,
+        "lat": -32.95,
+        "big": 1
+       },
+       {
+        "name": "Córdoba",
+        "lon": -64.18,
+        "lat": -31.42
+       },
+       {
+        "name": "Paraná",
+        "lon": -60.52,
+        "lat": -31.73
+       },
+       {
+        "name": "Buenos Aires",
+        "lon": -58.38,
+        "lat": -34.6,
+        "big": 1
+       }
+      ]
+     },
+     "at": "Los saqueos saltan"
+    }
+   ],
+   "gen": "ZVdG5m3116YnPGDbL6u0",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nPcQraGrYe37o4vRzH60/ZVdG5m3116YnPGDbL6u0/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=ILeMXGAETBCtEdHxxtJlEoRIy2I="
+  },
+  {
+   "k": "N",
+   "text": "Lo que se llevaban no eran televisores. Eran harina, arroz, fideos, aceite. En algunos sitios, los propios supermercados empezaron a repartir comida en la puerta para que no les rompieran la persiana.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "bolsas_harina"
+     },
+     "at": "Eran harina, arroz"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "reparto_puerta"
+     },
+     "at": "repartir comida en la puerta"
+    }
+   ],
+   "gen": "AQ0gmv41MsTbvUEGUDa4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JQcxOFtEZ0mSJKNs46hn/AQ0gmv41MsTbvUEGUDa4/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=oUKrfwtHZCMKj8ev8X0AbLadWik="
+  },
+  {
+   "k": "N",
+   "text": "Esos mismos días, organizaciones sociales y sindicatos montan una consulta popular por un seguro de desempleo. Votan millones de personas. Y las cacerolas de los balcones empiezan a sonar cada noche un poco más fuerte.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "urnas_calle"
+     },
+     "at": "una consulta popular"
+    }
+   ],
+   "gen": "8w4eWCxzWGC3Gu0b1mFh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/u5sRwdUEoo3E0l1eHGV0/8w4eWCxzWGC3Gu0b1mFh/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=NdZi97N5EydQzyiwRPr5cahjXhc="
+  },
+  {
+   "k": "R",
+   "text": "Día dieciséis. Domingo. El presidente insiste en público: ni devaluación, ni dolarización. El uno a uno se mantiene.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 13,
+      "to": 16,
+      "label": "del corralito · domingo 16 de diciembre",
+      "prefix": "DÍA "
+     },
+     "at": "Día dieciséis"
+    },
+    {
+     "photo": "Fernando de la Rúa",
+     "src": "commons,loc,europeana",
+     "at": "El presidente insiste",
+     "lt": [
+      "Fernando de la Rúa",
+      "Presidente de Argentina",
+      "gobierno"
+     ],
+     "lugar": "delarua"
+    }
+   ],
+   "gen": "47uaTkbL6VcARLvPnG5H",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/avLM8ZQAvCpGY4sXi33q/47uaTkbL6VcARLvPnG5H/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=lslTZyX1ImqfeU4mLrVsCOY3te0="
+  },
+  {
+   "k": "R",
+   "text": "El efecto en la economía es inmediato. Las ventas se hunden. Las fábricas de coches, de ropa, de materiales de construcción echan el cierre por falta de pedidos. Diciembre, que debería ser el mes de las compras de Navidad, se convierte en el peor mes del año.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "escaparate_vacio"
+     },
+     "at": "el mes de las compras de Navidad"
+    }
+   ],
+   "gen": "Td56sUXocB98uw9cdgeL",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/r7oTMpBzUHewSNX8Tf4U/Td56sUXocB98uw9cdgeL/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3McexbEyRZ5x_JzV3Uzq53BCNG0="
+  },
+  {
+   "k": "N",
+   "text": "Y el ministro, lejos de aflojar, presenta un presupuesto para dos mil dos con nuevos recortes, la condición del FMI para volver a prestar.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Domingo Cavallo",
+     "src": "commons,loc,europeana",
+     "at": "Y el ministro",
+     "lt": [
+      "Domingo Cavallo",
+      "Ministro de Economía",
+      "gobierno"
+     ],
+     "lugar": "cavallo"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "presupuesto_tijera"
+     },
+     "at": "nuevos recortes"
+    }
+   ],
+   "gen": "NTWCRPaCGiYfLzU92tfP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/D1W2mrPPk8a1O0S9m6Pz/NTWCRPaCGiYfLzU92tfP/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=-wm1uC72CDz9i3Xs-5miefOAHhE="
+  },
+  {
+   "k": "N",
+   "text": "Hasta los senadores de su propio partido, con el expresidente Raúl Alfonsín a la cabeza, piden públicamente que Cavallo se vaya. El presidente lo sostiene. Es la única carta que le queda.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Raúl Alfonsín",
+     "src": "commons,loc,europeana",
+     "at": "Raúl Alfonsín",
+     "lt": [
+      "Raúl Alfonsín",
+      "Expresidente · senador de la UCR",
+      "gobierno"
+     ],
+     "lugar": "alfonsin"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ultima_carta"
+     },
+     "at": "la única carta"
+    }
+   ],
+   "gen": "4swLbeu93LyynVsqamks",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/at3HagGKxAiC0vQNk40E/4swLbeu93LyynVsqamks/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=nz6kDaj-7b2w8YLtWZaz66dR5EQ="
+  },
+  {
+   "k": "R",
+   "text": "Día dieciocho. Martes. Los saqueos llegan al Gran Buenos Aires. En cada barrio corre el rumor de que mañana vienen a por el siguiente súper. Los comerciantes duermen dentro de sus tiendas.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 16,
+      "to": 18,
+      "label": "del corralito · martes 18 de diciembre",
+      "prefix": "DÍA "
+     },
+     "at": "Día dieciocho"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "tendero_noche"
+     },
+     "at": "duermen dentro de sus tiendas"
+    }
+   ],
+   "gen": "2PbNwksd8Q3I9IgrBdsR",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/siVbIcII7lFMhqI8sNlu/2PbNwksd8Q3I9IgrBdsR/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=-Q1EhGd6MdSri86bGvh4igeGuso="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Y llega el miércoles diecinueve. El día en que el Gobierno decide que la respuesta no es dar marcha atrás. Es apretar más fuerte.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "puno_cierra"
+     },
+     "at": "apretar más fuerte"
+    }
+   ],
+   "gen": "AfEeLGMmXGCoZct6vOS6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RpMKxU1jyK23JhZmGGEi/AfEeLGMmXGCoZct6vOS6/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Mcib9PAOjohRkRJy5Uv3aLQBdgw="
+  },
+  {
+   "k": "T",
+   "secs": 6.0,
+   "sting": "accion",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Estado de sitio",
+    "sub": "Miércoles 19 de diciembre de 2001",
+    "num": "IV"
+   }
+  },
+  {
+   "k": "B",
+   "track": "accion"
+  },
+  {
+   "k": "R",
+   "text": "Día diecinueve. Desde primera hora, los saqueos se extienden por el conurbano, por Santa Fe, por Entre Ríos, por Corrientes. Hay muertos en Rosario. Policías disparando. Comerciantes disparando.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 18,
+      "to": 19,
+      "label": "del corralito · miércoles 19 de diciembre",
+      "prefix": "DÍA "
+     },
+     "at": "Día diecinueve"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "humo_conurbano"
+     },
+     "at": "se extienden por el conurbano"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "policia_dispara"
+     },
+     "at": "Policías disparando"
+    }
+   ],
+   "gen": "GORM3wpHIGVRktHUAmLI",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/EA5jFge6E7WSKSmKEwQY/GORM3wpHIGVRktHUAmLI/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Td0bN9jxsTLIiOFS2RW5-4yGNlw="
+  },
+  {
+   "k": "N",
+   "text": "En la Casa Rosada, el presidente intenta un gesto de última hora: ofrece al peronismo, que controla el Congreso, entrar en un gobierno de unidad. La respuesta tarda. Y la tarde avanza.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Casa Rosada Buenos Aires",
+     "src": "commons,loc,europeana",
+     "at": "En la Casa Rosada",
+     "lt": [
+      "Casa Rosada",
+      "Buenos Aires"
+     ],
+     "lugar": "rosada"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "telefono_espera"
+     },
+     "at": "La respuesta tarda"
+    }
+   ],
+   "gen": "CvTn0RQZIOr2tENnjv5y",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fyvmN7y3lpOmffRRF1Uw/CvTn0RQZIOr2tENnjv5y/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=jqteqADin7eJD7tWhvDu4IWMcxM="
+  },
+  {
+   "k": "N",
+   "text": "Por la noche, De la Rúa aparece en cadena nacional. Todas las televisiones del país. Y anuncia la medida más grave que puede tomar un presidente en democracia.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "tele_escaparate"
+     },
+     "at": "aparece en cadena nacional"
+    }
+   ],
+   "gen": "3ytuJfLDyLkviqOs6S2l",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/afc8cYoR5l41qf5aTI9A/3ytuJfLDyLkviqOs6S2l/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=i6wvqPgWY5isxwxtxjjAjAlE174="
+  },
+  {
+   "k": "R",
+   "text": "[serious] Han ocurrido en el país hechos de violencia que ponen en peligro a personas y a bienes, y crean un cuadro de conmoción interior. Quiero informarles que he decretado el estado de sitio en todo el territorio nacional.",
+   "voice": "DLR",
+   "shots": [
+    {
+     "photo": "Fernando de la Rúa",
+     "src": "commons,loc,europeana",
+     "at": "Han ocurrido en el país",
+     "lt": [
+      "Fernando de la Rúa",
+      "Cadena nacional · 19 de diciembre de 2001",
+      "gobierno"
+     ],
+     "lugar": "delarua"
+    },
+    {
+     "card": {
+      "type": "quote",
+      "text": "Quiero informarles que he decretado el estado de sitio en todo el territorio nacional.",
+      "attrib": "Fernando de la Rúa · cadena nacional, 19 de diciembre de 2001"
+     },
+     "at": "Quiero informarles"
+    }
+   ],
+   "gen": "pzNv1WhGzwLbldz9Mizk",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/EpfoPfp8310fCQsfQUkI/pzNv1WhGzwLbldz9Mizk/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=OTPfvUk_ZuYLd3OAsu13xqXitsA="
+  },
+  {
+   "k": "R",
+   "text": "El estado de sitio suspende garantías constitucionales. En Argentina, esas palabras se oían por primera vez desde los años de la dictadura. Y el efecto fue exactamente el contrario del que buscaba el presidente.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "ESTADO DE SITIO",
+      "sub": "garantías constitucionales suspendidas · 30 días"
+     },
+     "at": "El estado de sitio"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "botas_calle"
+     },
+     "at": "la dictadura"
+    }
+   ],
+   "gen": "QUFirTVvqzXtQhhI2zge",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3cRBhf4Suq6Hw1plOR12/QUFirTVvqzXtQhhI2zge/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=-BHfr9XPuKgJ3Oc7OW9pBqBZKfY="
+  },
+  {
+   "k": "N",
+   "text": "Años después, De la Rúa diría que aquel estado de sitio había sido una medida simbólica. Esa noche, nadie lo entendió así.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "sombra_decreto"
+     },
+     "at": "una medida simbólica"
+    }
+   ],
+   "gen": "wswy0on8JSLexdUmO4Xu",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cLujt5rkVw00vJ9zdxWG/wswy0on8JSLexdUmO4Xu/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=dKv-zF9zZqbaWZmJPtznD9I1KrA="
+  },
+  {
+   "k": "B",
+   "track": "calle"
+  },
+  {
+   "k": "N",
+   "text": "Minutos después de que termine el discurso, en Buenos Aires empieza a sonar algo que nadie había convocado. Primero una ventana. Luego un edificio entero. Luego toda la calle.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ventana_sola"
+     },
+     "at": "Primero una ventana"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "calle_entera"
+     },
+     "at": "toda la calle"
+    }
+   ],
+   "gen": "5anCD9Y2WIUY6jpBPw0V",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/FefUIAHiZffaAqiwwu60/5anCD9Y2WIUY6jpBPw0V/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=D66aYyc9yczPS6C5BkJ7odkMJo8="
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Las cacerolas. Miles de vecinos bajan en zapatillas, en camiseta, con la sartén de la cena en la mano. Nadie los ha llamado. Caminan solos hacia la Plaza de Mayo y hacia el Congreso.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "marcha_cacerolas"
+     },
+     "at": "Miles de vecinos"
+    },
+    {
+     "photo": "Plaza de Mayo Buenos Aires",
+     "src": "commons,loc,europeana",
+     "at": "la Plaza de Mayo",
+     "lt": [
+      "Plaza de Mayo",
+      "Buenos Aires"
+     ],
+     "lugar": "plazamayo"
+    },
+    {
+     "photo": "Congreso de la Nación Argentina edificio",
+     "src": "commons,loc,europeana",
+     "at": "el Congreso",
+     "lt": [
+      "Congreso de la Nación",
+      "Buenos Aires"
+     ],
+     "lugar": "congreso"
+    }
+   ],
+   "gen": "NsYwxLzDSODgmOrV6lbm",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/crwswCwFaOx9wAsEDtxh/NsYwxLzDSODgmOrV6lbm/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=sd4Q_jjGyNCw_K3qg69iPSEXSKE="
+  },
+  {
+   "k": "N",
+   "text": "No hay pancartas. No hay partidos. No hay líderes. Solo el ruido. Un ruido metálico, ensordecedor, que se oye desde los barrios de Palermo, de Belgrano, de Caballito, y que avanza por las avenidas hacia el centro como una marea.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "marea_ruido"
+     },
+     "at": "como una marea"
+    }
+   ],
+   "gen": "Z9gahmUOD8wvCyS7fZ8V",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GBeZ88arznvwc4t2tv3n/Z9gahmUOD8wvCyS7fZ8V/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Wa8g_DuJQlBLhXb9VsAev7eMfq8="
+  },
+  {
+   "k": "R",
+   "text": "Es la clase media. La que votó a la Alianza. La que tenía los ahorros en el banco. Y ahora grita una frase que se convertirá en el lema de toda una época.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "clase_media"
+     },
+     "at": "Es la clase media"
+    }
+   ],
+   "gen": "faSTm1af9cuKujdB2koc",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/39r2Rs5ky1ptycvClBpk/faSTm1af9cuKujdB2koc/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=KmB4r8bnMpCyaiilHMlMaoRGpCc="
+  },
+  {
+   "k": "N",
+   "text": "Que se vayan todos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "¡QUE SE VAYAN TODOS!",
+      "sub": "el grito de diciembre de 2001"
+     },
+     "at": "Que se vayan todos"
+    }
+   ],
+   "gen": "bg86PWNfLIvvqgo3cPdY",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ehB4e2k213ZwPEJ72Qzw/bg86PWNfLIvvqgo3cPdY/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3vlLe5BZeVqsZ_n9-RVv3SAJKX0="
+  },
+  {
+   "k": "N",
+   "text": "Pasada la medianoche, la Plaza de Mayo está llena. La policía carga y tira gases. Y en el Ministerio de Economía, Domingo Cavallo presenta su dimisión. El padre del uno a uno se va. Pero la gente no.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "plaza_medianoche"
+     },
+     "at": "la Plaza de Mayo está llena"
+    },
+    {
+     "photo": "Domingo Cavallo",
+     "src": "commons,loc,europeana",
+     "at": "Domingo Cavallo presenta su dimisión",
+     "lt": [
+      "Domingo Cavallo",
+      "Dimite en la madrugada del 20 de diciembre",
+      "gobierno"
+     ],
+     "lugar": "cavallo"
+    }
+   ],
+   "gen": "213VxiNTfy3elH5sIK2Q",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vqypYObgXoGVZnFaMl4w/213VxiNTfy3elH5sIK2Q/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=SGBGk8THh0hcvQ7Y1og0pb2rWxI="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Al amanecer del jueves, el presidente sigue en su despacho. Sin ministro de Economía. Sin apoyo en el Congreso. Con un país en llamas. Le quedan doce horas en el cargo. Y van a ser las más sangrientas.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "amanecer_rosada"
+     },
+     "at": "Al amanecer del jueves"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "12 HORAS",
+      "sub": "le quedan en el cargo"
+     },
+     "at": "doce horas"
+    }
+   ],
+   "gen": "I3OAv8sZ9tarQ1OKZUI9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WAObsWx3fYwPpwRn1wWd/I3OAv8sZ9tarQ1OKZUI9/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3eMl6dgfrDgo32oe6emJhYE30vs="
+  },
+  {
+   "k": "T",
+   "secs": 6.0,
+   "sting": "accion",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El helicóptero",
+    "sub": "Jueves 20 de diciembre de 2001",
+    "num": "V"
+   }
+  },
+  {
+   "k": "B",
+   "track": "accion"
+  },
+  {
+   "k": "R",
+   "text": "Día veinte. Por la mañana, las Madres de Plaza de Mayo hacen su ronda de los jueves, como cada semana desde mil novecientos setenta y siete. Y la policía montada carga contra ellas.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 19,
+      "to": 20,
+      "label": "del corralito · jueves 20 de diciembre",
+      "prefix": "DÍA "
+     },
+     "at": "Día veinte"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "madres_panuelos"
+     },
+     "at": "las Madres de Plaza de Mayo"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "montada_carga"
+     },
+     "at": "la policía montada carga"
+    }
+   ],
+   "gen": "mHiYtfkpgjxsqjJD6l7G",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hXheIKZvKEA3px9Irvp1/mHiYtfkpgjxsqjJD6l7G/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=byRswDObU29zmTRP0I4LR2aPFj8="
+  },
+  {
+   "k": "N",
+   "text": "Las imágenes de los caballos contra mujeres de setenta años con pañuelos blancos dan la vuelta al país en minutos. Y desde el mediodía, la Plaza de Mayo se convierte en un campo de batalla.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "panuelo_suelo"
+     },
+     "at": "pañuelos blancos"
+    }
+   ],
+   "gen": "dUsov7w4Sgbo28c70Czw",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jhi0y7TTSxqcPEHrPH8Y/dUsov7w4Sgbo28c70Czw/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=e92GNC1DhsChBhSuYp2YoI2z4y0="
+  },
+  {
+   "k": "N",
+   "text": "Jóvenes, motoqueros, empleados, estudiantes. Se enfrentan a la policía en la avenida de Mayo, en la diagonal, en las calles que rodean la plaza. Piedras contra balas de goma. Y no solo de goma.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "motos_humo"
+     },
+     "at": "motoqueros"
+    },
+    {
+     "photo": "Avenida de Mayo Buenos Aires",
+     "src": "commons,loc,europeana",
+     "at": "la avenida de Mayo",
+     "lt": [
+      "Avenida de Mayo",
+      "Buenos Aires"
+     ],
+     "lugar": "avmayo"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "piedras_balas"
+     },
+     "at": "Piedras contra balas"
+    }
+   ],
+   "gen": "DenoENQaG4XRlW0Aw4R3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UxY8poFv7rFjlmspy3fa/DenoENQaG4XRlW0Aw4R3/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=JsaEhsKeu-GT1o8j5J6XxiOzGOM="
+  },
+  {
+   "k": "R",
+   "text": "Ese jueves, en el centro de Buenos Aires, mueren cinco personas. Varias por disparos de armas de fuego. En todo el país, entre el diecinueve y el veinte, la cifra más citada es de treinta y nueve muertos.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 5,
+      "label": "muertos en el centro de Buenos Aires · 20 de diciembre"
+     },
+     "at": "mueren cinco personas"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "flores_acera"
+     },
+     "at": "armas de fuego"
+    }
+   ],
+   "gen": "JZ6HJHkbbBZpgUHOpHYi",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ev8eW8Z8JkUXnJySpy2Y/JZ6HJHkbbBZpgUHOpHYi/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=f4mkSWX0FLA5MuTXgopnQG31axE="
+  },
+  {
+   "k": "N",
+   "text": "Mientras tanto, dentro de la Casa Rosada, De la Rúa sigue buscando un acuerdo. A media tarde habla al país y vuelve a ofrecer al peronismo compartir el Gobierno. La respuesta llega enseguida. Es un no.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Casa Rosada Buenos Aires",
+     "src": "commons,loc,europeana",
+     "at": "dentro de la Casa Rosada",
+     "lt": [
+      "Casa Rosada",
+      "Buenos Aires"
+     ],
+     "lugar": "rosada"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "puerta_cierra"
+     },
+     "at": "Es un no"
+    }
+   ],
+   "gen": "3pDBvy6qY6kARCWrdIGg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/AKWMFbzY6IwIsFz8eEEM/3pDBvy6qY6kARCWrdIGg/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=2qaCnCu1WPXYKEzQzG0mEvouFTM="
+  },
+  {
+   "k": "R",
+   "text": "Yo no me aferro a un cargo.",
+   "voice": "DLR",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Yo no me aferro a un cargo.",
+      "attrib": "Fernando de la Rúa · 20 de diciembre de 2001"
+     },
+     "at": "Yo no me aferro"
+    }
+   ],
+   "gen": "GWw0Op0UnZyvHHnZfWvM",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NGeyvQGaIkHUCtjiy69a/GWw0Op0UnZyvHHnZfWvM/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=6YMlx_T-6H6HCsTv1qa64vYGpuU="
+  },
+  {
+   "k": "N",
+   "text": "Poco después, el presidente escribe su renuncia a mano. Una carta breve dirigida al Congreso. La firma. Y pregunta cómo puede salir del edificio.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "carta_renuncia"
+     },
+     "at": "escribe su renuncia a mano"
+    }
+   ],
+   "gen": "vv8oT4s8zEF4JiOv1tq3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HLaQOg8da5H1aQmvEqiW/vv8oT4s8zEF4JiOv1tq3/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=AfEnASsHiR1Pq14m8epAp7zW2YU="
+  },
+  {
+   "k": "R",
+   "text": "La plaza está tomada. Las calles de alrededor, también. Salir en coche es imposible. Solo queda un camino. Hacia arriba.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "escalera_azotea"
+     },
+     "at": "Hacia arriba"
+    }
+   ],
+   "gen": "PBDB6BY2lltKi1N0l9eM",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/M6cBzk3j9rrW1R0n5GAq/PBDB6BY2lltKi1N0l9eM/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=eHyklN7eFG_XNDrGXhaTItxwFaI="
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Pasadas las siete y media de la tarde, Fernando de la Rúa sube a la azotea. El helicóptero presidencial, un Sikorsky blanco, despega de la Casa Rosada rumbo a la residencia de Olivos. Abajo, en la plaza, la gente lo ve alejarse. Y aplaude. Con rabia.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Fernando de la Rúa",
+     "src": "commons,loc,europeana",
+     "at": "Fernando de la Rúa sube",
+     "lt": [
+      "Fernando de la Rúa",
+      "Renuncia · 20 de diciembre de 2001",
+      "gobierno"
+     ],
+     "lugar": "delarua"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "heli_ciudad"
+     },
+     "at": "rumbo a la residencia de Olivos"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "heli_ve_plaza"
+     },
+     "at": "la gente lo ve alejarse"
+    }
+   ],
+   "gen": "P5sC8gPhSk267FiK14oq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DfLOS76TYOGCnfSW8PPm/P5sC8gPhSk267FiK14oq/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=h92L_POMr0fsvZdG2bV0N4rXNoI="
+  },
+  {
+   "k": "N",
+   "text": "En la plaza, alguien levanta una cacerola hacia el cielo. Otros silban. Otros lloran. Hay quien jura que nunca olvidará el sonido de aquellas aspas mezclado con el de miles de cacerolas. El poder, literalmente, se iba volando.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cacerola_cielo"
+     },
+     "at": "alguien levanta una cacerola"
+    }
+   ],
+   "gen": "WxmPFUPiWfTSO1JD8i81",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OYTIll4o35kzbL9bHZuZ/WxmPFUPiWfTSO1JD8i81/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=A3XpTC78HCk0l6XGRgbrebmGVcI="
+  },
+  {
+   "k": "N",
+   "text": "Es la imagen que resume la crisis de dos mil uno. Un presidente que llega a la Casa Rosada en coche oficial y se va por los aires, porque por tierra ya no hay país que lo deje pasar.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "heli_silueta"
+     },
+     "at": "Es la imagen que resume"
+    }
+   ],
+   "gen": "4Fo6eCcn1Bua8s2O0k1c",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SxCOTthyYKSGWE3jnTaE/4Fo6eCcn1Bua8s2O0k1c/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=WR8loOO3UMm2Wqk45hrhyr6jk9c="
+  },
+  {
+   "k": "R",
+   "text": "Y hay un epílogo que casi nadie recuerda. A la mañana siguiente, viernes veintiuno, De la Rúa, ya sin cargo, vuelve a la Casa Rosada poco antes de las nueve. Tiene una última firma pendiente: deroga el estado de sitio que él mismo había decretado. Luego se marcha. Esta vez, por la puerta.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 20,
+      "to": 21,
+      "label": "del corralito · viernes 21 de diciembre",
+      "prefix": "DÍA "
+     },
+     "at": "A la mañana siguiente"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "puerta_salida"
+     },
+     "at": "Esta vez, por la puerta"
+    }
+   ],
+   "gen": "nWg5BdkSVKw1JtOzlc3a",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/sJTmyb81id3o9ZmUYo0Y/nWg5BdkSVKw1JtOzlc3a/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=mko4IDcbGuHW247d3QdbEJJTNhI="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Pero cuando el ruido del helicóptero se apaga, queda la pregunta de verdad. Argentina no tiene presidente. No tiene ministro de Economía. No puede pagar su deuda. Y los ahorros de millones de personas siguen dentro de los bancos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "sillon_vacio"
+     },
+     "at": "Argentina no tiene presidente"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "boveda_cerrada"
+     },
+     "at": "siguen dentro de los bancos"
+    }
+   ],
+   "gen": "PGDn7S46nnDjTKfdM6sE",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/F6T5tt7fIUoOzx4u2PZE/PGDn7S46nnDjTKfdM6sE/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=KMn4dXC7lWZWLbxjZrI8uYyIWTQ="
+  },
+  {
+   "k": "N",
+   "text": "¿Quién los iba a sacar de ahí? La respuesta llegaría en once días. Y de la mano de cinco presidentes distintos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "5 PRESIDENTES",
+      "sub": "en once días"
+     },
+     "at": "cinco presidentes distintos"
+    }
+   ],
+   "gen": "mfQJFVRWmyGFsLXhpZJm",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cjzOuiQX1lKecoVAGUlz/mfQJFVRWmyGFsLXhpZJm/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=GC9C_whYPzDvZdY1z2aQamXobCk="
+  },
+  {
+   "k": "T",
+   "secs": 6.0,
+   "sting": "accion",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Cinco presidentes",
+    "sub": "20 de diciembre de 2001 · 1 de enero de 2002",
+    "num": "VI"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "Como no había vicepresidente, que había dimitido un año antes, el poder pasa al presidente del Senado. Ramón Puerta, peronista. Gobierna dos días, solo para convocar al Congreso.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "photo": "Ramón Puerta",
+     "src": "commons,loc,europeana",
+     "at": "Ramón Puerta",
+     "lt": [
+      "Ramón Puerta",
+      "Presidente provisional · 20-23 de diciembre",
+      "gobierno"
+     ],
+     "lugar": "puerta"
+    },
+    {
+     "card": {
+      "type": "timeline",
+      "header": "Cinco presidentes en once días",
+      "events": [
+       [
+        "20 dic.",
+        "De la Rúa renuncia"
+       ],
+       [
+        "21 dic.",
+        "Ramón Puerta"
+       ],
+       [
+        "23 dic.",
+        "Rodríguez Saá"
+       ],
+       [
+        "30 dic.",
+        "Eduardo Camaño"
+       ],
+       [
+        "1 ene.",
+        "Eduardo Duhalde"
+       ]
+      ]
+     },
+     "at": "Gobierna dos días"
+    }
+   ],
+   "gen": "zs6e3OWav5Gbov6oY5GZ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/O2yalXakqUN6jrpgeiHa/zs6e3OWav5Gbov6oY5GZ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3-kNbHkY1ejrqccYnBl-reONZfM="
+  },
+  {
+   "k": "N",
+   "text": "El domingo veintitrés, el Congreso elige presidente interino al gobernador de San Luis, Adolfo Rodríguez Saá. Y en su discurso de investidura, ante diputados y senadores, hace un anuncio que nadie se atrevía a pronunciar.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Congreso de la Nación Argentina edificio",
+     "src": "commons,loc,europeana",
+     "at": "el Congreso elige",
+     "lt": [
+      "Congreso de la Nación",
+      "Buenos Aires"
+     ],
+     "lugar": "congreso"
+    },
+    {
+     "photo": "Adolfo Rodríguez Saá",
+     "src": "commons,loc,europeana",
+     "at": "Adolfo Rodríguez Saá",
+     "lt": [
+      "Adolfo Rodríguez Saá",
+      "Presidente interino · 23-30 de diciembre",
+      "gobierno"
+     ],
+     "lugar": "rsaa"
+    }
+   ],
+   "gen": "JkokN2HgGuRhJb4YREdf",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NKtPNoGwHpmJ6yM94BAO/JkokN2HgGuRhJb4YREdf/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3xt1G0Iz0I7e6-eJ_OeCbVJdHkE="
+  },
+  {
+   "k": "N",
+   "text": "Por cierto, cuentan las crónicas de aquellos días que el primer jefe de Gobierno extranjero en llamar a Rodríguez Saá, antes incluso de que el Congreso lo eligiera, fue el presidente del Gobierno español, José María Aznar. España tenía mucho dinero en juego en Argentina.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "telefono_oceano"
+     },
+     "at": "antes incluso de que"
+    },
+    {
+     "photo": "José María Aznar",
+     "src": "commons,loc,europeana",
+     "at": "José María Aznar",
+     "lt": [
+      "José María Aznar",
+      "Presidente del Gobierno de España",
+      "europa"
+     ],
+     "lugar": "aznar"
+    }
+   ],
+   "gen": "AQa6M6y3hcgTMq6fOXdX",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ho6ccoB7qDzVr3DaVfCK/AQa6M6y3hcgTMq6fOXdX/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=9ekY4472ybPIyjdfhQJSFxIMOXE="
+  },
+  {
+   "k": "R",
+   "text": "Anuncio que el Estado argentino suspenderá el pago de la deuda.",
+   "voice": "RSA",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Anuncio que el Estado argentino suspenderá el pago de la deuda.",
+      "attrib": "Adolfo Rodríguez Saá · Asamblea Legislativa, 23 de diciembre de 2001"
+     },
+     "at": "Anuncio que el Estado"
+    }
+   ],
+   "gen": "Zm2l1WmtmdT38tMllOba",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9cOnJg7iZfBEvuXLQJTt/Zm2l1WmtmdT38tMllOba/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=z_a27dm_g8rqmu2j7BxAPqBwY44="
+  },
+  {
+   "k": "R",
+   "text": "La mayoría de los legisladores se pone en pie y empieza a gritar: ¡Argentina! ¡Argentina! Es el mayor impago de deuda soberana de la historia hasta ese momento. Más de sesenta mil millones de dólares en bonos dejan de pagarse.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "hemiciclo_pie"
+     },
+     "at": "se pone en pie"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 61803,
+      "label": "millones de dólares en bonos en impago",
+      "suffix": " M$"
+     },
+     "at": "Más de sesenta mil millones"
+    }
+   ],
+   "gen": "qT7Aa438IVT2778lId52",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/g4IAOJvtow7LNGMVsIM3/qT7Aa438IVT2778lId52/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=D2oUghiGESQKXRkMY8_eDEyYOgc="
+  },
+  {
+   "k": "N",
+   "text": "Rodríguez Saá promete un millón de puestos de trabajo y mantener el uno a uno. Pero los cacerolazos no paran, los gobernadores de su propio partido le retiran el apoyo y, a los siete días, también dimite.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cacerolazo_congreso"
+     },
+     "at": "los cacerolazos no paran"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "silla_vacia2"
+     },
+     "at": "también dimite"
+    }
+   ],
+   "gen": "CnilVhzNZNiWBsaU1mVk",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HuQ0wiQNu7j1KcmhPVr9/CnilVhzNZNiWBsaU1mVk/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=pa_nB3MaKPLZ_7PdWJpClpscWnk="
+  },
+  {
+   "k": "N",
+   "text": "El final de Rodríguez Saá es casi una escena de película. Convoca a los gobernadores a una cumbre en la residencia de Chapadmalal, junto al mar. Casi ninguno aparece. Entiende el mensaje, vuela a su provincia, San Luis, y desde allí anuncia su renuncia por televisión.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "mesa_costa"
+     },
+     "at": "Casi ninguno aparece"
+    }
+   ],
+   "gen": "p6bqHslVpqSplCu1BR8n",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vpA4Oxu8JhKRv1AqgIkY/p6bqHslVpqSplCu1BR8n/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=7WmW1KSTIrVrEKImGnUBFcQfhFE="
+  },
+  {
+   "k": "R",
+   "text": "Durante tres días ocupa el cargo el presidente de la Cámara de Diputados, Eduardo Camaño. Y el uno de enero de dos mil dos, el Congreso elige a un quinto presidente, el que debía terminar el mandato. El peronista Eduardo Duhalde.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "photo": "Eduardo Camaño",
+     "src": "commons,loc,europeana",
+     "at": "Eduardo Camaño",
+     "lt": [
+      "Eduardo Camaño",
+      "Presidente provisional · 30 dic.-1 ene.",
+      "gobierno"
+     ],
+     "lugar": "camano"
+    },
+    {
+     "photo": "Eduardo Duhalde",
+     "src": "commons,loc,europeana",
+     "at": "Eduardo Duhalde",
+     "lt": [
+      "Eduardo Duhalde",
+      "Presidente de Argentina · 2002-2003",
+      "gobierno"
+     ],
+     "lugar": "duhalde"
+    }
+   ],
+   "gen": "irU7hUUpLLBvOFlCXByC",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Kke2uTZR3nok2bKz84JH/irU7hUUpLLBvOFlCXByC/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=xtIqt4bwxUdrQUSFPgrZAcXxzGQ="
+  },
+  {
+   "k": "N",
+   "text": "En su discurso de toma de posesión, Duhalde mira a los ahorradores a los ojos. Y les hace una promesa que todavía hoy recuerda cualquier argentino que tuviera una cuenta en el banco.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ahorrista_escucha"
+     },
+     "at": "mira a los ahorradores"
+    }
+   ],
+   "gen": "dIKI8zccTuyKiCOHuq5g",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/N8ftUUMDkfXM4VMnLCzd/dIKI8zccTuyKiCOHuq5g/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Wq4SJTYlKNt-fBb2JSorC5JZFS4="
+  },
+  {
+   "k": "R",
+   "text": "[serious] El que depositó dólares recibirá dólares.",
+   "voice": "DUH",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "El que depositó dólares recibirá dólares.",
+      "attrib": "Eduardo Duhalde · discurso de asunción, 1 de enero de 2002"
+     },
+     "at": "El que depositó dólares"
+    }
+   ],
+   "gen": "SH8pnKCNpSlUeX2ViM3o",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Aa5Dx8aAsjKqHET9WwWa/SH8pnKCNpSlUeX2ViM3o/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=njUEkZxpuPeVeqTXJJqDACXTbX0="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Cinco días después, esa promesa ya no existía.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "5 DÍAS",
+      "sub": "lo que duró la promesa"
+     },
+     "at": "Cinco días después"
+    }
+   ],
+   "gen": "6Bw5HYaJe7yEJ39nSHp9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/B6oxhXYXezFDxM1kWIk4/6Bw5HYaJe7yEJ39nSHp9/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=HlpaER-C2wbHJW_YMdFmd0s3ZQM="
+  },
+  {
+   "k": "N",
+   "text": "¿Qué pasó en esos cinco días? Que alguien hizo las cuentas. En los bancos no había dólares suficientes para devolver todos los depósitos en dólares. Muchos ya se habían ido del país. Y los que quedaban estaban prestados. Para cumplir la promesa, habría que inventarlos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cajon_vacio"
+     },
+     "at": "Que alguien hizo las cuentas"
+    }
+   ],
+   "gen": "6s2HGm5xVU0oGLf1e074",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vxG7RnC9UOarh8pGwa4S/6s2HGm5xVU0oGLf1e074/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=1B6SrW94ExqnhKQM4HduJI7Dxq8="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Recapitulemos. En diciembre de dos mil uno, Argentina congeló los depósitos, perdió a su presidente, dejó de pagar su deuda y tuvo cinco jefes de Estado en once días. Pero lo peor para los ahorradores todavía no había llegado.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "recap",
+      "header": "Hasta aquí",
+      "items": [
+       "1 dic. · el corralito: 250 $ por semana",
+       "19 dic. · estado de sitio y cacerolazo",
+       "20 dic. · De la Rúa se va en helicóptero",
+       "23 dic. · default de la deuda",
+       "1 ene. · Duhalde promete dólares"
+      ]
+     },
+     "at": "Recapitulemos"
+    }
+   ],
+   "gen": "I6ELcRJZkaUuEp2hos0W",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aWXFR3zlxff1GpQa6597/I6ELcRJZkaUuEp2hos0W/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=uRh-EVfVNTswblJQZJ7-XC9f89k="
+  },
+  {
+   "k": "N",
+   "text": "Si estás disfrutando de esta historia, suscríbete a DocuVox: es gratis y nos ayuda a hacer más documentales como este. Ahora sí. Vamos a ver qué pasó con el dinero.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "suscribe_campana"
+     },
+     "at": "suscríbete a DocuVox"
+    }
+   ],
+   "gen": "3Y3NqPLsqauv84ST7Gwl",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KvyArsllL1payzaox528/3Y3NqPLsqauv84ST7Gwl/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=OIoQDAF2W9k0UkIXzxPOyNl5O-U="
+  },
+  {
+   "k": "T",
+   "secs": 6.0,
+   "sting": "accion",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "El corralón",
+    "sub": "2002",
+    "num": "VII"
+   }
+  },
+  {
+   "k": "B",
+   "track": "drama"
+  },
+  {
+   "k": "R",
+   "text": "Seis de enero de dos mil dos. El Congreso aprueba la Ley de Emergencia Pública. La convertibilidad, el uno a uno que había durado casi once años, muere oficialmente. El peso se devalúa.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Ley 25.561 de Emergencia Pública",
+      "lines": [
+       "y de reforma del régimen cambiario",
+       "Fin de la convertibilidad",
+       "Nuevo dólar oficial: 1,40 pesos"
+      ],
+      "source": "Congreso de la Nación · 6 de enero de 2002"
+     },
+     "at": "la Ley de Emergencia Pública"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 1.0,
+      "to": 1.4,
+      "label": "pesos por dólar · dólar oficial, enero de 2002",
+      "prefix": "$ ",
+      "dec": 2
+     },
+     "at": "El peso se devalúa"
+    }
+   ],
+   "gen": "9tc3n1c6yDboHDvqLGPh",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ehWV7wmFJmE1wcMl1Yze/9tc3n1c6yDboHDvqLGPh/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=GNPexix7XV21SsqnTPeteK4zpeA="
+  },
+  {
+   "k": "N",
+   "text": "Pero el dinero sigue encerrado. Y se encierra todavía más. Los plazos fijos quedan reprogramados: te los devolverán, sí, pero dentro de años. Al corralito le sale un hermano mayor. El corralón.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "corral_grande"
+     },
+     "at": "El corralón"
+    }
+   ],
+   "gen": "Gqy6379SwYuXtlO8qwn3",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IQqR4vbM77IG0Vex25Q4/Gqy6379SwYuXtlO8qwn3/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=FeC6T67m_GRJ23RsSzttHZEGjj8="
+  },
+  {
+   "k": "N",
+   "text": "Y en febrero llega el golpe definitivo. La pesificación. Todos los depósitos en dólares se convierten a la fuerza en pesos. A uno con cuarenta pesos por cada dólar.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Decreto 214/2002",
+      "lines": [
+       "Pesificación de depósitos y deudas",
+       "Depósitos: 1,40 pesos por dólar + ajuste",
+       "Deudas: 1 peso por dólar"
+      ],
+      "source": "Poder Ejecutivo Nacional · febrero de 2002"
+     },
+     "at": "La pesificación"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "dolar_derrite"
+     },
+     "at": "se convierten a la fuerza"
+    }
+   ],
+   "gen": "SdM9wUJo86W14nlB7c53",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dtAXIBQe0EAh0OoZylHO/SdM9wUJo86W14nlB7c53/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=QtRU4olsemo2nC4nyPpt4XgVlyI="
+  },
+  {
+   "k": "R",
+   "text": "Uno con cuarenta parecía razonable. El problema es que el dólar, ya libre, no se quedó ahí. En pocos meses llegó a rozar los cuatro pesos.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "flecha_sube"
+     },
+     "at": "En pocos meses"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 1.4,
+      "to": 3.9,
+      "label": "pesos por dólar · máximo de 2002 (aprox.)",
+      "prefix": "$ ",
+      "dec": 2
+     },
+     "at": "rozar los cuatro pesos"
+    }
+   ],
+   "gen": "jRJkWO33fG8SpnS3Azdf",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5FZNe3NdniNrO2NPZYBw/jRJkWO33fG8SpnS3Azdf/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=LYqS2AWzD73-BfhSancDr_GtPSU="
+  },
+  {
+   "k": "N",
+   "text": "Haz la cuenta. Si tenías diez mil dólares en el banco, te devolvían catorce mil pesos. Y con catorce mil pesos, en la calle, podías comprar unos tres mil quinientos dólares. Si aceptabas los pesos, habías perdido casi dos tercios de tus ahorros. Sin hacer nada. Sin tocar nada.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Lo que depositaste",
+       "lines": [
+        "10.000 dólares",
+        "antes del corralito"
+       ]
+      },
+      "right": {
+       "title": "Lo que podías recuperar",
+       "lines": [
+        "14.000 pesos",
+        "≈ 3.500 dólares a mediados de 2002"
+       ]
+      }
+     },
+     "at": "Haz la cuenta"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ahorros_humo"
+     },
+     "at": "casi dos tercios"
+    }
+   ],
+   "gen": "zZ0ZcjkCFgBcV6x8Wxkr",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2NJoQWP4uXoHOAQT7LM3/zZ0ZcjkCFgBcV6x8Wxkr/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=GlSS_Z23WuUGR9rJMCIuYsP6dTk="
+  },
+  {
+   "k": "N",
+   "text": "Y había una segunda trampa. La pesificación fue asimétrica. Los depósitos se cambiaban a uno con cuarenta. Pero las deudas en dólares, a uno por uno.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "versus",
+      "left": {
+       "name": "Ahorradores",
+       "lines": [
+        "depósitos en dólares",
+        "pesificados a 1,40"
+       ]
+      },
+      "right": {
+       "name": "Deudores",
+       "lines": [
+        "deudas en dólares",
+        "pesificadas a 1,00"
+       ]
+      }
+     },
+     "at": "La pesificación fue asimétrica"
+    }
+   ],
+   "gen": "awiBvHulVKDiMVCi1Zhx",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JNlvuA6tGavz9l6eFxxR/awiBvHulVKDiMVCi1Zhx/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=-5FrYdoh6nGJoB6bjjFQRwz2qx8="
+  },
+  {
+   "k": "R",
+   "text": "Quien debía cien mil dólares, de repente debía cien mil pesos. Un regalo para los grandes endeudados, entre ellos muchas empresas. La diferencia la pagó el Estado, con nuevos bonos, y la pagaron los ahorradores. El propio Duhalde reconocería años después que su frase había sido un error.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "balanza_rota"
+     },
+     "at": "Un regalo para los grandes endeudados"
+    }
+   ],
+   "gen": "XFc41LUbF3o9DsE1P949",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KLtjw67YSHkraXUkS7qZ/XFc41LUbF3o9DsE1P949/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=FX6ki1wLsc0gnomaHsJUnx3N1ro="
+  },
+  {
+   "k": "R",
+   "text": "Decir que el que depositó dólares recibiría dólares fue un error.",
+   "voice": "DUH",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Decir que el que depositó dólares recibiría dólares fue un error.",
+      "attrib": "Eduardo Duhalde · entrevista en Radio Cooperativa, años después"
+     },
+     "at": "fue un error"
+    }
+   ],
+   "gen": "MP48vvJlBcNgcrAbBZe2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pTz8OPBco4SEWtuKe4ku/MP48vvJlBcNgcrAbBZe2/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=vWEhl7cuxLnd1QdZaBF6XJFQzXk="
+  },
+  {
+   "k": "B",
+   "track": "calle"
+  },
+  {
+   "k": "N",
+   "text": "Imagina por un momento que eres tú. Que tienes los ahorros de toda una vida en un plazo fijo en dólares. La entrada de un piso. La jubilación. Y que un día, por decreto, alguien decide que ya no son dólares. Y que lo que te queda vale un tercio.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ahorro_vida"
+     },
+     "at": "los ahorros de toda una vida"
+    }
+   ],
+   "gen": "h9Kt9XaUUq6VKVuuS3fx",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/EbILacP8WSBcbdMVBL5G/h9Kt9XaUUq6VKVuuS3fx/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=pFmUoSOPrc_ZNkPVQWOR4FEfmrg="
+  },
+  {
+   "k": "N",
+   "text": "La reacción fue furiosa. Durante todo dos mil dos, miles de ahorradores se plantan cada semana frente a los bancos. Golpean las persianas con martillos. Pintan las fachadas. Y los bancos responden blindando las puertas con planchas de metal.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "martillos_banco"
+     },
+     "at": "Golpean las persianas con martillos"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "fachada_chapas"
+     },
+     "at": "planchas de metal"
+    }
+   ],
+   "gen": "gFGVCUqO3Mekp417gRCP",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OhPX5aGMEI2yxpbQU3Q8/gFGVCUqO3Mekp417gRCP/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=9cdWt-PrNyyfSV1W7VSIJNUbwEg="
+  },
+  {
+   "k": "R",
+   "text": "Los tribunales se llenan de recursos de amparo. El uno de febrero, la Corte Suprema declara inconstitucional el corralito en el caso de un ahorrador. Quien tenía abogado y paciencia, a veces, recuperaba algo más. Quien no, se quedaba con lo que le dieran.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "expedientes_torre"
+     },
+     "at": "recursos de amparo"
+    },
+    {
+     "photo": "Palacio de Justicia de la Nación Buenos Aires",
+     "src": "commons,loc,europeana",
+     "at": "la Corte Suprema",
+     "lt": [
+      "Palacio de Justicia",
+      "Corte Suprema · Buenos Aires"
+     ],
+     "lugar": "tribunales"
+    }
+   ],
+   "gen": "DCkM86W6K1WTUUKGHnVr",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kQPDfrKCWK4GUTMxTqQO/DCkM86W6K1WTUUKGHnVr/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=L5KBwqA2LuUOUsSLkHkQTAqdUl8="
+  },
+  {
+   "k": "R",
+   "text": "A quien no quería pesos, el Gobierno le ofreció otra salida: cambiar su depósito por bonos del Estado en dólares, los Boden, que se irían pagando a lo largo de diez años. Quien aguantó hasta dos mil doce recuperó buena parte de sus dólares. Pero tuvo que esperar una década.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "timeline",
+      "header": "La salida lenta",
+      "events": [
+       [
+        "feb. 2002",
+        "Pesificación"
+       ],
+       [
+        "may. 2002",
+        "Primer canje por Boden 2012"
+       ],
+       [
+        "dic. 2002",
+        "Fin del corralito"
+       ],
+       [
+        "2003",
+        "Boden 2013"
+       ],
+       [
+        "ago. 2012",
+        "Último pago del Boden 2012"
+       ]
+      ]
+     },
+     "at": "los Boden"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "reloj_arena_billetes"
+     },
+     "at": "esperar una década"
+    }
+   ],
+   "gen": "ttAA15ZPr4iNmET5KBmk",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RfICr5mOJyuEccnQV4Hu/ttAA15ZPr4iNmET5KBmk/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=IhlUkM8f5OjzQPJV0dUpuzTmrSQ="
+  },
+  {
+   "k": "R",
+   "text": "El corralito, el de los doscientos cincuenta pesos, se levantó oficialmente el dos de diciembre de dos mil dos. Había durado un año. Los plazos fijos del corralón tardaron todavía más.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 300,
+      "to": 367,
+      "label": "del corralito · 2 de diciembre de 2002, se levanta",
+      "prefix": "DÍA "
+     },
+     "at": "el dos de diciembre de dos mil dos"
+    }
+   ],
+   "gen": "kq1zSU5llcPzhcMXoK2y",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NiIhfLwTlt5V41ATdlJN/kq1zSU5llcPzhcMXoK2y/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=pv-78vAzCq3FC7-dGAdmq4sTuAA="
+  },
+  {
+   "k": "N",
+   "text": "Mientras tanto, el país se hunde. El paro supera el veintiuno por ciento. La economía cae a una profundidad que no se veía en generaciones. Y en octubre de dos mil dos, más de la mitad de los argentinos, el cincuenta y siete y medio por ciento, está bajo la línea de la pobreza.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 38.3,
+      "to": 57.5,
+      "label": "de la población bajo la línea de pobreza · octubre de 2002",
+      "suffix": " %",
+      "dec": 1
+     },
+     "at": "el cincuenta y siete y medio"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "comedor_popular"
+     },
+     "at": "bajo la línea de la pobreza"
+    }
+   ],
+   "gen": "qa9psh728RQ4ZPZ0E0C5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KC1xzafZ1yAwzXlWtBsm/qa9psh728RQ4ZPZ0E0C5/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=h5zbp9knaC-9lVVJM6OO1UG61vs="
+  },
+  {
+   "k": "N",
+   "text": "La gente se las arregla como puede. Se multiplican los clubes del trueque: cambias una tarta por unas zapatillas, unas clases de inglés por una docena de huevos. Y por las noches, miles de cartoneros recorren las calles buscando papel y cartón para vender.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "trueque_feria"
+     },
+     "at": "los clubes del trueque"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cartonero_noche"
+     },
+     "at": "cartoneros"
+    }
+   ],
+   "gen": "jr3jm9vXZ72qS6RZrGB2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IY8qxRkBQ9o6GwFn2dUk/jr3jm9vXZ72qS6RZrGB2/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=IwmzbrIWB-E9khHWglId3jw_tIE="
+  },
+  {
+   "k": "N",
+   "text": "Una película argentina de dos mil diecinueve con Ricardo Darín, La odisea de los giles, contó esta historia desde el pueblo: unos vecinos que juntan sus ahorros para montar una cooperativa y los pierden en el corralito. Su título lo dice todo. Los giles. Los ingenuos. Los que confiaron.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "vecinos_cooperativa"
+     },
+     "at": "La odisea de los giles"
+    }
+   ],
+   "gen": "Oj3RLpcrZ9ydfZXICwhe",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aKnFVNDCdDa4HdyAKwpJ/Oj3RLpcrZ9ydfZXICwhe/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=sndSvgCFZlLfPRAF9P9A8OuA9r8="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Argentina tardó años en levantarse. Y desde entonces, la palabra corralito viaja sola por el mundo. Hasta que, en dos mil trece, aterrizó en Europa.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "palabra_viaja"
+     },
+     "at": "aterrizó en Europa"
+    }
+   ],
+   "gen": "yq6XmdOf3JToryucYIo6",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xf3F9I8ohdRTBm8rgpnq/yq6XmdOf3JToryucYIo6/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=xvqPxswt-A_OomrcGzH66kS5HHY="
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Y ahí empieza la parte de esta historia que nos toca más de cerca. Porque lo que pasó en Buenos Aires parecía imposible en Europa. Hasta que pasó.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "sombra_europa"
+     },
+     "at": "Hasta que pasó"
+    }
+   ],
+   "gen": "pXy1Fpky0W70tw20Mym2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7sqa4MJC2ooa75S8fhdM/pXy1Fpky0W70tw20Mym2/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3I8FUxZuZBgdHOd-Gkl0HLReqmI="
+  },
+  {
+   "k": "T",
+   "secs": 6.0,
+   "sting": "accion",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "¿Y en España?",
+    "sub": "Chipre · Grecia · el Popular",
+    "num": "VIII"
+   }
+  },
+  {
+   "k": "B",
+   "track": "europa"
+  },
+  {
+   "k": "R",
+   "text": "Chipre. Marzo de dos mil trece. Un país del euro, con bancos gigantes para su tamaño, pide un rescate a la Unión Europea y al FMI. La condición incluye algo que nunca se había hecho en la eurozona.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "photo": "Bank of Cyprus Nicosia",
+     "src": "commons,loc,europeana",
+     "at": "Chipre",
+     "lt": [
+      "Banco de Chipre",
+      "Nicosia"
+     ],
+     "lugar": "chipre"
+    },
+    {
+     "card": {
+      "type": "map",
+      "title": "Corralitos en Europa",
+      "bbox": [
+       -10.0,
+       33.5,
+       35.5,
+       44.5
+      ],
+      "points": [
+       {
+        "name": "Chipre · 2013",
+        "lon": 33.38,
+        "lat": 35.17,
+        "big": 1
+       },
+       {
+        "name": "Grecia · 2015",
+        "lon": 23.73,
+        "lat": 37.98,
+        "big": 1
+       },
+       {
+        "name": "España",
+        "lon": -3.7,
+        "lat": 40.42
+       }
+      ]
+     },
+     "at": "Un país del euro"
+    }
+   ],
+   "gen": "tt3VXv59e86ycNUHsDgX",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gIxrR9cbhvMkg3CspjFO/tt3VXv59e86ycNUHsDgX/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=6yBZPn83RlPv5BNmhJR46oRM3PA="
+  },
+  {
+   "k": "R",
+   "text": "El primer plan, pactado un fin de semana en Bruselas, cobraba un impuesto del seis coma setenta y cinco por ciento incluso a los depósitos de menos de cien mil euros, los que se suponía garantizados. Los chipriotas corren a los cajeros. Y el diecinueve de marzo, el Parlamento de Chipre lo tumba: ni un solo voto a favor.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "6,75 %",
+      "sub": "impuesto propuesto a los depósitos de menos de 100.000 € · Chipre, marzo de 2013"
+     },
+     "at": "seis coma setenta y cinco"
+    },
+    {
+     "photo": "Cyprus House of Representatives Nicosia",
+     "src": "commons,loc,europeana",
+     "at": "el Parlamento de Chipre",
+     "lt": [
+      "Parlamento de Chipre",
+      "Nicosia · 19 de marzo de 2013",
+      "europa"
+     ],
+     "lugar": "chipre"
+    },
+    {
+     "card": {
+      "type": "seats",
+      "title": "Votación en el Parlamento de Chipre · 19 de marzo de 2013",
+      "total": 55,
+      "parties": [
+       {
+        "name": "En contra",
+        "seats": 36,
+        "color": [
+         214,
+         48,
+         49
+        ]
+       },
+       {
+        "name": "Abstención",
+        "seats": 19,
+        "color": [
+         170,
+         180,
+         200
+        ]
+       },
+       {
+        "name": "A favor",
+        "seats": 0,
+        "color": [
+         116,
+         172,
+         223
+        ]
+       }
+      ]
+     },
+     "at": "ni un solo voto a favor"
+    }
+   ],
+   "gen": "dtnm45bK1RN3yjg3qB9E",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HrTAdNlTEuhDqInBqq5l/dtnm45bK1RN3yjg3qB9E/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=WYnGEA4BYv40kWx56b0BS6XkIj0="
+  },
+  {
+   "k": "N",
+   "text": "La versión final salvó a los pequeños ahorradores. Pero Europa había cruzado una línea: por primera vez, el dinero de los clientes servía para pagar el rescate de un banco.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "linea_cruzada"
+     },
+     "at": "había cruzado una línea"
+    }
+   ],
+   "gen": "yIBtozRl6SeHzuRGu9C9",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/82j6tSdAVcR8j12ercoh/yIBtozRl6SeHzuRGu9C9/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=oC5Mz4kB_kqw8KCA8hPjxftYKSk="
+  },
+  {
+   "k": "N",
+   "text": "Los bancos chipriotas cierran casi dos semanas. Cuando reabren, solo se pueden sacar trescientos euros al día. Y los depósitos de más de cien mil euros sufren una quita: en el Banco de Chipre, casi la mitad de lo que superaba esa cifra.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "nicosia_cola"
+     },
+     "at": "cierran casi dos semanas"
+    },
+    {
+     "card": {
+      "type": "list",
+      "header": "El corralito de Chipre · 2013",
+      "items": [
+       [
+        "≈ 12 días",
+        "bancos cerrados"
+       ],
+       [
+        "300 €",
+        "al día por persona"
+       ],
+       [
+        "> 100.000 €",
+        "quita sobre lo que superaba"
+       ],
+       [
+        "2 años",
+        "de controles"
+       ]
+      ]
+     },
+     "at": "trescientos euros al día"
+    }
+   ],
+   "gen": "KHeUm5hMp8qb3NyHtX3E",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/55OVz1c8fBEd0tJcbgbG/KHeUm5hMp8qb3NyHtX3E/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=xiPOKqeTaA00iXtFhAL5OsasKVA="
+  },
+  {
+   "k": "R",
+   "text": "Grecia. Lunes, veintinueve de junio de dos mil quince. Los griegos se despiertan con los bancos cerrados y un límite de sesenta euros al día en los cajeros. Los bancos tardan tres semanas en reabrir. Y los últimos controles no se levantan hasta dos mil diecinueve.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "photo": "Greek bank ATM queue 2015 Athens",
+     "src": "commons,loc,europeana",
+     "at": "Grecia",
+     "lt": [
+      "Atenas",
+      "junio de 2015"
+     ],
+     "lugar": "grecia"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 300,
+      "to": 60,
+      "label": "euros al día en los cajeros griegos · 29 de junio de 2015",
+      "suffix": " €"
+     },
+     "at": "sesenta euros al día"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "jubilados_atenas"
+     },
+     "at": "Los bancos tardan tres semanas"
+    }
+   ],
+   "gen": "LtzRHMdndAZLjo3B0PUc",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Cvu9xAvaMLG6sL9WyUiw/LtzRHMdndAZLjo3B0PUc/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=vb9537r7ZPM0hIwmR67cEbbs6gY="
+  },
+  {
+   "k": "R",
+   "text": "Grecia vota en referéndum el cinco de julio. Gana el no a las condiciones del rescate. Una semana después, su Gobierno acepta un acuerdo todavía más duro. Con los bancos cerrados, el margen para negociar se había esfumado.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "urna_atenas"
+     },
+     "at": "vota en referéndum"
+    }
+   ],
+   "gen": "Ph9hnEVIiiUHt7HNWz0y",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HKPRHtns2DOfk7htK354/Ph9hnEVIiiUHt7HNWz0y/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=cq831V5hfPGAZgDSa1y-MJixNC4="
+  },
+  {
+   "k": "N",
+   "text": "En España, el miedo tuvo fecha. Mayo de dos mil doce, cuando Bankia pidió el rescate. Aquella semana, el Nobel de Economía Paul Krugman llegó a escribir en el New York Times que veía venir el fin del euro y corralitos en España. Los ministros salieron a desmentirlo. Y no pasó. Pero el susto quedó.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "cola_bankia"
+     },
+     "at": "el miedo tuvo fecha"
+    },
+    {
+     "photo": "Paul Krugman",
+     "src": "commons,loc,europeana",
+     "at": "Paul Krugman",
+     "lt": [
+      "Paul Krugman",
+      "Premio Nobel de Economía · 2008",
+      "finanzas"
+     ],
+     "lugar": "krugman"
+    }
+   ],
+   "gen": "F7bh4XS3Da9RK6cn0Qx4",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5MA564EYOlbjOmSSfSO7/F7bh4XS3Da9RK6cn0Qx4/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=h0umcA-OQXhENvcH8MluyyVeDUI="
+  },
+  {
+   "k": "N",
+   "text": "Y España. Siete de junio de dos mil diecisiete. El Banco Popular, el sexto banco del país, amanece intervenido. La Junta Única de Resolución europea lo vende al Santander por un euro.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Banco Popular Español sede Madrid",
+     "src": "commons,loc,europeana",
+     "at": "El Banco Popular",
+     "lt": [
+      "Banco Popular",
+      "Madrid · junio de 2017",
+      "europa"
+     ],
+     "lugar": "popular"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "1 EURO",
+      "sub": "el precio del Banco Popular · 7 de junio de 2017"
+     },
+     "at": "por un euro"
+    }
+   ],
+   "gen": "WtPONBbiQ5e3h4OMCRl5",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ieB9vJ3zFbVyVUXxGWUl/WtPONBbiQ5e3h4OMCRl5/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=5dsbmnYZ3UP4yNBSddgs3SEuQwU="
+  },
+  {
+   "k": "R",
+   "text": "Nota del FROB, siete de junio de dos mil diecisiete. A través de esta decisión se garantiza la seguridad de los depositantes de Banco Popular y la ausencia de impacto para las finanzas públicas.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "doc",
+      "title": "Nota de prensa del FROB",
+      "lines": [
+       "«se garantiza la seguridad de los depositantes",
+       "de Banco Popular y la ausencia de impacto",
+       "para las finanzas públicas»"
+      ],
+      "source": "Fondo de Reestructuración Ordenada Bancaria · 7 de junio de 2017"
+     },
+     "at": "Nota del FROB"
+    }
+   ],
+   "gen": "8ipQEPW0Ag3k5LnvFb57",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xCBdAI8tEmasOfoCwQtS/8ipQEPW0Ag3k5LnvFb57/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=k3SbwizKO_64_MP0DkN4OZ17QU4="
+  },
+  {
+   "k": "N",
+   "text": "Los clientes del Popular no perdieron un euro de sus depósitos. Los accionistas y algunos bonistas, en cambio, lo perdieron todo. Y ahí está la primera clave para responder a nuestra pregunta.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "accion_papel"
+     },
+     "at": "lo perdieron todo"
+    }
+   ],
+   "gen": "IUIS23QlNvfNZRHP71Ks",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/C3En0rqLlCtOklF5J7FM/IUIS23QlNvfNZRHP71Ks/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=bvtrQh3dXKG4o7QtZy7f2-3kGCY="
+  },
+  {
+   "k": "N",
+   "text": "[serious] Entonces, ¿podría pasar en España un corralito como el argentino? Vamos a separar lo que te protege de lo que no.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "balanza_espana"
+     },
+     "at": "podría pasar en España"
+    }
+   ],
+   "gen": "SA7AbQ6t2sDzd0hHV5yA",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qS4Wg84Z9t67yTswtBq8/SA7AbQ6t2sDzd0hHV5yA/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=0jI98XwyAXqkRhrdMz9AwSFb4P0="
+  },
+  {
+   "k": "R",
+   "text": "Lo que te protege, primero. Argentina guardaba sus ahorros en una moneda que su Banco Central no podía fabricar: el dólar. Cuando se acabaron los dólares, se acabó el juego. España usa el euro, y detrás del euro está el Banco Central Europeo, que puede prestar a los bancos solventes el dinero que necesiten, siempre que aporten garantías.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "versus",
+      "left": {
+       "name": "Argentina 2001",
+       "lines": [
+        "ahorros en dólares",
+        "que no podía imprimir"
+       ]
+      },
+      "right": {
+       "name": "España hoy",
+       "lines": [
+        "ahorros en euros",
+        "con el BCE detrás"
+       ]
+      }
+     },
+     "at": "Argentina guardaba sus ahorros"
+    },
+    {
+     "photo": "European Central Bank headquarters Frankfurt",
+     "src": "commons,loc,europeana",
+     "at": "el Banco Central Europeo",
+     "lt": [
+      "Banco Central Europeo",
+      "Fráncfort",
+      "europa"
+     ],
+     "lugar": "bce"
+    }
+   ],
+   "gen": "E5WUmym661aYfUFwrvgu",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hpfNh9qpXDU3tP9OW5kN/E5WUmym661aYfUFwrvgu/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=53RIpWCOkmiOA7vC30Xxn-oEdGk="
+  },
+  {
+   "k": "R",
+   "text": "Segundo, el Fondo de Garantía de Depósitos. Si tu banco quiebra, cubre hasta cien mil euros por titular y por entidad. Es una norma europea, igual en los veintisiete países de la Unión.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "photo": "Banco de España Madrid edificio",
+     "src": "commons,loc,europeana",
+     "at": "el Fondo de Garantía de Depósitos",
+     "lt": [
+      "Banco de España",
+      "Madrid",
+      "europa"
+     ],
+     "lugar": "bde"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 100000,
+      "label": "euros garantizados por titular y por entidad",
+      "suffix": " €"
+     },
+     "at": "hasta cien mil euros"
+    }
+   ],
+   "gen": "tgSA6evFN2uu31rmn51I",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/69j0ktpWBCuxWIDIoDWJ/tgSA6evFN2uu31rmn51I/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=RmYnFfOR2FnXMBgd6ou5w-zgCvY="
+  },
+  {
+   "k": "N",
+   "text": "Y hay una tercera diferencia. La deuda argentina estaba en dólares: había que conseguir dólares para pagarla. La deuda pública española es alta, ronda el cien por cien del PIB, pero está en euros, la misma moneda en la que se cobran los impuestos.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "versus",
+      "left": {
+       "name": "Argentina 2001",
+       "lines": [
+        "deuda en dólares",
+        "moneda ajena"
+       ]
+      },
+      "right": {
+       "name": "España hoy",
+       "lines": [
+        "deuda en euros",
+        "≈ 100 % del PIB"
+       ]
+      }
+     },
+     "at": "La deuda argentina estaba en dólares"
+    }
+   ],
+   "gen": "Zv7Ajbpbqt1XCofEO6PJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9zjNIw25BEhrtLr0SR1d/Zv7Ajbpbqt1XCofEO6PJ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=PZXKVZyfG5Cy0E40Y7BLOLCwApQ="
+  },
+  {
+   "k": "N",
+   "text": "Ahora, lo que no te protege del todo. Grecia demostró que, dentro del euro, si el Banco Central Europeo deja de dar liquidez a los bancos de un país, esos bancos cierran. Ocurrió en plena negociación del rescate griego. Y lo que el Fondo de Garantía protege es tu dinero si un banco quiebra, no que puedas sacarlo cuando quieras.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "grifo_bce"
+     },
+     "at": "deja de dar liquidez"
+    }
+   ],
+   "gen": "N2FKnIAdWvziA19BZwXE",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/d2LTeLbnCxzrijBkU733/N2FKnIAdWvziA19BZwXE/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Ex0hFPKJgS_WRCv4foSbvRvX8Q0="
+  },
+  {
+   "k": "R",
+   "text": "Además, desde la reforma de dos mil diecinueve, la normativa bancaria europea permite a las autoridades suspender los pagos de un banco en apuros hasta dos días hábiles, mientras deciden qué hacer con él. Es un corralito pequeño, con nombre técnico: moratoria.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "MORATORIA",
+      "sub": "hasta 2 días hábiles · normativa europea de resolución bancaria"
+     },
+     "at": "moratoria"
+    }
+   ],
+   "gen": "F01ISmeQ0rpKgbWqWgtA",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/E5MV4hKEyN0wMCLj3mOF/F01ISmeQ0rpKgbWqWgtA/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=k5jsjT3VnkAk9KjTCNMJluPF0v0="
+  },
+  {
+   "k": "N",
+   "text": "Y Chipre enseñó la regla que más conviene recordar: por encima de los cien mil euros por persona y por banco, tu dinero no está garantizado. Si el banco cae, puede usarse para rescatarlo.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "split",
+      "left": {
+       "title": "Hasta 100.000 €",
+       "lines": [
+        "garantizados por el FGD",
+        "por titular y entidad"
+       ]
+      },
+      "right": {
+       "title": "Por encima",
+       "lines": [
+        "pueden sufrir pérdidas",
+        "si el banco cae"
+       ]
+      }
+     },
+     "at": "por encima de los cien mil euros"
+    }
+   ],
+   "gen": "KydWTWAEXun3022iuWiJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/CinKev79gK1VklTncbA3/KydWTWAEXun3022iuWiJ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=MZ-n2kG_t1U0Zib0MBxi0DNzOkk="
+  },
+  {
+   "k": "R",
+   "text": "Hay algo que sí está en tu mano comprobar. Por ley, el contrato de cualquier depósito en España tiene que informar de qué fondo de garantía lo cubre y hasta qué cantidad. Y el límite de cien mil euros se cuenta por titular y por entidad, no por cuenta: dos cuentas en el mismo banco suman.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "contrato_lupa"
+     },
+     "at": "el contrato de cualquier depósito"
+    }
+   ],
+   "gen": "0jVmbPIFYJBxLemonGuQ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/l3NIiEJPFwSX8Jd84iSX/0jVmbPIFYJBxLemonGuQ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=EYZ91iinYeccvXTHsG4T_yaROwc="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Así que la respuesta honesta es esta. Un corralito como el argentino, con el dinero atrapado durante años y los ahorros convertidos a la fuerza en otra moneda, necesitaría algo que hoy no se ve en el horizonte: que España saliera del euro de forma desordenada. Un cierre bancario de días, o pérdidas en grandes depósitos de un banco que quiebra, en cambio, ya han pasado en Europa. Y la ley lo permite.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "horizonte_niebla"
+     },
+     "at": "la respuesta honesta"
+    }
+   ],
+   "gen": "bDkqYgzVhEyHSjHBHZrj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/D2ku8Odf9opTZhkDBTYj/bDkqYgzVhEyHSjHBHZrj/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=mrf8A7kelsd3ukVGX51kA5v42Wg="
+  },
+  {
+   "k": "R",
+   "text": "Un último dato para ponerlo en perspectiva. El Fondo de Garantía de Depósitos español cubre hoy más de novecientos mil millones de euros. Es una cifra enorme. Y, como todos los seguros, está pensado para que quiebre un banco. No para que caigan todos a la vez.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 924,
+      "label": "mil millones de euros en depósitos garantizados por el FGD · diciembre de 2024",
+      "suffix": " MM€"
+     },
+     "at": "más de novecientos mil millones"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "paraguas_lluvia"
+     },
+     "at": "como todos los seguros"
+    }
+   ],
+   "gen": "ZJFjunoLT3wV65DgUdyW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dwgK3oupQDrwQIZDrA4j/ZJFjunoLT3wV65DgUdyW/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=abxAPOu8j-CeczD9NdVcf6xf22E="
+  },
+  {
+   "k": "B",
+   "track": "tema"
+  },
+  {
+   "k": "N",
+   "text": "Veinticinco años después, en Buenos Aires todavía hay quien guarda los dólares debajo del colchón. No es una manía. Es memoria. Porque en diciembre de dos mil uno, los argentinos aprendieron que una ley que promete no tocar tus ahorros dura lo que tarda otro Gobierno en escribir otra.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "colchon_dolares"
+     },
+     "at": "debajo del colchón"
+    },
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "ley_sobre_ley"
+     },
+     "at": "en escribir otra"
+    }
+   ],
+   "gen": "jeeWrPIHbfuvYEyCinCe",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HCaqnbOkuKxiI7GICXWc/jeeWrPIHbfuvYEyCinCe/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=mWq_H5GeKwzGtyANlERebYzwTgU="
+  },
+  {
+   "k": "N",
+   "text": "El corralito no empezó con un decreto. Empezó mucho antes, con una moneda atada al dólar, con una deuda que nadie quería mirar y con un sistema que funcionaba mientras todos creyeran en él.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "castillo_naipes"
+     },
+     "at": "mientras todos creyeran en él"
+    }
+   ],
+   "gen": "RJlYlimtLCRoKB6kaSrX",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/FFpRu7F9oogEBGa5ev91/RJlYlimtLCRoKB6kaSrX/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=G1LJ_80zGpBhYU3OydpE-Ike09o="
+  },
+  {
+   "k": "N",
+   "text": "La historia del corralito no es solo argentina. Es la historia de qué pasa cuando un Estado promete algo que no puede cumplir, y lo sostiene hasta el último día. Uno a uno. Intangibilidad. El que depositó dólares recibirá dólares. Tres promesas. Las tres rotas.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Tres promesas",
+      "items": [
+       [
+        "1991",
+        "«Un peso, un dólar»"
+       ],
+       [
+        "agosto de 2001",
+        "Ley de intangibilidad de los depósitos"
+       ],
+       [
+        "1 de enero de 2002",
+        "«El que depositó dólares recibirá dólares»"
+       ]
+      ]
+     },
+     "at": "Tres promesas"
+    }
+   ],
+   "gen": "w2yv2qmQKq5ubh6yAMcb",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3nwTQU7LwuPQPC3n5Z8f/w2yv2qmQKq5ubh6yAMcb/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Uhfl0f3gnS71_FK14KDp5U0t1Nc="
+  },
+  {
+   "k": "N",
+   "text": "[pause] Porque un banco, al final, no es una caja fuerte. Es una promesa. Y el día que la gente deja de creer en ella, ninguna puerta es lo bastante gruesa.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "puerta_boveda_final"
+     },
+     "at": "no es una caja fuerte"
+    }
+   ],
+   "gen": "IqJr9r1S5p6GOBo9Y8KJ",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rcVkTYwTTkRBjlgQKVsl/IqJr9r1S5p6GOBo9Y8KJ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=4MGQTU75bl8gRF5dqO1xhlqxgQs="
+  },
+  {
+   "k": "N",
+   "text": "Si te ha gustado esta historia, suscríbete a DocuVox y cuéntanos en los comentarios: ¿tú sacarías el dinero del banco? En el próximo documental seguimos tirando del hilo del dinero. Nos vemos.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "kw",
+      "word": "·",
+      "sub": "heli_final"
+     },
+     "at": "Si te ha gustado"
+    }
+   ],
+   "gen": "i4Ymw1N4av4AGfrSlJLv",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qa9UZDNfLa2uxBq7QOnf/i4Ymw1N4av4AGfrSlJLv/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=uHdNy9rlnPSyPIJTcCPOGVR-TNs="
+  }
+ ]
+}

@@ -790,5 +790,84 @@
   "tracking": 0.08,
   "rule": "bar",
   "grade": "frio"
+ },
+ "corralito": {
+  "uso": "Crónica de urgencia: crisis financieras latinoamericanas, estallidos sociales (2000s)",
+  "accent": [
+   116,
+   172,
+   223
+  ],
+  "text": [
+   240,
+   236,
+   226
+  ],
+  "dim": [
+   160,
+   166,
+   176
+  ],
+  "alert": [
+   214,
+   48,
+   49
+  ],
+  "bg0": [
+   10,
+   12,
+   18
+  ],
+  "bg1": [
+   24,
+   30,
+   44
+  ],
+  "sea": [
+   16,
+   26,
+   40
+  ],
+  "land": [
+   50,
+   58,
+   70
+  ],
+  "coast": [
+   150,
+   170,
+   190
+  ],
+  "river": [
+   90,
+   120,
+   150
+  ],
+  "paper": [
+   236,
+   230,
+   214
+  ],
+  "ink": [
+   16,
+   18,
+   24
+  ],
+  "string": [
+   214,
+   48,
+   49
+  ],
+  "fonts": {
+   "display": "gf:ofl/oswald/Oswald[wght].ttf@700",
+   "display_light": "gf:ofl/oswald/Oswald[wght].ttf@400",
+   "body": "gf:ofl/robotoslab/RobotoSlab[wght].ttf@400",
+   "italic": "gf:ofl/robotoslab/RobotoSlab[wght].ttf@300",
+   "body_bold": "gf:ofl/robotoslab/RobotoSlab[wght].ttf@700"
+  },
+  "case": "upper",
+  "tracking": 0.06,
+  "rule": "bar",
+  "grade": "calido"
  }
 }

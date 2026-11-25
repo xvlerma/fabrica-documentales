@@ -1,0 +1,28 @@
+# Palabras que identifican lo que DEBE salir en cada búsqueda (coherencia imagen-locución).
+L = {
+ 'rosada': ['casa rosada', 'casa de gobierno', 'pink house', 'casa_rosada'],
+ 'plazamayo': ['plaza de mayo', 'plaza_de_mayo', 'pirámide de mayo', 'piramide de mayo'],
+ 'congreso': ['congreso de la nación', 'congreso de la nacion', 'palacio del congreso', 'argentine national congress', 'congreso_de_la_naci'],
+ 'avmayo': ['avenida de mayo', 'avenida_de_mayo'],
+ 'bcra': ['banco central de la república argentina', 'banco central de la republica argentina', 'bcra', 'central bank of argentina'],
+ 'hacienda': ['palacio de hacienda', 'ministerio de economía', 'ministerio de economia', 'ministry of economy'],
+ 'cavallo': ['cavallo'],
+ 'delarua': ['de la rúa', 'de la rua', 'delarua'],
+ 'menem': ['menem'],
+ 'duhalde': ['duhalde'],
+ 'rsaa': ['rodríguez saá', 'rodriguez saa', 'rodríguez saa'],
+ 'puerta': ['ramón puerta', 'ramon puerta'],
+ 'camano': ['camaño', 'camano'],
+ 'fmi': ['international monetary fund', 'fondo monetario', 'imf headquarters', 'imf hq', 'imf building'],
+ 'mendoza': ['mendoza'],
+ 'tribunales': ['palacio de justicia', 'palacio de tribunales', 'corte suprema', 'supreme court of argentina'],
+ 'chipre': ['bank of cyprus', 'nicosia', 'cyprus', 'chipre', 'laiki'],
+ 'grecia': ['athens', 'atenas', 'greece', 'greek', 'grecia'],
+ 'popular': ['banco popular'],
+ 'bce': ['european central bank', 'banco central europeo', 'ecb', 'eurotower', 'grossmarkthalle'],
+ 'aznar': ['aznar'],
+ 'alfonsin': ['alfonsín', 'alfonsin'],
+ 'krugman': ['krugman'],
+ 'bde': ['banco de españa', 'banco_de_espa', 'bank of spain'],
+}
+PERMITIDAS = ['portrait', 'president', 'politician', 'minister', 'buenos aires', 'argentina']

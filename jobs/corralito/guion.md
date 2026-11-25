@@ -1,0 +1,324 @@
+# El corralito argentino · guion
+
+Palabras: **5154** (objetivo 5.220 ±3 %) · caracteres: 29551 · por voz: NAR 1611 (31 %), NEW 1656 (32 %), CRO 1686 (33 %), DOC 102 (2 %), CAV 26 (1 %), DLR 45 (1 %), RSA 11 (0 %), DUH 17 (0 %)
+
+**NARRADOR (TOP)** · Buenos Aires. Jueves, veinte de diciembre de dos mil uno. Pasadas las siete y media de la tarde. Sobre la azotea de la Casa Rosada, un helicóptero blanco enciende los motores.
+
+**NARRADOR (TOP)** · Abajo, en la Plaza de Mayo, huele a gas lacrimógeno. Hay caballos de la policía, piedras, cristales rotos. Y miles de personas golpeando cacerolas.
+
+**NARRADOR (NEW)** · Dentro del helicóptero va un hombre que hasta hace unos minutos era el presidente de la República Argentina. Acaba de firmar su renuncia. Y se marcha volando, porque por tierra ya no puede salir.
+
+**LA CRONISTA** · Treinta y nueve muertos en dos días, según los recuentos más citados. Cientos de heridos. Miles de detenidos. Y en las puertas de los bancos, persianas de acero con abolladuras de martillo.
+
+**NARRADOR (TOP)** · ¿Cómo se llega a esto? Pues todo había empezado diecinueve días antes. Un sábado. Con un ministro en televisión y una cifra: doscientos cincuenta. Doscientos cincuenta pesos a la semana. Era todo lo que podías sacar de tu propio dinero.
+
+**NARRADOR (NEW)** · Los argentinos lo bautizaron enseguida. Con un diminutivo, como quien encierra a un niño pequeño para que no se escape. El corralito.
+
+**NARRADOR (TOP)** · Veinticinco años después, esa palabra se ha quedado a vivir en español. La oímos en Chipre. La oímos en Grecia. Y cada vez que un banco español se tambalea, alguien la susurra.
+
+**NARRADOR (NEW)** · ¿Cómo puede un Gobierno quedarse con el dinero de sus ciudadanos de un día para otro? ¿Quién se llevó los dólares que había en los bancos? Y la pregunta que te vamos a responder al final, con datos: ¿podría pasar en España?
+
+
+## El corralito  ·  _El día que los bancos se quedaron tu dinero_
+
+
+## I · Un peso, un dólar  ·  _1991 · 2001_
+
+**NARRADOR (NEW)** · Para entender el corralito hay que retroceder diez años. A una Argentina que acaba de salir de una pesadilla. En mil novecientos ochenta y nueve los precios se multiplicaron por más de treinta en un solo año. Hiperinflación.
+
+**NARRADOR (NEW)** · Los sueldos se cobraban por la mañana y se gastaban por la tarde, antes de que el billete valiera menos. Había supermercados que remarcaban los precios varias veces al día.
+
+**NARRADOR (TOP)** · Y entonces llega un economista de Córdoba con un plan que parece magia. Domingo Cavallo, ministro de Economía de Carlos Menem. Marzo de mil novecientos noventa y uno. La Ley de Convertibilidad.
+
+**LA CRONISTA** · La regla era sencilla. Un peso vale un dólar. Siempre. Por ley. Y por cada peso que circulara, el Banco Central tendría que guardar un dólar de respaldo en sus reservas.
+
+**NARRADOR (TOP)** · Cavallo se hizo famoso por un gesto. Puso, uno al lado del otro, un billete de un peso y uno de un dólar. Mismo valor. Para un país que llevaba décadas viendo cómo su moneda se evaporaba, aquella imagen era casi una religión.
+
+**NARRADOR (NEW)** · Funcionó. La inflación se desplomó en pocos meses. Volvió el crédito. Los argentinos podían comprar un coche a plazos, viajar a Miami, pagar el alquiler en dólares. Fue la fiesta del uno a uno.
+
+**NARRADOR (TOP)** · Y en esa fiesta, España tenía sitio en primera fila. Telefónica se quedó con los teléfonos. Iberia, con Aerolíneas Argentinas. Repsol compró YPF, la petrolera nacional. Y el Santander y el BBV entraron en la banca argentina comprando dos de sus grandes bancos.
+
+**LA CRONISTA** · Hubo un detalle que entonces parecía un lujo y luego sería una trampa. Millones de argentinos podían tener la cuenta del banco directamente en dólares. A finales de dos mil, la mayor parte de los depósitos del país estaban en dólares, no en pesos.
+
+**NARRADOR (NEW)** · Para financiar la fiesta, el Estado también vendió casi todo lo que tenía: teléfonos, petróleo, trenes, agua, electricidad. Privatizaciones a un ritmo que pocos países han visto. Era dinero que entraba una sola vez.
+
+**NARRADOR (TOP)** · Pero un peso solo puede valer un dólar si entran dólares de verdad. Exportando. O pidiendo prestado. Y Argentina, cada vez más, pedía prestado.
+
+**LA CRONISTA** · Y la deuda no paraba de crecer. Cada año había que pedir más para pagar lo anterior. Los mercados lo medían con un termómetro que en Argentina se volvió tan popular como el resultado del fútbol: el riesgo país. Cuanto más alto, más caro le salía al país pedir prestado.
+
+**NARRADOR (NEW)** · En mil novecientos noventa y nueve Brasil, el gran vecino y principal cliente, devalúa su moneda. De golpe, los productos argentinos son carísimos. Las fábricas cierran. El paro sube. Y el país entra en una recesión de la que ya no saldrá.
+
+**NARRADOR (TOP)** · Ese mismo año gana las elecciones Fernando de la Rúa, al frente de la Alianza, una coalición de radicales y centroizquierda. Promete limpiar la política. Y mantener el uno a uno.
+
+**LA CRONISTA** · En diciembre de dos mil, el FMI y otros acreedores arman un rescate de casi cuarenta mil millones de dólares. Lo llaman el blindaje. Seis meses después llega el megacanje, para alargar los plazos de la deuda a cambio de intereses todavía más altos.
+
+**LA CRONISTA** · Marzo de dos mil uno. Dimite el ministro de Economía, José Luis Machinea. Le sustituye Ricardo López Murphy, que anuncia un recorte de unos dos mil millones de pesos, con tijera para provincias y universidades. Estallan las protestas. Su propia coalición le da la espalda. Dura diecisiete días.
+
+**NARRADOR (NEW)** · Y ese mismo marzo, con el país al borde del abismo, De la Rúa llama al hombre que inventó el uno a uno. Domingo Cavallo vuelve al Ministerio de Economía. Esta vez, para salvar su propia criatura.
+
+**NARRADOR (TOP)** · Lo intenta todo. En julio, una ley de déficit cero: el Estado no gastará ni un peso más de lo que ingresa, aunque haya que recortar sueldos públicos y pensiones. Y en agosto, otra ley con un nombre que hoy suena a broma macabra.
+
+**DOCUMENTOS** · Ley veinticinco mil cuatrocientos sesenta y seis. De intangibilidad de los depósitos. El Estado nacional en ningún caso podrá alterar las condiciones pactadas entre los depositantes y la entidad financiera.
+
+**NARRADOR (TOP)** · Una ley para prometer, por escrito, que nadie tocaría tus ahorros. Tres meses y medio después, esa promesa iba a durar exactamente un fin de semana.
+
+**LA CRONISTA** · Porque la gente no se fiaba. Entre enero y noviembre de dos mil uno, de los bancos argentinos salió el equivalente a unos veinte mil millones de dólares. Solo en octubre y noviembre, cerca de dieciocho mil.
+
+**NARRADOR (NEW)** · Ese otoño, el Gobierno había vendido otra idea: la bancarización. Que todo el mundo pagara con tarjeta y cobrara en cuenta, para sacar la economía de la sombra y cobrar más impuestos. Sonaba moderno. Pronto iba a sonar a otra cosa.
+
+**LA CRONISTA** · Los bancos se quedan sin efectivo. Para cubrir los agujeros se prestan dinero entre ellos de un día para otro, y en esos días el interés de esos préstamos llegó a dispararse a cifras de cientos por cien al año.
+
+**NARRADOR (NEW)** · En la última semana de noviembre la estampida es imparable. Y el viernes treinta, en el Ministerio de Economía, se trabaja de noche con las persianas bajadas.
+
+**NARRADOR (TOP)** · Esa noche se estaba escribiendo el corralito. Y nadie fuera de aquella sala sabía lo que iba a pasar con su dinero el lunes.
+
+
+## II · El sábado del decreto  ·  _1 de diciembre de 2001_
+
+**LA CRONISTA** · Día uno. Sábado, uno de diciembre de dos mil uno. El presidente De la Rúa firma el decreto mil quinientos setenta. Lo ha redactado el equipo de Cavallo en los últimos días de noviembre.
+
+**NARRADOR (NEW)** · Según la reconstrucción que publicó La Nación, el límite iba a ser de mil pesos por semana. Luego se habló de quinientos. Al final, se quedó en doscientos cincuenta.
+
+**DOCUMENTOS** · Decreto mil quinientos setenta de dos mil uno. Prohíbense los retiros en efectivo que superen los pesos doscientos cincuenta o dólares estadounidenses doscientos cincuenta por semana, por parte del titular, del total de sus cuentas en cada entidad.
+
+**NARRADOR (TOP)** · Y ese fin de semana, Domingo Cavallo da la cara en televisión. Con calma. Como quien explica un pequeño cambio de horario.
+
+**DOMINGO CAVALLO** · La única limitación es que podrá extraer en efectivo, en billetes o monedas, hasta doscientos cincuenta pesos por semana.
+
+**LA CRONISTA** · El decreto hacía algo más. Limitaba a mil dólares al mes las transferencias al extranjero. Y prohibía sacar dinero del país en efectivo por encima de esa cifra. La puerta de salida también quedaba cerrada.
+
+**NARRADOR (NEW)** · El argumento oficial era proteger los ahorros. Tu dinero seguía siendo tuyo, decía el ministro. Podías pagar con tarjeta, con cheque, con transferencia. Solo el efectivo quedaba limitado. Y solo durante noventa días.
+
+**NARRADOR (NEW)** · El ministro reconoció que las medidas causaban molestias. Pero sostuvo que evitaban algo peor: una derrota de todos los argentinos. La palabra derrota se quedó flotando en el aire.
+
+**DOMINGO CAVALLO** · Estamos para defender su ahorro, su dinero.
+
+**LA CRONISTA** · Había un problema. En la Argentina de dos mil uno, se calcula que solo el uno por ciento de las compras se pagaba con tarjeta. El resto, en billetes. Y millones de personas vivían de trabajos en negro, de changas, de lo que cobraban en mano cada día.
+
+**NARRADOR (TOP)** · El albañil al que le pagaban en efectivo, de repente, no cobraba. El kiosco no vendía. El jubilado no llegaba a la farmacia. El corralito no solo encerró el dinero de los ahorradores. Encerró la economía entera.
+
+**LA CRONISTA** · Y había otro detalle. Desde ese momento, los sueldos tenían que cobrarse en una cuenta bancaria. Millones de trabajadores que nunca habían pisado un banco tuvieron que abrir una cuenta para que les ingresaran un dinero que luego no podían sacar entero.
+
+**LA CRONISTA** · Día tres. Lunes. Los bancos abren y las colas dan la vuelta a la manzana. Hay gente que hace noche en la acera. Hay peleas. Hay quien se desmaya del calor, porque en Buenos Aires diciembre es pleno verano.
+
+**NARRADOR (NEW)** · En los cajeros se forman filas a cualquier hora, para sacar los doscientos cincuenta en cuanto se renueva el cupo. Y los que tienen el dinero en un plazo fijo descubren que ni siquiera pueden tocarlo.
+
+**NARRADOR (TOP)** · Para los grandes, en cambio, el reloj había corrido de otra manera. Porque en las semanas anteriores, quien tenía información y dinero suficiente para moverlo ya lo había sacado del país.
+
+**NARRADOR (NEW)** · Entre los bancos atrapados en el corralito estaban también los españoles. El Santander, el BBVA. Sus clientes argentinos hacían la misma cola que los demás. Y en Madrid, las acciones empezaban a notar el golpe.
+
+**LA CRONISTA** · Día cinco. Miércoles. Llega la peor noticia desde Washington. El Fondo Monetario Internacional comunica que no desembolsará el siguiente tramo de su préstamo: mil doscientos sesenta y cuatro millones de dólares que Argentina necesitaba para pagar su deuda.
+
+**NARRADOR (NEW)** · Sin ese dinero, el impago de la deuda es cuestión de semanas. Y en la calle, la paciencia se está acabando todavía más rápido.
+
+**NARRADOR (TOP)** · Porque lo que nadie en el Gobierno había calculado es lo que pasa cuando a un país entero le quitas el efectivo. No protesta solo la clase media. Protesta el hambre.
+
+
+## III · La caldera  ·  _6 · 18 de diciembre de 2001_
+
+**NARRADOR (NEW)** · Mientras tanto, en las provincias, la crisis llevaba tiempo hirviendo. Muchas no tenían con qué pagar a sus funcionarios y les pagaban con bonos, papelitos que valían como dinero solo dentro de la provincia. Los llamaban patacones, lecops, quebrachos.
+
+**LA CRONISTA** · Día doce. Miércoles. Grupos de desocupados cortan rutas en el conurbano de Buenos Aires: La Matanza, Florencio Varela, San Martín. Les llaman piqueteros.
+
+**LA CRONISTA** · Día trece. Jueves. Huelga general, la séptima contra este Gobierno. Y por la noche, en los barrios de clase media de la capital, empieza a oírse un ruido nuevo. Metal contra metal. Desde los balcones.
+
+**NARRADOR (TOP)** · Ese mismo día, en Mendoza, más de cien personas entran a la fuerza en un supermercado y se llevan lo que pueden. Es el primero. Los saqueos saltan a Rosario, a Córdoba, a Entre Ríos.
+
+**NARRADOR (NEW)** · Lo que se llevaban no eran televisores. Eran harina, arroz, fideos, aceite. En algunos sitios, los propios supermercados empezaron a repartir comida en la puerta para que no les rompieran la persiana.
+
+**NARRADOR (NEW)** · Esos mismos días, organizaciones sociales y sindicatos montan una consulta popular por un seguro de desempleo. Votan millones de personas. Y las cacerolas de los balcones empiezan a sonar cada noche un poco más fuerte.
+
+**LA CRONISTA** · Día dieciséis. Domingo. El presidente insiste en público: ni devaluación, ni dolarización. El uno a uno se mantiene.
+
+**LA CRONISTA** · El efecto en la economía es inmediato. Las ventas se hunden. Las fábricas de coches, de ropa, de materiales de construcción echan el cierre por falta de pedidos. Diciembre, que debería ser el mes de las compras de Navidad, se convierte en el peor mes del año.
+
+**NARRADOR (NEW)** · Y el ministro, lejos de aflojar, presenta un presupuesto para dos mil dos con nuevos recortes, la condición del FMI para volver a prestar.
+
+**NARRADOR (NEW)** · Hasta los senadores de su propio partido, con el expresidente Raúl Alfonsín a la cabeza, piden públicamente que Cavallo se vaya. El presidente lo sostiene. Es la única carta que le queda.
+
+**LA CRONISTA** · Día dieciocho. Martes. Los saqueos llegan al Gran Buenos Aires. En cada barrio corre el rumor de que mañana vienen a por el siguiente súper. Los comerciantes duermen dentro de sus tiendas.
+
+**NARRADOR (TOP)** · Y llega el miércoles diecinueve. El día en que el Gobierno decide que la respuesta no es dar marcha atrás. Es apretar más fuerte.
+
+
+## IV · Estado de sitio  ·  _Miércoles 19 de diciembre de 2001_
+
+**LA CRONISTA** · Día diecinueve. Desde primera hora, los saqueos se extienden por el conurbano, por Santa Fe, por Entre Ríos, por Corrientes. Hay muertos en Rosario. Policías disparando. Comerciantes disparando.
+
+**NARRADOR (NEW)** · En la Casa Rosada, el presidente intenta un gesto de última hora: ofrece al peronismo, que controla el Congreso, entrar en un gobierno de unidad. La respuesta tarda. Y la tarde avanza.
+
+**NARRADOR (TOP)** · Por la noche, De la Rúa aparece en cadena nacional. Todas las televisiones del país. Y anuncia la medida más grave que puede tomar un presidente en democracia.
+
+**FERNANDO DE LA RÚA** · Han ocurrido en el país hechos de violencia que ponen en peligro a personas y a bienes, y crean un cuadro de conmoción interior. Quiero informarles que he decretado el estado de sitio en todo el territorio nacional.
+
+**LA CRONISTA** · El estado de sitio suspende garantías constitucionales. En Argentina, esas palabras se oían por primera vez desde los años de la dictadura. Y el efecto fue exactamente el contrario del que buscaba el presidente.
+
+**NARRADOR (NEW)** · Años después, De la Rúa diría que aquel estado de sitio había sido una medida simbólica. Esa noche, nadie lo entendió así.
+
+**NARRADOR (NEW)** · Minutos después de que termine el discurso, en Buenos Aires empieza a sonar algo que nadie había convocado. Primero una ventana. Luego un edificio entero. Luego toda la calle.
+
+**NARRADOR (TOP)** · Las cacerolas. Miles de vecinos bajan en zapatillas, en camiseta, con la sartén de la cena en la mano. Nadie los ha llamado. Caminan solos hacia la Plaza de Mayo y hacia el Congreso.
+
+**NARRADOR (TOP)** · No hay pancartas. No hay partidos. No hay líderes. Solo el ruido. Un ruido metálico, ensordecedor, que se oye desde los barrios de Palermo, de Belgrano, de Caballito, y que avanza por las avenidas hacia el centro como una marea.
+
+**LA CRONISTA** · Es la clase media. La que votó a la Alianza. La que tenía los ahorros en el banco. Y ahora grita una frase que se convertirá en el lema de toda una época.
+
+**NARRADOR (TOP)** · Que se vayan todos.
+
+**NARRADOR (NEW)** · Pasada la medianoche, la Plaza de Mayo está llena. La policía carga y tira gases. Y en el Ministerio de Economía, Domingo Cavallo presenta su dimisión. El padre del uno a uno se va. Pero la gente no.
+
+**NARRADOR (TOP)** · Al amanecer del jueves, el presidente sigue en su despacho. Sin ministro de Economía. Sin apoyo en el Congreso. Con un país en llamas. Le quedan doce horas en el cargo. Y van a ser las más sangrientas.
+
+
+## V · El helicóptero  ·  _Jueves 20 de diciembre de 2001_
+
+**LA CRONISTA** · Día veinte. Por la mañana, las Madres de Plaza de Mayo hacen su ronda de los jueves, como cada semana desde mil novecientos setenta y siete. Y la policía montada carga contra ellas.
+
+**NARRADOR (NEW)** · Las imágenes de los caballos contra mujeres de setenta años con pañuelos blancos dan la vuelta al país en minutos. Y desde el mediodía, la Plaza de Mayo se convierte en un campo de batalla.
+
+**NARRADOR (TOP)** · Jóvenes, motoqueros, empleados, estudiantes. Se enfrentan a la policía en la avenida de Mayo, en la diagonal, en las calles que rodean la plaza. Piedras contra balas de goma. Y no solo de goma.
+
+**LA CRONISTA** · Ese jueves, en el centro de Buenos Aires, mueren cinco personas. Varias por disparos de armas de fuego. En todo el país, entre el diecinueve y el veinte, la cifra más citada es de treinta y nueve muertos.
+
+**NARRADOR (NEW)** · Mientras tanto, dentro de la Casa Rosada, De la Rúa sigue buscando un acuerdo. A media tarde habla al país y vuelve a ofrecer al peronismo compartir el Gobierno. La respuesta llega enseguida. Es un no.
+
+**FERNANDO DE LA RÚA** · Yo no me aferro a un cargo.
+
+**NARRADOR (TOP)** · Poco después, el presidente escribe su renuncia a mano. Una carta breve dirigida al Congreso. La firma. Y pregunta cómo puede salir del edificio.
+
+**LA CRONISTA** · La plaza está tomada. Las calles de alrededor, también. Salir en coche es imposible. Solo queda un camino. Hacia arriba.
+
+**NARRADOR (TOP)** · Pasadas las siete y media de la tarde, Fernando de la Rúa sube a la azotea. El helicóptero presidencial, un Sikorsky blanco, despega de la Casa Rosada rumbo a la residencia de Olivos. Abajo, en la plaza, la gente lo ve alejarse. Y aplaude. Con rabia.
+
+**NARRADOR (TOP)** · En la plaza, alguien levanta una cacerola hacia el cielo. Otros silban. Otros lloran. Hay quien jura que nunca olvidará el sonido de aquellas aspas mezclado con el de miles de cacerolas. El poder, literalmente, se iba volando.
+
+**NARRADOR (NEW)** · Es la imagen que resume la crisis de dos mil uno. Un presidente que llega a la Casa Rosada en coche oficial y se va por los aires, porque por tierra ya no hay país que lo deje pasar.
+
+**LA CRONISTA** · Y hay un epílogo que casi nadie recuerda. A la mañana siguiente, viernes veintiuno, De la Rúa, ya sin cargo, vuelve a la Casa Rosada poco antes de las nueve. Tiene una última firma pendiente: deroga el estado de sitio que él mismo había decretado. Luego se marcha. Esta vez, por la puerta.
+
+**NARRADOR (TOP)** · Pero cuando el ruido del helicóptero se apaga, queda la pregunta de verdad. Argentina no tiene presidente. No tiene ministro de Economía. No puede pagar su deuda. Y los ahorros de millones de personas siguen dentro de los bancos.
+
+**NARRADOR (TOP)** · ¿Quién los iba a sacar de ahí? La respuesta llegaría en once días. Y de la mano de cinco presidentes distintos.
+
+
+## VI · Cinco presidentes  ·  _20 de diciembre de 2001 · 1 de enero de 2002_
+
+**NARRADOR (NEW)** · Como no había vicepresidente, que había dimitido un año antes, el poder pasa al presidente del Senado. Ramón Puerta, peronista. Gobierna dos días, solo para convocar al Congreso.
+
+**NARRADOR (TOP)** · El domingo veintitrés, el Congreso elige presidente interino al gobernador de San Luis, Adolfo Rodríguez Saá. Y en su discurso de investidura, ante diputados y senadores, hace un anuncio que nadie se atrevía a pronunciar.
+
+**NARRADOR (NEW)** · Por cierto, cuentan las crónicas de aquellos días que el primer jefe de Gobierno extranjero en llamar a Rodríguez Saá, antes incluso de que el Congreso lo eligiera, fue el presidente del Gobierno español, José María Aznar. España tenía mucho dinero en juego en Argentina.
+
+**ADOLFO RODRÍGUEZ SAÁ** · Anuncio que el Estado argentino suspenderá el pago de la deuda.
+
+**LA CRONISTA** · La mayoría de los legisladores se pone en pie y empieza a gritar: ¡Argentina! ¡Argentina! Es el mayor impago de deuda soberana de la historia hasta ese momento. Más de sesenta mil millones de dólares en bonos dejan de pagarse.
+
+**NARRADOR (NEW)** · Rodríguez Saá promete un millón de puestos de trabajo y mantener el uno a uno. Pero los cacerolazos no paran, los gobernadores de su propio partido le retiran el apoyo y, a los siete días, también dimite.
+
+**NARRADOR (TOP)** · El final de Rodríguez Saá es casi una escena de película. Convoca a los gobernadores a una cumbre en la residencia de Chapadmalal, junto al mar. Casi ninguno aparece. Entiende el mensaje, vuela a su provincia, San Luis, y desde allí anuncia su renuncia por televisión.
+
+**LA CRONISTA** · Durante tres días ocupa el cargo el presidente de la Cámara de Diputados, Eduardo Camaño. Y el uno de enero de dos mil dos, el Congreso elige a un quinto presidente, el que debía terminar el mandato. El peronista Eduardo Duhalde.
+
+**NARRADOR (TOP)** · En su discurso de toma de posesión, Duhalde mira a los ahorradores a los ojos. Y les hace una promesa que todavía hoy recuerda cualquier argentino que tuviera una cuenta en el banco.
+
+**EDUARDO DUHALDE** · El que depositó dólares recibirá dólares.
+
+**NARRADOR (TOP)** · Cinco días después, esa promesa ya no existía.
+
+**NARRADOR (TOP)** · ¿Qué pasó en esos cinco días? Que alguien hizo las cuentas. En los bancos no había dólares suficientes para devolver todos los depósitos en dólares. Muchos ya se habían ido del país. Y los que quedaban estaban prestados. Para cumplir la promesa, habría que inventarlos.
+
+**NARRADOR (NEW)** · Recapitulemos. En diciembre de dos mil uno, Argentina congeló los depósitos, perdió a su presidente, dejó de pagar su deuda y tuvo cinco jefes de Estado en once días. Pero lo peor para los ahorradores todavía no había llegado.
+
+**NARRADOR (TOP)** · Si estás disfrutando de esta historia, suscríbete a DocuVox: es gratis y nos ayuda a hacer más documentales como este. Ahora sí. Vamos a ver qué pasó con el dinero.
+
+
+## VII · El corralón  ·  _2002_
+
+**LA CRONISTA** · Seis de enero de dos mil dos. El Congreso aprueba la Ley de Emergencia Pública. La convertibilidad, el uno a uno que había durado casi once años, muere oficialmente. El peso se devalúa.
+
+**NARRADOR (NEW)** · Pero el dinero sigue encerrado. Y se encierra todavía más. Los plazos fijos quedan reprogramados: te los devolverán, sí, pero dentro de años. Al corralito le sale un hermano mayor. El corralón.
+
+**NARRADOR (TOP)** · Y en febrero llega el golpe definitivo. La pesificación. Todos los depósitos en dólares se convierten a la fuerza en pesos. A uno con cuarenta pesos por cada dólar.
+
+**LA CRONISTA** · Uno con cuarenta parecía razonable. El problema es que el dólar, ya libre, no se quedó ahí. En pocos meses llegó a rozar los cuatro pesos.
+
+**NARRADOR (TOP)** · Haz la cuenta. Si tenías diez mil dólares en el banco, te devolvían catorce mil pesos. Y con catorce mil pesos, en la calle, podías comprar unos tres mil quinientos dólares. Si aceptabas los pesos, habías perdido casi dos tercios de tus ahorros. Sin hacer nada. Sin tocar nada.
+
+**NARRADOR (NEW)** · Y había una segunda trampa. La pesificación fue asimétrica. Los depósitos se cambiaban a uno con cuarenta. Pero las deudas en dólares, a uno por uno.
+
+**LA CRONISTA** · Quien debía cien mil dólares, de repente debía cien mil pesos. Un regalo para los grandes endeudados, entre ellos muchas empresas. La diferencia la pagó el Estado, con nuevos bonos, y la pagaron los ahorradores. El propio Duhalde reconocería años después que su frase había sido un error.
+
+**EDUARDO DUHALDE** · Decir que el que depositó dólares recibiría dólares fue un error.
+
+**NARRADOR (TOP)** · Imagina por un momento que eres tú. Que tienes los ahorros de toda una vida en un plazo fijo en dólares. La entrada de un piso. La jubilación. Y que un día, por decreto, alguien decide que ya no son dólares. Y que lo que te queda vale un tercio.
+
+**NARRADOR (TOP)** · La reacción fue furiosa. Durante todo dos mil dos, miles de ahorradores se plantan cada semana frente a los bancos. Golpean las persianas con martillos. Pintan las fachadas. Y los bancos responden blindando las puertas con planchas de metal.
+
+**LA CRONISTA** · Los tribunales se llenan de recursos de amparo. El uno de febrero, la Corte Suprema declara inconstitucional el corralito en el caso de un ahorrador. Quien tenía abogado y paciencia, a veces, recuperaba algo más. Quien no, se quedaba con lo que le dieran.
+
+**LA CRONISTA** · A quien no quería pesos, el Gobierno le ofreció otra salida: cambiar su depósito por bonos del Estado en dólares, los Boden, que se irían pagando a lo largo de diez años. Quien aguantó hasta dos mil doce recuperó buena parte de sus dólares. Pero tuvo que esperar una década.
+
+**LA CRONISTA** · El corralito, el de los doscientos cincuenta pesos, se levantó oficialmente el dos de diciembre de dos mil dos. Había durado un año. Los plazos fijos del corralón tardaron todavía más.
+
+**NARRADOR (NEW)** · Mientras tanto, el país se hunde. El paro supera el veintiuno por ciento. La economía cae a una profundidad que no se veía en generaciones. Y en octubre de dos mil dos, más de la mitad de los argentinos, el cincuenta y siete y medio por ciento, está bajo la línea de la pobreza.
+
+**NARRADOR (TOP)** · La gente se las arregla como puede. Se multiplican los clubes del trueque: cambias una tarta por unas zapatillas, unas clases de inglés por una docena de huevos. Y por las noches, miles de cartoneros recorren las calles buscando papel y cartón para vender.
+
+**NARRADOR (NEW)** · Una película argentina de dos mil diecinueve con Ricardo Darín, La odisea de los giles, contó esta historia desde el pueblo: unos vecinos que juntan sus ahorros para montar una cooperativa y los pierden en el corralito. Su título lo dice todo. Los giles. Los ingenuos. Los que confiaron.
+
+**NARRADOR (TOP)** · Argentina tardó años en levantarse. Y desde entonces, la palabra corralito viaja sola por el mundo. Hasta que, en dos mil trece, aterrizó en Europa.
+
+**NARRADOR (TOP)** · Y ahí empieza la parte de esta historia que nos toca más de cerca. Porque lo que pasó en Buenos Aires parecía imposible en Europa. Hasta que pasó.
+
+
+## VIII · ¿Y en España?  ·  _Chipre · Grecia · el Popular_
+
+**LA CRONISTA** · Chipre. Marzo de dos mil trece. Un país del euro, con bancos gigantes para su tamaño, pide un rescate a la Unión Europea y al FMI. La condición incluye algo que nunca se había hecho en la eurozona.
+
+**LA CRONISTA** · El primer plan, pactado un fin de semana en Bruselas, cobraba un impuesto del seis coma setenta y cinco por ciento incluso a los depósitos de menos de cien mil euros, los que se suponía garantizados. Los chipriotas corren a los cajeros. Y el diecinueve de marzo, el Parlamento de Chipre lo tumba: ni un solo voto a favor.
+
+**NARRADOR (TOP)** · La versión final salvó a los pequeños ahorradores. Pero Europa había cruzado una línea: por primera vez, el dinero de los clientes servía para pagar el rescate de un banco.
+
+**NARRADOR (NEW)** · Los bancos chipriotas cierran casi dos semanas. Cuando reabren, solo se pueden sacar trescientos euros al día. Y los depósitos de más de cien mil euros sufren una quita: en el Banco de Chipre, casi la mitad de lo que superaba esa cifra.
+
+**LA CRONISTA** · Grecia. Lunes, veintinueve de junio de dos mil quince. Los griegos se despiertan con los bancos cerrados y un límite de sesenta euros al día en los cajeros. Los bancos tardan tres semanas en reabrir. Y los últimos controles no se levantan hasta dos mil diecinueve.
+
+**LA CRONISTA** · Grecia vota en referéndum el cinco de julio. Gana el no a las condiciones del rescate. Una semana después, su Gobierno acepta un acuerdo todavía más duro. Con los bancos cerrados, el margen para negociar se había esfumado.
+
+**NARRADOR (NEW)** · En España, el miedo tuvo fecha. Mayo de dos mil doce, cuando Bankia pidió el rescate. Aquella semana, el Nobel de Economía Paul Krugman llegó a escribir en el New York Times que veía venir el fin del euro y corralitos en España. Los ministros salieron a desmentirlo. Y no pasó. Pero el susto quedó.
+
+**NARRADOR (TOP)** · Y España. Siete de junio de dos mil diecisiete. El Banco Popular, el sexto banco del país, amanece intervenido. La Junta Única de Resolución europea lo vende al Santander por un euro.
+
+**DOCUMENTOS** · Nota del FROB, siete de junio de dos mil diecisiete. A través de esta decisión se garantiza la seguridad de los depositantes de Banco Popular y la ausencia de impacto para las finanzas públicas.
+
+**NARRADOR (NEW)** · Los clientes del Popular no perdieron un euro de sus depósitos. Los accionistas y algunos bonistas, en cambio, lo perdieron todo. Y ahí está la primera clave para responder a nuestra pregunta.
+
+**NARRADOR (TOP)** · Entonces, ¿podría pasar en España un corralito como el argentino? Vamos a separar lo que te protege de lo que no.
+
+**LA CRONISTA** · Lo que te protege, primero. Argentina guardaba sus ahorros en una moneda que su Banco Central no podía fabricar: el dólar. Cuando se acabaron los dólares, se acabó el juego. España usa el euro, y detrás del euro está el Banco Central Europeo, que puede prestar a los bancos solventes el dinero que necesiten, siempre que aporten garantías.
+
+**LA CRONISTA** · Segundo, el Fondo de Garantía de Depósitos. Si tu banco quiebra, cubre hasta cien mil euros por titular y por entidad. Es una norma europea, igual en los veintisiete países de la Unión.
+
+**NARRADOR (NEW)** · Y hay una tercera diferencia. La deuda argentina estaba en dólares: había que conseguir dólares para pagarla. La deuda pública española es alta, ronda el cien por cien del PIB, pero está en euros, la misma moneda en la que se cobran los impuestos.
+
+**NARRADOR (NEW)** · Ahora, lo que no te protege del todo. Grecia demostró que, dentro del euro, si el Banco Central Europeo deja de dar liquidez a los bancos de un país, esos bancos cierran. Ocurrió en plena negociación del rescate griego. Y lo que el Fondo de Garantía protege es tu dinero si un banco quiebra, no que puedas sacarlo cuando quieras.
+
+**LA CRONISTA** · Además, desde la reforma de dos mil diecinueve, la normativa bancaria europea permite a las autoridades suspender los pagos de un banco en apuros hasta dos días hábiles, mientras deciden qué hacer con él. Es un corralito pequeño, con nombre técnico: moratoria.
+
+**NARRADOR (TOP)** · Y Chipre enseñó la regla que más conviene recordar: por encima de los cien mil euros por persona y por banco, tu dinero no está garantizado. Si el banco cae, puede usarse para rescatarlo.
+
+**LA CRONISTA** · Hay algo que sí está en tu mano comprobar. Por ley, el contrato de cualquier depósito en España tiene que informar de qué fondo de garantía lo cubre y hasta qué cantidad. Y el límite de cien mil euros se cuenta por titular y por entidad, no por cuenta: dos cuentas en el mismo banco suman.
+
+**NARRADOR (NEW)** · Así que la respuesta honesta es esta. Un corralito como el argentino, con el dinero atrapado durante años y los ahorros convertidos a la fuerza en otra moneda, necesitaría algo que hoy no se ve en el horizonte: que España saliera del euro de forma desordenada. Un cierre bancario de días, o pérdidas en grandes depósitos de un banco que quiebra, en cambio, ya han pasado en Europa. Y la ley lo permite.
+
+**LA CRONISTA** · Un último dato para ponerlo en perspectiva. El Fondo de Garantía de Depósitos español cubre hoy más de novecientos mil millones de euros. Es una cifra enorme. Y, como todos los seguros, está pensado para que quiebre un banco. No para que caigan todos a la vez.
+
+**NARRADOR (TOP)** · Veinticinco años después, en Buenos Aires todavía hay quien guarda los dólares debajo del colchón. No es una manía. Es memoria. Porque en diciembre de dos mil uno, los argentinos aprendieron que una ley que promete no tocar tus ahorros dura lo que tarda otro Gobierno en escribir otra.
+
+**NARRADOR (NEW)** · El corralito no empezó con un decreto. Empezó mucho antes, con una moneda atada al dólar, con una deuda que nadie quería mirar y con un sistema que funcionaba mientras todos creyeran en él.
+
+**NARRADOR (NEW)** · La historia del corralito no es solo argentina. Es la historia de qué pasa cuando un Estado promete algo que no puede cumplir, y lo sostiene hasta el último día. Uno a uno. Intangibilidad. El que depositó dólares recibirá dólares. Tres promesas. Las tres rotas.
+
+**NARRADOR (TOP)** · Porque un banco, al final, no es una caja fuerte. Es una promesa. Y el día que la gente deja de creer en ella, ninguna puerta es lo bastante gruesa.
+
+**NARRADOR (TOP)** · Si te ha gustado esta historia, suscríbete a DocuVox y cuéntanos en los comentarios: ¿tú sacarías el dinero del banco? En el próximo documental seguimos tirando del hilo del dinero. Nos vemos.

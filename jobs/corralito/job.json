@@ -11,6 +11,22 @@
   }
  ],
  "lugares": {
+  "montevideo": [
+   "montevideo"
+  ],
+  "brou": [
+   "banco de la república oriental",
+   "banco de la republica oriental",
+   "brou"
+  ],
+  "batlle": [
+   "jorge batlle",
+   "batlle"
+  ],
+  "mardelplata": [
+   "mar del plata",
+   "mar_del_plata"
+  ],
   "rosada": [
    "casa rosada",
    "casa de gobierno",
@@ -280,7 +296,7 @@
  "qpicks": {},
  "split_still": 5.0,
  "picks": {},
- "rev": 2,
+ "rev": 3,
  "units": [
   {
    "k": "B",
@@ -302,16 +318,12 @@
      "lugar": "rosada"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "heli_azotea"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/b10d/b0fe/4c2d203f756362f09357f6c234d661fa.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kgqRtBLWUoWLdxZXOjWwT0E5EC-xaXLqrJEpYDfcm9VhqwGY2GvcgG7RB7-w0QL8btlmogGkIJwWiMT80aVbgNhLSg1HRW~FXOAuyT3mxEV91RkeA4WBpjCydGFIl5hO3lBNvyI1IkDtnD5GZAiwcj3klUTwXMJFSyku2E9PllfD7wkB414JSmvCsTA2PbhtJH5MRSgPPYrvU68pkmaJPXQ0R~RYsM0WtU0OxlqsCozIwwllPp1Ch8fG6XWDxecJ0aWOMZOd8g2zqiLyCoMs7Kf-tq3a-~fZ3WkrXPdiBdMwS9wt8EE-SH7xvTGH9C8aDW2Q5ImXIo2nxey0~e5sew__",
      "at": "un helicóptero blanco"
     }
    ],
    "gen": "922srqU5YjMPdrNyxUXw",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/H7yqterUEJ0TZCiLtA6M/922srqU5YjMPdrNyxUXw/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=g3-0sNkhc2-4Be6j6izrkh4tAJE="
+   "url": "jobs/corralito/voz/922srqU5YjMPdrNyxUXw.mp3"
   },
   {
    "k": "N",
@@ -319,32 +331,20 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "plaza_gas"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/e2ac/14d6/16f2d480b6f701d1b12071ab76c52574.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VaBRevwSrRSjZPLg1xLCQytCALkbnGQ-9w5LUq8Ey8BkUPZeN8ZbplRqZ95WzM2KaBqF9YA4Hdt4WdFoc7RucubkbMhM72W5I7jzaQXN3~hgtgrgnblFxyx85g7k2p8pkdwerGvt-bLg2a1sKBS14~9mGtbcAt33EnzGUWSFykRbbe6NuSlS3OvaEvWMufkIsihWofx1QoOInX~AKWqtLW6ymOy~-cNNsMaSFV9Q~Zz7XeQ-vSRzWKEl0TtoRKU3b89WGJKMD3JS6J3wqJPYzv62KG9Mn3EFZ08AmnsvVIMJwfTSUBp6yoili3MAvJR9XmNTmbzZ7bc8znH6A~u3LQ__",
      "at": "huele a gas lacrimógeno"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "caballos_carga"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/5e14/535d/edcd07867130be225e25f66a4a744162.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Xm8lMDkFiQ9vjJiSwTBtHwjswfV5xIaU4u0ciuWyxxbIZOk~DC21xesAph7I3iL59fC0r-TIYO7O0pl4JfgLuJj3hUxKMTkLHfYuwAyQCe0iFSarRwjQa-dW~wa-ewlvYAmqLykst-JKjSlstCAy0Y-~isfCSy~XZ9Inm-2AGbn6HrhwO-usqlioOPhxY6M0rWh89Xwj6sGke~uBkennjiPlR5XjHFwwx4kDCrq7aikDK8omS8jDGkW9rc6hi1cHvk1uOjo8~juJkwxi6IlHYDrIWjGIaOAlRuBH4ZbxM~Z9cyMX-12Pw9nsu-rk1cKJckz6AvkSKyJc3tmxmlo94Q__",
      "at": "caballos de la policía"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cacerolas_mil"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/6daf/6b69/4157ee5d4264430c35a3b1d580342d96.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=UjWau22JYdmlF-c9SFcGgVygz6ZwBjdcL7BRcXQQM0cwLWXcHHe~QMu5z0WznU8X95WANmrt6T2F-WG3hchV-RhKY4fARvas0kU6Nk0HcexCr4-4iId8mZraP~1p5Irfg42aD2xq68xUiHXC-r~wyEeXdDb~30zozrHkFMX2VZ0vkC0U61Pk0uMlHOutw3MKPjKUL~NRBE2iczZXN5tp8qS203~1T5obk2ULi6Ebi8~zaKidZLJIhaBRDT4GRm3SGGHxXDqiFbGTYccLqz0RU841W1IWBg5bX2JDCvsanPSkQ6EhwbtbiHkbCGLbb~uCD-KArRh71zwNLXJ8BvoTzg__",
      "at": "golpeando cacerolas"
     }
    ],
    "gen": "8gmUeX4izjXfkoC61SRT",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KCUMHyJsT7WwHdyx4jbs/8gmUeX4izjXfkoC61SRT/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=2DEVnAOUvp3wIAXwWWjQz9_r_W4="
+   "url": "jobs/corralito/voz/8gmUeX4izjXfkoC61SRT.mp3"
   },
   {
    "k": "N",
@@ -363,16 +363,12 @@
      "lugar": "delarua"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "heli_despega"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/7275/407f/77a354fed162473163bcc70e8af7cd7b.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=lpetyYPm-5VAreQwbc4fO~06EcIwtp4eFmnJZ5Dffw1ZwUebYCoZNhP58hEM-9Vc5YQudgtSM4iyi6MjMpG4S~xoJNmzp4YEuJ6gUKJ2rqViPEXLXPheO5N8WL2zbYga5AtHVKRQRYL9yYr9FDTntFrhudxXiEeRvD~GTGiRYrZp7xFQUizJnD7Odl2pLf7WRb89T-6GH2J8xfvtoHT-x8R-7MpTAlFSDQnmUUmgeuO7FjPFw9lHZP8L-g5C5sa2g8DT8~4pvUxrlZcoITIoClfWJCvnbjkRsz~0Chs9ePPju8Ew~ZJ2FIlnVa3gisRcF2tDs2KE5rMh5V01ho4FLQ__",
      "at": "se marcha volando"
     }
    ],
    "gen": "ymVbRUZsXBSgNY1TytgR",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/affPzIMzSdO24bkLchK8/ymVbRUZsXBSgNY1TytgR/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=yHG9R4m8JF6lVZCSIAh2YBrdbC8="
+   "url": "jobs/corralito/voz/ymVbRUZsXBSgNY1TytgR.mp3"
   },
   {
    "k": "R",
@@ -389,16 +385,12 @@
      "at": "Treinta y nueve muertos"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "persiana_martillo"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/b23a/8e48/ec24bc836c55666f4e4fe42dae0a599a.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=dNsafoaXz6agS5neScz~JXB-zTpS7bMFuyHNmAGC6Ams5UXVLpw5q53KgPWsgZbpeoR9d9CCW73P73c8xnlK9p~MNWgVEmXbcOigvuYrhGOkYgAEFBgN3fYm95bscl2UdTuqPjQgqEeIgLebTrS8eqCV79fsLDG9PW1Eh78hgLvVMUBZRQhNg3SUTfgrRYVs09660d3G~57byPnJc0g5iDfd3K3o0RVShL9qd5PrKbXo6LVj44hGq11G4e7HoUiPmr3aWiU2t0KHmIryzh740VicIs05Ef9xlPZUXRVxvxMKqDG0bJSBMQMZBp-gOF6ORQe7Vt0q1njPkCBkc34Zyw__",
      "at": "persianas de acero"
     }
    ],
    "gen": "jyFQhZrudWqUa9hmMcyV",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jlvDL0yyXHcIxeIv5hDl/jyFQhZrudWqUa9hmMcyV/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=wJebnNXLM0s0t1UFLE7J6CC_7oU="
+   "url": "jobs/corralito/voz/jyFQhZrudWqUa9hmMcyV.mp3"
   },
   {
    "k": "N",
@@ -426,7 +418,7 @@
     }
    ],
    "gen": "YD5QhwGTeNpzQSvQuX1W",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pqS2qQyR74EFUOqsmSEa/YD5QhwGTeNpzQSvQuX1W/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=n0s0XCUiR6wKuU4z4P9l-h7-Xew="
+   "url": "jobs/corralito/voz/YD5QhwGTeNpzQSvQuX1W.mp3"
   },
   {
    "k": "N",
@@ -434,16 +426,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "corral_banco"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/a97b/a93f/fbc184c45fab83c328a6c08e86ce52f9.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=fUoHwDnDQPrjeJVwkXRrtBrxEm~zcN1cCod5XTfP4QhmHe36vxD9loeYvv-pafZNZEvsmFxHf7doTOOGfqLNf5Jiw0aQcaTO83-R7FS~SQNvd3vMlk4eWWwxfXMEuNlYPaV-GBmLPaPq0W9aYf1qFy0eK-B0h7rA2EZpr107vDqC7lQyjBuyuDeDVGkIR2EwZhSE3z~eSdg2Rv~k0aJMNAs3s4sFhzEdKMlyqsd3NpyLUF~S-keco6LnMchH6Mt-TykbYvX9ASzjNajIpSspQ-8iT7CymrhSiY5Y-mKhN2dr0WqYssRINinsqqyZN9eAwAMi1oXsGIButVG8DiPbDg__",
      "at": "El corralito"
     }
    ],
    "gen": "cI9Dyg2QHoqfba2ALCX4",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hXGOFq3yYnmolwY1ltP1/cI9Dyg2QHoqfba2ALCX4/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=JI20SzReANzG7oIk47aG9KHRamI="
+   "url": "jobs/corralito/voz/cI9Dyg2QHoqfba2ALCX4.mp3"
   },
   {
    "k": "N",
@@ -451,24 +439,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cajero_cola_europa"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/766f/63c9/4c49a87a01d85e2d865d7ad7d1e9e4b3.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=O80T5JlOFlz~FoTdARrEbZf6GtSRa5VctUKGWZ4PmLo6fawPKhd2BrGtrOe2q3KERs2Bn3jgdgRbQ-Kj95upQWxO~c1guvjQ1ruiOuRFsTzJPl6sZ-Jm~wklopZM9yVNTO38JhDpiwkeO5UilsGjqFTPYZuzw-SSTF31VDJApE27E7PNIVXCVSGPItR~DFIwaHrgpBYNgDGpUVSJ4TwStkTaJX7zrHt92WCLTHJLcOiBgb7KKPWi~TOWADIev5ttci-wp4vmOf7MBk7KKVbRinyi89GR1WtUZStT5H3MaEWcOzptUQIhBbT2FaxpRg4-G8805DDaN3XwzhcukVJY6Q__",
      "at": "La oímos en Chipre"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "susurro"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/51d2/04b9/1f1de6caddd1a842654bd38974a12199.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=eg1-dOKvdh4nN6XMlrH~pXsKUaF7nML0Gi-EBWusgw~jXifFHLkiFXtSBPasWEoeQVpYU~iDg~48OcF5o8TtpX-qzHj-XGeeXeo5KA3v4ueCekTjOdDErib7rhQPO99-Y7HqBIxxwjbFhz~kfCzF5XYFsxFUsM4Hlt63lEcrweQ0Ww6GULe~-ZHLEuFZMjnEekCoKEzADWZycjwHRqbM95Wmvqh3bwFeQkRl88YRl0Y~LEazdjL-GBCFI1QsF08LaBs88L-ew8kLmzhb0y9juFukNjdYnghBg3S4iRul1jYX7w5jpQTZUiaoyg9HgHJHJbq55SaxxCHkg1eMhANLLg__",
      "at": "alguien la susurra"
     }
    ],
    "gen": "rCHwo0MOTHGxYF7wlecU",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/peCZfVCWZuy3vO3GsCME/rCHwo0MOTHGxYF7wlecU/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=6ld0kRipp7SZyHUNyQ3Dne28YL4="
+   "url": "jobs/corralito/voz/rCHwo0MOTHGxYF7wlecU.mp3"
   },
   {
    "k": "N",
@@ -476,24 +456,16 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "caja_fuerte_vacia"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/6b91/11b8/77c681a2b470496fecbb9257d10ed610.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=dng-67jb-DCmZmjA6X3jMCNun0PsjugNyjKSgSAmqzmsyNVjLkLeErPz~YF18ayJrRjWAshLhTGEslaWCTWnYOPuBUB8K1wXpnTIlNT~NJPvPBeB81IJIppM3KO~PYV7-rEIWVFtlLt1mn8v7BmR48NMDF4013-V7OoxNqFA7~bY4kMc0uZTZgJH~QPL7Gzh-BwevpgoM8jWmKIhXYDpTbQyhYjvai13xtgS8-A1fiKkCfnc92LeJPNIAh0Z~fEisXqPPZpNbJXfqzMX3nvj0JdgFaX9fQ3fSkgZughHE57Qx1Ixfu6YoJwZP-ONLVhplte5vbLaYcoLDfR3HdsANg__",
      "at": "Quién se llevó los dólares"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "mapa_puente"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/a2f6/42fd/f6fb832c04e63a509ac814ae8638fed1.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sgEuxmwOTAoHgxC8jNxGUfkh76lTKoMJMw9zlEpfX7c25XO9FmCHW2b~xdjzlAb4IXVQjKvIw7~5k8MiJIw4oDzrj1XbsmqtOhPuvB4qj7ZohN8mFC~UCfxlIVDqsLzskgLIZCuEcHoYzRw5XTWWAEwb10eU6rHKVFUkVn4QxnZyUxuejdbkTE7a0cIgVu3A-qvZ9tWbp5e7KoPYKXdmaZsHFcvxUtwBy~HBCFIM0ghIdkwK1idIir7vCfsoAJ1HU8heFvmBsyTxqdVcejgQTBH1zoEDFMtv5FNg5WElJVqZXmwq-YMwbf-fMchLLT3I2MyqYoKkgG~FlQ3-lp7NTg__",
      "at": "podría pasar en España"
     }
    ],
    "gen": "H4jSVjL8OPYZKo8pLr7O",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0LHGhOmkhg6FyN89qePo/H4jSVjL8OPYZKo8pLr7O/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Sn3T3J-cqQRAc3mxdhcu4UXSpQY="
+   "url": "jobs/corralito/voz/H4jSVjL8OPYZKo8pLr7O.mp3"
   },
   {
    "k": "T",
@@ -508,7 +480,7 @@
     "sub": "El día que los bancos se quedaron tu dinero"
    },
    "gen": "3Hp85PW1cc1OWHvDJcNY",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qZ110FdB2xR2aHqK0cxM/3Hp85PW1cc1OWHvDJcNY/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=HtW1StmnDEL8tafc7PhgM1H_-Tc="
+   "url": "jobs/corralito/voz/3Hp85PW1cc1OWHvDJcNY.mp3"
   },
   {
    "k": "T",
@@ -542,16 +514,12 @@
      "at": "más de treinta"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "hiper_precios"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/bfd3/db3c/b6d9fbc9f1b837ac79ab256560d8e1fb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d22a1ef2e4cb672b11184373ed8451869098baadcb6b83abdaf31dcf3f1989d4",
      "at": "Hiperinflación"
     }
    ],
    "gen": "KttbM1VTQUIv6IX7xRkv",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Cp5RVUZMy4oGxYEO3SlO/KttbM1VTQUIv6IX7xRkv/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=jWakJbsN7yD2oqt0S50GDiWJD-Y="
+   "url": "jobs/corralito/voz/KttbM1VTQUIv6IX7xRkv.mp3"
   },
   {
    "k": "N",
@@ -559,24 +527,124 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "sueldo_corre"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/d4c4/bbc6/e58b2fcdc9e1df4e6ca49370d59abd0a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=830dba22aabfbcc980718c9f5f33303fb90c4fe7433779097067fe2daecddd06",
      "at": "Los sueldos se cobraban"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "billetes_viento"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/d7b1/e84f/6d6717098c497b060ae54491586bcdcf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=13f14dea5f4d6384fbedf3bfde12c56cdb9d190e488436d95d9277060d35395f",
      "at": "valiera menos"
     }
    ],
    "gen": "8WfRPWhL01ht0eKl7GCE",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/G0RzrsbMJ4wpP0oizfon/8WfRPWhL01ht0eKl7GCE/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=RvAqWGKyNU3IxeTbfRVxnrLvzaA="
+   "url": "jobs/corralito/voz/8WfRPWhL01ht0eKl7GCE.mp3"
+  },
+  {
+   "k": "N",
+   "text": "[serious] Y antes del milagro, hubo un aviso. Uno que casi nadie recuerda fuera de Argentina.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f6dd/1f62/6bbc13c578abd1ce2ebf609987627e71.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=35ef81c01582bae9d81fa893e9c338e28781108722222231cd74fdd954f3d106",
+     "at": "hubo un aviso"
+    }
+   ],
+   "gen": "VD9J3RWJqs2aADl4wEcm",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/N7uYHHv97vurJy2EdXC9/VD9J3RWJqs2aADl4wEcm/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=Eth_ZgqnwP2XXGp0G17aIpzpJOs="
+  },
+  {
+   "k": "R",
+   "text": "Veintiocho de diciembre de mil novecientos ochenta y nueve. En la Casa Rosada, el ministro de Economía de Menem, Antonio Erman González, anuncia que los plazos fijos se van a canjear a la fuerza por bonos del Estado. Los Bonex ochenta y nueve. En dólares, sí. Pero a cobrar en diez años.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "photo": "Casa Rosada Buenos Aires",
+     "src": "commons,loc,europeana",
+     "at": "En la Casa Rosada",
+     "lt": [
+      "Casa Rosada",
+      "Buenos Aires"
+     ],
+     "lugar": "rosada"
+    },
+    {
+     "card": {
+      "type": "doc",
+      "title": "Plan Bonex · Decreto 36/1990",
+      "lines": [
+       "Plazos fijos canjeados por Bonex 89",
+       "Bonos en dólares a 10 años",
+       "Vencimiento: 1999"
+      ],
+      "source": "Boletín Oficial · 3 de enero de 1990"
+     },
+     "at": "Los Bonex ochenta y nueve"
+    }
+   ],
+   "gen": "eDGVJvEprwpydmpjFe9n",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bG7vXNkt5HC1AYZ38uXo/eDGVJvEprwpydmpjFe9n/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=OsHzN1gv8R_6iQplRkntkORSbU0="
+  },
+  {
+   "k": "R",
+   "text": "Decreto treinta y seis de mil novecientos noventa. Para que la moneda nacional recupere su valor adquisitivo, resulta imprescindible limitar la circulación en australes a lo estrictamente necesario.",
+   "voice": "DOC",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Resulta imprescindible limitar la circulación en australes a lo estrictamente necesario.",
+      "attrib": "Decreto 36/1990 · Poder Ejecutivo Nacional"
+     },
+     "at": "Decreto treinta y seis"
+    }
+   ],
+   "gen": "3pOh9L4iBHwTLzX2DarT",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/sBkk5I9mRQ6IXwwQJvcc/3pOh9L4iBHwTLzX2DarT/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=Fvk6VNUr1XpAZw5YErd89juFJIY="
+  },
+  {
+   "k": "N",
+   "text": "El canje afectaba a todo lo que pasara de un millón de australes, unos quinientos cincuenta dólares de la época. Y quien necesitaba el dinero ya, tenía que vender esos bonos en la calle. Según Javier González Fraga, que presidió después el Banco Central, llegaron a cotizar al treinta por ciento de su valor.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/d7b1/e84f/6d6717098c497b060ae54491586bcdcf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=13f14dea5f4d6384fbedf3bfde12c56cdb9d190e488436d95d9277060d35395f",
+     "at": "vender esos bonos"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 100,
+      "to": 30,
+      "label": "por ciento de su valor · lo que llegaron a cotizar los Bonex (según González Fraga)",
+      "suffix": " %"
+     },
+     "at": "al treinta por ciento"
+    }
+   ],
+   "gen": "31ucmp3uoNX4XjX75yB1",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mxIdAyaWKWCw0Db0nW7A/31ucmp3uoNX4XjX75yB1/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=OdKI_EscEVYE96c4kC2TcY3l5Fw="
+  },
+  {
+   "k": "N",
+   "text": "La Corte Suprema dio por bueno el decreto. Y los argentinos aprendieron una primera lección: un plazo fijo podía convertirse, de la noche a la mañana, en un papel a diez años. [pause] Doce años después, esa lección volvería. Multiplicada.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "photo": "Palacio de Justicia de la Nación Buenos Aires",
+     "src": "commons,loc,europeana",
+     "at": "La Corte Suprema",
+     "lt": [
+      "Palacio de Justicia",
+      "Corte Suprema · Buenos Aires"
+     ],
+     "lugar": "tribunales"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2514/7dc4/2ec5883071b2ea7f32089e3c90668a7c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f2faa97a0714d947f7a67979bd0265938d0667df8604851381c2552709e0db75",
+     "at": "Multiplicada"
+    }
+   ],
+   "gen": "Z3qmOhV6GYYs4VsWcZKW",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OX0dHuQJfVrfNaNstGLO/Z3qmOhV6GYYs4VsWcZKW/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=OLc9Eh2yESOFWZeNmaF3Wx-i0FI="
   },
   {
    "k": "N",
@@ -620,7 +688,7 @@
     }
    ],
    "gen": "1hL2xwmbKBqLY5ccsgaC",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dkOGlCnuxMydERg6cpOm/1hL2xwmbKBqLY5ccsgaC/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=J-hhYFGEO_WIAEOCbIv8Rv7-i3E="
+   "url": "jobs/corralito/voz/1hL2xwmbKBqLY5ccsgaC.mp3"
   },
   {
    "k": "R",
@@ -659,7 +727,7 @@
     }
    ],
    "gen": "SX5yVPGFtNqu6UmcUulB",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kTMPxN0i13XDFjCIkQsS/SX5yVPGFtNqu6UmcUulB/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=S96iOjedg6M5MgKDIwOYEx_MGcc="
+   "url": "jobs/corralito/voz/SX5yVPGFtNqu6UmcUulB.mp3"
   },
   {
    "k": "N",
@@ -667,24 +735,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "billetes_lado"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f6dd/1f62/6bbc13c578abd1ce2ebf609987627e71.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=35ef81c01582bae9d81fa893e9c338e28781108722222231cd74fdd954f3d106",
      "at": "un billete de un peso"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "altar_moneda"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/03aa/6973/22b932b8060226b4d95e5a6a27efb0fb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=36b9a64ebba111b2f5cb5ecd0b622c59ebd6f8e140c0ae117c07d63b2137baa0",
      "at": "casi una religión"
     }
    ],
    "gen": "bMnDzPkbl1atdUIWXuIe",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4SijjnkCqOfyCaIcUfDj/bMnDzPkbl1atdUIWXuIe/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=AM0174KdeQGS1HKbvA-hxkXsQ7o="
+   "url": "jobs/corralito/voz/bMnDzPkbl1atdUIWXuIe.mp3"
   },
   {
    "k": "N",
@@ -692,24 +752,16 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "aeropuerto_miami"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7eed/434f/50194c057e72ab1a3054106bfd7ff1d3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=def9bf8014da379c89423f2cd0d939044d69416c9648e8419b97f8c239ed9c56",
      "at": "viajar a Miami"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "fiesta_uno"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/97af/155c/22015f8b934be398a8be5e40bcdfc884.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=aefee4f752fc9e432e33a47fa3bff19defa06b33dc983bcc2bac8afd1b9dd5ab",
      "at": "la fiesta del uno a uno"
     }
    ],
    "gen": "3aAXs2DZaP9rJohi84Z0",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/AG0Lz7XZ2EmZPZU1EKPN/3aAXs2DZaP9rJohi84Z0/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=ococ_DYDaoikfGjcDxulBOrkgL0="
+   "url": "jobs/corralito/voz/3aAXs2DZaP9rJohi84Z0.mp3"
   },
   {
    "k": "N",
@@ -742,16 +794,12 @@
      "at": "España tenía sitio"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "barcos_llegan"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/73b7/4fdc/11595fd38a4a4a814a9ca4c54c722c63.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eb63ee1737e7bb6e8a4de5816fdb2fb01325b3b88099f40deea57c1512ea87f0",
      "at": "Repsol compró YPF"
     }
    ],
    "gen": "PHP5y1mZUOIcPju04yUD",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JJHCfw6CMJjVcc9x7q83/PHP5y1mZUOIcPju04yUD/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=ko_7X4JaFAelEef4RIrVSn7dc3A="
+   "url": "jobs/corralito/voz/PHP5y1mZUOIcPju04yUD.mp3"
   },
   {
    "k": "R",
@@ -759,11 +807,7 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "libreta_dolares"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/0df8/824c/8b769f8ef2e0ba69291785f96fc96f37.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=95d4af9e008e49879544004c7f92a1c1c5483d802cb2c115475dae353ed73a4d",
      "at": "directamente en dólares"
     },
     {
@@ -788,7 +832,7 @@
     }
    ],
    "gen": "UeTQHYFwVhLS7gCeAqh8",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nkkXbV7VNHK2bDjPyEuy/UeTQHYFwVhLS7gCeAqh8/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=jjP9edYQmXz48q65dxppXM5hKUc="
+   "url": "jobs/corralito/voz/UeTQHYFwVhLS7gCeAqh8.mp3"
   },
   {
    "k": "N",
@@ -796,16 +840,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "subasta_pais"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/6044/68e5/1bd6a0b0f1dc77ea623a0d11fb673523.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d51e2a4c46250d0a6a6c6a1762ad37422c4bed54a09d0f86f4fd6dc10be54359",
      "at": "vendió casi todo"
     }
    ],
    "gen": "dwlbEz7RqMFwUsFyRCwR",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RpXUqKb6kSOsnJ0yq7FL/dwlbEz7RqMFwUsFyRCwR/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=1CB8Kx8Blm3RmY5YzLOteWlgKu8="
+   "url": "jobs/corralito/voz/dwlbEz7RqMFwUsFyRCwR.mp3"
   },
   {
    "k": "N",
@@ -813,16 +853,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "grifo_dolares"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7431/15f8/8f8190b44b7af6693bba14ee4078afac.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e2bdd539dd7154131752a6619d5f4878032dd18d9657c2d7dd06e3b8b440d489",
      "at": "pidiendo prestado"
     }
    ],
    "gen": "2fz8eYK8hF4FDxSvxETL",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IDQsZvNVLauLJWsP9Qo3/2fz8eYK8hF4FDxSvxETL/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=I4OztiJMA7FDPj5U-XwLmWtOYng="
+   "url": "jobs/corralito/voz/2fz8eYK8hF4FDxSvxETL.mp3"
   },
   {
    "k": "R",
@@ -830,16 +866,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "termometro_pais"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c1d4/4a77/6c55878ed9976f53a652c5ffe8f1e9c8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c540b5ae023450021b1747fa452a581c10586b3f9a0501f74e614c1b4a51e0d2",
      "at": "el riesgo país"
     }
    ],
    "gen": "FkxAoTtbDPUJnSqr3jCf",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/g13kf5XoKHbhEu9wzYru/FkxAoTtbDPUJnSqr3jCf/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=wXZMdGwstKhnOGD-1wTY09xIbBc="
+   "url": "jobs/corralito/voz/FkxAoTtbDPUJnSqr3jCf.mp3"
   },
   {
    "k": "B",
@@ -851,11 +883,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "fabrica_cierra"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7a3e/b6cc/0865aac8bce3e3b960e94de9a53f2e11.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8261ecdb187e0e9fd4a146adcd5c514c2f5cde6a821a6bcd93dfb19ebe95e0c6",
      "at": "Las fábricas cierran"
     },
     {
@@ -889,7 +917,7 @@
     }
    ],
    "gen": "sPGfSozqer096nsJ9iDx",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qG5hrUMwIVA9ddeNvlOJ/sPGfSozqer096nsJ9iDx/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=0Y4DHOLjRzPYEctwakn2sP3RDlo="
+   "url": "jobs/corralito/voz/sPGfSozqer096nsJ9iDx.mp3"
   },
   {
    "k": "N",
@@ -897,11 +925,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "urna_votos"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/97df/3004/c250e1f233fc2c0dd34105ef7ab96561.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=90865edfb5ca065f7fc5607212b3ac4132780470f651d8c9c1a59af4c031a7d9",
      "at": "gana las elecciones"
     },
     {
@@ -917,7 +941,7 @@
     }
    ],
    "gen": "fhQ0cOJwms9Q0rxckS94",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/1HhoZINAMF75i8c1LW1L/fhQ0cOJwms9Q0rxckS94/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=7ULnqUbfIro6I-uZdKHnQSz4clo="
+   "url": "jobs/corralito/voz/fhQ0cOJwms9Q0rxckS94.mp3"
   },
   {
    "k": "R",
@@ -945,16 +969,12 @@
      "at": "casi cuarenta mil millones"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "escudo_grietas"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7b84/5fb6/eb4c7e476eb18c5647e198e1de092b7d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=66045efde9a31cce1aa46d94acf71bea92fa7ce95d6a36df6822e892db079977",
      "at": "Lo llaman el blindaje"
     }
    ],
    "gen": "rSz6JRARcOu2Muvcv8DK",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2pMUSPs1wPPVo2xzu4YM/rSz6JRARcOu2Muvcv8DK/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=HlIxpvGD8cQgJPYW9A9aGraBuiM="
+   "url": "jobs/corralito/voz/rSz6JRARcOu2Muvcv8DK.mp3"
   },
   {
    "k": "R",
@@ -962,11 +982,7 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "universidad_protesta"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/50b2/63bf/99bf1d3850a6ffad47702c8cda735532.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=03dea8b420055a01d98f4e8c72f81a8f27a2c20b2c34277a12295805542790d1",
      "at": "Estallan las protestas"
     },
     {
@@ -980,7 +996,7 @@
     }
    ],
    "gen": "lzCvRxtrVeDuAxhXajcU",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9pBs5Nozd7VDMFwL0RLu/lzCvRxtrVeDuAxhXajcU/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=pAtdrulMXJZdy9D5ERZYRaE5pF4="
+   "url": "jobs/corralito/voz/lzCvRxtrVeDuAxhXajcU.mp3"
   },
   {
    "k": "N",
@@ -1010,7 +1026,7 @@
     }
    ],
    "gen": "qyhN1xyWAnZZwBB0k7D4",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mSa7MziY3apr6VG1f5AV/qyhN1xyWAnZZwBB0k7D4/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=8WrYK-3aIjzuLbfG4Kep0YpD9yA="
+   "url": "jobs/corralito/voz/qyhN1xyWAnZZwBB0k7D4.mp3"
   },
   {
    "k": "N",
@@ -1018,16 +1034,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "tijeras_nomina"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/e7f5/e176/f6b73db716fe0109187f46a064213940.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c7f6f8b04cefee07449f9a3f29eea88f2bb877ef0d82d76fdbb1857e23e4cf5a",
      "at": "recortar sueldos públicos y pensiones"
     }
    ],
    "gen": "gRarr17r5LiEuFvYGe9O",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nRdhIMXU36LiCDDtJRug/gRarr17r5LiEuFvYGe9O/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=BA-zaLy_F9EVSdBKLKuX_u0y1z4="
+   "url": "jobs/corralito/voz/gRarr17r5LiEuFvYGe9O.mp3"
   },
   {
    "k": "R",
@@ -1049,7 +1061,7 @@
     }
    ],
    "gen": "UK9l68Q2McREP9ncqiqS",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/a9nXIiXGoqeXZTHsEQzy/UK9l68Q2McREP9ncqiqS/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Jq3KmyW9Hcr6--7dxQuPu2JVz5g="
+   "url": "jobs/corralito/voz/UK9l68Q2McREP9ncqiqS.mp3"
   },
   {
    "k": "N",
@@ -1057,16 +1069,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "papel_arde"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/da9b/491d/cf24f51f666bddf9a4f72934f37211a0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=421e143edffcf2c908db3fa1d3d8eb6fe86e4efa3a8c6d2ab40fcf61deefe54c",
      "at": "un fin de semana"
     }
    ],
    "gen": "Juib7W7dhEpG4mnz718k",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SZyfU862xMcQIvH5s89d/Juib7W7dhEpG4mnz718k/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=HgYlRujZzs3--8zgbAY_oPohK30="
+   "url": "jobs/corralito/voz/Juib7W7dhEpG4mnz718k.mp3"
   },
   {
    "k": "R",
@@ -1074,11 +1082,7 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cola_ventanilla"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/5ed2/cdfd/712b7a8b825fef43d939b08ebef88652.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5342fab9ed8c87658e1647184bf35a051a0573abff0cb00a2d9dd30e9704f676",
      "at": "salió el equivalente"
     },
     {
@@ -1093,7 +1097,7 @@
     }
    ],
    "gen": "SIEx5BpLAbQbZyFxLLoj",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YnMwTkKgtkAUToL8VIQ6/SIEx5BpLAbQbZyFxLLoj/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=wKNj5eJMWorZ5A8LC3lquLtl3k4="
+   "url": "jobs/corralito/voz/SIEx5BpLAbQbZyFxLLoj.mp3"
   },
   {
    "k": "N",
@@ -1101,16 +1105,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "tarjetas_lluvia"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/5349/0564/8d9121bd113ae69c3ce5ebd41d32580a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7e44566bf6c3cf6f0e34aa928da8a4d00e42de1c5f2ee273cdba18ecfd3be528",
      "at": "la bancarización"
     }
    ],
    "gen": "3JNY3AIMWzuPNa2yv7JP",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fdfWLosyCYL0S1j6ljY7/3JNY3AIMWzuPNa2yv7JP/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=hlwsK_HHwONkYLZTnEPhr4JEU4A="
+   "url": "jobs/corralito/voz/3JNY3AIMWzuPNa2yv7JP.mp3"
   },
   {
    "k": "R",
@@ -1118,16 +1118,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "termometro_rojo"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2d12/b82b/a27d96612b11b4bc3dea53cc9e8829fb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=cace49e462124958ad61530523f9e20c0f116baaa3d34f1ebf9464a99c4d6054",
      "at": "se quedan sin efectivo"
     }
    ],
    "gen": "dfIPzeDfFdT09YazM70b",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nabxmo9kIYOeDAAGpmlZ/dfIPzeDfFdT09YazM70b/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=_gZ841oY-UBL1PWs4MJzFTnfCXY="
+   "url": "jobs/corralito/voz/dfIPzeDfFdT09YazM70b.mp3"
   },
   {
    "k": "N",
@@ -1135,24 +1131,16 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ministerio_noche"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7c8a/4858/9978b3896550756a66ae9786f7261b62.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e120f398b45970b51b850e17c4fc83580c7ca312421defaea020c3de103c91fd",
      "at": "se trabaja de noche"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "papeles_decreto"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/bcbc/cc76/e1dc343be1bd27e18ff323f68ab42ad7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0564d7834f21b03303b87a96785d512b3c403ca1706aab9b890517dda0334fe5",
      "at": "con las persianas bajadas"
     }
    ],
    "gen": "CgbTDA02xp4XdkW5hure",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/yk4TVsMfyPFtGvSs5u3e/CgbTDA02xp4XdkW5hure/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=XuQtlaydBIAYJNriJgc0PKYIfdY="
+   "url": "jobs/corralito/voz/CgbTDA02xp4XdkW5hure.mp3"
   },
   {
    "k": "N",
@@ -1160,16 +1148,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "reloj_lunes"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2514/7dc4/2ec5883071b2ea7f32089e3c90668a7c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f2faa97a0714d947f7a67979bd0265938d0667df8604851381c2552709e0db75",
      "at": "el lunes"
     }
    ],
    "gen": "Uh270abNRYIWslYCftbN",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/LS4Nl6e6tsBAAf1Cwn8j/Uh270abNRYIWslYCftbN/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=9phiVVetOCDRuXO5UMPIjSaGpO0="
+   "url": "jobs/corralito/voz/Uh270abNRYIWslYCftbN.mp3"
   },
   {
    "k": "T",
@@ -1204,15 +1188,20 @@
     },
     {
      "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "firma_decreto"
+      "type": "doc",
+      "title": "Decreto 1570/2001",
+      "lines": [
+       "Firmado el sábado 1 de diciembre de 2001",
+       "Límite: 250 pesos o dólares por semana",
+       "Por titular y por entidad"
+      ],
+      "source": "Boletín Oficial de la República Argentina"
      },
      "at": "firma el decreto"
     }
    ],
    "gen": "vDVSwUWfMO4VvnAIiNgm",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SpiI5IavViBiGdT8a7Di/vDVSwUWfMO4VvnAIiNgm/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=P-b9olscOnbeDLKz4MofDQhB-_o="
+   "url": "jobs/corralito/voz/vDVSwUWfMO4VvnAIiNgm.mp3"
   },
   {
    "k": "N",
@@ -1241,16 +1230,12 @@
      "at": "mil pesos por semana"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cifra_tachada"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/40c3/bb1a/f4fc34c3e3d74e06528e324c3d365dbb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=44f527e2b025fc3e151cbe43b27e3e5ef10e82300572fb7ed3c19844c99d2d1c",
      "at": "se quedó en doscientos cincuenta"
     }
    ],
    "gen": "iaQAgECUch3V3BQar5OK",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/69yzHn4VrMmJXjNJp7r2/iaQAgECUch3V3BQar5OK/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Ti_mvF14yi1infGPsD5Lm14IaYE="
+   "url": "jobs/corralito/voz/iaQAgECUch3V3BQar5OK.mp3"
   },
   {
    "k": "R",
@@ -1272,7 +1257,7 @@
     }
    ],
    "gen": "TbuED0lkd2Ch2uVgZGXj",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9UrMo8rgZK7rby4X5D6P/TbuED0lkd2Ch2uVgZGXj/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=eZUH7v_HJsiQblID-klUU_OfsNw="
+   "url": "jobs/corralito/voz/TbuED0lkd2Ch2uVgZGXj.mp3"
   },
   {
    "k": "N",
@@ -1280,16 +1265,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "tele_salon"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b17a/20d5/37d638f489c31b8695f943f87643a404.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=61466a72f1293e9cb9fb394339737caea24ac9bb447673c1f117bd677309e2f3",
      "at": "da la cara en televisión"
     }
    ],
    "gen": "svPaxVtytiEDL6LFUkBy",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DhqSi2vF64pSE537gSev/svPaxVtytiEDL6LFUkBy/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=rjq1rPaKvtKWIabOUZ0Ny0ur8tA="
+   "url": "jobs/corralito/voz/svPaxVtytiEDL6LFUkBy.mp3"
   },
   {
    "k": "R",
@@ -1306,7 +1287,7 @@
     }
    ],
    "gen": "H1OxhGXPBrzPFOk2GJNZ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xtSvERXD9IVZMOReQ0CY/H1OxhGXPBrzPFOk2GJNZ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=zQnFXoea1DOnQvwiWDLHo1P_oiU="
+   "url": "jobs/corralito/voz/H1OxhGXPBrzPFOk2GJNZ.mp3"
   },
   {
    "k": "R",
@@ -1339,16 +1320,12 @@
      "at": "mil dólares al mes"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "aduana_maleta"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/0036/1445/48ca925a6c7923d627346388152d2d1a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=728e6bad96cff67c8073feebc41cd8d6dcbb6c50e03b0ed172f283dcaf50628e",
      "at": "La puerta de salida"
     }
    ],
    "gen": "sRzsNfhhqFpcndbxMySp",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KDGUIgsY7weYdQz40M6i/sRzsNfhhqFpcndbxMySp/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=h9CaHOJP0Apz3ey__H5_WqjkU5w="
+   "url": "jobs/corralito/voz/sRzsNfhhqFpcndbxMySp.mp3"
   },
   {
    "k": "N",
@@ -1356,11 +1333,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "tarjeta_mano"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/bb6e/cbe4/6bf02d426731333d344410412a1eae0c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=87c7c984e47bed4754f34ed48122650eadb8093afe67ea1da4d644058834bc7f",
      "at": "Podías pagar con tarjeta"
     },
     {
@@ -1373,7 +1346,7 @@
     }
    ],
    "gen": "3e5NTiikWyWm2bu4nacP",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/w4VwyX6CqO0u07xMQGPt/3e5NTiikWyWm2bu4nacP/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=mRf-VRvg75U2faVl2HfcN3xobUQ="
+   "url": "jobs/corralito/voz/3e5NTiikWyWm2bu4nacP.mp3"
   },
   {
    "k": "N",
@@ -1381,16 +1354,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "palabra_flota"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7374/8c7f/6ff80cede03f2fbc379d66f673329698.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8190c1d1d0db34a5c3c42d5f3abbc430cc873b69b88b909bc04b9d84fe3d64fa",
      "at": "La palabra derrota"
     }
    ],
    "gen": "Ap3NLcQEZUkFMn2aWZNe",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/te9FwBb34CNSnPvV9NYU/Ap3NLcQEZUkFMn2aWZNe/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=ixZ4H8SR8HkgBTloIq4o2uzIsN0="
+   "url": "jobs/corralito/voz/Ap3NLcQEZUkFMn2aWZNe.mp3"
   },
   {
    "k": "R",
@@ -1407,7 +1376,7 @@
     }
    ],
    "gen": "fiJM6UOICZHJMeusEcpj",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/QT5r36Uh5swU7C9mRhCP/fiJM6UOICZHJMeusEcpj/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=w0O8kvQYdwhJtj4A7nIS7n8fnsc="
+   "url": "jobs/corralito/voz/fiJM6UOICZHJMeusEcpj.mp3"
   },
   {
    "k": "R",
@@ -1425,24 +1394,16 @@
      "at": "solo el uno por ciento"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "changa_obrero"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/d0e5/3335/d2bf29e273ae598712ef23eb177e2b35.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a1b514be66fce3d705acf591e9ec9e9d1b33551293cf7e4b47dafd729cd92237",
      "at": "changas"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "kiosco_caja"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/5066/a57e/6b4bd20d55c02a35bc337d0a5d2dab02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=de77c84a8bbcebcfe5cd1e2285c1822fbbcddf5580c742ffc90fee0d68b3a4ff",
      "at": "en mano cada día"
     }
    ],
    "gen": "ACQY8Lyk0gIQHaSofHca",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fcWAQ6a0N831tNXfhUtN/ACQY8Lyk0gIQHaSofHca/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=RRdepEk2WduRL3xYIOagN-LKqV4="
+   "url": "jobs/corralito/voz/ACQY8Lyk0gIQHaSofHca.mp3"
   },
   {
    "k": "N",
@@ -1450,32 +1411,20 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "albanil_espera"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c41a/90f6/76f137e635a3172895128e91ece32fca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7904f0aec445c96c4a9794c349e6e9669615a93dbc2804f6707407dac9bce2b1",
      "at": "El albañil"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "farmacia_jubilado"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c40e/1439/295121d65cf30ce6189a40c5828fd09c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=246015620d4d8b07581e994306c665ddac8ef0e21a599710a101370fcdc77410",
      "at": "El jubilado"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "economia_jaula"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/617f/daab/3908b76da21f85f86539685d271c031e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=276284ecd332353c945f4dd2cd4b0bf15e4e46a102003b77f77376045c387dfc",
      "at": "Encerró la economía entera"
     }
    ],
    "gen": "Zzfsk8fjwOspAXkAGDHn",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DKrbpibqJ15xQkpg9qGo/Zzfsk8fjwOspAXkAGDHn/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=F3SwYCjR07ooe1uzF9B0jJpaRkU="
+   "url": "jobs/corralito/voz/Zzfsk8fjwOspAXkAGDHn.mp3"
   },
   {
    "k": "R",
@@ -1483,16 +1432,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "obrero_banco"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/115a/e492/6b55f0b1feffbe036b0d05dcf6384321.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9dfd849118ad5a97fc095cb1c2c330e1eb1168842def7e94a1bc95898d8d0c73",
      "at": "nunca habían pisado un banco"
     }
    ],
    "gen": "KcHwWMGvp0xjaSnCtDgI",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jfuOtR7evA0LIupnLehA/KcHwWMGvp0xjaSnCtDgI/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Y9xfQq3EuBNpk6j_dXybybPe19M="
+   "url": "jobs/corralito/voz/KcHwWMGvp0xjaSnCtDgI.mp3"
   },
   {
    "k": "B",
@@ -1514,24 +1459,16 @@
      "at": "Día tres"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cola_manzana"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8881/3e6d/411d8f1ef823bc94cb8acec3ed9df61a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a8cf6d82200a205f359995d07dbcac47a390229bd793d28f8b97a73de0763ea0",
      "at": "las colas dan la vuelta"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "desmayo_calor"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/015c/a88b/43b18a9df77e5d4df7a0003ef1666144.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=542300cd5ec35aacbb31769e823077db42ff4821026025bb749772171c53e5d9",
      "at": "quien se desmaya"
     }
    ],
    "gen": "TFTKkxJQEPk0xAHVeRdp",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mhpBGgVyOSHs5wVepOCp/TFTKkxJQEPk0xAHVeRdp/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=JRbHVk9MnUfQSGlGS16OfmYAFF8="
+   "url": "jobs/corralito/voz/TFTKkxJQEPk0xAHVeRdp.mp3"
   },
   {
    "k": "N",
@@ -1539,16 +1476,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cajero_noche"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/28f0/3f07/d9336fde04d581ca6ac00d1313f84785.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c9897ca99a0ff90acef6d57824f61957459d7b2f4f6e940a1be9e86816ea487b",
      "at": "En los cajeros"
     }
    ],
    "gen": "I7uzdUJDNUhSnezzLFcD",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VnCzHzisXpwsRUVO5vfA/I7uzdUJDNUhSnezzLFcD/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=npXm0BcGveveVWdWLFRpBghEps8="
+   "url": "jobs/corralito/voz/I7uzdUJDNUhSnezzLFcD.mp3"
   },
   {
    "k": "N",
@@ -1556,16 +1489,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "maletin_avion"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/fc34/d110/956be23c9c27c0e30b7bd288ec3c5c49.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=536b5d90e2d802204967e5ad0c40f8c27f53f497ae7fdad51517e3f504b90da9",
      "at": "ya lo había sacado del país"
     }
    ],
    "gen": "NdQk8rFRYhfWPVMM990M",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gyYLk3u2OCShtD4dlNf3/NdQk8rFRYhfWPVMM990M/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=2oymwM2BrEIX2Y_DeCYaLcX5Un8="
+   "url": "jobs/corralito/voz/NdQk8rFRYhfWPVMM990M.mp3"
   },
   {
    "k": "N",
@@ -1573,16 +1502,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "bolsa_madrid_rojo"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2b62/b7ae/eea15d1dc66bbbae99f208e42183aa4a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1a91e4862c3c44ca2fd9bf65b9c26605640a84414b291c3a1632912fd789dfdf",
      "at": "en Madrid"
     }
    ],
    "gen": "rMWlk5UL9pgD5wLQMaLN",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cd7baifCvuaCuN8DscfR/rMWlk5UL9pgD5wLQMaLN/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=8F0JKWh9T4w0aqa-Fj3uK-EATfo="
+   "url": "jobs/corralito/voz/rMWlk5UL9pgD5wLQMaLN.mp3"
   },
   {
    "k": "R",
@@ -1622,7 +1547,7 @@
     }
    ],
    "gen": "6wIrFgzvS9OLYUHgdSGY",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/0JGYEC2sou9e7FmnMO5E/6wIrFgzvS9OLYUHgdSGY/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=xwgyDCUJ6XuQZ8fu1MP-oWHLO4g="
+   "url": "jobs/corralito/voz/6wIrFgzvS9OLYUHgdSGY.mp3"
   },
   {
    "k": "N",
@@ -1630,16 +1555,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "mecha_encendida"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/689f/91fb/463b84f545c2e4f09815a62cc393ee00.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6643b516dfd45c3872a73267e6b3fd6ce92fd4575f9d408ecbb4f8629af12af0",
      "at": "la paciencia se está acabando"
     }
    ],
    "gen": "BaRBEnT1QSErCufhLrPb",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8hlieY4VtbZA04GV4nxu/BaRBEnT1QSErCufhLrPb/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=6d-3ii0IaRXeygu75zBu53CFFtY="
+   "url": "jobs/corralito/voz/BaRBEnT1QSErCufhLrPb.mp3"
   },
   {
    "k": "N",
@@ -1647,16 +1568,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "estomago_vacio"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f809/ab4b/81e64c1e859ee33797326b3e315ce3d1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f5fdc60cc514ecfecf0a287848a15addb4cf5cce40b4328e897d555a89cfa3c4",
      "at": "Protesta el hambre"
     }
    ],
    "gen": "3PokWoE0imFOx7k3ULKz",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xvMxhlynmWuiroceKCQd/3PokWoE0imFOx7k3ULKz/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=t4LwHKGGKug8_YlpwxXVtH9yI9Q="
+   "url": "jobs/corralito/voz/3PokWoE0imFOx7k3ULKz.mp3"
   },
   {
    "k": "T",
@@ -1680,11 +1597,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "bonos_mano"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/34fb/1326/5963aaf99cff8a1792a2d16144fb125a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=710c58055902bbfac08c30fea9da0d4e485324757b1a01e77bbca04df98c2cec",
      "at": "les pagaban con bonos"
     },
     {
@@ -1714,7 +1627,7 @@
     }
    ],
    "gen": "tVTmLDw4wMpV071U1MeJ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9dtBOzvRC7JS247HjGM3/tVTmLDw4wMpV071U1MeJ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=D71_zLvbW83qV29HYoZU7pRtjJw="
+   "url": "jobs/corralito/voz/tVTmLDw4wMpV071U1MeJ.mp3"
   },
   {
    "k": "R",
@@ -1732,16 +1645,12 @@
      "at": "Día doce"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "piquete_ruta"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8762/246c/066df2914f21c4e947a76d9dd1e6075a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8b1f43aac0374db23712e47eaa1cec0a962d4eaa43ae4f2c4f43b90a0e5d0c0d",
      "at": "cortan rutas"
     }
    ],
    "gen": "AvUQEWqW5S5UsO3jOn2O",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/bMRfV3YQC6TBy5Liidba/AvUQEWqW5S5UsO3jOn2O/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=0sofY-CeEx0yG16F3gag2O0VzXE="
+   "url": "jobs/corralito/voz/AvUQEWqW5S5UsO3jOn2O.mp3"
   },
   {
    "k": "R",
@@ -1759,16 +1668,12 @@
      "at": "Día trece"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "balcon_cacerola"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f753/e122/092b4c617272fcb387dafc1d871cd55a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1417533d958efb298e491940029937ed52633bff55c92f6af19096af2f826abb",
      "at": "Desde los balcones"
     }
    ],
    "gen": "op1rQh1z1YPk8diy1oA4",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/mDPuB18LvodDphOX7zXa/op1rQh1z1YPk8diy1oA4/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=4LK9oFyRoMXnFOCyFPo2nrFC6Ps="
+   "url": "jobs/corralito/voz/op1rQh1z1YPk8diy1oA4.mp3"
   },
   {
    "k": "N",
@@ -1786,11 +1691,7 @@
      "lugar": "mendoza"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "saqueo_super"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a4ad/f681/c32deff3ed6e5601e158034e371bfe83.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=08e22ce439da244cefb75dab25e679cdc4fef06fcc8c11a438be2a459d0c0bbb",
      "at": "se llevan lo que pueden"
     },
     {
@@ -1838,7 +1739,7 @@
     }
    ],
    "gen": "ZVdG5m3116YnPGDbL6u0",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/nPcQraGrYe37o4vRzH60/ZVdG5m3116YnPGDbL6u0/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=ILeMXGAETBCtEdHxxtJlEoRIy2I="
+   "url": "jobs/corralito/voz/ZVdG5m3116YnPGDbL6u0.mp3"
   },
   {
    "k": "N",
@@ -1847,23 +1748,36 @@
    "shots": [
     {
      "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "bolsas_harina"
+      "type": "list",
+      "header": "Lo que se llevaban",
+      "items": [
+       [
+        "Harina",
+        ""
+       ],
+       [
+        "Arroz",
+        ""
+       ],
+       [
+        "Fideos",
+        ""
+       ],
+       [
+        "Aceite",
+        ""
+       ]
+      ]
      },
      "at": "Eran harina, arroz"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "reparto_puerta"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/616d/13d6/a8e96f36b4c54504b7690958ec38fc32.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b1491e94439bdc6870556e7b38d624bd7952e892c217c712400c37b52afc905",
      "at": "repartir comida en la puerta"
     }
    ],
    "gen": "AQ0gmv41MsTbvUEGUDa4",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JQcxOFtEZ0mSJKNs46hn/AQ0gmv41MsTbvUEGUDa4/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=oUKrfwtHZCMKj8ev8X0AbLadWik="
+   "url": "jobs/corralito/voz/AQ0gmv41MsTbvUEGUDa4.mp3"
   },
   {
    "k": "N",
@@ -1871,16 +1785,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "urnas_calle"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b58f/60ee/b996fda907933befb19b4cd35b8700e2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6057c3239160f20c482abc690444d7885f591ebf8de312eefe38ee3823fa3ce1",
      "at": "una consulta popular"
     }
    ],
    "gen": "8w4eWCxzWGC3Gu0b1mFh",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/u5sRwdUEoo3E0l1eHGV0/8w4eWCxzWGC3Gu0b1mFh/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=NdZi97N5EydQzyiwRPr5cahjXhc="
+   "url": "jobs/corralito/voz/8w4eWCxzWGC3Gu0b1mFh.mp3"
   },
   {
    "k": "R",
@@ -1910,7 +1820,7 @@
     }
    ],
    "gen": "47uaTkbL6VcARLvPnG5H",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/avLM8ZQAvCpGY4sXi33q/47uaTkbL6VcARLvPnG5H/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=lslTZyX1ImqfeU4mLrVsCOY3te0="
+   "url": "jobs/corralito/voz/47uaTkbL6VcARLvPnG5H.mp3"
   },
   {
    "k": "R",
@@ -1918,16 +1828,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "escaparate_vacio"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8902/7feb/aeb17103c3a1e712b1d9677d90b6ae33.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=06f8c00ec5aa8e4ae08aa902fd3ef27cedc950fe78512fa84a28293e30b3c696",
      "at": "el mes de las compras de Navidad"
     }
    ],
    "gen": "Td56sUXocB98uw9cdgeL",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/r7oTMpBzUHewSNX8Tf4U/Td56sUXocB98uw9cdgeL/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3McexbEyRZ5x_JzV3Uzq53BCNG0="
+   "url": "jobs/corralito/voz/Td56sUXocB98uw9cdgeL.mp3"
   },
   {
    "k": "N",
@@ -1946,16 +1852,12 @@
      "lugar": "cavallo"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "presupuesto_tijera"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/4e8f/671d/d6a13c23e1b2b44dff0f143ccb790a7b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1fc86d86b00ce727a2ef284e08c9f272b66bb30ca8ea9ed8795d470441f9a589",
      "at": "nuevos recortes"
     }
    ],
    "gen": "NTWCRPaCGiYfLzU92tfP",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/D1W2mrPPk8a1O0S9m6Pz/NTWCRPaCGiYfLzU92tfP/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=-wm1uC72CDz9i3Xs-5miefOAHhE="
+   "url": "jobs/corralito/voz/NTWCRPaCGiYfLzU92tfP.mp3"
   },
   {
    "k": "N",
@@ -1974,16 +1876,12 @@
      "lugar": "alfonsin"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ultima_carta"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/3aad/748b/f77a1428553034d4381e079ebecae417.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=61e886394775ab820413f873768b1f778067e23296f1f0747149d343cbb1f610",
      "at": "la única carta"
     }
    ],
    "gen": "4swLbeu93LyynVsqamks",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/at3HagGKxAiC0vQNk40E/4swLbeu93LyynVsqamks/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=nz6kDaj-7b2w8YLtWZaz66dR5EQ="
+   "url": "jobs/corralito/voz/4swLbeu93LyynVsqamks.mp3"
   },
   {
    "k": "R",
@@ -2001,16 +1899,12 @@
      "at": "Día dieciocho"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "tendero_noche"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/3ad9/fffb/cfc0ba734104c0dcc7b6a9e388edf17a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ebab6aff45288dd2281d8cc4abdf7ae3f35ccb4e4b2968d34ff401b9dac182cd",
      "at": "duermen dentro de sus tiendas"
     }
    ],
    "gen": "2PbNwksd8Q3I9IgrBdsR",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/siVbIcII7lFMhqI8sNlu/2PbNwksd8Q3I9IgrBdsR/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=-Q1EhGd6MdSri86bGvh4igeGuso="
+   "url": "jobs/corralito/voz/2PbNwksd8Q3I9IgrBdsR.mp3"
   },
   {
    "k": "N",
@@ -2018,16 +1912,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "puno_cierra"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/603c/e6a9/0b4b14736dfda785e6c689c8c1754795.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=94cb7f33cada244f6287524dbb54724eee568be450cecac4ee2f5d1cbfe74c9a",
      "at": "apretar más fuerte"
     }
    ],
    "gen": "AfEeLGMmXGCoZct6vOS6",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RpMKxU1jyK23JhZmGGEi/AfEeLGMmXGCoZct6vOS6/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Mcib9PAOjohRkRJy5Uv3aLQBdgw="
+   "url": "jobs/corralito/voz/AfEeLGMmXGCoZct6vOS6.mp3"
   },
   {
    "k": "T",
@@ -2061,24 +1951,12 @@
      "at": "Día diecinueve"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "humo_conurbano"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/bd4c/a9cf/77e73206f1ad67c055acc3b6cb24e3b8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d5e63cafcecf517677d2cc9fb3e3c8bc50265cea041d8c24b3abacb373edf5b",
      "at": "se extienden por el conurbano"
-    },
-    {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "policia_dispara"
-     },
-     "at": "Policías disparando"
     }
    ],
    "gen": "GORM3wpHIGVRktHUAmLI",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/EA5jFge6E7WSKSmKEwQY/GORM3wpHIGVRktHUAmLI/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Td0bN9jxsTLIiOFS2RW5-4yGNlw="
+   "url": "jobs/corralito/voz/GORM3wpHIGVRktHUAmLI.mp3"
   },
   {
    "k": "N",
@@ -2096,16 +1974,12 @@
      "lugar": "rosada"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "telefono_espera"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/602a/1497/fc9d4470c2ae2471d9a8a6a364931b8e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=37301dc9dd8749e9a0578cef31d8b7954a422fdc74635dd37c5111e2c30dfcac",
      "at": "La respuesta tarda"
     }
    ],
    "gen": "CvTn0RQZIOr2tENnjv5y",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/fyvmN7y3lpOmffRRF1Uw/CvTn0RQZIOr2tENnjv5y/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=jqteqADin7eJD7tWhvDu4IWMcxM="
+   "url": "jobs/corralito/voz/CvTn0RQZIOr2tENnjv5y.mp3"
   },
   {
    "k": "N",
@@ -2113,16 +1987,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "tele_escaparate"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7e2b/a72e/341af49778441fb5b5b1d19c99a03f70.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=917c0dd567359a62776e1fb65f63916e49323b4f623e1da1e980c110083cf205",
      "at": "aparece en cadena nacional"
     }
    ],
    "gen": "3ytuJfLDyLkviqOs6S2l",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/afc8cYoR5l41qf5aTI9A/3ytuJfLDyLkviqOs6S2l/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=i6wvqPgWY5isxwxtxjjAjAlE174="
+   "url": "jobs/corralito/voz/3ytuJfLDyLkviqOs6S2l.mp3"
   },
   {
    "k": "R",
@@ -2150,7 +2020,7 @@
     }
    ],
    "gen": "pzNv1WhGzwLbldz9Mizk",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/EpfoPfp8310fCQsfQUkI/pzNv1WhGzwLbldz9Mizk/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=OTPfvUk_ZuYLd3OAsu13xqXitsA="
+   "url": "jobs/corralito/voz/pzNv1WhGzwLbldz9Mizk.mp3"
   },
   {
    "k": "R",
@@ -2166,16 +2036,12 @@
      "at": "El estado de sitio"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "botas_calle"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/bbb6/c47d/27891517de3e9b6b8900f18cea04ffd9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=82bb79aa7f16cd11a3cb046528730a2cadb56ccc554dc097e7c44bace500bc39",
      "at": "la dictadura"
     }
    ],
    "gen": "QUFirTVvqzXtQhhI2zge",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3cRBhf4Suq6Hw1plOR12/QUFirTVvqzXtQhhI2zge/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=-BHfr9XPuKgJ3Oc7OW9pBqBZKfY="
+   "url": "jobs/corralito/voz/QUFirTVvqzXtQhhI2zge.mp3"
   },
   {
    "k": "N",
@@ -2183,16 +2049,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "sombra_decreto"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/3e37/2b20/c1348459657d51537187b366a51be4ee.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6c2076d835e1b8f30972188c16413c15574f4cabb27fc78ab3f011edd63c1758",
      "at": "una medida simbólica"
     }
    ],
    "gen": "wswy0on8JSLexdUmO4Xu",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cLujt5rkVw00vJ9zdxWG/wswy0on8JSLexdUmO4Xu/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=dKv-zF9zZqbaWZmJPtznD9I1KrA="
+   "url": "jobs/corralito/voz/wswy0on8JSLexdUmO4Xu.mp3"
   },
   {
    "k": "B",
@@ -2204,24 +2066,16 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ventana_sola"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8135/a1ed/0b09c5310c1626367e9a4e8666fd4681.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=09195186e9807b31b04fa5fd6ed4cf03e6d65f5d1fc80c308eaa53e25f5e8a6c",
      "at": "Primero una ventana"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "calle_entera"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/e8d4/19a7/ba7e95beebff355131d0b49493d44c0d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=513c81ac0ae0b214211d1f194a4f69930ead401060b015b4cd245e10184efecf",
      "at": "toda la calle"
     }
    ],
    "gen": "5anCD9Y2WIUY6jpBPw0V",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/FefUIAHiZffaAqiwwu60/5anCD9Y2WIUY6jpBPw0V/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=D66aYyc9yczPS6C5BkJ7odkMJo8="
+   "url": "jobs/corralito/voz/5anCD9Y2WIUY6jpBPw0V.mp3"
   },
   {
    "k": "N",
@@ -2229,11 +2083,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "marcha_cacerolas"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/d01e/96b0/9939dc985174594953f3242c32882601.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ee9a13a4b34c221dbfacc734f76b686e7066f63f511c73c15ae4685965936999",
      "at": "Miles de vecinos"
     },
     {
@@ -2258,7 +2108,7 @@
     }
    ],
    "gen": "NsYwxLzDSODgmOrV6lbm",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/crwswCwFaOx9wAsEDtxh/NsYwxLzDSODgmOrV6lbm/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=sd4Q_jjGyNCw_K3qg69iPSEXSKE="
+   "url": "jobs/corralito/voz/NsYwxLzDSODgmOrV6lbm.mp3"
   },
   {
    "k": "N",
@@ -2266,16 +2116,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "marea_ruido"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/12de/3f2e/b11c8ce08d259faf26220f4b61f09b19.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4759a3a9de6b1740dc75493459d39511eab541a3eb77fe5597227dc2093eddef",
      "at": "como una marea"
     }
    ],
    "gen": "Z9gahmUOD8wvCyS7fZ8V",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/GBeZ88arznvwc4t2tv3n/Z9gahmUOD8wvCyS7fZ8V/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Wa8g_DuJQlBLhXb9VsAev7eMfq8="
+   "url": "jobs/corralito/voz/Z9gahmUOD8wvCyS7fZ8V.mp3"
   },
   {
    "k": "R",
@@ -2283,16 +2129,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "clase_media"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/6a55/bbcf/d50b50ce608f381c3902b2184bbba8e6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=61639162c9c6ab88e1c5b5a5400c4706a41f33f2e4dfb526932e78d9638edccf",
      "at": "Es la clase media"
     }
    ],
    "gen": "faSTm1af9cuKujdB2koc",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/39r2Rs5ky1ptycvClBpk/faSTm1af9cuKujdB2koc/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=KmB4r8bnMpCyaiilHMlMaoRGpCc="
+   "url": "jobs/corralito/voz/faSTm1af9cuKujdB2koc.mp3"
   },
   {
    "k": "N",
@@ -2309,7 +2151,7 @@
     }
    ],
    "gen": "bg86PWNfLIvvqgo3cPdY",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ehB4e2k213ZwPEJ72Qzw/bg86PWNfLIvvqgo3cPdY/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3vlLe5BZeVqsZ_n9-RVv3SAJKX0="
+   "url": "jobs/corralito/voz/bg86PWNfLIvvqgo3cPdY.mp3"
   },
   {
    "k": "N",
@@ -2317,11 +2159,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "plaza_medianoche"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/9b6c/2a5b/58b0ef38f30db49cf405c6e0ad22b805.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ba59cdfc4c046b02e844df552ffbd898b9f231ea2225d15050e7fbf9523b4532",
      "at": "la Plaza de Mayo está llena"
     },
     {
@@ -2337,7 +2175,7 @@
     }
    ],
    "gen": "213VxiNTfy3elH5sIK2Q",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vqypYObgXoGVZnFaMl4w/213VxiNTfy3elH5sIK2Q/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=SGBGk8THh0hcvQ7Y1og0pb2rWxI="
+   "url": "jobs/corralito/voz/213VxiNTfy3elH5sIK2Q.mp3"
   },
   {
    "k": "N",
@@ -2345,11 +2183,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "amanecer_rosada"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/7610/33cf/f3492f239216aa6b476a18010e8228ba.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5b2129d7f575b20f780224feaab97e0e1a0044c6f5ad01a527e0c7b4d1450721",
      "at": "Al amanecer del jueves"
     },
     {
@@ -2362,7 +2196,7 @@
     }
    ],
    "gen": "I3OAv8sZ9tarQ1OKZUI9",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/WAObsWx3fYwPpwRn1wWd/I3OAv8sZ9tarQ1OKZUI9/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3eMl6dgfrDgo32oe6emJhYE30vs="
+   "url": "jobs/corralito/voz/I3OAv8sZ9tarQ1OKZUI9.mp3"
   },
   {
    "k": "T",
@@ -2396,24 +2230,16 @@
      "at": "Día veinte"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "madres_panuelos"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b019/8d19/32775eab0693b29553383bf06a2ff202.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=15fa6a9b9b77d1ce956264aee3d68ad228bf995ded64a8004e4a766a8f084921",
      "at": "las Madres de Plaza de Mayo"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "montada_carga"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/da9f/6995/57788b66839147bc9eeaef4172841b2c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1f198c404e42b837ce329a312d8380829d625a18280245d007cbe5b61a3ddf05",
      "at": "la policía montada carga"
     }
    ],
    "gen": "mHiYtfkpgjxsqjJD6l7G",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hXheIKZvKEA3px9Irvp1/mHiYtfkpgjxsqjJD6l7G/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=byRswDObU29zmTRP0I4LR2aPFj8="
+   "url": "jobs/corralito/voz/mHiYtfkpgjxsqjJD6l7G.mp3"
   },
   {
    "k": "N",
@@ -2421,16 +2247,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "panuelo_suelo"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/e03c/47f4/4e75dbd983b1f5571153a9aca8a2d8ff.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a48f7839c759d214ff07034d89e8e43283b0da05b11cb5556e852fdce45cbf00",
      "at": "pañuelos blancos"
     }
    ],
    "gen": "dUsov7w4Sgbo28c70Czw",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/jhi0y7TTSxqcPEHrPH8Y/dUsov7w4Sgbo28c70Czw/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=e92GNC1DhsChBhSuYp2YoI2z4y0="
+   "url": "jobs/corralito/voz/dUsov7w4Sgbo28c70Czw.mp3"
   },
   {
    "k": "N",
@@ -2438,11 +2260,7 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "motos_humo"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/cee1/6807/1271be7d7224dbeb82a723fa304fdbd7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e28b58894bd401fdaed040be39e483604cf64ac8af65b48b8be5eff45c1c54fb",
      "at": "motoqueros"
     },
     {
@@ -2456,16 +2274,12 @@
      "lugar": "avmayo"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "piedras_balas"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/efc1/046e/fd0ccb2c45c50576401a01f123b7ebb8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7af4efdea66aec8c523c0beafe66199da8152b9640b30aa7b318bc68fd747e55",
      "at": "Piedras contra balas"
     }
    ],
    "gen": "DenoENQaG4XRlW0Aw4R3",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/UxY8poFv7rFjlmspy3fa/DenoENQaG4XRlW0Aw4R3/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=JsaEhsKeu-GT1o8j5J6XxiOzGOM="
+   "url": "jobs/corralito/voz/DenoENQaG4XRlW0Aw4R3.mp3"
   },
   {
    "k": "R",
@@ -2482,16 +2296,12 @@
      "at": "mueren cinco personas"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "flores_acera"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b270/e3e9/ff1c1a5ef10882413534c4458333977b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5785580667ebb0b7627f2cbb0e11aced59f3fd1dd3de801e2894263fd0eefa87",
      "at": "armas de fuego"
     }
    ],
    "gen": "JZ6HJHkbbBZpgUHOpHYi",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ev8eW8Z8JkUXnJySpy2Y/JZ6HJHkbbBZpgUHOpHYi/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=f4mkSWX0FLA5MuTXgopnQG31axE="
+   "url": "jobs/corralito/voz/JZ6HJHkbbBZpgUHOpHYi.mp3"
   },
   {
    "k": "N",
@@ -2509,16 +2319,12 @@
      "lugar": "rosada"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "puerta_cierra"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/76aa/b2ca/5cb59530a39d9d19f46b98f4b2ded57c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=70edcaaa7caad6fcddcd1722d518e0153ae383f2f5ff757152e1aa02792422aa",
      "at": "Es un no"
     }
    ],
    "gen": "3pDBvy6qY6kARCWrdIGg",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/AKWMFbzY6IwIsFz8eEEM/3pDBvy6qY6kARCWrdIGg/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=2qaCnCu1WPXYKEzQzG0mEvouFTM="
+   "url": "jobs/corralito/voz/3pDBvy6qY6kARCWrdIGg.mp3"
   },
   {
    "k": "R",
@@ -2535,7 +2341,7 @@
     }
    ],
    "gen": "GWw0Op0UnZyvHHnZfWvM",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NGeyvQGaIkHUCtjiy69a/GWw0Op0UnZyvHHnZfWvM/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=6YMlx_T-6H6HCsTv1qa64vYGpuU="
+   "url": "jobs/corralito/voz/GWw0Op0UnZyvHHnZfWvM.mp3"
   },
   {
    "k": "N",
@@ -2543,16 +2349,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "carta_renuncia"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c116/91a9/a60d6d4ac69c90a26cbe357513c040ed.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c9dcb4c202dd5587977ff2768e5cb8db5e30e863868cb8781a5bab22289734f9",
      "at": "escribe su renuncia a mano"
     }
    ],
    "gen": "vv8oT4s8zEF4JiOv1tq3",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HLaQOg8da5H1aQmvEqiW/vv8oT4s8zEF4JiOv1tq3/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=AfEnASsHiR1Pq14m8epAp7zW2YU="
+   "url": "jobs/corralito/voz/vv8oT4s8zEF4JiOv1tq3.mp3"
   },
   {
    "k": "R",
@@ -2560,16 +2362,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "escalera_azotea"
-     },
+     "ai": "https://s3-alpha-sig.figma.com/img/b10d/b0fe/4c2d203f756362f09357f6c234d661fa.png?Expires=1796601600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kgqRtBLWUoWLdxZXOjWwT0E5EC-xaXLqrJEpYDfcm9VhqwGY2GvcgG7RB7-w0QL8btlmogGkIJwWiMT80aVbgNhLSg1HRW~FXOAuyT3mxEV91RkeA4WBpjCydGFIl5hO3lBNvyI1IkDtnD5GZAiwcj3klUTwXMJFSyku2E9PllfD7wkB414JSmvCsTA2PbhtJH5MRSgPPYrvU68pkmaJPXQ0R~RYsM0WtU0OxlqsCozIwwllPp1Ch8fG6XWDxecJ0aWOMZOd8g2zqiLyCoMs7Kf-tq3a-~fZ3WkrXPdiBdMwS9wt8EE-SH7xvTGH9C8aDW2Q5ImXIo2nxey0~e5sew__",
      "at": "Hacia arriba"
     }
    ],
    "gen": "PBDB6BY2lltKi1N0l9eM",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/M6cBzk3j9rrW1R0n5GAq/PBDB6BY2lltKi1N0l9eM/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=eHyklN7eFG_XNDrGXhaTItxwFaI="
+   "url": "jobs/corralito/voz/PBDB6BY2lltKi1N0l9eM.mp3"
   },
   {
    "k": "B",
@@ -2592,24 +2390,16 @@
      "lugar": "delarua"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "heli_ciudad"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/e54e/c10f/fc23ea3ac1feb4e217667f4284ae1375.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b3a165bfc5a898ed8f378c11e8885e53ef4b76e53caf1578483e3f6ad7aca4c",
      "at": "rumbo a la residencia de Olivos"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "heli_ve_plaza"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8cc4/6ffd/5d40fc4e5dd978e919ac62de79f9bf0c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3c9ad7374469866af474b8221bdf92421b43d55fe488ab9220ac16d819b29b45",
      "at": "la gente lo ve alejarse"
     }
    ],
    "gen": "P5sC8gPhSk267FiK14oq",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/DfLOS76TYOGCnfSW8PPm/P5sC8gPhSk267FiK14oq/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=h92L_POMr0fsvZdG2bV0N4rXNoI="
+   "url": "jobs/corralito/voz/P5sC8gPhSk267FiK14oq.mp3"
   },
   {
    "k": "N",
@@ -2617,16 +2407,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cacerola_cielo"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/e024/e211/deed8c4c94d8b03279a1a4916b12e9ee.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=20100c874be33b0da31afaa2a6eccb62151a1d67cc89bc7dd80140be345ee7df",
      "at": "alguien levanta una cacerola"
     }
    ],
    "gen": "WxmPFUPiWfTSO1JD8i81",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OYTIll4o35kzbL9bHZuZ/WxmPFUPiWfTSO1JD8i81/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=A3XpTC78HCk0l6XGRgbrebmGVcI="
+   "url": "jobs/corralito/voz/WxmPFUPiWfTSO1JD8i81.mp3"
   },
   {
    "k": "N",
@@ -2634,16 +2420,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "heli_silueta"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/39ee/6aa9/73eb5174618e09366bc8ef1f9a901142.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=999efea9d0bcae1961cf2d3262e198df5ddfc9404ecd374e0061e0d7ed0cb4c3",
      "at": "Es la imagen que resume"
     }
    ],
    "gen": "4Fo6eCcn1Bua8s2O0k1c",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/SxCOTthyYKSGWE3jnTaE/4Fo6eCcn1Bua8s2O0k1c/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=WR8loOO3UMm2Wqk45hrhyr6jk9c="
+   "url": "jobs/corralito/voz/4Fo6eCcn1Bua8s2O0k1c.mp3"
   },
   {
    "k": "R",
@@ -2661,16 +2443,12 @@
      "at": "A la mañana siguiente"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "puerta_salida"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/ac94/3e9d/9db41201990f6d80c174923a8ca1a9a5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e4a3d6fdb0754b0089d70f0836b82debb1cc653ec21375c41275fb028bcc7f19",
      "at": "Esta vez, por la puerta"
     }
    ],
    "gen": "nWg5BdkSVKw1JtOzlc3a",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/sJTmyb81id3o9ZmUYo0Y/nWg5BdkSVKw1JtOzlc3a/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=mko4IDcbGuHW247d3QdbEJJTNhI="
+   "url": "jobs/corralito/voz/nWg5BdkSVKw1JtOzlc3a.mp3"
   },
   {
    "k": "N",
@@ -2678,24 +2456,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "sillon_vacio"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a7b9/a402/76e11420532884ea025cb758a19f69fe.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5b14c61787321cdf1995bf65cd396cd35ef0bdba0448d6537b6c86e0a1cbd12d",
      "at": "Argentina no tiene presidente"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "boveda_cerrada"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/6d40/e1ea/936e84d5c31aa704fb91f7c78c7b7517.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d108e8edfdf6ad4f01a80e21c76d322904221d89ce4c1e707207e973e0ee90cb",
      "at": "siguen dentro de los bancos"
     }
    ],
    "gen": "PGDn7S46nnDjTKfdM6sE",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/F6T5tt7fIUoOzx4u2PZE/PGDn7S46nnDjTKfdM6sE/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=KMn4dXC7lWZWLbxjZrI8uYyIWTQ="
+   "url": "jobs/corralito/voz/PGDn7S46nnDjTKfdM6sE.mp3"
   },
   {
    "k": "N",
@@ -2712,7 +2482,7 @@
     }
    ],
    "gen": "mfQJFVRWmyGFsLXhpZJm",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/cjzOuiQX1lKecoVAGUlz/mfQJFVRWmyGFsLXhpZJm/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=GC9C_whYPzDvZdY1z2aQamXobCk="
+   "url": "jobs/corralito/voz/mfQJFVRWmyGFsLXhpZJm.mp3"
   },
   {
    "k": "T",
@@ -2777,7 +2547,7 @@
     }
    ],
    "gen": "zs6e3OWav5Gbov6oY5GZ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/O2yalXakqUN6jrpgeiHa/zs6e3OWav5Gbov6oY5GZ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3-kNbHkY1ejrqccYnBl-reONZfM="
+   "url": "jobs/corralito/voz/zs6e3OWav5Gbov6oY5GZ.mp3"
   },
   {
    "k": "N",
@@ -2807,7 +2577,7 @@
     }
    ],
    "gen": "JkokN2HgGuRhJb4YREdf",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NKtPNoGwHpmJ6yM94BAO/JkokN2HgGuRhJb4YREdf/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3xt1G0Iz0I7e6-eJ_OeCbVJdHkE="
+   "url": "jobs/corralito/voz/JkokN2HgGuRhJb4YREdf.mp3"
   },
   {
    "k": "N",
@@ -2815,11 +2585,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "telefono_oceano"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/5427/0e80/575188d82660df251ea5a570018e48eb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0fba478b712cd449574db52f02c624ce40274c18b4524914ffcffe5ed3a22a6",
      "at": "antes incluso de que"
     },
     {
@@ -2835,7 +2601,7 @@
     }
    ],
    "gen": "AQa6M6y3hcgTMq6fOXdX",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ho6ccoB7qDzVr3DaVfCK/AQa6M6y3hcgTMq6fOXdX/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=9ekY4472ybPIyjdfhQJSFxIMOXE="
+   "url": "jobs/corralito/voz/AQa6M6y3hcgTMq6fOXdX.mp3"
   },
   {
    "k": "R",
@@ -2852,7 +2618,7 @@
     }
    ],
    "gen": "Zm2l1WmtmdT38tMllOba",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9cOnJg7iZfBEvuXLQJTt/Zm2l1WmtmdT38tMllOba/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=z_a27dm_g8rqmu2j7BxAPqBwY44="
+   "url": "jobs/corralito/voz/Zm2l1WmtmdT38tMllOba.mp3"
   },
   {
    "k": "R",
@@ -2860,11 +2626,7 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "hemiciclo_pie"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f414/71dd/17332bdf2843e95788ae2e1bed4711ea.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4ddfe3bbf05334a30107afa780e6abcce73670917dc9c6053f84b469eefe4742",
      "at": "se pone en pie"
     },
     {
@@ -2879,7 +2641,7 @@
     }
    ],
    "gen": "qT7Aa438IVT2778lId52",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/g4IAOJvtow7LNGMVsIM3/qT7Aa438IVT2778lId52/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=D2oUghiGESQKXRkMY8_eDEyYOgc="
+   "url": "jobs/corralito/voz/qT7Aa438IVT2778lId52.mp3"
   },
   {
    "k": "N",
@@ -2887,24 +2649,16 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cacerolazo_congreso"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f79c/0b5b/9bb81477b1af23a02b2c22aed24330c3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ca9b3810156d10376a007aef4ea720ee78c521009859d45ee5302d8ea7af38c",
      "at": "los cacerolazos no paran"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "silla_vacia2"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/fd28/f65d/ea09f8595aec96d36dedcd8ba0e46161.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=59520e7b89b9085ef451914027035281e51b0622159a3e8b628a02fad79cff99",
      "at": "también dimite"
     }
    ],
    "gen": "CnilVhzNZNiWBsaU1mVk",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HuQ0wiQNu7j1KcmhPVr9/CnilVhzNZNiWBsaU1mVk/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=pa_nB3MaKPLZ_7PdWJpClpscWnk="
+   "url": "jobs/corralito/voz/CnilVhzNZNiWBsaU1mVk.mp3"
   },
   {
    "k": "N",
@@ -2912,16 +2666,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "mesa_costa"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/585f/a51a/584affca7bad762506eca859472b4fec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e2fd6a053e18df8409f012a1f7e14d43a789952f13d87e64f196a260fd2fe53d",
      "at": "Casi ninguno aparece"
     }
    ],
    "gen": "p6bqHslVpqSplCu1BR8n",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vpA4Oxu8JhKRv1AqgIkY/p6bqHslVpqSplCu1BR8n/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=7WmW1KSTIrVrEKImGnUBFcQfhFE="
+   "url": "jobs/corralito/voz/p6bqHslVpqSplCu1BR8n.mp3"
   },
   {
    "k": "R",
@@ -2952,7 +2702,7 @@
     }
    ],
    "gen": "irU7hUUpLLBvOFlCXByC",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Kke2uTZR3nok2bKz84JH/irU7hUUpLLBvOFlCXByC/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=xtIqt4bwxUdrQUSFPgrZAcXxzGQ="
+   "url": "jobs/corralito/voz/irU7hUUpLLBvOFlCXByC.mp3"
   },
   {
    "k": "N",
@@ -2960,16 +2710,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ahorrista_escucha"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f5bb/83a0/7fa3489e7c7758bc0aafdbf716e13eb1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e6a282a3c6dec5cc8495b7ddef82f54b2aab091ad67c28729e647920890f017a",
      "at": "mira a los ahorradores"
     }
    ],
    "gen": "dIKI8zccTuyKiCOHuq5g",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/N8ftUUMDkfXM4VMnLCzd/dIKI8zccTuyKiCOHuq5g/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Wq4SJTYlKNt-fBb2JSorC5JZFS4="
+   "url": "jobs/corralito/voz/dIKI8zccTuyKiCOHuq5g.mp3"
   },
   {
    "k": "R",
@@ -2986,7 +2732,7 @@
     }
    ],
    "gen": "SH8pnKCNpSlUeX2ViM3o",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Aa5Dx8aAsjKqHET9WwWa/SH8pnKCNpSlUeX2ViM3o/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=njUEkZxpuPeVeqTXJJqDACXTbX0="
+   "url": "jobs/corralito/voz/SH8pnKCNpSlUeX2ViM3o.mp3"
   },
   {
    "k": "N",
@@ -3003,7 +2749,7 @@
     }
    ],
    "gen": "6Bw5HYaJe7yEJ39nSHp9",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/B6oxhXYXezFDxM1kWIk4/6Bw5HYaJe7yEJ39nSHp9/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=HlpaER-C2wbHJW_YMdFmd0s3ZQM="
+   "url": "jobs/corralito/voz/6Bw5HYaJe7yEJ39nSHp9.mp3"
   },
   {
    "k": "N",
@@ -3011,16 +2757,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cajon_vacio"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/bf80/9287/672e6fa39ede00b6e4ffa4be4e4820a6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1c363c0bcc34e028c3e936ae69b20e5737295bd13618b966fa79b34f57296bc1",
      "at": "Que alguien hizo las cuentas"
     }
    ],
    "gen": "6s2HGm5xVU0oGLf1e074",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/vxG7RnC9UOarh8pGwa4S/6s2HGm5xVU0oGLf1e074/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=1B6SrW94ExqnhKQM4HduJI7Dxq8="
+   "url": "jobs/corralito/voz/6s2HGm5xVU0oGLf1e074.mp3"
   },
   {
    "k": "N",
@@ -3043,7 +2785,7 @@
     }
    ],
    "gen": "I6ELcRJZkaUuEp2hos0W",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aWXFR3zlxff1GpQa6597/I6ELcRJZkaUuEp2hos0W/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=uRh-EVfVNTswblJQZJ7-XC9f89k="
+   "url": "jobs/corralito/voz/I6ELcRJZkaUuEp2hos0W.mp3"
   },
   {
    "k": "N",
@@ -3051,16 +2793,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "suscribe_campana"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/586c/e06e/46007583aa2608d44637fba15423c587.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ae3c946d2b65878c6075cc341723850536b73a0b64f8494fcac544ba2df14c61",
      "at": "suscríbete a DocuVox"
     }
    ],
    "gen": "3Y3NqPLsqauv84ST7Gwl",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KvyArsllL1payzaox528/3Y3NqPLsqauv84ST7Gwl/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=OIoQDAF2W9k0UkIXzxPOyNl5O-U="
+   "url": "jobs/corralito/voz/3Y3NqPLsqauv84ST7Gwl.mp3"
   },
   {
    "k": "T",
@@ -3109,7 +2847,7 @@
     }
    ],
    "gen": "9tc3n1c6yDboHDvqLGPh",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ehWV7wmFJmE1wcMl1Yze/9tc3n1c6yDboHDvqLGPh/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=GNPexix7XV21SsqnTPeteK4zpeA="
+   "url": "jobs/corralito/voz/9tc3n1c6yDboHDvqLGPh.mp3"
   },
   {
    "k": "N",
@@ -3117,16 +2855,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "corral_grande"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/4b21/300e/7a4eb63e5359e9270fdb8d94287acdfe.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=58bc3c0c872d885f0533d8a570c052b706625cc8485465c69403263a24fb7c7e",
      "at": "El corralón"
     }
    ],
    "gen": "Gqy6379SwYuXtlO8qwn3",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IQqR4vbM77IG0Vex25Q4/Gqy6379SwYuXtlO8qwn3/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=FeC6T67m_GRJ23RsSzttHZEGjj8="
+   "url": "jobs/corralito/voz/Gqy6379SwYuXtlO8qwn3.mp3"
   },
   {
    "k": "N",
@@ -3147,30 +2881,18 @@
      "at": "La pesificación"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "dolar_derrite"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/9984/00fa/6da8953b2c7a559ab8baba951ea4190d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=40247424a62095893f2a6771b81316a6bc240cf22698e3fabda2e6be85a0fe8a",
      "at": "se convierten a la fuerza"
     }
    ],
    "gen": "SdM9wUJo86W14nlB7c53",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dtAXIBQe0EAh0OoZylHO/SdM9wUJo86W14nlB7c53/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=QtRU4olsemo2nC4nyPpt4XgVlyI="
+   "url": "jobs/corralito/voz/SdM9wUJo86W14nlB7c53.mp3"
   },
   {
    "k": "R",
    "text": "Uno con cuarenta parecía razonable. El problema es que el dólar, ya libre, no se quedó ahí. En pocos meses llegó a rozar los cuatro pesos.",
    "voice": "CRO",
    "shots": [
-    {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "flecha_sube"
-     },
-     "at": "En pocos meses"
-    },
     {
      "card": {
       "type": "counter",
@@ -3184,7 +2906,7 @@
     }
    ],
    "gen": "jRJkWO33fG8SpnS3Azdf",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5FZNe3NdniNrO2NPZYBw/jRJkWO33fG8SpnS3Azdf/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=LYqS2AWzD73-BfhSancDr_GtPSU="
+   "url": "jobs/corralito/voz/jRJkWO33fG8SpnS3Azdf.mp3"
   },
   {
    "k": "N",
@@ -3212,16 +2934,12 @@
      "at": "Haz la cuenta"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ahorros_humo"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c8b7/d4c7/4950b75b6ddecdea361aebd6885de0a6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3bbe9070d634d926a8fbd55aa6d7d57604eb89fcf960ae5d980ebe2ccf067661",
      "at": "casi dos tercios"
     }
    ],
    "gen": "zZ0ZcjkCFgBcV6x8Wxkr",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2NJoQWP4uXoHOAQT7LM3/zZ0ZcjkCFgBcV6x8Wxkr/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=GlSS_Z23WuUGR9rJMCIuYsP6dTk="
+   "url": "jobs/corralito/voz/zZ0ZcjkCFgBcV6x8Wxkr.mp3"
   },
   {
    "k": "N",
@@ -3250,7 +2968,7 @@
     }
    ],
    "gen": "awiBvHulVKDiMVCi1Zhx",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JNlvuA6tGavz9l6eFxxR/awiBvHulVKDiMVCi1Zhx/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=-5FrYdoh6nGJoB6bjjFQRwz2qx8="
+   "url": "jobs/corralito/voz/awiBvHulVKDiMVCi1Zhx.mp3"
   },
   {
    "k": "R",
@@ -3258,16 +2976,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "balanza_rota"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/791f/55d2/d6efcc2cd8433e3936a5d570184e4f46.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=030b785c7f3477845cdcb6fb99dc523f6af7c32d3dcf59092b5321e526567d41",
      "at": "Un regalo para los grandes endeudados"
     }
    ],
    "gen": "XFc41LUbF3o9DsE1P949",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KLtjw67YSHkraXUkS7qZ/XFc41LUbF3o9DsE1P949/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=FX6ki1wLsc0gnomaHsJUnx3N1ro="
+   "url": "jobs/corralito/voz/XFc41LUbF3o9DsE1P949.mp3"
   },
   {
    "k": "R",
@@ -3284,7 +2998,7 @@
     }
    ],
    "gen": "MP48vvJlBcNgcrAbBZe2",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/pTz8OPBco4SEWtuKe4ku/MP48vvJlBcNgcrAbBZe2/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=vWEhl7cuxLnd1QdZaBF6XJFQzXk="
+   "url": "jobs/corralito/voz/MP48vvJlBcNgcrAbBZe2.mp3"
   },
   {
    "k": "B",
@@ -3296,16 +3010,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ahorro_vida"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c940/0109/bc33d927690233312ecb633dc7ae22c9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1be3becd03783ecc1d2b61cbfa81e88db7516c7795c19e05bb3d6a3abf6c39b8",
      "at": "los ahorros de toda una vida"
     }
    ],
    "gen": "h9Kt9XaUUq6VKVuuS3fx",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/EbILacP8WSBcbdMVBL5G/h9Kt9XaUUq6VKVuuS3fx/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=pFmUoSOPrc_ZNkPVQWOR4FEfmrg="
+   "url": "jobs/corralito/voz/h9Kt9XaUUq6VKVuuS3fx.mp3"
   },
   {
    "k": "N",
@@ -3313,24 +3023,43 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "martillos_banco"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/cdf9/bcb6/8f1255d1d7683b3738118fb098ee9632.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=34eb5f092a6359eea6b005597aaae0fc93efab0fbea75d9a53d22cfe623cf40e",
      "at": "Golpean las persianas con martillos"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "fachada_chapas"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/27d6/5470/1e0819f48bc91f9965a687088ece0ec5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a889f65093a84816d4d04e64c97b69f1a0613fc994b2b66f46e13fbbd8c4d8c5",
      "at": "planchas de metal"
     }
    ],
    "gen": "gFGVCUqO3Mekp417gRCP",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/OhPX5aGMEI2yxpbQU3Q8/gFGVCUqO3Mekp417gRCP/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=9cdWt-PrNyyfSV1W7VSIJNUbwEg="
+   "url": "jobs/corralito/voz/gFGVCUqO3Mekp417gRCP.mp3"
+  },
+  {
+   "k": "R",
+   "text": "En el centro de Buenos Aires, el grito se repetía cada semana frente a los bancos: chorros, chorros, chorros, devuelvan los ahorros. Ladrones. Devuelvan los ahorros. En noviembre de dos mil dos, en Mar del Plata, la tensión llegó a tal punto que la mayoría de los bancos de la ciudad no abrieron.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "Chorros, chorros, chorros, devuelvan los ahorros.",
+      "attrib": "Consigna de los ahorristas · Buenos Aires, 2002"
+     },
+     "at": "chorros, chorros"
+    },
+    {
+     "photo": "Mar del Plata ciudad",
+     "src": "commons,loc,europeana",
+     "at": "en Mar del Plata",
+     "lt": [
+      "Mar del Plata",
+      "Argentina"
+     ],
+     "lugar": "mardelplata"
+    }
+   ],
+   "gen": "TDVMkqjuisfQbAb2Joai",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/x2pwIO4rBZiY8EetzzHS/TDVMkqjuisfQbAb2Joai/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=HpOUrlzB6SDX_u5TBQFkKzBon2g="
   },
   {
    "k": "R",
@@ -3338,11 +3067,7 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "expedientes_torre"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/e4e5/29d3/91b4a6592ef500500c67f965d50f9d95.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ff5b205cb6ab10d2568a8e86885230db202cab9b86df5e3446119abab0d7ef44",
      "at": "recursos de amparo"
     },
     {
@@ -3357,7 +3082,7 @@
     }
    ],
    "gen": "DCkM86W6K1WTUUKGHnVr",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/kQPDfrKCWK4GUTMxTqQO/DCkM86W6K1WTUUKGHnVr/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=L5KBwqA2LuUOUsSLkHkQTAqdUl8="
+   "url": "jobs/corralito/voz/DCkM86W6K1WTUUKGHnVr.mp3"
   },
   {
    "k": "R",
@@ -3394,16 +3119,12 @@
      "at": "los Boden"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "reloj_arena_billetes"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a504/47aa/10d858c54daed0d7dcb59da1501921c2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c5bad59f845e96af101c1484df95394bb478f540daed3ee0da3e322974bbb1e3",
      "at": "esperar una década"
     }
    ],
    "gen": "ttAA15ZPr4iNmET5KBmk",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/RfICr5mOJyuEccnQV4Hu/ttAA15ZPr4iNmET5KBmk/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=IhlUkM8f5OjzQPJV0dUpuzTmrSQ="
+   "url": "jobs/corralito/voz/ttAA15ZPr4iNmET5KBmk.mp3"
   },
   {
    "k": "R",
@@ -3422,7 +3143,7 @@
     }
    ],
    "gen": "kq1zSU5llcPzhcMXoK2y",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/NiIhfLwTlt5V41ATdlJN/kq1zSU5llcPzhcMXoK2y/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=pv-78vAzCq3FC7-dGAdmq4sTuAA="
+   "url": "jobs/corralito/voz/kq1zSU5llcPzhcMXoK2y.mp3"
   },
   {
    "k": "N",
@@ -3441,16 +3162,12 @@
      "at": "el cincuenta y siete y medio"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "comedor_popular"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b694/4130/9cc5c8a8731902a4bb62883fb21fac4f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=82f4761b8b2167db9e7ddf3e13033c63d61d833bfb4c0b29fc5497438b60a467",
      "at": "bajo la línea de la pobreza"
     }
    ],
    "gen": "qa9psh728RQ4ZPZ0E0C5",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/KC1xzafZ1yAwzXlWtBsm/qa9psh728RQ4ZPZ0E0C5/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=h5zbp9knaC-9lVVJM6OO1UG61vs="
+   "url": "jobs/corralito/voz/qa9psh728RQ4ZPZ0E0C5.mp3"
   },
   {
    "k": "N",
@@ -3458,24 +3175,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "trueque_feria"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/aad1/5edb/1fd85659f7e43d1a27c23ddb58c11024.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5d036823a31f198d646b1a8ad4bf60bea632424e46990c384f756712f0a2900f",
      "at": "los clubes del trueque"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cartonero_noche"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/6934/36f3/e4fa313ee4086ba7e919c5f6725b2b0a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d77afeea5008528d8d5eba11597e4b4cb422096973c076e14565087cf3c87dab",
      "at": "cartoneros"
     }
    ],
    "gen": "jr3jm9vXZ72qS6RZrGB2",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/IY8qxRkBQ9o6GwFn2dUk/jr3jm9vXZ72qS6RZrGB2/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=IwmzbrIWB-E9khHWglId3jw_tIE="
+   "url": "jobs/corralito/voz/jr3jm9vXZ72qS6RZrGB2.mp3"
   },
   {
    "k": "N",
@@ -3483,16 +3192,215 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "vecinos_cooperativa"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/98de/5da2/d52b0586ca63f60f1fae2b564d9885f5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=21b66678588b677c1d0edada0633ac6e06e1943e92d2ed270a0c1f778270cb87",
      "at": "La odisea de los giles"
     }
    ],
    "gen": "Oj3RLpcrZ9ydfZXICwhe",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/aKnFVNDCdDa4HdyAKwpJ/Oj3RLpcrZ9ydfZXICwhe/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=sndSvgCFZlLfPRAF9P9A8OuA9r8="
+   "url": "jobs/corralito/voz/Oj3RLpcrZ9ydfZXICwhe.mp3"
+  },
+  {
+   "k": "T",
+   "secs": 6.0,
+   "sting": "accion",
+   "chapter": true,
+   "card": {
+    "type": "title",
+    "title": "Al otro lado del río",
+    "sub": "Uruguay · 2002",
+    "num": "VIII"
+   }
+  },
+  {
+   "k": "B",
+   "track": "tension"
+  },
+  {
+   "k": "N",
+   "text": "[dramatically] Pero el corralito no se quedó en Argentina. Cruzó el río.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "map",
+      "title": "Al otro lado del Río de la Plata",
+      "bbox": [
+       -59.5,
+       -35.6,
+       -55.5,
+       -33.8
+      ],
+      "points": [
+       {
+        "name": "Buenos Aires",
+        "lon": -58.38,
+        "lat": -34.6,
+        "big": 1
+       },
+       {
+        "name": "Montevideo",
+        "lon": -56.16,
+        "lat": -34.9,
+        "big": 1
+       }
+      ]
+     },
+     "at": "Cruzó el río"
+    }
+   ],
+   "gen": "ldAb1msaJy9xIHEq2sDc",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/2gC11xqVHzYamPprxK3h/ldAb1msaJy9xIHEq2sDc/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=GNThYbfs_dBalAakPSZihndtScE="
+  },
+  {
+   "k": "R",
+   "text": "Montevideo, dos mil dos. Durante años, miles de argentinos habían guardado sus dólares en bancos uruguayos, al otro lado del Río de la Plata. Era su caja fuerte. Cuando estalla el corralito, empiezan a sacarlos. Primero, poco a poco. Luego, en avalancha.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "photo": "Montevideo ciudad",
+     "src": "commons,loc,europeana",
+     "at": "Montevideo",
+     "lt": [
+      "Montevideo",
+      "Uruguay"
+     ],
+     "lugar": "montevideo"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8f45/fe63/bd2744987a1a1efb2fc1131c0d264e62.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=222bc8334910144b7b59acb65888f3485ac8227552af1247686a030764720073",
+     "at": "empiezan a sacarlos"
+    }
+   ],
+   "gen": "cQfx9szb42cvWBdca7Gi",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/VF1bbUrwdt8zIuZjrppg/cQfx9szb42cvWBdca7Gi/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=CbFvA22z48I0wrANysTcG3Jw0vU="
+  },
+  {
+   "k": "N",
+   "text": "En medio año, el sistema bancario uruguayo devuelve casi la mitad de todos sus depósitos. Un cuarenta y siete por ciento, según los cálculos publicados después en el propio Uruguay. Las reservas del Banco Central se vacían.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 47,
+      "label": "de los depósitos salieron de los bancos uruguayos en medio año · 2002",
+      "suffix": " %"
+     },
+     "at": "Un cuarenta y siete por ciento"
+    },
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/a504/47aa/10d858c54daed0d7dcb59da1501921c2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c5bad59f845e96af101c1484df95394bb478f540daed3ee0da3e322974bbb1e3",
+     "at": "se vacían"
+    }
+   ],
+   "gen": "XSfQCw4BwmP5C0dbEFaB",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/4dyyf51QL3wIrYhHfG4g/XSfQCw4BwmP5C0dbEFaB/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=dOFXKDRwl0fHqEOjA9NcQZNAmdE="
+  },
+  {
+   "k": "R",
+   "text": "El treinta de julio de dos mil dos, el presidente Jorge Batlle decreta un feriado bancario. Es el primero en veinte años. Los bancos de Uruguay no abren.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "photo": "Jorge Batlle",
+     "src": "commons,loc,europeana",
+     "at": "Jorge Batlle",
+     "lt": [
+      "Jorge Batlle",
+      "Presidente de Uruguay · 2000-2005",
+      "gobierno"
+     ],
+     "lugar": "batlle"
+    },
+    {
+     "photo": "Banco de la República Oriental del Uruguay sede Montevideo",
+     "src": "commons,loc,europeana",
+     "at": "Los bancos de Uruguay no abren",
+     "lt": [
+      "Banco de la República",
+      "Montevideo"
+     ],
+     "lugar": "brou"
+    }
+   ],
+   "gen": "sao8Ef7ysaPWL6ZsQTRg",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/8D8vlQkvuIpXW2zJBcxh/sao8Ef7ysaPWL6ZsQTRg/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=DMfGPLXVxRNpqPyb7SbCEouY3Os="
+  },
+  {
+   "k": "N",
+   "text": "Durante varios días, un país entero se queda sin bancos. Y en Washington se negocia contra el reloj.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/76aa/b2ca/5cb59530a39d9d19f46b98f4b2ded57c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=70edcaaa7caad6fcddcd1722d518e0153ae383f2f5ff757152e1aa02792422aa",
+     "at": "se queda sin bancos"
+    }
+   ],
+   "gen": "XzsBMkatS3ybdfCvfa2l",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/JycVj4DAi1eZUCtMxb42/XzsBMkatS3ybdfCvfa2l/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=VBU62ZyKmqvT4GVirajvNTlEQfw="
+  },
+  {
+   "k": "N",
+   "text": "La salida llega desde el Tesoro de Estados Unidos: un préstamo puente de mil quinientos millones de dólares. El domingo cuatro de agosto, el Parlamento uruguayo aprueba a toda prisa la ley que lo hace posible. Los plazos fijos en dólares de la banca pública se aplazan. Pero las cuentas corrientes y las cajas de ahorro de los dos bancos públicos quedan garantizadas.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 1500,
+      "label": "millones de dólares · préstamo puente del Tesoro de EE. UU. a Uruguay",
+      "suffix": ""
+     },
+     "at": "mil quinientos millones"
+    },
+    {
+     "card": {
+      "type": "doc",
+      "title": "Ley 17.523 · Uruguay",
+      "lines": [
+       "Aprobada el 4 de agosto de 2002",
+       "Prórroga de los plazos fijos de la banca pública",
+       "Garantía de cuentas corrientes y cajas de ahorro"
+      ],
+      "source": "Parlamento del Uruguay"
+     },
+     "at": "la ley que lo hace posible"
+    }
+   ],
+   "gen": "KxC2vwb9yYyMKLmQVAG7",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/azuYNnqp0pnMQdfwnPED/KxC2vwb9yYyMKLmQVAG7/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=XLmoU-8-4CycsIa-3xUmK1PTNyI="
+  },
+  {
+   "k": "R",
+   "text": "Los bancos reabren días después, con fuerte vigilancia. Uruguay se libró de un corralito como el argentino. Pero varios bancos privados ya no volvieron a abrir sus puertas.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/27d6/5470/1e0819f48bc91f9965a687088ece0ec5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a889f65093a84816d4d04e64c97b69f1a0613fc994b2b66f46e13fbbd8c4d8c5",
+     "at": "ya no volvieron a abrir"
+    }
+   ],
+   "gen": "ra38zSvn0gUzJ5qHcaMj",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9SHkJeAdBR8GJrJX6TOF/ra38zSvn0gUzJ5qHcaMj/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=idfMyEZW_EB7OKGGKqBA5cfRatw="
+  },
+  {
+   "k": "N",
+   "text": "Y aquella crisis dejó una frase para la historia. En plena resaca, ante el secretario del Tesoro estadounidense, Batlle soltó en inglés: We are fantastic. [pause] Uruguay acababa de comprobar que el miedo no entiende de fronteras.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "card": {
+      "type": "quote",
+      "text": "We are fantastic.",
+      "attrib": "Jorge Batlle ante el secretario del Tesoro de EE. UU. · 6 de agosto de 2002"
+     },
+     "at": "We are fantastic"
+    }
+   ],
+   "gen": "QxCJl7GRUI9gOAkFXgvq",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/U9SBvlxj8wYpIyNXG6h5/QxCJl7GRUI9gOAkFXgvq/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=fI7km87NTuR2KLZoLsZki0XMmcE="
   },
   {
    "k": "N",
@@ -3500,16 +3408,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "palabra_viaja"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/979b/ff24/ce6567a079762f199f2def3b66e120db.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b6ff0c9336818ee30ed3fd062a6fdbbe04ae35cdf27d228f61ce5a682bfac78a",
      "at": "aterrizó en Europa"
     }
    ],
    "gen": "yq6XmdOf3JToryucYIo6",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xf3F9I8ohdRTBm8rgpnq/yq6XmdOf3JToryucYIo6/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=xvqPxswt-A_OomrcGzH66kS5HHY="
+   "url": "jobs/corralito/voz/yq6XmdOf3JToryucYIo6.mp3"
   },
   {
    "k": "N",
@@ -3517,16 +3421,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "sombra_europa"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/b0f3/0fab/1774551f14a1cf47387816b7da753f9d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b0c604c4d9ddeae80cfd754381e40ce25b34645927c8558ccc4c46f1857c16e6",
      "at": "Hasta que pasó"
     }
    ],
    "gen": "pXy1Fpky0W70tw20Mym2",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/7sqa4MJC2ooa75S8fhdM/pXy1Fpky0W70tw20Mym2/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=3I8FUxZuZBgdHOd-Gkl0HLReqmI="
+   "url": "jobs/corralito/voz/pXy1Fpky0W70tw20Mym2.mp3"
   },
   {
    "k": "T",
@@ -3537,7 +3437,7 @@
     "type": "title",
     "title": "¿Y en España?",
     "sub": "Chipre · Grecia · el Popular",
-    "num": "VIII"
+    "num": "IX"
    }
   },
   {
@@ -3593,7 +3493,7 @@
     }
    ],
    "gen": "tt3VXv59e86ycNUHsDgX",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/gIxrR9cbhvMkg3CspjFO/tt3VXv59e86ycNUHsDgX/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=6yBZPn83RlPv5BNmhJR46oRM3PA="
+   "url": "jobs/corralito/voz/tt3VXv59e86ycNUHsDgX.mp3"
   },
   {
    "k": "R",
@@ -3658,7 +3558,7 @@
     }
    ],
    "gen": "dtnm45bK1RN3yjg3qB9E",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HrTAdNlTEuhDqInBqq5l/dtnm45bK1RN3yjg3qB9E/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=WYnGEA4BYv40kWx56b0BS6XkIj0="
+   "url": "jobs/corralito/voz/dtnm45bK1RN3yjg3qB9E.mp3"
   },
   {
    "k": "N",
@@ -3666,16 +3566,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "linea_cruzada"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/6bc5/3df1/58334f56aaf991c8070facf3d43d2b92.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c7abdbf024ade648cd6c88d7c18e45b2fbe08728bf6777687ee6d569ce53d966",
      "at": "había cruzado una línea"
     }
    ],
    "gen": "yIBtozRl6SeHzuRGu9C9",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/82j6tSdAVcR8j12ercoh/yIBtozRl6SeHzuRGu9C9/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=oC5Mz4kB_kqw8KCA8hPjxftYKSk="
+   "url": "jobs/corralito/voz/yIBtozRl6SeHzuRGu9C9.mp3"
   },
   {
    "k": "N",
@@ -3683,11 +3579,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "nicosia_cola"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/926a/0392/cc8f5097421df8050d8d107c5748e444.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fceb5c9a67fa00e4a4a56a1eb45973dbcef6a7b46d713c95b3c47771070ab2f2",
      "at": "cierran casi dos semanas"
     },
     {
@@ -3717,7 +3609,7 @@
     }
    ],
    "gen": "KHeUm5hMp8qb3NyHtX3E",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/55OVz1c8fBEd0tJcbgbG/KHeUm5hMp8qb3NyHtX3E/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=xiPOKqeTaA00iXtFhAL5OsasKVA="
+   "url": "jobs/corralito/voz/KHeUm5hMp8qb3NyHtX3E.mp3"
   },
   {
    "k": "R",
@@ -3745,16 +3637,12 @@
      "at": "sesenta euros al día"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "jubilados_atenas"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/ea6d/5bda/3dc5e855e249c27c8f547c28c13a9e0a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=77f35d40a63eeb7a7b9202b5775e91cd7019fa8a7e3904921ebec0aaf4e4f3b1",
      "at": "Los bancos tardan tres semanas"
     }
    ],
    "gen": "LtzRHMdndAZLjo3B0PUc",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/Cvu9xAvaMLG6sL9WyUiw/LtzRHMdndAZLjo3B0PUc/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=vb9537r7ZPM0hIwmR67cEbbs6gY="
+   "url": "jobs/corralito/voz/LtzRHMdndAZLjo3B0PUc.mp3"
   },
   {
    "k": "R",
@@ -3762,16 +3650,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "urna_atenas"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/53dd/324f/bc214f5c094329a9bc31bf9290b1b6b4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f2a6794dca3f086cfea9b5b33f36a82a3fafeca58e787ab8f826bbf3fbc627fd",
      "at": "vota en referéndum"
     }
    ],
    "gen": "Ph9hnEVIiiUHt7HNWz0y",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HKPRHtns2DOfk7htK354/Ph9hnEVIiiUHt7HNWz0y/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=cq831V5hfPGAZgDSa1y-MJixNC4="
+   "url": "jobs/corralito/voz/Ph9hnEVIiiUHt7HNWz0y.mp3"
   },
   {
    "k": "N",
@@ -3779,11 +3663,7 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "cola_bankia"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/8f45/fe63/bd2744987a1a1efb2fc1131c0d264e62.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=222bc8334910144b7b59acb65888f3485ac8227552af1247686a030764720073",
      "at": "el miedo tuvo fecha"
     },
     {
@@ -3799,7 +3679,125 @@
     }
    ],
    "gen": "F7bh4XS3Da9RK6cn0Qx4",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/5MA564EYOlbjOmSSfSO7/F7bh4XS3Da9RK6cn0Qx4/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=h0umcA-OQXhENvcH8MluyyVeDUI="
+   "url": "jobs/corralito/voz/F7bh4XS3Da9RK6cn0Qx4.mp3"
+  },
+  {
+   "k": "N",
+   "text": "Pero para cientos de miles de ahorradores españoles, aquellos años sí trajeron su propio corralito. Uno con otro nombre.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/c940/0109/bc33d927690233312ecb633dc7ae22c9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1be3becd03783ecc1d2b61cbfa81e88db7516c7795c19e05bb3d6a3abf6c39b8",
+     "at": "su propio corralito"
+    }
+   ],
+   "gen": "VaHVHAxcM6bf080oJRWn",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dOm94t1OrWjvzeM3MqoB/VaHVHAxcM6bf080oJRWn/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=bwlj1Zfo7akVc4WUZRG3TRfehqE="
+  },
+  {
+   "k": "R",
+   "text": "Las participaciones preferentes. Durante años, bancos y cajas las colocaron a clientes de toda la vida como si fueran casi un depósito. No lo eran. No tenían fecha de vencimiento y no las cubría el Fondo de Garantía. En toda España se vendieron unos treinta mil millones de euros a cerca de setecientos mil clientes, según los cálculos publicados entonces.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "versus",
+      "left": {
+       "name": "Depósito",
+       "lines": [
+        "fecha de vencimiento",
+        "cubierto hasta 100.000 €"
+       ]
+      },
+      "right": {
+       "name": "Preferente",
+       "lines": [
+        "sin vencimiento",
+        "sin Fondo de Garantía"
+       ]
+      }
+     },
+     "at": "No lo eran"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 30000,
+      "label": "millones de euros en preferentes vendidos en España (aprox.)",
+      "suffix": ""
+     },
+     "at": "unos treinta mil millones"
+    }
+   ],
+   "gen": "xBa7eNQ372ik9ZMktZP2",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/YHu8dqM20dL6Y0lZkK1I/xBa7eNQ372ik9ZMktZP2/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=yeL3CvajsnVOImhDQ6BMN1iE7QI="
+  },
+  {
+   "k": "N",
+   "text": "Cuando las cajas se hundieron, ese dinero quedó atrapado. No había quien lo comprara. Y en el rescate, las preferentes de Bankia se convirtieron en acciones con una quita media del treinta y ocho por ciento.",
+   "voice": "NEW",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/e4e5/29d3/91b4a6592ef500500c67f965d50f9d95.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ff5b205cb6ab10d2568a8e86885230db202cab9b86df5e3446119abab0d7ef44",
+     "at": "quedó atrapado"
+    },
+    {
+     "card": {
+      "type": "counter",
+      "from": 0,
+      "to": 38,
+      "label": "de quita media en las preferentes de Bankia · 2013",
+      "suffix": " %"
+     },
+     "at": "treinta y ocho por ciento"
+    }
+   ],
+   "gen": "pTz8oZd71eudIRJhohQG",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/wB2o0lKjKPgrKe4XaK0L/pTz8oZd71eudIRJhohQG/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=0dpap1OFGMRvbrcfwYmcnxCDO2I="
+  },
+  {
+   "k": "R",
+   "text": "Llegaron los arbitrajes y los juicios. Solo en Bankia, según la propia entidad, rondaban los trescientos mil afectados. Alrededor de tres de cada cuatro acabaron recuperando toda su inversión, por arbitraje o en los juzgados. Pero hubo quien tardó años.",
+   "voice": "CRO",
+   "shots": [
+    {
+     "card": {
+      "type": "list",
+      "header": "Bankia · preferentes y subordinadas",
+      "items": [
+       [
+        "≈ 300.000",
+        "afectados, según la entidad"
+       ],
+       [
+        "≈ 75 %",
+        "recuperó toda su inversión"
+       ],
+       [
+        "años",
+        "lo que tardaron algunos"
+       ]
+      ]
+     },
+     "at": "Llegaron los arbitrajes"
+    }
+   ],
+   "gen": "I9zuOy5WsTg99WwYCMdt",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/BZKdJGWP4uMMMUIMs85v/I9zuOy5WsTg99WwYCMdt/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=LBnwb6FCWNkGMsCT83vOL3Blyns="
+  },
+  {
+   "k": "N",
+   "text": "[pause] No fue un corralito. Nadie te impedía sacar el dinero de tu cuenta. Pero para quien lo vivió, la sensación se pareció mucho: abrir la carta del banco y descubrir que lo que creías ahorro no lo era.",
+   "voice": "NAR",
+   "shots": [
+    {
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f5bb/83a0/7fa3489e7c7758bc0aafdbf716e13eb1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e6a282a3c6dec5cc8495b7ddef82f54b2aab091ad67c28729e647920890f017a",
+     "at": "la carta del banco"
+    }
+   ],
+   "gen": "XNXbH4P0tvENm8Yubje8",
+   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/69Z0Fn997xx2Cvj32Uwc/XNXbH4P0tvENm8Yubje8/content.mp3?Expires=1795626000&KeyName=assets-cdn-key-1&Signature=mz-5PFnqLVhMFz9YlcRfRR90AyI="
   },
   {
    "k": "N",
@@ -3827,7 +3825,7 @@
     }
    ],
    "gen": "WtPONBbiQ5e3h4OMCRl5",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/ieB9vJ3zFbVyVUXxGWUl/WtPONBbiQ5e3h4OMCRl5/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=5dsbmnYZ3UP4yNBSddgs3SEuQwU="
+   "url": "jobs/corralito/voz/WtPONBbiQ5e3h4OMCRl5.mp3"
   },
   {
    "k": "R",
@@ -3849,7 +3847,7 @@
     }
    ],
    "gen": "8ipQEPW0Ag3k5LnvFb57",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/xCBdAI8tEmasOfoCwQtS/8ipQEPW0Ag3k5LnvFb57/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=k3SbwizKO_64_MP0DkN4OZ17QU4="
+   "url": "jobs/corralito/voz/8ipQEPW0Ag3k5LnvFb57.mp3"
   },
   {
    "k": "N",
@@ -3857,16 +3855,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "accion_papel"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/cb70/f4fb/bd32ed1b98974b741792176d9e6c0a6a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f08254451437c0fcb11bdf217ed119699a0f06471b76e5dc7bf39839df6d58e9",
      "at": "lo perdieron todo"
     }
    ],
    "gen": "IUIS23QlNvfNZRHP71Ks",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/C3En0rqLlCtOklF5J7FM/IUIS23QlNvfNZRHP71Ks/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=bvtrQh3dXKG4o7QtZy7f2-3kGCY="
+   "url": "jobs/corralito/voz/IUIS23QlNvfNZRHP71Ks.mp3"
   },
   {
    "k": "N",
@@ -3874,16 +3868,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "balanza_espana"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/4ab9/3ccb/df7524286ae3e4cc65fd93d66f1164c7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9eff1e3844e506aae8e3c3d92bd0d8a78fc723e0721e5cbf6c353c4d85239734",
      "at": "podría pasar en España"
     }
    ],
    "gen": "SA7AbQ6t2sDzd0hHV5yA",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qS4Wg84Z9t67yTswtBq8/SA7AbQ6t2sDzd0hHV5yA/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=0jI98XwyAXqkRhrdMz9AwSFb4P0="
+   "url": "jobs/corralito/voz/SA7AbQ6t2sDzd0hHV5yA.mp3"
   },
   {
    "k": "R",
@@ -3923,7 +3913,7 @@
     }
    ],
    "gen": "E5WUmym661aYfUFwrvgu",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/hpfNh9qpXDU3tP9OW5kN/E5WUmym661aYfUFwrvgu/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=53RIpWCOkmiOA7vC30Xxn-oEdGk="
+   "url": "jobs/corralito/voz/E5WUmym661aYfUFwrvgu.mp3"
   },
   {
    "k": "R",
@@ -3953,7 +3943,7 @@
     }
    ],
    "gen": "tgSA6evFN2uu31rmn51I",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/69j0ktpWBCuxWIDIoDWJ/tgSA6evFN2uu31rmn51I/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=RmYnFfOR2FnXMBgd6ou5w-zgCvY="
+   "url": "jobs/corralito/voz/tgSA6evFN2uu31rmn51I.mp3"
   },
   {
    "k": "N",
@@ -3982,7 +3972,7 @@
     }
    ],
    "gen": "Zv7Ajbpbqt1XCofEO6PJ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/9zjNIw25BEhrtLr0SR1d/Zv7Ajbpbqt1XCofEO6PJ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=PZXKVZyfG5Cy0E40Y7BLOLCwApQ="
+   "url": "jobs/corralito/voz/Zv7Ajbpbqt1XCofEO6PJ.mp3"
   },
   {
    "k": "N",
@@ -3990,16 +3980,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "grifo_bce"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/f1e6/d8ad/507e1a9262070f893f60e448e72216a4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ca6a5904b6961794d71f8dbd77f9d888f36a4b3a7d06c0a1755d85bc11a2a39c",
      "at": "deja de dar liquidez"
     }
    ],
    "gen": "N2FKnIAdWvziA19BZwXE",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/d2LTeLbnCxzrijBkU733/N2FKnIAdWvziA19BZwXE/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Ex0hFPKJgS_WRCv4foSbvRvX8Q0="
+   "url": "jobs/corralito/voz/N2FKnIAdWvziA19BZwXE.mp3"
   },
   {
    "k": "R",
@@ -4016,7 +4002,7 @@
     }
    ],
    "gen": "F01ISmeQ0rpKgbWqWgtA",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/E5MV4hKEyN0wMCLj3mOF/F01ISmeQ0rpKgbWqWgtA/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=k5jsjT3VnkAk9KjTCNMJluPF0v0="
+   "url": "jobs/corralito/voz/F01ISmeQ0rpKgbWqWgtA.mp3"
   },
   {
    "k": "N",
@@ -4045,7 +4031,7 @@
     }
    ],
    "gen": "KydWTWAEXun3022iuWiJ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/CinKev79gK1VklTncbA3/KydWTWAEXun3022iuWiJ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=MZ-n2kG_t1U0Zib0MBxi0DNzOkk="
+   "url": "jobs/corralito/voz/KydWTWAEXun3022iuWiJ.mp3"
   },
   {
    "k": "R",
@@ -4053,16 +4039,12 @@
    "voice": "CRO",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "contrato_lupa"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/1671/99b7/c02ef9a86cc5a7d0747ab1020c29a7f1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bf4f3042852a29250b7d2f017a7a89caf3961a2e79ec2b93e122609fbe33cab0",
      "at": "el contrato de cualquier depósito"
     }
    ],
    "gen": "0jVmbPIFYJBxLemonGuQ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/l3NIiEJPFwSX8Jd84iSX/0jVmbPIFYJBxLemonGuQ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=VXOkKRL7UoDh94annpnp3E_s1NI="
+   "url": "jobs/corralito/voz/0jVmbPIFYJBxLemonGuQ.mp3"
   },
   {
    "k": "N",
@@ -4070,16 +4052,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "horizonte_niebla"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/60ed/eee8/47dfcb5cff9a95fee97ef2c4da42b5a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=37d49489d66853edc30ca92ba60bb421c03406faff345fffebe92807f863c17e",
      "at": "la respuesta honesta"
     }
    ],
    "gen": "bDkqYgzVhEyHSjHBHZrj",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/D2ku8Odf9opTZhkDBTYj/bDkqYgzVhEyHSjHBHZrj/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=mrf8A7kelsd3ukVGX51kA5v42Wg="
+   "url": "jobs/corralito/voz/bDkqYgzVhEyHSjHBHZrj.mp3"
   },
   {
    "k": "R",
@@ -4097,16 +4075,12 @@
      "at": "más de novecientos mil millones"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "paraguas_lluvia"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/d65d/b0e4/3c89ba7b242fa5b19d2ea31c2cb8928e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9250e6eacc924fae12b455e1ffc4dc64b3dc6aac09814ff2ba3dee8f652a998a",
      "at": "como todos los seguros"
     }
    ],
    "gen": "ZJFjunoLT3wV65DgUdyW",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/dwgK3oupQDrwQIZDrA4j/ZJFjunoLT3wV65DgUdyW/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=abxAPOu8j-CeczD9NdVcf6xf22E="
+   "url": "jobs/corralito/voz/ZJFjunoLT3wV65DgUdyW.mp3"
   },
   {
    "k": "B",
@@ -4118,24 +4092,16 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "colchon_dolares"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/2807/6bf7/7a60ee6b86aadbb63cba834025c3db03.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c3767f3d1ddb4c56b3af84bb1e4ad1b3fe101ee5cd0b9b13719142e4432406ad",
      "at": "debajo del colchón"
     },
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "ley_sobre_ley"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/bbdd/ea0c/823290f64d612073b8264d2295d77a54.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ac34f595633c43c8c8c19907aaa2ed3364ca32d3a6b67cc770c54725820fc6d0",
      "at": "en escribir otra"
     }
    ],
    "gen": "jeeWrPIHbfuvYEyCinCe",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/HCaqnbOkuKxiI7GICXWc/jeeWrPIHbfuvYEyCinCe/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=mWq_H5GeKwzGtyANlERebYzwTgU="
+   "url": "jobs/corralito/voz/jeeWrPIHbfuvYEyCinCe.mp3"
   },
   {
    "k": "N",
@@ -4143,16 +4109,12 @@
    "voice": "NEW",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "castillo_naipes"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/ae5a/207c/b8e61b2e53700e7d2be91b99cf6ec7fd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3981359a1347314f95ab128334dc0a4836a3079070c8aab5ed32e00cfddd3d21",
      "at": "mientras todos creyeran en él"
     }
    ],
    "gen": "RJlYlimtLCRoKB6kaSrX",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/FFpRu7F9oogEBGa5ev91/RJlYlimtLCRoKB6kaSrX/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=G1LJ_80zGpBhYU3OydpE-Ike09o="
+   "url": "jobs/corralito/voz/RJlYlimtLCRoKB6kaSrX.mp3"
   },
   {
    "k": "N",
@@ -4182,7 +4144,7 @@
     }
    ],
    "gen": "w2yv2qmQKq5ubh6yAMcb",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/3nwTQU7LwuPQPC3n5Z8f/w2yv2qmQKq5ubh6yAMcb/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=Uhfl0f3gnS71_FK14KDp5U0t1Nc="
+   "url": "jobs/corralito/voz/w2yv2qmQKq5ubh6yAMcb.mp3"
   },
   {
    "k": "N",
@@ -4190,16 +4152,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "puerta_boveda_final"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/dcb9/c47e/d6a33c2be47333789762ded2a33a1304.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=526787cd1beef5a84c5de1bba18b7bcc9ee04a5c4c7d663d4a6b40a33f9a74f4",
      "at": "no es una caja fuerte"
     }
    ],
    "gen": "IqJr9r1S5p6GOBo9Y8KJ",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/rcVkTYwTTkRBjlgQKVsl/IqJr9r1S5p6GOBo9Y8KJ/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=4MGQTU75bl8gRF5dqO1xhlqxgQs="
+   "url": "jobs/corralito/voz/IqJr9r1S5p6GOBo9Y8KJ.mp3"
   },
   {
    "k": "N",
@@ -4207,16 +4165,12 @@
    "voice": "NAR",
    "shots": [
     {
-     "card": {
-      "type": "kw",
-      "word": "·",
-      "sub": "heli_final"
-     },
+     "ai": "https://blobs.figma.com/blobs/us/download/figma-alpha/img/98f1/5cce/692532d905b5b35d08d77cba2fcf36dc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3WM52WPH%2F20261122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261122T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9a773b58d823a5310f6ac3c4289fbae6b313150e597638c5597842310f8228be",
      "at": "Si te ha gustado"
     }
    ],
    "gen": "i4Ymw1N4av4AGfrSlJLv",
-   "url": "https://elevenlabsusercontent.com/database/workspace/7b4fe3a6bf44426a98da0b2e9ea701e0/content_generation/qa9UZDNfLa2uxBq7QOnf/i4Ymw1N4av4AGfrSlJLv/content.mp3?Expires=1795622400&KeyName=assets-cdn-key-1&Signature=uHdNy9rlnPSyPIJTcCPOGVR-TNs="
+   "url": "jobs/corralito/voz/i4Ymw1N4av4AGfrSlJLv.mp3"
   }
  ]
 }

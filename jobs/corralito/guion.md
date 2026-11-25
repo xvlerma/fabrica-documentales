@@ -1,6 +1,6 @@
 # El corralito argentino · guion
 
-Palabras: **5154** (objetivo 5.220 ±3 %) · caracteres: 29551 · por voz: NAR 1611 (31 %), NEW 1656 (32 %), CRO 1686 (33 %), DOC 102 (2 %), CAV 26 (1 %), DLR 45 (1 %), RSA 11 (0 %), DUH 17 (0 %)
+Palabras: **5851** (objetivo 5.220 ±3 %) · caracteres: 33683 · por voz: NAR 1787 (31 %), NEW 1846 (32 %), CRO 1989 (34 %), DOC 130 (2 %), CAV 26 (0 %), DLR 45 (1 %), RSA 11 (0 %), DUH 17 (0 %)
 
 **NARRADOR (TOP)** · Buenos Aires. Jueves, veinte de diciembre de dos mil uno. Pasadas las siete y media de la tarde. Sobre la azotea de la Casa Rosada, un helicóptero blanco enciende los motores.
 
@@ -27,6 +27,16 @@ Palabras: **5154** (objetivo 5.220 ±3 %) · caracteres: 29551 · por voz: NAR 1
 **NARRADOR (NEW)** · Para entender el corralito hay que retroceder diez años. A una Argentina que acaba de salir de una pesadilla. En mil novecientos ochenta y nueve los precios se multiplicaron por más de treinta en un solo año. Hiperinflación.
 
 **NARRADOR (NEW)** · Los sueldos se cobraban por la mañana y se gastaban por la tarde, antes de que el billete valiera menos. Había supermercados que remarcaban los precios varias veces al día.
+
+**NARRADOR (TOP)** · Y antes del milagro, hubo un aviso. Uno que casi nadie recuerda fuera de Argentina.
+
+**LA CRONISTA** · Veintiocho de diciembre de mil novecientos ochenta y nueve. En la Casa Rosada, el ministro de Economía de Menem, Antonio Erman González, anuncia que los plazos fijos se van a canjear a la fuerza por bonos del Estado. Los Bonex ochenta y nueve. En dólares, sí. Pero a cobrar en diez años.
+
+**DOCUMENTOS** · Decreto treinta y seis de mil novecientos noventa. Para que la moneda nacional recupere su valor adquisitivo, resulta imprescindible limitar la circulación en australes a lo estrictamente necesario.
+
+**NARRADOR (NEW)** · El canje afectaba a todo lo que pasara de un millón de australes, unos quinientos cincuenta dólares de la época. Y quien necesitaba el dinero ya, tenía que vender esos bonos en la calle. Según Javier González Fraga, que presidió después el Banco Central, llegaron a cotizar al treinta por ciento de su valor.
+
+**NARRADOR (TOP)** · La Corte Suprema dio por bueno el decreto. Y los argentinos aprendieron una primera lección: un plazo fijo podía convertirse, de la noche a la mañana, en un papel a diez años. Doce años después, esa lección volvería. Multiplicada.
 
 **NARRADOR (TOP)** · Y entonces llega un economista de Córdoba con un plan que parece magia. Domingo Cavallo, ministro de Economía de Carlos Menem. Marzo de mil novecientos noventa y uno. La Ley de Convertibilidad.
 
@@ -254,6 +264,8 @@ Palabras: **5154** (objetivo 5.220 ±3 %) · caracteres: 29551 · por voz: NAR 1
 
 **NARRADOR (TOP)** · La reacción fue furiosa. Durante todo dos mil dos, miles de ahorradores se plantan cada semana frente a los bancos. Golpean las persianas con martillos. Pintan las fachadas. Y los bancos responden blindando las puertas con planchas de metal.
 
+**LA CRONISTA** · En el centro de Buenos Aires, el grito se repetía cada semana frente a los bancos: chorros, chorros, chorros, devuelvan los ahorros. Ladrones. Devuelvan los ahorros. En noviembre de dos mil dos, en Mar del Plata, la tensión llegó a tal punto que la mayoría de los bancos de la ciudad no abrieron.
+
 **LA CRONISTA** · Los tribunales se llenan de recursos de amparo. El uno de febrero, la Corte Suprema declara inconstitucional el corralito en el caso de un ahorrador. Quien tenía abogado y paciencia, a veces, recuperaba algo más. Quien no, se quedaba con lo que le dieran.
 
 **LA CRONISTA** · A quien no quería pesos, el Gobierno le ofreció otra salida: cambiar su depósito por bonos del Estado en dólares, los Boden, que se irían pagando a lo largo de diez años. Quien aguantó hasta dos mil doce recuperó buena parte de sus dólares. Pero tuvo que esperar una década.
@@ -266,12 +278,31 @@ Palabras: **5154** (objetivo 5.220 ±3 %) · caracteres: 29551 · por voz: NAR 1
 
 **NARRADOR (NEW)** · Una película argentina de dos mil diecinueve con Ricardo Darín, La odisea de los giles, contó esta historia desde el pueblo: unos vecinos que juntan sus ahorros para montar una cooperativa y los pierden en el corralito. Su título lo dice todo. Los giles. Los ingenuos. Los que confiaron.
 
+
+## VIII · Al otro lado del río  ·  _Uruguay · 2002_
+
+**NARRADOR (TOP)** · Pero el corralito no se quedó en Argentina. Cruzó el río.
+
+**LA CRONISTA** · Montevideo, dos mil dos. Durante años, miles de argentinos habían guardado sus dólares en bancos uruguayos, al otro lado del Río de la Plata. Era su caja fuerte. Cuando estalla el corralito, empiezan a sacarlos. Primero, poco a poco. Luego, en avalancha.
+
+**NARRADOR (NEW)** · En medio año, el sistema bancario uruguayo devuelve casi la mitad de todos sus depósitos. Un cuarenta y siete por ciento, según los cálculos publicados después en el propio Uruguay. Las reservas del Banco Central se vacían.
+
+**LA CRONISTA** · El treinta de julio de dos mil dos, el presidente Jorge Batlle decreta un feriado bancario. Es el primero en veinte años. Los bancos de Uruguay no abren.
+
+**NARRADOR (TOP)** · Durante varios días, un país entero se queda sin bancos. Y en Washington se negocia contra el reloj.
+
+**NARRADOR (NEW)** · La salida llega desde el Tesoro de Estados Unidos: un préstamo puente de mil quinientos millones de dólares. El domingo cuatro de agosto, el Parlamento uruguayo aprueba a toda prisa la ley que lo hace posible. Los plazos fijos en dólares de la banca pública se aplazan. Pero las cuentas corrientes y las cajas de ahorro de los dos bancos públicos quedan garantizadas.
+
+**LA CRONISTA** · Los bancos reabren días después, con fuerte vigilancia. Uruguay se libró de un corralito como el argentino. Pero varios bancos privados ya no volvieron a abrir sus puertas.
+
+**NARRADOR (TOP)** · Y aquella crisis dejó una frase para la historia. En plena resaca, ante el secretario del Tesoro estadounidense, Batlle soltó en inglés: We are fantastic. Uruguay acababa de comprobar que el miedo no entiende de fronteras.
+
 **NARRADOR (TOP)** · Argentina tardó años en levantarse. Y desde entonces, la palabra corralito viaja sola por el mundo. Hasta que, en dos mil trece, aterrizó en Europa.
 
 **NARRADOR (TOP)** · Y ahí empieza la parte de esta historia que nos toca más de cerca. Porque lo que pasó en Buenos Aires parecía imposible en Europa. Hasta que pasó.
 
 
-## VIII · ¿Y en España?  ·  _Chipre · Grecia · el Popular_
+## IX · ¿Y en España?  ·  _Chipre · Grecia · el Popular_
 
 **LA CRONISTA** · Chipre. Marzo de dos mil trece. Un país del euro, con bancos gigantes para su tamaño, pide un rescate a la Unión Europea y al FMI. La condición incluye algo que nunca se había hecho en la eurozona.
 
@@ -286,6 +317,16 @@ Palabras: **5154** (objetivo 5.220 ±3 %) · caracteres: 29551 · por voz: NAR 1
 **LA CRONISTA** · Grecia vota en referéndum el cinco de julio. Gana el no a las condiciones del rescate. Una semana después, su Gobierno acepta un acuerdo todavía más duro. Con los bancos cerrados, el margen para negociar se había esfumado.
 
 **NARRADOR (NEW)** · En España, el miedo tuvo fecha. Mayo de dos mil doce, cuando Bankia pidió el rescate. Aquella semana, el Nobel de Economía Paul Krugman llegó a escribir en el New York Times que veía venir el fin del euro y corralitos en España. Los ministros salieron a desmentirlo. Y no pasó. Pero el susto quedó.
+
+**NARRADOR (TOP)** · Pero para cientos de miles de ahorradores españoles, aquellos años sí trajeron su propio corralito. Uno con otro nombre.
+
+**LA CRONISTA** · Las participaciones preferentes. Durante años, bancos y cajas las colocaron a clientes de toda la vida como si fueran casi un depósito. No lo eran. No tenían fecha de vencimiento y no las cubría el Fondo de Garantía. En toda España se vendieron unos treinta mil millones de euros a cerca de setecientos mil clientes, según los cálculos publicados entonces.
+
+**NARRADOR (NEW)** · Cuando las cajas se hundieron, ese dinero quedó atrapado. No había quien lo comprara. Y en el rescate, las preferentes de Bankia se convirtieron en acciones con una quita media del treinta y ocho por ciento.
+
+**LA CRONISTA** · Llegaron los arbitrajes y los juicios. Solo en Bankia, según la propia entidad, rondaban los trescientos mil afectados. Alrededor de tres de cada cuatro acabaron recuperando toda su inversión, por arbitraje o en los juzgados. Pero hubo quien tardó años.
+
+**NARRADOR (TOP)** · No fue un corralito. Nadie te impedía sacar el dinero de tu cuenta. Pero para quien lo vivió, la sensación se pareció mucho: abrir la carta del banco y descubrir que lo que creías ahorro no lo era.
 
 **NARRADOR (TOP)** · Y España. Siete de junio de dos mil diecisiete. El Banco Popular, el sexto banco del país, amanece intervenido. La Junta Única de Resolución europea lo vende al Santander por un euro.
 

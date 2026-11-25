@@ -1,5 +1,9 @@
 # Palabras que identifican lo que DEBE salir en cada búsqueda (coherencia imagen-locución).
 L = {
+ 'montevideo': ['montevideo'],
+ 'brou': ['banco de la república oriental', 'banco de la republica oriental', 'brou'],
+ 'batlle': ['jorge batlle', 'batlle'],
+ 'mardelplata': ['mar del plata', 'mar_del_plata'],
  'rosada': ['casa rosada', 'casa de gobierno', 'pink house', 'casa_rosada'],
  'plazamayo': ['plaza de mayo', 'plaza_de_mayo', 'pirámide de mayo', 'piramide de mayo'],
  'congreso': ['congreso de la nación', 'congreso de la nacion', 'palacio del congreso', 'argentine national congress', 'congreso_de_la_naci'],

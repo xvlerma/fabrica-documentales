@@ -52,8 +52,7 @@ NAR("Y en febrero llega el golpe definitivo. La pesificación. Todos los depósi
     cd(dict(type='doc', title='Decreto 214/2002', lines=['Pesificación de depósitos y deudas', 'Depósitos: 1,40 pesos por dólar + ajuste', 'Deudas: 1 peso por dólar'], source='Poder Ejecutivo Nacional · febrero de 2002'), at='La pesificación'),
     ai('dolar_derrite', 'a green dollar bill melting like wax into a puddle of pale blue paper money on a bank counter, surreal, high contrast', at='se convierten a la fuerza'))
 CRO("Uno con cuarenta parecía razonable. El problema es que el dólar, ya libre, no se quedó ahí. En pocos meses llegó a rozar los cuatro pesos.",
-    USD(3.90, 'pesos por dólar · máximo de 2002 (aprox.)', at='rozar los cuatro pesos', frm=1.40),
-    ai('flecha_sube', 'a huge red arrow smashing upward through the ceiling of a currency exchange office, people below looking up in shock', at='En pocos meses'))
+    USD(3.90, 'pesos por dólar · máximo de 2002 (aprox.)', at='rozar los cuatro pesos', frm=1.40))
 NAR("Haz la cuenta. Si tenías diez mil dólares en el banco, te devolvían catorce mil pesos. Y con catorce mil pesos, en la calle, podías comprar unos tres mil quinientos dólares. Si aceptabas los pesos, habías perdido casi dos tercios de tus ahorros. Sin hacer nada. Sin tocar nada.",
     cd(dict(type='split', left=dict(title='Lo que depositaste', lines=['10.000 dólares', 'antes del corralito']), right=dict(title='Lo que podías recuperar', lines=['14.000 pesos', '≈ 3.500 dólares a mediados de 2002'])), at='Haz la cuenta'),
     ai('ahorros_humo', 'a pair of hands holding a wad of banknotes that turns into smoke and drifts away, a disbelieving silhouette behind, slow motion', at='casi dos tercios'))
@@ -69,6 +68,9 @@ NAR("Imagina por un momento que eres tú. Que tienes los ahorros de toda una vid
 NAR("La reacción fue furiosa. Durante todo dos mil dos, miles de ahorradores se plantan cada semana frente a los bancos. Golpean las persianas con martillos. Pintan las fachadas. Y los bancos responden blindando las puertas con planchas de metal.",
     ai('martillos_banco', 'a crowd of middle-aged savers striking the metal-plated front of a bank with hammers and pots, sparks flying, rage in motion', at='Golpean las persianas con martillos'),
     ai('fachada_chapas', 'a grand bank facade completely covered with welded steel plates and graffiti scrawls without readable letters, an empty street, eerie', at='planchas de metal'))
+CRO("En el centro de Buenos Aires, el grito se repetía cada semana frente a los bancos: chorros, chorros, chorros, devuelvan los ahorros. Ladrones. Devuelvan los ahorros. En noviembre de dos mil dos, en Mar del Plata, la tensión llegó a tal punto que la mayoría de los bancos de la ciudad no abrieron.",
+    cd(dict(type='quote', text='Chorros, chorros, chorros, devuelvan los ahorros.', attrib='Consigna de los ahorristas · Buenos Aires, 2002'), at='chorros, chorros'),
+    ph('Mar del Plata ciudad', at='en Mar del Plata', lt=['Mar del Plata', 'Argentina'], lugar='mardelplata'))
 CRO("Los tribunales se llenan de recursos de amparo. El uno de febrero, la Corte Suprema declara inconstitucional el corralito en el caso de un ahorrador. Quien tenía abogado y paciencia, a veces, recuperaba algo más. Quien no, se quedaba con lo que le dieran.",
     ph('Palacio de Justicia de la Nación Buenos Aires', at='la Corte Suprema', lt=['Palacio de Justicia', 'Corte Suprema · Buenos Aires'], lugar='tribunales'),
     ai('expedientes_torre', 'towering stacks of legal files in a courthouse corridor, lawyers squeezing past, a clerk buried behind them, overwhelming', at='recursos de amparo'))
@@ -85,13 +87,36 @@ NAR("La gente se las arregla como puede. Se multiplican los clubes del trueque: 
     ai('cartonero_noche', 'a man pulling a handcart piled with cardboard through a dark city street at night, a child sitting on top, streetlights', at='cartoneros'))
 NEW("Una película argentina de dos mil diecinueve con Ricardo Darín, La odisea de los giles, contó esta historia desde el pueblo: unos vecinos que juntan sus ahorros para montar una cooperativa y los pierden en el corralito. Su título lo dice todo. Los giles. Los ingenuos. Los que confiaron.",
     ai('vecinos_cooperativa', 'a group of small-town neighbours around a kitchen table pooling cash into a tin box, hopeful faces in shadow, warm lamp, rural Argentina', at='La odisea de los giles'))
+# ---------------- VIII · AL OTRO LADO DEL RÍO ----------------
+T('Al otro lado del río', 'Uruguay · 2002', num='VIII', secs=6.0, sting='accion')
+B('tension')
+NAR("[dramatically] Pero el corralito no se quedó en Argentina. Cruzó el río.",
+    cd(dict(type='map', title='Al otro lado del Río de la Plata', bbox=[-59.5, -35.6, -55.5, -33.8], points=[dict(name='Buenos Aires', lon=-58.38, lat=-34.60, big=1), dict(name='Montevideo', lon=-56.16, lat=-34.90, big=1)]), at='Cruzó el río'))
+CRO("Montevideo, dos mil dos. Durante años, miles de argentinos habían guardado sus dólares en bancos uruguayos, al otro lado del Río de la Plata. Era su caja fuerte. Cuando estalla el corralito, empiezan a sacarlos. Primero, poco a poco. Luego, en avalancha.",
+    ph('Montevideo ciudad', at='Montevideo', lt=['Montevideo', 'Uruguay'], lugar='montevideo'),
+    AIR('cola_bankia', at='empiezan a sacarlos'))
+NEW("En medio año, el sistema bancario uruguayo devuelve casi la mitad de todos sus depósitos. Un cuarenta y siete por ciento, según los cálculos publicados después en el propio Uruguay. Las reservas del Banco Central se vacían.",
+    cd(dict(type='counter', **{'from': 0}, to=47, label='de los depósitos salieron de los bancos uruguayos en medio año · 2002', suffix=' %'), at='Un cuarenta y siete por ciento'),
+    AIR('reloj_arena_billetes', at='se vacían'))
+CRO("El treinta de julio de dos mil dos, el presidente Jorge Batlle decreta un feriado bancario. Es el primero en veinte años. Los bancos de Uruguay no abren.",
+    ph('Jorge Batlle', at='Jorge Batlle', lt=['Jorge Batlle', 'Presidente de Uruguay · 2000-2005', 'gobierno'], lugar='batlle'),
+    ph('Banco de la República Oriental del Uruguay sede Montevideo', at='Los bancos de Uruguay no abren', lt=['Banco de la República', 'Montevideo'], lugar='brou'))
+NAR("Durante varios días, un país entero se queda sin bancos. Y en Washington se negocia contra el reloj.",
+    AIR('puerta_cierra', at='se queda sin bancos'))
+NEW("La salida llega desde el Tesoro de Estados Unidos: un préstamo puente de mil quinientos millones de dólares. El domingo cuatro de agosto, el Parlamento uruguayo aprueba a toda prisa la ley que lo hace posible. Los plazos fijos en dólares de la banca pública se aplazan. Pero las cuentas corrientes y las cajas de ahorro de los dos bancos públicos quedan garantizadas.",
+    cd(dict(type='counter', **{'from': 0}, to=1500, label='millones de dólares · préstamo puente del Tesoro de EE. UU. a Uruguay', suffix=''), at='mil quinientos millones'),
+    cd(dict(type='doc', title='Ley 17.523 · Uruguay', lines=['Aprobada el 4 de agosto de 2002', 'Prórroga de los plazos fijos de la banca pública', 'Garantía de cuentas corrientes y cajas de ahorro'], source='Parlamento del Uruguay'), at='la ley que lo hace posible'))
+CRO("Los bancos reabren días después, con fuerte vigilancia. Uruguay se libró de un corralito como el argentino. Pero varios bancos privados ya no volvieron a abrir sus puertas.",
+    AIR('fachada_chapas', at='ya no volvieron a abrir'))
+NAR("Y aquella crisis dejó una frase para la historia. En plena resaca, ante el secretario del Tesoro estadounidense, Batlle soltó en inglés: We are fantastic. [pause] Uruguay acababa de comprobar que el miedo no entiende de fronteras.",
+    cd(dict(type='quote', text='We are fantastic.', attrib='Jorge Batlle ante el secretario del Tesoro de EE. UU. · 6 de agosto de 2002'), at='We are fantastic'))
 NAR("[pause] Argentina tardó años en levantarse. Y desde entonces, la palabra corralito viaja sola por el mundo. Hasta que, en dos mil trece, aterrizó en Europa.",
     ai('palabra_viaja', 'a paper airplane flying from a smoky South American city across a dark ocean toward a Mediterranean island at dawn, symbolic', at='aterrizó en Europa'))
 
-# ---------------- VIII · ¿Y EN ESPAÑA? ----------------
+# ---------------- IX · ¿Y EN ESPAÑA? ----------------
 NAR("[dramatically] Y ahí empieza la parte de esta historia que nos toca más de cerca. Porque lo que pasó en Buenos Aires parecía imposible en Europa. Hasta que pasó.",
     ai('sombra_europa', 'the long shadow of a South American palace stretching across the ocean and touching the coast of a European city at dawn, symbolic', at='Hasta que pasó'))
-T('¿Y en España?', 'Chipre · Grecia · el Popular', num='VIII', secs=6.0, sting='accion')
+T('¿Y en España?', 'Chipre · Grecia · el Popular', num='IX', secs=6.0, sting='accion')
 B('europa')
 CRO("Chipre. Marzo de dos mil trece. Un país del euro, con bancos gigantes para su tamaño, pide un rescate a la Unión Europea y al FMI. La condición incluye algo que nunca se había hecho en la eurozona.",
     ph('Bank of Cyprus Nicosia', at='Chipre', lt=['Banco de Chipre', 'Nicosia'], lugar='chipre'),
@@ -114,6 +139,18 @@ CRO("Grecia vota en referéndum el cinco de julio. Gana el no a las condiciones 
 NEW("En España, el miedo tuvo fecha. Mayo de dos mil doce, cuando Bankia pidió el rescate. Aquella semana, el Nobel de Economía Paul Krugman llegó a escribir en el New York Times que veía venir el fin del euro y corralitos en España. Los ministros salieron a desmentirlo. Y no pasó. Pero el susto quedó.",
     ph('Paul Krugman', at='Paul Krugman', lt=['Paul Krugman', 'Premio Nobel de Economía · 2008', 'finanzas'], lugar='krugman'),
     ai('cola_bankia', 'worried customers queuing at a Spanish savings bank branch in 2012, an employee at the door trying to calm them, early summer light', at='el miedo tuvo fecha'))
+NAR("Pero para cientos de miles de ahorradores españoles, aquellos años sí trajeron su propio corralito. Uno con otro nombre.",
+    AIR('ahorro_vida', at='su propio corralito'))
+CRO("Las participaciones preferentes. Durante años, bancos y cajas las colocaron a clientes de toda la vida como si fueran casi un depósito. No lo eran. No tenían fecha de vencimiento y no las cubría el Fondo de Garantía. En toda España se vendieron unos treinta mil millones de euros a cerca de setecientos mil clientes, según los cálculos publicados entonces.",
+    cd(dict(type='counter', **{'from': 0}, to=30000, label='millones de euros en preferentes vendidos en España (aprox.)', suffix=''), at='unos treinta mil millones'),
+    cd(dict(type='versus', left=dict(name='Depósito', lines=['fecha de vencimiento', 'cubierto hasta 100.000 €']), right=dict(name='Preferente', lines=['sin vencimiento', 'sin Fondo de Garantía'])), at='No lo eran'))
+NEW("Cuando las cajas se hundieron, ese dinero quedó atrapado. No había quien lo comprara. Y en el rescate, las preferentes de Bankia se convirtieron en acciones con una quita media del treinta y ocho por ciento.",
+    cd(dict(type='counter', **{'from': 0}, to=38, label='de quita media en las preferentes de Bankia · 2013', suffix=' %'), at='treinta y ocho por ciento'),
+    AIR('expedientes_torre', at='quedó atrapado'))
+CRO("Llegaron los arbitrajes y los juicios. Solo en Bankia, según la propia entidad, rondaban los trescientos mil afectados. Alrededor de tres de cada cuatro acabaron recuperando toda su inversión, por arbitraje o en los juzgados. Pero hubo quien tardó años.",
+    cd(dict(type='list', header='Bankia · preferentes y subordinadas', items=[('≈ 300.000', 'afectados, según la entidad'), ('≈ 75 %', 'recuperó toda su inversión'), ('años', 'lo que tardaron algunos')]), at='Llegaron los arbitrajes'))
+NAR("[pause] No fue un corralito. Nadie te impedía sacar el dinero de tu cuenta. Pero para quien lo vivió, la sensación se pareció mucho: abrir la carta del banco y descubrir que lo que creías ahorro no lo era.",
+    AIR('ahorrista_escucha', at='la carta del banco'))
 NAR("Y España. Siete de junio de dos mil diecisiete. El Banco Popular, el sexto banco del país, amanece intervenido. La Junta Única de Resolución europea lo vende al Santander por un euro.",
     ph('Banco Popular Español sede Madrid', at='El Banco Popular', lt=['Banco Popular', 'Madrid · junio de 2017', 'europa'], lugar='popular'),
     cd(dict(type='kw', word='1 EURO', sub='el precio del Banco Popular · 7 de junio de 2017'), at='por un euro'))

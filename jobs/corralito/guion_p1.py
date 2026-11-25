@@ -39,6 +39,19 @@ NEW("Para entender el corralito hay que retroceder diez años. A una Argentina q
 NEW("Los sueldos se cobraban por la mañana y se gastaban por la tarde, antes de que el billete valiera menos. Había supermercados que remarcaban los precios varias veces al día.",
     ai('sueldo_corre', 'a worker running down a city street clutching a thick wad of banknotes, people chasing a bus, frantic energy, early 1990s Buenos Aires', at='Los sueldos se cobraban'),
     ai('billetes_viento', 'banknotes blowing in the wind through an empty street like dead leaves, a child chasing them, melancholy', at='valiera menos'))
+NAR("[serious] Y antes del milagro, hubo un aviso. Uno que casi nadie recuerda fuera de Argentina.",
+    AIR('billetes_lado', at='hubo un aviso'))
+CRO("Veintiocho de diciembre de mil novecientos ochenta y nueve. En la Casa Rosada, el ministro de Economía de Menem, Antonio Erman González, anuncia que los plazos fijos se van a canjear a la fuerza por bonos del Estado. Los Bonex ochenta y nueve. En dólares, sí. Pero a cobrar en diez años.",
+    ph('Casa Rosada Buenos Aires', at='En la Casa Rosada', lt=['Casa Rosada', 'Buenos Aires'], lugar='rosada'),
+    cd(dict(type='doc', title='Plan Bonex · Decreto 36/1990', lines=['Plazos fijos canjeados por Bonex 89', 'Bonos en dólares a 10 años', 'Vencimiento: 1999'], source='Boletín Oficial · 3 de enero de 1990'), at='Los Bonex ochenta y nueve'))
+DOC("Decreto treinta y seis de mil novecientos noventa. Para que la moneda nacional recupere su valor adquisitivo, resulta imprescindible limitar la circulación en australes a lo estrictamente necesario.",
+    cd(dict(type='quote', text='Resulta imprescindible limitar la circulación en australes a lo estrictamente necesario.', attrib='Decreto 36/1990 · Poder Ejecutivo Nacional'), at='Decreto treinta y seis'))
+NEW("El canje afectaba a todo lo que pasara de un millón de australes, unos quinientos cincuenta dólares de la época. Y quien necesitaba el dinero ya, tenía que vender esos bonos en la calle. Según Javier González Fraga, que presidió después el Banco Central, llegaron a cotizar al treinta por ciento de su valor.",
+    cd(dict(type='counter', **{'from': 100}, to=30, label='por ciento de su valor · lo que llegaron a cotizar los Bonex (según González Fraga)', suffix=' %'), at='al treinta por ciento'),
+    AIR('billetes_viento', at='vender esos bonos'))
+NAR("La Corte Suprema dio por bueno el decreto. Y los argentinos aprendieron una primera lección: un plazo fijo podía convertirse, de la noche a la mañana, en un papel a diez años. [pause] Doce años después, esa lección volvería. Multiplicada.",
+    ph('Palacio de Justicia de la Nación Buenos Aires', at='La Corte Suprema', lt=['Palacio de Justicia', 'Corte Suprema · Buenos Aires'], lugar='tribunales'),
+    AIR('reloj_lunes', at='Multiplicada'))
 NAR("Y entonces llega un economista de Córdoba con un plan que parece magia. Domingo Cavallo, ministro de Economía de Carlos Menem. Marzo de mil novecientos noventa y uno. La Ley de Convertibilidad.",
     ph('Domingo Cavallo 1990s', at='Domingo Cavallo', lt=['Domingo Cavallo', 'Ministro de Economía de Menem · 1991-1996', 'gobierno'], lugar='cavallo'),
     ph('Carlos Menem', at='Carlos Menem', lt=['Carlos Menem', 'Presidente de Argentina · 1989-1999', 'gobierno'], lugar='menem'),
@@ -105,7 +118,7 @@ T('El sábado del decreto', '1 de diciembre de 2001', num='II', secs=6.0, sting=
 B('tension')
 CRO("Día uno. Sábado, uno de diciembre de dos mil uno. El presidente De la Rúa firma el decreto mil quinientos setenta. Lo ha redactado el equipo de Cavallo en los últimos días de noviembre.",
     DIA(1, 'del corralito · sábado 1 de diciembre', at='Día uno', frm=0),
-    ai('firma_decreto', 'close-up of an elderly hand signing a document with a fountain pen on a polished presidential desk, a small flag stand blurred behind, heavy silence', at='firma el decreto'))
+    cd(dict(type='doc', title='Decreto 1570/2001', lines=['Firmado el sábado 1 de diciembre de 2001', 'Límite: 250 pesos o dólares por semana', 'Por titular y por entidad'], source='Boletín Oficial de la República Argentina'), at='firma el decreto'))
 NEW("Según la reconstrucción que publicó La Nación, el límite iba a ser de mil pesos por semana. Luego se habló de quinientos. Al final, se quedó en doscientos cincuenta.",
     cd(dict(type='list', header='El límite semanal que se discutió', items=[('1.000 pesos', 'primera idea'), ('500 pesos', 'segunda'), ('250 pesos', 'la definitiva')]), at='mil pesos por semana'),
     ai('cifra_tachada', 'a hand crossing out numbers on a paper with a thick red pen again and again, the paper torn by the pressure, extreme close-up', at='se quedó en doscientos cincuenta'))

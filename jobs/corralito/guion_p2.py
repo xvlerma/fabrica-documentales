@@ -19,7 +19,7 @@ NAR("Ese mismo día, en Mendoza, más de cien personas entran a la fuerza en un 
     ai('saqueo_super', 'a crowd forcing open the shutter of a supermarket, people running out with bags of flour, rice and cooking oil, chaotic motion, harsh daylight', at='se llevan lo que pueden'),
     cd(dict(type='map', title='La ola de saqueos · diciembre de 2001', bbox=[-71.5, -38.5, -56.5, -26.0], points=[dict(name='Mendoza', lon=-68.84, lat=-32.89, big=1), dict(name='Rosario', lon=-60.64, lat=-32.95, big=1), dict(name='Córdoba', lon=-64.18, lat=-31.42), dict(name='Paraná', lon=-60.52, lat=-31.73), dict(name='Buenos Aires', lon=-58.38, lat=-34.60, big=1)]), at='Los saqueos saltan'))
 NEW("Lo que se llevaban no eran televisores. Eran harina, arroz, fideos, aceite. En algunos sitios, los propios supermercados empezaron a repartir comida en la puerta para que no les rompieran la persiana.",
-    ai('bolsas_harina', 'close-up of hands grabbing bags of flour, rice and pasta from a half-empty shelf, spilled flour in the air like smoke', at='Eran harina, arroz'),
+    cd(dict(type='list', header='Lo que se llevaban', items=[('Harina', ''), ('Arroz', ''), ('Fideos', ''), ('Aceite', '')]), at='Eran harina, arroz'),
     ai('reparto_puerta', 'supermarket employees handing out bags of food through a half-open shutter to a crowd of reaching hands, tense but orderly', at='repartir comida en la puerta'))
 NEW("Esos mismos días, organizaciones sociales y sindicatos montan una consulta popular por un seguro de desempleo. Votan millones de personas. Y las cacerolas de los balcones empiezan a sonar cada noche un poco más fuerte.",
     ai('urnas_calle', 'ballot boxes set up on folding tables on a busy sidewalk, long lines of working people waiting to vote, a sense of urgency', at='una consulta popular'))
@@ -45,8 +45,7 @@ T('Estado de sitio', 'Miércoles 19 de diciembre de 2001', num='IV', secs=6.0, s
 B('accion')
 CRO("Día diecinueve. Desde primera hora, los saqueos se extienden por el conurbano, por Santa Fe, por Entre Ríos, por Corrientes. Hay muertos en Rosario. Policías disparando. Comerciantes disparando.",
     DIA(19, 'del corralito · miércoles 19 de diciembre', at='Día diecinueve', frm=18),
-    ai('humo_conurbano', 'columns of black smoke rising over low-rise suburban rooftops, a police car with lights spinning, people running across an avenue, aerial view', at='se extienden por el conurbano'),
-    ai('policia_dispara', 'silhouettes of riot police behind shields firing tear gas launchers across a street, gas canisters arcing through the air, smoke', at='Policías disparando'))
+    ai('humo_conurbano', 'columns of black smoke rising over low-rise suburban rooftops, a police car with lights spinning, people running across an avenue, aerial view', at='se extienden por el conurbano'))
 NEW("En la Casa Rosada, el presidente intenta un gesto de última hora: ofrece al peronismo, que controla el Congreso, entrar en un gobierno de unidad. La respuesta tarda. Y la tarde avanza.",
     ph('Casa Rosada Buenos Aires', at='En la Casa Rosada', lt=['Casa Rosada', 'Buenos Aires'], lugar='rosada'),
     ai('telefono_espera', 'a heavy old telephone on a presidential desk not ringing, an ashtray full, a man in a dark suit pacing behind it in shadow', at='La respuesta tarda'))
@@ -105,7 +104,7 @@ DLR("Yo no me aferro a un cargo.",
 NAR("Poco después, el presidente escribe su renuncia a mano. Una carta breve dirigida al Congreso. La firma. Y pregunta cómo puede salir del edificio.",
     ai('carta_renuncia', 'an elderly hand writing a short letter on official letterhead with a fountain pen, a lamp, a window with smoke outside, the paper blank of readable words', at='escribe su renuncia a mano'))
 CRO("La plaza está tomada. Las calles de alrededor, también. Salir en coche es imposible. Solo queda un camino. Hacia arriba.",
-    ai('escalera_azotea', 'a narrow stairway leading up to a rooftop door with bright sky light pouring in, security agents climbing it in a hurry, seen from below', at='Hacia arriba'))
+    AIR('heli_azotea', at='Hacia arriba'))
 B('tema')
 NAR("[serious] Pasadas las siete y media de la tarde, Fernando de la Rúa sube a la azotea. El helicóptero presidencial, un Sikorsky blanco, despega de la Casa Rosada rumbo a la residencia de Olivos. Abajo, en la plaza, la gente lo ve alejarse. Y aplaude. Con rabia.",
     ai('heli_ve_plaza', 'from a crowded square, people looking up at a white helicopter rising above a pink palace into an orange dusk sky, some clapping, some shouting', at='la gente lo ve alejarse'),
